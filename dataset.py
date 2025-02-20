@@ -1,3 +1,6 @@
+import os 
+import json
+
 from datasets import load_dataset
 from difflib import SequenceMatcher
 
@@ -51,13 +54,21 @@ def merge_individual_sequences(seq1, seq2):
 
     return "\n".join(merged_sentences)
 
-def get_dataset(split="train"):
-    return load_dataset("google/Synthetic-Persona-Chat")["train"]
+def get_dataset():
+    return load_dataset("google/Synthetic-Persona-Chat")
 
-def get_personas(dataset, merge=True, threshold=0.6):
+def get_personas(dataset, split="train", prune=True, threshold=0.6):
 
-    merged_personas = dataset["user 1 personas"] + dataset["user 2 personas"]
-    if merge:
+    merged_personas = dataset[split]["user 1 personas"] + dataset[split]["user 2 personas"]
+    
+    if prune:
+        file_path = f"{split}_personas_pruned.json"
+        if os.path.exists(file_path):
+            with open(file_path, "r") as f:
+                return json.load(f)
+
         merged_personas = merge_sequences(merged_personas, threshold)
+        with open(file_path, "w") as f:
+            json.dump(merged_personas, f)
 
     return merged_personas
