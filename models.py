@@ -3,6 +3,7 @@ import os
 from threading import Thread
 from pathlib import Path
 import copy
+import json
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -265,7 +266,23 @@ class LLM:
         else:
             return -1
 
-    def generate(self, prompt=None, stream=False, gen_params=None, prompt_params=None):
+    @staticmethod
+    def parse_json(output):
+
+        try:
+            idx = output.find("{")
+            if idx != 0:
+                output = output[idx:]
+                if output.endswith("```"):
+                    output = output[:-3]
+            output = json.loads(output, strict=False)
+        except Exception as e:
+            print(output)
+            print(e)
+
+        return output
+
+    def generate(self, prompt=None, stream=False, gen_params=None, prompt_params=None, json_output=False):
 
         prompt = self.format_prompt(prompt, prompt_params)
 
@@ -351,6 +368,9 @@ class LLM:
                     streamer = None
                 pipe = pipeline("text-generation", model=self.model, tokenizer=self.tokenizer, streamer=streamer, **gen_params)
                 output = pipe(prompt)[0]["generated_text"][-1]["content"]
+
+        if json_output:
+            output = self.parse_json(output)
 
         return output
 
