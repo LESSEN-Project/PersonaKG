@@ -1,5 +1,6 @@
 import os
 import hashlib
+import random
 
 from dataset import get_dataset, get_personas
 from models import LLM
@@ -15,16 +16,16 @@ persona_canonicalizer = LLM("GPT-4o", default_prompt=canonicalization_prompt())
 dataset = get_dataset()
 personas = get_personas(dataset, "test")
 
-persona = personas[35]
-persona_id = str(hashlib.sha256(persona.encode('utf-8')).hexdigest())
-print(persona)
+selected_personas = random.sample(personas, 100)
 
-res = persona_kg_extractor.generate(prompt_params={"persona": persona}, json_output=True)
-print(res)
-
-attributes = kg.get_existing_attributes()
-
-canonized_res = persona_canonicalizer.generate(prompt_params={"existing_attributes": attributes, "persona_json": res}, json_output=True)
-
-print(canonized_res)
-kg.upsert_persona(canonized_res, persona_id)
+for persona in selected_personas:
+    persona_id = str(hashlib.sha256(persona.encode('utf-8')).hexdigest())
+    
+    print("Processing persona:\n", persona)
+    
+    res = persona_kg_extractor.generate(prompt_params={"persona": persona}, json_output=True)
+    
+    attributes = kg.get_existing_attributes()
+    canonized_res = persona_canonicalizer.generate(prompt_params={"existing_attributes": attributes, "persona_json": res}, json_output=True)
+    
+    kg.upsert_persona(canonized_res, persona_id)

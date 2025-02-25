@@ -26,7 +26,10 @@ class KnowledgeGraph:
             "employmentStatus",
             "educationStatus",
             "livingSituation",
-            "placeGrewUp"
+            "placeGrewUp",
+            "currentLocation",  # New field for place they live
+            "pets",            # New field for pets
+            "allergies"        # New field for allergies
         }
         
         # Map each category to a specific relationship type in Neo4j.

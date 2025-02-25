@@ -48,7 +48,9 @@ def kg_prompt():
             - "educationStatus"
             - "livingSituation"
             - "placeGrewUp"  (e.g., hometown or region where the person grew up)
-            If a field is not mentioned in the persona text, leave it blank (i.e., an empty string).
+            - "currentLocation" (where they currently live)
+            - "pets" (any pets they own)
+            - "allergies" (any allergies they have)
         - For `socialConnections`, use an array of strings to capture any significant social or early life connections (e.g., meeting a best friend in kindergarten).
         - For all the other keys (personalityTraits, interestsAndHobbies, skillsAndAbilities, preferencesAndFavorites, goalsAndAspirations, beliefsAndValues, behavioralPatterns), use arrays of strings. If the persona text doesn’t mention anything relevant, use an empty array (`[]`).
         - For `additionalAttributes`, capture any extra information or variables mentioned in the persona text that do not clearly fit into any of the above categories.
