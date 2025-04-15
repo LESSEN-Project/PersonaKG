@@ -16,15 +16,14 @@ persona_canonicalizer = LLM("GPT-4o", default_prompt=canonicalization_prompt())
 dataset = get_dataset()
 personas = get_personas(dataset, "test")
 
-selected_personas = random.sample(personas, 100)
+selected_personas = random.sample(personas, 10)
 
 for persona in selected_personas:
     persona_id = str(hashlib.sha256(persona.encode('utf-8')).hexdigest())
     
-    print("Processing persona:\n", persona)
-    
+    print(f"Processing persona\n{persona}")
     res = persona_kg_extractor.generate(prompt_params={"persona": persona}, json_output=True)
-    
+    print(res)
     attributes = kg.get_existing_attributes()
     canonized_res = persona_canonicalizer.generate(prompt_params={"existing_attributes": attributes, "persona_json": res}, json_output=True)
     

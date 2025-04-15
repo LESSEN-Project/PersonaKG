@@ -125,7 +125,29 @@ class KnowledgeGraph:
             demographics = persona_json.get("demographics", {})
             rel_type = self.relationship_map["demographics"]
             for field, value in demographics.items():
-                clean_value = value.strip()
+                if value is None:
+                    continue
+                elif isinstance(value, list):
+                    for list_item in value:
+                        if list_item is not None:
+                            clean_item = str(list_item).strip()
+                            if clean_item:
+                                attr_id = self.compute_attribute_id("demographics", clean_item, key=field)
+                                session.run(
+                                    f"""
+                                    MERGE (a:Attribute {{id: $attr_id}})
+                                    ON CREATE SET a.category = 'demographics', a.key = $field, a.value = $value
+                                    ON MATCH SET a.category = 'demographics', a.key = $field, a.value = $value
+                                    WITH a
+                                    MATCH (p:Persona {{id: $id}})
+                                    MERGE (p)-[:{rel_type}]->(a)
+                                    """,
+                                    attr_id=attr_id, field=field, value=clean_item, id=persona_id
+                                )
+                    continue
+                
+                # Handle string values
+                clean_value = str(value).strip()
                 if clean_value:
                     attr_id = self.compute_attribute_id("demographics", clean_value, key=field)
                     session.run(
