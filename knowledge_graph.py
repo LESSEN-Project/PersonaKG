@@ -121,19 +121,40 @@ class KnowledgeGraph:
                 # Insert: create the Persona node.
                 session.run("CREATE (p:Persona {id: $id})", id=persona_id)
             
-            # Process demographics (dictionary)
-            demographics = persona_json.get("demographics", {})
+            # Process demographics (can be either a list or a dictionary)
+            demographics = persona_json.get("demographics", [])
             rel_type = self.relationship_map["demographics"]
-            for field, value in demographics.items():
-                if value is None:
-                    continue
-                elif isinstance(value, list):
-                    for list_item in value:
-                        if list_item is not None:
-                            clean_item = str(list_item).strip()
-                            if clean_item:
-                                attr_id = self.compute_attribute_id("demographics", clean_item, key=field)
-                                session.run(
+            
+            # Handle demographics as a list
+            if isinstance(demographics, list):
+                for item in demographics:
+                    if item is not None:
+                        clean_item = str(item).strip()
+                        if clean_item:
+                            attr_id = self.compute_attribute_id("demographics", clean_item)
+                            session.run(
+                                f"""
+                                MERGE (a:Attribute {{id: $attr_id}})
+                                ON CREATE SET a.category = 'demographics', a.value = $value
+                                ON MATCH SET a.category = 'demographics', a.value = $value
+                                WITH a
+                                MATCH (p:Persona {{id: $persona_id}})
+                                MERGE (p)-[r:{rel_type}]->(a)
+                                """,
+                                attr_id=attr_id, value=clean_item, persona_id=persona_id
+                            )
+            # Handle demographics as a dictionary
+            elif isinstance(demographics, dict):
+                for field, value in demographics.items():
+                    if value is None:
+                        continue
+                    elif isinstance(value, list):
+                        for list_item in value:
+                            if list_item is not None:
+                                clean_item = str(list_item).strip()
+                                if clean_item:
+                                    attr_id = self.compute_attribute_id("demographics", clean_item, key=field)
+                                    session.run(
                                     f"""
                                     MERGE (a:Attribute {{id: $attr_id}})
                                     ON CREATE SET a.category = 'demographics', a.key = $field, a.value = $value
