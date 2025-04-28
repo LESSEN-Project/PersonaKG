@@ -268,19 +268,38 @@ class LLM:
 
     @staticmethod
     def parse_json(output):
-
         try:
-            idx = output.find("{")
-            if idx != 0:
-                output = output[idx:]
-                if output.endswith("```"):
-                    output = output[:-3]
-            output = json.loads(output, strict=False)
+            # If output is already a dict, return it as is
+            if isinstance(output, dict):
+                return output
+                
+            # Clean up the output for better JSON parsing
+            # Find the first opening brace
+            start_idx = output.find("{")
+            if start_idx == -1:
+                print("No JSON object found in output")
+                return output
+                
+            # Find the last closing brace
+            end_idx = output.rfind("}")
+            if end_idx == -1:
+                print("No closing brace found in output")
+                return output
+                
+            # Extract the JSON portion
+            json_str = output[start_idx:end_idx+1]
+            
+            # Remove any trailing backticks from code blocks
+            if json_str.endswith("```"):
+                json_str = json_str[:-3]
+                
+            # Parse the JSON
+            return json.loads(json_str, strict=False)
         except Exception as e:
+            print("Error parsing JSON:")
             print(output)
             print(e)
-
-        return output
+            return output
 
     def generate(self, prompt=None, stream=False, gen_params=None, prompt_params=None, json_output=False):
 
