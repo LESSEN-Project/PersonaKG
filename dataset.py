@@ -62,7 +62,7 @@ def get_personas(dataset, split="train", prune=True, threshold=0.6):
     merged_personas = dataset[split]["user 1 personas"] + dataset[split]["user 2 personas"]
     
     if prune:
-        file_path = f"{split}_personas_pruned.json"
+        file_path = f"personas_pruned_{split}.json"
         if os.path.exists(file_path):
             with open(file_path, "r") as f:
                 return json.load(f)
