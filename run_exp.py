@@ -2,7 +2,6 @@ import os
 import json
 import random
 import argparse
-import numpy as np
 from tqdm import tqdm
 from dataset import get_dataset
 from evaluate import load
