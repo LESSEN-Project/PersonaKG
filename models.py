@@ -1,6 +1,5 @@
 import configparser
 import os
-from threading import Thread
 from pathlib import Path
 import copy
 import json
@@ -11,7 +10,7 @@ from llama_cpp import Llama
 from huggingface_hub import login, logging, hf_hub_download, snapshot_download
 logging.set_verbosity_error()
 import tiktoken
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline, logging, BitsAndBytesConfig, AsyncTextIteratorStreamer
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline, logging, BitsAndBytesConfig
 logging.set_verbosity_error()
 
 from openai import OpenAI
@@ -211,23 +210,6 @@ class LLM:
                     except Exception as e:
                         raise ValueError("Error formatting prompt content: " + str(e))
         return prompt
-
-    def get_avail_space(self, prompt):
-
-        avail_space = self.context_length - self.gen_params[self.name_token_var] - self.count_tokens(prompt)
-        if avail_space <= 0:
-            return None
-        else:
-            return avail_space   
-        
-    def trunc_chat_history(self, chat_history, hist_dedic_space=0.2):
-
-        hist_dedic_space = int(self.context_length*0.2)
-        total_hist_tokens = sum(self.count_tokens(tm['content']) for tm in chat_history)
-        while total_hist_tokens > hist_dedic_space:
-            removed_message = chat_history.pop(0)
-            total_hist_tokens -= self.count_tokens(removed_message['content'])
-        return chat_history 
        
     def count_tokens(self, prompt):
 
@@ -244,27 +226,6 @@ class LLM:
             return self.model.count_tokens(prompt_text)
         else:
             return len(self.tokenizer(prompt_text).input_ids)
-        
-    def prepare_context(self, prompt, context, query=None, chat_history=[]):
-
-        prompt = self.format_prompt(prompt)
-        
-        if chat_history:
-            chat_history = self.trunc_chat_history(chat_history)
-        
-        query_len = self.count_tokens(query) if query else 0
-        avail_space = self.get_avail_space(prompt + chat_history) - query_len  
-        if avail_space:         
-            while True:
-                info = "\n".join([doc for doc in context])
-                if self.count_tokens(info) > avail_space:
-                    print("Context exceeds context window, removing one document!")
-                    context = context[:-1]
-                else:
-                    break
-            return info
-        else:
-            return -1
 
     @staticmethod
     def parse_json(output):
@@ -301,7 +262,7 @@ class LLM:
             print(e)
             return output
 
-    def generate(self, prompt=None, stream=False, gen_params=None, prompt_params=None, json_output=False):
+    def generate(self, prompt=None, gen_params=None, prompt_params=None, json_output=False):
 
         prompt = self.format_prompt(prompt, prompt_params)
 
@@ -312,32 +273,8 @@ class LLM:
 
         if self.provider in ["GROQ", "DEEPSEEK", "OPENAI"]:
             response = self.model.chat.completions.create(
-                model=self.repo_id, messages=prompt, stream=stream, **gen_params
+                model=self.repo_id, messages=prompt, stream=False, **gen_params
             )
-            if stream:
-                def stream_response():
-                    has_reasoning = False
-                    finished_thinking_yielded = False
-                    reasoning_content = ""
-
-                    if self.provider == "DEEPSEEK" and self.cfg.get("reason"):
-                        yield "**Thinking**...\n\n\n"
-
-                    for chunk in response:
-                        delta = chunk.choices[0].delta
-                        if hasattr(delta, 'reasoning_content') and delta.reasoning_content:
-                            has_reasoning = True 
-                            reasoning_content += delta.reasoning_content
-                            yield delta.reasoning_content
-                        elif hasattr(delta, 'content') and delta.content:
-                            if has_reasoning and not finished_thinking_yielded:
-                                yield "\n\n\n**Finished Thinking!**\n\n\n"
-                                finished_thinking_yielded = True
-                            yield delta.content
-                    if has_reasoning and not finished_thinking_yielded:
-                        yield "\n\n\n**Finished Thinking!**\n\n\n"
-                return stream_response()
-                        
             output = response.choices[0].message.content
             if self.provider == "DEEPSEEK" and self.cfg.get("reason"):
                 reasoning_steps = response.choices[0].message.reasoning_content
@@ -349,16 +286,10 @@ class LLM:
                 prompt = prompt[1:]
             else:
                 sys_msg = ""
-            if stream:
-                stream = self.model.messages.stream(
-                    model=self.repo_id, messages=prompt, system=sys_msg, **gen_params
-                ).__enter__()
-                return stream.text_stream
-            else:
-                response = self.model.messages.create(
-                    model=self.repo_id, messages=prompt, system=sys_msg, **gen_params
-                )
-                output = response.content[0].text   
+            response = self.model.messages.create(
+                model=self.repo_id, messages=prompt, system=sys_msg, **gen_params
+            )
+            output = response.content[0].text   
 
         elif self.provider == "GOOGLE":
             messages = []
@@ -381,32 +312,10 @@ class LLM:
                 response = self.model.create_chat_completion(prompt, stream=False, **gen_params)
                 output = response["choices"][-1]["message"]["content"]
             else:
-                if stream:
-                    return self.stream_hf_output(prompt, gen_params)
-                else:
-                    streamer = None
-                pipe = pipeline("text-generation", model=self.model, tokenizer=self.tokenizer, streamer=streamer, **gen_params)
+                pipe = pipeline("text-generation", model=self.model, tokenizer=self.tokenizer, **gen_params)
                 output = pipe(prompt)[0]["generated_text"][-1]["content"]
 
         if json_output:
             output = self.parse_json(output)
 
         return output
-
-    
-    async def stream_hf_output(self, prompt, gen_params):
-
-        streamer = AsyncTextIteratorStreamer(self.tokenizer, skip_prompt=True)
-
-        pipe = pipeline("text-generation", model=self.model, tokenizer=self.tokenizer, streamer=streamer, **gen_params)
-        thread = Thread(target=pipe, args=(prompt,))
-        thread.start()
-
-        async for token in streamer:
-            if token in ["<end_of_turn>", "<eot>", "<eos>", "<|eot_id|>", "<｜end▁of▁sentence｜>"]:
-                continue
-            elif token.strip() == "<think>":
-                yield "**Thinking..\n\n**"
-            elif token.strip() == "</think>":
-                yield "**\n\nFinished Thinking!**"
-            yield token

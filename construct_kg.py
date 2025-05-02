@@ -18,7 +18,6 @@ def main():
     # - fields_list: For demographics/basic categories, provide a list of fields
     #               For other categories, use None
     # 
-    # Example 1: Basic professional schema
     schema = [
         ["demographics", ["age", "employmentStatus", "educationStatus", "location", "occupation"]],
         ["personality", None],
@@ -27,7 +26,7 @@ def main():
         ["projects", None]
     ]
     
-    # Example 2: Customer profile schema
+    # Example: Customer profile schema
     # schema = [
     #     ["profile", ["age", "location", "income", "household"]],
     #     ["behaviors", None],
@@ -36,7 +35,7 @@ def main():
     #     ["customerService", None]
     # ]
     
-    # Example 3: Character development schema
+    # Example: Character development schema
     # schema = [
     #     ["basics", ["age", "appearance", "background", "origin"]],
     #     ["traits", None],
@@ -68,7 +67,7 @@ def main():
     
     # Get personas from dataset
     dataset = get_dataset()
-    personas = get_personas(dataset, "test")
+    personas = get_personas(dataset, "train")
     selected_personas = random.sample(personas, min(num_personas, len(personas)))
     
     # Display current schema information

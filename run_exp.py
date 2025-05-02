@@ -11,7 +11,6 @@ from prompts import get_next_utterance_prompt
 
 from models import LLM
 
-
 def setup_args():
     parser = argparse.ArgumentParser(description='Run next utterance prediction experiment')
     parser.add_argument('--model', type=str, default='GPT-4.1-mini')
@@ -26,7 +25,6 @@ def setup_args():
     return parser.parse_args()
 
 def parse_conversation(conversation):
-    """Parse conversation into a list of utterances with speaker labels."""
     lines = conversation.strip().split('\n')
     utterances = []
     
@@ -42,7 +40,6 @@ def parse_conversation(conversation):
     return utterances
 
 def create_prediction_samples(data, split='test', num_samples=-1):
-    """Create prediction samples from the dataset."""
     samples = []
     dataset_split = data[split]
     
@@ -73,7 +70,6 @@ def create_prediction_samples(data, split='test', num_samples=-1):
     return samples
 
 def predict_next_utterance(sample, llm):
-    """Generate the next utterance prediction."""
     user1_persona = sample['user1_persona']
     user2_persona = sample['user2_persona']
     history = sample['history']
@@ -90,69 +86,44 @@ def predict_next_utterance(sample, llm):
         target_speaker=target_speaker
     )
     
-    # Call LLM to generate prediction
     prediction = llm.generate(prompt)
     
-    # Clean up prediction (remove speaker label if included)
     prediction = re.sub(r'^.*?:', '', prediction).strip()
     
     return prediction
 
 def evaluate_predictions(predictions, targets):
-    """Evaluate predictions using Hugging Face's evaluation metrics for BLEU and ROUGE."""
     if not predictions or not targets:
         return {'bleu': 0, 'rouge': {'precision': 0, 'recall': 0, 'f1': 0}}
     
-    # Load the evaluation metrics
     bleu_metric = load("bleu")
     rouge_metric = load("rouge")
     
-    # Format references for BLEU (list of lists of references)
-    references = [[t] for t in targets]  # Each target has one reference
+    references = [[t] for t in targets]
     
-    # Calculate BLEU score
-    try:
-        bleu_result = bleu_metric.compute(predictions=predictions, references=references)
-        bleu_score = bleu_result["bleu"]
-    except Exception as e:
-        print(f"Error calculating BLEU: {e}")
-        bleu_score = 0
-    
-    # Calculate ROUGE scores
-    try:
-        rouge_result = rouge_metric.compute(predictions=predictions, references=targets)
-        rouge_scores = {
-            'precision': rouge_result['rouge1'].precision,
-            'recall': rouge_result['rouge1'].recall,
-            'f1': rouge_result['rouge1'].fmeasure
-        }
-    except Exception as e:
-        print(f"Error calculating ROUGE: {e}")
-        rouge_scores = {'precision': 0, 'recall': 0, 'f1': 0}
+    bleu_result = bleu_metric.compute(predictions=predictions, references=references)
+    bleu_score = bleu_result["bleu"]
+
+    rouge_result = rouge_metric.compute(predictions=predictions, references=targets)
     
     return {
         'bleu': bleu_score,
-        'rouge': rouge_scores
+        'rouge': rouge_result
     }
 
 def run_experiment(args):
-    """Run the next utterance prediction experiment."""
-    # Load dataset
     data = get_dataset()
     
-    # Create output directory if it doesn't exist
     os.makedirs(args.output_dir, exist_ok=True)
     
-    # Create prediction samples
     print(f"Creating prediction samples from {args.split} split...")
     samples = create_prediction_samples(
         data, 
         split=args.split, 
         num_samples=args.num_samples
     )
-    print(samples[-1])
+    samples = samples[:20]
     
-    # Run predictions
     print(f"Running predictions with model {args.model}...")
     llm = LLM(args.model, gen_params={
         "temperature": 0.7,
@@ -170,11 +141,9 @@ def run_experiment(args):
         predictions.append(prediction)
         targets.append(sample['target'])
     
-    # Evaluate predictions
     print("Evaluating predictions...")
     results = evaluate_predictions(predictions, targets)
     
-    # Save results
     output_file = os.path.join(
         args.output_dir, 
         f"results_{args.split}.json"
@@ -198,7 +167,7 @@ def run_experiment(args):
     
     print(f"Results saved to {output_file}")
     print(f"BLEU Score: {results['bleu']}")
-    print(f"ROUGE-F1 Score: {results['rouge']['f1']}")
+    print(f"ROUGE-F1 Score: {results['rouge']}")
     
     return results
 
