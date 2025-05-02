@@ -83,24 +83,24 @@ def canonicalization_prompt():
 
 def kg_prompt(schema=None):
     """Generate a prompt for extracting persona attributes based on a schema.
-    
+
     Args:
         schema (list, optional): A custom schema for the knowledge graph.
             A list of lists where each inner list contains:
             [0] - category name (str)
             [1] - fields (list of str or None)
-    
+
     Returns:
         list: The prompt messages for the LLM.
     """
     if not schema:
         # If no schema provided, create a very minimal default
         schema = [["basics", ["age", "occupation"]], ["traits", None], ["interests", None]]
-    
+
     # Generate categories list from schema
     categories = [category_config[0] for category_config in schema]
     categories_text = "\n".join([f"- {cat}" for cat in categories])
-    
+
     # Process field categories (like demographics/basics)
     field_categories = {}
     for category_config in schema:
@@ -108,17 +108,17 @@ def kg_prompt(schema=None):
             cat_name = category_config[0]
             fields = category_config[1]
             field_categories[cat_name] = "\n".join([f"- \"{field}\"" for field in fields])
-    
+
     # Generate field instructions section
     field_instructions = ""
     for cat_name, fields_text in field_categories.items():
         field_instructions += f"- For `{cat_name}`, include the following fields:\n{fields_text}\n"
-    
+
     general_instructions = """- For all other categories, use arrays of strings. If the persona text doesn't mention anything relevant, use an empty array (`[]`)."""
-    
+
     # Create the system content as a single non-formatted string to avoid issues
     system_content = "You are a persona attribute extraction system."
-    
+
     user_content = f"""You will be given a persona's text.
         Your task is to extract the persona's attributes and return them in a strict JSON format, without any additional keys or text. 
         Follow these instructions exactly:
@@ -145,10 +145,10 @@ def kg_prompt(schema=None):
         - Your output must be a valid JSON object that can be parsed by json.loads().
         - Do not use single quotes for keys or string values.
         - Do not add any text before or after the JSON object.
-        - Your response should contain ONLY the properly formatted JSON.
-        
-        Here's the persona text: {persona}"""
-    
+        - Your response should contain ONLY the properly formatted JSON."""
+
+    user_content += "Here's the persona text: {persona}"
+
     return [{
             "role": "system",
             "content": system_content
