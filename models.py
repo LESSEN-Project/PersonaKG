@@ -218,7 +218,10 @@ class LLM:
         prompt_text = "\n".join([turn["content"] for turn in prompt])
         
         if self.provider == "OPENAI":
-            encoding = tiktoken.encoding_for_model(self.repo_id)
+            if self.repo_id in ["gpt-4.1", "gpt-4.1-mini"]:
+                encoding = tiktoken.get_encoding("o200k_base")
+            else:
+                encoding = tiktoken.encoding_for_model(self.repo_id)
             return len(encoding.encode(prompt_text))
         elif self.provider == "GOOGLE":
             return self.model.count_tokens(prompt_text).total_tokens
@@ -262,7 +265,7 @@ class LLM:
             print(e)
             return output
 
-    def generate(self, prompt=None, gen_params=None, prompt_params=None, json_output=False):
+    def generate(self, prompt=None, gen_params=None, prompt_params=None, json_output=False, include_reasoning=False):
 
         prompt = self.format_prompt(prompt, prompt_params)
 
@@ -276,7 +279,7 @@ class LLM:
                 model=self.repo_id, messages=prompt, stream=False, **gen_params
             )
             output = response.choices[0].message.content
-            if self.provider == "DEEPSEEK" and self.cfg.get("reason"):
+            if self.provider == "DEEPSEEK" and self.cfg.get("reason") and include_reasoning:
                 reasoning_steps = response.choices[0].message.reasoning_content
                 output = f"**Thinking**...\n\n\n{reasoning_steps}\n\n\n**Finished thinking!**\n\n\n{output}"
 

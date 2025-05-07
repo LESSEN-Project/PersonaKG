@@ -126,7 +126,7 @@ class KnowledgeGraph:
             session.run("MATCH (n) DETACH DELETE n")
             print("Database has been cleared.")
     
-    def update_schema(self, schema, force_rebuild=False):
+    def update_schema(self, schema, force_rebuild=False, skip_schema_check=False):
         """Update the knowledge graph schema with a new configuration.
         
         Args:
@@ -134,9 +134,13 @@ class KnowledgeGraph:
                            [0] - category name (str)
                            [1] - fields (list of str or None if not demographics)
             force_rebuild (bool): If True, drop and recreate the database
+            skip_schema_check (bool): If True, skip the schema change detection
         """
         # Check if we need to rebuild the database
-        if force_rebuild or self.schema_requires_rebuild(schema):
+        if force_rebuild:
+            print("Forcing database rebuild due to explicit request...")
+            self.drop_database()
+        elif not skip_schema_check and self.schema_requires_rebuild(schema):
             print("Schema change detected. Dropping and recreating the database...")
             self.drop_database()
         
