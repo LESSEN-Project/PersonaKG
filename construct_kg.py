@@ -3,6 +3,7 @@ import hashlib
 import random
 import json
 import pathlib
+import argparse
 
 from dataset import get_dataset, get_personas
 from models import LLM
@@ -41,8 +42,93 @@ def check_db_schema_match(kg, schema):
         print(f"Error checking schema match: {str(e)}")
         return False
 
-def main():
+def load_knowledge_graph_from_file(filepath, neo4j_password):
+    """Construct knowledge graph from a saved JSON file
+    
+    Args:
+        filepath: Path to the JSON file containing processed personas and schema
+        neo4j_password: Password for the Neo4j database
+    """
+    print(f"Loading knowledge graph from file: {filepath}")
+    
+    # Load data from file
+    try:
+        with open(filepath, 'r') as f:
+            saved_data = json.load(f)
+        
+        processed_personas = saved_data.get('processed_personas', {})
+        schema = saved_data.get('schema', [])
+        schema_hash = saved_data.get('schema_hash', '')
+        
+        print(f"Found {len(processed_personas)} personas with schema hash: {schema_hash}")
+        
+        # Initialize KnowledgeGraph with schema from file
+        kg = KnowledgeGraph(uri="bolt://localhost:7687", user="neo4j", password=neo4j_password)
+        
+        # Drop existing database and create new one with proper schema
+        print("Rebuilding database with schema from file...")
+        kg.drop_database()
+        kg.update_schema(schema, force_rebuild=False, skip_schema_check=True)
+        
+        # Process each persona from the file
+        for i, (persona_id, persona_data) in enumerate(processed_personas.items(), 1):
+            print(f"Processing persona {i}/{len(processed_personas)}: {persona_id[:8]}...")
+            kg.upsert_persona(persona_data, persona_id)
+        
+        print(f"Successfully loaded {len(processed_personas)} personas into the knowledge graph")
+        return True
+    except Exception as e:
+        print(f"Error loading knowledge graph from file: {str(e)}")
+        return False
 
+def main():
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(description='Construct the knowledge graph from scratch or from a file')
+    parser.add_argument('--from-file', type=str, help='Path to JSON file to load knowledge graph from')
+    parser.add_argument('--list-files', action='store_true', help='List available JSON files in saved_results directory')
+    args = parser.parse_args()
+    
+    # Get Neo4j password
+    neo4j_password = os.environ.get("NEO4J_PKG_PASSWORD")
+    if not neo4j_password:
+        print("Error: NEO4J_PKG_PASSWORD environment variable not set")
+        return
+    
+    # If --list-files is specified, list available JSON files
+    if args.list_files:
+        results_dir = pathlib.Path("saved_results")
+        if not results_dir.exists():
+            print("No saved_results directory found")
+            return
+        
+        json_files = list(results_dir.glob("*.json"))
+        if not json_files:
+            print("No JSON files found in saved_results directory")
+            return
+        
+        print("Available JSON files:")
+        for i, file in enumerate(json_files, 1):
+            print(f"{i}. {file.name}")
+        return
+    
+    # If --from-file is specified, construct knowledge graph from file
+    if args.from_file:
+        file_path = args.from_file
+        # If the file path doesn't exist, check if it's in the saved_results directory
+        if not os.path.exists(file_path):
+            file_path = os.path.join("saved_results", file_path)
+            if not os.path.exists(file_path):
+                print(f"Error: File not found: {args.from_file}")
+                return
+        
+        success = load_knowledge_graph_from_file(file_path, neo4j_password)
+        if success:
+            print("Knowledge graph construction from file completed successfully")
+        else:
+            print("Knowledge graph construction from file failed")
+        return
+    
+    # Otherwise, proceed with normal construction from dataset
     # -------------------------------------------------------------------------
     # CUSTOMIZE YOUR SCHEMA HERE
     # -------------------------------------------------------------------------
@@ -149,7 +235,7 @@ def main():
     # Initialize LLMs with prompts based on the custom schema
     persona_kg_extractor = LLM("GPT-4.1-mini", default_prompt=kg_prompt(schema=schema))
     persona_canonicalizer = LLM("GPT-4.1-mini", default_prompt=canonicalization_prompt())
-    
+
     # Get personas from dataset
     dataset = get_dataset()
     personas = get_personas(dataset, "train")
