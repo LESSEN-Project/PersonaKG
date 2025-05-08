@@ -8,6 +8,7 @@ from evaluate import load
 import re
 from prompts import get_next_utterance_prompt
 
+from construct_kg import load_knowledge_graph_from_file
 from models import LLM
 
 def setup_args():
@@ -171,5 +172,6 @@ def run_experiment(args):
     return results
 
 if __name__ == "__main__":
+    # kg = load_knowledge_graph_from_file("saved_results/canonized_results_69f0eb0369fca5b1acff7a9964224e74.json", os.environ.get("NEO4J_PKG_PASSWORD"))
     args = setup_args()
     run_experiment(args)
