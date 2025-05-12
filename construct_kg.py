@@ -85,7 +85,7 @@ def main():
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Construct the knowledge graph from scratch or from a file')
     parser.add_argument('--from-file', type=str, help='Path to JSON file to load knowledge graph from')
-    parser.add_argument('--list-files', action='store_true', help='List available JSON files in saved_results directory')
+    parser.add_argument('--list-files', action='store_true', help='List available JSON files in graphs directory')
     args = parser.parse_args()
     
     # Get Neo4j password
@@ -96,14 +96,14 @@ def main():
     
     # If --list-files is specified, list available JSON files
     if args.list_files:
-        results_dir = pathlib.Path("saved_results")
+        results_dir = pathlib.Path("graphs")
         if not results_dir.exists():
-            print("No saved_results directory found")
+            print("No graphs directory found")
             return
         
         json_files = list(results_dir.glob("*.json"))
         if not json_files:
-            print("No JSON files found in saved_results directory")
+            print("No JSON files found in graphs directory")
             return
         
         print("Available JSON files:")
@@ -114,9 +114,9 @@ def main():
     # If --from-file is specified, construct knowledge graph from file
     if args.from_file:
         file_path = args.from_file
-        # If the file path doesn't exist, check if it's in the saved_results directory
+        # If the file path doesn't exist, check if it's in the graphs directory
         if not os.path.exists(file_path):
-            file_path = os.path.join("saved_results", file_path)
+            file_path = os.path.join("graphs", file_path)
             if not os.path.exists(file_path):
                 print(f"Error: File not found: {args.from_file}")
                 return
@@ -175,7 +175,7 @@ def main():
     schema_hash = generate_schema_hash(schema)
     
     # Directory for saving results
-    results_dir = pathlib.Path("saved_results")
+    results_dir = pathlib.Path("graphs")
     results_dir.mkdir(exist_ok=True, parents=True)
     results_file = results_dir / f"canonized_results_{schema_hash}.json"
     print(f"Using results file: {results_file}")
