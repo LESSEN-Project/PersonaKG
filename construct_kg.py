@@ -166,7 +166,7 @@ def main():
     # -------------------------------------------------------------------------
     
     # Set to False to use a subset of personas, True to use the entire dataset
-    use_whole_dataset = True
+    use_whole_dataset = False
     
     # Number of personas to process if not using the whole dataset
     num_personas = 10
@@ -245,8 +245,14 @@ def main():
         selected_personas = personas
         print(f"Using the entire dataset: {len(selected_personas)} personas")
     else:
+        # Use a fixed seed for deterministic sampling
+        # This ensures the same personas are selected across different runs
+        # regardless of schema changes
+        random.seed(42) 
         selected_personas = random.sample(personas, min(num_personas, len(personas)))
-        print(f"Using a random sample of {len(selected_personas)} personas")
+        # Reset the random seed to avoid affecting other random operations
+        random.seed()
+        print(f"Using a deterministic random sample of {len(selected_personas)} personas")
     
     # Display current schema information
     print("Using schema with these categories:")
