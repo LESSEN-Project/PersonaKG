@@ -81,7 +81,7 @@ class PersonaKGAnalyzer:
     def find_similar_attributes(self, 
                                attributes: Dict[str, List[str]],
                                word_overlap_threshold: float = 0.5,
-                               string_sim_threshold: float = 0.7) -> Dict[str, List[Tuple[str, str, float, float]]]:
+                               string_sim_threshold: float = 0.8) -> Dict[str, List[Tuple[str, str, float, float]]]:
         """
         Find similar attributes within each category.
         Returns a dictionary of category -> list of (attr1, attr2, word_overlap, string_sim) tuples.
