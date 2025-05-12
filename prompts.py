@@ -31,8 +31,13 @@ Now, predict what {target_speaker} would say next."""
     if kg_info:
         prompt += f"""
 
-Additional information about {target_speaker} from the knowledge graph:
+Additional information from the knowledge graph:
 {kg_info}
+
+You should use the knowledge graph information to better understand the {target_speaker}'s attributes, preferences, and behavioral patterns. Note these important aspects:
+- Consider both direct attributes of {target_speaker} as well as attributes from similar personas.
+- Pay attention to common attribute patterns that may influence how {target_speaker} behaves.
+- Use this knowledge to create a more consistent and realistic response that aligns with the personality profile in the knowledge graph.
 """
     
     prompt += """
