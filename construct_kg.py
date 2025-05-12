@@ -169,7 +169,7 @@ def main():
     use_whole_dataset = False
     
     # Number of personas to process if not using the whole dataset
-    num_personas = 10
+    num_personas = 100
     
     # Generate a unique hash for the current schema
     schema_hash = generate_schema_hash(schema)
@@ -311,23 +311,21 @@ def main():
             # If we get here, we have a valid JSON object to save
             kg.upsert_persona(canonized_res, persona_id)
             
-            # If using the whole dataset, save progress
-            if use_whole_dataset:
-                processed_personas[persona_id] = canonized_res
-                # Save progress every 5 personas or when we're at the end
-                if i % 5 == 0 or i == len(selected_personas):
-                    print(f"Saving progress at persona {i}/{len(selected_personas)}...")
-                    try:
-                        with open(results_file, 'w') as f:
-                            json.dump({
-                                'processed_personas': processed_personas,
-                                'last_processed_index': i - 1,
-                                'schema_hash': schema_hash,
-                                'schema': schema
-                            }, f)
-                        print(f"Saved progress to {results_file}")
-                    except Exception as e:
-                        print(f"Error saving progress: {str(e)}")
+            processed_personas[persona_id] = canonized_res
+            # Save progress every 5 personas or when we're at the end
+            if i % 5 == 0 or i == len(selected_personas):
+                print(f"Saving progress at persona {i}/{len(selected_personas)}...")
+                try:
+                    with open(results_file, 'w') as f:
+                        json.dump({
+                            'processed_personas': processed_personas,
+                            'last_processed_index': i - 1,
+                            'schema_hash': schema_hash,
+                            'schema': schema
+                        }, f)
+                    print(f"Saved progress to {results_file}")
+                except Exception as e:
+                    print(f"Error saving progress: {str(e)}")
                         
         except Exception as e:
             print(f"Error processing persona: {str(e)}")
@@ -337,20 +335,18 @@ def main():
     
     print("All personas processed successfully!")
     
-    # Final save to ensure all results are stored
-    if use_whole_dataset:
-        try:
-            with open(results_file, 'w') as f:
-                json.dump({
-                    'processed_personas': processed_personas,
-                    'last_processed_index': len(selected_personas) - 1,
-                    'schema_hash': schema_hash,
-                    'schema': schema,
-                    'completed': True
-                }, f)
-            print(f"Saved final results to {results_file}")
-        except Exception as e:
-            print(f"Error saving final results: {str(e)}")
+    try:
+        with open(results_file, 'w') as f:
+            json.dump({
+                'processed_personas': processed_personas,
+                'last_processed_index': len(selected_personas) - 1,
+                'schema_hash': schema_hash,
+                'schema': schema,
+                'completed': True
+            }, f)
+        print(f"Saved final results to {results_file}")
+    except Exception as e:
+        print(f"Error saving final results: {str(e)}")
     
     print("The knowledge graph now contains the personas with the new schema.")
     print("You can query the Neo4j database to explore the results.")
