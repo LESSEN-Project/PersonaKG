@@ -1,0 +1,60 @@
+{
+    "PersonaChat": {
+        "origin": "crowdsourcing", 
+        "source": "huggingface",
+        "repo": "AlekseyKorshuk/persona-chat",
+        "splits": ["train", "validation"],
+        "features": ["personality", "utterances"]
+    },
+    "SyntheticPersonaChat": {
+        "origin": "synthetic",
+        "source": "huggingface",
+        "repo": "google/Synthetic-Persona-Chat",
+        "splits": ["train", "validation", "test"],
+        "features": ["user 1 personas", "user 2 personas", "Best Generated Conversation"]
+    },
+    "DailyDialog": {
+        "origin": "crowdsourcing",
+        "source": "huggingface",
+        "repo": "roskoN/dailydialog",
+        "splits": ["train", "validation", "test"],
+        "features": ["id", "acts", "emotions", "utterances"]
+    },
+    "BlendedSkillTalk": {
+        "origin": "crowdsourcing",
+        "source": "huggingface",
+        "repo": "ParlAI/blended_skill_talk",
+        "splits": ["train", "validation", "test"],
+        "features": ["personas", "additional_context", "previous_utterance", "context", "free_messages", "guided_messages", "suggestions", "guided_chosen_suggestions", "label_candidates"]
+    },
+    "MSC": {
+        "origin": "crowdsourcing",
+        "source": "huggingface",
+        "repo": "nayohan/multi_session_chat",
+        "splits": ["train", "validation", "test"],
+        "features": ["dataset", "dialogue_id", "session_id", "persona1", "persona2", "dialogue", "speaker"]
+    },
+    "FoCus": {
+        "origin": "crowdsourcing",
+        "source": "google_drive",
+        "repo": ""
+    },
+    "PEC": {
+        "origin": "reddit",
+        "source": "huggingface",
+        "repo": "peixiang/pec",
+        "splits": ["train", "validation", "test"],
+        "features": ["personas", "context", "context_speakers", "response", "response_speaker"],
+        "dataset_config": {"name": "all"}
+    },
+    "MPChat": {
+        "origin": "reddit",
+        "source": "google_drive",
+        "repo": ""
+    },
+    "PER-CHAT": {
+        "origin": "reddit",
+        "source": "google_drive",
+        "repo": ""
+    }
+}
