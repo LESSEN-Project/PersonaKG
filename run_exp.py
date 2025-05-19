@@ -15,7 +15,7 @@ from knowledge_graph import KnowledgeGraph
 
 def setup_args():
     parser = argparse.ArgumentParser(description='Run next utterance prediction experiment')
-    parser.add_argument('--model', "-m", type=str, default='GPT-4.1-mini')
+    parser.add_argument('--model', "-m", type=str, default='GPT-4.1-nano')
     parser.add_argument('--split', "-s", type=str, default='test', 
                         choices=['train', 'validation', 'test'],
                         help='Dataset split to use for evaluation')
