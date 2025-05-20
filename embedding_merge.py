@@ -4,6 +4,7 @@ import time
 import os
 from tqdm import tqdm
 import gc
+import torch
 
 from sentence_transformers import SentenceTransformer
 from persona_dataset import PersonaDataset
@@ -12,8 +13,10 @@ from persona_dataset import PersonaDataset
 class EmbeddingPersonaMerger:
     def __init__(self, model_name='all-MiniLM-L6-v2'):
         """Initialize with a small but effective sentence transformer model"""
+        device = 'cuda' if torch.cuda.is_available() else 'cpu'
+        print(f"Using device: {device}")
         print(f"Loading embedding model: {model_name}")
-        self.model = SentenceTransformer(model_name)
+        self.model = SentenceTransformer(model_name, device=device)
         self.persona_dataset = PersonaDataset()
         
     def compute_embeddings(self, personas, batch_size=32):
