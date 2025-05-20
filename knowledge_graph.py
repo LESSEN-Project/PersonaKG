@@ -1,5 +1,8 @@
 from neo4j import GraphDatabase
 import hashlib
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 class KnowledgeGraph:
     def __init__(self, uri, user, password, schema=None):
@@ -226,6 +229,213 @@ class KnowledgeGraph:
                     existing[cat] = []
                 existing[cat].append(val)
         return existing
+        
+    def find_similar_attributes(self, persona_json, threshold=0.95):
+        """
+        Find existing attributes in the graph that are similar to the new persona attributes.
+        
+        Args:
+            persona_json (dict): The new persona attributes
+            threshold (float): Similarity threshold (0.0 to 1.0)
+            
+        Returns:
+            tuple: (similar_attributes, exact_match_attributes, needs_canonicalization)
+                - similar_attributes: A dictionary with similar attributes grouped by category
+                - exact_match_attributes: A dictionary with exact match attributes (similarity = 1.0)
+                - needs_canonicalization: Boolean indicating if any attributes need canonicalization
+        """
+        # Get all existing attributes
+        all_existing = self.get_existing_attributes()
+        
+        # Initialize result dictionaries for similar and exact match attributes
+        similar_attributes = {}    # For attributes that are similar but not exact
+        exact_match_attributes = {}  # For attributes that are exact matches
+        needs_canonicalization = False  # Flag to indicate if canonicalization is needed
+        
+        # For each category in the persona_json
+        for category, values in persona_json.items():
+            # Skip if category doesn't exist in the database
+            if category not in all_existing:
+                continue
+                
+            existing_values = all_existing[category]
+            
+            # Skip if no existing values
+            if not existing_values:
+                continue
+                
+            # Handle field-based categories (like demographics)
+            if isinstance(values, dict):
+                # Initialize category dictionaries if they don't exist
+                if category not in similar_attributes:
+                    similar_attributes[category] = {}
+                if category not in exact_match_attributes:
+                    exact_match_attributes[category] = {}
+                    
+                for field, field_value in values.items():
+                    # Handle both single values and lists
+                    field_values = field_value if isinstance(field_value, list) else [field_value]
+                    
+                    # Filter out None and empty values
+                    field_values = [v for v in field_values if v]
+                    
+                    # Skip if no valid values
+                    if not field_values:
+                        continue
+                    
+                    # Find similar existing values and identify exact matches
+                    similar_vals, exact_vals = self._compute_similarity_with_exact_match(
+                        field_values, existing_values, threshold)
+                    
+                    # Store similar (non-exact) values if any
+                    if similar_vals:
+                        similar_attributes[category][field] = similar_vals
+                        needs_canonicalization = True  # We need canonicalization
+                        
+                    # Store exact match values if any
+                    if exact_vals:
+                        exact_match_attributes[category][field] = exact_vals
+                        
+            # Handle list-based categories
+            elif isinstance(values, list):
+                # Filter out empty values
+                values = [v for v in values if v]
+                
+                # Skip if no valid values
+                if not values:
+                    continue
+                
+                # Find similar existing values and identify exact matches
+                similar_vals, exact_vals = self._compute_similarity_with_exact_match(
+                    values, existing_values, threshold)
+                
+                # Store similar (non-exact) values if any
+                if similar_vals:
+                    similar_attributes[category] = similar_vals
+                    
+                # Store exact match values if any
+                if exact_vals:
+                    exact_match_attributes[category] = exact_vals
+        
+        return similar_attributes, exact_match_attributes
+    
+    def _compute_similarity(self, new_values, existing_values, threshold, return_exact_match=False):
+        """
+        Compute similarity between new values and existing values using cosine similarity.
+        
+        Args:
+            new_values (list): List of new values
+            existing_values (list): List of existing values
+            threshold (float): Similarity threshold
+            return_exact_match (bool): Whether to return information about exact matches
+            
+        Returns:
+            If return_exact_match is True:
+                tuple: (similar_values, has_exact_match)
+                    - similar_values: List of existing values that are similar to any new value
+                    - has_exact_match: Boolean indicating if any similarity is exactly 1.0
+            Otherwise:
+                list: List of existing values that are similar to any new value
+        """
+        # Skip if either list is empty
+        if not new_values or not existing_values:
+            if return_exact_match:
+                return [], False
+            else:
+                return []
+        
+        # Create a combined list for vectorization
+        all_values = new_values + existing_values
+        
+        # Use TF-IDF vectorizer
+        vectorizer = TfidfVectorizer()
+        try:
+            # Convert to strings if not already
+            all_values_str = [str(v).lower() for v in all_values]
+            
+            # Create TF-IDF matrix
+            tfidf_matrix = vectorizer.fit_transform(all_values_str)
+            
+            # Compute similarity between new and existing values
+            new_count = len(new_values)
+            new_matrix = tfidf_matrix[:new_count]
+            existing_matrix = tfidf_matrix[new_count:]
+            
+            # Calculate cosine similarity
+            similarity_matrix = cosine_similarity(new_matrix, existing_matrix)
+            
+            # Find existing values that are similar to any new value
+            max_similarities = similarity_matrix.max(axis=0)
+            similar_indices = np.where(max_similarities >= threshold)[0]
+            similar_values = [existing_values[i] for i in similar_indices]
+            
+            # Check for exact matches (similarity = 1.0)
+            has_exact_match = bool(np.any(np.isclose(max_similarities, 1.0)))
+            
+            if return_exact_match:
+                return similar_values, has_exact_match
+            else:
+                return similar_values
+        except Exception as e:
+            print(f"Error computing similarity: {str(e)}")
+            if return_exact_match:
+                return [], False
+            else:
+                return []
+                
+    def _compute_similarity_with_exact_match(self, new_values, existing_values, threshold):
+        """
+        Compute similarity between new values and existing values, separating exact matches.
+        
+        Args:
+            new_values (list): List of new values
+            existing_values (list): List of existing values
+            threshold (float): Similarity threshold
+            
+        Returns:
+            tuple: (similar_values, exact_values)
+                - similar_values: List of existing values that are similar but not exact matches
+                - exact_values: List of existing values that are exact matches (similarity = 1.0)
+        """
+        # Skip if either list is empty
+        if not new_values or not existing_values:
+            return [], []
+        
+        # Create a combined list for vectorization
+        all_values = new_values + existing_values
+        
+        # Use TF-IDF vectorizer
+        vectorizer = TfidfVectorizer()
+        try:
+            # Convert to strings if not already
+            all_values_str = [str(v).lower() for v in all_values]
+            
+            # Create TF-IDF matrix
+            tfidf_matrix = vectorizer.fit_transform(all_values_str)
+            
+            # Compute similarity between new and existing values
+            new_count = len(new_values)
+            new_matrix = tfidf_matrix[:new_count]
+            existing_matrix = tfidf_matrix[new_count:]
+            
+            # Calculate cosine similarity
+            similarity_matrix = cosine_similarity(new_matrix, existing_matrix)
+            
+            # Get maximum similarity for each existing value
+            max_similarities = similarity_matrix.max(axis=0)
+            
+            # Find exact matches (similarity = 1.0)
+            exact_indices = np.where(np.isclose(max_similarities, 1.0))[0]
+            exact_values = [existing_values[i] for i in exact_indices]
+            
+            # Find similar but not exact matches
+            similar_indices = np.where((max_similarities >= threshold) & ~np.isclose(max_similarities, 1.0))[0]
+            similar_values = [existing_values[i] for i in similar_indices]
+            
+            return similar_values, exact_values
+        except Exception as e:
+            print(f"Error computing similarity with exact match: {str(e)}")
+            return [], []
 
     def upsert_persona(self, persona_json, persona_id):
         """

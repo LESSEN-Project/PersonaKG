@@ -55,36 +55,38 @@ def canonicalization_prompt():
     Returns:
         list: The prompt messages for the LLM.
     """
-    system_content = """
-        You are a persona attribute canonicalization system. """
+    system_content = """You are an expert assistant for canonicalizing persona attributes.
+    Your task is to take in a set of attributes and canonicalize them.
+    This means ensuring consistent naming and format across similar attributes.
     
-    user_content = """You will receive persona attributes extracted from text.
-        Your task is to normalize and canonicalize these attributes to ensure consistency in the knowledge graph.
-        
-        As input, you will receive:
-        1. A JSON representation of a persona's attributes
-        2. Existing normalized attributes already in the knowledge graph
-        
-        OUTPUT REQUIREMENTS (EXTREMELY IMPORTANT):
-        1. You MUST output valid JSON with double quotes (not single quotes) for both keys and values.
-        2. Your JSON must have the exact same structure and category names as the input JSON.
-        3. Do not add any explanatory text before or after the JSON.
-        4. Output ONLY the clean JSON object with double quotes, nothing else.
-        5. Do not use single quotes in your JSON output. Always use double quotes.
-        
-        Important: Failure to output a valid JSON with double quotes will cause system errors.
-        Here's the existing attributes in our knowledge graph: {existing_attributes}
-        Here's the new persona attributes: {persona_json}
-        Please canonicalize the new persona attributes, ensuring they are in the cleanest, most normalized form possible."""
+    For example, if the existing knowledge graph has 'enjoys running' and 
+    the new attribute is 'likes to run marathons', you should align the new
+    attribute with the existing one, resulting in 'enjoys running' as the output.
+    
+    When working with demographics, normalize the values within each key.
+    For example, 'Age: early 20s' and 'Age: 22' should both be standardized to 'Age: early 20s' or 'Age: 22'."""
+
+    user_content_with_similars = """Please canonicalize the following persona attributes to match with existing attributes when appropriate.
+    Follow these guidelines:
+    1. If an attribute in the new persona is similar to one in the existing knowledge graph, use the existing version.
+    2. For each category and attribute, check if it matches any similar existing ones before deciding to keep the new version.
+    3. Do not add any explanatory text before or after the JSON.
+    4. Output ONLY the clean JSON object with double quotes, nothing else.
+    5. Do not use single quotes in your JSON output. Always use double quotes.
+    
+    Important: Failure to output a valid JSON with double quotes will cause system errors.
+    Here are the similar existing attributes in our knowledge graph (threshold >= 0.95): {similar_attributes}
+    Here's the new persona attributes: {persona_json}
+    Please canonicalize the new persona attributes, ensuring they are in the cleanest, most normalized form possible."""
     
     return [{
-        "role": "system",
-        "content": system_content
-    },
-    {
-        "role": "user",
-        "content": user_content
-    }]
+            "role": "system",
+            "content": system_content
+        },
+        {
+            "role": "user",
+            "content": user_content_with_similars
+        }]
 
 def kg_prompt(schema=None):
     """Generate a prompt for extracting persona attributes based on a schema.

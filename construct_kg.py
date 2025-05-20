@@ -4,6 +4,7 @@ import random
 import json
 import pathlib
 import argparse
+import ast
 
 from dataset import get_dataset, get_personas
 from models import LLM
@@ -86,8 +87,9 @@ def main():
     parser = argparse.ArgumentParser(description='Construct the knowledge graph from scratch or from a file')
     parser.add_argument('--from-file', type=str, help='Path to JSON file to load knowledge graph from')
     parser.add_argument('--list-files', action='store_true', help='List available JSON files in graphs directory')
+    parser.add_argument('--similarity-threshold', type=float, default=0.75, help='Threshold for similarity matching')
     args = parser.parse_args()
-    
+        
     # Get Neo4j password
     neo4j_password = os.environ.get("NEO4J_PKG_PASSWORD")
     if not neo4j_password:
@@ -190,7 +192,7 @@ def main():
     last_processed_index = 0
     
     # Check if we have saved results for the current schema and using whole dataset
-    if use_whole_dataset and results_file.exists():
+    if results_file.exists():
         try:
             print(f"Found saved results for the current schema hash: {schema_hash}")
             with open(results_file, 'r') as f:
@@ -209,12 +211,9 @@ def main():
             processed_personas = {}
             last_processed_index = 0
     else:
-        # No saved results or not using whole dataset
-        if use_whole_dataset:
-            print(f"No saved results found for schema hash: {schema_hash}")
-            print("Starting fresh with a forced rebuild")
-        else:
-            print("Using random sample of personas with forced rebuild")
+        print(f"No saved results found for schema hash: {schema_hash}")
+        print("Starting fresh with a forced rebuild")
+
 
     # Connect to Neo4j and initialize KG with custom schema
     neo4j_password = os.environ.get("NEO4J_PKG_PASSWORD")
@@ -234,7 +233,8 @@ def main():
     
     # Initialize LLMs with prompts based on the custom schema
     persona_kg_extractor = LLM("GPT-4.1-mini", default_prompt=kg_prompt(schema=schema))
-    persona_canonicalizer = LLM("GPT-4.1-mini", default_prompt=canonicalization_prompt())
+    # Initialize the canonicalizer without a default prompt since we'll specify it in each call
+    persona_canonicalizer = LLM("GPT-4.1-mini")
 
     # Get personas from dataset
     dataset = get_dataset()
@@ -268,7 +268,7 @@ def main():
         persona_id = str(hashlib.sha256(persona.encode('utf-8')).hexdigest())
         
         # Skip if this persona was already processed (for resuming interrupted processing)
-        if persona_id in processed_personas and use_whole_dataset:
+        if persona_id in processed_personas:
             print(f"Skipping already processed persona {i}/{len(selected_personas)}: {persona_id[:8]}...")
             continue
             
@@ -278,18 +278,67 @@ def main():
         res = persona_kg_extractor.generate(prompt_params={"persona": persona}, json_output=True)
         print("Extracted categories:", list(res.keys()))
         
-        # Canonicalize attributes
-        attributes = kg.get_existing_attributes()
+        # Find similar attributes and exact matches for more efficient canonicalization
+        similar_attributes, exact_match_attributes = kg.find_similar_attributes(res, threshold=args.similarity_threshold)
         try:
-            # First try getting the canonicalized result
-            canonized_res = persona_canonicalizer.generate(
-                prompt_params={"existing_attributes": attributes, "persona_json": res}, 
-                json_output=True
-            )
+            # Calculate total number of similar attributes (non-exact matches)
+            total_similar = 0
+            for v in similar_attributes.values():
+                if isinstance(v, list):
+                    total_similar += len(v)
+                elif isinstance(v, dict):
+                    total_similar += sum(len(item) if isinstance(item, list) else 1 for item in v.values())
+            
+            # Calculate total number of exact matches
+            total_exact = 0
+            for v in exact_match_attributes.values():
+                if isinstance(v, list):
+                    total_exact += len(v)
+                elif isinstance(v, dict):
+                    total_exact += sum(len(item) if isinstance(item, list) else 1 for item in v.values())
+            
+            # Report total counts of similar and exact match attributes
+            if total_exact > 0:
+                print(f"Found {total_exact} exact matches in the knowledge graph")
+            
+            # Only perform canonicalization if we actually found similar (but not exact) attributes
+            if total_similar > 0:
+                print(f"Found {total_similar} similar attributes that need canonicalization")
+                
+                # Get the canonicalization prompts
+                prompts_dict = canonicalization_prompt()
+                
+                # Run canonicalization with similar attributes and original attributes
+                canonized_res = persona_canonicalizer.generate(
+                    prompt=prompts_dict,
+                    prompt_params={"similar_attributes": similar_attributes, "persona_json": res}, 
+                    json_output=True
+                )
+                
+                # Keep exact matches as they are
+                if total_exact > 0:
+                    # Merge the canonized result with the exact matches
+                    for category, values in exact_match_attributes.items():
+                        if isinstance(values, list):
+                            # For list-based categories
+                            if category not in canonized_res:
+                                canonized_res[category] = values
+                            else:
+                                # Add any missing items
+                                existing_items = canonized_res[category] if isinstance(canonized_res[category], list) else []
+                                canonized_res[category] = list(set(existing_items + values))
+                        elif isinstance(values, dict):
+                            # For field-based categories
+                            if category not in canonized_res:
+                                canonized_res[category] = {}
+                            for field, field_values in values.items():
+                                canonized_res[category][field] = field_values
+    
+            canonized_res = res
+            
             # If we received a string, we need to handle parsing it
             if isinstance(canonized_res, str):
                 print(f"Received string response, attempting to parse as JSON...")
-                import ast
                 try:
                     # First try standard JSON parsing
                     canonized_res = json.loads(canonized_res)

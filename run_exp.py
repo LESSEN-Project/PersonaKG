@@ -7,7 +7,8 @@ from tqdm import tqdm
 from dataset import get_dataset
 from evaluate import load
 import re
-from prompts import get_next_utterance_prompt
+import ast
+from prompts import get_next_utterance_prompt, canonicalization_prompt, kg_prompt
 
 from construct_kg import load_knowledge_graph_from_file
 from models import LLM
@@ -25,6 +26,7 @@ def setup_args():
                         help='Maximum number of neighboring personas to include in KG context')
     parser.add_argument('--output_dir', "-od", type=str, default='results',
                         help='Directory to save results')
+    parser.add_argument('--similarity-threshold', type=float, default=0.75, help='Threshold for similarity matching')
     return parser.parse_args()
 
 def parse_conversation(conversation):
@@ -95,21 +97,69 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
                     # Extract attributes using LLM
                     extracted_attrs = kg_extractor.generate(prompt_params={"persona": user1_persona}, json_output=True)
                     
-                    # Get existing attributes for canonicalization
-                    existing_attrs = kg.get_existing_attributes()
+                    # Find similar attributes and exact matches for more efficient canonicalization
+                    similar_attrs, exact_match_attrs = kg.find_similar_attributes(extracted_attrs, threshold=args.similarity_threshold)
                     
-                    # Canonicalize extracted attributes
-                    canonized_attrs = canonicalizer.generate(
-                        prompt_params={"existing_attributes": existing_attrs, "persona_json": extracted_attrs},
-                        json_output=True
-                    )
+                    # Calculate total number of similar attributes (non-exact matches)
+                    total_similar = 0
+                    for v in similar_attrs.values():
+                        if isinstance(v, list):
+                            total_similar += len(v)
+                        elif isinstance(v, dict):
+                            total_similar += sum(len(item) if isinstance(item, list) else 1 for item in v.values())
+                    
+                    # Calculate total number of exact matches
+                    total_exact = 0
+                    for v in exact_match_attrs.values():
+                        if isinstance(v, list):
+                            total_exact += len(v)
+                        elif isinstance(v, dict):
+                            total_exact += sum(len(item) if isinstance(item, list) else 1 for item in v.values())
+                    
+                    # Report total counts of similar and exact match attributes
+                    if total_exact > 0:
+                        print(f"Found {total_exact} exact matches in the knowledge graph for User 1")
+                    
+                    canonized_attrs = extracted_attrs
+                    
+                    # Only perform canonicalization if we actually found similar (but not exact) attributes
+                    if total_similar > 0:
+                        print(f"Found {total_similar} similar attributes that need canonicalization for User 1")
+                        
+                        # Get the canonicalization prompts
+                        prompts_dict = canonicalization_prompt()
+                        
+                        # Run canonicalization with similar attributes
+                        canonized_attrs = canonicalizer.generate(
+                            prompt=prompts_dict,
+                            prompt_params={"similar_attributes": similar_attrs, "persona_json": extracted_attrs},
+                            json_output=True
+                        )
+                        
+                        # Keep exact matches as they are
+                        if total_exact > 0:
+                            # Merge the canonized result with the exact matches
+                            for category, values in exact_match_attrs.items():
+                                if isinstance(values, list):
+                                    # For list-based categories
+                                    if category not in canonized_attrs:
+                                        canonized_attrs[category] = values
+                                    else:
+                                        # Add any missing items
+                                        existing_items = canonized_attrs[category] if isinstance(canonized_attrs[category], list) else []
+                                        canonized_attrs[category] = list(set(existing_items + values))
+                                elif isinstance(values, dict):
+                                    # For field-based categories
+                                    if category not in canonized_attrs:
+                                        canonized_attrs[category] = {}
+                                    for field, field_values in values.items():
+                                        canonized_attrs[category][field] = field_values
                     
                     # Handle string response if needed
                     if isinstance(canonized_attrs, str):
                         try:
                             canonized_attrs = json.loads(canonized_attrs)
                         except json.JSONDecodeError:
-                            import ast
                             try:
                                 python_dict = ast.literal_eval(canonized_attrs)
                                 canonized_attrs = json.loads(json.dumps(python_dict))
@@ -122,9 +172,6 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
                     print(f"Added User 1 persona to knowledge graph")
                 except Exception as e:
                     print(f"Error adding User 1 persona to knowledge graph: {str(e)}")
-
-            else:
-                print("User 1 persona already exists in knowledge graph")
             
             # Process user2 persona if it doesn't exist
             if not user2_exists:
@@ -133,21 +180,69 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
                     # Extract attributes using LLM
                     extracted_attrs = kg_extractor.generate(prompt_params={"persona": user2_persona}, json_output=True)
                     
-                    # Get existing attributes for canonicalization
-                    existing_attrs = kg.get_existing_attributes()
+                    # Find similar attributes and exact matches for more efficient canonicalization
+                    similar_attrs, exact_match_attrs = kg.find_similar_attributes(extracted_attrs, threshold=args.similarity_threshold)
                     
-                    # Canonicalize extracted attributes
-                    canonized_attrs = canonicalizer.generate(
-                        prompt_params={"existing_attributes": existing_attrs, "persona_json": extracted_attrs},
-                        json_output=True
-                    )
+                    # Calculate total number of similar attributes (non-exact matches)
+                    total_similar = 0
+                    for v in similar_attrs.values():
+                        if isinstance(v, list):
+                            total_similar += len(v)
+                        elif isinstance(v, dict):
+                            total_similar += sum(len(item) if isinstance(item, list) else 1 for item in v.values())
+                    
+                    # Calculate total number of exact matches
+                    total_exact = 0
+                    for v in exact_match_attrs.values():
+                        if isinstance(v, list):
+                            total_exact += len(v)
+                        elif isinstance(v, dict):
+                            total_exact += sum(len(item) if isinstance(item, list) else 1 for item in v.values())
+                    
+                    # Report total counts of similar and exact match attributes
+                    if total_exact > 0:
+                        print(f"Found {total_exact} exact matches in the knowledge graph for User 2")
+                    
+                    canonized_attrs = extracted_attrs
+                    
+                    # Only perform canonicalization if we actually found similar (but not exact) attributes
+                    if total_similar > 0:
+                        print(f"Found {total_similar} similar attributes that need canonicalization for User 2")
+                        
+                        # Get the canonicalization prompts
+                        prompts_dict = canonicalization_prompt()
+                        
+                        # Run canonicalization with similar attributes
+                        canonized_attrs = canonicalizer.generate(
+                            prompt=prompts_dict,
+                            prompt_params={"similar_attributes": similar_attrs, "persona_json": extracted_attrs},
+                            json_output=True
+                        )
+                        
+                        # Keep exact matches as they are
+                        if total_exact > 0:
+                            # Merge the canonized result with the exact matches
+                            for category, values in exact_match_attrs.items():
+                                if isinstance(values, list):
+                                    # For list-based categories
+                                    if category not in canonized_attrs:
+                                        canonized_attrs[category] = values
+                                    else:
+                                        # Add any missing items
+                                        existing_items = canonized_attrs[category] if isinstance(canonized_attrs[category], list) else []
+                                        canonized_attrs[category] = list(set(existing_items + values))
+                                elif isinstance(values, dict):
+                                    # For field-based categories
+                                    if category not in canonized_attrs:
+                                        canonized_attrs[category] = {}
+                                    for field, field_values in values.items():
+                                        canonized_attrs[category][field] = field_values
                     
                     # Handle string response if needed
                     if isinstance(canonized_attrs, str):
                         try:
                             canonized_attrs = json.loads(canonized_attrs)
                         except json.JSONDecodeError:
-                            import ast
                             try:
                                 python_dict = ast.literal_eval(canonized_attrs)
                                 canonized_attrs = json.loads(json.dumps(python_dict))
@@ -160,8 +255,6 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
                     print(f"Added User 2 persona to knowledge graph")
                 except Exception as e:
                     print(f"Error adding User 2 persona to knowledge graph: {str(e)}")
-            else:
-                print("User 2 persona already exists in knowledge graph")
             
         # Get KG information for the target persona and neighbors
         kg_info = ""
@@ -454,9 +547,8 @@ def run_experiment(args):
                         print(f"- {category[0]}")
                 
                 # Initialize LLMs for persona extraction and canonicalization
-                from prompts import kg_prompt, canonicalization_prompt
                 kg_extractor = LLM("GPT-4.1-mini", default_prompt=kg_prompt(schema=schema))
-                canonicalizer = LLM("GPT-4.1-mini", default_prompt=canonicalization_prompt())
+                canonicalizer = LLM("GPT-4.1-mini")
                 
                 print("Knowledge graph initialized with schema")
             except Exception as e:
