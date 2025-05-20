@@ -12,9 +12,9 @@ def get_next_utterance_prompt(user1_persona, user2_persona, conversation_history
         str: The formatted prompt for next utterance prediction
     """
     
-    prompt = f"""You are tasked with predicting the next utterance in a conversation between two users with specific personas.
-
-Here are the personas:
+    system_content = """You are tasked with predicting the next utterance in a conversation between two users with specific personas."""
+    
+    user_content = f"""Here are the personas:
 
 User 1 Persona:
 {user1_persona}
@@ -23,13 +23,11 @@ User 2 Persona:
 {user2_persona}
 
 Here is the conversation history so far:
-{conversation_history}
-
-Now, predict what {target_speaker} would say next."""
+{conversation_history}"""
     
     # Add knowledge graph information if available
     if kg_info:
-        prompt += f"""
+        user_content += f"""
 
 Additional information from the knowledge graph:
 {kg_info}
@@ -37,16 +35,24 @@ Additional information from the knowledge graph:
 You should use the knowledge graph information to better understand the {target_speaker}'s attributes, preferences, and behavioral patterns. Note these important aspects:
 - Consider both direct attributes of {target_speaker} as well as attributes from similar personas.
 - Pay attention to common attribute patterns that may influence how {target_speaker} behaves.
+- Look at the utterances of the neighbors to understand the conversation style.
 - Use this knowledge to create a more consistent and realistic response that aligns with the personality profile in the knowledge graph.
 """
     
-    prompt += """
+    user_content += f"""Now, predict what {target_speaker} would say next.
 
 Your task is to generate ONLY the next utterance for the specified speaker, without any additional commentary or explanation. Do not include the speaker's name in your response.
 
 Next utterance:"""
     
-    return prompt
+    return [{
+            "role": "system",
+            "content": system_content
+        },
+        {
+            "role": "user",
+            "content": user_content
+        }]
 
 
 def canonicalization_prompt():

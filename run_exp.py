@@ -82,8 +82,8 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
     kg_info = None
     if kg is not None and kg_extractor is not None and canonicalizer is not None:
         # Generate unique IDs for personas
-        user1_id = 'user1_' + hashlib.md5(user1_persona.encode()).hexdigest()
-        user2_id = 'user2_' + hashlib.md5(user2_persona.encode()).hexdigest()
+        user1_id = str(hashlib.sha256(user1_persona.encode('utf-8')).hexdigest())
+        user2_id = str(hashlib.sha256(user2_persona.encode('utf-8')).hexdigest())
         
         # Extract conversation as a formatted string for each user
         conversation_text = '\n'.join([f"User {u['speaker'].split()[-1]}: {u['text']}" for u in history])
@@ -307,11 +307,8 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
                 for value in values:
                     kg_info += f"- {value}\n"
             
-            # 2. Find neighbors with shared attributes
-            kg_info += f"\n== Personas with Similar Attributes ==\n"
-            
+            # 2. Find neighbors with shared attributes            
             neighbors_query = """
-            // Find personas that share attributes with our target persona
             MATCH (p1:Persona {id: $id})-[r1]->(a:Attribute)<-[r2]-(p2:Persona)
             WHERE p1 <> p2
             WITH p2, count(a) AS shared_count, collect(a.value) AS shared_values
@@ -320,62 +317,62 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
             RETURN p2.id AS neighbor_id, shared_count, shared_values
             """
             
-            neighbors = session.run(neighbors_query, id=target_id, max_neighbors=max_neighbors)
+            neighbors = list(session.run(neighbors_query, id=target_id, max_neighbors=max_neighbors))
             
+            if neighbors:
+                kg_info += f"\n== Personas with Similar Attributes ==\n"
+                
             for neighbor in neighbors:
                 neighbor_id = neighbor["neighbor_id"]
                 shared_count = neighbor["shared_count"]
                 shared_values = neighbor["shared_values"]
                 
-                # Short display of neighbor ID
-                short_id = neighbor_id[:8]
-                
-                kg_info += f"\nNeighbor {short_id} shares {shared_count} attributes:\n"
+                kg_info += f"\nNeighbor {neighbor_id} shares {shared_count} attributes:\n"
                 for value in shared_values:
                     kg_info += f"- {value}\n"
                 
-                # Get specific information about this neighbor
                 neighbor_info_query = """
                 MATCH (p:Persona {id: $id})-[r]->(a:Attribute)
-                RETURN a.category AS category, a.key AS key, a.value AS value
+                RETURN a.category AS category, a.key AS key, a.value AS value, type(r) AS relationship
                 ORDER BY a.category, a.key
-                LIMIT 5
                 """
                 
                 neighbor_attributes = session.run(neighbor_info_query, id=neighbor_id)
                 
-                # Add a few specific attributes from this neighbor
-                kg_info += "Other attributes:\n"
+                categorized_attributes = {}
                 for record in neighbor_attributes:
+                    category = record["category"]
                     value = record["value"]
-                    kg_info += f"- {value}\n"
+                    rel = record["relationship"]
                     
-            # 3. Add some statistical information about common attribute patterns
-            kg_info += f"\n== Attribute Patterns ==\n"
-            
-            patterns_query = """
-            // Find common attribute patterns in the same categories
-            MATCH (p1:Persona)-[r1]->(a1:Attribute {category: $category})
-            MATCH (p1)-[r2]->(a2:Attribute {category: $category})
-            WHERE a1 <> a2
-            WITH a1.value AS value1, a2.value AS value2, count(*) AS frequency
-            ORDER BY frequency DESC
-            LIMIT 3
-            RETURN value1, value2, frequency
-            """
-            
-            # Get the main category from the target persona's attributes
-            main_categories = list(category_data.keys())
-            if main_categories:
-                main_category = main_categories[0]
-                patterns = session.run(patterns_query, category=main_category)
+                    if category not in categorized_attributes:
+                        categorized_attributes[category] = []
+                    
+                    if value in shared_values:
+                        continue
+                        
+                    categorized_attributes[category].append((value, rel))
                 
-                kg_info += f"Common {main_category} patterns:\n"
-                for pattern in patterns:
-                    value1 = pattern["value1"]
-                    value2 = pattern["value2"]
-                    frequency = pattern["frequency"]
-                    kg_info += f"- People with '{value1}' often also have '{value2}' ({frequency} occurrences)\n"
+                if categorized_attributes:
+                    kg_info += "Other attributes:\n"
+                    for category, attribute_list in categorized_attributes.items():
+                        if attribute_list:
+                            kg_info += f"{category.capitalize()}:\n"
+                            for value, rel in attribute_list:
+                                kg_info += f"- {value} ({rel})\n"
+                
+                utterances_query = """
+                MATCH (p:Persona {id: $id})
+                RETURN p.utterances AS utterances
+                """
+                
+                utterances_result = session.run(utterances_query, id=neighbor_id).single()
+                if utterances_result and utterances_result["utterances"]:
+                    utterances = utterances_result["utterances"]
+                    kg_info += "Utterances:\n"
+                    utterance_lines = utterances.split("\n")
+                    for utterance in utterance_lines:
+                        kg_info += f"- \"{utterance}\"\n"
     
     formatted_history = ""
     for utterance in history:
@@ -390,7 +387,6 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
     )
     
     prediction = llm.generate(prompt)
-    
     prediction = re.sub(r'^.*?:', '', prediction).strip()
     
     if return_prompt:
