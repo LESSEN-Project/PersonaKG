@@ -1,5 +1,6 @@
 import os 
 import json
+import random
 
 from datasets import load_dataset
 from difflib import SequenceMatcher
@@ -57,8 +58,83 @@ def merge_individual_sequences(seq1, seq2):
 def get_dataset():
     return load_dataset("google/Synthetic-Persona-Chat")
 
-def get_personas(dataset, split="train", prune=True, threshold=0.6):
+def get_dataset_items(dataset, split="train", use_whole_dataset=True, num_items=100):
+    """
+    Get conversation items from the dataset, either all or a random subset.
+    
+    Args:
+        dataset: The loaded dataset
+        split: The dataset split to use (train or test)
+        use_whole_dataset: Whether to use the entire dataset or a subset
+        num_items: Number of items to retrieve if not using the whole dataset
+        
+    Returns:
+        List of dictionary items containing conversations and personas
+    """
+    # All items in the dataset
+    all_items = dataset[split]
+    
+    if use_whole_dataset:
+        # Convert to a list of dictionaries for consistent handling
+        # This ensures we return the same format regardless of use_whole_dataset setting
+        items_list = []
+        for i in range(len(all_items)):
+            items_list.append({
+                "user 1 personas": all_items[i]["user 1 personas"],
+                "user 2 personas": all_items[i]["user 2 personas"],
+                "Best Generated Conversation": all_items[i]["Best Generated Conversation"]
+            })
+        return items_list
+    else:
+        # Get a deterministic sample with fixed seed
+        random.seed(42)
+        indices = random.sample(range(len(all_items)), min(num_items, len(all_items)))
+        # Reset the random seed
+        random.seed()
+        
+        # Create a list of dictionaries with just the selected indices
+        selected_items = []
+        for i in indices:
+            selected_items.append({
+                "user 1 personas": all_items[i]["user 1 personas"],
+                "user 2 personas": all_items[i]["user 2 personas"],
+                "Best Generated Conversation": all_items[i]["Best Generated Conversation"]
+            })
+        return selected_items
 
+def extract_user_utterances(dialogue, user_number):
+    """
+    Extract utterances for a specific user from a conversation.
+    
+    Args:
+        dialogue: The conversation dialogue
+        user_number: The user number (1 or 2)
+        
+    Returns:
+        String with the user's utterances, separated by newline characters
+    """
+    # Define the prefixes for each user in the dialogue
+    user_prefix = f"User {user_number}:"
+    
+    utterances = []
+    
+    # Split the dialogue into lines and extract user's utterances
+    lines = dialogue.split('\n')
+    for line in lines:
+        line = line.strip()
+        if line.startswith(user_prefix):
+            # Remove the prefix and any leading/trailing whitespace
+            utterance = line[len(user_prefix):].strip()
+            utterances.append(utterance)
+    
+    # Join the utterances with newline characters
+    return '\n'.join(utterances)
+
+def get_personas(dataset, split="train", prune=True, threshold=0.6):
+    """
+    Legacy function to maintain compatibility with existing code.
+    Gets all personas from the dataset, optionally merging similar ones.
+    """
     merged_personas = dataset[split]["user 1 personas"] + dataset[split]["user 2 personas"]
     
     if prune:

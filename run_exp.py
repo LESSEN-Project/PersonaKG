@@ -4,7 +4,7 @@ import argparse
 import hashlib
 import datetime
 from tqdm import tqdm
-from dataset import get_dataset
+from dataset import get_dataset, extract_user_utterances
 from evaluate import load
 import re
 import ast
@@ -84,6 +84,11 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
         # Generate unique IDs for personas
         user1_id = 'user1_' + hashlib.md5(user1_persona.encode()).hexdigest()
         user2_id = 'user2_' + hashlib.md5(user2_persona.encode()).hexdigest()
+        
+        # Extract conversation as a formatted string for each user
+        conversation_text = '\n'.join([f"User {u['speaker'].split()[-1]}: {u['text']}" for u in history])
+        user1_utterances = extract_user_utterances(conversation_text, 1) if conversation_text else ""
+        user2_utterances = extract_user_utterances(conversation_text, 2) if conversation_text else ""
         
         with kg.driver.session() as session:
             # Check if personas already exist
@@ -167,9 +172,12 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
                                 print("Error parsing canonized attributes")
                                 canonized_attrs = extracted_attrs
                     
+                    # Add user1 utterances to the canonized attributes
+                    if user1_utterances:
+                        canonized_attrs["utterances"] = user1_utterances
+                    
                     # Add to knowledge graph directly - the KG already has the right schema
                     kg.upsert_persona(canonized_attrs, user1_id)
-                    print(f"Added User 1 persona to knowledge graph")
                 except Exception as e:
                     print(f"Error adding User 1 persona to knowledge graph: {str(e)}")
             
@@ -250,9 +258,12 @@ def predict_next_utterance(sample, llm, kg=None, kg_extractor=None, canonicalize
                                 print("Error parsing canonized attributes")
                                 canonized_attrs = extracted_attrs
                     
+                    # Add user2 utterances to the canonized attributes
+                    if user2_utterances:
+                        canonized_attrs["utterances"] = user2_utterances
+                    
                     # Add to knowledge graph directly - the KG already has the right schema
                     kg.upsert_persona(canonized_attrs, user2_id)
-                    print(f"Added User 2 persona to knowledge graph")
                 except Exception as e:
                     print(f"Error adding User 2 persona to knowledge graph: {str(e)}")
             
@@ -633,17 +644,16 @@ def run_experiment(args):
                     'args': vars(args),
                     'experiment_id': experiment_id,
                     'metrics': interim_results,
-                    'samples': completed_samples,  # This now includes prompts
                     'timestamp': str(datetime.datetime.now()),
                     'total_samples': len(samples),
                     'processed_samples': len(completed_samples),
-                    'is_interim': True
+                    'is_interim': True,
+                    'samples': completed_samples,  # This now includes prompts
                 }
                 
                 # Save to a single evaluation file that gets updated each time
                 with open(eval_file, 'w') as f:
-                    json.dump(interim_result_data, f, indent=2)
-                    
+                    json.dump(interim_result_data, f, indent=2)                    
                 print(f"Evaluation results updated in {eval_file}")
                 print(f"Interim BLEU Score: {interim_results['bleu']}")
                 print(f"Interim ROUGE-F1 Score: {interim_results['rouge']}")
@@ -677,15 +687,14 @@ def run_experiment(args):
                     'args': vars(args),
                     'experiment_id': experiment_id,
                     'metrics': interim_results,
-                    'samples': completed_samples,  # This now includes prompts
                     'timestamp': str(datetime.datetime.now()),
                     'total_samples': len(samples),
                     'processed_samples': len(completed_samples),
                     'is_interim': True,
-                    'error': str(e)
+                    'error': str(e),
+                    'samples': completed_samples
                 }
                 
-                # Save to the evaluation file with error flag
                 with open(eval_file, 'w') as f:
                     json.dump(interim_result_data, f, indent=2)
                     
@@ -699,11 +708,11 @@ def run_experiment(args):
         'args': vars(args),
         'experiment_id': experiment_id,
         'metrics': results,
-        'samples': completed_samples,  # This now includes prompts, predictions, everything
         'timestamp': str(datetime.datetime.now()),
         'total_samples': len(samples),
         'processed_samples': len(predictions),
-        'is_final': True
+        'is_final': True,
+        'samples': completed_samples,
     }
     
     # Save to final output file

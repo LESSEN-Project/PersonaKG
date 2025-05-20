@@ -177,10 +177,11 @@ class KnowledgeGraph:
         """
         Validates that the input JSON only contains allowed categories,
         and for field-based categories (like basics/demographics/profile), only allowed fields.
+        Special case: 'utterances' is always allowed regardless of schema.
         """
-        # Check that all top-level keys are allowed.
+        # Check that all top-level keys are allowed, with 'utterances' as a special exception
         for key in persona_json:
-            if key not in self.allowed_categories:
+            if key != 'utterances' and key not in self.allowed_categories:
                 raise ValueError(
                     f"Unrecognized category in JSON: '{key}'. "
                     f"Allowed categories: {self.allowed_categories}"
@@ -443,6 +444,8 @@ class KnowledgeGraph:
         If the Persona exists, update its attribute relationships (by deleting them first).
         Otherwise, create a new Persona node.
         Then, upsert attribute nodes and create relationships from the Persona to each Attribute.
+        
+        Special case: 'utterances' is a special category that's always allowed and handled separately.
         """
         self.validate_json(persona_json)
         
@@ -455,7 +458,20 @@ class KnowledgeGraph:
                 # Insert: create the Persona node.
                 session.run("CREATE (p:Persona {id: $id})", id=persona_id)
             
-            # Find field-based category (previously demographics) by checking if value is dict or list
+            # Handle special utterances category if it exists
+            if 'utterances' in persona_json:
+                utterances = persona_json['utterances']
+                if utterances:  # Only process if not empty
+                    # Store utterances directly as a property on the Persona node
+                    session.run(
+                        """
+                        MATCH (p:Persona {id: $id})
+                        SET p.utterances = $utterances
+                        """,
+                        id=persona_id, utterances=utterances
+                    )
+            
+            # Find field-based categories by checking if value is dict
             field_based_categories = []
             for category in persona_json:
                 if isinstance(persona_json[category], dict):
@@ -509,20 +525,31 @@ class KnowledgeGraph:
                                 value=clean_value, id=persona_id
                             )
             
-            # Process all list-based categories (simple arrays of strings)
-            for category in self.allowed_categories:
-                if category in field_based_categories:
-                    continue  # Skip field-based categories already processed
+            # Process list-based categories
+            for category in persona_json:
+                # Skip field-based categories and utterances (already processed)
+                if category in field_based_categories or category == 'utterances':
+                    continue
                 
-                items = persona_json.get(category, [])
-                if not isinstance(items, list):
-                    continue  # Skip if not a list
+                values = persona_json[category]
+                if not isinstance(values, list):
+                    values = [values]
+                
+                # Get the relationship type for this category
+                if category in self.relationship_map:
+                    rel_type = self.relationship_map[category]
+                else:
+                    # Create a default relationship type if not in the map
+                    rel_type = f"HAS_{category.upper()}"
+                
+                # Process each value in the list
+                for value in values:
+                    if value is None:
+                        continue
                     
-                rel_type = self.relationship_map[category]
-                for item in items:
-                    clean_item = item.strip()
-                    if clean_item:
-                        attr_id = self.compute_attribute_id(category, clean_item)
+                    clean_value = str(value).strip()
+                    if clean_value:
+                        attr_id = self.compute_attribute_id(category, clean_value)
                         session.run(
                             f"""
                             MERGE (a:Attribute {{id: $attr_id}})
@@ -532,8 +559,9 @@ class KnowledgeGraph:
                             MATCH (p:Persona {{id: $id}})
                             MERGE (p)-[:{rel_type}]->(a)
                             """,
-                            attr_id=attr_id, category=category, value=clean_item, id=persona_id
+                            attr_id=attr_id, category=category, value=clean_value, id=persona_id
                         )
+        
         return persona_id
         
     def get_persona_info(self, user_id):

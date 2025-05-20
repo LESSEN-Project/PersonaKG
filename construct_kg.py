@@ -1,12 +1,11 @@
 import os
 import hashlib
-import random
 import json
 import pathlib
 import argparse
 import ast
 
-from dataset import get_dataset, get_personas
+from dataset import get_dataset, get_dataset_items, extract_user_utterances
 from models import LLM
 from knowledge_graph import KnowledgeGraph
 from prompts import *
@@ -168,7 +167,7 @@ def main():
     # -------------------------------------------------------------------------
     
     # Set to False to use a subset of personas, True to use the entire dataset
-    use_whole_dataset = False
+    use_whole_dataset = True
     
     # Number of personas to process if not using the whole dataset
     num_personas = 100
@@ -236,23 +235,11 @@ def main():
     # Initialize the canonicalizer without a default prompt since we'll specify it in each call
     persona_canonicalizer = LLM("GPT-4.1-mini")
 
-    # Get personas from dataset
+    # Get dataset items (conversations with personas)
     dataset = get_dataset()
-    personas = get_personas(dataset, "train")
+    dataset_items = get_dataset_items(dataset, "train", use_whole_dataset, num_personas)
     
-    # Choose either the whole dataset or a random subset
-    if use_whole_dataset:
-        selected_personas = personas
-        print(f"Using the entire dataset: {len(selected_personas)} personas")
-    else:
-        # Use a fixed seed for deterministic sampling
-        # This ensures the same personas are selected across different runs
-        # regardless of schema changes
-        random.seed(42) 
-        selected_personas = random.sample(personas, min(num_personas, len(personas)))
-        # Reset the random seed to avoid affecting other random operations
-        random.seed()
-        print(f"Using a deterministic random sample of {len(selected_personas)} personas")
+    print(f"Using {'the entire dataset' if use_whole_dataset else 'a random sample'} of {len(dataset_items)} conversation items")
     
     # Display current schema information
     print("Using schema with these categories:")
@@ -263,132 +250,153 @@ def main():
             print(f"- {category[0]}")
     print()
     
-    # Process personas with the custom schema
-    for i, persona in enumerate(selected_personas[last_processed_index:], last_processed_index + 1):
-        persona_id = str(hashlib.sha256(persona.encode('utf-8')).hexdigest())
+    # Process each dataset item (conversation)
+    item_count = len(dataset_items)
+    for item_idx, item in enumerate(dataset_items[last_processed_index:], last_processed_index + 1):
+        print(f"Processing dataset item {item_idx}/{item_count}...")
         
-        # Skip if this persona was already processed (for resuming interrupted processing)
-        if persona_id in processed_personas:
-            print(f"Skipping already processed persona {i}/{len(selected_personas)}: {persona_id[:8]}...")
-            continue
-            
-        print(f"Processing persona {i}/{len(selected_personas)}:\n{persona}...")
+        # Process user 1 persona
+        persona_user1 = item["user 1 personas"]
+        persona_id_user1 = str(hashlib.sha256(persona_user1.encode('utf-8')).hexdigest())
         
-        # Generate structured attributes from the persona
-        res = persona_kg_extractor.generate(prompt_params={"persona": persona}, json_output=True)
-        print("Extracted categories:", list(res.keys()))
+        # Process user 2 persona
+        persona_user2 = item["user 2 personas"]
+        persona_id_user2 = str(hashlib.sha256(persona_user2.encode('utf-8')).hexdigest())
         
-        # Find similar attributes and exact matches for more efficient canonicalization
-        similar_attributes, exact_match_attributes = kg.find_similar_attributes(res, threshold=args.similarity_threshold)
-        try:
-            # Calculate total number of similar attributes (non-exact matches)
-            total_similar = 0
-            for v in similar_attributes.values():
-                if isinstance(v, list):
-                    total_similar += len(v)
-                elif isinstance(v, dict):
-                    total_similar += sum(len(item) if isinstance(item, list) else 1 for item in v.values())
-            
-            # Calculate total number of exact matches
-            total_exact = 0
-            for v in exact_match_attributes.values():
-                if isinstance(v, list):
-                    total_exact += len(v)
-                elif isinstance(v, dict):
-                    total_exact += sum(len(item) if isinstance(item, list) else 1 for item in v.values())
-            
-            # Report total counts of similar and exact match attributes
-            if total_exact > 0:
-                print(f"Found {total_exact} exact matches in the knowledge graph")
-            
-            # Only perform canonicalization if we actually found similar (but not exact) attributes
-            if total_similar > 0:
-                print(f"Found {total_similar} similar attributes that need canonicalization")
+        # Process both personas sequentially
+        for user_num, (persona, persona_id) in enumerate([(persona_user1, persona_id_user1), (persona_user2, persona_id_user2)], 1):
+            # Skip if this persona was already processed
+            if persona_id in processed_personas:
+                print(f"Skipping already processed persona (User {user_num}): {persona_id[:8]}...")
+                continue
                 
-                # Get the canonicalization prompts
-                prompts_dict = canonicalization_prompt()
+            print(f"Processing persona (User {user_num}):\n{persona}...")
+            
+            # Extract user utterances from the dialogue
+            dialogue = item["Best Generated Conversation"]
+            utterances = extract_user_utterances(dialogue, user_num)
+            
+            # Generate structured attributes from the persona
+            res = persona_kg_extractor.generate(prompt_params={"persona": persona}, json_output=True)
+            print("Extracted categories:", list(res.keys()))
+            
+            # Find similar attributes and exact matches for more efficient canonicalization
+            similar_attributes, exact_match_attributes = kg.find_similar_attributes(res, threshold=args.similarity_threshold)
+            try:
+                # Calculate total number of similar attributes (non-exact matches)
+                total_similar = 0
+                for v in similar_attributes.values():
+                    if isinstance(v, list):
+                        total_similar += len(v)
+                    elif isinstance(v, dict):
+                        total_similar += sum(len(item) if isinstance(item, list) else 1 for item in v.values())
                 
-                # Run canonicalization with similar attributes and original attributes
-                canonized_res = persona_canonicalizer.generate(
-                    prompt=prompts_dict,
-                    prompt_params={"similar_attributes": similar_attributes, "persona_json": res}, 
-                    json_output=True
-                )
+                # Calculate total number of exact matches
+                total_exact = 0
+                for v in exact_match_attributes.values():
+                    if isinstance(v, list):
+                        total_exact += len(v)
+                    elif isinstance(v, dict):
+                        total_exact += sum(len(item) if isinstance(item, list) else 1 for item in v.values())
                 
-                # Keep exact matches as they are
+                # Report total counts of similar and exact match attributes
                 if total_exact > 0:
-                    # Merge the canonized result with the exact matches
-                    for category, values in exact_match_attributes.items():
-                        if isinstance(values, list):
-                            # For list-based categories
-                            if category not in canonized_res:
-                                canonized_res[category] = values
-                            else:
-                                # Add any missing items
-                                existing_items = canonized_res[category] if isinstance(canonized_res[category], list) else []
-                                canonized_res[category] = list(set(existing_items + values))
-                        elif isinstance(values, dict):
-                            # For field-based categories
-                            if category not in canonized_res:
-                                canonized_res[category] = {}
-                            for field, field_values in values.items():
-                                canonized_res[category][field] = field_values
-    
-            canonized_res = res
-            
-            # If we received a string, we need to handle parsing it
-            if isinstance(canonized_res, str):
-                print(f"Received string response, attempting to parse as JSON...")
-                try:
-                    # First try standard JSON parsing
-                    canonized_res = json.loads(canonized_res)
-                except json.JSONDecodeError as e:
-                    print(f"Standard JSON parsing failed: {e}")
+                    print(f"Found {total_exact} exact matches in the knowledge graph")
+                
+                # Only perform canonicalization if we actually found similar (but not exact) attributes
+                if total_similar > 0:
+                    print(f"Found {total_similar} similar attributes that need canonicalization")
                     
-                    # If it fails, try to fix Python dict syntax (single quotes to double quotes)
+                    # Get the canonicalization prompts
+                    prompts_dict = canonicalization_prompt()
+                    
+                    # Run canonicalization with similar attributes and original attributes
+                    canonized_res = persona_canonicalizer.generate(
+                        prompt=prompts_dict,
+                        prompt_params={"similar_attributes": similar_attributes, "persona_json": res}, 
+                        json_output=True
+                    )
+                    
+                    # Keep exact matches as they are
+                    if total_exact > 0:
+                        # Merge the canonized result with the exact matches
+                        for category, values in exact_match_attributes.items():
+                            if isinstance(values, list):
+                                # For list-based categories
+                                if category not in canonized_res:
+                                    canonized_res[category] = values
+                                else:
+                                    # Add any missing items
+                                    existing_items = canonized_res[category] if isinstance(canonized_res[category], list) else []
+                                    canonized_res[category] = list(set(existing_items + values))
+                            elif isinstance(values, dict):
+                                # For field-based categories
+                                if category not in canonized_res:
+                                    canonized_res[category] = {}
+                                for field, field_values in values.items():
+                                    canonized_res[category][field] = field_values
+                else:
+                    # No similar attributes found, use the original result
+                    canonized_res = res
+                
+                # If we received a string, we need to handle parsing it
+                if isinstance(canonized_res, str):
+                    print(f"Received string response, attempting to parse as JSON...")
                     try:
-                        # Use ast to safely evaluate the Python literal
-                        python_dict = ast.literal_eval(canonized_res)
-                        # Convert to JSON-compatible format
-                        canonized_res = json.loads(json.dumps(python_dict))
-                        print("Successfully converted Python dict to JSON")
-                    except Exception as e2:
-                        print(f"Cannot parse response as either JSON or Python dict: {e2}")
-                        print("Skipping this persona due to parsing issues")
-                        continue
-            
-            # If we get here, we have a valid JSON object to save
-            kg.upsert_persona(canonized_res, persona_id)
-            
-            processed_personas[persona_id] = canonized_res
-            # Save progress every 5 personas or when we're at the end
-            if i % 5 == 0 or i == len(selected_personas):
-                print(f"Saving progress at persona {i}/{len(selected_personas)}...")
-                try:
-                    with open(results_file, 'w') as f:
-                        json.dump({
-                            'processed_personas': processed_personas,
-                            'last_processed_index': i - 1,
-                            'schema_hash': schema_hash,
-                            'schema': schema
-                        }, f)
-                    print(f"Saved progress to {results_file}")
-                except Exception as e:
-                    print(f"Error saving progress: {str(e)}")
+                        # First try standard JSON parsing
+                        canonized_res = json.loads(canonized_res)
+                    except json.JSONDecodeError as e:
+                        print(f"Standard JSON parsing failed: {e}")
                         
-        except Exception as e:
-            print(f"Error processing persona: {str(e)}")
-            print(f"Skipping persona and continuing...")
-            continue
-        print(f"Processed persona {persona_id[:8]}\n")
+                        # If it fails, try to fix Python dict syntax (single quotes to double quotes)
+                        try:
+                            # Use ast to safely evaluate the Python literal
+                            python_dict = ast.literal_eval(canonized_res)
+                            # Convert to JSON-compatible format
+                            canonized_res = json.loads(json.dumps(python_dict))
+                            print("Successfully converted Python dict to JSON")
+                        except Exception as e2:
+                            print(f"Cannot parse response as either JSON or Python dict: {e2}")
+                            print(f"Skipping this persona due to parsing issues")
+                            continue
+                
+                # Add utterances to the knowledge graph regardless of schema
+                # This is done after canonicalization to ensure it's not affected by similarity checks
+                if "utterances" not in canonized_res:
+                    canonized_res["utterances"] = utterances
+                
+                # If we get here, we have a valid JSON object to save
+                kg.upsert_persona(canonized_res, persona_id)
+                
+                processed_personas[persona_id] = canonized_res
+                # Save progress every 5 items or when we're at the end
+                if item_idx % 5 == 0 or item_idx == item_count:
+                    print(f"Saving progress at item {item_idx}/{item_count}...")
+                    try:
+                        with open(results_file, 'w') as f:
+                            json.dump({
+                                'processed_personas': processed_personas,
+                                'last_processed_index': item_idx - 1,
+                                'schema_hash': schema_hash,
+                                'schema': schema
+                            }, f)
+                        print(f"Saved progress to {results_file}")
+                    except Exception as e:
+                        print(f"Error saving progress: {str(e)}")
+                            
+            except Exception as e:
+                print(f"Error processing persona: {str(e)}")
+                print(f"Skipping persona and continuing...")
+                continue
+            print(f"Processed persona {persona_id[:8]}\n")
     
-    print("All personas processed successfully!")
+    print("All dataset items processed successfully!")
     
     try:
         with open(results_file, 'w') as f:
             json.dump({
                 'processed_personas': processed_personas,
-                'last_processed_index': len(selected_personas) - 1,
+                'last_processed_index': len(dataset_items) - 1,
                 'schema_hash': schema_hash,
                 'schema': schema,
                 'completed': True
@@ -397,7 +405,7 @@ def main():
     except Exception as e:
         print(f"Error saving final results: {str(e)}")
     
-    print("The knowledge graph now contains the personas with the new schema.")
+    print(f"The knowledge graph now contains {len(processed_personas)} personas with the new schema and their utterances.")
     print("You can query the Neo4j database to explore the results.")
 
 
