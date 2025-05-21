@@ -251,7 +251,6 @@ class KnowledgeGraph:
         # Initialize result dictionaries for similar and exact match attributes
         similar_attributes = {}    # For attributes that are similar but not exact
         exact_match_attributes = {}  # For attributes that are exact matches
-        needs_canonicalization = False  # Flag to indicate if canonicalization is needed
         
         # For each category in the persona_json
         for category, values in persona_json.items():
@@ -291,7 +290,6 @@ class KnowledgeGraph:
                     # Store similar (non-exact) values if any
                     if similar_vals:
                         similar_attributes[category][field] = similar_vals
-                        needs_canonicalization = True  # We need canonicalization
                         
                     # Store exact match values if any
                     if exact_vals:
