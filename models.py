@@ -218,7 +218,7 @@ class LLM:
         prompt_text = "\n".join([turn["content"] for turn in prompt])
         
         if self.provider == "OPENAI":
-            if self.repo_id in ["gpt-4.1", "gpt-4.1-mini"]:
+            if self.repo_id.startswith("gpt-4.1"):
                 encoding = tiktoken.get_encoding("o200k_base")
             else:
                 encoding = tiktoken.encoding_for_model(self.repo_id)

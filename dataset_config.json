@@ -18,14 +18,7 @@
         "source": "huggingface",
         "repo/url": "nayohan/multi_session_chat",
         "splits": ["train", "validation", "test"],
-        "features": ["dataset", "dialogue_id", "session_id", "persona1", "persona2", "dialogue", "speaker"]
-    },
-    "FoCus": {
-        "origin": "crowdsourcing",
-        "source": "gdrive",
-        "repo/url": "https://drive.usercontent.google.com/download?id=1YmEW12HqjAjlEfZ05g8VLRux8kyUjdcI&export=download&authuser=0",
-        "splits": ["train", "validation"],
-        "features": ["dialogID", "persona", "landmark_link", "knowledge", "utterance"]
+        "features": ["dataset", "dialoug_id", "session_id", "persona1", "persona2", "dialogue", "speaker"]
     },
     "PEC": {
         "origin": "reddit",
@@ -34,6 +27,13 @@
         "splits": ["train", "validation", "test"],
         "features": ["personas", "context", "context_speakers", "response", "response_speaker"],
         "dataset_config": {"name": "all"}
+    },
+    "FoCus": {
+        "origin": "crowdsourcing",
+        "source": "gdrive",
+        "repo/url": "https://drive.usercontent.google.com/download?id=1YmEW12HqjAjlEfZ05g8VLRux8kyUjdcI&export=download&authuser=0",
+        "splits": ["train", "validation"],
+        "features": ["dialogID", "persona", "landmark_link", "knowledge", "utterance"]
     },
     "MPChat": {
         "origin": "reddit",
@@ -47,6 +47,6 @@
         "source": "gdrive",
         "repo/url": "https://drive.usercontent.google.com/download?id=1MkC5FmbRvk81EfpcHF9zASwYsUUKlQ7z&export=download&authuser=0",
         "splits": ["train", "validation", "test"],
-        "features": ["src_text", "response", "author", "histories"]
+        "features": ["src_text", "responses"]
     }
 }
