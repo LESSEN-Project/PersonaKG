@@ -204,11 +204,6 @@ class PersonaDataset:
                         "responses": entry["responses"],
                     })
             return Dataset.from_list(records)
-        
-        if sample_size > 0 and sample_size < 100000:
-            print(f"Loading up to {sample_size} samples per split from PER-CHAT dataset")
-        else:
-            warnings.warn("Training set of PER-CHAT contains almost 2M samples. Loading it will take a lot of memory.")
             
         dataset = DatasetDict({
             "train": load_custom_jsonl(os.path.join(self.output_dir, "PER-CHAT", "dialog_data", "train_data.jsonl"), sample_size),
