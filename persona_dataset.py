@@ -322,8 +322,8 @@ class PersonaDataset:
             else:
                 user2_persona_list = user2_personas
                 
-            user1_persona_text = "\n".join([p.strip() for p in user1_persona_list if p.strip()])
-            user2_persona_text = "\n".join([p.strip() for p in user2_persona_list if p.strip()])
+            user1_persona_text = [p.strip() for p in user1_persona_list if p.strip()]
+            user2_persona_text = [p.strip() for p in user2_persona_list if p.strip()]
             
             user1_utterances = []
             user2_utterances = []
@@ -473,7 +473,7 @@ class PersonaDataset:
             personas.append({
                 "id": self._generate_unique_id("MSC", persona_key),
                 "dataset_id": persona_key,
-                "persona": "\n".join(persona_list),
+                "persona": persona_list,
                 "utterances": data["utterances"],
                 "conversations": data["conversations"]
             })
@@ -534,7 +534,7 @@ class PersonaDataset:
             personas.append({
                 "id": self._generate_unique_id("PEC", speaker),
                 "dataset_id": speaker,
-                "persona": "\n".join(persona_list),
+                "persona": persona_list,
                 "utterances": data["utterances"],
                 "conversations": data["conversations"]
             })
@@ -568,7 +568,7 @@ class PersonaDataset:
             personas.append({
                 "id": self._generate_unique_id("FoCus", sample["dialogID"] + "_" + str(idx)),
                 "dataset_id": sample["dialogID"] + "_" + str(idx),
-                "persona": "\n".join(sample["persona"]).strip(),
+                "persona": sample["persona"],
                 "utterances": utterances,
                 "conversations": [conversation]
             })
@@ -640,12 +640,226 @@ class PersonaDataset:
             personas.append({
                 "id": self._generate_unique_id("MPChat", author),
                 "dataset_id": author,
-                "persona": "\n".join(data["persona_titles"]),
+                "persona": data["persona_titles"],
                 "utterances": utterances,
                 "conversations": data["conversations"]
             })
             
         return personas
+
+    def _convert_persona_graph_to_sentences(self, persona_graph):
+        """Convert persona graph to a list of sentences
+        
+        Args:
+            persona_graph: Dictionary containing persona attributes
+            
+        Returns:
+            List of persona sentences
+        """
+        sentences = []
+        processed_values = set()  # To avoid duplicates
+        
+        # Define relationship templates for different categories
+        templates = {
+            # Basic information
+            "gender": "I am a {value}.",
+            "age": "I am {value} years old.",
+            "location": "I live in {value}.",
+            "occupation": "I work as a {value}.",
+            "job": "I work as a {value}.",
+            
+            # Activities and interests
+            "hobby": "I enjoy {value}.",
+            "interest": "I'm interested in {value}.",
+            "gaming": "I play {value}.",
+            
+            # Personal traits
+            "personality": "I would describe myself as {value}.",
+            "religion": "My religion is {value}.",
+            "political_view": "My political view is {value}.",
+            "political_views": "My political view is {value}.",
+            "ethnicity": "My ethnicity is {value}.",
+            "relationship_status": "I am {value}.",
+            "education": "My education level is {value}.",
+            "income": "My income level is {value}.",
+            
+            # Favorites
+            "favorite_food": "My favorite food is {value}.",
+            "favorite_movie": "My favorite movie is {value}.",
+            "favorite_music": "My favorite music is {value}.",
+            "favorite_book": "My favorite book is {value}.",
+            "favorite_sport": "My favorite sport is {value}.",
+            
+            # Possessions
+            "pet": "I have a {value} as a pet.",
+            "pets": "I have a {value} as a pet.",
+            "possessions": "I own a {value}.",
+            
+            # Language
+            "language": "I speak {value}.",
+            "languages": "I speak {value}.",
+            
+            # Family
+            "family_members": "I have a {value} in my family.",
+            "family_member": "I have a {value} in my family.",
+            "relationship_partners": "I have a {value}.",
+            "relationship_partner": "I have a {value}.",
+            
+            # PER-CHAT specific fields
+            "living_places": "I live in {value}.",
+            "science": "I'm interested in {value}.",
+            "lifestyle": "I'm interested in {value}.",
+            "sports": "I enjoy {value}.",
+            "news and politics": "I follow {value}.",
+            "business": "I'm interested in {value}.",
+            "technology": "I use {value}.",
+        }
+        
+        # Categories that need special handling
+        plural_categories = {
+            "favorites": "One of my favorite things is {value}.",
+            "attributes": "I am {value}."
+        }
+        
+        # Fallback template for unknown categories
+        default_template = "My {category} is {value}."
+        
+        # Characters to filter out from values
+        invalid_chars = ['^', '<', '>', '\x00', '\\', '\u0000']
+        
+        # Function to normalize values
+        def normalize_value(val):
+            val_str = str(val).strip()
+            
+            # Fix apostrophe spacing (e.g., "don ' t" -> "don't")
+            val_str = val_str.replace(" ' ", "'").replace(" '", "'").replace("' ", "'")
+            
+            # Capitalize location names
+            if any(word in val_str.lower() for word in ['vegas', 'los angeles', 'california', 'nyc', 'york']):
+                words = val_str.split()
+                val_str = ' '.join([w.capitalize() for w in words])
+            
+            return val_str
+        
+        # Function to check if a value contains invalid characters or is otherwise inappropriate
+        def is_valid_value(val):
+            val_str = str(val).strip()
+            # Check for empty strings
+            if not val_str:
+                return False
+            
+            # Check for strings that are just special characters
+            if any(char in val_str for char in invalid_chars):
+                return False
+                
+            # Value should be at least 2 characters long and not just symbols
+            if len(val_str) < 2 and not val_str.isalnum():
+                return False
+                
+            # Skip common filler words when they appear alone
+            if val_str.lower() in ['a', 'an', 'the', 'and', 'or', 'but', 'of', 'in', 'on']:
+                return False
+                
+            return True
+        
+        # Check for duplicates or near-duplicates
+        def is_duplicate(val):
+            val_lower = val.lower()
+            
+            # Check for exact matches
+            if val_lower in processed_values:
+                return True
+                
+            # Check for location duplicates (e.g., "las vegas" and "vegas")
+            if any(loc in val_lower for loc in processed_values) or any(val_lower in loc for loc in processed_values):
+                if any(word in val_lower for word in ['vegas', 'angeles', 'york', 'city', 'town']):
+                    return True
+                    
+            return False
+        
+        # Handle the case where persona_graph might be a string
+        if isinstance(persona_graph, str):
+            try:
+                persona_graph = json.loads(persona_graph)
+            except json.JSONDecodeError:
+                # If it's already a string in sentence format, return it directly
+                return [persona_graph]
+        
+        # If it's not a dictionary after attempting to parse, return an empty list
+        if not isinstance(persona_graph, dict):
+            return []
+        
+        # Process each attribute in the persona graph
+        for category, value in persona_graph.items():
+            # Skip empty categories
+            if not value:
+                continue
+                
+            if isinstance(value, list):
+                # Handle list of values
+                for item in value:
+                    if is_valid_value(item):
+                        # Normalize the value
+                        normalized_item = normalize_value(item)
+                        
+                        # Skip duplicates
+                        if is_duplicate(normalized_item):
+                            continue
+                            
+                        # Track processed values
+                        processed_values.add(normalized_item.lower())
+                        
+                        # First check if it's a special plural category
+                        if category in plural_categories:
+                            template = plural_categories[category]
+                        else:
+                            template = templates.get(category, default_template)
+                        
+                        sentence = template.format(category=category, value=normalized_item)
+                        sentences.append(sentence)
+            elif is_valid_value(value):
+                # Handle single value
+                # Normalize the value
+                normalized_value = normalize_value(value)
+                
+                # Skip duplicates
+                if is_duplicate(normalized_value):
+                    continue
+                    
+                # Track processed values
+                processed_values.add(normalized_value.lower())
+                
+                # First check if it's a special plural category
+                if category in plural_categories:
+                    template = plural_categories[category]
+                else:
+                    template = templates.get(category, default_template)
+                    
+                sentence = template.format(category=category, value=normalized_value)
+                sentences.append(sentence)
+        
+        # Limit the number of sentences to a reasonable amount (similar to other datasets)
+        max_sentences = 10
+        if len(sentences) > max_sentences:
+            # Try to keep a mix of different types of information
+            basic_info = [s for s in sentences if any(x in s.lower() for x in ["i am a", "i live in", "i work as", "years old"])]
+            interests = [s for s in sentences if any(x in s.lower() for x in ["enjoy", "interested", "favorite", "hobby"])]
+            other = [s for s in sentences if s not in basic_info and s not in interests]
+            
+            # Prioritize basic info, then interests, then others
+            result = basic_info[:3]  # Up to 3 basic info sentences
+            remaining = max_sentences - len(result)
+            
+            if remaining > 0:
+                result += interests[:remaining]  # Add interests up to the remaining slots
+                remaining = max_sentences - len(result)
+                
+            if remaining > 0:
+                result += other[:remaining]  # Fill any remaining slots with other sentences
+                
+            return result
+        
+        return sentences
 
     def _get_perchat_personas(self, split="train", sample_size=100000):
         """Get personas from the PER-CHAT dataset
@@ -712,10 +926,14 @@ class PersonaDataset:
         final_personas = []
         for author, data in author_data.items():
             if author in persona_profiles:
+                # Convert the graph format persona to sentences
+                persona_sentences = self._convert_persona_graph_to_sentences(persona_profiles[author])
+                persona_text = persona_sentences if persona_sentences else []
+                
                 final_personas.append({
                     "id": self._generate_unique_id("PER-CHAT", author),
                     "dataset_id": author,
-                    "persona": persona_profiles[author],
+                    "persona": persona_text + data["utterances"],
                     "utterances": data["utterances"],
                     "conversations": data["conversations"]
                 })
