@@ -101,9 +101,22 @@ class PersonaDataset:
         """
         try:
             if self.config[dataset_name]["source"] == "huggingface":
+                dataset_dict = None
                 if "dataset_config" in self.config[dataset_name]:
-                    return load_dataset(self.config[dataset_name]["repo/url"], **self.config[dataset_name]["dataset_config"])
-                return load_dataset(self.config[dataset_name]["repo/url"])
+                    dataset_dict = load_dataset(self.config[dataset_name]["repo/url"], **self.config[dataset_name]["dataset_config"])
+                else:
+                    dataset_dict = load_dataset(self.config[dataset_name]["repo/url"])
+                
+                # Apply sample_size limit to each split
+                if sample_size > 0:
+                    limited_dict = {}
+                    for split_name, split_dataset in dataset_dict.items():
+                        if len(split_dataset) > sample_size:
+                            limited_dict[split_name] = split_dataset.select(range(sample_size))
+                        else:
+                            limited_dict[split_name] = split_dataset
+                    return DatasetDict(limited_dict)
+                return dataset_dict
             elif self.config[dataset_name]["source"] == "gdrive":
                 local_path = os.path.join(self.output_dir, dataset_name)
                 if not os.path.exists(local_path):                                  
@@ -265,7 +278,7 @@ class PersonaDataset:
             personas.append({
                 "id": self._generate_unique_id("PersonaChat", str(idx)),
                 "dataset_id": f"conversation_{idx}",
-                "persona": persona,
+                "persona_statements": persona,
                 "utterances": utterances,
                 "conversations": [conversation]
             })
@@ -362,7 +375,7 @@ class PersonaDataset:
                 personas.append({
                     "id": self._generate_unique_id("SyntheticPersonaChat", user1_id),
                     "dataset_id": user1_id,
-                    "persona": user1_persona_text,
+                    "persona_statements": user1_persona_text,
                     "utterances": user1_utterances,
                     "conversations": [user1_conversation] if user1_conversation else []
                 })
@@ -372,7 +385,7 @@ class PersonaDataset:
                 personas.append({
                     "id": self._generate_unique_id("SyntheticPersonaChat", user2_id),
                     "dataset_id": user2_id,
-                    "persona": user2_persona_text,
+                    "persona_statements": user2_persona_text,
                     "utterances": user2_utterances,
                     "conversations": [user2_conversation] if user2_conversation else []
                 })
@@ -473,7 +486,7 @@ class PersonaDataset:
             personas.append({
                 "id": self._generate_unique_id("MSC", persona_key),
                 "dataset_id": persona_key,
-                "persona": persona_list,
+                "persona_statements": persona_list,
                 "utterances": data["utterances"],
                 "conversations": data["conversations"]
             })
@@ -534,7 +547,7 @@ class PersonaDataset:
             personas.append({
                 "id": self._generate_unique_id("PEC", speaker),
                 "dataset_id": speaker,
-                "persona": persona_list,
+                "persona_statements": persona_list,
                 "utterances": data["utterances"],
                 "conversations": data["conversations"]
             })
@@ -568,7 +581,7 @@ class PersonaDataset:
             personas.append({
                 "id": self._generate_unique_id("FoCus", sample["dialogID"] + "_" + str(idx)),
                 "dataset_id": sample["dialogID"] + "_" + str(idx),
-                "persona": sample["persona"],
+                "persona_statements": sample["persona"],
                 "utterances": utterances,
                 "conversations": [conversation]
             })
@@ -640,7 +653,7 @@ class PersonaDataset:
             personas.append({
                 "id": self._generate_unique_id("MPChat", author),
                 "dataset_id": author,
-                "persona": data["persona_titles"],
+                "persona_statements": data["persona_titles"],
                 "utterances": utterances,
                 "conversations": data["conversations"]
             })
@@ -871,13 +884,13 @@ class PersonaDataset:
         Returns:
             List of personas with unique IDs, utterances, and conversations
         """
+        dataset = self.get_dataset("PER-CHAT", sample_size)[split]
+
         with open(os.path.join(self.output_dir, "PER-CHAT", "dialog_data", "user_profiles.json"), "r") as f:
             persona_profiles = json.load(f)
 
         author_data = {}
         processed_conversations = defaultdict(set)
-        
-        dataset = self.get_dataset("PER-CHAT", sample_size)[split]
         
         src_text_responses = defaultdict(list)
         for sample in dataset:
@@ -926,14 +939,13 @@ class PersonaDataset:
         final_personas = []
         for author, data in author_data.items():
             if author in persona_profiles:
-                # Convert the graph format persona to sentences
                 persona_sentences = self._convert_persona_graph_to_sentences(persona_profiles[author])
                 persona_text = persona_sentences if persona_sentences else []
                 
                 final_personas.append({
                     "id": self._generate_unique_id("PER-CHAT", author),
                     "dataset_id": author,
-                    "persona": persona_text + data["utterances"],
+                    "persona_statements": persona_text + data["utterances"],
                     "utterances": data["utterances"],
                     "conversations": data["conversations"]
                 })

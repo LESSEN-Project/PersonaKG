@@ -1,0 +1,22 @@
+Dataset,Vectorization,Total Statements,Number of Clusters,Noise Points,Noise Percentage
+PersonaChat,tfidf,2236,9,1661,74.3
+SyntheticPersonaChat,tfidf,4451,10,3232,72.6
+MSC,tfidf,3868,8,3116,80.6
+PEC,tfidf,33497,12,16585,49.5
+FoCus,tfidf,2500,17,1653,66.1
+MPChat,tfidf,5048,4,3499,69.3
+PER-CHAT,tfidf,34537,10,19788,57.3
+PersonaChat,dense,2236,11,1563,69.9
+SyntheticPersonaChat,dense,4451,14,3071,69.0
+MSC,dense,3868,8,3334,86.2
+PEC,dense,33497,0,33497,100.0
+FoCus,dense,2500,7,2218,88.7
+MPChat,dense,5048,3,4352,86.2
+PER-CHAT,dense,34537,9,25356,73.4
+PersonaChat,hybrid,2236,2,802,35.9
+SyntheticPersonaChat,hybrid,4451,2,64,1.4
+MSC,hybrid,3868,3,3462,89.5
+PEC,hybrid,33497,0,33497,100.0
+FoCus,hybrid,2500,4,942,37.7
+MPChat,hybrid,5048,2,1167,23.1
+PER-CHAT,hybrid,34537,4,764,2.2
