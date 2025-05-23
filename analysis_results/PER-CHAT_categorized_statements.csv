@@ -1,0 +1,1042 @@
+dataset_id,persona_id,statement,categories
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,male,Demographics
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,['dog'],Uncategorized
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,"['las vegas', 'los alamos', 'nevada', 'vegas']",Uncategorized
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,"['camping', 'outdoors', 'dessert foxes', 'motorcycles', 'trash', 'tesla', 'cars', 'gardening', 'guns']",Uncategorized
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,"['daughter', 'son', 'children', 'father', 'sister', 'brother', 'mother']",Personal_Background
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,['wife'],Personal_Background
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,"['coworker', 'volt', 'dealer', 'chevy volt', 'car', 'birthday', 'money', 'house', 'ev', 'phev', 'city', 'door']",Uncategorized
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,['wife'],Personal_Background
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,['biology'],Uncategorized
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,"['personal finance', 'pets and animals', 'relationships', 'spiders', 'birds', 'parenting']",Uncategorized
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,['football'],Preferences_Interests
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,['politics'],Uncategorized
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,['finance'],Uncategorized
+7a74975099c43e606800d8a9205ec41703ec2a89,d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc,['ios'],Uncategorized
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,male,Demographics
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,['india'],Uncategorized
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,"['cars', 'democracy']",Uncategorized
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,['mother'],Personal_Background
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,['home'],Uncategorized
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,"['sound of the clap', 'rofl', 'indian']",Demographics
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,"['pets and animals', 'self-help and motivation', 'dogs', 'food and beverages']",Preferences_Interests
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,"['naruto', 'star wars']",Uncategorized
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,['world news'],Uncategorized
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,['design'],Uncategorized
+8a0d7d262d95d9c10d914ff3b70f342e066aee23,890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3,['history'],Uncategorized
+101eeb53846c81b36d32c33e2b4260cb3e4ac576,a73a5b5c45db79a407edf26b63ba31ae40870d13ce6ab24597e3fbc357946458,female,Demographics
+101eeb53846c81b36d32c33e2b4260cb3e4ac576,a73a5b5c45db79a407edf26b63ba31ae40870d13ce6ab24597e3fbc357946458,['cat'],Uncategorized
+101eeb53846c81b36d32c33e2b4260cb3e4ac576,a73a5b5c45db79a407edf26b63ba31ae40870d13ce6ab24597e3fbc357946458,"['for tim/steve banter', 'uk rules', 'uk', 'rise', 'parallel universe', 'england', 'united kingdom']",Uncategorized
+101eeb53846c81b36d32c33e2b4260cb3e4ac576,a73a5b5c45db79a407edf26b63ba31ae40870d13ce6ab24597e3fbc357946458,"['kaysea', 'quinn', 'noah', 'numbers  names', 'kenza', 'tues2tues idea', 'vicky', 'modern names', 'russo', 'holland for a girl', 'callum', 'hudson', 'clover indifferent cairenn', 'scandinavian names', 'isla', 'audrey', 'aria', 'e names edit isaac', 'bastien', 'tallulah tasia tessa tula teagan tilda tara trillian', 'mathias', 'melanie', 'piper', 'wesley', 'cedar', 'birdy', 'lachlan', 'elliott', 'toby   nicknme', 'elvira', 'nicholas', 'india', 'luna', 'xavier', 'lucas', 'este', 'diego', 'luci', 'billie   girl', 'quirky names', 'fish', 'wednesdays', 'mx   nn', 'aneska', 'nathaniel', 'maryn', 'freya', 'logan', 'adrienne', 'nathaniel  favourite alexei xavier', 'arya', 'echo', 'dylan', 'kayla mae', 'max', 'ophelia', 'hannah', 'lena', 'ivory', 'raphael', 'tristine', 'avery bella', 'ronan', 'beau', 'brynn', 'charlie', 'reading', 'laitham', 'karma', 'jackson as an alternative to jack', 'annika', 'courtney din   combintion', 'eli', 'link', 'josh', 'nadia', 'maxwell', 'cleopatra', 'lina', 'madalina', 'jemima', 'alexei', 'november', 'seth', 'malachi', 'theodore', 'juliette', 'l names', 'amelia grace', 'e names', 'cenna', 'ivo', 'nicholas theodore ryan', 'labyrinthos', 'mateo', 'vanessa', 'yvette', 'sakura']","Demographics, Preferences_Interests"
+101eeb53846c81b36d32c33e2b4260cb3e4ac576,a73a5b5c45db79a407edf26b63ba31ae40870d13ce6ab24597e3fbc357946458,"['mother', 'father']",Personal_Background
+101eeb53846c81b36d32c33e2b4260cb3e4ac576,a73a5b5c45db79a407edf26b63ba31ae40870d13ce6ab24597e3fbc357946458,"['chart', 'wedding', 'style', 'girl name', 'retainer', 'favourite name', 'bullet journal', 'favourite', 'taste', 'class', 'boy name', 'cake day', 'interpretation', 'boy list', 'feeling', 'oracle deck', 'deck', 'favourite letter', 'lesson', 'answer', 'shortlist', 'list', 'support', 'gemini moon', 'emotion', 'house', 'reading', 'contribution', 'decision', 'sun sign', 'profile', 'standard', 'wishlist', 'notebook', 'faves']","Demographics, Personal_Background, Preferences_Interests, Personality_Traits"
+101eeb53846c81b36d32c33e2b4260cb3e4ac576,a73a5b5c45db79a407edf26b63ba31ae40870d13ce6ab24597e3fbc357946458,"['emetophobic', 'team not-gary', 'offering free readings today', 'worrier', 'loving shona', 'slytherin', 'advocate', 'chloe', 'feeling', 'meeting', 'soooo over people', 'virgo', 'total beginner', 'home', 'newbie', 'intp', 'dancer', 'virgo sun', 'gemini moon', 'job hunting', 'reading', 'beginner', 'planning', 'little bit ravenclaw', 'suuuper', 'little bit']","Personal_Background, Preferences_Interests, Personality_Traits, Social_Relationships"
+101eeb53846c81b36d32c33e2b4260cb3e4ac576,a73a5b5c45db79a407edf26b63ba31ae40870d13ce6ab24597e3fbc357946458,['boyfriend'],Uncategorized
+101eeb53846c81b36d32c33e2b4260cb3e4ac576,a73a5b5c45db79a407edf26b63ba31ae40870d13ce6ab24597e3fbc357946458,"['parenting', 'relationships', 'female fashion', 'fitness and nutrition']","Demographics, Preferences_Interests, Habits_Routines"
+3e3ba4fedc605802fcfce7c50b515d9b8d4a7af9,5ddad00280ddb256ac14d97aee15738a50f5c9d5ae9d9d840ed12455eec8b53a,male,Demographics
+3e3ba4fedc605802fcfce7c50b515d9b8d4a7af9,5ddad00280ddb256ac14d97aee15738a50f5c9d5ae9d9d840ed12455eec8b53a,"['ios', 'mobile']",Uncategorized
+1955f382f8fc2d10480017d73817b8c3b41c2a02,ff7bb2e3d74714e9152a4894c4e798d63a8e74ef009b922a6d5e5cc802357268,male,Demographics
+1955f382f8fc2d10480017d73817b8c3b41c2a02,ff7bb2e3d74714e9152a4894c4e798d63a8e74ef009b922a6d5e5cc802357268,['small town'],Demographics
+1955f382f8fc2d10480017d73817b8c3b41c2a02,ff7bb2e3d74714e9152a4894c4e798d63a8e74ef009b922a6d5e5cc802357268,['mother'],Personal_Background
+1955f382f8fc2d10480017d73817b8c3b41c2a02,ff7bb2e3d74714e9152a4894c4e798d63a8e74ef009b922a6d5e5cc802357268,['constantly'],Uncategorized
+1955f382f8fc2d10480017d73817b8c3b41c2a02,ff7bb2e3d74714e9152a4894c4e798d63a8e74ef009b922a6d5e5cc802357268,['minecraft'],Uncategorized
+1955f382f8fc2d10480017d73817b8c3b41c2a02,ff7bb2e3d74714e9152a4894c4e798d63a8e74ef009b922a6d5e5cc802357268,['pets and animals'],Uncategorized
+2db14c004e6ef125f85aa3678978a5718eebd11a,021730fb476b40d597309f0adf270f454da037110ef02d4e731cf14795c8aef6,male,Demographics
+2db14c004e6ef125f85aa3678978a5718eebd11a,021730fb476b40d597309f0adf270f454da037110ef02d4e731cf14795c8aef6,['liver'],Uncategorized
+2db14c004e6ef125f85aa3678978a5718eebd11a,021730fb476b40d597309f0adf270f454da037110ef02d4e731cf14795c8aef6,['brother'],Personal_Background
+2db14c004e6ef125f85aa3678978a5718eebd11a,021730fb476b40d597309f0adf270f454da037110ef02d4e731cf14795c8aef6,['girlfriend'],Uncategorized
+2db14c004e6ef125f85aa3678978a5718eebd11a,021730fb476b40d597309f0adf270f454da037110ef02d4e731cf14795c8aef6,"['egg', 'side', 'g']",Uncategorized
+2db14c004e6ef125f85aa3678978a5718eebd11a,021730fb476b40d597309f0adf270f454da037110ef02d4e731cf14795c8aef6,"['cooking', 'king of the tacos', 'serial rn', 'bacon cheeseburger idgaf', 'king of tacos', 'dreaming', 'bacon cheeseburger with a boner', 'shookith', 'prophet']",Preferences_Interests
+2db14c004e6ef125f85aa3678978a5718eebd11a,021730fb476b40d597309f0adf270f454da037110ef02d4e731cf14795c8aef6,['boxing'],Uncategorized
+2db14c004e6ef125f85aa3678978a5718eebd11a,021730fb476b40d597309f0adf270f454da037110ef02d4e731cf14795c8aef6,['art'],Uncategorized
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,male,Demographics
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,['dog'],Uncategorized
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,"['ct nick cage', 'haven', 'england']",Uncategorized
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,"['fruit', 'foreign films']",Preferences_Interests
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,"['daughter', 'brothers', 'son', 'father', 'mother']",Personal_Background
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,['wife'],Personal_Background
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,"['group', 'barber', 'youth', 'kid', 'grandchild', 'grand']",Social_Relationships
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,"['movie critic', 'italian american']","Demographics, Preferences_Interests"
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,['wife'],Personal_Background
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,"['world news', 'politics']",Uncategorized
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,['food and beverages'],Preferences_Interests
+128346fc1e56ccadd25a4b200ecae44637d48f5f,efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e,['law'],Uncategorized
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,male,Demographics
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,['dog'],Uncategorized
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,"['venice', 'europe', 'country']",Preferences_Interests
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,"['dr strange', 'privacy', 'black people']",Social_Relationships
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,['brother'],Personal_Background
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,['girlfriend'],Uncategorized
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,"['shift', 'colleague', 'uncle']","Personal_Background, Social_Relationships"
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,"['fucking troll', 'middle', 'ninja', 'toy collector', 'accident prone']",Uncategorized
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,"['in fucking communist party', 'before smartphones']",Social_Relationships
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,['world news'],Uncategorized
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,"['dungeons & dragons', 'video games', 'terraria']",Preferences_Interests
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,['pets and animals'],Uncategorized
+d306fdc150cd289e266e785107cfceff83aa649c,fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240,"['buffy the vampire slayer', 'doctor who']",Uncategorized
+c391065478603a686531cbdd50568136a5e14508,287a5603ae45501ea147fd375737b7efd93a35fb0b9a95bf87f9303adac9924e,male,Demographics
+c391065478603a686531cbdd50568136a5e14508,287a5603ae45501ea147fd375737b7efd93a35fb0b9a95bf87f9303adac9924e,['london'],Uncategorized
+c391065478603a686531cbdd50568136a5e14508,287a5603ae45501ea147fd375737b7efd93a35fb0b9a95bf87f9303adac9924e,"['male fashion', 'cats']",Demographics
+82bb111e2180a2ffb997b74ab504aa538034feab,485666ac5fe115160a7984d9a6d17701c59afeb84dcf62928462956d043d884e,male,Demographics
+82bb111e2180a2ffb997b74ab504aa538034feab,485666ac5fe115160a7984d9a6d17701c59afeb84dcf62928462956d043d884e,['minnesota'],Uncategorized
+82bb111e2180a2ffb997b74ab504aa538034feab,485666ac5fe115160a7984d9a6d17701c59afeb84dcf62928462956d043d884e,['mother'],Personal_Background
+82bb111e2180a2ffb997b74ab504aa538034feab,485666ac5fe115160a7984d9a6d17701c59afeb84dcf62928462956d043d884e,"['appearance', 'laptop', 'bike']",Preferences_Interests
+82bb111e2180a2ffb997b74ab504aa538034feab,485666ac5fe115160a7984d9a6d17701c59afeb84dcf62928462956d043d884e,"['good person', 'awkward person']",Uncategorized
+82bb111e2180a2ffb997b74ab504aa538034feab,485666ac5fe115160a7984d9a6d17701c59afeb84dcf62928462956d043d884e,['depression and anxiety'],Personality_Traits
+bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809,d113311e223df710d3846018e332d209518bfeef5e98a68754bd2fddc2497d98,male,Demographics
+bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809,d113311e223df710d3846018e332d209518bfeef5e98a68754bd2fddc2497d98,['pig'],Uncategorized
+bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809,d113311e223df710d3846018e332d209518bfeef5e98a68754bd2fddc2497d98,"['big cups', 'smaller cups', 'photography']",Uncategorized
+bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809,d113311e223df710d3846018e332d209518bfeef5e98a68754bd2fddc2497d98,"['mother', 'father', 'sister']",Personal_Background
+bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809,d113311e223df710d3846018e332d209518bfeef5e98a68754bd2fddc2497d98,"['girlfriend', 'wife']",Personal_Background
+bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809,d113311e223df710d3846018e332d209518bfeef5e98a68754bd2fddc2497d98,"['birthday', 'coffee', 'asshole', 'leg', 'virginity']",Uncategorized
+bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809,d113311e223df710d3846018e332d209518bfeef5e98a68754bd2fddc2497d98,"['astronaut', 'ghost', 'legit', 'fourth generation', 'stud']",Uncategorized
+bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809,d113311e223df710d3846018e332d209518bfeef5e98a68754bd2fddc2497d98,['wife'],Personal_Background
+bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809,d113311e223df710d3846018e332d209518bfeef5e98a68754bd2fddc2497d98,"['pets and animals', 'tattoos']",Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,male,Demographics
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,"['place', 'asheville', 'wnc', 'pocket', 'north carolina', 'nc']",Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,"['camping', 'hiking', 'cheese', 'horses', 'slapshot', 'backpacking', 'cars', 'pictures of cats']",Preferences_Interests
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,"['mother', 'father', 'brother']",Personal_Background
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,['girlfriend'],Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,"['comment', 'apology']",Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,"['catholic', 'planning']",Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,['girlfriend'],Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,['in dc'],Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,"['politics', 'world news']",Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,['christianity'],Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,"['punk', 'hardcore']",Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,['survival'],Uncategorized
+05bc4f6f6f6bb573d85181292f88efbd50c59547,36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04,['dungeons & dragons'],Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,male,Demographics
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,['cat'],Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,"['california', 'japan', 'hong kong', 'san francisco', 'zero-crime neighborhood', 'china']",Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,"['beds', 'wash', 'instrumentals', 'reddit', 'guns']",Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,"['brother', 'father', 'son']",Personal_Background
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,['wife'],Personal_Background
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,"['desktop', 'glass', 'iphone']",Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,"['high af', '\\*so\\']",Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,"['politics', 'world news']",Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,['seinfeld'],Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,"['architecture', 'law', 'art']",Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,"['design', 'internet']",Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,['economics'],Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,"['history', 'archaeology']",Uncategorized
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,"['tea', 'pets and animals', 'health']",Habits_Routines
+6fa65e005cc7ba05dc62c263af1ea289902ce6d1,312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf,['environment'],Uncategorized
+750329d9f0f06f064c23bff94a5536b6068811e8,6306a8748dab776b5cc1a61fc0913077f97ea428a761dc7ac8357c3a5f2746fd,male,Demographics
+750329d9f0f06f064c23bff94a5536b6068811e8,6306a8748dab776b5cc1a61fc0913077f97ea428a761dc7ac8357c3a5f2746fd,"['eggs', 'pineapple', 'pizza', 'mountains', 'long distance']",Uncategorized
+750329d9f0f06f064c23bff94a5536b6068811e8,6306a8748dab776b5cc1a61fc0913077f97ea428a761dc7ac8357c3a5f2746fd,['son'],Personal_Background
+750329d9f0f06f064c23bff94a5536b6068811e8,6306a8748dab776b5cc1a61fc0913077f97ea428a761dc7ac8357c3a5f2746fd,['girlfriend'],Uncategorized
+750329d9f0f06f064c23bff94a5536b6068811e8,6306a8748dab776b5cc1a61fc0913077f97ea428a761dc7ac8357c3a5f2746fd,"['teenager', 'kid', 'helicopter']",Uncategorized
+750329d9f0f06f064c23bff94a5536b6068811e8,6306a8748dab776b5cc1a61fc0913077f97ea428a761dc7ac8357c3a5f2746fd,['pets and animals'],Uncategorized
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,male,Demographics
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,"['fish', 'dog']",Uncategorized
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,"['vietnam', 'asia', 'near beach', 'danang', 'apartment', '5th floor', 'seattle', 'country', 'vacation']",Preferences_Interests
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,"['automobiles', 'gay men', 'jokes of all kinds of morbidity', 'macy', 'burgers', 'eurotrip', 'guitar', 'cars', 'mr. spock']",Personality_Traits
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,"['daughter', 'mother', 'sister', 'brother']",Personal_Background
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,['girlfriend'],Uncategorized
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,"['car', 'cat', 'drink', 'phone', 'batch', 'pet peeve']",Preferences_Interests
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,"['fucking moron', 'westerner', 'morbid humor type of person', 'teacher', 'american', 'shitty teacher', 'elephant', 'car guy', 'foreigner', 'navy veteran', 'bad person']","Demographics, Personal_Background, Personality_Traits"
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,['girlfriend'],Uncategorized
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,['police'],Uncategorized
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,"['pets and animals', 'cooking', 'birds', 'relationships']",Preferences_Interests
+c22fbcc3fbb3286d348387d73888b66c1c9e09ba,bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c,['design'],Uncategorized
+0dc000fb7dee9665369f1cbde3eeaeb51cd0c052,1dc4dbe024af1740f17bc4dbcd65c979df20c9da0775093e4acc7af6dbb95819,male,Demographics
+0dc000fb7dee9665369f1cbde3eeaeb51cd0c052,1dc4dbe024af1740f17bc4dbcd65c979df20c9da0775093e4acc7af6dbb95819,['country'],Preferences_Interests
+0dc000fb7dee9665369f1cbde3eeaeb51cd0c052,1dc4dbe024af1740f17bc4dbcd65c979df20c9da0775093e4acc7af6dbb95819,"['eggs', 'zayden', 'bbq', 'pickled herring']",Uncategorized
+0dc000fb7dee9665369f1cbde3eeaeb51cd0c052,1dc4dbe024af1740f17bc4dbcd65c979df20c9da0775093e4acc7af6dbb95819,"['son', 'father', 'sister', 'brother', 'mother']",Personal_Background
+0dc000fb7dee9665369f1cbde3eeaeb51cd0c052,1dc4dbe024af1740f17bc4dbcd65c979df20c9da0775093e4acc7af6dbb95819,['wife'],Personal_Background
+0dc000fb7dee9665369f1cbde3eeaeb51cd0c052,1dc4dbe024af1740f17bc4dbcd65c979df20c9da0775093e4acc7af6dbb95819,"['wedding', 'hair', 'grandparent', 'responsibility', 'depression', 'leg', 'birthday', 'throat', 'pod', 'nose', 'child', 'dream', 'foot']","Personal_Background, Personality_Traits, Goals_Aspirations"
+0dc000fb7dee9665369f1cbde3eeaeb51cd0c052,1dc4dbe024af1740f17bc4dbcd65c979df20c9da0775093e4acc7af6dbb95819,"['dad', 'pharmaceutical production operator', 'big fan of sweet baby', 'terrible singer', 'god']",Personal_Background
+0dc000fb7dee9665369f1cbde3eeaeb51cd0c052,1dc4dbe024af1740f17bc4dbcd65c979df20c9da0775093e4acc7af6dbb95819,['wife'],Personal_Background
+0dc000fb7dee9665369f1cbde3eeaeb51cd0c052,1dc4dbe024af1740f17bc4dbcd65c979df20c9da0775093e4acc7af6dbb95819,['relationships'],Uncategorized
+6f88a57b804dffb05f07ee78e02223947d9055aa,9ce3ef2227a64dc32022b3c0b74faaec0408021c21a4c0001523eaa569e97e1f,male,Demographics
+6f88a57b804dffb05f07ee78e02223947d9055aa,9ce3ef2227a64dc32022b3c0b74faaec0408021c21a4c0001523eaa569e97e1f,"['mini ore', 'peony', 'kamen rider w', 'infini', 'batman']",Uncategorized
+6f88a57b804dffb05f07ee78e02223947d9055aa,9ce3ef2227a64dc32022b3c0b74faaec0408021c21a4c0001523eaa569e97e1f,['mother'],Personal_Background
+6f88a57b804dffb05f07ee78e02223947d9055aa,9ce3ef2227a64dc32022b3c0b74faaec0408021c21a4c0001523eaa569e97e1f,['orb'],Uncategorized
+6f88a57b804dffb05f07ee78e02223947d9055aa,9ce3ef2227a64dc32022b3c0b74faaec0408021c21a4c0001523eaa569e97e1f,"['u/footofaep', 'sand guardian', 'witewawwy']",Uncategorized
+6f88a57b804dffb05f07ee78e02223947d9055aa,9ce3ef2227a64dc32022b3c0b74faaec0408021c21a4c0001523eaa569e97e1f,['wife'],Personal_Background
+6f88a57b804dffb05f07ee78e02223947d9055aa,9ce3ef2227a64dc32022b3c0b74faaec0408021c21a4c0001523eaa569e97e1f,['fire emblem'],Uncategorized
+6f88a57b804dffb05f07ee78e02223947d9055aa,9ce3ef2227a64dc32022b3c0b74faaec0408021c21a4c0001523eaa569e97e1f,"['marvel', 'dc comics', 'science fiction', 'x-men']",Uncategorized
+2168250be01c43791f88e7c8ad875c0396307047,e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060,male,Demographics
+2168250be01c43791f88e7c8ad875c0396307047,e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060,['cat'],Uncategorized
+2168250be01c43791f88e7c8ad875c0396307047,e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060,"['soup', 'dogs', 'angel', 'avionics', 'being fucked in the ass']",Uncategorized
+2168250be01c43791f88e7c8ad875c0396307047,e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060,"['son', 'father', 'sister', 'brother', 'sisters', 'mother']",Personal_Background
+2168250be01c43791f88e7c8ad875c0396307047,e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060,['girlfriend'],Uncategorized
+2168250be01c43791f88e7c8ad875c0396307047,e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060,"['school', 'dream', 'foot', 'dude', 'butt', 'computer']","Personal_Background, Goals_Aspirations"
+2168250be01c43791f88e7c8ad875c0396307047,e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060,"['bit claustrophobic', 'redditor', 'american', 'reading', 'option', 'pinto beans', 'new pickle king']","Demographics, Preferences_Interests"
+2168250be01c43791f88e7c8ad875c0396307047,e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060,['wife'],Personal_Background
+2168250be01c43791f88e7c8ad875c0396307047,e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060,"['design', 'social media']",Social_Relationships
+2168250be01c43791f88e7c8ad875c0396307047,e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060,['dwarf fortress'],Uncategorized
+f491028c794855d1611365b07d4525f7b98173ae,654a38a9079aa302e0636c09e2ec74a5a5864f7d5621701484330e1b74af0f34,male,Demographics
+f491028c794855d1611365b07d4525f7b98173ae,654a38a9079aa302e0636c09e2ec74a5a5864f7d5621701484330e1b74af0f34,"['knives', 'toblerone', 'skiing corsair', 'cars', 'pepsi']",Uncategorized
+f491028c794855d1611365b07d4525f7b98173ae,654a38a9079aa302e0636c09e2ec74a5a5864f7d5621701484330e1b74af0f34,"['mother', 'father']",Personal_Background
+f491028c794855d1611365b07d4525f7b98173ae,654a38a9079aa302e0636c09e2ec74a5a5864f7d5621701484330e1b74af0f34,['girlfriend'],Uncategorized
+f491028c794855d1611365b07d4525f7b98173ae,654a38a9079aa302e0636c09e2ec74a5a5864f7d5621701484330e1b74af0f34,"['girl', 'leg']",Demographics
+f491028c794855d1611365b07d4525f7b98173ae,654a38a9079aa302e0636c09e2ec74a5a5864f7d5621701484330e1b74af0f34,['child'],Personal_Background
+f491028c794855d1611365b07d4525f7b98173ae,654a38a9079aa302e0636c09e2ec74a5a5864f7d5621701484330e1b74af0f34,"['fitness and nutrition', 'dating']","Demographics, Preferences_Interests, Habits_Routines"
+f491028c794855d1611365b07d4525f7b98173ae,654a38a9079aa302e0636c09e2ec74a5a5864f7d5621701484330e1b74af0f34,['the binding of isaac'],Uncategorized
+f491028c794855d1611365b07d4525f7b98173ae,654a38a9079aa302e0636c09e2ec74a5a5864f7d5621701484330e1b74af0f34,['attack on titan'],Uncategorized
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,female,Demographics
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,"['religious household', 'asian country', 'middle']","Preferences_Interests, Personality_Traits"
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,"['james', 'yee haw', 'men']",Uncategorized
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,"['son', 'father', 'sister', 'brother', 'mother']",Personal_Background
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,['wife'],Personal_Background
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,"['income', 'hair', 'period', 'neighbor', 'internship', 'perception', 'language', 'dude']",Social_Relationships
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,"['muslim', 'intern', 'person', 'planning', 'child', 'childfree', 'reading', 'confusion', 'def valuable trust']","Personal_Background, Preferences_Interests"
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,['boyfriend'],Uncategorized
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,"['in religious household', 'in traditional household']",Personality_Traits
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,"['pets and animals', 'cats', 'relationships', 'food and beverages', 'dating']","Demographics, Preferences_Interests"
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,['design'],Uncategorized
+e28ddc799fe165a883ff107b6718627ae1ecc7e4,8c17e8bbe82cebbf69dcac417d269f04af9f124fa1308a2d6f06fcbd35378841,['british tv'],"Demographics, Preferences_Interests"
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,male,Demographics
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,['dog'],Uncategorized
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,['world'],Uncategorized
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,['chickpeas'],Uncategorized
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,"['mother', 'father', 'brother']",Personal_Background
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,"['school', 'meaning', 'player', 'shih tzu', 'dog', 'hometown', 'understanding', 'campaign', 'character']",Personal_Background
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,"['unfamilliar', 'altmer mage', 'sucker for macbeth', 'modron man', 'aware meridia']",Demographics
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,"['dungeons & dragons', 'dark souls', 'video games', 'elder scrolls']",Preferences_Interests
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,"['food and beverages', 'pets and animals', 'cooking']",Preferences_Interests
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,['star wars'],Uncategorized
+4220698c420fc0ae5858bf747f40efb2251b9ed8,2c0ca16fba17463acad0ecd174013aec3702086fcf1281e9529594e1528c9ea0,['biology'],Uncategorized
+03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa,212adaa5432232a283405a7ae08b1e722afc29348975c4ef0682c1bc83dd195a,male,Demographics
+03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa,212adaa5432232a283405a7ae08b1e722afc29348975c4ef0682c1bc83dd195a,"['germany', 'side']",Uncategorized
+03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa,212adaa5432232a283405a7ae08b1e722afc29348975c4ef0682c1bc83dd195a,"['counterstrike', 'fiffy   plyer', 'zaaz', 'balance  maps', 'pixel experience', '/new', 'graphics  boyfriend3', 'bullets']",Uncategorized
+03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa,212adaa5432232a283405a7ae08b1e722afc29348975c4ef0682c1bc83dd195a,"['inventory', 'pc', 'ocd', 'randoms', 'g700', 'game', '144hz', 'daily', 'crosshair', 'life everytime', 'mouse']","Preferences_Interests, Habits_Routines"
+03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa,212adaa5432232a283405a7ae08b1e722afc29348975c4ef0682c1bc83dd195a,"['simple german', 'hesistant', 'asian', 'apex predator', 'simple weeb', 'tellin', 'reading', 'wraith main', 's2 predator', 'planning on building a facebook machine', 'proud member of the a4 club', 'german', 'cs vet']","Demographics, Preferences_Interests, Personality_Traits"
+03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa,212adaa5432232a283405a7ae08b1e722afc29348975c4ef0682c1bc83dd195a,['girlfriend'],Uncategorized
+03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa,212adaa5432232a283405a7ae08b1e722afc29348975c4ef0682c1bc83dd195a,"['guild wars', 'counter-strike', 'battlefield', 'overwatch', 'league of legends', 'hearthstone', 'grand theft auto', 'video games']",Preferences_Interests
+03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa,212adaa5432232a283405a7ae08b1e722afc29348975c4ef0682c1bc83dd195a,"['hardware', 'sysadmin']",Uncategorized
+03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa,212adaa5432232a283405a7ae08b1e722afc29348975c4ef0682c1bc83dd195a,['star wars'],Uncategorized
+03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa,212adaa5432232a283405a7ae08b1e722afc29348975c4ef0682c1bc83dd195a,"['food and beverages', 'cooking']",Preferences_Interests
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,female,Demographics
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,"['cat', 'dog']",Uncategorized
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,"['toronto', 'on water', 'ontario', 'over half hr', 'london', 'at end', 'nice home', 'dream', 'city', 'dream world']","Personality_Traits, Goals_Aspirations"
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,"['icecream', 'moxie', 'american eagle jeans', 'google maps', 'neons', 'truckers', 'heist movies', 'florence', 'dc shoes', 'marble slab', 'cars', 'paranormal', 'breakfast', 'cartoons', 'yogen fruz', 'movies', 'divine chicken  wine', 'police reports with typos', 'ya east park', 'tv', 'cheesecakes', 'food', 'new clothes', 'wrong numbers', 'gardening']","Demographics, Preferences_Interests"
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,"['brothers', 'father', 'sister', 'brother', 'mother']",Personal_Background
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,['girlfriend'],Uncategorized
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,"['hair', 'car', 'face', 's/o ’', 'interest', 'doc', 'depression', 'forehead', 'grandpa', 'favourite', 'aunt', 'thermostat', 'class', 'blog', 'phone', 'grandmother', 'aunt condo', 'vw golf', 'option', 'bucket list', 'treatment', 'g1', 'weed', 'mazda', 'physician', 'nana', 'buddy', 'teeth', 'house', 'number', 'sibling', 'year', 'kid', 'debt', 'tv', 'doggo', 'waist', 's/o', 'nana ’', 'arm', 'battery', 'anger']","Personal_Background, Preferences_Interests, Personality_Traits"
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,"['imaging crows', 'long limb with no shape', 'low income', 'part time w/ no min guarantee', 'dr', 'planning', 'young female driver', 'lactose intolerant', 'newbie canadian gal', 'school bus driver', 'cook in the house', 'source', 'mod', 'chick']","Demographics, Personal_Background, Preferences_Interests"
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,['boyfriend'],Uncategorized
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,"['food and beverages', 'health', 'dogs', 'depression and anxiety', 'fashion and beauty', 'smoking and tobacco']","Preferences_Interests, Personality_Traits, Habits_Routines"
+8285a776fd60b145ed2afc145cdf2b926b93ed8b,ae5309a4d1a139e32e50293e939dee979a252621650abaf37862b8714c16639c,['travel'],Preferences_Interests
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,female,Demographics
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,['dog'],Uncategorized
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,"['los angeles', 'florida']",Uncategorized
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,"['kaitlyn', 'scotland', 'kevin', 'cetaphil', 'british weddings', 'minnesotans', 'nicole', 'tommy', 'thayer ’', 'highland coos', 'broadway', 'canada', 'petty revenge']",Demographics
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,"['mother', 'sister']",Personal_Background
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,"['test', 'school', 'class', 'content review', 'tutor', 'year', 'score', 'center', 'secondary']",Personal_Background
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,"['cheap date', 'bundle of nerves', 'super non-trad student', 'ca resident', 'west coast viewer', 'random person on the internet', 'game', '5th generation dodgers fan', 'testing at the end of this month', 'reading', 'super non-traditional student', 'light weight', 'aunt']","Personal_Background, Preferences_Interests"
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,['big brother'],Personal_Background
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,['premed'],Uncategorized
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,"['baseball', 'boston redsox']",Preferences_Interests
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,['disney'],Uncategorized
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,"['fitness and nutrition', 'food and beverages', 'relationships', 'pets and animals', 'baking']","Preferences_Interests, Habits_Routines"
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,['universities and colleges'],Personal_Background
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,['travel'],Preferences_Interests
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,['judaism'],Uncategorized
+f179711c18514780c1b0257643d893ef1cf5a081,f4c525f548cbd6ab47b5330a54a98be4c582588be23bada65fc9c0ab43c60a34,['politics'],Uncategorized
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,male,Demographics
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,['dog'],Uncategorized
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,['dad'],Personal_Background
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,"['tokyo ghoul op', 'zelda lots', 'anime', 'hentai', 'democracy', 'parrots tho']",Uncategorized
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,"['mother', 'father', 'brother']",Personal_Background
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,['girlfriend'],Uncategorized
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,"['health', 'grade']",Habits_Routines
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,"['bully', 'planning', '17y/o male', 'bully in the story', 'asshole', 'nervous sleeper', 'law']","Demographics, Personality_Traits"
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,['girlfriend'],Uncategorized
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,['pets and animals'],Uncategorized
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,['minecraft'],Uncategorized
+8487a8406f04273c554e2e578c3a667648916790,3be56a45198125a4ccc379a25390738aa67de8de0fc788f38eead95320384857,['software'],Uncategorized
+f2ddf323cbf1466909e7e09f048b5e781f523d4a,aed0c37fa4cc32a6e67dfa0d223c1590e2f4cefc1523cc515c2c7f173a6fd8fe,male,Demographics
+f2ddf323cbf1466909e7e09f048b5e781f523d4a,aed0c37fa4cc32a6e67dfa0d223c1590e2f4cefc1523cc515c2c7f173a6fd8fe,['cat'],Uncategorized
+f2ddf323cbf1466909e7e09f048b5e781f523d4a,aed0c37fa4cc32a6e67dfa0d223c1590e2f4cefc1523cc515c2c7f173a6fd8fe,"['gunlance', 'rise gunlance more']",Uncategorized
+f2ddf323cbf1466909e7e09f048b5e781f523d4a,aed0c37fa4cc32a6e67dfa0d223c1590e2f4cefc1523cc515c2c7f173a6fd8fe,"['grief', 'video', 'guide', 'comparison', 'fps', 'language', 'theory', 'conclusion']",Uncategorized
+f2ddf323cbf1466909e7e09f048b5e781f523d4a,aed0c37fa4cc32a6e67dfa0d223c1590e2f4cefc1523cc515c2c7f173a6fd8fe,"['building', 'reading', 'skill hungry', 'amateur gunlancer', 'okey', 'lich']",Preferences_Interests
+f2ddf323cbf1466909e7e09f048b5e781f523d4a,aed0c37fa4cc32a6e67dfa0d223c1590e2f4cefc1523cc515c2c7f173a6fd8fe,"['monster hunter', 'video games', 'hearthstone']",Preferences_Interests
+f2ddf323cbf1466909e7e09f048b5e781f523d4a,aed0c37fa4cc32a6e67dfa0d223c1590e2f4cefc1523cc515c2c7f173a6fd8fe,['programming'],Uncategorized
+f2ddf323cbf1466909e7e09f048b5e781f523d4a,aed0c37fa4cc32a6e67dfa0d223c1590e2f4cefc1523cc515c2c7f173a6fd8fe,['game of thrones'],Preferences_Interests
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,male,Demographics
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,"['brooklyn', 'above gym', 'new york city', 'ny', 'smallish place', 'nyc', 'albany']","Preferences_Interests, Habits_Routines"
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,"['gretzky', 'canada']",Uncategorized
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,"['mother', 'father', 'sister']",Personal_Background
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,['girlfriend'],Uncategorized
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,"['regular user', 'clark griswald', 'hank', 'legend', 'juicy steak', 'shoppg   store', 'minutes']",Habits_Routines
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,['wife'],Personal_Background
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,['board/card games'],Preferences_Interests
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,"['baseball', 'hockey']",Preferences_Interests
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,['world news'],Uncategorized
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,['cats'],Uncategorized
+627809b826e1a364fb65664e0749e9e9eb90081d,f2a7ce547094c5c161819aa6c61b0aaa26870627a8dacb8dfdd8a887e82d09a1,"['mst3k', 'the simpsons']",Uncategorized
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,male,Demographics
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,"['toronto', 'cities', 'suburbs', 'near shit', 'bc', 'vancouver', 'small town', 'canada', 'bunch']",Demographics
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,"['ken', 'dune', 'reading peoples rants', 'curvy natural redheads  freckles', 'isohunt', 'alcohol', 'weezer', 'writing']",Preferences_Interests
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,"['brothers', 'father', 'sister-in-law', 'brother', 'mother']",Personal_Background
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,['girlfriend'],Uncategorized
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,"['folk', 'redditor', 'niece', 'shop', 'account', 'pant', 'favourite', 'taste', 'class', 'birthday', 'career', 'phone', 'laptop', 'fellow redditor', 'comment', 'sibling', 'team', 'apartment', 'hometown', 'mistake', 'case', 'company']","Personal_Background, Preferences_Interests, Social_Relationships"
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,"['paranoid nerd', 'casual user of many drugs', 'few years older', 'marie of romania', 'omw to detox', 'addict', 'splitting hairs', 'reading fucking book', 'massive nerd', 'total introvert', 'professional software person', 'cooking dinner', 'always voting', 'sre with a few yrs experience', 'tourist in this subreddit', 'gen', 'fool', 'nerd', 'massive computer nerd', 'software developer', 'sarcastic ass', 'huge fan of the end of the world', 'exception to the rule', 'many years', 'oldschool arg player', 'highschool dropout']","Preferences_Interests, Personality_Traits"
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,['in quieter neighbourhood'],Uncategorized
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,"['sysadmin', 'programming', 'linux', 'python']",Uncategorized
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,"['personal finance', 'relationships', 'addictions and recovery']",Uncategorized
+72155748e939f50a6f3bde77aee5ae7b7c499725,90b74253dcafa6fa28e5733daf8b196507d492e8f5cb8015cf76203b8eecd6c6,['science fiction'],Uncategorized
+a6171234e1a4ec65a39ad55aa0aa058eb98dff83,8d5e83fdffff5982831c96d10b4cd4edb54774c6f3d2c03789e0d7ec01a8f8b4,male,Demographics
+a6171234e1a4ec65a39ad55aa0aa058eb98dff83,8d5e83fdffff5982831c96d10b4cd4edb54774c6f3d2c03789e0d7ec01a8f8b4,"['big butts', 'breathing texts', 'hunting']",Uncategorized
+a6171234e1a4ec65a39ad55aa0aa058eb98dff83,8d5e83fdffff5982831c96d10b4cd4edb54774c6f3d2c03789e0d7ec01a8f8b4,"['mother', 'father']",Personal_Background
+a6171234e1a4ec65a39ad55aa0aa058eb98dff83,8d5e83fdffff5982831c96d10b4cd4edb54774c6f3d2c03789e0d7ec01a8f8b4,['wife'],Personal_Background
+a6171234e1a4ec65a39ad55aa0aa058eb98dff83,8d5e83fdffff5982831c96d10b4cd4edb54774c6f3d2c03789e0d7ec01a8f8b4,"['dog', 'game']",Preferences_Interests
+a6171234e1a4ec65a39ad55aa0aa058eb98dff83,8d5e83fdffff5982831c96d10b4cd4edb54774c6f3d2c03789e0d7ec01a8f8b4,"['sane pers  reddit', 'planning', 'big kid']",Uncategorized
+a6171234e1a4ec65a39ad55aa0aa058eb98dff83,8d5e83fdffff5982831c96d10b4cd4edb54774c6f3d2c03789e0d7ec01a8f8b4,['wife'],Personal_Background
+a6171234e1a4ec65a39ad55aa0aa058eb98dff83,8d5e83fdffff5982831c96d10b4cd4edb54774c6f3d2c03789e0d7ec01a8f8b4,"['world news', 'politics']",Uncategorized
+a6171234e1a4ec65a39ad55aa0aa058eb98dff83,8d5e83fdffff5982831c96d10b4cd4edb54774c6f3d2c03789e0d7ec01a8f8b4,"['xbox', 'video games']",Preferences_Interests
+a6171234e1a4ec65a39ad55aa0aa058eb98dff83,8d5e83fdffff5982831c96d10b4cd4edb54774c6f3d2c03789e0d7ec01a8f8b4,['pets and animals'],Uncategorized
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,male,Demographics
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,['dog'],Uncategorized
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,"['northern mnesota', 'mid 1960s', 'pennsylvania', 'mnesota', 'duluth', 'dijon mustard episode', 'apartment', 'fourth floor apartment', 'apartment buildg', 'apartments']",Uncategorized
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,"['teaching', 'school', 'math', 'raisins']",Personal_Background
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,"['son', 'father', 'sister', 'brother', 'sons', 'mother']",Personal_Background
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,"['girlfriend', 'wife']",Personal_Background
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,"['foot', 'car', 'arm', 'cheek', 'apartment', 'child', 'phone', 'fil', 'grandson', 'feeling', 'kid', 'leg', 'boy']","Demographics, Personal_Background, Personality_Traits"
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,"['america', 'grampa', 'insane lefty']",Uncategorized
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,['wife'],Personal_Background
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,['in era'],Uncategorized
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,"['politics', 'world news']",Uncategorized
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,['atheism'],Uncategorized
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,"['personal finance', 'pets and animals']",Uncategorized
+f3a490ceb976e7adf0cbeb213371795128597226,72bcb4e85921128d40f03302827971c2d3316745e1d9f60f70f926cabf9a7415,['history'],Uncategorized
+651fd225d5db46e0521fde62bb39cae1bc5ab942,09a80185a2fce277aec10594f80f72929b224828253c4a61eff04ef0958be917,male,Demographics
+651fd225d5db46e0521fde62bb39cae1bc5ab942,09a80185a2fce277aec10594f80f72929b224828253c4a61eff04ef0958be917,['cat'],Uncategorized
+651fd225d5db46e0521fde62bb39cae1bc5ab942,09a80185a2fce277aec10594f80f72929b224828253c4a61eff04ef0958be917,"['with fear', 'gopher']",Uncategorized
+651fd225d5db46e0521fde62bb39cae1bc5ab942,09a80185a2fce277aec10594f80f72929b224828253c4a61eff04ef0958be917,"['mega evolution', 'bisharp', 'unusual typings', 'dinosaurs', 'nb', 'pvp', 'squeak squad', 'elementalist lux', 'interesting types', 'zes']",Uncategorized
+651fd225d5db46e0521fde62bb39cae1bc5ab942,09a80185a2fce277aec10594f80f72929b224828253c4a61eff04ef0958be917,"['mother', 'father']",Personal_Background
+651fd225d5db46e0521fde62bb39cae1bc5ab942,09a80185a2fce277aec10594f80f72929b224828253c4a61eff04ef0958be917,"['neck', 'house', 'mistake', 'dude']",Uncategorized
+651fd225d5db46e0521fde62bb39cae1bc5ab942,09a80185a2fce277aec10594f80f72929b224828253c4a61eff04ef0958be917,"['fan  good ol ’ steelix', 'senate', 'outcast  school']",Personal_Background
+651fd225d5db46e0521fde62bb39cae1bc5ab942,09a80185a2fce277aec10594f80f72929b224828253c4a61eff04ef0958be917,"['league of legends', 'pokemon', 'video games', 'destiny', 'terraria', 'dungeons & dragons']",Preferences_Interests
+651fd225d5db46e0521fde62bb39cae1bc5ab942,09a80185a2fce277aec10594f80f72929b224828253c4a61eff04ef0958be917,"['relationships', 'personality', 'self-help and motivation', 'depression and anxiety']",Personality_Traits
+651fd225d5db46e0521fde62bb39cae1bc5ab942,09a80185a2fce277aec10594f80f72929b224828253c4a61eff04ef0958be917,['manga'],Uncategorized
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,female,Demographics
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,"['az', 'arizona', 'depression']",Personality_Traits
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,"['minecraft  occasi', 'konosuba']",Uncategorized
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,"['daughter', 'mother', 'children']",Personal_Background
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,['husband'],Personal_Background
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,"['cousin', 'baby', 'kid', 'pub', 'child']",Personal_Background
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,"['sailor moon  work', 'server', 'anime']",Personal_Background
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,['husband'],Personal_Background
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,"['parenting', 'aquariums']",Uncategorized
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,['harry potter'],Uncategorized
+8764a223ca1af7d1792e76a58bf3b1209bf73ad3,5e4c4169ea4c98695f8ebef1518cc069f6ebbd2bbfa9e4c1321e71a4b3f50031,['runescape'],Uncategorized
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,female,Demographics
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,"['dog', 'cat']",Uncategorized
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,"['cold climate', 'mn', 'minnesota', 'midwest usa']",Uncategorized
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,"['spice cake', 'alton', 'egg salad', 'meat', 'buffalo wings', 'greige', 'chickens', 'hair   guys', 'waffles', 'home improvement', 'design and decor', 'muenster', 'keto', 'goldens', 'snoopy', 'calligraphy', 'gardening']",Uncategorized
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,"['brothers', 'son', 'father', 'brother', 'mother']",Personal_Background
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,['husband'],Personal_Background
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,"['kitchen', 'apology', 'hero', 'condolence', 'tomato', 'grandmother', 'fil', 'doctor', 'username', 'home', 'cabinet', 'list', 'hub', 'house', 'mil', 'health', 'kryptonite', 'bday', 'gmom', 'recipe', 'dil', 'weakness', 'sil']","Preferences_Interests, Habits_Routines"
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,"['understanding information in this link', 'freak', 'jelly', 'compassionate listener', 'mary poppins', 'baking', 'breathing', 'american', 'bit jelly', 'dork', 'bit jealous', 'baker', 'novice']","Demographics, Preferences_Interests"
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,['husband'],Personal_Background
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,"['baking', 'pets and animals', 'food and beverages', 'cooking', 'shopping', 'fitness and nutrition', 'keto', 'bread', 'personal finance']","Preferences_Interests, Habits_Routines"
+fe374743dd856c29f2117723cef01c1fdc3b3b5b,554f9686b409de8b60ce634ce2889566dae6e1308a0775c30764925c8cb6479c,['art'],Uncategorized
+bd42a28607025a98ff2c7df361f815aea9ee3ea9,86a7f54650e0cb1a97c450ef265f350a1f6a1d38b74b7ce9dac9d412950b56ab,male,Demographics
+bd42a28607025a98ff2c7df361f815aea9ee3ea9,86a7f54650e0cb1a97c450ef265f350a1f6a1d38b74b7ce9dac9d412950b56ab,['mentality'],Uncategorized
+bd42a28607025a98ff2c7df361f815aea9ee3ea9,86a7f54650e0cb1a97c450ef265f350a1f6a1d38b74b7ce9dac9d412950b56ab,"['eclairs', 'soup life', 'mistery', 'minecraft']",Uncategorized
+bd42a28607025a98ff2c7df361f815aea9ee3ea9,86a7f54650e0cb1a97c450ef265f350a1f6a1d38b74b7ce9dac9d412950b56ab,"['son', 'father', 'sister', 'brother', 'mother']",Personal_Background
+bd42a28607025a98ff2c7df361f815aea9ee3ea9,86a7f54650e0cb1a97c450ef265f350a1f6a1d38b74b7ce9dac9d412950b56ab,"['ball', 'hair', 'face', 'game', 'nutsack', 'position', 'account', 'leg', 'nothingness', 'favourite', 'character', 'foreskin', 'cousin', 'soul', 'kink', 'phone', 'feeling', 'nation', 'fursona', 'username', 'year', 'emotion', 'house', 'god', 'nose', 'health', 'theory', 'child', 'dude', 'doggo 🐶🌭', 'karma', 'anxiety', 'nostril', 'doggo 🐶🌭 bit 😁', 'arm', 'braincells', 'penis', 'profile', 'booty', 'uncle', 'nut', 'cock']","Personal_Background, Preferences_Interests, Personality_Traits, Habits_Routines"
+bd42a28607025a98ff2c7df361f815aea9ee3ea9,86a7f54650e0cb1a97c450ef265f350a1f6a1d38b74b7ce9dac9d412950b56ab,"['surfing reddit', 'scaredy', 'lowkey', 'feeling corny today', 'redditor', 'softie', 'perfectionist', 'asshole', 'horny 😩', 'gay 😎👌', 'heart horny edit 4am', 'yiffsexual /s', 'pussy', 'glad', 'dummy thicc', 'scared', 'feeling', 'fucking scareddddd edit', 'lowkey interested about a part', 'noob with redstone', 'home', 'huge as&hole', 'feeling older', 'stupid 😎', 'coooooming coooooooooom', 'breathing', 'cooming', 'about to coooooooooooooooooooooom', 'hungry af', 'typing holy shit', 'fun funny fun because fortnite no more fortnite bad fortnite bad tiktok', 'deadass serious', 'fucking thicc', 'locked', 'feeling odd :c', 'lvl', 'coooming', 'big package 😳😳😳', 'furry uwu']",Personality_Traits
+bd42a28607025a98ff2c7df361f815aea9ee3ea9,86a7f54650e0cb1a97c450ef265f350a1f6a1d38b74b7ce9dac9d412950b56ab,['boyfriend'],Uncategorized
+bd42a28607025a98ff2c7df361f815aea9ee3ea9,86a7f54650e0cb1a97c450ef265f350a1f6a1d38b74b7ce9dac9d412950b56ab,"['pokemon', 'fallout', 'video games', 'animal crossing']",Preferences_Interests
+3418702de52d65ee261943b207996da3e2569fd2,8beccb4a83257baf77be856c3d0fb1dc1b8a31181d803370913f29c50c8947c2,male,Demographics
+3418702de52d65ee261943b207996da3e2569fd2,8beccb4a83257baf77be856c3d0fb1dc1b8a31181d803370913f29c50c8947c2,['sven'],Uncategorized
+3418702de52d65ee261943b207996da3e2569fd2,8beccb4a83257baf77be856c3d0fb1dc1b8a31181d803370913f29c50c8947c2,['mother'],Personal_Background
+3418702de52d65ee261943b207996da3e2569fd2,8beccb4a83257baf77be856c3d0fb1dc1b8a31181d803370913f29c50c8947c2,"['minecraft', 'wow']",Uncategorized
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,male,Demographics
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,['cat'],Uncategorized
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,"['germany', 'europe', 'on streets', 'off welfare', 'country']",Preferences_Interests
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,"['writing', 'mauls because hammers', 'wine', 'reading guides', 'vaginas weed', 'reading old websites about video games', 'scanning']",Preferences_Interests
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,"['mother', 'father']",Personal_Background
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,['girlfriend'],Uncategorized
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,"['state', 'bathroom', 'pc', 'existence', 'doctor', 'effort', 'appearance', 'year', 'thigh', 'area', 'nose', 'modem', 'internet', 'computer']",Uncategorized
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,"['fan of metal music', 'talentless hack', 'crap at fps games', 'bloody single player casual', 'worthless filth incapable', 'caucasian guy', 'big net loss of money for society', 'first person', 'curios', 'fan of cannons', 'neutral good', 'casual pve', 'brain dead animal']","Demographics, Preferences_Interests"
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,"['in bad place', 'in extreme poverty']",Uncategorized
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,['world news'],Uncategorized
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,"['survival', 'depression and anxiety']",Personality_Traits
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,"['video games', 'terraria', 'divinity: original sin', 'elder scrolls', 'minecraft']",Preferences_Interests
+53aa6c267ff5eccf891e178786d41ca5df80a5de,091ff026943062bde5df7a9b25e804932b10e954b01a678f0647947e304db845,['data'],Uncategorized
+c1d25617a1246516c7145552a8766d09f4816240,53c35a8f77e9c1bf9ced3e5d26d96b109f52e657fd5e1bd042c5ba6fdc83f333,male,Demographics
+c1d25617a1246516c7145552a8766d09f4816240,53c35a8f77e9c1bf9ced3e5d26d96b109f52e657fd5e1bd042c5ba6fdc83f333,['prozd'],Uncategorized
+c1d25617a1246516c7145552a8766d09f4816240,53c35a8f77e9c1bf9ced3e5d26d96b109f52e657fd5e1bd042c5ba6fdc83f333,"['grade', 'school', 'cousin']",Personal_Background
+c1d25617a1246516c7145552a8766d09f4816240,53c35a8f77e9c1bf9ced3e5d26d96b109f52e657fd5e1bd042c5ba6fdc83f333,"['star', '‘ underage loli ’']",Uncategorized
+7ba2f45f62c701a508f1895df828d4da2f3f446d,80e999d7f3eceadd8c87c2f007eb8ba0a4114d3a448bf59082fc60da0dfbc756,male,Demographics
+7ba2f45f62c701a508f1895df828d4da2f3f446d,80e999d7f3eceadd8c87c2f007eb8ba0a4114d3a448bf59082fc60da0dfbc756,"['languages', 'conlangs']",Uncategorized
+7ba2f45f62c701a508f1895df828d4da2f3f446d,80e999d7f3eceadd8c87c2f007eb8ba0a4114d3a448bf59082fc60da0dfbc756,"['sons', 'brothers', 'father']",Personal_Background
+7ba2f45f62c701a508f1895df828d4da2f3f446d,80e999d7f3eceadd8c87c2f007eb8ba0a4114d3a448bf59082fc60da0dfbc756,"['sat', 'grade']",Uncategorized
+7ba2f45f62c701a508f1895df828d4da2f3f446d,80e999d7f3eceadd8c87c2f007eb8ba0a4114d3a448bf59082fc60da0dfbc756,"['eu student', 'christian arab', 'social creature', 'bit new', '18m', 'student']","Personal_Background, Social_Relationships"
+7ba2f45f62c701a508f1895df828d4da2f3f446d,80e999d7f3eceadd8c87c2f007eb8ba0a4114d3a448bf59082fc60da0dfbc756,['wife'],Personal_Background
+7ba2f45f62c701a508f1895df828d4da2f3f446d,80e999d7f3eceadd8c87c2f007eb8ba0a4114d3a448bf59082fc60da0dfbc756,['fitness and nutrition'],"Preferences_Interests, Habits_Routines"
+7ba2f45f62c701a508f1895df828d4da2f3f446d,80e999d7f3eceadd8c87c2f007eb8ba0a4114d3a448bf59082fc60da0dfbc756,['internet'],Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,male,Demographics
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,['dog'],Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,"['mississippi', 'tennessee']",Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,"['worf', 'tuc', 'showers', 'star trek', 'unnecessary-hyphen bear memes', 'first contact', 'beer', 'unnecessary hyphen', 'movies', 'captains']",Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,"['mother', 'children']",Personal_Background
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,['wife'],Personal_Background
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,"['view', 'breath', 'beef']",Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,"['troy mcclure', 'ardent carnivore']",Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,"['star trek', 'mad men']",Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,"['star wars', 'superman', 'batman']",Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,"['politics', 'world news']",Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,['education'],Personal_Background
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,['history'],Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,['christianity'],Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,"['hardware', 'ios', 'networking', 'apple']",Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,['space'],Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,['parenting'],Uncategorized
+43582d67310e995ea85c152bb256b0596144bf82,1617a88b6b5b60c099f758c2724eb8774bb2160c9a106bf1ff67ffa62b4b8fcf,['iphone'],Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,male,Demographics
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,['dog'],Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,"['poland', 'china', 'cha', 'london']",Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,"['reddit', 'big butts', 'kids', 'sex', 'house md', 'women', 'photos']",Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,"['mother', 'father', 'sister']",Personal_Background
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,['girlfriend'],Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,"['personality', 'finger', 'phone']",Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,"['average player', 'handsome person', '31yo male', 'tad', 'lucky razors', 'casual player', 'noob', 'understanding', '31yo', 'slowest bat on site', 'reading', 'diagnosis', 'batman', 'hungry victory by default', 'bloody doctor', 'bit old-fashioned']","Demographics, Preferences_Interests"
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,"['in poland', 'with comics', ' reading books']",Preferences_Interests
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,"['civilization', 'dark souls']",Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,"['pets and animals', 'health']",Habits_Routines
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,['marvel'],Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,"['soccer', 'chelsea f.c.']",Preferences_Interests
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,['art'],Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,['rick and morty'],Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,['world news'],Uncategorized
+795c678726f71492166b6677c955ce0a48a9b294,9ca086cbec359425f6f4ab8aa720b33fb7e62c62e14808d2d2cf5549bcd6a2dc,['history'],Uncategorized
+aadf22a91ea1305681d9e9e51890c22ca2a37577,df0e70a00326b8312a76b457242f3f4065b28b03c1880c8a738b3e316d0feb82,male,Demographics
+aadf22a91ea1305681d9e9e51890c22ca2a37577,df0e70a00326b8312a76b457242f3f4065b28b03c1880c8a738b3e316d0feb82,['dog'],Uncategorized
+aadf22a91ea1305681d9e9e51890c22ca2a37577,df0e70a00326b8312a76b457242f3f4065b28b03c1880c8a738b3e316d0feb82,"['r/teena', 'turtles']",Uncategorized
+aadf22a91ea1305681d9e9e51890c22ca2a37577,df0e70a00326b8312a76b457242f3f4065b28b03c1880c8a738b3e316d0feb82,['arrow'],Uncategorized
+aadf22a91ea1305681d9e9e51890c22ca2a37577,df0e70a00326b8312a76b457242f3f4065b28b03c1880c8a738b3e316d0feb82,"['captain', 'speed', 'biotic god', 'dog']",Uncategorized
+aadf22a91ea1305681d9e9e51890c22ca2a37577,df0e70a00326b8312a76b457242f3f4065b28b03c1880c8a738b3e316d0feb82,"['halo', 'video games', 'destiny', 'grand theft auto', 'minecraft', 'mass effect', 'fallout', 'overwatch', 'warframe', 'titanfall']",Preferences_Interests
+aadf22a91ea1305681d9e9e51890c22ca2a37577,df0e70a00326b8312a76b457242f3f4065b28b03c1880c8a738b3e316d0feb82,['history'],Uncategorized
+aadf22a91ea1305681d9e9e51890c22ca2a37577,df0e70a00326b8312a76b457242f3f4065b28b03c1880c8a738b3e316d0feb82,['health'],Habits_Routines
+aadf22a91ea1305681d9e9e51890c22ca2a37577,df0e70a00326b8312a76b457242f3f4065b28b03c1880c8a738b3e316d0feb82,['marvel'],Uncategorized
+9adb5fb6fb9aeeeb65afe41002460d73817044b0,417d0d6640f70c3c3243cd8391ef81acb2030272ae631c5a55c69b323f43cfee,male,Demographics
+9adb5fb6fb9aeeeb65afe41002460d73817044b0,417d0d6640f70c3c3243cd8391ef81acb2030272ae631c5a55c69b323f43cfee,"['near east brisbane', 'australia', 'brisbane']",Uncategorized
+9adb5fb6fb9aeeeb65afe41002460d73817044b0,417d0d6640f70c3c3243cd8391ef81acb2030272ae631c5a55c69b323f43cfee,"['people', 'spicy food', 'diy']",Preferences_Interests
+9adb5fb6fb9aeeeb65afe41002460d73817044b0,417d0d6640f70c3c3243cd8391ef81acb2030272ae631c5a55c69b323f43cfee,['brother'],Personal_Background
+9adb5fb6fb9aeeeb65afe41002460d73817044b0,417d0d6640f70c3c3243cd8391ef81acb2030272ae631c5a55c69b323f43cfee,"['dream', 'account', 'privacy', 'goal']",Goals_Aspirations
+9adb5fb6fb9aeeeb65afe41002460d73817044b0,417d0d6640f70c3c3243cd8391ef81acb2030272ae631c5a55c69b323f43cfee,"['bit', 'little bit', 'hearing', 'painter']",Uncategorized
+9adb5fb6fb9aeeeb65afe41002460d73817044b0,417d0d6640f70c3c3243cd8391ef81acb2030272ae631c5a55c69b323f43cfee,['in muslim family'],Personal_Background
+9adb5fb6fb9aeeeb65afe41002460d73817044b0,417d0d6640f70c3c3243cd8391ef81acb2030272ae631c5a55c69b323f43cfee,"['world news', 'politics']",Uncategorized
+9adb5fb6fb9aeeeb65afe41002460d73817044b0,417d0d6640f70c3c3243cd8391ef81acb2030272ae631c5a55c69b323f43cfee,"['self-help and motivation', 'dating', 'personal finance']",Demographics
+9adb5fb6fb9aeeeb65afe41002460d73817044b0,417d0d6640f70c3c3243cd8391ef81acb2030272ae631c5a55c69b323f43cfee,"['android', 'web development', 'data visualization']",Uncategorized
+6ea82786a74ccdc85dc1fddd809a575aa4e4efcf,d1433bae24e0f648a62acc714b3173d8068ec064f44e059fd0627ec02b3896b3,male,Demographics
+6ea82786a74ccdc85dc1fddd809a575aa4e4efcf,d1433bae24e0f648a62acc714b3173d8068ec064f44e059fd0627ec02b3896b3,"['fish', 'cat', 'dog']",Uncategorized
+6ea82786a74ccdc85dc1fddd809a575aa4e4efcf,d1433bae24e0f648a62acc714b3173d8068ec064f44e059fd0627ec02b3896b3,"['town', 'on student income', 'with 4 other people', 'city', 'australia', 'small town']",Personal_Background
+6ea82786a74ccdc85dc1fddd809a575aa4e4efcf,d1433bae24e0f648a62acc714b3173d8068ec064f44e059fd0627ec02b3896b3,"['people', 'bonds', 'posts  metaphysical pseudo science', 'alliteration for', 'rambling about', 'spicy food']",Preferences_Interests
+6ea82786a74ccdc85dc1fddd809a575aa4e4efcf,d1433bae24e0f648a62acc714b3173d8068ec064f44e059fd0627ec02b3896b3,"['mother', 'father', 'brother']",Personal_Background
+6ea82786a74ccdc85dc1fddd809a575aa4e4efcf,d1433bae24e0f648a62acc714b3173d8068ec064f44e059fd0627ec02b3896b3,"['pet bird', 'learner', 'depression', 'inhibition', 'grandmother', 'science degree', 'existence', 'attention', 'age', 'sibling', 'kid', 'identity', 'thought', 'mistake']","Personal_Background, Personality_Traits"
+6ea82786a74ccdc85dc1fddd809a575aa4e4efcf,d1433bae24e0f648a62acc714b3173d8068ec064f44e059fd0627ec02b3896b3,"['content', 'artist', 'subject to feelings', 'big fan of historical fiction', 'result', 'chill', 'intp']","Preferences_Interests, Personality_Traits"
+6ea82786a74ccdc85dc1fddd809a575aa4e4efcf,d1433bae24e0f648a62acc714b3173d8068ec064f44e059fd0627ec02b3896b3,"['personality', 'lgbt']",Uncategorized
+6ea82786a74ccdc85dc1fddd809a575aa4e4efcf,d1433bae24e0f648a62acc714b3173d8068ec064f44e059fd0627ec02b3896b3,['game of thrones'],Preferences_Interests
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,male,Demographics
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,"['dog', 'cat']",Uncategorized
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,"['nova scotia', 'university town', 'real world', 'grandmother', 'halifax', 'secular western country', 'east coast', 'canada']","Personal_Background, Preferences_Interests"
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,"['effin onions', 'hawaiian accents', 'quebec', 'pizza', 'dogs', 'phil collins version', 'fantasy']",Uncategorized
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,"['daughter', 'brothers', 'father', 'brother', 'mother']",Personal_Background
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,"['girlfriend', 'wife']",Personal_Background
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,"['island', 'production building', 'team', 'superpower', 'thought', 'comment', 'breath', 'position', 'introversion', 'province']","Personal_Background, Preferences_Interests, Social_Relationships"
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,"['bit', 'blade', 'mr. bates', 'content', 'weight', 'heartbroken', 'ears', 'health care worker']","Personal_Background, Habits_Routines"
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,['wife'],Personal_Background
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,['in movie theaters'],Preferences_Interests
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,['geography'],Uncategorized
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,['hockey'],Preferences_Interests
+96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01,e283b6b2fea8ec7d789624c41a84f02cf8476fc66627f5bdd69366dea5e9e4e9,['politics'],Uncategorized
+feb4a6aeed8e7e14b0592329bd91d7933a93217e,ca9c70b333490b0b71ee386ab98b7dd1b92ff34375f28e28c6cf6bbcfc0588da,male,Demographics
+feb4a6aeed8e7e14b0592329bd91d7933a93217e,ca9c70b333490b0b71ee386ab98b7dd1b92ff34375f28e28c6cf6bbcfc0588da,['east side'],Uncategorized
+feb4a6aeed8e7e14b0592329bd91d7933a93217e,ca9c70b333490b0b71ee386ab98b7dd1b92ff34375f28e28c6cf6bbcfc0588da,"['anagrams', 'jesus', 'woodworking vore pygmy  chuck palahniuk', 'cuestar', 'reddit', 'woodworking']",Uncategorized
+feb4a6aeed8e7e14b0592329bd91d7933a93217e,ca9c70b333490b0b71ee386ab98b7dd1b92ff34375f28e28c6cf6bbcfc0588da,"['mother', 'father', 'brother']",Personal_Background
+feb4a6aeed8e7e14b0592329bd91d7933a93217e,ca9c70b333490b0b71ee386ab98b7dd1b92ff34375f28e28c6cf6bbcfc0588da,['girlfriend'],Uncategorized
+feb4a6aeed8e7e14b0592329bd91d7933a93217e,ca9c70b333490b0b71ee386ab98b7dd1b92ff34375f28e28c6cf6bbcfc0588da,['feeling for the rest of the night'],"Personality_Traits, Habits_Routines"
+feb4a6aeed8e7e14b0592329bd91d7933a93217e,ca9c70b333490b0b71ee386ab98b7dd1b92ff34375f28e28c6cf6bbcfc0588da,['girlfriend'],Uncategorized
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,male,Demographics
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,"['j cole', 'skateboarding', 'drake more', 'party rap']",Social_Relationships
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,['brother'],Personal_Background
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,['girlfriend'],Uncategorized
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,"['psychiatrist', 'art teacher', 'teacher', 'space', 'case', 'religion']","Personal_Background, Personality_Traits"
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,['auqilibio'],Uncategorized
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,['girlfriend'],Uncategorized
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,"['playstation', 'minecraft', 'call of duty']",Uncategorized
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,"[""it's always sunny in philadelphia"", 'regular show', 'breaking bad']","Preferences_Interests, Habits_Routines"
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,['baseball'],Preferences_Interests
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,['history'],Uncategorized
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,"['smoking and tobacco', 'relationships', 'depression and anxiety']",Personality_Traits
+7f37146b5301f541de969be8882a7963d3ad1298,346261013f5931f79594dc3cdf27d29d505d15032372ade6d12d5be065769407,['star wars'],Uncategorized
+8031d2235c5c79aed4436e575113c1efb8fbe777,bca2813c332877ecf168536a46bd120543826b31035c7f652c7dbe3a6192f72e,male,Demographics
+8031d2235c5c79aed4436e575113c1efb8fbe777,bca2813c332877ecf168536a46bd120543826b31035c7f652c7dbe3a6192f72e,"['animals', 'birds  islam animals', 'chicken', 'design and decor']",Uncategorized
+8031d2235c5c79aed4436e575113c1efb8fbe777,bca2813c332877ecf168536a46bd120543826b31035c7f652c7dbe3a6192f72e,"['mother', 'father', 'brother']",Personal_Background
+8031d2235c5c79aed4436e575113c1efb8fbe777,bca2813c332877ecf168536a46bd120543826b31035c7f652c7dbe3a6192f72e,"['student at uni', 'reading']","Personal_Background, Preferences_Interests"
+8031d2235c5c79aed4436e575113c1efb8fbe777,bca2813c332877ecf168536a46bd120543826b31035c7f652c7dbe3a6192f72e,['food and beverages'],Preferences_Interests
+77a6bff8693a174b55d34fc32fdd8a87710fecb7,69dc8a0f4b38716a7fd4f677a63fa7608433f9007522ebc51b57c45b6c04415d,male,Demographics
+77a6bff8693a174b55d34fc32fdd8a87710fecb7,69dc8a0f4b38716a7fd4f677a63fa7608433f9007522ebc51b57c45b6c04415d,"['daughter', 'father']",Personal_Background
+77a6bff8693a174b55d34fc32fdd8a87710fecb7,69dc8a0f4b38716a7fd4f677a63fa7608433f9007522ebc51b57c45b6c04415d,['girlfriend'],Uncategorized
+77a6bff8693a174b55d34fc32fdd8a87710fecb7,69dc8a0f4b38716a7fd4f677a63fa7608433f9007522ebc51b57c45b6c04415d,"['pc', 'game', 'account']",Preferences_Interests
+77a6bff8693a174b55d34fc32fdd8a87710fecb7,69dc8a0f4b38716a7fd4f677a63fa7608433f9007522ebc51b57c45b6c04415d,"['drowning in cummies 💦💦💦💦💦😲💦💦💦 holy shit', 'falling into hell 💥🔥🔥🔥😰🔥🔥🔥']",Uncategorized
+77a6bff8693a174b55d34fc32fdd8a87710fecb7,69dc8a0f4b38716a7fd4f677a63fa7608433f9007522ebc51b57c45b6c04415d,['girlfriend'],Uncategorized
+77a6bff8693a174b55d34fc32fdd8a87710fecb7,69dc8a0f4b38716a7fd4f677a63fa7608433f9007522ebc51b57c45b6c04415d,"['video games', 'fallout', 'battlefield', 'payday']",Preferences_Interests
+77a6bff8693a174b55d34fc32fdd8a87710fecb7,69dc8a0f4b38716a7fd4f677a63fa7608433f9007522ebc51b57c45b6c04415d,['design'],Uncategorized
+77a6bff8693a174b55d34fc32fdd8a87710fecb7,69dc8a0f4b38716a7fd4f677a63fa7608433f9007522ebc51b57c45b6c04415d,"['webcomics', 'star wars']",Uncategorized
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,male,Demographics
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,['dog'],Uncategorized
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,"['town', 'uspga', 'future']",Goals_Aspirations
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,"['standardization', 'comic books', 'ariana grande', 'science science fucking rocks', 'girls with lots of piercings']",Preferences_Interests
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,"['daughter', 'mother', 'father', 'brother']",Personal_Background
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,"['memory', 'cat', 'reply', 'lawn', 'leg', 'victim']",Uncategorized
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,"['camping', 'gullible moron']",Uncategorized
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,['wife'],Personal_Background
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,[' christian'],Uncategorized
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,"['game of thrones', 'buffy the vampire slayer']",Preferences_Interests
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,['politics'],Uncategorized
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,['pets and animals'],Uncategorized
+8784cd4227a610d9cbb51480d635b44be1d31e8c,573fa24094976d7cc80c64775304ccaf3630288b9b205f06a3155d5d0db1dfaa,['overwatch'],Uncategorized
+b05c37d4999dc6e0647955781d5a349457a11a40,273ba22517bc3208dd94fdfeb3aff5cddd705417385871569da861d836d824e1,male,Demographics
+b05c37d4999dc6e0647955781d5a349457a11a40,273ba22517bc3208dd94fdfeb3aff5cddd705417385871569da861d836d824e1,"['ontario', 'canada']",Uncategorized
+b05c37d4999dc6e0647955781d5a349457a11a40,273ba22517bc3208dd94fdfeb3aff5cddd705417385871569da861d836d824e1,"['specific bands', 'christmas', 'blowjobs', 'hyper-masculine gun games', 'female singers', 'pie']","Demographics, Preferences_Interests"
+b05c37d4999dc6e0647955781d5a349457a11a40,273ba22517bc3208dd94fdfeb3aff5cddd705417385871569da861d836d824e1,"['mother', 'father', 'brother']",Personal_Background
+b05c37d4999dc6e0647955781d5a349457a11a40,273ba22517bc3208dd94fdfeb3aff5cddd705417385871569da861d836d824e1,['girlfriend'],Uncategorized
+b05c37d4999dc6e0647955781d5a349457a11a40,273ba22517bc3208dd94fdfeb3aff5cddd705417385871569da861d836d824e1,"['moat lurker', 'team', 'loss', 'fault', 'god', 'level']","Preferences_Interests, Social_Relationships"
+b05c37d4999dc6e0647955781d5a349457a11a40,273ba22517bc3208dd94fdfeb3aff5cddd705417385871569da861d836d824e1,"['ears', '_', 'reading']",Preferences_Interests
+b05c37d4999dc6e0647955781d5a349457a11a40,273ba22517bc3208dd94fdfeb3aff5cddd705417385871569da861d836d824e1,['republican'],Uncategorized
+b05c37d4999dc6e0647955781d5a349457a11a40,273ba22517bc3208dd94fdfeb3aff5cddd705417385871569da861d836d824e1,"['pokemon', 'hearthstone']",Uncategorized
+b05c37d4999dc6e0647955781d5a349457a11a40,273ba22517bc3208dd94fdfeb3aff5cddd705417385871569da861d836d824e1,['atheism'],Uncategorized
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,male,Demographics
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,"['uk', 'adachiku', 'bad neighbourhood', 'japan', 'swansea', 'same area', 'middle', 'clydach', 'adachi', 'united kingdom', 'tokyo', 'countryside', 'australia']",Uncategorized
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,"['bread', 'sekisui house', 'civ', 'games']",Uncategorized
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,"['daughter', 'son', 'father', 'sister', 'mother']",Personal_Background
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,"['girlfriend', 'wife']",Personal_Background
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,"['switch', 'mate', 'front door', 'favourite', 'school', 'cousin', 'desk', 'phone', 'reddit post', 'sight', 'sniper rifle', 'house', 'card', 'ymobile store', 'kid', 'inventory', 'gun']",Personal_Background
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,"['planning', 'mates with a guy from england', 'teacher', 'total newbie', 'teacher at a private high school in japan', 'welsh', 'english teacher at a private high school', 'newcomer to android', 'english', 'permanent resident', 'high school teacher']","Demographics, Personal_Background"
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,['wife'],Personal_Background
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,"['in south wales', 'in wales', 'in village']",Uncategorized
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,['documentaries'],Uncategorized
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,['android'],Uncategorized
+d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933,e3cdc353208134977dc740767d864cca022aacfc781fa1d6825fea02545c6b3d,"['pokemon', 'video games']",Preferences_Interests
+7026695d5469f9ac5987bd602ce0be29968523db,b88371b46a10fb16fc8d98bebcd327ac9a79886656553717f9de1696bab05e15,male,Demographics
+7026695d5469f9ac5987bd602ce0be29968523db,b88371b46a10fb16fc8d98bebcd327ac9a79886656553717f9de1696bab05e15,"['san antonio', 'near seaeorld', 'captital region', 'albany ny', 'texas']",Uncategorized
+7026695d5469f9ac5987bd602ce0be29968523db,b88371b46a10fb16fc8d98bebcd327ac9a79886656553717f9de1696bab05e15,"['fl ableton', 'handwriting notes', 'windows', 'youef foueytube   peron', 'cars', 'reddit اشعر باللملل']",Uncategorized
+7026695d5469f9ac5987bd602ce0be29968523db,b88371b46a10fb16fc8d98bebcd327ac9a79886656553717f9de1696bab05e15,"['mother', 'father', 'sister']",Personal_Background
+7026695d5469f9ac5987bd602ce0be29968523db,b88371b46a10fb16fc8d98bebcd327ac9a79886656553717f9de1696bab05e15,"['foot', 'car', 'gear', 'coworkers', 'note', 'mechanic']",Uncategorized
+7026695d5469f9ac5987bd602ce0be29968523db,b88371b46a10fb16fc8d98bebcd327ac9a79886656553717f9de1696bab05e15,"['planning', 'part']",Uncategorized
+7026695d5469f9ac5987bd602ce0be29968523db,b88371b46a10fb16fc8d98bebcd327ac9a79886656553717f9de1696bab05e15,['in catholic family'],Personal_Background
+7026695d5469f9ac5987bd602ce0be29968523db,b88371b46a10fb16fc8d98bebcd327ac9a79886656553717f9de1696bab05e15,"['design', 'gadgets']",Uncategorized
+7026695d5469f9ac5987bd602ce0be29968523db,b88371b46a10fb16fc8d98bebcd327ac9a79886656553717f9de1696bab05e15,['ipad'],Uncategorized
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,female,Demographics
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,['cat'],Uncategorized
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,"['big city', 'private road', 'on private road', 'atlanta', 'loft', 'city', 'craziest neighborhood']",Demographics
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,"['peo solution', 'realm', 'home improvement', 'design and decor', 'wood tables', 'booze', 'bamboo sheets', 'booze congrats', 'hoas', 'home goods', 'metal', 'textured stone  fireplaces', 'cookg   dutch oven    hours']",Uncategorized
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,"['mother', 'sister', 'brother']",Personal_Background
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,['husband'],Personal_Background
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,"['partner', 'city', 'date', 'termination', 'employer', 'state', 'office', 'company']","Personal_Background, Social_Relationships"
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,"['dutch oven person', 'front face of the business', 'huge fan of natural stone', 'hgtv person', 'cat person', 'intern at an interior design firm', 'reason']",Personal_Background
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,['husband'],Personal_Background
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,"['cooking', 'dating', 'pets and animals', 'fitness and nutrition', 'cats', 'food and beverages']","Demographics, Preferences_Interests, Habits_Routines"
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,"['entrepreneurship', 'jobs and careers', 'investing', 'marketing']",Personal_Background
+472de55a2855849453179c0ccb5234c4ea9d1192,495968f1e9c846b67402e6111a5f355f3b245f5753c2f7a72921248e75368679,['law'],Uncategorized
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,male,Demographics
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,['dog'],Uncategorized
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,['u. k.'],Uncategorized
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,"['tea', 'writing']",Uncategorized
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,"['father', 'sister']",Personal_Background
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,"['theory', 'list', 'content', 'mmol', 'area', 'account']",Uncategorized
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,"['advocate of bitcoin', 'building mailing list for a small niche market', 'recreational player']",Preferences_Interests
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,['wife'],Personal_Background
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,"['cryptocurrency', 'internet', 'computer security']",Uncategorized
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,"['entrepreneurship', 'finance']",Uncategorized
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,"['poker', 'soccer']",Preferences_Interests
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,['poetry'],Uncategorized
+d45001f1fdd37cda488cfddffabec23e83ee7b7e,d044a4437816e5e085add67f3532bbef0556f2eabb26f5af94760526e2e07636,"['sex', 'health', 'fitness and nutrition', 'pets and animals', 'keto']","Preferences_Interests, Habits_Routines"
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,female,Demographics
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,['dog'],Uncategorized
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,"['florida', 'same zone']",Uncategorized
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,"['crafts', 'medium', 'reddit', 'gardening']",Uncategorized
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,"['daughter', 'mother', 'father', 'son']",Personal_Background
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,['husband'],Personal_Background
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,['pregnancy'],Uncategorized
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,"['big kid', 'mom', 'believer']",Personal_Background
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,['husband'],Personal_Background
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,"['pets and animals', 'health', 'dogs', 'relationships']",Habits_Routines
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,['art'],Uncategorized
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,"['design', 'data visualization']",Uncategorized
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,"['politics', 'world news']",Uncategorized
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,['star wars'],Uncategorized
+2904e4959568457dd43970d8388e42064d7c7d34,739eb2fb91061c0492956d32a66749ec9e8baa601e85a81f1cf682447f01f154,['astronomy'],Uncategorized
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,male,Demographics
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,"['out sticks', 'county', 'kid']",Uncategorized
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,"['plenty of shitty movies', 'james', 'vega', 'hank', 'heavy metal', 'feeling', 'gaming']","Preferences_Interests, Personality_Traits"
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,"['daughter', 'brother-in-law', 'mother', 'father']",Personal_Background
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,['wife'],Personal_Background
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,"['property', 'friend group', 'tongue', 'assessment', 'county', 'money', 'buddy', 'year', 'god', 'kid', 'theory', 'blood pressure', 'knowledge']",Social_Relationships
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,"['bourbon guy', 'staunch isolationist', 'feeling generous', 'gm guy', 'floridian', 'planning', 'drinking', 'understanding', 'half', 'heavy sleeper', 'diehard believer in destroy']",Personality_Traits
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,['wife'],Personal_Background
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,['with mango trees'],Uncategorized
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,"['mass effect', 'total war']",Uncategorized
+f39e591889b6331bd255039773030c1b50c7e201,f9913e658990229965165df460ca646e7c01dd392557118e61877b783f2c74a3,"['government and military', 'world news']",Uncategorized
+6212c082850f067a67618ad2a3b9f8ed336590f4,7829292aaa5f9a9f6afa9fde2edbf4b9920189b7135e3288e9a2a7b296ad4e83,male,Demographics
+6212c082850f067a67618ad2a3b9f8ed336590f4,7829292aaa5f9a9f6afa9fde2edbf4b9920189b7135e3288e9a2a7b296ad4e83,['cat'],Uncategorized
+6212c082850f067a67618ad2a3b9f8ed336590f4,7829292aaa5f9a9f6afa9fde2edbf4b9920189b7135e3288e9a2a7b296ad4e83,"['secd floor', 'part', 'western canada', 'outskirts', 'u', ' tabe', 'america', 'calgary']",Uncategorized
+6212c082850f067a67618ad2a3b9f8ed336590f4,7829292aaa5f9a9f6afa9fde2edbf4b9920189b7135e3288e9a2a7b296ad4e83,"['pickles', 'moments', 'writing', 'level']",Uncategorized
+6212c082850f067a67618ad2a3b9f8ed336590f4,7829292aaa5f9a9f6afa9fde2edbf4b9920189b7135e3288e9a2a7b296ad4e83,"['mother', 'father', 'brother']",Personal_Background
+6212c082850f067a67618ad2a3b9f8ed336590f4,7829292aaa5f9a9f6afa9fde2edbf4b9920189b7135e3288e9a2a7b296ad4e83,"['age', 'memory', 'town', 'cousin', 'bullshit', 'teeth', 'phone', 'food', 'username']",Preferences_Interests
+6212c082850f067a67618ad2a3b9f8ed336590f4,7829292aaa5f9a9f6afa9fde2edbf4b9920189b7135e3288e9a2a7b296ad4e83,"['entertainer at heart', 'big riders fan', 'locutus of scorch', 'businessman', 'messaging bunch of people', 'king of the whole fucking planet', 'fun at parties', 'feeling restless']","Personality_Traits, Social_Relationships"
+6212c082850f067a67618ad2a3b9f8ed336590f4,7829292aaa5f9a9f6afa9fde2edbf4b9920189b7135e3288e9a2a7b296ad4e83,['wife'],Personal_Background
+6212c082850f067a67618ad2a3b9f8ed336590f4,7829292aaa5f9a9f6afa9fde2edbf4b9920189b7135e3288e9a2a7b296ad4e83,"['hockey', 'football']",Preferences_Interests
+6212c082850f067a67618ad2a3b9f8ed336590f4,7829292aaa5f9a9f6afa9fde2edbf4b9920189b7135e3288e9a2a7b296ad4e83,['politics'],Uncategorized
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,male,Demographics
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,['dog'],Uncategorized
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,"['home', 'west side']",Uncategorized
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,"['incest porn', 'boobs', 'soccer', 'short girls', 'steak burritos', 'incest', 'goats', 'fishing']","Demographics, Preferences_Interests"
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,"['daughter', 'father', 'sister', 'brother', 'mother']",Personal_Background
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,['girlfriend'],Uncategorized
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,"['street', 'league', 'friend group', 'school', 'enemy', 'cousin', 'career', 'feeling', 'buddy', 'saving', 'health', 'anxiety', 'suspicion', 'world', 'thought', 'circumstance', 'virginity', 'stomach', 'parent split', 'fault', 'phone', 'role', 'reply', 'sibling', 'rodeo', 'truck', 'college education', 'company', 'face', 'response', 'depression', 'confidence', 'class', 'attention', 'date', 'list', 'dog', 'year', 'emotion', 'lake', 'tire', 'home state', 'coworkers', 'apartment', 'gut reaction', 'luck', 'pocket', 'relationship', 'pant', 'lap', 'partner', 'birthday', 'community college', 'coach', 'intention', 'city', 'answer', 'university', 'issue', 'decision', 'client', 'gut', 'arm', 'dream', 'credit', 'goal', 'computer']","Personal_Background, Personality_Traits, Habits_Routines, Goals_Aspirations, Social_Relationships"
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,"['good person', 'feelin real lazy', 'misunderstanding', 'slob', 'feeling', 'guy version', 'home', 'bit', 'burden', 'fucking mess', 'complete stranger', 'seasoning', 'feeling homesick', 'little bitch in comparison to the assumptions people', 'feelin tingles', 'horny', 'worthless piece of shit', 'target shooting', 'brother']","Personal_Background, Personality_Traits"
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,['girlfriend'],Uncategorized
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,"['dating', 'personal finance']",Demographics
+da8d242a2ef9e6771a4964064d74aba8c4e89aa0,a131e70bafc7840d4eec64ea94d6f948053a9b1800c73565fa84a92234a239fb,['hardware'],Uncategorized
+ecc98de1e575d7e863a2124b364b8ed586778ba5,cabcabab1711f4546d4adaa9aa453d918e41b52affc5abd8790bb6ecfe4abac0,male,Demographics
+ecc98de1e575d7e863a2124b364b8ed586778ba5,cabcabab1711f4546d4adaa9aa453d918e41b52affc5abd8790bb6ecfe4abac0,"['cat', 'dog']",Uncategorized
+ecc98de1e575d7e863a2124b364b8ed586778ba5,cabcabab1711f4546d4adaa9aa453d918e41b52affc5abd8790bb6ecfe4abac0,['father'],Personal_Background
+ecc98de1e575d7e863a2124b364b8ed586778ba5,cabcabab1711f4546d4adaa9aa453d918e41b52affc5abd8790bb6ecfe4abac0,['girlfriend'],Uncategorized
+ecc98de1e575d7e863a2124b364b8ed586778ba5,cabcabab1711f4546d4adaa9aa453d918e41b52affc5abd8790bb6ecfe4abac0,"['anxiety', 'finger']",Personality_Traits
+ecc98de1e575d7e863a2124b364b8ed586778ba5,cabcabab1711f4546d4adaa9aa453d918e41b52affc5abd8790bb6ecfe4abac0,"['big fan', 'largest person']",Preferences_Interests
+ecc98de1e575d7e863a2124b364b8ed586778ba5,cabcabab1711f4546d4adaa9aa453d918e41b52affc5abd8790bb6ecfe4abac0,['girlfriend'],Uncategorized
+ecc98de1e575d7e863a2124b364b8ed586778ba5,cabcabab1711f4546d4adaa9aa453d918e41b52affc5abd8790bb6ecfe4abac0,"['depression and anxiety', 'pets and animals', 'relationships']",Personality_Traits
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,male,Demographics
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,['cat'],Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,"[' roman catholic', 'rosewood']",Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,"['cars', 'aurora   reason', 'aurora for some reason']",Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,"['mother', 'father', 'sister', 'brother']",Personal_Background
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,['girlfriend'],Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,['favourite'],Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,['commercial banking analyst with a finance degree'],Personal_Background
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,['girlfriend'],Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,[' roman catholic'],Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,"['boxing', 'philadelphia flyers', 'fantasy football', 'golf', 'mma', 'football', 'hockey', 'baseball']",Preferences_Interests
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,"['coffee', 'cats', 'alcohol']",Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,"['investing', 'finance', 'economics']",Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,"['politics', 'world news']",Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,['stephen king'],Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,['battlefield'],Uncategorized
+ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9,0773dd1a5a7abecbf8f40b14a5e8c60cef24605d01a8e575aeacc4d9666e03d7,['electronic'],Uncategorized
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,male,Demographics
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,"['rat', 'cat', 'dog']",Uncategorized
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,"['washgton state', 'washington state', 'nevada', 'matrix']",Uncategorized
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,"['yela', 'biker', 'tons  rock genres', 'kansas city', 'paul', 'paul alot', 'mccartney', 'hearing', 'rap', 'literal geniuses', 'blur', 'regular pepperoni  jalapenos', 'paranormal', 'tons   rock', 'harlem shuffle', 'trial by fire', 'ebony', 'morrowind', 'riff', 'btoe', 'john', 'girlfriend', 'paul tug of war', 'aesop rock', 'country', 'food', 'egypt station', 'reading  killers  merle']","Preferences_Interests, Habits_Routines"
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,"['brothers', 'son', 'father', 'sister', 'brother', 'mother']",Personal_Background
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,['girlfriend'],Uncategorized
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,"['price range', 'ball', 'memory', 'hair', 'face', 'time artist', 'tattoo', 'version', 'depression', 'underwear', 'pant', 'loving', 'time song', 'horse', 'ps3', 'character', 'girlfriend terrier', 'paul song', 'birthday', 'record', 'butthole', 'phone', 'album', 'laptop', 'city', 'copy', 'home', 'song', 'artist', 'money', 'answer', 'time guitarist', 'finger shouldnt', 'finger', 'manager', 'band', 'house', 'number', 'gallon', 'rapper', 'dear', 'fart', 'name', 'anxiety', 'paul album', 'erection', 'story', 'wing album', 'penis', 'bone', 'thought', 'birth', 'sweet lord', 'show', 'anger', 'stomach']","Personal_Background, Preferences_Interests, Personality_Traits"
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,"['paranoid theyll', 'happy', 'huge fan of mccartney', 'type', 'archer', 'craving', 'sleeping', 'teenager', 'level', 'dunmer', 'drinking', 'big fan', 'sleeping encore', 'diggin elvis', 'sleeping strawberry fields', 'cleansing', 'fan', 'huge fan', 'amazed', 'adult', 'huge fan of books on music', 'higher level', 'fan of modern music']","Preferences_Interests, Personality_Traits"
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,['wife'],Personal_Background
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,"['with beatles', ' hearing']",Uncategorized
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,"['rock', 'rap']",Uncategorized
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,"['skyrim', 'elder scrolls', 'playstation']",Uncategorized
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,"['calvin and hobbes', 'marvel']",Uncategorized
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,['art'],Uncategorized
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,['philosophy'],Personality_Traits
+f1de014324cb88a1b3dcf89a60ca1d8f5e29db03,1540354f3d303b59eb02b70e27581758dec9b725d5953763965867c07b16626b,['medicine'],Uncategorized
+051a7508d568f725b1f0dc39e3253191d533920a,747ca03b811ec25210686dcd17ac40c3bc5361384ad574c1bf54bbdc1d781ee3,male,Demographics
+051a7508d568f725b1f0dc39e3253191d533920a,747ca03b811ec25210686dcd17ac40c3bc5361384ad574c1bf54bbdc1d781ee3,"['america', 'redheads']",Uncategorized
+051a7508d568f725b1f0dc39e3253191d533920a,747ca03b811ec25210686dcd17ac40c3bc5361384ad574c1bf54bbdc1d781ee3,"['father', 'sister']",Personal_Background
+051a7508d568f725b1f0dc39e3253191d533920a,747ca03b811ec25210686dcd17ac40c3bc5361384ad574c1bf54bbdc1d781ee3,['girlfriend'],Uncategorized
+051a7508d568f725b1f0dc39e3253191d533920a,747ca03b811ec25210686dcd17ac40c3bc5361384ad574c1bf54bbdc1d781ee3,"['grandmother', 'relationship', 'home', 'lsd trip']","Preferences_Interests, Social_Relationships"
+051a7508d568f725b1f0dc39e3253191d533920a,747ca03b811ec25210686dcd17ac40c3bc5361384ad574c1bf54bbdc1d781ee3,"['feeling', 'planning to trip', 'planning', 'priority']","Preferences_Interests, Personality_Traits"
+051a7508d568f725b1f0dc39e3253191d533920a,747ca03b811ec25210686dcd17ac40c3bc5361384ad574c1bf54bbdc1d781ee3,['wife'],Personal_Background
+051a7508d568f725b1f0dc39e3253191d533920a,747ca03b811ec25210686dcd17ac40c3bc5361384ad574c1bf54bbdc1d781ee3,"['smoking and tobacco', 'personal finance', 'relationships']",Uncategorized
+051a7508d568f725b1f0dc39e3253191d533920a,747ca03b811ec25210686dcd17ac40c3bc5361384ad574c1bf54bbdc1d781ee3,['law'],Uncategorized
+fe118d67d3de6f10ede2239bbfe55c4eff297d7a,3aeafcc8d2c0ccf723058c1524b902dc620126486d8995b1547f8951fe7193ab,male,Demographics
+fe118d67d3de6f10ede2239bbfe55c4eff297d7a,3aeafcc8d2c0ccf723058c1524b902dc620126486d8995b1547f8951fe7193ab,['dog'],Uncategorized
+fe118d67d3de6f10ede2239bbfe55c4eff297d7a,3aeafcc8d2c0ccf723058c1524b902dc620126486d8995b1547f8951fe7193ab,"['borg america', 'boring america']",Uncategorized
+fe118d67d3de6f10ede2239bbfe55c4eff297d7a,3aeafcc8d2c0ccf723058c1524b902dc620126486d8995b1547f8951fe7193ab,"['tea', 'guys', 'science']",Uncategorized
+fe118d67d3de6f10ede2239bbfe55c4eff297d7a,3aeafcc8d2c0ccf723058c1524b902dc620126486d8995b1547f8951fe7193ab,"['mother', 'father', 'brother']",Personal_Background
+fe118d67d3de6f10ede2239bbfe55c4eff297d7a,3aeafcc8d2c0ccf723058c1524b902dc620126486d8995b1547f8951fe7193ab,"['fursona', 'account', 'computer']",Uncategorized
+fe118d67d3de6f10ede2239bbfe55c4eff297d7a,3aeafcc8d2c0ccf723058c1524b902dc620126486d8995b1547f8951fe7193ab,"['weak af', 'unmotivated person', 'dumb boi', 'minecraft']",Uncategorized
+fe118d67d3de6f10ede2239bbfe55c4eff297d7a,3aeafcc8d2c0ccf723058c1524b902dc620126486d8995b1547f8951fe7193ab,"['video games', 'cubeworld']",Preferences_Interests
+fe118d67d3de6f10ede2239bbfe55c4eff297d7a,3aeafcc8d2c0ccf723058c1524b902dc620126486d8995b1547f8951fe7193ab,['art'],Uncategorized
+18e18998471794de2ee0ded08a5f57a45a336e24,0cae8fc60620c7e4a8fa718a43bacfe4bb4ea8271fa8a97eec6df1136ce69309,male,Demographics
+18e18998471794de2ee0ded08a5f57a45a336e24,0cae8fc60620c7e4a8fa718a43bacfe4bb4ea8271fa8a97eec6df1136ce69309,['cat'],Uncategorized
+18e18998471794de2ee0ded08a5f57a45a336e24,0cae8fc60620c7e4a8fa718a43bacfe4bb4ea8271fa8a97eec6df1136ce69309,['michigan'],Uncategorized
+18e18998471794de2ee0ded08a5f57a45a336e24,0cae8fc60620c7e4a8fa718a43bacfe4bb4ea8271fa8a97eec6df1136ce69309,"['mother', 'father']",Personal_Background
+18e18998471794de2ee0ded08a5f57a45a336e24,0cae8fc60620c7e4a8fa718a43bacfe4bb4ea8271fa8a97eec6df1136ce69309,['today'],Uncategorized
+18e18998471794de2ee0ded08a5f57a45a336e24,0cae8fc60620c7e4a8fa718a43bacfe4bb4ea8271fa8a97eec6df1136ce69309,['game of thrones'],Preferences_Interests
+18e18998471794de2ee0ded08a5f57a45a336e24,0cae8fc60620c7e4a8fa718a43bacfe4bb4ea8271fa8a97eec6df1136ce69309,['a song of ice and fire'],Preferences_Interests
+dc1fd340b3e0a603d715d06c129c512b8197c37b,99494981e48f3e71205e2c48f76b28baa79d377f5d08602053168d2f6d9899b9,male,Demographics
+dc1fd340b3e0a603d715d06c129c512b8197c37b,99494981e48f3e71205e2c48f76b28baa79d377f5d08602053168d2f6d9899b9,['guitar'],Uncategorized
+dc1fd340b3e0a603d715d06c129c512b8197c37b,99494981e48f3e71205e2c48f76b28baa79d377f5d08602053168d2f6d9899b9,"['politics', 'anarchism', 'libertarianism']",Uncategorized
+dc1fd340b3e0a603d715d06c129c512b8197c37b,99494981e48f3e71205e2c48f76b28baa79d377f5d08602053168d2f6d9899b9,['fallout'],Uncategorized
+dc1fd340b3e0a603d715d06c129c512b8197c37b,99494981e48f3e71205e2c48f76b28baa79d377f5d08602053168d2f6d9899b9,['anarchist'],Uncategorized
+3ad18913fe75fd4a63c4ae0d0255c37d90fd7144,620549f525087551282ac5b18ffdc74738a5220496468d43c620820878e27597,male,Demographics
+3ad18913fe75fd4a63c4ae0d0255c37d90fd7144,620549f525087551282ac5b18ffdc74738a5220496468d43c620820878e27597,['pittsburgh'],Uncategorized
+3ad18913fe75fd4a63c4ae0d0255c37d90fd7144,620549f525087551282ac5b18ffdc74738a5220496468d43c620820878e27597,"['alpacas', '3rd semester akechi', 'pewds', 'this']",Uncategorized
+3ad18913fe75fd4a63c4ae0d0255c37d90fd7144,620549f525087551282ac5b18ffdc74738a5220496468d43c620820878e27597,"['mother', 'brother']",Personal_Background
+3ad18913fe75fd4a63c4ae0d0255c37d90fd7144,620549f525087551282ac5b18ffdc74738a5220496468d43c620820878e27597,"['height', 'school', 'teacher', 'eyebrow']",Personal_Background
+3ad18913fe75fd4a63c4ae0d0255c37d90fd7144,620549f525087551282ac5b18ffdc74738a5220496468d43c620820878e27597,"['younger sibling', 'ganondorf', 'soo', 'misunderstanding situation', 'gamer']",Personal_Background
+3ad18913fe75fd4a63c4ae0d0255c37d90fd7144,620549f525087551282ac5b18ffdc74738a5220496468d43c620820878e27597,"['minecraft', 'the legend of zelda', 'pokemon', 'video games', 'super smash bros']",Preferences_Interests
+3ad18913fe75fd4a63c4ae0d0255c37d90fd7144,620549f525087551282ac5b18ffdc74738a5220496468d43c620820878e27597,"['food and beverages', 'pets and animals', 'cooking', 'bread']",Preferences_Interests
+3ad18913fe75fd4a63c4ae0d0255c37d90fd7144,620549f525087551282ac5b18ffdc74738a5220496468d43c620820878e27597,['design'],Uncategorized
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,male,Demographics
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,"['europe', 'denmark', 'sweden']",Uncategorized
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,"['trians bu', 'risalamande', 'military history', 'lego', 'trains', 'alexander9xx', 'cars']",Uncategorized
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,"['mother', 'father', 'brother']",Personal_Background
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,"['grandparent', 'initial']",Personal_Background
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,['reading book whilst game'],Preferences_Interests
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,['history'],Uncategorized
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,['health'],Habits_Routines
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,['travel'],Preferences_Interests
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,['government and military'],Uncategorized
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,"['video games', 'europa universalis', 'war thunder', 'minecraft']",Preferences_Interests
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,"['webcomics', 'star wars']",Uncategorized
+b5bfc53fa7245451bad229f942e351fdc7360321,b6dc457c1e73df85416ce9eac760264cdef083ccbf7a1c1af98b37158cc51846,['geography'],Uncategorized
+8d3203bd3c61b13e57c27bd43fd1be11143f449a,0f1ad8ae4174452043b3eac4b73cc7d38213e766e70366c871235bfb40b7b637,male,Demographics
+8d3203bd3c61b13e57c27bd43fd1be11143f449a,0f1ad8ae4174452043b3eac4b73cc7d38213e766e70366c871235bfb40b7b637,['mario tennis'],Preferences_Interests
+8d3203bd3c61b13e57c27bd43fd1be11143f449a,0f1ad8ae4174452043b3eac4b73cc7d38213e766e70366c871235bfb40b7b637,"['understanding', 'nose', 'recollection', 'knowledge']",Uncategorized
+8d3203bd3c61b13e57c27bd43fd1be11143f449a,0f1ad8ae4174452043b3eac4b73cc7d38213e766e70366c871235bfb40b7b637,"['big fan of link', 'big fan of dark souls', 'coward', 'big fan of the switch port', 'home']",Personality_Traits
+8d3203bd3c61b13e57c27bd43fd1be11143f449a,0f1ad8ae4174452043b3eac4b73cc7d38213e766e70366c871235bfb40b7b637,"['video games', 'super smash bros', 'dark souls']",Preferences_Interests
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,male,Demographics
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,['chicago'],Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,"['design and decor', 'filmmaking', 'home improvement', 'guns']",Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,['father'],Personal_Background
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,"['street', 'basement', 'kid']",Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,"['fish empath', 'stranger on the internet', 'adult', 'nuts']",Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,['wife'],Personal_Background
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,"['conservative', 'libertarianism', 'politics']",Personality_Traits
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,"['entrepreneurship', 'jobs and careers', 'economics']",Personal_Background
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,"['beer', 'cooking', 'personal finance']",Preferences_Interests
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,['chicago bears'],Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,['software'],Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,"['webcomics', 'cosplay']",Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,['video games'],Preferences_Interests
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,['the venture bros'],Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,['environment'],Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,['atheism'],Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,['history'],Uncategorized
+30506e41c4121e1e7573a25d4985de191de679c9,81df38ed4c1ba370cc76dd907209a38e443f994b6b49ef7983ec0b69145705de,"['conservative', 'libertarian']",Personality_Traits
+630b45a8d3ef360a8a8a9626adbff80750d745a7,47bed9eb4d2697b528ff272d3f300d1bf3ee521e514d554105e2fdcfaaaa4cd8,male,Demographics
+630b45a8d3ef360a8a8a9626adbff80750d745a7,47bed9eb4d2697b528ff272d3f300d1bf3ee521e514d554105e2fdcfaaaa4cd8,"['skillet', 'dark mode', 'ellen']",Uncategorized
+630b45a8d3ef360a8a8a9626adbff80750d745a7,47bed9eb4d2697b528ff272d3f300d1bf3ee521e514d554105e2fdcfaaaa4cd8,['brother'],Personal_Background
+630b45a8d3ef360a8a8a9626adbff80750d745a7,47bed9eb4d2697b528ff272d3f300d1bf3ee521e514d554105e2fdcfaaaa4cd8,"['ballin', 'kid fearful _ face']",Uncategorized
+fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1,03e0f083dc53c2bdf93bd4a03de5e121e7e4b76001400e40170e83a9a50b67d2,male,Demographics
+fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1,03e0f083dc53c2bdf93bd4a03de5e121e7e4b76001400e40170e83a9a50b67d2,['knives'],Uncategorized
+fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1,03e0f083dc53c2bdf93bd4a03de5e121e7e4b76001400e40170e83a9a50b67d2,"['mother', 'father', 'sister']",Personal_Background
+fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1,03e0f083dc53c2bdf93bd4a03de5e121e7e4b76001400e40170e83a9a50b67d2,"['comment', 'dude']",Uncategorized
+fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1,03e0f083dc53c2bdf93bd4a03de5e121e7e4b76001400e40170e83a9a50b67d2,"['bit', 'calling /a/ right fucking', 'roleplaying as 19th century english royalty at the moment', 'feeling', 'feeling light to strong satire']",Personality_Traits
+fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1,03e0f083dc53c2bdf93bd4a03de5e121e7e4b76001400e40170e83a9a50b67d2,"['social media', 'design']",Social_Relationships
+fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1,03e0f083dc53c2bdf93bd4a03de5e121e7e4b76001400e40170e83a9a50b67d2,['league of legends'],Uncategorized
+fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1,03e0f083dc53c2bdf93bd4a03de5e121e7e4b76001400e40170e83a9a50b67d2,['world news'],Uncategorized
+fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1,03e0f083dc53c2bdf93bd4a03de5e121e7e4b76001400e40170e83a9a50b67d2,['pets and animals'],Uncategorized
+5d5b1d6dc4106ea3828986093f78b562f2a75587,1d9cbd8be3bfcb7a583e5a59220b40d617fc6c6dc33acf1778460c17600561dd,female,Demographics
+5d5b1d6dc4106ea3828986093f78b562f2a75587,1d9cbd8be3bfcb7a583e5a59220b40d617fc6c6dc33acf1778460c17600561dd,['united kingdom'],Uncategorized
+5d5b1d6dc4106ea3828986093f78b562f2a75587,1d9cbd8be3bfcb7a583e5a59220b40d617fc6c6dc33acf1778460c17600561dd,"['intelligence', 'hair', 'straight men', 'men']",Uncategorized
+5d5b1d6dc4106ea3828986093f78b562f2a75587,1d9cbd8be3bfcb7a583e5a59220b40d617fc6c6dc33acf1778460c17600561dd,"['children', 'son']",Personal_Background
+5d5b1d6dc4106ea3828986093f78b562f2a75587,1d9cbd8be3bfcb7a583e5a59220b40d617fc6c6dc33acf1778460c17600561dd,['husband'],Personal_Background
+5d5b1d6dc4106ea3828986093f78b562f2a75587,1d9cbd8be3bfcb7a583e5a59220b40d617fc6c6dc33acf1778460c17600561dd,"['partner', 'child', 'kid', '40']","Personal_Background, Social_Relationships"
+5d5b1d6dc4106ea3828986093f78b562f2a75587,1d9cbd8be3bfcb7a583e5a59220b40d617fc6c6dc33acf1778460c17600561dd,"['carer', 'building whole community', 'switch', 'approx']","Preferences_Interests, Social_Relationships"
+5d5b1d6dc4106ea3828986093f78b562f2a75587,1d9cbd8be3bfcb7a583e5a59220b40d617fc6c6dc33acf1778460c17600561dd,['husband'],Personal_Background
+5d5b1d6dc4106ea3828986093f78b562f2a75587,1d9cbd8be3bfcb7a583e5a59220b40d617fc6c6dc33acf1778460c17600561dd,"['sex', 'cooking', 'makeup', 'parenting']",Preferences_Interests
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,male,Demographics
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,['snowy wasteland'],Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,"['languages', 'landsknechts', 'opening piety', 'ron']",Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,"['daughter', 'son', 'father', 'sister', 'brother', 'daughters', 'mother']",Personal_Background
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,"['solution', 'behalf', 'mac address', 'instinct', 'game', 'logic', 'dorm', 'cousin', 'record', 'definition', 'zone', 'phone', 'laptop', 'council', 'defense', '5e friend', 'player', 'issue', 'card', 'half-brother', 'gout', 'queen', 'request', 'king', 'claim', 'computer']","Personal_Background, Preferences_Interests, Social_Relationships"
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,"['dad', 'bit skeptical', 'planning first', 'demiboy', 'drinking', 'testing out the unchained action economy', 'american', 'savoy', 'planning campaign', 'catholic', 'actuarial science major with minors in stats', 'serial character creator', 'person', 'episcopalian at this point', 'incompatibilist', 'side b', 'programming', 'annihilationist', 'planning', 'misunderstanding present participle', 'listing', 'building up a database of all the texts', 'anglo-catholic', 'techy', 'winter']","Demographics, Personal_Background, Preferences_Interests"
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,['girlfriend'],Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,[' catholic'],Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,['christianity'],Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,"['pathfinder', 'crusader kings', 'pokemon', 'dungeons & dragons', 'civilization']",Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,['lgbt'],Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,"['webcomics', 'fantasy']",Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,"['programming', 'windows', 'software']",Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,"['math', 'statistics']",Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,['politics'],Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,"['once upon a time', 'doctor who']",Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,['history'],Uncategorized
+aac80ac9ebef70ab8fe6bc14a8fcccb472099b84,8baacd30cff3d7c1337a93ba3fa6be5fcb0e87163e7c69e39241a4dbec594b29,['jobs and careers'],Personal_Background
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,female,Demographics
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,['oregon'],Uncategorized
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,"['caramel', 'rolls  lunch meat  cheese', 'nature', 'wild giraffes']",Preferences_Interests
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,"['daughter', 'son', 'father', 'sister', 'brother', 'mother']",Personal_Background
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,"['girlfriend', 'wife']",Personal_Background
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,"['memory', 'hair', 'teen', 'roommate', 'shift', 'record', 'grandmother', 'trailer', 'shoe', 'expectation', 'schedule', 'teeth', '20', 'house', 'kid', 'truck', 'med', 'computer']",Habits_Routines
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,"['friends', 'california', 'truck driver', 'ghost', 'libra', 'therapist', 'trans', 'zombie within the week', 'toast', '35lbs over the last year']",Demographics
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,['wife'],Personal_Background
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,"['lgbt', 'vegan and vegetarian', 'parenting', 'gifts and charity']",Uncategorized
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,['design'],Uncategorized
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,"['kerbal space program', 'video games', 'space engineers']",Preferences_Interests
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,['world news'],Uncategorized
+7921460db376d8f318b71729dcd4931f12a1d0c9,c66bb7719ae22bd294393289acece9aafcbc4ae24a2ff002ad2ec0e43abfecf5,['gay'],Uncategorized
+2266fd8e27b1d50f2e144f7cd11716068cff21d5,922494c6ff37b589cd4239986e8daa17ac02d67f61c115a16a8a9053e8751607,male,Demographics
+2266fd8e27b1d50f2e144f7cd11716068cff21d5,922494c6ff37b589cd4239986e8daa17ac02d67f61c115a16a8a9053e8751607,"['tits', 'diy']",Uncategorized
+2266fd8e27b1d50f2e144f7cd11716068cff21d5,922494c6ff37b589cd4239986e8daa17ac02d67f61c115a16a8a9053e8751607,"['mother', 'sister', 'son']",Personal_Background
+2266fd8e27b1d50f2e144f7cd11716068cff21d5,922494c6ff37b589cd4239986e8daa17ac02d67f61c115a16a8a9053e8751607,"['phone', 'account']",Uncategorized
+2266fd8e27b1d50f2e144f7cd11716068cff21d5,922494c6ff37b589cd4239986e8daa17ac02d67f61c115a16a8a9053e8751607,"['craving fridge raiders', 'realest football fan', 'da giant rat']",Preferences_Interests
+2266fd8e27b1d50f2e144f7cd11716068cff21d5,922494c6ff37b589cd4239986e8daa17ac02d67f61c115a16a8a9053e8751607,"['star wars', 'fantasy']",Uncategorized
+2266fd8e27b1d50f2e144f7cd11716068cff21d5,922494c6ff37b589cd4239986e8daa17ac02d67f61c115a16a8a9053e8751607,"['video games', 'minecraft']",Preferences_Interests
+2266fd8e27b1d50f2e144f7cd11716068cff21d5,922494c6ff37b589cd4239986e8daa17ac02d67f61c115a16a8a9053e8751607,['history'],Uncategorized
+2266fd8e27b1d50f2e144f7cd11716068cff21d5,922494c6ff37b589cd4239986e8daa17ac02d67f61c115a16a8a9053e8751607,['design'],Uncategorized
+2266fd8e27b1d50f2e144f7cd11716068cff21d5,922494c6ff37b589cd4239986e8daa17ac02d67f61c115a16a8a9053e8751607,"['pets and animals', 'health']",Habits_Routines
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,male,Demographics
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,"['crafts', 'senior dogs', 'inspirobot']",Uncategorized
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,['god'],Uncategorized
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,"['friends', 'pupper', 'half', 'daddy', 'same weight']",Uncategorized
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,['wife'],Personal_Background
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,"['pets and animals', 'food and beverages', 'lgbt']",Preferences_Interests
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,['fantasy'],Uncategorized
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,['social media'],Social_Relationships
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,['art'],Uncategorized
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,['world news'],Uncategorized
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,['space'],Uncategorized
+dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e,e5e50939c62802df55298bb48b18cb234ca1f6b09daecf36fc154def77eeece3,['bisexual'],Uncategorized
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,female,Demographics
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,['cat'],Uncategorized
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,"['foreground', 'minneapolis', 'minnesota', 'across street', 'apartment', 'fact', 'house', 'works', 'metro area', 'shitty neighborhood']",Uncategorized
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,"['public art', 'scottish folds', 'biking  mrb', 'feta cheese', 'bubble tea', 'hobbes', 'cars']",Preferences_Interests
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,"['mother', 'father', 'brother']",Personal_Background
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,['husband'],Personal_Background
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,"['theory', 'money', 'apartment', 'takeaway', 'breath', 'bike', 'house', 'lifetime', 'neighborhood', 'shot', 'grandpa', 'knowledge']",Preferences_Interests
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,"['planning', 'liar', 'cisgender female', 'ootl', 'siding with the parents']","Demographics, Personal_Background"
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,['boyfriend'],Uncategorized
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,['politics'],Uncategorized
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,"['pets and animals', 'relationships', 'food and beverages']",Preferences_Interests
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,"['rick and morty', ""bob's burgers"", 'breaking bad', 'better call saul', 'south park']",Uncategorized
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,['art'],Uncategorized
+e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0,0cafb2658f2cfcbdb29bfc782ff402890295475ea344b0d1b05bd8c93fcef3aa,['space'],Uncategorized
+d8681af7ff5797fb2ffcb9a4a08f377463526e2d,fb7c6c26b49c51af7c5fd2b68dc21eb90841157a8076f3c3debfe2f0bfbdec15,male,Demographics
+d8681af7ff5797fb2ffcb9a4a08f377463526e2d,fb7c6c26b49c51af7c5fd2b68dc21eb90841157a8076f3c3debfe2f0bfbdec15,"['fish', 'dog']",Uncategorized
+d8681af7ff5797fb2ffcb9a4a08f377463526e2d,fb7c6c26b49c51af7c5fd2b68dc21eb90841157a8076f3c3debfe2f0bfbdec15,"['dorms', 'chicago']",Uncategorized
+d8681af7ff5797fb2ffcb9a4a08f377463526e2d,fb7c6c26b49c51af7c5fd2b68dc21eb90841157a8076f3c3debfe2f0bfbdec15,"['papi', 'dan', 'freedom', 'big tits', 'uniform choice']",Uncategorized
+d8681af7ff5797fb2ffcb9a4a08f377463526e2d,fb7c6c26b49c51af7c5fd2b68dc21eb90841157a8076f3c3debfe2f0bfbdec15,"['mother', 'father', 'sister', 'brother']",Personal_Background
+d8681af7ff5797fb2ffcb9a4a08f377463526e2d,fb7c6c26b49c51af7c5fd2b68dc21eb90841157a8076f3c3debfe2f0bfbdec15,"['face', 'number']",Uncategorized
+d8681af7ff5797fb2ffcb9a4a08f377463526e2d,fb7c6c26b49c51af7c5fd2b68dc21eb90841157a8076f3c3debfe2f0bfbdec15,"['horny', 'dave', 'not_penis_cream', 'shark fighter', 'crush man']",Demographics
+d8681af7ff5797fb2ffcb9a4a08f377463526e2d,fb7c6c26b49c51af7c5fd2b68dc21eb90841157a8076f3c3debfe2f0bfbdec15,['punk'],Uncategorized
+d8681af7ff5797fb2ffcb9a4a08f377463526e2d,fb7c6c26b49c51af7c5fd2b68dc21eb90841157a8076f3c3debfe2f0bfbdec15,['the simpsons'],Uncategorized
+d8952166e450f1d7d75495d86ed516c2376f79bc,21883b9d27a2c82d342b9e610a3d36b2e434b846531f6b8c3218eb5984077b87,male,Demographics
+d8952166e450f1d7d75495d86ed516c2376f79bc,21883b9d27a2c82d342b9e610a3d36b2e434b846531f6b8c3218eb5984077b87,"['dog', 'cat']",Uncategorized
+d8952166e450f1d7d75495d86ed516c2376f79bc,21883b9d27a2c82d342b9e610a3d36b2e434b846531f6b8c3218eb5984077b87,"['m', 'big attack speed for essence shift mjoll mkb', 'offlaners', 'healbot']",Uncategorized
+d8952166e450f1d7d75495d86ed516c2376f79bc,21883b9d27a2c82d342b9e610a3d36b2e434b846531f6b8c3218eb5984077b87,['brothers'],Uncategorized
+d8952166e450f1d7d75495d86ed516c2376f79bc,21883b9d27a2c82d342b9e610a3d36b2e434b846531f6b8c3218eb5984077b87,"['group', 'pc', 'team', 'mouse', 'alt', 'guild', 'experience people', 'raid']","Preferences_Interests, Social_Relationships"
+d8952166e450f1d7d75495d86ed516c2376f79bc,21883b9d27a2c82d342b9e610a3d36b2e434b846531f6b8c3218eb5984077b87,"['mediocre player', 'noob', 'resto shaman main', 'willow player', 'offering damn explanation', 'healer main', 'feeling fancy', 'legend', 'bit worries', 'healer', 'alch', 'resto sham main', 'officer of a ce', 'curios', 'shaman', 'resto', 'resto main', 'case']",Personality_Traits
+d8952166e450f1d7d75495d86ed516c2376f79bc,21883b9d27a2c82d342b9e610a3d36b2e434b846531f6b8c3218eb5984077b87,['girlfriend'],Uncategorized
+d8952166e450f1d7d75495d86ed516c2376f79bc,21883b9d27a2c82d342b9e610a3d36b2e434b846531f6b8c3218eb5984077b87,"['wow', 'dota', 'terraria', 'diablo', 'heroes of the storm', 'video games']",Preferences_Interests
+d8952166e450f1d7d75495d86ed516c2376f79bc,21883b9d27a2c82d342b9e610a3d36b2e434b846531f6b8c3218eb5984077b87,['game of thrones'],Preferences_Interests
+0b52265db13bf8bc27ad36aad94e870706eb6689,83cb5e09279ce80241b5c34a4e3ecb3c8d562b6b45d358fd9ea6d5f6e9dc90e7,male,Demographics
+0b52265db13bf8bc27ad36aad94e870706eb6689,83cb5e09279ce80241b5c34a4e3ecb3c8d562b6b45d358fd9ea6d5f6e9dc90e7,"['ahsoka', 'normal natsuki more', 'natsuki', 'natsuki more', 'high fnty   genre', 'hanako']",Preferences_Interests
+0b52265db13bf8bc27ad36aad94e870706eb6689,83cb5e09279ce80241b5c34a4e3ecb3c8d562b6b45d358fd9ea6d5f6e9dc90e7,"['sister', 'brother']",Personal_Background
+0b52265db13bf8bc27ad36aad94e870706eb6689,83cb5e09279ce80241b5c34a4e3ecb3c8d562b6b45d358fd9ea6d5f6e9dc90e7,"['empire', 'demesne', 'grandad', 'fanart collection', 'option', 'reddit feed', 'ahsoka clone war lightsabers', 'tag list', 'collection couple week', 'desktop', 'vassal', 'collection', 'motherboard', 'wallet', 'college', 'case', 'computer']",Personal_Background
+0b52265db13bf8bc27ad36aad94e870706eb6689,83cb5e09279ce80241b5c34a4e3ecb3c8d562b6b45d358fd9ea6d5f6e9dc90e7,"['bit', 'testing if people', 'content', 'planning', 'testing', 'sourcing piece of art', 'bit busy', 'confused/want', 'half', 'emperor of scandinavia']",Social_Relationships
+0b52265db13bf8bc27ad36aad94e870706eb6689,83cb5e09279ce80241b5c34a4e3ecb3c8d562b6b45d358fd9ea6d5f6e9dc90e7,"['star wars', 'katawa shoujo']",Uncategorized
+0b52265db13bf8bc27ad36aad94e870706eb6689,83cb5e09279ce80241b5c34a4e3ecb3c8d562b6b45d358fd9ea6d5f6e9dc90e7,['crusader kings'],Uncategorized
+0b52265db13bf8bc27ad36aad94e870706eb6689,83cb5e09279ce80241b5c34a4e3ecb3c8d562b6b45d358fd9ea6d5f6e9dc90e7,"['data', 'bittorrent']",Uncategorized
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,male,Demographics
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,['dog'],Uncategorized
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,"['sam', 'new york city', 'california', 'los angeles', 'west hollywood/beverly hills', 'boston', 'cape', 'boulder', 'massachusetts']",Demographics
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,"['skiing tons', 'disc for raids', 'parts   poem', 'editing', 'metal landscape', 'beer', 'cafe bar', 'great beer', 'sex', 'bars ands skiing', 'food', 'kettle', 'care', 'chocolate', 'cum', 'money']",Preferences_Interests
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,"['mother', 'father', 'sister', 'brother']",Personal_Background
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,"['cousin', 'car', 'nostril', 'drink', 'neighbor', 'house', 'foot', 'home']","Preferences_Interests, Social_Relationships"
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,"['restaurant manager', 'new dad', 'flash', 'mildlysorry']","Personal_Background, Preferences_Interests"
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,['wife'],Personal_Background
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,"['destiny', 'wow']",Uncategorized
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,"['bread', 'alcohol', 'cooking', 'food and beverages']",Preferences_Interests
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,"['the office', 'game of thrones', ""it's always sunny in philadelphia""]","Personal_Background, Preferences_Interests"
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,"['politics', 'world news']",Uncategorized
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,['law'],Uncategorized
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,['internet'],Uncategorized
+109fa004cbb85f6a703624f8b4393d7d7d685509,f5da52990728dbdf26350e8627b6b821909eb87cc8a19dec3d83653bdcf454b4,['hip hop'],Uncategorized
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,male,Demographics
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,['dog'],Uncategorized
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,"['with bad psoriasis', 'with narcissist sister', 'dmt land', 'home', 'canada']",Personal_Background
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,"['crafts', 'existential quotes', 'justice', 'skateboarding', 'cycling']",Preferences_Interests
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,"['daughter', 'father', 'sister', 'sisters', 'mother']",Personal_Background
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,"['wuhan', 'doctor']",Uncategorized
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,"['horny', 'pos', 'da universe', 'god']",Uncategorized
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,"['health', 'food and beverages', 'fitness and nutrition', 'pets and animals']","Preferences_Interests, Habits_Routines"
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,['botany'],Uncategorized
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,"['world news', 'politics']",Uncategorized
+79b35c8caff79f47f37bb4856cc6b57bcd49e5bf,4ad7e30fa05ef4bdba51b418a7884a422a246e887fa8b634583a0c0e40e310c6,['starcraft'],Uncategorized
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,male,Demographics
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,['dog'],Uncategorized
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,['pennsylvania'],Uncategorized
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,"['end peices', 'movies gamers']",Uncategorized
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,['brother'],Personal_Background
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,['wife'],Personal_Background
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,"['receipt', 'understanding', 'house', 'money', 'prescription', 'store']",Uncategorized
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,"['lvl', 'computer illiterate', 'slicker', 'random person reading post', 'hella', 'essential sacrificial lamb at a corner pharmacy', 'home']",Preferences_Interests
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,['wife'],Personal_Background
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,"['grand theft auto', 'black ops']",Uncategorized
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,['graffiti'],Uncategorized
+34d7a41f0778ab80ac97d43bcbe30cde5ab458d8,b6aa1fcf639992db94e691f30fd47d44a7459d75be3bde11dd27a8af274675a7,['food and beverages'],Preferences_Interests
+e9d9b9400a09031a7e1021173867d784ebb9cf94,358031662522f872ad8be8e6c71438a3ebe0174797bd1354587b8fb3d5858593,male,Demographics
+e9d9b9400a09031a7e1021173867d784ebb9cf94,358031662522f872ad8be8e6c71438a3ebe0174797bd1354587b8fb3d5858593,"['father', 'brother']",Personal_Background
+e9d9b9400a09031a7e1021173867d784ebb9cf94,358031662522f872ad8be8e6c71438a3ebe0174797bd1354587b8fb3d5858593,"['memory', 'face', 'nose', 'area', 'case']",Uncategorized
+e9d9b9400a09031a7e1021173867d784ebb9cf94,358031662522f872ad8be8e6c71438a3ebe0174797bd1354587b8fb3d5858593,"['today', 'first person', 'engineer', 'good listener', 'more torso dominant', 'batman']",Uncategorized
+e9d9b9400a09031a7e1021173867d784ebb9cf94,358031662522f872ad8be8e6c71438a3ebe0174797bd1354587b8fb3d5858593,"['fitness and nutrition', 'self-help and motivation', 'sex', 'vegan and vegetarian', 'dating', 'seduction']","Demographics, Preferences_Interests, Habits_Routines"
+e9d9b9400a09031a7e1021173867d784ebb9cf94,358031662522f872ad8be8e6c71438a3ebe0174797bd1354587b8fb3d5858593,['psychology'],Uncategorized
+81230f8a6d5b3e00bae3b805b33ed6427ca86367,c1728a3d85c0266c8a2a8aa7fba07f51fa8eef17502007f0913fa67acd622a60,male,Demographics
+81230f8a6d5b3e00bae3b805b33ed6427ca86367,c1728a3d85c0266c8a2a8aa7fba07f51fa8eef17502007f0913fa67acd622a60,['cat'],Uncategorized
+81230f8a6d5b3e00bae3b805b33ed6427ca86367,c1728a3d85c0266c8a2a8aa7fba07f51fa8eef17502007f0913fa67acd622a60,"['for winter storms', 'northern canada']",Uncategorized
+81230f8a6d5b3e00bae3b805b33ed6427ca86367,c1728a3d85c0266c8a2a8aa7fba07f51fa8eef17502007f0913fa67acd622a60,"['buttons', 'roxanne', 'fucking science', 'ea']",Uncategorized
+81230f8a6d5b3e00bae3b805b33ed6427ca86367,c1728a3d85c0266c8a2a8aa7fba07f51fa8eef17502007f0913fa67acd622a60,"['daughter', 'brothers', 'brother']",Personal_Background
+81230f8a6d5b3e00bae3b805b33ed6427ca86367,c1728a3d85c0266c8a2a8aa7fba07f51fa8eef17502007f0913fa67acd622a60,"['age', 'cousin', 'luck', 'armor', 'sin', 'house', 'pet', 'beer', 'seat', 'dude']",Uncategorized
+81230f8a6d5b3e00bae3b805b33ed6427ca86367,c1728a3d85c0266c8a2a8aa7fba07f51fa8eef17502007f0913fa67acd622a60,"['red', 'sucker for big eyes', 'big spoon', 'squad leader', 'aware boy', 'good friends', 'ya brother', 'lazy piece of shit', 'highrisk', 'home', 'master of suspense /*laughs']","Demographics, Personal_Background, Personality_Traits, Social_Relationships"
+81230f8a6d5b3e00bae3b805b33ed6427ca86367,c1728a3d85c0266c8a2a8aa7fba07f51fa8eef17502007f0913fa67acd622a60,"['dungeons & dragons', 'forza motorsport', 'destiny', 'titanfall']",Uncategorized
+81230f8a6d5b3e00bae3b805b33ed6427ca86367,c1728a3d85c0266c8a2a8aa7fba07f51fa8eef17502007f0913fa67acd622a60,['pets and animals'],Uncategorized
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,male,Demographics
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,"['johor', 'malaysia']",Uncategorized
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,"['winks', 'ps4 games', 'fortnite', 'man', 'lynx']","Demographics, Preferences_Interests"
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,"['daughter', 'mother', 'father']",Personal_Background
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,['sens'],Uncategorized
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,"['cringe😔', 'reading dead mount death play manga']",Preferences_Interests
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,['boyfriend'],Uncategorized
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,"['tottenham hotspur f.c.', 'soccer', 'fifa', 'chess']",Preferences_Interests
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,"['grand theft auto', 'video games']",Preferences_Interests
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,['atheism'],Uncategorized
+84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca,52ae0539616f9a7a373461bfe320f16ff1f0c8ff2f6d91410e5918603d098865,['rock'],Uncategorized
+331a369e9c4eeeec0c052f4d231490718fe64c61,f615fee7778102eb12729d29c46cf33f834e741a2f0c645aab884f81277f7a2d,male,Demographics
+331a369e9c4eeeec0c052f4d231490718fe64c61,f615fee7778102eb12729d29c46cf33f834e741a2f0c645aab884f81277f7a2d,"['pineapple  pizza', 'pineapple on pizza', 'white chocolate', 'ketchup chips', 'tie flavor']",Uncategorized
+331a369e9c4eeeec0c052f4d231490718fe64c61,f615fee7778102eb12729d29c46cf33f834e741a2f0c645aab884f81277f7a2d,"['province', 'kd', 'shelf']",Uncategorized
+331a369e9c4eeeec0c052f4d231490718fe64c61,f615fee7778102eb12729d29c46cf33f834e741a2f0c645aab884f81277f7a2d,['girlfriend'],Uncategorized
+331a369e9c4eeeec0c052f4d231490718fe64c61,f615fee7778102eb12729d29c46cf33f834e741a2f0c645aab884f81277f7a2d,['on early nineties grunge'],Habits_Routines
+331a369e9c4eeeec0c052f4d231490718fe64c61,f615fee7778102eb12729d29c46cf33f834e741a2f0c645aab884f81277f7a2d,"['food and beverages', 'cooking']",Preferences_Interests
+331a369e9c4eeeec0c052f4d231490718fe64c61,f615fee7778102eb12729d29c46cf33f834e741a2f0c645aab884f81277f7a2d,"['magic: the gathering', 'snes']",Social_Relationships
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,male,Demographics
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,"[' hearing', 'lisburn', 'uk', 'northern ireland']",Uncategorized
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,"['big fluffy dogs', 'dogs', 'reading fantasy', 'big iron']",Preferences_Interests
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,"['mother', 'father', 'sister', 'brother']",Personal_Background
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,"['symptom', 'character']",Uncategorized
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,"['big rpg fan', 'rocking gtx 1050ti', 'demisexual pan person']",Preferences_Interests
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,"['lgbt', 'health']",Habits_Routines
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,['rwby'],Uncategorized
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,['fantasy'],Uncategorized
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,['hardware'],Uncategorized
+f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c,16c22e4bbb3b9ee867e108b6c9cca873ae14b4e6fec18a24eb1aa1a837b19adb,"['metal gear solid', 'playstation']",Uncategorized
+fca46720f9aa154a0559b1e4d2d28cb0df46b00a,af79fc9586754329006abde5d2a25d26b94e54ad16e02d33e4f3ce3e83365ab7,male,Demographics
+fca46720f9aa154a0559b1e4d2d28cb0df46b00a,af79fc9586754329006abde5d2a25d26b94e54ad16e02d33e4f3ce3e83365ab7,['dog'],Uncategorized
+fca46720f9aa154a0559b1e4d2d28cb0df46b00a,af79fc9586754329006abde5d2a25d26b94e54ad16e02d33e4f3ce3e83365ab7,"['arizona', 'with pigs', 'tucson']",Uncategorized
+fca46720f9aa154a0559b1e4d2d28cb0df46b00a,af79fc9586754329006abde5d2a25d26b94e54ad16e02d33e4f3ce3e83365ab7,"['tall guys', 'mayor pete', 'diy', 'colored lights', 'german shorthairs', 'gardening']",Demographics
+fca46720f9aa154a0559b1e4d2d28cb0df46b00a,af79fc9586754329006abde5d2a25d26b94e54ad16e02d33e4f3ce3e83365ab7,"['mother', 'brothers', 'sister', 'brother']",Personal_Background
+fca46720f9aa154a0559b1e4d2d28cb0df46b00a,af79fc9586754329006abde5d2a25d26b94e54ad16e02d33e4f3ce3e83365ab7,['bud'],Uncategorized
+fca46720f9aa154a0559b1e4d2d28cb0df46b00a,af79fc9586754329006abde5d2a25d26b94e54ad16e02d33e4f3ce3e83365ab7,"['boomer', 'person']",Uncategorized
+fca46720f9aa154a0559b1e4d2d28cb0df46b00a,af79fc9586754329006abde5d2a25d26b94e54ad16e02d33e4f3ce3e83365ab7,"['cats', 'lgbt', 'dogs']",Uncategorized
+fca46720f9aa154a0559b1e4d2d28cb0df46b00a,af79fc9586754329006abde5d2a25d26b94e54ad16e02d33e4f3ce3e83365ab7,"['politics', 'world news']",Uncategorized
+fca46720f9aa154a0559b1e4d2d28cb0df46b00a,af79fc9586754329006abde5d2a25d26b94e54ad16e02d33e4f3ce3e83365ab7,['atheism'],Uncategorized
+ba0e9130abfdb05aa7eedd989650338802035edd,006f661a53ec325795499ce32c3af32ffbf779d4bd4c35f44edd1333fb60912f,male,Demographics
+ba0e9130abfdb05aa7eedd989650338802035edd,006f661a53ec325795499ce32c3af32ffbf779d4bd4c35f44edd1333fb60912f,['ma'],Uncategorized
+ba0e9130abfdb05aa7eedd989650338802035edd,006f661a53ec325795499ce32c3af32ffbf779d4bd4c35f44edd1333fb60912f,"['mother', 'father', 'brother']",Personal_Background
+ba0e9130abfdb05aa7eedd989650338802035edd,006f661a53ec325795499ce32c3af32ffbf779d4bd4c35f44edd1333fb60912f,"['girlfriend', 'wife']",Personal_Background
+ba0e9130abfdb05aa7eedd989650338802035edd,006f661a53ec325795499ce32c3af32ffbf779d4bd4c35f44edd1333fb60912f,"['dad', 'face', 'shop', 'front yard', 'school', 'class', 'cousin', 'instructor car', 'neck', 'house', 'nose', 'relative', 'neighbor farm', 'ring', 'computer']","Personal_Background, Social_Relationships"
+ba0e9130abfdb05aa7eedd989650338802035edd,006f661a53ec325795499ce32c3af32ffbf779d4bd4c35f44edd1333fb60912f,"['friends', 'today', 'muslim', 'youth tobacco inspector', 'trynna figure', 'bit of a cheapo', 'junior shes freshman']",Uncategorized
+ba0e9130abfdb05aa7eedd989650338802035edd,006f661a53ec325795499ce32c3af32ffbf779d4bd4c35f44edd1333fb60912f,['girlfriend'],Uncategorized
+ba0e9130abfdb05aa7eedd989650338802035edd,006f661a53ec325795499ce32c3af32ffbf779d4bd4c35f44edd1333fb60912f,"['relationships', 'food and beverages']",Preferences_Interests
+ba0e9130abfdb05aa7eedd989650338802035edd,006f661a53ec325795499ce32c3af32ffbf779d4bd4c35f44edd1333fb60912f,['rick and morty'],Uncategorized
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,male,Demographics
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,"['out sticks', 'near university', '80s', 'on large property', 'gaesville', 'fl']",Personal_Background
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,"['puppies', 'girls  scars', 'black beans', 'diy', 'glass art', 'ronald', 'voltron', 'cars', 'sponge cake', 'women with scars', 'art']",Uncategorized
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,"['mother', 'father', 'son']",Personal_Background
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,['wife'],Personal_Background
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,"['leg', 'car']",Uncategorized
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,"['feeling', 'building', 'burgertime wr holder', 'respectable person']","Preferences_Interests, Personality_Traits"
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,['in central florida'],Uncategorized
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,['food and beverages'],Preferences_Interests
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,['video games'],Preferences_Interests
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,['art'],Uncategorized
+3319add5fded9e9b6e45fcb1340aaf52d39da50e,b498a2a93c33697684c0b179bf76ab36b732fb23fe02669765d2e56d0f16d0f4,"['hardware', 'data visualization']",Uncategorized
+35c328d4a335c5fd9ddfe5f40bbfd2580065561c,6894eee18254cbd06c7668d45b6abd80d68144d5581c7fdd9ec311d44733277c,male,Demographics
+35c328d4a335c5fd9ddfe5f40bbfd2580065561c,6894eee18254cbd06c7668d45b6abd80d68144d5581c7fdd9ec311d44733277c,['norway'],Uncategorized
+35c328d4a335c5fd9ddfe5f40bbfd2580065561c,6894eee18254cbd06c7668d45b6abd80d68144d5581c7fdd9ec311d44733277c,"['mother', 'father', 'brother']",Personal_Background
+35c328d4a335c5fd9ddfe5f40bbfd2580065561c,6894eee18254cbd06c7668d45b6abd80d68144d5581c7fdd9ec311d44733277c,"['profile', 'game']",Preferences_Interests
+35c328d4a335c5fd9ddfe5f40bbfd2580065561c,6894eee18254cbd06c7668d45b6abd80d68144d5581c7fdd9ec311d44733277c,"['op', 'leo']",Uncategorized
+35c328d4a335c5fd9ddfe5f40bbfd2580065561c,6894eee18254cbd06c7668d45b6abd80d68144d5581c7fdd9ec311d44733277c,"['pokemon', 'video games', 'simcity', 'league of legends', 'playstation']",Preferences_Interests
+35c328d4a335c5fd9ddfe5f40bbfd2580065561c,6894eee18254cbd06c7668d45b6abd80d68144d5581c7fdd9ec311d44733277c,"['aviation', 'hardware']",Uncategorized
+35c328d4a335c5fd9ddfe5f40bbfd2580065561c,6894eee18254cbd06c7668d45b6abd80d68144d5581c7fdd9ec311d44733277c,['star wars'],Uncategorized
+35c328d4a335c5fd9ddfe5f40bbfd2580065561c,6894eee18254cbd06c7668d45b6abd80d68144d5581c7fdd9ec311d44733277c,"['air force', 'government and military']",Uncategorized
+35c328d4a335c5fd9ddfe5f40bbfd2580065561c,6894eee18254cbd06c7668d45b6abd80d68144d5581c7fdd9ec311d44733277c,['dating'],Demographics
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,male,Demographics
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,['dog'],Uncategorized
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,"['massachusetts', 'boston']",Uncategorized
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,"['animal husbandry', 'sushi with bold flavors', 'sushi  bold flavors']",Uncategorized
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,"['mother', 'father', 'sister']",Personal_Background
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,['girlfriend'],Uncategorized
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,"['school', 'house', 'leg', 'bedroom']",Personal_Background
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,"['persian', 'high school student', 'student', 'elton john']",Personal_Background
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,['girlfriend'],Uncategorized
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,['universities and colleges'],Personal_Background
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,['architecture'],Uncategorized
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,"['pets and animals', 'cooking', 'food and beverages']",Preferences_Interests
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,['fantasy'],Uncategorized
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,['history'],Uncategorized
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,['the last airbender'],Uncategorized
+e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3,a44aac26711e4b183ad2b6958d59e5430d7e8a3c307c00e2dce29226f119ced3,['rap'],Uncategorized
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,male,Demographics
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,"['fish', 'dog']",Uncategorized
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,"['for shit', 'china', 'mountas']",Uncategorized
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,"['scrap dragon', 'ragnazer', 'castel', 'chicken game', 'yubel', 'ghost ogre more as a concept', 'powerful splashable engines', 'world  war', 'lly  justice ctstor    utility', 'zombies', 'variety', 'triple rota', 'fire fist', 'languages', 'dks', 'shadow mist', 'heroes', 'drinking games', 'herald', 'lisa', 'speedroids in deskbots', 'high rarity/foreign goat format cards', 'odd eyes meteorbust dragon', 'chinese', 'ojm trio   met', 'cards', 'platformers', 'gamma', 'emeral', 'experiments', 'rwby']","Demographics, Preferences_Interests"
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,"['mother', 'brother']",Personal_Background
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,['girlfriend'],Uncategorized
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,"['trishula', 'brillaint fusion engine', 'fault', 'board', 'ticket', 'phone', 'deskbot scale', 'buck', 'deck', 'local', 'answer', 'spec', 'ariadne engine', 'issue', 'card', 'house', 'kid', 'dude', 'deskbot', 'opponent', 'teammate', 'monster', 'side', 'stats']",Uncategorized
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,"['cna', 'speed', 'trash at the minigame', 'person', 'liking traps less', 'absolute trash', 'grateful edit yo', '🙌saving🙌', 'feeling', 'liking instant fusion for theseus']",Personality_Traits
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,['girlfriend'],Uncategorized
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,"['yu-gi-oh!', 'runescape', 'league of legends', 'overwatch']",Uncategorized
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,['history'],Uncategorized
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,"['dogs', 'depression and anxiety']",Personality_Traits
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,['basketball'],Preferences_Interests
+46f455b780faca36116964131a4d0622c465bf7f,a8e6fbf55dd50ee0097c8cec94d05bc365d7a38ad452ae661c894e961c92a2ee,['star wars'],Uncategorized
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,male,Demographics
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,['cat'],Uncategorized
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,['town'],Uncategorized
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,"['noodle', 'mythology', 'art cosplay', 'graham', 'gaelic music', 'email', 'nickelback', 'batman', 'chores']",Preferences_Interests
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,"['son', 'mother', 'father', 'brother']",Personal_Background
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,['girlfriend'],Uncategorized
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,"['game', 'driver', 'religion', 'school', 'curiosity', 'ticket', 'phone', 'money', 'bro', 'library', 'manager', 'issue', 'cosplay', 'god', 'area', 'computer', 'tv', 'town', 'wallet', 'coworkers', 'license', 'ward', 'knowledge']","Personal_Background, Preferences_Interests, Personality_Traits"
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,"['friends', 'morning person', 'part of the group', 'reading star wars', 'fact', 'rules', 'jelly', 'dishwasher for the restraint', 'jimmy', 'nerd', 'lds', 'fellow clash main', 'hype', 'part of the lds faith', 'super good listener', 'bone man', 'r6s', 'dishwasher', 'dishwasher for a restaurant', 'unaffiliated sooooooo']","Demographics, Preferences_Interests, Personality_Traits, Habits_Routines, Social_Relationships"
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,"['video games', 'borderlands', 'xbox', 'dungeons & dragons', 'titanfall', 'halo']",Preferences_Interests
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,['politics'],Uncategorized
+9e778023eda5589ac577e3789edfd900d208edf7,5fe927dd188134b3b503a7af96870dbb8d2120b7e85cda6c1476787cf569e4e9,['cosplay'],Uncategorized
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,male,Demographics
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,"['new york city', 'hong kong', 'chicago']",Demographics
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,"['botw', 'dmc1', 'sekiro', 'reading amazon reviews', 'cycling']",Preferences_Interests
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,"['mother', 'father', 'brother']",Personal_Background
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,"['career', 'project', 'system', 'skill', 'term goal', 'goal']","Personal_Background, Goals_Aspirations"
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,['fan'],Uncategorized
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,"['video games', 'final fantasy', '3ds', 'playstation', 'half-life']",Preferences_Interests
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,"['hip hop', 'rock']",Uncategorized
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,['christianity'],Uncategorized
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,"['design', 'web development', 'hardware', 'apple', 'data']",Uncategorized
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,['science fiction'],Uncategorized
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,"['fitness and nutrition', 'shopping', 'survival', 'food and beverages', 'sex']","Preferences_Interests, Habits_Routines"
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,['philosophy'],Personality_Traits
+2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4,dc379787dea3d539fa554e2f29e011821d51bab3fb56c4156a00159f53a876aa,['physics'],Uncategorized
+a5976f282a96c036f5e4d14957305323c9a5776d,f0d76a872193e363cfb5a7ba1d02dc54e3c0b2f729c66035c2ef6480c54070d7,male,Demographics
+a5976f282a96c036f5e4d14957305323c9a5776d,f0d76a872193e363cfb5a7ba1d02dc54e3c0b2f729c66035c2ef6480c54070d7,['soooo'],Uncategorized
+a5976f282a96c036f5e4d14957305323c9a5776d,f0d76a872193e363cfb5a7ba1d02dc54e3c0b2f729c66035c2ef6480c54070d7,"['one piece', 'marvel', 'star wars']",Uncategorized
+a5976f282a96c036f5e4d14957305323c9a5776d,f0d76a872193e363cfb5a7ba1d02dc54e3c0b2f729c66035c2ef6480c54070d7,"['game of thrones', 'agents of s.h.i.e.l.d.']",Preferences_Interests
+a5976f282a96c036f5e4d14957305323c9a5776d,f0d76a872193e363cfb5a7ba1d02dc54e3c0b2f729c66035c2ef6480c54070d7,['jobs and careers'],Personal_Background
+cb8cb80756996949fe8fa5c308bb091367a0c6ff,2f83f59e8defed31e718d28074941473a3c8ad0d57b8e9d69c07c7e0a31560e7,male,Demographics
+cb8cb80756996949fe8fa5c308bb091367a0c6ff,2f83f59e8defed31e718d28074941473a3c8ad0d57b8e9d69c07c7e0a31560e7,['dog'],Uncategorized
+cb8cb80756996949fe8fa5c308bb091367a0c6ff,2f83f59e8defed31e718d28074941473a3c8ad0d57b8e9d69c07c7e0a31560e7,"['ashley ’', 'boobs', 'mustard on fries']",Uncategorized
+cb8cb80756996949fe8fa5c308bb091367a0c6ff,2f83f59e8defed31e718d28074941473a3c8ad0d57b8e9d69c07c7e0a31560e7,['son'],Personal_Background
+cb8cb80756996949fe8fa5c308bb091367a0c6ff,2f83f59e8defed31e718d28074941473a3c8ad0d57b8e9d69c07c7e0a31560e7,['girlfriend'],Uncategorized
+cb8cb80756996949fe8fa5c308bb091367a0c6ff,2f83f59e8defed31e718d28074941473a3c8ad0d57b8e9d69c07c7e0a31560e7,"['ball', 'cock', 'tongue', 'cum']",Uncategorized
+cb8cb80756996949fe8fa5c308bb091367a0c6ff,2f83f59e8defed31e718d28074941473a3c8ad0d57b8e9d69c07c7e0a31560e7,['into goth-latinas'],Uncategorized
+cb8cb80756996949fe8fa5c308bb091367a0c6ff,2f83f59e8defed31e718d28074941473a3c8ad0d57b8e9d69c07c7e0a31560e7,['wife'],Personal_Background
+cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215,23136f8b754dfde50532350c2a167c46fa4c8534b8bf6b682baea36837fe1f9d,male,Demographics
+cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215,23136f8b754dfde50532350c2a167c46fa4c8534b8bf6b682baea36837fe1f9d,['malaysia'],Uncategorized
+cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215,23136f8b754dfde50532350c2a167c46fa4c8534b8bf6b682baea36837fe1f9d,"['swordstaff', 'yokai shift better', 'phantom', 'cainhurst horse', 'japanese rpg more', 'spear of the church theme', 'azura', 'sekiro combat', 'dragon dogma', 'boyfriend5 tanks', 'attrition for vehicle', 'fortress']",Demographics
+cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215,23136f8b754dfde50532350c2a167c46fa4c8534b8bf6b682baea36837fe1f9d,"['soldier', 'analysis', 'gun', 'region', 'teammate', 'dream', 'wishlist', 'humanity', 'theory']",Goals_Aspirations
+cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215,23136f8b754dfde50532350c2a167c46fa4c8534b8bf6b682baea36837fe1f9d,"['arisen', 'yoshi main', 'interest', 'elden ring fan', 'fan of ddda', 'hype', 'downgrade to mobile hotspot']",Preferences_Interests
+cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215,23136f8b754dfde50532350c2a167c46fa4c8534b8bf6b682baea36837fe1f9d,['with ps2'],Uncategorized
+cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215,23136f8b754dfde50532350c2a167c46fa4c8534b8bf6b682baea36837fe1f9d,"['wow', 'video games', 'battlefield']",Preferences_Interests
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,male,Demographics
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,['dog'],Uncategorized
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,"['house years', 'bachelor suite', 'vancouver', 'canada']",Demographics
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,"['ho tong', 'albert camus ’ absurdism']",Uncategorized
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,['wife'],Personal_Background
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,"['beam', 'employee']",Personal_Background
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,['bit rusty'],Uncategorized
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,['wife'],Personal_Background
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,['world news'],Uncategorized
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,"['video games', 'animal crossing']",Preferences_Interests
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,['ios'],Uncategorized
+840f5d9bddf24e024b9a70f13cdde62d41604e77,1581d32b4fa93ebe535136cd15608bfed9def7b2f19fc792efeb8ce70a723a40,"['self-help and motivation', 'food and beverages']",Preferences_Interests
