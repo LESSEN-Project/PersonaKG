@@ -1,0 +1,78 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 206
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 206 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 206
+
+1. I have a cat.
+   (ID: conversation_266_user_1)
+
+2. I have 2 dogs.
+   (ID: conversation_264_user_2)
+
+3. I have two dogs , one pitbull and old english bulldog.
+   (ID: conversation_48_user_2)
+
+4. I have a dog named george.
+   (ID: conversation_480_user_1)
+
+5. I have a dog named george.
+   (ID: conversation_479_user_1)
+
+6. I have two dogs.
+   (ID: conversation_666_user_1)
+
+7. I have 2 cats and a dog.
+   (ID: conversation_651_user_1)
+
+8. I have one cat.
+   (ID: conversation_657_user_1)
+
+9. I have two dogs.
+   (ID: conversation_412_user_2)
+
+10. I have a small pet cat.
+   (ID: conversation_943_user_2)
+
+11. I have a cat.
+   (ID: conversation_262_user_1)
+
+12. I have a dog.
+   (ID: conversation_835_user_2)
+
+13. I have three pets.
+   (ID: conversation_761_user_2)
+
+14. I have a small pet cat.
+   (ID: conversation_267_user_2)
+
+15. I have a dog named george.
+   (ID: conversation_436_user_2)
+
+16. I have a pet snake.
+   (ID: conversation_82_user_2)
+
+17. I have a golden retriever.
+   (ID: conversation_701_user_1)
+
+18. I have a french bulldog.
+   (ID: conversation_168_user_1)
+
+19. I have 3 cats.
+   (ID: conversation_446_user_1)
+
+20. I have 3 cats.
+   (ID: conversation_460_user_2)
+
+
+============================================================
