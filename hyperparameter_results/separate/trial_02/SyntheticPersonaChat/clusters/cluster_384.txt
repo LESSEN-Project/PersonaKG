@@ -1,0 +1,78 @@
+CLUSTER 384
+============================================================
+Total statements in cluster: 41
+Cluster persistence (stability): 0.859
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 41 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 41
+
+1. My favorite author is jane austen.
+   (ID: conversation_300_user_2)
+
+2. My favorite author is stephen king.
+   (ID: conversation_2882_user_2)
+
+3. I am an author.
+   (ID: conversation_3007_user_2)
+
+4. My favorite author is stephen king.
+   (ID: conversation_907_user_1)
+
+5. My favorite author is jane austen.
+   (ID: conversation_2164_user_1)
+
+6. My favorite author is stephen king.
+   (ID: conversation_820_user_1)
+
+7. My favorite author is stephen king.
+   (ID: conversation_911_user_1)
+
+8. My favorite author is jane austen.
+   (ID: conversation_1198_user_2)
+
+9. My favorite author is jane austen.
+   (ID: conversation_327_user_1)
+
+10. My favorite author is stephen king.
+   (ID: conversation_908_user_1)
+
+11. I am an author.
+   (ID: conversation_1009_user_2)
+
+12. My favorite author is stephen king.
+   (ID: conversation_1188_user_1)
+
+13. My favorite author is stephen king.
+   (ID: conversation_4465_user_2)
+
+14. My favorite author is jane austen.
+   (ID: conversation_332_user_1)
+
+15. My favorite author is stephen king.
+   (ID: conversation_909_user_1)
+
+16. My favorite author is stephen king.
+   (ID: conversation_912_user_1)
+
+17. My favorite author is stephen king.
+   (ID: conversation_1989_user_2)
+
+18. I am an author.
+   (ID: conversation_1927_user_2)
+
+19. I am an author.
+   (ID: conversation_3243_user_2)
+
+20. My favorite author is stephen king.
+   (ID: conversation_1193_user_1)
+
+
+============================================================

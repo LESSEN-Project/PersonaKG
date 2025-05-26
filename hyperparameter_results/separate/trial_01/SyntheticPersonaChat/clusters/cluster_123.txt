@@ -1,0 +1,78 @@
+CLUSTER 123
+============================================================
+Total statements in cluster: 26
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 26 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 26
+
+1. I love horses.
+   (ID: conversation_2143_user_1)
+
+2. I love sweets.
+   (ID: conversation_2132_user_1)
+
+3. I love horses.
+   (ID: conversation_351_user_2)
+
+4. I love horses.
+   (ID: conversation_1866_user_2)
+
+5. I love horses.
+   (ID: conversation_274_user_1)
+
+6. I love sweets.
+   (ID: conversation_2054_user_2)
+
+7. I love sweets.
+   (ID: conversation_531_user_1)
+
+8. I love horses.
+   (ID: conversation_2144_user_1)
+
+9. I love sweets.
+   (ID: conversation_108_user_1)
+
+10. I love horses.
+   (ID: conversation_585_user_2)
+
+11. I love horses.
+   (ID: conversation_304_user_2)
+
+12. I love sweets.
+   (ID: conversation_1607_user_2)
+
+13. I love sweets.
+   (ID: conversation_1682_user_1)
+
+14. I love sweets.
+   (ID: conversation_529_user_1)
+
+15. I love horses.
+   (ID: conversation_515_user_1)
+
+16. I love sweets.
+   (ID: conversation_2129_user_1)
+
+17. I love sweets.
+   (ID: conversation_816_user_2)
+
+18. I love sweets.
+   (ID: conversation_1681_user_1)
+
+19. I love horses.
+   (ID: conversation_2145_user_1)
+
+20. I love sweets.
+   (ID: conversation_557_user_1)
+
+
+============================================================

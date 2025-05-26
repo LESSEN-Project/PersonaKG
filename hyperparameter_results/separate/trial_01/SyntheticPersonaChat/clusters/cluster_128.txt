@@ -1,0 +1,78 @@
+CLUSTER 128
+============================================================
+Total statements in cluster: 44
+Cluster persistence (stability): 0.869
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 44 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 44
+
+1. I like collecting rocks.
+   (ID: conversation_582_user_2)
+
+2. I like lizards.
+   (ID: conversation_2410_user_2)
+
+3. I like the beatles.
+   (ID: conversation_1935_user_1)
+
+4. I like fitness.
+   (ID: conversation_2095_user_1)
+
+5. I like fitness.
+   (ID: conversation_2097_user_1)
+
+6. I like to get involved in politics.
+   (ID: conversation_1697_user_2)
+
+7. I d also like to study abroad in spain.
+   (ID: conversation_2258_user_2)
+
+8. I like the beatles.
+   (ID: conversation_1636_user_2)
+
+9. I like lizards.
+   (ID: conversation_677_user_1)
+
+10. I like tailgate parties.
+   (ID: conversation_1755_user_2)
+
+11. I like to go to the opera.
+   (ID: conversation_2409_user_2)
+
+12. I like to go to the opera.
+   (ID: conversation_1825_user_1)
+
+13. I like being weird.
+   (ID: conversation_119_user_1)
+
+14. I like to kayak.
+   (ID: conversation_947_user_2)
+
+15. I d also like to study abroad in spain.
+   (ID: conversation_2182_user_2)
+
+16. I like tailgate parties.
+   (ID: conversation_1759_user_2)
+
+17. I like the beatles.
+   (ID: conversation_1936_user_1)
+
+18. I like to go to the opera.
+   (ID: conversation_1823_user_1)
+
+19. I like to kayak.
+   (ID: conversation_961_user_2)
+
+20. I like fitness.
+   (ID: conversation_2096_user_1)
+
+
+============================================================

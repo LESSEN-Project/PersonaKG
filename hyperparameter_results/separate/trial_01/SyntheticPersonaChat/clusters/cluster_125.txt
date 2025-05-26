@@ -1,0 +1,78 @@
+CLUSTER 125
+============================================================
+Total statements in cluster: 67
+Cluster persistence (stability): 0.418
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 67 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 67
+
+1. I love the forest.
+   (ID: conversation_2356_user_2)
+
+2. I love my impala.
+   (ID: conversation_971_user_1)
+
+3. I love sharks.
+   (ID: conversation_522_user_1)
+
+4. I love my impala.
+   (ID: conversation_1355_user_1)
+
+5. I love pandas.
+   (ID: conversation_1532_user_1)
+
+6. I love robotics.
+   (ID: conversation_1301_user_2)
+
+7. I love sharks.
+   (ID: conversation_1259_user_1)
+
+8. I love to workout.
+   (ID: conversation_234_user_2)
+
+9. I love pandas.
+   (ID: conversation_848_user_1)
+
+10. I love sunsets.
+   (ID: conversation_793_user_1)
+
+11. I love nighttime.
+   (ID: conversation_52_user_2)
+
+12. I love robotics.
+   (ID: conversation_1023_user_1)
+
+13. I love nighttime.
+   (ID: conversation_166_user_2)
+
+14. I love my impala.
+   (ID: conversation_871_user_2)
+
+15. I love the forest.
+   (ID: conversation_1693_user_1)
+
+16. I love butterflies.
+   (ID: conversation_1123_user_1)
+
+17. I love sharks.
+   (ID: conversation_524_user_1)
+
+18. I love laughing.
+   (ID: conversation_2406_user_2)
+
+19. I love robotics.
+   (ID: conversation_1424_user_1)
+
+20. I love my impala.
+   (ID: conversation_1356_user_1)
+
+
+============================================================

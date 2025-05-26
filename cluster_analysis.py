@@ -4,7 +4,7 @@ import shutil
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import PCA
-from sklearn.preprocessing import normalize
+from sklearn.preprocessing import normalize, StandardScaler
 from sklearn.cluster import HDBSCAN
 from collections import defaultdict
 from sentence_transformers import SentenceTransformer
@@ -95,8 +95,8 @@ class PersonaClusterAnalysis:
         
         return statements_data
     
-    def vectorize_statements_tfidf(self, statements):
-        """Convert persona statements to TF-IDF vectors"""
+    def vectorize_statements_tfidf(self, statements, use_pca=True, pca_components=50):
+        """Convert persona statements to TF-IDF vectors with optional PCA"""
         texts = [s['statement'] for s in statements]
         
         vectorizer = TfidfVectorizer(
@@ -108,58 +108,126 @@ class PersonaClusterAnalysis:
             sublinear_tf=True  # Use sublinear tf scaling
         )
         
-        vectors = vectorizer.fit_transform(texts)
-        return vectors.toarray(), vectorizer
+        vectors = vectorizer.fit_transform(texts).toarray()
+        
+        model_info = {'vectorizer': vectorizer}
+        
+        # Apply PCA if requested and pca_components is not None
+        if use_pca and pca_components is not None and vectors.shape[1] > pca_components and vectors.shape[0] > 1:
+            print(f"Applying PCA to TF-IDF vectors (from {vectors.shape[1]} to {pca_components} dimensions)")
+            pca = PCA(n_components=min(pca_components, vectors.shape[0] - 1))
+            vectors = pca.fit_transform(vectors)
+            model_info['pca'] = pca
+        
+        return vectors, model_info
     
-    def vectorize_statements_dense(self, statements):
-        """Convert persona statements to dense embeddings using sentence transformers"""
+    def vectorize_statements_dense(self, statements, use_pca=True, pca_components=50):
+        """Convert persona statements to dense embeddings using sentence transformers with optional PCA"""
+        if self.sentence_model is None:
+            print("Sentence transformer model not loaded! Initializing now...")
+            self.sentence_model = SentenceTransformer('all-mpnet-base-v2')
+            
         texts = [s['statement'] for s in statements]
         
-        # Encode in batches for efficiency
-        print("Encoding statements with sentence transformer...")
+        # Generate embeddings (batch processing)
         embeddings = self.sentence_model.encode(
             texts, 
-            batch_size=128,
-            show_progress_bar=True,
+            show_progress_bar=True, 
+            batch_size=64,
             convert_to_numpy=True
         )
         
-        return embeddings, None
+        model_info = {}
+        
+        # Apply PCA if requested and pca_components is not None
+        if use_pca and pca_components is not None and embeddings.shape[1] > pca_components and embeddings.shape[0] > 1:
+            print(f"Applying PCA to dense vectors (from {embeddings.shape[1]} to {pca_components} dimensions)")
+            pca = PCA(n_components=min(pca_components, embeddings.shape[0] - 1))
+            embeddings = pca.fit_transform(embeddings)
+            model_info['pca'] = pca
+        
+        return embeddings, model_info
     
-    def vectorize_statements_hybrid(self, statements):
-        """Combine TF-IDF and dense embeddings"""
+    def vectorize_statements_hybrid(self, statements, tfidf_weight=0.5, dense_weight=0.5, use_pca=True, pca_components=50):
+        """Combine TF-IDF and dense embeddings with optional PCA reduction"""
         # Get TF-IDF vectors
-        tfidf_vectors, vectorizer = self.vectorize_statements_tfidf(statements)
+        tfidf_vectors, tfidf_info = self.vectorize_statements_tfidf(statements, use_pca=False)
         
         # Get dense embeddings
-        dense_vectors, _ = self.vectorize_statements_dense(statements)
+        dense_vectors, dense_info = self.vectorize_statements_dense(statements, use_pca=False)
         
-        # Normalize both before concatenation
-        tfidf_normalized = normalize(tfidf_vectors, norm='l2')
-        dense_normalized = normalize(dense_vectors, norm='l2')
+        model_info = {}
+        if 'vectorizer' in tfidf_info:
+            model_info['vectorizer'] = tfidf_info['vectorizer']
         
-        # Weight the contributions (you can adjust these weights)
-        tfidf_weight = 0.5
-        dense_weight = 0.5
+        # Store original shapes for debugging
+        tfidf_shape = tfidf_vectors.shape
+        dense_shape = dense_vectors.shape
         
-        # Concatenate weighted vectors
-        hybrid_vectors = np.concatenate([
-            tfidf_normalized * tfidf_weight,
-            dense_normalized * dense_weight
-        ], axis=1)
+        # Get the minimum dimension to reduce both vector types to the same size
+        # If one is already smaller than pca_components, use that as the target dimension
+        common_dim = min(pca_components, dense_vectors.shape[1])
         
-        return hybrid_vectors, vectorizer
+        # Apply PCA separately if requested
+        if use_pca:
+            # For TF-IDF vectors
+            if tfidf_vectors.shape[1] > common_dim and tfidf_vectors.shape[0] > 1:
+                print(f"Applying PCA to TF-IDF vectors (from {tfidf_vectors.shape[1]} to {common_dim} dimensions)")
+                tfidf_pca = PCA(n_components=min(common_dim, tfidf_vectors.shape[0] - 1))
+                tfidf_vectors = tfidf_pca.fit_transform(tfidf_vectors)
+                model_info['tfidf_pca'] = tfidf_pca
+            
+            # For dense vectors - only if they need reduction and are larger than common_dim
+            if dense_vectors.shape[1] > common_dim and dense_vectors.shape[0] > 1:
+                print(f"Applying PCA to dense vectors (from {dense_vectors.shape[1]} to {common_dim} dimensions)")
+                dense_pca = PCA(n_components=min(common_dim, dense_vectors.shape[0] - 1))
+                dense_vectors = dense_pca.fit_transform(dense_vectors)
+                model_info['dense_pca'] = dense_pca
+            
+            # Print final dimensions to verify they match
+            print(f"Final dimensions - TF-IDF: {tfidf_vectors.shape}, Dense: {dense_vectors.shape}")
+        
+        # Normalize vectors before combining
+        scaler_tfidf = StandardScaler()
+        scaler_dense = StandardScaler()
+        
+        tfidf_normalized = scaler_tfidf.fit_transform(tfidf_vectors)
+        dense_normalized = scaler_dense.fit_transform(dense_vectors)
+        
+        # Ensure dimensions match before combining
+        if tfidf_normalized.shape[1] != dense_normalized.shape[1]:
+            raise ValueError(f"Dimension mismatch after normalization: TF-IDF shape {tfidf_normalized.shape}, Dense shape {dense_normalized.shape}. Original shapes: TF-IDF {tfidf_shape}, Dense {dense_shape}")
+            
+        # Combine with weights
+        hybrid_vectors = (tfidf_weight * tfidf_normalized) + (dense_weight * dense_normalized)
+        
+        # Apply final PCA if requested
+        if use_pca and pca_components is not None and hybrid_vectors.shape[1] > pca_components:
+            print(f"Applying final PCA to hybrid vectors (from {hybrid_vectors.shape[1]} to {pca_components} dimensions)")
+            final_pca = PCA(n_components=min(pca_components, hybrid_vectors.shape[0] - 1))
+            hybrid_vectors = final_pca.fit_transform(hybrid_vectors)
+            model_info['pca'] = final_pca
+        
+        return hybrid_vectors, model_info
     
-    def vectorize_statements(self, statements):
+    def vectorize_statements(self, statements, tfidf_weight=0.5, dense_weight=0.5, use_pca=True, pca_components=50):
         """Vectorize statements based on the chosen method"""
         print(f"\nVectorizing {len(statements)} statements using {self.vectorization} method...")
         
         if self.vectorization == 'tfidf':
-            return self.vectorize_statements_tfidf(statements)
+            return self.vectorize_statements_tfidf(statements, 
+                                             use_pca=use_pca, 
+                                             pca_components=pca_components)
         elif self.vectorization == 'dense':
-            return self.vectorize_statements_dense(statements)
+            return self.vectorize_statements_dense(statements, 
+                                              use_pca=use_pca, 
+                                              pca_components=pca_components)
         elif self.vectorization == 'hybrid':
-            return self.vectorize_statements_hybrid(statements)
+            return self.vectorize_statements_hybrid(statements, 
+                                              tfidf_weight=tfidf_weight, 
+                                              dense_weight=dense_weight, 
+                                              use_pca=use_pca, 
+                                              pca_components=pca_components)
         else:
             raise ValueError(f"Unknown vectorization method: {self.vectorization}")
     
@@ -167,26 +235,19 @@ class PersonaClusterAnalysis:
         """Perform HDBSCAN clustering"""
         print(f"\nPerforming HDBSCAN clustering...")
         print(f"Min cluster size: {min_cluster_size}, Min samples: {min_samples}")
+        print(f"Input vector dimensions: {vectors.shape[1]}")
         
-        # Reduce dimensions if necessary for better clustering
-        if vectors.shape[1] > 50:
-            print("Reducing dimensions with PCA...")
-            n_components = min(50, vectors.shape[0] - 1)
-            pca = PCA(n_components=n_components)
-            vectors_reduced = pca.fit_transform(vectors)
-            print(f"Reduced from {vectors.shape[1]} to {vectors_reduced.shape[1]} dimensions")
-        else:
-            vectors_reduced = vectors
+        # No need for PCA here since we already apply it in the vectorization methods if requested
         
         # Perform HDBSCAN clustering
         clusterer = HDBSCAN(
             min_cluster_size=min_cluster_size,
             min_samples=min_samples,
             metric='euclidean',
-            cluster_selection_method='eom'  # Excess of Mass
+            cluster_selection_method='eom'
         )
         
-        cluster_labels = clusterer.fit_predict(vectors_reduced)
+        cluster_labels = clusterer.fit_predict(vectors)
         
         # Get cluster statistics
         n_clusters = len(set(cluster_labels)) - (1 if -1 in cluster_labels else 0)
@@ -343,7 +404,7 @@ class PersonaClusterAnalysis:
             return
         
         # Vectorize
-        vectors, vectorizer = self.vectorize_statements(statements)
+        vectors, model_info = self.vectorize_statements(statements)
         
         # Determine min_cluster_size based on data size
         min_cluster_size = max(5, int(len(statements) * 0.05))  # 0.5% of data
@@ -380,10 +441,10 @@ class PersonaClusterAnalysis:
             print(f"Persona statements from {dataset_name}: {len(statements)}")
             
             # Vectorize
-            vectors, vectorizer = self.vectorize_statements(statements)
+            vectors, model_info = self.vectorize_statements(statements)
             
             # Adjust parameters for smaller datasets
-            min_cluster_size = max(3, int(len(statements) * 0.02))  # 5% of data
+            min_cluster_size = max(3, int(len(statements) * 0.02))
             # min_samples = None
             min_samples = max(2, int(min_cluster_size * 0.5))
             
@@ -430,7 +491,7 @@ def main():
     parser.add_argument("--split", type=str, default="train", 
                        choices=["train", "validation", "test"],
                        help="Dataset split to use (default: train)")
-    parser.add_argument("--mode", type=str, default="combined", 
+    parser.add_argument("--mode", type=str, default="separate", 
                        choices=["combined", "separate"],
                        help="Clustering mode: combined (all datasets together), or separate (per dataset)")
     parser.add_argument("--vectorization", type=str, default="dense",
