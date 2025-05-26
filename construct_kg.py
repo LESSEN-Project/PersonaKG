@@ -11,10 +11,10 @@ from knowledge_graph import KnowledgeGraph
 from prompts import *
 
 
-def generate_schema_hash(schema):
+def generate_schema_hash(schema, num_personas):
     """Generate a unique hash for the schema configuration"""
     schema_str = json.dumps(schema, sort_keys=True)
-    return hashlib.md5(schema_str.encode()).hexdigest()
+    return hashlib.md5(f"{schema_str}_{num_personas}".encode()).hexdigest()
 
 def check_db_schema_match(kg, schema):
     """Check if the database schema matches our schema configuration"""
@@ -170,10 +170,12 @@ def main():
     use_whole_dataset = True
     
     # Number of personas to process if not using the whole dataset
-    num_personas = 100
+    num_personas = 1000
     
     # Generate a unique hash for the current schema
-    schema_hash = generate_schema_hash(schema)
+    if use_whole_dataset:
+        num_personas = len(get_dataset_items(get_dataset(), "train", use_whole_dataset=True))
+    schema_hash = generate_schema_hash(schema, num_personas)
     
     # Directory for saving results
     results_dir = pathlib.Path("graphs")
