@@ -1,0 +1,106 @@
+CLUSTER 21
+============================================================
+Total statements in cluster: 21
+Cluster persistence (stability): 0.961
+
+Dataset distribution in this cluster:
+  MPChat: 2 (9.5%)
+  MSC: 4 (19.0%)
+  PEC: 3 (14.3%)
+  PER-CHAT: 3 (14.3%)
+  PersonaChat: 6 (28.6%)
+  SyntheticPersonaChat: 3 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i call him yancy the yeti!
+   (ID: Louiesloops)
+
+2. my boy is so handsome, and a true gryffindor to the core
+   (ID: SarahFree339)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I have a black lab cat. I like go fishing.
+   (ID: dialog_55_speaker_1)
+
+2. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+3. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+4. I have a black lab dog named George. I do not have any children.
+   (ID: dialog_76_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i have a grey tabby as well , also named pippin !
+   (ID: monday_madrigal)
+
+2. i named my old cat " rex manning " .
+   (ID: Mahatma_Panda)
+
+3. i have affectionately named it theodore .
+   (ID: deputydan_scubaman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I own a bean.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+2. I own a african.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+3. I have a hamster as a pet.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i have a dog named socks .
+   (ID: conversation_172)
+
+2. i have a dog named bob .
+   (ID: conversation_27)
+
+3. we have two pets as well .
+   (ID: conversation_173)
+
+4. my dogs name is toto .
+   (ID: conversation_162)
+
+5. i have a pet snake .
+   (ID: conversation_50)
+
+6. i own a pug , and he is the most loyal pet you will ever have .
+   (ID: conversation_43)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I have a parakeet.
+   (ID: conversation_101_user_2)
+
+2. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+3. I have one little boy named owen.
+   (ID: conversation_118_user_2)
+
+
+============================================================

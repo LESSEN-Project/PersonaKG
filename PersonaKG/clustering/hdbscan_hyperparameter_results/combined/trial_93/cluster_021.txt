@@ -1,0 +1,175 @@
+CLUSTER 21
+============================================================
+Total statements in cluster: 84
+Cluster persistence (stability): 0.813
+
+Dataset distribution in this cluster:
+  MPChat: 1 (1.2%)
+  MSC: 3 (3.6%)
+  PEC: 8 (9.5%)
+  PER-CHAT: 60 (71.4%)
+  PersonaChat: 8 (9.5%)
+  SyntheticPersonaChat: 4 (4.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i call him yancy the yeti!
+   (ID: Louiesloops)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+2. I have a black lab dog named George. I do not have any children.
+   (ID: dialog_76_speaker_2)
+
+3. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i do have a titan .
+   (ID: WiseScratch)
+
+2. i have a 12 si .
+   (ID: mulletprooftiger)
+
+3. i have a gt-8 .
+   (ID: bbrandann)
+
+4. i have a zero i have never used .
+   (ID: DanGarion)
+
+5. i have a green - eyed boy also , but he 's an orange kitty !
+   (ID: mizzpkat)
+
+6. i have the 3500 for the evo .
+   (ID: dkinmn)
+
+7. i have affectionately named it theodore .
+   (ID: deputydan_scubaman)
+
+8. i just bought a second hand 750 ti on aliexpress .
+   (ID: 512165381)
+
+
+--- PER-CHAT ---
+Total from this dataset: 60
+
+1. I own a ocs.
+   (ID: be642743472cdef9445edc6dd55beb3c2a8a1258)
+
+2. I own a bullet kid.
+   (ID: 79a889fa6fb8a2c18c34d9aec95f4803861c97fe)
+
+3. I own a fps.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+4. I own a iron.
+   (ID: 34f464edef8ed81ef72be258369179fe6e6dcb81)
+
+5. I own a tl.
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+
+6. I own a junk.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+7. I own a labor.
+   (ID: b17b749ab40d1d24eba7d45337d86aeb3c5b28df)
+
+8. I own a jawas.
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+9. I own a logic.
+   (ID: d8e39e092041fc01f24bedce425d10f55bd2a764)
+
+10. I own a dood.
+   (ID: a3982a84363698446960e86a440ed3314f4325a3)
+
+11. I own a end fight.
+   (ID: 51417b57f4b2dc72dd07ac6a8ebfc978fa9d0661)
+
+12. I own a knight move.
+   (ID: fdf9c56e21cf61fb3b2852da66f6506ce908651c)
+
+13. I own a part.
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+14. I own a muscle.
+   (ID: b25bdf3935142c93d642393810cba283ec3b801f)
+
+15. I own a input.
+   (ID: 79e5228419de270c01297915dbce56be0063c52b)
+
+16. I own a mipod.
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+17. I own a pant.
+   (ID: 198c7cf8170708799eec80da464639ba2be896b4)
+
+18. I own a forte.
+   (ID: 3158d7c63f10e871a80f147fb47725c8714163c7)
+
+19. I own a screen.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+20. I own a orb.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. my dad works for ups .
+   (ID: conversation_384)
+
+2. i drive a prius .
+   (ID: conversation_68)
+
+3. i've one little boy named owen .
+   (ID: conversation_300)
+
+4. i've a parrot named parrot .
+   (ID: conversation_138)
+
+5. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+6. i have a dog named bob .
+   (ID: conversation_27)
+
+7. i have a dog named socks .
+   (ID: conversation_172)
+
+8. my dogs name is toto .
+   (ID: conversation_162)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I have two chiuahuahs.
+   (ID: conversation_351_user_2)
+
+2. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+3. I have a lizard named nagini.
+   (ID: conversation_305_user_2)
+
+4. I drive a lifted chevy truck.
+   (ID: conversation_384_user_1)
+
+
+============================================================

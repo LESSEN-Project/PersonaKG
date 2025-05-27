@@ -1,0 +1,63 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.949
+
+Dataset distribution in this cluster:
+  MSC: 1 (10.0%)
+  PEC: 4 (40.0%)
+  PER-CHAT: 4 (40.0%)
+  SyntheticPersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have terrible vision. I get bad headaches.
+   (ID: dialog_34_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i ’m honestly sad because it ’s not even a bad meme
+   (ID: ChallengeTaken99)
+
+2. i had expected to be bad , but wow .
+   (ID: tylock)
+
+3. i known it 's bad but is it that bad
+   (ID: DielEnelGuy)
+
+4. i meant healthy - er , my bad .
+   (ID: LabeledAsALunatic)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. my bad . i ended up comparing it to a fleshlight and . well .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+2. i suppose the first one wasn ' t too bad
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+3. throwing up is a rejection impuse of your body developed through evolution . it ' s even the same case if you eat something bad .
+   (ID: 4167b7bc7d40ac86ca6b492ac0bbaefa992711f6)
+
+4. taco bell is bad for you
+   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+
+============================================================

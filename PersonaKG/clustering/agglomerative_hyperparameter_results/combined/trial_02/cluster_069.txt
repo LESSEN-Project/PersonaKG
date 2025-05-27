@@ -1,0 +1,130 @@
+CLUSTER 69
+============================================================
+Total statements in cluster: 214
+
+Dataset distribution in this cluster:
+  MSC: 4 (1.9%)
+  PEC: 1 (0.5%)
+  PER-CHAT: 203 (94.9%)
+  PersonaChat: 1 (0.5%)
+  SyntheticPersonaChat: 5 (2.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I love foreign vehicles.
+   (ID: dialog_28_speaker_1)
+
+2. I like my vehicles to have some horsepower, especially my cars.
+   (ID: dialog_38_speaker_1)
+
+3. I have always liked nice cars.
+   (ID: dialog_101_speaker_2)
+
+4. I've always liked nice cars.
+   (ID: dialog_4_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i can think of a lot of cars i 'd like to own more than a ferrari or lamborghini
+   (ID: Stan063)
+
+
+--- PER-CHAT ---
+Total from this dataset: 203
+
+1. One of my favorite things is cars.
+   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
+
+2. One of my favorite things is motorcycles.
+   (ID: ba841e2486d1df5b5baefde5ead0636c7c03c79c)
+
+3. One of my favorite things is cars.
+   (ID: 2d1b758f410687b90c33a1260646954b4c1301f7)
+
+4. One of my favorite things is motorcycles.
+   (ID: cedcbee1b270d7b3c90109c069d452a800ba09a7)
+
+5. One of my favorite things is automobiles.
+   (ID: 55d99e57acfb093e867404de8e889dc93f4be138)
+
+6. One of my favorite things is cars.
+   (ID: eb701dce6e6a2a5da4a0d10410214d821dc525a2)
+
+7. One of my favorite things is automobiles.
+   (ID: cedcbee1b270d7b3c90109c069d452a800ba09a7)
+
+8. One of my favorite things is guns.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+9. One of my favorite things is automobiles.
+   (ID: 0e19a35c711a9c78f764d5268c09b16559cdadbf)
+
+10. One of my favorite things is audi.
+   (ID: 0b40e1731a58e377af57361e27d4264ac065a5b8)
+
+11. One of my favorite things is guns.
+   (ID: 17d6f5fb6fdd1b0ceedb5ec118276bdbb72a462f)
+
+12. One of my favorite things is jdm vehicles.
+   (ID: cae6d1fb1a818280e66de4a71148560d2d217d70)
+
+13. One of my favorite things is cars.
+   (ID: f491028c794855d1611365b07d4525f7b98173ae)
+
+14. One of my favorite things is guns.
+   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+
+15. One of my favorite things is cars.
+   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+
+16. One of my favorite things is cars.
+   (ID: e78c9eb3b69138ff8337dd896bc5bb1e02fc6559)
+
+17. One of my favorite things is cars.
+   (ID: 91d5c112de409d3216ef30d9a1c0d6a9c9f48260)
+
+18. One of my favorite things is cars.
+   (ID: c23be0b501278176a288ed6b3ab6669ac6b9896a)
+
+19. One of my favorite things is automobiles.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+20. One of my favorite things is automobiles.
+   (ID: 5ab7eb494e48f5dccac549a3e018fb911f19527e)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my favorite car is the ford mustang .
+   (ID: conversation_185)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. Ferrari is my favorite car company.
+   (ID: conversation_142_user_2)
+
+2. I also like ford trucks.
+   (ID: conversation_1_user_2)
+
+3. I also like ford trucks.
+   (ID: conversation_11_user_2)
+
+4. I like ford cars.
+   (ID: conversation_1_user_2)
+
+5. My favorite car is the ford mustang.
+   (ID: conversation_251_user_2)
+
+
+============================================================

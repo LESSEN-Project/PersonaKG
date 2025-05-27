@@ -1,0 +1,74 @@
+CLUSTER 310
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.979
+
+Dataset distribution in this cluster:
+  MPChat: 1 (8.3%)
+  MSC: 1 (8.3%)
+  PEC: 4 (33.3%)
+  PER-CHAT: 4 (33.3%)
+  PersonaChat: 2 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my star jasmine is in full bloom and my backyard smells so good!
+   (ID: XandXor)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am not very good at playing basketball.
+   (ID: dialog_8_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i 'm muslim but a nigga knows what 's good
+   (ID: BoonTobias)
+
+2. i reccently had my first philly cheesesteak on good friday , and it was amazing !
+   (ID: LabeledAsALunatic)
+
+3. i would recommend the chapter titles were so good
+   (ID: Froaxx)
+
+4. i scuba dive so bonaire is a good choice .
+   (ID: deputydan_scubaman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. that ' s the purpose and good on you figuring it out
+   (ID: 1160c0c34e8b0184126a6e35a5fa982003442bde)
+
+2. good art . who  s the artist ?
+   (ID: 612395c0d3790091ab05d00f0975141c5b67397b)
+
+3. it ' s all good . mostly my fault for being picky about my wicking
+   (ID: 017a8c4974c09e91d919e4dc7993cf152f406ae7)
+
+4. well their fluke director ' s the first is their only good movie
+   (ID: b0923890820e13f470b1e45e09cc5a08d7683035)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am lazy and pork tastes good .
+   (ID: conversation_137)
+
+2. i'm very good at math and science .
+   (ID: conversation_122)
+
+
+============================================================

@@ -1,11 +1,15 @@
 CLUSTER 10
 ============================================================
-Total statements in cluster: 100
+Total statements in cluster: 958
 
 Dataset distribution in this cluster:
-  FoCus: 1 (1.0%)
-  PEC: 4 (4.0%)
-  PER-CHAT: 95 (95.0%)
+  FoCus: 1 (0.1%)
+  MPChat: 5 (0.5%)
+  MSC: 43 (4.5%)
+  PEC: 271 (28.3%)
+  PER-CHAT: 587 (61.3%)
+  PersonaChat: 18 (1.9%)
+  SyntheticPersonaChat: 33 (3.4%)
 
 ============================================================
 
@@ -15,88 +19,341 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 --- FoCus ---
 Total from this dataset: 1
 
-1. I have studied about pastoralist communities.
-   (ID: XDIIZK7KZ12G_11)
+1. I have a friend who is an actor.
+   (ID: POTYY4E7PSQF_11)
+
+
+--- MPChat ---
+Total from this dataset: 5
+
+1. is this normal or am i playing wrong?
+   (ID: drewchie)
+
+2. is this normal or am i doing something wrong?
+   (ID: Crilbyte)
+
+3. (e.g.. this was poured with my non preferred left hand) pretty stoked with this awkward swan
+   (ID: Perthboi92)
+
+4. my boyfriend knows me so well deborah lippmann for christmas!
+   (ID: gxnelson)
+
+5. can someone help me identify my new friends?
+   (ID: gxnelson)
+
+
+--- MSC ---
+Total from this dataset: 43
+
+1. I have a mountain bike and like to be alone.
+   (ID: dialog_76_speaker_2)
+
+2. I do not think I could have romantic feelings for a person smaller than myself.
+   (ID: dialog_1_speaker_1)
+
+3. I don't have many friends. I am looking for new friends
+   (ID: dialog_88_speaker_1)
+
+4. I do not get along with other people easily.
+   (ID: dialog_88_speaker_1)
+
+5. I sometimes forget to take my medication to help stabilize my mood. I sometimes forget to bring my medication with me when I go out.
+   (ID: dialog_43_speaker_1)
+
+6. I'm single. I have an ex-boyfriend who I am still in love with.
+   (ID: dialog_41_speaker_2)
+
+7. I feel awkward sometimes socially.
+   (ID: dialog_51_speaker_1)
+
+8. I am self conscious about my looks.
+   (ID: dialog_64_speaker_1)
+
+9. I don't like to be around people.
+   (ID: dialog_30_speaker_1)
+
+10. I have low self esteem.
+   (ID: dialog_64_speaker_1)
+
+11. People call me weird names.
+   (ID: dialog_91_speaker_1)
+
+12. I feel like sometimes I am just pretending.
+   (ID: dialog_111_speaker_1)
+
+13. I'm around people all day.
+   (ID: dialog_30_speaker_2)
+
+14. I do not really feel like I fit in.
+   (ID: dialog_66_speaker_2)
+
+15. I am going out with my manager.
+   (ID: dialog_37_speaker_1)
+
+16. I am single. I live in a suburb in Boston. I know many hiking trails in Boston.
+   (ID: dialog_41_speaker_1)
+
+17. I am in school clubs.
+   (ID: dialog_90_speaker_1)
+
+18. I'm a woman and enjoy the company of men.
+   (ID: dialog_41_speaker_2)
+
+19. I'm around people all day.
+   (ID: dialog_68_speaker_2)
+
+20. I've mental issues.
+   (ID: dialog_106_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 4
+Total from this dataset: 271
 
-1. i have also been lucky enough to work with bob bakker on a paleo dig as well .
-   (ID: LooksAtClouds)
+1. i agree , i just do n't think it 's something to be proud of .
+   (ID: HugePurpleNipples)
 
-2. i have been checking zillow but there is probably a dozen or so places that fit pets and budget .
-   (ID: AgedTwenties)
+2. i feel as if they wanna control me by demanding i see them and guilt trip me into it .
+   (ID: MontanaMcC)
 
-3. i go to golden view veterinary in golden , good people
-   (ID: buttercup_mauler)
+3. i do n't get why most christians do n't seem to even consider this type of stuff :/
+   (ID: NyxPeregrinus)
 
-4. i think there is a veterinarian type sub , but i am not a member of that ...
-   (ID: exotics)
+4. i feel you on honest conversations .
+   (ID: opalskys)
+
+5. i think you a very sexy regardless of titles .
+   (ID: silentpower)
+
+6. i 'm glad you have removed these toxic people from your life .
+   (ID: IncredibleBulk2)
+
+7. i have been blessed to find one .
+   (ID: kirbrcd1)
+
+8. i hate when my friends are v raciest
+   (ID: closetotheedge48)
+
+9. i feel like i have found my tribe !
+   (ID: notlikethat1)
+
+10. i still find physical attraction to be very important to me .
+   (ID: aydinsevimli)
+
+11. i 've been told that i 'm the weird one and that something is very wrong with me .
+   (ID: Nimmyzed)
+
+12. i ’ve had five boyfriends in my life and none of them asked me out .
+   (ID: Nobody-Likes-Change)
+
+13. i 'm going through changes n i am hot constantly horrible .... yuk
+   (ID: Noimnotsally)
+
+14. i 'm with a girl right now who i fully expect to cheat on me .
+   (ID: Dustin_Bromain)
+
+15. i ca n't say , everyone 's relationship is different
+   (ID: justgirlypasta)
+
+16. i think it 's about control and being kewel .
+   (ID: RelaxedSociety)
+
+17. i 'll hang out with you dude :)
+   (ID: notjawn)
+
+18. i 'll be the guy for you .
+   (ID: KikAtWorkFL)
+
+19. i 'd say it was appropriate .
+   (ID: nastylittleman)
+
+20. i would really appreciate insight into how you guys make your jokes .
+   (ID: BearCanoe)
 
 
 --- PER-CHAT ---
-Total from this dataset: 95
+Total from this dataset: 587
 
-1. I'm interested in pets and animals.
-   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
+1. being single does suck . i ' ve been single my entire life m16 . i usually cope by hanging out with friends . i know i ain ' t the best looking , nor am i fit . but yeah . i get how you feel . life does suck that way . whenever i feel down about being alone , i usually think " i ' ll find that person eventually " some day you will . just continue doing what you like , and hang out with your friends
+   (ID: 82bb111e2180a2ffb997b74ab504aa538034feab)
 
-2. I'm interested in pets and animals.
-   (ID: 2069df24de0e78e4765ca507edb903ca074ac2d8)
+2. well , if we accept ourselves  just as we are  then nobody should ever work out because you  re changing your body , put on make up because you  re changing your physical appearance , wear clothes because you  re covering your natural body , or change yourself in any way because if you do , you  re not accepting yourself just as you are . everyone  s perspective of self acceptance is different . some people don  t believe in getting butt lifts or boob implants , some do . regardless , people still get them . people getting packers is trans guys accepting themselves as who they are a man . hypothetically , and assuming your a male , if you were in an accident and lost your dick it  s happened to many guys , you wouldn  t do anything to help yourself feel better about the loss ? i mean , since you should just accept how you are now . i do recognize that i sound very condescending in this comment and i  m not going to deny it , i  m just trying to counter argue and use your logic against you .
+   (ID: 3510b342268f3bc4c3f1e402201d7c565dfb7648)
 
-3. I'm interested in dogs.
-   (ID: 8b7590cb8502d6abd38b320b842aa7642186b6d8)
+3. unrealized potential . hahahahaha you don ' t have friends and you say crap like that . so you fully realized your potential ? and no one cares about how much you paid for a xbox . people who could actually care would be friends . seriously , try to get friends , it would do you some good . i ' ll help lesson digit  be cool , don ' t be so sensitive lesson digit  the term " bro " is better used when talking to a close friend lesson digit  don ' t insinuate that you have more money than other people . it ' s really douchy and you might be wrong . let me know how it goes , as a fellow human being , i am actually concerned about you
+   (ID: 26eaf1fafb916f4238e66dfba6deb9da540be2f6)
 
-4. I'm interested in pets and animals.
-   (ID: ecc98de1e575d7e863a2124b364b8ed586778ba5)
+4. yeah hot for sure , as long as it ' s not a swimming pool worth of love juices .
+   (ID: 2971f819c4d7400b9fa7806434e9037b6af4dfae)
 
-5. I'm interested in pets and animals.
-   (ID: eb338cca8f5e87e4b6e5d369997ab6dbebf241c5)
+5. so , because not all men are out to hurt women , which i agree with , if i get a gut feeling that someone is standing too close , staring too much , looks me in the eyes and then appears to have a realization and then crosses the street is he going to double back on me ? why did he look at me like that . , i am going to trust it , because i want to not be raped or assaulted . i  m not putting myself in possible danger just to save sole dude  s feelings . for example , the same man coming into the empty except for us toy aisle digit or digit times in digit minutes to always stand too close to my small daughters while they chose toys . we left with no toys and lots of tears because my spidey senses told me to gtfo . i don  t care if i upset him , because i know my kids are safe . i don  t understand the downvotes for women who are saying instead of risking rape assault and murder we treat strangers in dark  quiet  unpopulated areas with a lot of suspicion . i just can  t choose some dudes feelings over my safety . as i  m sure you wouldn  t ignore your instincts if you were getting a shifty vibe from some woman on a dark street .
+   (ID: c28c39847d1ec88851aadf063f6e8baf4594b35c)
 
-6. I'm interested in pets and animals.
-   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+6. i  ll take the money , i don  t care about love , a nice friendship is enough
+   (ID: 2a3d0cc7409627207d71d58affd421983020efbe)
 
-7. I'm interested in pets and animals.
-   (ID: 603a231fe5a5d93e7d1121f6265baf1dcb11f624)
+7. if you  re four months into the relationship , i think they  d be happy to hear  i love you .  that  s just me and my partner , though . best way to do it is  hey , person  s name ? they respond  yeah  or  what  etc i love you .
+   (ID: 12803a9aad224d0537b68ab83a6cdc6a45d3160f)
 
-8. I'm interested in pets and animals.
-   (ID: 750329d9f0f06f064c23bff94a5536b6068811e8)
+8. honestly didn  t read the body just the tdlr cause you  re digit and you just need to do you for a bit . seriously young people are on here constantly asking so many questions like this but you just need to find yourself and not listen to strangers opinions on your choices in life . why not just try to meet new people and not worry about who is your  most compatible  . have some damn fun
+   (ID: 238316960c030f561912bd63e9f572a4170f991b)
 
-9. I'm interested in pets and animals.
-   (ID: bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809)
+9. by the way , the  tell me about yourself  move i stole from terry gross . listen to her podcast if you want to see a master . she gets people to open up like none other .
+   (ID: 08c0532c5e9b4c1272d1faf5af748d761625424a)
 
-10. I'm interested in pets and animals.
-   (ID: 2904e4959568457dd43970d8388e42064d7c7d34)
+10. i talk to people every once and a while they hate me at first then get used to me and friend me out of pity . i don ' t know why they do that they could just stop talking to me if they hate me but it ' s just what happens .
+   (ID: 2abaf8413c23e36fd4e8a1e879a2875dea6dbf69)
 
-11. I'm interested in pets and animals.
-   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+11. there ' s a reason " corporate drone " is a saying . eyes forward , yes sir . just shut off everything but your brain ' s section that stops you from telling people what you really think of them .
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
 
-12. I'm interested in pets and animals.
-   (ID: b18c6165a76bf34665eb406698860d1ddc5e2cbf)
+12. because if you ' re booking it that close to the date you probably really want or need to go , so you kind of bend over and they fuck you . if they tried to fuck you sooner you might be able to travel another way .
+   (ID: e0a46a0dc8fa303b4f52545ef88afe4d8f63943b)
 
-13. I'm interested in pets and animals.
-   (ID: 7cece6bbdf487f99b6d494ab790bde8e66ce8966)
+13. talking to us normally is the way to go . i get it , you ' re nervous about a date  we are too .
+   (ID: 8889ee4547e570f04696e9cc7b50124dca69b82e)
 
-14. I'm interested in pets and animals.
-   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+14. well it mostly came from me talking , so i talk less .
+   (ID: 9ec97fcc6f16d54d7e24ba1cdb5ebe5785854536)
 
-15. I'm interested in pets and animals.
-   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+15. i kind of have to . bc no one likes me enough to make the first move .
+   (ID: f5639f88927d467b89189ab179bb30d8a5705552)
 
-16. I'm interested in cats.
-   (ID: fae28587bce17296589bf92d656ad68ee32601d6)
+16. dude , i think the main part of social skills is knowing different social clues  hints people give . for example  someone on their phone  they are busy and find it rude when people try to interrupt them someone looks really happy and approachable  most likely would be willing to talk to you someone is responding in few words , doesn ' t sound very engaged  probably not interested and sometimes , these social ques can help you determine how well the conversation is going , and maybe signal that you ' re doing something wrong
+   (ID: 3e7b07ddd384cb288bc529e6aeb73f840aa5a294)
 
-17. I'm interested in birds.
-   (ID: 2cb4aa2e032749d7dca2c2ab5fbd17d2ba53bb10)
+17. just ask her  random question . if i asked you if you  d date me , would you ?  or something like that . don  t make it seem like you want to date her , just like a funny question .
+   (ID: f491028c794855d1611365b07d4525f7b98173ae)
 
-18. I'm interested in pets and animals.
-   (ID: 8e9d9ac876fd2e0508d95d3e43def46faae3c312)
+18. i am so sorry to hear that . i  m sorry you have to go through this but if it makes you feel any better , most women with big boobs are insecure and we don  t like them ! hell , men would much rather prefer smaller boobs on their significant other as opposed to big boobs there was a study on this . plus , you get to wear so many pretty bras ! and , you will always look really good in clothes
+   (ID: e46baea29cbc117a037f63fbc38055b7e034a038)
 
-19. I'm interested in pets and animals.
-   (ID: 25a3a19690cf520ebb090d792f9aab864cc59254)
+19. i think it makes an easy segue into talking to him , if you can be kind of matter of fact about it . it gives you a reason to discuss it with him . and to discuss about how what you see in porn isn ' t how it really is in life . and how you want him to have good information . and how you should have talked to him before it got to this point where his curiosity got the better of him . plus , it lets him know that you ' re keeping an eye on what he ' s doing with his phone . i know this sounds silly to some people but i find when i have to get ready for conversations that might get uncomfortable that if i practice saying it out loud it gets easier . there is something about hearing the words coming out of my mouth before anyone else does that makes it much less awkward . you ' ll do great . i have faith in you .
+   (ID: 1293e72aa7301baf0ecb3a2509e46cdcca834cd9)
 
-20. I'm interested in pets and animals.
-   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+20. im really interested in how your scar looks . i know i sound pretty creepy , but i just like seeing some wounds but they are being really not nice to you , as if it was your fault that you happened to be at the wrong place at the wrong time and get injured by the wrong person . i understand that it may make people especially kids feel uncomfortable , but if they just see things like that from a young age , they just won ' t grow as discriminant as the people are nowadays . i wish you best luck , and don ' t let people limit you just because of some damn scar . that doesn ' t make you a different being . you ' re still the same human as everyone .
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+
+--- PersonaChat ---
+Total from this dataset: 18
+
+1. i've lots of friends and can hold a conversation easily .
+   (ID: conversation_131)
+
+2. i am a social butterfly .
+   (ID: conversation_16)
+
+3. i hate talking to people .
+   (ID: conversation_54)
+
+4. i do not have a lot of friends .
+   (ID: conversation_32)
+
+5. i feel that i can t live up to many people s standards .
+   (ID: conversation_299)
+
+6. i am still in love with my ex boyfriend .
+   (ID: conversation_41)
+
+7. i am a female and love to be surrounded by males .
+   (ID: conversation_41)
+
+8. sometimes , i sit by strangers on the subway and strike up a conversation .
+   (ID: conversation_220)
+
+9. my idea of flirting is to stare from a distance .
+   (ID: conversation_204)
+
+10. i am not afraid of what others think .
+   (ID: conversation_37)
+
+11. i blame myself for all of my problems .
+   (ID: conversation_197)
+
+12. i could never be locked down to one partner .
+   (ID: conversation_295)
+
+13. i'm unsure of who i'm attracted to .
+   (ID: conversation_299)
+
+14. i'm currently single but i'm ready to mingle .
+   (ID: conversation_139)
+
+15. i enjoy dating women .
+   (ID: conversation_237)
+
+16. i only date people taller than me .
+   (ID: conversation_85)
+
+17. i have been in a lot of romantic relationships that have ended up poorly .
+   (ID: conversation_131)
+
+18. i hate social obligations because i always say the wrong thing .
+   (ID: conversation_253)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 33
+
+1. I am very social.
+   (ID: conversation_109_user_2)
+
+2. I am in a very intimate and loving relationship.
+   (ID: conversation_124_user_1)
+
+3. I am currently single but i am ready to mingle.
+   (ID: conversation_148_user_1)
+
+4. I wish my boyfriend did not want an open relationship.
+   (ID: conversation_289_user_2)
+
+5. I struggle with maintaining eye contact.
+   (ID: conversation_147_user_2)
+
+6. I am insecure.
+   (ID: conversation_204_user_2)
+
+7. I have a girlfriend named luis , and she goes to my college.
+   (ID: conversation_78_user_2)
+
+8. I m dumpy.
+   (ID: conversation_19_user_1)
+
+9. I have not been on a date since high school.
+   (ID: conversation_248_user_2)
+
+10. I am dumpy.
+   (ID: conversation_56_user_2)
+
+11. I enjoy dating women.
+   (ID: conversation_255_user_1)
+
+12. I am a very social person.
+   (ID: conversation_223_user_1)
+
+13. Formal situations make me uncomfortable.
+   (ID: conversation_298_user_1)
+
+14. I am a very social person.
+   (ID: conversation_222_user_1)
+
+15. I have a crush on my co worker.
+   (ID: conversation_42_user_2)
+
+16. I am currently single but i am ready to mingle.
+   (ID: conversation_147_user_1)
+
+17. I have depression and anxiety so i do not really go out a lot.
+   (ID: conversation_97_user_2)
+
+18. I have a girlfriend of 7 years.
+   (ID: conversation_72_user_2)
+
+19. I am a social butterfly.
+   (ID: conversation_181_user_2)
+
+20. I have a friend group , but i do not like any of them.
+   (ID: conversation_127_user_2)
 
 
 ============================================================

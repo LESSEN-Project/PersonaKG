@@ -1,0 +1,54 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.982
+
+Dataset distribution in this cluster:
+  MSC: 1 (14.3%)
+  PEC: 2 (28.6%)
+  PER-CHAT: 2 (28.6%)
+  SyntheticPersonaChat: 2 (28.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am a solo life explorer.
+   (ID: dialog_18_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i would have bet my life i would n't do anything but real flowers .
+   (ID: genpell)
+
+2. i 'm a troll in real life too .
+   (ID: ifatree)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. that ' s the duality of life
+   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
+
+2. I am real life aquaman.
+   (ID: e7189ea885d9f7e9cdbd71ff2f2035f07ebaf6db)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. God has always been put first in my life.
+   (ID: conversation_76_user_2)
+
+2. I never have had alcohol in my life.
+   (ID: conversation_72_user_2)
+
+
+============================================================

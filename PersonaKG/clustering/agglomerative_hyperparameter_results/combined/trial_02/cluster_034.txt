@@ -1,23 +1,151 @@
 CLUSTER 34
 ============================================================
-Total statements in cluster: 2
+Total statements in cluster: 686
 
 Dataset distribution in this cluster:
-  PEC: 2 (100.0%)
+  FoCus: 2 (0.3%)
+  MSC: 2 (0.3%)
+  PEC: 11 (1.6%)
+  PER-CHAT: 668 (97.4%)
+  SyntheticPersonaChat: 3 (0.4%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- PEC ---
+--- FoCus ---
 Total from this dataset: 2
 
-1. i suspect he neglected to order them on time .
-   (ID: nate6051)
+1. I like to hear a lot about doombar.
+   (ID: DAT5H5H80JCW_7)
 
-2. i believe in his case he 's on a holiday .
-   (ID: harumpf)
+2. I find Vaults interesting.
+   (ID: 6J40PNLBFR2V_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. My favorite novel is about a who realizes he's a commander.
+   (ID: dialog_11_speaker_1)
+
+2. Hearing people sing from the heart can move me to tears.
+   (ID: dialog_24_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 11
+
+1. i love flash pops
+   (ID: bummang)
+
+2. i 've always enjoyed when at references other animatics / pop culture .
+   (ID: sillylionface)
+
+3. i do love that too .
+   (ID: bbakks)
+
+4. i love playing using the old guy with the rocket powered wheelchair .
+   (ID: ImAnArab)
+
+5. i love the rage quit series !
+   (ID: mmaswadeh)
+
+6. i like getting one of them with a shaman bone blade and watching them beat each other up .
+   (ID: nastylittleman)
+
+7. i love ether as a name .
+   (ID: NyxPeregrinus)
+
+8. i could watch that or david cross 's " let america laugh " most of the time .
+   (ID: jesuschrysler)
+
+9. i love the one with totoro , and the gym one , that was pretty great .
+   (ID: sillylionface)
+
+10. i liked the necropolis in fallout 1 .
+   (ID: CuriousBlueAbra)
+
+11. i always liked that " johnny b. goode " by chuck berry was included with all the others .
+   (ID: SerendipitousCat)
+
+
+--- PER-CHAT ---
+Total from this dataset: 668
+
+1. One of my favorite things is base building.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+2. One of my favorite things is York Death.
+   (ID: 55510b17a4f0d7b5820e6f21287525ef6cd60994)
+
+3. One of my favorite things is rail shooters.
+   (ID: 39ad1ed2bdf42527fd153f3d4be927df170fc195)
+
+4. One of my favorite things is jb.
+   (ID: 650ba9cdaca39ad1c1fe5e6348b11afb4d8e7a0f)
+
+5. One of my favorite things is catgirls.
+   (ID: 168d1161144e63a83a23f04ae4e64bd4b25684c0)
+
+6. One of my favorite things is jojo.
+   (ID: 5366d3e890f8a540d03733631ae8f32ef2335c31)
+
+7. One of my favorite things is rimworld.
+   (ID: ab38d3f31156c0cca1babe826c83025e8694eca2)
+
+8. One of my favorite things is julianne moore.
+   (ID: a18adc4ad3b28b34dfa3063a1c77566b8681a79d)
+
+9. One of my favorite things is retro games  nostalgia.
+   (ID: 240d1415f521eebd4f0b74c693880dae8455a2e5)
+
+10. One of my favorite things is dead island.
+   (ID: 4f1b65a581332b9d19507ccf0e921d0967e013e7)
+
+11. One of my favorite things is nong —.
+   (ID: 6778aa4e3cf401044823c475db231fc0b1d0ff4b)
+
+12. One of my favorite things is katara.
+   (ID: 7d48334cb8c79d90b96048b0f085563eb847ba89)
+
+13. One of my favorite things is gwenpool.
+   (ID: 54d8d3056c8f47c31e118e652b57922cf96c4876)
+
+14. One of my favorite things is smash bros.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+15. One of my favorite things is hospo.
+   (ID: d4912bd11a6aaa98c91794eda03e9fafdfcf5c43)
+
+16. One of my favorite things is bates.
+   (ID: da770212ea31887c4be30925213eff0dc5d8687b)
+
+17. One of my favorite things is dunsparce.
+   (ID: ae9e10cc82b9b20c52f819c70c83f657724f9f44)
+
+18. One of my favorite things is chaotic good eevee.
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+19. One of my favorite things is max.
+   (ID: 390a1aaf064a34c57ef69579a32d85ce7df95253)
+
+20. One of my favorite things is wayland.
+   (ID: c23be0b501278176a288ed6b3ab6669ac6b9896a)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My favorite song is barbie girl.
+   (ID: conversation_81_user_1)
+
+2. My favorite song is barbie girl.
+   (ID: conversation_58_user_2)
+
+3. My favorite is rock fish.
+   (ID: conversation_157_user_1)
 
 
 ============================================================

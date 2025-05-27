@@ -1,178 +1,374 @@
 CLUSTER 16
 ============================================================
-Total statements in cluster: 161
+Total statements in cluster: 453
 
 Dataset distribution in this cluster:
-  MPChat: 1 (0.6%)
-  MSC: 5 (3.1%)
-  PEC: 47 (29.2%)
-  PER-CHAT: 107 (66.5%)
-  SyntheticPersonaChat: 1 (0.6%)
+  FoCus: 54 (11.9%)
+  MPChat: 1 (0.2%)
+  MSC: 63 (13.9%)
+  PEC: 8 (1.8%)
+  PER-CHAT: 182 (40.2%)
+  PersonaChat: 55 (12.1%)
+  SyntheticPersonaChat: 90 (19.9%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 54
+
+1. I love to go swimming.
+   (ID: MP1ZK22Q90C9_11)
+
+2. I love watching the Major League Soccer matches.
+   (ID: UHVFDJII2GF5_11)
+
+3. I like watersports.
+   (ID: RYVLIPTXZRXJ_11)
+
+4. I love college athletics.
+   (ID: F6T8IBBEHM4P_11)
+
+5. I love swimming in the sea in summer.
+   (ID: ZDIM8K78EM2D_11)
+
+6. I am a sports fan.
+   (ID: IKQ9QU6QOUT4_11)
+
+7. I enjoy sports events.
+   (ID: TF4SZWIWHJO4_11)
+
+8. I am a fan of the Providence Bruins.
+   (ID: MGR759JYZZLP_7)
+
+9. I love watching Premier league games on the weekends.
+   (ID: UVWYNJ9N0J17_11)
+
+10. I love to explore.
+   (ID: T9680U7NZ97F_11)
+
+11. I love to play sports.
+   (ID: K73F47W36X0D_11)
+
+12. I love baseball.
+   (ID: HO684VMC687Z_11)
+
+13. I am a baseball fan.
+   (ID: PK2U426B57KL_9)
+
+14. I love to explore.
+   (ID: VUU19OURBLRK_11)
+
+15. I am a sports fan.
+   (ID: MX05X059ETMG_11)
+
+16. I like playing baseball.
+   (ID: PYCYFS54O1C8_11)
+
+17. I like skiing.
+   (ID: QTNNKQN2EVU5_11)
+
+18. I like eagles.
+   (ID: IBKUIXV3M06F_7)
+
+19. I love going swimming.
+   (ID: QK9TQHXYFFJ9_11)
+
+20. I like cycling.
+   (ID: 8WL4II03WTP0_7)
+
+
 --- MPChat ---
 Total from this dataset: 1
 
-1. my students complain they can't read my handwriting!
-   (ID: meepmeepcuriouscat)
+1. "i would like to engage in recreation, sir."
+   (ID: ambora)
 
 
 --- MSC ---
-Total from this dataset: 5
+Total from this dataset: 63
 
-1. I am terrible at math. I like language and writing.
-   (ID: dialog_7_speaker_1)
+1. I enjoy skateboarding and going skiing.
+   (ID: dialog_38_speaker_1)
 
-2. I am not good at math. I am taking a math class. I don't like algebra. I am good at science and english.
-   (ID: dialog_7_speaker_2)
+2. I like watching football.
+   (ID: dialog_5_speaker_1)
 
-3. I'm an airplane pilot  in the army. I can give you some pilot training advice or tips.
-   (ID: dialog_35_speaker_2)
+3. I like hockey.
+   (ID: dialog_86_speaker_1)
 
-4. I want to get back into graphic design, but I do not have the time.
-   (ID: dialog_33_speaker_2)
+4. I like to watch sports.
+   (ID: dialog_9_speaker_1)
 
-5. I have been looking for a more interesting job. My family is annoying me. I want to get away from family during the day.
-   (ID: dialog_2_speaker_1)
+5. I love tetris.
+   (ID: dialog_86_speaker_2)
+
+6. I enjoy playing tennis.
+   (ID: dialog_11_speaker_2)
+
+7. I used to play football. My favorite football team is the Green Bay Packers.
+   (ID: dialog_47_speaker_1)
+
+8. I love baseball. I am a die hard tigers fan.
+   (ID: dialog_93_speaker_2)
+
+9. I like to go to the pool.
+   (ID: dialog_107_speaker_2)
+
+10. My favorite football team is the Green Bay Packers.
+   (ID: dialog_47_speaker_1)
+
+11. I like snow sports.
+   (ID: dialog_15_speaker_2)
+
+12. I like to participate in sports.
+   (ID: dialog_100_speaker_2)
+
+13. I enjoy playing tennis. I play tennis in the park on Main Street and 4th. I started playing tennis when I was 3, with my father.
+   (ID: dialog_11_speaker_2)
+
+14. I'm a thrill seeker.
+   (ID: dialog_73_speaker_1)
+
+15. Dancing is fun to me.
+   (ID: dialog_27_speaker_1)
+
+16. I like to exercise.
+   (ID: dialog_76_speaker_2)
+
+17. Sports are fun.
+   (ID: dialog_11_speaker_2)
+
+18. I enjoy moving my body.
+   (ID: dialog_40_speaker_1)
+
+19. I like watching football.
+   (ID: dialog_5_speaker_2)
+
+20. I love swimming.
+   (ID: dialog_55_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 47
+Total from this dataset: 8
 
-1. i 'm glad you 've found a good job - enjoy !
-   (ID: rycheme)
+1. i love disc golf ! "
+   (ID: DanGarion)
 
-2. i end up doing the brunt of the work but i like it .
-   (ID: nate6051)
+2. i love wrestling .
+   (ID: aydinsevimli)
 
-3. i did nt say it was pursuing well plz halp
-   (ID: FrankOfTheDank)
+3. i am really enjoying this type of play ....
+   (ID: Aloha-Potato)
 
-4. i do think that wolfram|alpha shows great potential !
-   (ID: SerendipitousCat)
+4. i ’m a lakers fan .
+   (ID: Montag3636)
 
-5. i do not currently have a vehicle so getting around from one job to the other is difficult .
-   (ID: SamuelStephenBono)
+5. i also like to deadlift !
+   (ID: Takumi-Fujiwara)
 
-6. i never wished i had calculus homework before !
-   (ID: chasemyers)
+6. i actually watch football
+   (ID: Montag3636)
 
-7. i do n't think it 's a matter of " learning " .
-   (ID: cometparty)
+7. i like playing this game .
+   (ID: SpartanWarNinja)
 
-8. i am behind in just about everything schoolwork right now , but i do n't regret partaking in this .
-   (ID: Lsmoothies)
-
-9. i hope the business is doing well
-   (ID: ChallengeTaken99)
-
-10. i just try not to think about the exam afterwards
-   (ID: buttercup_mauler)
-
-11. i 've done mcmaintenance and it 's 100 times better than every job in the store .
-   (ID: Shrub74)
-
-12. i used to dislike math in high school .
-   (ID: Shrub74)
-
-13. i bet you can get hands on experience cleaning up isis .
-   (ID: deputydan_scubaman)
-
-14. i 'm so much better at speaking than writing , i simply can not organize my thoughts when writing .
-   (ID: bmeckel)
-
-15. i rely heavily these days on spell check but it does n't help with my sometimes , poor grammar !
-   (ID: SerendipitousCat)
-
-16. i 'd like to finally be able to play games like bf3 and such
-   (ID: bmeckel)
-
-17. i agree , that 's building a reputation and demonstrating a skill set
-   (ID: msiekkinen)
-
-18. i stressed out about how behind i am .
-   (ID: tylock)
-
-19. i 'll take your word for it , the teacher probably knows you will excel no matter what
-   (ID: BoonTobias)
-
-20. i have my doubts about college .
-   (ID: deputydan_scubaman)
+8. i love beanball .
+   (ID: jesuschrysler)
 
 
 --- PER-CHAT ---
-Total from this dataset: 107
+Total from this dataset: 182
 
-1. good for you . hope you get asked to work there .
-   (ID: ec299e39e931c010d0d98b62058c9ccb814797dd)
+1. I enjoy fantasy football.
+   (ID: ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9)
 
-2. aussie here , so what i ' m about to say may not apply in the us , but going around to talk to sparkies face to face is worth digit resumes you send out . do the leg work .
-   (ID: 9e8a44f7c55ebce4785906436a033b33a1ccb949)
+2. I enjoy soccer.
+   (ID: 5bb6e2d4db1d5ccf3a1f430564735551dfb4c28b)
 
-3. i don ' t really know sorry . i ' ve never seen it happen to be honest . all the students are digit to digit so it ' s not really a problem . i presume one of the teachers or maybe the nurse would deal with it . hell , i ' ve got kids of my own and i ' ve seen far worse . i wouldn ' t be at all bothered doing it myself .
-   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+3. I enjoy poker.
+   (ID: d45001f1fdd37cda488cfddffabec23e83ee7b7e)
 
-4. look up ygopro  devpro online and download it . it is a virtual version of the game , and i believe the percy client has an ai mode that you can test decks against . then i would lurk around the sub a little to see what people are playing , pick something that piques your interest , and start from there . warning  cardboard crack is an expensive and addicting habit , and devpro has cost me a fair bit of sleep after discovering it
-   (ID: 46f455b780faca36116964131a4d0622c465bf7f)
+4. I enjoy baseball.
+   (ID: af0db6dfe4be67a6b6915437597ea564bbb33830)
 
-5. i disagree to start off , kids have to do pe without choice of what they do until their second year of middle school at least from what we had and even when they finally get that chance to pick what pe they have , their parents may force them to do the sport they want for them . it isn ' t until highschool though that they can finally free up that spot in the day to have what they feel would better suit their future , for me and others that would be jrotc , and for others it would be ag or welding . once you get to highschool , you are responsible for choosing your career path , which can lead to a long day full of classes that will help you succeed in your chosen path , but you still have to complete core classes that take up valuable periods . adding another required class like pe for all four highschool years would rob the smarter teens and young adults their chance to experiment with what they feel would help them or to just make the day go by smoother . imagine having only two or three choices on what your aloud to do during your school day , most students won ' t actually use or even remember some of the things that they learn in their core classes because they will never use them in their jobs  careers . most band members have to drop out of band because they don ' t have enough free spots to do the things they love , imagine in your case i ' m assuming you enjoy sports that you had to drop out of the sport you loved because you have to do something else that someone else though would be important to you . do i think people should get exercise every day ? yes i do , i believe it ' s very important to help you succeed in life , but it should be reserved for after school when you have done the thing nessisary for your future path .
-   (ID: 2168250be01c43791f88e7c8ad875c0396307047)
+5. I enjoy chess.
+   (ID: 695ad7129ad4566e5fbe988279cd914c2bff0ce9)
 
-6. life . lemme tell you , trying to " catch up " is a bitch .
-   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+6. I enjoy soccer.
+   (ID: 7e06b6173caa339822499761ab78ee796513d9aa)
 
-7. sleep ! i recommend atleast digit or digit hours ! off topic  girl in my orgo class always sort of let  it  be  known that she stayed up til about 4am " gettin shit done . then at a digit  hour long chemistry lecture that started at 8am she ' d say " i dont know why i have trouble staying awake for this class "   l    this my my reaction everytime
-   (ID: f296ca909e75f5e7a28f054f4937f3c6eccb6a56)
+7. I enjoy chess.
+   (ID: 229018d265fee53903659270acea70a8c7f46caa)
 
-8. take out the tutors . make a list of the cards you replace them with to ease swapping them . keep the tutors in your sideboard . you ' ll have a deck with digit power levels , and you ' ll have just as much fun without them knowing you ' ve challenged yourself . swap out fetch lands , too if it ' s still too strong .
-   (ID: b18c6165a76bf34665eb406698860d1ddc5e2cbf)
+8. I enjoy college football.
+   (ID: 1b536a1a785be8a375bc7a04c0ffc9457562d78c)
 
-9. i understand what you ' re saying , but these are true to a certain extent . very few of us are stuck in the situation we are in . most have the ability to get a new job , save some money , get an education , etc . what we lack is the willpower to change it . if you want a new job , find out what it takes to get the job you want and find a way to get those skills . in some cases , we already have the skills , but we don ' t pursue the job we want because we are comfortable in the job we have , even if we don ' t like it . i just landed a new position that is my dream job , because i finally got motivated to look for a new job , and i prepped myself for the interviews instead of winging it . want to save some money ? learn to separate wants and needs better . i bet you ' ll find some extra cash when you realize that you don ' t need a lot of the stuff you purchased . can you get a second job for a few hours a week to bring in some extra cash ? probably , but it would involve sacrificing some time that you could be doing something else . want an education ? have you really looked hard at all of your options ? probably not , because pretty much everyone can get an education of some sort if they really want it . traditional , online , night school , community college and then transfer to another school , vocational training , even free online classes that could set you up to test out of a subject so you can save some cash . the question is how badly do you want it ? are you willing to put the work in ? i ' m tired of listening to people complain about their lot in life , when they don ' t do a fucking thing to change it , and they want to blame everyone else for their failures . we had a kid live with us for a year who was homeless before we took him in . he had every reason to make excuses for why he couldn ' t succeed . he is mixed race , his dad is a thug , his mom can barely take care of herself , he had no money , he didn ' t have anyone to help him , he had never even had his own bed . in spite of that , this kid has used all of that for motivation . yes , we helped him out , but he did the work . he is now in college , has a decent job , has joined a frat , and he will be successful because he won ' t accept less from himself and he is willing to do the work . tldr  unless you have a disability of some sort , you can improve your life , but it requires motivation , discipline , and determination to do it . if you don ' t put forth the effort , quit bitching about it !
-   (ID: 5603c8fcb517a4b5745afb8c3f46248974edebe3)
+9. I enjoy football.
+   (ID: 7ed1ff576cc7dc77750ed5f15461eb3ccdb52a7a)
 
-10. digit months ago heck , even digit months ago is a long time to remember content from test . i absolutely think it ' s representative . the odds of you remembering more than digit random question are very slim . when i retook the tests , i think i remembered digit question total not per exam . i just retook fl digit the last time i took it was in late march  1st week of april , and i seriously didn ' t remember anything from the test . 3rd party exams tend to be deflated , so i wouldn ' t worry about those too much . if anything , they ' ll help you hone in on areas you need work on . you ' re doing great !
-   (ID: f179711c18514780c1b0257643d893ef1cf5a081)
+10. I enjoy fantasy football.
+   (ID: ce0130e0736ec79181ef08a51b107514a8021d5c)
 
-11. this describes my problems as well . i ' m on vial smasher partnered with kraum . lots of x spells , including my finishers like torment of hailfire or jay ' s immolating inferno , and nothing infinite . its a " curious control " deck until i ' ve built enough mana through rocks , urborg  cabal coffers , and  or the two creatures that double your black mana . i play guttersnipe and a couple others like him , so i have good targets for curiosity , ophidian eye and tandem lookout . it ' s actually a lot of fun , and i haven ' t been hated out , because it ' s not like i ' m blowing up the world by turn digit or anything and vial smasher ' s triggers are random which i think helps a lot with people ' s feelings about the deck . my win rate has got to be over digit  , probably higher , but i don ' t keep records . if cedh develops a little more locally , i ' ll switch kraum out for thrasios and go full tilt .
-   (ID: b18c6165a76bf34665eb406698860d1ddc5e2cbf)
+11. I enjoy soccer.
+   (ID: 7bad9dc0ff1a9ce0843818f35d9151cf701b4044)
 
-12. the connections you make can be more important than the things you learn in the classroom . so if there are clubs and internships related to the job you want do them . look for jobs that have skills related to what you want to do , or can at least sell to your future employer . the worst ? you find out you hate what you are going into but can change to something else before you are too invested ! the best ? valuable connections that will help you get where you want to go . remember , its not what you know its who you know .
-   (ID: 213f629dfbc5d6e1a065cffce0f81b825e4467de)
+12. I enjoy wrestling.
+   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
 
-13. great info mr phellan , appreciate the time taken to write it up . does scanning take long ? which starter race gives the best options for frigates and above for salvage ? i know i can fly all ships in the game if i train for them , but for a moon like i will be , what would you recommend ? edit  noob
-   (ID: a911ed792d3b26b115aedaee6218a4a944c38521)
+13. I enjoy mma.
+   (ID: 5b8ed03bdff11aec4ed3a2ed4e122a505bf937dd)
 
-14. no problem . i think if you ' re doing a long term planning and you ' re not good with investments and finance , yeah they totally worth it . but in my own opinion i ' m no expert . if you just wanna deal with your saving , then nah just invest your money in a moderately safe portfolio and take it out when you ' re done .
-   (ID: 9adb5fb6fb9aeeeb65afe41002460d73817044b0)
+14. One of my favorite things is cardio.
+   (ID: 2e1439e8eb18b181a69a66cc4c1b2dc22ce774f0)
 
-15. my high school sophomore daughter can write a paper that makes more sense than this does . wtf ?
-   (ID: 7928bd3c3e727c94ff476240a27ed7199d92d666)
+15. I enjoy dallas cowboys.
+   (ID: e84ec39cf97c9609b6feb31cbaab5faf551f372d)
 
-16. if u want to get rich , try flipping . it ' s mad boring but you can get your orbs piling up really quick . what i like to do is put my chaos recipe items in a public tab because you occasionally get people who offer decent prices for them
-   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+16. I enjoy boxing.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
 
-17. life is also a game of chance . everyone can do okay but not everyone is going to enjoy life and as far as i can see it most people simply deal with what they have , it often doesn ' t get better because there isn ' t equal opportunity , people just learn to deal with their lot in life , taking things slower than those with money etc . also your parents choices are not your choices so that is bad comment yea life requires struggle but how exactly is dumping struggling people onto the street so they can ' t even look presentable enough to go for jobs in the first place going to help ? you need money to make money , even if it ' s just getting a cashier job or something , you need to be in a place where employers would actually want you .
-   (ID: 6ea82786a74ccdc85dc1fddd809a575aa4e4efcf)
+17. I enjoy baltimore ravens.
+   (ID: e8daa61bfd9bf81549666ebd0bdf393156b492de)
 
-18. don ' t know how but when you fix your issues def go for it . i ' ve been slacking off on my for the past year or so but really wanna go back into it . miss the good ol days
-   (ID: e9d9b9400a09031a7e1021173867d784ebb9cf94)
+18. I enjoy football.
+   (ID: 90492fed4b9d785ee43d655875f81a82e68a1263)
 
-19. it ' s the fact that the teacher is helping those kids . it ' s not common to find someone like that
-   (ID: 1955f382f8fc2d10480017d73817b8c3b41c2a02)
+19. I enjoy philadelphia eagles.
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
 
-20. first of all , the night before have all your running stuff out and ready to go , runners , and all of your clothes . i would suggest putting your phone or alarm somewhere where you have to stand up to grab it and turn it off . it took me a while to get accustom to getting out of my bed in the morning but i promise you get used to it . your body is also just warming up and blood needs to flow so stretching is a must , maybe start at a walking pace , leg raises e . t . c . as for where to run , honestly when i first started i couldnt run very long and i went a few blocks over and turned around , sort of did a loop . once i got comfortable with that i ran every side street , up and down until i got to the end , then came back . i started doing it in reverse , then i expanded out of my neighborhood . its good to change up the scenery to avoid getting bored . now i run all over my city and i love it . for winter its a bit tricky but do your best to work with what you have , use an old jacket to avoid sweating and sticking up your nice one , use old sweaters and a scarf . i used normal running shoes and slipped a couple times but hey , get back up and keep going , you ' ll be okay . roads are usually more clear than sidewalks . once you have money for a membership just go to treadmills , i know that will be 100x better in winters . try and help your mom out around the house , shovel the walk e . t . c in exchange for a gym membership . but please remember to always always always stretch , it will help in the long runpun intended .
-   (ID: ea1aba6f5a01e142602653a1b9987c70e3862a45)
+20. I enjoy baseball.
+   (ID: 627809b826e1a364fb65664e0749e9e9eb90081d)
+
+
+--- PersonaChat ---
+Total from this dataset: 55
+
+1. i enjoy running .
+   (ID: conversation_146)
+
+2. i like running in marathons .
+   (ID: conversation_253)
+
+3. i like watching videos of surgery .
+   (ID: conversation_287)
+
+4. i watch basketball .
+   (ID: conversation_225)
+
+5. i like to shoot a bow .
+   (ID: conversation_195)
+
+6. i like to swim .
+   (ID: conversation_16)
+
+7. i love to dance .
+   (ID: conversation_65)
+
+8. i love to ride my bike .
+   (ID: conversation_111)
+
+9. i love bicycling .
+   (ID: conversation_3)
+
+10. i like to skateboard .
+   (ID: conversation_205)
+
+11. i enjoy swimming .
+   (ID: conversation_199)
+
+12. i like skateboarding .
+   (ID: conversation_121)
+
+13. i love to ride my bike .
+   (ID: conversation_76)
+
+14. i like basketball .
+   (ID: conversation_207)
+
+15. i enjoy playing tennis .
+   (ID: conversation_196)
+
+16. i enjoy playing tennis .
+   (ID: conversation_47)
+
+17. i enjoy horseback riding .
+   (ID: conversation_248)
+
+18. i like to play tennis .
+   (ID: conversation_161)
+
+19. i enjoy swimming .
+   (ID: conversation_107)
+
+20. i like free diving .
+   (ID: conversation_85)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 1
+Total from this dataset: 90
 
-1. I take pride in getting straight a s.
-   (ID: conversation_76_user_2)
+1. I love cars.
+   (ID: conversation_131_user_1)
+
+2. I like to skateboard.
+   (ID: conversation_212_user_1)
+
+3. I prefer reading to sports.
+   (ID: conversation_279_user_2)
+
+4. I enjoy swimming.
+   (ID: conversation_286_user_1)
+
+5. I love dancing.
+   (ID: conversation_190_user_1)
+
+6. I like to skateboard.
+   (ID: conversation_278_user_1)
+
+7. I love to exercise.
+   (ID: conversation_265_user_2)
+
+8. I love dancing.
+   (ID: conversation_17_user_2)
+
+9. I enjoy watching tennis and golf on tv.
+   (ID: conversation_207_user_2)
+
+10. I like to bowl.
+   (ID: conversation_23_user_2)
+
+11. I love to do yoga.
+   (ID: conversation_98_user_1)
+
+12. I like to swim.
+   (ID: conversation_271_user_2)
+
+13. I like to play tennis.
+   (ID: conversation_176_user_1)
+
+14. I love to larp.
+   (ID: conversation_88_user_1)
+
+15. I love to go running.
+   (ID: conversation_4_user_2)
+
+16. I love to larp.
+   (ID: conversation_86_user_1)
+
+17. I like cars.
+   (ID: conversation_111_user_1)
+
+18. I like swimming.
+   (ID: conversation_142_user_1)
+
+19. I love to run fast.
+   (ID: conversation_52_user_1)
+
+20. I like to snowboard.
+   (ID: conversation_296_user_2)
 
 
 ============================================================

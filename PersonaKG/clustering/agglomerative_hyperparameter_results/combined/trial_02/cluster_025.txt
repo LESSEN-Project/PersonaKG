@@ -1,14 +1,15 @@
 CLUSTER 25
 ============================================================
-Total statements in cluster: 447
+Total statements in cluster: 668
 
 Dataset distribution in this cluster:
-  FoCus: 2 (0.4%)
-  MSC: 26 (5.8%)
-  PEC: 16 (3.6%)
-  PER-CHAT: 331 (74.0%)
-  PersonaChat: 32 (7.2%)
-  SyntheticPersonaChat: 40 (8.9%)
+  FoCus: 1 (0.1%)
+  MPChat: 137 (20.5%)
+  MSC: 28 (4.2%)
+  PEC: 355 (53.1%)
+  PER-CHAT: 95 (14.2%)
+  PersonaChat: 29 (4.3%)
+  SyntheticPersonaChat: 23 (3.4%)
 
 ============================================================
 
@@ -16,321 +17,394 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 2
+Total from this dataset: 1
 
-1. I have kids.
-   (ID: UXR4EKSRCULN_11)
+1. I wish I could ride a funicular.
+   (ID: QEDR6NULRI9U_7)
 
-2. My family is from Wales.
-   (ID: LJYX36WCRYDM_9)
+
+--- MPChat ---
+Total from this dataset: 137
+
+1. fly-in camping solo with my puppy
+   (ID: drewchie)
+
+2. sorry for the many updates, but my blanket is longer than my legs now!
+   (ID: thegentlestbutterfly)
+
+3. started working on my slowsies.
+   (ID: Deeshizznit)
+
+4. doing a test load tomorrow with my new yak!
+   (ID: pope237)
+
+5. been busy creating recipes for the food truck i am starting.
+   (ID: ReturnOfTheFox)
+
+6. progress going well on my busy bee throw!
+   (ID: Crilbyte)
+
+7. i'm on my last handful of rows for the torso and then onto the sleeves!
+   (ID: Novel_Fox)
+
+8. bought myself a present ahead of my overseas trip...
+   (ID: ext23)
+
+9. look what i scored at the dollarama
+   (ID: Novel_Fox)
+
+10. backpacking with my pet pigeon
+   (ID: JMHorsemanship)
+
+11. hopefully i get some seeds from this one so i can grow fresh next season.
+   (ID: Perthboi92)
+
+12. i finally finished!
+   (ID: Crilbyte)
+
+13. stuck out of town without my grill or smoker, always wanted a weber kettle so i bought one.
+   (ID: billwhiz)
+
+14. i finally started running my out-of-home cottage bakery full time, this is what my second week looked like.
+   (ID: SugarHighBakedGoods)
+
+15. it’s getting cold in canada so i had to bundle up waffles!
+   (ID: FoxInKneeSocks)
+
+16. having finished the seal, i needed to make something else on the commute.
+   (ID: pokegirl93a)
+
+17. i'm trying to bee-hive my self, but honey comb on!
+   (ID: Louiesloops)
+
+18. i've just made this weekend
+   (ID: justcook_byangel)
+
+19. anything for my kid it’s not perfect but i’ve definitely failed harder
+   (ID: smsikking)
+
+20. my local thai place after going back 2x telling them their "level 10" isn't spicy enough...
+   (ID: travelingisdumb)
 
 
 --- MSC ---
-Total from this dataset: 26
+Total from this dataset: 28
 
-1. I have 4 sisters.
-   (ID: dialog_1_speaker_2)
-
-2. I have four sisters.
-   (ID: dialog_14_speaker_1)
-
-3. My sister has lots of kids.
-   (ID: dialog_7_speaker_1)
-
-4. A few people share my flat.
-   (ID: dialog_17_speaker_2)
-
-5. I have sons.
-   (ID: dialog_9_speaker_2)
-
-6. My parents had 5 kids.
-   (ID: dialog_14_speaker_1)
-
-7. My mother is my best friend.
-   (ID: dialog_1_speaker_2)
-
-8. I'm part of a modern family.
-   (ID: dialog_37_speaker_2)
-
-9. My family is in the military.
-   (ID: dialog_16_speaker_1)
-
-10. I've ben to Canada before with my father.
+1. I fixed my old Bronco.
    (ID: dialog_33_speaker_2)
 
-11. I am dealing with my 2 sons' teenager years.
-   (ID: dialog_9_speaker_2)
+2. I bought a house.
+   (ID: dialog_68_speaker_2)
 
-12. I come from a large family.
-   (ID: dialog_4_speaker_1)
+3. I am expecting my first child.
+   (ID: dialog_98_speaker_2)
 
-13. I have 4 sisters named Anne, Lauren, Alexis, and Sam.
-   (ID: dialog_1_speaker_2)
+4. I sold my house.
+   (ID: dialog_37_speaker_1)
 
-14. My family used to live in sydney.
-   (ID: dialog_9_speaker_2)
+5. I'm getting a passport.
+   (ID: dialog_89_speaker_1)
 
-15. My parents had 5 kids.
-   (ID: dialog_1_speaker_2)
+6. I have a Switch and a playstation I would like to get a pig. I have never gone diving.
+   (ID: dialog_85_speaker_1)
 
-16. My mother is the closest person to me.
-   (ID: dialog_1_speaker_2)
+7. I am pregnant for the first time. My pregnancy is 6 months in.
+   (ID: dialog_40_speaker_2)
 
-17. I have 2 sons in college. I can travel during the school terms.
-   (ID: dialog_9_speaker_1)
+8. I applied for a job at Whole Foods.
+   (ID: dialog_65_speaker_2)
 
-18. I have 2 mothers
-   (ID: dialog_37_speaker_2)
+9. I have totaled two cars.
+   (ID: dialog_106_speaker_1)
 
-19. My mom is my best friends.
-   (ID: dialog_14_speaker_1)
+10. I've never tried to garden before. My mom loves to garden.
+   (ID: dialog_49_speaker_2)
 
-20. I have a couple kids.
-   (ID: dialog_19_speaker_2)
+11. I love dancing and would hate to give it up.
+   (ID: dialog_40_speaker_1)
+
+12. I hope I get to go skydiving while I still can.
+   (ID: dialog_50_speaker_2)
+
+13. I booked a boat for the summer.
+   (ID: dialog_46_speaker_2)
+
+14. My dad was a proud soldier, too.
+   (ID: dialog_89_speaker_2)
+
+15. I work on boats. I have a silly dog named Bob. My dog chewed my last pair of boots. I'll wait for a sale to purchase boots.
+   (ID: dialog_27_speaker_2)
+
+16. I bought a house.
+   (ID: dialog_30_speaker_2)
+
+17. I got a Barbie house for my birthday. I have a red Barbie car.
+   (ID: dialog_108_speaker_1)
+
+18. I am married to my friend from high school.
+   (ID: dialog_34_speaker_2)
+
+19. I was recently unemployed. I got a new job at Whole Foods in the vegan food department.
+   (ID: dialog_65_speaker_2)
+
+20. I am pregnant for the first time.
+   (ID: dialog_40_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 16
+Total from this dataset: 355
 
-1. i pay 985 in rent and my gross pay per month is around 3920 .
-   (ID: AgedTwenties)
+1. i 'm twenty and a few months .
+   (ID: sillylionface)
 
-2. i wish i had one or two cute little sisters .
-   (ID: Lsmoothies)
+2. i told my husband i ’d take him to be my wife .
+   (ID: kitcatpaints)
 
-3. i always feel like i 'd be ashamed if this was a relative of mine lol
+3. i have a hard time believing you ’re 30 .
+   (ID: doctor_parcival)
+
+4. i ca n't wait to get my own dslr
+   (ID: Bananafoofoofwee)
+
+5. i 'm 25 in september and feel exactly the same .
+   (ID: SeasonedLemur)
+
+6. i made it about 22 days before so i ’ll be okay .
+   (ID: _gansmadchen)
+
+7. i forget this all too often , and am trying to learn this lesson this year .
+   (ID: clueless3867)
+
+8. i 'm 3*cough * never mind the exact number but working getting down to below 300 .
+   (ID: silentpower)
+
+9. i had one .
+   (ID: eye-brows)
+
+10. i 'm sad my band size was n't included :(   this bathing suit is adorable / awesome !
+   (ID: Chicoconut)
+
+11. i do n't take my osce 's until the end of june and my final written paper in july .
+   (ID: bigfuckingdiamond)
+
+12. i read xams as “ exams ” ... the worst part of december if you ’re a student !
+   (ID: KneelDeGrassTieSon)
+
+13. i ’m 23 and i feel this .
+   (ID: iam1r7)
+
+14. i stop want to be part of the pit crew and change a tire ...
+   (ID: DanGarion)
+
+15. i ’m gon na tell him
+   (ID: mooonjellies)
+
+16. i 've gone down 10 dress sizes !
+   (ID: Nimmyzed)
+
+17. i just found out a got a judgement placed against me that i expected to win .
+   (ID: Beachsurfer)
+
+18. i 'm jealous .
    (ID: Taydrz)
 
-4. i am a woman , a mom ..
-   (ID: exotics)
+19. i had to buy a bigger makeup bag !
+   (ID: rycheme)
 
-5. i ’m 40 , never been pregnant , and will not be having kids .
-   (ID: 11_29_77)
-
-6. i just talked to my dad on the phone .
-   (ID: kitcatpaints)
-
-7. i 'm in my 30s , pretty sure my decision to be childless is for real .
-   (ID: scoutsadie)
-
-8. i married one .
-   (ID: combover)
-
-9. i 've got my own father .
-   (ID: RonaldFuckingPaul)
-
-10. i 'm working and living with my mom for the summer haha .
-   (ID: mylescloutier)
-
-11. i have quite a nest egg in my hsa .
-   (ID: deputydan_scubaman)
-
-12. i has a 12k loan and a car that s worth roughly 12k now .
-   (ID: AgedTwenties)
-
-13. i am but i ’m a university student and single mom .
-   (ID: kitcatpaints)
-
-14. i love my mom .
-   (ID: chasemyers)
-
-15. i have both a traditional and a roth ira .
-   (ID: msiekkinen)
-
-16. i 'm a 20-year - old guy living with his parents .
-   (ID: Lsmoothies)
+20. i had the displeasure of being at dan deacon show one time .
+   (ID: notjawn)
 
 
 --- PER-CHAT ---
-Total from this dataset: 331
+Total from this dataset: 95
 
-1. I have a father in my family.
-   (ID: 7ba2f45f62c701a508f1895df828d4da2f3f446d)
+1. always wanted to be shorter 6m enough to retire very comfortably and be digit ' digit
+   (ID: 203253ab73b19e5cd1d950c82537271605475cea)
 
-2. I have a daughter in my family.
-   (ID: 5bb6e2d4db1d5ccf3a1f430564735551dfb4c28b)
+2. hours in the dc have been cut . i lost digit just this week .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
 
-3. I have a sister in my family.
-   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+3. my cats birthday . he is so amazing and i love him .
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
 
-4. I have a son in my family.
-   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+4. i was just all  out the whole way through . pedal to the metal , take no prisoners , digit  isn ' t good enough kind of stuff . overloads every semester including summer sessions so i could graduate sooner , plus working digit  digit hours a week . i was fucking insane .
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
 
-5. I have a father in my family.
-   (ID: 873d7cdd437cc48c69447d68b6cd96b54580dae7)
+5. there was a free futon on the side of the curb . me and my eldest son carried it about three kilometres home for my daughters room .
+   (ID: 5e646069de46abbfe6c3a4f3f3296eafe09fc9aa)
 
-6. I have a father in my family.
-   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+6. holy shit . did the shooter try to find you ? how long ago was it ? how are you today ?
+   (ID: 1b15fd08311192b471933a314f66dc758a923c02)
 
-7. I have a brother in my family.
-   (ID: 9adb5fb6fb9aeeeb65afe41002460d73817044b0)
+7. a class on reading the fine print in all dealings in life with contracts bills etc . i could have saved a good hunk of change had i rrad the fine print . like with spectrum currently the fine print says you are a new customer if you have not had services with them for digit days so if at the end of your one year agreement you can stand to go without home internet and use the library and your phone interwebs you can get a new customer deal and save lots of money
+   (ID: da770212ea31887c4be30925213eff0dc5d8687b)
 
-8. I have a mother in my family.
-   (ID: 2e2a44cdfc726423ec202a2fe420543af441d1ad)
+8. oh , and it happens to be my bday which is funny .
+   (ID: 15909870ffa903ea3b3962d8d81fd1701dd68aea)
 
-9. I have a father in my family.
-   (ID: 68d36e5b5d26327bbb5de8de16430cc93353cbf0)
+9. how you doing now ?
+   (ID: 7c0a90108389e898ab80f1c7af44e170b85c6d76)
 
-10. I live in alcoholic mother.
-   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+10. so , here i am now , stayed for digit days and i have stitches .
+   (ID: 1e92f1e007a1c147f8200d50f473d5433028bffc)
 
-11. I have a daughter in my family.
-   (ID: b3497f72ed4462f0414951db6d9ee7aa4004b515)
+11. i had a full  time job through undergrad . i would typically shoot for digit because for me , that was the perfect number where i could find balance . i tried digit once and it was just too much . i took digit in my last semester but that was only because i had an internship .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
 
-12. I have a brother in my family.
-   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+12. i hurt my back a bit helping my daughter get her bed into her apartment .
+   (ID: 58245e8d537b9e7b6d76cc6a9919ea776e4ef6f0)
 
-13. I have a father in my family.
-   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+13. we ' ve been focusing on talking about prepping with friends , family and loved ones , especially because we ' re all going to be together in the run up to the festive season ! plus my partner wrote this awesome post on the sensible about how she used to grow food in just her dorm room . we ' ve now thankfully got a bit more space for our homestead than that .
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
 
-14. I have a brother in my family.
-   (ID: 465a8b7c9604514a10670d3813f18485575cfa5c)
+14. oh , thank you for the compliment  to divulge the circumstances though , it was on the way home from my last shift of the week and we didn  t discover the break until a few weeks later  so i actually had a few days to recover and by the time the injury was apparent it had already made enough progress to be ignorable my only regret is that i  ve got a four inch ridge of bone or tissue or something back there along the crack because of the way it healed . i  ll wear a hat until i die i think
+   (ID: 8df56ee782672f11aeb0f19bf7978b1b1c04e678)
 
-15. I have a mother in my family.
-   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+15. sleep ! i recommend atleast digit or digit hours ! off topic  girl in my orgo class always sort of let  it  be  known that she stayed up til about 4am " gettin shit done . then at a digit  hour long chemistry lecture that started at 8am she ' d say " i dont know why i have trouble staying awake for this class "   l    this my my reaction everytime
+   (ID: f296ca909e75f5e7a28f054f4937f3c6eccb6a56)
 
-16. I have a mother in my family.
-   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+16. if you can do something right now do it , saves you time and stress
+   (ID: 23df46bdba3eb265d08b02c9ec5f365cf45ae5fd)
 
-17. I have a mother in my family.
-   (ID: d72952657a3571deff985040e565d95d8206db60)
+17. how are you now ?
+   (ID: bbb6fee39268cdbbb90618968b5dbe6dee839233)
 
-18. I have a father in my family.
-   (ID: 7a3a98777bf2cebb6bd14409075a19b82035e535)
+18. an unopened pack of beer , i made good use of that !
+   (ID: 272bbd1e0746915faf3405ae9c33485b5967ca9f)
 
-19. I have a sister in my family.
-   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+19. that my wedding goes smoothly and the job i interviewed for today hires me .
+   (ID: 2ab410cb3dc233b072c65fa9acc3c6323d05914e)
 
-20. I have a brother in my family.
-   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+20. plan . make sure you have enough money . be willing to take time off . be ready to not get much sleep .
+   (ID: 718ff22055f41bd70e24ec98f0898a1526112965)
 
 
 --- PersonaChat ---
-Total from this dataset: 32
+Total from this dataset: 29
 
-1. my family migrated to america when i was five .
-   (ID: conversation_22)
+1. my father was also in the military .
+   (ID: conversation_89)
 
-2. my grandmother lives in my guesthouse .
-   (ID: conversation_73)
-
-3. i have two roomates .
-   (ID: conversation_17)
-
-4. my mom is my best friend .
-   (ID: conversation_49)
-
-5. i am a college student who is a full time working mom .
-   (ID: conversation_21)
-
-6. i still live at home .
-   (ID: conversation_39)
-
-7. my wife stays home with our kids .
-   (ID: conversation_68)
-
-8. i never knew my dad .
-   (ID: conversation_90)
-
-9. i've two nephews .
-   (ID: conversation_99)
-
-10. i've one son .
-   (ID: conversation_55)
-
-11. i have an older brother .
-   (ID: conversation_81)
-
-12. my mom is my best friend .
-   (ID: conversation_1)
-
-13. my father was born in australia .
-   (ID: conversation_38)
-
-14. i have four sisters .
-   (ID: conversation_1)
-
-15. i have two children .
-   (ID: conversation_19)
-
-16. my husband is a soldier in the us army .
+2. i'm pregnant with my first child .
    (ID: conversation_40)
 
-17. i still live with my parents .
-   (ID: conversation_24)
+3. my girlfriend is 6 months pregnant .
+   (ID: conversation_258)
 
-18. i was raised by two mothers .
-   (ID: conversation_37)
+4. i still dream about going to paris and designing clothes .
+   (ID: conversation_75)
 
-19. i've three kids .
-   (ID: conversation_82)
+5. i hit for over forty million dollars .
+   (ID: conversation_208)
 
-20. i've a twin brother .
-   (ID: conversation_57)
+6. i got a new job .
+   (ID: conversation_291)
+
+7. i joined a new team last month .
+   (ID: conversation_62)
+
+8. i got married last year .
+   (ID: conversation_228)
+
+9. i wish i had a real dragon i could train .
+   (ID: conversation_31)
+
+10. one day i played the lottery .
+   (ID: conversation_208)
+
+11. i just moved into an apartment within the vicinity of my new job .
+   (ID: conversation_216)
+
+12. i am pregnant with my first child .
+   (ID: conversation_98)
+
+13. i got married last year .
+   (ID: conversation_14)
+
+14. i just got my rejection letter from the gifted program .
+   (ID: conversation_53)
+
+15. my friend once bought me a car .
+   (ID: conversation_183)
+
+16. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+17. i just got my rejection letter from the gifted program .
+   (ID: conversation_294)
+
+18. i was born 20 years ago .
+   (ID: conversation_23)
+
+19. i am on my way to uc santa cruz where i was accepted .
+   (ID: conversation_108)
+
+20. i got married 10 years later .
+   (ID: conversation_127)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 40
+Total from this dataset: 23
 
-1. I ve two siblings.
-   (ID: conversation_70_user_1)
+1. I got a new job.
+   (ID: conversation_112_user_1)
 
-2. I ve two siblings.
-   (ID: conversation_71_user_1)
+2. I married my high school sweetheart.
+   (ID: conversation_178_user_1)
 
-3. I have 5 brothers and sisters.
-   (ID: conversation_8_user_2)
+3. I have been married 3 times.
+   (ID: conversation_164_user_2)
 
-4. My parents are divorced.
-   (ID: conversation_29_user_2)
+4. One day i would really like to skydive.
+   (ID: conversation_221_user_2)
 
-5. I have 4 daughters.
-   (ID: conversation_50_user_2)
+5. I got a new job.
+   (ID: conversation_115_user_1)
 
-6. I am a family man.
-   (ID: conversation_23_user_2)
+6. I recently had knee surgery.
+   (ID: conversation_149_user_2)
 
-7. I am currently pregnant with my second child.
+7. I got a new job.
+   (ID: conversation_113_user_1)
+
+8. Lately i have been learning how to garden.
+   (ID: conversation_200_user_2)
+
+9. I have made over 90 , 000 on trifecta bets alone this year.
+   (ID: conversation_248_user_2)
+
+10. I recently bought a camper.
+   (ID: conversation_27_user_2)
+
+11. Last season i was just getting started.
+   (ID: conversation_219_user_2)
+
+12. I cannot wait to start my new life.
+   (ID: conversation_134_user_2)
+
+13. My birthday is in june.
+   (ID: conversation_263_user_1)
+
+14. I won a lottery 6 years ago but nobody knows.
+   (ID: conversation_288_user_1)
+
+15. I married my high school sweetheart.
+   (ID: conversation_181_user_1)
+
+16. I married my highschool sweetheart.
+   (ID: conversation_99_user_2)
+
+17. My birthday is in june.
+   (ID: conversation_269_user_1)
+
+18. I got a new job.
+   (ID: conversation_110_user_1)
+
+19. I am currently pregnant with my second child.
    (ID: conversation_65_user_1)
 
-8. I am married with 2 children.
-   (ID: conversation_23_user_2)
-
-9. I live with my parents and my little brother.
-   (ID: conversation_62_user_2)
-
-10. My grandma is from denmark.
-   (ID: conversation_44_user_2)
-
-11. I have a twin brother.
-   (ID: conversation_19_user_2)
-
-12. I am 25 years old and live with my parents.
-   (ID: conversation_78_user_2)
-
-13. I still live at home with my parents.
-   (ID: conversation_1_user_1)
-
-14. I am currently a stay at home mom while my husband is the sole provider.
-   (ID: conversation_75_user_2)
-
-15. I have two children.
-   (ID: conversation_75_user_2)
-
-16. I am a stay at home mom.
-   (ID: conversation_65_user_1)
-
-17. My brother lives in england.
-   (ID: conversation_81_user_2)
-
-18. I have a wife and a 4 year old son.
-   (ID: conversation_73_user_2)
-
-19. I am a mother.
-   (ID: conversation_85_user_1)
-
-20. I live with my sisters and they provide me with all my needs.
-   (ID: conversation_68_user_2)
+20. I married my high school sweetheart.
+   (ID: conversation_105_user_2)
 
 
 ============================================================

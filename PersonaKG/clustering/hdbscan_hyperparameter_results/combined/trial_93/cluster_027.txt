@@ -1,0 +1,117 @@
+CLUSTER 27
+============================================================
+Total statements in cluster: 23
+Cluster persistence (stability): 0.980
+
+Dataset distribution in this cluster:
+  FoCus: 8 (34.8%)
+  MPChat: 1 (4.3%)
+  MSC: 2 (8.7%)
+  PEC: 6 (26.1%)
+  PER-CHAT: 2 (8.7%)
+  PersonaChat: 2 (8.7%)
+  SyntheticPersonaChat: 2 (8.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 8
+
+1. I visited Frankford last year.
+   (ID: HK4CNKBL5R5V_11)
+
+2. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+3. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+4. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+5. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+6. I have visited the BC Place.
+   (ID: UHVFDJII2GF5_11)
+
+7. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+8. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i went to the dells in wisconsin last weekend.
+   (ID: Nolon)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I am from Vancouver, British Colombia.
+   (ID: dialog_33_speaker_1)
+
+2. I was born in moscow.
+   (ID: dialog_113_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i live near there but never went .
+   (ID: bummang)
+
+2. i 'm from nz too .
+   (ID: travelingkiwi)
+
+3. i grew up in teaneck .
+   (ID: juliacakes)
+
+4. i grew up in chagrin falls
+   (ID: Justadropinthesea)
+
+5. i 'm from the us but i went to a norwegian college .
+   (ID: juliacakes)
+
+6. i lived in cape may for 8 weeks !
+   (ID: DickRubnuts)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I am albanian.
+   (ID: 41fc1b2c09d5a16a25f120edde55b2a6e2e54e29)
+
+2. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i grew up in alabama .
+   (ID: conversation_221)
+
+2. i was born in baton rouge .
+   (ID: conversation_138)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+2. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+
+============================================================

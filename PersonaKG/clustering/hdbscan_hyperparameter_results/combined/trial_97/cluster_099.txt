@@ -1,0 +1,130 @@
+CLUSTER 99
+============================================================
+Total statements in cluster: 86
+Cluster persistence (stability): 0.620
+
+Dataset distribution in this cluster:
+  MPChat: 2 (2.3%)
+  MSC: 1 (1.2%)
+  PEC: 77 (89.5%)
+  PER-CHAT: 3 (3.5%)
+  PersonaChat: 2 (2.3%)
+  SyntheticPersonaChat: 1 (1.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i think he likes it
+   (ID: CollegeSleezeball)
+
+2. i think she ate too much spinach...
+   (ID: River_Lethe)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I think most scary monsters are serious.
+   (ID: dialog_54_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 77
+
+1. i do n’t think i could ever date an actress .
+   (ID: nastylittleman)
+
+2. i think everyone loves zooey
+   (ID: thebastion)
+
+3. i do n't think my heart can take it .
+   (ID: adertal)
+
+4. i think it has something to do with either nausea , heartburn , indigestion , upset stomach or diarrhea
+   (ID: Bob_Majerle)
+
+5. i think you 're being intentionally dense .
+   (ID: sweatervest)
+
+6. i think it should be , _ turkey
+   (ID: harumpf)
+
+7. i think they both smell the same
+   (ID: iToaditSo)
+
+8. i think it was for titanium if memory serves ?
+   (ID: JohnnyPappis)
+
+9. i think you speak for yourself .
+   (ID: glowinthedark)
+
+10. i think you are a troll :)
+   (ID: conservative_poly)
+
+11. i think this is the biggest one
+   (ID: Kellen1337)
+
+12. i think it 's in settings .
+   (ID: harumpf)
+
+13. i think her prophecy rules that one out .
+   (ID: ifatree)
+
+14. i think he was overwhelmed by all the feedback .
+   (ID: blue_thingy)
+
+15. i do n’t think anything from this is mgs , i think it ’s from an anime .
+   (ID: LabeledAsALunatic)
+
+16. i think megamind is the ultimate example of this .
+   (ID: WiseScratch)
+
+17. i think this is in reference to the convention in philly .
+   (ID: notlikethat1)
+
+18. i think i may have a touch of consumption .
+   (ID: Kellen1337)
+
+19. i think it was his own plane
+   (ID: LCPhotowerx)
+
+20. i .. i think it 's satire mate
+   (ID: LabeledAsALunatic)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. i think you made a mistake there
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+2. i think i ' m normal . no one else is , though .
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+3. do you think about breathing too ?
+   (ID: 617a45b75601128e5c804bd8ca6b8e525a4aa02d)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am not afraid of what others think .
+   (ID: conversation_37)
+
+2. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I think recycling is important.
+   (ID: conversation_74_user_2)
+
+
+============================================================

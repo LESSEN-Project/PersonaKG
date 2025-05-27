@@ -1,0 +1,56 @@
+CLUSTER 263
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  FoCus: 6 (54.5%)
+  PersonaChat: 5 (45.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 6
+
+1. I don't like North Korea.
+   (ID: TGZJNX488SLV_11)
+
+2. I don't like to intersection road.
+   (ID: UDGAGMKQ9TQ1_11)
+
+3. I don't like forest.
+   (ID: T815O8KC30IG_9)
+
+4. I don’t like Casino.
+   (ID: KMISZIRFKCAC_11)
+
+5. I don't like German Democratic Republic.
+   (ID: 9A5KQW7ZJ9KZ_11)
+
+6. I don't like railroad in the vicinity of the city.
+   (ID: NK6WLDJ7W255_7)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i don t like the beach .
+   (ID: conversation_94)
+
+2. i don't like my reputation .
+   (ID: conversation_147)
+
+3. i don't like acting .
+   (ID: conversation_154)
+
+4. i don't like to clean house .
+   (ID: conversation_306)
+
+5. i don't like feeling controlled .
+   (ID: conversation_147)
+
+
+============================================================

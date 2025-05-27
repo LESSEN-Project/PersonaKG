@@ -1,0 +1,371 @@
+CLUSTER 61
+============================================================
+Total statements in cluster: 305
+
+Dataset distribution in this cluster:
+  FoCus: 19 (6.2%)
+  MPChat: 1 (0.3%)
+  MSC: 45 (14.8%)
+  PEC: 13 (4.3%)
+  PER-CHAT: 152 (49.8%)
+  PersonaChat: 15 (4.9%)
+  SyntheticPersonaChat: 60 (19.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 19
+
+1. I like llamas very much.
+   (ID: LEW58VG9I78X_11)
+
+2. I like dolphins.
+   (ID: LH031RZU9PAS_11)
+
+3. I like birds.
+   (ID: Y037WWL4AZRY_11)
+
+4. I love bats.
+   (ID: X3WVWF5IVCYD_11)
+
+5. I am an animal lover.
+   (ID: QLDCXP7YJP9Q_11)
+
+6. I love horses.
+   (ID: KG8AEOFQLTO4_11)
+
+7. I like jaguars.
+   (ID: U2VHOEDA278F_11)
+
+8. I love horses.
+   (ID: LJYX36WCRYDM_9)
+
+9. I am passionate about animals.
+   (ID: NQNDXIDJUAUC_7)
+
+10. I like zoos.
+   (ID: NQNDXIDJUAUC_7)
+
+11. I love animals.
+   (ID: 77B9J8TADYDF_7)
+
+12. I like animals from America.
+   (ID: 77B9J8TADYDF_7)
+
+13. I love wildlife.
+   (ID: T815O8KC30IG_9)
+
+14. I like mammoths.
+   (ID: N3BKTMTKN6PG_11)
+
+15. I love turtles.
+   (ID: CXUYRK4MA1NB_11)
+
+16. I love birds.
+   (ID: 9DGY1RAZGYLM_9)
+
+17. I love animals.
+   (ID: SR7IVZSR3LV5_11)
+
+18. I love elephants.
+   (ID: CJWI83QV42AK_11)
+
+19. I like animals from Africa.
+   (ID: 77B9J8TADYDF_7)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i like to put cute animals in my coffee!
+   (ID: av929)
+
+
+--- MSC ---
+Total from this dataset: 45
+
+1. I am an animal lover.
+   (ID: dialog_11_speaker_2)
+
+2. I love felines.
+   (ID: dialog_73_speaker_2)
+
+3. My babies love catnip and cat grass.
+   (ID: dialog_46_speaker_2)
+
+4. I adore cats.
+   (ID: dialog_47_speaker_2)
+
+5. I love big dogs. I have one black labrador and one golden retriever.
+   (ID: dialog_90_speaker_1)
+
+6. I love all my pets.
+   (ID: dialog_63_speaker_1)
+
+7. I love cats.
+   (ID: dialog_71_speaker_2)
+
+8. I am a huge fan of chocolate poodles.
+   (ID: dialog_10_speaker_1)
+
+9. I adore cats.
+   (ID: dialog_11_speaker_2)
+
+10. I love cats and dogs.
+   (ID: dialog_97_speaker_2)
+
+11. I love animals and I am vegan.
+   (ID: dialog_97_speaker_1)
+
+12. I love dragons. I wish I had a dragon.
+   (ID: dialog_31_speaker_1)
+
+13. I prefer big dogs. I don't have dogs.
+   (ID: dialog_80_speaker_1)
+
+14. I am a huge dog lover! I have a dog who likes everything.
+   (ID: dialog_107_speaker_2)
+
+15. I have a black lab cat. I like go fishing.
+   (ID: dialog_55_speaker_1)
+
+16. I am a huge dog lover!.
+   (ID: dialog_107_speaker_2)
+
+17. I like felines more than beagles.
+   (ID: dialog_49_speaker_2)
+
+18. I love having pets.
+   (ID: dialog_90_speaker_1)
+
+19. I am an animal lover.
+   (ID: dialog_17_speaker_2)
+
+20. I love horses. My horses name is beauty.
+   (ID: dialog_98_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 13
+
+1. i love owls .
+   (ID: whyunogivemegoodname)
+
+2. i love bugs and animals , that ’s why i was asking !
+   (ID: lovestheautumn)
+
+3. i still wo n’t contribute to animal cruelty , though .
+   (ID: AP7497)
+
+4. i have a new favorite animal now .
+   (ID: glowinthedark)
+
+5. i fucking love cats ! ! ! ! ! !
+   (ID: freddlaren)
+
+6. i love dogs too !
+   (ID: clueless3867)
+
+7. i love black cats !
+   (ID: mizzpkat)
+
+8. i love animal lovers :)
+   (ID: NyxPeregrinus)
+
+9. i love glass animals .
+   (ID: JacksChocolateCake)
+
+10. i freaking love seagulls , i do n't care how dirty they are .
+   (ID: Bananafoofoofwee)
+
+11. i love animals .
+   (ID: giraffecakes)
+
+12. i have a cat that loves them too , but only on his terms .
+   (ID: mizzpkat)
+
+13. i love my little yard friends .
+   (ID: rspewth)
+
+
+--- PER-CHAT ---
+Total from this dataset: 152
+
+1. One of my favorite things is kitties.
+   (ID: 3590b3fd811042b17c3ff7f8b851664408a349ef)
+
+2. One of my favorite things is snakes.
+   (ID: 649605988d72e34fdcf0c170b6b9fa959a7d483e)
+
+3. One of my favorite things is snakes.
+   (ID: 009af0be6850d8d1ff9d388a3c7f39f0f7727594)
+
+4. One of my favorite things is puppies.
+   (ID: 58245e8d537b9e7b6d76cc6a9919ea776e4ef6f0)
+
+5. One of my favorite things is cats.
+   (ID: 5ec957438fa111872baaa0871df8459459cc2519)
+
+6. One of my favorite things is beagles.
+   (ID: 0d77404b10744947bcd2c91d8c926021d4b8650f)
+
+7. One of my favorite things is kittens.
+   (ID: fbed02b3d7caf00e8d1533f452f8951cf390df73)
+
+8. One of my favorite things is snakes.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+9. One of my favorite things is dogs.
+   (ID: ae9e10cc82b9b20c52f819c70c83f657724f9f44)
+
+10. One of my favorite things is dragons.
+   (ID: d34c3e58ec43e53b7d6bfdd857ddcfa727257f80)
+
+11. One of my favorite things is humans.
+   (ID: 77e0b8c51dfb89ff57bd838b86ee4d78a9fe856f)
+
+12. One of my favorite things is cats.
+   (ID: 5a15ba0aaa5a6e6f9e3a2db25befda6ec40a9b88)
+
+13. One of my favorite things is birds.
+   (ID: ab9a3fa39c7ebd1066697c2d7027afe2422d5ac7)
+
+14. One of my favorite things is turtles.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+15. One of my favorite things is dogs.
+   (ID: a3bc874aed8bb8421b25930723a7210bcd9b2aec)
+
+16. One of my favorite things is dogs.
+   (ID: b073b7138186ccb7fa807af1158cb23d6b7c113f)
+
+17. One of my favorite things is cows.
+   (ID: b7464d681f64ad88cda3f6014fd0dd3a8bebed33)
+
+18. One of my favorite things is dogs.
+   (ID: 359f9ab2b3224a06fb2eeef0a72bf286f2fe9fa5)
+
+19. One of my favorite things is corgies.
+   (ID: 9186c179fe844e912b1dc4e064693a023e668de3)
+
+20. One of my favorite things is dachshunds.
+   (ID: 9186c179fe844e912b1dc4e064693a023e668de3)
+
+
+--- PersonaChat ---
+Total from this dataset: 15
+
+1. i love animals .
+   (ID: conversation_259)
+
+2. i love animals .
+   (ID: conversation_11)
+
+3. i love dogs and cats .
+   (ID: conversation_118)
+
+4. i love dogs .
+   (ID: conversation_139)
+
+5. i like cats .
+   (ID: conversation_291)
+
+6. i love cats .
+   (ID: conversation_152)
+
+7. i love animals .
+   (ID: conversation_47)
+
+8. i love animals .
+   (ID: conversation_196)
+
+9. zebras are my favorite animals .
+   (ID: conversation_94)
+
+10. i love pandas .
+   (ID: conversation_88)
+
+11. i'm more of a cat person than a dog person .
+   (ID: conversation_49)
+
+12. i am a cat person .
+   (ID: conversation_73)
+
+13. i love sharks .
+   (ID: conversation_65)
+
+14. i love dogs and cats .
+   (ID: conversation_97)
+
+15. my favorite animal is the koala .
+   (ID: conversation_198)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 60
+
+1. I love dogs.
+   (ID: conversation_149_user_1)
+
+2. I love dogs.
+   (ID: conversation_162_user_1)
+
+3. My favorite animal is a bear.
+   (ID: conversation_55_user_2)
+
+4. I love dogs.
+   (ID: conversation_78_user_1)
+
+5. I love cats.
+   (ID: conversation_133_user_1)
+
+6. I love horses.
+   (ID: conversation_274_user_1)
+
+7. My favorite animal is the koala.
+   (ID: conversation_80_user_2)
+
+8. I love dogs.
+   (ID: conversation_215_user_2)
+
+9. I love cats.
+   (ID: conversation_227_user_1)
+
+10. I love dogs.
+   (ID: conversation_139_user_1)
+
+11. I love dogs.
+   (ID: conversation_145_user_1)
+
+12. I love cats.
+   (ID: conversation_137_user_1)
+
+13. I love animals.
+   (ID: conversation_190_user_1)
+
+14. I like cats.
+   (ID: conversation_119_user_1)
+
+15. I love all animals.
+   (ID: conversation_216_user_1)
+
+16. My favorite animal is a zebra.
+   (ID: conversation_80_user_1)
+
+17. I like cats.
+   (ID: conversation_117_user_1)
+
+18. I like cats.
+   (ID: conversation_112_user_1)
+
+19. I like cats.
+   (ID: conversation_118_user_1)
+
+20. I love dogs.
+   (ID: conversation_140_user_1)
+
+
+============================================================

@@ -1,15 +1,15 @@
 CLUSTER 2
 ============================================================
-Total statements in cluster: 542
+Total statements in cluster: 938
 
 Dataset distribution in this cluster:
-  FoCus: 7 (1.3%)
-  MPChat: 113 (20.8%)
-  MSC: 35 (6.5%)
-  PEC: 127 (23.4%)
-  PER-CHAT: 193 (35.6%)
-  PersonaChat: 29 (5.4%)
-  SyntheticPersonaChat: 38 (7.0%)
+  FoCus: 4 (0.4%)
+  MPChat: 333 (35.5%)
+  MSC: 35 (3.7%)
+  PEC: 376 (40.1%)
+  PER-CHAT: 174 (18.6%)
+  PersonaChat: 6 (0.6%)
+  SyntheticPersonaChat: 10 (1.1%)
 
 ============================================================
 
@@ -17,412 +17,331 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 7
+Total from this dataset: 4
 
-1. I like animals from Africa.
-   (ID: 77B9J8TADYDF_7)
+1. I like earthenwares.
+   (ID: AQN3EJ76NIKJ_11)
 
-2. I love animals.
-   (ID: 77B9J8TADYDF_7)
+2. I love the smell of Lotus.
+   (ID: KGYT5MMVNDSG_11)
 
-3. I like animals from America.
-   (ID: 77B9J8TADYDF_7)
+3. I like Ballari Gudda.
+   (ID: UN54IACHSTX5_11)
 
-4. I like learning about a variety of animals.
-   (ID: LFGIG1TODPKB_11)
-
-5. I like birds.
-   (ID: Y037WWL4AZRY_11)
-
-6. I love horses.
-   (ID: LJYX36WCRYDM_9)
-
-7. I have not visited a zoo in a long time.
-   (ID: LFGIG1TODPKB_11)
+4. I would like to discover the typical food of Australia.
+   (ID: JJN7XJSS0B4W_11)
 
 
 --- MPChat ---
-Total from this dataset: 113
+Total from this dataset: 333
 
-1. meet my new creepy cat !
-   (ID: Tanston)
+1. rose apple pies (yes, i know, again, but these are slightly different).
+   (ID: zenbuffy)
 
-2. my mother-in-law sent me a picture of her sleepy huskies
-   (ID: kentobean123)
+2. westholme wagyu ribeye i grilled last night
+   (ID: cookinwithclint)
 
-3. penny proud judging the corgis and i
-   (ID: kentobean123)
+3. [i ate] pistachio baklava
+   (ID: DeanIsHotter)
 
-4. i hear you have pets?
-   (ID: HMoney214)
+4. the creamiest homemade vanilla ice cream that my wife made.
+   (ID: 05twister)
 
-5. itap of my dog looking happy at the beach
-   (ID: The69LTD)
+5. they taste just like the ice cream sandwiches i loved growing up.
+   (ID: Soliloquy119)
 
-6. president petrie piggleton always blops in his photos and i love it/him so much
-   (ID: kentobean123)
+6. [i ate] dill salmon nigiri
+   (ID: patm28)
 
-7. a momma squirrel always watches me with my baby through my window.
-   (ID: Gothblessyou)
+7. one of my fave meals salmon sushi/sashimi plate
+   (ID: onemantwohands)
 
-8. added eeyore to my winnie the pooh group.
-   (ID: Nikyma)
+8. [i ate] cubano
+   (ID: patm28)
 
-9. my fat sleepy perry the platycorgi
-   (ID: kentobean123)
+9. i grilled some chicken
+   (ID: Flattishsassy)
 
-10. my swan crashing into the water.
-   (ID: littlebrownpackage)
+10. i made for the first time vanilla souffle
+   (ID: justcook_byangel)
 
-11. my little eddie snuggling with his adopted uncles at puppy daycare
-   (ID: youngdad33)
+11. smoked on my camp chef pellet smoker running comp blend pellets.
+   (ID: MonstaEatsItAll)
 
-12. my newest moc what should i name him?
-   (ID: why_the_babies_wet)
+12. shaping needs work, but here's my first sourdough!
+   (ID: mattsulli)
 
-13. the local comic store kitty was following me and my corgi around while we shopped and i love her.
-   (ID: kentobean123)
+13. conquered my first momofuku milk bar cake
+   (ID: chirp16)
 
-14. my beardie wears her food like a hat as well
-   (ID: AlbinoMetroid)
+14. [i ate] a plate of sushi
+   (ID: Ry_)
 
-15. president petrie piggleton in his formal wear for my birthday dinner tonight and he looks absolutely adorable.
-   (ID: kentobean123)
+15. still struggling getting my buttercream nice and smooth but happy with this one!
+   (ID: paintingpajamaspink)
 
-16. i'm puppy sitting these two this weekend!
-   (ID: evantide)
+16. fried glazed donuts - second attempt using my fryer!
+   (ID: kduluth)
 
-17. caught my cat sitting like a human and looking like a chicken
-   (ID: VodkaWithSnowflakes)
+17. this was my first time getting some char out of my cheap gas oven
+   (ID: mattsulli)
 
-18. my zombie cats pattern by me
-   (ID: Tanston)
+18. fries...are my krytonite...
+   (ID: onemantwohands)
 
-19. i love this wee hedgehog.
-   (ID: theringbeller)
+19. i made doritos dinamita chicken wings
+   (ID: cookinwithclint)
 
-20. landlords said we couldn't have ferrets, so i created a ferret dragon!
-   (ID: VisitingCivet)
+20. can you tell i love raw salmon?
+   (ID: onemantwohands)
 
 
 --- MSC ---
 Total from this dataset: 35
 
-1. I had several kittens.
-   (ID: dialog_19_speaker_2)
+1. I love cola products.
+   (ID: dialog_98_speaker_1)
 
-2. My little dingo dog is friendly. My wife and I adopted a stray dog. My pet dogs have always been mutts. My parents used to have a dalmation that bit strangers.
-   (ID: dialog_11_speaker_1)
-
-3. I am an animal lover.
-   (ID: dialog_11_speaker_2)
-
-4. I adore cats.
-   (ID: dialog_11_speaker_2)
-
-5. I race large felines who are in captivity to remain healthy.
+2. I only eat meat. Prime rib is my favorite meat. I want to try jerk prime rib.
    (ID: dialog_0_speaker_1)
 
-6. My favorite food is chicken. I have a dog named Bob.
-   (ID: dialog_27_speaker_2)
+3. I am a feminist. Old traditions on women cooking the way to a man's heart make me laugh.
+   (ID: dialog_105_speaker_1)
 
-7. I care about animals.
-   (ID: dialog_10_speaker_2)
+4. I always volunteer to bring the dessert to a birthday party.
+   (ID: dialog_57_speaker_2)
 
-8. I like bigger canines.
-   (ID: dialog_6_speaker_2)
+5. I found a recipe for Clam Chowder.
+   (ID: dialog_41_speaker_2)
 
-9. I like animals.
-   (ID: dialog_28_speaker_2)
+6. My favorite normal breakfast is pancakes with blueberries and strawberries.
+   (ID: dialog_107_speaker_2)
 
-10. I love animals. I have a dog named Allie.
-   (ID: dialog_29_speaker_2)
+7. I like other drinks over mojitos.
+   (ID: dialog_2_speaker_2)
 
-11. I used to have six cats.
-   (ID: dialog_34_speaker_2)
+8. I like a little spice in my food, but not too hot.
+   (ID: dialog_100_speaker_2)
 
-12. My dogs are both 2 months old.
-   (ID: dialog_13_speaker_1)
+9. I like to cook breakfast on sundays. My favorite dish is shepherd's pie. I have two different recipes. I like whole wheat waffles with nutella and sliced strawberries. I like biscuits, gravy, eggs, bacon, ham and waffles for breakfast. I usually cook big breakfast once a week.
+   (ID: dialog_107_speaker_1)
 
-13. I have a kitten named Leela.
-   (ID: dialog_29_speaker_1)
+10. I like fluid from out of country.
+   (ID: dialog_2_speaker_2)
 
-14. I'm an animal lover.
-   (ID: dialog_29_speaker_1)
+11. I like American sushi. I want to try authentic Japanese sushi, especially pufferfish.
+   (ID: dialog_89_speaker_1)
 
-15. I used to have a poodle named char. I used to have 6 cats, now I have 4.
-   (ID: dialog_34_speaker_2)
+12. I enjoy Chinese food. I haven't made dumplings from scratch. I have cooked frozen dumplings. I enjoy different types of oriental food like thai or chinese. I have never tried the Gold standard of egg friend rice.
+   (ID: dialog_46_speaker_1)
 
-16. I like animals.
-   (ID: dialog_24_speaker_2)
+13. I like whole wheat waffles with nutella and sliced strawberries.
+   (ID: dialog_107_speaker_1)
 
-17. I have a cat named Radar.
-   (ID: dialog_10_speaker_2)
+14. I have a lot of Indian restaurants nearby.
+   (ID: dialog_100_speaker_1)
 
-18. I love my puppies.
-   (ID: dialog_13_speaker_1)
+15. I admire lipton beverages.
+   (ID: dialog_14_speaker_1)
 
-19. My dog died last year.
-   (ID: dialog_34_speaker_2)
+16. I go to restaurants frequently.
+   (ID: dialog_74_speaker_1)
 
-20. I am a huge fan of chocolate poodles.
-   (ID: dialog_10_speaker_1)
+17. I've tried cooking seafood Spanish paella and spaghetti before, not success.
+   (ID: dialog_105_speaker_1)
+
+18. I love taco bell. I want to learn to make cruch wraps at home.
+   (ID: dialog_32_speaker_1)
+
+19. My family enjoys sweets that are extra sweet.
+   (ID: dialog_44_speaker_1)
+
+20. My favorite dish is shepherd's pie. I have two different recipes.
+   (ID: dialog_107_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 127
+Total from this dataset: 376
 
-1. i have sheep , feel free to film !
-   (ID: exotics)
+1. i really like this sweet chili flavor but i will find some middle eastern ones
+   (ID: BoonTobias)
 
-2. i am irate at all the people who suddenly want to rescue a puppy .
-   (ID: exotics)
+2. i go to the ham all the time and grew up there !
+   (ID: ItGetsAwkward)
 
-3. i call mine the lesbaru
-   (ID: thebastion)
+3. i assumed those giant pretzels that are delicious .
+   (ID: samward7)
 
-4. i 'm jealous you 've so many bettas .
-   (ID: kailan123456)
+4. i think i know what i 'm doing tonight , gumbo sounds perfect .
+   (ID: wooq)
 
-5. i have a stone that keeps tigers away .
-   (ID: harumpf)
+5. i knew the 1 $ long islands at applebee ’s were a bad idea
+   (ID: lambsquatch)
 
-6. i took mine out because it ripped my betta 's fins eventhough i sanded it .
-   (ID: kailan123456)
+6. i live just a few miles away and will definitely give them a try !
+   (ID: mmaswadeh)
 
-7. i d on cat ?
-   (ID: LabeledAsALunatic)
+7. i love these for breakfast !
+   (ID: chirpyboyandbartjr)
 
-8. i 've never heard them so quiet at feeding time .
-   (ID: buttercup_mauler)
+8. i tried siggi 's too but did n't like it .
+   (ID: NyxPeregrinus)
 
-9. i think it 's a napping puppy .
-   (ID: CheapyPipe)
+9. i 'll show you where the sauce goes .
+   (ID: wooq)
 
-10. i got a lump in my throat ... that precious lil angel .....
-   (ID: Noimnotsally)
+10. i thought he used just the dough , but not baked it too .
+   (ID: Nheea)
 
-11. i ’m grateful that they got adopted into a loving family at least .
-   (ID: 11_29_77)
+11. i 'll have a hot dog !
+   (ID: Megan_Bee)
 
-12. i concur , i 'd spoil that dog to no end
-   (ID: Evref)
+12. i 've never had a goose egg , but duck eggs are very nice .
+   (ID: Waterrat)
 
-13. i can hear the little silly puppy bark and smell the puppy breath .
-   (ID: SamuelStephenBono)
+13. i want to eat it so cute
+   (ID: iam1r7)
 
-14. i have a new favorite animal now .
-   (ID: glowinthedark)
+14. i got extreme ice with my first mbv menthol , but i found it to be too sugary .
+   (ID: rycheme)
 
-15. i have a pet sheep who had a stroke .
-   (ID: exotics)
+15. i also came here to comment on the green sauce lol sooooo amazing !
+   (ID: jessibabyy11)
 
-16. i have a barn full of the real thing .. twice as cute .
-   (ID: exotics)
+16. i expect food without mould or rot , freezers do n't hurt food .
+   (ID: mylescloutier)
 
-17. i have a grey tabby as well , also named pippin !
-   (ID: monday_madrigal)
+17. i 'm kind of jealous that you 'll be having those amazing cheesy biscuits .....
+   (ID: rycheme)
 
-18. i had no idea reptiles tolerate cuddling
-   (ID: trav110)
+18. i 'm new here , so i submit for your approval , a picture of bacon !
+   (ID: sweatervest)
 
-19. i named my old cat " rex manning " .
-   (ID: Mahatma_Panda)
+19. i must have some !
+   (ID: Piraticalstyle)
 
-20. i want a cat - sized snow leopard .
-   (ID: Sabiola)
+20. i 've tried the olay and like it .
+   (ID: rycheme)
 
 
 --- PER-CHAT ---
-Total from this dataset: 193
+Total from this dataset: 174
 
-1. for me the only thing that worked was a motion sensor sprayer connected to the hose . gave the cats a hefty drench but didn ' t hurt them , and meant my kids weren ' t stepping in vile cat poop . the moggies soon learned to stay away .
-   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+1. what if i have sex with pancakes ?
+   (ID: 4dbd3fd527caa93836f895d72dfef9276ea4809f)
 
-2. I have a fish as a pet.
-   (ID: 2834b254700cedfb96641229b712899b4d697418)
+2. there was a mom in michigan whos kids starved to death because she said they wouldnt eat what she made for them . the old adage " they ' ll eat when they ' re hungry " isn ' t true for all kids . it doesn ' t mean they jave autism , either . doesnt mean you have to give into junk , but they should at least have milk or vitamin shake . kids usually like those . sustenance is important for kids especially .
+   (ID: d8014467041b98317d9f1dec2b0dae4ff9405b91)
 
-3. One of my favorite things is dogs.
-   (ID: 4381fa1a63289663c5683187c0d07eadf81abfc2)
+3. fun  this is the best thing i ever made ! my self and my two sons love it . my wife isn ' t the big meat eater . it ' s great for making cheep cuts tender and juicy .
+   (ID: 6f3d93754035383ba31c7eb4503265c62893fa84)
 
-4. I have a dog as a pet.
-   (ID: 2cc106beadb9cde22175338488da9efb20933748)
+4. that ' s all i gave them on a good day anyways .
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
 
-5. One of my favorite things is animals.
-   (ID: 8031d2235c5c79aed4436e575113c1efb8fbe777)
+5. waffles . i love the crunch and it also feels more special because i can ' t make them at home no waffle iron .
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
 
-6. i ' m sorry you hate dogs ? people coming together to save a life , or give more time , is somehow a bad thing because its not human life ? this makes zero sense to me . i know people who have spent just as much if not more on their pets . you do what you can for those you love .
-   (ID: 8285a776fd60b145ed2afc145cdf2b926b93ed8b)
+6. canada  pizza chicken nuggets pasta bottle of maple syrup basic stuff
+   (ID: f3a18644ac7abbbf38805d44618254b8104cce6f)
 
-7. One of my favorite things is animal husbandry.
-   (ID: f296ca909e75f5e7a28f054f4937f3c6eccb6a56)
+7. well we now convienence , we have veggies galore to enjoy , just being able to buy a bag of ceaser salad , add premade ceaser dressing . that would take hours to do at home
+   (ID: 85ac769b0cb349e567cb91e8109645bd1ac28b9f)
 
-8. One of my favorite things is animal husbandry.
-   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+8. aussie here . what part of the world do you live or originate ? i don ' t know of any aussie ' s eating roo . they may be out there but no one i know eats it .
+   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
 
-9. I have a dog as a pet.
-   (ID: 0d77404b10744947bcd2c91d8c926021d4b8650f)
+9. would you do the same thing for a klondike bar ?
+   (ID: b4d61ff0c23f7ce5512ee9f64d1bea0f938f262a)
 
-10. we are finding it fun and manageable as we enter month digit with our digit month lab . he  s definitely not an adult yet and there is training that needs doing regarding occasional rude behavior and overstimulation , but he  s very nice to the cat and has a great temperament . for a first time owner having a baby at the same time as a puppy or young dog might be crazy . a new dog is kind of like a baby , you  re always trying to figure out what it wants and how to get it to go to sleep ! perhaps i  m speaking too soon but as long as we have a dog walker and have like . digit hours outside of work to train  exercise  bond with him , he seems very happy and sleeps all night . we ski on weekends and feel bad about the alone time , so usually try to spend one day doing a lot of dog  centric active stuff with him .
-   (ID: eace5bb8fae91afe15af3966cf6b9189772fe2cc)
+10. great work but do you think you could have done it in half the time if you had eaten clean ?
+   (ID: 7542c8a6be5a118bef67d9539deb69c131fb4fbc)
 
-11. I have a pig as a pet.
-   (ID: 34de9309a5c02867b676757fa019c58a66bad300)
+11. what did you do with the fish ?
+   (ID: 5dc1e0203cb86a245c4ede5cb73923b295b1fdc8)
 
-12. I have a cat as a pet.
-   (ID: b6567f005c34603036e6119544386ff4f12ec3a9)
+12. what i make best is lemon chocolate chip cookies . but i have to remind myself to hold those in reserve until i know someone a little better because if you just spring them on someone they probably will think it ' s really weird and not risk trying them .
+   (ID: bd723644638296cdfc92c932fca8a0e0d4cc9f7f)
 
-13. I have a cat as a pet.
-   (ID: 514a3ecd0d04716c9225352c4a3a5d5424dd8056)
+13. hot and with a tablespoon of heavy whipping cream .
+   (ID: bd723644638296cdfc92c932fca8a0e0d4cc9f7f)
 
-14. One of my favorite things is animal husbandry.
-   (ID: 801c30bb9f7fe270789d76054d77c547f65e41eb)
+14. i ' m sorry i can ' t help you but you open my eyes to something good . balsamic cream sauce . thank you .
+   (ID: b4d61ff0c23f7ce5512ee9f64d1bea0f938f262a)
 
-15. I have a cat as a pet.
-   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
+15. you could go what my wife calls buddhist vegetarian . you don ' t actually stock your fridge with meat , but if you ' re a guest or at a restaurant with no good vegetarian options then you have the damn meat instead of making a fuss or always being stuck with the side salad .
+   (ID: f3657f57aa348caf1c32ec21ef139ea41a45dc29)
 
-16. I have a dog as a pet.
-   (ID: 5033a9b064a9790931d6db4cc634e02af206bbb1)
+16. hey pat , bwl from cheeseburgervacation here , what do you need help with ?
+   (ID: ddbcd7b957a26c37891ce72069afaf688ba19977)
 
-17. One of my favorite things is dogs.
-   (ID: 58245e8d537b9e7b6d76cc6a9919ea776e4ef6f0)
+17. if bonnie goes to the store and buys the crap , cream and sugar . if i go to the store and buy the good stuff , sugar or straight black .
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
 
-18. I have a dog as a pet.
-   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+18. i read that as corned beef and nearly puked . i mainly eat irish beef , i guess it doesnt need to travel as far . meat in the us could probably spend a few days in transit and being moved around more . the more you think about it the more differences could contribute but i think youre probably right about personal  cultural taste .
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
 
-19. I have a dog as a pet.
-   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+19. my friends are like that , chicken nuggets are all they need apparently .
+   (ID: cae6d1fb1a818280e66de4a71148560d2d217d70)
 
-20. how is that being bad ? she hunted and killed a rodent for you ! that ' s being a good girl !
-   (ID: e807b18e05d35f02282740d90e8c63546558b267)
+20. when we have guests at home i will literally stay inside my room and don  t leave which is especially bad if they stay for a few days because i will literally just starve myself until either i know for sure that i can avoid an interaction with them or i can  t hold out any longer .
+   (ID: dcc0b8be922b572122c03b3f5e2a0f9fccb4d351)
 
 
 --- PersonaChat ---
-Total from this dataset: 29
+Total from this dataset: 6
 
-1. i'm gong to adopt a dog very soon .
-   (ID: conversation_45)
-
-2. my best friend is my dog allie .
-   (ID: conversation_29)
-
-3. i have a boxer dog .
-   (ID: conversation_6)
-
-4. i've two dogs .
-   (ID: conversation_17)
-
-5. zebras are my favorite animals .
-   (ID: conversation_94)
-
-6. i have a horse named beauty .
-   (ID: conversation_98)
-
-7. i have a cat named speckles .
-   (ID: conversation_71)
-
-8. i wish i had a real dragon i could train .
-   (ID: conversation_31)
-
-9. i breed maine coon cats and show them .
-   (ID: conversation_46)
-
-10. i have always wanted a pot bellied pig .
-   (ID: conversation_79)
-
-11. i had two cats growing up .
-   (ID: conversation_19)
-
-12. i've two siberian huskies .
-   (ID: conversation_80)
-
-13. i've a pet snake .
-   (ID: conversation_92)
-
-14. i love dogs and cats .
-   (ID: conversation_97)
-
-15. i have a dog named bob .
-   (ID: conversation_27)
-
-16. i love animals .
-   (ID: conversation_47)
-
-17. i love pandas .
+1. i'm starting a new juicing bar .
    (ID: conversation_88)
 
-18. i've a dog named george .
-   (ID: conversation_76)
+2. pudding makes me gassy .
+   (ID: conversation_26)
 
-19. i use to own 6 cats .
-   (ID: conversation_34)
+3. i prefer eating at home because people make me nervous .
+   (ID: conversation_253)
 
-20. i've a cat named leela .
-   (ID: conversation_58)
+4. its good to eat a lot of veggies .
+   (ID: conversation_137)
+
+5. everyday after work i buy my dog a dog biscuit .
+   (ID: conversation_160)
+
+6. i can t get enough gummy worms to satisfy my sweet tooth .
+   (ID: conversation_25)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 38
+Total from this dataset: 10
 
-1. I own 4 cats.
-   (ID: conversation_85_user_2)
+1. I think beets are the best vegetable.
+   (ID: conversation_116_user_2)
 
-2. I am gong to adopt a dog very soon.
-   (ID: conversation_94_user_2)
+2. Its good to eat a lot of veggies.
+   (ID: conversation_245_user_2)
 
-3. We have two pets as well.
-   (ID: conversation_75_user_2)
+3. Chocolate chip cookies are the tastier things in my opinion.
+   (ID: conversation_283_user_1)
 
-4. I ve a dog.
-   (ID: conversation_71_user_1)
+4. Chocolate chip cookies are the tastier things in my opinion.
+   (ID: conversation_291_user_2)
 
-5. My dogs name is toto.
-   (ID: conversation_44_user_2)
+5. Lutefisk is the best dish in the whole world.
+   (ID: conversation_218_user_2)
 
-6. I love dogs.
-   (ID: conversation_77_user_1)
+6. I like to bake for them.
+   (ID: conversation_193_user_2)
 
-7. I have a cat.
-   (ID: conversation_97_user_2)
+7. I love non gmo foods.
+   (ID: conversation_277_user_2)
 
-8. I have 3 dogs and a parrot.
-   (ID: conversation_24_user_2)
+8. I love non gmo foods.
+   (ID: conversation_197_user_2)
 
-9. I love dogs.
-   (ID: conversation_37_user_2)
+9. Chocolate chip cookies are the tastier things in my opinion.
+   (ID: conversation_284_user_1)
 
-10. I have two dogs , one pitbull and old english bulldog.
-   (ID: conversation_48_user_2)
-
-11. I have a french bulldog.
-   (ID: conversation_95_user_2)
-
-12. My favorite animal is a zebra.
-   (ID: conversation_80_user_1)
-
-13. I love animals.
-   (ID: conversation_17_user_2)
-
-14. I love my dog.
-   (ID: conversation_21_user_2)
-
-15. My favorite animal is the koala.
-   (ID: conversation_80_user_2)
-
-16. I am a cat owner.
-   (ID: conversation_59_user_2)
-
-17. I have a cat named charlie.
-   (ID: conversation_52_user_2)
-
-18. I love dogs.
-   (ID: conversation_91_user_1)
-
-19. I have a doberman.
-   (ID: conversation_24_user_1)
-
-20. I have a parrot named parrot.
-   (ID: conversation_69_user_2)
+10. We drink beer and eat food.
+   (ID: conversation_239_user_2)
 
 
 ============================================================

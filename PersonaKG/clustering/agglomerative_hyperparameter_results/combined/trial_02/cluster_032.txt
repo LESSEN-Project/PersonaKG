@@ -1,28 +1,410 @@
 CLUSTER 32
 ============================================================
-Total statements in cluster: 2
+Total statements in cluster: 523
 
 Dataset distribution in this cluster:
-  PEC: 1 (50.0%)
-  PER-CHAT: 1 (50.0%)
+  FoCus: 222 (42.4%)
+  MPChat: 4 (0.8%)
+  MSC: 49 (9.4%)
+  PEC: 28 (5.4%)
+  PER-CHAT: 173 (33.1%)
+  PersonaChat: 17 (3.3%)
+  SyntheticPersonaChat: 30 (5.7%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- PEC ---
-Total from this dataset: 1
+--- FoCus ---
+Total from this dataset: 222
 
-1. i do n't think money is an issue .
-   (ID: NietzschesUbermensch)
+1. I like going to the zoo.
+   (ID: 77B9J8TADYDF_7)
+
+2. I love Australia.
+   (ID: JGNFHPJEPO6H_9)
+
+3. I love England.
+   (ID: VP3189E0Z1O2_11)
+
+4. I love visiting historic places.
+   (ID: F6T8IBBEHM4P_11)
+
+5. I love to visit museum.
+   (ID: C64P8U3HDDHY_9)
+
+6. I love National Parks.
+   (ID: B4623TSE2PJX_7)
+
+7. I love theme parks.
+   (ID: D9V2U3AIWTVB_7)
+
+8. I like Garfield Temple.
+   (ID: VQJADZ97TJ0Z_11)
+
+9. I love the moon.
+   (ID: ZWQO9OQ8DX45_11)
+
+10. I like roller coasters.
+   (ID: PSBPL4USIKMB_11)
+
+11. I like Dublin.
+   (ID: DDUH6892W2P9_7)
+
+12. I love the United States.
+   (ID: TGZJNX488SLV_11)
+
+13. I am fond of the Herrerian architecture.
+   (ID: QEDR6NULRI9U_7)
+
+14. I like forts.
+   (ID: F8WIALS35WHE_11)
+
+15. I like agricultural lands.
+   (ID: ATJSFYS2K6FK_11)
+
+16. I like New York.
+   (ID: XXU24CBOXMRE_7)
+
+17. I like locomotives.
+   (ID: N1SMQLB7T5J7_11)
+
+18. I love the city of Chicago.
+   (ID: VPRC44FNGVA6_11)
+
+19. I like Georgian style architectures because it looks so georgeous.
+   (ID: DK9VMLV1IASM_11)
+
+20. I love going on tours.
+   (ID: N3BKTMTKN6PG_11)
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. there's not a day that goes by that i don't miss living in japan.
+   (ID: Crilbyte)
+
+2. i love colorado.
+   (ID: Foolz_Go1d)
+
+3. i love google maps.
+   (ID: pope237)
+
+4. canada is my favorite.
+   (ID: dudeinthepnw)
+
+
+--- MSC ---
+Total from this dataset: 49
+
+1. I love going to the park on Main Street and 4th on the weekend.
+   (ID: dialog_11_speaker_1)
+
+2. I love taking pictures, especially of my cat and garden using my canon camera.
+   (ID: dialog_49_speaker_1)
+
+3. I like things that are not complicated.
+   (ID: dialog_61_speaker_1)
+
+4. I enjoy the sun.
+   (ID: dialog_92_speaker_2)
+
+5. I like the snow.
+   (ID: dialog_52_speaker_2)
+
+6. I love it when trees are green and flowers bloom.
+   (ID: dialog_24_speaker_2)
+
+7. I love being with freezing water.
+   (ID: dialog_51_speaker_1)
+
+8. I like cameras.
+   (ID: dialog_112_speaker_1)
+
+9. Las vegas was my stomping ground when I was young.
+   (ID: dialog_10_speaker_1)
+
+10. I like to ask why.
+   (ID: dialog_97_speaker_1)
+
+11. I enjoy seeing the world.
+   (ID: dialog_9_speaker_2)
+
+12. I like the sand on my feet.
+   (ID: dialog_76_speaker_2)
+
+13. I love going to the park on Main Street and 4th.
+   (ID: dialog_11_speaker_2)
+
+14. I like the sky.
+   (ID: dialog_42_speaker_1)
+
+15. I like to be around books.
+   (ID: dialog_56_speaker_2)
+
+16. Japanese cartoons are my favorites.
+   (ID: dialog_114_speaker_2)
+
+17. I like mystery.
+   (ID: dialog_5_speaker_2)
+
+18. I much prefer warm weather sports.
+   (ID: dialog_31_speaker_1)
+
+19. I like trips to the ocean.
+   (ID: dialog_20_speaker_1)
+
+20. I like things that aren't complicated.
+   (ID: dialog_82_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 28
+
+1. i love chicago !
+   (ID: teriaki)
+
+2. i love that other people go on night walks !
+   (ID: NyxPeregrinus)
+
+3. i see you 're a man of culture as well .
+   (ID: Ian_Str8)
+
+4. i love athens .
+   (ID: GetItTogether)
+
+5. i love lamp .
+   (ID: dohko_xar)
+
+6. i love the venue .
+   (ID: genpell)
+
+7. i love manitou .
+   (ID: Piraticalstyle)
+
+8. i love me a good swim
+   (ID: Nimmyzed)
+
+9. i have a friend who says the same thing except it 's trees he loves .
+   (ID: amirman)
+
+10. i love looking at the raccoons , deer , marmots , squirrels , rabbits , etc .
+   (ID: giraffecakes)
+
+11. i heard you liked spaceships .
+   (ID: Bananafoofoofwee)
+
+12. i like being aware of events around civic center park .
+   (ID: Bathysphere710)
+
+13. i liked synecdoche , new york .
+   (ID: cometparty)
+
+14. i love it there
+   (ID: LCPhotowerx)
+
+15. i live in berlin and mine is berlin .
+   (ID: thed0ctah)
+
+16. i watch the monarchy at the ctwe shows every couple of months .
+   (ID: aydinsevimli)
+
+17. i love america and always will .
+   (ID: middlegeek)
+
+18. i love lamp .
+   (ID: chasemyers)
+
+19. i 've always loved melbourne .
+   (ID: zsnajorrah)
+
+20. i love all the grass
+   (ID: iToaditSo)
 
 
 --- PER-CHAT ---
-Total from this dataset: 1
+Total from this dataset: 173
 
-1. there is a guy i know who is fully prepared , my plan is to take what he has by any means .
-   (ID: 9e8a44f7c55ebce4785906436a033b33a1ccb949)
+1. One of my favorite things is miles.
+   (ID: ab38d3f31156c0cca1babe826c83025e8694eca2)
+
+2. One of my favorite things is canada.
+   (ID: 627809b826e1a364fb65664e0749e9e9eb90081d)
+
+3. One of my favorite things is trees.
+   (ID: 9ec97fcc6f16d54d7e24ba1cdb5ebe5785854536)
+
+4. One of my favorite things is California.
+   (ID: 280643182527d573e119c7952a08fea10d62edd8)
+
+5. One of my favorite things is hogwarts.
+   (ID: 975493e3b4b2ad9cba1b98554159be45f8affdd3)
+
+6. One of my favorite things is french.
+   (ID: 4420123abde71e42df266171d2bcb8a90afeed93)
+
+7. snow days . when the weather is so shitty that driving is unsafe , i can stay at home and sip hot chocolate and read a book .
+   (ID: ec299e39e931c010d0d98b62058c9ccb814797dd)
+
+8. One of my favorite things is sutton.
+   (ID: 6e7cd3892c49f30c5999e4b7337f95be97df0c1b)
+
+9. One of my favorite things is rocky road.
+   (ID: f5639f88927d467b89189ab179bb30d8a5705552)
+
+10. One of my favorite things is point reyes.
+   (ID: 0cd5284a49d41ed5d0b33c24b5c7a84017aa9737)
+
+11. One of my favorite things is japanese.
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+12. One of my favorite things is boone.
+   (ID: 114e3678c6af9d322985bb4656e33b19c03a0479)
+
+13. One of my favorite things is variety.
+   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+
+14. One of my favorite things is hamilton.
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+15. One of my favorite things is quebec.
+   (ID: 96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01)
+
+16. One of my favorite things is space.
+   (ID: eace5bb8fae91afe15af3966cf6b9189772fe2cc)
+
+17. One of my favorite things is wednesday.
+   (ID: 89c3606d2dfc5d2a2da97fb49ddc1894f8bf330f)
+
+18. I own a favourite flag.
+   (ID: 3fff1b9f2826f67730a90b0826e2ae56278e5d92)
+
+19. One of my favorite things is chiller weather.
+   (ID: 7eb8e919a32aaaa4562b811575e7a335d4580896)
+
+20. One of my favorite things is season.
+   (ID: 2ac4d2cea574e655d7fdb1ab9b4886989929ca96)
+
+
+--- PersonaChat ---
+Total from this dataset: 17
+
+1. i love sunsets .
+   (ID: conversation_148)
+
+2. i love to take my children on nature walks .
+   (ID: conversation_173)
+
+3. i love the water , any water , ocean , river , or lake .
+   (ID: conversation_102)
+
+4. i love riding roller coasters .
+   (ID: conversation_178)
+
+5. my favorite thing to do is to read books on the beach .
+   (ID: conversation_88)
+
+6. in my freetime i enjoy cloud watching .
+   (ID: conversation_204)
+
+7. i love the beach .
+   (ID: conversation_7)
+
+8. my favorite season is winter .
+   (ID: conversation_183)
+
+9. i love the beach .
+   (ID: conversation_112)
+
+10. i love nighttime .
+   (ID: conversation_218)
+
+11. i spend a lot of time watching obscure foreign film on netflix .
+   (ID: conversation_253)
+
+12. my favorite pass time is gazing at clouds .
+   (ID: conversation_29)
+
+13. my favorite city is new york .
+   (ID: conversation_231)
+
+14. summer is my favorite season .
+   (ID: conversation_24)
+
+15. i love living in texas .
+   (ID: conversation_26)
+
+16. going snorkeling is my favorite thing to do .
+   (ID: conversation_69)
+
+17. i love to go to the symphony orchestra .
+   (ID: conversation_213)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 30
+
+1. I love the summer.
+   (ID: conversation_210_user_2)
+
+2. I love nighttime.
+   (ID: conversation_52_user_2)
+
+3. I love to take my children on nature walks.
+   (ID: conversation_199_user_2)
+
+4. I love to keep a small garden outside of my house.
+   (ID: conversation_220_user_2)
+
+5. I love huge paintings.
+   (ID: conversation_190_user_2)
+
+6. I love book.
+   (ID: conversation_126_user_1)
+
+7. Summer is my favorite season.
+   (ID: conversation_269_user_1)
+
+8. I prefer summer over winter.
+   (ID: conversation_151_user_1)
+
+9. I love the country but enjoy visiting the city life.
+   (ID: conversation_48_user_2)
+
+10. I like vintage furniture.
+   (ID: conversation_160_user_2)
+
+11. I enjoy going to museums.
+   (ID: conversation_242_user_1)
+
+12. I love the beach.
+   (ID: conversation_171_user_2)
+
+13. I watch foreign movies and tv shows.
+   (ID: conversation_292_user_2)
+
+14. I love cold weather.
+   (ID: conversation_197_user_2)
+
+15. I prefer summer over winter.
+   (ID: conversation_150_user_1)
+
+16. I like to attend wine tours.
+   (ID: conversation_113_user_2)
+
+17. I love watching sunsets.
+   (ID: conversation_288_user_2)
+
+18. Summer is my favorite season.
+   (ID: conversation_263_user_1)
+
+19. I love book.
+   (ID: conversation_150_user_2)
+
+20. I like victorian things.
+   (ID: conversation_122_user_1)
 
 
 ============================================================

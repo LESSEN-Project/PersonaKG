@@ -1,0 +1,468 @@
+CLUSTER 412
+============================================================
+Total statements in cluster: 2448
+Cluster persistence (stability): 0.407
+
+Dataset distribution in this cluster:
+  FoCus: 72 (2.9%)
+  MPChat: 273 (11.2%)
+  MSC: 97 (4.0%)
+  PEC: 1327 (54.2%)
+  PER-CHAT: 526 (21.5%)
+  PersonaChat: 98 (4.0%)
+  SyntheticPersonaChat: 55 (2.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 72
+
+1. I have visited Ossining longback.
+   (ID: SN7PB5ME98AZ_9)
+
+2. I am not Greek.
+   (ID: VB4LDHWFQAVH_11)
+
+3. I am in the parliament.
+   (ID: LOLQOIY09AO4_11)
+
+4. I have an interest in the economy.
+   (ID: QQ40JZO5I064_11)
+
+5. I am someone who has been to Anglican services.
+   (ID: JFAHL3MTTLAX_11)
+
+6. I worship Hindu deity.
+   (ID: RJJWVAVC2B40_9)
+
+7. I am afraid of Inca curses.
+   (ID: 77E5QV6TW4WU_11)
+
+8. I have interest in the Burke and Wills Dig Tree.
+   (ID: PSAPP3TRHUMW_11)
+
+9. I have a port by me.
+   (ID: 7U2KEOOFBDTF_11)
+
+10. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+11. I have studied about Catuvellauni in my subject.
+   (ID: XY9R2ORN3XBQ_7)
+
+12. I have visited the Raj Bhavan at Chennai.
+   (ID: V3LNPA1FT8D2_11)
+
+13. I am reseraching glacial meltwater.
+   (ID: SDW19RWSP3ZX_11)
+
+14. I study flooding.
+   (ID: FLY9O8E8QPK3_11)
+
+15. I am studying Saint Paul.
+   (ID: MRD9ZG9O57GA_11)
+
+16. I have studied about Ramakrishna Mission.
+   (ID: WKS47SP8CYLV_11)
+
+17. I have never been to Alaska.
+   (ID: 82ZP2M9AL6U0_11)
+
+18. I admire George Washington.
+   (ID: RULPAHV9K06Y_11)
+
+19. I have been to Manchester before.
+   (ID: WKAD0PJA14Q4_11)
+
+20. I have curiosity about the Activities.
+   (ID: PW1SULL1SY01_11)
+
+
+--- MPChat ---
+Total from this dataset: 273
+
+1. i saved that pile of mess.
+   (ID: Crilbyte)
+
+2. finley is disgruntled that i found him hiding between the plant and the filter
+   (ID: zonumnire)
+
+3. what colour should i do next?
+   (ID: meepmeepcuriouscat)
+
+4. was checking my newly-planted crypts for melt, when suddenly...
+   (ID: blboppie)
+
+5. i made it through the seaming!
+   (ID: meghanlovessunshine)
+
+6. jade plant in a planter i made
+   (ID: Grooventooven)
+
+7. next up is my task and habit trackers.
+   (ID: green-egg-and-ham)
+
+8. my latest edlothia shawl in hobbii twister mojave azurite.
+   (ID: somuchyarn10)
+
+9. i made this bunny ears headband with a tail
+   (ID: letsallcrochetYT)
+
+10. i call him yancy the yeti!
+   (ID: Louiesloops)
+
+11. i made this for our w/s foreman.
+   (ID: baccgirl)
+
+12. this is my first fo.
+   (ID: FoxInKneeSocks)
+
+13. 5 stars to u/i_study_birds adding to my tradescantia addiction
+   (ID: switchbladesally)
+
+14. i made a fresh batch of palo santo and sage burners for my very first vendor market.
+   (ID: heatsensitive)
+
+15. i'm a hypocrite.
+   (ID: Beardedlantern)
+
+16. was only 3 bucks, but i passed.
+   (ID: insertnamehere02)
+
+17. my gooey drip snake dragon is.
+   (ID: VisitingCivet)
+
+18. i crocheted indoor snowballs and i can’t get over how squishable they are!
+   (ID: FoxInKneeSocks)
+
+19. my first icord bind off!
+   (ID: krichmondRPH)
+
+20. i was amused these were next to each other.
+   (ID: insertnamehere02)
+
+
+--- MSC ---
+Total from this dataset: 97
+
+1. My younger brother plays cod.
+   (ID: dialog_67_speaker_2)
+
+2. I do well speaking to others.
+   (ID: dialog_153_speaker_2)
+
+3. Me and my sibling, both have crimson locks.
+   (ID: dialog_91_speaker_1)
+
+4. I'd do anything for my parent.
+   (ID: dialog_61_speaker_2)
+
+5. My swimming pool is large and filled with gold coins.
+   (ID: dialog_124_speaker_2)
+
+6. I found a recipe for Clam Chowder.
+   (ID: dialog_41_speaker_2)
+
+7. I always recycle.
+   (ID: dialog_131_speaker_1)
+
+8. Jumping out of an airplane would be a thrill.
+   (ID: dialog_1_speaker_1)
+
+9. I am studying finance.
+   (ID: dialog_7_speaker_2)
+
+10. My employment is manufacturing goods.
+   (ID: dialog_125_speaker_2)
+
+11. I'm above the standard height of a us male.
+   (ID: dialog_21_speaker_1)
+
+12. I always chew gum.
+   (ID: dialog_91_speaker_1)
+
+13. Fried catfish is delicious.
+   (ID: dialog_124_speaker_2)
+
+14. I loke to go shopping.
+   (ID: dialog_6_speaker_1)
+
+15. My name is Vladimir.
+   (ID: dialog_100_speaker_1)
+
+16. I am a gemini.
+   (ID: dialog_24_speaker_2)
+
+17. I am wildly optimistic.
+   (ID: dialog_72_speaker_1)
+
+18. I a fancy.
+   (ID: dialog_179_speaker_2)
+
+19. I have twins who are naughty.
+   (ID: dialog_105_speaker_2)
+
+20. My existence is a tardy one.
+   (ID: dialog_128_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1327
+
+1. i found it * * meta * *
+   (ID: doctor_parcival)
+
+2. i was calling you out for being a weathist dickhead .
+   (ID: cometparty)
+
+3. i 'm from nz too .
+   (ID: travelingkiwi)
+
+4. i see you also suffered through fifty shades of grey
+   (ID: JacksChocolateCake)
+
+5. i grew it myself , although in ginger edition � �
+   (ID: DinoButtsy)
+
+6. i faced up to my fears and anxieties .
+   (ID: Lifes6Midnight)
+
+7. i raeget nothing .
+   (ID: notjawn)
+
+8. i also approve of the taunton road animal hospital .
+   (ID: foldor)
+
+9. i would ' keep ' them .
+   (ID: catskhiker)
+
+10. i too can confirm that we do n’t have accents
+   (ID: BrianV91)
+
+11. i 'm a forum member already .
+   (ID: glowinthedark)
+
+12. i stressed out about how behind i am .
+   (ID: tylock)
+
+13. i do it for the groupies !
+   (ID: SerendipitousCat)
+
+14. i believed that the majority in the us was protestant .
+   (ID: xcombelle)
+
+15. i 'm plat / diamond zerg .
+   (ID: dohko_xar)
+
+16. i 'm not your pal , buddayyyy !
+   (ID: jesuschrysler)
+
+17. i have many of the typical austistic female traits .
+   (ID: RelaxedSociety)
+
+18. i am ordering a fleet of 1000 for massschusetts alone !
+   (ID: supmraj)
+
+19. i 'm 14 points from 1st in my league .
+   (ID: jenni268)
+
+20. i 'm not butthurt at all .
+   (ID: JayDub30)
+
+
+--- PER-CHAT ---
+Total from this dataset: 526
+
+1. I am wreck.
+   (ID: 215e84ecea95592e4d8f3f8e0619a61b503078c3)
+
+2. empty coke cans taped around my head for halloween . i was a coke head .
+   (ID: dceaf5128ce079240dc5048df74d704163edc3a5)
+
+3. perseus and medusa .
+   (ID: ef87eefe030bad98e7a1705beba0859fe1869cef)
+
+4. lord of the rings
+   (ID: 73cbf17c3a84102fdc5b18efc6bc4cacd841961c)
+
+5. lolo . nes .
+   (ID: 445ba4596e4bcff0c96b23f038cf784185970198)
+
+6. it , perhaps ?
+   (ID: e74de4b8aa6f46c2dd5cb848b2770028e7469b55)
+
+7. I own a core.
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+8. give them homes .
+   (ID: fbed02b3d7caf00e8d1533f452f8951cf390df73)
+
+9. I own a pee.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+10. what is it
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+11. I own a pant.
+   (ID: 198c7cf8170708799eec80da464639ba2be896b4)
+
+12. where are you ?
+   (ID: f07bd8b532084b20c0ab605df63553a028543519)
+
+13. same with pork flavor !
+   (ID: 2997447dd39ca55e621bf2769e5d42b81622d35d)
+
+14. I own a dood.
+   (ID: a3982a84363698446960e86a440ed3314f4325a3)
+
+15. where can i find it ?
+   (ID: bfc2e9a6e5f84327293fa1a1fd0287066782bcec)
+
+16. I am ambassador for the remodel.
+   (ID: a189febbe6cdf1cbdfab4caa7ce53ea7a90e0cf7)
+
+17. so how  s the afterlife ?
+   (ID: 8ea8e4a00c3f2a64096e00bdbba0247e580cdb17)
+
+18. that ' s private
+   (ID: 803d3eb0d3664275a2ad6840048dba9d4d991cf7)
+
+19. I am agent of chaos.
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
+
+20. eminem  not afraid
+   (ID: 498ec9e13eaa203d64a9b79260e2285867993564)
+
+
+--- PersonaChat ---
+Total from this dataset: 98
+
+1. my name is gerald .
+   (ID: conversation_207)
+
+2. i m never still .
+   (ID: conversation_265)
+
+3. i'm a female .
+   (ID: conversation_121)
+
+4. i am a member of the ymca .
+   (ID: conversation_222)
+
+5. i own a hearse .
+   (ID: conversation_5)
+
+6. i auditionated in a cooking show .
+   (ID: conversation_373)
+
+7. i am colorblind .
+   (ID: conversation_109)
+
+8. i'm from seattle .
+   (ID: conversation_281)
+
+9. i have freckles .
+   (ID: conversation_379)
+
+10. i go fishing on the weekends to relax .
+   (ID: conversation_314)
+
+11. my name is jovannie and i m 19 .
+   (ID: conversation_184)
+
+12. i'm allergic to dust .
+   (ID: conversation_210)
+
+13. i'm a goalie .
+   (ID: conversation_62)
+
+14. my inspiration is clasical music .
+   (ID: conversation_202)
+
+15. i will never punch a clock again .
+   (ID: conversation_208)
+
+16. i have two roomates .
+   (ID: conversation_17)
+
+17. i am chubby .
+   (ID: conversation_74)
+
+18. we have two pets as well .
+   (ID: conversation_173)
+
+19. my lifes passion is designer french fries .
+   (ID: conversation_329)
+
+20. i'm a democrat .
+   (ID: conversation_331)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 55
+
+1. I am a widow.
+   (ID: conversation_222_user_1)
+
+2. I am dumpy.
+   (ID: conversation_29_user_1)
+
+3. Skateboarding is a hobby of mine.
+   (ID: conversation_42_user_2)
+
+4. I am a geology major at alabama university.
+   (ID: conversation_72_user_2)
+
+5. My name is mary and i am from colorado.
+   (ID: conversation_338_user_2)
+
+6. I am bloated.
+   (ID: conversation_30_user_1)
+
+7. My masters degree is in italian literature.
+   (ID: conversation_309_user_2)
+
+8. I have no technological skills.
+   (ID: conversation_387_user_1)
+
+9. I am a roofer.
+   (ID: conversation_384_user_1)
+
+10. I am blonde.
+   (ID: conversation_16_user_1)
+
+11. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+12. I am a perfectionist.
+   (ID: conversation_396_user_2)
+
+13. I have many homes.
+   (ID: conversation_261_user_2)
+
+14. I lamp on the weekends in the forest.
+   (ID: conversation_333_user_2)
+
+15. Currently , i m saving up to get some procedures done.
+   (ID: conversation_162_user_2)
+
+16. I have braces.
+   (ID: conversation_467_user_1)
+
+17. I am studying to be a dentist.
+   (ID: conversation_488_user_1)
+
+18. I have 2 turtles.
+   (ID: conversation_459_user_2)
+
+19. I am very shy.
+   (ID: conversation_222_user_2)
+
+20. I study philosophy at umass.
+   (ID: conversation_158_user_1)
+
+
+============================================================

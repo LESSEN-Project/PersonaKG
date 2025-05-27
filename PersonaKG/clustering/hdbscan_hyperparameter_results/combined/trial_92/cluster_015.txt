@@ -1,0 +1,151 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 75
+Cluster persistence (stability): 0.771
+
+Dataset distribution in this cluster:
+  FoCus: 5 (6.7%)
+  MPChat: 2 (2.7%)
+  MSC: 1 (1.3%)
+  PEC: 59 (78.7%)
+  PersonaChat: 6 (8.0%)
+  SyntheticPersonaChat: 2 (2.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 5
+
+1. I love NASCAR.
+   (ID: PKTFMWPHB1E3_11)
+
+2. I love cathedrals.
+   (ID: TDUTQ7NCYJ1S_11)
+
+3. I would love to vist Divljana Monastery again.
+   (ID: V0DLNYLN813E_11)
+
+4. I love Hanumappa Nayaka.
+   (ID: UN54IACHSTX5_11)
+
+5. I love Pasterze glacier.
+   (ID: YLLQOXHD6MZC_7)
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. this is why i love bottomless portafilters.
+   (ID: Ry_)
+
+2. i love him so much
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I love mosh pits.
+   (ID: dialog_13_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 59
+
+1. i love lamp .
+   (ID: chasemyers)
+
+2. i love the handpainted backgrounds .
+   (ID: amirman)
+
+3. i love dandelions .
+   (ID: LooksAtClouds)
+
+4. i love oreos .
+   (ID: Noimnotsally)
+
+5. i love you tony !
+   (ID: LabeledAsALunatic)
+
+6. i love me some wiki .
+   (ID: mylescloutier)
+
+7. i love garfunkel oates
+   (ID: buttercup_mauler)
+
+8. i love msg .
+   (ID: harumpf)
+
+9. i love the a e s t h e t i c
+   (ID: tylock)
+
+10. i would love all of them please .
+   (ID: SamuelStephenBono)
+
+11. i love twinings !
+   (ID: Nheea)
+
+12. i love you so much , . alex
+   (ID: boyofthechapter)
+
+13. i love his musics!~ ! !
+   (ID: amirman)
+
+14. i love me some bojack
+   (ID: Megan_Bee)
+
+15. i love sedum .
+   (ID: monday_madrigal)
+
+16. i love how lightweight it is .
+   (ID: thebastion)
+
+17. i ’d love to see your presentation too !
+   (ID: 11_29_77)
+
+18. i 'd love that !
+   (ID: kitcatpaints)
+
+19. i love it so much ! ! !
+   (ID: samward7)
+
+20. i love your spastiks
+   (ID: bummang)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i love collecting teapots .
+   (ID: conversation_73)
+
+2. i love sharks .
+   (ID: conversation_65)
+
+3. i love children .
+   (ID: conversation_91)
+
+4. i love bicycling .
+   (ID: conversation_3)
+
+5. i love to larp .
+   (ID: conversation_74)
+
+6. i love pandas .
+   (ID: conversation_88)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I love agatha christie novels.
+   (ID: conversation_49_user_2)
+
+2. I love to do yoga.
+   (ID: conversation_92_user_1)
+
+
+============================================================

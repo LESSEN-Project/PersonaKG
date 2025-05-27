@@ -1,103 +1,351 @@
 CLUSTER 12
 ============================================================
-Total statements in cluster: 42
+Total statements in cluster: 468
 
 Dataset distribution in this cluster:
-  PEC: 35 (83.3%)
-  PER-CHAT: 7 (16.7%)
+  FoCus: 3 (0.6%)
+  MSC: 100 (21.4%)
+  PEC: 62 (13.2%)
+  PER-CHAT: 117 (25.0%)
+  PersonaChat: 76 (16.2%)
+  SyntheticPersonaChat: 110 (23.5%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 3
+
+1. I am currently serving in the US military.
+   (ID: JW0BLP5O75BW_11)
+
+2. I live in a house.
+   (ID: SRO8K4E2N5N5_7)
+
+3. I have lost my job because of the COVID-19 pandemic.
+   (ID: FNURQ2XMQVJF_11)
+
+
+--- MSC ---
+Total from this dataset: 100
+
+1. I am getting married and moving to australia soon. I'm planning a wedding.
+   (ID: dialog_77_speaker_2)
+
+2. My brother and I went hunting with my father when we were children. I think my brother and I should start our own car business.
+   (ID: dialog_99_speaker_2)
+
+3. I am on the computer a lot.
+   (ID: dialog_60_speaker_1)
+
+4. I live in a retirement home. I am a singer. I have kids who don't live with me.
+   (ID: dialog_44_speaker_1)
+
+5. I am busy working as a DJ. I DJ parties. I work a lot on the weekends.
+   (ID: dialog_85_speaker_1)
+
+6. I'm usually doing something online.
+   (ID: dialog_62_speaker_1)
+
+7. I am a veteran. I don't currently have a job.
+   (ID: dialog_11_speaker_1)
+
+8. I got married last year. My husband got promoted to a project manager position and he works over 60 hours a week and is stressed at times.
+   (ID: dialog_14_speaker_2)
+
+9. I've a lot of student debt.
+   (ID: dialog_78_speaker_1)
+
+10. I live with my family.
+   (ID: dialog_77_speaker_1)
+
+11. I am still living with my parents at age 30.
+   (ID: dialog_109_speaker_2)
+
+12. I am busy on the weekends.
+   (ID: dialog_11_speaker_1)
+
+13. I have two kids and a husband. I am a full-time parent. I am 30 years old.
+   (ID: dialog_65_speaker_1)
+
+14. I spend a lot of time on the computer.
+   (ID: dialog_31_speaker_2)
+
+15. I am getting married and moving to australia with my fiance soon. I'm planning a wedding. I have just bought a wedding cake. I have hired a wedding planner for my wedding.
+   (ID: dialog_77_speaker_2)
+
+16. My daughter has ballet class. My daughter plays Nintendo Switch.
+   (ID: dialog_85_speaker_2)
+
+17. My parents own there own compnay.
+   (ID: dialog_85_speaker_1)
+
+18. I watch kids.
+   (ID: dialog_4_speaker_1)
+
+19. I live in Seattle. I have a houseboat.
+   (ID: dialog_14_speaker_2)
+
+20. I work at Amazon and am too old to work.
+   (ID: dialog_23_speaker_2)
+
+
 --- PEC ---
-Total from this dataset: 35
+Total from this dataset: 62
 
-1. i am genuinely curious
-   (ID: nate6051)
+1. i do n't have a toddler , so i guess i just do n't live at all then ?
+   (ID: Thenewfoundlanders)
 
-2. i was just wondering what you guys know or what you have learned from experience .
-   (ID: worried_panda)
+2. i would be so screwed if i was suddenly out of a job .
+   (ID: chirpyboyandbartjr)
 
-3. i just wondered how much of an image you have in your head before you start .
-   (ID: MILeft)
+3. i make dh do the laundry .
+   (ID: teriaki)
 
-4. i 'm inclined to think it might develop depression .
-   (ID: Shrub74)
+4. i 'm 40 and i 'm geriatric or elderly as far as my ob is concerned .
+   (ID: teriaki)
 
-5. i 've heard of many others who have had the same experience .
-   (ID: Weed_n_Wisdom)
+5. i keep them in my safe or my mom will throw them away .
+   (ID: redandblack555)
 
-6. i presume they do n't hurt or itch .
-   (ID: Nheea)
+6. i pay most of my bills online but write a few with checks .
+   (ID: LooksAtClouds)
 
-7. i was curious .
-   (ID: kitcatpaints)
-
-8. i would say that drinking had something to do with it .
-   (ID: SerendipitousCat)
-
-9. i think i read about one too , but that 's extremely rare .
-   (ID: Nheea)
-
-10. i can also vouch that it happens to long - time smokers occasionally .
-   (ID: SerendipitousCat)
-
-11. i think it 's real and not caused by your medication .
-   (ID: Weed_n_Wisdom)
-
-12. i 've always wondered and are there any ways to prevent it ?
-   (ID: carwynllew)
-
-13. i believe it was in a lot of aerosols , not just hairspray .
-   (ID: exotics)
-
-14. i thought it was the medication that caused that .
-   (ID: BabblingBunny)
-
-15. i ’ve always assumed it ’s urine , because it ’s clear .
-   (ID: 11_29_77)
-
-16. i 'm intrigued ... post it .
-   (ID: glowinthedark)
-
-17. i wonder what the facts are on this
+7. i work two jobs too .
    (ID: SamuelStephenBono)
 
-18. i have been diagnosed with depression , and never heard of melatonin making it worse .
+8. i 'm saving up money for their school .
+   (ID: aydinsevimli)
+
+9. i keep my phone number in my wallet .
+   (ID: deputydan_scubaman)
+
+10. i am a woman , a mom ..
    (ID: exotics)
 
-19. i 'd need to see some citation
-   (ID: BoonTobias)
+11. i 'm just looking for some insight or some advice on what i should do .
+   (ID: bennystache)
 
-20. i ’ve heard something similar , but not weed , it ’s trippy mushrooms .
-   (ID: ChallengeTaken99)
+12. i just do n’t want to work for it any more !
+   (ID: almajanemi)
+
+13. i would just love some words of advice ...
+   (ID: pipette_on)
+
+14. i am running a local music lesson business .
+   (ID: bbrandann)
+
+15. i got starcraft , why would i leave my house ?
+   (ID: dohko_xar)
+
+16. i work a lot .
+   (ID: IgnoranceIsAVirus)
+
+17. i have a new baby and am certain i want to homeschool / unschool .
+   (ID: RelaxedSociety)
+
+18. i do n't have kids , but will be planning on having some within the next few years .
+   (ID: mmaswadeh)
+
+19. i am but i ’m a university student and single mom .
+   (ID: kitcatpaints)
+
+20. i tell them that i pay tuition etc .
+   (ID: AgedTwenties)
 
 
 --- PER-CHAT ---
-Total from this dataset: 7
+Total from this dataset: 117
 
-1. okay i  m sure this isn  t a normal thing now , but have you heard if this before ?
-   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+1. I live in at home better.
+   (ID: f296ca909e75f5e7a28f054f4937f3c6eccb6a56)
 
-2. i ' m just here to say that marijuana really helps to reduce night terrors and you don ' t really remember dreams as well . just saying for those that might be looking for a solution .
-   (ID: 7c5209c3b827e0de0cd436466f80ce09b615606b)
+2. I am 20k.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
 
-3. what if it was injected into a newborn and it effected its developing brain ? or maybe if it happened before they were born .
-   (ID: 630b45a8d3ef360a8a8a9626adbff80750d745a7)
+3. ive reached point where material items dont really do much for me anymore . im just looking for a relationship at the moment , and to plan out my life so i dont end up working until im dead .
+   (ID: ae9e10cc82b9b20c52f819c70c83f657724f9f44)
 
-4. cause and effect ? what did the dealer have to say about it ?
-   (ID: 7a74975099c43e606800d8a9205ec41703ec2a89)
+4. I live in house years.
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
 
-5. have you had experience with this ?
-   (ID: 472de55a2855849453179c0ccb5234c4ea9d1192)
+5. I live in middle class.
+   (ID: bb79791c3753a1fc8ece696b3835b0f59ddccc90)
 
-6. there ' s a whole thread on reddit i ' m pretty sure about how rabies is lethal . i read it and couldn ' t sit still for the rest of the day , that shits terrifying .
-   (ID: 5173a1d5475490650d7365b2c2b2f2c579d33099)
+6. at first i thought i ' d pay for lawn mowing and gutter cleaning , but then i thought i ' d be liable and get sued if the teen got hurt doing either of those , so they ' re out . on the other hand , i ' d happily pay  digit to have someone install a turnkey linux setup on a refurbished windows pc that i ' d provide . i might pay more , but with less happiness , ha . tell them something like " i want linux with gimp , a photo managing  display program , something to edit  play videos with , something that will play mp3s , a word processor , and internet ready " and have it all set up for me .
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
 
-7. depends on who you ask .
-   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
+7. I live in at home.
+   (ID: 7008f149db59fea91167255eafa8bc84beab0f01)
+
+8. I live in on student income.
+   (ID: 6ea82786a74ccdc85dc1fddd809a575aa4e4efcf)
+
+9. I live in bachelor rental house.
+   (ID: 5b02e2fd29e743c4c80de2b0919a03d95400c23a)
+
+10. what would you do with your homelessness ?
+   (ID: 080eedcfaabe8f67b2c0a8da33a3a401906822f2)
+
+11. savage as fuck . what are you doing with your life ?
+   (ID: b4d61ff0c23f7ce5512ee9f64d1bea0f938f262a)
+
+12. I live in apartment.
+   (ID: 2e369dc21156ed2b443bc09084e27c8acb516093)
+
+13. I live in apartment.
+   (ID: 917dfa16e92ce1db67ec3f88bc07b87b70a36c95)
+
+14. I live in apartment.
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+15. I am typing.
+   (ID: f8d48136e1ccbc739d4b7fb8db1e8f668422b145)
+
+16. I own a apartment.
+   (ID: 1d327d2812dfee71bf8ef77d36ffd5eb70efd55b)
+
+17. I live in condo.
+   (ID: 3f4f5511095f668b3c84312b8bfeb87b30dd8f03)
+
+18. I live in couches.
+   (ID: f46d1bfdfed7fc05bbe39789c092019944471e9d)
+
+19. I live in similar situation.
+   (ID: cbed067932829315de162cb512843a4f6b1083b7)
+
+20. I live in religious household.
+   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
+
+
+--- PersonaChat ---
+Total from this dataset: 76
+
+1. i could move out , but she doesn t want me to .
+   (ID: conversation_175)
+
+2. i live with a roommate .
+   (ID: conversation_198)
+
+3. i'm stuck in a wheel chair .
+   (ID: conversation_32)
+
+4. i live in a house .
+   (ID: conversation_97)
+
+5. i'm engaged .
+   (ID: conversation_176)
+
+6. i just lost my job and i'm looking for something new .
+   (ID: conversation_159)
+
+7. i've been married for 20 years .
+   (ID: conversation_145)
+
+8. i still live at home .
+   (ID: conversation_39)
+
+9. my youngest sister is in first grade .
+   (ID: conversation_293)
+
+10. i am a college student who is a full time working mom .
+   (ID: conversation_21)
+
+11. i spend a lot of time driving my kids to sports events .
+   (ID: conversation_75)
+
+12. my wife stays home with our kids .
+   (ID: conversation_30)
+
+13. i live alone .
+   (ID: conversation_18)
+
+14. i am a factory worker .
+   (ID: conversation_44)
+
+15. in reality i m 32 and live at home with my mother .
+   (ID: conversation_84)
+
+16. my daughter just graduated college .
+   (ID: conversation_285)
+
+17. i live in an apartment .
+   (ID: conversation_135)
+
+18. i have a wife and two kids .
+   (ID: conversation_44)
+
+19. my class has 26 kids .
+   (ID: conversation_70)
+
+20. i used to work a 9 5 job as a telemarketer .
+   (ID: conversation_208)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 110
+
+1. I am a stay at home mom.
+   (ID: conversation_246_user_2)
+
+2. I have only one child.
+   (ID: conversation_180_user_2)
+
+3. I am a mother of three.
+   (ID: conversation_230_user_1)
+
+4. I am engaged.
+   (ID: conversation_233_user_1)
+
+5. I don t work.
+   (ID: conversation_4_user_1)
+
+6. I use the computer all day.
+   (ID: conversation_211_user_2)
+
+7. I go to college part time.
+   (ID: conversation_42_user_2)
+
+8. I have 3 roommates.
+   (ID: conversation_101_user_2)
+
+9. I make 30k a year.
+   (ID: conversation_31_user_2)
+
+10. I am currently unemployed.
+   (ID: conversation_269_user_1)
+
+11. I am divorced.
+   (ID: conversation_183_user_1)
+
+12. I am currently unemployed.
+   (ID: conversation_263_user_1)
+
+13. I live in my parent s basement.
+   (ID: conversation_117_user_1)
+
+14. I am retired.
+   (ID: conversation_257_user_1)
+
+15. I live in my parent s basement.
+   (ID: conversation_114_user_1)
+
+16. I live with my parents and my little brother.
+   (ID: conversation_119_user_2)
+
+17. I still live at home with my parents.
+   (ID: conversation_0_user_1)
+
+18. I work all the time.
+   (ID: conversation_47_user_2)
+
+19. My parents live across the street from me.
+   (ID: conversation_96_user_2)
+
+20. I live alone.
+   (ID: conversation_298_user_1)
 
 
 ============================================================

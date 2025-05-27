@@ -1,0 +1,246 @@
+CLUSTER 50
+============================================================
+Total statements in cluster: 100
+Cluster persistence (stability): 0.990
+
+Dataset distribution in this cluster:
+  FoCus: 28 (28.0%)
+  MPChat: 3 (3.0%)
+  MSC: 11 (11.0%)
+  PEC: 46 (46.0%)
+  PER-CHAT: 5 (5.0%)
+  PersonaChat: 3 (3.0%)
+  SyntheticPersonaChat: 4 (4.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 28
+
+1. I like footbal.
+   (ID: VP3189E0Z1O2_11)
+
+2. I like geolgoy.
+   (ID: SDW19RWSP3ZX_11)
+
+3. I would like to see inscriptions.
+   (ID: CE0AK99XDA0R_9)
+
+4. I would like to see coal mining.
+   (ID: KE1YHY4I7DLW_11)
+
+5. I like llamas very much.
+   (ID: LEW58VG9I78X_11)
+
+6. I like acoustics.
+   (ID: EGOP94LCW2PF_11)
+
+7. I like nonviolence.
+   (ID: IP4KRMQQREBQ_9)
+
+8. I like Worcestershire Canal.
+   (ID: 72MY00U8UEGB_11)
+
+9. I like Uzal Girard Ent.
+   (ID: TBZIWSGJCM17_11)
+
+10. I like transmitters.
+   (ID: GNIFMHXKEMKB_11)
+
+11. I do not like crimes.
+   (ID: U7PM0IZ93Q1W_11)
+
+12. I like earthenwares.
+   (ID: AQN3EJ76NIKJ_11)
+
+13. I like Kent.
+   (ID: T9JPYSSWD7NW_11)
+
+14. I like marshes.
+   (ID: SJS6GHEH7ZIW_11)
+
+15. I like Catherine of Alexandria.
+   (ID: TF24QL7QZSG2_11)
+
+16. I like enginering.
+   (ID: G1IQ2JHFB47F_11)
+
+17. I would like to see livestock.
+   (ID: VOQV863ZK27L_11)
+
+18. I like Serbia.
+   (ID: C7B7NH0Q1KEE_11)
+
+19. I like Tennessee.
+   (ID: 9U5TT3QTAIKB_11)
+
+20. I like jaguars.
+   (ID: U2VHOEDA278F_11)
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. i like to fold papers too!
+   (ID: gxnelson)
+
+2. i would like one boop please.
+   (ID: kentobean123)
+
+3. why are my rosetta's twisting like this?
+   (ID: ext23)
+
+
+--- MSC ---
+Total from this dataset: 11
+
+1. I like my boo.
+   (ID: dialog_89_speaker_2)
+
+2. I like the pigskin.
+   (ID: dialog_145_speaker_2)
+
+3. I like Charlie Parker.
+   (ID: dialog_122_speaker_2)
+
+4. I like memoirs and autobiographies.
+   (ID: dialog_55_speaker_2)
+
+5. I like crawdads.
+   (ID: dialog_58_speaker_1)
+
+6. I like Sherlock Holmes.
+   (ID: dialog_5_speaker_2)
+
+7. I like organic fruits and vegtables. I like Espresso.
+   (ID: dialog_119_speaker_2)
+
+8. I would like to see Wicked show.
+   (ID: dialog_144_speaker_1)
+
+9. I like nirvana.
+   (ID: dialog_145_speaker_2)
+
+10. I do not like ferrets.
+   (ID: dialog_97_speaker_1)
+
+11. I like beats.
+   (ID: dialog_114_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 46
+
+1. i 'd like to see lateral ownership and governance .
+   (ID: mylescloutier)
+
+2. i do n’t like to fire blindly .
+   (ID: Wowliam)
+
+3. i like that he is n't an elf .
+   (ID: monday_madrigal)
+
+4. i 'd like chandimal and thirimanne to show what they 're made of .
+   (ID: Machinax)
+
+5. i like being circumsized
+   (ID: TylerC_D)
+
+6. i like to break it down into ' waves ' like ska .
+   (ID: ifatree)
+
+7. i do n't like arcades .
+   (ID: canitasteyourjuice)
+
+8. i 'd like to see him topless .
+   (ID: doctor_parcival)
+
+9. i like irises .
+   (ID: wooq)
+
+10. i like bobs an vageen
+   (ID: canitasteyourjuice)
+
+11. i 'd still like to see them .
+   (ID: Piraticalstyle)
+
+12. i do n't like them either !
+   (ID: deputydan_scubaman)
+
+13. i like to go for them on the surface .
+   (ID: error785)
+
+14. i like the ias and almost ensured res sig casting though .
+   (ID: CheapyPipe)
+
+15. i like mimi , but i also like the name jasmine .
+   (ID: exotics)
+
+16. i would n’t classify it like that at all .
+   (ID: JaZepi)
+
+17. i do n't like hackers
+   (ID: GitFloowSnaake)
+
+18. i 'd like to have some spellcasting .
+   (ID: kro_celeborn)
+
+19. i can only name like 3 .
+   (ID: alextound)
+
+20. i like yours more
+   (ID: Evref)
+
+
+--- PER-CHAT ---
+Total from this dataset: 5
+
+1. because we like you .
+   (ID: 1476398f6c778fb461539e3f78b07720d4ceee83)
+
+2. i do not like this
+   (ID: c5e877ff3be5d3571f5fe899f55887a6f608ee98)
+
+3. uhhhh . it ' s like 23degrees ?
+   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+
+4. like this ?
+   (ID: 94ab13260f2b345a7ddb68c03b6fbc2a70424b41)
+
+5. swatting . like at all .
+   (ID: c19de27d6b88c47d51e561a657dd0cf0e665fa48)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i like to snowboard .
+   (ID: conversation_15)
+
+2. i like baths .
+   (ID: conversation_6)
+
+3. i like cartoons .
+   (ID: conversation_39)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I like tacos.
+   (ID: conversation_110_user_2)
+
+2. I like potatoes.
+   (ID: conversation_5_user_1)
+
+3. I like barbies.
+   (ID: conversation_58_user_2)
+
+4. Like a skeleton.
+   (ID: conversation_19_user_1)
+
+
+============================================================

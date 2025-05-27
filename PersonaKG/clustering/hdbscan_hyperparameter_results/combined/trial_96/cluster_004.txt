@@ -1,0 +1,193 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 61
+Cluster persistence (stability): 0.951
+
+Dataset distribution in this cluster:
+  MPChat: 1 (1.6%)
+  MSC: 3 (4.9%)
+  PEC: 18 (29.5%)
+  PER-CHAT: 31 (50.8%)
+  PersonaChat: 5 (8.2%)
+  SyntheticPersonaChat: 3 (4.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. she's my favourite little lion.
+   (ID: VodkaWithSnowflakes)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I have a black lab dog named George. I do not have any children.
+   (ID: dialog_76_speaker_2)
+
+2. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+3. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 18
+
+1. i am in the uk looking for a straight trade 1:1 for one or more of the wanted items .
+   (ID: Ooer)
+
+2. i 'll give you a discount !
+   (ID: Kialand)
+
+3. i have 6 of them .
+   (ID: carwynllew)
+
+4. i 'll send you a trade offer .
+   (ID: Lsmoothies)
+
+5. i have a evga 660 2 gb if your still looking for one .
+   (ID: AgedTwenties)
+
+6. i 'll dm you and am open to these exchanges .
+   (ID: ludaa)
+
+7. i ’m looking for $ 67.50 shipped after paypal invoice fees .
+   (ID: LabeledAsALunatic)
+
+8. i ’ll buy a couple .
+   (ID: bummang)
+
+9. i 'm willing to pay .
+   (ID: leo9g)
+
+10. i have affectionately named it theodore .
+   (ID: deputydan_scubaman)
+
+11. i do have a titan .
+   (ID: WiseScratch)
+
+12. i 'd love to take them , what 's your price plus shipping ?
+   (ID: rycheme)
+
+13. i have 3013 ce and i will trade it for tf2 metal
+   (ID: thebastion)
+
+14. i have a gt-8 .
+   (ID: bbrandann)
+
+15. i 've got a two trial if you 're ok waiting until i get home later today .
+   (ID: bmeckel)
+
+16. i 'll be at the race with a friend so if anyone wants the other two let me know .
+   (ID: SamuelStephenBono)
+
+17. i 'd like the c20 sheet masks - 86305 .
+   (ID: rycheme)
+
+18. i 'll pm you now !
+   (ID: BabblingBunny)
+
+
+--- PER-CHAT ---
+Total from this dataset: 31
+
+1. I own a forte.
+   (ID: 3158d7c63f10e871a80f147fb47725c8714163c7)
+
+2. I own a aim.
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+3. I own a tl.
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+
+4. I own a end fight.
+   (ID: 51417b57f4b2dc72dd07ac6a8ebfc978fa9d0661)
+
+5. I own a nail.
+   (ID: b5e15026c378d181e66e2b38bfc245705510a727)
+
+6. I own a beam.
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+7. I own a pgwp.
+   (ID: 3cc393500aaac3a2ee1cd96955cee486bb062a46)
+
+8. I own a night terror.
+   (ID: 3158d7c63f10e871a80f147fb47725c8714163c7)
+
+9. I own a controller.
+   (ID: 420a86ecfb9d645349db591746d0cdeba4b68f37)
+
+10. I own a type.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+11. I own a labor.
+   (ID: b17b749ab40d1d24eba7d45337d86aeb3c5b28df)
+
+12. I own a junk.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+13. I own a pair.
+   (ID: e9e31949fb9369b722c0967c2e5f8ec095f0b329)
+
+14. I own a gold.
+   (ID: 6eec77fe98b9dc85ec1e5e7edc37cdb415794719)
+
+15. I own a fps.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+16. I own a orb.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+17. I own a vat shot.
+   (ID: 812f0130222ed7d2f4768ba9e9d81f1c42857723)
+
+18. I own a regulator.
+   (ID: e87275c4c3cfea671e40cbeff9a12d5fc1372f97)
+
+19. I own a knight move.
+   (ID: fdf9c56e21cf61fb3b2852da66f6506ce908651c)
+
+20. I own a mipod.
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. my dogs name is toto .
+   (ID: conversation_162)
+
+2. i have a dog named bob .
+   (ID: conversation_27)
+
+3. i've a parrot named parrot .
+   (ID: conversation_138)
+
+4. i have a pet snake .
+   (ID: conversation_50)
+
+5. i've a cat named leela .
+   (ID: conversation_58)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I have one little boy named owen.
+   (ID: conversation_118_user_2)
+
+2. I have a parakeet.
+   (ID: conversation_101_user_2)
+
+3. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+
+============================================================

@@ -1,0 +1,110 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 24
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  MSC: 2 (8.3%)
+  PEC: 3 (12.5%)
+  PER-CHAT: 14 (58.3%)
+  PersonaChat: 2 (8.3%)
+  SyntheticPersonaChat: 3 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+2. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+2. i 'm jordan ward !
+   (ID: amirman)
+
+3. i am skuld .
+   (ID: Ooer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 14
+
+1. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+2. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+3. I am captain.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+4. I am agent of chaos.
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
+
+5. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+6. I am villain.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+7. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+8. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+9. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+10. I am derp.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+11. I am scott.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+12. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+13. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+14. I am star.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my name is omar .
+   (ID: conversation_42)
+
+2. my name is todd .
+   (ID: conversation_119)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My name is nancy.
+   (ID: conversation_58_user_2)
+
+2. My name is arnold.
+   (ID: conversation_5_user_2)
+
+3. My name is kevin.
+   (ID: conversation_121_user_2)
+
+
+============================================================

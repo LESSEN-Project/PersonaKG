@@ -1,0 +1,148 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 35
+Cluster persistence (stability): 0.954
+
+Dataset distribution in this cluster:
+  MPChat: 1 (2.9%)
+  MSC: 3 (8.6%)
+  PEC: 7 (20.0%)
+  PER-CHAT: 19 (54.3%)
+  PersonaChat: 2 (5.7%)
+  SyntheticPersonaChat: 3 (8.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i am a lion!
+   (ID: mattsulli)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+2. My name is Bill. I grew up in Alabama.
+   (ID: dialog_53_speaker_1)
+
+3. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i am peanut butter and jelly .
+   (ID: CuriousBlueAbra)
+
+2. i am the dark one .
+   (ID: combover)
+
+3. i 'm ... a ginger .
+   (ID: leo9g)
+
+4. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+5. i 'm jordan ward !
+   (ID: amirman)
+
+6. i am skuld .
+   (ID: Ooer)
+
+7. i 'm the juggernaut bitch .
+   (ID: LCPhotowerx)
+
+
+--- PER-CHAT ---
+Total from this dataset: 19
+
+1. I am villain.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+2. I am star.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+3. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+4. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+5. I am igl.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+6. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+7. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+8. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+9. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+10. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+11. I am scott.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+12. I am shite.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+13. I am derp.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+14. I am captain.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+15. I am aryan.
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+16. I am altmer mage.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+17. I am agent of chaos.
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
+
+18. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+19. I am arisen.
+   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my name is todd .
+   (ID: conversation_119)
+
+2. my name is omar .
+   (ID: conversation_42)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My name is arnold.
+   (ID: conversation_5_user_2)
+
+2. My name is nancy.
+   (ID: conversation_58_user_2)
+
+3. My name is kevin.
+   (ID: conversation_121_user_2)
+
+
+============================================================

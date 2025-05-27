@@ -1,11 +1,11 @@
 {
   "trial": 3,
   "vectorization": "hybrid",
-  "sample_size": 100,
-  "n_clusters": 100,
-  "linkage": "single",
+  "sample_size": 400,
+  "n_clusters": 50,
+  "linkage": "ward",
   "metric": "euclidean",
   "tfidf_weight": 0.7,
-  "pca_components": 16,
+  "pca_components": 64,
   "clustering_mode": "combined"
 }

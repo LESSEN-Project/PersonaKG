@@ -1,15 +1,14 @@
 CLUSTER 0
 ============================================================
-Total statements in cluster: 8350
+Total statements in cluster: 886
 
 Dataset distribution in this cluster:
-  FoCus: 56 (0.7%)
-  MPChat: 362 (4.3%)
-  MSC: 64 (0.8%)
-  PEC: 5288 (63.3%)
-  PER-CHAT: 2478 (29.7%)
-  PersonaChat: 37 (0.4%)
-  SyntheticPersonaChat: 65 (0.8%)
+  FoCus: 20 (2.3%)
+  MSC: 32 (3.6%)
+  PEC: 27 (3.0%)
+  PER-CHAT: 759 (85.7%)
+  PersonaChat: 14 (1.6%)
+  SyntheticPersonaChat: 34 (3.8%)
 
 ============================================================
 
@@ -17,451 +16,369 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 56
+Total from this dataset: 20
 
-1. I have a boyfriend who is a rock climber.
-   (ID: D4619DV1O1OP_11)
+1. I live in Savannah.
+   (ID: C7RS7BTZIF1Q_11)
 
-2. I am interested in knowing the longest tunnels.
-   (ID: MJ8L7IHV13N8_11)
+2. I live in New York City.
+   (ID: O2J7AJP3JLY3_11)
 
-3. I am interested in Pleistocene glaciation.
-   (ID: LQEMVPLBWMFW_11)
+3. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
 
-4. I have a painting in my home drawn in the year 1951.
-   (ID: TBZIWSGJCM17_11)
+4. I am Mississippi on business.
+   (ID: AGVUC45C9W9X_7)
 
-5. I have read the Indianapolis Star.
-   (ID: X0N9IFSJSH26_11)
+5. I live in Sonoma County.
+   (ID: EZGYRI0YA8OX_9)
 
-6. I would like to know more about the Phrygians.
-   (ID: LX3CSQUSJ9B3_9)
+6. I live in Queensland.
+   (ID: XXWV8BD5AL9Z_11)
 
-7. I am interested in Italian history.
-   (ID: DIQU5A0EAGWM_11)
+7. I live in Oregon.
+   (ID: X3WVWF5IVCYD_11)
 
-8. I wouldn't want to be caught in a fire.
-   (ID: CBOI96AOZRK6_11)
+8. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
 
-9. I am curious about Mars.
-   (ID: 942CCWXHPUZT_11)
+9. I live in Kansas City.
+   (ID: HO684VMC687Z_11)
 
-10. I am willing to see Kleinglockner pinacle.
-   (ID: YLLQOXHD6MZC_7)
+10. I live in New Jersey.
+   (ID: HK4CNKBL5R5V_11)
 
-11. I don't like Pollution.
-   (ID: AN8LSF1PEYK2_11)
+11. I live in a Village.
+   (ID: W1ARCAV1RHTZ_11)
 
-12. I have the fantasy of rivers.
-   (ID: FZ7IE8MUIWRS_9)
+12. I am from a small town.
+   (ID: KCX511DQ2QVM_9)
 
-13. I have curiosity to know about the Phrygian kings.
-   (ID: LX3CSQUSJ9B3_9)
+13. I live in urban part of the city.
+   (ID: QK9TQHXYFFJ9_11)
 
-14. I don't like forest.
-   (ID: T815O8KC30IG_9)
+14. I live in Kentucky.
+   (ID: T9680U7NZ97F_11)
 
-15. I'm interested in the history of railways.
-   (ID: LJYX36WCRYDM_9)
+15. I live in Pennsylvania.
+   (ID: GYX0OU7PEQ7Q_11)
 
-16. I don't like casinos.
-   (ID: 9KDV6LSLWNAX_11)
+16. I live in the North of England.
+   (ID: UHZ1K434LZ46_11)
 
-17. I have heard about American Civil War.
-   (ID: G6QWKZ4CTWVW_11)
+17. I am living in New Hampshire.
+   (ID: 9QE8MQM0B8P7_11)
 
-18. I have climbed a mountain.
-   (ID: QTNNKQN2EVU5_11)
+18. I live in a city.
+   (ID: NKLIZUTIPPP1_11)
 
-19. I am afraid of bears.
-   (ID: 82ZP2M9AL6U0_11)
+19. I live in NYC.
+   (ID: E3UZAGT5DTE5_11)
 
-20. I am not a fan of going to the movies.
-   (ID: X0N9IFSJSH26_11)
-
-
---- MPChat ---
-Total from this dataset: 362
-
-1. hopefully i get some seeds from this one so i can grow fresh next season.
-   (ID: Perthboi92)
-
-2. i have to let it rest one more day.
-   (ID: SilentRansom)
-
-3. made a sweat band for this terrible heat, so the sweat doesn't get on my wip.
-   (ID: ablubberducky)
-
-4. there are little blips where i decreased.
-   (ID: FoxInKneeSocks)
-
-5. i'll post a video soon.
-   (ID: madeasnack)
-
-6. my first pair of sneakers in years; japanese reebok classic nylon
-   (ID: ext23)
-
-7. i was taking pictures of the other two piggles before gizmo wanted attention.
-   (ID: kentobean123)
-
-8. sorry for the many updates, but my blanket is longer than my legs now!
-   (ID: thegentlestbutterfly)
-
-9. a little witch to complete my halloween projects.
-   (ID: Nikyma)
-
-10. i saved that pile of mess.
-   (ID: Crilbyte)
-
-11. i was so excited from how this pour was going that i shook and ruined the last heart
-   (ID: jlb4est)
-
-12. i am so proud!
-   (ID: XandXor)
-
-13. no idea why i even tried but here's a shloppy winged 4-1
-   (ID: Deeshizznit)
-
-14. my poor precious perry the platycorgi thought he was being replaced when i brought home a rounder corgi
-   (ID: kentobean123)
-
-15. i just made this and wanted to share it what do y'all think?
-   (ID: letsallcrochetYT)
-
-16. here's my shot of arashiyama, since we're all sharing.
-   (ID: Crilbyte)
-
-17. how am i doing?
-   (ID: youngdad33)
-
-18. i really liked this one from today.
-   (ID: jlb4est)
-
-19. been mowing over a good description for this, but i couldn't think of anything..
-   (ID: Louiesloops)
-
-20. if i made it a square now, it'd be almost 1m^2.
-   (ID: thegentlestbutterfly)
+20. I live in San Diego.
+   (ID: SJS6GHEH7ZIW_11)
 
 
 --- MSC ---
-Total from this dataset: 64
+Total from this dataset: 32
 
-1. I just started playing Valheim. My friend from the army introduced me to the game Valheim.
-   (ID: dialog_35_speaker_1)
-
-2. I love phones made by apple they are worth the money.
-   (ID: dialog_8_speaker_1)
-
-3. I own an old console. I like old games. I used to play Zelda all the time. I haven't played Edge of Twilight.
-   (ID: dialog_31_speaker_1)
-
-4. I bought a house.
-   (ID: dialog_30_speaker_2)
-
-5. I have a neighbour who has a 386 custom tower.
-   (ID: dialog_31_speaker_1)
-
-6. I have expensive glasses with progressive lenses.
-   (ID: dialog_31_speaker_1)
-
-7. My name is Sally. I live in Taos, New Mexico. I have pet dogs.
-   (ID: dialog_10_speaker_1)
-
-8. I believe mermaids are real.
-   (ID: dialog_14_speaker_1)
-
-9. I do not like skiing.
-   (ID: dialog_31_speaker_1)
-
-10. I like the book version of a story better than the movie.
-   (ID: dialog_5_speaker_1)
-
-11. I have called 911.
+1. I live in Alaska.
    (ID: dialog_34_speaker_2)
 
-12. I've a disability.
-   (ID: dialog_34_speaker_2)
+2. I live in a bad neighborhood.
+   (ID: dialog_13_speaker_2)
 
-13. I am in a wheel chair.
-   (ID: dialog_32_speaker_2)
-
-14. I am very withdrawn.
-   (ID: dialog_2_speaker_1)
-
-15. I got boots from a Boot Barn.
-   (ID: dialog_27_speaker_1)
-
-16. My favorite song is two steps from hell.
-   (ID: dialog_25_speaker_2)
-
-17. I remember movie plots.
+3. I live in the country.
    (ID: dialog_15_speaker_2)
 
-18. One of my offspring is a quarterback.
-   (ID: dialog_5_speaker_1)
+4. I live in New York City.
+   (ID: dialog_89_speaker_1)
 
-19. I was on the silver screen.
-   (ID: dialog_33_speaker_1)
+5. I reside in the maple syrup state.
+   (ID: dialog_83_speaker_2)
 
-20. I used to read Black Stallion. I want to read Twilight.
-   (ID: dialog_31_speaker_2)
+6. I live in a rural area in Alabama, outside Birmingham.
+   (ID: dialog_85_speaker_1)
+
+7. I live in the state by colorado.
+   (ID: dialog_10_speaker_1)
+
+8. I live in Seattle.
+   (ID: dialog_38_speaker_1)
+
+9. I work in Michigan as a state trooper.
+   (ID: dialog_80_speaker_2)
+
+10. I reside on the outskirts of a city know as beantown.
+   (ID: dialog_41_speaker_1)
+
+11. I am in New Orleans.
+   (ID: dialog_58_speaker_1)
+
+12. I live in a rural area.
+   (ID: dialog_95_speaker_1)
+
+13. I am from a very small town.
+   (ID: dialog_2_speaker_1)
+
+14. My house in in the bronx.
+   (ID: dialog_89_speaker_1)
+
+15. I live on a private island.
+   (ID: dialog_69_speaker_2)
+
+16. I live in Alabama, outside Birmingham.
+   (ID: dialog_85_speaker_1)
+
+17. I am from a very small town. I do not live somewhere exotic.
+   (ID: dialog_2_speaker_1)
+
+18. I live by the ocean.
+   (ID: dialog_69_speaker_2)
+
+19. I live in Virginia with my dad who is a cop.
+   (ID: dialog_34_speaker_1)
+
+20. I live in Alaska
+   (ID: dialog_34_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 5288
+Total from this dataset: 27
 
-1. i believe so .
-   (ID: AgedTwenties)
+1. i live in denver .
+   (ID: Bathysphere710)
 
-2. i do n't know , it 's so hard to have an opinion on this .
-   (ID: NietzschesUbermensch)
+2. i ’m not in california .
+   (ID: Captain_-H)
 
-3. i pair it with the maybelline fit me concealer for a natural makeup day .
-   (ID: jukkujak)
+3. i live in ohio !
+   (ID: GetItTogether)
 
-4. i have 4 labeled max6650 which all show readings .
-   (ID: Lsmoothies)
+4. i live in denver ..
+   (ID: smileisafrown)
 
-5. i 've watched , but i 'm still wondering this .
-   (ID: adertal)
+5. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
 
-6. i like to keep things simple for now .
-   (ID: kailan123456)
+6. i live by dearborn , mi in the u.s .
+   (ID: giraffecakes)
 
-7. i actually got the idea from amelie .
-   (ID: napalmkitten)
-
-8. i think i bought in at the very top .
-   (ID: KikAtWorkFL)
-
-9. i ’d have to go with hexada .
-   (ID: Heydawgg)
-
-10. i mean more than one for a gun .
-   (ID: Ian_Str8)
-
-11. i 'm in a similar boat brah .
-   (ID: NietzschesUbermensch)
-
-12. i certainly did .
-   (ID: Weed_n_Wisdom)
-
-13. i 'll have to look it up !
-   (ID: CarlofTime)
-
-14. i have mentioned how helpful gunnar gaming glasses have been in helping me prevent migraines caused from computer use .
-   (ID: MILeft)
-
-15. i ai n’t even mad to be honest
-   (ID: ChallengeTaken99)
-
-16. i might just see that happen first hand .
-   (ID: SamuelStephenBono)
-
-17. i 'm just talking about the context of the tristan thompson contract .
-   (ID: worried_panda)
-
-18. i never said that ..
+7. i live in canada very near the canadian rockies ..
    (ID: exotics)
 
-19. i send u my love n hope this feeling lasts forever
-   (ID: mooonjellies)
+8. i live in chicago too .
+   (ID: adertal)
 
-20. i live right off of 8 mile and have never been in a situation like this .
-   (ID: hussy_trash)
+9. i live in the pacific northwest :(
+   (ID: lambsquatch)
+
+10. i live in the north seattle area .
+   (ID: Machinax)
+
+11. i know where you live .
+   (ID: MILeft)
+
+12. i live in bc , canada .
+   (ID: FruitBatFanatic)
+
+13. i live in sa right now .
+   (ID: SamuelStephenBono)
+
+14. i live in sw fl .
+   (ID: 11_29_77)
+
+15. i live nearby .
+   (ID: metalbark)
+
+16. i live in greenwood .
+   (ID: boo3114)
+
+17. i live in colorado .
+   (ID: Piraticalstyle)
+
+18. i live in mn .
+   (ID: dkinmn)
+
+19. i live in the foothills of the sierra nevada mountains in central california .
+   (ID: John7oliver)
+
+20. i live about 60 miles away .
+   (ID: SeasonedLemur)
 
 
 --- PER-CHAT ---
-Total from this dataset: 2478
+Total from this dataset: 759
 
-1. yeah , i can  t stop them from having their opinions , but if they forcefully shove their interests into my face then that will be a problem , i  m not into that kind of stuff
-   (ID: 93c3b3d523de0afd404d3bcb4acdf023866f9281)
+1. I live in denver.
+   (ID: ab5c47b9d71750a64b0af468fe9d99ecea9868a9)
 
-2. it gets worse . they are created by a major candy organization and marketed towards kids . it ' s truly awful to see a corporation market z3d pills to children . truly sickening .
-   (ID: dc1fd340b3e0a603d715d06c129c512b8197c37b)
+2. I live in paycheck.
+   (ID: 080eedcfaabe8f67b2c0a8da33a3a401906822f2)
 
-3. well . i ' m honestly more upset that instead of getting new movie trailers during movies biggest night of the year we get digit fucking walmart commercials . like seriously behind the scenes people can only effort walmart clothes ?
-   (ID: 5ea29f01c8cdade4f178fd446d00647edc5fc70e)
+3. I live in colorado.
+   (ID: 8a914d1b332f7e39fd1f0cbb2c4b483e19f43fd7)
 
-4. One of my favorite things is kev on randle.
-   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+4. I live in island.
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
 
-5. i ask what ' s wrong .
-   (ID: 0254abd776ead925b3c998e740c3ae71d2b4c6e0)
+5. I live in small town.
+   (ID: 1955f382f8fc2d10480017d73817b8c3b41c2a02)
 
-6. on my way to watch a football match . the attacks happened at about 3pm uk time if i remember rightly . it was the strangest atmosphere at any game i can remember watching , so subdued .
-   (ID: 4420123abde71e42df266171d2bcb8a90afeed93)
+6. I live in ty village.
+   (ID: e81e156f1716864a56cc694239300f979e8a5412)
 
-7. impreza sri type ra ? it  s a dope car . i  d regret such a beauty too . how much did it cost and for how much did you sell it ?
-   (ID: f491028c794855d1611365b07d4525f7b98173ae)
+7. I live in houston.
+   (ID: e762afbb043380ba48c73fe9d10d74d8daeb8b17)
 
-8. what make is that weedeater ?
-   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+8. I live in biloxi.
+   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
 
-9. i wouldn ' t fault you for that , feh is taking a lot from norse mythology and loki is a dude . unless you didn ' t know til now .
-   (ID: 89e5ffcdc3b9c2cbc19f7274b7643ce26a8e2bbd)
+9. I live in kansas city.
+   (ID: 1885b01dd0970230fea2a9c9ae9c4eaeaceb59a3)
 
-10. society is you and me and everyone who lives in this planet . so society is full of shit because humans in general are full of shit . from the wealthiest man to the poorest bastard you can find . everyone is full of shit even you and me . so don ' t be mad bro .
-   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
+10. I live in diana.
+   (ID: 74b41b40662f8290cb9efa13620a4b8ecd792ba9)
 
-11. i noticed germans are crazy toxic too . why , i don ' t know . and why they keep talking , how can you flame someone without using your mic ?
-   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
+11. I live in montreal.
+   (ID: e74c4268e9e1c5f9cadf933981b55c5a5aa0d1f2)
 
-12. always wondered what law graduates think of working in claims firms ? the only people i know who are solicitors are older and came up before they started being a thing . are they desirable or are they the equivalent of call centre work ?
-   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+12. I live in san francisco.
+   (ID: addb5c6e93320b8955b216917ee93bd0b85f0646)
 
-13. and then cry rape the next day . you said that . not me . women do go to bars , drink , meet men and have sex . i doubt their intention is to accuse someone of rape after such an event , but it does happen . if you say it doesn ' t then you ' re not being honest .  edit  you also said  i have never heard of a woman needing to get drunk to have sex with someone . again , i dont think this is an honest statement either . i would almost be willing to bet you that more than half first time sex between couples involve some alcohol . its going to be hard for me to find anything statistically on that because every time i try to google it all that comes up are alcohol related rapes .
-   (ID: 35eb47890f8874bbb988ec8308ba762f8377b3b8)
+13. I live in rural canada.
+   (ID: 7911b1d92de80b0e1abd4e2a29e4f762a8a2908f)
 
-14. ok , please inform me about this joke . i have seen it and haven ' t get it , if it ' s a video or something i will watch it rn because i ' m at a loss . fell free to whoosh me or something .
-   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+14. I live in bushland.
+   (ID: ef7434997159219f750735c89670b9fc3bdad5c3)
 
-15. this guy  i ' m relatively sure that he could negotiate with them for some sort of deal .
-   (ID: e917c5f43624fa287dde4f957a529b37a96df1d3)
+15. I live in cali.
+   (ID: 89169d635166bbc089338914b42d288ecb2593e9)
 
-16. this is the reason why i sort by new !
-   (ID: 4167b7bc7d40ac86ca6b492ac0bbaefa992711f6)
+16. I live in secd floor.
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
 
-17. your ' soap ' appears to have an eye .
-   (ID: fe374743dd856c29f2117723cef01c1fdc3b3b5b)
+17. I live in rural area.
+   (ID: 89fd53ef642d85d9a24d63f88469480646354104)
 
-18. yeah the whole politically correct culture is pissing me off . and i think it ' s really a small group of people claiming to be offended . seems like outrage is like a currency these days .
-   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
+18. I live in oregon.
+   (ID: 230ce64c825c9de0874b588b6d715819e39e5610)
 
-19. can i let you in on a little secret ? and it ' s going to make a lot of people who make their living killing them angry , but you could kill a werewolf with a little lead . 22lr bullet or even a particularly sharp stick if you knew what you where about . see here is the thing yeah silver will give them a nasty bout of the anaphylactic shock and otherwise they heal pretty quick , and going back human fixes most of what ever other problems are left , but they are still flesh and blood . now don ' t get me wrong they have the durability of a pcp addict on meth , but still flesh and blood . if you let enough blood out or put a whole in something they can ' t live long enough to heal they will die . so if you can put a bullet through the base of the brain , the aorta , or believe it or not even the old top of the double boiler they will go down and stay down . however , here is the problem . most people struggle to make that shot on bambi , when they are in no danger , the deer is completely unaware , and the shot is short and static . this is why you got jackalopes out there thinking you need a digit win mag or an anti material rifle to tip over a little ol ' deer . now imagine instead of bambie you are trying to make a precision shot while also being charged by an digit foot tall slavering monster . that does not make your shooting better , but as any one who ' s ever spent any time around a hunting camp knows a hunter never misses a shot was always their lousy gear . thus the myth you " need " silver bullets . that being said please use silver bullets . its safer for you cleaner for them . every one comes out better .
-   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+19. I live in ma.
+   (ID: ba0e9130abfdb05aa7eedd989650338802035edd)
 
-20. oh great , now we ' ll have to go through scanners and get groped if we want to go through a tunnel or cross a bridge .
-   (ID: e8daa61bfd9bf81549666ebd0bdf393156b492de)
+20. I live in tennessee.
+   (ID: 43582d67310e995ea85c152bb256b0596144bf82)
 
 
 --- PersonaChat ---
-Total from this dataset: 37
+Total from this dataset: 14
 
-1. i am a night owl , but i am an introvert so i don't go out much or anything .
-   (ID: conversation_43)
+1. i live in nashville .
+   (ID: conversation_117)
 
-2. i'm stuck in a wheel chair .
-   (ID: conversation_32)
+2. i come from a small town .
+   (ID: conversation_2)
 
-3. i'm strong .
-   (ID: conversation_96)
+3. we live in a rural area .
+   (ID: conversation_233)
 
-4. i can be quite forgetful .
-   (ID: conversation_37)
+4. i live in colorado .
+   (ID: conversation_276)
 
-5. i just got my rejection letter from the gifted program .
-   (ID: conversation_53)
+5. i live on an island .
+   (ID: conversation_27)
 
-6. my suspenders sometimes make my shoulders hurt .
-   (ID: conversation_31)
+6. i live in vermont .
+   (ID: conversation_83)
 
-7. i believe that mermaids are real .
-   (ID: conversation_1)
+7. i live in chicago .
+   (ID: conversation_211)
 
-8. i don t like the beach .
-   (ID: conversation_94)
+8. i live in a small city .
+   (ID: conversation_239)
 
-9. i've never done drugs because i do not know where to buy them .
-   (ID: conversation_26)
+9. i live in nashville .
+   (ID: conversation_215)
 
-10. i have a friend named james who secretly rules the world .
-   (ID: conversation_26)
+10. i live in colorado .
+   (ID: conversation_52)
 
-11. i have ink stains on all my shirts .
-   (ID: conversation_31)
+11. i live in a suburb of boston .
+   (ID: conversation_164)
 
-12. i just moved into an apartment within the vicinity of my new job .
-   (ID: conversation_91)
+12. i live in the city .
+   (ID: conversation_81)
 
-13. and , my best friend is calden .
-   (ID: conversation_53)
+13. i live in new york .
+   (ID: conversation_170)
 
-14. i am afraid of the dark .
-   (ID: conversation_61)
-
-15. i am not afraid of what others think .
-   (ID: conversation_37)
-
-16. i couldn t live without my cell phone .
-   (ID: conversation_49)
-
-17. i sleep 10 hours every day because my work is tiring .
-   (ID: conversation_44)
-
-18. my parents recently moved to florida .
-   (ID: conversation_46)
-
-19. i m scared of clowns .
-   (ID: conversation_17)
-
-20. sometimes i listen to gary human to be ironic .
-   (ID: conversation_69)
+14. i live in rural wisconsin .
+   (ID: conversation_15)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 65
+Total from this dataset: 34
 
-1. I live to not disappoint my loved ones.
-   (ID: conversation_11_user_1)
+1. I live in portland , maine.
+   (ID: conversation_295_user_1)
 
-2. My husband and i have a suicide pact.
-   (ID: conversation_49_user_2)
+2. I live close to the coast.
+   (ID: conversation_41_user_1)
 
-3. I am dumpy.
-   (ID: conversation_56_user_2)
+3. I live in colorado.
+   (ID: conversation_145_user_2)
 
-4. My left knee is filled with metal.
-   (ID: conversation_24_user_2)
+4. I live in new york city.
+   (ID: conversation_243_user_1)
 
-5. I am unsociable.
-   (ID: conversation_9_user_1)
+5. I live in portland , maine.
+   (ID: conversation_297_user_1)
 
-6. I owe 2 monitors for work.
-   (ID: conversation_69_user_1)
+6. I live in chicago.
+   (ID: conversation_131_user_2)
 
-7. I almost always wear a t shirt and jeans.
-   (ID: conversation_42_user_2)
+7. I live in the suburbs of a major city.
+   (ID: conversation_26_user_2)
 
-8. I live to not disappoint my loved ones.
-   (ID: conversation_8_user_1)
+8. I live in california.
+   (ID: conversation_103_user_2)
 
-9. I owe 2 monitors for work.
-   (ID: conversation_68_user_1)
+9. I live in chicago.
+   (ID: conversation_108_user_2)
 
-10. I owe 2 monitors for work.
-   (ID: conversation_66_user_1)
+10. We live in a rural area.
+   (ID: conversation_57_user_2)
 
-11. I recently started working online.
-   (ID: conversation_64_user_1)
+11. I live in vermont.
+   (ID: conversation_20_user_2)
 
-12. I ve an iphone.
-   (ID: conversation_14_user_2)
+12. I live in cape hatteras.
+   (ID: conversation_157_user_1)
 
-13. Like a skeleton.
-   (ID: conversation_19_user_1)
+13. I live in a big city.
+   (ID: conversation_294_user_2)
 
-14. I don t like my reputation.
-   (ID: conversation_3_user_2)
+14. I live in rural wisconsin.
+   (ID: conversation_296_user_2)
 
-15. I recently started working online.
-   (ID: conversation_62_user_1)
+15. I live by a lake.
+   (ID: conversation_84_user_1)
 
-16. I am unsociable.
-   (ID: conversation_8_user_1)
+16. I live near the ocean.
+   (ID: conversation_280_user_2)
 
-17. God has always been put first in my life.
-   (ID: conversation_76_user_2)
+17. I live in new york city.
+   (ID: conversation_249_user_1)
 
-18. I am partially blind.
-   (ID: conversation_2_user_2)
+18. I live near the ocean.
+   (ID: conversation_288_user_2)
 
-19. I am blind.
-   (ID: conversation_25_user_1)
+19. I live in portland , maine.
+   (ID: conversation_291_user_1)
 
-20. I am blind.
-   (ID: conversation_28_user_1)
+20. I live close to the coast.
+   (ID: conversation_39_user_1)
 
 
 ============================================================

@@ -1,0 +1,84 @@
+CLUSTER 79
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.984
+
+Dataset distribution in this cluster:
+  MPChat: 2 (11.8%)
+  MSC: 3 (17.6%)
+  PersonaChat: 6 (35.3%)
+  SyntheticPersonaChat: 6 (35.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. we made one of my favorite street foods in bolivia.
+   (ID: onemantwohands)
+
+2. not my favorite pour, but she's a cutie.
+   (ID: SilentRansom)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. My favorite subject is psychology.
+   (ID: dialog_23_speaker_1)
+
+2. My favorite novel is about a who realizes he's a commander.
+   (ID: dialog_11_speaker_1)
+
+3. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+2. my favorite player is mike trout .
+   (ID: conversation_103)
+
+3. my favorite hobby is chess .
+   (ID: conversation_149)
+
+4. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+5. my favorite flower is a rose .
+   (ID: conversation_129)
+
+6. summer is my favorite season .
+   (ID: conversation_24)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+2. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+3. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+4. My favorite artist is bob ross.
+   (ID: conversation_187_user_1)
+
+5. My favorite is rock fish.
+   (ID: conversation_157_user_1)
+
+6. My favorite store is american eagle.
+   (ID: conversation_4_user_2)
+
+
+============================================================

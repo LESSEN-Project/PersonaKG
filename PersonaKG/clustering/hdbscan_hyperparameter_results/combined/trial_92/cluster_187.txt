@@ -1,0 +1,468 @@
+CLUSTER 187
+============================================================
+Total statements in cluster: 517
+Cluster persistence (stability): 0.967
+
+Dataset distribution in this cluster:
+  FoCus: 20 (3.9%)
+  MPChat: 82 (15.9%)
+  MSC: 23 (4.4%)
+  PEC: 230 (44.5%)
+  PER-CHAT: 88 (17.0%)
+  PersonaChat: 42 (8.1%)
+  SyntheticPersonaChat: 32 (6.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 20
+
+1. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+2. I have visited Dreamland Margate amusement park.
+   (ID: PFYAAS1XG3D8_11)
+
+3. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+4. I have the fantasy of rivers.
+   (ID: FZ7IE8MUIWRS_9)
+
+5. I have been to California.
+   (ID: UC6WD3SK3PG8_11)
+
+6. I am a fan of Kevin Costner.
+   (ID: PK2U426B57KL_9)
+
+7. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+8. I am curious about United States territories.
+   (ID: Y037WWL4AZRY_11)
+
+9. I have never been to a mosque.
+   (ID: OKU8UQBPUSMV_11)
+
+10. I am Roman Catholic.
+   (ID: Z8RPC24EURS4_7)
+
+11. I have visited the Canadian National Exhibition Stadium.
+   (ID: NMEFJE64KZ1F_11)
+
+12. I am a baseball fan.
+   (ID: PK2U426B57KL_9)
+
+13. I have membership in a sports club.
+   (ID: VZ1O6OE23O98_11)
+
+14. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+15. I am a fan of the Canadian Football League.
+   (ID: NMEFJE64KZ1F_11)
+
+16. I have never been in a canoe.
+   (ID: K73F47W36X0D_11)
+
+17. I have stayed in resorts.
+   (ID: FZ7IE8MUIWRS_9)
+
+18. I am a fan of the Roman empire.
+   (ID: OKU8UQBPUSMV_11)
+
+19. I have been to Manchester before.
+   (ID: WKAD0PJA14Q4_11)
+
+20. I am curious about Mars.
+   (ID: 942CCWXHPUZT_11)
+
+
+--- MPChat ---
+Total from this dataset: 82
+
+1. [fo]i have embroidered a small cross-stitch picture.
+   (ID: gelimausi)
+
+2. i made a cute black tip reef shark!
+   (ID: KnitPurlPrint)
+
+3. some doodles of my cat who is both very adorable sometimes and very not adorable sometimes
+   (ID: pocket_kira)
+
+4. i lost yarn chicken.
+   (ID: Crilbyte)
+
+5. crocheted david bowie i made
+   (ID: Louiesloops)
+
+6. crocheted chandelure and shiny chandelure i made
+   (ID: KnitPurlPrint)
+
+7. [i ate] a creme brulee donut, a tiramisu donut, and a pumpkin cheesecake donut.
+   (ID: VodkaWithSnowflakes)
+
+8. my neighbors car is a jerk and my cat pretends not to suffer any fools
+   (ID: pocket_kira)
+
+9. i made a tiny millennium falcon!
+   (ID: Louiesloops)
+
+10. my dog poppy after finishing the bath she hated
+   (ID: HMoney214)
+
+11. the most ridiculous drawing of my cat i have ever done
+   (ID: pocket_kira)
+
+12. i made a fancy alpaca
+   (ID: FoxInKneeSocks)
+
+13. finished my pumpkin girl.
+   (ID: Nikyma)
+
+14. i made pride flag mug rugs
+   (ID: FoxInKneeSocks)
+
+15. my other finished objects for this week are two green sheep.
+   (ID: Moriarty58)
+
+16. [wip] what have i gotten myself into :d
+   (ID: ablubberducky)
+
+17. i am a crochet creature designer, and these cuttle clams are my latest creations!
+   (ID: VisitingCivet)
+
+18. i crocheted a door bow for christmas.
+   (ID: gelimausi)
+
+19. i saved that pile of mess.
+   (ID: Crilbyte)
+
+20. this christmas ball i made in hardanger embroidery.
+   (ID: gelimausi)
+
+
+--- MSC ---
+Total from this dataset: 23
+
+1. I race large felines who are in captivity to remain healthy.
+   (ID: dialog_0_speaker_1)
+
+2. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+3. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+4. I'm an american.
+   (ID: dialog_23_speaker_2)
+
+5. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+6. I am done with my education.
+   (ID: dialog_12_speaker_1)
+
+7. I have never been out of the US either.
+   (ID: dialog_8_speaker_2)
+
+8. I can jam.
+   (ID: dialog_0_speaker_1)
+
+9. I have a ps4.
+   (ID: dialog_35_speaker_1)
+
+10. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+11. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+12. I am a southern.
+   (ID: dialog_26_speaker_2)
+
+13. I'm above the standard height of a us male.
+   (ID: dialog_21_speaker_1)
+
+14. I drive a rig.
+   (ID: dialog_34_speaker_1)
+
+15. I'm huge and colorful.
+   (ID: dialog_24_speaker_1)
+
+16. I am a gemini.
+   (ID: dialog_24_speaker_2)
+
+17. I am a proud us sailor.
+   (ID: dialog_24_speaker_1)
+
+18. My name is Katie and I am transgender.
+   (ID: dialog_23_speaker_2)
+
+19. I'm a skilled craftsman.
+   (ID: dialog_27_speaker_2)
+
+20. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 230
+
+1. i get the heartbreak now .
+   (ID: scoutsadie)
+
+2. i literally crapped my pants .
+   (ID: combover)
+
+3. i have one of these too , never deployed .
+   (ID: LooksAtClouds)
+
+4. i 'm drooling : d
+   (ID: bleepblorp9878)
+
+5. i can do this now with fios .
+   (ID: StinkinFinger)
+
+6. i am a comedy master
+   (ID: ChallengeTaken99)
+
+7. i 'm a robot .
+   (ID: amirman)
+
+8. i 'm all but convinced
+   (ID: xcombelle)
+
+9. i misspelled something .
+   (ID: StinkinFinger)
+
+10. i 'm not very savvy yet with tasker .
+   (ID: SamuelStephenBono)
+
+11. i shoot from tha hip
+   (ID: BoonTobias)
+
+12. i 'm very proud of you .
+   (ID: Evref)
+
+13. i can confirm that etab confirms this .
+   (ID: bmeckel)
+
+14. i get that .
+   (ID: ItGetsAwkward)
+
+15. i luwv you chwistufuh
+   (ID: NietzschesUbermensch)
+
+16. i am calm .
+   (ID: boyofthechapter)
+
+17. i ’m out .
+   (ID: StinkinFinger)
+
+18. i am a christian and i approve of this hilarity .
+   (ID: cookiexcmonster)
+
+19. i 'm karma whoring )
+   (ID: amirman)
+
+20. i can confirm this .
+   (ID: thebastion)
+
+
+--- PER-CHAT ---
+Total from this dataset: 88
+
+1. I own a rx.
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+2. liopleurodon a magical liopleurodon
+   (ID: 3b45915d58b20f0e2abb6b26d4534980a5d3aa68)
+
+3. I own a ball.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+4. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+5. this one ? or this one ?
+   (ID: b61e1d4de0e5d22ad937104e46a2657b01e7cca9)
+
+6. I own a lasagne.
+   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+
+7. I own a enemy.
+   (ID: fae28587bce17296589bf92d656ad68ee32601d6)
+
+8. I am cuck.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+9. I am owner.
+   (ID: ac53f9ce173965984299f3686335a39bc2a5810f)
+
+10. I own a grief.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+11. I own a d3400.
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+12. I am top sniper.
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+13. I am normie.
+   (ID: b7af56426174b182a97c67df12c64d320bf51d61)
+
+14. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+15. I own a aim.
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+16. I am speed.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+17. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+18. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+19. I am president.
+   (ID: f67daf28a38187108da9b380f2e2f9336016c584)
+
+20. you have one now
+   (ID: 8a0d7d262d95d9c10d914ff3b70f342e066aee23)
+
+
+--- PersonaChat ---
+Total from this dataset: 42
+
+1. i own a pug , and he is the most loyal pet you will ever have .
+   (ID: conversation_43)
+
+2. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+3. my husband is a cop .
+   (ID: conversation_78)
+
+4. my boyfriend works for nasa .
+   (ID: conversation_37)
+
+5. i'm a goalie .
+   (ID: conversation_62)
+
+6. i have a boxer dog .
+   (ID: conversation_6)
+
+7. i can speak arabic , english , and french .
+   (ID: conversation_63)
+
+8. i am chubby .
+   (ID: conversation_74)
+
+9. i do not drive .
+   (ID: conversation_56)
+
+10. i teach kindergarten .
+   (ID: conversation_70)
+
+11. i'm strong .
+   (ID: conversation_96)
+
+12. i have my own salon .
+   (ID: conversation_14)
+
+13. i can only see 200 feet in front of me .
+   (ID: conversation_34)
+
+14. i am witty .
+   (ID: conversation_65)
+
+15. my father was born in australia .
+   (ID: conversation_9)
+
+16. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+17. my car is pink .
+   (ID: conversation_58)
+
+18. i'm a waitress at a popular houston club .
+   (ID: conversation_77)
+
+19. i am argentinian .
+   (ID: conversation_59)
+
+20. i am a guitar player .
+   (ID: conversation_4)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 32
+
+1. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+2. I am a jack of all , master of none.
+   (ID: conversation_7_user_1)
+
+3. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+4. My husband and i have a suicide pact.
+   (ID: conversation_49_user_2)
+
+5. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+6. I am a pharmacist.
+   (ID: conversation_30_user_2)
+
+7. I recently moved to sweden.
+   (ID: conversation_18_user_2)
+
+8. My name is arnold.
+   (ID: conversation_5_user_2)
+
+9. I was born in baton rouge.
+   (ID: conversation_69_user_2)
+
+10. I am a poet.
+   (ID: conversation_82_user_1)
+
+11. My dogs name is toto.
+   (ID: conversation_44_user_2)
+
+12. I have a beta fish.
+   (ID: conversation_82_user_1)
+
+13. I prefer headsets over earbuds.
+   (ID: conversation_14_user_2)
+
+14. I speak fluent italian.
+   (ID: conversation_59_user_2)
+
+15. My name is nancy.
+   (ID: conversation_58_user_2)
+
+16. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+17. I have a farm with pigs , horses and hens.
+   (ID: conversation_17_user_2)
+
+18. I recently bought a camper.
+   (ID: conversation_27_user_2)
+
+19. I can do convincing bird calls.
+   (ID: conversation_2_user_2)
+
+20. I am bald.
+   (ID: conversation_4_user_1)
+
+
+============================================================

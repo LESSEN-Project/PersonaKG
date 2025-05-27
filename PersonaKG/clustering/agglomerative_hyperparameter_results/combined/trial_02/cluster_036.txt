@@ -1,77 +1,437 @@
 CLUSTER 36
 ============================================================
-Total statements in cluster: 83
+Total statements in cluster: 566
 
 Dataset distribution in this cluster:
-  PER-CHAT: 83 (100.0%)
+  FoCus: 36 (6.4%)
+  MPChat: 10 (1.8%)
+  MSC: 108 (19.1%)
+  PEC: 189 (33.4%)
+  PER-CHAT: 140 (24.7%)
+  PersonaChat: 27 (4.8%)
+  SyntheticPersonaChat: 56 (9.9%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 36
+
+1. I lived in Indiana.
+   (ID: X0N9IFSJSH26_11)
+
+2. I'm from California.
+   (ID: EZGYRI0YA8OX_9)
+
+3. I am born in Pennsylvania.
+   (ID: 97WAFKFECFDE_9)
+
+4. I am from Montreal.
+   (ID: D0BKN1W8KWG6_7)
+
+5. I am from Colorado.
+   (ID: T815O8KC30IG_9)
+
+6. I wouldn't like to leave my town and settle somewhere else.
+   (ID: NK6WLDJ7W255_7)
+
+7. I do not wish to live in Pennsylvania.
+   (ID: M6QLMFHJ3CAF_11)
+
+8. I am interested in volunteer work.
+   (ID: 942CCWXHPUZT_11)
+
+9. I wish I could visit the City of Brisbane one day.
+   (ID: 8QHMKV7JII6J_11)
+
+10. I am living in a house which has a tennis court.
+   (ID: D4619DV1O1OP_11)
+
+11. I am staying in a municipality.
+   (ID: ATJSFYS2K6FK_11)
+
+12. I exercise in the park every weekend.
+   (ID: D4619DV1O1OP_11)
+
+13. I live in Oxford.
+   (ID: PCA6OG1NNC5D_9)
+
+14. I have farmland.
+   (ID: B4Z7LALR7H1Q_11)
+
+15. I have a farm house.
+   (ID: Q997WWV6FO9L_11)
+
+16. I have attended a few music concerts.
+   (ID: WKAD0PJA14Q4_11)
+
+17. I am a bird watcher.
+   (ID: X3WVWF5IVCYD_11)
+
+18. I care about the preservation of fauna and flora.
+   (ID: Y7WSG3Z184EX_9)
+
+19. I wish I had opportunity to live in New York one day.
+   (ID: YH6KAJ3V2KQ8_11)
+
+20. I hope to live in Greenlaw.
+   (ID: QCGNF3BW4P3K_11)
+
+
+--- MPChat ---
+Total from this dataset: 10
+
+1. my cozy place to relax at night
+   (ID: FormalSwimming)
+
+2. i finally live in a place where i can walk out my back door and hunt.
+   (ID: ChroniclyDope)
+
+3. help my skip laurels!
+   (ID: chirp16)
+
+4. my friend from wisconsin hooked me up!
+   (ID: crunch816)
+
+5. [oc] sweet "tweets" from my kitchen.
+   (ID: baccgirl)
+
+6. this is my neighbor, sammich.
+   (ID: Flattishsassy)
+
+7. the mountains are calling and i must go.
+   (ID: ChroniclyDope)
+
+8. the cozy loft i stayed in while in paris
+   (ID: chirp16)
+
+9. ozarks here i come!
+   (ID: pope237)
+
+10. i need to get back here
+   (ID: FormalSwimming)
+
+
+--- MSC ---
+Total from this dataset: 108
+
+1. I have grown some very large plants.
+   (ID: dialog_17_speaker_1)
+
+2. I am from Philadelphia.
+   (ID: dialog_12_speaker_1)
+
+3. I live surrounded by farmland.
+   (ID: dialog_27_speaker_1)
+
+4. I'm from the home land.
+   (ID: dialog_100_speaker_1)
+
+5. I'm from el paso, texas
+   (ID: dialog_66_speaker_1)
+
+6. I'm from El Paso, texas, far west Texas. I've never been to Amarillo. I'd like to visit Nashville.
+   (ID: dialog_66_speaker_1)
+
+7. My neighborhood can get loud late.
+   (ID: dialog_36_speaker_1)
+
+8. I work at eureka.
+   (ID: dialog_112_speaker_2)
+
+9. I am from a very small town. I do not live somewhere exotic. I like small town life in some ways.
+   (ID: dialog_2_speaker_1)
+
+10. I go everywhere on my mini motorcycle.
+   (ID: dialog_51_speaker_1)
+
+11. I was born in argentina.
+   (ID: dialog_59_speaker_2)
+
+12. I am from South California. I haven't seen snow in years.
+   (ID: dialog_14_speaker_1)
+
+13. I enjoying hiking in the mountains.
+   (ID: dialog_91_speaker_2)
+
+14. I'm from the midwest. I'm a college student. I'm a retired veteran.
+   (ID: dialog_89_speaker_2)
+
+15. I travel to canada on the weekends
+   (ID: dialog_15_speaker_1)
+
+16. I have a couple of dogs to pull my sled.
+   (ID: dialog_80_speaker_2)
+
+17. I live in Argentina. I live with horses on a horse ranch. I have horses named Max, Rodney and Finn.
+   (ID: dialog_59_speaker_2)
+
+18. I am also from the United States. My favorite color is pink.
+   (ID: dialog_23_speaker_1)
+
+19. I live in Florida. I have contacts in Alabama.
+   (ID: dialog_85_speaker_2)
+
+20. I live on a farm in Ohio. I have never left the countryside. We raise Angus cows on my farm for beef. I take orders for Angus.
+   (ID: dialog_42_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 189
+
+1. i am in alberta but see if there is a subreddit for ontario ?
+   (ID: exotics)
+
+2. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+3. i ca n't wait to live in vancouver .
+   (ID: mylescloutier)
+
+4. i have three pet lions and know every single person ~~on the continent~~ in the country .
+   (ID: DarkMoon99)
+
+5. i would never leave michigan .
+   (ID: tylock)
+
+6. i ’m guessing you live in the pnw .
+   (ID: Justadropinthesea)
+
+7. i 'm in lov
+   (ID: QueenPea13)
+
+8. i ’m in sunny weather .
+   (ID: PepperPixie09)
+
+9. i hope i 'll be able to move soon
+   (ID: blue_thingy)
+
+10. i thought this said * attitude * , and wondered if people in colorado were naturally more sassy .
+   (ID: Shrub74)
+
+11. i did n't realize that 8.5 million is a majority in ca ...
+   (ID: DanGarion)
+
+12. i do that in california .
+   (ID: ddshroom)
+
+13. i 'm looking for a percussionist or two to play with as opposed to having a kit .
+   (ID: closetotheedge48)
+
+14. i 'm too broke to move right now , or i definitely would .
+   (ID: chasemyers)
+
+15. i take it you 're from further south ?
+   (ID: foldor)
+
+16. i live in the north so yeah weather is the reason .
+   (ID: NyxPeregrinus)
+
+17. i go between ohio and virginia .
+   (ID: sillylionface)
+
+18. i need to find a market here in miami .
+   (ID: SerendipitousCat)
+
+19. i wish i was in the chicago area , i miss that city .
+   (ID: chasemyers)
+
+20. i really need to go .
+   (ID: jay456)
+
+
 --- PER-CHAT ---
-Total from this dataset: 83
+Total from this dataset: 140
 
-1. I'm interested in sex.
-   (ID: 213f629dfbc5d6e1a065cffce0f81b825e4467de)
+1. I live in dogs.
+   (ID: 4f1b65a581332b9d19507ccf0e921d0967e013e7)
 
-2. I'm interested in dating.
-   (ID: 95c90f0b7430996843a42a4f365667a13e4c2eb5)
+2. I live in life.
+   (ID: 2eaae893aae1f80f60648fa3fbcbe961d0639556)
 
-3. I'm interested in dating.
-   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+3. My places_grew_up is with idea.
+   (ID: 95acb2ca6e2c4b0e43ae1565f6eb3f529105e156)
 
-4. I'm interested in sex.
-   (ID: 82227bc3f73e4753802bc6bc025e3544c0c76857)
+4. I live in purpose.
+   (ID: 93e92e6a7d8e94b12bcd450fad136ec14436f359)
 
-5. I'm interested in dating.
-   (ID: f67daf28a38187108da9b380f2e2f9336016c584)
+5. florida here you ' ve heard the stories nuff said .
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
 
-6. I'm interested in dating.
-   (ID: f491028c794855d1611365b07d4525f7b98173ae)
+6. I own a garden.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
 
-7. I'm interested in dating.
-   (ID: 4167b7bc7d40ac86ca6b492ac0bbaefa992711f6)
-
-8. I'm interested in relationships.
-   (ID: e7189ea885d9f7e9cdbd71ff2f2035f07ebaf6db)
-
-9. I'm interested in lgbt.
-   (ID: 3510b342268f3bc4c3f1e402201d7c565dfb7648)
-
-10. I'm interested in dating.
-   (ID: e9d9b9400a09031a7e1021173867d784ebb9cf94)
-
-11. I'm interested in relationships.
-   (ID: 02e4b90101e07338b4251209256c01652a022c5d)
-
-12. I'm interested in relationships.
-   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
-
-13. I'm interested in lgbt.
+7. I live in snowy wasteland.
    (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
 
-14. I'm interested in sex.
-   (ID: b74c6f378f67934bed1f9dd4c591152d002827ec)
+8. I live in fear.
+   (ID: c6e9d7bec5bbee67d384191c91101e443de5ac3c)
 
-15. I'm interested in lgbt.
-   (ID: dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e)
+9. I live in for tim/steve banter.
+   (ID: 101eeb53846c81b36d32c33e2b4260cb3e4ac576)
 
-16. I'm interested in dating.
-   (ID: 0254abd776ead925b3c998e740c3ae71d2b4c6e0)
+10. I live in place.
+   (ID: d239102bc184479462fc1422e316856d8bca37ba)
 
-17. I'm interested in relationships.
-   (ID: 4167b7bc7d40ac86ca6b492ac0bbaefa992711f6)
+11. I live in between 5pm.
+   (ID: 97f042c151ad751b2811d75ae69fd7feae42ed77)
 
-18. I'm interested in sex.
-   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+12. I live in chicken coop.
+   (ID: 2ace824638caac4e780f8ff3214dd1e7d868640e)
 
-19. I'm interested in dating.
-   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+13. well said , i think this is very accurate and i ' m from connecticut so i know what i ' m talking about .
+   (ID: 74cc8b596c27cbe385709690baaf3b68f39b3915)
 
-20. I'm interested in dating.
-   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+14. I live in on chicken farm.
+   (ID: 801c30bb9f7fe270789d76054d77c547f65e41eb)
+
+15. hills , stay off the grass , the conservatives .
+   (ID: dbef825d92ac68d9f1c82f424ece80adbf736aeb)
+
+16. I live in tea.
+   (ID: 8e9d9ac876fd2e0508d95d3e43def46faae3c312)
+
+17. louisiana . i don ' t get why cities don ' t understand this makes the whole place look bad . would i want to visit and spend my money in a town that lets their police act this way ? that ' s a hard no .
+   (ID: 96b1ed1f8b952d8d999a49615ef255ff337e17ab)
+
+18. whereabouts do you live ? do you have any dental schools in your area ?
+   (ID: d3491a90d756046acac8c3053e9e99c3e6c231f9)
+
+19. I live in ages.
+   (ID: 22f14b68675078048f36403bb14291f2d10864a3)
+
+20. I live in world.
+   (ID: 720bf2762acb0f756492e6e40ae840126dae87ce)
+
+
+--- PersonaChat ---
+Total from this dataset: 27
+
+1. i larp on the weekends in the forest .
+   (ID: conversation_84)
+
+2. i was born in baton rouge .
+   (ID: conversation_138)
+
+3. i just moved from va to pa .
+   (ID: conversation_167)
+
+4. i am currently trying to open my own grocery store .
+   (ID: conversation_109)
+
+5. i am from georgia .
+   (ID: conversation_298)
+
+6. i like to live off of the land .
+   (ID: conversation_110)
+
+7. i am looking for a second job .
+   (ID: conversation_272)
+
+8. i grew up in alabama .
+   (ID: conversation_221)
+
+9. everyday i go swimming at the y .
+   (ID: conversation_283)
+
+10. at night , i party hard in the atlanta club scene , and i never miss a music festival .
+   (ID: conversation_106)
+
+11. i go to the pool every thursday for three hours .
+   (ID: conversation_262)
+
+12. i'm looking to start a business .
+   (ID: conversation_214)
+
+13. i ride my red bike to work everyday .
+   (ID: conversation_29)
+
+14. i go to at least 10 concerts a year .
+   (ID: conversation_13)
+
+15. i live down the street from miley cyrus and pnb rock .
+   (ID: conversation_184)
+
+16. i want to move .
+   (ID: conversation_147)
+
+17. i grew up on a large farm .
+   (ID: conversation_167)
+
+18. i grew up on a farm .
+   (ID: conversation_99)
+
+19. i m from texas .
+   (ID: conversation_8)
+
+20. i travel a lot .
+   (ID: conversation_140)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 56
+
+1. I have a farm with pigs , horses and hens.
+   (ID: conversation_17_user_2)
+
+2. My girlfriend lives in salt lake city.
+   (ID: conversation_184_user_1)
+
+3. I want to move.
+   (ID: conversation_284_user_2)
+
+4. I do not have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_62_user_2)
+
+5. My name is mary and i m from colorado.
+   (ID: conversation_88_user_2)
+
+6. I don t have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_100_user_2)
+
+7. I am currently looking for a job in baltimore.
+   (ID: conversation_258_user_2)
+
+8. I grew up on a farm.
+   (ID: conversation_130_user_2)
+
+9. My girlfriend lives in salt lake city.
+   (ID: conversation_186_user_1)
+
+10. I want to move.
+   (ID: conversation_3_user_2)
+
+11. I vacation along lake michigan every summer.
+   (ID: conversation_87_user_2)
+
+12. I have a garden.
+   (ID: conversation_53_user_2)
+
+13. I hope to move out soon.
+   (ID: conversation_267_user_1)
+
+14. I spend the weekends travelling up to canada to relax and enjoy the view.
+   (ID: conversation_223_user_2)
+
+15. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+16. I live walking distance from work.
+   (ID: conversation_12_user_2)
+
+17. I hope to move out soon.
+   (ID: conversation_16_user_2)
+
+18. I was born outside the us.
+   (ID: conversation_151_user_1)
+
+19. I was born in baton rouge.
+   (ID: conversation_69_user_2)
+
+20. I wish that i lived in the city.
+   (ID: conversation_90_user_2)
 
 
 ============================================================

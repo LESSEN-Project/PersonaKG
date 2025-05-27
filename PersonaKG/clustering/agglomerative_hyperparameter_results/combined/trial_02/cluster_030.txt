@@ -1,23 +1,254 @@
 CLUSTER 30
 ============================================================
-Total statements in cluster: 2
+Total statements in cluster: 1165
 
 Dataset distribution in this cluster:
-  PER-CHAT: 2 (100.0%)
+  FoCus: 3 (0.3%)
+  MPChat: 29 (2.5%)
+  MSC: 2 (0.2%)
+  PEC: 952 (81.7%)
+  PER-CHAT: 175 (15.0%)
+  PersonaChat: 2 (0.2%)
+  SyntheticPersonaChat: 2 (0.2%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- PER-CHAT ---
+--- FoCus ---
+Total from this dataset: 3
+
+1. I like when restorations happen.
+   (ID: AN8LSF1PEYK2_11)
+
+2. I would love to vist Divljana Monastery again.
+   (ID: V0DLNYLN813E_11)
+
+3. I love the monastery.
+   (ID: KG8AEOFQLTO4_11)
+
+
+--- MPChat ---
+Total from this dataset: 29
+
+1. my co worker said his son “is gonna freak” so proud of this one
+   (ID: mathwifey)
+
+2. i'm having a hard time getting over my own disappointment.
+   (ID: meepmeepcuriouscat)
+
+3. i was really excited.
+   (ID: BeastaBubbles)
+
+4. the sprinkles were a nice touch i guess...
+   (ID: DarkLotus1029)
+
+5. i usually hate these, but the force is strong with this one.
+   (ID: JMango)
+
+6. perry just lays there and stares at me while i read
+   (ID: kentobean123)
+
+7. i had a lot of fun with the roots!
+   (ID: lolveets)
+
+8. my daughters loved them
+   (ID: castaneda2912)
+
+9. i hope whoever came up with this got a promotion
+   (ID: evantide)
+
+10. this is why i love bottomless portafilters.
+   (ID: Ry_)
+
+11. weird but i like it
+   (ID: jlb4est)
+
+12. i saved that pile of mess.
+   (ID: Crilbyte)
+
+13. "gosh darn it i need those files now kent"
+   (ID: kentobean123)
+
+14. i'm very proud of how dragon bite turned out.
+   (ID: SuperfineYarnCo)
+
+15. "excuse me... i'd like to squeeze myself under this chair"
+   (ID: HobbitLass)
+
+16. i love hearing "16oz latte for here".
+   (ID: BeastaBubbles)
+
+17. does anyone miss espresso as much as i do?
+   (ID: Deeshizznit)
+
+18. seriously now, first time using a banneton and i kept peeking and prodding.
+   (ID: Rosiebelleann)
+
+19. uggh at the pic being awful & giving the illusion it's 's not (i swear).
+   (ID: PrissyCakes)
+
+20. no idea why i even tried but here's a shloppy winged 4-1
+   (ID: Deeshizznit)
+
+
+--- MSC ---
 Total from this dataset: 2
 
-1. it seems like you  ve got most of your bases covered . you  ll need a water type , so i may suggest starmie . snorlax is always a good pick too .
-   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
+1. I've seen dracula.
+   (ID: dialog_58_speaker_1)
 
-2. okay cool i think i will just go for it haha , i ' m ready to care for them and for sure i won ' t neglect that ! aww , thank you so much
-   (ID: 2cb4aa2e032749d7dca2c2ab5fbd17d2ba53bb10)
+2. I remember movie plots.
+   (ID: dialog_15_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 952
+
+1. i 'm speechless !
+   (ID: Mende)
+
+2. i remember this episode !
+   (ID: doctor_parcival)
+
+3. i expected a picture of a baby .
+   (ID: hussy_trash)
+
+4. i fell like this too .
+   (ID: genpell)
+
+5. i miss b2 .
+   (ID: metalbark)
+
+6. i just stared and this and laughed for a good minute .
+   (ID: bennystache)
+
+7. i know , right ?
+   (ID: Nheea)
+
+8. i did too !
+   (ID: redandblack555)
+
+9. i did manage to convince my dad to get me fort legoredo 6769 though !
+   (ID: Ooer)
+
+10. i thought the link would direct me to - completely brilliant .
+   (ID: bondo84)
+
+11. i got glad there
+   (ID: Bob_Majerle)
+
+12. i would have laughed thinking it was a joke .
+   (ID: Weed_n_Wisdom)
+
+13. i 'm glad this gif did n't go the way i thought it might
+   (ID: Nick84572)
+
+14. i 've certainly never seen these pictures before
+   (ID: ProJokeExplainer)
+
+15. i lost my shit on that first closeup cut to his face
+   (ID: doctor_parcival)
+
+16. i miss it daily :'(
+   (ID: 8459268)
+
+17. i feel the shame .
+   (ID: ItGetsAwkward)
+
+18. i remember this twilight zone episode .
+   (ID: Waterrat)
+
+19. i was about to say that .
+   (ID: SYDWAD)
+
+20. i was waiting for the gif to start
+   (ID: freddlaren)
+
+
+--- PER-CHAT ---
+Total from this dataset: 175
+
+1. you just scared the shit out of me . is that for real ?
+   (ID: 975493e3b4b2ad9cba1b98554159be45f8affdd3)
+
+2. im very scared that i ' ll run into my ex on here . hes obsessed with reddit and i just now happen to discover how awesome it really is .
+   (ID: 91dc65ba6eef536f17becface16989de7f988dce)
+
+3. i  ve seen this one before but no matter how many times i  d do the wtf factor only increases
+   (ID: 6b1a5069121a216d43b11b6d5c61b018eb668aaa)
+
+4. i have a feeling you really like cat stevens though . one of the best that my generation produced .
+   (ID: 259e025807a2eee6eaf38242805e7dfc46aaa91f)
+
+5. " break a leg out there "
+   (ID: 5be7ef463c3ba0c7a9c255bd9769c5f638d2b805)
+
+6. " oh . you want . what ? you want me to speak into a what ? a mic ? for what ? huh ? i don ' t . what do you mean ? what posterity ? man , i ' m just trying to get home , could you . sorry ? no , thanks . i ' m just trying to get home . okay , you too . bye "
+   (ID: 063122b93a40a719244d27587193e154f2fed59d)
+
+7. liopleurodon a magical liopleurodon
+   (ID: 3b45915d58b20f0e2abb6b26d4534980a5d3aa68)
+
+8. this is pretty much it . the whole  you know i learned something today  phase of south park is so cringey . fuckin love the show though .
+   (ID: 76442d997e7f64c10223aeac0f4ff8af70ff9dde)
+
+9. they get the craziest people who will go wild on the show
+   (ID: bdbdc7c12fe37172b721ff3ae186b84ad646d582)
+
+10. it was one of those rare movies where it was so fucked up that i couldn  t look away . i need to watch it again soon . thanks for the reminder !
+   (ID: 55510b17a4f0d7b5820e6f21287525ef6cd60994)
+
+11. there once was an ugly barnacle . he was so ugly that everyone died . the end
+   (ID: b5e15026c378d181e66e2b38bfc245705510a727)
+
+12. nothing , can ' t meme nothing .
+   (ID: 795c678726f71492166b6677c955ce0a48a9b294)
+
+13. i . know . right ?
+   (ID: ef181804526093c6a2f6a4e0fba8b4f18fc0e775)
+
+14. " would you do me ? i would do me "
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+15. i wouldn ' t fault you for that , feh is taking a lot from norse mythology and loki is a dude . unless you didn ' t know til now .
+   (ID: 89e5ffcdc3b9c2cbc19f7274b7643ce26a8e2bbd)
+
+16. what do you mean you ' ve never seen blade runner ? oh , maybe i was a little too wild in the 70s back down to earth with a lounge singer shimmer
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+17. " where are all the good men dead ? in the heart or in the head "
+   (ID: 2988ee1cd7a2bcf8e2d215c795ee2d06a985665a)
+
+18. of all the people that have seen this thing i bet at least one has has the old squiggity squirty to this .
+   (ID: 2266fd8e27b1d50f2e144f7cd11716068cff21d5)
+
+19. n o t h i n g
+   (ID: 23394798067974e95a922a95c6609d16ca1b11dd)
+
+20. a children ' s movie i ' ve never heard of before ? which appears to have high quality animation in it ? watching it right now .
+   (ID: d54a04c3eba52404f5dd7abb0e459a949dbc7f93)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. sometimes i listen to gary human to be ironic .
+   (ID: conversation_69)
+
+2. i still like combat boots with babydoll dresses .
+   (ID: conversation_257)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I still like combat boots with babydoll dresses.
+   (ID: conversation_233_user_2)
+
+2. I prefer the simpler times.
+   (ID: conversation_224_user_2)
 
 
 ============================================================

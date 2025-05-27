@@ -1,413 +1,215 @@
 CLUSTER 5
 ============================================================
-Total statements in cluster: 539
+Total statements in cluster: 975
 
 Dataset distribution in this cluster:
-  FoCus: 2 (0.4%)
-  MPChat: 104 (19.3%)
-  MSC: 30 (5.6%)
-  PEC: 226 (41.9%)
-  PER-CHAT: 98 (18.2%)
-  PersonaChat: 22 (4.1%)
-  SyntheticPersonaChat: 57 (10.6%)
+  MPChat: 56 (5.7%)
+  MSC: 1 (0.1%)
+  PEC: 780 (80.0%)
+  PER-CHAT: 138 (14.2%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- FoCus ---
-Total from this dataset: 2
-
-1. I love the smell of Lotus.
-   (ID: KGYT5MMVNDSG_11)
-
-2. I don't like fat people.
-   (ID: D4619DV1O1OP_11)
-
-
 --- MPChat ---
-Total from this dataset: 104
+Total from this dataset: 56
 
-1. swan progress (4months since i learnt to make coffee)
-   (ID: tepidpotato)
+1. first time i've been able to post!
+   (ID: Crilbyte)
 
-2. haven't baked in about five years; i forgot how good this tastes.
-   (ID: mattsulli)
+2. i've just entered him in a contest.
+   (ID: theringbeller)
 
-3. little 6oz mocha i made for myself today!
-   (ID: tepidpotato)
+3. you were delicious and your bottle has a spot on my mantle.
+   (ID: crunch816)
 
-4. someone told me my wings remind them of salmon sushi
-   (ID: jlb4est)
+4. my cousin found out she's having a boy so of course it's blanket time.
+   (ID: Sophie74656)
 
-5. my boyfriend refuses to learn how to use our coffee machine.
-   (ID: av929)
+5. my boy is tired of quarantine
+   (ID: LiftingNurse)
 
-6. my chillis definitely prefer the pot life over the ground.
-   (ID: Perthboi92)
+6. my parents just got a set of kittens.
+   (ID: SliverCobain)
 
-7. i made a souffle for my husband.
-   (ID: gelimausi)
+7. end of the year project finished for my son, to catch all his bad dreams :)
+   (ID: Winter246)
 
-8. after nearly a year of tulips, i can finally pour a rosetta i'm pleased with
-   (ID: mattsulli)
+8. my little guy got married at the shelter in a v-day fundraiser.
+   (ID: ddizzle23)
 
-9. i have a yeast dough for a bread.
-   (ID: gelimausi)
+9. my bulldog meetup group's april event was a fundraiser at a winery benefitting a local bulldog rescue organization.
+   (ID: m3lodym4ker)
 
-10. my fortune cookie from pei wei contained three fortunes.
-   (ID: Chris55730)
+10. it was my first time working on a project so large!
+   (ID: fredbutt)
 
-11. shaping needs work, but here's my first sourdough!
-   (ID: mattsulli)
+11. i finally did it!!
+   (ID: meepmeepcuriouscat)
 
-12. it's another milo+nescafe (mocha) with milk frothed by an ikea frothing wand woooo, my best yet
-   (ID: Soggypaper_)
+12. my goal is to always exceed expectations, how did i do?
+   (ID: SugarHighBakedGoods)
 
-13. using up my schachenmayr lumio.
-   (ID: Novel_Fox)
+13. i'm really proud of this one.
+   (ID: VisitingCivet)
 
-14. i'm an amateur barista on less than $200 in equipment, how'd i do?
-   (ID: The69LTD)
+14. my boy loves our sunday morning walk
+   (ID: LiftingNurse)
 
-15. been practising my chai lattes!
-   (ID: tepidpotato)
+15. second macrame project, i'm already getting better.
+   (ID: lolveets)
 
-16. my go to lazy pour.
-   (ID: SilentRansom)
+16. baker gmhas gained a healthy 15 pounds and a huge smile since i've brought him home.
+   (ID: BananaStand07)
 
-17. i cooked a fiery chili con carne for my husband.
-   (ID: gelimausi)
+17. can't wait until my little baby gets bigger
+   (ID: VodkaWithSnowflakes)
 
-18. idk how they drink all of this, but i'm glad i get to make it for them.
-   (ID: BeastaBubbles)
+18. i'm pretty proud of it :)
+   (ID: ddizzle23)
 
-19. an 8oz pour i was very pleased with today
-   (ID: evantide)
+19. i've never actually finished any project until tonight... it's not much, but it's done!
+   (ID: SarahFree339)
 
-20. i hate chocolate and togo cups, but i'm not paying for it.
-   (ID: Beardedlantern)
+20. my master shifu it took me so much time and planning, and i'm so happy with the result
+   (ID: Ploliveira)
 
 
 --- MSC ---
-Total from this dataset: 30
+Total from this dataset: 1
 
-1. I do not eat a lot of vegetables.
-   (ID: dialog_35_speaker_1)
-
-2. I could never be a vegetarian.
-   (ID: dialog_32_speaker_1)
-
-3. I cannot eat certain foods due to flatulence.
-   (ID: dialog_26_speaker_2)
-
-4. I work out a lot.
-   (ID: dialog_16_speaker_2)
-
-5. I do not do illegal substances because I do not have access to them.
-   (ID: dialog_26_speaker_2)
-
-6. I do not eat meat nor dairy.
-   (ID: dialog_20_speaker_2)
-
-7. I have begun to eliminate meat. I have completely stopped eating red meat. I only eat chicken and fish.
-   (ID: dialog_10_speaker_1)
-
-8. I'm a meat eater. I dropped out of college.
-   (ID: dialog_35_speaker_2)
-
-9. I like to do canning and whittling for hobbies.
-   (ID: dialog_0_speaker_1)
-
-10. I'm not a fan of soy products.
-   (ID: dialog_30_speaker_2)
-
-11. I like tacos. I am getting ready to move.
-   (ID: dialog_12_speaker_1)
-
-12. I only eat meat. Prime rib is my favorite meat.
-   (ID: dialog_0_speaker_1)
-
-13. I like pizza. I want to try deep dish pepperoni pizza.
-   (ID: dialog_7_speaker_1)
-
-14. I like tacos. I am getting ready to move. I am going to the University of Michigan. I major in Pre-med since I like to become a doctor.
-   (ID: dialog_12_speaker_1)
-
-15. I could eat Mexican food every day. Burritos are my favorite food.
-   (ID: dialog_27_speaker_1)
-
-16. I dislike orange vegetables from the ground.
-   (ID: dialog_3_speaker_2)
-
-17. I have pale skin.
-   (ID: dialog_32_speaker_1)
-
-18. I want candy.
-   (ID: dialog_4_speaker_1)
-
-19. Prime rib is my favorite meat.
-   (ID: dialog_0_speaker_1)
-
-20. I am not very good at playing basketball.
-   (ID: dialog_8_speaker_1)
+1. I wish my kids behaved better.
+   (ID: dialog_57_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 226
+Total from this dataset: 780
 
-1. i collected 10 candies , slow day for me here lol
-   (ID: Noimnotsally)
+1. i 'm rooting for you .
+   (ID: KikAtWorkFL)
 
-2. i 'm trying to get an idea if it 's a faster route then my normal one .
-   (ID: CheapyPipe)
+2. i do n't know you , but i respect you and your deep compassion .
+   (ID: notlikethat1)
 
-3. i 'm sticking with waffles !
-   (ID: SerendipitousCat)
+3. i ’m so glad you are safe .
+   (ID: Atlmama)
 
-4. i knew someone who was 6'6 " 125 - he was skinny - he was also 18 at the time
-   (ID: RonaldFuckingPaul)
+4. i enjoyed your ball of flesh .
+   (ID: ListenandLove100)
 
-5. i 'm done eating by then anyway .
-   (ID: msiekkinen)
+5. i had a great experience with !
+   (ID: pyro2927)
 
-6. i 'm just gon na get the " add it to anything " recipe out of the way .
-   (ID: CheapyPipe)
+6. i hope that you are well done with this app .
+   (ID: kitcatpaints)
 
-7. i 'm sure it takes a lot of pressures off of your relationship .
-   (ID: napalmkitten)
+7. i love your disney section so much ! !
+   (ID: bummang)
 
-8. i eat once a day , i do n't have an appetite .
-   (ID: AgedTwenties)
+8. i ’m sorry to hear you ’ve been having difficulties .
+   (ID: ListenandLove100)
 
-9. i want some of your tots
-   (ID: ItGetsAwkward)
+9. i ’m so proud of you
+   (ID: mooonjellies)
 
-10. i hope to pass on the pizzaness when money becomes a bit more available !
-   (ID: buttercup_mauler)
-
-11. i lost 125 lbs myself when i was 16 .
-   (ID: Heydawgg)
-
-12. i 'd just drink wine instead .
-   (ID: Sabiola)
-
-13. i ’ve never had it in my stuffing
-   (ID: LabeledAsALunatic)
-
-14. i do n't eat anything that casts a shadow . "
-   (ID: Mahatma_Panda)
-
-15. i ’ll still eat your ass
+10. i hope the business is doing well
    (ID: ChallengeTaken99)
 
-16. i know you would n't pay to get crabs anyways .
-   (ID: ItGetsAwkward)
+11. i hope you feel better , op .
+   (ID: parkleswife)
 
-17. i never have the discipline to save and then eat it , usually just smoke it .
-   (ID: Weed_n_Wisdom)
+12. i hope they find great homes .
+   (ID: notthruyet)
 
-18. i would love a meatloaf recipe !
-   (ID: buttercup_mauler)
+13. i m sure you ll be a great father to a loving child .
+   (ID: kuh_boom)
 
-19. i did not know know iggies came in all black ! ! !
-   (ID: 11_29_77)
+14. i wish you the best and a happy life (:
+   (ID: useralpha101)
 
-20. i edited my comment and added the recipe !
-   (ID: Mahatma_Panda)
+15. i would say so , you 're looking fantastic , good luck , let us know how you get on
+   (ID: Stan063)
+
+16. i 'm a big fan of finding ways to be grateful ; thanks for sharing yours .
+   (ID: kitcatpaints)
+
+17. i 'm proud of this subreddit .
+   (ID: Ian_Str8)
+
+18. i never felt love like that before and it was both really beautiful and scary at the same time .
+   (ID: _gansmadchen)
+
+19. i 'll be around long after and so will a lot of the other people he inspired .
+   (ID: HugePurpleNipples)
+
+20. i can feel you are much more confident .
+   (ID: Ml7500)
 
 
 --- PER-CHAT ---
-Total from this dataset: 98
+Total from this dataset: 138
 
-1. every day i have to harangue you for hours before you get my food out . are you stupid or what ?
-   (ID: 873d7cdd437cc48c69447d68b6cd96b54580dae7)
+1. i mean that seems like the best way to do it and not want to kill yourself by the end , but i ' m glad it turned out this well and i hope that you have a good day
+   (ID: feb4a6aeed8e7e14b0592329bd91d7933a93217e)
 
-2. that ' s all i gave them on a good day anyways .
-   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+2. yes ! i loved you in " this is the end !
+   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
 
-3. bottle . i just like the way it sounds .
-   (ID: f3a490ceb976e7adf0cbeb213371795128597226)
+3. i know i ' m not reinventing the wheel or anything , but it helps to hear from someone who has gone through the same thing . thank you for the encouragement .
+   (ID: 063122b93a40a719244d27587193e154f2fed59d)
 
-4. because it ' s the taste you can see . duh
-   (ID: cfd691d6aeaf46cc644b0e21187d10dfc62b0bc8)
+4. you definitely are a god damn superhero , and i genuinely appreciate the fact that you ' re here and able to post this red  heart
+   (ID: 68b48505d5f7a16cf14847c82fff612e6bd59090)
 
-5. im digit and a recovering alcoholic . alcohol has ruined my life . most people drink so technically yes . this is something that makes you ' stand out ' but dont con  notate my words here , it makes you stand out in the absolute best way possible . maybe itll never create an issue in your life if you get drunk a few times , but looking over here from the other side of things , it only left me broke , with ruined relationships , guilt and shame . onward brethren i wish you the best outcome of whatever your life story has written . iwndwyt
-   (ID: e81ca1234a368c583e7534e96af055654150cdb9)
+5. i do it for my aunt , uncle  and knowing they enjoy the time they spend here . but i appreciate your acknowledgement .
+   (ID: e1aebf37580e679f77f5038c575f4359c51af29f)
 
-6. we do . it ' s my mother  in  law ' s cooking !
-   (ID: 128346fc1e56ccadd25a4b200ecae44637d48f5f)
+6. me too . it ' s something i ' m going to say to one of my kids in particular .
+   (ID: 204bc9dfdfd5ae40abfe0643025c3f61abea8ee1)
 
-7. once told someome i hated strawberries for no reason . not sure what u expected to gain out of that one
-   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+7. dude you do have another place to tell happy . that  s what they crave over there
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
 
-8. thank you i appreciate that , funny thing is that i dont eat green beans or cooked carrots either but nobody ever says oh you ' ll love my green beans lol
-   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+8. this sub is amazing . i truly believe it  s helping me save my life . going on digit hours sober myself . been so hard but i  m so excited for the future . it  s all we have . best of luck to you , you got this !  digit
+   (ID: 4f1b65a581332b9d19507ccf0e921d0967e013e7)
 
-9. i ' ve been toying with the idea of trying keto to help with pain and weight so thank you for the information !
-   (ID: 8b7590cb8502d6abd38b320b842aa7642186b6d8)
+9. i ' m still trying to fix the timelines . don ' t remind me .
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
 
-10. my wife and i began this morning and though we know it will get tough , we were so happy with this breakfast ! i ' ve been a sugar addict all of my adult life and indulge in way too much fast food . my wife said she would do it with me to make it easier and i ' m determined to see this through . just made the spaghetti squash with the tomato sauce and some ground turkey for dinner . if we can keep making food this good it will certainly ease the pain of not indulging my bad habits .
+10. gillian , i just loved your performance in bleak house . you were amazing in that . such a subtle heart  breaking character sketch . i thought , " that is the best uk accent i have ever heard an american do . i later found out you lived in the uk as a child and like john barrowman , were pressured to change it when you went to live in the us . which do you feel is your ' natural ' accent or like jb , does the one you use change depending on who you talk to ? do you prefer working in the uk or the us ? i for one really think you ' ve come into your peak since working in the uk . and you ' ve never looked more beautiful . and thank you for being an inspiration to smart , feisty girls around the world . you ' re awesome .
+   (ID: b7464d681f64ad88cda3f6014fd0dd3a8bebed33)
+
+11. he ' s definitely lucky you were there when he lost his family . you also seem to be very lucky to have found him . he ' s so damned adorable .
    (ID: c3b51ad627b2162cac848c7fadd53da61827346a)
 
-11. let ' s be honest though . we all know what would really happen you get to the ice cream freezer at the gas station , reach for the klondike bar , then go " holy shit ! they have choco tacos " then buy one of those instead .
-   (ID: 8f7369c6ebb47df350fec663be46dfd8481ee2db)
+12. hey i am good , hope you too samegrinning  face
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
 
-12. the redemption burger from that one gordan ramsey show
-   (ID: 801c30bb9f7fe270789d76054d77c547f65e41eb)
+13. thank you for being a genuinely kind human
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
 
-13. i ' m a cat owner and have received many ' presents ' over the years . they are predators to be certain and i agree with you there . my point though is that the rats are unbothered by the cat and vice versa  neither of them views the other as competition for the food . i would guess that this is because people are always refilling the dishes .
-   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
+14. i know where i put it . so does your
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
 
-14. don  t make the normal kids suffer . at my jobs xmas party last year my ceo decided to have all the food be vegan but only him and his son are vegan . long story short the party ended with tables full of food wasted because your average person doesn  t like that crap . hell , even the cake was bad . if you can  t make a cake taste good you  re doing something wrong
-   (ID: 0e1406b3a5b6031911de9279cf70144f8f1d9136)
+15. so did you do it ?
+   (ID: 1921dc07cd609c210cb71a0176afa3dfa4fa3772)
 
-15. personally i think the flavors go well together . i ' ve heard people talk about acidity being the main factor as to why they don ' t go for it and that i can understand . i just don ' t like people saying it ' s weird or the thought of fruit on pizza baffles them .
-   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+16. whoa . x post to snowwhites . i think that ' s the name of the subreddit . they ' d appreciate you there too
+   (ID: dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e)
 
-16. dude ' s an idiot . " i ' m out to prove that i can eat shit for cheap , so i ' m going to buy the most expensive vegetables to prove my point . it ' s like saying you can ' t afford a bmw so you might as well take the bus .
-   (ID: 7911b1d92de80b0e1abd4e2a29e4f762a8a2908f)
+17. thank you so much . my dad also gets worse at christmas . it ' s horrible when you anticipate that special days will be ruined by them , it ' s really hard to not expect it . for me anyway . you ' re a good person for supporting her effort at recovery , i know that ' s a tough road . maybe next year i ' ll spend the day not at home we live on the same property . thanks again for your kind thoughts red  heart
+   (ID: 8b7590cb8502d6abd38b320b842aa7642186b6d8)
 
-17. the smell of fresh baked bread always makes me think of my mom . miss you mom
-   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+18. you guys are my heroes . love this .
+   (ID: 1b4a970a63450e21b56e1d38502b30aca032cd3f)
 
-18. what did you call me ? na , that looks fookin delicious .
-   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+19. props to you my friend , that ' s fantastic ! sending you some positive vibes and wishes for your next adventure .
+   (ID: 1b4a970a63450e21b56e1d38502b30aca032cd3f)
 
-19. again with the orchid . they ' re pretty and all , but i feel like they don ' t really add anything to the dish . my crew and i call this type of garnish " culinary masturbation . but hey brother , you ' re trying and you ' re learning in the process ! good for you and keep it up !
-   (ID: 05bc4f6f6f6bb573d85181292f88efbd50c59547)
-
-20. food so good he couldn ' t differentiate the taste of it with a rock
-   (ID: 8a0d7d262d95d9c10d914ff3b70f342e066aee23)
-
-
---- PersonaChat ---
-Total from this dataset: 22
-
-1. i m allergic to milk .
-   (ID: conversation_94)
-
-2. i hate tofu .
-   (ID: conversation_68)
-
-3. i hate tofu .
-   (ID: conversation_30)
-
-4. i hate carrots .
-   (ID: conversation_72)
-
-5. i hate broccoli .
-   (ID: conversation_61)
-
-6. i'm a vegetarian .
-   (ID: conversation_10)
-
-7. pudding makes me gassy .
-   (ID: conversation_26)
-
-8. i'm a vegetarian .
-   (ID: conversation_88)
-
-9. i m really short .
-   (ID: conversation_57)
-
-10. i exercise everyday .
-   (ID: conversation_16)
-
-11. i m allergic to shellfish .
-   (ID: conversation_28)
-
-12. i also give blood monthly in honor of my sister who died .
-   (ID: conversation_77)
-
-13. i never eat veggies .
-   (ID: conversation_96)
-
-14. i don t eat meat .
-   (ID: conversation_65)
-
-15. i can t get enough gummy worms to satisfy my sweet tooth .
-   (ID: conversation_25)
-
-16. i am thin .
-   (ID: conversation_93)
-
-17. i am primarily a meat eater .
-   (ID: conversation_4)
-
-18. i am chubby .
-   (ID: conversation_74)
-
-19. i'm starting a new juicing bar .
-   (ID: conversation_88)
-
-20. i am a vegan .
-   (ID: conversation_60)
-
-
---- SyntheticPersonaChat ---
-Total from this dataset: 57
-
-1. I decided to become vegan a year ago.
-   (ID: conversation_51_user_1)
-
-2. I m not very tall.
-   (ID: conversation_71_user_1)
-
-3. I do not like coffee.
-   (ID: conversation_12_user_2)
-
-4. I m bloated.
-   (ID: conversation_54_user_1)
-
-5. I do not like vegetables.
-   (ID: conversation_4_user_2)
-
-6. I am thin.
-   (ID: conversation_16_user_1)
-
-7. I am not healthy.
-   (ID: conversation_33_user_2)
-
-8. I don t like beer.
-   (ID: conversation_80_user_2)
-
-9. I eat meat.
-   (ID: conversation_62_user_1)
-
-10. I eat meat.
-   (ID: conversation_64_user_1)
-
-11. I have allergies.
-   (ID: conversation_90_user_2)
-
-12. I decided to become vegan a year ago.
-   (ID: conversation_50_user_1)
-
-13. I am vegan.
-   (ID: conversation_50_user_1)
-
-14. I exercise 4 times a week.
-   (ID: conversation_27_user_2)
-
-15. I am vegan.
-   (ID: conversation_49_user_1)
-
-16. I am vegan.
-   (ID: conversation_42_user_1)
-
-17. I am vegan.
-   (ID: conversation_39_user_1)
-
-18. I weight 300 pounds.
-   (ID: conversation_21_user_1)
-
-19. I am chubby.
-   (ID: conversation_88_user_1)
-
-20. I eat meat.
-   (ID: conversation_63_user_1)
+20. my summoner in this situation  can i get you something ? ice cream ? a blanket ? some alone time ? i  m here for you and all the other heroes so if you need something just ask ! tl  dr he just tries to be a nice and helpful person
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
 
 
 ============================================================

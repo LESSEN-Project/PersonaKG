@@ -1,0 +1,139 @@
+CLUSTER 100
+============================================================
+Total statements in cluster: 93
+Cluster persistence (stability): 0.332
+
+Dataset distribution in this cluster:
+  FoCus: 2 (2.2%)
+  MPChat: 2 (2.2%)
+  PEC: 81 (87.1%)
+  PER-CHAT: 5 (5.4%)
+  PersonaChat: 2 (2.2%)
+  SyntheticPersonaChat: 1 (1.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I think spacesuits are cool.
+   (ID: 942CCWXHPUZT_11)
+
+2. I think dragons are cool.
+   (ID: PSBPL4USIKMB_11)
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i think she ate too much spinach...
+   (ID: River_Lethe)
+
+2. i think he likes it
+   (ID: CollegeSleezeball)
+
+
+--- PEC ---
+Total from this dataset: 81
+
+1. i think you speak for yourself .
+   (ID: glowinthedark)
+
+2. i do n’t think i could ever date an actress .
+   (ID: nastylittleman)
+
+3. i do n't think they will perform an autopsy
+   (ID: Ooer)
+
+4. i think on route 211 .
+   (ID: CheapyPipe)
+
+5. i think it 's a napping puppy .
+   (ID: CheapyPipe)
+
+6. i think he was overwhelmed by all the feedback .
+   (ID: blue_thingy)
+
+7. i do n't think you have anything to worry about .
+   (ID: jay456)
+
+8. i do n't think you 're cheating .
+   (ID: ItGetsAwkward)
+
+9. i think we found a roddy mark .
+   (ID: MUZAI)
+
+10. i think her prophecy rules that one out .
+   (ID: ifatree)
+
+11. i think that 's referred to as a snorlax in these parts .
+   (ID: CarlofTime)
+
+12. i think i 'd rather fall of the roof than become shingleface
+   (ID: doctor_parcival)
+
+13. i do n't think any of those are even remotely healthy .
+   (ID: bbakks)
+
+14. i think we all fell for the trollbait
+   (ID: AgedTwenties)
+
+15. i think because the whole brewery behind them is poorly shopped in
+   (ID: Captain_-H)
+
+16. i think they both smell the same
+   (ID: iToaditSo)
+
+17. i think that was the divine comedy , not pulp ?
+   (ID: IAMACiderDrinker)
+
+18. i think the scratches are gone by then .
+   (ID: harumpf)
+
+19. i think the venom must have killed it
+   (ID: FrankOfTheDank)
+
+20. i think you a word .
+   (ID: nastylittleman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 5
+
+1. i think you made a mistake there
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+2. i ' d rather not be high and think about all them germs .
+   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+
+3. the sky . whatever the weather , i think it would be nice to see what they think of it .
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+4. i think i ' m normal . no one else is , though .
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+5. do you think about breathing too ?
+   (ID: 617a45b75601128e5c804bd8ca6b8e525a4aa02d)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am not afraid of what others think .
+   (ID: conversation_37)
+
+2. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I think recycling is important.
+   (ID: conversation_74_user_2)
+
+
+============================================================

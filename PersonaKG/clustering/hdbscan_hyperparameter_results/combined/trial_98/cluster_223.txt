@@ -1,0 +1,58 @@
+CLUSTER 223
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 4 (40.0%)
+  PER-CHAT: 5 (50.0%)
+  SyntheticPersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i 'm betting lots of things !
+   (ID: Thenewfoundlanders)
+
+2. i do n't see things here which show idiomatic python being outdated or no longer idiomatic
+   (ID: xcombelle)
+
+3. i 'm offended by two things : things i 'm offended by and recursion .
+   (ID: CuriousBlueAbra)
+
+4. i see it on some things worldwide , pringles for example .
+   (ID: futurespice)
+
+
+--- PER-CHAT ---
+Total from this dataset: 5
+
+1. what do you do ? go on fakehistoryporn and take things literally
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+2. can i choose fictional things ?
+   (ID: a590a48cc57b678d7925ce142e639876d9df69d6)
+
+3. front pockets are for tiny things , and back pockets are for slightly larger things .
+   (ID: 603a231fe5a5d93e7d1121f6265baf1dcb11f624)
+
+4. making things for dorbol
+   (ID: c7b03500469d01fff7d63dc804418c265ca4c838)
+
+5. in my opinion , most things by e  dubble .
+   (ID: 78a7be65b9d2e7cebf18280c07d4f44e6f2b3417)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I take things very literally.
+   (ID: conversation_247_user_2)
+
+
+============================================================

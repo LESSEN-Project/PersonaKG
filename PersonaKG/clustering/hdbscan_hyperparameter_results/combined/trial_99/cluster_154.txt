@@ -1,0 +1,86 @@
+CLUSTER 154
+============================================================
+Total statements in cluster: 16
+Cluster persistence (stability): 0.966
+
+Dataset distribution in this cluster:
+  MPChat: 1 (6.2%)
+  MSC: 1 (6.2%)
+  PEC: 11 (68.8%)
+  PER-CHAT: 1 (6.2%)
+  SyntheticPersonaChat: 2 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. this was dinner for my wife, my 3 year old daughter and me.
+   (ID: cookinwithclint)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm one year older than 28.
+   (ID: dialog_41_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 11
+
+1. i ’m imagining a 13 year old whining endlessly with hackneyed religious themes ...
+   (ID: nate6051)
+
+2. i learned to swim this year too , and i 'm twice your age .
+   (ID: DaysOfParadise)
+
+3. i joined one year , and went on a hike .
+   (ID: nastylittleman)
+
+4. i had bruises all over my legs last year from one
+   (ID: exotics)
+
+5. i identify as a 16 year old .
+   (ID: serverpilot)
+
+6. i met a 40 year old dude who could n’t enlist because of the 28 age limit .
+   (ID: ChallengeTaken99)
+
+7. i hear that europe is super excited about the winnipeg jets ’ performance this year ...
+   (ID: SPQR1212)
+
+8. i have a 20/25 year old tv , display says brt2 .
+   (ID: harumpf)
+
+9. i was born on the year it came out .
+   (ID: ChallengeTaken99)
+
+10. i 'm imagining so many weeping 12 year old redditors .
+   (ID: mylescloutier)
+
+11. i would trust my 4 year olds eggs over that machine
+   (ID: Captain_-H)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. fresh fruits and veggies all year round .
+   (ID: 650ba9cdaca39ad1c1fe5e6348b11afb4d8e7a0f)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I have an 18 year old son.
+   (ID: conversation_191_user_1)
+
+2. I decided to become vegan a year ago.
+   (ID: conversation_44_user_1)
+
+
+============================================================

@@ -1,159 +1,383 @@
 CLUSTER 15
 ============================================================
-Total statements in cluster: 384
+Total statements in cluster: 619
 
 Dataset distribution in this cluster:
-  PEC: 4 (1.0%)
-  PER-CHAT: 354 (92.2%)
-  SyntheticPersonaChat: 26 (6.8%)
+  FoCus: 1 (0.2%)
+  MPChat: 16 (2.6%)
+  MSC: 29 (4.7%)
+  PEC: 249 (40.2%)
+  PER-CHAT: 285 (46.0%)
+  PersonaChat: 15 (2.4%)
+  SyntheticPersonaChat: 24 (3.9%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 1
+
+1. I once hid in a hollow log during hide and seek as a child.
+   (ID: NETYMHGQTGLI_9)
+
+
+--- MPChat ---
+Total from this dataset: 16
+
+1. here's where i slept last night.
+   (ID: Alpinekiwi)
+
+2. caught today in my new inflatable
+   (ID: Taengoosundies)
+
+3. abby's face when i came back from the restroom and my plate was empty.
+   (ID: BananaPeelSlippers)
+
+4. i did a photoshoot because i had somebody criticize my outfit.
+   (ID: JMHorsemanship)
+
+5. i get it, don’t chew on power cords!
+   (ID: insthotchkiss)
+
+6. my mom gave me a cardboard box and asked me to wrap some chapstick in it.
+   (ID: FoxInKneeSocks)
+
+7. i called president petrie a good boy and got rewarded with a smile
+   (ID: kentobean123)
+
+8. mum all i did was sneeze
+   (ID: baccgirl)
+
+9. the last photo that was ever taken of me skateboarding before i was diagnosed with bone cancer.
+   (ID: ChroniclyDope)
+
+10. "you said i wouldnt be overdressed"
+   (ID: kentobean123)
+
+11. this bro kept me hiding in my car...for 25 minutes.
+   (ID: baccgirl)
+
+12. itap of my son taking a picture
+   (ID: dudeinthepnw)
+
+13. i entered a dangerous area today
+   (ID: Ichishiro)
+
+14. felt like i was being watched from the couch.
+   (ID: j3iglesia)
+
+15. i built a church.
+   (ID: kduluth)
+
+16. then i started and it just evolved into this.
+   (ID: amandabakes)
+
+
+--- MSC ---
+Total from this dataset: 29
+
+1. I ran for office in 2004.
+   (ID: dialog_113_speaker_2)
+
+2. I once slipped on ice when I broke my leg.
+   (ID: dialog_112_speaker_1)
+
+3. I often enter a room only to stop and wonder why I came there.
+   (ID: dialog_37_speaker_2)
+
+4. I am guilty alot of times.
+   (ID: dialog_92_speaker_1)
+
+5. I was Maid of Honor at my best friend's wedding.
+   (ID: dialog_77_speaker_1)
+
+6. I went out on a date. I do not go out very often.
+   (ID: dialog_2_speaker_1)
+
+7. I think I found the cure for the common cold while I was in the shower.
+   (ID: dialog_91_speaker_1)
+
+8. I was on the silver screen.
+   (ID: dialog_33_speaker_1)
+
+9. I served in the armed forces.
+   (ID: dialog_89_speaker_2)
+
+10. I thought of joining the military when I was younger.
+   (ID: dialog_113_speaker_2)
+
+11. I was on the silver screen.
+   (ID: dialog_2_speaker_2)
+
+12. I became an orphan at an early age.
+   (ID: dialog_26_speaker_1)
+
+13. I had a medical emergency.
+   (ID: dialog_34_speaker_2)
+
+14. I went out for the government.
+   (ID: dialog_113_speaker_2)
+
+15. I played on the basketball team in middle school. I was cut from the team.
+   (ID: dialog_8_speaker_1)
+
+16. I was almost killed in car accidents.
+   (ID: dialog_73_speaker_1)
+
+17. I met a vampire in a cave during halloween last year.
+   (ID: dialog_58_speaker_1)
+
+18. I started a club in High School.
+   (ID: dialog_90_speaker_2)
+
+19. I was raised by my mom.
+   (ID: dialog_59_speaker_1)
+
+20. I ran for office in 2004. Never joined military only thouht about it.
+   (ID: dialog_113_speaker_2)
+
+
 --- PEC ---
-Total from this dataset: 4
+Total from this dataset: 249
 
-1. i am a girl ...
-   (ID: exotics)
+1. i swallowed my first piece by accident and never looked back !
+   (ID: SeasonedLemur)
 
-2. i 'm an 18 year old woman .
-   (ID: Mende)
+2. i was 12 in 1962 .
+   (ID: ddshroom)
 
-3. i am a 23 year old male .
-   (ID: AgedTwenties)
+3. i remember one mob i fought was a life - size bumblebee or some other type of bee .
+   (ID: Lsmoothies)
 
-4. i am a 23 year old male who likes to be active and be outdoors .
-   (ID: AgedTwenties)
+4. i was 11 and that was my face for sure .
+   (ID: I_am_not_a_Taco)
+
+5. i had to " interview " pediatricians .
+   (ID: teriaki)
+
+6. i was such a lonely kid and never really had a real friend before .
+   (ID: snapsnaptomtom)
+
+7. i saw smashing pumpkins in 97 .
+   (ID: chirpyboyandbartjr)
+
+8. i actually forgot about that time in a movie theater , so me too .
+   (ID: Chicoconut)
+
+9. i got bullied in school
+   (ID: CuriousBlueAbra)
+
+10. i never told my mom i saw him , obviously .
+   (ID: hussy_trash)
+
+11. i was in junior high when i got the album .
+   (ID: Samoht2113)
+
+12. i was born on the year it came out .
+   (ID: ChallengeTaken99)
+
+13. i made out with my dad 's cousin 's daughter .
+   (ID: Bananafoofoofwee)
+
+14. i once actually had a p.a .
+   (ID: leo9g)
+
+15. i dropped it so hard it broke my floor and i had to pay a hefty repair bill
+   (ID: thed0ctah)
+
+16. i hit myself in the nuts while doing laundry .
+   (ID: Machinax)
+
+17. i had a kidney autotransplant but they removed it -- i was my own donor .
+   (ID: bbakks)
+
+18. i can see pictures in my mind .
+   (ID: jay456)
+
+19. i had panic attacks .
+   (ID: Lifes6Midnight)
+
+20. i remember rubbing my exes back
+   (ID: bleepblorp9878)
 
 
 --- PER-CHAT ---
-Total from this dataset: 354
+Total from this dataset: 285
 
-1. I am a male.
-   (ID: e9d9b9400a09031a7e1021173867d784ebb9cf94)
+1. i hit my head and in the locker rooms and almost kept blacking out . no body saw me and i was to drowsy to talk so i was on the ground for about digit  digit minutes before i went to the nurse then class .
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
 
-2. I am a male.
-   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+2. oh wow . this describes a lot of what my ex did .
+   (ID: 404d4f663681fcf738d043296148ae4de655b22b)
 
-3. I am a male.
-   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
+3. family christmas as a kid as everyone was leaving i say , " see you all next year " which was probably true but didn ' t go down too well
+   (ID: 13351a02e20f4adf8ac13d71b9b8887cf8b7bb2c)
 
-4. I am a female.
-   (ID: d8014467041b98317d9f1dec2b0dae4ff9405b91)
+4. my dad kept trying to get me to go on long drives so he could tell me that i was gonna be tortured in hell while he had to watch from heaven , so he couldn ' t enjoy it . to which i said doesn ' t really sound like heaven ' s that cool if its just " good " people watching torture porn from recliners
+   (ID: 5f43a3019d69696064ac659bf6dd25b51f1e5bb6)
 
-5. I am a male.
-   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+5. to lighten up this thread a bit i have bpd and invited my ex on a hike but nothing sinister happened . it was actually quite nice , we got to chat about the breakup and how we  d been doing out in nature . it was therapeutic .
+   (ID: 46d8e69cfbec2948bee8eaeaf91010f2e7f16e4b)
 
-6. I am a female.
-   (ID: fe374743dd856c29f2117723cef01c1fdc3b3b5b)
+6. i have no idea about what happened to you . i can only comment on my own experiences . the staff i worked with only medicated patients at a physician request . they are the only ones that could legally prescribe . all medication drawn and administered is documented , heavily . so no one in my organization could " knock you out " simply because they thought you were a burden . it doesn ' t work that way . as for restraints , if you become a danger to yourself , staff or any other patient then for safety reasons you will be restrained . depending on the state or province the form of restraint will vary . some units will use handcuffs , others just simple velcro straps . any properly regulated hospital will ensure that restraints or even isolation units for that matter are used for positive outcome . never as a punishment . i ' m not going to say it doesn ' t happen because i know it does but for the most part in my experience things were always by the book . i can only speculate about your experience . if you did try to leave the facility and you were a level one psych patient then meds would likely be given even after restraints were placed . the number one thing is to keep you safe . if that means sedation then that ' s what ' s going to happen . maybe to get your vitals back or to help you sleep .
+   (ID: 96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01)
 
-7. I am a male.
-   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+7. too many times to count majority deal with heights , vehicles , and explosives
+   (ID: 4422c1db26c9be5bec35694a448a490c2761d985)
 
-8. I am a female.
-   (ID: 7921460db376d8f318b71729dcd4931f12a1d0c9)
+8. i stayed in a hotel one time and there was a used condom hanging by the shower head
+   (ID: b7515713c74346e74e6961342ed7324a056c09e6)
 
-9. I am a male.
-   (ID: 067b7441373b7dfebd4b068272381804c26fe6dc)
+9. i think the worst part for me was afterwards . i was left wondering what i did wrong , and why i wasn ' t good enough . the important thing to remember is that you ' re not responsible for other people ' s actions , and some people just suck .
+   (ID: 603a231fe5a5d93e7d1121f6265baf1dcb11f624)
 
-10. I am a male.
-   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+10. pliers as hammers .
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
 
-11. I am a male.
-   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+11. force me to eat certain foods that caused me to gag . i had very sensitive sense of taste and many foods just had such a strong taste that was unbearable to me .
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
 
-12. I am a male.
-   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+12. i personally fell out of an uber two night before my internship started and wrecked my face . had the scaries so bad i didn  t do anything for digit weeks . really was an eye opener to me . still get dumb like a normal college student but made me notice things can get out of hand , and that i am not the best drunk lol
+   (ID: a7b9419fd0d77202baa763e253e9f634da5728c1)
 
-13. I am a male.
-   (ID: 49c1f9b73ecf635bdf7d4c4715d79caa4c296579)
+13. drunken and wet . at least it was from the girl i had a huge crush on . but she pretended it never happened after sobering up . crush over .
+   (ID: 6b941223c20a9903b9878d0454cc676e8d7db91b)
 
-14. I am a female.
-   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+14. mrs hackney oh my good that crazy old lady threw a temper tantrum when we told her we couldn  t find any empty boxes in the school like downright stamping her feet and yelling ! empty boxes ! empty boxes she was also try to get us to follow school mandated rules by saying if we didn  t she would get turned into a toad by the principal . we were in ninth grade . she also was like frantically crazy about the school rules . like actually loyal to them . if you want me too i have plenty more stories from her .
+   (ID: 6e7cd3892c49f30c5999e4b7337f95be97df0c1b)
 
-15. I am a male.
-   (ID: 6fa65e005cc7ba05dc62c263af1ea289902ce6d1)
+15. got my wife to squirt
+   (ID: c21f8d5819115eb61914aa55dbbc727a12117bef)
 
-16. I am a male.
-   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+16. had a kid take my final and use it to cheat , got busted and is still in the program . potentially will graduate with a degree that looks like mine and i bust my ass to get my good grades . but i ' m not bitter . fuckers
+   (ID: 37dcb77e38bb95527b0376694dc5852e5c3012eb)
 
-17. I am a male.
-   (ID: b7af56426174b182a97c67df12c64d320bf51d61)
+17. a girl on the street who struck up a conversation with me about politics , back in digit . she seemed well informed , well spoken , intelligent , etc . she was conservative leaning , but disliked the republican party for being political hacks and not representing their base properly . she and i talked about the election in spevifics and she obviously didn ' t like obama . the policies that he was promising were things that she wasn ' t a fan of , plus the fact that she was unhappy about the direction the nation was moving . i agreed , in general . i wasn ' t a fan of all obama ' s policy promises , but she took it as me digit  agreeing . then she handed me a paper and asked me if i could attend a meeting . it was for a neo nazi group . i pointed that out . she flashed me her digit arm tattoo . i handed her back the paper , then left as she yelled out how i was handing the future to the " halfbreed sand nigger in chief " and that was the day i learned to find out what if anything someone is selling , before investing time in a political discussion . she was so nice , so reasonable , so very polite . all to sucker people in .
+   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
 
-18. I am a male.
-   (ID: 57e23377d2e20446272558e1ff75f7e0cf1b0049)
+18. you think you have a brain damage , then you kinda realize that you are asleep and try to start a self induced dream about pornography and it does not work , so you just hang back until you wake up
+   (ID: 53aa6c267ff5eccf891e178786d41ca5df80a5de)
 
-19. I am a male.
-   (ID: e82ed26542949c55066d4b6510733c7a5f847704)
+19. i had some idiot friends back then . i still don  t know what they did , but it  s whatever .
+   (ID: 88279b92dca36b3b3c236d960135a2afe2e68b33)
 
-20. I am a male.
-   (ID: c374848a7cde05ee9d6d14f7ab991b3b11f71a87)
+20. somebody once stole an eraser from my desk
+   (ID: b5e15026c378d181e66e2b38bfc245705510a727)
+
+
+--- PersonaChat ---
+Total from this dataset: 15
+
+1. i've been in 2 car crashes in my life .
+   (ID: conversation_191)
+
+2. my mother raised me since my father left when i was five years old .
+   (ID: conversation_178)
+
+3. i was adopted .
+   (ID: conversation_180)
+
+4. i ran for political office in 2004 .
+   (ID: conversation_113)
+
+5. i'm a civil war reenactment participant .
+   (ID: conversation_280)
+
+6. i was the first born child .
+   (ID: conversation_127)
+
+7. i lost my arm in a car accident .
+   (ID: conversation_157)
+
+8. i flirted with the dmv officer in order to pass my driving exam .
+   (ID: conversation_257)
+
+9. i thought of joining the military when i was younger .
+   (ID: conversation_113)
+
+10. i escaped and later became a carpenter .
+   (ID: conversation_127)
+
+11. i had to call 911 when i had a terrible headache .
+   (ID: conversation_34)
+
+12. i used to be in the marines .
+   (ID: conversation_36)
+
+13. i was raised by two mothers .
+   (ID: conversation_37)
+
+14. my dreams are often bizarre .
+   (ID: conversation_295)
+
+15. i met my birth mother when i was sixteen .
+   (ID: conversation_180)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 26
+Total from this dataset: 24
 
-1. I am a man.
-   (ID: conversation_24_user_1)
+1. When i was a child i was kidnapped by my uncle.
+   (ID: conversation_68_user_2)
 
-2. I am male.
-   (ID: conversation_10_user_1)
+2. I was an army brat.
+   (ID: conversation_181_user_1)
 
-3. I am a man.
-   (ID: conversation_33_user_2)
+3. I ran for political office in 2004.
+   (ID: conversation_273_user_2)
 
-4. I am male.
-   (ID: conversation_5_user_1)
+4. I once drove a car ! my friend told me what to do while i drove.
+   (ID: conversation_28_user_1)
 
-5. I am thirty years old.
-   (ID: conversation_75_user_2)
+5. I have survived near death experiences.
+   (ID: conversation_279_user_2)
 
-6. I m a girl.
-   (ID: conversation_58_user_2)
+6. I broke my nose when i was ten.
+   (ID: conversation_163_user_2)
 
-7. I am male.
-   (ID: conversation_7_user_1)
+7. I thought of joining the military when i was younger.
+   (ID: conversation_273_user_2)
 
-8. I am male.
-   (ID: conversation_8_user_1)
+8. I once drove a car ! my friend told me what to do while i drove.
+   (ID: conversation_26_user_1)
 
-9. I am a girl.
-   (ID: conversation_80_user_1)
+9. I flirted with the dmv officer in order to pass my driving exam.
+   (ID: conversation_233_user_2)
 
-10. I am a man.
-   (ID: conversation_22_user_1)
+10. I broke my arm skiing once.
+   (ID: conversation_263_user_2)
 
-11. I am a girl.
-   (ID: conversation_79_user_1)
+11. I grew up as an orphan.
+   (ID: conversation_66_user_2)
 
-12. I am a woman.
-   (ID: conversation_57_user_2)
+12. I ve broken my arm twice.
+   (ID: conversation_223_user_1)
 
-13. I am twenty five years old.
-   (ID: conversation_22_user_1)
+13. I use to be a wild child.
+   (ID: conversation_48_user_2)
 
-14. I am a girl.
-   (ID: conversation_81_user_1)
+14. I met my husband when i was a freshman in college.
+   (ID: conversation_32_user_1)
 
-15. I am male.
-   (ID: conversation_11_user_1)
+15. I was a wild child in my younger years.
+   (ID: conversation_30_user_2)
 
-16. I am male.
-   (ID: conversation_9_user_1)
+16. I broke my nose in 5th grade.
+   (ID: conversation_114_user_2)
 
-17. I am a man.
-   (ID: conversation_21_user_1)
+17. I was an army brat.
+   (ID: conversation_180_user_1)
 
-18. I am a girl.
-   (ID: conversation_78_user_1)
+18. I once drove a car ! my friend told me what to do while i drove.
+   (ID: conversation_27_user_1)
 
-19. I m a older woman.
-   (ID: conversation_60_user_2)
+19. I lost my arm in a car accident.
+   (ID: conversation_141_user_2)
 
-20. I am a girl.
-   (ID: conversation_76_user_1)
+20. I was an army brat.
+   (ID: conversation_179_user_1)
 
 
 ============================================================

@@ -1,0 +1,246 @@
+CLUSTER 74
+============================================================
+Total statements in cluster: 147
+
+Dataset distribution in this cluster:
+  FoCus: 3 (2.0%)
+  MSC: 44 (29.9%)
+  PEC: 4 (2.7%)
+  PER-CHAT: 1 (0.7%)
+  PersonaChat: 32 (21.8%)
+  SyntheticPersonaChat: 63 (42.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I have a boyfriend who is a rock climber.
+   (ID: D4619DV1O1OP_11)
+
+2. I have a lot of friends who are in the Air Force.
+   (ID: JW0BLP5O75BW_11)
+
+3. I have a brother who is passionate about birds and ornithology.
+   (ID: A06HPOO7OWPE_11)
+
+
+--- MSC ---
+Total from this dataset: 44
+
+1. My dad is a pilot.
+   (ID: dialog_58_speaker_2)
+
+2. My dad was a police officer.
+   (ID: dialog_34_speaker_1)
+
+3. My father is a pilot on a major airline.
+   (ID: dialog_29_speaker_1)
+
+4. My dad used to be employed at general electrics.
+   (ID: dialog_11_speaker_2)
+
+5. I am an author like my father.
+   (ID: dialog_9_speaker_2)
+
+6. My mom was a rn.
+   (ID: dialog_100_speaker_2)
+
+7. My parent educates others.
+   (ID: dialog_42_speaker_1)
+
+8. My dad is a priest.
+   (ID: dialog_40_speaker_2)
+
+9. My dad is a cop.
+   (ID: dialog_34_speaker_1)
+
+10. My father recently retired from GE.
+   (ID: dialog_11_speaker_2)
+
+11. My mother works at kroger.
+   (ID: dialog_53_speaker_1)
+
+12. My dad is a priest.
+   (ID: dialog_98_speaker_2)
+
+13. My father is a book writer.
+   (ID: dialog_38_speaker_2)
+
+14. My mother is a nurse.
+   (ID: dialog_100_speaker_2)
+
+15. My spouse runs a car fixing business.
+   (ID: dialog_101_speaker_1)
+
+16. My father flies for delta.
+   (ID: dialog_29_speaker_1)
+
+17. My spouse is a member of the military.
+   (ID: dialog_40_speaker_2)
+
+18. My mom was a rn.
+   (ID: dialog_45_speaker_2)
+
+19. My father is a book writer and he just wrote a sci fiction book on time travel.
+   (ID: dialog_38_speaker_2)
+
+20. My mother is a pro cleaner.
+   (ID: dialog_39_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i met a 40 year old dude who could n’t enlist because of the 28 age limit .
+   (ID: ChallengeTaken99)
+
+2. i know a ssgt who ’s 39 .
+   (ID: ChallengeTaken99)
+
+3. i have a handyman that i swear by and no job is too small or big .
+   (ID: notlikethat1)
+
+4. i know a guy that was 83 .
+   (ID: deputydan_scubaman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. my dad is a cop . sometimes other cops would come around .
+   (ID: be9f60605270d73ac3a4e5b587575b1f65df15f5)
+
+
+--- PersonaChat ---
+Total from this dataset: 32
+
+1. my mother is a dentist .
+   (ID: conversation_161)
+
+2. my dad is an airline pilot .
+   (ID: conversation_58)
+
+3. my father used to be a cop .
+   (ID: conversation_203)
+
+4. my father worked for ge .
+   (ID: conversation_11)
+
+5. my father is a preacher .
+   (ID: conversation_98)
+
+6. my mom teaches kindergarten and my dad is a tax assessor .
+   (ID: conversation_79)
+
+7. my father was an author .
+   (ID: conversation_38)
+
+8. my father is a school teacher , he teaches middle school .
+   (ID: conversation_293)
+
+9. my mother is a teacher .
+   (ID: conversation_135)
+
+10. my mother was a sunday school teacher .
+   (ID: conversation_200)
+
+11. my father was a famous actor .
+   (ID: conversation_154)
+
+12. my dad works at the mill and my mom is a teacher .
+   (ID: conversation_118)
+
+13. my boyfriend works for nasa .
+   (ID: conversation_37)
+
+14. my dad worked for home depot .
+   (ID: conversation_86)
+
+15. my father is a preacher .
+   (ID: conversation_40)
+
+16. my mother is a well known celebrity .
+   (ID: conversation_280)
+
+17. my mom is a checker at the local grocery store .
+   (ID: conversation_221)
+
+18. my father worked for ge .
+   (ID: conversation_47)
+
+19. my father was an author .
+   (ID: conversation_166)
+
+20. my husband is a soldier in the us army .
+   (ID: conversation_40)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 63
+
+1. My mother has her own fashion brand.
+   (ID: conversation_187_user_1)
+
+2. My mother was a teacher.
+   (ID: conversation_96_user_1)
+
+3. My mother is a retired teacher.
+   (ID: conversation_286_user_2)
+
+4. My mother has her own fashion brand.
+   (ID: conversation_188_user_1)
+
+5. My mother was a teacher.
+   (ID: conversation_94_user_1)
+
+6. My mother was a nurse.
+   (ID: conversation_265_user_1)
+
+7. My wife use to be a teacher.
+   (ID: conversation_155_user_1)
+
+8. My mom is a nurse.
+   (ID: conversation_240_user_2)
+
+9. My mother was a nurse.
+   (ID: conversation_93_user_2)
+
+10. My husband is an author and we have twins together.
+   (ID: conversation_83_user_2)
+
+11. My husband in an engineer.
+   (ID: conversation_65_user_1)
+
+12. My mother has her own fashion brand.
+   (ID: conversation_218_user_1)
+
+13. My mother is a teacher.
+   (ID: conversation_107_user_1)
+
+14. My mother is a housemaid.
+   (ID: conversation_202_user_2)
+
+15. My father is a mechanic.
+   (ID: conversation_37_user_1)
+
+16. My wife use to be a teacher.
+   (ID: conversation_154_user_1)
+
+17. My mom is a nurse.
+   (ID: conversation_146_user_2)
+
+18. My father is a retired police officer.
+   (ID: conversation_177_user_2)
+
+19. My dad works offshore.
+   (ID: conversation_299_user_2)
+
+20. My father is a mechanic.
+   (ID: conversation_40_user_1)
+
+
+============================================================

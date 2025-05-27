@@ -1,15 +1,15 @@
 CLUSTER 4
 ============================================================
-Total statements in cluster: 400
+Total statements in cluster: 576
 
 Dataset distribution in this cluster:
-  FoCus: 122 (30.5%)
-  MPChat: 6 (1.5%)
-  MSC: 36 (9.0%)
-  PEC: 159 (39.8%)
-  PER-CHAT: 51 (12.8%)
-  PersonaChat: 11 (2.8%)
-  SyntheticPersonaChat: 15 (3.8%)
+  FoCus: 8 (1.4%)
+  MPChat: 25 (4.3%)
+  MSC: 32 (5.6%)
+  PEC: 294 (51.0%)
+  PER-CHAT: 118 (20.5%)
+  PersonaChat: 22 (3.8%)
+  SyntheticPersonaChat: 77 (13.4%)
 
 ============================================================
 
@@ -17,367 +17,415 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 122
+Total from this dataset: 8
 
-1. I have not been to Cornwall.
-   (ID: W67GZU3ZXI46_9)
+1. I adore flowers,
+   (ID: LFDYLQP6HP80_7)
 
-2. I have never traveled by a ship.
-   (ID: TGZJNX488SLV_11)
+2. I would like to meet Pratibha Patil.
+   (ID: KGYT5MMVNDSG_11)
 
-3. I hope to explore more of Nevada.
-   (ID: VV6OHC4AWH3L_11)
+3. I adore mermaids.
+   (ID: DAT5H5H80JCW_7)
 
-4. I would like to visit Banja of Peja at the end of the year.
-   (ID: LYYSTNQ9MBLY_11)
+4. I love the show.
+   (ID: 7KWHXU9MOJRA_11)
 
-5. I have visited the Canadian National Exhibition Stadium.
-   (ID: NMEFJE64KZ1F_11)
+5. I like bells, I think they're pretty.
+   (ID: CBOI96AOZRK6_11)
 
-6. I would like to fish at Little Butte Creek in the summer again.
-   (ID: AN8LSF1PEYK2_11)
+6. I love Canadian National No. 89.
+   (ID: M6QLMFHJ3CAF_11)
 
-7. I want to visit Kentucky.
-   (ID: N3BKTMTKN6PG_11)
+7. I hope I could play basketball better.
+   (ID: R2DBMEQOL0NY_9)
 
-8. I wish I could visit the County of Champagne.
-   (ID: TDUTQ7NCYJ1S_11)
-
-9. I would like to visit Brisbane.
-   (ID: MJ8L7IHV13N8_11)
-
-10. I want to visit Malta.
-   (ID: WXYJ15QP91WP_7)
-
-11. I have been to the River Hudson.
-   (ID: XXU24CBOXMRE_7)
-
-12. I want to visit Utah.
-   (ID: 942CCWXHPUZT_11)
-
-13. I have never been to Europe before.
-   (ID: RUXEW8EYORSZ_11)
-
-14. I hope to visit New York City.
-   (ID: MP1ZK22Q90C9_11)
-
-15. I have taken a ride on the Smiler.
-   (ID: MLUZD1LRALV9_11)
-
-16. I would like to go to Texas.
-   (ID: Z8RPC24EURS4_7)
-
-17. I am interested in World Heritage Sites.
-   (ID: WXYJ15QP91WP_7)
-
-18. I want to visit a popular landmark.
-   (ID: B623Z1BXC8IT_11)
-
-19. I would like to go to North Carolina.
-   (ID: G6QWKZ4CTWVW_11)
-
-20. I hope to visit Canada.
-   (ID: QTNNKQN2EVU5_11)
+8. I love bells.
+   (ID: 9IFEU12EAOWB_11)
 
 
 --- MPChat ---
-Total from this dataset: 6
+Total from this dataset: 25
 
-1. what kind of border should i do?
-   (ID: Crilbyte)
+1. i'm in love with pompoms and braided ear flaps <3
+   (ID: ddizzle23)
 
-2. my first picture post ...who says iowa is all flat and corn fields?
-   (ID: iowajaycee)
+2. i have the best hubby
+   (ID: FormalSwimming)
 
-3. how my hometown in nevada normally looks compared to how it currently looks due to the california rim fire.
-   (ID: evantide)
+3. this is obie,my best friend companion and copilot.
+   (ID: skrivitor)
 
-4. i had a super talented photographer visit a bit ago
+4. i love a good boy in plaid
+   (ID: kentobean123)
+
+5. i'm in love right now
+   (ID: FormalSwimming)
+
+6. this is my favorite 3 top so far.
    (ID: jlb4est)
 
-5. it's a jurassic kind of world - oahu, hawai'i
-   (ID: River_Lethe)
+7. i love these guys!
+   (ID: cuppcatt)
 
-6. all of my friends think nevada is ugly...
-   (ID: evantide)
+8. my hubby makes me so happy
+   (ID: FormalSwimming)
+
+9. i made this outlook.
+   (ID: gelimausi)
+
+10. in response to the thicc-lad posted earlier, i present the thinn-twinns.
+   (ID: ambora)
+
+11. i like bunny butts and i cannot lie!
+   (ID: drfrank1982)
+
+12. i’m in love
+   (ID: FoxInKneeSocks)
+
+13. you get three guesses on how my day is going and the first two don't count.
+   (ID: cigarjack)
+
+14. i heart you guys a lot
+   (ID: jlb4est)
+
+15. hello it is i!
+   (ID: kentobean123)
+
+16. i think im in loveee!!
+   (ID: Tanston)
+
+17. [fo] i made this outlook.
+   (ID: gelimausi)
+
+18. i'm in love with spooky and glitter.
+   (ID: skorletun)
+
+19. my hubby is the best
+   (ID: FormalSwimming)
+
+20. i'm in love.
+   (ID: Soapy_Von_Soaps)
 
 
 --- MSC ---
-Total from this dataset: 36
+Total from this dataset: 32
 
-1. I like to travel to Ireland and Australia.
-   (ID: dialog_9_speaker_2)
+1. I am fond of indigo.
+   (ID: dialog_23_speaker_2)
 
-2. I travel a lot
-   (ID: dialog_9_speaker_2)
+2. I've a beautiful wife.
+   (ID: dialog_78_speaker_2)
 
-3. Las vegas was my stomping ground when I was young.
-   (ID: dialog_10_speaker_1)
-
-4. I like to ski. I want to ski in Europe.
-   (ID: dialog_33_speaker_1)
-
-5. I will holiday in Hawaii.
-   (ID: dialog_16_speaker_2)
-
-6. I visited the park on Main and 4th recently.
-   (ID: dialog_11_speaker_2)
-
-7. I travel a lot. I like to travel to Ireland and Australia.
-   (ID: dialog_9_speaker_2)
-
-8. I have never been out of the US either.
-   (ID: dialog_8_speaker_2)
-
-9. I try to travel once a year.
+3. I love shoes.
    (ID: dialog_38_speaker_2)
 
-10. I don't travel.
-   (ID: dialog_8_speaker_1)
+4. I cannot be alone at night.
+   (ID: dialog_61_speaker_2)
 
-11. I have never visited Japan.
-   (ID: dialog_9_speaker_2)
+5. I daydream about a fancier lifestyle.
+   (ID: dialog_54_speaker_2)
 
-12. I rode my bike to the last Comic-con that was in town.
-   (ID: dialog_29_speaker_2)
+6. I wish I were slimmer.
+   (ID: dialog_74_speaker_2)
 
-13. I like hiking outdoors. I like photography.
-   (ID: dialog_13_speaker_1)
+7. I like to embrace my day.
+   (ID: dialog_46_speaker_1)
 
-14. I do not travel much.
-   (ID: dialog_8_speaker_2)
+8. My significant other is my best friend.
+   (ID: dialog_81_speaker_2)
 
-15. I've never been to Peru. I am not into hiking. I think exploring is fun.
-   (ID: dialog_9_speaker_2)
+9. I enjoy name brand sport shoes.
+   (ID: dialog_62_speaker_2)
 
-16. I routinely travel to Europe and South America. I plan on travelling to Japan. I would like to explore the mountain areas and see the world heritage sites.
-   (ID: dialog_9_speaker_1)
+10. I have a beautiful wife.
+   (ID: dialog_52_speaker_2)
 
-17. I love to travel. I take my vacation after Christmas.
-   (ID: dialog_13_speaker_2)
+11. I love bright clothing.
+   (ID: dialog_64_speaker_2)
 
-18. I am planning a few family getaways during summer break.
-   (ID: dialog_9_speaker_2)
+12. I love my girlfriend.
+   (ID: dialog_89_speaker_2)
 
-19. I like hiking more than skiing. I want find out more about photography. I will take pictures on my vacation.
-   (ID: dialog_13_speaker_2)
+13. I enjoy horsing around with the guys.
+   (ID: dialog_96_speaker_1)
 
-20. I travel a lot. I like to travel to Ireland and Australia. I have never visited Japan. I am planning a few family getaways during summer break. I've never been to Peru. I am not into hiking. I like visiting new cities. I like trying new foods. My travel inspires my stories.
-   (ID: dialog_9_speaker_2)
+14. I love the color black
+   (ID: dialog_69_speaker_1)
+
+15. I want candy.
+   (ID: dialog_4_speaker_1)
+
+16. I also love to live life to the fullest.
+   (ID: dialog_46_speaker_2)
+
+17. Green is my favorite color.
+   (ID: dialog_47_speaker_2)
+
+18. I wish I had a boyfriend.
+   (ID: dialog_95_speaker_2)
+
+19. I like my boo.
+   (ID: dialog_89_speaker_2)
+
+20. I love the color red.  I like to jog.
+   (ID: dialog_77_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 159
+Total from this dataset: 294
 
-1. i spawned outside of said lab , does that count ?
-   (ID: oussamarer)
+1. i love the white beard crew .
+   (ID: CarlofTime)
 
-2. i hosted parties with the themes " hawaii -- of the future " and " zillionaires at play " .
-   (ID: combover)
+2. i love dandelions .
+   (ID: LooksAtClouds)
 
-3. i ’d nope the hell outta that place
-   (ID: godspeedone)
-
-4. i love wearing a simple wrap dress when i travel .
-   (ID: napalmkitten)
-
-5. i shot a picture of orion over a windmill earlier tonight , just outside haarlem .
-   (ID: zsnajorrah)
-
-6. i 'm not from the states and do n't know these things : d
-   (ID: Mende)
-
-7. i 've seen them in spencer 's before .
-   (ID: rspewth)
-
-8. i 'm guessing dollar stores would have a stash as well .
-   (ID: MILeft)
-
-9. i have one in my yard .
-   (ID: rspewth)
-
-10. i 've been to the desert and never met one of these fellas .
-   (ID: VanGoJourney)
-
-11. i wonder how long it 's been abandoned .
-   (ID: trav110)
-
-12. i thought this said * attitude * , and wondered if people in colorado were naturally more sassy .
-   (ID: Shrub74)
-
-13. i 'm looking for places to play pickleball in chicago .
-   (ID: closetotheedge48)
-
-14. i would ask at the rocky mountain house tourist information center honestly .
+3. i have sheep , feel free to film !
    (ID: exotics)
 
-15. i think in the early days , their stuff was made in the usa .
-   (ID: BabblingBunny)
+4. i dig it .
+   (ID: Nobody-Likes-Change)
 
-16. i ’ve found some treasures on letgo in socal before
-   (ID: bummang)
+5. i have to say this a lot !
+   (ID: boo3114)
 
-17. i 've been to middle east.beautiful town in sweden
-   (ID: ChallengeTaken99)
+6. i like irises .
+   (ID: wooq)
 
-18. i have some of those , but in another corner of the yard .
-   (ID: Nheea)
+7. i 'm all about that bass
+   (ID: alextound)
 
-19. i saw a guy sitting at the water 's edge , overlooking the sunset over the city .
-   (ID: zsnajorrah)
+8. i am forever young .
+   (ID: ddshroom)
 
-20. i caught it rising behind a windmill .
-   (ID: zsnajorrah)
+9. i loooove you .... shhhhhhh
+   (ID: notjawn)
+
+10. i ... am ... so ...
+   (ID: snapsnaptomtom)
+
+11. i ’m calling it now : 500 + upvotes and 50 + comments .
+   (ID: Dustin_Bromain)
+
+12. i always smile when seeing different friends , coworkers , etc .
+   (ID: blue_thingy)
+
+13. i like floofy butts and i can not lie
+   (ID: KattenMeisje)
+
+14. i no longer feel alone on this earth , as this was my question as well .
+   (ID: dkinmn)
+
+15. i 'm all about jeans and plaid .
+   (ID: KikAtWorkFL)
+
+16. i love me some posty . 2 .
+   (ID: jessibabyy11)
+
+17. i just realized today i look at everything through ‘ hurt ’ eyes .
+   (ID: snapsnaptomtom)
+
+18. i love you in the morning
+   (ID: notjawn)
+
+19. i 'm so ...
+   (ID: amirman)
+
+20. i 'm sure you can , mister fanchy schmancy pants !
+   (ID: jay456)
 
 
 --- PER-CHAT ---
-Total from this dataset: 51
+Total from this dataset: 118
 
-1. when showing friends who are new to csgo or counterstrike in general i always go to community or casual classic servers just to get the " counterstrike " feeling and learn the maps . if you have no idea about what you have to do in the game it ' s no real use to head for competitive . ive met so many people in matchmaking who didnt even know that you have to plant or even defuse the bomb . knowing how to " eco " or what to buy is something you will learn on your own later on . to learn how the game even works would be my first priority . a lot of my friends are coming from games like cod and are new to the fact you have to buy your weapons and they still dont understand why you cannot buy your weapons you want every round .
-   (ID: 03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa)
+1. One of my favorite things is flowers.
+   (ID: 18cbf1c145fcc3d10b99255dd1de8fb616ecb38f)
 
-2. everything you just listed off can be said about alot of other places outside of the united states included i guess they ' re influential pop culture wise , but not much else
-   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+2. you are enjoying a lot . nice one .
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
 
-3. i want to do it at night on a road that barely anyone uses even at the day time .
-   (ID: f491028c794855d1611365b07d4525f7b98173ae)
+3. One of my favorite things is ashley ’.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
 
-4. i feel like if i went there , everyone would know my name . coach would pull me a beer and i could put the world to rights with norm .
-   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+4. I am big fan.
+   (ID: a62b69d15e6c81a1a1acb2d0dd4bf9119038ff09)
 
-5. yes , it was incredible . particularly given that the ferrari f310 was an absolute dog even in optimum conditions . schuey had irritated the hell out of me for the previous couple of seasons my flair will probably tell you why but nobody could deny his genius after that digit season .
-   (ID: 4420123abde71e42df266171d2bcb8a90afeed93)
+5. we don  t really think of it that much , and yes we can feel it when hugging , but don  t care that much about it
+   (ID: 95acb2ca6e2c4b0e43ae1565f6eb3f529105e156)
 
-6. i love to travel , but shit i ' ll take the money . i ' ll just use vr to see the world .
-   (ID: bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809)
+6. One of my favorite things is browns.
+   (ID: 8df56ee782672f11aeb0f19bf7978b1b1c04e678)
 
-7. well you defo need to go . great festival . but i live in tilburg you can always hit me up . don ' t know if i will go .
-   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+7. welcome dear pansexual user !
+   (ID: c766fd259305ab2b0cd283ae4331fb90fc52e356)
 
-8. thank you so much for answering my questions ! i have some follow up questions . regarding the shower situation , in the navy , are you allowed to wake up earlier than your peers to shower or does everyone have to shower at the same time ? like , can you wake up earlier , quickly shower and get dressed ? so while most are asleep , i ' ll avoid having many people surrounding me ? open showers aside in boot camp , will i go through any other situations where i ' d be openly nude among my peers ? or is everything regarding medical  etc . you will have privacy ? i don ' t mind being " known " if it ' s one or two other professional doctors  etc . but i ' m worried about that when it comes to other cadets .   x200b  when you say steady supply of t , do you mean at home or physically with me ? thank you again ! i truly appreciate it !
-   (ID: 3510b342268f3bc4c3f1e402201d7c565dfb7648)
+8. I am always.
+   (ID: de078b4353965122ac7bf05afe8d580d01d4a928)
 
-9. hmmmm . what would be a good place ? get everyone to head out to a wheeling spot like hot springs ? i ' m not coming up with a good one between me and you .
-   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+9. hannahsherman   i am a bot that helps link to subreddits .   i also keep an archive of all boutinela posts  stories at  boutinelafeed .
+   (ID: 63a01bcbc0844858aae3db187005728f6c6af2cb)
 
-10. please note  i am sorry if i sound ridiculous or well off the mark . i ' m from nrth qld , and have no real sense of what the city of adelaide is like . i am happy to not live near the heart of the city , so long as my labouring  standard job type partner can work close enough to the home , there is a nice school in the area , and there would be a doctor or hospital close enough if one of us or my kids needed emergency care . also being from the north , our threat is cyclones so i would be clueless and terrified in a fire . so i would not be the best to live in the middle of a fire threat zone etc . thanks for being patient and i do google earth the area a lot . i like the look of the suburbs in the area i circled but i ' m not sure if they are actually suburbs or if they are small communities considered " way out .
-   (ID: 7a3a98777bf2cebb6bd14409075a19b82035e535)
+10. I am soooo.
+   (ID: a5976f282a96c036f5e4d14957305323c9a5776d)
 
-11. very interesting ! also interesting that you had a similar experience to mine . dengue fever is very serious . looks like if i ever go back there will need to some immunizations or something first , hey ? i lived there digit years ago . saying that makes me feel old . maybe i am old .
-   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+11. i can confirm this is true . but for me it  s anytime i even think of her .
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
 
-12. my fiancee and i will be at universal for digit days of our honeymoon in november , we ' re excited to check out the wwohp ! what do you recommend should be at the top of our to do lists when checking out the park ?
-   (ID: 65e18a8843fe1a6d644e4fe6a3b227426a6b9103)
+12. savanacallahan   i am a bot that helps link to subreddits .   i also keep an archive of all boutinela posts  stories at  boutinelafeed .
+   (ID: 63a01bcbc0844858aae3db187005728f6c6af2cb)
 
-13. I live in better country.
-   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+13. One of my favorite things is hue.
+   (ID: 3f4f5511095f668b3c84312b8bfeb87b30dd8f03)
 
-14. i ran around like a crazy person on my honeymoon in new zealand and have no regrets about trying to see digit different places in digit days , but we had a campervan .   x200b  consider how frequently you can handle  want to pack and unpack and carry your luggage to a new location via public transit . using luggage shipping carriers is useful but they don ' t transport it for you in the same real time you ' ll need your stuff . what are your top priorities for this trip ? do you like crowds or nature or a mix ? will it be obon stuff is expensive , closed , and japanese people are all on vacation ?
-   (ID: eace5bb8fae91afe15af3966cf6b9189772fe2cc)
+14. One of my favorite things is date mike.
+   (ID: 5481b7a3276de2b79473c4a65d5bb2506e36d79d)
 
-15. i don ' t even know what to say , like do you drink wine and read books all day explain please cause being in france on holiday and try to get someone to speak english is impossible just because they refuse it ? i myself prefer the very down to earth , high all day on herbs  tea mess around with chemicals dutch lifestyle .
-   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+15. i can ' t think of anything better , frankly .
+   (ID: f4e4929bb0bef09e7eb72aaccf20c2d9454729c7)
 
-16. free time ? where can i get some of that for summer ?
-   (ID: 8e9d9ac876fd2e0508d95d3e43def46faae3c312)
+16. One of my favorite things is mannequin.
+   (ID: b3ce8c3aa09031bfd6d4fa7836489539a481a3f4)
 
-17. i found a good price on alaska  singapore airlines , which wins " best airline " every year . route is jfk to lax to nrt so it ' s not direct . jal or ana direct would definitely be the best , but they will all have hot towels and good cabin crew .
-   (ID: eace5bb8fae91afe15af3966cf6b9189772fe2cc)
+17. where can i see more from you ?
+   (ID: 8f5b0c902ce9c2bf19ecdb9205cb3d9f2a7c14fa)
 
-18. where the hell are you finding this for  digit a bottle ? i ' m in tn , so just south of where it ' s made , and it ' s like  digit here .
-   (ID: ecc98de1e575d7e863a2124b364b8ed586778ba5)
+18. somedays i feel like i ' m the most beautiful of god ' s creations . other days i feel gross .
+   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
 
-19. this is stupid . how can we call for a better america then specifically arrange breaking the laws we set in place . i guarantee you there  s nothing left at area digit , we all know about it , it  s a tourist zone . we should probably be worried about area digit or digit , that  s probably where they moved anything . lol
-   (ID: ef2135d90df57b27df5e96791848d8d9201afd29)
+19. brooke  swallow   i am a bot that helps link to subreddits .   i also keep an archive of all boutinela posts  stories at  boutinelafeed .
+   (ID: 63a01bcbc0844858aae3db187005728f6c6af2cb)
 
-20. depends what you mean by culture . i ' ve lived in several i would say and i ' m currently living in an east asian culture . i wouldn ' t really say i respect cultures as a whole rather than certain aspects of them .
-   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+20. One of my favorite things is hearing women.
+   (ID: 833bc208589bf538daebb1a7e14d70fa8a3b7808)
 
 
 --- PersonaChat ---
-Total from this dataset: 11
+Total from this dataset: 22
 
-1. i've traveled to both ireland and australia .
-   (ID: conversation_9)
+1. i believe in love at first sight .
+   (ID: conversation_242)
 
-2. i larp on the weekends in the forest .
-   (ID: conversation_84)
+2. my favorite color is orange .
+   (ID: conversation_151)
 
-3. i've visited 12 national parks in the us .
-   (ID: conversation_83)
+3. my favorite flower is a rose .
+   (ID: conversation_129)
 
-4. i like to travel .
-   (ID: conversation_9)
+4. i wake early to watch the sun rise every day .
+   (ID: conversation_148)
 
-5. i'm hoping to move to australia soon to marry my boyfriend .
-   (ID: conversation_77)
+5. green is my favorite color .
+   (ID: conversation_196)
 
-6. before i die , i want to skydive .
-   (ID: conversation_50)
+6. i want to be desired .
+   (ID: conversation_288)
 
-7. i've traveled to both ireland and australia .
-   (ID: conversation_38)
+7. i am a free spirit .
+   (ID: conversation_110)
 
-8. i ve never been to the city .
-   (ID: conversation_42)
+8. i m never still .
+   (ID: conversation_265)
 
-9. i traveled around the world in a boat .
-   (ID: conversation_60)
+9. i love the tigers baseball team .
+   (ID: conversation_93)
 
-10. before i die , i want to skydive .
-   (ID: conversation_92)
+10. my favorite color is hunter green .
+   (ID: conversation_249)
 
-11. i like playing ultimate in the park with my guys sometimes .
-   (ID: conversation_43)
+11. i'm overall happy with life .
+   (ID: conversation_128)
+
+12. green is my favorite color .
+   (ID: conversation_47)
+
+13. my favorite color is yellow .
+   (ID: conversation_186)
+
+14. i'm a happy person .
+   (ID: conversation_163)
+
+15. my favorite color is green .
+   (ID: conversation_207)
+
+16. my favorite color is blue .
+   (ID: conversation_23)
+
+17. i love my girlfriend .
+   (ID: conversation_81)
+
+18. i love my girlfriend .
+   (ID: conversation_89)
+
+19. my favorite color is blue .
+   (ID: conversation_283)
+
+20. my favorite flower is a rose .
+   (ID: conversation_151)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 15
+Total from this dataset: 77
 
-1. I vacation along lake michigan every summer.
-   (ID: conversation_0_user_2)
+1. My favorite color is blue.
+   (ID: conversation_173_user_2)
 
-2. I always travel alone.
-   (ID: conversation_9_user_2)
+2. My favorite flower is a lily.
+   (ID: conversation_144_user_1)
 
-3. I love traveling.
-   (ID: conversation_72_user_1)
+3. I am a happy person.
+   (ID: conversation_139_user_1)
 
-4. I love traveling.
-   (ID: conversation_74_user_1)
+4. Favorite color is green.
+   (ID: conversation_115_user_1)
 
-5. I vacation along lake michigan every summer.
-   (ID: conversation_87_user_2)
+5. My favorite color is blue.
+   (ID: conversation_196_user_2)
 
-6. I have always wanted to travel to ireland or puerto rico.
-   (ID: conversation_48_user_2)
+6. My favorite color is blue.
+   (ID: conversation_78_user_1)
 
-7. I like to travel.
-   (ID: conversation_12_user_1)
+7. My favorite color is red.
+   (ID: conversation_112_user_2)
 
-8. I travel often.
-   (ID: conversation_14_user_2)
+8. My favorite flower is a rose.
+   (ID: conversation_211_user_1)
 
-9. I love to travel.
-   (ID: conversation_7_user_2)
+9. My favorite color is blue.
+   (ID: conversation_154_user_2)
 
-10. I like to travel.
-   (ID: conversation_13_user_1)
+10. My favorite color is blue.
+   (ID: conversation_65_user_2)
 
-11. Before i die , i want to skydive.
-   (ID: conversation_82_user_2)
+11. My favorite color is red.
+   (ID: conversation_71_user_1)
 
-12. I recently moved to sweden.
-   (ID: conversation_18_user_2)
+12. My favorite color is blue.
+   (ID: conversation_162_user_1)
 
-13. I love traveling.
-   (ID: conversation_75_user_1)
+13. I like the color red.
+   (ID: conversation_250_user_2)
 
-14. I love traveling.
-   (ID: conversation_73_user_1)
+14. My favorite flower is a rose.
+   (ID: conversation_198_user_1)
 
-15. I have visited 12 national parks in the us.
-   (ID: conversation_20_user_2)
+15. I live to not disappoint my loved ones.
+   (ID: conversation_10_user_1)
+
+16. My favorite color is red orange.
+   (ID: conversation_54_user_2)
+
+17. My favorite flower is a rose.
+   (ID: conversation_217_user_1)
+
+18. I am content with my life.
+   (ID: conversation_222_user_2)
+
+19. Favorite color is green.
+   (ID: conversation_110_user_1)
+
+20. My favorite flower is a rose.
+   (ID: conversation_286_user_2)
 
 
 ============================================================

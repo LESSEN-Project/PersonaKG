@@ -1,0 +1,92 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 18
+Cluster persistence (stability): 0.996
+
+Dataset distribution in this cluster:
+  FoCus: 11 (61.1%)
+  MSC: 1 (5.6%)
+  PEC: 1 (5.6%)
+  PersonaChat: 4 (22.2%)
+  SyntheticPersonaChat: 1 (5.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 11
+
+1. I don't like railroad in the vicinity of the city.
+   (ID: NK6WLDJ7W255_7)
+
+2. I don't like WaterNSW.
+   (ID: KHRYE9OFUIMW_9)
+
+3. I don't like North Korea.
+   (ID: TGZJNX488SLV_11)
+
+4. I don't like Earthquakes.
+   (ID: WYFFBVR6YR06_11)
+
+5. I don't like kangaroos.
+   (ID: ATXXTPOD4WEI_11)
+
+6. I don't like Bolivia as a tourist destination.
+   (ID: 77E5QV6TW4WU_11)
+
+7. I don't like Walpole.
+   (ID: 8C87PLCFQ0ZH_11)
+
+8. I don't like canals.
+   (ID: DMD9S9COJOIA_7)
+
+9. I don't like hurricanes.
+   (ID: NOJ4G30KI3T7_11)
+
+10. I don't like Pollution.
+   (ID: AN8LSF1PEYK2_11)
+
+11. I don't like bulldogs.
+   (ID: FGIEUW9ABAQU_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm not a fan of soy products.
+   (ID: dialog_30_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i have this gene - cilantro tastes fucking disgusting .
+   (ID: billclay55raiders)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i never eat veggies .
+   (ID: conversation_96)
+
+2. i don t like the beach .
+   (ID: conversation_94)
+
+3. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+4. i hate the taste of cheese .
+   (ID: conversation_105)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I don t like broccoli.
+   (ID: conversation_264_user_2)
+
+
+============================================================

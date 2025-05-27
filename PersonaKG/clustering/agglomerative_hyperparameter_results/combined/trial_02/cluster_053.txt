@@ -1,0 +1,256 @@
+CLUSTER 53
+============================================================
+Total statements in cluster: 164
+
+Dataset distribution in this cluster:
+  MSC: 34 (20.7%)
+  PEC: 9 (5.5%)
+  PER-CHAT: 4 (2.4%)
+  PersonaChat: 27 (16.5%)
+  SyntheticPersonaChat: 90 (54.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 34
+
+1. I am a vegetarian.
+   (ID: dialog_108_speaker_2)
+
+2. I don't eat a lot of vegetables.
+   (ID: dialog_4_speaker_2)
+
+3. I'm vegan
+   (ID: dialog_65_speaker_2)
+
+4. I am a vegetarian. I've decided to study computer science in college.
+   (ID: dialog_108_speaker_2)
+
+5. I do not eat meat nor dairy.
+   (ID: dialog_20_speaker_2)
+
+6. I am not currently a vegetarian. I work at a pizza restaurant.
+   (ID: dialog_59_speaker_1)
+
+7. I am a meat an potatoes kind of person.
+   (ID: dialog_47_speaker_1)
+
+8. I'm vegan. I like the vegan food at Whole Foods.
+   (ID: dialog_65_speaker_2)
+
+9. I cook with fresh vegetables, though not the ones from my garden. I cook for my family. I like simple food.
+   (ID: dialog_112_speaker_1)
+
+10. I eat a lot of seafood. I like shrimp. I'm not good at cooking.
+   (ID: dialog_105_speaker_1)
+
+11. I do not eat meat.
+   (ID: dialog_108_speaker_2)
+
+12. I only eat meat.
+   (ID: dialog_0_speaker_1)
+
+13. I eat a lot of protein. I like mildly spicy food.
+   (ID: dialog_100_speaker_1)
+
+14. I eat fish all the time.
+   (ID: dialog_104_speaker_2)
+
+15. I'm a vegetarian.
+   (ID: dialog_65_speaker_2)
+
+16. I am a carnivore.
+   (ID: dialog_0_speaker_1)
+
+17. I eat somali food.
+   (ID: dialog_16_speaker_2)
+
+18. I do not eat a lot of vegetables.
+   (ID: dialog_35_speaker_1)
+
+19. I am a vegetarian. I have many friends who also are vegetarians. I like cooking vegetarian dishes for my friends.
+   (ID: dialog_88_speaker_2)
+
+20. I cook with fresh vegetables, though not the ones from my garden.
+   (ID: dialog_112_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 9
+
+1. i 'm a basic , meat n veggie gal lol
+   (ID: Noimnotsally)
+
+2. i am indifferent to the smell of other meats .
+   (ID: AP7497)
+
+3. i m not vegan but health conscious .
+   (ID: John7oliver)
+
+4. i eat as much as i can
+   (ID: Kellen1337)
+
+5. i drink 2l milk a day lol .
+   (ID: Takumi-Fujiwara)
+
+6. i cook a lot of japanese food .
+   (ID: chirpyboyandbartjr)
+
+7. i am not a vegan .
+   (ID: exotics)
+
+8. i 'm a native and i do n't really eat fish .
+   (ID: I_am_not_a_Taco)
+
+9. i drink lots of soda .
+   (ID: Sabiola)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. I am farmer.
+   (ID: 4dbd3fd527caa93836f895d72dfef9276ea4809f)
+
+2. you are what you eat .
+   (ID: 011a531fc3f706d76441a0f95cc8091fd4453dd8)
+
+3. I am vegan.
+   (ID: a168763c82b90dc18ccbbd57533eec2e49d17dc7)
+
+4. i ' m not fat but i ' m overweight . i accept responsibility digit  . i just love alcohol , pizza , and chocolate ice cream what can i say .
+   (ID: 7c5209c3b827e0de0cd436466f80ce09b615606b)
+
+
+--- PersonaChat ---
+Total from this dataset: 27
+
+1. i'm a vegetarian .
+   (ID: conversation_10)
+
+2. i don t eat meat .
+   (ID: conversation_65)
+
+3. i also eat too much french fries .
+   (ID: conversation_290)
+
+4. i like meat too much .
+   (ID: conversation_137)
+
+5. i am primarily a meat eater .
+   (ID: conversation_4)
+
+6. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+7. i am a vegan .
+   (ID: conversation_60)
+
+8. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+9. i am a vegan .
+   (ID: conversation_155)
+
+10. i only eat organic food .
+   (ID: conversation_210)
+
+11. i'm a meat eater .
+   (ID: conversation_116)
+
+12. i'm a vegan .
+   (ID: conversation_151)
+
+13. i'm a vegan .
+   (ID: conversation_205)
+
+14. i like fast food too much .
+   (ID: conversation_171)
+
+15. i eat mainly chinese food .
+   (ID: conversation_271)
+
+16. i'm a vegan .
+   (ID: conversation_259)
+
+17. i'm a vegetarian .
+   (ID: conversation_88)
+
+18. i'm a carnivore .
+   (ID: conversation_146)
+
+19. i'm a farmer .
+   (ID: conversation_157)
+
+20. i'm vegan .
+   (ID: conversation_20)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 90
+
+1. I am a vegan.
+   (ID: conversation_212_user_1)
+
+2. I am a vegan.
+   (ID: conversation_219_user_1)
+
+3. I am a vegan.
+   (ID: conversation_205_user_1)
+
+4. I m a vegan.
+   (ID: conversation_158_user_1)
+
+5. I am vegan.
+   (ID: conversation_133_user_2)
+
+6. I am vegan.
+   (ID: conversation_44_user_1)
+
+7. I am a carnivore.
+   (ID: conversation_297_user_2)
+
+8. I am a farmer.
+   (ID: conversation_141_user_2)
+
+9. I am vegan.
+   (ID: conversation_43_user_1)
+
+10. I am a fruitarian.
+   (ID: conversation_153_user_2)
+
+11. I am a meat eater.
+   (ID: conversation_117_user_2)
+
+12. I only eat at restaurants.
+   (ID: conversation_126_user_2)
+
+13. I am a vegan.
+   (ID: conversation_195_user_1)
+
+14. I am a vegan.
+   (ID: conversation_124_user_2)
+
+15. I m a vegan.
+   (ID: conversation_159_user_1)
+
+16. I am a vegan.
+   (ID: conversation_201_user_1)
+
+17. I eat all take out.
+   (ID: conversation_2_user_1)
+
+18. I am a vegan.
+   (ID: conversation_218_user_1)
+
+19. I am a vegan.
+   (ID: conversation_214_user_1)
+
+20. I am vegan.
+   (ID: conversation_285_user_2)
+
+
+============================================================

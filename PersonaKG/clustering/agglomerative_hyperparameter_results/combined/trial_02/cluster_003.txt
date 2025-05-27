@@ -1,15 +1,15 @@
 CLUSTER 3
 ============================================================
-Total statements in cluster: 318
+Total statements in cluster: 528
 
 Dataset distribution in this cluster:
-  FoCus: 4 (1.3%)
-  MPChat: 6 (1.9%)
-  MSC: 9 (2.8%)
-  PEC: 152 (47.8%)
-  PER-CHAT: 135 (42.5%)
-  PersonaChat: 4 (1.3%)
-  SyntheticPersonaChat: 8 (2.5%)
+  FoCus: 283 (53.6%)
+  MPChat: 2 (0.4%)
+  MSC: 62 (11.7%)
+  PEC: 84 (15.9%)
+  PER-CHAT: 47 (8.9%)
+  PersonaChat: 14 (2.7%)
+  SyntheticPersonaChat: 36 (6.8%)
 
 ============================================================
 
@@ -17,244 +17,379 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 4
+Total from this dataset: 283
 
-1. I once hid in a hollow log during hide and seek as a child.
-   (ID: NETYMHGQTGLI_9)
+1. I will be visiting Toronto.
+   (ID: UXR4EKSRCULN_11)
 
-2. I have a lot of respect for St. Demetrius.
-   (ID: V0DLNYLN813E_11)
+2. I wish I could go hiking.
+   (ID: KN10OGBG14Y2_11)
 
-3. I have a lot of friends who are in the Air Force.
-   (ID: JW0BLP5O75BW_11)
+3. I want to go to Washington DC.
+   (ID: QFCC4W8VUHOO_11)
 
-4. I hate having to stop to pay a road toll.
-   (ID: MJ8L7IHV13N8_11)
+4. I would like to watch fireworks.
+   (ID: GHAH3LR3KR67_11)
+
+5. I am going to China.
+   (ID: UDGAGMKQ9TQ1_11)
+
+6. I would like to visit Wellington.
+   (ID: 81HQ6CXFBQYH_11)
+
+7. I will travel through New South Wales.
+   (ID: MA2EPDC7QHS5_11)
+
+8. I wish to go to Beijing.
+   (ID: UDGAGMKQ9TQ1_11)
+
+9. I am going to Pennsylvania for business.
+   (ID: BY611XJQ5BVM_11)
+
+10. I am a huge fan of traveling the world.
+   (ID: VUQVHZP0LUAH_11)
+
+11. I would like to take a vessel on water.
+   (ID: YWRU353H4NFF_11)
+
+12. I would like to go to New York.
+   (ID: DTX89JENNS0P_11)
+
+13. I am willing to visit Dortmund in this summer.
+   (ID: EUD8WT84YX0Q_11)
+
+14. I would like to visit football stadium.
+   (ID: FCHHL9I1PIW0_11)
+
+15. I would like to do different activities.
+   (ID: MP1ZK22Q90C9_11)
+
+16. I wish I could live near a lake.
+   (ID: KVV5IPK54RRU_11)
+
+17. I have the fantasy of forts.
+   (ID: G6QWKZ4CTWVW_11)
+
+18. I would like to visit Suffolk.
+   (ID: HWMW6AUW4UTK_11)
+
+19. I would like to visit England.
+   (ID: IS9KP8O0CE1M_11)
+
+20. I hope to travel to Los Angeles in the summer.
+   (ID: WYFFBVR6YR06_11)
 
 
 --- MPChat ---
-Total from this dataset: 6
+Total from this dataset: 2
 
-1. having finished the seal, i needed to make something else on the commute.
-   (ID: pokegirl93a)
+1. camping with my best buddy in remote canada for 5 days
+   (ID: drewchie)
 
-2. ‪having finished the seal, i needed to make something else on the commute.
-   (ID: pokegirl93a)
-
-3. my mom gave me a cardboard box and asked me to wrap some chapstick in it.
-   (ID: FoxInKneeSocks)
-
-4. i entered a dangerous area today
-   (ID: Ichishiro)
-
-5. out of the industry for three years, haven't turned my machine on in two.
-   (ID: mattsulli)
-
-6. competed in my first triangulation.
-   (ID: Beardedlantern)
+2. on my way to oregon from az with kayaks and mountain bikes.
+   (ID: iwanttoride)
 
 
 --- MSC ---
-Total from this dataset: 9
+Total from this dataset: 62
 
-1. I ran in high school.
-   (ID: dialog_0_speaker_1)
+1. I want to get my own places.
+   (ID: dialog_24_speaker_2)
 
-2. I played on the basketball team in middle school. I was cut from the team.
-   (ID: dialog_8_speaker_1)
+2. I will holiday in Hawaii.
+   (ID: dialog_16_speaker_2)
 
-3. I shot an arrow the other day!.
-   (ID: dialog_0_speaker_2)
+3. I am going down under to see my fiance.
+   (ID: dialog_77_speaker_2)
 
-4. In my youth I could spell competitively.
-   (ID: dialog_22_speaker_1)
+4. I like to ski. I want to ski in Europe.
+   (ID: dialog_33_speaker_1)
 
-5. I hate overtime.
-   (ID: dialog_28_speaker_1)
+5. I plan on travelling to Japan
+   (ID: dialog_9_speaker_1)
 
-6. In my youth I could spell competitively.
-   (ID: dialog_3_speaker_1)
+6. I like travelling for leisure.
+   (ID: dialog_82_speaker_1)
 
-7. I was a really good runner when I was younger.
-   (ID: dialog_0_speaker_1)
+7. I love travelling.
+   (ID: dialog_113_speaker_2)
 
-8. I had a medical emergency.
-   (ID: dialog_34_speaker_2)
+8. I like to travel. I am thinking about traveling to Mexico.
+   (ID: dialog_113_speaker_1)
 
-9. I have scored ten points in one basketball game before.
-   (ID: dialog_8_speaker_2)
+9. I like hiking more than skiing. I want find out more about photography. I will take pictures on my vacation.
+   (ID: dialog_13_speaker_2)
+
+10. I love travelling and have been to america and mexico.
+   (ID: dialog_113_speaker_2)
+
+11. I like to cook and bake. I have been to San Francisco.
+   (ID: dialog_50_speaker_2)
+
+12. I am also going on vacation. I will be going to the mountains. I like to take pictures while on vacation. I don't have an expensive camera so I use my phone as a camera. I am going on a trip to the Sierra Nevadas with my family.
+   (ID: dialog_112_speaker_1)
+
+13. I dream about moving to Los Angeles. I would love to have a movie premiere.
+   (ID: dialog_87_speaker_1)
+
+14. I have a friend in Tokyo. I am going to go to Tokyo.
+   (ID: dialog_89_speaker_1)
+
+15. I love to travel. I take my vacation after Christmas.
+   (ID: dialog_13_speaker_2)
+
+16. I routinely travel to Europe and South America. I plan on travelling to Japan. I would like to explore the mountain areas and see the world heritage sites.
+   (ID: dialog_9_speaker_1)
+
+17. I might also travel to Japan soon. I've been to Japan in military. I love sushi and green tea ice cream. I know a lot about Japanese sushi. I like pufferfish pizza. I know a great restaurant in Japan.
+   (ID: dialog_89_speaker_2)
+
+18. Seeing the globe is on my bucket list.
+   (ID: dialog_13_speaker_1)
+
+19. I've never been to Peru. I am not into hiking. I think exploring is fun.
+   (ID: dialog_9_speaker_2)
+
+20. I cook for my family, and like to take pictures while on vacation.
+   (ID: dialog_112_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 152
+Total from this dataset: 84
 
-1. i remember being in one of those when i was little and my cheek needed stitches .
-   (ID: adertal)
+1. i 'm going to be out of town that weekend .
+   (ID: Piraticalstyle)
 
-2. i did this to a bowl of oatmeal as i was dashing out the door for work .
+2. i 've been planning a trip to northern wisconsin for the past few weeks .
+   (ID: pyro2927)
+
+3. i 'm planning my trip for a concert tomorrow xd .
+   (ID: leo9g)
+
+4. i was wondering if anyone has flown this route and has recommendations for a smooth trip layover - wise .
+   (ID: NyxPeregrinus)
+
+5. i just looked the up on yelp .
+   (ID: glowinthedark)
+
+6. i have n't been yet xd this is me hinting that we should male plans .
+   (ID: leo9g)
+
+7. i 'd go to chiba city and get myself some augs and a sweet deck .
+   (ID: Othello)
+
+8. i 'm headed to lombok in a few days for a week getaway with my boo .
+   (ID: juliacakes)
+
+9. i m moving up to mariposa tomorrow .
+   (ID: John7oliver)
+
+10. i ca n't see myself going anymore as i 'd rather do nature trips now and such .
+   (ID: Waterrat)
+
+11. i might go to the states in the summer for a concert from the pixies and weezer together
+   (ID: mrhenk9)
+
+12. i see aeroplanes and nice colours
+   (ID: Aloha-Potato)
+
+13. i 'll be moving there for the summer on may 5th .
+   (ID: mylescloutier)
+
+14. i have n't given a thought to logistics so car pooling would be superb , if possible .
+   (ID: bondo84)
+
+15. i would say play it safe and choose frankfurt .
+   (ID: Little_Miss_A)
+
+16. i would probably go to either cozumel or isla mujeres .
+   (ID: deputydan_scubaman)
+
+17. i ’d sit even notice the moon- look at those stones !
+   (ID: almajanemi)
+
+18. i have to update my ios ...
+   (ID: SeasonedLemur)
+
+19. i ’m going today !
    (ID: 11_29_77)
 
-3. i just broke a spoon last night because of this = [
-   (ID: buttercup_mauler)
-
-4. i was in the king and i with yul brunner when it played in sf theater .
-   (ID: VanGoJourney)
-
-5. i once knew a church champion .
-   (ID: Evref)
-
-6. i repurposed the bottle for immersion oil at work .
-   (ID: Nheea)
-
-7. i pissed myself when vomiting while extremely drunk in a grocery store parking lot at 2 am .
-   (ID: Mahatma_Panda)
-
-8. i remember teasing the friend whose hand i was holding and feeling her hit me jokingly .
-   (ID: Lsmoothies)
-
-9. i 'm a big kid now , haha glad you guys had fun
-   (ID: Noimnotsally)
-
-10. i was that other poster .
-   (ID: CarlofTime)
-
-11. i was running with my phone in hand .
-   (ID: AgedTwenties)
-
-12. i do this all the time at work .
-   (ID: monday_madrigal)
-
-13. i ca n't even remember what it feels like under 90 % .
-   (ID: adertal)
-
-14. i was probably 12 - 17 at this time .
-   (ID: Mende)
-
-15. i met a 40 year old dude who could n’t enlist because of the 28 age limit .
-   (ID: ChallengeTaken99)
-
-16. i thought i was tough until a pinched nerve taught me irrevocably otherwise .
-   (ID: monday_madrigal)
-
-17. i thought about being perverse and molesting , but apparently being rich is also one .
-   (ID: Ian_Str8)
-
-18. i was 16 .
-   (ID: Mahatma_Panda)
-
-19. i do it for the groupies !
-   (ID: SerendipitousCat)
-
-20. i once had an affair with op 's mother .
-   (ID: Ian_Str8)
+20. i think i 'm going to have to try nyx prague now .
+   (ID: napalmkitten)
 
 
 --- PER-CHAT ---
-Total from this dataset: 135
+Total from this dataset: 47
 
-1. very high expectations without the resources to meet them . whenever circumstances were such that you didn  t have enough to make them work , guidance was  make it happen .  sometimes our computer systems went out for digit days straight . what do you do then ? make it happen . the recipe for  make it happen  is almost always do this on your own time for no additional pay .
-   (ID: 5d0b750bf77c2c6e8b41ebf03caf4038a907b876)
+1. sorry can  t help , but just curious  where are you thinking of going once you get to gatwick ?
+   (ID: dee55cb599fd271c24c829dd8a42067aea446ab7)
 
-2. fucking up a great relationship .
-   (ID: 05bc4f6f6f6bb573d85181292f88efbd50c59547)
+2. blimey ! that sounds good  what country do you live in ? i understand if that  s too personal and you don  t want to say .
+   (ID: 787b93a7786c68b0f31fb63e18ccf3551bafae1b)
 
-3. probably all the weird things i say and do
-   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+3. is there any place like this with this kind of view that has a trail or bridge ? i saw a video on ig one day with this people on a bridge and the were so high with the clouds underneath them . it  s one thing i want to do before i die
+   (ID: 4198a967d1b0765e3fc996754ce9a3e6c7f24c8c)
 
-4. to get a date .
-   (ID: 3fb1292a0bd26711d797fe1a61e6229794c21b68)
+4. no shame in going alone ! i  d probably prefer it honestly . the important thing is having a great time and celebrating the bride and groom  s wedding day
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
 
-5. people lying to you about how great they are and how deep and full of significance and meaning their life is . nobody cares about how your grandmother grew tomatoes instilling your love of fresh produce , or how your mother ' s use of seasonings opened up your senses , or your soccer coach touching you filled you with a love of sausage . i just could not remember if i needed digit tbs or digit of flower for a basic roux . please put the recipe at the top and your poorly written life story at the bottom so i can choose to not read with out being annoyed by having to scroll through it .
-   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+5. i ran around like a crazy person on my honeymoon in new zealand and have no regrets about trying to see digit different places in digit days , but we had a campervan .   x200b  consider how frequently you can handle  want to pack and unpack and carry your luggage to a new location via public transit . using luggage shipping carriers is useful but they don ' t transport it for you in the same real time you ' ll need your stuff . what are your top priorities for this trip ? do you like crowds or nature or a mix ? will it be obon stuff is expensive , closed , and japanese people are all on vacation ?
+   (ID: eace5bb8fae91afe15af3966cf6b9189772fe2cc)
 
-6. once saw someone walk all the way through ikea just to get their kids a bunk bed .
-   (ID: 91d5c112de409d3216ef30d9a1c0d6a9c9f48260)
+6. I am planning.
+   (ID: 2f03a8d589defb9434044b9ef9bfffc676e2b49a)
 
-7. i used to be a bartender and a group of girls i never saw before were drunk and asked for my number . i gave them a fake number , two of them came the next day and called me an asshole for giving them a wrong number . sucks being in that position specially where you have to stand there and can  t leave lol .
-   (ID: b3497f72ed4462f0414951db6d9ee7aa4004b515)
+7. the sky . whatever the weather , i think it would be nice to see what they think of it .
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
 
-8. my yielding drive to look at tits was a pretty safe bet .
-   (ID: 5033a9b064a9790931d6db4cc634e02af206bbb1)
+8. take a weekend visit and see if you like it .
+   (ID: a1ba9b657b043ce2934cc0ae7b42c0a0bf3ba2fa)
 
-9. going out to get weed with my best man at 5am on my wedding day .
-   (ID: 57e23377d2e20446272558e1ff75f7e0cf1b0049)
+9. like i said i never went on vacation by myself , so i dont know if x country is cheaper than y . so if the kind people of reddit can point me in right direction , that would be great
+   (ID: b4fb8e20516a28baa38075931e9715db2375a956)
 
-10. silly string attack ! also , a senior chose my costume , and i was a fucking sumo wrestler . i ' m a girl . silly string is hard to get out of long hair , and i knew that from experience . so guess what happened . the world ' s longest shower !
-   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+10. colombia from bioshock infinte , but only if we kicked all the racists outs and made it less churchy  americanny or nuka world from the fallout digit dlc , we can keep the ghouls and murder bots just so long as they don ' t kill anyone based on the colour of their skin
+   (ID: 64ee30820164d5febf4618f35085fd26a3387cc9)
 
-11. not relying on buying more stuff with the hope to increase my happiness , something that ' s so common in canada . not everyone of course but so many .
-   (ID: 750329d9f0f06f064c23bff94a5536b6068811e8)
+11. . you can do anything there .
+   (ID: 79be9557b3d70396e049eaa975227b5e203bb8db)
 
-12. how important it is to really pick the people you sleep with .
-   (ID: 3c405c5b13146831496e429cf2aff978fcec01eb)
+12. we would grow indoors , and one of the main reasons i want to go is i ' m an addict and need to make a change . leaving family sucks but they act and look at me differently since they found out about the drug use . i love them but i need to get away from them as much as my dealers .
+   (ID: 128e913d04941bcfe472d443c137eda644ab7e31)
 
-13. is this a real thing ? people get accepted into colleges because their parents were there ?
-   (ID: d23bd8fb57b99544637110d5b376dba68b3e2d0f)
+13. where in europe do you want to go and why ?
+   (ID: 726c36ce13fa631676ed5053f62b0f5f7b61eb5e)
 
-14. you learn pretty quickly when you have to put hockey equipment on . i don ' t even notice myself doing it anymore .
-   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+14. hey i ' m really sorry to hear about the time you ' ve got . buy your wish is yours alone . don ' t look for others wishes . you have got a pretty good list there . orangutans are generally very happy creatures . go for that one of you ' re looking for something peaceful and memorable . disneyland too is a great choice . lots of love .
+   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
 
-15. i remember like digit years ago i went for a jog and there was this guy lying on the ground not moving and i just ran past him thinking someone else will call help and when i came back an hour later he was still there
-   (ID: 564c5b4efd54586fbf212727e2071f5ddadabb82)
+15. well it  s actually not exactly safe to go there right now with all the protests that  s going on . but my friend actually stayed there for digit  digit months last year and he  s been telling me and my other friends to just go and live there . i truly would want to and could literally change a community .
+   (ID: f8dc0ff928f07f3c544894b03ad92f5944e13321)
 
-16. i stuck a cucumber inside my pussy and timed how long it took to reach body temperature
-   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+16. my fiancee and i will be at universal for digit days of our honeymoon in november , we ' re excited to check out the wwohp ! what do you recommend should be at the top of our to do lists when checking out the park ?
+   (ID: 65e18a8843fe1a6d644e4fe6a3b227426a6b9103)
 
-17. just in the middle of class while a teacher is there ?
-   (ID: 6b2e7201275c9aa1dcb6d1b24840765a41796c3d)
+17. how do you feel knowing that this will be the most famous you ' ll ever be ?
+   (ID: ff51288ca8adbfbd763f8c0e670e39dfa27cb681)
 
-18. not trusting yourself . you ' ll just be walking around tryna live how others think you should .
-   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+18. I am planning.
+   (ID: c4dd014917cb9f6657eb79179ac09bf821575d80)
 
-19. i do this , because it occurred to me one day to save the electricity . wife says it ' s weird every time she walks into the bathroom during my shower . it ' s not like i don ' t know where my body parts are .
-   (ID: b18c6165a76bf34665eb406698860d1ddc5e2cbf)
+19. i love travelling and the us is my top must  see country . i spent a month there in digit and it ' s a lovely place with so much to see .
+   (ID: 8260f82c24d2a4a134e92bf2fdcfc09a8eecf8fa)
 
-20. there are plenty of cases of people not recognizing it until much later . people in their 40s come out . a ww2 veteran recently came out , i ' ll see if i can find that article . show that to your dad . edit  article
-   (ID: 7921460db376d8f318b71729dcd4931f12a1d0c9)
+20. going to italy . my wife and i have wanted to go for awhile . we plan to go for our 15th wedding anniversary in a few years , but if i found out i don ' t have a few years , i ' d say fuck it and go now .
+   (ID: 5bf69e8a91457991a99f2cc3f9248ca16f27a0d5)
 
 
 --- PersonaChat ---
-Total from this dataset: 4
+Total from this dataset: 14
 
-1. i have played since i was 4 years old .
-   (ID: conversation_45)
+1. i like to travel .
+   (ID: conversation_166)
 
-2. i was born male and transitioned to female when i was 17 .
-   (ID: conversation_23)
+2. since i have fibromyalgia , the harsher winters here in pa will be rough on me .
+   (ID: conversation_167)
 
-3. i had a gig at local theater last night .
-   (ID: conversation_2)
+3. i like to travel .
+   (ID: conversation_9)
 
-4. i had to call 911 when i had a terrible headache .
-   (ID: conversation_34)
+4. traveling and making friends is something i find delightful .
+   (ID: conversation_287)
+
+5. before i die , i want to skydive .
+   (ID: conversation_50)
+
+6. i want to visit rome , but i can t make myself go alone .
+   (ID: conversation_257)
+
+7. i love to travel .
+   (ID: conversation_246)
+
+8. i love travelling and discovering new cultures .
+   (ID: conversation_145)
+
+9. my dream is to move to the middle of the desert .
+   (ID: conversation_92)
+
+10. i'm hoping to move to australia soon to marry my boyfriend .
+   (ID: conversation_77)
+
+11. i'm going on a cruise next month .
+   (ID: conversation_46)
+
+12. i like to travel .
+   (ID: conversation_291)
+
+13. i'd be honored to give my life for my country .
+   (ID: conversation_273)
+
+14. before i die , i want to skydive .
+   (ID: conversation_92)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 8
+Total from this dataset: 36
 
-1. I was a wild child in my younger years.
-   (ID: conversation_30_user_2)
+1. I want to travel the world taking photographs of my travels.
+   (ID: conversation_225_user_1)
 
-2. I once drove a car ! my friend told me what to do while i drove.
-   (ID: conversation_28_user_1)
+2. I love to travel.
+   (ID: conversation_174_user_2)
 
-3. I once drove a car ! my friend told me what to do while i drove.
-   (ID: conversation_26_user_1)
+3. Before i die , i want to skydive.
+   (ID: conversation_82_user_2)
 
-4. I have played since i was 4 years old.
-   (ID: conversation_94_user_2)
+4. I love to travel.
+   (ID: conversation_168_user_2)
 
-5. I often play the clown to get attention.
-   (ID: conversation_66_user_2)
+5. I love to travel.
+   (ID: conversation_209_user_2)
 
-6. I once drove a car ! my friend told me what to do while i drove.
-   (ID: conversation_27_user_1)
+6. I like to travel.
+   (ID: conversation_12_user_1)
 
-7. I use to be a wild child.
-   (ID: conversation_48_user_2)
+7. I love traveling.
+   (ID: conversation_75_user_1)
 
-8. When i was a child i was kidnapped by my uncle.
-   (ID: conversation_68_user_2)
+8. I love to travel.
+   (ID: conversation_241_user_1)
+
+9. I want to visit the uk.
+   (ID: conversation_201_user_2)
+
+10. I love to travel.
+   (ID: conversation_245_user_1)
+
+11. I love to travel.
+   (ID: conversation_250_user_1)
+
+12. I want to travel the world taking photographs of my travels.
+   (ID: conversation_224_user_1)
+
+13. We plan to travel after he retires.
+   (ID: conversation_107_user_2)
+
+14. I love to travel.
+   (ID: conversation_237_user_1)
+
+15. I like to travel.
+   (ID: conversation_282_user_2)
+
+16. I like to travel.
+   (ID: conversation_111_user_1)
+
+17. I love to travel.
+   (ID: conversation_290_user_2)
+
+18. I love traveling.
+   (ID: conversation_72_user_1)
+
+19. My dream is to move to the middle of the desert.
+   (ID: conversation_278_user_2)
+
+20. I like to travel.
+   (ID: conversation_115_user_1)
 
 
 ============================================================

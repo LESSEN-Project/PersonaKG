@@ -1,125 +1,413 @@
 CLUSTER 24
 ============================================================
-Total statements in cluster: 47
+Total statements in cluster: 791
 
 Dataset distribution in this cluster:
-  MPChat: 3 (6.4%)
-  MSC: 1 (2.1%)
-  PEC: 36 (76.6%)
-  PER-CHAT: 7 (14.9%)
+  FoCus: 46 (5.8%)
+  MPChat: 15 (1.9%)
+  MSC: 19 (2.4%)
+  PEC: 509 (64.3%)
+  PER-CHAT: 173 (21.9%)
+  PersonaChat: 8 (1.0%)
+  SyntheticPersonaChat: 21 (2.7%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 46
+
+1. I don’t like War.
+   (ID: NR9LNBMYKSX6_9)
+
+2. I do not like nightclubs.
+   (ID: OBPQ1J7Y62Q6_11)
+
+3. I don’t like monasteries.
+   (ID: JFAHL3MTTLAX_11)
+
+4. I hate the night life of bars and places like bars.
+   (ID: GPJYUNUXPVWI_11)
+
+5. I don’t like Casino.
+   (ID: KMISZIRFKCAC_11)
+
+6. I hate drug-dealing.
+   (ID: B4Z7LALR7H1Q_11)
+
+7. I don't like tourist attraction.
+   (ID: DKGV9E2PZUPH_11)
+
+8. I hate hippies.
+   (ID: 8065KWB9BLWJ_11)
+
+9. I don’t like church.
+   (ID: JFAHL3MTTLAX_11)
+
+10. I hate coal.
+   (ID: YWRU353H4NFF_11)
+
+11. I think dragons are cool.
+   (ID: PSBPL4USIKMB_11)
+
+12. I don't like Canadian National No. 7312.
+   (ID: M6QLMFHJ3CAF_11)
+
+13. I don't like to intersection road.
+   (ID: UDGAGMKQ9TQ1_11)
+
+14. I don't like forest.
+   (ID: T815O8KC30IG_9)
+
+15. I dislike churches.
+   (ID: DAZUOQ6PPGPD_9)
+
+16. I wouldn't like to live in a Castle.
+   (ID: YB6ZF4SJI3P1_11)
+
+17. I don't like casinos.
+   (ID: 9KDV6LSLWNAX_11)
+
+18. I don't enjoy rollercoaster rides.
+   (ID: PFYAAS1XG3D8_11)
+
+19. I don't like going to the crowded places.
+   (ID: ZDIM8K78EM2D_11)
+
+20. I think spacesuits are cool.
+   (ID: 942CCWXHPUZT_11)
+
+
 --- MPChat ---
-Total from this dataset: 3
+Total from this dataset: 15
 
-1. i think they turned out pretty well...
+1. i'm a hypocrite.
+   (ID: Beardedlantern)
+
+2. i think they look like aesthetic spaghetti
+   (ID: green-egg-and-ham)
+
+3. i never get my fingernails done.
+   (ID: ReturnOfTheFox)
+
+4. some days i don't have the time and energy to get fancy with the buns.
+   (ID: Flattishsassy)
+
+5. if i combine two things people are sick of into one thing, it's good again, yes?
+   (ID: fredbutt)
+
+6. i really do not like spooders.
+   (ID: baccgirl)
+
+7. i think they turned out pretty well...
    (ID: batman1227)
 
-2. not perfect, but i like em
-   (ID: batman1227)
+8. yes, my music taste is that bad.
+   (ID: RaeADropOfGoldenSun)
 
-3. i think it looks pretty neat!
-   (ID: FoxInKneeSocks)
+9. a bit to tender for my liking but that's how dad likes them
+   (ID: MonstaEatsItAll)
+
+10. i can't decide.
+   (ID: thegentlestbutterfly)
+
+11. my friends can’t decide if this is cute or creepy.
+   (ID: meepmeepcuriouscat)
+
+12. deer season ended for me last month after i failed to fill my tag.
+   (ID: ChroniclyDope)
+
+13. this is why i should stay away from joanns....
+   (ID: gxnelson)
+
+14. i didn't choose the pig life.
+   (ID: BananaStand07)
+
+15. even my 5 year old step son said they looked scrummy.
+   (ID: blackbook90)
 
 
 --- MSC ---
-Total from this dataset: 1
+Total from this dataset: 19
 
-1. I've slightly different taste in things than most people.
-   (ID: dialog_25_speaker_2)
+1. I am selfish.
+   (ID: dialog_85_speaker_2)
+
+2. I'm selfish.
+   (ID: dialog_1_speaker_1)
+
+3. The long black hearse is not mine.
+   (ID: dialog_5_speaker_2)
+
+4. I support the nba protest movement.
+   (ID: dialog_12_speaker_2)
+
+5. I've terrible taste in music.
+   (ID: dialog_74_speaker_2)
+
+6. I do not like horror novels.
+   (ID: dialog_98_speaker_2)
+
+7. I'm immature.
+   (ID: dialog_96_speaker_2)
+
+8. I do not like skiing.
+   (ID: dialog_31_speaker_1)
+
+9. I do not listen to the opinions of most people.
+   (ID: dialog_37_speaker_2)
+
+10. I've not loved.
+   (ID: dialog_72_speaker_1)
+
+11. I don't like winter. I train horses for a living.
+   (ID: dialog_66_speaker_2)
+
+12. I cannot stand the heat.
+   (ID: dialog_66_speaker_1)
+
+13. I hate going to the coast.
+   (ID: dialog_94_speaker_2)
+
+14. I don't like scary things.
+   (ID: dialog_58_speaker_2)
+
+15. I am not a fan of heights.
+   (ID: dialog_9_speaker_2)
+
+16. I am better at listening than discussing.
+   (ID: dialog_54_speaker_2)
+
+17. I don't like winter. I like christmas. I train horses for a living.
+   (ID: dialog_66_speaker_2)
+
+18. I think ballroom dancing is too old-fashioned.
+   (ID: dialog_40_speaker_2)
+
+19. I don't like to be out with nothing around me.
+   (ID: dialog_22_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 36
+Total from this dataset: 509
 
-1. i just think they ’re as pretty as emeralds
-   (ID: ListenandLove100)
+1. i think lyrics in rap are important lol .
+   (ID: worried_panda)
 
-2. i mean i 've seen mismatched eyes before , but those are all kinds of incongruent .
-   (ID: Evref)
+2. i could n't care less about their hopelessly backwards ways .
+   (ID: NietzschesUbermensch)
 
-3. i just think pandaren look better in robes .
+3. i could n't .
+   (ID: adertal)
+
+4. i do n't want more than 6 seasons and a movie .
+   (ID: Samoht2113)
+
+5. i @#$% hate them .
    (ID: Sabiola)
 
-4. i feel the same way about a lot of them :/
-   (ID: cookiexcmonster)
-
-5. i think it 's sexy as fuck .
-   (ID: napalmkitten)
-
-6. i hate to say it but new bmws look boring .
-   (ID: trav110)
-
-7. i 'm the same way about in - in - out .
-   (ID: KikAtWorkFL)
-
-8. i think it looks just fine .
-   (ID: kailan123456)
-
-9. i used to date a guy who loved it and it looked interesting !
-   (ID: buttercup_mauler)
-
-10. i love this sim , but god i hate the dark skin tones by maxis � �
-   (ID: jukkujak)
-
-11. i do n't wear them generally but whaaat ?
-   (ID: mylescloutier)
-
-12. i 'd rather see shading going from none to black .
-   (ID: LooksAtClouds)
-
-13. i have noticed they all have funky yellow teeth .
+6. i do n't bat an eye .
    (ID: ItGetsAwkward)
 
-14. i know some people are tired of the whole shade range discussion but it is that serious .
-   (ID: jukkujak)
+7. i was just in an arbitrary mood .
+   (ID: DarkMoon99)
 
-15. i thought they were fun .
-   (ID: genpell)
+8. i hate it ! ! ! !
+   (ID: newyork2012)
 
-16. i think it 's nice � � � �
-   (ID: kailan123456)
+9. i am not worthy
+   (ID: nileous)
 
-17. i do n't mind it .
-   (ID: Nheea)
+10. i apologize for anyone offended by this .
+   (ID: Bananafoofoofwee)
 
-18. i find it nice
-   (ID: xcombelle)
+11. i hate roundabouts !
+   (ID: jay456)
 
-19. i @#$% hate them .
+12. i wish i had gold for you .
+   (ID: vikkivinegar)
+
+13. i just do nt care anymore .
+   (ID: cookiexcmonster)
+
+14. i already know what pisses you off .
+   (ID: Nobody-Likes-Change)
+
+15. i do n't want it .
+   (ID: trav110)
+
+16. i guess i should n’t be surprised ...
+   (ID: Atlmama)
+
+17. i had a few who loved it .. others ... cant be bothered ...
+   (ID: Noimnotsally)
+
+18. i kill helpless newbies all the time , sorry .
+   (ID: Atemu12)
+
+19. i ca n't shake it .
+   (ID: Piraticalstyle)
+
+20. i just think pandaren look better in robes .
    (ID: Sabiola)
-
-20. i think it 's cute .
-   (ID: kailan123456)
 
 
 --- PER-CHAT ---
-Total from this dataset: 7
+Total from this dataset: 173
 
-1. personally i get annoyed by some transformations where the actor looks better but it ' s nowhere near amazing compared to someone ' s digit year transformation , and the public looses their mind . i ' m here thinking like hey that ' s actually not that impressive
-   (ID: e9d9b9400a09031a7e1021173867d784ebb9cf94)
+1. fuck off . i can like what i like . so can everyone else . you ' re not special in any sense of the word .
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
 
-2. alot of guys do . i ' ve had girls trying to get me to do it but . i don ' t do it . what does it matter really ?
-   (ID: 73e90e443642babe17d8b9523bc123bb79b21e79)
+2. i think most men over digit before that most males would do a pig if it had big boobs prefer the natural look and the covers of these magazines are what women think what men like . the porn industry never realised this and tries to blame its fall in profits on piracy but the reality is that people would rather watch the videos of real people unenhanced by surgery that are widley available online for free .
+   (ID: 3f0409a6efb16c26d2f9f7a14f5e75b8945ba427)
 
-3. i don  t hate digit , but i absolutely hate how they  ve made most of the covenant look .
-   (ID: d7ab0e5728c419d1e50c8ba827489e51566c046b)
+3. there isn ' t anything to love .
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
 
-4. they were a willing participant , and i thought they were kinda cute .
-   (ID: 8b9c4341d896783998a7c3485fa949b3c63cbd73)
+4. morgan wallen is pretty successful in the country world , but i guess that ' s not exactly " mainstream " so point stands . show sucks , but there have definitely been some talented folks make a career off of their time on the show , so it ' s not totally bullshit .
+   (ID: ecc98de1e575d7e863a2124b364b8ed586778ba5)
 
-5. but they all look the same though
+5. i understand that people have different tastes but i ' ve never met anybody willing to say they don ' t get pulp fiction . can i ask what it is that turns you off ?
+   (ID: cd0b72d117bf74908c3edaaf3947b089a9dafc0c)
+
+6. i  m digit so i  ve seen some great usc and some rougher usc so i can agree with you there . however , i can  t say that my falcons allegiance has built more character than it has broken and hope of ever holding a lead in any sport ever .
+   (ID: 7e06b6173caa339822499761ab78ee796513d9aa)
+
+7. i feel so terrible for being a former christian .
+   (ID: c766fd259305ab2b0cd283ae4331fb90fc52e356)
+
+8. every time that comes back im like " i ' ll probably like it now " and i take one sip and toss it away . i don ' t see how people like that
+   (ID: 9447b1479bba35e43476f822ef86882e0d4d70d7)
+
+9. i failed to see an argument for why rancid is good . while people can like what they like , there is some objective measure to what is good and bad . simply put , rancid is just not special in any way . rubyrubyrubyrubysoho
+   (ID: 5c9dd67e95ee5403b2bd9a6848c017674d46396b)
+
+10. not really . i always assume everything is fake until proven otherwise  in this case , on a personal level , it doesn ' t effect the sadness of it .
+   (ID: de078b4353965122ac7bf05afe8d580d01d4a928)
+
+11. i still prefer vodka funny story  when i tried it for the forst time i told said friend that i afraid that i might get addicted to weed , and he told me not to worry . a day after my first high said friend offered me weed again and i said no thanks . i am a guy that gets to addictions really easy , and i still refused . that ' s a message to our fellow friends , if you think weed will make you a junkie , it ' s simply not gonna happem , of i turned it down , you will . definitly
+   (ID: 161e54996257552df993f906d6f848a053922141)
+
+12. but they all look the same though
    (ID: 87173aaf55980a77c94bd30c851c39fb0b52ff2e)
 
-6. is it really ? because everyone i know who  s seen me do it looks at me like i  m an alien .
-   (ID: d7ab0e5728c419d1e50c8ba827489e51566c046b)
+13. teen titans go i know a lot will hate
+   (ID: 3418702de52d65ee261943b207996da3e2569fd2)
 
-7. i like them bigger but it ' s not that big of a deal
-   (ID: db585f1dbaa42a5cff4c6b3dbc242bf7ea45bd9a)
+14. i do not like this
+   (ID: c5e877ff3be5d3571f5fe899f55887a6f608ee98)
+
+15. what would you do for every down vote ? something ?
+   (ID: 661cbd631caa9db4ab702976879371243802e35e)
+
+16. i ' m not into golden showers . not hot .
+   (ID: 7281ac55eb2a6383df4bfcf1408cda0145e29328)
+
+17. yeah , nice try policeman .
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+18. i don ' t believe that anybody feels the way i do , about you now .
+   (ID: bfc2e9a6e5f84327293fa1a1fd0287066782bcec)
+
+19. yeah . people really , really suck i hope that soon she  ll let up and you can see them more though
+   (ID: 1dbec065c128d343063f0297b2cf3c3a2bc2db96)
+
+20. personally i think the flavors go well together . i ' ve heard people talk about acidity being the main factor as to why they don ' t go for it and that i can understand . i just don ' t like people saying it ' s weird or the thought of fruit on pizza baffles them .
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i don't like my reputation .
+   (ID: conversation_147)
+
+2. i hate evil .
+   (ID: conversation_130)
+
+3. i do not believe in love .
+   (ID: conversation_190)
+
+4. i don t like the beach .
+   (ID: conversation_94)
+
+5. i'm not afraid to die .
+   (ID: conversation_273)
+
+6. i hate winter .
+   (ID: conversation_244)
+
+7. i don t fully understand my own feelings .
+   (ID: conversation_299)
+
+8. i don t like the song sweet home alabama .
+   (ID: conversation_221)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 21
+
+1. I am studying to be a dental hygienist but i hate seeing patient s saliva.
+   (ID: conversation_157_user_2)
+
+2. Country music makes me cringe.
+   (ID: conversation_79_user_2)
+
+3. I do not fully understand my own feelings.
+   (ID: conversation_227_user_2)
+
+4. I hate skiing.
+   (ID: conversation_114_user_2)
+
+5. I do not believe in love.
+   (ID: conversation_229_user_1)
+
+6. I do not like my reputation.
+   (ID: conversation_187_user_2)
+
+7. I hate cleaning.
+   (ID: conversation_173_user_2)
+
+8. I am unsociable.
+   (ID: conversation_10_user_1)
+
+9. I hate the holidays.
+   (ID: conversation_164_user_2)
+
+10. I am unsociable.
+   (ID: conversation_8_user_1)
+
+11. I am unsociable.
+   (ID: conversation_274_user_2)
+
+12. I hate winter.
+   (ID: conversation_111_user_2)
+
+13. I am unsociable.
+   (ID: conversation_9_user_1)
+
+14. I hate to lose.
+   (ID: conversation_64_user_2)
+
+15. I hate evil.
+   (ID: conversation_109_user_1)
+
+16. I am unsociable.
+   (ID: conversation_7_user_1)
+
+17. I do not believe in love.
+   (ID: conversation_292_user_1)
+
+18. Country music makes me cringe.
+   (ID: conversation_6_user_2)
+
+19. I don t like my reputation.
+   (ID: conversation_3_user_2)
+
+20. I take things very literally.
+   (ID: conversation_247_user_2)
 
 
 ============================================================

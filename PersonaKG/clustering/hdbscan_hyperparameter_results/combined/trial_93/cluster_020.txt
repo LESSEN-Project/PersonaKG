@@ -1,0 +1,101 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 21
+Cluster persistence (stability): 0.995
+
+Dataset distribution in this cluster:
+  MSC: 4 (19.0%)
+  PEC: 2 (9.5%)
+  PER-CHAT: 1 (4.8%)
+  PersonaChat: 11 (52.4%)
+  SyntheticPersonaChat: 3 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I run a prison. I am retired.
+   (ID: dialog_95_speaker_1)
+
+2. I'm employed to work with power.
+   (ID: dialog_130_speaker_1)
+
+3. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+4. I am employed at waffle house restaurant.
+   (ID: dialog_128_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i am 23 years old and i received a bs in mathematics .
+   (ID: lilykin)
+
+2. i offer my skillset as an electrician .
+   (ID: LordQuorad)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am senior architectural technologist.
+   (ID: 597db748e9e223db2b7d3a7e2d79893e3cc7cd0a)
+
+
+--- PersonaChat ---
+Total from this dataset: 11
+
+1. i work as a stand up comedian .
+   (ID: conversation_2)
+
+2. my major is business .
+   (ID: conversation_7)
+
+3. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+4. i'm a proofreader for a greeting card company .
+   (ID: conversation_296)
+
+5. i work as a vet .
+   (ID: conversation_282)
+
+6. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+7. i currently work at target .
+   (ID: conversation_160)
+
+8. i'm a waitress at a popular houston club .
+   (ID: conversation_77)
+
+9. i work for a large law firm .
+   (ID: conversation_30)
+
+10. i start an internship in engineering later this year .
+   (ID: conversation_50)
+
+11. i'm an accountant .
+   (ID: conversation_305)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I am a technician.
+   (ID: conversation_378_user_2)
+
+2. I work on wall street.
+   (ID: conversation_148_user_2)
+
+3. I am a roofer.
+   (ID: conversation_384_user_1)
+
+
+============================================================

@@ -1,0 +1,114 @@
+CLUSTER 22
+============================================================
+Total statements in cluster: 43
+Cluster persistence (stability): 0.890
+
+Dataset distribution in this cluster:
+  PEC: 3 (7.0%)
+  PER-CHAT: 36 (83.7%)
+  PersonaChat: 3 (7.0%)
+  SyntheticPersonaChat: 1 (2.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i have a gt-8 .
+   (ID: bbrandann)
+
+2. i do have a titan .
+   (ID: WiseScratch)
+
+3. i have 6 of them .
+   (ID: carwynllew)
+
+
+--- PER-CHAT ---
+Total from this dataset: 36
+
+1. I own a fief.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+2. I own a mipod.
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+3. I own a type.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+4. I own a part.
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+5. I own a labor.
+   (ID: b17b749ab40d1d24eba7d45337d86aeb3c5b28df)
+
+6. I own a nail.
+   (ID: b5e15026c378d181e66e2b38bfc245705510a727)
+
+7. I own a controller.
+   (ID: 420a86ecfb9d645349db591746d0cdeba4b68f37)
+
+8. I own a payout.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+9. I own a screen.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+10. I own a tl.
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+
+11. I own a 5820k.
+   (ID: 32520dc340c18ed101e3d5ea02b3a7bca25dcc29)
+
+12. I own a jawas.
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+13. I own a warlock.
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+
+14. I own a night terror.
+   (ID: 3158d7c63f10e871a80f147fb47725c8714163c7)
+
+15. I own a enemy.
+   (ID: fae28587bce17296589bf92d656ad68ee32601d6)
+
+16. I own a pgwp.
+   (ID: 3cc393500aaac3a2ee1cd96955cee486bb062a46)
+
+17. I own a gold.
+   (ID: 6eec77fe98b9dc85ec1e5e7edc37cdb415794719)
+
+18. I own a regulator.
+   (ID: e87275c4c3cfea671e40cbeff9a12d5fc1372f97)
+
+19. I own a cock.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+20. I own a fps.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i drive a prius .
+   (ID: conversation_68)
+
+2. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+3. i own a hearse .
+   (ID: conversation_5)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I lease my car.
+   (ID: conversation_5_user_1)
+
+
+============================================================

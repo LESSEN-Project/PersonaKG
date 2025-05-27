@@ -1,14 +1,15 @@
 CLUSTER 6
 ============================================================
-Total statements in cluster: 348
+Total statements in cluster: 830
 
 Dataset distribution in this cluster:
-  FoCus: 86 (24.7%)
-  MPChat: 2 (0.6%)
-  MSC: 8 (2.3%)
-  PEC: 29 (8.3%)
-  PER-CHAT: 219 (62.9%)
-  SyntheticPersonaChat: 4 (1.1%)
+  FoCus: 7 (0.8%)
+  MPChat: 11 (1.3%)
+  MSC: 84 (10.1%)
+  PEC: 294 (35.4%)
+  PER-CHAT: 215 (25.9%)
+  PersonaChat: 67 (8.1%)
+  SyntheticPersonaChat: 152 (18.3%)
 
 ============================================================
 
@@ -16,249 +17,385 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 86
+Total from this dataset: 7
 
-1. I am aware of Atlantic Ocean.
-   (ID: G6QWKZ4CTWVW_11)
+1. I am not Greek.
+   (ID: VB4LDHWFQAVH_11)
 
-2. I want to learn more about history.
-   (ID: X45C380V98U8_9)
+2. I am a masochist.
+   (ID: MMFXPQYSEBUW_11)
 
-3. I'm interested in history.
-   (ID: SJS6GHEH7ZIW_11)
+3. I am proficient in Spanish.
+   (ID: FNURQ2XMQVJF_11)
 
-4. I'm interested in urban hydrology.
-   (ID: SJS6GHEH7ZIW_11)
+4. I have a British accent.
+   (ID: UUN7SKTZQ38T_7)
 
-5. I am interested in history.
-   (ID: SDW19RWSP3ZX_11)
+5. I am follower of Hyder Ali.
+   (ID: UN54IACHSTX5_11)
 
-6. I am interested in the heritage.
-   (ID: W4CQPY8R6C4Q_11)
+6. I am not Spanish.
+   (ID: X5NX5GAWOEW2_11)
 
-7. I would like to compete in a ski competition.
-   (ID: QTNNKQN2EVU5_11)
-
-8. I wish to build a monastery in Sinai Peninsula.
-   (ID: TF24QL7QZSG2_11)
-
-9. I am interested in natural history.
-   (ID: U6NEN4YX4OT6_9)
-
-10. I am interested in rainforests.
-   (ID: U2VHOEDA278F_11)
-
-11. I am interested in old stadiums.
-   (ID: PK2U426B57KL_9)
-
-12. I am interested in history.
-   (ID: MA2EPDC7QHS5_11)
-
-13. I will go to Devon.
-   (ID: VUU19OURBLRK_11)
-
-14. I am interested in Ecosystem.
-   (ID: SKF7IKD9SC0U_9)
-
-15. I have some articles about Benjamin W. Chidlaw.
-   (ID: TBZIWSGJCM17_11)
-
-16. I am interested in ecozone.
-   (ID: H6GTJFTZ8LJI_11)
-
-17. I wish to own a house in Toronto.
-   (ID: NMEFJE64KZ1F_11)
-
-18. I want to go to Ontario.
-   (ID: SDW19RWSP3ZX_11)
-
-19. I am interested in fauna.
-   (ID: AN8LSF1PEYK2_11)
-
-20. I have an interest in Catholicism.
-   (ID: TDUTQ7NCYJ1S_11)
+7. I wish I knew Russian.
+   (ID: CBOI96AOZRK6_11)
 
 
 --- MPChat ---
-Total from this dataset: 2
+Total from this dataset: 11
 
-1. (i have not seen it in person yet)
-   (ID: iowajaycee)
+1. well i can touch my nose with my tongue."
+   (ID: ambora)
 
-2. i need some help!
-   (ID: batman1227)
+2. every day i go to work covered in hair - not by choice.
+   (ID: VodkaWithSnowflakes)
+
+3. i don't love you because you're fat.
+   (ID: kentobean123)
+
+4. it's great giving these to my friends and watching their baffled faces
+   (ID: APacman)
+
+5. can you guess who i'm currently making?
+   (ID: Winter246)
+
+6. on the one hand, i'm a vizsla.
+   (ID: BananaPeelSlippers)
+
+7. i am a lion!
+   (ID: mattsulli)
+
+8. i pour best when i'm angry.
+   (ID: ktchildr)
+
+9. riotous sock is my new base.
+   (ID: SuperfineYarnCo)
+
+10. i am literally a human pillow.
+   (ID: mattsulli)
+
+11. shown beside my healthy one for comparison.
+   (ID: ext23)
 
 
 --- MSC ---
-Total from this dataset: 8
+Total from this dataset: 84
 
-1. I wish to join education.
-   (ID: dialog_22_speaker_2)
+1. I am not shy. I work in TV show business
+   (ID: dialog_2_speaker_2)
 
-2. I am trying to get a post college degree.
-   (ID: dialog_23_speaker_1)
+2. I'm a midget.
+   (ID: dialog_105_speaker_2)
 
-3. I would like to enroll in nutrition classes and know more about the vegetarian way of eating.
-   (ID: dialog_10_speaker_1)
+3. I've a lot of wrinkles.
+   (ID: dialog_18_speaker_1)
 
-4. I want to get my own places.
-   (ID: dialog_24_speaker_2)
+4. I only wear the color black.
+   (ID: dialog_69_speaker_1)
 
-5. My wedding is set for april 11.
-   (ID: dialog_4_speaker_1)
+5. I jam on the skins.
+   (ID: dialog_59_speaker_1)
 
-6. I major in Pre-med since I like to become a doctor.
-   (ID: dialog_12_speaker_1)
+6. I use pens to write a lot.
+   (ID: dialog_31_speaker_2)
 
-7. I am studying finance.
-   (ID: dialog_7_speaker_2)
+7. I am very knowledgeable on automobiles.
+   (ID: dialog_99_speaker_1)
 
-8. I want to learn about gardening.
-   (ID: dialog_11_speaker_2)
+8. I'm above the standard height of a us male.
+   (ID: dialog_21_speaker_1)
+
+9. I have dark eyes.
+   (ID: dialog_72_speaker_2)
+
+10. I have brown eyes and brown hair.
+   (ID: dialog_97_speaker_1)
+
+11. I have six toes on my left foot.
+   (ID: dialog_31_speaker_1)
+
+12. My name is Jake.
+   (ID: dialog_100_speaker_2)
+
+13. I've a high voice.
+   (ID: dialog_3_speaker_1)
+
+14. I'm a seasoned girl.
+   (ID: dialog_95_speaker_1)
+
+15. I am recognized for being neat.
+   (ID: dialog_72_speaker_1)
+
+16. I enlighten young minds.
+   (ID: dialog_86_speaker_2)
+
+17. I'm a natural brunette.
+   (ID: dialog_94_speaker_1)
+
+18. I'm a star on screen.
+   (ID: dialog_107_speaker_1)
+
+19. I know how to use a chainsaw, large axe, and bucksaw.
+   (ID: dialog_51_speaker_2)
+
+20. I am fairly good with English and grammar skills in general. I have a very good recipe for corn and bean salad.
+   (ID: dialog_86_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 29
+Total from this dataset: 294
 
-1. i 'm really trying to get the broadest range i can and work from there .
-   (ID: NietzschesUbermensch)
+1. i barely recognize you .
+   (ID: KikAtWorkFL)
 
-2. i need your help !
-   (ID: carwynllew)
+2. i 'm so weird lol
+   (ID: breakingashleylynne)
 
-3. i need to read a book
-   (ID: SamuelStephenBono)
+3. i have similar markings to you mama .
+   (ID: EvieAugust)
 
-4. i 'll appreciate any hints you have .
-   (ID: LooksAtClouds)
-
-5. i feel like the house i would look at would be in a price range of 60 - 80k .
-   (ID: AgedTwenties)
-
-6. i was thinking a summit epa , but that 's kind of boring .
-   (ID: Megan_Bee)
-
-7. i need your help ...
-   (ID: glowinthedark)
-
-8. i need answers !
-   (ID: CarlofTime)
-
-9. i want the same list but with link to long explanation of what the tools do
-   (ID: xcombelle)
-
-10. i need some documentation .
-   (ID: closetotheedge48)
-
-11. i m an undergrad in a msc geology course in the uk .
-   (ID: carwynllew)
-
-12. i 'm holding a very special family reunion that i 'd like to be documented .
-   (ID: Evref)
-
-13. i would love to see a higher quality picture of them .
+4. i think you are pulling off that beard � �
    (ID: ListenandLove100)
 
-14. i would really appreciate the help .
-   (ID: NietzschesUbermensch)
+5. i 'm hoping someone can look at a couple of my pictures to help me out .
+   (ID: worried_panda)
 
-15. i want to be network admin , systems admin or similar it role .
-   (ID: AgedTwenties)
+6. i also emit vibration in the form of speech
+   (ID: ChallengeTaken99)
 
-16. i ’m feeling a bit stuck , so any thoughts would be hugely appreciated .
-   (ID: 11_29_77)
+7. i 'm here from fox fiction .
+   (ID: vikkivinegar)
 
-17. i 'll be at a wedding .
-   (ID: mylescloutier)
-
-18. i believe this is near urk , which is also protected by the afsluitdijk .
-   (ID: harumpf)
-
-19. i 'd like to see it with grant wood paintings
+8. i wear too much of it .
    (ID: wooq)
 
-20. i 'd like to see more physical historical flags around here , it 's pretty interesting .
-   (ID: Shrub74)
+9. i 'm outnumbered .
+   (ID: rspewth)
+
+10. i wish they were n't fake though because of how accurate they are !
+   (ID: Etifaq)
+
+11. i am a golden god !
+   (ID: NyxPeregrinus)
+
+12. i have * severe * issues with shirts from a sensory perspective .
+   (ID: CuriousBlueAbra)
+
+13. i 'm smooth like that .
+   (ID: genpell)
+
+14. i play bass guitar so my nails are always short .
+   (ID: Mahatma_Panda)
+
+15. i 'm 85 % a pure chemist .
+   (ID: apnudd)
+
+16. i am but a mere rabbit throne , clearly ...
+   (ID: DinoButtsy)
+
+17. i am become hood , destroyer of property values .
+   (ID: Bathysphere710)
+
+18. i know myself and have seen the pattern too much .
+   (ID: justgirlypasta)
+
+19. i am upside tho
+   (ID: Aloha-Potato)
+
+20. i can see why you ’ve got stellar eyes !
+   (ID: ListenandLove100)
 
 
 --- PER-CHAT ---
-Total from this dataset: 219
+Total from this dataset: 215
 
-1. I'm interested in depression and anxiety.
-   (ID: ecc98de1e575d7e863a2124b364b8ed586778ba5)
+1. I am midday/afternoon showerer.
+   (ID: 5147e830e7cfa538d6990a8699ad6462b57cfb52)
 
-2. I'm interested in male fashion.
-   (ID: c391065478603a686531cbdd50568136a5e14508)
+2. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
 
-3. I'm interested in personal finance.
-   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+3. I am glass.
+   (ID: 88c65ad9c962da115240776d5aa110748286db73)
 
-4. I'm interested in smoking and tobacco.
-   (ID: 114e3678c6af9d322985bb4656e33b19c03a0479)
+4. I am cup of coffee.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
 
-5. I'm interested in food and beverages.
-   (ID: 8a0d7d262d95d9c10d914ff3b70f342e066aee23)
+5. I am mod bitch.
+   (ID: 84fcf7fe73da3fe1849c81f9adb5f3cc411427d2)
 
-6. I'm interested in biology.
-   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+6. how about turkish ? not sure if you ' d call this a particle or a verb inflection yarn okula gideceksin you will go to school tomorrow yarn okula gidecek misin ? will you go to school tomorrow ? akllym i am smart akll mym ? am i smart ? bekliyorsunuz you wait bekleyebilir misiniz ? can you wait ?
+   (ID: 7ba2f45f62c701a508f1895df828d4da2f3f446d)
 
-7. I'm interested in statistics.
-   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+7. I am compulsive liar.
+   (ID: a80b8bc356414690d849369456d68876c95d5518)
 
-8. I'm interested in space.
-   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+8. I am badass.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
 
-9. I'm interested in tattoos.
-   (ID: bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809)
+9. I am insignifixant person in this vast world.
+   (ID: 782311f0352356940fd2c1e77bc3cfa9f74b06fa)
 
-10. I'm interested in self-help and motivation.
-   (ID: e81ca1234a368c583e7534e96af055654150cdb9)
+10. I am computer.
+   (ID: 98df62eadd0a0c80a6084d5e352985209b46cce9)
 
-11. I'm interested in personal finance.
-   (ID: 3b45915d58b20f0e2abb6b26d4534980a5d3aa68)
+11. I am king of the tacos.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
 
-12. I'm interested in investing.
-   (ID: 0804200f8083dc053afb8aa8f228fa4025950bd5)
+12. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
 
-13. I'm interested in fitness and nutrition.
-   (ID: fc02053133b0aa8d444b95ed56c24999ae82879b)
+13. I am bit.
+   (ID: 2a4bb889e40b61bb1755181c2b46750d3a082604)
 
-14. I'm interested in cooking.
-   (ID: dc513faaa334954cbf68db2825ec42a31e42fac2)
+14. do all you ' re friends know it ?
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
 
-15. I'm interested in keto.
-   (ID: 238316960c030f561912bd63e9f572a4170f991b)
+15. I am part of the reddit community.
+   (ID: 5173a1d5475490650d7365b2c2b2f2c579d33099)
 
-16. I'm interested in finance.
-   (ID: 634dae5dcf04e8e8d5bfd5e71c1fa8ec9713f222)
+16. I am english tho.
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
 
-17. I'm interested in personal finance.
-   (ID: ac1ceb388a2e170941cb682c48398cacc87c5019)
+17. I am archer.
+   (ID: 95c90f0b7430996843a42a4f365667a13e4c2eb5)
 
-18. I'm interested in botany.
-   (ID: 19a9190bb25fd002a6b979a3f72494c6523d8880)
+18. are you a gorilla ? because your face looks like somebody shot you
+   (ID: 6b89f03adeaf831281bcca46ec5a469e09e400c0)
 
-19. I'm interested in personal finance.
-   (ID: 65e18a8843fe1a6d644e4fe6a3b227426a6b9103)
+19. donald trump . we both have a below average iq .
+   (ID: e46baea29cbc117a037f63fbc38055b7e034a038)
 
-20. I'm interested in shopping.
-   (ID: b3497f72ed4462f0414951db6d9ee7aa4004b515)
+20. your face is so oily , that your own country tried to invade you
+   (ID: 2d1b758f410687b90c33a1260646954b4c1301f7)
+
+
+--- PersonaChat ---
+Total from this dataset: 67
+
+1. my hair is colored purple .
+   (ID: conversation_14)
+
+2. my name is omar .
+   (ID: conversation_42)
+
+3. i wear a lot of leather .
+   (ID: conversation_223)
+
+4. i'm an angry person .
+   (ID: conversation_169)
+
+5. my hair is long and brown .
+   (ID: conversation_129)
+
+6. my name is jovannie and i m 19 .
+   (ID: conversation_184)
+
+7. i've black spiky hair .
+   (ID: conversation_187)
+
+8. my name is kevin .
+   (ID: conversation_230)
+
+9. i am 5 7 tall .
+   (ID: conversation_160)
+
+10. people say i've a cute laugh .
+   (ID: conversation_41)
+
+11. i like to wear boots .
+   (ID: conversation_59)
+
+12. i m very shy .
+   (ID: conversation_263)
+
+13. i am under 6 feet tall .
+   (ID: conversation_105)
+
+14. i can be quite forgetful .
+   (ID: conversation_37)
+
+15. my name is gerald .
+   (ID: conversation_207)
+
+16. i know how to count cards in blackjack .
+   (ID: conversation_158)
+
+17. i'm tall .
+   (ID: conversation_96)
+
+18. my hair is short .
+   (ID: conversation_186)
+
+19. i'm 5 3 and am the shortest person in my family .
+   (ID: conversation_293)
+
+20. i'm only 5 foot tall .
+   (ID: conversation_274)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 4
+Total from this dataset: 152
 
-1. I am writing a novel.
-   (ID: conversation_13_user_2)
+1. I wear glasses.
+   (ID: conversation_254_user_1)
 
-2. I am a geology major at alabama university.
-   (ID: conversation_72_user_2)
+2. I m very religious.
+   (ID: conversation_106_user_2)
 
-3. I am engaged to be married.
-   (ID: conversation_25_user_2)
+3. I have glasses.
+   (ID: conversation_114_user_2)
 
-4. I am a history buff.
-   (ID: conversation_25_user_2)
+4. I am blind.
+   (ID: conversation_25_user_1)
+
+5. I can speak three languages.
+   (ID: conversation_106_user_1)
+
+6. Many people want to be my friend.
+   (ID: conversation_265_user_2)
+
+7. I have sausage fingers.
+   (ID: conversation_30_user_1)
+
+8. My hair is colored purple.
+   (ID: conversation_176_user_2)
+
+9. I am funny.
+   (ID: conversation_30_user_1)
+
+10. I am short.
+   (ID: conversation_36_user_1)
+
+11. I chew my nails.
+   (ID: conversation_293_user_2)
+
+12. I am smart too.
+   (ID: conversation_33_user_1)
+
+13. I am short.
+   (ID: conversation_35_user_1)
+
+14. I wear contacts.
+   (ID: conversation_268_user_2)
+
+15. I have a lot of style.
+   (ID: conversation_153_user_1)
+
+16. I speak fluent italian.
+   (ID: conversation_59_user_2)
+
+17. I have red hair.
+   (ID: conversation_45_user_1)
+
+18. My name is kevin.
+   (ID: conversation_257_user_2)
+
+19. I am very shy.
+   (ID: conversation_222_user_2)
+
+20. I m funny.
+   (ID: conversation_20_user_1)
 
 
 ============================================================

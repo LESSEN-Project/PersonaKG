@@ -1,261 +1,413 @@
 CLUSTER 7
 ============================================================
-Total statements in cluster: 992
+Total statements in cluster: 795
 
 Dataset distribution in this cluster:
-  MPChat: 12 (1.2%)
-  MSC: 11 (1.1%)
-  PEC: 240 (24.2%)
-  PER-CHAT: 719 (72.5%)
-  PersonaChat: 2 (0.2%)
-  SyntheticPersonaChat: 8 (0.8%)
+  FoCus: 2 (0.3%)
+  MPChat: 163 (20.5%)
+  MSC: 65 (8.2%)
+  PEC: 315 (39.6%)
+  PER-CHAT: 166 (20.9%)
+  PersonaChat: 28 (3.5%)
+  SyntheticPersonaChat: 56 (7.0%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 2
+
+1. I don't like reptiles.
+   (ID: X5NX5GAWOEW2_11)
+
+2. I don't like bulldogs.
+   (ID: FGIEUW9ABAQU_11)
+
+
 --- MPChat ---
-Total from this dataset: 12
+Total from this dataset: 163
 
-1. "i think you'll find that the couch is free"- president petrie
+1. my professor's cat just had laser therapy.
+   (ID: Caserole)
+
+2. i am not doing good on making this little guys eyes!
+   (ID: rollypollypuppy)
+
+3. he loves the colour blue and makes his best out of any blue yarn i leave lying around.
+   (ID: pokegirl93a)
+
+4. when i dogshammed gizmo for eating my glasses
    (ID: kentobean123)
 
-2. where did i go wrong?
-   (ID: Crilbyte)
-
-3. is this normal or am i doing something wrong?
-   (ID: Crilbyte)
-
-4. "i think you'll find that the couch is available"
-   (ID: kentobean123)
-
-5. 7 weeks of lockdown and my fo’s have begun playing chess... it was an unbearably close match
-   (ID: FoxInKneeSocks)
-
-6. if it fits i sits
+5. the most ridiculous drawing of my cat i have ever done
    (ID: pocket_kira)
 
-7. i call it "boyfriending."
-   (ID: mattsulli)
-
-8. i found the blanket loophole, make a lovey so it doesn’t take forever!
-   (ID: FoxInKneeSocks)
-
-9. "i think you'll find the couch is available"
+6. my mother-in-law sent me a picture of her sleepy huskies
    (ID: kentobean123)
 
-10. am i doing something wrong here?
-   (ID: iowajaycee)
+7. i freaked out when my cat got out... this is how i found her.
+   (ID: ddizzle23)
 
-11. what am i doing wrong?
-   (ID: Nutellism)
+8. my cat theo enjoying his time outside
+   (ID: markoshino)
 
-12. what can i do?
-   (ID: Chris55730)
+9. itap of my dog looking happy at the beach
+   (ID: The69LTD)
+
+10. my little koala i love his fluffy ears
+   (ID: Tanston)
+
+11. she's my favourite little lion.
+   (ID: VodkaWithSnowflakes)
+
+12. my pibble used to be terrified of the snow.
+   (ID: ddizzle23)
+
+13. i don't think he grasps the idea of puppy training pads...
+   (ID: youngdad33)
+
+14. my pups reaction to turning two
+   (ID: Snoodles1)
+
+15. i made a pudgy unicorn but he turned out a little... anteater-y
+   (ID: FoxInKneeSocks)
+
+16. i'm watering it a couple ounces every ten days
+   (ID: mle12189)
+
+17. my cat noodle has got that puss in boots thing going on.
+   (ID: VodkaWithSnowflakes)
+
+18. today, he's my little superhero!
+   (ID: BananaStand07)
+
+19. my dad would take her to work and greasy mechanics bottle fed her until she was healthy.
+   (ID: dudeinthepnw)
+
+20. this is my dilly cat
+   (ID: BareFootMumma)
 
 
 --- MSC ---
-Total from this dataset: 11
+Total from this dataset: 65
 
-1. I'm around people all day.
-   (ID: dialog_30_speaker_2)
+1. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
 
-2. I do not think I could have romantic feelings for a person smaller than myself.
-   (ID: dialog_1_speaker_1)
+2. I don't drive. My dog died.
+   (ID: dialog_90_speaker_2)
 
-3. My girlfriend helps me with school but she can be hard on me.
-   (ID: dialog_7_speaker_2)
+3. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
 
-4. I became an orphan at an early age.
-   (ID: dialog_26_speaker_1)
+4. My dog won won is a golden retriever.
+   (ID: dialog_93_speaker_1)
 
-5. I had to get used to moving a lot and seeing my dad once a year.
-   (ID: dialog_16_speaker_1)
+5. I have two dogs and one cat. My cat and dog get along well with each other. I love my pets.
+   (ID: dialog_97_speaker_2)
 
-6. I do not like my family.
-   (ID: dialog_2_speaker_1)
+6. I think Great danes or french bulldog are good choices for pet dogs.
+   (ID: dialog_47_speaker_2)
 
-7. I've not told my family that I am interested in the same sex.
-   (ID: dialog_4_speaker_2)
+7. My dogs are both 2 months old.
+   (ID: dialog_13_speaker_1)
 
-8. I was adopted when I was 1.
-   (ID: dialog_10_speaker_1)
+8. I love animals, but am too busy to have pets. I want to adopt a rescue dog. I have had English Bulldogs in the past.
+   (ID: dialog_11_speaker_2)
 
-9. I am going out with my manager.
-   (ID: dialog_37_speaker_1)
+9. I love my cat.
+   (ID: dialog_49_speaker_1)
 
-10. I have not told my family that I'm interested in the same sex.
-   (ID: dialog_35_speaker_1)
+10. I've a cute puppy.
+   (ID: dialog_93_speaker_1)
 
-11. My parents are very judgmental and rude.
-   (ID: dialog_2_speaker_1)
+11. I love my cat. My cat is 10 years old and I am thinking of getting another one. My cat mostly stays indoors. Sometimes, I take her to the beach on a leash.
+   (ID: dialog_49_speaker_2)
+
+12. I have a kitten named Leela.
+   (ID: dialog_29_speaker_1)
+
+13. I have a couple of pythons.
+   (ID: dialog_70_speaker_1)
+
+14. I had several kittens.
+   (ID: dialog_19_speaker_2)
+
+15. My cat mostly stays indoors. Sometimes, I take her to the beach on a leash.
+   (ID: dialog_49_speaker_2)
+
+16. My dog died last year. I used to have six cats. I have cats.
+   (ID: dialog_34_speaker_2)
+
+17. My horses names are Max, Rodney and Finn.
+   (ID: dialog_59_speaker_2)
+
+18. I used to have six cats.
+   (ID: dialog_34_speaker_2)
+
+19. I live in a dorm. I want to get a pet when I  move into my own home.
+   (ID: dialog_97_speaker_1)
+
+20. I have two greyhounds. My dog's names are Tom and Jerry.
+   (ID: dialog_13_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 240
+Total from this dataset: 315
 
-1. i do n't want any part of your tight ass country club you freak bitch !
-   (ID: closetotheedge48)
+1. i had a gollie when i was a kid .
+   (ID: middlegeek)
 
-2. i am expericbing the pooping
-   (ID: Heydawgg)
+2. i have a similar thing going on with my cat .
+   (ID: mmaswadeh)
 
-3. i feel like a toy that has been played with and abandoned .
-   (ID: boyofthechapter)
+3. i thought dogs were pretty universally regarded as unclean and unholy pets for muslims ?
+   (ID: giraffecakes)
 
-4. i hear you , /r / makeupexchange is both enhancing and destroying my life .
-   (ID: rycheme)
+4. i actually want some of my sims to have acne
+   (ID: jukkujak)
 
-5. i 'm female , and most of my characters in world of warcraft are female too .
-   (ID: Sabiola)
+5. i go to golden view veterinary in golden , good people
+   (ID: buttercup_mauler)
 
-6. i personally would feel good .
-   (ID: closetotheedge48)
+6. i actually aww'ed out loud .
+   (ID: tylock)
 
-7. i got a cottie a month ago my mom said i have a month to live : //
-   (ID: Heydawgg)
+7. i forgot how it felt to see / hear such a little nurser .
+   (ID: EvieAugust)
 
-8. i 'm happy it 's ending well for you .
-   (ID: KikAtWorkFL)
+8. i love doggie smiles !
+   (ID: notthruyet)
 
-9. i never told my mom i saw him , obviously .
-   (ID: hussy_trash)
+9. i think you missed the part where you cuddle the cute fluffy baby lamb .
+   (ID: AP7497)
 
-10. i 'd be too scared to date his mom
-   (ID: Evref)
+10. i have given up now just use a broom everyday when i clean their box .
+   (ID: SerendipitousCat)
 
-11. i usually get " you 're pretty cute , but damn , you 're fuckin weird . "
-   (ID: Mahatma_Panda)
+11. i love how gentle they are with each other .
+   (ID: VanGoJourney)
 
-12. i 'm always polite and say " no thanks ! "
-   (ID: Mahatma_Panda)
+12. i thought it was sleeping
+   (ID: iam1r7)
 
-13. i 'm a third wheel for my boyfriends date .
+13. i feel like this cat should have a moustache .
+   (ID: lovestheautumn)
+
+14. i love a smiling dog !
+   (ID: notthruyet)
+
+15. i spent $ 13,000 on my dog inside of 16 months .
+   (ID: middlegeek)
+
+16. i love beetles ’ little feet , they are so cute !
+   (ID: lovestheautumn)
+
+17. i have lots of animal experience but uhh ... not like you amazing pros .
    (ID: ItGetsAwkward)
 
-14. i 'm pretty sure that person is giving you shit ..
-   (ID: Kellen1337)
+18. i love that tail !
+   (ID: silentpower)
 
-15. i 'm a woman but i 'll take it :)
-   (ID: deryyaa)
+19. i 'm looking for something creepy cute .
+   (ID: RelaxedSociety)
 
-16. i m still getting over him but its been a month and a half now c :
-   (ID: bleepblorp9878)
-
-17. i would have gone off at that lady if i 'd been in your shoes .
-   (ID: trav110)
-
-18. i do feel so much better mentally when i ’m active .
-   (ID: 11_29_77)
-
-19. i was able to pull onto the expressway shoulder near yonge on 401 .
-   (ID: BoonTobias)
-
-20. i 'm so sorry for your loss of this sweet boy .
-   (ID: scoutsadie)
+20. i just do n’t understand how people mistreat animals .
+   (ID: Atlmama)
 
 
 --- PER-CHAT ---
-Total from this dataset: 719
+Total from this dataset: 166
 
-1. she invited you to her house , showered while you were there and was willing to let you see her in just a towel ? i think you missed some signals , buddy .
-   (ID: 8e9d9ac876fd2e0508d95d3e43def46faae3c312)
+1. she ' ll drink water , no worries about that . allow the cat to be around you while you ' re doing stuff around the house  the curiosity will make her come closer . and not the least treats
+   (ID: 4f26e00e0769f7123ce8a1a0d11a5e285c445ec3)
 
-2. go for it . what  s the worst that could happen ?
-   (ID: 541b4cbc0fbf09faead4d7954b3a984391890627)
+2. very cute ! why are you worried ?
+   (ID: 827584bdc66e3c4749f22f0ad0a9420dc64ac2b5)
 
-3. the thing is , i don ' t even mind the talking . what i mind is losing control of geralt during it . why not just let me walk around , stand still , jump or whatever i want to do while a character talks ? if done right , it works so much better
-   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+3. baby nail files ! their nails get really sharp and they scratch themselves .
+   (ID: b40d1d3ae1e77bcbdcb98e62deea24396d4b4d40)
 
-4. i did this an awful lot in high school , and in my experience it ' s like applying for jobs . after the first couple of dozen you just come to expect it , and the rejection isn ' t so crushing .
-   (ID: 91d5c112de409d3216ef30d9a1c0d6a9c9f48260)
+4. this is literally the best roast i have ever seen . crying  cat  face
+   (ID: 5481b7a3276de2b79473c4a65d5bb2506e36d79d)
 
-5. first and foremost you ' re doing great already . to some extent a stubborn stressed woman in the third tri is going to require you to roll with a lot of punches no matter what . it ' s entirely possible that what she needs most sometimes , fair or not , is a punching bag to let off some of the steam she has to keep repressed with nearly everyone in her life . my best advice otherwise , try proving to her you ' re doing what you can by getting her to expound on her feelings rather than trying to refute them . she says you ' re not stepping up to the plate ? fine , instead of arguing , ask what you could do better . write the list down , check the items off or at least make progress on them and report back within a couple weeks and ask the same question after . it ' s not a contest or a way to show her up , it ' s an exercise to show in an enumerable way that you ' re doing the best you can not just to be a dad in general , but to address her specific stress points . it ' s important that it not become a contest of any sort . you may have to do it over and over , or different variants for different issues but if you can show her that you ' re addressing her specific concerns instead of just doing what you believe to be responsible which is great , again i applaud your efforts and preparedness it can go a long way to relieving some of her stress on that specific issue , proving commitment to her and validating her feelings .
-   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+5. i think there ' s not a wildlife center in my city but i ' ll check . thanks
+   (ID: 2834b254700cedfb96641229b712899b4d697418)
 
-6. you ' re not pathetic . i think you ' re just a bit introverted , and that ' s fine . i find friends at work , at school , and before i knew all these people i was alone like you . how do you fight this feeling ? you love yourself enough to just let it be . you become fearless , because you know you don ' t need anyone to be happy . you can ' t force yourself to become friends with people . it doesn ' t work like that .
-   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
+6. i ' m a cat owner and have received many ' presents ' over the years . they are predators to be certain and i agree with you there . my point though is that the rats are unbothered by the cat and vice versa  neither of them views the other as competition for the food . i would guess that this is because people are always refilling the dishes .
+   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
 
-7. thank you , i just find it to be quite logical honestly . checking yourself in the best way you know will work to see if it ' s worth the wait , if your results were different emotionally you would know not to waste your and your so ' s time , which is better than starting the official relationship just for you to find out you don ' t really love her , now that ' s fucked up . goodluck with whatever you decide !
-   (ID: e0c81b4b90b0c79cd330827a7fe15c4ac2958b48)
+7. only if its animal or child abuse , rest is just cringy .
+   (ID: 41a67e67cad6d49fc85ef1ed0bf4549a04d9e027)
 
-8. maybe you should just be an adult about it and talk to him about it . furthermore , why are you so affected anyway ? you ' re friend probably thought that it was safe to hook up with your ex since you are getting married anyway . you should probably close the book with your ex because it will affect a couple of things  your friend might be serious about having a relationship with your ex and you ' re in the way of making him happy just because you don ' t want him checking out your ex . your future with your soon to be wife . obviously you ' re not over your ex yet because you can ' t stand someone else dating your ex . anyway , good luck bro . i know you ' ll take the mature path
-   (ID: 261413214c13676b8aee2ce20a47107c4ccfe6b8)
+8. this . my dog died a year ago . my parents had also surprised me with him . the first thing i remember is the sound of him shuffling out of the bedroom . all of digit months old and the size of a rat . he was a dalmatian and you could count the number of spots he had at the time . digit . i was a bullied child and an introvert . that dog changed my life . i would love to live that first day we met again .
+   (ID: 25a3a19690cf520ebb090d792f9aab864cc59254)
 
-9. if you need to scream . then do it , there is more room outside than inside .   x200b
-   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+9. take all my money ! i need that dog
+   (ID: 73e90e443642babe17d8b9523bc123bb79b21e79)
 
-10. it depends , honestly . were the charges nolled because you did some type of ar  jail diversion program ? how far is your army recruiter from you ? if they ' re local just bring all your documents if you still have them . if not give them a call , and explain the situation . they ' ll probably tell you right off the bat . i don ' t have my regulations in front of me at the moment , plus i recruit for the national guard so we have our own regulations on top of the army ones .
-   (ID: 3c405c5b13146831496e429cf2aff978fcec01eb)
+10. that ' s the most adorable thing i ' ve seen till now .
+   (ID: 60d49a425809d6f450335028a75a5202d3b84678)
 
-11. i feel like the incident had nothing to do with the lasagna . if he is stressed out he may have just taken it out on you because you were an easy target in the moment . which isn ' t cool . can you sit down with him and simply say " what ' s going on , something is off now and if it is because of me i would like to know . i don ' t think you are being an ass , or oversensitive to something that shouldn ' t have been a big deal or resulted in a cold shoulder . anything in hindsight that may have been leading up to his change ?
-   (ID: 7911b1d92de80b0e1abd4e2a29e4f762a8a2908f)
+11. thanks ! i only see dogs here sadly   represent !
+   (ID: 61d850113b440da97216a14cfd8a5509352c72b2)
 
-12. i ' m not that much stronger than you are uh ? aren ' t you digit or 11k ? modesty is good , but don ' t contemn all that you ' ve already achieved . you are much stronger .
-   (ID: 9006d58872586db3bb808208616fdc9c3dff694b)
+12. i had someone hand me a puppy and say " you ' re responsible for this one now " it was a big oh shit moment for me . that dog is still my life .
+   (ID: 7fdfc2063b89c8be6521566a61aeb5bf9497d47e)
 
-13. i don ' t know about the falling in love and all that . but if you ' re looking for advice take it from someone digit years older than you . forget about her . don ' t even think about it anymore . you ' re young as fuck and there ' s plenty of women out there . and don ' t fall in love .
-   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
+13. so at what point are you blaming the breed the pits that you have known have any of them attacked anyone what about the ones you know still make you feel like they can  t be trusted ?
+   (ID: 89a759866debf6704efa0f603c1b9c4476abd731)
 
-14. honestly man , those long hard days at work are what got me through a lot . especially when you have to think about alot of things at work , it keeps your mind busy . i worked digit  digit hours a week at one point just to keep my mind at ease . theres nothing worse than sitting around by yourself , it ' s good to be out doing things . you ' ll find another girl , and you ' ll realize the error of your ways from the first relationship and you won ' t make those mistakes again
-   (ID: dee1be637147c9065afbc159fbd3efc6ff54b847)
+14. im a male and ladies if i am wrong please let me know . their dog will be there when you cheat , lie , and steal . their dog will love them on their darkest and brightest days . their dog will be by their side no matter what . a large number of the male population cant even accomplish one of those sentences that a dog can do without trying . does this make them  obsessed  ? nope . it merely shows their loyalty to those who are loyal to them .
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
 
-15. then tell her that . in a nice way . it could start as simply as ,  do you mind asking me before you plan to invite your mom to stay over ?  she may also benefit from getting a more substantial friend group in your new area .
-   (ID: 5d0b750bf77c2c6e8b41ebf03caf4038a907b876)
+15. i dont know if you are bucket by trying to gamejack by making an alt account and talking about your account or a normal petscopper , if you are a noraml petscopper then its a joke
+   (ID: ed2d2ab477a99cff4d15f5f18a7d3662571d6e1a)
 
-16. compromise . you need to find a way for both of you to get a little of what you want . often time teenagers are completely oblivious to what they really need as support and same goes for parents not knowing where an appropriate line should be drawn usually out of fear or anxiety for their child  s well being you may see improvement if you take on more responsibility around the home or in the community  but that  s only a vague suggestion because i have no idea about your specific circumstances .
-   (ID: 238316960c030f561912bd63e9f572a4170f991b)
+16. before you spray or apply diatomaceous earth , i suggest you put a flea collar inside your vacuum bag , and vacuum everything possible , except your cats .
+   (ID: d3491a90d756046acac8c3053e9e99c3e6c231f9)
 
-17. we did acid with two other people , one of them had a fucked up bad trip and was eventually going to hurt himself or us he already tried to shoot us with a gun he hallucinated . before i called digit , the two other people including my former bff left . the other guy could have killed me and no one would know . it was then i realized that he didn ' t actually care about me and was toxic .
-   (ID: e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3)
+17. you arrogant prick . ive known this dog since i was digit and always kept her close . i made this post to have people talk and all you do is be an asshole . why do you think complete strangers not care about dogs ? have you not been in he street and see people talk to strangers about their dogs when they are walking them ? its human nature to be sympathetic and curious . you shouldn ' t have to be an asshole just because you don ' t care about something . just know you make a kid cry . thanks .
+   (ID: ea5cdb41822e9eac6a4230514be598981cadabcb)
 
-18. when anyone says  good morning  i always respond  not bad , yourself ?
-   (ID: 19a9190bb25fd002a6b979a3f72494c6523d8880)
+18. the reason the different categories exist is because some pets they don ' t have the time or interest in making the necessary animations for them to overrides , every pet that they don ' t make the animations for become followers instead . i do wish they ' d stop releasing new pets as followers because they ' re universally ignored if they can ' t be used for overrides , but hey they ' re a lot cheaper to produce and pad out the content so jagex likes them .
+   (ID: 818321ef6a71106a1a86010b5df8bc2991279431)
 
-19. if i were to stay with her , i would try my best to give her attention back and be the best boyfriend i could be . that  s not how i could see myself as an asshole . the way i could , would be me losing my patience and leaving in two months .
-   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+19. yes the nose holes are still open , thank you so much ! i got a little worried haha , but i ' m still going to the vet just to be sure
+   (ID: 2cb4aa2e032749d7dca2c2ab5fbd17d2ba53bb10)
 
-20. i understand that it helps you feel better , and that staying away from it is stressful , and that there ' s so way for me or anyone from this community to make you stop , but even though i don ' t know you , i want you to be safe , i hope that you ' re able to pass that digit day mark of no sh one day , i believe in you .
-   (ID: feb4a6aeed8e7e14b0592329bd91d7933a93217e)
+20. so my cat , franki , recently came down with a pretty severe stomach virus . the vet gave me some anti biotic drops to put in his food but when i  d do that franki wouldn  t touch it . so , the vet suggested using a small dropper tube to insert the medicine directly into his anus . the first time was absolute hell , my cat fought me the whole time but once the tube was in and the medicine pushed out he seemed to calm quite a bit . well the next day he was acting strange , he has always been an independent cat , rarely coming around , never wanting to be held , but as i sat on the couch he started walking back and forth meowing and rubbing my leg . he then went and jumped up on the table where we  d done the application the night before and meowed louder and louder until i decided i guess we will go ahead and do the medicine treatment . this time he didn  t fight me though , and when i inserted the tube he closed his eyes , stretched his neck , and let out a noise that can only be described as a moan of pure ecstasy . maybe the medicine made him feel better , i supposed . that night he slept on my bed curled up right next to me , which he had never done before . for the next week he  d do the same thing every day , meow on the table until he got his  fix  . but then the medicine ran out . even though i had no medicine he  d still cry and beg for it , i thought maybe if i insert it without medicine he will realize it doesn  t make him feel better anymore and forget about it . well that was digit weeks ago and he is only getting worse . he walks around me all day with his tail up presenting his rectum and trying to entice me . he is demanding insertions more and more often . yesterday i caught him looking longingly at the turkey baster . when i sit he jumps in my lap purring and rubbing me affectionately . it was then in horror i realized my cat thinks i  m his gay lover , and that i  ve been sexually pleasing him for weeks now . needless to say the sexual tension between us is palpable . how do i let my cat know that i  m not gay , but still like him as a friend ?
+   (ID: 96167969642339382f3b9c4eeee4ea73aec3823c)
 
 
 --- PersonaChat ---
-Total from this dataset: 2
+Total from this dataset: 28
 
-1. i am still in love with my ex boyfriend .
-   (ID: conversation_41)
+1. i had two cats growing up .
+   (ID: conversation_19)
 
-2. my parents don't know i am gay .
-   (ID: conversation_4)
+2. i've a cat named leela .
+   (ID: conversation_58)
+
+3. i wish i was a tiger .
+   (ID: conversation_156)
+
+4. i've a cat named felix and a small terrer names emmy .
+   (ID: conversation_239)
+
+5. i've a horse named beauty .
+   (ID: conversation_40)
+
+6. i have always wanted a pot bellied pig .
+   (ID: conversation_79)
+
+7. i have a black lab .
+   (ID: conversation_250)
+
+8. i once saw the easter bunny hiding behind my closet door .
+   (ID: conversation_221)
+
+9. i've a cat named seven of nine .
+   (ID: conversation_144)
+
+10. i use to own 6 cats .
+   (ID: conversation_34)
+
+11. i have a cat named charlie .
+   (ID: conversation_218)
+
+12. i've a parrot named parrot .
+   (ID: conversation_138)
+
+13. my dog is smaller than my cat .
+   (ID: conversation_85)
+
+14. my dogs name is toto .
+   (ID: conversation_162)
+
+15. i'm gong to adopt a dog very soon .
+   (ID: conversation_45)
+
+16. i've a dog named george .
+   (ID: conversation_76)
+
+17. i have a dog named bob .
+   (ID: conversation_27)
+
+18. i have a cat named speckles .
+   (ID: conversation_71)
+
+19. i have a boxer dog .
+   (ID: conversation_182)
+
+20. i have a small beagle dog who i call droopy .
+   (ID: conversation_174)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 8
+Total from this dataset: 56
 
-1. My friends do not call my by my real name.
-   (ID: conversation_62_user_1)
+1. I have always wanted a pot bellied pig.
+   (ID: conversation_217_user_2)
 
-2. My father died when i was 2.
-   (ID: conversation_64_user_2)
+2. I have a doberman.
+   (ID: conversation_22_user_1)
 
-3. I have a crush on my co worker.
-   (ID: conversation_42_user_2)
+3. I have a french bulldog.
+   (ID: conversation_95_user_2)
 
-4. I grew up as an orphan.
-   (ID: conversation_66_user_2)
+4. I love my dog.
+   (ID: conversation_21_user_2)
 
-5. I don t know why my sister in law dislikes me.
-   (ID: conversation_98_user_2)
+5. I have a beta fish.
+   (ID: conversation_82_user_1)
 
-6. My friends do not call my by my real name.
-   (ID: conversation_64_user_1)
+6. I have 2 beagles named chance and boomer.
+   (ID: conversation_184_user_1)
 
-7. My friends don t call my by my real name.
-   (ID: conversation_61_user_1)
+7. My two dogs are the best friends a girl could have.
+   (ID: conversation_298_user_2)
 
-8. I ve been rejected several times and thought of giving up with this.
-   (ID: conversation_35_user_2)
+8. I own a dog who is my best friend.
+   (ID: conversation_222_user_2)
+
+9. I do not like animals.
+   (ID: conversation_131_user_1)
+
+10. I have a cat named felix and a small terrer names emmy.
+   (ID: conversation_169_user_2)
+
+11. I have 2 beagles named chance and boomer.
+   (ID: conversation_185_user_1)
+
+12. I have a parrot named parrot.
+   (ID: conversation_69_user_2)
+
+13. I have a french bulldog.
+   (ID: conversation_169_user_1)
+
+14. My mother is allergic to dogs.
+   (ID: conversation_146_user_1)
+
+15. My dogs name is toto.
+   (ID: conversation_44_user_2)
+
+16. My mother is allergic to dogs.
+   (ID: conversation_215_user_2)
+
+17. I have two dogs , one pitbull and old english bulldog.
+   (ID: conversation_48_user_2)
+
+18. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+19. I have shot a lion.
+   (ID: conversation_205_user_2)
+
+20. I have a cat named charlie.
+   (ID: conversation_52_user_2)
 
 
 ============================================================

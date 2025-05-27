@@ -1,0 +1,103 @@
+CLUSTER 408
+============================================================
+Total statements in cluster: 20
+Cluster persistence (stability): 0.500
+
+Dataset distribution in this cluster:
+  FoCus: 3 (15.0%)
+  MSC: 4 (20.0%)
+  PEC: 8 (40.0%)
+  PER-CHAT: 1 (5.0%)
+  PersonaChat: 2 (10.0%)
+  SyntheticPersonaChat: 2 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I am not a fan of disasters.
+   (ID: 6GY4B8I8WQBW_7)
+
+2. I am a fan of Kevin Costner.
+   (ID: PK2U426B57KL_9)
+
+3. I am a fan of Jamie Oliver.
+   (ID: Y2QT7AAK6CLK_11)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I am a jon snow fan.
+   (ID: dialog_66_speaker_1)
+
+2. I am a huge fan of chocolate poodles.
+   (ID: dialog_10_speaker_1)
+
+3. I am not a fan of my daily routine.
+   (ID: dialog_45_speaker_1)
+
+4. I'm not a fan of soy products.
+   (ID: dialog_30_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i 'm a pharmie fan myself !
+   (ID: squaresaltine32314)
+
+2. i ’m a fan of his name !
+   (ID: WhereRtheTacos)
+
+3. i ’m still a fan of yours :3
+   (ID: lonewolf2556)
+
+4. i 'm a falcons fan and he 's a seahawks fan since he grew up there .
+   (ID: pinkpowerranger8)
+
+5. i 'm in too , but only because i spot a hitchhikers fan .
+   (ID: Darth_Waiter)
+
+6. i take it you ’re a fan of the who ?
+   (ID: ListenandLove100)
+
+7. i 'm no vettel fan , but ...
+   (ID: Blue_Sky_Blue)
+
+8. i have the tlr-7 and i ’m not a fan of the button activation .
+   (ID: pandachestpress)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am rangers fan.
+   (ID: f8d48136e1ccbc739d4b7fb8db1e8f668422b145)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am an anime fan .
+   (ID: conversation_114)
+
+2. i am a huge fan of classical jazz .
+   (ID: conversation_227)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am a steelers fan.
+   (ID: conversation_290_user_2)
+
+2. I am an avid fan of the boston celtics.
+   (ID: conversation_471_user_2)
+
+
+============================================================

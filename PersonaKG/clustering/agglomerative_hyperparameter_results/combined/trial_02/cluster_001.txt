@@ -1,15 +1,15 @@
 CLUSTER 1
 ============================================================
-Total statements in cluster: 1442
+Total statements in cluster: 1843
 
 Dataset distribution in this cluster:
-  FoCus: 30 (2.1%)
-  MPChat: 28 (1.9%)
-  MSC: 274 (19.0%)
-  PEC: 250 (17.3%)
-  PER-CHAT: 380 (26.4%)
-  PersonaChat: 166 (11.5%)
-  SyntheticPersonaChat: 314 (21.8%)
+  FoCus: 4 (0.2%)
+  MPChat: 29 (1.6%)
+  MSC: 9 (0.5%)
+  PEC: 1146 (62.2%)
+  PER-CHAT: 643 (34.9%)
+  PersonaChat: 6 (0.3%)
+  SyntheticPersonaChat: 6 (0.3%)
 
 ============================================================
 
@@ -17,451 +17,286 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 30
+Total from this dataset: 4
 
-1. I am a high school music teacher.
-   (ID: RUXEW8EYORSZ_11)
+1. I have never watched state high school football championships before.
+   (ID: FCHHL9I1PIW0_11)
 
-2. I have a brother who is passionate about birds and ornithology.
-   (ID: A06HPOO7OWPE_11)
+2. I have never played golf.
+   (ID: MP1ZK22Q90C9_11)
 
-3. I like drawing pictures.
-   (ID: RUXEW8EYORSZ_11)
+3. I am willing to read Codex Sinaiticus.
+   (ID: TF24QL7QZSG2_11)
 
-4. I am Anglican.
-   (ID: G1IQ2JHFB47F_11)
-
-5. I am follower of Hyder Ali.
-   (ID: UN54IACHSTX5_11)
-
-6. I hope to join the military.
-   (ID: W67GZU3ZXI46_9)
-
-7. I am a figure skater.
-   (ID: D4619DV1O1OP_11)
-
-8. I am an architect.
-   (ID: 9IFEU12EAOWB_11)
-
-9. I am Roman Catholic.
-   (ID: Z8RPC24EURS4_7)
-
-10. I am a baseball fan.
-   (ID: PK2U426B57KL_9)
-
-11. I am not Canadian.
-   (ID: QTNNKQN2EVU5_11)
-
-12. I have membership in a sports club.
-   (ID: VZ1O6OE23O98_11)
-
-13. I've worked on preservation projects before.
-   (ID: LJYX36WCRYDM_9)
-
-14. I am a Hindu by religion.
-   (ID: KGYT5MMVNDSG_11)
-
-15. I am English.
-   (ID: XXU24CBOXMRE_7)
-
-16. I want to go to college.
-   (ID: JTUKE03HZYSY_11)
-
-17. I love art.
-   (ID: QISL6J366OY6_11)
-
-18. I am from the United States.
-   (ID: PKTFMWPHB1E3_11)
-
-19. I would like to join the navy.
-   (ID: TGZJNX488SLV_11)
-
-20. I am a wildlife photographer.
-   (ID: B4623TSE2PJX_7)
+4. I'm recently reading a book about Alva Belmont.
+   (ID: DK9VMLV1IASM_11)
 
 
 --- MPChat ---
-Total from this dataset: 28
+Total from this dataset: 29
 
-1. i miss working at the bar.
-   (ID: Soggypaper_)
+1. why are my rosetta's twisting like this?
+   (ID: ext23)
 
-2. i had a hotpocket and petrie wanted it
+2. i think this knife and board have worn out their relationship
+   (ID: baccgirl)
+
+3. sorry bros, i've been slacking on reddit lately.
+   (ID: VisitingCivet)
+
+4. hi, i'm new here!
+   (ID: hottiecakes)
+
+5. so i came across this when i got to work this morning.
+   (ID: ThatPurpleDrank)
+
+6. dear my beloved little rhatt: your time is done, your line is flat.
+   (ID: green-egg-and-ham)
+
+7. my little karma napping cozily.
+   (ID: TranerGarvis)
+
+8. pardon my potato.
+   (ID: coffeehawaii)
+
+9. i don't even know.
+   (ID: fredbutt)
+
+10. i hear we are posting snoot boops
+   (ID: Deeshizznit)
+
+11. i'm efficiently lazy.
+   (ID: ddizzle23)
+
+12. what i wake up to every morning
+   (ID: drewchie)
+
+13. pringles responded to my email...
+   (ID: ThatPurpleDrank)
+
+14. luckily i made this for a coworker and not a customer...
+   (ID: rocketfin)
+
+15. thanks to google i can have president petrie piggleton of piggleworth manor as my keyboard background.
    (ID: kentobean123)
 
-3. finished a present for my friends gf.
-   (ID: River_Lethe)
+16. no worries, i didn't really have anything important to do anyways.
+   (ID: BananaPeelSlippers)
 
-4. i have been both barista and customer
-   (ID: pocket_kira)
+17. i'm a newbie on reddit.
+   (ID: theringbeller)
 
-5. asked petrie to be my valentine
+18. yes, hello, i would like one attention thank you
    (ID: kentobean123)
 
-6. one year ago today i started my job that i got through a reddit post of mine.
-   (ID: BeastaBubbles)
+19. need i say more?
+   (ID: Soapy_Von_Soaps)
 
-7. yes, hello, i would like one attention.
-   (ID: kentobean123)
-
-8. i started a cafe job again!
-   (ID: pocket_kira)
-
-9. i have a hot pocket
-   (ID: kentobean123)
-
-10. i'm a hypocrite.
-   (ID: Beardedlantern)
-
-11. when i'm not working, i end up doing the same job at home.
-   (ID: Perthboi92)
-
-12. i am a lion!
-   (ID: mattsulli)
-
-13. i can't even make scrambled eggs right.
-   (ID: ablubberducky)
-
-14. asked him to be my valentine forever.
-   (ID: kentobean123)
-
-15. hello it is i
-   (ID: kentobean123)
-
-16. asked petrie to be my valentine (he said yes)
-   (ID: kentobean123)
-
-17. yes, hello, i would like one attention thank you
-   (ID: kentobean123)
-
-18. laying in bed, watching a little star wars rebels, winding my my shuttle from a skein...
-   (ID: iowajaycee)
-
-19. i feel like i'm working at the most handsome bar hehe
-   (ID: XXVIINish)
-
-20. i love being a barista
-   (ID: Nutellism)
+20. (i got tired of doing the same square over and over again.)
+   (ID: meepmeepcuriouscat)
 
 
 --- MSC ---
-Total from this dataset: 274
+Total from this dataset: 9
 
-1. I do ink artwork.
-   (ID: dialog_31_speaker_2)
+1. I've not been lit.
+   (ID: dialog_103_speaker_1)
 
-2. I am married to my friend from high school.
-   (ID: dialog_34_speaker_2)
+2. I do not work at a funeral home.
+   (ID: dialog_5_speaker_2)
 
-3. I play guitar, but not as much as I would like.
-   (ID: dialog_35_speaker_1)
+3. I have a extra digit.
+   (ID: dialog_31_speaker_1)
 
-4. I am a pilot.
-   (ID: dialog_35_speaker_2)
+4. I am not good at math.
+   (ID: dialog_7_speaker_2)
 
-5. My mother used to play piano and sing. I don't like to sing.
-   (ID: dialog_10_speaker_1)
+5. You can find me on the internet.
+   (ID: dialog_58_speaker_2)
 
-6. I work from home as a customer service agent for a web hosting company.
-   (ID: dialog_34_speaker_1)
+6. I am not as smart as I thought.
+   (ID: dialog_53_speaker_2)
 
-7. I love making boats.
-   (ID: dialog_27_speaker_2)
+7. You can find me on the internet.
+   (ID: dialog_29_speaker_1)
 
-8. I want to help people.
-   (ID: dialog_21_speaker_2)
+8. I like to s ee services.
+   (ID: dialog_79_speaker_1)
 
-9. My name is Frank
-   (ID: dialog_15_speaker_1)
-
-10. There are weeks that I work almost every single day.
-   (ID: dialog_8_speaker_2)
-
-11. I am a gemini.
-   (ID: dialog_24_speaker_2)
-
-12. I am a bit shy. I don't want to work at a large company. I want to write a book.
-   (ID: dialog_2_speaker_1)
-
-13. I work hard.
-   (ID: dialog_4_speaker_2)
-
-14. I got married last year.
-   (ID: dialog_14_speaker_2)
-
-15. I have a busy job in an office.
-   (ID: dialog_8_speaker_2)
-
-16. My mother used to play piano and sing.
-   (ID: dialog_10_speaker_1)
-
-17. I am a solo life explorer.
-   (ID: dialog_18_speaker_2)
-
-18. I don't like to be out with nothing around me.
-   (ID: dialog_22_speaker_1)
-
-19. My dad is a cop.
-   (ID: dialog_34_speaker_1)
-
-20. I have not decided on a major for school.
-   (ID: dialog_12_speaker_2)
+9. I've never played chess.
+   (ID: dialog_108_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 250
+Total from this dataset: 1146
 
-1. i 'm 24 .
-   (ID: SamuelStephenBono)
+1. i get that .
+   (ID: ItGetsAwkward)
 
-2. i 'm obviously not from the us .
-   (ID: zsnajorrah)
+2. i 've just never written a business plan .
+   (ID: Osiris0123)
 
-3. i have american dollars in the banks
-   (ID: BoonTobias)
+3. i am not a bright person ...
+   (ID: bmeckel)
 
-4. i would if i were a grill
-   (ID: Heydawgg)
+4. i wonder why people always say who coined the term meme .
+   (ID: CheapyPipe)
 
-5. i 'm a great driver
-   (ID: closetotheedge48)
+5. i know how hard this is !
+   (ID: parkleswife)
 
-6. i have no one to brag to except friends , family , and co - workers .
-   (ID: wooq)
+6. i did n't even notice the joke .
+   (ID: aydinsevimli)
 
-7. i 'm in a party of 4 .
-   (ID: CarlofTime)
-
-8. i 'm not muslim .
-   (ID: xcombelle)
-
-9. i have a friend who is * both from ireland and a musician * .
-   (ID: SerendipitousCat)
-
-10. i 've spent all of my working life doing computer support for noaa .
-   (ID: SerendipitousCat)
-
-11. i just need to meet new people .
-   (ID: mooonjellies)
-
-12. i wanted to ask guys what would be a fun , beginner 's job ?
-   (ID: LabeledAsALunatic)
-
-13. i wish i 'd been that pretty when i was 17 .
-   (ID: Mende)
-
-14. i have 6 of them .
-   (ID: carwynllew)
-
-15. i am not a goddammed programmer !
-   (ID: cookiexcmonster)
-
-16. i think you exist in third dimension .
-   (ID: AgedTwenties)
-
-17. i need to stop hanging out with ravers ...
+7. i 'm not familiar .
    (ID: ifatree)
 
-18. i carefully distinguished myself .
-   (ID: nate6051)
+8. i found a downvote for you
+   (ID: ProJokeExplainer)
 
-19. i can learn to drive .
-   (ID: bleepblorp9878)
+9. i upvoted this so hard it should be on the front page within a couple of seconds .
+   (ID: carwynllew)
 
-20. i 'm a performance artist who defaces real art with spraypaint to make people confront loss .
+10. i could see this meme making the front page of r / dankmemes .
+   (ID: ChallengeTaken99)
+
+11. i see op is following rules 12
+   (ID: ChallengeTaken99)
+
+12. i think i know what they are alluding to here .
+   (ID: EmRavel)
+
+13. i will delete this pronto !
+   (ID: ItGetsAwkward)
+
+14. i ca n't , for the life of me , figure out what this guy was trying to accomplish .
+   (ID: sweatervest)
+
+15. i should get downvoted !
+   (ID: jay456)
+
+16. i know nothing about snapchat :(
+   (ID: CuriousBlueAbra)
+
+17. i done upvoted you for correct spelling
+   (ID: combover)
+
+18. i 've seen this before , where 's the repost police ?
+   (ID: Bananafoofoofwee)
+
+19. i figured you would know that reddit would appreciate it .
    (ID: RonaldFuckingPaul)
+
+20. i have n't translated anything , i can only speak english , unfortunately .
+   (ID: DarkMoon99)
 
 
 --- PER-CHAT ---
-Total from this dataset: 380
+Total from this dataset: 643
 
-1. I own a game.
-   (ID: 77a6bff8693a174b55d34fc32fdd8a87710fecb7)
+1. drug use for sure
+   (ID: 6b2e7201275c9aa1dcb6d1b24840765a41796c3d)
 
-2. I have a girlfriend.
-   (ID: 34de9309a5c02867b676757fa019c58a66bad300)
+2. your knowledge or lack of knowledge is irrelevant to the question of you being an atheist . if you don ' t hold a belief in a god then you are an atheist by default . it ' s like having a car . either you have a car or you don ' t . the fact that you haven ' t decided if you want a car is irrelevant to the question of whether or not you have a car at this moment . it doesn ' t matter if you can ' t decide to get a car or not . if somebody asks you " do you have a car now ? " you dont answer " i haven ' t made up my mind " . you say yes or no . if you don ' t have a car then you just say . no because you are a non  car owner . ndgt doesn ' t have a belief in god therefore he is a non  theist , otherwise known as an atheist .
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
 
-3. I have a girlfriend.
-   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+3. someone has really turned another dudes story from reddit into something ? yooo ok if that ' s true that ' s really sad and yea i ' m defensiv because i didn ' t want to do anything with that and i don ' t want people to think that
+   (ID: 02e801249875692d61023bbfbc79d7ff34c9eddf)
 
-4. I own a beam.
-   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
-
-5. My political view is socialist.
-   (ID: 77d0324af3e030bb9fb9365a16e870bd522fd275)
-
-6. My social science and humanities is history.
+4. frugal downvote to remove . sorry , my first bot . have a great day
    (ID: e24ed5c3caffaf18d8a2097a35f6cf37eff0117b)
 
-7. I live in university.
-   (ID: 804f1bee8d4950d83d7626539cb86d46b2848fd3)
+5. who knows . cause some russian bots hacked reddit ?
+   (ID: 9e778023eda5589ac577e3789edfd900d208edf7)
 
-8. I am american.
-   (ID: 8f7369c6ebb47df350fec663be46dfd8481ee2db)
+6. do you really want to know ?
+   (ID: cfd691d6aeaf46cc644b0e21187d10dfc62b0bc8)
 
-9. I own a money.
-   (ID: 60d49a425809d6f450335028a75a5202d3b84678)
+7. what are they saying ? are they staging this for  applelookaround ?
+   (ID: 3e3ba4fedc605802fcfce7c50b515d9b8d4a7af9)
 
-10. I own a grade.
-   (ID: 7ba2f45f62c701a508f1895df828d4da2f3f446d)
+8. so , this gets removed , but others such as the plane one and the dude staring into the fire whilst burning a fake slave neckchain is ok ? this promotes discussions about the show and is interesting and different .
+   (ID: 0edec5419d401d3ddd7386c8d9356093f1fa13cd)
 
-11. I own a laptop.
-   (ID: f4f3116c36134aaf6c836035cf76dc86210b1c12)
+9. what does that stand for ?
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
 
-12. I am straight las.
-   (ID: cd907372aff0871825a64e977822586e3bb0ecb7)
+10. investing downvote to remove . sorry , my first bot . have a great day
+   (ID: e24ed5c3caffaf18d8a2097a35f6cf37eff0117b)
 
-13. I own a car.
-   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
+11. well did you ?
+   (ID: eee9dc5129787c4d2a8fda055f09565efcf9322a)
 
-14. uh . how did you come to that conclusion ? do you know me ?
-   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
+12. in a word  no . writing is tiring for me and the number of stories would push the thread well into tl  dr territory . i ' ll keep writing these and posting when i can and if you don ' t like it you can just not read them .
+   (ID: 4d17a8a4d7907bba6d158e8a0b9c3504d69be003)
 
-15. I own a grade.
-   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+13. yes . what ' s it like ?
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
 
-16. I own a laptop.
-   (ID: 82bb111e2180a2ffb997b74ab504aa538034feab)
+14. your i ' s like million should be pronounced mihllion not meelion . when you say digit , you sound like a vietnamese person trying to speak english
+   (ID: f8f6a1dd8b47dc3239c55ec87aa3bbd108a04a43)
 
-17. i ' m digit , and in my last job many of my colleagues , including some of my best friends there , were around your age , or older . everybody has something to contribute to a friendship , whether they ' re digit or digit , so i ' ve personally never really considered it a factor .
-   (ID: 91d5c112de409d3216ef30d9a1c0d6a9c9f48260)
+15. did i ? or can ' t you even find the answer ?
+   (ID: 4972a31c1a3df007d761e27a613a3b6a99c3a0ca)
 
-18. I am hole.
-   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+16. you don ' t get a lot of these jokes , do you ?
+   (ID: 7cece6bbdf487f99b6d494ab790bde8e66ce8966)
 
-19. nice , you should check out my profile i do the same kind of thing
-   (ID: 35c328d4a335c5fd9ddfe5f40bbfd2580065561c)
+17. that ' s not true at all . i got the digit " pixel because my first name starts with a " b . how hard is it to understand ?
+   (ID: 3b00a7fe72d71c6162850ad66e6322e5d78fb79d)
 
-20. exactly the same as i do now . i do what i do because it ' s right , not for reward .
-   (ID: 34de9309a5c02867b676757fa019c58a66bad300)
+18. i like the kids answer because to be quite honest i don ' t understand i don ' t know what the answer to this question is
+   (ID: 97c35f21c6a14bb50b6faae9a7b18cd5968c350c)
+
+19. haha this is definitely not a stale and overused joke that o have never seen before humour sure is developing greatly in this subreddit
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+20. i haven ' t heard of that book . i wonder if even if they read it if they would realize what they ' re in for . they are such amazing , hard  working people that are in it so deep that to admit defeat . well . i just don ' t think they could do it . wouldn ' t it be so embarrassing to say you tried and gulp failed . it really really makes me so sad for them . and i agree , it sounds like a book that could be quite dry , but i bet it would actually be quite interesting if you know someone personally involved . i would probably cry for them .
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
 
 
 --- PersonaChat ---
-Total from this dataset: 166
+Total from this dataset: 6
 
-1. i ride my red bike to work everyday .
-   (ID: conversation_29)
+1. i'm terrible at math .
+   (ID: conversation_172)
 
-2. i'm a teacher .
-   (ID: conversation_86)
+2. i never learned how to write .
+   (ID: conversation_34)
 
-3. i got married last year .
-   (ID: conversation_14)
+3. i'm an old man .
+   (ID: conversation_169)
 
-4. i'm a dancer .
-   (ID: conversation_10)
+4. i never learned how to swim .
+   (ID: conversation_116)
 
-5. my mom teaches kindergarten and my dad is a tax assessor .
-   (ID: conversation_79)
+5. i never learned how to swim .
+   (ID: conversation_209)
 
-6. i dream of becoming a famous actress .
-   (ID: conversation_94)
-
-7. my number is 42 .
-   (ID: conversation_62)
-
-8. i live on a boat .
-   (ID: conversation_14)
-
-9. i'm a goalie .
-   (ID: conversation_62)
-
-10. i like to work puzzles .
-   (ID: conversation_86)
-
-11. i am in the army .
-   (ID: conversation_67)
-
-12. i drive a motorcycle instead of a car .
-   (ID: conversation_87)
-
-13. i work as a stand up comedian .
-   (ID: conversation_2)
-
-14. my boyfriend works for nasa .
-   (ID: conversation_37)
-
-15. i own my home .
-   (ID: conversation_52)
-
-16. i'm a hair stylist .
-   (ID: conversation_14)
-
-17. i work as an interior designer .
-   (ID: conversation_74)
-
-18. i am a veteran .
-   (ID: conversation_89)
-
-19. i will be graduating in september and hope to get a teaching job soon .
-   (ID: conversation_22)
-
-20. i'm an aspiring singer .
-   (ID: conversation_11)
+6. i cannot do math .
+   (ID: conversation_290)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 314
+Total from this dataset: 6
 
-1. I work at the grocery store.
-   (ID: conversation_50_user_1)
+1. I never learned how to swim.
+   (ID: conversation_117_user_2)
 
-2. I can draw.
-   (ID: conversation_20_user_1)
+2. I wish i could speak another language.
+   (ID: conversation_292_user_2)
 
-3. I can draw.
-   (ID: conversation_55_user_1)
+3. I am a terrible speller.
+   (ID: conversation_79_user_2)
 
-4. I like to build things.
-   (ID: conversation_12_user_1)
+4. I m a judge in the circuit court.
+   (ID: conversation_194_user_2)
 
-5. I work full time.
-   (ID: conversation_65_user_2)
+5. I am a terrible speller.
+   (ID: conversation_6_user_2)
 
-6. I own my own business.
-   (ID: conversation_81_user_2)
-
-7. I am blonde.
-   (ID: conversation_17_user_1)
-
-8. I am a student.
-   (ID: conversation_74_user_2)
-
-9. I am also round.
-   (ID: conversation_36_user_1)
-
-10. My dad was a carsalesman.
-   (ID: conversation_37_user_2)
-
-11. I have one blue eye and one hazel eye.
-   (ID: conversation_59_user_2)
-
-12. I am a chef.
-   (ID: conversation_73_user_1)
-
-13. I drive a nice car.
-   (ID: conversation_47_user_2)
-
-14. I have long legs.
-   (ID: conversation_56_user_2)
-
-15. I own a custom upholstery shop.
-   (ID: conversation_85_user_1)
-
-16. I play bass.
-   (ID: conversation_95_user_2)
-
-17. I have a black belt in karate.
-   (ID: conversation_87_user_2)
-
-18. I lease my car.
-   (ID: conversation_6_user_1)
-
-19. I am a happy person.
-   (ID: conversation_37_user_2)
-
-20. I play the violin.
-   (ID: conversation_32_user_1)
+6. I have never kissed a woman.
+   (ID: conversation_214_user_2)
 
 
 ============================================================

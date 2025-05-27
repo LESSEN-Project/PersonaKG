@@ -1,40 +1,377 @@
 CLUSTER 29
 ============================================================
-Total statements in cluster: 6
+Total statements in cluster: 726
 
 Dataset distribution in this cluster:
-  PEC: 3 (50.0%)
-  PER-CHAT: 3 (50.0%)
+  FoCus: 2 (0.3%)
+  MPChat: 8 (1.1%)
+  MSC: 54 (7.4%)
+  PEC: 395 (54.4%)
+  PER-CHAT: 136 (18.7%)
+  PersonaChat: 42 (5.8%)
+  SyntheticPersonaChat: 89 (12.3%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 2
+
+1. I would like to do some weight lifting.
+   (ID: EFTS0UG7NK5K_9)
+
+2. I wish to start hiking on nature trails.
+   (ID: 97WAFKFECFDE_9)
+
+
+--- MPChat ---
+Total from this dataset: 8
+
+1. i'm about 8 months in but i'm pretty happy with my progress.
+   (ID: SilentRansom)
+
+2. there are little blips where i decreased.
+   (ID: FoxInKneeSocks)
+
+3. hopefully it will get better as i go....... (if anyone has advise please help me )
+   (ID: green-egg-and-ham)
+
+4. looking innocent just before peeing on my sheets
+   (ID: BananaStand07)
+
+5. if it fits i sits
+   (ID: pocket_kira)
+
+6. this is my first fo.
+   (ID: FoxInKneeSocks)
+
+7. i just got over a case of chicken pox and have been a little depressed lately.
+   (ID: ChroniclyDope)
+
+8. thanks to your tips my selvedge is getting much better!
+   (ID: iowajaycee)
+
+
+--- MSC ---
+Total from this dataset: 54
+
+1. My eye color is dark.
+   (ID: dialog_97_speaker_1)
+
+2. I have a severe allergy.
+   (ID: dialog_2_speaker_1)
+
+3. I am a wedding photographer. I work a lot on the weekends. I like to drive when it is warm.
+   (ID: dialog_85_speaker_2)
+
+4. I have been pregnant 4 times.
+   (ID: dialog_98_speaker_1)
+
+5. I am fat.
+   (ID: dialog_16_speaker_2)
+
+6. I am a gemini.
+   (ID: dialog_24_speaker_2)
+
+7. I am lactose intolerant.
+   (ID: dialog_105_speaker_2)
+
+8. Sometimes I have trouble breathing.
+   (ID: dialog_40_speaker_1)
+
+9. I am exhausted by work everyday.
+   (ID: dialog_44_speaker_2)
+
+10. I need to make healthier choices when I go out to eat.
+   (ID: dialog_33_speaker_2)
+
+11. I'm skinny.
+   (ID: dialog_93_speaker_2)
+
+12. I like eating salads all day everyday. I am incorporating vegan meals into my diet.
+   (ID: dialog_86_speaker_2)
+
+13. I have a peanut allergy.
+   (ID: dialog_48_speaker_2)
+
+14. I am always tired.
+   (ID: dialog_98_speaker_2)
+
+15. I recommend Birthing By Calm, a combination of athletics and yoga for pregnancy.
+   (ID: dialog_40_speaker_1)
+
+16. I stay asleep all night.
+   (ID: dialog_62_speaker_1)
+
+17. I have begun to eliminate meat. I have completely stopped eating red meat. I only eat chicken and fish.
+   (ID: dialog_10_speaker_1)
+
+18. I am always tired. There is a lot going on in my life.
+   (ID: dialog_98_speaker_2)
+
+19. I am a homebody.
+   (ID: dialog_88_speaker_2)
+
+20. I am scared of surgery.
+   (ID: dialog_64_speaker_1)
+
+
 --- PEC ---
-Total from this dataset: 3
+Total from this dataset: 395
 
-1. i play " date or daughter " at restaurants frequently .
-   (ID: napalmkitten)
+1. i usually have clear skin except after ovulation and then another breakout the day of my period .
+   (ID: justgirlypasta)
 
-2. i heard you guys meet at 2-up .
-   (ID: CarlofTime)
+2. i gained 15lbs by drinking 0.5 gallon a day .
+   (ID: Takumi-Fujiwara)
 
-3. i want to bring three couples of two people from distinctly different backgrounds together .
-   (ID: zsnajorrah)
+3. i do nt usually plan cause i change my mind a lot .
+   (ID: Noimnotsally)
+
+4. i really feel like i 'm at the bottom of the barrel anymore , and i 'm exhausted .
+   (ID: jbasta93)
+
+5. i have graves disease it was something that helped me sleep with zero health risks
+   (ID: RelaxedSociety)
+
+6. i need peptide booster .
+   (ID: Justadropinthesea)
+
+7. i have been thinking that my long term goal is to somehow combine medical and spiritual practice .
+   (ID: shortgiraffe9000)
+
+8. i went through two sleep studies , one in september and the other just last week .
+   (ID: Lsmoothies)
+
+9. i was 32 at diagnosis , but i had probably had it for a few years .
+   (ID: MILeft)
+
+10. i ’ve heard numerous times to drink a protein shake as quickly as possible .
+   (ID: lambsquatch)
+
+11. i guess some must experience insomnia too .
+   (ID: Ml7500)
+
+12. i was raised vegetarian , and have been wanting to go vegan for the longest time .
+   (ID: AP7497)
+
+13. i 'm going to do whatever my badass doctor says .
+   (ID: juliacakes)
+
+14. i doubt that me complaining about pain would be that interesting :)
+   (ID: bbakks)
+
+15. i would say that drinking had something to do with it .
+   (ID: SerendipitousCat)
+
+16. i ca n’t control if the pain will be mild , bad , or super bad .
+   (ID: justgirlypasta)
+
+17. i feel like weed robbed years of my life .
+   (ID: mathieu2em)
+
+18. i ’ve heard great things about them but unfortunately they are n’t an option for me physically .
+   (ID: FruitBatFanatic)
+
+19. i wonder if these products would aggravate my rosacea though lol .
+   (ID: vivagypsy)
+
+20. i 've had disordered eating off and on since adolescence .
+   (ID: redraindropped)
 
 
 --- PER-CHAT ---
-Total from this dataset: 3
+Total from this dataset: 136
 
-1. i send them text based on their interests . teacher friends get a copy of pedagogy of the oppressed . oh , you ' re interested in political economy ? you get some unsolicited dick wolf youtube videos . oh , you ' re interested in capitalism and the family unit ? here ' s some alexandra kollontai and silvia federichi . oh , you have a short attention span but you want to know more about radical feminism ? here ' s an article from the hampton institute . so on and so on , until they ' re all mls .
-   (ID: 77d0324af3e030bb9fb9365a16e870bd522fd275)
+1. yeah , why i was wondering if anyone knew anything else i can rely on . i am scared to heck , we just moved . things haven ' t been the easiest .
+   (ID: d42f47f147cdc8e97117f0e4963e2c1309d1dcd8)
 
-2. ones that invite or talk about plans in front of you , but you do not get included .
-   (ID: 02e4b90101e07338b4251209256c01652a022c5d)
+2. thank you for your answer . that ' s interesting how yours kinda sticks with being with other people . i scared a new acquaintence of a friend , i went from a feminine state to a strong masculine state during a conversation and my body language changed . as it ' s going to . normally my gender " feeling " isn ' t so far down the spectrum on either side but it was that day for some reason . she thought i had been " possessed by a male spirit " and i was like " yeah . my male side . it ' s still me . happens " but honestly i wasn ' t sure if it happened to others thru the day too or if most people just wake up with what they feel that day . so i appreciate that yours can also change . i feel better .
+   (ID: 7fdfc2063b89c8be6521566a61aeb5bf9497d47e)
 
-3. yeah i  ve heard of that before , where i live it  s the freshmen trying to get seniors , but i guess it  s not that hard to believe basically putting on bets to see if you can sleep with someone
-   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+3. masturbating . i suppose someone will have to wipe the jizz off my cock , though .
+   (ID: 8e9d9ac876fd2e0508d95d3e43def46faae3c312)
+
+4. really fucking hope that brute  forcing through stuff like this doesn ' t make depression worse . because that ' s how i get things done these days .
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+5. because i like letting my body deal with the processes that evolution has so kindly created for us .
+   (ID: 315ad21e3ce098f09bec23f9b7509d07540912c7)
+
+6. i ' ve developed the habit of just not openening my mouth as wide when i yawn . it ' s almost like muscle memory now although occasionally a wide one happens and it ' s mildly unsettling . lol . i recently had someone tell me to look down when yawning as you physically can ' t open your mouth as wide . good technique if you can remember it .
+   (ID: 2ad50e702ea7ef4cc62a34ca116f658d564c0474)
+
+7. this is the conversation i usually have with myself in my head . man its quiet . i ' m not tired just close your eyes and try to fall asleep anyway , you know when that alarm goes off digit hours from now it ' s gonna suck and you aren ' t going to want to wake up . i wish i had a girlfriend to hold right now . you have a body pillow just cuddle with that . but the feathers stick out and poke me ! stop being a bitch . why do i itch all over ? is it time to buy new sheets ? do i need silk sheets or something to not itch this much ? i must have really sensitive skin . i hate having sensitive skin did my phone just make a notification noise ? it ' s probably a candy crush request or something stupid just check it in the morning you need to sleep . yeah but what if it ' s something entertaining or someone trying to talk to me ? you know it ' s not . rolls over . that fucking notification , what is it ? fuck it . gets out of bed and walks to phone somebody commented on a post that you commented on . see i told you it wasn ' t important . nobody is thinking about you right now enough to make your phone make noise . checks time . shit ok digit hours until i have to wake up . we ' re still good i can handle that . i can ' t sleep . take some unisom . if i take it now i ' ll be extra tired in the morning tho . anyway i continue to think about stupid shit and it only usually gets depressing , until i fall asleep knowing i have to wake up in like digit hours
+   (ID: 0ffbddfe94023d7c5849c377e3fd6faac3ddc83c)
+
+8. sorry , all i have is altoids .
+   (ID: bdbdc7c12fe37172b721ff3ae186b84ad646d582)
+
+9. have been depressed for god knows how long and never got any treatment . neither can i afford ot nor do i think that it will help because the treatments are shit aroud here .
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+10. just do something , it doesn ' t have to be much , but it has to be an act of self  care . it ' ll help .
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+11. good for you . i understand dental phobia and it must feel great to get that behind you .
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
+
+12. I live in off of carbs.
+   (ID: d298609ba6b9516031b9d0b9bc9217d85ce28f05)
+
+13. probably not rest and recuperate .
+   (ID: 6faff6ad4f2fa64f202b2b60f154aba162159b2f)
+
+14. a nicotine craving only lasts for min at the time , after that you feel normal again . always remember that you just have to resist for digit min as soon as the craving beginns . and also try to avoid areas where you typically smoked or your friends do .
+   (ID: e5a44ccd2ce03ba23fc6a9fd527ffc5440b8088c)
+
+15. well , i ' m approximately the same weight , and it took me about digit hours to come down completely .
+   (ID: dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e)
+
+16. I am 40m.
+   (ID: 818321ef6a71106a1a86010b5df8bc2991279431)
+
+17. maybe you should stick to just one marijuana . you don ' t want to od your first time .
+   (ID: 0ff9b93da34f69dc075bf7e22366843c393b5bdd)
+
+18. there ' s nothing you could do about this anyway . plus , if you did manage to change something who knows in what way you would fuck up your own future thinking of a sound of thunder here ,
+   (ID: 5fe12b36dc6d3370836c6683997c005efb656c99)
+
+19. also , most people get the poops hard core at the start of labor , so you don  t have any poop to go .  with all my births , they give me an enema at the hospital . they don ' t do taht anymore ?
+   (ID: 613ad5d5b0144c86404a7d899ddbcd89ab6c82fb)
+
+20. congrats on your progress . i should do more sports myself , but i absolutely dislike jogging , i imagine people staring at me and judging me , how did you get yourself to actually do it ? also why do you dislike jewish velociraptors ?
+   (ID: e6c4a2b8e8c999b54ade342babc3d7b48868cc6d)
+
+
+--- PersonaChat ---
+Total from this dataset: 42
+
+1. i only sleep 3 hours a day .
+   (ID: conversation_254)
+
+2. i would rather stay up late than get up early .
+   (ID: conversation_193)
+
+3. i exercise everyday .
+   (ID: conversation_16)
+
+4. i'm allergic to cats .
+   (ID: conversation_222)
+
+5. i feel overweight .
+   (ID: conversation_288)
+
+6. i walk more than 2 miles a day .
+   (ID: conversation_185)
+
+7. i've male pattern baldness .
+   (ID: conversation_138)
+
+8. i do yoga every morning .
+   (ID: conversation_256)
+
+9. i am a couch potato .
+   (ID: conversation_120)
+
+10. i m really short .
+   (ID: conversation_57)
+
+11. i sleep 10 hours every day because my work is tiring .
+   (ID: conversation_44)
+
+12. i don t drink alcohol .
+   (ID: conversation_289)
+
+13. i am a night owl , but i am an introvert so i don't go out much or anything .
+   (ID: conversation_43)
+
+14. i do yoga three times a week .
+   (ID: conversation_252)
+
+15. if i am not drinking , i am thinking , which makes me uncomfortable .
+   (ID: conversation_197)
+
+16. i am on a low carb diet .
+   (ID: conversation_227)
+
+17. i drink lots of iced tea .
+   (ID: conversation_206)
+
+18. i sleep in late during the day .
+   (ID: conversation_187)
+
+19. i also give blood monthly in honor of my sister who died .
+   (ID: conversation_77)
+
+20. i need certain medications to live .
+   (ID: conversation_171)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 89
+
+1. I am chubby.
+   (ID: conversation_88_user_1)
+
+2. I m bloated.
+   (ID: conversation_53_user_1)
+
+3. I am thin.
+   (ID: conversation_17_user_1)
+
+4. I practice yoga daily.
+   (ID: conversation_238_user_2)
+
+5. Sometimes i think i should get out and exercise more.
+   (ID: conversation_138_user_2)
+
+6. I am allergic to nuts.
+   (ID: conversation_126_user_1)
+
+7. I am slightly overweight , but my doctors say i m healthy.
+   (ID: conversation_134_user_1)
+
+8. I have allergies.
+   (ID: conversation_90_user_2)
+
+9. I work out daily.
+   (ID: conversation_142_user_2)
+
+10. I take medication.
+   (ID: conversation_170_user_1)
+
+11. I am a night owl.
+   (ID: conversation_84_user_2)
+
+12. I am allergic to nuts.
+   (ID: conversation_150_user_2)
+
+13. I exercise everyday.
+   (ID: conversation_181_user_2)
+
+14. I exercise.
+   (ID: conversation_77_user_2)
+
+15. My feet are size six womens.
+   (ID: conversation_168_user_1)
+
+16. I m really short.
+   (ID: conversation_19_user_2)
+
+17. I m bloated.
+   (ID: conversation_54_user_1)
+
+18. I also meditate a lot.
+   (ID: conversation_201_user_1)
+
+19. I am chubby.
+   (ID: conversation_87_user_1)
+
+20. I currently suffer from social anxiety.
+   (ID: conversation_72_user_2)
 
 
 ============================================================

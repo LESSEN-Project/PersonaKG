@@ -1,0 +1,77 @@
+CLUSTER 112
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  MPChat: 1 (7.7%)
+  MSC: 1 (7.7%)
+  PEC: 5 (38.5%)
+  PER-CHAT: 4 (30.8%)
+  PersonaChat: 2 (15.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. this is the second time a seemingly healthy leaf on my banana plant has keeled over like this.
+   (ID: ReturnOfTheFox)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am in a book club that is reading "A Time for Mercy" by John Grisham. I like the book so far.
+   (ID: dialog_49_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i already like her for a long time and now i do even more .
+   (ID: Ml7500)
+
+2. i drank a lot of weird decaf teas , and snacked on whatever i felt like at the time .
+   (ID: teriaki)
+
+3. i 'm always like a kid and counting down stuff , so at what time are the matches done ?
+   (ID: mrhenk9)
+
+4. i chat her up , ask her if she would like to spend some time with me .
+   (ID: aydinsevimli)
+
+5. i would like you to come with me the next time i go to a bar , please .
+   (ID: redraindropped)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. yep . it ' s like a wall in time you can ' t get past no matter what .
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+2. ive started calling them besides texting , it works half of the time . but yeah . feeling like your on the outside is real tough .
+   (ID: 13429813198f2aaef97e18644aa776da323f48a1)
+
+3. lazy coworker who eats garbage all the time , and wonders why he feels like shit all the time .
+   (ID: 4a5a9ac8eab027b38804427b3c8c5e19c8991de3)
+
+4. happens all the damn time . i ' d complain but that ' s how i like ' em , they crisp up lovely .
+   (ID: 68d36e5b5d26327bbb5de8de16430cc93353cbf0)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i like to donate time at the local animal shelter .
+   (ID: conversation_19)
+
+2. i like jogging in my spare time .
+   (ID: conversation_77)
+
+
+============================================================

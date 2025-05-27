@@ -1,0 +1,235 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 153
+Cluster persistence (stability): 0.440
+
+Dataset distribution in this cluster:
+  FoCus: 3 (2.0%)
+  MSC: 10 (6.5%)
+  PEC: 31 (20.3%)
+  PER-CHAT: 98 (64.1%)
+  PersonaChat: 8 (5.2%)
+  SyntheticPersonaChat: 3 (2.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I live in Wollongong.
+   (ID: EXXMSRQDF6PN_11)
+
+2. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+3. I love to live in Tây Ninh.
+   (ID: IP4KRMQQREBQ_9)
+
+
+--- MSC ---
+Total from this dataset: 10
+
+1. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+2. I am from Orlando. I live with my girlfriend. I like girls taller than I am.
+   (ID: dialog_85_speaker_2)
+
+3. I have a porch where I live.
+   (ID: dialog_71_speaker_2)
+
+4. I live on the east coast.
+   (ID: dialog_76_speaker_1)
+
+5. I live in a bad neighborhood.
+   (ID: dialog_13_speaker_2)
+
+6. I live in Florida. I have contacts in Alabama.
+   (ID: dialog_85_speaker_2)
+
+7. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+8. I live near Boston. I have a wife. I have friendly neigbors.
+   (ID: dialog_31_speaker_2)
+
+9. I live near a barn near Saratoga..
+   (ID: dialog_117_speaker_1)
+
+10. I live in Providence. I work in a Publishing building, downtown.
+   (ID: dialog_41_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 31
+
+1. i live in ohio !
+   (ID: GetItTogether)
+
+2. i do n’t even live that far from this town !
+   (ID: Dustin_Bromain)
+
+3. i live crunch wraps .
+   (ID: KikAtWorkFL)
+
+4. i live in montreal and i find this ridiculous - .
+   (ID: arabguyistall)
+
+5. i live in moorestown , it 's like right down the road .
+   (ID: TylerC_D)
+
+6. i live in southwest ohio , and i would love to help !
+   (ID: worried_panda)
+
+7. i live in dublin .
+   (ID: Nimmyzed)
+
+8. i live right on colfax by the ogden .
+   (ID: jmontoya5280)
+
+9. i live in sa right now .
+   (ID: SamuelStephenBono)
+
+10. i live in berlin and my google now shows berlin .
+   (ID: thed0ctah)
+
+11. i almost feel like i live in la .
+   (ID: JimmyMcShiv)
+
+12. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
+
+13. i ’m guessing you live in the pnw .
+   (ID: Justadropinthesea)
+
+14. i live there but i have to work tomorrow .
+   (ID: amirman)
+
+15. i live just outside of cambridge so this is super useful .
+   (ID: DinoButtsy)
+
+16. i live in germany and my s8 + has bixby .
+   (ID: thed0ctah)
+
+17. i live in dallas and you have no idea what it 's like here .
+   (ID: HugePurpleNipples)
+
+18. i live on top of your mother .
+   (ID: DarkMoon99)
+
+19. i live , and love on the deep end !
+   (ID: meteoriteminer)
+
+20. i live here and those areas are n't detroit !
+   (ID: giraffecakes)
+
+
+--- PER-CHAT ---
+Total from this dataset: 98
+
+1. I live in adachiku.
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+2. I live in boring america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+3. I live in london mucus lampards shot.
+   (ID: 2ad50e702ea7ef4cc62a34ca116f658d564c0474)
+
+4. I live in desert.
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+
+5. I live in manboobs.
+   (ID: 2e1439e8eb18b181a69a66cc4c1b2dc22ce774f0)
+
+6. I live in f  pizza.
+   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+
+7. I live in with scar.
+   (ID: ea1aba6f5a01e142602653a1b9987c70e3862a45)
+
+8. I live in vietnamese family.
+   (ID: 618e7c681a628e6c6c5521926bf4d17deb5ed5d6)
+
+9. I live in hotspot.
+   (ID: 2bb956084cb9bf79f58345d6cf6beca98e76bbb4)
+
+10. I live in near ethanac.
+   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
+
+11. I live in brunswick.
+   (ID: 15909870ffa903ea3b3962d8d81fd1701dd68aea)
+
+12. I live in baguettes.
+   (ID: 168d1161144e63a83a23f04ae4e64bd4b25684c0)
+
+13. I live in tulsa  months.
+   (ID: 06f2b7a65e600f531fbc47a595626f329ee413a4)
+
+14. I live in pictures.
+   (ID: a7d8ba86187ae0cea463dd4ff85d67fa2b786dc7)
+
+15. I live in trois-rivières.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+16. I live in flight path.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+17. I live in nike.
+   (ID: fa9acab3fbd86b1f64e6380ef31b49912dae0c74)
+
+18. I live in heating pad.
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+19. I live in year.
+   (ID: 467dbed573790a54a921a28f66e0e68f81106906)
+
+20. I live in maximus.
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i live in the usa .
+   (ID: conversation_23)
+
+2. i live in las vegas , nevada .
+   (ID: conversation_314)
+
+3. i live in nashville .
+   (ID: conversation_117)
+
+4. i live on a boat .
+   (ID: conversation_14)
+
+5. i live alone .
+   (ID: conversation_18)
+
+6. i live in rural wisconsin .
+   (ID: conversation_15)
+
+7. i live down the street from miley cyrus and pnb rock .
+   (ID: conversation_184)
+
+8. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+2. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+3. My parents live in kentucky.
+   (ID: conversation_310_user_2)
+
+
+============================================================
