@@ -1,0 +1,69 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 6 (50.0%)
+  MSC: 1 (8.3%)
+  PEC: 3 (25.0%)
+  SyntheticPersonaChat: 2 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 6
+
+1. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+2. I have stayed in resorts.
+   (ID: FZ7IE8MUIWRS_9)
+
+3. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+4. I have been to Manchester before.
+   (ID: WKAD0PJA14Q4_11)
+
+5. I have visited Austria many times.
+   (ID: YLLQOXHD6MZC_7)
+
+6. I have been to California.
+   (ID: UC6WD3SK3PG8_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i was born and raised in illinois and i have never been west of missouri .
+   (ID: AgedTwenties)
+
+2. i was in prague for a while in 1996 .
+   (ID: wooq)
+
+3. i ’m from corvallis .
+   (ID: godspeedone)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+2. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+
+============================================================

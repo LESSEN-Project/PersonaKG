@@ -1,0 +1,45 @@
+CLUSTER 18
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. my car is green and smells weird .
+   (ID: conversation_162)
+
+2. i started working at google last week on self driving car research .
+   (ID: conversation_122)
+
+3. i lost my arm in a car accident .
+   (ID: conversation_157)
+
+4. i drive a jag .
+   (ID: conversation_169)
+
+5. my friend once bought me a car .
+   (ID: conversation_183)
+
+6. i do not drive .
+   (ID: conversation_56)
+
+7. i drive a prius .
+   (ID: conversation_68)
+
+8. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+9. my car is pink .
+   (ID: conversation_58)
+
+
+============================================================

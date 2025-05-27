@@ -1,0 +1,54 @@
+CLUSTER 543
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.848
+
+Dataset distribution in this cluster:
+  MPChat: 1 (14.3%)
+  MSC: 1 (14.3%)
+  PEC: 4 (57.1%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i bake and decorate cakes but have recently gotten into sugar flowers.
+   (ID: kduluth)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I visited the park on Main and 4th recently.
+   (ID: dialog_11_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i recently discovered it and i 'm amazed .
+   (ID: Nheea)
+
+2. i have recently been to chennai and they are accepting the coins there .
+   (ID: godspeedone)
+
+3. i had a pair hemmed recently for $ 6
+   (ID: Captain_-H)
+
+4. i recently flew to bonaire on a refurbished delta jet with these and it was sweet .
+   (ID: deputydan_scubaman)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I recently had knee surgery.
+   (ID: conversation_149_user_2)
+
+
+============================================================

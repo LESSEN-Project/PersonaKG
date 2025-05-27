@@ -1,0 +1,82 @@
+CLUSTER 45
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.991
+
+Dataset distribution in this cluster:
+  FoCus: 3 (23.1%)
+  MSC: 1 (7.7%)
+  PEC: 2 (15.4%)
+  PER-CHAT: 2 (15.4%)
+  PersonaChat: 3 (23.1%)
+  SyntheticPersonaChat: 2 (15.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+2. I am born in Pennsylvania.
+   (ID: 97WAFKFECFDE_9)
+
+3. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I was born in moscow.
+   (ID: dialog_113_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i grew up in chagrin falls
+   (ID: Justadropinthesea)
+
+2. i 'm from the us but i went to a norwegian college .
+   (ID: juliacakes)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I am albanian.
+   (ID: 41fc1b2c09d5a16a25f120edde55b2a6e2e54e29)
+
+2. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i grew up in alabama .
+   (ID: conversation_221)
+
+2. i was born in baton rouge .
+   (ID: conversation_138)
+
+3. i am argentinian .
+   (ID: conversation_59)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+2. I grew up in nevada.
+   (ID: conversation_120_user_1)
+
+
+============================================================

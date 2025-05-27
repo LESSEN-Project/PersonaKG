@@ -1,0 +1,21 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 950
+Vectorization method: dense
+Number of clusters: 6
+Number of noise points: 618 (65.1%)
+Analysis type: clusters
+Timestamp: 2025-05-27 16:53:56
+
+Dataset Distribution:
+  FoCus: 950 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 4: 113 statements (persistence: 0.796)
+  Cluster 0: 75 statements (persistence: 0.889)
+  Cluster 3: 47 statements (persistence: 0.922)
+  Cluster 1: 37 statements (persistence: 0.998)
+  Cluster 5: 37 statements (persistence: 0.912)
+  Cluster 2: 23 statements (persistence: 0.974)

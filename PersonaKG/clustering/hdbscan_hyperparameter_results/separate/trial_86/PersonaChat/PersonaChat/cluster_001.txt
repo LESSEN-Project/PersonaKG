@@ -1,0 +1,33 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i have 3 ferrari cars in my garage .
+   (ID: conversation_456)
+
+2. i own a black suburban .
+   (ID: conversation_75)
+
+3. i drive a prius .
+   (ID: conversation_68)
+
+4. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+5. i own a hearse .
+   (ID: conversation_5)
+
+
+============================================================

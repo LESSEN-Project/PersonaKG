@@ -1,0 +1,57 @@
+CLUSTER 323
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  MSC: 1 (12.5%)
+  PEC: 2 (25.0%)
+  PersonaChat: 2 (25.0%)
+  SyntheticPersonaChat: 3 (37.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm above the standard height of a us male.
+   (ID: dialog_21_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i talked to my doctor about it and he suggested the keto diet along with the if .
+   (ID: boo3114)
+
+2. i have a 22 bmi but 32 % bodyfat .
+   (ID: buttercup_mauler)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am chubby .
+   (ID: conversation_74)
+
+2. i m allergic to shellfish .
+   (ID: conversation_28)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I am male.
+   (ID: conversation_5_user_1)
+
+2. I have allergies.
+   (ID: conversation_90_user_2)
+
+3. My feet are size six women s.
+   (ID: conversation_95_user_2)
+
+
+============================================================

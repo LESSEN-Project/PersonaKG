@@ -1,0 +1,43 @@
+CLUSTER 207
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 3 (60.0%)
+  PER-CHAT: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i repurposed the bottle for immersion oil at work .
+   (ID: Nheea)
+
+2. i can neither confirm nor deny your solution would work .
+   (ID: CuriousBlueAbra)
+
+3. i have also been lucky enough to work with bob bakker on a paleo dig as well .
+   (ID: LooksAtClouds)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am positive leader skills work.
+   (ID: 2a4bb889e40b61bb1755181c2b46750d3a082604)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I work as a construction worker during the summers.
+   (ID: conversation_168_user_2)
+
+
+============================================================

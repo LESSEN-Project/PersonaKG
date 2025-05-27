@@ -1,0 +1,46 @@
+CLUSTER 673
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.968
+
+Dataset distribution in this cluster:
+  PEC: 4 (66.7%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i do n't wear them generally but whaaat ?
+   (ID: mylescloutier)
+
+2. i once made habanero chili , and neglected to wear gloves .
+   (ID: wooq)
+
+3. i will give you a corduroy blazer to wear , and you must only utter statements such as this .
+   (ID: Evref)
+
+4. i never wear a bra .
+   (ID: Sabiola)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i wear contacts .
+   (ID: conversation_3)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I only wear silver jewelry.
+   (ID: conversation_157_user_2)
+
+
+============================================================

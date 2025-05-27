@@ -1,0 +1,48 @@
+CLUSTER 446
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 2 (40.0%)
+  PER-CHAT: 1 (20.0%)
+  PersonaChat: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i had to play that back .
+   (ID: doctor_parcival)
+
+2. i would les and play
+   (ID: lambsquatch)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I play rust.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i play d and d .
+   (ID: conversation_54)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I play the guitair.
+   (ID: conversation_121_user_2)
+
+
+============================================================

@@ -1,0 +1,103 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 20
+Cluster persistence (stability): 0.675
+
+Dataset distribution in this cluster:
+  FoCus: 1 (5.0%)
+  MSC: 2 (10.0%)
+  PEC: 12 (60.0%)
+  PER-CHAT: 1 (5.0%)
+  PersonaChat: 1 (5.0%)
+  SyntheticPersonaChat: 3 (15.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I hate Lord Dudley.
+   (ID: 72MY00U8UEGB_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I hate overtime.
+   (ID: dialog_28_speaker_1)
+
+2. I hate being poor.
+   (ID: dialog_52_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 12
+
+1. i hate those deep toilets .
+   (ID: Sabiola)
+
+2. i * hate * shopping for shoes .
+   (ID: Sabiola)
+
+3. i hate sarcasm too
+   (ID: Kellen1337)
+
+4. i hate this dude so much .
+   (ID: vikkivinegar)
+
+5. i hate analog sticks so much .
+   (ID: amirman)
+
+6. i hate to break this to you , but andre agassi is a racecar driver .
+   (ID: sweatervest)
+
+7. i hate stressing about fights .
+   (ID: monday_madrigal)
+
+8. i hate defensive fanboys .
+   (ID: amirman)
+
+9. i hate to kill you
+   (ID: Megan_Bee)
+
+10. i hate my marriage . " )
+   (ID: sweatervest)
+
+11. i dunno some of them seem to hate each other more than capitalism .
+   (ID: Shrub74)
+
+12. i hate taleo for this bullshit .
+   (ID: ProJokeExplainer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. why is there so much hate for that scene ?
+   (ID: d7ab0e5728c419d1e50c8ba827489e51566c046b)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i hate evil .
+   (ID: conversation_130)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I hate to lose.
+   (ID: conversation_64_user_2)
+
+2. I hate winter.
+   (ID: conversation_111_user_2)
+
+3. I hate cleaning.
+   (ID: conversation_173_user_2)
+
+
+============================================================

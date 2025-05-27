@@ -1,0 +1,69 @@
+CLUSTER 35
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.988
+
+Dataset distribution in this cluster:
+  MSC: 3 (25.0%)
+  PEC: 1 (8.3%)
+  PersonaChat: 7 (58.3%)
+  SyntheticPersonaChat: 1 (8.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I don't eat sugar.
+   (ID: dialog_71_speaker_1)
+
+2. I'm not a fan of soy products.
+   (ID: dialog_30_speaker_2)
+
+3. I do not like chocolate.
+   (ID: dialog_44_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i do n’t eat seafood .
+   (ID: AP7497)
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i hate tofu .
+   (ID: conversation_30)
+
+2. i only eat organic food .
+   (ID: conversation_210)
+
+3. i never eat veggies .
+   (ID: conversation_96)
+
+4. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+5. i hate carrots .
+   (ID: conversation_3)
+
+6. i don't eat bread .
+   (ID: conversation_183)
+
+7. i hate the taste of cheese .
+   (ID: conversation_105)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I don t like broccoli.
+   (ID: conversation_264_user_2)
+
+
+============================================================

@@ -1,0 +1,54 @@
+CLUSTER 295
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.968
+
+Dataset distribution in this cluster:
+  FoCus: 1 (14.3%)
+  MSC: 2 (28.6%)
+  PEC: 3 (42.9%)
+  PersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am a high school music teacher.
+   (ID: RUXEW8EYORSZ_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I ran in high school.
+   (ID: dialog_0_speaker_1)
+
+2. I played on the basketball team in middle school. I was cut from the team.
+   (ID: dialog_8_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i knew a kid named shooter in high school .
+   (ID: monday_madrigal)
+
+2. i could n’t get a strike with bumpers when i was in middle school
+   (ID: FrankOfTheDank)
+
+3. i wanna see your high school diploma !
+   (ID: rspewth)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i go to a private high school .
+   (ID: conversation_87)
+
+
+============================================================

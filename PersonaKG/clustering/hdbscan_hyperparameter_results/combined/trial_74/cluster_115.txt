@@ -1,0 +1,48 @@
+CLUSTER 115
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 2 (40.0%)
+  PersonaChat: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I used to  work at a processing center for long hours.
+   (ID: dialog_23_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i used to work for a newspaper in downtown nyc when it happened .
+   (ID: BoonTobias)
+
+2. i used to work at arby 's in the us .
+   (ID: thebastion)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i used to work for a cable company .
+   (ID: conversation_76)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I used to work at a factory making boxes.
+   (ID: conversation_63_user_1)
+
+
+============================================================

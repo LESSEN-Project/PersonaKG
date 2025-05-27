@@ -1,0 +1,46 @@
+CLUSTER 681
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 1 (16.7%)
+  PEC: 4 (66.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i altered a dress for a musical theatre show i'm in!
+   (ID: FoxInKneeSocks)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i have become religious as well .
+   (ID: Etifaq)
+
+2. i hoped for that too .
+   (ID: Nheea)
+
+3. i would have hoped it would go after you as well .
+   (ID: SPQR1212)
+
+4. i ’m john marcus willam and even i get it
+   (ID: ChallengeTaken99)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I m very religious.
+   (ID: conversation_106_user_2)
+
+
+============================================================

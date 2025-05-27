@@ -1,0 +1,33 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My mother is dead.
+   (ID: conversation_99_user_2)
+
+2. My parents were divorced.
+   (ID: conversation_222_user_1)
+
+3. My father died when i was 2.
+   (ID: conversation_64_user_2)
+
+4. I haven t spoken to my family in years.
+   (ID: conversation_298_user_1)
+
+5. I grew up as an orphan.
+   (ID: conversation_66_user_2)
+
+
+============================================================

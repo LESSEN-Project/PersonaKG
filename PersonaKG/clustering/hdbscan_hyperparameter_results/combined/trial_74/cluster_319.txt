@@ -1,0 +1,38 @@
+CLUSTER 319
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 1 (20.0%)
+  PersonaChat: 4 (80.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i have my doubts about college .
+   (ID: deputydan_scubaman)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. my major is business .
+   (ID: conversation_7)
+
+2. i'm enrolled in several college credit courses .
+   (ID: conversation_87)
+
+3. i graduated college in 2016 .
+   (ID: conversation_70)
+
+4. i'm in college .
+   (ID: conversation_7)
+
+
+============================================================

@@ -1,0 +1,60 @@
+CLUSTER 332
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.890
+
+Dataset distribution in this cluster:
+  MPChat: 1 (11.1%)
+  PEC: 4 (44.4%)
+  PersonaChat: 1 (11.1%)
+  SyntheticPersonaChat: 3 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i named her florence the flamingo!
+   (ID: Louiesloops)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i named them peepee and poopoo .
+   (ID: amirman)
+
+2. i have a grey tabby as well , also named pippin !
+   (ID: monday_madrigal)
+
+3. i have affectionately named it theodore .
+   (ID: deputydan_scubaman)
+
+4. i also jave a shib named " kiko " .
+   (ID: kuh_boom)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. sometimes i volunteer at an urban farm .
+   (ID: conversation_20)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I have a farm with pigs , horses and hens.
+   (ID: conversation_17_user_2)
+
+2. My dogs name is toto.
+   (ID: conversation_44_user_2)
+
+3. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+
+============================================================

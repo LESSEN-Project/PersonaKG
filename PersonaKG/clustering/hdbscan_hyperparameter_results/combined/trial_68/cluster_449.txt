@@ -1,0 +1,73 @@
+CLUSTER 449
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.923
+
+Dataset distribution in this cluster:
+  FoCus: 1 (10.0%)
+  MPChat: 1 (10.0%)
+  MSC: 1 (10.0%)
+  PEC: 5 (50.0%)
+  PER-CHAT: 1 (10.0%)
+  SyntheticPersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have a steel sculpture at my home.
+   (ID: MLUZD1LRALV9_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i'm an amateur home barista, how's my cartado pour?
+   (ID: The69LTD)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My home town is Celebration, Florida.
+   (ID: dialog_76_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i get no results for recent home sales in ottawa .
+   (ID: SPQR1212)
+
+2. i do her videos at home .
+   (ID: 11_29_77)
+
+3. i 'm ashamed of my home state .
+   (ID: I_am_not_a_Taco)
+
+4. i m replying to save this for when i get home .
+   (ID: thebastion)
+
+5. i almost stayed home as well .
+   (ID: vikkivinegar)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. cut down the floof in the back . if you can ' t do it at home , groomers will do it for you .
+   (ID: ec299e39e931c010d0d98b62058c9ccb814797dd)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have a gun collection at home.
+   (ID: conversation_164_user_2)
+
+
+============================================================

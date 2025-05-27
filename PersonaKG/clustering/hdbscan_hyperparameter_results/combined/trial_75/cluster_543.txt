@@ -1,0 +1,43 @@
+CLUSTER 543
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 3 (60.0%)
+  PER-CHAT: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I like to visit a arena.
+   (ID: PHE863C7IQKS_11)
+
+2. I like to visit palaces.
+   (ID: OJ5U23I3FV0N_11)
+
+3. I like to visit North Carolina.
+   (ID: PK2U426B57KL_9)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. take a weekend visit and see if you like it .
+   (ID: a1ba9b657b043ce2934cc0ae7b42c0a0bf3ba2fa)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. Many of my former students like to visit me.
+   (ID: conversation_107_user_2)
+
+
+============================================================

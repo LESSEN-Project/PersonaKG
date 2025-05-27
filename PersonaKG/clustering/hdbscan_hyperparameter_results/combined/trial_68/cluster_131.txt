@@ -1,0 +1,54 @@
+CLUSTER 131
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.913
+
+Dataset distribution in this cluster:
+  FoCus: 1 (14.3%)
+  MSC: 1 (14.3%)
+  PEC: 4 (57.1%)
+  PersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I wouldn't like to live in a Castle.
+   (ID: YB6ZF4SJI3P1_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I like stand-up comedy. There are no stand-up comedy clubs around where I live.
+   (ID: dialog_33_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i live here and i do n’t understand why it ’s like this .
+   (ID: Dustin_Bromain)
+
+2. i live in dallas and you have no idea what it 's like here .
+   (ID: HugePurpleNipples)
+
+3. i like to live dangerously .
+   (ID: aydinsevimli)
+
+4. i like to live a complex life .
+   (ID: DarkMoon99)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i like to live off of the land .
+   (ID: conversation_110)
+
+
+============================================================

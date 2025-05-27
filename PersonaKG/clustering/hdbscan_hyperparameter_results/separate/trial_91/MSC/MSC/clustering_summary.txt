@@ -1,0 +1,48 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 976
+Vectorization method: tfidf
+Number of clusters: 33
+Number of noise points: 409 (41.9%)
+Analysis type: clusters
+Timestamp: 2025-05-27 16:56:16
+
+Dataset Distribution:
+  MSC: 976 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 31: 81 statements (persistence: 0.963)
+  Cluster 10: 39 statements (persistence: 0.256)
+  Cluster 9: 28 statements (persistence: 0.455)
+  Cluster 5: 27 statements (persistence: 0.413)
+  Cluster 29: 26 statements (persistence: 1.000)
+  Cluster 11: 24 statements (persistence: 0.292)
+  Cluster 19: 21 statements (persistence: 0.429)
+  Cluster 32: 21 statements (persistence: 0.778)
+  Cluster 12: 19 statements (persistence: 0.481)
+  Cluster 6: 18 statements (persistence: 0.538)
+  Cluster 16: 18 statements (persistence: 0.461)
+  Cluster 21: 16 statements (persistence: 0.478)
+  Cluster 3: 15 statements (persistence: 0.708)
+  Cluster 15: 15 statements (persistence: 0.531)
+  Cluster 4: 14 statements (persistence: 0.584)
+  Cluster 22: 14 statements (persistence: 0.811)
+  Cluster 1: 13 statements (persistence: 0.480)
+  Cluster 28: 13 statements (persistence: 0.659)
+  Cluster 30: 13 statements (persistence: 0.672)
+  Cluster 25: 12 statements (persistence: 0.639)
+  Cluster 7: 11 statements (persistence: 0.699)
+  Cluster 8: 11 statements (persistence: 0.592)
+  Cluster 23: 11 statements (persistence: 0.885)
+  Cluster 27: 11 statements (persistence: 0.662)
+  Cluster 0: 10 statements (persistence: 0.927)
+  Cluster 13: 10 statements (persistence: 0.961)
+  Cluster 18: 10 statements (persistence: 0.882)
+  Cluster 2: 9 statements (persistence: 0.888)
+  Cluster 20: 9 statements (persistence: 0.893)
+  Cluster 14: 7 statements (persistence: 0.891)
+  Cluster 17: 7 statements (persistence: 0.884)
+  Cluster 24: 7 statements (persistence: 0.979)
+  Cluster 26: 7 statements (persistence: 0.978)

@@ -1,0 +1,51 @@
+CLUSTER 421
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  MPChat: 1 (16.7%)
+  MSC: 1 (16.7%)
+  PersonaChat: 2 (33.3%)
+  SyntheticPersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. we made one of my favorite street foods in bolivia.
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my favorite flower is a rose .
+   (ID: conversation_129)
+
+2. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My favorite artist is bob ross.
+   (ID: conversation_187_user_1)
+
+2. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+
+============================================================

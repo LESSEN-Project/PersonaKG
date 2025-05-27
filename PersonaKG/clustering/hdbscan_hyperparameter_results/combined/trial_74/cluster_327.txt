@@ -1,0 +1,63 @@
+CLUSTER 327
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.995
+
+Dataset distribution in this cluster:
+  MSC: 3 (30.0%)
+  PEC: 2 (20.0%)
+  PersonaChat: 2 (20.0%)
+  SyntheticPersonaChat: 3 (30.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I am a southern.
+   (ID: dialog_26_speaker_2)
+
+2. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+3. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i ’m from corvallis .
+   (ID: godspeedone)
+
+2. i am in the southeast .
+   (ID: deputydan_scubaman)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am argentinian .
+   (ID: conversation_59)
+
+2. i m from texas .
+   (ID: conversation_8)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I am from russia.
+   (ID: conversation_7_user_2)
+
+2. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+3. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+
+============================================================

@@ -1,0 +1,57 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.805
+
+Dataset distribution in this cluster:
+  PersonaChat: 13 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 13
+
+1. i am argentinian .
+   (ID: conversation_59)
+
+2. i am from sterling heights , michigan .
+   (ID: conversation_472)
+
+3. i'm mixed with puerto rica and chinese .
+   (ID: conversation_439)
+
+4. my birthplace is spain .
+   (ID: conversation_492)
+
+5. my grandma is from denmark .
+   (ID: conversation_162)
+
+6. i grew up in alabama .
+   (ID: conversation_221)
+
+7. my best friend is from tanzania .
+   (ID: conversation_379)
+
+8. i was born in san francisco .
+   (ID: conversation_468)
+
+9. i have a boyfriend who lives in italy .
+   (ID: conversation_150)
+
+10. my family is from algeria .
+   (ID: conversation_403)
+
+11. my mother was born in ireland .
+   (ID: conversation_38)
+
+12. my father was born in australia .
+   (ID: conversation_9)
+
+13. my family migrated to america when i was five .
+   (ID: conversation_22)
+
+
+============================================================

@@ -1,0 +1,38 @@
+CLUSTER 689
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 4 (80.0%)
+  PEC: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. [i ate] avocado toast
+   (ID: patm28)
+
+2. [i ate] pakora, tikka masala, and naan
+   (ID: onemantwohands)
+
+3. [i ate] cubano
+   (ID: patm28)
+
+4. [i ate] duroc pork belly bun
+   (ID: patm28)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i ate too many paaaaancaaaaaakes
+   (ID: ProJokeExplainer)
+
+
+============================================================

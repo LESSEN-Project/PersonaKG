@@ -1,0 +1,43 @@
+CLUSTER 555
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 3 (60.0%)
+  PER-CHAT: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I reside on a zoo in a awesome state.
+   (ID: dialog_42_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i can vouch for how awesome these thermostats are !
+   (ID: mmaswadeh)
+
+2. i 'm a 41 megapixel nokia 8260 photographer too and this is awesome !
+   (ID: BoonTobias)
+
+3. i 'm on sherman and colfax , and it never smells that awesome .
+   (ID: Bathysphere710)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am awesome.
+   (ID: b6567f005c34603036e6119544386ff4f12ec3a9)
+
+
+============================================================

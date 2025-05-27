@@ -1,0 +1,49 @@
+CLUSTER 224
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.972
+
+Dataset distribution in this cluster:
+  MPChat: 2 (28.6%)
+  PEC: 4 (57.1%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i recently designed this lion head wall hanging.
+   (ID: theringbeller)
+
+2. (also i botched this swans head)
+   (ID: jlb4est)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i screamed in my head .
+   (ID: FrankOfTheDank)
+
+2. i still call it " gold " and " lumber " in my head .
+   (ID: ifatree)
+
+3. i m no math head but why the division ?
+   (ID: carwynllew)
+
+4. i ’m ashamed that this went over my head before reading the /s
+   (ID: FrankOfTheDank)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am the head of the gun club.
+   (ID: conversation_82_user_1)
+
+
+============================================================

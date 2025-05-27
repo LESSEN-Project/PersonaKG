@@ -1,0 +1,39 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.970
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i play d and d .
+   (ID: conversation_54)
+
+2. i am learning to play the piano .
+   (ID: conversation_222)
+
+3. my mom taught me how to play the cello .
+   (ID: conversation_283)
+
+4. i give out sports information .
+   (ID: conversation_201)
+
+5. i like to play sports and get fresh air .
+   (ID: conversation_191)
+
+6. i play the guitair .
+   (ID: conversation_230)
+
+7. i can play the violin .
+   (ID: conversation_298)
+
+
+============================================================

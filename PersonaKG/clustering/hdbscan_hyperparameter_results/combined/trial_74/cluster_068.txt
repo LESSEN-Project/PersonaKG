@@ -1,0 +1,81 @@
+CLUSTER 68
+============================================================
+Total statements in cluster: 16
+Cluster persistence (stability): 0.856
+
+Dataset distribution in this cluster:
+  MSC: 1 (6.2%)
+  PER-CHAT: 13 (81.2%)
+  PersonaChat: 1 (6.2%)
+  SyntheticPersonaChat: 1 (6.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 13
+
+1. I live in punk.
+   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
+
+2. I live in sam.
+   (ID: 109fa004cbb85f6a703624f8b4393d7d7d685509)
+
+3. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+4. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+5. I live in with scar.
+   (ID: ea1aba6f5a01e142602653a1b9987c70e3862a45)
+
+6. I live in hearing.
+   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+
+7. I live in mentality.
+   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
+
+8. I live in with fear.
+   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
+
+9. I live in desert.
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+
+10. I live in meth village.
+   (ID: 8df56ee782672f11aeb0f19bf7978b1b1c04e678)
+
+11. I live in zone.
+   (ID: 19a9190bb25fd002a6b979a3f72494c6523d8880)
+
+12. I live in side stage.
+   (ID: 57e23377d2e20446272558e1ff75f7e0cf1b0049)
+
+13. I live in f  pizza.
+   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i live in the usa .
+   (ID: conversation_23)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

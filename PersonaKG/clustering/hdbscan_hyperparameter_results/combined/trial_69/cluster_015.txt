@@ -1,0 +1,65 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 2 (22.2%)
+  MSC: 4 (44.4%)
+  PEC: 1 (11.1%)
+  PersonaChat: 1 (11.1%)
+  SyntheticPersonaChat: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. My dream is to become a prosecutor in the future.
+   (ID: IJ61LGMTNN5M_11)
+
+2. I'll go to graduate school.
+   (ID: ASEVTIZW4Z03_11)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I want to be a forest ranger.  I like the outdoors.  I like animals.
+   (ID: dialog_53_speaker_2)
+
+2. I'm starting my own business.
+   (ID: dialog_109_speaker_2)
+
+3. I'm an insurance salesman. My dream would be to start my own insurance company.
+   (ID: dialog_15_speaker_2)
+
+4. I am hoping to become an advocate for motorcycle safety. Motorcycles are my passion. I look up to Keanu Reeves.
+   (ID: dialog_87_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i will hopefully be debt free in two years .
+   (ID: mostlikelyto___)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'd like to open a restaurant someday .
+   (ID: conversation_249)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I plan to retire in 6 months.
+   (ID: conversation_143_user_2)
+
+
+============================================================

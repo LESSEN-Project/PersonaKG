@@ -1,0 +1,38 @@
+CLUSTER 141
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 3 (60.0%)
+  PER-CHAT: 2 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i was there and this is true
+   (ID: thebastion)
+
+2. i suppose that 's true .
+   (ID: BabblingBunny)
+
+3. i have to assume that 's not true
+   (ID: thebastion)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. ey . that is not true . i always get one every week .
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+2. ha true true . but i still can ' t get enough .
+   (ID: 8764a223ca1af7d1792e76a58bf3b1209bf73ad3)
+
+
+============================================================

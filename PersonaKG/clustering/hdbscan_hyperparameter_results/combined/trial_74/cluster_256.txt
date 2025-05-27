@@ -1,0 +1,46 @@
+CLUSTER 256
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.995
+
+Dataset distribution in this cluster:
+  PEC: 2 (33.3%)
+  PER-CHAT: 3 (50.0%)
+  PersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i wonder why people always say who coined the term meme .
+   (ID: CheapyPipe)
+
+2. i 'm tired of hearing people say that the american people are afraid of health care reform .
+   (ID: cometparty)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. this sounds kinda healthy . i know far too many people who do the opposite and bury themselves in kid issues to the neck and when the kids leave , they have nothing more to talk about and get divorced . if you  re resentful about it , why not say something ?
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+2. why wouldn ' t he change ? if people say something is annoying he ' s bound to stop
+   (ID: b6c3e540255084641f0e148a3992d9113c560f0b)
+
+3. people might say , he couldve saved that money . but who actually does that ? save for 17years ? only rich people . for average people , its almost impossible to save for years and not touch that money over those years . just take that guy above as a person who smoke cigarettes for years . at least his chance with his money is to become a millionaire and not cancer .
+   (ID: a3bc874aed8bb8421b25930723a7210bcd9b2aec)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. people say i've a cute laugh .
+   (ID: conversation_41)
+
+
+============================================================

@@ -1,0 +1,51 @@
+CLUSTER 310
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  MPChat: 2 (33.3%)
+  PEC: 1 (16.7%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i couldn't see the butt to check if it was a black widow, but it is black.
+   (ID: Crilbyte)
+
+2. my allergy clinic has black soap in their bathroom.
+   (ID: Chris55730)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm assuming you 're talking about the all black eye ?
+   (ID: Mahatma_Panda)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i own a black suburban .
+   (ID: conversation_75)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I have a black belt in karate.
+   (ID: conversation_0_user_2)
+
+2. I have a black purse.
+   (ID: conversation_70_user_2)
+
+
+============================================================

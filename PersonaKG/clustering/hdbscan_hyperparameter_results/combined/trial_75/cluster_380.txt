@@ -1,0 +1,94 @@
+CLUSTER 380
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.709
+
+Dataset distribution in this cluster:
+  MPChat: 3 (17.6%)
+  MSC: 2 (11.8%)
+  PEC: 5 (29.4%)
+  PER-CHAT: 1 (5.9%)
+  PersonaChat: 5 (29.4%)
+  SyntheticPersonaChat: 1 (5.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. prettier pics of the hamburger cupcakes i made for work :)
+   (ID: ddizzle23)
+
+2. only had shredded cheese, but i made it work.
+   (ID: RaeADropOfGoldenSun)
+
+3. shaping needs work, but here's my first sourdough!
+   (ID: mattsulli)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I am exhausted by work everyday.
+   (ID: dialog_44_speaker_2)
+
+2. I work with numbers.
+   (ID: dialog_63_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i 'd pick up a shovel and go to work .
+   (ID: Beachsurfer)
+
+2. i clicked on that at work .
+   (ID: Megan_Bee)
+
+3. i see from your username how you work .
+   (ID: LooksAtClouds)
+
+4. i have done everything to get it to work , but alas , i had no success .
+   (ID: mmaswadeh)
+
+5. i do n't motivate to work out , but i do work out to stay motivated .
+   (ID: ifatree)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. do more work to avoid the work they are given .
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+2. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+3. i work on cars for a living .
+   (ID: conversation_18)
+
+4. my brothers work with me .
+   (ID: conversation_189)
+
+5. i work for a large law firm .
+   (ID: conversation_30)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I work as a vet.
+   (ID: conversation_196_user_1)
+
+
+============================================================

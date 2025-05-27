@@ -1,0 +1,46 @@
+CLUSTER 208
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.958
+
+Dataset distribution in this cluster:
+  PEC: 2 (33.3%)
+  PER-CHAT: 3 (50.0%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i did n’t look at the men ’s wear , but everything else was a pass
+   (ID: latestartksmama)
+
+2. i did n't look at the picture that closely .
+   (ID: LooksAtClouds)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. i had the same reaction as you . after powering through the book it ' s hard to imagine what a fitting ending would look like , but somehow mccarthy did it . it ' s pretty relentless and beautiful .
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+2. it ' s quite possible that your friends are assholes . but it might be useful to take an objective look at yourself . is there any aspect of your personality or behavior that could be off putting ? when things calm down , perhaps you could talk with one of your friends  try  understand why they did what they did . or speak to someone else entirely who knows all of you .
+   (ID: 9e2852bcfafecccb1e60211326f5fc70d0bbb428)
+
+3. those " weird looks " are just how wizards look at each other , jackass , which you would have known if you were a real wizard ! the important science question here is how did a fake wizard ever end up with a real princess ?
+   (ID: eeef74f05127fafe9b00ca3ad85ff51c0eb20fff)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I look down on people who did not.
+   (ID: conversation_182_user_2)
+
+
+============================================================

@@ -1,0 +1,244 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 98
+Cluster persistence (stability): 0.789
+
+Dataset distribution in this cluster:
+  FoCus: 8 (8.2%)
+  MSC: 7 (7.1%)
+  PEC: 26 (26.5%)
+  PER-CHAT: 45 (45.9%)
+  PersonaChat: 11 (11.2%)
+  SyntheticPersonaChat: 1 (1.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 8
+
+1. I am living in Citrus from my birth.
+   (ID: OII32NSNR2Q2_7)
+
+2. I live in Wollongong.
+   (ID: EXXMSRQDF6PN_11)
+
+3. My family is from Wales.
+   (ID: LJYX36WCRYDM_9)
+
+4. I visited Frankford last year.
+   (ID: HK4CNKBL5R5V_11)
+
+5. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+6. I am living in Cambusbarron.
+   (ID: X4XPZG2COY57_11)
+
+7. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+8. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+
+--- MSC ---
+Total from this dataset: 7
+
+1. I've a home in the suburbs.
+   (ID: dialog_95_speaker_1)
+
+2. I live near a barn near Saratoga..
+   (ID: dialog_117_speaker_1)
+
+3. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+4. I am from South California. I haven't seen snow in years.
+   (ID: dialog_14_speaker_1)
+
+5. My home town is Celebration, Florida.
+   (ID: dialog_76_speaker_1)
+
+6. I was born in moscow.
+   (ID: dialog_113_speaker_1)
+
+7. I live in Providence. I work in a Publishing building, downtown.
+   (ID: dialog_41_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 26
+
+1. i 'm actually in lancaster , so not very far for me !
+   (ID: jenni268)
+
+2. i 'm way down in spanaway !
+   (ID: pinkpowerranger8)
+
+3. i just recently moved to la county .
+   (ID: Lifes6Midnight)
+
+4. i live near buffalo and flamingo .
+   (ID: maullove)
+
+5. i have a place 4 miles away .
+   (ID: thenanoage)
+
+6. i live in sa right now .
+   (ID: SamuelStephenBono)
+
+7. i 'm about an hour east of toronto and have the stuff needed .
+   (ID: foldor)
+
+8. i lived in cape may for 8 weeks !
+   (ID: DickRubnuts)
+
+9. i 'm in redmond !
+   (ID: Justakiss15)
+
+10. i grew up in teaneck .
+   (ID: juliacakes)
+
+11. i live at the waterfront in plymouth .
+   (ID: mass08)
+
+12. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+13. i up am by pigeon lake - just south of edmonton ..
+   (ID: exotics)
+
+14. i live in ohio !
+   (ID: GetItTogether)
+
+15. i am in north dakota , google it , we do n't have a city .
+   (ID: randominternetdood)
+
+16. i 'm in peoria !
+   (ID: FridaysChild219)
+
+17. i live in canada very near the canadian rockies ..
+   (ID: exotics)
+
+18. i spent a lot of my childhood in rochester .
+   (ID: Chicoconut)
+
+19. i live in moorestown , it 's like right down the road .
+   (ID: TylerC_D)
+
+20. i live right on colfax by the ogden .
+   (ID: jmontoya5280)
+
+
+--- PER-CHAT ---
+Total from this dataset: 45
+
+1. I live in cypress.
+   (ID: 3590b3fd811042b17c3ff7f8b851664408a349ef)
+
+2. I live in dial.
+   (ID: 404d4f663681fcf738d043296148ae4de655b22b)
+
+3. I live in grizzly.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+4. I live in flight path.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+5. I live in f  pizza.
+   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+
+6. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+7. I live in las cruces 😂😂.
+   (ID: a92e31c7bf57848bffc03edea3f897eca709861a)
+
+8. I live in venice.
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+9. I live in east side.
+   (ID: feb4a6aeed8e7e14b0592329bd91d7933a93217e)
+
+10. I live in mercury.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+11. I live in istanbul.
+   (ID: c63be1429c6442ee9219ae1573b45fc7a40d22f2)
+
+12. I live in adachiku.
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+13. I live in shit.
+   (ID: 203253ab73b19e5cd1d950c82537271605475cea)
+
+14. I live in lava island.
+   (ID: e82ed26542949c55066d4b6510733c7a5f847704)
+
+15. I live in tulsa  months.
+   (ID: 06f2b7a65e600f531fbc47a595626f329ee413a4)
+
+16. I am albanian.
+   (ID: 41fc1b2c09d5a16a25f120edde55b2a6e2e54e29)
+
+17. I live in era.
+   (ID: 2cfcabf07be1420284c0b650fae1643abc6e2bc4)
+
+18. I live in part.
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+19. I live in stumptown  years.
+   (ID: 338e964d6f616e85c5b26cf7b63ec2dba22cf7ba)
+
+20. I live in edge dogs.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+
+--- PersonaChat ---
+Total from this dataset: 11
+
+1. my birthplace is spain .
+   (ID: conversation_492)
+
+2. i come from a small town .
+   (ID: conversation_2)
+
+3. i'm from seattle .
+   (ID: conversation_281)
+
+4. i grew up in alabama .
+   (ID: conversation_221)
+
+5. i was born in san francisco .
+   (ID: conversation_468)
+
+6. i live in rural wisconsin .
+   (ID: conversation_15)
+
+7. i am from sterling heights , michigan .
+   (ID: conversation_472)
+
+8. my family is from algeria .
+   (ID: conversation_403)
+
+9. we lived in virginia while i was growing up .
+   (ID: conversation_391)
+
+10. i live in nashville .
+   (ID: conversation_117)
+
+11. i live in las vegas , nevada .
+   (ID: conversation_314)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

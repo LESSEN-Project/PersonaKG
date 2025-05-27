@@ -1,0 +1,414 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 907
+Cluster persistence (stability): 0.819
+
+Dataset distribution in this cluster:
+  FoCus: 29 (3.2%)
+  MPChat: 21 (2.3%)
+  MSC: 16 (1.8%)
+  PEC: 36 (4.0%)
+  PER-CHAT: 776 (85.6%)
+  PersonaChat: 23 (2.5%)
+  SyntheticPersonaChat: 6 (0.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 29
+
+1. I like Toronto.
+   (ID: TF4SZWIWHJO4_11)
+
+2. I like California.
+   (ID: EQX5OJUYB1VY_11)
+
+3. I love Westchester County.
+   (ID: SN7PB5ME98AZ_9)
+
+4. I love Stourbridge.
+   (ID: 72MY00U8UEGB_11)
+
+5. I have visited the 7, Lok Kalyan Marg.
+   (ID: EMXI5E4LUV20_11)
+
+6. I love Buckinghamshire.
+   (ID: JBP0INT1W707_11)
+
+7. I love bats.
+   (ID: X3WVWF5IVCYD_11)
+
+8. I have visited the BC Place.
+   (ID: UHVFDJII2GF5_11)
+
+9. I like Kent.
+   (ID: T9JPYSSWD7NW_11)
+
+10. I love Pittsburgh.
+   (ID: GE7KWP503PGI_7)
+
+11. I love Reidar Andersen.
+   (ID: TB8HHXAP822G_11)
+
+12. I love bridge overpass.
+   (ID: E3UZAGT5DTE5_11)
+
+13. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+14. I love Hanumappa Nayaka.
+   (ID: UN54IACHSTX5_11)
+
+15. I love Pasterze glacier.
+   (ID: YLLQOXHD6MZC_7)
+
+16. I enjoy Richard Russo.
+   (ID: NR9LNBMYKSX6_9)
+
+17. I like Catherine of Alexandria.
+   (ID: TF24QL7QZSG2_11)
+
+18. I like Hong Kong.
+   (ID: DKGV9E2PZUPH_11)
+
+19. I love Stephen Olin.
+   (ID: NXTH1QSPOJFF_11)
+
+20. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+
+--- MPChat ---
+Total from this dataset: 21
+
+1. [i ate] cubano
+   (ID: patm28)
+
+2. [i ate] avocado toast
+   (ID: patm28)
+
+3. i made m&m cookies
+   (ID: Novel_Fox)
+
+4. [i ate] poffers with apple compote
+   (ID: patm28)
+
+5. [i ate] chocolate croissants
+   (ID: DeanIsHotter)
+
+6. my favorite raw fish - salmon - i can eat a whole plate of it....
+   (ID: onemantwohands)
+
+7. i made a souffle for my husband.
+   (ID: gelimausi)
+
+8. made some cream of mushroom soup in my 5qt lodge dutch oven using some oyster mushrooms i grew myself!
+   (ID: sundstrom193)
+
+9. [i made] german chocolate macaron's chocolate macarons with german chocolate ganache and a coconut pecan filling yuuummm
+   (ID: Sunshine_2425)
+
+10. basque burnt cheesecake is one of my personal all time favourite.
+   (ID: justcook_byangel)
+
+11. was gifted a jar of biscoff spread for christmas, so i made some biscoff blondies.
+   (ID: DeanIsHotter)
+
+12. not all ramen, but i have a weakness for udon.
+   (ID: gxnelson)
+
+13. [i ate] oca tubers in a potato whey broth with garlic butter and crispy sage.
+   (ID: Chinchillasaurus)
+
+14. [i ate] duroc pork belly bun
+   (ID: patm28)
+
+15. my first time making lagasna w/ spicy sausage & spinach.
+   (ID: onemantwohands)
+
+16. i made a canadian eggs benedict and double fried hash browns this morning and it was delicious.
+   (ID: cookinwithclint)
+
+17. i have an obsession with japanese dessert.
+   (ID: justcook_byangel)
+
+18. [i ate] biscuit and sawmill gravy with fried chicken and poached egg.
+   (ID: patm28)
+
+19. [i ate] southern cornmeal grouper in a thai curry
+   (ID: patm28)
+
+20. [i ate] pakora, tikka masala, and naan
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 16
+
+1. I like eating at new places.
+   (ID: dialog_16_speaker_2)
+
+2. My favorite normal breakfast is pancakes with blueberries and strawberries.
+   (ID: dialog_107_speaker_2)
+
+3. Acdc is my favorite band.
+   (ID: dialog_139_speaker_1)
+
+4. I enjoy living in florida keys.
+   (ID: dialog_102_speaker_2)
+
+5. My favorite cuisine is thai.
+   (ID: dialog_23_speaker_2)
+
+6. Jerk chicken with red beans and rice, macaroni and cheese are some of my favorite foods.
+   (ID: dialog_0_speaker_2)
+
+7. Fried catfish is delicious.
+   (ID: dialog_124_speaker_2)
+
+8. I love cream in my coffee.
+   (ID: dialog_133_speaker_2)
+
+9. My favorite Pearl Jam song is Corduroy.
+   (ID: dialog_41_speaker_1)
+
+10. I like Charlie Parker.
+   (ID: dialog_122_speaker_2)
+
+11. I like consuming salty rod shaped snacks.
+   (ID: dialog_19_speaker_1)
+
+12. I love John Surteees.
+   (ID: dialog_117_speaker_2)
+
+13. Desert is my favorite type of food.
+   (ID: dialog_56_speaker_1)
+
+14. I love john hughes films.
+   (ID: dialog_56_speaker_1)
+
+15. I'm a huge fan of rob halford.
+   (ID: dialog_159_speaker_2)
+
+16. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 36
+
+1. i love garfunkel oates
+   (ID: buttercup_mauler)
+
+2. i love athens .
+   (ID: GetItTogether)
+
+3. i love fischer too .
+   (ID: xcombelle)
+
+4. i love dorinda !
+   (ID: 11_29_77)
+
+5. i love neil mcdunnogh
+   (ID: LCPhotowerx)
+
+6. i like lightly toasted jellyfish
+   (ID: serverpilot)
+
+7. i 've been to middle east.beautiful town in sweden
+   (ID: ChallengeTaken99)
+
+8. i love kam .
+   (ID: EvieAugust)
+
+9. i ate poutine today .
+   (ID: chirpyboyandbartjr)
+
+10. i made " fried " pickles and avacado / chickpea ranch .
+   (ID: ItGetsAwkward)
+
+11. i have fallen in love with roasted oolongs recently .
+   (ID: Lilliaan)
+
+12. i like walker ros .
+   (ID: JayDub30)
+
+13. i love theon .
+   (ID: gofiguree)
+
+14. i love the tucson desert !
+   (ID: AzHighways)
+
+15. i miss the hell out of philmont ...
+   (ID: coocha)
+
+16. i make chocolate zucchini bread and it 's delicious .
+   (ID: IncredibleBulk2)
+
+17. i love kane !
+   (ID: GetItTogether)
+
+18. i love lithgow .
+   (ID: Captain_-H)
+
+19. i love stella .
+   (ID: amirman)
+
+20. i love manitou .
+   (ID: Piraticalstyle)
+
+
+--- PER-CHAT ---
+Total from this dataset: 776
+
+1. One of my favorite things is sven.
+   (ID: 3418702de52d65ee261943b207996da3e2569fd2)
+
+2. One of my favorite things is ho tong.
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+3. One of my favorite things is feather.
+   (ID: 3c4a38138d39bd51556bd7f8a05ba48bf283c7e6)
+
+4. One of my favorite things is percy jackson.
+   (ID: cc3d4f2be41112acacb92d09090db0e1f8d7e387)
+
+5. One of my favorite things is amiami.
+   (ID: ad911088c8434d08c7a96c969a57a09b00f02e99)
+
+6. One of my favorite things is vexillology.
+   (ID: f9e9b1e6c59393102159142841e750ea90023928)
+
+7. One of my favorite things is shortaro.
+   (ID: 021c01b3e15fb3077444bd9abdbc0d7c390239b0)
+
+8. One of my favorite things is weast.
+   (ID: 77ab4860c32a7084ca81fd91302df6690ce56731)
+
+9. One of my favorite things is banos.
+   (ID: 827584bdc66e3c4749f22f0ad0a9420dc64ac2b5)
+
+10. One of my favorite things is mega evolution.
+   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
+
+11. One of my favorite things is carmen.
+   (ID: a889137e92d54250452d24f74138b0bffb6e1146)
+
+12. One of my favorite things is nessus.
+   (ID: e46c4597dda4f39a1122f37ba9383f7441387cf9)
+
+13. One of my favorite things is graves.
+   (ID: 833bc208589bf538daebb1a7e14d70fa8a3b7808)
+
+14. One of my favorite things is indiana jones.
+   (ID: 9057da1059e9ffba54ce02d4a15e2aac2b3ceabb)
+
+15. One of my favorite things is norway.
+   (ID: 2e1439e8eb18b181a69a66cc4c1b2dc22ce774f0)
+
+16. One of my favorite things is monoblack.
+   (ID: a304d2b10646e73686547edafa852cc87a894eb5)
+
+17. One of my favorite things is yela.
+   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+
+18. One of my favorite things is femake features.
+   (ID: de078b4353965122ac7bf05afe8d580d01d4a928)
+
+19. One of my favorite things is world countries.
+   (ID: 4422c1db26c9be5bec35694a448a490c2761d985)
+
+20. One of my favorite things is clef ’.
+   (ID: 9bfbecc03ccfaabc74f8b279ee93f1fef4725469)
+
+
+--- PersonaChat ---
+Total from this dataset: 23
+
+1. i love living in texas .
+   (ID: conversation_26)
+
+2. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+3. i recently discovered a new love for indian food .
+   (ID: conversation_45)
+
+4. i love hamburgers .
+   (ID: conversation_244)
+
+5. i cannot get enough ginger snaps .
+   (ID: conversation_420)
+
+6. i love eating shrimp , and i like to dip them into barbecue sauce .
+   (ID: conversation_174)
+
+7. i love ham and cheese sandwiches .
+   (ID: conversation_430)
+
+8. i am a lover of italian food .
+   (ID: conversation_320)
+
+9. ke ha is my favorite singer of all time .
+   (ID: conversation_26)
+
+10. i love hot wings .
+   (ID: conversation_82)
+
+11. i like to eat hard boiled eggs .
+   (ID: conversation_457)
+
+12. i love to eat pita bread with hummus .
+   (ID: conversation_277)
+
+13. my favorite place to visit is seattle .
+   (ID: conversation_436)
+
+14. i also love orange juice .
+   (ID: conversation_430)
+
+15. my favorite ice cream is pistachio .
+   (ID: conversation_287)
+
+16. i love the beach .
+   (ID: conversation_7)
+
+17. going snorkeling is my favorite thing to do .
+   (ID: conversation_69)
+
+18. subway is my favorite fast food restaurant .
+   (ID: conversation_455)
+
+19. i love pandas .
+   (ID: conversation_88)
+
+20. my favorite food is popcorn .
+   (ID: conversation_15)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I can t get enough of lindsey stirling s music.
+   (ID: conversation_421_user_2)
+
+2. I like tacos.
+   (ID: conversation_110_user_2)
+
+3. My favorite place is the mountains.
+   (ID: conversation_441_user_1)
+
+4. I love all sorts of fresh vegetables.
+   (ID: conversation_220_user_2)
+
+5. I like potatoes.
+   (ID: conversation_5_user_1)
+
+6. My favorite is rock fish.
+   (ID: conversation_157_user_1)
+
+
+============================================================

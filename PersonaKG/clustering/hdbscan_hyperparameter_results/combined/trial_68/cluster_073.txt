@@ -1,0 +1,49 @@
+CLUSTER 73
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.981
+
+Dataset distribution in this cluster:
+  MSC: 1 (14.3%)
+  PEC: 5 (71.4%)
+  PersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I hope one day I will be good at stocks.
+   (ID: dialog_54_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i hope one day i 'll get to hear somee stowwieesss :) .
+   (ID: leo9g)
+
+2. i hope you are n't talking about charlie day
+   (ID: SamuelStephenBono)
+
+3. i hope your day kept on feeling good :)
+   (ID: kitcatpaints)
+
+4. i hope we get one one day .
+   (ID: BabblingBunny)
+
+5. i hope to experience this one day .
+   (ID: chasemyers)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i hope it to become a doctor one day .
+   (ID: conversation_21)
+
+
+============================================================

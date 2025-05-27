@@ -1,0 +1,107 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 23
+Cluster persistence (stability): 0.987
+
+Dataset distribution in this cluster:
+  MSC: 8 (34.8%)
+  PEC: 2 (8.7%)
+  PER-CHAT: 2 (8.7%)
+  PersonaChat: 8 (34.8%)
+  SyntheticPersonaChat: 3 (13.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 8
+
+1. I have a dog named Sam. My dog is a German Shepherd.
+   (ID: dialog_160_speaker_2)
+
+2. I have a dog named  Pancake. It is an English Bulldog full of wrinkles.
+   (ID: dialog_189_speaker_1)
+
+3. My last dog's name was Sirius.
+   (ID: dialog_118_speaker_1)
+
+4. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+5. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+6. I have a black lab dog named George. I do not have any children.
+   (ID: dialog_76_speaker_2)
+
+7. I have a dog named won won.
+   (ID: dialog_93_speaker_1)
+
+8. My dog's breed is Siberian Husky.I had a dog named Sally. I want a cat soon.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i have a green - eyed boy also , but he 's an orange kitty !
+   (ID: mizzpkat)
+
+2. i had a cat called nigel .
+   (ID: kiki73)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I own a waifu.
+   (ID: c41e4affc406bbc71e6c12aabf095d759b6dbec2)
+
+2. I own a african.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. my dogs name is toto .
+   (ID: conversation_162)
+
+2. i have a dog named bob .
+   (ID: conversation_27)
+
+3. i have a parakeet .
+   (ID: conversation_307)
+
+4. i've a cat named leela .
+   (ID: conversation_58)
+
+5. i've one little boy named owen .
+   (ID: conversation_300)
+
+6. i have a dog named socks .
+   (ID: conversation_172)
+
+7. i've a parrot named parrot .
+   (ID: conversation_138)
+
+8. i have a dog named percy .
+   (ID: conversation_486)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I have a lizard named nagini.
+   (ID: conversation_305_user_2)
+
+2. I have 2 turtles.
+   (ID: conversation_459_user_2)
+
+3. I have two chiuahuahs.
+   (ID: conversation_351_user_2)
+
+
+============================================================

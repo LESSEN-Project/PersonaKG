@@ -1,0 +1,51 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.974
+
+Dataset distribution in this cluster:
+  PersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 11
+
+1. i love scary movies .
+   (ID: conversation_222)
+
+2. i love my girlfriend .
+   (ID: conversation_81)
+
+3. i love iced tea .
+   (ID: conversation_1)
+
+4. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+5. i love chocolate cake with extra frosting .
+   (ID: conversation_80)
+
+6. i am a female and love to be surrounded by males .
+   (ID: conversation_41)
+
+7. i love rap music .
+   (ID: conversation_260)
+
+8. i i love logical and rational thinking .
+   (ID: conversation_122)
+
+9. i love the game halo .
+   (ID: conversation_64)
+
+10. i love hot wings .
+   (ID: conversation_82)
+
+11. i love owning nice office supplies .
+   (ID: conversation_79)
+
+
+============================================================

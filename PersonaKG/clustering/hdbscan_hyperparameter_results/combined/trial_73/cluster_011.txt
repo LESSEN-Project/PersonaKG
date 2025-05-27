@@ -1,0 +1,113 @@
+CLUSTER 11
+============================================================
+Total statements in cluster: 25
+Cluster persistence (stability): 0.981
+
+Dataset distribution in this cluster:
+  FoCus: 18 (72.0%)
+  MSC: 4 (16.0%)
+  PEC: 1 (4.0%)
+  PersonaChat: 1 (4.0%)
+  SyntheticPersonaChat: 1 (4.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 18
+
+1. I would like to visit Hungary.
+   (ID: W4CQPY8R6C4Q_11)
+
+2. I wish to travel to the Philippines.
+   (ID: LERVJ9I223JG_7)
+
+3. I would like to visit Auckland.
+   (ID: FOZE4Q84M3RX_11)
+
+4. I want to visit Portsmouth.
+   (ID: UDHQWIU28N65_11)
+
+5. I would like to visit chicago and chicago park district.
+   (ID: QRRS2THODNM3_11)
+
+6. I would like to visit a Museum in Jacksonville.
+   (ID: LAU455Y1BO1U_9)
+
+7. I want to visit Punjab.
+   (ID: RJJWVAVC2B40_9)
+
+8. I wish to visit the state of Alaska one day.
+   (ID: 8UN3RBB53NGU_11)
+
+9. I am willing to visit Kalvskinnet in this vacation.
+   (ID: TB8HHXAP822G_11)
+
+10. I would like to go to Charleston soon.
+   (ID: 9YNT3NN8EKNX_11)
+
+11. I would like to visit a war memorial.
+   (ID: YRJ6RB6JCWMA_11)
+
+12. I hope to travel to Brownsea Island in the summer.
+   (ID: R9A1SC51GAMH_11)
+
+13. I wish to go for a tour to Columbia River Plateau.
+   (ID: E6FC9U7LUUT3_11)
+
+14. I would like to visit Banja of Peja at the end of the year.
+   (ID: LYYSTNQ9MBLY_11)
+
+15. I want to go to Ontario.
+   (ID: SDW19RWSP3ZX_11)
+
+16. I would like to go to North Carolina.
+   (ID: G6QWKZ4CTWVW_11)
+
+17. I would like to visit a canal.
+   (ID: 8WL4II03WTP0_7)
+
+18. I want to visit Sonoma County.
+   (ID: X8E70IZC7L3S_11)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I would like to travel to Florida.
+   (ID: dialog_46_speaker_1)
+
+2. I want to travel to nyc.
+   (ID: dialog_192_speaker_1)
+
+3. I want to go canoeing in the Amazon rainforest.
+   (ID: dialog_172_speaker_2)
+
+4. I'd love to visit Michigan.
+   (ID: dialog_80_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i already have like 4 places that would be great .
+   (ID: RobotHappiness)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i am traveling to paris this year for my vacation .
+   (ID: conversation_468)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I want to visit the uk.
+   (ID: conversation_201_user_2)
+
+
+============================================================

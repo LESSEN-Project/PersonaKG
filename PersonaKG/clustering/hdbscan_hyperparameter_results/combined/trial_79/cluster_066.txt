@@ -1,0 +1,145 @@
+CLUSTER 66
+============================================================
+Total statements in cluster: 127
+Cluster persistence (stability): 0.517
+
+Dataset distribution in this cluster:
+  MPChat: 2 (1.6%)
+  MSC: 2 (1.6%)
+  PEC: 113 (89.0%)
+  PER-CHAT: 5 (3.9%)
+  PersonaChat: 3 (2.4%)
+  SyntheticPersonaChat: 2 (1.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i think she ate too much spinach...
+   (ID: River_Lethe)
+
+2. i think he likes it
+   (ID: CollegeSleezeball)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I think that I am bipolar.
+   (ID: dialog_43_speaker_1)
+
+2. I think most scary monsters are serious.
+   (ID: dialog_54_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 113
+
+1. i do n’t think i could ever date an actress .
+   (ID: nastylittleman)
+
+2. i do n't think any of those are even remotely healthy .
+   (ID: bbakks)
+
+3. i think that 's a false equivalence .
+   (ID: IncredibleBulk2)
+
+4. i do n't think my heart can take it .
+   (ID: adertal)
+
+5. i think it 's in settings .
+   (ID: harumpf)
+
+6. i think this might be a dude .
+   (ID: chirpyboyandbartjr)
+
+7. i .. i think it 's satire mate
+   (ID: LabeledAsALunatic)
+
+8. i think i made it in the middle of 2017 .
+   (ID: beautifulw0man)
+
+9. i think i 'm offended that you spelled it as twonies .
+   (ID: foldor)
+
+10. i think that 's an egg .
+   (ID: parkleswife)
+
+11. i think everyone loves zooey
+   (ID: thebastion)
+
+12. i 'm gay and i do n't think it is with me .
+   (ID: StinkinFinger)
+
+13. i think it 's a percentage of total mbps .
+   (ID: KikAtWorkFL)
+
+14. i think the unicorn fucked him .
+   (ID: Sniperman)
+
+15. i think it was for titanium if memory serves ?
+   (ID: JohnnyPappis)
+
+16. i do n't think your helping here
+   (ID: jbasta93)
+
+17. i think the grinch lives here
+   (ID: opalskys)
+
+18. i think we should call him the original dave :)
+   (ID: conservative_poly)
+
+19. i had to think about this a while , but .... ^option ^b . :(
+   (ID: dammitOtto)
+
+20. i think i might go to a shelter .
+   (ID: uhslickbacknamepimp)
+
+
+--- PER-CHAT ---
+Total from this dataset: 5
+
+1. do you think about breathing too ?
+   (ID: 617a45b75601128e5c804bd8ca6b8e525a4aa02d)
+
+2. i think you made a mistake there
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+3. well is it only when you think about kissing her that you think about being a guy ?
+   (ID: 55510b17a4f0d7b5820e6f21287525ef6cd60994)
+
+4. i ' d rather not be high and think about all them germs .
+   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+
+5. the sky . whatever the weather , i think it would be nice to see what they think of it .
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+2. i think food trucks are awesome .
+   (ID: conversation_232)
+
+3. i am not afraid of what others think .
+   (ID: conversation_37)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I think the moon landing was faked.
+   (ID: conversation_250_user_2)
+
+2. I think recycling is important.
+   (ID: conversation_74_user_2)
+
+
+============================================================

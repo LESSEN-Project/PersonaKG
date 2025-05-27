@@ -1,0 +1,468 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 11048
+Cluster persistence (stability): 0.958
+
+Dataset distribution in this cluster:
+  FoCus: 342 (3.1%)
+  MPChat: 808 (7.3%)
+  MSC: 282 (2.6%)
+  PEC: 4725 (42.8%)
+  PER-CHAT: 4421 (40.0%)
+  PersonaChat: 321 (2.9%)
+  SyntheticPersonaChat: 149 (1.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 342
+
+1. I like Rhine river.
+   (ID: EUD8WT84YX0Q_11)
+
+2. I am aware of Elizabethan style.
+   (ID: RN7ZT44D6QK1_11)
+
+3. I like Kent.
+   (ID: T9JPYSSWD7NW_11)
+
+4. I love bridges.
+   (ID: YWRU353H4NFF_11)
+
+5. I have never gone into camping but would love to try it.
+   (ID: A06HPOO7OWPE_11)
+
+6. I wish to have an aircraft station in Cornwall.
+   (ID: DNUH5LJGPOZC_11)
+
+7. I am going to Norfolk soon.
+   (ID: HWMW6AUW4UTK_11)
+
+8. I have never been to Israel but would like to go one day.
+   (ID: VUQVHZP0LUAH_11)
+
+9. I am willing to visit Kalvskinnet in this vacation.
+   (ID: TB8HHXAP822G_11)
+
+10. I am doing my research studies in Washington.
+   (ID: E6FC9U7LUUT3_11)
+
+11. My favourite composer is Bach.
+   (ID: X45C380V98U8_9)
+
+12. I want to go to Ontario.
+   (ID: SDW19RWSP3ZX_11)
+
+13. I have heard about Hooghly River.
+   (ID: WKS47SP8CYLV_11)
+
+14. I have seen rail bridge.
+   (ID: BK0F3JSD41JJ_11)
+
+15. I hope to travel to Brownsea Island in the summer.
+   (ID: R9A1SC51GAMH_11)
+
+16. I wish to know more about mills.
+   (ID: IS9KP8O0CE1M_11)
+
+17. I am planning to travel to Kosovo on my vacation.
+   (ID: LYYSTNQ9MBLY_11)
+
+18. I love Llangynog for its cleanliness.
+   (ID: QD76MDAZKTVK_11)
+
+19. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+20. I want to visit New York.
+   (ID: MV4DPBGX0OB5_11)
+
+
+--- MPChat ---
+Total from this dataset: 808
+
+1. some crocheted pacman ghosts i made!
+   (ID: Louiesloops)
+
+2. i toasted the brioche bun with the aioli spread instead of butter to make it crispy.
+   (ID: knivesandchives)
+
+3. gloomy weather, both my kids have colds, needed something to distract them from screaming at me.
+   (ID: DeanIsHotter)
+
+4. my sweet girl is by my side looking regal, as usual.
+   (ID: meghanlovessunshine)
+
+5. here’s some of my work.
+   (ID: Lookingforearrings2)
+
+6. went to the krishna temple in utah to eat and i got to feed the llamas
+   (ID: kentobean123)
+
+7. westholme wagyu ribeye i grilled last night
+   (ID: cookinwithclint)
+
+8. took my hedgehog camping in the ozark mountains
+   (ID: FindingTheAdventure)
+
+9. one of the largest red pines i've ever seen!
+   (ID: travelingisdumb)
+
+10. where did i go wrong?
+   (ID: Crilbyte)
+
+11. just the sleeves to go on my witching hour swancho
+   (ID: ninjaeatingzombie)
+
+12. [i ate] cheeseburger animal style at in-n-out
+   (ID: patm28)
+
+13. i made some more sea creature keychains
+   (ID: FoxInKneeSocks)
+
+14. threw some new parts on my vintage hardrock
+   (ID: i_like_it_raw_)
+
+15. my little koala i love his fluffy ears
+   (ID: Tanston)
+
+16. it’s the aftermath of my eventful ride in oregon a few years ago.
+   (ID: reecee)
+
+17. cupcakes i made for a friend (megan) who was turning... can you guess?
+   (ID: ellielumos)
+
+18. i embroidered a sweat bag.
+   (ID: gelimausi)
+
+19. finished my first project using a garter tab starter.
+   (ID: Gallifrey4637)
+
+20. i just won at cookies... caramel apple pie cookies
+   (ID: itsamayazing)
+
+
+--- MSC ---
+Total from this dataset: 282
+
+1. I have a computer and a printer.
+   (ID: dialog_32_speaker_1)
+
+2. I have a bachelors degree in psychology.
+   (ID: dialog_109_speaker_1)
+
+3. I have a neighbour who has a 386 custom tower.
+   (ID: dialog_31_speaker_1)
+
+4. I love Harry Potter.
+   (ID: dialog_48_speaker_1)
+
+5. I want to open the juicy bar at the beach. I need help. I love reading books at the beach.
+   (ID: dialog_88_speaker_2)
+
+6. My employment is manufacturing goods.
+   (ID: dialog_125_speaker_2)
+
+7. I have a dog named won won.
+   (ID: dialog_93_speaker_1)
+
+8. You can find me on the internet.
+   (ID: dialog_29_speaker_1)
+
+9. I haven't made dumplings from scratch. I have cooked frozen dumplings.
+   (ID: dialog_46_speaker_1)
+
+10. My parents visit Denmark every summer. Denmark has cooler summers.
+   (ID: dialog_76_speaker_1)
+
+11. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+12. I'm the ultimate. I'm the alpha and the omega.
+   (ID: dialog_43_speaker_1)
+
+13. I work at a web hosting company. I live in New York. I enjoy laid back job.
+   (ID: dialog_121_speaker_2)
+
+14. I've a home in the suburbs.
+   (ID: dialog_95_speaker_1)
+
+15. Everyone loves my lemon meringue.
+   (ID: dialog_49_speaker_1)
+
+16. I also love to live life to the fullest.
+   (ID: dialog_46_speaker_2)
+
+17. I live in Florida. I have contacts in Alabama.
+   (ID: dialog_85_speaker_2)
+
+18. I do not like pizza.
+   (ID: dialog_149_speaker_2)
+
+19. I do not travel much.
+   (ID: dialog_8_speaker_2)
+
+20. I like Charlie Parker.
+   (ID: dialog_122_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4725
+
+1. i think the angry emotion fueled top comment rant is more cringeworthy than his answers
+   (ID: Nick84572)
+
+2. i have such bad dandruff , will this really help ?
+   (ID: juliacakes)
+
+3. i guessed indonesia ?
+   (ID: parkleswife)
+
+4. i think your edit definitely needs explanation .
+   (ID: CarlofTime)
+
+5. i 'm happy every time i see this .
+   (ID: mulletprooftiger)
+
+6. i have a stone that keeps tigers away .
+   (ID: harumpf)
+
+7. i mean , no offense , but 72 votes are n't really relevant when you have 91k subscribers .
+   (ID: Nheea)
+
+8. i thought the dynamic compression mode would at least help a little but nope .
+   (ID: jesuschrysler)
+
+9. i hope you fucked his / her shit up .
+   (ID: Nolanoscopy)
+
+10. i dropped 1mpg when i went from 265'at 's . to 285'mts .
+   (ID: meteoriteminer)
+
+11. i want to see a grown hunter kick some witch / demon ass .
+   (ID: redandblack555)
+
+12. i do n’t fucking understand .
+   (ID: justgirlypasta)
+
+13. i think the gray one is for the ps classic .
+   (ID: pharan_x)
+
+14. i 'll drop you tegearian .
+   (ID: AgedTwenties)
+
+15. i ’m looking for something with really good sound and preferably also noise canceling .
+   (ID: jenni268)
+
+16. i 'm available !
+   (ID: dohko_xar)
+
+17. i think the subtitles were the issue
+   (ID: thed0ctah)
+
+18. i just got approved for my first apartment at 22 !
+   (ID: WeldyLady)
+
+19. i saw this picture for the first time like 15 years ago .
+   (ID: Bananafoofoofwee)
+
+20. i bled for about four months :/ it got lighter and more infrequent though .
+   (ID: giraffecakes)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4421
+
+1. One of my favorite things is nidus.
+   (ID: e09cddf2452184c83537d2d4e8a36f0ba7c3fae9)
+
+2. One of my favorite things is relatable memes.
+   (ID: c1e8a543083ba89c9353a25d98386cffe1addefc)
+
+3. wait what ? all i see if blurry smudges !
+   (ID: d42f47f147cdc8e97117f0e4963e2c1309d1dcd8)
+
+4. sales should be on their way  but it might also help if you told us what sort of games you normally like , and what you already own  don ' t want ?
+   (ID: 12b33309ed44732201ee2caf9b6ce9ce17552a26)
+
+5. One of my favorite things is sandsharks.
+   (ID: 93fee667f85cc0ee55e2451cc1a83efc0b764ef4)
+
+6. memphis is nice . moderate climate low taxes cost of living is low . we also have one of the largest city parks in the country .
+   (ID: 79e5228419de270c01297915dbce56be0063c52b)
+
+7. One of my favorite things is hard af heros.
+   (ID: 0501bf1e5cd313190bb4590a1c677057b15a6e47)
+
+8. almost suffocating myself with my bed sheets . makes for a funny story though .
+   (ID: 40f1dd99755dca159ccdbdacafea183ed0a104cd)
+
+9. lolwut ? some people can ' t distinguish between conversation and flaming , no mater what you tell them , they ' ll always take it as flame and thumbs down you or report you . i say ignore their salt , and mute them . or . do what i do , laugh at their pitiful existence .
+   (ID: 41b9459dbd87b475322566af693bf5fe2a47086d)
+
+10. op makes claim using vague terms , gets told to define term , provides definition , gets argued with or laughed at for mistaken assumptions . that ' s usually how things work around here . just substituting ' circlejerk ' for ' god ' or ' soul ' or ' spiritual ' or whatever the hell else . tell me exactly what you mean by it and i ' ll tell you what you have wrong . tl  dr whoosh
+   (ID: b05c37d4999dc6e0647955781d5a349457a11a40)
+
+11. One of my favorite things is other songs more.
+   (ID: d72952657a3571deff985040e565d95d8206db60)
+
+12. yep ! i was super close to doing it too . but then i realized that i was going through a depressive episode and i was subconsciously feeling those things as a way to try and escape from whatever was making me stressed  depressed . once i acknowledged the issues the feelings went away . your scenario is most likely very different though and your feelings are probably more valid than mine ! do what is best for you .
+   (ID: e16a0d174adc309bd63cefcfaac2428d7ebba9e9)
+
+13. just to get his expectations in check  i ' ve been out for digit . digit years and i ' m no where near t . take it slow . best way to support him is what you ' re doing ! show him you care and teach him these little male things . using the right name and pronouns is also super important . beyond that , he ' s just gotta learn to be patient and remember that we ' ll all get there eventually
+   (ID: c1af2a10f968ba6f52d825dbf8fc9b8210db72ba)
+
+14. thank you bingsby . you i see are aware of the language filter that works quite nice you cant even say things that are slightly vulgar not just f  bombs . when i posted that my guild asks me to stop swearing its not every five seconds i do have respect for people . however if there is a language filter and you can easily click it to not see things your little virgin eyes dont want to see . why not be the intelligent person in the room and click the damn button . i like the way your brain works buddy
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+15. they a cunt ? yes throw them away if no friend they a good person keep and protect
+   (ID: ce5016a49c41770ec711f4758a362203587f841e)
+
+16. what  s the cost look like for you locally there ?
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+17. One of my favorite things is level.
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+18. although apple has obviously found a way to legally enforce its will on the buying public , this is unfair . can you imagine the uproar , if say gm made it illegal to change the tires on a camaro , without their consent ? if i pay for the machine , i should have the right to modify it as i wish . this is another reason i will never buy apple .
+   (ID: 8e22144947225f2bd7d950ea1b4044909a8653ae)
+
+19. One of my favorite things is verbedujour.
+   (ID: 4420123abde71e42df266171d2bcb8a90afeed93)
+
+20. oh my lord , what an idea why haven ' t i thought of this ? i have an old ds from digit and i learned to make custom themes , so i could do the same
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+
+--- PersonaChat ---
+Total from this dataset: 321
+
+1. i like to play sports and get fresh air .
+   (ID: conversation_191)
+
+2. i've visited 12 national parks in the us .
+   (ID: conversation_83)
+
+3. i'm a democrat .
+   (ID: conversation_331)
+
+4. i've two smartphones .
+   (ID: conversation_155)
+
+5. i am an only child .
+   (ID: conversation_200)
+
+6. i do the shopping in my house .
+   (ID: conversation_137)
+
+7. i've a cat named seven of nine .
+   (ID: conversation_144)
+
+8. i am excellent at playing pool .
+   (ID: conversation_390)
+
+9. i have brown hair .
+   (ID: conversation_3)
+
+10. i worked 3 jobs at the same time for more than 5 years .
+   (ID: conversation_185)
+
+11. my parents recently moved to florida .
+   (ID: conversation_46)
+
+12. i make and me by waiting tables .
+   (ID: conversation_21)
+
+13. i like vintage furniture .
+   (ID: conversation_355)
+
+14. i love to go to the symphony orchestra .
+   (ID: conversation_213)
+
+15. i'm hoping to move to australia soon to marry my boyfriend .
+   (ID: conversation_77)
+
+16. my favorite ice cream is pistachio .
+   (ID: conversation_287)
+
+17. i can t get enough gummy worms to satisfy my sweet tooth .
+   (ID: conversation_25)
+
+18. i enjoy magic the gathering , it is a card game .
+   (ID: conversation_308)
+
+19. i like to make boats on the weekends .
+   (ID: conversation_27)
+
+20. i drive a prius .
+   (ID: conversation_68)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 149
+
+1. I love agatha christie novels.
+   (ID: conversation_49_user_2)
+
+2. I ve an iphone.
+   (ID: conversation_14_user_2)
+
+3. My favorite band is the story so far.
+   (ID: conversation_10_user_2)
+
+4. My favorite movies are disney movies.
+   (ID: conversation_346_user_2)
+
+5. I talk very fast.
+   (ID: conversation_250_user_2)
+
+6. I have a passion for god.
+   (ID: conversation_237_user_1)
+
+7. My friends and i enjoy golfing on sunny days.
+   (ID: conversation_82_user_1)
+
+8. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+9. I try to watch what i eat.
+   (ID: conversation_161_user_2)
+
+10. My nails are painted green.
+   (ID: conversation_309_user_2)
+
+11. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+12. Sometimes i feel like i have already been through life once before.
+   (ID: conversation_144_user_2)
+
+13. I study philosophy at umass.
+   (ID: conversation_158_user_1)
+
+14. Currently , i m saving up to get some procedures done.
+   (ID: conversation_162_user_2)
+
+15. My name is mary and i am from colorado.
+   (ID: conversation_338_user_2)
+
+16. I love ham and cheese sandwiches.
+   (ID: conversation_5_user_2)
+
+17. I like collectible dragon ball z figures.
+   (ID: conversation_190_user_2)
+
+18. Lutefisk is the best dish in the whole world.
+   (ID: conversation_218_user_2)
+
+19. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+20. I also love orange juice.
+   (ID: conversation_61_user_2)
+
+
+============================================================

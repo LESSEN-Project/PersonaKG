@@ -1,0 +1,43 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 1 (20.0%)
+  PER-CHAT: 3 (60.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I like the book version of a story better than the movie.
+   (ID: dialog_5_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i like nyan cat better :(
+   (ID: Lsmoothies)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. i have both insta is better for friends , but i like reddit more because i learn more here
+   (ID: 87173aaf55980a77c94bd30c851c39fb0b52ff2e)
+
+2. title is a bit misleading , a better title would be something like  why dokkeabi  s call doesn  t go to voice mail
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+3. baseball sucks . would be better if it were more like hockey .
+   (ID: f8d48136e1ccbc739d4b7fb8db1e8f668422b145)
+
+
+============================================================

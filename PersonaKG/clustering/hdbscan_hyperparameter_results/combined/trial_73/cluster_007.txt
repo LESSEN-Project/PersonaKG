@@ -1,0 +1,91 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 16
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  MPChat: 1 (6.2%)
+  MSC: 4 (25.0%)
+  PEC: 1 (6.2%)
+  PER-CHAT: 1 (6.2%)
+  PersonaChat: 7 (43.8%)
+  SyntheticPersonaChat: 2 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. she's my favourite little lion.
+   (ID: VodkaWithSnowflakes)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+2. I have a dog named  Pancake. It is an English Bulldog full of wrinkles.
+   (ID: dialog_189_speaker_1)
+
+3. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+4. I have a dog named Sam. My dog is a German Shepherd.
+   (ID: dialog_160_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i have a green - eyed boy also , but he 's an orange kitty !
+   (ID: mizzpkat)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I own a african.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. my dogs name is toto .
+   (ID: conversation_162)
+
+2. i have a dog named percy .
+   (ID: conversation_486)
+
+3. i've a parrot named parrot .
+   (ID: conversation_138)
+
+4. i've one little boy named owen .
+   (ID: conversation_300)
+
+5. i have a dog named bob .
+   (ID: conversation_27)
+
+6. i've a cat named leela .
+   (ID: conversation_58)
+
+7. i have a dog named socks .
+   (ID: conversation_172)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I have two chiuahuahs.
+   (ID: conversation_351_user_2)
+
+2. I have a lizard named nagini.
+   (ID: conversation_305_user_2)
+
+
+============================================================

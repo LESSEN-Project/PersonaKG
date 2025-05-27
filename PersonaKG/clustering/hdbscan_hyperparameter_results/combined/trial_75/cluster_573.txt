@@ -1,0 +1,43 @@
+CLUSTER 573
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 2 (40.0%)
+  MSC: 2 (40.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. bolts that held my parents old porch.
+   (ID: SliverCobain)
+
+2. my 9 & 4 yr old made theor first cake together.
+   (ID: castaneda2912)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. My dogs are both 2 months old.
+   (ID: dialog_13_speaker_1)
+
+2. I fixed my old Bronco.
+   (ID: dialog_33_speaker_2)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am an old woman.
+   (ID: conversation_193_user_2)
+
+
+============================================================

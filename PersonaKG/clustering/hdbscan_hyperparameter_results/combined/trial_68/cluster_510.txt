@@ -1,0 +1,100 @@
+CLUSTER 510
+============================================================
+Total statements in cluster: 19
+Cluster persistence (stability): 0.809
+
+Dataset distribution in this cluster:
+  MPChat: 2 (10.5%)
+  MSC: 3 (15.8%)
+  PEC: 8 (42.1%)
+  PER-CHAT: 1 (5.3%)
+  PersonaChat: 3 (15.8%)
+  SyntheticPersonaChat: 2 (10.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. my view whenever i eat a cheese stick
+   (ID: kentobean123)
+
+2. my fave trendy chicago eat - italian beef dipped
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I'm sick when I eat fish.
+   (ID: dialog_28_speaker_2)
+
+2. I cannot eat certain foods due to flatulence.
+   (ID: dialog_26_speaker_2)
+
+3. I eat somali food.
+   (ID: dialog_16_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i 'd still eat it .
+   (ID: sweatervest)
+
+2. i refuse to eat there after they discontinued the crawfish tackle box bonanza .
+   (ID: Bathysphere710)
+
+3. i can eat raw dough without fear of raw egg killing me .
+   (ID: FruitBatFanatic)
+
+4. i do n't eat anything that casts a shadow . "
+   (ID: Mahatma_Panda)
+
+5. i 'd eat cake to that .
+   (ID: VanGoJourney)
+
+6. i only eat pigs who have invested in amway .
+   (ID: CuriousBlueAbra)
+
+7. i had to dip my hotdog bread in apple sauce once because it 's all i had to eat .
+   (ID: Bananafoofoofwee)
+
+8. i never had an ear to eat smile before ;)
+   (ID: aydinsevimli)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. you are what you eat .
+   (ID: 011a531fc3f706d76441a0f95cc8091fd4453dd8)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i eat ice cream when i am sad .
+   (ID: conversation_170)
+
+2. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+3. i never eat veggies .
+   (ID: conversation_96)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I eat all take out.
+   (ID: conversation_2_user_1)
+
+2. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+
+============================================================

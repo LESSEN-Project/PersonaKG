@@ -1,0 +1,36 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I have a horse named beauty.
+   (ID: conversation_235_user_2)
+
+2. I give everybody that comes in front me a fair chance.
+   (ID: conversation_194_user_2)
+
+3. I have a cat named charlie.
+   (ID: conversation_52_user_2)
+
+4. I have a pond at home with a pet koi named spot.
+   (ID: conversation_200_user_2)
+
+5. I have 2 beagles named chance and boomer.
+   (ID: conversation_184_user_1)
+
+6. I have one little boy named owen.
+   (ID: conversation_118_user_2)
+
+
+============================================================

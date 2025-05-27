@@ -1,0 +1,33 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i flirted with the dmv officer in order to pass my driving exam .
+   (ID: conversation_257)
+
+2. one day i played the lottery .
+   (ID: conversation_208)
+
+3. i've been in 2 car crashes in my life .
+   (ID: conversation_191)
+
+4. i ran for political office in 2004 .
+   (ID: conversation_113)
+
+5. i've been on the tv news six times .
+   (ID: conversation_280)
+
+
+============================================================

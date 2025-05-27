@@ -1,0 +1,43 @@
+CLUSTER 672
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 3 (60.0%)
+  PER-CHAT: 1 (20.0%)
+  PersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i do n’t speak enchanting table
+   (ID: FrankOfTheDank)
+
+2. i speak the truth !
+   (ID: vikkivinegar)
+
+3. i do n't speak polish
+   (ID: alextound)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. which language they speak when we introduce ourselves to each other
+   (ID: b17b749ab40d1d24eba7d45337d86aeb3c5b28df)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i speak fluent german .
+   (ID: conversation_156)
+
+
+============================================================

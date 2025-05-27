@@ -1,0 +1,49 @@
+CLUSTER 501
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.857
+
+Dataset distribution in this cluster:
+  MSC: 1 (14.3%)
+  PEC: 5 (71.4%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I went out on a date. I do not go out very often.
+   (ID: dialog_2_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i went through the mue as well and do n't see anything .
+   (ID: rycheme)
+
+2. i see it went well for you .
+   (ID: CarlofTime)
+
+3. i went for p320 .
+   (ID: 1st_Lt_Unson)
+
+4. i went to egypt
+   (ID: Etifaq)
+
+5. i went with now .
+   (ID: teriaki)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I went to stanford.
+   (ID: conversation_73_user_2)
+
+
+============================================================

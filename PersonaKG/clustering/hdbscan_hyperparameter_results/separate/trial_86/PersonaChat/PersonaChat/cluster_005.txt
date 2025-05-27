@@ -1,0 +1,33 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. my favorite player is mike trout .
+   (ID: conversation_103)
+
+2. i love the tigers baseball team .
+   (ID: conversation_93)
+
+3. subway is my favorite fast food restaurant .
+   (ID: conversation_455)
+
+4. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+5. my favorite beer is coors .
+   (ID: conversation_321)
+
+
+============================================================

@@ -1,0 +1,97 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 1239
+Cluster persistence (stability): 0.485
+
+Dataset distribution in this cluster:
+  PER-CHAT: 1236 (99.8%)
+  PersonaChat: 1 (0.1%)
+  SyntheticPersonaChat: 2 (0.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PER-CHAT ---
+Total from this dataset: 1236
+
+1. One of my favorite things is g&o.
+   (ID: bd40d7bc2310ec67eb22f820945fdb7d0f6a2550)
+
+2. One of my favorite things is yang.
+   (ID: a3b2823250cd4b5927129512a5ab9061e10ebaf2)
+
+3. One of my favorite things is reading peoples rants.
+   (ID: 72155748e939f50a6f3bde77aee5ae7b7c499725)
+
+4. One of my favorite things is danson fom cheers.
+   (ID: 5f43a3019d69696064ac659bf6dd25b51f1e5bb6)
+
+5. One of my favorite things is big tree.
+   (ID: bf371725cb05580378dda9b1fdb005417049b32b)
+
+6. One of my favorite things is dystopias.
+   (ID: de078b4353965122ac7bf05afe8d580d01d4a928)
+
+7. One of my favorite things is rahm.
+   (ID: 259e025807a2eee6eaf38242805e7dfc46aaa91f)
+
+8. One of my favorite things is jordan peele.
+   (ID: 4bddcbadec311f472e8b62614b7394e14eb1d7ac)
+
+9. One of my favorite things is yuri  ice.
+   (ID: 4345d92dae99b45255ddd6b7f7c88a7ad331da93)
+
+10. One of my favorite things is patatas.
+   (ID: cd7d2576afdbdebbe88d5b40a7b4f436af37c202)
+
+11. One of my favorite things is coh.
+   (ID: f90b0d899acf3c82adaa55fb250d0c7ea9eaeaf3)
+
+12. One of my favorite things is gumtree.
+   (ID: 6043d89c15dee029743b4ae46c3043e760e0fedb)
+
+13. One of my favorite things is corrections for several reasons first.
+   (ID: d3491a90d756046acac8c3053e9e99c3e6c231f9)
+
+14. One of my favorite things is 4x.
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+
+15. One of my favorite things is coven.
+   (ID: 6c99329e90a867248b7cd3a376f1a2fd57ae3994)
+
+16. One of my favorite things is herb.
+   (ID: 46d8e69cfbec2948bee8eaeaf91010f2e7f16e4b)
+
+17. One of my favorite things is ho tong.
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+18. One of my favorite things is rasmalai.
+   (ID: 338e964d6f616e85c5b26cf7b63ec2dba22cf7ba)
+
+19. One of my favorite things is chana massala.
+   (ID: 10d0b3cd3f9e3f2b4c3fd6c4c8bae3ba7917a344)
+
+20. One of my favorite things is emoji pillows.
+   (ID: 9fc60fbaff4001c6926f17d34c80b626c8cc5777)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. connor mcgregor is my favorite fighter .
+   (ID: conversation_381)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+2. My favorite show is scobby doo.
+   (ID: conversation_172_user_2)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 11
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i m a disappointment to my family .
+   (ID: conversation_469)
+
+2. my mother doesn t ! ove me .
+   (ID: conversation_138)
+
+3. i have trouble getting along with family .
+   (ID: conversation_247)
+
+4. i don t have a relationship with my deadbeat dad .
+   (ID: conversation_257)
+
+5. i do not know why my sister in law dislikes me .
+   (ID: conversation_142)
+
+
+============================================================

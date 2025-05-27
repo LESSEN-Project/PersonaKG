@@ -1,0 +1,60 @@
+CLUSTER 550
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.885
+
+Dataset distribution in this cluster:
+  FoCus: 2 (22.2%)
+  PEC: 4 (44.4%)
+  PER-CHAT: 2 (22.2%)
+  PersonaChat: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I am writing a book about the 19th-century.
+   (ID: JBP0INT1W707_11)
+
+2. I'm recently reading a book about Alva Belmont.
+   (ID: DK9VMLV1IASM_11)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i have that book too !
+   (ID: jessibabyy11)
+
+2. i have n't closed book on washington either .
+   (ID: Evref)
+
+3. i 'm currently 150 pages in book 5 .
+   (ID: Mende)
+
+4. i would be quite surprised as well , as i have never written a book .
+   (ID: sweatervest)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. the scholastic book fair on a chilly october evening
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+2. speak only in arnold schwarzenegger voice until she leaves .
+   (ID: 92705d87eaa503c0c39e0bda00f6d49fe27c65ef)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i am a member of four book clubs , the pta , and two bunch groups .
+   (ID: conversation_75)
+
+
+============================================================

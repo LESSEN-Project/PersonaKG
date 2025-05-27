@@ -1,0 +1,54 @@
+CLUSTER 420
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.937
+
+Dataset distribution in this cluster:
+  MPChat: 1 (14.3%)
+  MSC: 2 (28.6%)
+  PersonaChat: 2 (28.6%)
+  SyntheticPersonaChat: 2 (28.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. not my favorite pour, but she's a cutie.
+   (ID: SilentRansom)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. My favorite novel is about a who realizes he's a commander.
+   (ID: dialog_11_speaker_1)
+
+2. My favorite subject is psychology.
+   (ID: dialog_23_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+2. my favorite hobby is chess .
+   (ID: conversation_149)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+2. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+
+============================================================

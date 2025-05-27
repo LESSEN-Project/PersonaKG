@@ -1,0 +1,54 @@
+CLUSTER 229
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  FoCus: 1 (14.3%)
+  MSC: 1 (14.3%)
+  PersonaChat: 3 (42.9%)
+  SyntheticPersonaChat: 2 (28.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I like to go to Church.
+   (ID: Z8RPC24EURS4_7)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I like to do canning and whittling for hobbies.
+   (ID: dialog_0_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i like to party .
+   (ID: conversation_7)
+
+2. i like basketball .
+   (ID: conversation_8)
+
+3. i like to cook .
+   (ID: conversation_17)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I like to bowl.
+   (ID: conversation_23_user_2)
+
+2. I like sprite soda.
+   (ID: conversation_20_user_1)
+
+
+============================================================

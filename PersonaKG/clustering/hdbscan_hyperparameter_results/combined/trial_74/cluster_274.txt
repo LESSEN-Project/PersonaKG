@@ -1,0 +1,49 @@
+CLUSTER 274
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.930
+
+Dataset distribution in this cluster:
+  MSC: 1 (14.3%)
+  PEC: 5 (71.4%)
+  PER-CHAT: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm an american.
+   (ID: dialog_23_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i 'm neither rich , nor american .
+   (ID: exotics)
+
+2. i 'm american and i actively seek out foreign made products .
+   (ID: StinkinFinger)
+
+3. i have american dollars in the banks
+   (ID: BoonTobias)
+
+4. i spotted the american !
+   (ID: zsnajorrah)
+
+5. i have no desire to be american .
+   (ID: trav110)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+============================================================

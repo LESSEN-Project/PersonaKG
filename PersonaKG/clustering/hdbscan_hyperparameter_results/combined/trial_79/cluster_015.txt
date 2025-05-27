@@ -1,0 +1,160 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 68
+Cluster persistence (stability): 0.615
+
+Dataset distribution in this cluster:
+  FoCus: 1 (1.5%)
+  MSC: 5 (7.4%)
+  PEC: 8 (11.8%)
+  PER-CHAT: 49 (72.1%)
+  PersonaChat: 3 (4.4%)
+  SyntheticPersonaChat: 2 (2.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+2. I am a woman. I breed mine coons. I live with my brother
+   (ID: dialog_46_speaker_2)
+
+3. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+4. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+5. I live in Virginia. I am not married.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i live in berlin and my google now shows berlin .
+   (ID: thed0ctah)
+
+2. i could n't live with that guilt .
+   (ID: GetItTogether)
+
+3. i live beachside in daytona and wind damage was severe
+   (ID: ludaa)
+
+4. i ’m guessing you live in the pnw .
+   (ID: Justadropinthesea)
+
+5. i live in germany and my s8 + has bixby .
+   (ID: thed0ctah)
+
+6. i live on top of your mother .
+   (ID: DarkMoon99)
+
+7. i live in dayton and everyone is a bengals fan .
+   (ID: worried_panda)
+
+8. i live here and those areas are n't detroit !
+   (ID: giraffecakes)
+
+
+--- PER-CHAT ---
+Total from this dataset: 49
+
+1. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+2. I live in with aliens.
+   (ID: a0849f7d6d0829c8bb5f820aa9bf63584c7471df)
+
+3. I live in fruit country.
+   (ID: e036cce09e42b447bacae037ef33243f155fd2bf)
+
+4. I live in heart.
+   (ID: 445ba4596e4bcff0c96b23f038cf784185970198)
+
+5. I live in shaq era.
+   (ID: 4654e3a9a75835f9ff28170ddf31d5d3cf296ea2)
+
+6. I live in ty ass town.
+   (ID: b40d1d3ae1e77bcbdcb98e62deea24396d4b4d40)
+
+7. I live in desert.
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+
+8. I live in off of feedback.
+   (ID: 46a39b1131e50f9cc061bbaf88e15686e5c9359d)
+
+9. I live in with narcissist sister.
+   (ID: 79b35c8caff79f47f37bb4856cc6b57bcd49e5bf)
+
+10. I live in society.
+   (ID: 4381fa1a63289663c5683187c0d07eadf81abfc2)
+
+11. i live in europe , so that might be why .
+   (ID: b5bfc53fa7245451bad229f942e351fdc7360321)
+
+12. I live in punk.
+   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
+
+13. I live in sam.
+   (ID: 109fa004cbb85f6a703624f8b4393d7d7d685509)
+
+14. I live in games.
+   (ID: 3261c3c121a386d442cb607ca46561af4f956af5)
+
+15. I live in youtube.
+   (ID: 2069df24de0e78e4765ca507edb903ca074ac2d8)
+
+16. I live in borg america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+17. I live in georgia cynical season 4https.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+18. I live in off of sandwiches.
+   (ID: d785eda10245445843c3355a0710d262b0d65bb9)
+
+19. I live in purpose.
+   (ID: 93e92e6a7d8e94b12bcd450fad136ec14436f359)
+
+20. I live in by firm rule.
+   (ID: 337350fc54133b327ce0d6d9f385f82a2a6738cf)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+2. i live on a boat .
+   (ID: conversation_14)
+
+3. i live in the usa .
+   (ID: conversation_23)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+2. I live a lie.
+   (ID: conversation_288_user_1)
+
+
+============================================================

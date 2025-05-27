@@ -1,0 +1,43 @@
+CLUSTER 647
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 3 (60.0%)
+  PersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I can operate a car with a manual transmission.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i has a 12k loan and a car that s worth roughly 12k now .
+   (ID: AgedTwenties)
+
+2. i guarantee that car has never been driven outside of the us
+   (ID: ProJokeExplainer)
+
+3. i had one as a rental car after mine was totaled in an accident .
+   (ID: Bathysphere710)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my car is pink .
+   (ID: conversation_58)
+
+
+============================================================

@@ -1,0 +1,42 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I don t know why my sister in law dislikes me.
+   (ID: conversation_98_user_2)
+
+2. My girlfriend tells me she is going to leave me almost every day.
+   (ID: conversation_677_user_2)
+
+3. I have a girlfriend of 7 years.
+   (ID: conversation_72_user_2)
+
+4. I don t think my girlfriend understands.
+   (ID: conversation_162_user_2)
+
+5. I don t treat my girlfriend very well.
+   (ID: conversation_347_user_1)
+
+6. I have been married 3 times.
+   (ID: conversation_164_user_2)
+
+7. I love her though.
+   (ID: conversation_162_user_2)
+
+8. I have been dating my boyfriend for over 10 years.
+   (ID: conversation_571_user_1)
+
+
+============================================================

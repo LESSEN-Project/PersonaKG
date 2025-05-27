@@ -1,0 +1,33 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I am bloated.
+   (ID: conversation_30_user_1)
+
+2. I am lactose intolerant.
+   (ID: conversation_101_user_2)
+
+3. I am always hungry.
+   (ID: conversation_204_user_2)
+
+4. I try to watch what i eat.
+   (ID: conversation_161_user_2)
+
+5. Its good to eat a lot of veggies.
+   (ID: conversation_245_user_2)
+
+
+============================================================

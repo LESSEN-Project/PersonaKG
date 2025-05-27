@@ -1,0 +1,48 @@
+CLUSTER 666
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (20.0%)
+  PEC: 2 (40.0%)
+  PER-CHAT: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I once hid in a hollow log during hide and seek as a child.
+   (ID: NETYMHGQTGLI_9)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i had these as a child in the 60 's .
+   (ID: LooksAtClouds)
+
+2. i was n't a hugely popular child ...
+   (ID: ItGetsAwkward)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. well i for one would never sacrifice for my child ' s furniture .
+   (ID: 45bf5c8227b94451beff1dce1059d0d2c683c40c)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. When i was a child i was kidnapped by my uncle.
+   (ID: conversation_68_user_2)
+
+
+============================================================

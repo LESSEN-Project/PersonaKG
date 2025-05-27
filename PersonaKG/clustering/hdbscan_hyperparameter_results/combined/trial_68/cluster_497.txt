@@ -1,0 +1,43 @@
+CLUSTER 497
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (20.0%)
+  MSC: 2 (40.0%)
+  PEC: 2 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am a fan of Kevin Costner.
+   (ID: PK2U426B57KL_9)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I am not a fan of heights.
+   (ID: dialog_9_speaker_2)
+
+2. I am a fan of the minnesota twins.
+   (ID: dialog_71_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i ’m a lakers fan .
+   (ID: Montag3636)
+
+2. i take it you ’re a fan of the who ?
+   (ID: ListenandLove100)
+
+
+============================================================

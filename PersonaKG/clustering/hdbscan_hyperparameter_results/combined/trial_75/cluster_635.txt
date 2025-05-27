@@ -1,0 +1,78 @@
+CLUSTER 635
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.892
+
+Dataset distribution in this cluster:
+  FoCus: 2 (20.0%)
+  MPChat: 1 (10.0%)
+  MSC: 1 (10.0%)
+  PEC: 2 (20.0%)
+  PER-CHAT: 1 (10.0%)
+  PersonaChat: 2 (20.0%)
+  SyntheticPersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I am living in a house which has a tennis court.
+   (ID: D4619DV1O1OP_11)
+
+2. I have a Neem tree at my house.
+   (ID: V3LNPA1FT8D2_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i found a bird's nest in the flower box at my house.
+   (ID: gelimausi)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I sold my house.
+   (ID: dialog_37_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i keep mine under the house .
+   (ID: IgnoranceIsAVirus)
+
+2. i can walk there from my house ....
+   (ID: notlikethat1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. anything off the shelf at jared ' s house .
+   (ID: 8e22144947225f2bd7d950ea1b4044909a8653ae)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i do the shopping in my house .
+   (ID: conversation_137)
+
+2. my brother is currently couch surfing at my house .
+   (ID: conversation_46)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am buying a house.
+   (ID: conversation_93_user_1)
+
+
+============================================================

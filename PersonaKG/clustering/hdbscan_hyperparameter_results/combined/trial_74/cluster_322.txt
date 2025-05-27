@@ -1,0 +1,55 @@
+CLUSTER 322
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.993
+
+Dataset distribution in this cluster:
+  PEC: 1 (11.1%)
+  PersonaChat: 4 (44.4%)
+  SyntheticPersonaChat: 4 (44.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i was born and raised in illinois and i have never been west of missouri .
+   (ID: AgedTwenties)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. my mother was born in ireland .
+   (ID: conversation_38)
+
+2. my father lives in china .
+   (ID: conversation_6)
+
+3. my father was born in australia .
+   (ID: conversation_9)
+
+4. my father was also in the military .
+   (ID: conversation_89)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+2. I was born in baton rouge.
+   (ID: conversation_69_user_2)
+
+3. My grandma is from denmark.
+   (ID: conversation_44_user_2)
+
+4. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+
+============================================================

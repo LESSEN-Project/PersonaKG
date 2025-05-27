@@ -1,0 +1,247 @@
+CLUSTER 334
+============================================================
+Total statements in cluster: 127
+Cluster persistence (stability): 0.895
+
+Dataset distribution in this cluster:
+  MPChat: 2 (1.6%)
+  MSC: 7 (5.5%)
+  PEC: 63 (49.6%)
+  PER-CHAT: 36 (28.3%)
+  PersonaChat: 9 (7.1%)
+  SyntheticPersonaChat: 10 (7.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. hello it is i!
+   (ID: kentobean123)
+
+2. i am a lion!
+   (ID: mattsulli)
+
+
+--- MSC ---
+Total from this dataset: 7
+
+1. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+2. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+3. I am a gemini.
+   (ID: dialog_24_speaker_2)
+
+4. I am a nerd.
+   (ID: dialog_25_speaker_2)
+
+5. I'm a skilled craftsman.
+   (ID: dialog_27_speaker_2)
+
+6. My name is Katie and I am transgender.
+   (ID: dialog_23_speaker_2)
+
+7. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 63
+
+1. i 'm impressed .
+   (ID: xcombelle)
+
+2. i 'm a robot .
+   (ID: amirman)
+
+3. i identify as a dented can of expired tuna and i find this hilarious .
+   (ID: rspewth)
+
+4. i 'm dizzy !
+   (ID: Nheea)
+
+5. i 'm so ronery .
+   (ID: chasemyers)
+
+6. i keed , i keed .
+   (ID: wooq)
+
+7. i 'm slipping .
+   (ID: adertal)
+
+8. i 'm jordan ward !
+   (ID: amirman)
+
+9. i was dying of laughter .
+   (ID: bmeckel)
+
+10. i ’m dying !
+   (ID: 11_29_77)
+
+11. i m a athaleet
+   (ID: RonaldFuckingPaul)
+
+12. i was also backing you up .
+   (ID: Nheea)
+
+13. i was there .
+   (ID: hussy_trash)
+
+14. i am not a goddammed programmer !
+   (ID: cookiexcmonster)
+
+15. i 'm gettin some .
+   (ID: RonaldFuckingPaul)
+
+16. i 'm hoping your name is nick .
+   (ID: KikAtWorkFL)
+
+17. i am you .
+   (ID: exotics)
+
+18. i 'm am shocked .
+   (ID: RonaldFuckingPaul)
+
+19. i could not be agnerier
+   (ID: thebastion)
+
+20. i ’m speechless .
+   (ID: 11_29_77)
+
+
+--- PER-CHAT ---
+Total from this dataset: 36
+
+1. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+2. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+3. I am drunke.
+   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
+
+4. I am king of the tacos.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+5. I am u/footofaep.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+6. I am serial killer.
+   (ID: e91d4ec377d82dfdf21d71b4dc685a96ed60ea3d)
+
+7. the all ighty ollar ?
+   (ID: d8681af7ff5797fb2ffcb9a4a08f377463526e2d)
+
+8. I am redditor.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+9. I am sand guardian.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+10. I am adventurer.
+   (ID: d786fcd0afbed17f795e41e12bf7c85d045d2a0f)
+
+11. I am normie.
+   (ID: b7af56426174b182a97c67df12c64d320bf51d61)
+
+12. I am ancom.
+   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+
+13. I am legend.
+   (ID: ef2135d90df57b27df5e96791848d8d9201afd29)
+
+14. I am narcissist.
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+15. I am turd burglar.
+   (ID: cfd691d6aeaf46cc644b0e21187d10dfc62b0bc8)
+
+16. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+17. I am gunna.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+18. I am altmer mage.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+19. I am abyine.
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+20. I am captain.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i'm a goalie .
+   (ID: conversation_62)
+
+2. i'm a dancer .
+   (ID: conversation_10)
+
+3. i have brown hair .
+   (ID: conversation_3)
+
+4. i have my own salon .
+   (ID: conversation_14)
+
+5. i am a lumberjack .
+   (ID: conversation_51)
+
+6. i am witty .
+   (ID: conversation_65)
+
+7. i fly airplanes .
+   (ID: conversation_35)
+
+8. i'm a waitress at a popular houston club .
+   (ID: conversation_77)
+
+9. my name is omar .
+   (ID: conversation_42)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 10
+
+1. My name is nancy.
+   (ID: conversation_58_user_2)
+
+2. I am a paper salesman.
+   (ID: conversation_55_user_2)
+
+3. My name is arnold.
+   (ID: conversation_5_user_2)
+
+4. I am a terrible speller.
+   (ID: conversation_6_user_2)
+
+5. I am bald.
+   (ID: conversation_4_user_1)
+
+6. I am an excellent student.
+   (ID: conversation_29_user_2)
+
+7. I am a jack of all , master of none.
+   (ID: conversation_7_user_1)
+
+8. I am incredibly smart.
+   (ID: conversation_9_user_2)
+
+9. I am blonde.
+   (ID: conversation_16_user_1)
+
+10. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+
+============================================================

@@ -1,0 +1,114 @@
+CLUSTER 31
+============================================================
+Total statements in cluster: 54
+Cluster persistence (stability): 0.706
+
+Dataset distribution in this cluster:
+  MSC: 2 (3.7%)
+  PEC: 4 (7.4%)
+  PER-CHAT: 47 (87.0%)
+  PersonaChat: 1 (1.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I have a ps4.
+   (ID: dialog_35_speaker_1)
+
+2. I drive a rig.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i have the 3500 for the evo .
+   (ID: dkinmn)
+
+2. i have a gt-8 .
+   (ID: bbrandann)
+
+3. i do have a titan .
+   (ID: WiseScratch)
+
+4. i have 6 of them .
+   (ID: carwynllew)
+
+
+--- PER-CHAT ---
+Total from this dataset: 47
+
+1. I own a warlock.
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+
+2. I own a pant.
+   (ID: 198c7cf8170708799eec80da464639ba2be896b4)
+
+3. I own a part.
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+4. I own a muscle.
+   (ID: b25bdf3935142c93d642393810cba283ec3b801f)
+
+5. I own a ball.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+6. I own a mipod.
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+7. I own a kd.
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+8. I own a stomach.
+   (ID: 45768598053a5b3cdf1e6e286b99114b7acf5f3c)
+
+9. I own a shutter speed.
+   (ID: 2bd0d072bfd734410249f20da9a2602d61eaaa05)
+
+10. I own a d3400.
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+11. I own a payout.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+12. I own a knight move.
+   (ID: fdf9c56e21cf61fb3b2852da66f6506ce908651c)
+
+13. I own a vat shot.
+   (ID: 812f0130222ed7d2f4768ba9e9d81f1c42857723)
+
+14. I own a grief.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+15. I own a 5820k.
+   (ID: 32520dc340c18ed101e3d5ea02b3a7bca25dcc29)
+
+16. I own a lap.
+   (ID: 15909870ffa903ea3b3962d8d81fd1701dd68aea)
+
+17. I own a 20.
+   (ID: 4198a967d1b0765e3fc996754ce9a3e6c7f24c8c)
+
+18. I own a core.
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+19. I own a sd card.
+   (ID: 870d9d198f856764296262192823c935f1daf781)
+
+20. I own a orb.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i wear a lot of leather .
+   (ID: conversation_187)
+
+
+============================================================

@@ -1,0 +1,131 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 31
+Cluster persistence (stability): 0.964
+
+Dataset distribution in this cluster:
+  MSC: 5 (16.1%)
+  PEC: 7 (22.6%)
+  PER-CHAT: 14 (45.2%)
+  PersonaChat: 3 (9.7%)
+  SyntheticPersonaChat: 2 (6.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+2. My name is Jake.
+   (ID: dialog_100_speaker_2)
+
+3. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+4. My name is Kim.
+   (ID: dialog_107_speaker_2)
+
+5. My name is Vladimir.
+   (ID: dialog_100_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+2. i am confu - shan
+   (ID: saharaspberry)
+
+3. i 'm jordan ward !
+   (ID: amirman)
+
+4. i am corgiman ! !
+   (ID: ranieve)
+
+5. i 'm groot !
+   (ID: meteoriteminer)
+
+6. i 'm butcherpete .
+   (ID: JacredCat)
+
+7. i am skuld .
+   (ID: Ooer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 14
+
+1. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+2. I am arthur morgan.
+   (ID: 6573f6a8f26b8c23dc16d278f5c2c32e67af1e5b)
+
+3. I am derp.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+4. I am drowinin.
+   (ID: a77a8bcaa391d8b6584d32e6ad243e71297d7258)
+
+5. I am v.
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+6. I am bird of prey.
+   (ID: 162574c7cc4882122c2781c596a51e5023f21691)
+
+7. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+8. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+9. I am scott.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+10. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+11. I am ace.
+   (ID: 4eddf833981a5600b4abc53d564950e97ee755c4)
+
+12. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+13. I am king   orcs.
+   (ID: 5fa74a7d6a70c6f2f8a149864f494ac72eefd3e4)
+
+14. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. my name is omar .
+   (ID: conversation_42)
+
+2. my name is gerald .
+   (ID: conversation_207)
+
+3. my name is todd .
+   (ID: conversation_119)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My name is nancy.
+   (ID: conversation_58_user_2)
+
+2. My name is arnold.
+   (ID: conversation_5_user_2)
+
+
+============================================================

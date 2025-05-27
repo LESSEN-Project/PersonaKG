@@ -1,0 +1,23 @@
+HYPERPARAMETER TUNING TRIAL SUMMARY
+============================================================
+
+PARAMETERS:
+  Vectorization: dense
+  Sample Size: 400
+  Min Cluster Size: 12
+  Min Samples: 12
+  Min Samples Ratio: 1.00
+  PCA Components: 32
+  Clustering Mode: combined
+
+RESULTS SUMMARY:
+  Datasets analyzed: 1
+  Total statements: 39060
+  Total clusters: 13
+  Average clusters per dataset: 13.0
+  Average noise percentage: 95.5%
+
+DATASET RESULTS:
+Dataset         Statements Clusters   Noise %   
+--------------------------------------------------
+Combined        39060      13         95.5      

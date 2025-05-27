@@ -1,0 +1,88 @@
+CLUSTER 206
+============================================================
+Total statements in cluster: 15
+Cluster persistence (stability): 0.802
+
+Dataset distribution in this cluster:
+  MPChat: 3 (20.0%)
+  MSC: 3 (20.0%)
+  PEC: 5 (33.3%)
+  PER-CHAT: 1 (6.7%)
+  PersonaChat: 2 (13.3%)
+  SyntheticPersonaChat: 1 (6.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. shaping needs work, but here's my first sourdough!
+   (ID: mattsulli)
+
+2. prettier pics of the hamburger cupcakes i made for work :)
+   (ID: ddizzle23)
+
+3. only had shredded cheese, but i made it work.
+   (ID: RaeADropOfGoldenSun)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I am exhausted by work everyday.
+   (ID: dialog_44_speaker_2)
+
+2. I work on the line with machines.
+   (ID: dialog_44_speaker_2)
+
+3. I work with numbers.
+   (ID: dialog_63_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i do n't motivate to work out , but i do work out to stay motivated .
+   (ID: ifatree)
+
+2. i have done everything to get it to work , but alas , i had no success .
+   (ID: mmaswadeh)
+
+3. i see from your username how you work .
+   (ID: LooksAtClouds)
+
+4. i clicked on that at work .
+   (ID: Megan_Bee)
+
+5. i 'd pick up a shovel and go to work .
+   (ID: Beachsurfer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. do more work to avoid the work they are given .
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+2. my brothers work with me .
+   (ID: conversation_189)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I work as a vet.
+   (ID: conversation_196_user_1)
+
+
+============================================================

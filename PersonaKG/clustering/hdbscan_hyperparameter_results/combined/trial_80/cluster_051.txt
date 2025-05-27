@@ -1,0 +1,139 @@
+CLUSTER 51
+============================================================
+Total statements in cluster: 33
+Cluster persistence (stability): 0.951
+
+Dataset distribution in this cluster:
+  FoCus: 1 (3.0%)
+  MSC: 5 (15.2%)
+  PEC: 2 (6.1%)
+  PER-CHAT: 1 (3.0%)
+  PersonaChat: 21 (63.6%)
+  SyntheticPersonaChat: 3 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am a figure skater.
+   (ID: D4619DV1O1OP_11)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+2. I work with numbers.
+   (ID: dialog_63_speaker_1)
+
+3. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+4. I run a prison. I am retired.
+   (ID: dialog_95_speaker_1)
+
+5. I work on the line with machines.
+   (ID: dialog_44_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i work with the metal pouring club .
+   (ID: thenanoage)
+
+2. i work at man met uni :-)
+   (ID: Stan063)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I own a tech school.
+   (ID: b2c623940e1acb4e269cab1c8f1920e03da9e429)
+
+
+--- PersonaChat ---
+Total from this dataset: 21
+
+1. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+2. my brothers work with me .
+   (ID: conversation_189)
+
+3. i give out sports information .
+   (ID: conversation_201)
+
+4. i'm a dancer .
+   (ID: conversation_10)
+
+5. i train horses for a living .
+   (ID: conversation_66)
+
+6. i work on cars for a living .
+   (ID: conversation_18)
+
+7. i work as a stand up comedian .
+   (ID: conversation_2)
+
+8. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+9. i am a lumberjack .
+   (ID: conversation_51)
+
+10. i'm very athletic .
+   (ID: conversation_3)
+
+11. i'm a goalie .
+   (ID: conversation_62)
+
+12. i work for a large law firm .
+   (ID: conversation_30)
+
+13. i fly airplanes .
+   (ID: conversation_35)
+
+14. i currently work at target .
+   (ID: conversation_160)
+
+15. i teach kindergarten .
+   (ID: conversation_70)
+
+16. i m a truck driver in the south .
+   (ID: conversation_82)
+
+17. i work as a vet .
+   (ID: conversation_282)
+
+18. i work at home on my computer .
+   (ID: conversation_236)
+
+19. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+20. i make and me by waiting tables .
+   (ID: conversation_21)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I work on wall street.
+   (ID: conversation_148_user_2)
+
+2. I am a jack of all , master of none.
+   (ID: conversation_7_user_1)
+
+3. I deliver packages for a living.
+   (ID: conversation_228_user_2)
+
+
+============================================================

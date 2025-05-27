@@ -1,0 +1,43 @@
+CLUSTER 654
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 3 (60.0%)
+  PER-CHAT: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have called 911.
+   (ID: dialog_34_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i called it survival of the prettiest .
+   (ID: exotics)
+
+2. i still seethe about that facemask called against clinton solomon .
+   (ID: wooq)
+
+3. i called this before the election fraud surfaced .
+   (ID: mylescloutier)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. you called ?
+   (ID: 8b9c4341d896783998a7c3485fa949b3c63cbd73)
+
+
+============================================================

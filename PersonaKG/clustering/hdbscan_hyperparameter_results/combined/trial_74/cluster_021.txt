@@ -1,0 +1,57 @@
+CLUSTER 21
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.951
+
+Dataset distribution in this cluster:
+  MSC: 1 (12.5%)
+  PEC: 3 (37.5%)
+  PER-CHAT: 3 (37.5%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have terrible vision. I get bad headaches.
+   (ID: dialog_34_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i known it 's bad but is it that bad
+   (ID: DielEnelGuy)
+
+2. i ’m honestly sad because it ’s not even a bad meme
+   (ID: ChallengeTaken99)
+
+3. i had expected to be bad , but wow .
+   (ID: tylock)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. i suppose the first one wasn ' t too bad
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+2. taco bell is bad for you
+   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+
+3. my bad . i ended up comparing it to a fleshlight and . well .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+
+============================================================

@@ -1,0 +1,80 @@
+CLUSTER 172
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.824
+
+Dataset distribution in this cluster:
+  MPChat: 1 (7.1%)
+  MSC: 3 (21.4%)
+  PEC: 6 (42.9%)
+  PersonaChat: 2 (14.3%)
+  SyntheticPersonaChat: 2 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my view whenever i eat a cheese stick
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I cannot eat certain foods due to flatulence.
+   (ID: dialog_26_speaker_2)
+
+2. I'm sick when I eat fish.
+   (ID: dialog_28_speaker_2)
+
+3. I eat somali food.
+   (ID: dialog_16_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i 'd have too many hormones running through my body with how much i 'd eat .
+   (ID: buttercup_mauler)
+
+2. i eat as much as i can
+   (ID: Kellen1337)
+
+3. i do n't eat anything that casts a shadow . "
+   (ID: Mahatma_Panda)
+
+4. i 'd kill you and eat your eyes if it gave me 20/20 .
+   (ID: Shrub74)
+
+5. i 'd eat cake to that .
+   (ID: VanGoJourney)
+
+6. i 'd still eat it .
+   (ID: sweatervest)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i never eat veggies .
+   (ID: conversation_96)
+
+2. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I eat all take out.
+   (ID: conversation_2_user_1)
+
+2. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+
+============================================================

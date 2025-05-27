@@ -1,0 +1,22 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 1903
+Vectorization method: tfidf
+Number of clusters: 7
+Number of noise points: 1181 (62.1%)
+Analysis type: clusters
+Timestamp: 2025-05-27 16:59:37
+
+Dataset Distribution:
+  MPChat: 1903 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 5: 468 statements (persistence: 0.103)
+  Cluster 3: 51 statements (persistence: 0.820)
+  Cluster 6: 50 statements (persistence: 0.768)
+  Cluster 4: 49 statements (persistence: 0.846)
+  Cluster 0: 35 statements (persistence: 0.974)
+  Cluster 1: 35 statements (persistence: 0.972)
+  Cluster 2: 34 statements (persistence: 0.981)

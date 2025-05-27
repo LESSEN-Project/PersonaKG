@@ -1,0 +1,43 @@
+CLUSTER 500
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 2 (40.0%)
+  PEC: 2 (40.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. my dachshund went on a magical journey
+   (ID: Snoodles1)
+
+2. i went to a 5 course beer pairing dinner with finch's beer co.
+   (ID: onemantwohands)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i went for a few shots of whiskey .
+   (ID: gigatroness)
+
+2. i went back when i was 28 .
+   (ID: deputydan_scubaman)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+
+============================================================

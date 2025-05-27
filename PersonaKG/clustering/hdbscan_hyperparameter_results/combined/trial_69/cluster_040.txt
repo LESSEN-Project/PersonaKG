@@ -1,0 +1,60 @@
+CLUSTER 40
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (11.1%)
+  PER-CHAT: 2 (22.2%)
+  PersonaChat: 4 (44.4%)
+  SyntheticPersonaChat: 2 (22.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I like to walk pets.
+   (ID: dialog_84_speaker_1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. One of my favorite things is tubing.
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+2. One of my favorite things is deadlifts.
+   (ID: ba841e2486d1df5b5baefde5ead0636c7c03c79c)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i like to snowboard .
+   (ID: conversation_15)
+
+2. i like to go hunting .
+   (ID: conversation_0)
+
+3. i like to make boats on the weekends .
+   (ID: conversation_27)
+
+4. i like to play sports and get fresh air .
+   (ID: conversation_191)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I like to garden.
+   (ID: conversation_12_user_1)
+
+2. I love to do yoga.
+   (ID: conversation_92_user_1)
+
+
+============================================================

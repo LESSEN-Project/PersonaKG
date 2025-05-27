@@ -1,0 +1,80 @@
+CLUSTER 41
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  FoCus: 1 (7.1%)
+  MSC: 4 (28.6%)
+  PER-CHAT: 1 (7.1%)
+  PersonaChat: 5 (35.7%)
+  SyntheticPersonaChat: 3 (21.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I'm a CEO.
+   (ID: E3UZAGT5DTE5_11)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I live in Providence. I work in a Publishing building, downtown.
+   (ID: dialog_41_speaker_2)
+
+2. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+3. I run a prison. I am retired.
+   (ID: dialog_95_speaker_1)
+
+4. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I live in nurse.
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i work as a stand up comedian .
+   (ID: conversation_2)
+
+2. i currently work at target .
+   (ID: conversation_160)
+
+3. i work for a large law firm .
+   (ID: conversation_30)
+
+4. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+5. i m a truck driver in the south .
+   (ID: conversation_82)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I deliver packages for a living.
+   (ID: conversation_228_user_2)
+
+2. I am a pharmacist.
+   (ID: conversation_30_user_2)
+
+3. I work on wall street.
+   (ID: conversation_148_user_2)
+
+
+============================================================

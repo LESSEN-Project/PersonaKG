@@ -1,0 +1,68 @@
+CLUSTER 615
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.914
+
+Dataset distribution in this cluster:
+  FoCus: 1 (10.0%)
+  MSC: 2 (20.0%)
+  PEC: 5 (50.0%)
+  PersonaChat: 1 (10.0%)
+  SyntheticPersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have a daughter attending secondary school.
+   (ID: 9KDV6LSLWNAX_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I ran in high school.
+   (ID: dialog_0_speaker_1)
+
+2. I am a middle school cheerleading coach.
+   (ID: dialog_76_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i could n’t get a strike with bumpers when i was in middle school
+   (ID: FrankOfTheDank)
+
+2. i go to tiny school and despite being a freshmen there ’s no one to bully me
+   (ID: FrankOfTheDank)
+
+3. i was wondering , since i learned 7 as ' nana ' in high school .
+   (ID: Piraticalstyle)
+
+4. i 'm ashamed to associate myself with that school .
+   (ID: silentpower)
+
+5. i wanna see your high school diploma !
+   (ID: rspewth)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i go to a private high school .
+   (ID: conversation_87)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I moved to ny to study in a prestigious designing school.
+   (ID: conversation_191_user_2)
+
+
+============================================================

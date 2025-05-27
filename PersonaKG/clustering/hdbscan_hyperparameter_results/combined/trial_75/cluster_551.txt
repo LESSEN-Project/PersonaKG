@@ -1,0 +1,57 @@
+CLUSTER 551
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.817
+
+Dataset distribution in this cluster:
+  MSC: 1 (12.5%)
+  PEC: 3 (37.5%)
+  PER-CHAT: 3 (37.5%)
+  PersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have feelings for a person in my past.
+   (ID: dialog_41_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i have failed myself as a person .
+   (ID: Ooer)
+
+2. i 'm neither a fighter nor a strong person .
+   (ID: doctor_parcival)
+
+3. i 'm the only person with a curfew .
+   (ID: _gansmadchen)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I am awkward person.
+   (ID: 82bb111e2180a2ffb997b74ab504aa538034feab)
+
+2. what if you were the person dragging the convo down ? what a dive would you give that person to improve themselves ?
+   (ID: b67c2fd697e30c5d26fcd88baa61d8bbcce5ec1c)
+
+3. probs talk about my dead brother . the other person likely wouldnt have the knowledge .
+   (ID: 8285a776fd60b145ed2afc145cdf2b926b93ed8b)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'm an angry person .
+   (ID: conversation_169)
+
+
+============================================================

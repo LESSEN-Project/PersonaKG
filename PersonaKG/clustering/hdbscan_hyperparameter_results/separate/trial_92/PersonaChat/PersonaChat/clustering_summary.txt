@@ -1,0 +1,17 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 981
+Vectorization method: dense
+Number of clusters: 2
+Number of noise points: 818 (83.4%)
+Analysis type: clusters
+Timestamp: 2025-05-27 16:57:11
+
+Dataset Distribution:
+  PersonaChat: 981 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 0: 119 statements (persistence: 0.958)
+  Cluster 1: 44 statements (persistence: 0.988)

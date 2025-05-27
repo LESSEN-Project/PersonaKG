@@ -1,0 +1,54 @@
+CLUSTER 204
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 1 (14.3%)
+  MSC: 1 (14.3%)
+  PEC: 4 (57.1%)
+  PersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. here’s some of my work.
+   (ID: Lookingforearrings2)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I work at eureka.
+   (ID: dialog_7_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i 'm at work .
+   (ID: mmaswadeh)
+
+2. i 'm off to work now !
+   (ID: exotics)
+
+3. i 'm at work so i put the captions on .
+   (ID: SamuelStephenBono)
+
+4. i 'm on the redline headed to work .
+   (ID: doctor_parcival)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i work at a museum .
+   (ID: conversation_32)
+
+
+============================================================

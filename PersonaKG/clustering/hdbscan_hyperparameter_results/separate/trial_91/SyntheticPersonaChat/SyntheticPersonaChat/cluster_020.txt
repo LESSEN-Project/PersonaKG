@@ -1,0 +1,42 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.992
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. My mind is set on things above.
+   (ID: conversation_109_user_1)
+
+2. I recently had knee surgery.
+   (ID: conversation_149_user_2)
+
+3. I always seem to be losing things , most recently , my mind.
+   (ID: conversation_18_user_2)
+
+4. I recently bought a camper.
+   (ID: conversation_27_user_2)
+
+5. Chocolate chip cookies are the tastier things in my opinion.
+   (ID: conversation_283_user_1)
+
+6. I recently moved to sweden.
+   (ID: conversation_18_user_2)
+
+7. I take things very literally.
+   (ID: conversation_247_user_2)
+
+8. I recently started working online.
+   (ID: conversation_10_user_2)
+
+
+============================================================

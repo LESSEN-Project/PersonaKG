@@ -1,0 +1,53 @@
+CLUSTER 618
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 1 (20.0%)
+  MSC: 1 (20.0%)
+  PEC: 1 (20.0%)
+  PER-CHAT: 1 (20.0%)
+  PersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. westholme wagyu ribeye i grilled last night
+   (ID: cookinwithclint)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I cannot be alone at night.
+   (ID: dialog_61_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm done for the night .
+   (ID: kailan123456)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I own a night terror.
+   (ID: 3158d7c63f10e871a80f147fb47725c8714163c7)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i am a night owl .
+   (ID: conversation_10)
+
+
+============================================================

@@ -1,0 +1,51 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.990
+
+Dataset distribution in this cluster:
+  FoCus: 1 (16.7%)
+  PEC: 3 (50.0%)
+  PER-CHAT: 1 (16.7%)
+  PersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I wish I knew Russian.
+   (ID: CBOI96AOZRK6_11)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i wish i knew someone ’s intentions from the start .
+   (ID: _gansmadchen)
+
+2. i wish i knew who it was , so i could give credit .
+   (ID: Sabiola)
+
+3. i wish i knew much more .
+   (ID: godspeedone)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. wow that suck wish i knew the answer for you
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i wish i knew where i belonged .
+   (ID: conversation_66)
+
+
+============================================================

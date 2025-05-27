@@ -1,0 +1,71 @@
+CLUSTER 38
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  MPChat: 1 (9.1%)
+  MSC: 1 (9.1%)
+  PEC: 2 (18.2%)
+  PersonaChat: 5 (45.5%)
+  SyntheticPersonaChat: 2 (18.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my boy is so handsome, and a true gryffindor to the core
+   (ID: SarahFree339)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i love his innocence !
+   (ID: almajanemi)
+
+2. i have a green - eyed boy also , but he 's an orange kitty !
+   (ID: mizzpkat)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i've a parrot named parrot .
+   (ID: conversation_138)
+
+2. i have a dog named socks .
+   (ID: conversation_172)
+
+3. i have a dog named bob .
+   (ID: conversation_27)
+
+4. i've a cat named leela .
+   (ID: conversation_58)
+
+5. my dogs name is toto .
+   (ID: conversation_162)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I have one little boy named owen.
+   (ID: conversation_118_user_2)
+
+2. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+
+============================================================

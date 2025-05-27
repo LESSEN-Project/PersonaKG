@@ -1,0 +1,74 @@
+CLUSTER 146
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.933
+
+Dataset distribution in this cluster:
+  MPChat: 1 (8.3%)
+  MSC: 3 (25.0%)
+  PEC: 4 (33.3%)
+  PER-CHAT: 3 (25.0%)
+  SyntheticPersonaChat: 1 (8.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i started a cafe job again!
+   (ID: pocket_kira)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. My job is in real estate.
+   (ID: dialog_37_speaker_1)
+
+2. I never had a job and I never will.
+   (ID: dialog_18_speaker_1)
+
+3. I have a job. I go to school.
+   (ID: dialog_29_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i quit a job because of this shit .
+   (ID: CarlofTime)
+
+2. i m already cackling " yeah this us my job . "
+   (ID: bleepblorp9878)
+
+3. i sent him to the slog and gave him a job .
+   (ID: deputydan_scubaman)
+
+4. i graduated in may with my bachelors and it took me 7 months to find a job .
+   (ID: AgedTwenties)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. do your job above and beyond what is expected of you .
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+2. it ' s part of my job .
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+3. being told i wouldn  t be able to do the job because of my physical capabilities in their opinion , but still being offered the job anyway .
+   (ID: c391065478603a686531cbdd50568136a5e14508)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I take pride in my job managing the restaurant.
+   (ID: conversation_47_user_2)
+
+
+============================================================

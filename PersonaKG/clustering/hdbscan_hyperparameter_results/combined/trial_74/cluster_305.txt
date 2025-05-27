@@ -1,0 +1,48 @@
+CLUSTER 305
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 1 (20.0%)
+  PersonaChat: 1 (20.0%)
+  SyntheticPersonaChat: 2 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I can operate a car with a manual transmission.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i has a 12k loan and a car that s worth roughly 12k now .
+   (ID: AgedTwenties)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my car is pink .
+   (ID: conversation_58)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I lease my car.
+   (ID: conversation_5_user_1)
+
+2. My car is green and smells weird.
+   (ID: conversation_44_user_2)
+
+
+============================================================

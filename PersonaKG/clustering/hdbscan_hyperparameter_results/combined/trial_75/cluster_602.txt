@@ -1,0 +1,49 @@
+CLUSTER 602
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  MPChat: 2 (28.6%)
+  PEC: 4 (57.1%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i went to a 5 course beer pairing dinner with finch's beer co.
+   (ID: onemantwohands)
+
+2. my dachshund went on a magical journey
+   (ID: Snoodles1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i was there this summer - living in alberta - we went to enderby .
+   (ID: exotics)
+
+2. i went back when i was 28 .
+   (ID: deputydan_scubaman)
+
+3. i ’d be shocked if red as a tomato kentucky went blue for once .
+   (ID: Dustin_Bromain)
+
+4. i went for a few shots of whiskey .
+   (ID: gigatroness)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+
+============================================================

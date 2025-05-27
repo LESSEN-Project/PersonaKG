@@ -1,0 +1,62 @@
+CLUSTER 617
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  FoCus: 3 (37.5%)
+  MSC: 1 (12.5%)
+  PER-CHAT: 1 (12.5%)
+  PersonaChat: 1 (12.5%)
+  SyntheticPersonaChat: 2 (25.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I have interest in the Rothschild family.
+   (ID: JBP0INT1W707_11)
+
+2. My family is from Wales.
+   (ID: LJYX36WCRYDM_9)
+
+3. I have several family members who suffered an accident.
+   (ID: 9KDV6LSLWNAX_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm part of a modern family.
+   (ID: dialog_37_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. if yo family around , why you turned on ?
+   (ID: eee9dc5129787c4d2a8fda055f09565efcf9322a)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my family is very important to me .
+   (ID: conversation_189)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My family hates my fiancé.
+   (ID: conversation_179_user_2)
+
+2. My family owned a small restaurant.
+   (ID: conversation_28_user_2)
+
+
+============================================================

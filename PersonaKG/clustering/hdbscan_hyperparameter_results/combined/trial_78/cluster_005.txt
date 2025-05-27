@@ -1,0 +1,80 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  MSC: 2 (14.3%)
+  PEC: 1 (7.1%)
+  PER-CHAT: 1 (7.1%)
+  PersonaChat: 7 (50.0%)
+  SyntheticPersonaChat: 3 (21.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+2. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i have a green - eyed boy also , but he 's an orange kitty !
+   (ID: mizzpkat)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I own a african.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i've a cat named leela .
+   (ID: conversation_58)
+
+2. i've a parrot named parrot .
+   (ID: conversation_138)
+
+3. i have a parakeet .
+   (ID: conversation_307)
+
+4. i've one little boy named owen .
+   (ID: conversation_300)
+
+5. my dogs name is toto .
+   (ID: conversation_162)
+
+6. i have a dog named socks .
+   (ID: conversation_172)
+
+7. i have a dog named bob .
+   (ID: conversation_27)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+2. I have a lizard named nagini.
+   (ID: conversation_305_user_2)
+
+3. I have two chiuahuahs.
+   (ID: conversation_351_user_2)
+
+
+============================================================
