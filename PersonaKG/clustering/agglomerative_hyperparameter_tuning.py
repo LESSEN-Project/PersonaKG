@@ -38,7 +38,7 @@ def run_hyperparameter_search(n_trials=100, output_dir="hyperparameter_results",
         sample_sizes = [100, 200, 300, 400]
         
     # Agglomerative clustering specific parameters
-    n_clusters_options = [10, 15, 20, 25, 30, 40, 50, 100]
+    n_clusters_options = [10, 20, 30, 40, 50, 100]
     linkage_options = ['ward', 'complete', 'average', 'single']
     
     # For hybrid vectorization
