@@ -1,0 +1,38 @@
+CLUSTER 362
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 3 (60.0%)
+  SyntheticPersonaChat: 2 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I like learning about the 12 apostles.
+   (ID: OKU8UQBPUSMV_11)
+
+2. I like learning about the Ottomans.
+   (ID: OKU8UQBPUSMV_11)
+
+3. I like scientific interest sites.
+   (ID: HWMW6AUW4UTK_11)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I like books about trains.
+   (ID: conversation_173_user_1)
+
+2. I like the movie godfather.
+   (ID: conversation_21_user_1)
+
+
+============================================================

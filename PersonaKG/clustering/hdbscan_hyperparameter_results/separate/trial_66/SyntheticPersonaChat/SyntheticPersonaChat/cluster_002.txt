@@ -1,0 +1,48 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.823
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 10
+
+1. I own five pairs of the same pants.
+   (ID: conversation_167_user_2)
+
+2. My mother has 500 pairs of shoes.
+   (ID: conversation_126_user_2)
+
+3. My mother raised me by herself while working two jobs.
+   (ID: conversation_625_user_2)
+
+4. My mother doesn t ! ove me.
+   (ID: conversation_69_user_2)
+
+5. My mother has her own fashion brand.
+   (ID: conversation_187_user_1)
+
+6. My mother met elvis.
+   (ID: conversation_477_user_2)
+
+7. My mother looks after my grandmother.
+   (ID: conversation_41_user_2)
+
+8. My mother is allergic to dogs.
+   (ID: conversation_146_user_1)
+
+9. My mother was a concert pianist.
+   (ID: conversation_446_user_2)
+
+10. My mother is dead.
+   (ID: conversation_99_user_2)
+
+
+============================================================

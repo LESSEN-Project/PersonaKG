@@ -1,0 +1,42 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.778
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I go to the theater to watch plays.
+   (ID: conversation_21_user_2)
+
+2. I watch youtube videos.
+   (ID: conversation_3_user_1)
+
+3. I like to watch tv.
+   (ID: conversation_5_user_2)
+
+4. In the evenings i watch the door at a club where they play punkrock.
+   (ID: conversation_172_user_2)
+
+5. I try to watch what i eat.
+   (ID: conversation_161_user_2)
+
+6. My horse never talks back to me.
+   (ID: conversation_178_user_2)
+
+7. Basketball is my favorite sport to watch.
+   (ID: conversation_142_user_2)
+
+8. I love to watch ted talks.
+   (ID: conversation_67_user_2)
+
+
+============================================================

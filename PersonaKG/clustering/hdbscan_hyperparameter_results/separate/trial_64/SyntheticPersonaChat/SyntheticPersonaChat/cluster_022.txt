@@ -1,0 +1,39 @@
+CLUSTER 22
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.915
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I am a family man.
+   (ID: conversation_23_user_2)
+
+2. I enjoy spending time with my family.
+   (ID: conversation_4_user_2)
+
+3. I have the support of my whole family.
+   (ID: conversation_143_user_2)
+
+4. My family owned a small restaurant.
+   (ID: conversation_28_user_2)
+
+5. I haven t spoken to my family in years.
+   (ID: conversation_298_user_1)
+
+6. My wife hates me , she thinks i am lazy and poor.
+   (ID: conversation_288_user_1)
+
+7. My family hates my fiancé.
+   (ID: conversation_179_user_2)
+
+
+============================================================

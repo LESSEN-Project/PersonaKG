@@ -1,0 +1,71 @@
+CLUSTER 136
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.652
+
+Dataset distribution in this cluster:
+  FoCus: 2 (18.2%)
+  MSC: 2 (18.2%)
+  PEC: 4 (36.4%)
+  PER-CHAT: 2 (18.2%)
+  PersonaChat: 1 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I wouldn't like to live in a Castle.
+   (ID: YB6ZF4SJI3P1_11)
+
+2. I would like to live in Palladian house.
+   (ID: QCGNF3BW4P3K_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I like stand-up comedy. There are no stand-up comedy clubs around where I live.
+   (ID: dialog_33_speaker_2)
+
+2. I am from Orlando. I live with my girlfriend. I like girls taller than I am.
+   (ID: dialog_85_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i live in dallas and you have no idea what it 's like here .
+   (ID: HugePurpleNipples)
+
+2. i like to live a complex life .
+   (ID: DarkMoon99)
+
+3. i like to live dangerously .
+   (ID: aydinsevimli)
+
+4. i live here and i do n’t understand why it ’s like this .
+   (ID: Dustin_Bromain)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. could be worse . we could live in an unarmed society were the rich treat the poor like shit .
+   (ID: 79e5228419de270c01297915dbce56be0063c52b)
+
+2. i live in bulgaria and the govenment here doesnt care about shit other than money . for example they keep raising the taxes and the bills for electricity . and if you come here you can see that becouse they dont even bother fixing a single road or anything like that outside the capital . this country used to be great until capitalism took over it and fucked it in the ass .
+   (ID: 2c1d97aa622f6ad7ec3a9aad9285dd4ec1e1f28d)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i like to live off of the land .
+   (ID: conversation_110)
+
+
+============================================================

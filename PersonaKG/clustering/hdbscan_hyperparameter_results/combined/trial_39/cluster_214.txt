@@ -1,0 +1,102 @@
+CLUSTER 214
+============================================================
+Total statements in cluster: 18
+Cluster persistence (stability): 0.904
+
+Dataset distribution in this cluster:
+  FoCus: 2 (11.1%)
+  MPChat: 1 (5.6%)
+  MSC: 3 (16.7%)
+  PEC: 7 (38.9%)
+  PER-CHAT: 2 (11.1%)
+  PersonaChat: 2 (11.1%)
+  SyntheticPersonaChat: 1 (5.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I have a steel sculpture at my home.
+   (ID: MLUZD1LRALV9_11)
+
+2. I have a domestic servant at home who is from Bolivia and is an Aymara.
+   (ID: LEW58VG9I78X_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i'm an amateur home barista, how's my cartado pour?
+   (ID: The69LTD)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I call the ghetto home.
+   (ID: dialog_36_speaker_1)
+
+2. I have a freeloader at home.
+   (ID: dialog_46_speaker_2)
+
+3. My home town is Celebration, Florida.
+   (ID: dialog_76_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i do her videos at home .
+   (ID: 11_29_77)
+
+2. i almost stayed home as well .
+   (ID: vikkivinegar)
+
+3. i 'm ashamed of my home state .
+   (ID: I_am_not_a_Taco)
+
+4. i was silent for the majority of the lunch and the car ride home .
+   (ID: _gansmadchen)
+
+5. i get no results for recent home sales in ottawa .
+   (ID: SPQR1212)
+
+6. i will get the extended for most home appliances .
+   (ID: buttercup_mauler)
+
+7. i m replying to save this for when i get home .
+   (ID: thebastion)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. there was a free futon on the side of the curb . me and my eldest son carried it about three kilometres home for my daughters room .
+   (ID: 5e646069de46abbfe6c3a4f3f3296eafe09fc9aa)
+
+2. cut down the floof in the back . if you can ' t do it at home , groomers will do it for you .
+   (ID: ec299e39e931c010d0d98b62058c9ccb814797dd)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. we own our home .
+   (ID: conversation_30)
+
+2. i have 23 cats at home .
+   (ID: conversation_60)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have a gun collection at home.
+   (ID: conversation_164_user_2)
+
+
+============================================================

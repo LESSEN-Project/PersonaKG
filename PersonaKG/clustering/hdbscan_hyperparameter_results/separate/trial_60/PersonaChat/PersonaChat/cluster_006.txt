@@ -1,0 +1,33 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. my father was born in australia .
+   (ID: conversation_9)
+
+2. i live in the usa .
+   (ID: conversation_23)
+
+3. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+4. my father lives in china .
+   (ID: conversation_6)
+
+5. my mother was born in ireland .
+   (ID: conversation_38)
+
+
+============================================================

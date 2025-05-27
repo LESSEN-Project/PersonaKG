@@ -1,0 +1,30 @@
+HYPERPARAMETER TUNING TRIAL SUMMARY
+============================================================
+
+PARAMETERS:
+  Vectorization: hybrid
+  Sample Size: 300
+  Min Cluster Size: 12
+  Min Samples: 6
+  Min Samples Ratio: 0.50
+  PCA Components: 16
+  Clustering Mode: separate
+  TF-IDF Weight: 0.7
+
+RESULTS SUMMARY:
+  Datasets analyzed: 7
+  Total statements: 32801
+  Total clusters: 153
+  Average clusters per dataset: 21.9
+  Average noise percentage: 54.1%
+
+DATASET RESULTS:
+Dataset         Statements Clusters   Noise %   
+--------------------------------------------------
+FoCus           676        16         38.2      
+MPChat          1903       18         60.6      
+MSC             976        18         57.1      
+PEC             15829      44         58.2      
+PER-CHAT        12212      33         71.2      
+PersonaChat     574        12         50.3      
+SyntheticPersonaChat 631        12         43.4      

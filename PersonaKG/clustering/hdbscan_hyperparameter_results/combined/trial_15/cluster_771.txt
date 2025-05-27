@@ -1,0 +1,60 @@
+CLUSTER 771
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.958
+
+Dataset distribution in this cluster:
+  MSC: 1 (11.1%)
+  PEC: 4 (44.4%)
+  PER-CHAT: 3 (33.3%)
+  SyntheticPersonaChat: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm an american.
+   (ID: dialog_23_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i have no desire to be american .
+   (ID: trav110)
+
+2. i have american dollars in the banks
+   (ID: BoonTobias)
+
+3. i spotted the american !
+   (ID: zsnajorrah)
+
+4. i 'm american and i actively seek out foreign made products .
+   (ID: StinkinFinger)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. as american as you can get , without owning a truck .
+   (ID: 17d5718d86b2560f3a04d8427f0e5fb4b969bed3)
+
+2. I own a american cock.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+3. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am italian american.
+   (ID: conversation_173_user_2)
+
+
+============================================================

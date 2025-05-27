@@ -1,0 +1,33 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i want to grow up to be a superhero one day .
+   (ID: conversation_119)
+
+2. i want to move .
+   (ID: conversation_147)
+
+3. before i die , i want to skydive .
+   (ID: conversation_50)
+
+4. i could move out , but she doesn t want me to .
+   (ID: conversation_175)
+
+5. i'm weak and selfish , but i want to change .
+   (ID: conversation_130)
+
+
+============================================================

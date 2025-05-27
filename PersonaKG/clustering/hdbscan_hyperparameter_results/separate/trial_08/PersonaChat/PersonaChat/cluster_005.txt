@@ -1,0 +1,48 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.601
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i live alone .
+   (ID: conversation_18)
+
+2. i live in nashville .
+   (ID: conversation_117)
+
+3. i live in the usa .
+   (ID: conversation_23)
+
+4. i live down the street from miley cyrus and pnb rock .
+   (ID: conversation_184)
+
+5. i need certain medications to live .
+   (ID: conversation_171)
+
+6. i couldn t live without my cell phone .
+   (ID: conversation_49)
+
+7. i like to live off of the land .
+   (ID: conversation_110)
+
+8. i live in rural wisconsin .
+   (ID: conversation_15)
+
+9. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+10. i live on a boat .
+   (ID: conversation_14)
+
+
+============================================================

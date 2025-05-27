@@ -1,0 +1,77 @@
+CLUSTER 155
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.880
+
+Dataset distribution in this cluster:
+  FoCus: 3 (23.1%)
+  MSC: 3 (23.1%)
+  PEC: 1 (7.7%)
+  PersonaChat: 2 (15.4%)
+  SyntheticPersonaChat: 4 (30.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I have a cousin who lives in Barcelona.
+   (ID: FNURQ2XMQVJF_11)
+
+2. I have a friend who works in Tennessee.
+   (ID: PYCYFS54O1C8_11)
+
+3. I have a cousin who lives in Orange County.
+   (ID: SJS6GHEH7ZIW_11)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. My spouse is a member of the military.
+   (ID: dialog_40_speaker_2)
+
+2. My boyfriend worked as a short-order cook and he lives in Michighan.
+   (ID: dialog_37_speaker_1)
+
+3. I have 2 sons in college. I can travel during the school terms.
+   (ID: dialog_9_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm afraid it is n't legal to collect husbands ...
+   (ID: Sabiola)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my father lives in china .
+   (ID: conversation_6)
+
+2. i have a boyfriend who lives in italy .
+   (ID: conversation_150)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I have an 18 year old son.
+   (ID: conversation_191_user_1)
+
+2. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+3. I have a timeshare in mexico.
+   (ID: conversation_81_user_2)
+
+4. My girlfriend lives in salt lake city.
+   (ID: conversation_184_user_1)
+
+
+============================================================

@@ -1,0 +1,54 @@
+CLUSTER 159
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  MSC: 1 (14.3%)
+  PEC: 1 (14.3%)
+  PersonaChat: 4 (57.1%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am trying to get a post college degree.
+   (ID: dialog_23_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm applying for all different kinds of jobs .
+   (ID: IAMACiderDrinker)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i'm enrolled in several college credit courses .
+   (ID: conversation_87)
+
+2. my major is business .
+   (ID: conversation_7)
+
+3. i start an internship in engineering later this year .
+   (ID: conversation_50)
+
+4. i will be graduating in september and hope to get a teaching job soon .
+   (ID: conversation_22)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am working in finance.
+   (ID: conversation_123_user_1)
+
+
+============================================================

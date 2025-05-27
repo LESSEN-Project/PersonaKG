@@ -1,0 +1,36 @@
+CLUSTER 25
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.882
+
+Dataset distribution in this cluster:
+  MSC: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. My mom has a car.
+   (ID: dialog_108_speaker_1)
+
+2. I can operate a car with a manual transmission.
+   (ID: dialog_34_speaker_1)
+
+3. I was almost killed in car accidents.
+   (ID: dialog_73_speaker_1)
+
+4. I would like to design a car pooling app.
+   (ID: dialog_79_speaker_2)
+
+5. I push a super car.
+   (ID: dialog_47_speaker_1)
+
+6. I do not own a car. I drive a motorcycle. I love motorcycles.
+   (ID: dialog_87_speaker_2)
+
+
+============================================================

@@ -1,0 +1,59 @@
+CLUSTER 665
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (14.3%)
+  MSC: 2 (28.6%)
+  PEC: 2 (28.6%)
+  PER-CHAT: 1 (14.3%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I enjoy Richard Russo.
+   (ID: NR9LNBMYKSX6_9)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I enjoy cosplay.
+   (ID: dialog_99_speaker_1)
+
+2. I enjoy my albums.
+   (ID: dialog_6_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i also do enjoy less oxidized greener oolongs as well .
+   (ID: Lilliaan)
+
+2. i enjoy waiters .
+   (ID: newyork2012)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I enjoy baltimore ravens.
+   (ID: e8daa61bfd9bf81549666ebd0bdf393156b492de)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I enjoy hitchhiking.
+   (ID: conversation_298_user_1)
+
+
+============================================================

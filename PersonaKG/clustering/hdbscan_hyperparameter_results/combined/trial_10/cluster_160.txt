@@ -1,0 +1,53 @@
+CLUSTER 160
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (20.0%)
+  MSC: 1 (20.0%)
+  PER-CHAT: 1 (20.0%)
+  PersonaChat: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am a member of the Democratic party.
+   (ID: IKQ9QU6QOUT4_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I want to help people.
+   (ID: dialog_21_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. My political view is socialist.
+   (ID: 77d0324af3e030bb9fb9365a16e870bd522fd275)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'm an environmental activist .
+   (ID: conversation_83)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I do volunteer work for human rights organizations.
+   (ID: conversation_2_user_2)
+
+
+============================================================

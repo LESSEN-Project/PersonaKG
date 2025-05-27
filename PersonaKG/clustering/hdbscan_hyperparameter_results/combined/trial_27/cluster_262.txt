@@ -1,0 +1,69 @@
+CLUSTER 262
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 2 (16.7%)
+  MSC: 2 (16.7%)
+  PEC: 6 (50.0%)
+  PersonaChat: 2 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I am a fan of Kevin Costner.
+   (ID: PK2U426B57KL_9)
+
+2. I'm a football fan.
+   (ID: X7MOE4GZ4HOG_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I am a jon snow fan.
+   (ID: dialog_66_speaker_1)
+
+2. I am a huge fan of chocolate poodles.
+   (ID: dialog_10_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i watched the first ep and struggled through it .
+   (ID: GanjaSmoker420HaloXX)
+
+2. i was anxious as a jets fan before , but the oilers tag was hilarious .
+   (ID: juls2587)
+
+3. i have the tlr-7 and i ’m not a fan of the button activation .
+   (ID: pandachestpress)
+
+4. i 'm in too , but only because i spot a hitchhikers fan .
+   (ID: Darth_Waiter)
+
+5. i then watched some of gundam seed stargazer .
+   (ID: dohko_xar)
+
+6. i watched a launch from a plane and can confirm it lit up the landscape .
+   (ID: middlegeek)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am an anime fan .
+   (ID: conversation_114)
+
+2. i am a huge fan of classical jazz .
+   (ID: conversation_227)
+
+
+============================================================

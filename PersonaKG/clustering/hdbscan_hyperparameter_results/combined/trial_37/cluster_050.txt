@@ -1,0 +1,41 @@
+CLUSTER 50
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.889
+
+Dataset distribution in this cluster:
+  PEC: 5 (83.3%)
+  PersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i hope i can look that badass one day .
+   (ID: chasemyers)
+
+2. i hope you are n't talking about charlie day
+   (ID: SamuelStephenBono)
+
+3. i hope for her sake that one day everyone can notice her new haircut .
+   (ID: Evref)
+
+4. i hope we get one one day .
+   (ID: BabblingBunny)
+
+5. i hope to experience this one day .
+   (ID: chasemyers)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i hope it to become a doctor one day .
+   (ID: conversation_21)
+
+
+============================================================

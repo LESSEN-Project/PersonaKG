@@ -1,0 +1,39 @@
+CLUSTER 31
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.981
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I do not have much energy.
+   (ID: conversation_246_user_2)
+
+2. I have allergies.
+   (ID: conversation_90_user_2)
+
+3. I m a older woman.
+   (ID: conversation_60_user_2)
+
+4. I am thin.
+   (ID: conversation_16_user_1)
+
+5. I am bloated.
+   (ID: conversation_30_user_1)
+
+6. I exercise 4 times a week.
+   (ID: conversation_27_user_2)
+
+7. I am lactose intolerant.
+   (ID: conversation_101_user_2)
+
+
+============================================================

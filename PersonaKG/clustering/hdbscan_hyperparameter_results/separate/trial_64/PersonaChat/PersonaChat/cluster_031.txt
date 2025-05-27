@@ -1,0 +1,45 @@
+CLUSTER 31
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.842
+
+Dataset distribution in this cluster:
+  PersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i have brown hair .
+   (ID: conversation_3)
+
+2. i believe in love at first sight .
+   (ID: conversation_242)
+
+3. i keep my hair cut very short .
+   (ID: conversation_222)
+
+4. when i cut loose , i lose control .
+   (ID: conversation_229)
+
+5. i believe that mermaids are real .
+   (ID: conversation_1)
+
+6. i cut down trees very fast , because i have a large ax .
+   (ID: conversation_51)
+
+7. my hair is as red as the sunset .
+   (ID: conversation_274)
+
+8. i believe in ghosts and have seen them on several occasions .
+   (ID: conversation_292)
+
+9. i do not believe in love .
+   (ID: conversation_190)
+
+
+============================================================

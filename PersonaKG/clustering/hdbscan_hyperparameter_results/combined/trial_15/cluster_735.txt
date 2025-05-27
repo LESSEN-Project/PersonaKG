@@ -1,0 +1,92 @@
+CLUSTER 735
+============================================================
+Total statements in cluster: 18
+Cluster persistence (stability): 0.787
+
+Dataset distribution in this cluster:
+  MPChat: 4 (22.2%)
+  MSC: 1 (5.6%)
+  PEC: 7 (38.9%)
+  PersonaChat: 3 (16.7%)
+  SyntheticPersonaChat: 3 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. the dog i walked is a natural born model
+   (ID: Gothblessyou)
+
+2. i have embroidered a sunday collar for our dog.
+   (ID: gelimausi)
+
+3. my dog poppy after finishing the bath she hated
+   (ID: HMoney214)
+
+4. i made this dog for my son.
+   (ID: gelimausi)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have a black lab dog named George. I do not have any children.
+   (ID: dialog_76_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i cried at this , moreso than fry 's dog .
+   (ID: Shrub74)
+
+2. i always called it a dog bone wrench .
+   (ID: rspewth)
+
+3. i sketched a dog cross unicorn .
+   (ID: exotics)
+
+4. i found three there while walking the dog .
+   (ID: deputydan_scubaman)
+
+5. i call my dog hairy fairy because she 's tiny and ... hairy
+   (ID: opalskys)
+
+6. i 'm fostering a dog and she ran off at an adoption event .
+   (ID: lilykin)
+
+7. i have the fallout the dog .
+   (ID: IAMEvanss)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i have a dog named socks .
+   (ID: conversation_172)
+
+2. i have a boxer dog .
+   (ID: conversation_6)
+
+3. i have a dog named bob .
+   (ID: conversation_27)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I have a dog that has behavioral issues.
+   (ID: conversation_124_user_1)
+
+2. My dog is the ring bearer.
+   (ID: conversation_179_user_2)
+
+3. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+
+============================================================

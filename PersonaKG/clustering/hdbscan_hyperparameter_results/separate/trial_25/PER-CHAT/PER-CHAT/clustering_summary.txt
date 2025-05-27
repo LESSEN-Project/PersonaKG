@@ -1,0 +1,48 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 8359
+Vectorization method: hybrid
+Number of clusters: 33
+Number of noise points: 7413 (88.7%)
+Analysis type: clusters
+Timestamp: 2025-05-27 15:29:25
+
+Dataset Distribution:
+  PER-CHAT: 8359 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 26: 130 statements (persistence: 0.444)
+  Cluster 14: 51 statements (persistence: 0.846)
+  Cluster 19: 44 statements (persistence: 0.846)
+  Cluster 29: 44 statements (persistence: 0.871)
+  Cluster 2: 43 statements (persistence: 0.763)
+  Cluster 30: 42 statements (persistence: 0.859)
+  Cluster 11: 39 statements (persistence: 0.942)
+  Cluster 6: 36 statements (persistence: 0.978)
+  Cluster 28: 35 statements (persistence: 0.941)
+  Cluster 32: 34 statements (persistence: 0.918)
+  Cluster 31: 32 statements (persistence: 0.923)
+  Cluster 3: 29 statements (persistence: 0.998)
+  Cluster 5: 27 statements (persistence: 0.969)
+  Cluster 27: 26 statements (persistence: 0.914)
+  Cluster 12: 25 statements (persistence: 0.959)
+  Cluster 16: 24 statements (persistence: 0.910)
+  Cluster 23: 24 statements (persistence: 0.930)
+  Cluster 0: 23 statements (persistence: 0.966)
+  Cluster 20: 23 statements (persistence: 0.944)
+  Cluster 24: 23 statements (persistence: 0.926)
+  Cluster 4: 20 statements (persistence: 0.971)
+  Cluster 18: 19 statements (persistence: 0.965)
+  Cluster 15: 18 statements (persistence: 0.987)
+  Cluster 21: 18 statements (persistence: 0.994)
+  Cluster 9: 16 statements (persistence: 0.986)
+  Cluster 13: 15 statements (persistence: 0.975)
+  Cluster 7: 14 statements (persistence: 0.979)
+  Cluster 25: 14 statements (persistence: 0.995)
+  Cluster 10: 13 statements (persistence: 0.993)
+  Cluster 22: 13 statements (persistence: 0.993)
+  Cluster 1: 11 statements (persistence: 1.000)
+  Cluster 8: 11 statements (persistence: 0.997)
+  Cluster 17: 10 statements (persistence: 1.000)

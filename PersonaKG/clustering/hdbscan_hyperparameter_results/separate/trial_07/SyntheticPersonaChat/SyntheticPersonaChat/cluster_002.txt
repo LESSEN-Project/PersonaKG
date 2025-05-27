@@ -1,0 +1,54 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 12 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 12
+
+1. I like being weird.
+   (ID: conversation_119_user_1)
+
+2. I like simple jokes.
+   (ID: conversation_224_user_2)
+
+3. I still have a thick accent so words like hippopotamus are difficult.
+   (ID: conversation_328_user_2)
+
+4. I like books about trains.
+   (ID: conversation_173_user_1)
+
+5. I like to swim.
+   (ID: conversation_4_user_1)
+
+6. I like to go shopping with my daughters.
+   (ID: conversation_40_user_2)
+
+7. I do not like coffee.
+   (ID: conversation_12_user_2)
+
+8. I like italian cusine.
+   (ID: conversation_158_user_2)
+
+9. I like to bake for them.
+   (ID: conversation_193_user_2)
+
+10. I do not like vegetables.
+   (ID: conversation_4_user_2)
+
+11. I like having my back scratched.
+   (ID: conversation_126_user_2)
+
+12. I like to arm wrestle.
+   (ID: conversation_259_user_2)
+
+
+============================================================

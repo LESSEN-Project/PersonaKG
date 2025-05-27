@@ -1,0 +1,42 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I prefer vinyl records to any other music recording format.
+   (ID: conversation_128_user_2)
+
+2. My wife use to be a teacher.
+   (ID: conversation_154_user_1)
+
+3. I prefer texting over phone calls.
+   (ID: conversation_41_user_2)
+
+4. I prefer iphone over samsung.
+   (ID: conversation_66_user_1)
+
+5. I like to use a lot of exclamation marks when i type.
+   (ID: conversation_122_user_2)
+
+6. I use a cane to help me get around.
+   (ID: conversation_25_user_1)
+
+7. I use to compete in beauty pageants.
+   (ID: conversation_118_user_2)
+
+8. I prefer headsets over earbuds.
+   (ID: conversation_14_user_2)
+
+
+============================================================

@@ -1,0 +1,42 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.977
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i love eating barbeque sandwiches and pizza puffs .
+   (ID: conversation_184)
+
+2. i love to eat pita bread with hummus .
+   (ID: conversation_277)
+
+3. i love hamburgers .
+   (ID: conversation_244)
+
+4. i love sushi .
+   (ID: conversation_362)
+
+5. nachos make me happy .
+   (ID: conversation_245)
+
+6. i recently discovered a new love for indian food .
+   (ID: conversation_45)
+
+7. i love hot wings .
+   (ID: conversation_82)
+
+8. i love eating shrimp , and i like to dip them into barbecue sauce .
+   (ID: conversation_174)
+
+
+============================================================

@@ -1,0 +1,48 @@
+CLUSTER 95
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (20.0%)
+  MSC: 2 (40.0%)
+  PersonaChat: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. Ferry rides are my favorite.
+   (ID: NETYMHGQTGLI_9)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. My favorite cuisine is thai.
+   (ID: dialog_23_speaker_2)
+
+2. Pepperoni is my favorite topping.
+   (ID: dialog_23_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. nike cleats are my favorite .
+   (ID: conversation_62)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My favorite show is battlestar galactica.
+   (ID: conversation_55_user_2)
+
+
+============================================================

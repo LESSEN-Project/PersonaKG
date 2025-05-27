@@ -1,0 +1,197 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 79
+Cluster persistence (stability): 0.823
+
+Dataset distribution in this cluster:
+  MSC: 8 (10.1%)
+  PEC: 21 (26.6%)
+  PER-CHAT: 45 (57.0%)
+  PersonaChat: 4 (5.1%)
+  SyntheticPersonaChat: 1 (1.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 8
+
+1. My name is Jake.
+   (ID: dialog_100_speaker_2)
+
+2. My name is Kim.
+   (ID: dialog_107_speaker_2)
+
+3. I play Prince of Persia.
+   (ID: dialog_31_speaker_2)
+
+4. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+5. I'm manly.
+   (ID: dialog_115_speaker_1)
+
+6. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+7. My name is Mark.
+   (ID: dialog_151_speaker_1)
+
+8. My name is Vladimir.
+   (ID: dialog_100_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 21
+
+1. i 'm groot !
+   (ID: meteoriteminer)
+
+2. i am messiahsez .
+   (ID: ddshroom)
+
+3. i am peanut butter and jelly .
+   (ID: CuriousBlueAbra)
+
+4. i 'm jordan ward !
+   (ID: amirman)
+
+5. i am steve rogers
+   (ID: Question-everythings)
+
+6. i 'm a shepard .
+   (ID: jesuschrysler)
+
+7. i 'm k - boy
+   (ID: GitFloowSnaake)
+
+8. i 'm a robot .
+   (ID: amirman)
+
+9. i am confu - shan
+   (ID: saharaspberry)
+
+10. i 'm also caldari .
+   (ID: coocha)
+
+11. i � � ️ m
+   (ID: Takumi-Fujiwara)
+
+12. i 'm a ma2 player .
+   (ID: squaresaltine32314)
+
+13. i 'm plat / diamond zerg .
+   (ID: dohko_xar)
+
+14. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+15. i 'm butcherpete .
+   (ID: JacredCat)
+
+16. i am simpson .
+   (ID: Byde)
+
+17. i am skuld .
+   (ID: Ooer)
+
+18. i ’m a jafa
+   (ID: windowcircle)
+
+19. i am the king of space .
+   (ID: Byde)
+
+20. i 'm batman !
+   (ID: pissin_in_the_wind)
+
+
+--- PER-CHAT ---
+Total from this dataset: 45
+
+1. I am culchie.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+2. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+3. I am ace.
+   (ID: 4eddf833981a5600b4abc53d564950e97ee755c4)
+
+4. I am threat to the world.
+   (ID: 98df62eadd0a0c80a6084d5e352985209b46cce9)
+
+5. I am agent of chaos.
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
+
+6. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+7. I am lee sin player.
+   (ID: 1dba5a99fe582b0f335d63ef3d25fee74ce4dd18)
+
+8. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+9. I am arena.
+   (ID: ac16118040bd30364df28924a08320a2668f71ae)
+
+10. I am zeus_noose.
+   (ID: 05338cf139796c93d123a19ed732a1222e642034)
+
+11. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+12. I am dong.
+   (ID: dde927921ad21c76b0d3c0bb6e7a98b4ad9324ef)
+
+13. I am bwl.
+   (ID: ddbcd7b957a26c37891ce72069afaf688ba19977)
+
+14. I play warframe.
+   (ID: 0328413fb9fd5eff68cef63593bfc5537e85c2e8)
+
+15. I am aryan.
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+16. I am real life aquaman.
+   (ID: e7189ea885d9f7e9cdbd71ff2f2035f07ebaf6db)
+
+17. I am v.
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+18. I am chaser.
+   (ID: cdfe8425c4239c926bbc69037b1e955de45be4ba)
+
+19. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+20. I am igl.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. my name is todd .
+   (ID: conversation_119)
+
+2. my name is omar .
+   (ID: conversation_42)
+
+3. my name is gerald .
+   (ID: conversation_207)
+
+4. my name is arnold .
+   (ID: conversation_430)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My name is nancy.
+   (ID: conversation_58_user_2)
+
+
+============================================================

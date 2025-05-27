@@ -1,0 +1,68 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.976
+
+Dataset distribution in this cluster:
+  FoCus: 6 (60.0%)
+  MSC: 1 (10.0%)
+  PEC: 1 (10.0%)
+  PersonaChat: 1 (10.0%)
+  SyntheticPersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 6
+
+1. I have visited the Canadian National Exhibition Stadium.
+   (ID: NMEFJE64KZ1F_11)
+
+2. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+3. I have been to California.
+   (ID: UC6WD3SK3PG8_11)
+
+4. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+5. I have visited Austria many times.
+   (ID: YLLQOXHD6MZC_7)
+
+6. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 've been to middle east.beautiful town in sweden
+   (ID: ChallengeTaken99)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+
+============================================================

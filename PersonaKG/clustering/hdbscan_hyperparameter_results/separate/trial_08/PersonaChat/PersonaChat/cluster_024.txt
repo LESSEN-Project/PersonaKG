@@ -1,0 +1,36 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.933
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i wish i could be more serious about school .
+   (ID: conversation_131)
+
+2. i wish i had a real dragon i could train .
+   (ID: conversation_31)
+
+3. i wish i could live forever .
+   (ID: conversation_85)
+
+4. i wish i was a tiger .
+   (ID: conversation_156)
+
+5. i wish i could take back a mistake .
+   (ID: conversation_147)
+
+6. i wish i knew where i belonged .
+   (ID: conversation_66)
+
+
+============================================================

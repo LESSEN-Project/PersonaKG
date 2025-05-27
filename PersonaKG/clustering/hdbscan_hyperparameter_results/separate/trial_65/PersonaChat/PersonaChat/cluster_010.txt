@@ -1,0 +1,45 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.993
+
+Dataset distribution in this cluster:
+  PersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i hope to change the world .
+   (ID: conversation_125)
+
+2. i'm hoping to move to australia soon to marry my boyfriend .
+   (ID: conversation_77)
+
+3. i wish i could take back a mistake .
+   (ID: conversation_147)
+
+4. my dream is to move to the middle of the desert .
+   (ID: conversation_92)
+
+5. i want to grow up to be a superhero one day .
+   (ID: conversation_119)
+
+6. i wish i was a tiger .
+   (ID: conversation_156)
+
+7. i wish i could live forever .
+   (ID: conversation_85)
+
+8. i hope it to become a doctor one day .
+   (ID: conversation_21)
+
+9. before i die , i want to skydive .
+   (ID: conversation_50)
+
+
+============================================================

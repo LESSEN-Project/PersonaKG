@@ -1,0 +1,60 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.931
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 14 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 14
+
+1. I love agatha christie novels.
+   (ID: conversation_49_user_2)
+
+2. My favorite movie is titanic.
+   (ID: conversation_43_user_2)
+
+3. My favorite is rock fish.
+   (ID: conversation_157_user_1)
+
+4. 1984 is my favorite book.
+   (ID: conversation_126_user_1)
+
+5. I like books about trains.
+   (ID: conversation_173_user_1)
+
+6. I like thomas the tank engine.
+   (ID: conversation_173_user_1)
+
+7. I like the movie godfather.
+   (ID: conversation_21_user_1)
+
+8. I am a fisherman.
+   (ID: conversation_157_user_1)
+
+9. My poppa has a train set that i play with.
+   (ID: conversation_173_user_1)
+
+10. My favorite book is david copperfield.
+   (ID: conversation_19_user_2)
+
+11. I have a beta fish.
+   (ID: conversation_82_user_1)
+
+12. I like victorian things.
+   (ID: conversation_122_user_1)
+
+13. I enjoy watching mystery movies.
+   (ID: conversation_36_user_2)
+
+14. I can t eat shrimp.
+   (ID: conversation_19_user_1)
+
+
+============================================================

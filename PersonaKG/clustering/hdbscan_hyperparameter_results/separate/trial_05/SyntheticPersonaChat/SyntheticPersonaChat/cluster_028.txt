@@ -1,0 +1,36 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I have a black purse.
+   (ID: conversation_70_user_2)
+
+2. My truck is black.
+   (ID: conversation_1_user_2)
+
+3. My favorite flower is a lily.
+   (ID: conversation_91_user_1)
+
+4. My favorite season is spring.
+   (ID: conversation_64_user_2)
+
+5. My favorite color is black.
+   (ID: conversation_13_user_2)
+
+6. Pink is my favorite color.
+   (ID: conversation_99_user_2)
+
+
+============================================================

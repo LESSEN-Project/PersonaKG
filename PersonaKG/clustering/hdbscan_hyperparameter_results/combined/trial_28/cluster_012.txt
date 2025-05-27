@@ -1,0 +1,256 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 71
+Cluster persistence (stability): 0.974
+
+Dataset distribution in this cluster:
+  FoCus: 10 (14.1%)
+  MSC: 9 (12.7%)
+  PEC: 13 (18.3%)
+  PER-CHAT: 20 (28.2%)
+  PersonaChat: 14 (19.7%)
+  SyntheticPersonaChat: 5 (7.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 10
+
+1. I am currently working in security.
+   (ID: YRJ6RB6JCWMA_11)
+
+2. I am born in Pennsylvania.
+   (ID: 97WAFKFECFDE_9)
+
+3. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+4. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+5. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+6. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+7. I'm a CEO.
+   (ID: E3UZAGT5DTE5_11)
+
+8. I have visited Austria many times.
+   (ID: YLLQOXHD6MZC_7)
+
+9. I have visited Soap Lake last year.
+   (ID: E6FC9U7LUUT3_11)
+
+10. I visited Frankford last year.
+   (ID: HK4CNKBL5R5V_11)
+
+
+--- MSC ---
+Total from this dataset: 9
+
+1. My name is Bill. I grew up in Alabama.
+   (ID: dialog_53_speaker_1)
+
+2. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+3. I run a prison. I am retired.
+   (ID: dialog_95_speaker_1)
+
+4. My name is Vladimir.
+   (ID: dialog_100_speaker_1)
+
+5. I was born in moscow.
+   (ID: dialog_113_speaker_1)
+
+6. My name is Jake.
+   (ID: dialog_100_speaker_2)
+
+7. I work on the line with machines.
+   (ID: dialog_44_speaker_2)
+
+8. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+9. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 13
+
+1. i 'm jordan ward !
+   (ID: amirman)
+
+2. i make hats .
+   (ID: Piraticalstyle)
+
+3. i am the dark one .
+   (ID: combover)
+
+4. i was in prague for a while in 1996 .
+   (ID: wooq)
+
+5. i 'm groot !
+   (ID: meteoriteminer)
+
+6. i 'm your huckleberry .
+   (ID: Thenewfoundlanders)
+
+7. i am skuld .
+   (ID: Ooer)
+
+8. i am messiahsez .
+   (ID: ddshroom)
+
+9. i 'm a robot .
+   (ID: amirman)
+
+10. i 'm baaack !
+   (ID: notthruyet)
+
+11. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+12. i 'm from the us but i went to a norwegian college .
+   (ID: juliacakes)
+
+13. i 'm butcherpete .
+   (ID: JacredCat)
+
+
+--- PER-CHAT ---
+Total from this dataset: 20
+
+1. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+2. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+3. I am king   orcs.
+   (ID: 5fa74a7d6a70c6f2f8a149864f494ac72eefd3e4)
+
+4. I am threat to the world.
+   (ID: 98df62eadd0a0c80a6084d5e352985209b46cce9)
+
+5. I am arthur morgan.
+   (ID: 6573f6a8f26b8c23dc16d278f5c2c32e67af1e5b)
+
+6. I am villain.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+7. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+8. I am agent of chaos.
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
+
+9. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+10. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+11. I am albanian.
+   (ID: 41fc1b2c09d5a16a25f120edde55b2a6e2e54e29)
+
+12. I am altmer mage.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+13. I am bird of prey.
+   (ID: 162574c7cc4882122c2781c596a51e5023f21691)
+
+14. I am scott.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+15. I am aryan.
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+16. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+17. I am v.
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+18. I am derp.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+19. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+20. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+
+--- PersonaChat ---
+Total from this dataset: 14
+
+1. i work on cars for a living .
+   (ID: conversation_18)
+
+2. i have a marketing job .
+   (ID: conversation_267)
+
+3. i work as a stand up comedian .
+   (ID: conversation_2)
+
+4. i work as a vet .
+   (ID: conversation_282)
+
+5. my name is todd .
+   (ID: conversation_119)
+
+6. i work for a large law firm .
+   (ID: conversation_30)
+
+7. my name is omar .
+   (ID: conversation_42)
+
+8. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+9. i work at a smoothie shop .
+   (ID: conversation_12)
+
+10. i used to work for a cable company .
+   (ID: conversation_76)
+
+11. i work many hours .
+   (ID: conversation_8)
+
+12. my name is gerald .
+   (ID: conversation_207)
+
+13. i was born in baton rouge .
+   (ID: conversation_138)
+
+14. i currently work at target .
+   (ID: conversation_160)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I deliver packages for a living.
+   (ID: conversation_228_user_2)
+
+2. My name is nancy.
+   (ID: conversation_58_user_2)
+
+3. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+4. I work on wall street.
+   (ID: conversation_148_user_2)
+
+5. My name is arnold.
+   (ID: conversation_5_user_2)
+
+
+============================================================

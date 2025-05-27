@@ -1,0 +1,68 @@
+CLUSTER 276
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.991
+
+Dataset distribution in this cluster:
+  FoCus: 1 (10.0%)
+  MSC: 2 (20.0%)
+  PEC: 1 (10.0%)
+  PersonaChat: 5 (50.0%)
+  SyntheticPersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I like to go to Church.
+   (ID: Z8RPC24EURS4_7)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I like to get dressed up.
+   (ID: dialog_0_speaker_2)
+
+2. I like to move it to music.
+   (ID: dialog_28_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'd like the cover system to be fleshed out
+   (ID: oussamarer)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i like basketball .
+   (ID: conversation_8)
+
+2. i like to party .
+   (ID: conversation_7)
+
+3. i like to go hunting .
+   (ID: conversation_0)
+
+4. i like to travel .
+   (ID: conversation_9)
+
+5. i like to cook .
+   (ID: conversation_17)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I like to bowl.
+   (ID: conversation_23_user_2)
+
+
+============================================================

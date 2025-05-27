@@ -1,0 +1,48 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i love sunsets .
+   (ID: conversation_148)
+
+2. i love collecting teapots .
+   (ID: conversation_73)
+
+3. i love sharks .
+   (ID: conversation_65)
+
+4. i love to crochet .
+   (ID: conversation_5)
+
+5. i love bicycling .
+   (ID: conversation_3)
+
+6. i love to sing .
+   (ID: conversation_10)
+
+7. i love my girlfriend .
+   (ID: conversation_81)
+
+8. i love to larp .
+   (ID: conversation_74)
+
+9. i love pandas .
+   (ID: conversation_88)
+
+10. i love animals .
+   (ID: conversation_11)
+
+
+============================================================

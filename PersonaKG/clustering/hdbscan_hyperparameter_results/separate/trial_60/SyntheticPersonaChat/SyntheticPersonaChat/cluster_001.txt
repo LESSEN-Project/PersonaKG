@@ -1,0 +1,33 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I can recite the movie young frankenstein word for word.
+   (ID: conversation_2_user_2)
+
+2. I can read in english and french.
+   (ID: conversation_156_user_2)
+
+3. I can type 140 words per minute.
+   (ID: conversation_250_user_2)
+
+4. I am incredibly smart.
+   (ID: conversation_9_user_2)
+
+5. I talk very fast.
+   (ID: conversation_250_user_2)
+
+
+============================================================

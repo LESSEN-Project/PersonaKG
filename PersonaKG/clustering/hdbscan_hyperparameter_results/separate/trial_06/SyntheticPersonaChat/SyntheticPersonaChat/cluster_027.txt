@@ -1,0 +1,33 @@
+CLUSTER 27
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. Pink is my favorite color.
+   (ID: conversation_99_user_2)
+
+2. My favorite flower is a lily.
+   (ID: conversation_91_user_1)
+
+3. My favorite season is spring.
+   (ID: conversation_64_user_2)
+
+4. Yellow is my favorite color.
+   (ID: conversation_234_user_2)
+
+5. My favorite color is black.
+   (ID: conversation_13_user_2)
+
+
+============================================================

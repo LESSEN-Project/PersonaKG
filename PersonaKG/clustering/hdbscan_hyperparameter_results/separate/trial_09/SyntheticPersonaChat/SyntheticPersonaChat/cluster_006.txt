@@ -1,0 +1,39 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. We live in a rural area.
+   (ID: conversation_57_user_2)
+
+2. I live alone in my condo.
+   (ID: conversation_39_user_2)
+
+3. I live to not disappoint my loved ones.
+   (ID: conversation_8_user_1)
+
+4. I live a lie.
+   (ID: conversation_288_user_1)
+
+5. I live in nashville.
+   (ID: conversation_390_user_2)
+
+6. I live in north dakota.
+   (ID: conversation_8_user_2)
+
+7. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

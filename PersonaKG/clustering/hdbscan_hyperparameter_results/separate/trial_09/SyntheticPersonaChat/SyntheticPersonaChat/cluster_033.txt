@@ -1,0 +1,45 @@
+CLUSTER 33
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.677
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 9
+
+1. I take pride in my job managing the restaurant.
+   (ID: conversation_47_user_2)
+
+2. I had to get a job early as a child.
+   (ID: conversation_117_user_2)
+
+3. My next job will be in the federal court.
+   (ID: conversation_194_user_2)
+
+4. I have a job as a dj at a radio station.
+   (ID: conversation_25_user_1)
+
+5. I got a new job.
+   (ID: conversation_110_user_1)
+
+6. I m looking for a job.
+   (ID: conversation_70_user_1)
+
+7. I just lost my job and i m looking for something new.
+   (ID: conversation_317_user_1)
+
+8. I can t hold down a job for very long.
+   (ID: conversation_498_user_2)
+
+9. I am currently looking for a job in baltimore.
+   (ID: conversation_258_user_2)
+
+
+============================================================

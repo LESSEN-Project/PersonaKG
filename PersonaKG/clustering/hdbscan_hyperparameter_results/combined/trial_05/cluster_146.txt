@@ -1,0 +1,43 @@
+CLUSTER 146
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 1 (20.0%)
+  MSC: 2 (40.0%)
+  PEC: 2 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. competed in my first triangulation.
+   (ID: Beardedlantern)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I played on the basketball team in middle school. I was cut from the team.
+   (ID: dialog_8_speaker_1)
+
+2. I shot an arrow the other day!.
+   (ID: dialog_0_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i was the monk .
+   (ID: CheapyPipe)
+
+2. i was a drama queen trainwreck .
+   (ID: gigatroness)
+
+
+============================================================

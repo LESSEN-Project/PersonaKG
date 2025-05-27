@@ -1,0 +1,43 @@
+CLUSTER 356
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PER-CHAT: 3 (60.0%)
+  PersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. sooooo . what  s the middle ?
+   (ID: ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9)
+
+2. in what country can i find europe  lessons ?
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+3. which european country are you from , coincidentally not of the nordics are you ?
+   (ID: b5bfc53fa7245451bad229f942e351fdc7360321)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my dream is to move to the middle of the desert .
+   (ID: conversation_92)
+
+
+============================================================

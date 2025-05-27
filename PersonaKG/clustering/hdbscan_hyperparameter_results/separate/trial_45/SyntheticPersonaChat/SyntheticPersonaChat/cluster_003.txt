@@ -1,0 +1,33 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I have a cat.
+   (ID: conversation_16_user_2)
+
+2. My two dogs are the best friends a girl could have.
+   (ID: conversation_136_user_2)
+
+3. I have a pet snake.
+   (ID: conversation_82_user_2)
+
+4. I love my dog.
+   (ID: conversation_21_user_2)
+
+5. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+
+============================================================

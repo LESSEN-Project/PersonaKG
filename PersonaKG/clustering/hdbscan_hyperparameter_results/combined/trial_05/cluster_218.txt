@@ -1,0 +1,46 @@
+CLUSTER 218
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 3 (50.0%)
+  PersonaChat: 2 (33.3%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i recognized your mother
+   (ID: WiseScratch)
+
+2. i made out with lady gaga if that counts for anything .
+   (ID: glowinthedark)
+
+3. i had lovers in my 20s , 30s , 40s and met my husband when i was 51 .
+   (ID: parkleswife)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i met my birth mother when i was sixteen .
+   (ID: conversation_180)
+
+2. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I married my highschool sweetheart.
+   (ID: conversation_99_user_2)
+
+
+============================================================

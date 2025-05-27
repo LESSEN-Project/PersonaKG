@@ -1,0 +1,49 @@
+CLUSTER 93
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.844
+
+Dataset distribution in this cluster:
+  MSC: 2 (28.6%)
+  PersonaChat: 2 (28.6%)
+  SyntheticPersonaChat: 3 (42.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. My favorite subject is psychology.
+   (ID: dialog_23_speaker_1)
+
+2. My favorite novel is about a who realizes he's a commander.
+   (ID: dialog_11_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+2. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+2. My favorite flower is a lily.
+   (ID: conversation_91_user_1)
+
+3. My favorite movie is titanic.
+   (ID: conversation_43_user_2)
+
+
+============================================================

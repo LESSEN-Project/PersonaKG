@@ -1,0 +1,155 @@
+CLUSTER 64
+============================================================
+Total statements in cluster: 39
+Cluster persistence (stability): 0.815
+
+Dataset distribution in this cluster:
+  MPChat: 6 (15.4%)
+  MSC: 7 (17.9%)
+  PEC: 1 (2.6%)
+  PersonaChat: 18 (46.2%)
+  SyntheticPersonaChat: 7 (17.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 6
+
+1. monster cakes are my favorite!
+   (ID: Learning2Grow)
+
+2. hi here is one of my favorite polymer clay brooches what i made
+   (ID: czbaterka)
+
+3. my favorite pizza at my favorite local brewery-phoenix rising bakery/chestnut brew works
+   (ID: onemantwohands)
+
+4. we made one of my favorite street foods in bolivia.
+   (ID: onemantwohands)
+
+5. not my favorite pour, but she's a cutie.
+   (ID: SilentRansom)
+
+6. made a few incense smokers and this tree stump is my favorite!
+   (ID: kilnmenow)
+
+
+--- MSC ---
+Total from this dataset: 7
+
+1. My favorite normal breakfast is pancakes with blueberries and strawberries.
+   (ID: dialog_107_speaker_2)
+
+2. Guns and roses is my favorite band.
+   (ID: dialog_6_speaker_1)
+
+3. Acdc is my favorite band.
+   (ID: dialog_139_speaker_1)
+
+4. My favorite song of judas priest is painkiller.
+   (ID: dialog_159_speaker_1)
+
+5. My favorite Pearl Jam song is Corduroy.
+   (ID: dialog_41_speaker_1)
+
+6. Catching walleye is a favorite sport of mine.
+   (ID: dialog_81_speaker_1)
+
+7. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm commander shepard , and this is my favorite street in hampton , virginia .
+   (ID: Machinax)
+
+
+--- PersonaChat ---
+Total from this dataset: 18
+
+1. my favorite flower is a rose .
+   (ID: conversation_129)
+
+2. my favorite car is the ford mustang .
+   (ID: conversation_185)
+
+3. starbucks is my favorite hang out spot .
+   (ID: conversation_455)
+
+4. i favorite brand of clothing is donna karen .
+   (ID: conversation_213)
+
+5. my favorite color is blue .
+   (ID: conversation_23)
+
+6. my favorite jello is the blue one .
+   (ID: conversation_236)
+
+7. my favorite artist was prince .
+   (ID: conversation_439)
+
+8. my favorite beer is coors .
+   (ID: conversation_321)
+
+9. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+10. my favorite book is david copperfield .
+   (ID: conversation_57)
+
+11. my favorite player is mike trout .
+   (ID: conversation_103)
+
+12. 1984 is my favorite book .
+   (ID: conversation_347)
+
+13. my favorite band is up .
+   (ID: conversation_329)
+
+14. my favorite food is popcorn .
+   (ID: conversation_15)
+
+15. my favorite pizza is pepperoni .
+   (ID: conversation_206)
+
+16. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+17. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+18. my favorite hobby is chess .
+   (ID: conversation_149)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+2. My favorite store is american eagle.
+   (ID: conversation_4_user_2)
+
+3. Ariel is my favorite princess.
+   (ID: conversation_407_user_2)
+
+4. Superfans my favorite super hero.
+   (ID: conversation_291_user_2)
+
+5. My favorite place is the mountains.
+   (ID: conversation_441_user_1)
+
+6. My favorite fruit is apple.
+   (ID: conversation_277_user_1)
+
+7. My favorite is rock fish.
+   (ID: conversation_157_user_1)
+
+
+============================================================

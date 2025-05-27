@@ -1,0 +1,190 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 64
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  FoCus: 9 (14.1%)
+  MSC: 2 (3.1%)
+  PEC: 12 (18.8%)
+  PER-CHAT: 35 (54.7%)
+  PersonaChat: 5 (7.8%)
+  SyntheticPersonaChat: 1 (1.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 9
+
+1. I wish to go for a tour to Columbia River Plateau.
+   (ID: E6FC9U7LUUT3_11)
+
+2. I would like to go to Charleston soon.
+   (ID: 9YNT3NN8EKNX_11)
+
+3. I am living in Citrus from my birth.
+   (ID: OII32NSNR2Q2_7)
+
+4. I am living in Cambusbarron.
+   (ID: X4XPZG2COY57_11)
+
+5. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+6. I would like to visit Banja of Peja at the end of the year.
+   (ID: LYYSTNQ9MBLY_11)
+
+7. I would like to visit chicago and chicago park district.
+   (ID: QRRS2THODNM3_11)
+
+8. I live in Wollongong.
+   (ID: EXXMSRQDF6PN_11)
+
+9. I wish to visit the state of Alaska one day.
+   (ID: 8UN3RBB53NGU_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. Iam in the sticks.
+   (ID: dialog_184_speaker_1)
+
+2. I would like to travel to Florida.
+   (ID: dialog_46_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 12
+
+1. i 'm in peoria !
+   (ID: FridaysChild219)
+
+2. i live in moorestown , it 's like right down the road .
+   (ID: TylerC_D)
+
+3. i live right on colfax by the ogden .
+   (ID: jmontoya5280)
+
+4. i live at the waterfront in plymouth .
+   (ID: mass08)
+
+5. i live in dublin .
+   (ID: Nimmyzed)
+
+6. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+7. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
+
+8. i up am by pigeon lake - just south of edmonton ..
+   (ID: exotics)
+
+9. i 'm from nj .
+   (ID: DoctorRichardNygard)
+
+10. i live in ohio !
+   (ID: GetItTogether)
+
+11. i live in sa right now .
+   (ID: SamuelStephenBono)
+
+12. i live near buffalo and flamingo .
+   (ID: maullove)
+
+
+--- PER-CHAT ---
+Total from this dataset: 35
+
+1. I live in edge dogs.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+2. I live in stumptown  years.
+   (ID: 338e964d6f616e85c5b26cf7b63ec2dba22cf7ba)
+
+3. I live in on tip.
+   (ID: 5078613a782f11088cff05f4503056b040cea999)
+
+4. I live in venice.
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+5. I live in era.
+   (ID: 2cfcabf07be1420284c0b650fae1643abc6e2bc4)
+
+6. I live in from costal places.
+   (ID: 7cf18036f93dc6fc68e7a501c52e0ff5501b36e5)
+
+7. I live in portland.
+   (ID: 20b71c431f98b1f88ec1b3e7ada79d31df65a8c2)
+
+8. I live in grizzly.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+9. I live in lava island.
+   (ID: e82ed26542949c55066d4b6510733c7a5f847704)
+
+10. I live in nike.
+   (ID: fa9acab3fbd86b1f64e6380ef31b49912dae0c74)
+
+11. I live in manboobs.
+   (ID: 2e1439e8eb18b181a69a66cc4c1b2dc22ce774f0)
+
+12. I live in mercury.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+13. I live in las cruces 😂😂.
+   (ID: a92e31c7bf57848bffc03edea3f897eca709861a)
+
+14. I live in bush.
+   (ID: fb5e95e954b3ee83c39276138f0fa3b854970db4)
+
+15. I live in johor.
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+16. I live in trois-rivières.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+17. I live in dprk.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+18. I live in sam.
+   (ID: 109fa004cbb85f6a703624f8b4393d7d7d685509)
+
+19. I live in istanbul.
+   (ID: c63be1429c6442ee9219ae1573b45fc7a40d22f2)
+
+20. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i am from sterling heights , michigan .
+   (ID: conversation_472)
+
+2. i live in nashville .
+   (ID: conversation_117)
+
+3. i come from a small town .
+   (ID: conversation_2)
+
+4. i've a timeshare in mexico .
+   (ID: conversation_413)
+
+5. i live in rural wisconsin .
+   (ID: conversation_15)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

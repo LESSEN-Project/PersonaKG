@@ -1,0 +1,58 @@
+CLUSTER 510
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 5 (50.0%)
+  PersonaChat: 3 (30.0%)
+  SyntheticPersonaChat: 2 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I enjoy riding around on a plank with wheels.
+   (ID: dialog_94_speaker_1)
+
+2. I enjoy ensnaring sea creatures and watching them suffocate in my bucket.
+   (ID: dialog_166_speaker_1)
+
+3. I enjoy being part of the crowd.
+   (ID: dialog_16_speaker_2)
+
+4. I enjoy being fake.
+   (ID: dialog_50_speaker_1)
+
+5. I enjoy classic literature.
+   (ID: dialog_57_speaker_2)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i enjoy eating pumpkins .
+   (ID: conversation_174)
+
+2. i enjoy shopping .
+   (ID: conversation_71)
+
+3. i especially enjoy listening to the band the mutineers .
+   (ID: conversation_163)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I enjoy clothing with exotic prints.
+   (ID: conversation_415_user_2)
+
+2. I enjoy my steaks cooked medium rare.
+   (ID: conversation_231_user_2)
+
+
+============================================================

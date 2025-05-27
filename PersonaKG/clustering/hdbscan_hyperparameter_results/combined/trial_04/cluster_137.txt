@@ -1,0 +1,145 @@
+CLUSTER 137
+============================================================
+Total statements in cluster: 131
+Cluster persistence (stability): 0.675
+
+Dataset distribution in this cluster:
+  MPChat: 2 (1.5%)
+  MSC: 2 (1.5%)
+  PEC: 117 (89.3%)
+  PER-CHAT: 5 (3.8%)
+  PersonaChat: 3 (2.3%)
+  SyntheticPersonaChat: 2 (1.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i think she ate too much spinach...
+   (ID: River_Lethe)
+
+2. i think he likes it
+   (ID: CollegeSleezeball)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I think most scary monsters are serious.
+   (ID: dialog_54_speaker_2)
+
+2. I think that I am bipolar.
+   (ID: dialog_43_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 117
+
+1. i think it 's a napping puppy .
+   (ID: CheapyPipe)
+
+2. i think that 's an egg .
+   (ID: parkleswife)
+
+3. i think they both smell the same
+   (ID: iToaditSo)
+
+4. i think he ’s angry
+   (ID: PepperPixie09)
+
+5. i think we should call him the original dave :)
+   (ID: conservative_poly)
+
+6. i think we have a winner , folks .
+   (ID: StinkinFinger)
+
+7. i think this should be the meme of 2017 .
+   (ID: IgnoranceIsAVirus)
+
+8. i think that 's a false equivalence .
+   (ID: IncredibleBulk2)
+
+9. i think my head is about to explode .
+   (ID: chasemyers)
+
+10. i think that is what they are pointing out .
+   (ID: ItGetsAwkward)
+
+11. i think i may have a touch of consumption .
+   (ID: Kellen1337)
+
+12. i think this is awesome .
+   (ID: mostlikelyto___)
+
+13. i think that 's an act though .
+   (ID: redandblack555)
+
+14. i think this is the worst one !
+   (ID: SeasonedLemur)
+
+15. i think it 's about control and being kewel .
+   (ID: RelaxedSociety)
+
+16. i do n't think you 're cheating .
+   (ID: ItGetsAwkward)
+
+17. i think that 's how it was made to be eaten though !
+   (ID: sillylionface)
+
+18. i think i made it in the middle of 2017 .
+   (ID: beautifulw0man)
+
+19. i would think some maker , not apple , could do it for much much less .
+   (ID: dammitOtto)
+
+20. i think this is a craigslist scam
+   (ID: jbasta93)
+
+
+--- PER-CHAT ---
+Total from this dataset: 5
+
+1. the sky . whatever the weather , i think it would be nice to see what they think of it .
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+2. i think you made a mistake there
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+3. i ' d rather not be high and think about all them germs .
+   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+
+4. well is it only when you think about kissing her that you think about being a guy ?
+   (ID: 55510b17a4f0d7b5820e6f21287525ef6cd60994)
+
+5. do you think about breathing too ?
+   (ID: 617a45b75601128e5c804bd8ca6b8e525a4aa02d)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i am not afraid of what others think .
+   (ID: conversation_37)
+
+2. i think food trucks are awesome .
+   (ID: conversation_232)
+
+3. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I think the moon landing was faked.
+   (ID: conversation_250_user_2)
+
+2. I think recycling is important.
+   (ID: conversation_74_user_2)
+
+
+============================================================

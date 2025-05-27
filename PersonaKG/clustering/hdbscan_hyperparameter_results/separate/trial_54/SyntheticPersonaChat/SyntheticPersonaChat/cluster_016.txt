@@ -1,0 +1,33 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My favorite book is david copperfield.
+   (ID: conversation_19_user_2)
+
+2. Pizza is my most favorite thing.
+   (ID: conversation_129_user_2)
+
+3. My favorite movie is titanic.
+   (ID: conversation_43_user_2)
+
+4. 1984 is my favorite book.
+   (ID: conversation_126_user_1)
+
+5. My favorite is rock fish.
+   (ID: conversation_157_user_1)
+
+
+============================================================

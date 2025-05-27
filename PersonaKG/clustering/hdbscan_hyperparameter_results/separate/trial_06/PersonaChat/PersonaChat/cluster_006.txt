@@ -1,0 +1,33 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i'm allergic to dust .
+   (ID: conversation_210)
+
+2. i often worry about where to park when i go somewhere new .
+   (ID: conversation_232)
+
+3. i m scared of clowns .
+   (ID: conversation_17)
+
+4. i am afraid of the dark .
+   (ID: conversation_61)
+
+5. i m scared of left turns .
+   (ID: conversation_264)
+
+
+============================================================

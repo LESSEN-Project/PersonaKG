@@ -1,0 +1,62 @@
+CLUSTER 291
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.879
+
+Dataset distribution in this cluster:
+  MSC: 1 (12.5%)
+  PEC: 2 (25.0%)
+  PER-CHAT: 3 (37.5%)
+  PersonaChat: 1 (12.5%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I play Prince of Persia.
+   (ID: dialog_31_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i play via emulator on my pc with 2x scaling .
+   (ID: JohnnyPappis)
+
+2. i 'm currently using an icepack plus paper towels to play borderlands 2 .
+   (ID: bmeckel)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I play rust.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+2. play with my boobs
+   (ID: ba0e9130abfdb05aa7eedd989650338802035edd)
+
+3. drink whiskey and play video games .
+   (ID: 5bf69e8a91457991a99f2cc3f9248ca16f27a0d5)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i play d and d .
+   (ID: conversation_54)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I play bingo every wednesday with my husband.
+   (ID: conversation_24_user_2)
+
+
+============================================================

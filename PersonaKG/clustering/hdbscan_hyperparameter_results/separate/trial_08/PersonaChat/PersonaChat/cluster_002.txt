@@ -1,0 +1,36 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.899
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. both my parents were teachers .
+   (ID: conversation_19)
+
+2. i hate my parents , but i love my job .
+   (ID: conversation_66)
+
+3. my parents were like this as well .
+   (ID: conversation_110)
+
+4. my parents recently moved to florida .
+   (ID: conversation_46)
+
+5. while both my parents have thick european accents , i do not .
+   (ID: conversation_87)
+
+6. i still live with my parents .
+   (ID: conversation_24)
+
+
+============================================================

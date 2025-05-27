@@ -1,0 +1,83 @@
+CLUSTER 32
+============================================================
+Total statements in cluster: 15
+Cluster persistence (stability): 0.943
+
+Dataset distribution in this cluster:
+  MSC: 1 (6.7%)
+  PEC: 1 (6.7%)
+  PER-CHAT: 10 (66.7%)
+  PersonaChat: 2 (13.3%)
+  SyntheticPersonaChat: 1 (6.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I live in Florida. I have contacts in Alabama.
+   (ID: dialog_85_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i live beachside in daytona and wind damage was severe
+   (ID: ludaa)
+
+
+--- PER-CHAT ---
+Total from this dataset: 10
+
+1. I live in on edge bitch.
+   (ID: 4beccb79954eaf4ba6b69b6ac31b148b48f4f579)
+
+2. I live in pop music.
+   (ID: a94c33f7a102c979d2b0d24245a9721d4136b14f)
+
+3. I live in alcoholic mother.
+   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+
+4. I live in boring america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+5. I live in large river.
+   (ID: 0d77404b10744947bcd2c91d8c926021d4b8650f)
+
+6. I live in conservative area.
+   (ID: 80ae19b9093d92fad153af508f37fcd7cd9340ec)
+
+7. I live in flight path.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+8. I live in turkey cats.
+   (ID: 2834b254700cedfb96641229b712899b4d697418)
+
+9. I live in golden rule.
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+10. I live in liking science astronomy.
+   (ID: c69ba20c8286f807f6219a451e4448f951938f31)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+2. i live down the street from miley cyrus and pnb rock .
+   (ID: conversation_184)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

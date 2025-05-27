@@ -1,0 +1,51 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.560
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 11
+
+1. I am studying software development.
+   (ID: conversation_121_user_2)
+
+2. I hate cleaning.
+   (ID: conversation_173_user_2)
+
+3. I only sleep 3 hours a day.
+   (ID: conversation_9_user_2)
+
+4. I hate evil.
+   (ID: conversation_109_user_1)
+
+5. I talk to my mom on the phone every day.
+   (ID: conversation_103_user_1)
+
+6. I am studying to be a dental hygienist but i hate seeing patient s saliva.
+   (ID: conversation_157_user_2)
+
+7. I wear glasses all day.
+   (ID: conversation_170_user_1)
+
+8. I hope to one day be happy with myself.
+   (ID: conversation_162_user_2)
+
+9. I hate winter.
+   (ID: conversation_111_user_2)
+
+10. I hate to lose.
+   (ID: conversation_64_user_2)
+
+11. I run more then 2 miles a day even though i hate it.
+   (ID: conversation_180_user_2)
+
+
+============================================================

@@ -1,0 +1,48 @@
+CLUSTER 25
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.954
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 10
+
+1. I don t drive.
+   (ID: conversation_146_user_2)
+
+2. I have a ford f150.
+   (ID: conversation_1_user_2)
+
+3. I drive a truck for a living.
+   (ID: conversation_27_user_2)
+
+4. My father is a mechanic.
+   (ID: conversation_37_user_1)
+
+5. My car is green and smells weird.
+   (ID: conversation_44_user_2)
+
+6. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+7. Welding is my career field.
+   (ID: conversation_139_user_2)
+
+8. I drive a nice car.
+   (ID: conversation_47_user_2)
+
+9. I lease my car.
+   (ID: conversation_5_user_1)
+
+10. Ferrari is my favorite car company.
+   (ID: conversation_142_user_2)
+
+
+============================================================

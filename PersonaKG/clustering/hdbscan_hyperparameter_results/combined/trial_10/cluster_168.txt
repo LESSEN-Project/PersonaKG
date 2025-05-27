@@ -1,0 +1,92 @@
+CLUSTER 168
+============================================================
+Total statements in cluster: 18
+Cluster persistence (stability): 0.961
+
+Dataset distribution in this cluster:
+  MSC: 4 (22.2%)
+  PEC: 1 (5.6%)
+  PER-CHAT: 1 (5.6%)
+  PersonaChat: 10 (55.6%)
+  SyntheticPersonaChat: 2 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+2. I live in Providence. I work in a Publishing building, downtown.
+   (ID: dialog_41_speaker_2)
+
+3. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+4. I work at eureka.
+   (ID: dialog_7_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i work at man met uni :-)
+   (ID: Stan063)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I live in nurse.
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i work as a stand up comedian .
+   (ID: conversation_2)
+
+2. i fly airplanes .
+   (ID: conversation_35)
+
+3. i'm a waitress at a popular houston club .
+   (ID: conversation_77)
+
+4. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+5. i currently work at target .
+   (ID: conversation_160)
+
+6. i work for a large law firm .
+   (ID: conversation_30)
+
+7. i work at a museum .
+   (ID: conversation_32)
+
+8. i m a truck driver in the south .
+   (ID: conversation_82)
+
+9. i work at a smoothie shop .
+   (ID: conversation_12)
+
+10. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am a pharmacist.
+   (ID: conversation_30_user_2)
+
+2. I am a paper salesman.
+   (ID: conversation_55_user_2)
+
+
+============================================================

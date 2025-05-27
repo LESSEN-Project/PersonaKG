@@ -1,0 +1,42 @@
+CLUSTER 34
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.881
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i have a collection of video games .
+   (ID: conversation_315)
+
+2. i enjoy eating pumpkins .
+   (ID: conversation_174)
+
+3. i enjoy magic the gathering , it is a card game .
+   (ID: conversation_308)
+
+4. i enjoy playing with edged weapons .
+   (ID: conversation_287)
+
+5. i enjoy shopping .
+   (ID: conversation_71)
+
+6. i enjoy watching videos on youtube .
+   (ID: conversation_174)
+
+7. i enjoy dating women .
+   (ID: conversation_237)
+
+8. i enjoy playing retro video games on my 386 .
+   (ID: conversation_31)
+
+
+============================================================

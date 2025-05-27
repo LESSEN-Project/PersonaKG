@@ -1,0 +1,58 @@
+CLUSTER 351
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.903
+
+Dataset distribution in this cluster:
+  PEC: 6 (60.0%)
+  PER-CHAT: 3 (30.0%)
+  PersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i 'm at 400 dives give / take 15 .
+   (ID: deputydan_scubaman)
+
+2. i could get a machete for $ 15 there !
+   (ID: adertal)
+
+3. i would not call variadic dispatch in python unreadable
+   (ID: xcombelle)
+
+4. i 'm stealing this .
+   (ID: ifatree)
+
+5. i have sampled over 200 .
+   (ID: wooq)
+
+6. i would n't last the full 15 .
+   (ID: KikAtWorkFL)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I am amateur gunlancer.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+2. I am amateur.
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+3. I own a zapper.
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i have my own salon .
+   (ID: conversation_14)
+
+
+============================================================

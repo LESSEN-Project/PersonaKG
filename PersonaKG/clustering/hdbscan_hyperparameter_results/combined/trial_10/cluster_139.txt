@@ -1,0 +1,62 @@
+CLUSTER 139
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.995
+
+Dataset distribution in this cluster:
+  FoCus: 2 (25.0%)
+  MPChat: 1 (12.5%)
+  PEC: 3 (37.5%)
+  PersonaChat: 1 (12.5%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I wish I could go hiking.
+   (ID: KN10OGBG14Y2_11)
+
+2. I wish I could live near a lake.
+   (ID: KVV5IPK54RRU_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. there's not a day that goes by that i don't miss living in japan.
+   (ID: Crilbyte)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i miss the sunny morning drives to work !
+   (ID: mmaswadeh)
+
+2. i wish i was in the chicago area , i miss that city .
+   (ID: chasemyers)
+
+3. i miss living in albany .
+   (ID: doctor_parcival)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my dream is to move to the middle of the desert .
+   (ID: conversation_92)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I wish that i lived in the city.
+   (ID: conversation_90_user_2)
+
+
+============================================================

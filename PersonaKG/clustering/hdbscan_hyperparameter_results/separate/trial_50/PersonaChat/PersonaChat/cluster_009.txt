@@ -1,0 +1,42 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.995
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i love disney movies .
+   (ID: conversation_522)
+
+2. i love watching old movies .
+   (ID: conversation_688)
+
+3. i love rap music .
+   (ID: conversation_260)
+
+4. i like movies based on comedies .
+   (ID: conversation_422)
+
+5. i like the tv show the walking dead .
+   (ID: conversation_93)
+
+6. i love scary movies .
+   (ID: conversation_222)
+
+7. i love to read crime novels .
+   (ID: conversation_500)
+
+8. i love watching superheroes shows .
+   (ID: conversation_95)
+
+
+============================================================

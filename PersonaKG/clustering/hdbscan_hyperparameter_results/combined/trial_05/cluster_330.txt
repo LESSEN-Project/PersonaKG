@@ -1,0 +1,121 @@
+CLUSTER 330
+============================================================
+Total statements in cluster: 26
+Cluster persistence (stability): 0.781
+
+Dataset distribution in this cluster:
+  MPChat: 1 (3.8%)
+  MSC: 2 (7.7%)
+  PEC: 5 (19.2%)
+  PER-CHAT: 13 (50.0%)
+  PersonaChat: 2 (7.7%)
+  SyntheticPersonaChat: 3 (11.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. hello it is i!
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+2. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i am the liquor .
+   (ID: HugePurpleNipples)
+
+2. i ’m john marcus willam and even i get it
+   (ID: ChallengeTaken99)
+
+3. i 'm jordan ward !
+   (ID: amirman)
+
+4. i 'm lebron 's mom
+   (ID: worried_panda)
+
+5. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+
+--- PER-CHAT ---
+Total from this dataset: 13
+
+1. I am gear.
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+2. I am u/footofaep.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+3. I am captain.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+4. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+5. I am star.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+6. I am grandmajoe.
+   (ID: 88279b92dca36b3b3c236d960135a2afe2e68b33)
+
+7. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+8. I am legit.
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+9. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+10. I am scott.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+11. I am legend.
+   (ID: ef2135d90df57b27df5e96791848d8d9201afd29)
+
+12. I am culchie.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+13. I am top sniper.
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my name is omar .
+   (ID: conversation_42)
+
+2. my name is todd .
+   (ID: conversation_119)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My name is nancy.
+   (ID: conversation_58_user_2)
+
+2. My name is kevin.
+   (ID: conversation_121_user_2)
+
+3. My name is arnold.
+   (ID: conversation_5_user_2)
+
+
+============================================================

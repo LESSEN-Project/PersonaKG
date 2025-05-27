@@ -1,0 +1,85 @@
+CLUSTER 489
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.982
+
+Dataset distribution in this cluster:
+  MPChat: 1 (7.1%)
+  MSC: 2 (14.3%)
+  PEC: 3 (21.4%)
+  PER-CHAT: 4 (28.6%)
+  PersonaChat: 3 (21.4%)
+  SyntheticPersonaChat: 1 (7.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. found this one from my high school ceramics class.
+   (ID: insertnamehere02)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I ran in high school.
+   (ID: dialog_0_speaker_1)
+
+2. I go free dive.  I have loved diving since high school. I went to high school in Orlando.
+   (ID: dialog_85_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i had this in my high school .
+   (ID: Sugarpeas)
+
+2. i see school is in session again .
+   (ID: sbsb27)
+
+3. i was wondering , since i learned 7 as ' nana ' in high school .
+   (ID: Piraticalstyle)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. are you talking about high school or college ?
+   (ID: d3bac57ba3f5572800e9732b3d2159f8a3fcbfdc)
+
+2. if you go to the lockers at my school , that is all you see .
+   (ID: 01d091dafa86b9d15d91404a1a02a0fc98011e8c)
+
+3. I own a school administrator.
+   (ID: 6692d386ab188df76448f18f0e9d59c1e6d88c50)
+
+4. stay safe in high school
+   (ID: 7e977d8c833923afad8d62330f570dfb4308db8b)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i married my high school sweetheart .
+   (ID: conversation_206)
+
+2. i go to a private high school .
+   (ID: conversation_87)
+
+3. i was a wrestler in high school .
+   (ID: conversation_442)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have not been on a date since high school.
+   (ID: conversation_248_user_2)
+
+
+============================================================

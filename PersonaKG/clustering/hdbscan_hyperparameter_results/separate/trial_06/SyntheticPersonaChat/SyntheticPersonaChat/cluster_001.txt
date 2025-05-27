@@ -1,0 +1,36 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I believe in leprechauns.
+   (ID: conversation_226_user_2)
+
+2. I have survived near death experiences.
+   (ID: conversation_279_user_2)
+
+3. God has always been put first in my life.
+   (ID: conversation_76_user_2)
+
+4. I trust in god.
+   (ID: conversation_109_user_1)
+
+5. I believe in ghosts and have seen them on several occasions.
+   (ID: conversation_212_user_2)
+
+6. It is my universe , and everyone else is just a character in it.
+   (ID: conversation_270_user_2)
+
+
+============================================================

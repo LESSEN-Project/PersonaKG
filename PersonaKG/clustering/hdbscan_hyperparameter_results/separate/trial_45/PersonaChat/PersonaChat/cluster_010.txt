@@ -1,0 +1,33 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i am argentinian .
+   (ID: conversation_59)
+
+2. i am a profesional translator .
+   (ID: conversation_165)
+
+3. i can speak arabic , english , and french .
+   (ID: conversation_63)
+
+4. i live in the usa .
+   (ID: conversation_23)
+
+5. i speak fluent german .
+   (ID: conversation_156)
+
+
+============================================================

@@ -1,0 +1,51 @@
+CLUSTER 95
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (16.7%)
+  PEC: 2 (33.3%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My favorite football team is the Green Bay Packers.
+   (ID: dialog_47_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i hate his friendship with a girl !
+   (ID: ItGetsAwkward)
+
+2. i avoid him because he seems a bit emotional .
+   (ID: nate6051)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my favorite player is mike trout .
+   (ID: conversation_103)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My favorite artist is bob ross.
+   (ID: conversation_187_user_1)
+
+2. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+
+============================================================

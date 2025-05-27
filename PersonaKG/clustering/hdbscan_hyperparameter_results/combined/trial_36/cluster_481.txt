@@ -1,0 +1,58 @@
+CLUSTER 481
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.853
+
+Dataset distribution in this cluster:
+  FoCus: 5 (50.0%)
+  MSC: 1 (10.0%)
+  PersonaChat: 4 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 5
+
+1. I don't like forest.
+   (ID: T815O8KC30IG_9)
+
+2. I don't like the high temperatures associated with pyroclastic flows.
+   (ID: G4JZMW0OPV0G_11)
+
+3. I don't like railroad in the vicinity of the city.
+   (ID: NK6WLDJ7W255_7)
+
+4. I don't like North Korea.
+   (ID: TGZJNX488SLV_11)
+
+5. I don't like to intersection road.
+   (ID: UDGAGMKQ9TQ1_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am from Japan.  I don't like sports.
+   (ID: dialog_93_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i don t like the beach .
+   (ID: conversation_94)
+
+2. i don't like feeling controlled .
+   (ID: conversation_147)
+
+3. i don't like acting .
+   (ID: conversation_154)
+
+4. i don't like my reputation .
+   (ID: conversation_147)
+
+
+============================================================

@@ -1,0 +1,46 @@
+CLUSTER 389
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 1 (16.7%)
+  MSC: 1 (16.7%)
+  PEC: 4 (66.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my gooey drip snake dragon is.
+   (ID: VisitingCivet)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am done with my education.
+   (ID: dialog_12_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i collect $ 100 bills .
+   (ID: wooq)
+
+2. i never wished i had calculus homework before !
+   (ID: chasemyers)
+
+3. i see you in the mirror there
+   (ID: bummang)
+
+4. i wished on an eyelash for this
+   (ID: bleepblorp9878)
+
+
+============================================================

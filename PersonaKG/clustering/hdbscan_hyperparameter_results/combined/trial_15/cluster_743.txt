@@ -1,0 +1,52 @@
+CLUSTER 743
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.985
+
+Dataset distribution in this cluster:
+  MSC: 2 (25.0%)
+  PER-CHAT: 1 (12.5%)
+  PersonaChat: 5 (62.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. We have the same parents, he was born first.
+   (ID: dialog_81_speaker_2)
+
+2. My parents are very patient with me.
+   (ID: dialog_39_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. i logged on to disney . com without a parents permission
+   (ID: ba6e71577de908a22c0e12bb76ecba264f52d94e)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. both my parents were teachers .
+   (ID: conversation_19)
+
+2. while both my parents have thick european accents , i do not .
+   (ID: conversation_87)
+
+3. my parents are in there 80s .
+   (ID: conversation_274)
+
+4. my parents raised me as a buddhist .
+   (ID: conversation_281)
+
+5. my brother raised me after our parents died .
+   (ID: conversation_232)
+
+
+============================================================

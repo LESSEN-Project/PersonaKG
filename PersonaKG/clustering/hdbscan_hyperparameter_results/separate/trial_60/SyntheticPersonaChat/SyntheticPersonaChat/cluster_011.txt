@@ -1,0 +1,42 @@
+CLUSTER 11
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.978
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I drive a large , blue van.
+   (ID: conversation_365_user_1)
+
+2. I own a hearse.
+   (ID: conversation_313_user_2)
+
+3. My truck is black.
+   (ID: conversation_1_user_2)
+
+4. I lease my car.
+   (ID: conversation_5_user_1)
+
+5. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+6. I sometimes drive fast.
+   (ID: conversation_279_user_2)
+
+7. I drive a nice car.
+   (ID: conversation_47_user_2)
+
+8. I have a ford f150.
+   (ID: conversation_1_user_2)
+
+
+============================================================

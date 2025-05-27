@@ -1,0 +1,45 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.995
+
+Dataset distribution in this cluster:
+  PersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i will study computer science .
+   (ID: conversation_108)
+
+2. i use third party programs to read portable documents instead of adobe .
+   (ID: conversation_174)
+
+3. i have 3 science classes .
+   (ID: conversation_574)
+
+4. i am on my way to uc santa cruz where i was accepted .
+   (ID: conversation_108)
+
+5. i start an internship in engineering later this year .
+   (ID: conversation_50)
+
+6. i'm studying for my master s .
+   (ID: conversation_643)
+
+7. i'm in between classes .
+   (ID: conversation_301)
+
+8. i received a full scholarship to florida state university .
+   (ID: conversation_351)
+
+9. i am studying software development .
+   (ID: conversation_230)
+
+
+============================================================

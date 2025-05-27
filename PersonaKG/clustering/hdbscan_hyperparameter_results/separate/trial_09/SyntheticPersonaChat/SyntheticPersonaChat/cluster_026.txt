@@ -1,0 +1,39 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.921
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I drive a truck for a living.
+   (ID: conversation_27_user_2)
+
+2. My sister is a guitarist.
+   (ID: conversation_57_user_1)
+
+3. I sometimes drive fast.
+   (ID: conversation_279_user_2)
+
+4. I drive a large , blue van.
+   (ID: conversation_365_user_1)
+
+5. I drive a nice car.
+   (ID: conversation_47_user_2)
+
+6. I drive a jag.
+   (ID: conversation_429_user_1)
+
+7. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+
+============================================================

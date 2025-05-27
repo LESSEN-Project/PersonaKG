@@ -1,0 +1,51 @@
+CLUSTER 392
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.995
+
+Dataset distribution in this cluster:
+  MPChat: 1 (16.7%)
+  PEC: 3 (50.0%)
+  PER-CHAT: 1 (16.7%)
+  PersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. sashimi platter i had on the remote island of yakushima, japan.
+   (ID: VodkaWithSnowflakes)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i ’d lick the floor for 5 buck
+   (ID: FrankOfTheDank)
+
+2. i 'm counting six .
+   (ID: BabblingBunny)
+
+3. i am counting constantine .
+   (ID: adertal)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am narcissist.
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i have four sisters .
+   (ID: conversation_1)
+
+
+============================================================

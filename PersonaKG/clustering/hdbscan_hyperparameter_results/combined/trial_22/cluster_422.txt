@@ -1,0 +1,61 @@
+CLUSTER 422
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 5 (45.5%)
+  PER-CHAT: 2 (18.2%)
+  PersonaChat: 4 (36.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i play hearthstone if you play that ?
+   (ID: OliveGames)
+
+2. i 'd go see him play .
+   (ID: catskhiker)
+
+3. i would les and play
+   (ID: lambsquatch)
+
+4. i had to play that back .
+   (ID: doctor_parcival)
+
+5. i can play backs though .
+   (ID: spoonsrugby)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I play warframe.
+   (ID: 0328413fb9fd5eff68cef63593bfc5537e85c2e8)
+
+2. I play rust.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i can play the violin .
+   (ID: conversation_298)
+
+2. i play the guitair .
+   (ID: conversation_230)
+
+3. i play d and d .
+   (ID: conversation_54)
+
+4. i play for the baltimore orioles .
+   (ID: conversation_428)
+
+
+============================================================

@@ -1,0 +1,51 @@
+CLUSTER 297
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 2 (33.3%)
+  PEC: 1 (16.7%)
+  PER-CHAT: 2 (33.3%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i make narwhals and octopuses!
+   (ID: skorletun)
+
+2. had to make my b.l.t.
+   (ID: cookinwithclint)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i will if i ever make another one .
+   (ID: Ml7500)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. and they still can ' t make a fire .
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+2. what make is that weedeater ?
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I make my own compost.
+   (ID: conversation_123_user_2)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. When i was a child i was kidnapped by my uncle.
+   (ID: conversation_68_user_2)
+
+2. My left knee is filled with metal.
+   (ID: conversation_24_user_2)
+
+3. My father died when i was 2.
+   (ID: conversation_64_user_2)
+
+4. I lost my arm in a car accident.
+   (ID: conversation_141_user_2)
+
+5. There are thorns tattooed on my toes.
+   (ID: conversation_157_user_2)
+
+
+============================================================

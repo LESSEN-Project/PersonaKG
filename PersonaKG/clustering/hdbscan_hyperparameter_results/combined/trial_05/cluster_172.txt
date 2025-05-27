@@ -1,0 +1,43 @@
+CLUSTER 172
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 3 (60.0%)
+  PER-CHAT: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I broke my glasses. I have expensive glasses with progressive lenses.
+   (ID: dialog_31_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i had a kidney autotransplant but they removed it -- i was my own donor .
+   (ID: bbakks)
+
+2. i had irregular periods at your age , pills fixed it .
+   (ID: blue_thingy)
+
+3. i went to the doctor with all these symptoms , and was diagnosed with diabetes with an 11.9 a1c .
+   (ID: mmaswadeh)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. how long have you been off the meds ? are you still on them ? are you still in school ? what ' s your age ?
+   (ID: 3c405c5b13146831496e429cf2aff978fcec01eb)
+
+
+============================================================

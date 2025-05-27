@@ -1,0 +1,71 @@
+CLUSTER 235
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 2 (18.2%)
+  MSC: 1 (9.1%)
+  PEC: 4 (36.4%)
+  PER-CHAT: 3 (27.3%)
+  SyntheticPersonaChat: 1 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i make narwhals and octopuses!
+   (ID: skorletun)
+
+2. had to make my b.l.t.
+   (ID: cookinwithclint)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. We make 31 flavors of cupcakes.
+   (ID: dialog_128_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i will if i ever make another one .
+   (ID: Ml7500)
+
+2. i could n’t even make it around a supermarket in one go .
+   (ID: kiki73)
+
+3. i should make this for leslie knope .
+   (ID: osmosisparrot)
+
+4. i must make bowties for them all !
+   (ID: ShamPow20)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. and they still can ' t make a fire .
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+2. but that will make me hornier .
+   (ID: d2c8c42e9cfcdada2e4a7785bcb8272d5f79a002)
+
+3. what make is that weedeater ?
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I make my own compost.
+   (ID: conversation_123_user_2)
+
+
+============================================================

@@ -1,0 +1,43 @@
+CLUSTER 185
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 2 (40.0%)
+  PersonaChat: 2 (40.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i listen to it on my commute .
+   (ID: tylock)
+
+2. i go every week !
+   (ID: doctor_parcival)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i especially enjoy listening to the band the mutineers .
+   (ID: conversation_163)
+
+2. at night , i party hard in the atlanta club scene , and i never miss a music festival .
+   (ID: conversation_106)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I enjoy karaoke every friday night.
+   (ID: conversation_91_user_2)
+
+
+============================================================

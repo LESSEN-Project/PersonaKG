@@ -1,0 +1,42 @@
+CLUSTER 22
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.962
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i hope to change the world .
+   (ID: conversation_125)
+
+2. i especially enjoy listening to the band the mutineers .
+   (ID: conversation_163)
+
+3. my favorite band is imagine dragons .
+   (ID: conversation_8)
+
+4. my brother is in a metal band and travels the world .
+   (ID: conversation_22)
+
+5. my wardrobe is all band tees .
+   (ID: conversation_114)
+
+6. i have never traveled outside of the united states .
+   (ID: conversation_170)
+
+7. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+8. i traveled around the world in a boat .
+   (ID: conversation_60)
+
+
+============================================================

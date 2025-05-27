@@ -1,0 +1,46 @@
+CLUSTER 141
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 3 (50.0%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i work 40 hr weeks and have 224hrs a year i can take as paid holiday .
+   (ID: bigfuckingdiamond)
+
+2. i 40 / f have always worked in retail since i was 17 years old .
+   (ID: 11_29_77)
+
+3. i pay 985 in rent and my gross pay per month is around 3920 .
+   (ID: AgedTwenties)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i just accepted a job at the elementary school in my hometown .
+   (ID: conversation_91)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I make 30k a year.
+   (ID: conversation_31_user_2)
+
+2. I got a job as an accountant 3 months ago.
+   (ID: conversation_187_user_1)
+
+
+============================================================

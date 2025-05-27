@@ -1,0 +1,42 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.973
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i like to paint .
+   (ID: conversation_60)
+
+2. i like to remodel homes .
+   (ID: conversation_0)
+
+3. i like to make boats on the weekends .
+   (ID: conversation_27)
+
+4. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+5. i make videos about makeup .
+   (ID: conversation_58)
+
+6. i love to crochet .
+   (ID: conversation_5)
+
+7. i have my own salon .
+   (ID: conversation_14)
+
+8. i love collecting teapots .
+   (ID: conversation_73)
+
+
+============================================================

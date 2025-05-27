@@ -1,0 +1,61 @@
+CLUSTER 482
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 9 (81.8%)
+  MSC: 1 (9.1%)
+  SyntheticPersonaChat: 1 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 9
+
+1. I don't like hijacking.
+   (ID: F91BK688K9G1_11)
+
+2. I don't like canals.
+   (ID: DMD9S9COJOIA_7)
+
+3. I don't like hurricanes.
+   (ID: NOJ4G30KI3T7_11)
+
+4. I don't like WaterNSW.
+   (ID: KHRYE9OFUIMW_9)
+
+5. I don't like bulldogs.
+   (ID: FGIEUW9ABAQU_11)
+
+6. I don't like Earthquakes.
+   (ID: WYFFBVR6YR06_11)
+
+7. I don't like Walpole.
+   (ID: 8C87PLCFQ0ZH_11)
+
+8. I don't like Pollution.
+   (ID: AN8LSF1PEYK2_11)
+
+9. I don't like casinos.
+   (ID: 9KDV6LSLWNAX_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I don't like to be out with nothing around me.
+   (ID: dialog_22_speaker_1)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I don t like broccoli.
+   (ID: conversation_264_user_2)
+
+
+============================================================

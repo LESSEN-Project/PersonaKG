@@ -1,0 +1,33 @@
+CLUSTER 22
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i use to be a wild child .
+   (ID: conversation_350)
+
+2. as a child , i won a national spelling bee .
+   (ID: conversation_181)
+
+3. i am an only child .
+   (ID: conversation_200)
+
+4. when i was a child i was kidnapped by my uncle .
+   (ID: conversation_336)
+
+5. i'm pregnant with my first child .
+   (ID: conversation_40)
+
+
+============================================================

@@ -1,0 +1,39 @@
+CLUSTER 41
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i am trying to become a male model in hollywood .
+   (ID: conversation_227)
+
+2. i was born in baton rouge .
+   (ID: conversation_138)
+
+3. i'm a female .
+   (ID: conversation_121)
+
+4. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+5. i should beverage been born a prince .
+   (ID: conversation_54)
+
+6. i was born completely deaf .
+   (ID: conversation_590)
+
+7. i was born in san francisco .
+   (ID: conversation_468)
+
+
+============================================================

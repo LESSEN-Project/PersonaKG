@@ -1,0 +1,33 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I recently started working online.
+   (ID: conversation_10_user_2)
+
+2. I recently had knee surgery.
+   (ID: conversation_149_user_2)
+
+3. I always seem to be losing things , most recently , my mind.
+   (ID: conversation_18_user_2)
+
+4. I recently moved to sweden.
+   (ID: conversation_18_user_2)
+
+5. I recently bought a camper.
+   (ID: conversation_27_user_2)
+
+
+============================================================

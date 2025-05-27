@@ -1,0 +1,63 @@
+CLUSTER 163
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.890
+
+Dataset distribution in this cluster:
+  MSC: 1 (10.0%)
+  PEC: 1 (10.0%)
+  PER-CHAT: 7 (70.0%)
+  PersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I live in Florida. I have contacts in Alabama.
+   (ID: dialog_85_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i live beachside in daytona and wind damage was severe
+   (ID: ludaa)
+
+
+--- PER-CHAT ---
+Total from this dataset: 7
+
+1. I live in large river.
+   (ID: 0d77404b10744947bcd2c91d8c926021d4b8650f)
+
+2. I live in liking science astronomy.
+   (ID: c69ba20c8286f807f6219a451e4448f951938f31)
+
+3. I live in golden rule.
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+4. I live in ct nick cage.
+   (ID: 128346fc1e56ccadd25a4b200ecae44637d48f5f)
+
+5. I live in conservative area.
+   (ID: 80ae19b9093d92fad153af508f37fcd7cd9340ec)
+
+6. I live in on edge bitch.
+   (ID: 4beccb79954eaf4ba6b69b6ac31b148b48f4f579)
+
+7. I live in flight path.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+
+============================================================

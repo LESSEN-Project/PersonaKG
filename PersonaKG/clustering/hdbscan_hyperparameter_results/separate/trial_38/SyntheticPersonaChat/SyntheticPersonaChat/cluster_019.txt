@@ -1,0 +1,42 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.965
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I dropped out of high school.
+   (ID: conversation_156_user_2)
+
+2. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+3. I went to school for fashion design and did nothing with it.
+   (ID: conversation_98_user_2)
+
+4. I graduated college and immediately went to graduate school.
+   (ID: conversation_51_user_2)
+
+5. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+6. I moved to ny to study in a prestigious designing school.
+   (ID: conversation_191_user_2)
+
+7. I study philosophy at umass.
+   (ID: conversation_158_user_1)
+
+8. I went to stanford.
+   (ID: conversation_73_user_2)
+
+
+============================================================

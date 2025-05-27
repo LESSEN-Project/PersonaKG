@@ -1,0 +1,66 @@
+CLUSTER 324
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.678
+
+Dataset distribution in this cluster:
+  MSC: 2 (18.2%)
+  PEC: 5 (45.5%)
+  PersonaChat: 2 (18.2%)
+  SyntheticPersonaChat: 2 (18.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I cannot eat certain foods due to flatulence.
+   (ID: dialog_26_speaker_2)
+
+2. I'm sick when I eat fish.
+   (ID: dialog_28_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i 'd eat cake to that .
+   (ID: VanGoJourney)
+
+2. i do n't eat anything that casts a shadow . "
+   (ID: Mahatma_Panda)
+
+3. i eat as much as i can
+   (ID: Kellen1337)
+
+4. i 'd still eat it .
+   (ID: sweatervest)
+
+5. i 'd have too many hormones running through my body with how much i 'd eat .
+   (ID: buttercup_mauler)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+2. i never eat veggies .
+   (ID: conversation_96)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+2. I eat all take out.
+   (ID: conversation_2_user_1)
+
+
+============================================================

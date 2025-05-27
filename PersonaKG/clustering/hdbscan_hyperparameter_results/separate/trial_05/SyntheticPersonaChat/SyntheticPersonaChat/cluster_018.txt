@@ -1,0 +1,36 @@
+CLUSTER 18
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.985
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I also love orange juice.
+   (ID: conversation_61_user_2)
+
+2. My favorite drink is iced coffee.
+   (ID: conversation_0_user_2)
+
+3. I like dr pepper and black jack gum , but not together.
+   (ID: conversation_172_user_2)
+
+4. I like to drink green tea.
+   (ID: conversation_36_user_2)
+
+5. I enjoy budweiser beer.
+   (ID: conversation_178_user_2)
+
+6. I need a soda with me at all times.
+   (ID: conversation_105_user_2)
+
+
+============================================================

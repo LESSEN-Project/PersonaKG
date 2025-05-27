@@ -1,0 +1,42 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. My favorite animal is a bear.
+   (ID: conversation_55_user_2)
+
+2. My favorite fruit is apple.
+   (ID: conversation_277_user_1)
+
+3. Superman s my favorite super hero.
+   (ID: conversation_283_user_1)
+
+4. Halloween is my favorite holiday.
+   (ID: conversation_313_user_2)
+
+5. My favorite flower is a lily.
+   (ID: conversation_91_user_1)
+
+6. My favorite meal is steak.
+   (ID: conversation_9_user_2)
+
+7. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+8. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+
+============================================================

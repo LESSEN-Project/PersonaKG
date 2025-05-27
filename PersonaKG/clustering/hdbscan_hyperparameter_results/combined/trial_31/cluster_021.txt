@@ -1,0 +1,142 @@
+CLUSTER 21
+============================================================
+Total statements in cluster: 37
+Cluster persistence (stability): 0.927
+
+Dataset distribution in this cluster:
+  MPChat: 1 (2.7%)
+  MSC: 2 (5.4%)
+  PEC: 4 (10.8%)
+  PER-CHAT: 24 (64.9%)
+  PersonaChat: 1 (2.7%)
+  SyntheticPersonaChat: 5 (13.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. hello it is i!
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+2. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i 'm jordan ward !
+   (ID: amirman)
+
+2. i 'm a robot .
+   (ID: amirman)
+
+3. i am the best .
+   (ID: RonaldFuckingPaul)
+
+4. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+
+--- PER-CHAT ---
+Total from this dataset: 24
+
+1. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+2. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+3. I am star.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+4. I am biotic god.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+5. I am arisen.
+   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
+
+6. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+7. I am cup of coffee.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+8. I am awesome.
+   (ID: b6567f005c34603036e6119544386ff4f12ec3a9)
+
+9. I am real life aquaman.
+   (ID: e7189ea885d9f7e9cdbd71ff2f2035f07ebaf6db)
+
+10. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+11. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+12. I am president.
+   (ID: f67daf28a38187108da9b380f2e2f9336016c584)
+
+13. I am sand guardian.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+14. I am selfer.
+   (ID: f67daf28a38187108da9b380f2e2f9336016c584)
+
+15. I am captain.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+16. I am top sniper.
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+17. I am altmer mage.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+18. I am redditor.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+19. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+20. I am u/footofaep.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my name is omar .
+   (ID: conversation_42)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I am a terrible speller.
+   (ID: conversation_6_user_2)
+
+2. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+3. My name is arnold.
+   (ID: conversation_5_user_2)
+
+4. My name is nancy.
+   (ID: conversation_58_user_2)
+
+5. I am male.
+   (ID: conversation_5_user_1)
+
+
+============================================================

@@ -1,0 +1,39 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.979
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i'm a goalie .
+   (ID: conversation_62)
+
+2. i am very inquisitive and enjoy learning new things .
+   (ID: conversation_193)
+
+3. i play d and d .
+   (ID: conversation_54)
+
+4. i know how to count cards in blackjack .
+   (ID: conversation_158)
+
+5. i'm very good at math and science .
+   (ID: conversation_122)
+
+6. i play the guitair .
+   (ID: conversation_230)
+
+7. i am excellent at playing pool .
+   (ID: conversation_390)
+
+
+============================================================

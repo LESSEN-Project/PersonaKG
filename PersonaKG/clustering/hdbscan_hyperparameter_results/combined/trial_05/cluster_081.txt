@@ -1,0 +1,49 @@
+CLUSTER 81
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (14.3%)
+  PEC: 5 (71.4%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I love the smell of Lotus.
+   (ID: KGYT5MMVNDSG_11)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i fucking love maltesers .
+   (ID: parkleswife)
+
+2. i have fallen in love with roasted oolongs recently .
+   (ID: Lilliaan)
+
+3. i love banana trees .
+   (ID: monday_madrigal)
+
+4. i absolutely love love love cinnamorolls !
+   (ID: kailan123456)
+
+5. i love reese 's pieces !
+   (ID: jay456)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I love candy.
+   (ID: conversation_42_user_2)
+
+
+============================================================

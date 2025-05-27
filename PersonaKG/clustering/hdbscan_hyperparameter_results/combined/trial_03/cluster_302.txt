@@ -1,0 +1,58 @@
+CLUSTER 302
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.740
+
+Dataset distribution in this cluster:
+  PEC: 4 (40.0%)
+  PersonaChat: 4 (40.0%)
+  SyntheticPersonaChat: 2 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i see from your username how you work .
+   (ID: LooksAtClouds)
+
+2. i clicked on that at work .
+   (ID: Megan_Bee)
+
+3. i should n't be responsible for this bitch 's work .
+   (ID: Weed_n_Wisdom)
+
+4. i do n't motivate to work out , but i do work out to stay motivated .
+   (ID: ifatree)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+2. i work on cars for a living .
+   (ID: conversation_18)
+
+3. i work as a stand up comedian .
+   (ID: conversation_2)
+
+4. i work at a museum .
+   (ID: conversation_32)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I work at walmart as a stocker.
+   (ID: conversation_37_user_1)
+
+2. My brothers work with me.
+   (ID: conversation_47_user_2)
+
+
+============================================================

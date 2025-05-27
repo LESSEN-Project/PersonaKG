@@ -1,0 +1,54 @@
+CLUSTER 300
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.963
+
+Dataset distribution in this cluster:
+  MPChat: 2 (28.6%)
+  MSC: 2 (28.6%)
+  PEC: 2 (28.6%)
+  PER-CHAT: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. it's another milo+nescafe (mocha) with milk frothed by an ikea frothing wand woooo, my best yet
+   (ID: Soggypaper_)
+
+2. perry is the absolute best co pilot i could ask for .
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. The bucks are the best team on earth.
+   (ID: dialog_8_speaker_2)
+
+2. I can jam. My wife likes to cook. My wife occasionally makes mac and cheese, but it isn't the best.
+   (ID: dialog_0_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i 'm french so i says " a vos souhait " which means " best wishes "
+   (ID: xcombelle)
+
+2. i 'm hoping 1-gallon pot at best .
+   (ID: LooksAtClouds)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. not me , but my best friend almost hit a truck head on from drunk driving .
+   (ID: 4917a362688355621979e016028f58dbf7f3ac7e)
+
+
+============================================================

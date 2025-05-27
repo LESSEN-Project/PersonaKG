@@ -1,0 +1,49 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 976
+Vectorization method: hybrid
+Number of clusters: 34
+Number of noise points: 383 (39.2%)
+Analysis type: clusters
+Timestamp: 2025-05-27 16:13:47
+
+Dataset Distribution:
+  MSC: 976 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 11: 72 statements (persistence: 0.318)
+  Cluster 3: 43 statements (persistence: 0.275)
+  Cluster 1: 32 statements (persistence: 0.296)
+  Cluster 22: 31 statements (persistence: 0.358)
+  Cluster 0: 30 statements (persistence: 0.409)
+  Cluster 8: 30 statements (persistence: 0.397)
+  Cluster 33: 27 statements (persistence: 0.504)
+  Cluster 5: 26 statements (persistence: 0.493)
+  Cluster 17: 24 statements (persistence: 0.402)
+  Cluster 2: 22 statements (persistence: 0.438)
+  Cluster 19: 19 statements (persistence: 0.439)
+  Cluster 24: 18 statements (persistence: 0.616)
+  Cluster 13: 16 statements (persistence: 0.788)
+  Cluster 21: 15 statements (persistence: 0.527)
+  Cluster 4: 14 statements (persistence: 0.907)
+  Cluster 7: 13 statements (persistence: 0.626)
+  Cluster 9: 13 statements (persistence: 0.618)
+  Cluster 25: 13 statements (persistence: 0.754)
+  Cluster 30: 12 statements (persistence: 0.721)
+  Cluster 14: 11 statements (persistence: 0.607)
+  Cluster 23: 11 statements (persistence: 0.989)
+  Cluster 27: 10 statements (persistence: 0.824)
+  Cluster 12: 9 statements (persistence: 0.988)
+  Cluster 16: 9 statements (persistence: 0.728)
+  Cluster 20: 9 statements (persistence: 0.916)
+  Cluster 29: 9 statements (persistence: 0.915)
+  Cluster 10: 8 statements (persistence: 0.946)
+  Cluster 31: 8 statements (persistence: 0.983)
+  Cluster 32: 8 statements (persistence: 0.988)
+  Cluster 26: 7 statements (persistence: 0.988)
+  Cluster 6: 6 statements (persistence: 1.000)
+  Cluster 15: 6 statements (persistence: 1.000)
+  Cluster 18: 6 statements (persistence: 1.000)
+  Cluster 28: 6 statements (persistence: 1.000)

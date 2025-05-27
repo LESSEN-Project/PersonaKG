@@ -1,0 +1,48 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. my favorite artist was prince .
+   (ID: conversation_439)
+
+2. my favorite musician in charlie daniels .
+   (ID: conversation_250)
+
+3. i especially enjoy listening to the band the mutineers .
+   (ID: conversation_163)
+
+4. i listen to techno music , exclusively .
+   (ID: conversation_114)
+
+5. ke ha is my favorite singer of all time .
+   (ID: conversation_26)
+
+6. my favorite band is up .
+   (ID: conversation_329)
+
+7. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+8. i like alternative rock .
+   (ID: conversation_5)
+
+9. i love the all american rejects .
+   (ID: conversation_304)
+
+10. my favorite band is imagine dragons .
+   (ID: conversation_8)
+
+
+============================================================

@@ -1,0 +1,77 @@
+CLUSTER 87
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.953
+
+Dataset distribution in this cluster:
+  FoCus: 1 (7.7%)
+  MSC: 1 (7.7%)
+  PEC: 8 (61.5%)
+  PersonaChat: 2 (15.4%)
+  SyntheticPersonaChat: 1 (7.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I love the United States.
+   (ID: Z8RPC24EURS4_7)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I love it when trees are green and flowers bloom.
+   (ID: dialog_24_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i 'd love to take them , what 's your price plus shipping ?
+   (ID: rycheme)
+
+2. i love lays wavy hickory bbq chips with french onion dip .
+   (ID: BabblingBunny)
+
+3. i 'd love to smoke some * * pot * * with you .
+   (ID: Weed_n_Wisdom)
+
+4. i love the white beard crew .
+   (ID: CarlofTime)
+
+5. i love how light your lines are , and the minimal shading , it 's gorgeous !
+   (ID: deryyaa)
+
+6. i love your pride in his hobby and skill .
+   (ID: kitcatpaints)
+
+7. i love how the idiots who created this junk so proudly display their credits .
+   (ID: Evref)
+
+8. i love the mercer band , and will happily await this delayed album .
+   (ID: Evref)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am a female and love to be surrounded by males .
+   (ID: conversation_41)
+
+2. i love chocolate cake with extra frosting .
+   (ID: conversation_80)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I love to put a smile on peoples faces.
+   (ID: conversation_32_user_2)
+
+
+============================================================

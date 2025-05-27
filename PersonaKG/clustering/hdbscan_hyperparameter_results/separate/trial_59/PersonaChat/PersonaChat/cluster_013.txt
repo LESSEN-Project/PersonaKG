@@ -1,0 +1,48 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.795
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i give out sports information .
+   (ID: conversation_201)
+
+2. i can play the violin .
+   (ID: conversation_298)
+
+3. my mom is my best friend .
+   (ID: conversation_1)
+
+4. i am learning to play the piano .
+   (ID: conversation_222)
+
+5. my mom taught me how to play the cello .
+   (ID: conversation_283)
+
+6. i am a college student who is a full time working mom .
+   (ID: conversation_21)
+
+7. i like to play sports and get fresh air .
+   (ID: conversation_191)
+
+8. my mom is a janitor .
+   (ID: conversation_39)
+
+9. i play the guitair .
+   (ID: conversation_230)
+
+10. i play d and d .
+   (ID: conversation_54)
+
+
+============================================================

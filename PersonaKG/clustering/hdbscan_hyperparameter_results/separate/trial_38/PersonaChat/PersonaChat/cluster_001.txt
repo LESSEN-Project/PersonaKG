@@ -1,0 +1,33 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i'm adopted .
+   (ID: conversation_190)
+
+2. i have a missing pinky toe .
+   (ID: conversation_107)
+
+3. i'm disabled and cannot walk .
+   (ID: conversation_183)
+
+4. i'm stuck in a wheel chair .
+   (ID: conversation_32)
+
+5. i am an orphan who was in the foster care system .
+   (ID: conversation_153)
+
+
+============================================================

@@ -1,0 +1,41 @@
+CLUSTER 312
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.978
+
+Dataset distribution in this cluster:
+  PEC: 3 (50.0%)
+  PER-CHAT: 3 (50.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i was there and this is true
+   (ID: thebastion)
+
+2. i suppose that 's true .
+   (ID: BabblingBunny)
+
+3. i have to assume that 's not true
+   (ID: thebastion)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. true legend . he must get a statue
+   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
+
+2. no . that ' s not true . that ' s impossible . no ! confused screaming
+   (ID: 60d49a425809d6f450335028a75a5202d3b84678)
+
+3. ha true true . but i still can ' t get enough .
+   (ID: 8764a223ca1af7d1792e76a58bf3b1209bf73ad3)
+
+
+============================================================

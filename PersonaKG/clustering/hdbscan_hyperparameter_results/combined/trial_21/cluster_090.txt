@@ -1,0 +1,43 @@
+CLUSTER 90
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PersonaChat: 3 (60.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My favorite subject is psychology.
+   (ID: dialog_23_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. summer is my favorite season .
+   (ID: conversation_24)
+
+2. my favorite color is blue .
+   (ID: conversation_23)
+
+3. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My favorite flower is a lily.
+   (ID: conversation_91_user_1)
+
+
+============================================================

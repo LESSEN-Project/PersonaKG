@@ -1,0 +1,45 @@
+CLUSTER 22
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.970
+
+Dataset distribution in this cluster:
+  PersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i like cartoons .
+   (ID: conversation_39)
+
+2. my favorite movie is pretty woman .
+   (ID: conversation_155)
+
+3. i love watching superheroes shows .
+   (ID: conversation_95)
+
+4. i like the tv show the walking dead .
+   (ID: conversation_93)
+
+5. my favorite tv show is dancing with the stars .
+   (ID: conversation_144)
+
+6. i did a few small roles in tv series .
+   (ID: conversation_2)
+
+7. i visit comic con .
+   (ID: conversation_168)
+
+8. i watch a lot of tv .
+   (ID: conversation_18)
+
+9. i am an anime fan .
+   (ID: conversation_114)
+
+
+============================================================

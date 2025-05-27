@@ -1,0 +1,89 @@
+CLUSTER 266
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.981
+
+Dataset distribution in this cluster:
+  MPChat: 1 (5.9%)
+  MSC: 2 (11.8%)
+  PEC: 4 (23.5%)
+  PersonaChat: 6 (35.3%)
+  SyntheticPersonaChat: 4 (23.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i have an obsession with japanese dessert.
+   (ID: justcook_byangel)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I'm not a fan of soy products.
+   (ID: dialog_30_speaker_2)
+
+2. I'm sick when I eat fish.
+   (ID: dialog_28_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i take two dropperfuls an hour before bed .
+   (ID: 11_29_77)
+
+2. i 'm the least picky eater ever .
+   (ID: amirman)
+
+3. i lose half a pound a week on 2000 calories .
+   (ID: Mahatma_Panda)
+
+4. i get it from that delicious herb .
+   (ID: jay456)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+2. i never eat veggies .
+   (ID: conversation_96)
+
+3. i take vitamin c when i have a cold .
+   (ID: conversation_183)
+
+4. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+5. i drink diet coke .
+   (ID: conversation_123)
+
+6. i am primarily a meat eater .
+   (ID: conversation_4)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+2. I eat all take out.
+   (ID: conversation_2_user_1)
+
+3. I drink 10 cups of tea every day.
+   (ID: conversation_112_user_2)
+
+4. My weakness are sweets.
+   (ID: conversation_7_user_1)
+
+
+============================================================

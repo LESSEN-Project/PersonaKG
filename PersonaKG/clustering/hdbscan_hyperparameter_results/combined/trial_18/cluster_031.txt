@@ -1,0 +1,94 @@
+CLUSTER 31
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.934
+
+Dataset distribution in this cluster:
+  MPChat: 5 (29.4%)
+  MSC: 2 (11.8%)
+  PEC: 4 (23.5%)
+  PER-CHAT: 1 (5.9%)
+  PersonaChat: 3 (17.6%)
+  SyntheticPersonaChat: 2 (11.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 5
+
+1. gizmo is such a fat happy puppy and i love him!
+   (ID: kentobean123)
+
+2. i call him yancy the yeti!
+   (ID: Louiesloops)
+
+3. the cutest little easter bunny i've ever seen
+   (ID: kentobean123)
+
+4. this is my new kitten oliver
+   (ID: Novel_Fox)
+
+5. i made this dog for my son.
+   (ID: gelimausi)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+2. My dog's breed is Siberian Husky.I had a dog named Sally. I want a cat soon.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i call mine the lesbaru
+   (ID: thebastion)
+
+2. i named my old cat " rex manning " .
+   (ID: Mahatma_Panda)
+
+3. i have a grey tabby as well , also named pippin !
+   (ID: monday_madrigal)
+
+4. i have affectionately named it theodore .
+   (ID: deputydan_scubaman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I have a hamster as a pet.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i have a pet snake .
+   (ID: conversation_50)
+
+2. i've a cat named leela .
+   (ID: conversation_58)
+
+3. i have a dog named bob .
+   (ID: conversation_27)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My dogs name is toto.
+   (ID: conversation_44_user_2)
+
+2. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+
+============================================================

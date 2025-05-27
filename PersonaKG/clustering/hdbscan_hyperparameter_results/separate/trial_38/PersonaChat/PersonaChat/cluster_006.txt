@@ -1,0 +1,36 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.940
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i am getting married in six months .
+   (ID: conversation_101)
+
+2. i got married last year .
+   (ID: conversation_14)
+
+3. i am witty .
+   (ID: conversation_65)
+
+4. i start an internship in engineering later this year .
+   (ID: conversation_50)
+
+5. i'm married to a man .
+   (ID: conversation_152)
+
+6. i go to at least 10 concerts a year .
+   (ID: conversation_13)
+
+
+============================================================

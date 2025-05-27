@@ -1,0 +1,56 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 718
+Vectorization method: tfidf
+Number of clusters: 41
+Number of noise points: 231 (32.2%)
+Analysis type: clusters
+Timestamp: 2025-05-27 16:06:22
+
+Dataset Distribution:
+  MSC: 718 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 40: 72 statements (persistence: 1.000)
+  Cluster 12: 29 statements (persistence: 0.379)
+  Cluster 2: 22 statements (persistence: 0.273)
+  Cluster 3: 20 statements (persistence: 0.527)
+  Cluster 37: 19 statements (persistence: 1.000)
+  Cluster 38: 17 statements (persistence: 0.436)
+  Cluster 10: 16 statements (persistence: 0.451)
+  Cluster 16: 16 statements (persistence: 0.391)
+  Cluster 4: 12 statements (persistence: 0.480)
+  Cluster 7: 12 statements (persistence: 0.818)
+  Cluster 13: 12 statements (persistence: 0.527)
+  Cluster 30: 12 statements (persistence: 0.843)
+  Cluster 39: 12 statements (persistence: 0.710)
+  Cluster 1: 10 statements (persistence: 0.617)
+  Cluster 5: 10 statements (persistence: 0.568)
+  Cluster 6: 10 statements (persistence: 0.588)
+  Cluster 8: 10 statements (persistence: 0.959)
+  Cluster 18: 10 statements (persistence: 0.591)
+  Cluster 36: 10 statements (persistence: 0.711)
+  Cluster 15: 9 statements (persistence: 0.958)
+  Cluster 22: 9 statements (persistence: 0.782)
+  Cluster 24: 9 statements (persistence: 0.872)
+  Cluster 28: 9 statements (persistence: 0.917)
+  Cluster 29: 9 statements (persistence: 0.931)
+  Cluster 33: 9 statements (persistence: 0.964)
+  Cluster 0: 8 statements (persistence: 0.718)
+  Cluster 17: 8 statements (persistence: 0.840)
+  Cluster 25: 8 statements (persistence: 0.920)
+  Cluster 9: 7 statements (persistence: 0.967)
+  Cluster 27: 7 statements (persistence: 0.915)
+  Cluster 31: 7 statements (persistence: 0.784)
+  Cluster 34: 7 statements (persistence: 0.784)
+  Cluster 35: 7 statements (persistence: 0.932)
+  Cluster 11: 6 statements (persistence: 0.986)
+  Cluster 14: 6 statements (persistence: 0.980)
+  Cluster 26: 6 statements (persistence: 0.990)
+  Cluster 19: 5 statements (persistence: 1.000)
+  Cluster 20: 5 statements (persistence: 1.000)
+  Cluster 21: 5 statements (persistence: 1.000)
+  Cluster 23: 5 statements (persistence: 1.000)
+  Cluster 32: 5 statements (persistence: 1.000)

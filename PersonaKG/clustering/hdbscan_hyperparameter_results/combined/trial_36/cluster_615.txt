@@ -1,0 +1,46 @@
+CLUSTER 615
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 4 (66.7%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i 'd play it and i do n't even like mmo 's .
+   (ID: notjawn)
+
+2. i 'd like to finally be able to play games like bf3 and such
+   (ID: bmeckel)
+
+3. i do n't like summoner 's rift , should i not play ?
+   (ID: metalbark)
+
+4. i like to play flash games on sites like kongregate , addictinggames , etc .
+   (ID: middlegeek)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i like playing games online .
+   (ID: conversation_108)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I like to play with clay models.
+   (ID: conversation_205_user_2)
+
+
+============================================================

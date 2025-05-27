@@ -1,0 +1,42 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.937
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I love to chat with my friends.
+   (ID: conversation_40_user_2)
+
+2. I like to drink at bars with friends.
+   (ID: conversation_140_user_1)
+
+3. I have many friends.
+   (ID: conversation_25_user_1)
+
+4. My friends don t call my by my real name.
+   (ID: conversation_61_user_1)
+
+5. I paddle board on my days off.
+   (ID: conversation_104_user_1)
+
+6. My two dogs are the best friends a girl could have.
+   (ID: conversation_136_user_2)
+
+7. I am very popular and have a lot of friends.
+   (ID: conversation_29_user_2)
+
+8. Skateboarding is a hobby of mine.
+   (ID: conversation_42_user_2)
+
+
+============================================================

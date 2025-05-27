@@ -1,0 +1,468 @@
+CLUSTER 152
+============================================================
+Total statements in cluster: 3586
+Cluster persistence (stability): 0.188
+
+Dataset distribution in this cluster:
+  FoCus: 91 (2.5%)
+  MPChat: 448 (12.5%)
+  MSC: 134 (3.7%)
+  PEC: 2071 (57.8%)
+  PER-CHAT: 596 (16.6%)
+  PersonaChat: 149 (4.2%)
+  SyntheticPersonaChat: 97 (2.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 91
+
+1. I have a cousin who lives in Orange County.
+   (ID: SJS6GHEH7ZIW_11)
+
+2. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+3. I have never been to Alaska.
+   (ID: 82ZP2M9AL6U0_11)
+
+4. I have the fantasy about festivals.
+   (ID: CJWI83QV42AK_11)
+
+5. I am planning to travel to Kosovo on my vacation.
+   (ID: LYYSTNQ9MBLY_11)
+
+6. I have curiosity about the Fishes of the laguna.
+   (ID: SKF7IKD9SC0U_9)
+
+7. I have a trip to Olympia booked.
+   (ID: YRJ6RB6JCWMA_11)
+
+8. I'm a CEO.
+   (ID: E3UZAGT5DTE5_11)
+
+9. I have an interest in Catholicism.
+   (ID: TDUTQ7NCYJ1S_11)
+
+10. My favourite composer is Bach.
+   (ID: X45C380V98U8_9)
+
+11. I have membership in a sports club.
+   (ID: VZ1O6OE23O98_11)
+
+12. I have a number plate numbered 1924.
+   (ID: QRRS2THODNM3_11)
+
+13. I am aware of Atlantic Ocean.
+   (ID: G6QWKZ4CTWVW_11)
+
+14. I am studying Frank Lloyd Wright.
+   (ID: EDLPKHWH3K5B_11)
+
+15. I learned about the Baroque style on a trip to Spain.
+   (ID: OJ5U23I3FV0N_11)
+
+16. I am impressed by Juan Ponce de León.
+   (ID: OII32NSNR2Q2_7)
+
+17. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+18. I have never played golf.
+   (ID: MP1ZK22Q90C9_11)
+
+19. I have visited the Raj Bhavan at Chennai.
+   (ID: V3LNPA1FT8D2_11)
+
+20. I am currently working in security.
+   (ID: YRJ6RB6JCWMA_11)
+
+
+--- MPChat ---
+Total from this dataset: 448
+
+1. my bacon wrapped chicken lollipops
+   (ID: cookinwithclint)
+
+2. still waiting for my grinder
+   (ID: coffeehawaii)
+
+3. i was accidentally allowed in to joanns unsupervised this morning...
+   (ID: SarahFree339)
+
+4. i'm surprised this beautiful color hasn't made its appearance here color club 'edie'.
+   (ID: Caserole)
+
+5. i made a neat chi
+   (ID: hmbmelly)
+
+6. my neighbors car is a jerk and my cat pretends not to suffer any fools
+   (ID: pocket_kira)
+
+7. this handsome fellow is one of my aunt's weiners.
+   (ID: TenuredHickory)
+
+8. i made some scrappy slippers out of leftover sock wool
+   (ID: Novel_Fox)
+
+9. my latest edlothia shawl in hobbii twister mojave azurite.
+   (ID: somuchyarn10)
+
+10. i baked a raisins bread for sunday.
+   (ID: gelimausi)
+
+11. gizmo stealing my pillow feat petrie giving me the side eye
+   (ID: kentobean123)
+
+12. fly-in camping solo with my puppy
+   (ID: drewchie)
+
+13. this is janis the music lover, one of my monster designs.
+   (ID: theringbeller)
+
+14. this is been one of my favorites lately... straight from michigan's upper peninsula
+   (ID: travelingisdumb)
+
+15. i took some chinese roast ducks to my friendsgiving party
+   (ID: onemantwohands)
+
+16. i made ciabatta buns!
+   (ID: Novel_Fox)
+
+17. i found another finished object that i had forgotten about earlier.
+   (ID: Moriarty58)
+
+18. i had about half the necessary ingredients for cinnamon rolls
+   (ID: RaeADropOfGoldenSun)
+
+19. i have 3 gallons of milk to burn through tonight.
+   (ID: jlb4est)
+
+20. it was windy and gray, but i played 18 in shorts on january 5th.
+   (ID: Taengoosundies)
+
+
+--- MSC ---
+Total from this dataset: 134
+
+1. I'm selfish.
+   (ID: dialog_1_speaker_1)
+
+2. I jam on the skins.
+   (ID: dialog_59_speaker_1)
+
+3. I have climbed trees before.
+   (ID: dialog_43_speaker_2)
+
+4. I broke my glasses. I have expensive glasses with progressive lenses.
+   (ID: dialog_31_speaker_1)
+
+5. I'm not a fan of soy products.
+   (ID: dialog_30_speaker_2)
+
+6. My younger brother plays cod.
+   (ID: dialog_67_speaker_2)
+
+7. I'm very sensitive.
+   (ID: dialog_73_speaker_1)
+
+8. My name is Jake.
+   (ID: dialog_100_speaker_2)
+
+9. My housekeeper is dull.
+   (ID: dialog_57_speaker_1)
+
+10. I perform as a part of a congregation.
+   (ID: dialog_82_speaker_2)
+
+11. My spouse is a member of the military.
+   (ID: dialog_40_speaker_2)
+
+12. I am a huge fan of chocolate poodles.
+   (ID: dialog_10_speaker_1)
+
+13. I am considering getting more serious about photography.
+   (ID: dialog_49_speaker_2)
+
+14. I'm so over pageantry.
+   (ID: dialog_85_speaker_1)
+
+15. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+16. My father is a minister.
+   (ID: dialog_40_speaker_2)
+
+17. Killing for sport is my hobby.
+   (ID: dialog_0_speaker_2)
+
+18. I steered a nascar vehicle once.
+   (ID: dialog_104_speaker_1)
+
+19. My passion is in computer repairs.
+   (ID: dialog_32_speaker_2)
+
+20. I loke to go shopping.
+   (ID: dialog_6_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2071
+
+1. i 'm dutch , and you both suck !
+   (ID: harumpf)
+
+2. i may be retarded , but .. is that freshwater ?
+   (ID: Nolanoscopy)
+
+3. i can see it rise or set depending on which side it is .
+   (ID: Bananafoofoofwee)
+
+4. i have a jeep and i often refer to it as a car , truck , and jeep lmao
+   (ID: Heydawgg)
+
+5. i 'm in canada btw .
+   (ID: foldor)
+
+6. i 'm jiggling on my chair !
+   (ID: Ml7500)
+
+7. i am certain .
+   (ID: nate6051)
+
+8. i go with 3 seconds .
+   (ID: RonaldFuckingPaul)
+
+9. i regularly listen to japanese dialogue and attempt to dissect sentences .
+   (ID: YuseiAkask)
+
+10. i would have yelled at you if you took her to the pound !
+   (ID: GetItTogether)
+
+11. i call them " heart attack birds , " for their habit of suddenly bursting up out of cover .
+   (ID: nastylittleman)
+
+12. i made my wedding bouquet out of cloth !
+   (ID: buttercup_mauler)
+
+13. i wear my glasses in the shower
+   (ID: Takumi-Fujiwara)
+
+14. i would have turned on the sprinklers
+   (ID: Osiris0123)
+
+15. i assumed it was almost out of gas so i checked .
+   (ID: Samoht2113)
+
+16. i was too traumatized .
+   (ID: Nick84572)
+
+17. i 'm gunna get so many down votes for this ... :(
+   (ID: Spacemandan01)
+
+18. i had to get rid of both .
+   (ID: cookiexcmonster)
+
+19. i 'm in the fast lane .
+   (ID: VanGoJourney)
+
+20. i dislike this across genre lines completely !
+   (ID: napalmkitten)
+
+
+--- PER-CHAT ---
+Total from this dataset: 596
+
+1. aaright thennnn so lets not get to there
+   (ID: 41fc1b2c09d5a16a25f120edde55b2a6e2e54e29)
+
+2. I own a enemy.
+   (ID: fae28587bce17296589bf92d656ad68ee32601d6)
+
+3. kayne . nope .
+   (ID: 96b1ed1f8b952d8d999a49615ef255ff337e17ab)
+
+4. I am altmer mage.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+5. I am ballin.
+   (ID: 630b45a8d3ef360a8a8a9626adbff80750d745a7)
+
+6. watchmen on hbo .
+   (ID: a18adc4ad3b28b34dfa3063a1c77566b8681a79d)
+
+7. how can you have action without discussion and awareness first ?
+   (ID: dc513faaa334954cbf68db2825ec42a31e42fac2)
+
+8. I am legend.
+   (ID: ef2135d90df57b27df5e96791848d8d9201afd29)
+
+9. I am ancom.
+   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+
+10. the scholastic book fair on a chilly october evening
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+11. what is firestrike
+   (ID: b4fb8e20516a28baa38075931e9715db2375a956)
+
+12. I am misunderstanding.
+   (ID: 41d66f92509db20d202cca3f348509c6cd25586b)
+
+13. you had my curiosity , but not w you have my attention .
+   (ID: bd0712716940e41d4901cd77632c868dc43fa8f0)
+
+14. i leave subtle programs on other ' s computers . computer scientist i private , i teach others how to break computers . a tutor
+   (ID: 03d15a94c7d0f2138a5e5c0cf7e503c341abbf78)
+
+15. I own a jawas.
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+16. nauseated . is this some fantasy of yours as a neckbeared ?
+   (ID: ab9a3fa39c7ebd1066697c2d7027afe2422d5ac7)
+
+17. done , cheers ears .
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+18. can you do this with chains ?
+   (ID: cfd691d6aeaf46cc644b0e21187d10dfc62b0bc8)
+
+19. I own a screen.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+20. I am aware u/bleedingcupcake.
+   (ID: 1b5b08f1246e450c7da09e40c81570fba378da84)
+
+
+--- PersonaChat ---
+Total from this dataset: 149
+
+1. i drink diet coke .
+   (ID: conversation_123)
+
+2. i m from texas .
+   (ID: conversation_8)
+
+3. i have a strange obsession with pens .
+   (ID: conversation_212)
+
+4. i had one step dad , and fortunately he ignored me .
+   (ID: conversation_179)
+
+5. i have two roomates .
+   (ID: conversation_17)
+
+6. i can speak arabic , english , and french .
+   (ID: conversation_63)
+
+7. i despise my boss .
+   (ID: conversation_229)
+
+8. i speak fluent german .
+   (ID: conversation_156)
+
+9. i am colorblind .
+   (ID: conversation_109)
+
+10. i'm always late .
+   (ID: conversation_177)
+
+11. i am a profesional translator .
+   (ID: conversation_165)
+
+12. i graduated college in 2016 .
+   (ID: conversation_70)
+
+13. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+14. i have epilepsy .
+   (ID: conversation_55)
+
+15. i was the first born child .
+   (ID: conversation_127)
+
+16. i eat ice cream when i am sad .
+   (ID: conversation_170)
+
+17. my name is gerald .
+   (ID: conversation_207)
+
+18. i m never still .
+   (ID: conversation_265)
+
+19. i am a lumberjack .
+   (ID: conversation_51)
+
+20. i earn passive income that no one knows about .
+   (ID: conversation_295)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 97
+
+1. I am always hungry.
+   (ID: conversation_204_user_2)
+
+2. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+3. I am a jack of all , master of none.
+   (ID: conversation_7_user_1)
+
+4. I have a crush on my co worker.
+   (ID: conversation_42_user_2)
+
+5. I also own a cupcake business.
+   (ID: conversation_86_user_2)
+
+6. My father recently had a heart attack.
+   (ID: conversation_137_user_2)
+
+7. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+8. I am not healthy.
+   (ID: conversation_21_user_1)
+
+9. I was diagnosed with mild ocd in college.
+   (ID: conversation_144_user_2)
+
+10. I am a cartographer.
+   (ID: conversation_259_user_2)
+
+11. My husband and i have a suicide pact.
+   (ID: conversation_49_user_2)
+
+12. I only wear silver jewelry.
+   (ID: conversation_157_user_2)
+
+13. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+14. We will be traveling to niagra falls for our honeymoon.
+   (ID: conversation_179_user_2)
+
+15. I am a poet.
+   (ID: conversation_82_user_1)
+
+16. I have shot a lion.
+   (ID: conversation_205_user_2)
+
+17. My husband owns a small auto repair shop.
+   (ID: conversation_43_user_2)
+
+18. I have a timeshare in mexico.
+   (ID: conversation_81_user_2)
+
+19. I have allergies.
+   (ID: conversation_90_user_2)
+
+20. I have my own channel.
+   (ID: conversation_272_user_2)
+
+
+============================================================

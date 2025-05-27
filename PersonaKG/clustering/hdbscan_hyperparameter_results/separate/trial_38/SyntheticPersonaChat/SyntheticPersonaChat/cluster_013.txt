@@ -1,0 +1,33 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My brother is in the army.
+   (ID: conversation_130_user_2)
+
+2. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+3. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+4. My best friend lives in japan.
+   (ID: conversation_152_user_2)
+
+5. My girlfriend lives in salt lake city.
+   (ID: conversation_184_user_1)
+
+
+============================================================

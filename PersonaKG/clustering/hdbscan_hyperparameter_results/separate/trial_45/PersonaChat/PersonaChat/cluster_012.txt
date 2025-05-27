@@ -1,0 +1,33 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i've male pattern baldness .
+   (ID: conversation_138)
+
+2. i can only see 200 feet in front of me .
+   (ID: conversation_34)
+
+3. i am colorblind .
+   (ID: conversation_109)
+
+4. i have brown hair .
+   (ID: conversation_3)
+
+5. i wear contacts .
+   (ID: conversation_3)
+
+
+============================================================

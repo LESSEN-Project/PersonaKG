@@ -1,0 +1,39 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.801
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I have a 3 year old.
+   (ID: conversation_326_user_2)
+
+2. I go to at least 10 concerts a year.
+   (ID: conversation_309_user_1)
+
+3. This is my second year in the league.
+   (ID: conversation_219_user_2)
+
+4. I had 128 tackles last year.
+   (ID: conversation_323_user_2)
+
+5. I have made over 90 , 000 on trifecta bets alone this year.
+   (ID: conversation_248_user_2)
+
+6. Once a year , i take a week off and head to florida.
+   (ID: conversation_144_user_2)
+
+7. I start an internship in engineering later this year.
+   (ID: conversation_82_user_2)
+
+
+============================================================

@@ -1,0 +1,36 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i drive a prius .
+   (ID: conversation_68)
+
+2. i drive a jag .
+   (ID: conversation_169)
+
+3. my car is green and smells weird .
+   (ID: conversation_162)
+
+4. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+5. i own a black suburban .
+   (ID: conversation_75)
+
+6. my car is pink .
+   (ID: conversation_58)
+
+
+============================================================

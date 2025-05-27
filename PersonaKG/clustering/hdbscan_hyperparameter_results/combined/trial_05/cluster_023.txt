@@ -1,0 +1,43 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PER-CHAT: 3 (60.0%)
+  PersonaChat: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I am big fan of dark souls.
+   (ID: 8d3203bd3c61b13e57c27bd43fd1be11143f449a)
+
+2. My entertainment is one piece.
+   (ID: a5976f282a96c036f5e4d14957305323c9a5776d)
+
+3. music and monster hunter .
+   (ID: 42d20fb8523115a55130d58a232603b846ad13a0)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i read sci fi space adventures with a passion .
+   (ID: conversation_25)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am addicted to the hit show empire.
+   (ID: conversation_76_user_2)
+
+
+============================================================

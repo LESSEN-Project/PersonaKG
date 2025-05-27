@@ -1,0 +1,45 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.944
+
+Dataset distribution in this cluster:
+  PersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i drive a jag .
+   (ID: conversation_169)
+
+2. i drive a prius .
+   (ID: conversation_68)
+
+3. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+4. i own a hearse .
+   (ID: conversation_5)
+
+5. i ride my red bike to work everyday .
+   (ID: conversation_29)
+
+6. i do not drive .
+   (ID: conversation_56)
+
+7. my car is pink .
+   (ID: conversation_58)
+
+8. my car is green and smells weird .
+   (ID: conversation_162)
+
+9. i own a black suburban .
+   (ID: conversation_75)
+
+
+============================================================

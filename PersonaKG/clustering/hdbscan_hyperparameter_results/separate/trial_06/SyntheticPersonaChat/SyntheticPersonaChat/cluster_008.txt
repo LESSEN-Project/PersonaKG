@@ -1,0 +1,33 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I currently suffer from social anxiety.
+   (ID: conversation_72_user_2)
+
+2. I struggle with maintaining eye contact.
+   (ID: conversation_147_user_2)
+
+3. I have borderline personality disorder.
+   (ID: conversation_270_user_2)
+
+4. I am a recovering alcoholic.
+   (ID: conversation_375_user_2)
+
+5. Formal situations make me uncomfortable.
+   (ID: conversation_298_user_1)
+
+
+============================================================

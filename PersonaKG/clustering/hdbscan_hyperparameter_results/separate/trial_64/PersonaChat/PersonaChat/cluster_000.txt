@@ -1,0 +1,36 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.842
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i have trouble getting along with family .
+   (ID: conversation_247)
+
+2. i help around with bookkeeping and tours .
+   (ID: conversation_20)
+
+3. we help each other out in my family .
+   (ID: conversation_229)
+
+4. my family is very important to me .
+   (ID: conversation_189)
+
+5. my family migrated to america when i was five .
+   (ID: conversation_22)
+
+6. i'm all about family and fun .
+   (ID: conversation_110)
+
+
+============================================================

@@ -1,0 +1,46 @@
+CLUSTER 332
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.833
+
+Dataset distribution in this cluster:
+  MSC: 1 (16.7%)
+  PEC: 4 (66.7%)
+  PER-CHAT: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm an american.
+   (ID: dialog_23_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i have no desire to be american .
+   (ID: trav110)
+
+2. i have american dollars in the banks
+   (ID: BoonTobias)
+
+3. i spotted the american !
+   (ID: zsnajorrah)
+
+4. i 'm neither rich , nor american .
+   (ID: exotics)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+============================================================

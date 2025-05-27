@@ -1,0 +1,36 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.978
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i need certain medications to live .
+   (ID: conversation_171)
+
+2. i have epilepsy .
+   (ID: conversation_55)
+
+3. i've male pattern baldness .
+   (ID: conversation_138)
+
+4. i've a lot of medical bills .
+   (ID: conversation_126)
+
+5. i think i might need help .
+   (ID: conversation_159)
+
+6. i think i need botos soon .
+   (ID: conversation_142)
+
+
+============================================================

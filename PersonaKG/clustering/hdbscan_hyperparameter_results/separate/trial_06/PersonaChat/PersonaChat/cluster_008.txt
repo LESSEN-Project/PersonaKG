@@ -1,0 +1,39 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.981
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i have one blue eye and one hazel eye .
+   (ID: conversation_386)
+
+2. i've male pattern baldness .
+   (ID: conversation_138)
+
+3. i have freckles .
+   (ID: conversation_379)
+
+4. my hair is as red as the sunset .
+   (ID: conversation_274)
+
+5. i keep my hair cut very short .
+   (ID: conversation_222)
+
+6. i have brown hair .
+   (ID: conversation_3)
+
+7. i've a thick full beard .
+   (ID: conversation_274)
+
+
+============================================================

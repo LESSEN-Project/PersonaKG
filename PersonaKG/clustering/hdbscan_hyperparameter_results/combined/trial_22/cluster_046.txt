@@ -1,0 +1,72 @@
+CLUSTER 46
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.976
+
+Dataset distribution in this cluster:
+  MSC: 1 (7.7%)
+  PEC: 1 (7.7%)
+  PER-CHAT: 9 (69.2%)
+  PersonaChat: 2 (15.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I live on the east coast.
+   (ID: dialog_76_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i live near buffalo and flamingo .
+   (ID: maullove)
+
+
+--- PER-CHAT ---
+Total from this dataset: 9
+
+1. I live in near ethanac.
+   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
+
+2. to go live with a cult to see how they were treating my grandma .
+   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
+
+3. I live in flight path.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+4. live in the bush with nature .
+   (ID: 34f464edef8ed81ef72be258369179fe6e6dcb81)
+
+5. I live in anime speed racer.
+   (ID: f024c8cde5b36a880df271cca31792d32264df2c)
+
+6. I live in violent childhood.
+   (ID: 29942a78b7e39eb2e5795ee4999fbec533533cd5)
+
+7. I live in golden rule.
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+8. I live in liking science astronomy.
+   (ID: c69ba20c8286f807f6219a451e4448f951938f31)
+
+9. because we live here , this universe . still so much unknown .
+   (ID: d42f47f147cdc8e97117f0e4963e2c1309d1dcd8)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+2. i live down the street from miley cyrus and pnb rock .
+   (ID: conversation_184)
+
+
+============================================================

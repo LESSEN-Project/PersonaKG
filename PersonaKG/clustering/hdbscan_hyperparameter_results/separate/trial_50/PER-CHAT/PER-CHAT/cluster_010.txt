@@ -1,0 +1,42 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PER-CHAT: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PER-CHAT ---
+Total from this dataset: 8
+
+1. what are you doing in aws ? this question is just way to broad .
+   (ID: 76442d997e7f64c10223aeac0f4ff8af70ff9dde)
+
+2. I'm interested in real estate.
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+3. I'm interested in running.
+   (ID: 114e3678c6af9d322985bb4656e33b19c03a0479)
+
+4. I am senior architectural technologist.
+   (ID: 597db748e9e223db2b7d3a7e2d79893e3cc7cd0a)
+
+5. I'm interested in environment.
+   (ID: 8f22657eff8a2d9aeade346926843c63f2a21e0a)
+
+6. I'm interested in entrepreneurship.
+   (ID: d45001f1fdd37cda488cfddffabec23e83ee7b7e)
+
+7. I am javascript/typescript developer.
+   (ID: 1e957bc2bad03e6fb263415b4b77a8ab78811bad)
+
+8. I'm interested in cooking.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+
+============================================================

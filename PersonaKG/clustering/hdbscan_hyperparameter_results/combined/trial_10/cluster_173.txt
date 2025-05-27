@@ -1,0 +1,169 @@
+CLUSTER 173
+============================================================
+Total statements in cluster: 55
+Cluster persistence (stability): 0.588
+
+Dataset distribution in this cluster:
+  FoCus: 2 (3.6%)
+  MSC: 7 (12.7%)
+  PEC: 4 (7.3%)
+  PER-CHAT: 33 (60.0%)
+  PersonaChat: 6 (10.9%)
+  SyntheticPersonaChat: 3 (5.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I am Mississippi on business.
+   (ID: AGVUC45C9W9X_7)
+
+2. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+
+--- MSC ---
+Total from this dataset: 7
+
+1. I live in Seattle.
+   (ID: dialog_38_speaker_1)
+
+2. I do not travel much.
+   (ID: dialog_8_speaker_2)
+
+3. I travel to canada on the weekends.
+   (ID: dialog_15_speaker_1)
+
+4. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+5. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+6. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+7. My home town is Celebration, Florida.
+   (ID: dialog_76_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i up am by pigeon lake - just south of edmonton ..
+   (ID: exotics)
+
+2. i am in the southeast .
+   (ID: deputydan_scubaman)
+
+3. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
+
+4. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+
+--- PER-CHAT ---
+Total from this dataset: 33
+
+1. I live in desert.
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+
+2. I live in year.
+   (ID: 467dbed573790a54a921a28f66e0e68f81106906)
+
+3. I live in grizzly.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+4. I live in trois-rivières.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+5. I live in johor.
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+6. I live in side.
+   (ID: 03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa)
+
+7. I live in flight path.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+8. I live in sticks.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+9. I live in mercury.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+10. I live in nachod county.
+   (ID: 0c68cfdaec11ee0673f6c5aec23193d412bf30ba)
+
+11. I live in venice.
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+12. I live in utrecht.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+13. I live in adachiku.
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+14. I live in heart.
+   (ID: 445ba4596e4bcff0c96b23f038cf784185970198)
+
+15. I live in snowy wasteland.
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+16. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+17. I live in pp stories.
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+18. I live in place.
+   (ID: 05bc4f6f6f6bb573d85181292f88efbd50c59547)
+
+19. I live in fruit country.
+   (ID: e036cce09e42b447bacae037ef33243f155fd2bf)
+
+20. I live in bedford.
+   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i live in nashville .
+   (ID: conversation_117)
+
+2. i come from a small town .
+   (ID: conversation_2)
+
+3. i live in rural wisconsin .
+   (ID: conversation_15)
+
+4. my mother was born in ireland .
+   (ID: conversation_38)
+
+5. i was born in baton rouge .
+   (ID: conversation_138)
+
+6. my grandma is from denmark .
+   (ID: conversation_162)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+2. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+3. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+
+============================================================

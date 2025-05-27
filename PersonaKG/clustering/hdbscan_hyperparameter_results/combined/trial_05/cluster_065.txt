@@ -1,0 +1,56 @@
+CLUSTER 65
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (16.7%)
+  MPChat: 1 (16.7%)
+  PEC: 2 (33.3%)
+  PER-CHAT: 1 (16.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am studying coal mines.
+   (ID: N1SMQLB7T5J7_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i was writing down a pattern and my husband aksed me what the novel i was writing was about
+   (ID: Sophie74656)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i have to read an entire book to understand this
+   (ID: lambsquatch)
+
+2. i 'm familiar with octaves , and how to transpose a scale to reach other octaves .
+   (ID: Bananafoofoofwee)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. how and what do you read in you head .
+   (ID: fca46720f9aa154a0559b1e4d2d28cb0df46b00a)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am studying software development.
+   (ID: conversation_121_user_2)
+
+
+============================================================

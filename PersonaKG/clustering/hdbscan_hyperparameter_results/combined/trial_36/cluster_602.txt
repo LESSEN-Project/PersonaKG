@@ -1,0 +1,89 @@
+CLUSTER 602
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.634
+
+Dataset distribution in this cluster:
+  MPChat: 2 (11.8%)
+  PEC: 6 (35.3%)
+  PER-CHAT: 4 (23.5%)
+  PersonaChat: 4 (23.5%)
+  SyntheticPersonaChat: 1 (5.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i told seamus he has to get a job and start paying rent.
+   (ID: ambora)
+
+2. i started a cafe job again!
+   (ID: pocket_kira)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i already do apple / pear sorting and picking as a job ...
+   (ID: Takumi-Fujiwara)
+
+2. i would be so screwed if i was suddenly out of a job .
+   (ID: chirpyboyandbartjr)
+
+3. i ’m proud of sticking to one job for a while now !
+   (ID: mrhenk9)
+
+4. i 'd rather earn a job than have skydaddy drop it in my lap , thank you .
+   (ID: NyxPeregrinus)
+
+5. i started the job depressed and unmotivated .
+   (ID: redandblack555)
+
+6. i sent him to the slog and gave him a job .
+   (ID: deputydan_scubaman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. do your job above and beyond what is expected of you .
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+2. what is your job , then ?
+   (ID: 78a7be65b9d2e7cebf18280c07d4f44e6f2b3417)
+
+3. being told i wouldn  t be able to do the job because of my physical capabilities in their opinion , but still being offered the job anyway .
+   (ID: c391065478603a686531cbdd50568136a5e14508)
+
+4. it ' s part of my job .
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i had to get a job early as a child .
+   (ID: conversation_116)
+
+2. i have a marketing job .
+   (ID: conversation_267)
+
+3. i take pride in my job managing the restaurant .
+   (ID: conversation_189)
+
+4. i do not have a job .
+   (ID: conversation_120)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My next job will be in the federal court.
+   (ID: conversation_194_user_2)
+
+
+============================================================

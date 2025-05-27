@@ -1,0 +1,51 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.571
+
+Dataset distribution in this cluster:
+  PersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 11
+
+1. my favorite color is blue .
+   (ID: conversation_23)
+
+2. my favorite hobby is chess .
+   (ID: conversation_149)
+
+3. my favorite book is david copperfield .
+   (ID: conversation_57)
+
+4. summer is my favorite season .
+   (ID: conversation_24)
+
+5. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+6. my favorite flower is a rose .
+   (ID: conversation_129)
+
+7. my favorite movie is pretty woman .
+   (ID: conversation_155)
+
+8. my favorite food is popcorn .
+   (ID: conversation_15)
+
+9. my favorite player is mike trout .
+   (ID: conversation_103)
+
+10. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+11. nike cleats are my favorite .
+   (ID: conversation_62)
+
+
+============================================================

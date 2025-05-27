@@ -1,0 +1,54 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.962
+
+Dataset distribution in this cluster:
+  PersonaChat: 12 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 12
+
+1. nike cleats are my favorite .
+   (ID: conversation_62)
+
+2. my favorite book is david copperfield .
+   (ID: conversation_57)
+
+3. my favorite hobby is chess .
+   (ID: conversation_149)
+
+4. my favorite food is popcorn .
+   (ID: conversation_15)
+
+5. my favorite tv show is dancing with the stars .
+   (ID: conversation_144)
+
+6. my favorite movie is pretty woman .
+   (ID: conversation_155)
+
+7. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+8. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+9. my favorite player is mike trout .
+   (ID: conversation_103)
+
+10. my favorite flower is a rose .
+   (ID: conversation_129)
+
+11. my favorite color is blue .
+   (ID: conversation_23)
+
+12. summer is my favorite season .
+   (ID: conversation_24)
+
+
+============================================================

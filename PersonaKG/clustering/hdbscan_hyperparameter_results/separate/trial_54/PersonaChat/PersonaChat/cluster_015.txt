@@ -1,0 +1,36 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. my father lives in china .
+   (ID: conversation_6)
+
+2. my father worked for ge .
+   (ID: conversation_11)
+
+3. my father was also in the military .
+   (ID: conversation_89)
+
+4. my father is in prison .
+   (ID: conversation_146)
+
+5. i thought of joining the military when i was younger .
+   (ID: conversation_113)
+
+6. my father was an author .
+   (ID: conversation_9)
+
+
+============================================================

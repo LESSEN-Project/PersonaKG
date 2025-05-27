@@ -1,0 +1,47 @@
+CLUSTER 258
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.959
+
+Dataset distribution in this cluster:
+  PEC: 7 (87.5%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i 'm burning up here !
+   (ID: DarkMoon99)
+
+2. i 'm too drunk for this .
+   (ID: bmeckel)
+
+3. i 'm in the fast lane .
+   (ID: VanGoJourney)
+
+4. i hate you .
+   (ID: bmeckel)
+
+5. i 'm a little too high .
+   (ID: Mahatma_Panda)
+
+6. i 'm jiggling on my chair !
+   (ID: Ml7500)
+
+7. i could use a new job
+   (ID: ProJokeExplainer)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My next job will be in the federal court.
+   (ID: conversation_194_user_2)
+
+
+============================================================

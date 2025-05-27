@@ -1,0 +1,33 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My husband is 20 years older than me.
+   (ID: conversation_113_user_2)
+
+2. I m a older woman.
+   (ID: conversation_60_user_2)
+
+3. I have a girlfriend of 7 years.
+   (ID: conversation_72_user_2)
+
+4. I am 10 years old.
+   (ID: conversation_5_user_2)
+
+5. I have played since i was 4 years old.
+   (ID: conversation_94_user_2)
+
+
+============================================================

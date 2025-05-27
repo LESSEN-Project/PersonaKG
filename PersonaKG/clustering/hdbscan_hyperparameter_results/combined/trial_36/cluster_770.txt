@@ -1,0 +1,57 @@
+CLUSTER 770
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.950
+
+Dataset distribution in this cluster:
+  FoCus: 1 (12.5%)
+  PEC: 4 (50.0%)
+  PersonaChat: 2 (25.0%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have some articles about Benjamin W. Chidlaw.
+   (ID: TBZIWSGJCM17_11)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i recently flew to bonaire on a refurbished delta jet with these and it was sweet .
+   (ID: deputydan_scubaman)
+
+2. i recently discovered it and i 'm amazed .
+   (ID: Nheea)
+
+3. i have recently been to chennai and they are accepting the coins there .
+   (ID: godspeedone)
+
+4. i had a pair hemmed recently for $ 6
+   (ID: Captain_-H)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i m recently divorced .
+   (ID: conversation_263)
+
+2. i recently had a private lunch with will ferrell .
+   (ID: conversation_227)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I recently had knee surgery.
+   (ID: conversation_149_user_2)
+
+
+============================================================

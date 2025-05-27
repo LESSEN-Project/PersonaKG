@@ -1,0 +1,52 @@
+CLUSTER 728
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.948
+
+Dataset distribution in this cluster:
+  MSC: 1 (12.5%)
+  PEC: 6 (75.0%)
+  PersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I much prefer warm weather sports.
+   (ID: dialog_31_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i prefer natural .
+   (ID: Sabiola)
+
+2. i 'd prefer not to do a dozen quests all over again and get nothing for them .
+   (ID: WiseScratch)
+
+3. i always prefer their precision for notes .
+   (ID: Beachsurfer)
+
+4. i would prefer to put an arm in each and then do jazz hands .
+   (ID: JimmyMcShiv)
+
+5. i prefer dancing ladies .
+   (ID: harumpf)
+
+6. i prefer your estranged cousin , donut bomb
+   (ID: JacredCat)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+
+============================================================

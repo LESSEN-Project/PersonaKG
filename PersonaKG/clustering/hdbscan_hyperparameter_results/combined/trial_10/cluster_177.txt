@@ -1,0 +1,52 @@
+CLUSTER 177
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.976
+
+Dataset distribution in this cluster:
+  FoCus: 1 (12.5%)
+  PersonaChat: 5 (62.5%)
+  SyntheticPersonaChat: 2 (25.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I like to visit palaces.
+   (ID: OJ5U23I3FV0N_11)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i like to travel .
+   (ID: conversation_9)
+
+2. i love bicycling .
+   (ID: conversation_3)
+
+3. i like to snowboard .
+   (ID: conversation_15)
+
+4. i like to go hunting .
+   (ID: conversation_0)
+
+5. i like to play sports and get fresh air .
+   (ID: conversation_191)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I like to garden.
+   (ID: conversation_12_user_1)
+
+2. I love to do yoga.
+   (ID: conversation_92_user_1)
+
+
+============================================================

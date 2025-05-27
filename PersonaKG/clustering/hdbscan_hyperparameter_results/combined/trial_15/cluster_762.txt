@@ -1,0 +1,46 @@
+CLUSTER 762
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (16.7%)
+  PEC: 1 (16.7%)
+  PersonaChat: 4 (66.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My father is a minister.
+   (ID: dialog_40_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i am your father
+   (ID: RonaldFuckingPaul)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. my father was born in australia .
+   (ID: conversation_9)
+
+2. my father was an author .
+   (ID: conversation_9)
+
+3. my father was also in the military .
+   (ID: conversation_89)
+
+4. my father is in prison .
+   (ID: conversation_146)
+
+
+============================================================

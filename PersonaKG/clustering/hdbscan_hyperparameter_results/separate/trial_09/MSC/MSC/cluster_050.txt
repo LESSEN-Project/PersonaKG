@@ -1,0 +1,33 @@
+CLUSTER 50
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I grew up well off.
+   (ID: dialog_154_speaker_2)
+
+2. I grew up in a library.
+   (ID: dialog_158_speaker_1)
+
+3. I can jam. My wife likes to cook. My wife occasionally makes mac and cheese, but it isn't the best.
+   (ID: dialog_0_speaker_1)
+
+4. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+5. My name is Bill. I grew up in Alabama.
+   (ID: dialog_53_speaker_1)
+
+
+============================================================

@@ -1,0 +1,57 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.920
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 13 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 13
+
+1. I don t work.
+   (ID: conversation_4_user_1)
+
+2. I don t like feeling controlled.
+   (ID: conversation_3_user_2)
+
+3. I don t like my reputation.
+   (ID: conversation_3_user_2)
+
+4. I don t like the beach.
+   (ID: conversation_340_user_2)
+
+5. I don t treat my girlfriend very well.
+   (ID: conversation_347_user_1)
+
+6. I don t drive.
+   (ID: conversation_146_user_2)
+
+7. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+8. I don t know why my sister in law dislikes me.
+   (ID: conversation_98_user_2)
+
+9. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+10. My brother thinks he is a viking.
+   (ID: conversation_309_user_2)
+
+11. I don t like acting.
+   (ID: conversation_461_user_2)
+
+12. I have a brother but we don t talk much yet.
+   (ID: conversation_509_user_2)
+
+13. I don t own a television.
+   (ID: conversation_243_user_2)
+
+
+============================================================

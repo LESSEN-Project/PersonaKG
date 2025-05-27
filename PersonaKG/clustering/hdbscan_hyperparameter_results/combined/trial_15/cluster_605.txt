@@ -1,0 +1,92 @@
+CLUSTER 605
+============================================================
+Total statements in cluster: 18
+Cluster persistence (stability): 0.565
+
+Dataset distribution in this cluster:
+  MPChat: 2 (11.1%)
+  PEC: 7 (38.9%)
+  PER-CHAT: 4 (22.2%)
+  PersonaChat: 4 (22.2%)
+  SyntheticPersonaChat: 1 (5.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i started a cafe job again!
+   (ID: pocket_kira)
+
+2. i told seamus he has to get a job and start paying rent.
+   (ID: ambora)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i started the job depressed and unmotivated .
+   (ID: redandblack555)
+
+2. i already do apple / pear sorting and picking as a job ...
+   (ID: Takumi-Fujiwara)
+
+3. i 'd rather earn a job than have skydaddy drop it in my lap , thank you .
+   (ID: NyxPeregrinus)
+
+4. i ’m proud of sticking to one job for a while now !
+   (ID: mrhenk9)
+
+5. i would be so screwed if i was suddenly out of a job .
+   (ID: chirpyboyandbartjr)
+
+6. i sent him to the slog and gave him a job .
+   (ID: deputydan_scubaman)
+
+7. i omit any job that was under 6 months too .
+   (ID: IgnoranceIsAVirus)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. what is your job , then ?
+   (ID: 78a7be65b9d2e7cebf18280c07d4f44e6f2b3417)
+
+2. being told i wouldn  t be able to do the job because of my physical capabilities in their opinion , but still being offered the job anyway .
+   (ID: c391065478603a686531cbdd50568136a5e14508)
+
+3. do your job above and beyond what is expected of you .
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+4. it ' s part of my job .
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i had to get a job early as a child .
+   (ID: conversation_116)
+
+2. i take pride in my job managing the restaurant .
+   (ID: conversation_189)
+
+3. i do not have a job .
+   (ID: conversation_120)
+
+4. i have a marketing job .
+   (ID: conversation_267)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My next job will be in the federal court.
+   (ID: conversation_194_user_2)
+
+
+============================================================

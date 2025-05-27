@@ -1,0 +1,97 @@
+CLUSTER 204
+============================================================
+Total statements in cluster: 18
+Cluster persistence (stability): 0.993
+
+Dataset distribution in this cluster:
+  FoCus: 1 (5.6%)
+  MSC: 5 (27.8%)
+  PEC: 5 (27.8%)
+  PER-CHAT: 1 (5.6%)
+  PersonaChat: 4 (22.2%)
+  SyntheticPersonaChat: 2 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have never watched state high school football championships before.
+   (ID: FCHHL9I1PIW0_11)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I take school for points.
+   (ID: dialog_87_speaker_2)
+
+2. I am worried about school shootings.
+   (ID: dialog_91_speaker_1)
+
+3. I ran in high school.
+   (ID: dialog_0_speaker_1)
+
+4. I am a middle school cheerleading coach.
+   (ID: dialog_76_speaker_1)
+
+5. I practice lock down drills at school.
+   (ID: dialog_91_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i go to tiny school and despite being a freshmen there ’s no one to bully me
+   (ID: FrankOfTheDank)
+
+2. i 'm ashamed to associate myself with that school .
+   (ID: silentpower)
+
+3. i was wondering , since i learned 7 as ' nana ' in high school .
+   (ID: Piraticalstyle)
+
+4. i wanna see your high school diploma !
+   (ID: rspewth)
+
+5. i could n’t get a strike with bumpers when i was in middle school
+   (ID: FrankOfTheDank)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I own a tech school.
+   (ID: b2c623940e1acb4e269cab1c8f1920e03da9e429)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i m currently in nursing school .
+   (ID: conversation_200)
+
+2. i married my high school sweetheart .
+   (ID: conversation_206)
+
+3. i go to a private high school .
+   (ID: conversation_87)
+
+4. my boyfriend is in acting school .
+   (ID: conversation_245)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I moved to ny to study in a prestigious designing school.
+   (ID: conversation_191_user_2)
+
+2. I have not been on a date since high school.
+   (ID: conversation_248_user_2)
+
+
+============================================================

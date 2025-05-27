@@ -1,0 +1,33 @@
+CLUSTER 11
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I eat ice cream when i am sad.
+   (ID: conversation_152_user_2)
+
+2. I eat all take out.
+   (ID: conversation_2_user_1)
+
+3. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+4. I like to eat spaghetti.
+   (ID: conversation_103_user_2)
+
+5. I can t eat shrimp.
+   (ID: conversation_19_user_1)
+
+
+============================================================

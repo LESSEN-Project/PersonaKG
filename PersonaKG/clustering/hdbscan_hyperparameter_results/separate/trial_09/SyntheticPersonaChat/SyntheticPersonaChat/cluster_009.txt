@@ -1,0 +1,33 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I want to be an astronaut when i grow up.
+   (ID: conversation_136_user_2)
+
+2. When i retire i want to open a bakery.
+   (ID: conversation_28_user_2)
+
+3. If i were to be reincarnated , i d want to come back as a hippopotamus.
+   (ID: conversation_421_user_2)
+
+4. Before i die , i want to skydive.
+   (ID: conversation_82_user_2)
+
+5. I want to learn how to fly an airplane.
+   (ID: conversation_232_user_2)
+
+
+============================================================

@@ -1,0 +1,36 @@
+CLUSTER 32
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.897
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. my adopted dad works at hp .
+   (ID: conversation_324)
+
+2. i never knew my dad .
+   (ID: conversation_90)
+
+3. my dad is very strict with his kids .
+   (ID: conversation_270)
+
+4. my dad works for ups .
+   (ID: conversation_384)
+
+5. i had one step dad , and fortunately he ignored me .
+   (ID: conversation_179)
+
+6. i miss my dad .
+   (ID: conversation_84)
+
+
+============================================================

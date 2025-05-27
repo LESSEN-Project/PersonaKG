@@ -1,0 +1,51 @@
+CLUSTER 771
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 3 (50.0%)
+  PEC: 1 (16.7%)
+  PER-CHAT: 1 (16.7%)
+  PersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I enlighten young minds.
+   (ID: dialog_86_speaker_2)
+
+2. Las vegas was my stomping ground when I was young.
+   (ID: dialog_10_speaker_1)
+
+3. I'm a young professional.
+   (ID: dialog_91_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm a young un so go easy on me for being ignorant
+   (ID: techdude21)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. that ' s what the young liberal generation is
+   (ID: 0fbaeef283f7b2090f763028c227ed73724f3e6c)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'm young .
+   (ID: conversation_96)
+
+
+============================================================

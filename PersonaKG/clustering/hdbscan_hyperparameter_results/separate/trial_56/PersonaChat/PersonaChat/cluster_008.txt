@@ -1,0 +1,66 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 16
+Cluster persistence (stability): 0.814
+
+Dataset distribution in this cluster:
+  PersonaChat: 16 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 16
+
+1. i work at a museum .
+   (ID: conversation_32)
+
+2. i ride my red bike to work everyday .
+   (ID: conversation_29)
+
+3. i work on cars for a living .
+   (ID: conversation_18)
+
+4. i sleep 10 hours every day because my work is tiring .
+   (ID: conversation_44)
+
+5. i currently work at target .
+   (ID: conversation_160)
+
+6. i work at a smoothie shop .
+   (ID: conversation_12)
+
+7. i work many hours .
+   (ID: conversation_8)
+
+8. i used to work for a cable company .
+   (ID: conversation_76)
+
+9. i work as a vet .
+   (ID: conversation_282)
+
+10. one day i played the lottery .
+   (ID: conversation_208)
+
+11. i work at home on my computer .
+   (ID: conversation_236)
+
+12. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+13. i work for a large law firm .
+   (ID: conversation_30)
+
+14. my brothers work with me .
+   (ID: conversation_189)
+
+15. i work as a stand up comedian .
+   (ID: conversation_2)
+
+16. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+
+============================================================

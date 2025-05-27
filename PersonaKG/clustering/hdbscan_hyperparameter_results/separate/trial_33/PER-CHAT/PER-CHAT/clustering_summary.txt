@@ -1,0 +1,49 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 19148
+Vectorization method: hybrid
+Number of clusters: 34
+Number of noise points: 16613 (86.8%)
+Analysis type: clusters
+Timestamp: 2025-05-27 15:37:08
+
+Dataset Distribution:
+  PER-CHAT: 19148 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 25: 619 statements (persistence: 0.928)
+  Cluster 30: 372 statements (persistence: 0.958)
+  Cluster 2: 197 statements (persistence: 0.305)
+  Cluster 33: 96 statements (persistence: 0.789)
+  Cluster 29: 82 statements (persistence: 0.699)
+  Cluster 19: 79 statements (persistence: 0.707)
+  Cluster 3: 73 statements (persistence: 0.827)
+  Cluster 7: 58 statements (persistence: 0.847)
+  Cluster 16: 55 statements (persistence: 0.780)
+  Cluster 26: 53 statements (persistence: 0.839)
+  Cluster 4: 52 statements (persistence: 0.861)
+  Cluster 32: 52 statements (persistence: 0.819)
+  Cluster 28: 50 statements (persistence: 0.853)
+  Cluster 20: 49 statements (persistence: 0.831)
+  Cluster 18: 46 statements (persistence: 0.888)
+  Cluster 22: 45 statements (persistence: 0.810)
+  Cluster 12: 43 statements (persistence: 0.771)
+  Cluster 27: 43 statements (persistence: 0.826)
+  Cluster 10: 42 statements (persistence: 0.921)
+  Cluster 6: 40 statements (persistence: 0.881)
+  Cluster 9: 40 statements (persistence: 0.935)
+  Cluster 23: 40 statements (persistence: 0.841)
+  Cluster 21: 37 statements (persistence: 0.942)
+  Cluster 24: 36 statements (persistence: 0.937)
+  Cluster 14: 35 statements (persistence: 0.856)
+  Cluster 1: 29 statements (persistence: 0.986)
+  Cluster 17: 28 statements (persistence: 0.933)
+  Cluster 8: 26 statements (persistence: 0.959)
+  Cluster 15: 26 statements (persistence: 0.982)
+  Cluster 0: 20 statements (persistence: 0.985)
+  Cluster 31: 20 statements (persistence: 0.985)
+  Cluster 11: 19 statements (persistence: 0.994)
+  Cluster 5: 17 statements (persistence: 0.999)
+  Cluster 13: 16 statements (persistence: 1.000)

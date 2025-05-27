@@ -1,0 +1,39 @@
+CLUSTER 35
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. my name is omar .
+   (ID: conversation_42)
+
+2. my name is todd .
+   (ID: conversation_119)
+
+3. i am witty .
+   (ID: conversation_65)
+
+4. i can be quite forgetful .
+   (ID: conversation_37)
+
+5. i have four sisters .
+   (ID: conversation_1)
+
+6. my name is gerald .
+   (ID: conversation_207)
+
+7. my number is 42 .
+   (ID: conversation_62)
+
+
+============================================================

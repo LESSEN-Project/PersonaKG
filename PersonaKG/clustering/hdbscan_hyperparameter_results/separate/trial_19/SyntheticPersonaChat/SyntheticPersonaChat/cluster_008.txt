@@ -1,0 +1,51 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.908
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 11
+
+1. I play video games all day.
+   (ID: conversation_0_user_1)
+
+2. I wear glasses all day.
+   (ID: conversation_170_user_1)
+
+3. I talk to my mom on the phone every day.
+   (ID: conversation_103_user_1)
+
+4. I like to sit on couch all day.
+   (ID: conversation_31_user_2)
+
+5. I only sleep 3 hours a day.
+   (ID: conversation_9_user_2)
+
+6. I hope to one day be happy with myself.
+   (ID: conversation_162_user_2)
+
+7. I run more then 2 miles a day even though i hate it.
+   (ID: conversation_180_user_2)
+
+8. I haven t had to work a day in my life.
+   (ID: conversation_98_user_2)
+
+9. I almost always wear a t shirt and jeans.
+   (ID: conversation_42_user_2)
+
+10. I talk in my sleep.
+   (ID: conversation_163_user_1)
+
+11. I only wear silver jewelry.
+   (ID: conversation_157_user_2)
+
+
+============================================================

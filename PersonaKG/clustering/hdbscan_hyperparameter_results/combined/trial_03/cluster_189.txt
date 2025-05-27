@@ -1,0 +1,51 @@
+CLUSTER 189
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.924
+
+Dataset distribution in this cluster:
+  FoCus: 2 (33.3%)
+  PER-CHAT: 1 (16.7%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I don't like Pollution.
+   (ID: AN8LSF1PEYK2_11)
+
+2. I don't like forest.
+   (ID: T815O8KC30IG_9)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. the kind i don ' t like , obviously .
+   (ID: ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i don t like the beach .
+   (ID: conversation_94)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I don t like feeling controlled.
+   (ID: conversation_3_user_2)
+
+2. I don t like my reputation.
+   (ID: conversation_3_user_2)
+
+
+============================================================

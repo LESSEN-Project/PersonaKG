@@ -1,0 +1,220 @@
+CLUSTER 40
+============================================================
+Total statements in cluster: 295
+Cluster persistence (stability): 0.948
+
+Dataset distribution in this cluster:
+  FoCus: 7 (2.4%)
+  MSC: 7 (2.4%)
+  PEC: 8 (2.7%)
+  PER-CHAT: 256 (86.8%)
+  PersonaChat: 12 (4.1%)
+  SyntheticPersonaChat: 5 (1.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 7
+
+1. I love Pasterze glacier.
+   (ID: YLLQOXHD6MZC_7)
+
+2. I love Hanumappa Nayaka.
+   (ID: UN54IACHSTX5_11)
+
+3. I like New York.
+   (ID: XXU24CBOXMRE_7)
+
+4. I like Lake Burragorang.
+   (ID: KHRYE9OFUIMW_9)
+
+5. I love visiting canada.
+   (ID: NETYMHGQTGLI_9)
+
+6. I love mountain pass.
+   (ID: FZ7IE8MUIWRS_9)
+
+7. I like to visit North Carolina.
+   (ID: PK2U426B57KL_9)
+
+
+--- MSC ---
+Total from this dataset: 7
+
+1. I like mexican foods a lot.
+   (ID: dialog_12_speaker_1)
+
+2. I enjoy burgers.
+   (ID: dialog_33_speaker_2)
+
+3. I am a huge fan of chocolate poodles.
+   (ID: dialog_10_speaker_1)
+
+4. Pepperoni is my favorite topping.
+   (ID: dialog_23_speaker_1)
+
+5. My favorite cuisine is thai.
+   (ID: dialog_23_speaker_2)
+
+6. Jerk chicken with red beans and rice, macaroni and cheese are some of my favorite foods.
+   (ID: dialog_0_speaker_2)
+
+7. I like eating at new places.
+   (ID: dialog_16_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i enjoy chips n ice cream too lol
+   (ID: Noimnotsally)
+
+2. i love fischer too .
+   (ID: xcombelle)
+
+3. i love oreos .
+   (ID: Noimnotsally)
+
+4. i 've always loved melbourne .
+   (ID: zsnajorrah)
+
+5. i love bishi bashi ; _ _ ;
+   (ID: Mende)
+
+6. i love dorinda !
+   (ID: 11_29_77)
+
+7. i love stella .
+   (ID: amirman)
+
+8. i love beer .
+   (ID: amirman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 256
+
+1. One of my favorite things is pibbles.
+   (ID: 8b7590cb8502d6abd38b320b842aa7642186b6d8)
+
+2. One of my favorite things is pineapple on pizza.
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+3. One of my favorite things is mira/.
+   (ID: dee1be637147c9065afbc159fbd3efc6ff54b847)
+
+4. One of my favorite things is chappelle.
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+5. One of my favorite things is sven.
+   (ID: 3418702de52d65ee261943b207996da3e2569fd2)
+
+6. One of my favorite things is nick podehl.
+   (ID: 6eec77fe98b9dc85ec1e5e7edc37cdb415794719)
+
+7. One of my favorite things is kaitlyn.
+   (ID: f179711c18514780c1b0257643d893ef1cf5a081)
+
+8. One of my favorite things is dwyrin.
+   (ID: 9006d58872586db3bb808208616fdc9c3dff694b)
+
+9. One of my favorite things is botw.
+   (ID: 2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4)
+
+10. One of my favorite things is bisharp.
+   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
+
+11. One of my favorite things is angel.
+   (ID: 2168250be01c43791f88e7c8ad875c0396307047)
+
+12. One of my favorite things is ahsoka.
+   (ID: 0b52265db13bf8bc27ad36aad94e870706eb6689)
+
+13. One of my favorite things is lucio.
+   (ID: 50e37e2011f73f739f76098c3c746e27b8422fd7)
+
+14. One of my favorite things is buckaroo banzai.
+   (ID: 7928bd3c3e727c94ff476240a27ed7199d92d666)
+
+15. One of my favorite things is men.
+   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
+
+16. One of my favorite things is wolfe.
+   (ID: 4654e3a9a75835f9ff28170ddf31d5d3cf296ea2)
+
+17. One of my favorite things is ragnazer.
+   (ID: 46f455b780faca36116964131a4d0622c465bf7f)
+
+18. One of my favorite things is aloyce.
+   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+
+19. One of my favorite things is sam.
+   (ID: 0cfe15b45fa033fe460b061d1625e4bb67bab696)
+
+20. One of my favorite things is pokemon.
+   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
+
+
+--- PersonaChat ---
+Total from this dataset: 12
+
+1. i love living in texas .
+   (ID: conversation_26)
+
+2. my favorite book is david copperfield .
+   (ID: conversation_57)
+
+3. i love hot wings .
+   (ID: conversation_82)
+
+4. i love animals .
+   (ID: conversation_11)
+
+5. going snorkeling is my favorite thing to do .
+   (ID: conversation_69)
+
+6. my favorite food is popcorn .
+   (ID: conversation_15)
+
+7. i love sharks .
+   (ID: conversation_65)
+
+8. i love the beach .
+   (ID: conversation_7)
+
+9. ke ha is my favorite singer of all time .
+   (ID: conversation_26)
+
+10. i love pandas .
+   (ID: conversation_88)
+
+11. i love iced tea .
+   (ID: conversation_1)
+
+12. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My weakness are sweets.
+   (ID: conversation_7_user_1)
+
+2. I like sprite soda.
+   (ID: conversation_20_user_1)
+
+3. I also love orange juice.
+   (ID: conversation_61_user_2)
+
+4. I love ham and cheese sandwiches.
+   (ID: conversation_5_user_2)
+
+5. I like potatoes.
+   (ID: conversation_5_user_1)
+
+
+============================================================

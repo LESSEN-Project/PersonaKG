@@ -1,0 +1,33 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. both my parents were teachers .
+   (ID: conversation_19)
+
+2. my parents recently moved to florida .
+   (ID: conversation_46)
+
+3. i just moved from va to pa .
+   (ID: conversation_167)
+
+4. since i have fibromyalgia , the harsher winters here in pa will be rough on me .
+   (ID: conversation_167)
+
+5. my parents were like this as well .
+   (ID: conversation_110)
+
+
+============================================================

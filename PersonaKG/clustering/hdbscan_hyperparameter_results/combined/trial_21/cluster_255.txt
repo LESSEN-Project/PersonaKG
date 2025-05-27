@@ -1,0 +1,38 @@
+CLUSTER 255
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PER-CHAT: 3 (60.0%)
+  PersonaChat: 2 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. yep . it ' s like a wall in time you can ' t get past no matter what .
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+2. happens all the damn time . i ' d complain but that ' s how i like ' em , they crisp up lovely .
+   (ID: 68d36e5b5d26327bbb5de8de16430cc93353cbf0)
+
+3. ive started calling them besides texting , it works half of the time . but yeah . feeling like your on the outside is real tough .
+   (ID: 13429813198f2aaef97e18644aa776da323f48a1)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i like jogging in my spare time .
+   (ID: conversation_77)
+
+2. i like to donate time at the local animal shelter .
+   (ID: conversation_19)
+
+
+============================================================

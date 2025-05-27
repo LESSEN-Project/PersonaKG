@@ -1,0 +1,38 @@
+CLUSTER 87
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 4 (80.0%)
+  PER-CHAT: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i went through the mue as well and do n't see anything .
+   (ID: rycheme)
+
+2. i had a " 504 error " comment posted also read that other people had noticed this .
+   (ID: SerendipitousCat)
+
+3. i check on reddit everynow and then to see if they fixed it , have n't been suprised .
+   (ID: playertd)
+
+4. i reported this bug . there was absolutely no aknowledgement of the bug of any sort .
+   (ID: xcombelle)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. i open the logs through cmtrace and shows nothing out of the ordinary . next call is to microsoft to see if they can shed some light . oh well .
+   (ID: f8d48136e1ccbc739d4b7fb8db1e8f668422b145)
+
+
+============================================================

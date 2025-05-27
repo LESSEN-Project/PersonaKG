@@ -1,0 +1,42 @@
+CLUSTER 22
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.992
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i take vitamin c when i have a cold .
+   (ID: conversation_183)
+
+2. i am chubby .
+   (ID: conversation_74)
+
+3. i am primarily a meat eater .
+   (ID: conversation_4)
+
+4. i can benchpress 345 pounds .
+   (ID: conversation_224)
+
+5. i m allergic to shellfish .
+   (ID: conversation_28)
+
+6. i m really short .
+   (ID: conversation_57)
+
+7. i'm very athletic .
+   (ID: conversation_3)
+
+8. i think i m failing my women s studies class .
+   (ID: conversation_264)
+
+
+============================================================

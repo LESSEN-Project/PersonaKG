@@ -1,0 +1,48 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 426
+Vectorization method: tfidf
+Number of clusters: 33
+Number of noise points: 69 (16.2%)
+Analysis type: clusters
+Timestamp: 2025-05-27 16:06:21
+
+Dataset Distribution:
+  PersonaChat: 426 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 32: 62 statements (persistence: 1.000)
+  Cluster 11: 23 statements (persistence: 0.478)
+  Cluster 19: 22 statements (persistence: 0.227)
+  Cluster 31: 20 statements (persistence: 0.300)
+  Cluster 4: 18 statements (persistence: 0.333)
+  Cluster 3: 14 statements (persistence: 0.357)
+  Cluster 27: 13 statements (persistence: 0.994)
+  Cluster 28: 11 statements (persistence: 0.625)
+  Cluster 8: 10 statements (persistence: 0.500)
+  Cluster 17: 10 statements (persistence: 1.000)
+  Cluster 21: 10 statements (persistence: 0.762)
+  Cluster 16: 9 statements (persistence: 0.716)
+  Cluster 5: 8 statements (persistence: 0.770)
+  Cluster 10: 8 statements (persistence: 0.695)
+  Cluster 13: 8 statements (persistence: 0.916)
+  Cluster 29: 8 statements (persistence: 0.817)
+  Cluster 30: 8 statements (persistence: 0.931)
+  Cluster 6: 7 statements (persistence: 0.862)
+  Cluster 23: 7 statements (persistence: 0.924)
+  Cluster 24: 7 statements (persistence: 0.976)
+  Cluster 26: 7 statements (persistence: 0.985)
+  Cluster 2: 6 statements (persistence: 0.997)
+  Cluster 12: 6 statements (persistence: 0.951)
+  Cluster 15: 6 statements (persistence: 0.998)
+  Cluster 18: 6 statements (persistence: 0.958)
+  Cluster 20: 6 statements (persistence: 0.909)
+  Cluster 22: 6 statements (persistence: 0.974)
+  Cluster 25: 6 statements (persistence: 1.000)
+  Cluster 0: 5 statements (persistence: 1.000)
+  Cluster 1: 5 statements (persistence: 1.000)
+  Cluster 7: 5 statements (persistence: 1.000)
+  Cluster 9: 5 statements (persistence: 1.000)
+  Cluster 14: 5 statements (persistence: 1.000)

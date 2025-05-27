@@ -1,0 +1,33 @@
+CLUSTER 25
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. Magic mike is my favorite movie.
+   (ID: conversation_294_user_2)
+
+2. My favorite movie is titanic.
+   (ID: conversation_43_user_2)
+
+3. My favorite tv show is rick and morty.
+   (ID: conversation_13_user_2)
+
+4. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+5. I like the movie godfather.
+   (ID: conversation_21_user_1)
+
+
+============================================================

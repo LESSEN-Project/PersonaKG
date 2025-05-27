@@ -1,0 +1,48 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.937
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i never eat veggies .
+   (ID: conversation_96)
+
+2. i only eat organic food .
+   (ID: conversation_210)
+
+3. i've problems chewing my food .
+   (ID: conversation_126)
+
+4. i am on a low carb diet .
+   (ID: conversation_227)
+
+5. pudding makes me gassy .
+   (ID: conversation_26)
+
+6. i hate carrots .
+   (ID: conversation_3)
+
+7. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+8. i don't eat bread .
+   (ID: conversation_183)
+
+9. i hate the taste of cheese .
+   (ID: conversation_105)
+
+10. i hate tofu .
+   (ID: conversation_30)
+
+
+============================================================

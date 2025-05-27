@@ -1,0 +1,39 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I am thin.
+   (ID: conversation_16_user_1)
+
+2. I am bloated.
+   (ID: conversation_30_user_1)
+
+3. I am always hungry.
+   (ID: conversation_204_user_2)
+
+4. My left knee is filled with metal.
+   (ID: conversation_24_user_2)
+
+5. I do not have much energy.
+   (ID: conversation_246_user_2)
+
+6. My back hurts chronically.
+   (ID: conversation_707_user_2)
+
+7. I am lactose intolerant.
+   (ID: conversation_101_user_2)
+
+
+============================================================

@@ -1,0 +1,51 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 11
+
+1. my birthplace is spain .
+   (ID: conversation_492)
+
+2. my father was born in australia .
+   (ID: conversation_9)
+
+3. my family migrated to america when i was five .
+   (ID: conversation_22)
+
+4. my mother was born in ireland .
+   (ID: conversation_38)
+
+5. we help each other out in my family .
+   (ID: conversation_229)
+
+6. my grandma is from denmark .
+   (ID: conversation_162)
+
+7. my best friend is from tanzania .
+   (ID: conversation_379)
+
+8. my family is from algeria .
+   (ID: conversation_403)
+
+9. i am argentinian .
+   (ID: conversation_59)
+
+10. i'm mixed with puerto rica and chinese .
+   (ID: conversation_439)
+
+11. while both my parents have thick european accents , i do not .
+   (ID: conversation_87)
+
+
+============================================================

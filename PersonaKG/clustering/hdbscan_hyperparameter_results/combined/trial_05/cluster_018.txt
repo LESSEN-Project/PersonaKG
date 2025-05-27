@@ -1,0 +1,74 @@
+CLUSTER 18
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.933
+
+Dataset distribution in this cluster:
+  MPChat: 1 (8.3%)
+  PEC: 7 (58.3%)
+  PER-CHAT: 2 (16.7%)
+  PersonaChat: 1 (8.3%)
+  SyntheticPersonaChat: 1 (8.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i can't even make scrambled eggs right.
+   (ID: ablubberducky)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i infer said gentleman does not kiss you .
+   (ID: ChallengeTaken99)
+
+2. i forgot this is reddit and everyone assumes everyone else is a dude .
+   (ID: Mahatma_Panda)
+
+3. i identify way too much for my comfort level .
+   (ID: IgnoranceIsAVirus)
+
+4. i guess it depends on honesty ?
+   (ID: LooksAtClouds)
+
+5. i never said my hands were on anybodys breast
+   (ID: mathieu2em)
+
+6. i ai n't ever done it the hard way .
+   (ID: RelaxedSociety)
+
+7. i 'm a troll in real life too .
+   (ID: ifatree)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. i ask what ' s wrong .
+   (ID: 0254abd776ead925b3c998e740c3ae71d2b4c6e0)
+
+2. I am awkward person.
+   (ID: 82bb111e2180a2ffb997b74ab504aa538034feab)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i tell bad jokes on purpose .
+   (ID: conversation_156)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+
+============================================================

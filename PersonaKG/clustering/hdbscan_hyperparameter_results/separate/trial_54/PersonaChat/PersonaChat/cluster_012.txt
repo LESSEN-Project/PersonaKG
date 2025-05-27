@@ -1,0 +1,36 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.951
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i hate talking to people .
+   (ID: conversation_54)
+
+2. i hate carrots .
+   (ID: conversation_3)
+
+3. i hate evil .
+   (ID: conversation_130)
+
+4. i hate the taste of cheese .
+   (ID: conversation_105)
+
+5. i hate tofu .
+   (ID: conversation_30)
+
+6. i hate that i got my brain from the dad i never met .
+   (ID: conversation_179)
+
+
+============================================================

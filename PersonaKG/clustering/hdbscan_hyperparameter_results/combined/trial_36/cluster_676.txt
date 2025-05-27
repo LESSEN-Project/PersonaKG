@@ -1,0 +1,69 @@
+CLUSTER 676
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.839
+
+Dataset distribution in this cluster:
+  MSC: 2 (16.7%)
+  PEC: 7 (58.3%)
+  PER-CHAT: 1 (8.3%)
+  PersonaChat: 2 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I prefer wearing a belt.
+   (ID: dialog_31_speaker_2)
+
+2. I much prefer warm weather sports.
+   (ID: dialog_31_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i 'd prefer not to do a dozen quests all over again and get nothing for them .
+   (ID: WiseScratch)
+
+2. i prefer the native win - bash and gnuwin32 tools .
+   (ID: foldor)
+
+3. i always prefer their precision for notes .
+   (ID: Beachsurfer)
+
+4. i would prefer to put an arm in each and then do jazz hands .
+   (ID: JimmyMcShiv)
+
+5. i prefer your estranged cousin , donut bomb
+   (ID: JacredCat)
+
+6. i prefer dancing ladies .
+   (ID: harumpf)
+
+7. i prefer natural .
+   (ID: Sabiola)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. i prefer my ketchup and mustard cold .
+   (ID: 6f13975ce6a8747ec3d0e2207b9ef86d80a28713)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i prefer vinyl records to any other music recording format .
+   (ID: conversation_265)
+
+2. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 36
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I recently started working online.
+   (ID: conversation_10_user_2)
+
+2. My newly bought laptop has a bum battery.
+   (ID: conversation_403_user_2)
+
+3. I recently bought a camper.
+   (ID: conversation_27_user_2)
+
+4. I recently moved to sweden.
+   (ID: conversation_18_user_2)
+
+5. I once started a forest fire in california.
+   (ID: conversation_426_user_2)
+
+
+============================================================

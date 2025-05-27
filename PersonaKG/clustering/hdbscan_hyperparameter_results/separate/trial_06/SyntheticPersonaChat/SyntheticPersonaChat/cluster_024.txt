@@ -1,0 +1,33 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I like books about trains.
+   (ID: conversation_173_user_1)
+
+2. My favorite book is david copperfield.
+   (ID: conversation_19_user_2)
+
+3. 1984 is my favorite book.
+   (ID: conversation_126_user_1)
+
+4. I like thomas the tank engine.
+   (ID: conversation_173_user_1)
+
+5. I love agatha christie novels.
+   (ID: conversation_49_user_2)
+
+
+============================================================

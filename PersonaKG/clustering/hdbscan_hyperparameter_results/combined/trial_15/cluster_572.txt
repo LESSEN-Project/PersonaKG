@@ -1,0 +1,49 @@
+CLUSTER 572
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.901
+
+Dataset distribution in this cluster:
+  MPChat: 3 (42.9%)
+  MSC: 1 (14.3%)
+  PersonaChat: 3 (42.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. my best friend enjoying his afternoon stroll
+   (ID: LiftingNurse)
+
+2. my best friend scout, couldn't imagine this world without him.
+   (ID: ChroniclyDope)
+
+3. this is obie,my best friend companion and copilot.
+   (ID: skrivitor)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I was Maid of Honor at my best friend's wedding.
+   (ID: dialog_77_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. my mom is my best friend .
+   (ID: conversation_1)
+
+2. and , my best friend is calden .
+   (ID: conversation_53)
+
+3. my best friend lives in japan .
+   (ID: conversation_170)
+
+
+============================================================

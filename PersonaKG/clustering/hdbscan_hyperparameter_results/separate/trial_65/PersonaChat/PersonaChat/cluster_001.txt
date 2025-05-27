@@ -1,0 +1,48 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+2. helping people makes me happy .
+   (ID: conversation_134)
+
+3. i'm overall happy with life .
+   (ID: conversation_128)
+
+4. i am in the army .
+   (ID: conversation_35)
+
+5. welding is my career field .
+   (ID: conversation_4)
+
+6. i am training to be a welder .
+   (ID: conversation_178)
+
+7. i take pride in my job managing the restaurant .
+   (ID: conversation_189)
+
+8. i like my job .
+   (ID: conversation_76)
+
+9. i fly airplanes .
+   (ID: conversation_35)
+
+10. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+
+============================================================

@@ -1,0 +1,36 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.893
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. My parents do not know i am gay.
+   (ID: conversation_139_user_2)
+
+2. I have no parents or siblings.
+   (ID: conversation_9_user_2)
+
+3. I leave the dogs home when i visit my parents.
+   (ID: conversation_215_user_2)
+
+4. Both of my parents are doctors.
+   (ID: conversation_260_user_2)
+
+5. I still live at home with my parents.
+   (ID: conversation_0_user_1)
+
+6. My parents were divorced.
+   (ID: conversation_222_user_1)
+
+
+============================================================

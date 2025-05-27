@@ -1,0 +1,45 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  PersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i like to travel .
+   (ID: conversation_9)
+
+2. i like chasing comodo lizards on a private island .
+   (ID: conversation_69)
+
+3. i like to party .
+   (ID: conversation_7)
+
+4. i really like technology .
+   (ID: conversation_85)
+
+5. i still like combat boots with babydoll dresses .
+   (ID: conversation_257)
+
+6. i wonder what it would be like to be a different gender .
+   (ID: conversation_369)
+
+7. i like to go hunting .
+   (ID: conversation_0)
+
+8. someday i would like a truck .
+   (ID: conversation_327)
+
+9. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+
+============================================================

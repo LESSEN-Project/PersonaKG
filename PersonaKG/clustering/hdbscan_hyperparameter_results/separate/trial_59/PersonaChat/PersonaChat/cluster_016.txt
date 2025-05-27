@@ -1,0 +1,36 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i enjoy dating women .
+   (ID: conversation_237)
+
+2. i enjoy shopping .
+   (ID: conversation_71)
+
+3. i especially enjoy listening to the band the mutineers .
+   (ID: conversation_163)
+
+4. i enjoy eating pumpkins .
+   (ID: conversation_174)
+
+5. i enjoy playing with edged weapons .
+   (ID: conversation_287)
+
+6. i enjoy playing retro video games on my 386 .
+   (ID: conversation_31)
+
+
+============================================================

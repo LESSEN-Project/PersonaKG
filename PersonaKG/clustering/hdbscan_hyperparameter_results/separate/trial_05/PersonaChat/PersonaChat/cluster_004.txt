@@ -1,0 +1,33 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i love eating shrimp , and i like to dip them into barbecue sauce .
+   (ID: conversation_174)
+
+2. my favorite food is popcorn .
+   (ID: conversation_15)
+
+3. i recently discovered a new love for indian food .
+   (ID: conversation_45)
+
+4. i love hot wings .
+   (ID: conversation_82)
+
+5. i love eating barbeque sandwiches and pizza puffs .
+   (ID: conversation_184)
+
+
+============================================================

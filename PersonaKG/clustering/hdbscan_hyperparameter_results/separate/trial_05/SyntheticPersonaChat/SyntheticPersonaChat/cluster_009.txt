@@ -1,0 +1,36 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I am a romantic.
+   (ID: conversation_122_user_1)
+
+2. I am a family man.
+   (ID: conversation_23_user_2)
+
+3. I am 32.
+   (ID: conversation_0_user_1)
+
+4. I m a lesbian.
+   (ID: conversation_134_user_1)
+
+5. I am male.
+   (ID: conversation_5_user_1)
+
+6. I am single.
+   (ID: conversation_89_user_1)
+
+
+============================================================

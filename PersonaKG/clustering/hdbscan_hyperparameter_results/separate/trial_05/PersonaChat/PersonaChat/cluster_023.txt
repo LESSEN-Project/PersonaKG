@@ -1,0 +1,36 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.984
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i thought of joining the military when i was younger .
+   (ID: conversation_113)
+
+2. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+3. my husband is a cop .
+   (ID: conversation_78)
+
+4. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+5. i am in the army .
+   (ID: conversation_35)
+
+6. there i m a general of an orcish army .
+   (ID: conversation_84)
+
+
+============================================================

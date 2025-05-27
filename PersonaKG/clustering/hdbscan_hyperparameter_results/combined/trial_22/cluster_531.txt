@@ -1,0 +1,66 @@
+CLUSTER 531
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.980
+
+Dataset distribution in this cluster:
+  MPChat: 2 (18.2%)
+  PEC: 5 (45.5%)
+  PersonaChat: 3 (27.3%)
+  SyntheticPersonaChat: 1 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. my mother-in-law dressing up koda
+   (ID: kentobean123)
+
+2. my mother of thousands is blooming!
+   (ID: snaps_pro)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i had inherited it from my mother .
+   (ID: mmaswadeh)
+
+2. i recognized your mother
+   (ID: WiseScratch)
+
+3. i thanked my mother for not recording me .
+   (ID: LordQuorad)
+
+4. i can motorboat your mother .
+   (ID: canitasteyourjuice)
+
+5. i 'd call her mother gothel .
+   (ID: FridaysChild219)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. my mother was a nurse .
+   (ID: conversation_45)
+
+2. my mother was born in ireland .
+   (ID: conversation_38)
+
+3. my mother is in the hospital .
+   (ID: conversation_126)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My mother has 500 pairs of shoes.
+   (ID: conversation_126_user_2)
+
+
+============================================================

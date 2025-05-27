@@ -1,0 +1,42 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.971
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i visit india often .
+   (ID: conversation_641)
+
+2. i'm from seattle .
+   (ID: conversation_281)
+
+3. i hope to visit quebec , canada someday .
+   (ID: conversation_688)
+
+4. i visit comic con .
+   (ID: conversation_168)
+
+5. my favorite place to visit is seattle .
+   (ID: conversation_436)
+
+6. i go visit them sometimes .
+   (ID: conversation_360)
+
+7. i would love to visit the pyramids .
+   (ID: conversation_390)
+
+8. i want to visit the uk .
+   (ID: conversation_630)
+
+
+============================================================

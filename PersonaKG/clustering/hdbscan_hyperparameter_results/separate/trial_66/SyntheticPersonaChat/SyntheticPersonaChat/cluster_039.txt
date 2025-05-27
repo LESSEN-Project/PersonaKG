@@ -1,0 +1,39 @@
+CLUSTER 39
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I lost my arm in a car accident.
+   (ID: conversation_141_user_2)
+
+2. My car broke down last week.
+   (ID: conversation_732_user_2)
+
+3. I have a nice smile.
+   (ID: conversation_265_user_2)
+
+4. I drive a nice car.
+   (ID: conversation_47_user_2)
+
+5. My car is green and smells weird.
+   (ID: conversation_44_user_2)
+
+6. I am not a nice person.
+   (ID: conversation_265_user_2)
+
+7. I lease my car.
+   (ID: conversation_5_user_1)
+
+
+============================================================

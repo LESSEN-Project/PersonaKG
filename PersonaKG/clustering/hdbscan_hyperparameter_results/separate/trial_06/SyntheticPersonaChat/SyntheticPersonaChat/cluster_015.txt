@@ -1,0 +1,39 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.992
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I want to climb mount everest.
+   (ID: conversation_205_user_2)
+
+2. My life s goal is to be the world s foremost encyclopedia salesman.
+   (ID: conversation_368_user_2)
+
+3. I hope to be a football player when i grow up.
+   (ID: conversation_102_user_2)
+
+4. I want to learn how to fly an airplane.
+   (ID: conversation_232_user_2)
+
+5. Before i die , i want to skydive.
+   (ID: conversation_82_user_2)
+
+6. My dream is to move to the middle of the desert.
+   (ID: conversation_82_user_2)
+
+7. I want to be an astronaut when i grow up.
+   (ID: conversation_136_user_2)
+
+
+============================================================

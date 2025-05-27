@@ -1,0 +1,208 @@
+CLUSTER 11
+============================================================
+Total statements in cluster: 74
+Cluster persistence (stability): 0.717
+
+Dataset distribution in this cluster:
+  FoCus: 8 (10.8%)
+  MSC: 5 (6.8%)
+  PEC: 16 (21.6%)
+  PER-CHAT: 39 (52.7%)
+  PersonaChat: 3 (4.1%)
+  SyntheticPersonaChat: 3 (4.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 8
+
+1. I am going to Norfolk soon.
+   (ID: HWMW6AUW4UTK_11)
+
+2. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+3. I have a friend in Kent.
+   (ID: PFYAAS1XG3D8_11)
+
+4. I am Mississippi on business.
+   (ID: AGVUC45C9W9X_7)
+
+5. I am living in Citrus from my birth.
+   (ID: OII32NSNR2Q2_7)
+
+6. I am in Wales for the summer.
+   (ID: BVS6H6G1BVW6_11)
+
+7. I live in Wollongong.
+   (ID: EXXMSRQDF6PN_11)
+
+8. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+2. I am from Vancouver, British Colombia.
+   (ID: dialog_33_speaker_1)
+
+3. I live near a barn near Saratoga..
+   (ID: dialog_117_speaker_1)
+
+4. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+5. I live on the east coast.
+   (ID: dialog_76_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 16
+
+1. i live there but i have to work tomorrow .
+   (ID: amirman)
+
+2. i live in ohio !
+   (ID: GetItTogether)
+
+3. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
+
+4. i live near buffalo and flamingo .
+   (ID: maullove)
+
+5. i 'm in redmond !
+   (ID: Justakiss15)
+
+6. i 'm over the pond in england � �
+   (ID: bigfuckingdiamond)
+
+7. i have a place 4 miles away .
+   (ID: thenanoage)
+
+8. i live in dublin .
+   (ID: Nimmyzed)
+
+9. i up am by pigeon lake - just south of edmonton ..
+   (ID: exotics)
+
+10. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+11. i live right on colfax by the ogden .
+   (ID: jmontoya5280)
+
+12. i live in canada very near the canadian rockies ..
+   (ID: exotics)
+
+13. i live in moorestown , it 's like right down the road .
+   (ID: TylerC_D)
+
+14. i have a camp ground up by hancock md on the potomac .
+   (ID: iToaditSo)
+
+15. i 'm in peoria !
+   (ID: FridaysChild219)
+
+16. i live in sa right now .
+   (ID: SamuelStephenBono)
+
+
+--- PER-CHAT ---
+Total from this dataset: 39
+
+1. I live in tulsa  months.
+   (ID: 06f2b7a65e600f531fbc47a595626f329ee413a4)
+
+2. I live in pp stories.
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+3. I live in flight path.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+4. I live in oakland.
+   (ID: e5fd25110413c69853218bbcbb0169f73c8f06e1)
+
+5. I live in manboobs.
+   (ID: 2e1439e8eb18b181a69a66cc4c1b2dc22ce774f0)
+
+6. I live in on tip.
+   (ID: 5078613a782f11088cff05f4503056b040cea999)
+
+7. I live in edge dogs.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+8. I live in from costal places.
+   (ID: 7cf18036f93dc6fc68e7a501c52e0ff5501b36e5)
+
+9. I live in grizzly.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+10. I live in istanbul.
+   (ID: c63be1429c6442ee9219ae1573b45fc7a40d22f2)
+
+11. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+12. I live in f  pizza.
+   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+
+13. I live in bush.
+   (ID: fb5e95e954b3ee83c39276138f0fa3b854970db4)
+
+14. I live in venice.
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+15. I live in maximus.
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+16. I live in cypress.
+   (ID: 3590b3fd811042b17c3ff7f8b851664408a349ef)
+
+17. I live in east side.
+   (ID: feb4a6aeed8e7e14b0592329bd91d7933a93217e)
+
+18. I live in dial.
+   (ID: 404d4f663681fcf738d043296148ae4de655b22b)
+
+19. I live in mercury.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+20. I live in adachiku.
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i live in rural wisconsin .
+   (ID: conversation_15)
+
+2. i m from texas .
+   (ID: conversation_8)
+
+3. i live in nashville .
+   (ID: conversation_117)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+2. I have a timeshare in mexico.
+   (ID: conversation_81_user_2)
+
+3. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

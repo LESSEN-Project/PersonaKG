@@ -1,0 +1,229 @@
+CLUSTER 18
+============================================================
+Total statements in cluster: 82
+Cluster persistence (stability): 0.700
+
+Dataset distribution in this cluster:
+  FoCus: 3 (3.7%)
+  MSC: 8 (9.8%)
+  PEC: 10 (12.2%)
+  PER-CHAT: 40 (48.8%)
+  PersonaChat: 10 (12.2%)
+  SyntheticPersonaChat: 11 (13.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+2. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+3. I am Mississippi on business.
+   (ID: AGVUC45C9W9X_7)
+
+
+--- MSC ---
+Total from this dataset: 8
+
+1. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+2. I live in Seattle.
+   (ID: dialog_38_speaker_1)
+
+3. I live in Providence. I work in a Publishing building, downtown.
+   (ID: dialog_41_speaker_2)
+
+4. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+5. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+6. I live in California. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+7. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+8. My home town is Celebration, Florida.
+   (ID: dialog_76_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 10
+
+1. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+2. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
+
+3. i 'm a middle eastern guy .
+   (ID: amirman)
+
+4. i 'm not too far from pasadena !
+   (ID: notlikethat1)
+
+5. i am in the southeast .
+   (ID: deputydan_scubaman)
+
+6. i live in the uk and just got back from texas last week .
+   (ID: Ooer)
+
+7. i up am by pigeon lake - just south of edmonton ..
+   (ID: exotics)
+
+8. i lived in wisconsin for awhile , too .
+   (ID: MILeft)
+
+9. i live in a 3rd world country . )
+   (ID: beautifulw0man)
+
+10. i 'm over the pond in england � �
+   (ID: bigfuckingdiamond)
+
+
+--- PER-CHAT ---
+Total from this dataset: 40
+
+1. I live in ty ass town.
+   (ID: b40d1d3ae1e77bcbdcb98e62deea24396d4b4d40)
+
+2. I live in utrecht.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+3. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+4. I live in bedford.
+   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+
+5. I live in maximus.
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+6. I live in pp stories.
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+7. I live in istanbul.
+   (ID: c63be1429c6442ee9219ae1573b45fc7a40d22f2)
+
+8. I live in snowy wasteland.
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+9. I live in year.
+   (ID: 467dbed573790a54a921a28f66e0e68f81106906)
+
+10. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+11. I live in grizzly.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+12. I live in flight path.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+13. I live in trois-rivières.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+14. I live in nachod county.
+   (ID: 0c68cfdaec11ee0673f6c5aec23193d412bf30ba)
+
+15. I live in heating pad.
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+16. I live in nurse.
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+17. I live in side.
+   (ID: 03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa)
+
+18. I live in sticks.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+19. I am aussie 😊.
+   (ID: 0edec5419d401d3ddd7386c8d9356093f1fa13cd)
+
+20. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i live in rural wisconsin .
+   (ID: conversation_15)
+
+2. i live in the usa .
+   (ID: conversation_23)
+
+3. i come from a small town .
+   (ID: conversation_2)
+
+4. my mother was born in ireland .
+   (ID: conversation_38)
+
+5. i can speak arabic , english , and french .
+   (ID: conversation_63)
+
+6. i work many hours .
+   (ID: conversation_8)
+
+7. i live in nashville .
+   (ID: conversation_117)
+
+8. i am argentinian .
+   (ID: conversation_59)
+
+9. my father was born in australia .
+   (ID: conversation_9)
+
+10. i was born in baton rouge .
+   (ID: conversation_138)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 11
+
+1. I am east asian.
+   (ID: conversation_161_user_2)
+
+2. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+3. I am italian american.
+   (ID: conversation_173_user_2)
+
+4. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+5. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+6. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+7. I now live in new mexico.
+   (ID: conversation_120_user_1)
+
+8. I grew up in nevada.
+   (ID: conversation_120_user_1)
+
+9. I work as a construction worker during the summers.
+   (ID: conversation_168_user_2)
+
+10. I am from russia.
+   (ID: conversation_7_user_2)
+
+11. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+
+============================================================

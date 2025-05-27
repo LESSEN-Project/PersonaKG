@@ -1,0 +1,36 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.865
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i don't own a television .
+   (ID: conversation_400)
+
+2. i don t have a relationship with my deadbeat dad .
+   (ID: conversation_257)
+
+3. i don't celebrate any holidays .
+   (ID: conversation_292)
+
+4. i don t fully understand my own feelings .
+   (ID: conversation_299)
+
+5. i don't eat bread .
+   (ID: conversation_183)
+
+6. i don t know if i enjoy programming , or if it s my only choice .
+   (ID: conversation_179)
+
+
+============================================================

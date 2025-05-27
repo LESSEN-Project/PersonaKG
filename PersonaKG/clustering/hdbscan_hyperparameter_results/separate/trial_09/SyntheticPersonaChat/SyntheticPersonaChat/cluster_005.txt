@@ -1,0 +1,33 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I live in a nice attic apartment in portland or.
+   (ID: conversation_309_user_2)
+
+2. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+3. I live with my sisters and they provide me with all my needs.
+   (ID: conversation_68_user_2)
+
+4. Its cold where i live.
+   (ID: conversation_394_user_1)
+
+5. I live in america in the state of florida.
+   (ID: conversation_467_user_1)
+
+
+============================================================

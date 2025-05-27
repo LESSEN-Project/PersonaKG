@@ -1,0 +1,60 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.881
+
+Dataset distribution in this cluster:
+  PersonaChat: 14 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 14
+
+1. i have a dog named bob .
+   (ID: conversation_27)
+
+2. i've a cat named leela .
+   (ID: conversation_58)
+
+3. i have a dog named socks .
+   (ID: conversation_172)
+
+4. i've a parrot named parrot .
+   (ID: conversation_138)
+
+5. i had two cats growing up .
+   (ID: conversation_19)
+
+6. i have 23 cats at home .
+   (ID: conversation_60)
+
+7. i breed maine coon cats and show them .
+   (ID: conversation_46)
+
+8. i've a cat named seven of nine .
+   (ID: conversation_144)
+
+9. i have two roomates .
+   (ID: conversation_17)
+
+10. my name is omar .
+   (ID: conversation_42)
+
+11. my dogs name is toto .
+   (ID: conversation_162)
+
+12. i've a horse named beauty .
+   (ID: conversation_40)
+
+13. my name is todd .
+   (ID: conversation_119)
+
+14. we have two pets as well .
+   (ID: conversation_173)
+
+
+============================================================

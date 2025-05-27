@@ -1,0 +1,109 @@
+CLUSTER 171
+============================================================
+Total statements in cluster: 22
+Cluster persistence (stability): 0.837
+
+Dataset distribution in this cluster:
+  FoCus: 15 (68.2%)
+  MSC: 2 (9.1%)
+  PEC: 1 (4.5%)
+  PER-CHAT: 1 (4.5%)
+  PersonaChat: 2 (9.1%)
+  SyntheticPersonaChat: 1 (4.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 15
+
+1. I have heard about Hooghly River.
+   (ID: WKS47SP8CYLV_11)
+
+2. I have stayed in resorts.
+   (ID: FZ7IE8MUIWRS_9)
+
+3. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+4. I have visited Austria many times.
+   (ID: YLLQOXHD6MZC_7)
+
+5. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+6. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+7. I have visited the Canadian National Exhibition Stadium.
+   (ID: NMEFJE64KZ1F_11)
+
+8. I am interested in tourist attraction.
+   (ID: H6GTJFTZ8LJI_11)
+
+9. I am aware of Atlantic Ocean.
+   (ID: G6QWKZ4CTWVW_11)
+
+10. I have visited the 7, Lok Kalyan Marg.
+   (ID: EMXI5E4LUV20_11)
+
+11. I am interested in the climate.
+   (ID: LYYSTNQ9MBLY_11)
+
+12. I am curious about isolated places.
+   (ID: Y037WWL4AZRY_11)
+
+13. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+14. I am interested in geography.
+   (ID: FOZE4Q84M3RX_11)
+
+15. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+2. I visited the park on Main and 4th recently.
+   (ID: dialog_11_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 've been to middle east.beautiful town in sweden
+   (ID: ChallengeTaken99)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. it ' s my first time visiting and i loved it !
+   (ID: 7a0302ed354e54bfa45e1de27055f29421f91f29)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i went to new york city once .
+   (ID: conversation_133)
+
+2. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+
+============================================================

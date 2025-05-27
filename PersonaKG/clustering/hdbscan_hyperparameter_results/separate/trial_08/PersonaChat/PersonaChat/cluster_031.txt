@@ -1,0 +1,39 @@
+CLUSTER 31
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.978
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i currently work at target .
+   (ID: conversation_160)
+
+2. my brother is currently couch surfing at my house .
+   (ID: conversation_46)
+
+3. i am a couch potato .
+   (ID: conversation_120)
+
+4. i am currently trying to open my own grocery store .
+   (ID: conversation_109)
+
+5. i go to a private high school .
+   (ID: conversation_87)
+
+6. i went to school for fashion design and did nothing with it .
+   (ID: conversation_142)
+
+7. i'm currently going back to school to try and become a casino manager .
+   (ID: conversation_158)
+
+
+============================================================

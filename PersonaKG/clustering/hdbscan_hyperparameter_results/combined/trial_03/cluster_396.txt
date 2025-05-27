@@ -1,0 +1,63 @@
+CLUSTER 396
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.756
+
+Dataset distribution in this cluster:
+  MSC: 1 (10.0%)
+  PEC: 6 (60.0%)
+  PER-CHAT: 2 (20.0%)
+  PersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am a southern.
+   (ID: dialog_26_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i ’m speechless .
+   (ID: 11_29_77)
+
+2. i could get a machete for $ 15 there !
+   (ID: adertal)
+
+3. i upvoted this anyway .
+   (ID: ProJokeExplainer)
+
+4. i am speechless .............
+   (ID: Noimnotsally)
+
+5. i 'm at 400 dives give / take 15 .
+   (ID: deputydan_scubaman)
+
+6. i would n't last the full 15 .
+   (ID: KikAtWorkFL)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I am amateur.
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+2. I am amateur gunlancer.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i m allergic to shellfish .
+   (ID: conversation_28)
+
+
+============================================================

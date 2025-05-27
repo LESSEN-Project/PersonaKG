@@ -1,0 +1,36 @@
+CLUSTER 18
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.958
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. helping people makes me happy .
+   (ID: conversation_134)
+
+2. people say i've a cute laugh .
+   (ID: conversation_41)
+
+3. i only date people taller than me .
+   (ID: conversation_85)
+
+4. my last name is spanish , but i tell people that it s italian .
+   (ID: conversation_179)
+
+5. i like to go to bars and people watch .
+   (ID: conversation_169)
+
+6. i tell bad jokes on purpose .
+   (ID: conversation_156)
+
+
+============================================================

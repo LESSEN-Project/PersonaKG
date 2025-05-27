@@ -1,0 +1,39 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i like to play sports and get fresh air .
+   (ID: conversation_191)
+
+2. i like to snowboard .
+   (ID: conversation_15)
+
+3. i exercise everyday .
+   (ID: conversation_16)
+
+4. i like jogging in my spare time .
+   (ID: conversation_77)
+
+5. i love to larp .
+   (ID: conversation_74)
+
+6. i love bicycling .
+   (ID: conversation_3)
+
+7. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+
+============================================================

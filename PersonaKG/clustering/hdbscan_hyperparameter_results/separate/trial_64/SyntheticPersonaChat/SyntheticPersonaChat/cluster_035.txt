@@ -1,0 +1,33 @@
+CLUSTER 35
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I am a psychology major.
+   (ID: conversation_209_user_2)
+
+2. My dad was a cop.
+   (ID: conversation_15_user_1)
+
+3. I broke my nose in 5th grade.
+   (ID: conversation_114_user_2)
+
+4. I am a geology major at alabama university.
+   (ID: conversation_72_user_2)
+
+5. I never knew my dad.
+   (ID: conversation_146_user_2)
+
+
+============================================================

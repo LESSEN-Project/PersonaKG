@@ -1,0 +1,46 @@
+CLUSTER 279
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 3 (50.0%)
+  PER-CHAT: 1 (16.7%)
+  PersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i have an english literature degree that everyone tells me is useless because i have no interest in teaching .
+   (ID: underneathstars)
+
+2. i started a business not to get rich but to work for myself .
+   (ID: I_am_not_a_Taco)
+
+3. i never finished college , so no degree in anything .
+   (ID: 11_29_77)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am immigrant from another country.
+   (ID: 3fb1292a0bd26711d797fe1a61e6229794c21b68)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i had to get a job early as a child .
+   (ID: conversation_116)
+
+2. i'm in college .
+   (ID: conversation_7)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 43
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i never learned how to swim .
+   (ID: conversation_116)
+
+2. i go fishing on the weekends to relax .
+   (ID: conversation_314)
+
+3. i never learned how to write .
+   (ID: conversation_34)
+
+4. i didn t pass the audition , but i ll keep trying .
+   (ID: conversation_373)
+
+5. i still dream about going to paris and designing clothes .
+   (ID: conversation_75)
+
+
+============================================================

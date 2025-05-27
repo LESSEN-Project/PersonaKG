@@ -1,0 +1,468 @@
+CLUSTER 64
+============================================================
+Total statements in cluster: 5926
+Cluster persistence (stability): 0.143
+
+Dataset distribution in this cluster:
+  FoCus: 131 (2.2%)
+  MPChat: 776 (13.1%)
+  MSC: 198 (3.3%)
+  PEC: 3529 (59.6%)
+  PER-CHAT: 930 (15.7%)
+  PersonaChat: 232 (3.9%)
+  SyntheticPersonaChat: 130 (2.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 131
+
+1. I am writing a paper on Domingo de Petrés.
+   (ID: TPWBWPRCHUGC_11)
+
+2. I am reseraching glacial meltwater.
+   (ID: SDW19RWSP3ZX_11)
+
+3. I have visited the Teen Murti Bhavan.
+   (ID: EMXI5E4LUV20_11)
+
+4. I have never been to Alaska.
+   (ID: 82ZP2M9AL6U0_11)
+
+5. I am curious about Mars.
+   (ID: 942CCWXHPUZT_11)
+
+6. I have visited the Canadian National Exhibition Stadium.
+   (ID: NMEFJE64KZ1F_11)
+
+7. I have knowledge about the Vikings.
+   (ID: VOQV863ZK27L_11)
+
+8. I often buy beauty products.
+   (ID: NR67D1SY5ZKB_11)
+
+9. I have never been to a mosque.
+   (ID: OKU8UQBPUSMV_11)
+
+10. I have never toured a radio station.
+   (ID: GNIFMHXKEMKB_11)
+
+11. I am aware of Elizabethan style.
+   (ID: RN7ZT44D6QK1_11)
+
+12. I am staying in a municipality.
+   (ID: ATJSFYS2K6FK_11)
+
+13. I find steam machinery fascinating.
+   (ID: GABQG82ZVJCM_7)
+
+14. I have some beautiful memories of crossing suspension bridges in a forest with my ex girlfriend.
+   (ID: A06HPOO7OWPE_11)
+
+15. I admire George Washington.
+   (ID: RULPAHV9K06Y_11)
+
+16. I am aware of Swami Vivekananda.
+   (ID: WKS47SP8CYLV_11)
+
+17. I am curious about jails.
+   (ID: BWZ0H3E6AIGB_11)
+
+18. I have a cousin who lives in Barcelona.
+   (ID: FNURQ2XMQVJF_11)
+
+19. I am researching Grace O'Malley.
+   (ID: MSVCAU01UHE3_11)
+
+20. I am a fan of taking the railroad.
+   (ID: VHMWBMQSDD2I_9)
+
+
+--- MPChat ---
+Total from this dataset: 776
+
+1. i spent the afternoon baking and decorating chocolate and orange cookies to build... 3d dinosaurs!
+   (ID: APacman)
+
+2. i made a pattern with thread graphics on this chicken egg.
+   (ID: gelimausi)
+
+3. decorated my driftwood/spider wood with air plants
+   (ID: ijohno)
+
+4. my mom knitted herself a yoda inspired coffee cup warmer.
+   (ID: jaynone)
+
+5. my first attempt at anything more than frosting a cake yellow ombre
+   (ID: HobbitLass)
+
+6. everton elephant ready to join the liverpool one i made last week.
+   (ID: Soapy_Von_Soaps)
+
+7. i had set up the cake last night with one one dowel holding the champagne bottle up.
+   (ID: amandabakes)
+
+8. [oc] sweet "tweets" from my kitchen.
+   (ID: baccgirl)
+
+9. this will eventually be a portrait of my dog who we recently had to put down.
+   (ID: Veretica)
+
+10. my bank account is hurting, but this girl could not be happier!
+   (ID: Metalocachick)
+
+11. i yarnbombed my mailbox!
+   (ID: blboppie)
+
+12. a bit to tender for my liking but that's how dad likes them
+   (ID: MonstaEatsItAll)
+
+13. ruger and i exploring some pot hole lakes in eastern washington state.
+   (ID: reecee)
+
+14. he likes wearing my shirts
+   (ID: kentobean123)
+
+15. it took forever, but i finally finished my first order.
+   (ID: Nikyma)
+
+16. this is how i fixed my broken remote control thank you dear crochet
+   (ID: iamPauPaul)
+
+17. my girlfriend called these "dino-eggs": deviled eggs with an avocado spread.
+   (ID: mattsulli)
+
+18. some mushrooms i found on a recent foraging trip.
+   (ID: sundstrom193)
+
+19. the colorful start to my turkey bone broth[oc]
+   (ID: onemantwohands)
+
+20. [i ate] cubano
+   (ID: patm28)
+
+
+--- MSC ---
+Total from this dataset: 198
+
+1. I am wildly optimistic.
+   (ID: dialog_72_speaker_1)
+
+2. I chase cheetahs to stay in shape.
+   (ID: dialog_0_speaker_1)
+
+3. Taste the rainbow!.
+   (ID: dialog_71_speaker_1)
+
+4. I admire lipton beverages.
+   (ID: dialog_1_speaker_2)
+
+5. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+6. Me and my sibling, both have crimson locks.
+   (ID: dialog_91_speaker_1)
+
+7. I enjoying hiking in the mountains.
+   (ID: dialog_91_speaker_2)
+
+8. I find myself to be fully equipped for a battle of words.
+   (ID: dialog_65_speaker_2)
+
+9. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+10. My swimming pool is large and filled with gold coins.
+   (ID: dialog_124_speaker_2)
+
+11. I perform as a part of a congregation.
+   (ID: dialog_82_speaker_2)
+
+12. Sometimes I can be quite lazy.
+   (ID: dialog_120_speaker_2)
+
+13. I always chew gum.
+   (ID: dialog_91_speaker_1)
+
+14. My spouse is a member of the military.
+   (ID: dialog_40_speaker_2)
+
+15. I shooting my meals.
+   (ID: dialog_19_speaker_2)
+
+16. The hue I most admire is plum.
+   (ID: dialog_137_speaker_1)
+
+17. I am an amateur entomologist.
+   (ID: dialog_113_speaker_2)
+
+18. The kitchen is my domain.
+   (ID: dialog_17_speaker_2)
+
+19. I am picky when it comes to smart phones.
+   (ID: dialog_95_speaker_2)
+
+20. I am not a megalomaniac.
+   (ID: dialog_125_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3529
+
+1. i will do it for the team
+   (ID: dawgreddit2014)
+
+2. i can deal with everything scary , except this .
+   (ID: YuseiAkask)
+
+3. i never struggled with losing fish .
+   (ID: error785)
+
+4. i finally realised it 's not something i enjoy .
+   (ID: helensis_)
+
+5. i 'm jealous .
+   (ID: Taydrz)
+
+6. i was considering but i have no other training other than vet tech !
+   (ID: travelingkiwi)
+
+7. i blame her enablers .
+   (ID: bostown03)
+
+8. i lived in cape may for 8 weeks !
+   (ID: DickRubnuts)
+
+9. i should be more careful where special hams are concerned .
+   (ID: nastylittleman)
+
+10. i am currently working in canada , but applying for a position in vietnam .
+   (ID: travelingkiwi)
+
+11. i can dance and i have a big beard .
+   (ID: ddshroom)
+
+12. i own a business in a military town .
+   (ID: I_am_not_a_Taco)
+
+13. i joined after watching you girls and /r / fashion for a while .
+   (ID: Nheea)
+
+14. i 'm male so i 'm dead to them .
+   (ID: redandblack555)
+
+15. i was expecting them to green - screen the hell out of this movie
+   (ID: ProJokeExplainer)
+
+16. i miss blonde doctor and janitor , but the show is still decent .
+   (ID: dkinmn)
+
+17. i also mix up jk simmons with dann florek , captain cragen from lo : svu .
+   (ID: Nobody-Likes-Change)
+
+18. i back up vacation snaps and documents and so forth manually .
+   (ID: Niwmiz)
+
+19. i bet that account is worth some $ $ $ tho
+   (ID: Heydawgg)
+
+20. i was obsessing over my pores in my t - zone yesterday .
+   (ID: jukkujak)
+
+
+--- PER-CHAT ---
+Total from this dataset: 930
+
+1. ? uue ?  yi  ? uue ? ps
+   (ID: a90f01f580b7cc08038958d5c1f659fd492b1f2c)
+
+2. caring for a pet
+   (ID: a9b07d3f94647dffebe730771c20ee3ca1af7ec4)
+
+3. can you see this one ?
+   (ID: 2ce191fd1043183c73daf2ab41afee9b122fd42b)
+
+4. all of it .
+   (ID: 6043d89c15dee029743b4ae46c3043e760e0fedb)
+
+5. I own a zapper.
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+6. I own a screen.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+7. dumping my rich gf for a hot one .
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+8. I am albanian.
+   (ID: 41fc1b2c09d5a16a25f120edde55b2a6e2e54e29)
+
+9. I own a server.
+   (ID: ddbcd7b957a26c37891ce72069afaf688ba19977)
+
+10. tuck your genitals in between your legs and call yourself a bitch .
+   (ID: 9e8a44f7c55ebce4785906436a033b33a1ccb949)
+
+11. suddenly disappeared by dying .
+   (ID: ea3b9395602c702397d514c6da7049b089458032)
+
+12. " the snack that smiles back " not unless i turn it upsidedown !
+   (ID: f9d3bf7ce779e854aa865f12a7dfaaee14a65cfa)
+
+13. how whenever i have sex and wake up the next morning , my wallet always disappears .
+   (ID: 6692d386ab188df76448f18f0e9d59c1e6d88c50)
+
+14. I am cynic.
+   (ID: 2266c34274940e2ea1a22a3dee5a3cbcdad25f53)
+
+15. I am ballin.
+   (ID: 630b45a8d3ef360a8a8a9626adbff80750d745a7)
+
+16. swap bodies with a woman .
+   (ID: 3319add5fded9e9b6e45fcb1340aaf52d39da50e)
+
+17. something something dark side
+   (ID: 8e2981abd669b044bf2b787c04095c3ebe52e273)
+
+18. my mother and i are the only ones with my last name . though to be fair it ' s hyphenated
+   (ID: 29b9b56e163cbfecbc98e83c436b436aca056a8c)
+
+19. the cone bra , mc hammer pants , leg warmers
+   (ID: 40e9f2306751118eda95174d093680e74831a34d)
+
+20. this mothafcker knows me well
+   (ID: 84fcf7fe73da3fe1849c81f9adb5f3cc411427d2)
+
+
+--- PersonaChat ---
+Total from this dataset: 232
+
+1. i'm from seattle .
+   (ID: conversation_281)
+
+2. i have been a vegan since i was 5 .
+   (ID: conversation_242)
+
+3. my dreams are often bizarre .
+   (ID: conversation_295)
+
+4. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+5. my husband is a pastor .
+   (ID: conversation_306)
+
+6. i'm young .
+   (ID: conversation_96)
+
+7. i do not drive .
+   (ID: conversation_56)
+
+8. my grandma is from denmark .
+   (ID: conversation_162)
+
+9. i m a children s librarian .
+   (ID: conversation_263)
+
+10. my hair is as red as the sunset .
+   (ID: conversation_274)
+
+11. my father was born in australia .
+   (ID: conversation_9)
+
+12. i graduated with a statistics degree .
+   (ID: conversation_158)
+
+13. i m a babysitter .
+   (ID: conversation_261)
+
+14. i breed maine coon cats and show them .
+   (ID: conversation_46)
+
+15. i recently had a private lunch with will ferrell .
+   (ID: conversation_227)
+
+16. drawing in traditional style is my pasion .
+   (ID: conversation_202)
+
+17. sometimes , i sit by strangers on the subway and strike up a conversation .
+   (ID: conversation_220)
+
+18. i fly airplanes .
+   (ID: conversation_35)
+
+19. i get distracted easily .
+   (ID: conversation_131)
+
+20. i took classes while growing up .
+   (ID: conversation_373)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 130
+
+1. I am a roofer.
+   (ID: conversation_384_user_1)
+
+2. I prefer reading to sports.
+   (ID: conversation_279_user_2)
+
+3. I have a poster of neil tyson degrasse on my wall.
+   (ID: conversation_136_user_2)
+
+4. I am dumpy.
+   (ID: conversation_29_user_1)
+
+5. I coexist well with my husband.
+   (ID: conversation_127_user_2)
+
+6. I wear dingy clothes.
+   (ID: conversation_395_user_1)
+
+7. I am a terrible speller.
+   (ID: conversation_6_user_2)
+
+8. I am studying literature.
+   (ID: conversation_208_user_1)
+
+9. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+10. My father recently had a heart attack.
+   (ID: conversation_137_user_2)
+
+11. I sometimes drive fast.
+   (ID: conversation_279_user_2)
+
+12. I own many cars.
+   (ID: conversation_142_user_2)
+
+13. I build my own computers.
+   (ID: conversation_273_user_2)
+
+14. My idol is theirry henry.
+   (ID: conversation_73_user_2)
+
+15. My masters degree is in italian literature.
+   (ID: conversation_309_user_2)
+
+16. I am insecure.
+   (ID: conversation_204_user_2)
+
+17. My sister is becoming my mother and often asks me when i m getting married.
+   (ID: conversation_167_user_2)
+
+18. I am always hungry.
+   (ID: conversation_204_user_2)
+
+19. I have many homes.
+   (ID: conversation_261_user_2)
+
+20. I prefer headsets over earbuds.
+   (ID: conversation_14_user_2)
+
+
+============================================================

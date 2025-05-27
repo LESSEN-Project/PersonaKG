@@ -1,0 +1,90 @@
+CLUSTER 310
+============================================================
+Total statements in cluster: 19
+Cluster persistence (stability): 0.837
+
+Dataset distribution in this cluster:
+  FoCus: 11 (57.9%)
+  MSC: 2 (10.5%)
+  PEC: 5 (26.3%)
+  SyntheticPersonaChat: 1 (5.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 11
+
+1. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+2. I have been to Manchester before.
+   (ID: WKAD0PJA14Q4_11)
+
+3. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+4. I have been to California.
+   (ID: UC6WD3SK3PG8_11)
+
+5. I have never been to a mosque.
+   (ID: OKU8UQBPUSMV_11)
+
+6. I have visited the Canadian National Exhibition Stadium.
+   (ID: NMEFJE64KZ1F_11)
+
+7. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+8. I have stayed in resorts.
+   (ID: FZ7IE8MUIWRS_9)
+
+9. I have visited Dreamland Margate amusement park.
+   (ID: PFYAAS1XG3D8_11)
+
+10. I have never been in a canoe.
+   (ID: K73F47W36X0D_11)
+
+11. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I have never been out of the US either.
+   (ID: dialog_8_speaker_2)
+
+2. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i was in westin in ebisu .
+   (ID: msiekkinen)
+
+2. i have taken the rdu - london flight four times .
+   (ID: deputydan_scubaman)
+
+3. i have done that trip .
+   (ID: deputydan_scubaman)
+
+4. i was born and raised in illinois and i have never been west of missouri .
+   (ID: AgedTwenties)
+
+5. i was in prague for a while in 1996 .
+   (ID: wooq)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+
+============================================================

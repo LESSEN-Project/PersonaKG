@@ -1,0 +1,33 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I hate to lose.
+   (ID: conversation_64_user_2)
+
+2. I don t like feeling controlled.
+   (ID: conversation_3_user_2)
+
+3. I have a harsh inner critic.
+   (ID: conversation_3_user_2)
+
+4. I hate evil.
+   (ID: conversation_109_user_1)
+
+5. I wish i could take back a mistake.
+   (ID: conversation_3_user_2)
+
+
+============================================================

@@ -1,0 +1,36 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i do not know why my sister in law dislikes me .
+   (ID: conversation_142)
+
+2. i could move out , but she doesn t want me to .
+   (ID: conversation_175)
+
+3. i have trouble getting along with family .
+   (ID: conversation_247)
+
+4. my mom is my best friend .
+   (ID: conversation_1)
+
+5. both my moms tell me they love me when i call them .
+   (ID: conversation_211)
+
+6. my mother doesn t ! ove me .
+   (ID: conversation_138)
+
+
+============================================================

@@ -1,0 +1,89 @@
+CLUSTER 67
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.966
+
+Dataset distribution in this cluster:
+  MSC: 1 (5.9%)
+  PEC: 2 (11.8%)
+  PER-CHAT: 11 (64.7%)
+  PersonaChat: 2 (11.8%)
+  SyntheticPersonaChat: 1 (5.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I live on the east coast.
+   (ID: dialog_76_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i live near buffalo and flamingo .
+   (ID: maullove)
+
+2. i live in the united arab emirates and they have the same plug sockets as the uk .
+   (ID: bondo84)
+
+
+--- PER-CHAT ---
+Total from this dataset: 11
+
+1. I live in near ethanac.
+   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
+
+2. live in the bush with nature .
+   (ID: 34f464edef8ed81ef72be258369179fe6e6dcb81)
+
+3. I live in golden rule.
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+4. I live in flight path.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+5. I live in turkey cats.
+   (ID: 2834b254700cedfb96641229b712899b4d697418)
+
+6. I live in boring america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+7. I live in purple state.
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+8. I live in liking science astronomy.
+   (ID: c69ba20c8286f807f6219a451e4448f951938f31)
+
+9. I live in edge dogs.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+10. I live in conservative area.
+   (ID: 80ae19b9093d92fad153af508f37fcd7cd9340ec)
+
+11. because we live here , this universe . still so much unknown .
+   (ID: d42f47f147cdc8e97117f0e4963e2c1309d1dcd8)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i live down the street from miley cyrus and pnb rock .
+   (ID: conversation_184)
+
+2. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

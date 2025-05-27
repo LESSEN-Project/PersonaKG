@@ -1,0 +1,48 @@
+CLUSTER 172
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (20.0%)
+  MSC: 1 (20.0%)
+  PEC: 1 (20.0%)
+  SyntheticPersonaChat: 2 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i lived in wisconsin for awhile , too .
+   (ID: MILeft)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+2. I grew up in nevada.
+   (ID: conversation_120_user_1)
+
+
+============================================================

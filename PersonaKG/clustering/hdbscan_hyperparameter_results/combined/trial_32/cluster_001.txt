@@ -1,0 +1,61 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 9 (81.8%)
+  MSC: 1 (9.1%)
+  PersonaChat: 1 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 9
+
+1. I don't like canals.
+   (ID: DMD9S9COJOIA_7)
+
+2. I don't hope to ever visit New Zealand.
+   (ID: 9KDV6LSLWNAX_11)
+
+3. I don't like Pollution.
+   (ID: AN8LSF1PEYK2_11)
+
+4. I hate kayaks.
+   (ID: KN10OGBG14Y2_11)
+
+5. I don't like railroad in the vicinity of the city.
+   (ID: NK6WLDJ7W255_7)
+
+6. I don't like casinos.
+   (ID: 9KDV6LSLWNAX_11)
+
+7. I wouldn't like to live in a Castle.
+   (ID: YB6ZF4SJI3P1_11)
+
+8. I wouldn't like to have lived the Spanish Civil War.
+   (ID: FNURQ2XMQVJF_11)
+
+9. I wouldn't like to fly in a helicopter.
+   (ID: G4JZMW0OPV0G_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am not a fan of heights.
+   (ID: dialog_9_speaker_2)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i don t like the beach .
+   (ID: conversation_94)
+
+
+============================================================

@@ -1,0 +1,103 @@
+CLUSTER 97
+============================================================
+Total statements in cluster: 20
+Cluster persistence (stability): 0.987
+
+Dataset distribution in this cluster:
+  FoCus: 6 (30.0%)
+  MPChat: 1 (5.0%)
+  MSC: 3 (15.0%)
+  PEC: 8 (40.0%)
+  PersonaChat: 1 (5.0%)
+  SyntheticPersonaChat: 1 (5.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 6
+
+1. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+2. I have visited the 7, Lok Kalyan Marg.
+   (ID: EMXI5E4LUV20_11)
+
+3. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+4. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+5. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+6. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. ruger and i exploring some pot hole lakes in eastern washington state.
+   (ID: reecee)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+2. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+3. I was born in moscow.
+   (ID: dialog_113_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i was born and raised in illinois and i have never been west of missouri .
+   (ID: AgedTwenties)
+
+2. i was in prague for a while in 1996 .
+   (ID: wooq)
+
+3. i was at the interesection of high and lane .
+   (ID: thenanoage)
+
+4. i was in the misty cap river park on friday morning .
+   (ID: parkleswife)
+
+5. i was flying to kansas city .
+   (ID: jesuschrysler)
+
+6. i lived in cape may for 8 weeks !
+   (ID: DickRubnuts)
+
+7. i grew up in chagrin falls
+   (ID: Justadropinthesea)
+
+8. i was in westin in ebisu .
+   (ID: msiekkinen)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i grew up in alabama .
+   (ID: conversation_221)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+
+============================================================

@@ -1,0 +1,145 @@
+CLUSTER 162
+============================================================
+Total statements in cluster: 56
+Cluster persistence (stability): 0.472
+
+Dataset distribution in this cluster:
+  FoCus: 1 (1.8%)
+  MSC: 4 (7.1%)
+  PEC: 5 (8.9%)
+  PER-CHAT: 42 (75.0%)
+  PersonaChat: 2 (3.6%)
+  SyntheticPersonaChat: 2 (3.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+2. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+3. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+4. I live in Virginia. I am not married.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i live on top of your mother .
+   (ID: DarkMoon99)
+
+2. i could n't live with that guilt .
+   (ID: GetItTogether)
+
+3. i live here and those areas are n't detroit !
+   (ID: giraffecakes)
+
+4. i ’m guessing you live in the pnw .
+   (ID: Justadropinthesea)
+
+5. i live in germany and my s8 + has bixby .
+   (ID: thed0ctah)
+
+
+--- PER-CHAT ---
+Total from this dataset: 42
+
+1. I live in meth village.
+   (ID: 8df56ee782672f11aeb0f19bf7978b1b1c04e678)
+
+2. I live in under impression.
+   (ID: fddeeaa11799939dfe96bc7fae74a22b474aaf20)
+
+3. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+4. I live in dallas area richardson.
+   (ID: 7928bd3c3e727c94ff476240a27ed7199d92d666)
+
+5. I live in light.
+   (ID: 744a61859eb21e8e7ed805da69133b0d07c3e965)
+
+6. i live in europe , so that might be why .
+   (ID: b5bfc53fa7245451bad229f942e351fdc7360321)
+
+7. I live in society.
+   (ID: 4381fa1a63289663c5683187c0d07eadf81abfc2)
+
+8. I live in above gym.
+   (ID: 627809b826e1a364fb65664e0749e9e9eb90081d)
+
+9. I live in borg america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+10. I live in mentality.
+   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
+
+11. I live in desert.
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+
+12. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+13. I live in with aliens.
+   (ID: a0849f7d6d0829c8bb5f820aa9bf63584c7471df)
+
+14. I live in sticks.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+15. I live in for tim/steve banter.
+   (ID: 101eeb53846c81b36d32c33e2b4260cb3e4ac576)
+
+16. I live in heart.
+   (ID: 445ba4596e4bcff0c96b23f038cf784185970198)
+
+17. I live in on tip.
+   (ID: 5078613a782f11088cff05f4503056b040cea999)
+
+18. I live in nurse.
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+19. I live in boring america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+20. I live in with narcissist sister.
+   (ID: 79b35c8caff79f47f37bb4856cc6b57bcd49e5bf)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i live in the usa .
+   (ID: conversation_23)
+
+2. i live on a boat .
+   (ID: conversation_14)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I live a lie.
+   (ID: conversation_288_user_1)
+
+2. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+
+============================================================

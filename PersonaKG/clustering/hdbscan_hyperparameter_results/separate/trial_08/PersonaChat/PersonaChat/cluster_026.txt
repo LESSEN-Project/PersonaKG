@@ -1,0 +1,36 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.920
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. if i am not drinking , i am thinking , which makes me uncomfortable .
+   (ID: conversation_197)
+
+2. i like to wear boots .
+   (ID: conversation_59)
+
+3. i wear cardigans because i hope it makes me look more cultured .
+   (ID: conversation_179)
+
+4. pudding makes me gassy .
+   (ID: conversation_26)
+
+5. i wear contacts .
+   (ID: conversation_3)
+
+6. i wear a lot of leather .
+   (ID: conversation_187)
+
+
+============================================================

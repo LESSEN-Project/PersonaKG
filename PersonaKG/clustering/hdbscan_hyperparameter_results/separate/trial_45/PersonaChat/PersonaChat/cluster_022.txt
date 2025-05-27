@@ -1,0 +1,42 @@
+CLUSTER 22
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.966
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. ke ha is my favorite singer of all time .
+   (ID: conversation_26)
+
+2. my favorite movie is pretty woman .
+   (ID: conversation_155)
+
+3. i am an anime fan .
+   (ID: conversation_114)
+
+4. i like the tv show the walking dead .
+   (ID: conversation_93)
+
+5. my favorite tv show is dancing with the stars .
+   (ID: conversation_144)
+
+6. i like cartoons .
+   (ID: conversation_39)
+
+7. i love watching superheroes shows .
+   (ID: conversation_95)
+
+8. madonna is my all time favorite .
+   (ID: conversation_13)
+
+
+============================================================

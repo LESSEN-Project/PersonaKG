@@ -1,0 +1,48 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 10
+
+1. I have big face cheeks.
+   (ID: conversation_33_user_1)
+
+2. I am male.
+   (ID: conversation_5_user_1)
+
+3. I keep my hair cut very short.
+   (ID: conversation_254_user_2)
+
+4. I am also round.
+   (ID: conversation_33_user_1)
+
+5. I am tall.
+   (ID: conversation_12_user_1)
+
+6. I have brown hair.
+   (ID: conversation_3_user_1)
+
+7. I am bald.
+   (ID: conversation_4_user_1)
+
+8. I have beard that is longer.
+   (ID: conversation_308_user_2)
+
+9. I have a pencil thin mustache.
+   (ID: conversation_371_user_2)
+
+10. I am blonde.
+   (ID: conversation_16_user_1)
+
+
+============================================================

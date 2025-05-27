@@ -1,0 +1,88 @@
+CLUSTER 256
+============================================================
+Total statements in cluster: 15
+Cluster persistence (stability): 0.947
+
+Dataset distribution in this cluster:
+  MPChat: 1 (6.7%)
+  MSC: 2 (13.3%)
+  PEC: 6 (40.0%)
+  PER-CHAT: 1 (6.7%)
+  PersonaChat: 3 (20.0%)
+  SyntheticPersonaChat: 2 (13.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my fave trendy chicago eat - italian beef dipped
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I'm sick when I eat fish.
+   (ID: dialog_28_speaker_2)
+
+2. I cannot eat certain foods due to flatulence.
+   (ID: dialog_26_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i 'd still eat it .
+   (ID: sweatervest)
+
+2. i had to dip my hotdog bread in apple sauce once because it 's all i had to eat .
+   (ID: Bananafoofoofwee)
+
+3. i only eat pigs who have invested in amway .
+   (ID: CuriousBlueAbra)
+
+4. i never had an ear to eat smile before ;)
+   (ID: aydinsevimli)
+
+5. i do n't eat anything that casts a shadow . "
+   (ID: Mahatma_Panda)
+
+6. i can eat raw dough without fear of raw egg killing me .
+   (ID: FruitBatFanatic)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. you are what you eat .
+   (ID: 011a531fc3f706d76441a0f95cc8091fd4453dd8)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i never eat veggies .
+   (ID: conversation_96)
+
+2. i eat ice cream when i am sad .
+   (ID: conversation_170)
+
+3. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+2. I eat all take out.
+   (ID: conversation_2_user_1)
+
+
+============================================================

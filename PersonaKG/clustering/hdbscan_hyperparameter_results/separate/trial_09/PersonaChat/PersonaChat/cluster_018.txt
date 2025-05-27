@@ -1,0 +1,39 @@
+CLUSTER 18
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.952
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+2. i never eat veggies .
+   (ID: conversation_96)
+
+3. we drink beer and eat food .
+   (ID: conversation_399)
+
+4. i eat breakfast then go right back to bed .
+   (ID: conversation_148)
+
+5. i only eat organic food .
+   (ID: conversation_210)
+
+6. i eat ice cream when i am sad .
+   (ID: conversation_170)
+
+7. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+
+============================================================

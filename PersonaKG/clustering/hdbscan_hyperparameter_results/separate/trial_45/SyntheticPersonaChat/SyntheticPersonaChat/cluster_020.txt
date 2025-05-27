@@ -1,0 +1,45 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.947
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 9
+
+1. I love to larp.
+   (ID: conversation_86_user_1)
+
+2. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+3. I enjoy walking around the park.
+   (ID: conversation_21_user_2)
+
+4. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+5. I like to swim.
+   (ID: conversation_4_user_1)
+
+6. I enjoy skiing.
+   (ID: conversation_7_user_2)
+
+7. I love to hike in the summer.
+   (ID: conversation_88_user_2)
+
+8. Once a year , i take a week off and head to florida.
+   (ID: conversation_144_user_2)
+
+9. I love the beach.
+   (ID: conversation_171_user_2)
+
+
+============================================================

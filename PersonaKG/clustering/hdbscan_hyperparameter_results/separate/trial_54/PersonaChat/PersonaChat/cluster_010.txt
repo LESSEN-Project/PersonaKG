@@ -1,0 +1,42 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.695
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i train horses for a living .
+   (ID: conversation_66)
+
+2. i believe that mermaids are real .
+   (ID: conversation_1)
+
+3. i wish i knew where i belonged .
+   (ID: conversation_66)
+
+4. i wish i could live forever .
+   (ID: conversation_85)
+
+5. i wish i had a real dragon i could train .
+   (ID: conversation_31)
+
+6. i wish i could take back a mistake .
+   (ID: conversation_147)
+
+7. i wish i could be more serious about school .
+   (ID: conversation_131)
+
+8. i wish i was a tiger .
+   (ID: conversation_156)
+
+
+============================================================

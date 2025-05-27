@@ -1,0 +1,12 @@
+{
+  "trial": 24,
+  "vectorization": "dense",
+  "sample_size": 500,
+  "min_cluster_size_ratio": 0.05,
+  "min_cluster_size": 25,
+  "min_samples": 12,
+  "min_samples_ratio": 0.5,
+  "tfidf_weight": null,
+  "pca_components": 32,
+  "clustering_mode": "separate"
+}

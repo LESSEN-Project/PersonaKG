@@ -1,0 +1,48 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i spend a lot of time driving my kids to sports events .
+   (ID: conversation_75)
+
+2. i am a college student who is a full time working mom .
+   (ID: conversation_21)
+
+3. i write in my spare time .
+   (ID: conversation_66)
+
+4. i do not like kids .
+   (ID: conversation_154)
+
+5. my class has 26 kids .
+   (ID: conversation_70)
+
+6. my wife stays home with our kids .
+   (ID: conversation_30)
+
+7. madonna is my all time favorite .
+   (ID: conversation_13)
+
+8. i like jogging in my spare time .
+   (ID: conversation_77)
+
+9. i worked 3 jobs at the same time for more than 5 years .
+   (ID: conversation_185)
+
+10. i like to donate time at the local animal shelter .
+   (ID: conversation_19)
+
+
+============================================================

@@ -1,0 +1,51 @@
+CLUSTER 350
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.987
+
+Dataset distribution in this cluster:
+  MPChat: 1 (16.7%)
+  PEC: 2 (33.3%)
+  PER-CHAT: 1 (16.7%)
+  SyntheticPersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. sashimi platter i had on the remote island of yakushima, japan.
+   (ID: VodkaWithSnowflakes)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i 'm counting six .
+   (ID: BabblingBunny)
+
+2. i am counting constantine .
+   (ID: adertal)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am narcissist.
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My name is mary and i m from colorado.
+   (ID: conversation_88_user_2)
+
+2. My grandma is from denmark.
+   (ID: conversation_44_user_2)
+
+
+============================================================

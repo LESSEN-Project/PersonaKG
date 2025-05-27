@@ -1,0 +1,33 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I have 5 brothers and sisters.
+   (ID: conversation_8_user_2)
+
+2. My husband is 20 years older than me.
+   (ID: conversation_113_user_2)
+
+3. I have 4 daughters.
+   (ID: conversation_50_user_2)
+
+4. I am engaged to be married.
+   (ID: conversation_25_user_2)
+
+5. We have two sons.
+   (ID: conversation_113_user_2)
+
+
+============================================================

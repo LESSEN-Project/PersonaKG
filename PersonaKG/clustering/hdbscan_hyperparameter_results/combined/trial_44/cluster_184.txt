@@ -1,0 +1,127 @@
+CLUSTER 184
+============================================================
+Total statements in cluster: 95
+Cluster persistence (stability): 0.550
+
+Dataset distribution in this cluster:
+  MPChat: 1 (1.1%)
+  MSC: 2 (2.1%)
+  PEC: 87 (91.6%)
+  PER-CHAT: 2 (2.1%)
+  PersonaChat: 2 (2.1%)
+  SyntheticPersonaChat: 1 (1.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i think she ate too much spinach...
+   (ID: River_Lethe)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I think that I am bipolar.
+   (ID: dialog_43_speaker_1)
+
+2. I think most scary monsters are serious.
+   (ID: dialog_54_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 87
+
+1. i think for me it was the asshole illustration .
+   (ID: MrBovineJoni)
+
+2. i think it ’s the male counterpart for ghoul trooper .
+   (ID: TheRealAshren)
+
+3. i think that 's referred to as a snorlax in these parts .
+   (ID: CarlofTime)
+
+4. i think this is in reference to the convention in philly .
+   (ID: notlikethat1)
+
+5. i think i shall call her elizabeth
+   (ID: Stan063)
+
+6. i think because the whole brewery behind them is poorly shopped in
+   (ID: Captain_-H)
+
+7. i think we found a roddy mark .
+   (ID: MUZAI)
+
+8. i think you 're being intentionally dense .
+   (ID: sweatervest)
+
+9. i think it 's a napping puppy .
+   (ID: CheapyPipe)
+
+10. i think it was for titanium if memory serves ?
+   (ID: JohnnyPappis)
+
+11. i think megamind is the ultimate example of this .
+   (ID: WiseScratch)
+
+12. i think that was the divine comedy , not pulp ?
+   (ID: IAMACiderDrinker)
+
+13. i think everyone loves zooey
+   (ID: thebastion)
+
+14. i think i may have a touch of consumption .
+   (ID: Kellen1337)
+
+15. i do n't think you 're cheating .
+   (ID: ItGetsAwkward)
+
+16. i think it 's the eye lashes .
+   (ID: genpell)
+
+17. i think this is a craigslist scam
+   (ID: jbasta93)
+
+18. i think that was very brave of you !
+   (ID: ListenandLove100)
+
+19. i think i relate more to schmitty ...
+   (ID: Osiris0123)
+
+20. i think i see the ear notch .
+   (ID: Bathysphere710)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. do you think about breathing too ?
+   (ID: 617a45b75601128e5c804bd8ca6b8e525a4aa02d)
+
+2. i think you made a mistake there
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+2. i am not afraid of what others think .
+   (ID: conversation_37)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I think the moon landing was faked.
+   (ID: conversation_250_user_2)
+
+
+============================================================

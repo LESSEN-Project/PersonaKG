@@ -1,0 +1,71 @@
+CLUSTER 424
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.804
+
+Dataset distribution in this cluster:
+  MPChat: 2 (18.2%)
+  MSC: 1 (9.1%)
+  PEC: 1 (9.1%)
+  PersonaChat: 5 (45.5%)
+  SyntheticPersonaChat: 2 (18.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. my favorite pizza at my favorite local brewery-phoenix rising bakery/chestnut brew works
+   (ID: onemantwohands)
+
+2. not my favorite pour, but she's a cutie.
+   (ID: SilentRansom)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My favorite novel is about a who realizes he's a commander.
+   (ID: dialog_11_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm commander shepard , and this is my favorite street in hampton , virginia .
+   (ID: Machinax)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. my favorite pizza is pepperoni .
+   (ID: conversation_206)
+
+2. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+3. my favorite hobby is chess .
+   (ID: conversation_149)
+
+4. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+5. my favorite jello is the blue one .
+   (ID: conversation_236)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+2. My favorite fruit is apple.
+   (ID: conversation_277_user_1)
+
+
+============================================================

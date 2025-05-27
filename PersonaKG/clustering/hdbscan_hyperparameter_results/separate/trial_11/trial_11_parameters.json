@@ -1,0 +1,12 @@
+{
+  "trial": 11,
+  "vectorization": "hybrid",
+  "sample_size": 500,
+  "min_cluster_size_ratio": 0.02,
+  "min_cluster_size": 10,
+  "min_samples": 10,
+  "min_samples_ratio": 1.0,
+  "tfidf_weight": 0.3,
+  "pca_components": 16,
+  "clustering_mode": "separate"
+}

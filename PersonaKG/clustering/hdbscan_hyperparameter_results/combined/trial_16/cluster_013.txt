@@ -1,0 +1,158 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 40
+Cluster persistence (stability): 0.982
+
+Dataset distribution in this cluster:
+  MSC: 6 (15.0%)
+  PEC: 4 (10.0%)
+  PER-CHAT: 14 (35.0%)
+  PersonaChat: 11 (27.5%)
+  SyntheticPersonaChat: 5 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I've a high voice.
+   (ID: dialog_3_speaker_1)
+
+2. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+3. I am good at surfing.
+   (ID: dialog_16_speaker_2)
+
+4. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+5. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+6. My job is in real estate.
+   (ID: dialog_37_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i am a comedy master
+   (ID: ChallengeTaken99)
+
+2. i 'm jordan ward !
+   (ID: amirman)
+
+3. i 'm just a douchebag
+   (ID: nate6051)
+
+4. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+
+--- PER-CHAT ---
+Total from this dataset: 14
+
+1. I am ‘ underage loli ’.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+2. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+3. I am abuser.
+   (ID: e0c81b4b90b0c79cd330827a7fe15c4ac2958b48)
+
+4. I am asshole.
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+5. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+6. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+7. I am star.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+8. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+9. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+10. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+11. I am serial killer.
+   (ID: e91d4ec377d82dfdf21d71b4dc685a96ed60ea3d)
+
+12. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+13. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+14. I am speed.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+
+--- PersonaChat ---
+Total from this dataset: 11
+
+1. i'm a dancer .
+   (ID: conversation_10)
+
+2. my name is omar .
+   (ID: conversation_42)
+
+3. i am witty .
+   (ID: conversation_65)
+
+4. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+5. i work for a large law firm .
+   (ID: conversation_30)
+
+6. i'm a goalie .
+   (ID: conversation_62)
+
+7. i work as a stand up comedian .
+   (ID: conversation_2)
+
+8. i teach kindergarten .
+   (ID: conversation_70)
+
+9. i fly airplanes .
+   (ID: conversation_35)
+
+10. i am a lumberjack .
+   (ID: conversation_51)
+
+11. i train horses for a living .
+   (ID: conversation_66)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+2. I am a paper salesman.
+   (ID: conversation_55_user_2)
+
+3. My name is nancy.
+   (ID: conversation_58_user_2)
+
+4. I am a jack of all , master of none.
+   (ID: conversation_7_user_1)
+
+5. I am blonde.
+   (ID: conversation_16_user_1)
+
+
+============================================================

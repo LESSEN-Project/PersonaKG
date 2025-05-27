@@ -1,0 +1,33 @@
+CLUSTER 41
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I have a severe allergy.
+   (ID: dialog_2_speaker_1)
+
+2. I loke to go shopping.
+   (ID: dialog_6_speaker_1)
+
+3. Glasses give me a headache.
+   (ID: dialog_3_speaker_2)
+
+4. I am in third grade.
+   (ID: dialog_53_speaker_2)
+
+5. I cannot see very well.
+   (ID: dialog_31_speaker_1)
+
+
+============================================================

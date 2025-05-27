@@ -1,0 +1,48 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.855
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i'm an angry person .
+   (ID: conversation_169)
+
+2. i think i m failing my women s studies class .
+   (ID: conversation_264)
+
+3. i think canadian women are incredibly attractive .
+   (ID: conversation_420)
+
+4. i am not afraid of what others think .
+   (ID: conversation_37)
+
+5. i also give blood monthly in honor of my sister who died .
+   (ID: conversation_77)
+
+6. i am a small business owner .
+   (ID: conversation_201)
+
+7. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+8. i come from a small town .
+   (ID: conversation_2)
+
+9. it was too small .
+   (ID: conversation_290)
+
+10. my cat died .
+   (ID: conversation_486)
+
+
+============================================================

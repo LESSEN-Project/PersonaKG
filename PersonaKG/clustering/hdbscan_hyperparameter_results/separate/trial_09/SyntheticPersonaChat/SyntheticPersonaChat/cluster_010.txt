@@ -1,0 +1,33 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I am weak and selfish , but i want to change.
+   (ID: conversation_109_user_1)
+
+2. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_95_user_2)
+
+3. I want to climb mount everest.
+   (ID: conversation_205_user_2)
+
+4. I want to be desired.
+   (ID: conversation_378_user_1)
+
+5. I want to move.
+   (ID: conversation_3_user_2)
+
+
+============================================================

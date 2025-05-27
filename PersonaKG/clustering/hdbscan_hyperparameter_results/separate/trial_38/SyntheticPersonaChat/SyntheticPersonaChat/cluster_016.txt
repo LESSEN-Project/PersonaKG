@@ -1,0 +1,39 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.910
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I can play the piano.
+   (ID: conversation_120_user_2)
+
+2. I play the guitair.
+   (ID: conversation_121_user_2)
+
+3. I am hoping to play basketball overseas.
+   (ID: conversation_149_user_2)
+
+4. I play the violin.
+   (ID: conversation_32_user_1)
+
+5. My poppa has a train set that i play with.
+   (ID: conversation_173_user_1)
+
+6. I often play the clown to get attention.
+   (ID: conversation_66_user_2)
+
+7. I am hoping to play.
+   (ID: conversation_149_user_2)
+
+
+============================================================

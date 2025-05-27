@@ -1,0 +1,42 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+2. My favorite artist is bob ross.
+   (ID: conversation_187_user_1)
+
+3. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+4. My favorite season is spring.
+   (ID: conversation_64_user_2)
+
+5. My favorite flower is a lily.
+   (ID: conversation_91_user_1)
+
+6. My favorite meal is steak.
+   (ID: conversation_9_user_2)
+
+7. My favorite animal is a bear.
+   (ID: conversation_55_user_2)
+
+8. My favorite store is american eagle.
+   (ID: conversation_4_user_2)
+
+
+============================================================

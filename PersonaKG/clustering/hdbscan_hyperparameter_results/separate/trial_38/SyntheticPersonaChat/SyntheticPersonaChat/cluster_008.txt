@@ -1,0 +1,48 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.745
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 10
+
+1. I used to work at a factory making boxes.
+   (ID: conversation_63_user_1)
+
+2. I do volunteer work for human rights organizations.
+   (ID: conversation_2_user_2)
+
+3. I work at mcdonald s.
+   (ID: conversation_3_user_1)
+
+4. I owe 2 monitors for work.
+   (ID: conversation_66_user_1)
+
+5. I work part time at aldi s.
+   (ID: conversation_43_user_2)
+
+6. My brothers work with me.
+   (ID: conversation_47_user_2)
+
+7. I work as a tutor for english literature.
+   (ID: conversation_56_user_1)
+
+8. I work as a lifeguard at a beach.
+   (ID: conversation_22_user_2)
+
+9. I work in accounting.
+   (ID: conversation_5_user_1)
+
+10. I am a nurse and work in an emergency room at a busy hospital.
+   (ID: conversation_93_user_1)
+
+
+============================================================

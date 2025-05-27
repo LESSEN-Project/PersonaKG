@@ -1,0 +1,42 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.659
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i cannot hold down a job for very long .
+   (ID: conversation_197)
+
+2. i will be graduating in september and hope to get a teaching job soon .
+   (ID: conversation_22)
+
+3. i am looking for a second job .
+   (ID: conversation_272)
+
+4. i like my job .
+   (ID: conversation_76)
+
+5. i take pride in my job managing the restaurant .
+   (ID: conversation_189)
+
+6. i have a marketing job .
+   (ID: conversation_267)
+
+7. i work a dead end 9 to 5 job as a snakeskin oil salesman .
+   (ID: conversation_204)
+
+8. i do not have a job .
+   (ID: conversation_120)
+
+
+============================================================

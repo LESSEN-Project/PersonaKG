@@ -1,0 +1,33 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My husband is an author and we have twins together.
+   (ID: conversation_83_user_2)
+
+2. I play bingo every wednesday with my husband.
+   (ID: conversation_24_user_2)
+
+3. My husband is a corporate attorney.
+   (ID: conversation_118_user_2)
+
+4. I coexist well with my husband.
+   (ID: conversation_127_user_2)
+
+5. My husband and i have a suicide pact.
+   (ID: conversation_49_user_2)
+
+
+============================================================

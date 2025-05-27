@@ -1,0 +1,36 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i think food trucks are awesome .
+   (ID: conversation_232)
+
+2. i'm overall happy with life .
+   (ID: conversation_128)
+
+3. regular life disappoints me .
+   (ID: conversation_356)
+
+4. i lived most of my life not knowing who bob marley was .
+   (ID: conversation_229)
+
+5. food and water are essential to me in life .
+   (ID: conversation_410)
+
+6. i'd be honored to give my life for my country .
+   (ID: conversation_273)
+
+
+============================================================

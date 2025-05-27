@@ -1,0 +1,33 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i am 19 years old .
+   (ID: conversation_103)
+
+2. i'm seven years old .
+   (ID: conversation_53)
+
+3. my name is jovannie and i m 19 .
+   (ID: conversation_184)
+
+4. i was a slave for 10 years .
+   (ID: conversation_127)
+
+5. i have played since i was 4 years old .
+   (ID: conversation_45)
+
+
+============================================================

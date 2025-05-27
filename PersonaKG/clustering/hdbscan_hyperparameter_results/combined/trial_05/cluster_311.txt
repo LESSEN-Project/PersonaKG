@@ -1,0 +1,73 @@
+CLUSTER 311
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.972
+
+Dataset distribution in this cluster:
+  FoCus: 1 (10.0%)
+  MSC: 1 (10.0%)
+  PEC: 1 (10.0%)
+  PER-CHAT: 3 (30.0%)
+  PersonaChat: 2 (20.0%)
+  SyntheticPersonaChat: 2 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am Anglican.
+   (ID: G1IQ2JHFB47F_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am a southern.
+   (ID: dialog_26_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm 28 , from europe , romania .
+   (ID: blue_thingy)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I am aryan.
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+2. I own a province.
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+3. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am argentinian .
+   (ID: conversation_59)
+
+2. i m from texas .
+   (ID: conversation_8)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am italian american.
+   (ID: conversation_173_user_2)
+
+2. I am from russia.
+   (ID: conversation_7_user_2)
+
+
+============================================================

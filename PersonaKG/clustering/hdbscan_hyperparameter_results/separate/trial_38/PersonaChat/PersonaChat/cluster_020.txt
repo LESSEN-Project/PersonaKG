@@ -1,0 +1,39 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.971
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i've a cat named leela .
+   (ID: conversation_58)
+
+2. i've a horse named beauty .
+   (ID: conversation_40)
+
+3. i've a parrot named parrot .
+   (ID: conversation_138)
+
+4. i have a dog named bob .
+   (ID: conversation_27)
+
+5. i have a friend named james who secretly rules the world .
+   (ID: conversation_26)
+
+6. i have a dog named socks .
+   (ID: conversation_172)
+
+7. i've a cat named seven of nine .
+   (ID: conversation_144)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 32
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i'm terrible at math .
+   (ID: conversation_172)
+
+2. i earn passive income that no one knows about .
+   (ID: conversation_295)
+
+3. i have epilepsy .
+   (ID: conversation_55)
+
+4. i had to call 911 when i had a terrible headache .
+   (ID: conversation_34)
+
+5. i'm very good at math and science .
+   (ID: conversation_122)
+
+
+============================================================

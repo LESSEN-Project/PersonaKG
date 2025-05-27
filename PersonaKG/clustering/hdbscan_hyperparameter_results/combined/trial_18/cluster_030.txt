@@ -1,0 +1,57 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  MSC: 2 (25.0%)
+  PEC: 2 (25.0%)
+  PersonaChat: 3 (37.5%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I have terrible vision. I get bad headaches.
+   (ID: dialog_34_speaker_2)
+
+2. I cannot eat certain foods due to flatulence.
+   (ID: dialog_26_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i 'm pale and have high blood pressure .
+   (ID: ProJokeExplainer)
+
+2. i can not drink hot coffee .
+   (ID: AgedTwenties)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i have epilepsy .
+   (ID: conversation_55)
+
+2. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+3. i m allergic to shellfish .
+   (ID: conversation_28)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am not healthy.
+   (ID: conversation_21_user_1)
+
+
+============================================================

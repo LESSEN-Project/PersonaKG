@@ -1,0 +1,54 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.716
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 12 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 12
+
+1. I like to eat spaghetti.
+   (ID: conversation_103_user_2)
+
+2. I can t eat shrimp.
+   (ID: conversation_19_user_1)
+
+3. I love to eat pita bread with hummus.
+   (ID: conversation_230_user_1)
+
+4. I eat all take out.
+   (ID: conversation_2_user_1)
+
+5. I could eat meatloaf every night and never get tired of it.
+   (ID: conversation_421_user_2)
+
+6. I want to find out what its like to eat grasshoppers.
+   (ID: conversation_612_user_2)
+
+7. I eat ice cream when i am sad.
+   (ID: conversation_152_user_2)
+
+8. I eat 6 eggs every morning for breakfast.
+   (ID: conversation_617_user_2)
+
+9. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+10. I can t eat them but they re pretty.
+   (ID: conversation_671_user_1)
+
+11. We drink beer and eat food.
+   (ID: conversation_239_user_2)
+
+12. Its good to eat a lot of veggies.
+   (ID: conversation_245_user_2)
+
+
+============================================================

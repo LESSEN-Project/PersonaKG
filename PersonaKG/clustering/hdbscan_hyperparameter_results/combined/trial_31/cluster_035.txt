@@ -1,0 +1,187 @@
+CLUSTER 35
+============================================================
+Total statements in cluster: 59
+Cluster persistence (stability): 0.752
+
+Dataset distribution in this cluster:
+  FoCus: 2 (3.4%)
+  MSC: 6 (10.2%)
+  PEC: 6 (10.2%)
+  PER-CHAT: 31 (52.5%)
+  PersonaChat: 7 (11.9%)
+  SyntheticPersonaChat: 7 (11.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+2. My family is from Wales.
+   (ID: LJYX36WCRYDM_9)
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+2. My job is in real estate.
+   (ID: dialog_37_speaker_1)
+
+3. I live in the state by colorado.
+   (ID: dialog_10_speaker_1)
+
+4. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+5. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+6. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+2. i ’m from corvallis .
+   (ID: godspeedone)
+
+3. i 'm in the hollywood area .
+   (ID: glowinthedark)
+
+4. i am in the southeast .
+   (ID: deputydan_scubaman)
+
+5. i up am by pigeon lake - just south of edmonton ..
+   (ID: exotics)
+
+6. i live in greenwood .
+   (ID: boo3114)
+
+
+--- PER-CHAT ---
+Total from this dataset: 31
+
+1. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+2. I live in f  pizza.
+   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+
+3. I live in near east brisbane.
+   (ID: 9adb5fb6fb9aeeeb65afe41002460d73817044b0)
+
+4. I live in istanbul.
+   (ID: c63be1429c6442ee9219ae1573b45fc7a40d22f2)
+
+5. I live in sam.
+   (ID: 109fa004cbb85f6a703624f8b4393d7d7d685509)
+
+6. I live in desert.
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+
+7. I live in uspga.
+   (ID: 8784cd4227a610d9cbb51480d635b44be1d31e8c)
+
+8. I live in place.
+   (ID: 05bc4f6f6f6bb573d85181292f88efbd50c59547)
+
+9. I live in fruit country.
+   (ID: e036cce09e42b447bacae037ef33243f155fd2bf)
+
+10. I live in meth village.
+   (ID: 8df56ee782672f11aeb0f19bf7978b1b1c04e678)
+
+11. I live in private road.
+   (ID: 472de55a2855849453179c0ccb5234c4ea9d1192)
+
+12. I live in large river.
+   (ID: 0d77404b10744947bcd2c91d8c926021d4b8650f)
+
+13. I live in part.
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+14. I live in sticks.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+15. I live in hearing.
+   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+
+16. I live in edge dogs.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+17. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+18. I live in dallas area richardson.
+   (ID: 7928bd3c3e727c94ff476240a27ed7199d92d666)
+
+19. I live in dad.
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+20. I live in heating pad.
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i m from texas .
+   (ID: conversation_8)
+
+2. i live in rural wisconsin .
+   (ID: conversation_15)
+
+3. i can speak arabic , english , and french .
+   (ID: conversation_63)
+
+4. i come from a small town .
+   (ID: conversation_2)
+
+5. my mother was born in ireland .
+   (ID: conversation_38)
+
+6. i live in the usa .
+   (ID: conversation_23)
+
+7. my father was born in australia .
+   (ID: conversation_9)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+2. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+3. I want to move.
+   (ID: conversation_3_user_2)
+
+4. I was born in baton rouge.
+   (ID: conversation_69_user_2)
+
+5. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+6. I am from russia.
+   (ID: conversation_7_user_2)
+
+7. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+
+============================================================

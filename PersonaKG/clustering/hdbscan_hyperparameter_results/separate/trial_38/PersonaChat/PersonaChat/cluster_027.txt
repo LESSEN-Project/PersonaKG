@@ -1,0 +1,36 @@
+CLUSTER 27
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.965
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i'm starting a new juicing bar .
+   (ID: conversation_88)
+
+2. i've been published in the new yorker magazine .
+   (ID: conversation_181)
+
+3. i recently discovered a new love for indian food .
+   (ID: conversation_45)
+
+4. i cannot wait to start my new life .
+   (ID: conversation_21)
+
+5. i went to new york city once .
+   (ID: conversation_133)
+
+6. i joined a new team last month .
+   (ID: conversation_62)
+
+
+============================================================

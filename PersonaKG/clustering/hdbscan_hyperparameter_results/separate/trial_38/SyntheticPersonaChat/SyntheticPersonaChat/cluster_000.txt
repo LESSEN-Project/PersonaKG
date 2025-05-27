@@ -1,0 +1,33 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My family hates my fiancé.
+   (ID: conversation_179_user_2)
+
+2. I enjoy spending time with my family.
+   (ID: conversation_4_user_2)
+
+3. I am a family man.
+   (ID: conversation_23_user_2)
+
+4. I have the support of my whole family.
+   (ID: conversation_143_user_2)
+
+5. My family owned a small restaurant.
+   (ID: conversation_28_user_2)
+
+
+============================================================

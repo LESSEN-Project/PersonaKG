@@ -1,0 +1,38 @@
+CLUSTER 326
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PersonaChat: 4 (80.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+2. i teach kindergarten .
+   (ID: conversation_70)
+
+3. i am a lumberjack .
+   (ID: conversation_51)
+
+4. i fly airplanes .
+   (ID: conversation_35)
+
+
+============================================================

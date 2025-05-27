@@ -1,0 +1,46 @@
+CLUSTER 149
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 3 (50.0%)
+  PersonaChat: 2 (33.3%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I order Angus steaks. My favorite band, at least one of them, is RHCP.
+   (ID: dialog_42_speaker_1)
+
+2. Desert is my favorite type of food.
+   (ID: dialog_56_speaker_1)
+
+3. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my favorite food is popcorn .
+   (ID: conversation_15)
+
+2. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. Pizza is my most favorite thing.
+   (ID: conversation_129_user_2)
+
+
+============================================================

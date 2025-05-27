@@ -1,0 +1,43 @@
+CLUSTER 293
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 1 (20.0%)
+  MSC: 1 (20.0%)
+  PEC: 3 (60.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i am the master of both cheese and cake!
+   (ID: Snoodles1)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I eat somali food.
+   (ID: dialog_16_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i grow pickles .
+   (ID: Ooer)
+
+2. i am peanut butter and jelly .
+   (ID: CuriousBlueAbra)
+
+3. i ’m made out of fat
+   (ID: Heydawgg)
+
+
+============================================================

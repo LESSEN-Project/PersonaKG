@@ -1,0 +1,57 @@
+CLUSTER 349
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 3 (37.5%)
+  PEC: 3 (37.5%)
+  PER-CHAT: 1 (12.5%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+2. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+3. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i had to beg for a keychain :(
+   (ID: rycheme)
+
+2. i would be to tempted to slide it in ...
+   (ID: KikAtWorkFL)
+
+3. i beg to differ .
+   (ID: Weed_n_Wisdom)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am eu student.
+   (ID: 7ba2f45f62c701a508f1895df828d4da2f3f446d)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am an excellent student.
+   (ID: conversation_29_user_2)
+
+
+============================================================

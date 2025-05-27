@@ -1,0 +1,68 @@
+CLUSTER 690
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.600
+
+Dataset distribution in this cluster:
+  MSC: 1 (10.0%)
+  PEC: 3 (30.0%)
+  PER-CHAT: 2 (20.0%)
+  PersonaChat: 2 (20.0%)
+  SyntheticPersonaChat: 2 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I eat somali food.
+   (ID: dialog_16_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i 'd still eat it .
+   (ID: sweatervest)
+
+2. i eat my acidic / spicy food with a side of zantac and imodium .
+   (ID: Samoht2113)
+
+3. i do n’t eat seafood .
+   (ID: AP7497)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. " eat pant "
+   (ID: ed2d2ab477a99cff4d15f5f18a7d3662571d6e1a)
+
+2. you are what you eat .
+   (ID: 011a531fc3f706d76441a0f95cc8091fd4453dd8)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i only eat organic food .
+   (ID: conversation_210)
+
+2. i never eat veggies .
+   (ID: conversation_96)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I eat all take out.
+   (ID: conversation_2_user_1)
+
+2. We drink beer and eat food.
+   (ID: conversation_239_user_2)
+
+
+============================================================

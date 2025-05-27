@@ -1,0 +1,53 @@
+CLUSTER 267
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 1 (20.0%)
+  PER-CHAT: 1 (20.0%)
+  PersonaChat: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I shooting my meals.
+   (ID: dialog_19_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i can eat raw dough without fear of raw egg killing me .
+   (ID: FruitBatFanatic)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. spoonfuls of sugar , in bed , after my soccer games .
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i eat breakfast then go right back to bed .
+   (ID: conversation_148)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. When i am stressed , i overeat.
+   (ID: conversation_153_user_1)
+
+
+============================================================

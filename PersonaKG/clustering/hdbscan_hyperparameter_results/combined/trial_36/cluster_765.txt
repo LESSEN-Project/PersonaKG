@@ -1,0 +1,57 @@
+CLUSTER 765
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (12.5%)
+  PEC: 5 (62.5%)
+  PersonaChat: 1 (12.5%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I wear skirts.
+   (ID: dialog_94_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i never wear a bra .
+   (ID: Sabiola)
+
+2. i have to wear a helmet too
+   (ID: Lifes6Midnight)
+
+3. i do n't wear them generally but whaaat ?
+   (ID: mylescloutier)
+
+4. i will give you a corduroy blazer to wear , and you must only utter statements such as this .
+   (ID: Evref)
+
+5. i once made habanero chili , and neglected to wear gloves .
+   (ID: wooq)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i wear contacts .
+   (ID: conversation_3)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I only wear silver jewelry.
+   (ID: conversation_157_user_2)
+
+
+============================================================

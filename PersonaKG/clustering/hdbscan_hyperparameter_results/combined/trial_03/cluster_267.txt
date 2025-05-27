@@ -1,0 +1,60 @@
+CLUSTER 267
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.904
+
+Dataset distribution in this cluster:
+  MSC: 1 (11.1%)
+  PEC: 5 (55.6%)
+  PER-CHAT: 2 (22.2%)
+  PersonaChat: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am going to the University of Michigan.
+   (ID: dialog_12_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i was half asleep when posting and going in depth was n't going to happen .
+   (ID: BabblingBunny)
+
+2. i was thinking about going with toshiba for my next laptop .
+   (ID: amirman)
+
+3. i 'm going to save this and get back to you after the 1st
+   (ID: buttercup_mauler)
+
+4. i was going to recommend the dorcas thrift shop ....
+   (ID: deputydan_scubaman)
+
+5. i 'm going to get downvoted for this , but this made me laugh .
+   (ID: genpell)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. " the one with the marker dot on it ' s foot is johnny . " " what about when we bathe them ? " " what the hell are we going to do ? "
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+2. uuuuhhhhh what ? going to bed early as a teen is a privilege !
+   (ID: 9e778023eda5589ac577e3789edfd900d208edf7)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i still dream about going to paris and designing clothes .
+   (ID: conversation_75)
+
+
+============================================================

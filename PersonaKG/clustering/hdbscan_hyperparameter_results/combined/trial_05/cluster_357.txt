@@ -1,0 +1,49 @@
+CLUSTER 357
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.914
+
+Dataset distribution in this cluster:
+  MSC: 1 (14.3%)
+  PEC: 4 (57.1%)
+  SyntheticPersonaChat: 2 (28.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I like consuming salty rod shaped snacks.
+   (ID: dialog_19_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i like meth � � ‍ ♂ ️
+   (ID: techdude21)
+
+2. i like the veggies thin sliced and crunchy .
+   (ID: Bathysphere710)
+
+3. i like chuck e. cheese
+   (ID: bummang)
+
+4. i like croutons too , but not * frozen * ones .
+   (ID: Sabiola)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I like dr pepper and black jack gum , but not together.
+   (ID: conversation_172_user_2)
+
+2. I like italian cusine.
+   (ID: conversation_158_user_2)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 32
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I have played since i was 4 years old.
+   (ID: conversation_94_user_2)
+
+2. I have 10 years experience in our industry , yet she gets promoted.
+   (ID: conversation_289_user_2)
+
+3. I was a navy brat and have attended 16 schools in 12 years.
+   (ID: conversation_293_user_2)
+
+4. I won a lottery 6 years ago but nobody knows.
+   (ID: conversation_288_user_1)
+
+5. I am 10 years old.
+   (ID: conversation_5_user_2)
+
+
+============================================================

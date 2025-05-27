@@ -1,0 +1,42 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.981
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. we own our home .
+   (ID: conversation_30)
+
+2. my wife stays home with our kids .
+   (ID: conversation_30)
+
+3. i have 23 cats at home .
+   (ID: conversation_60)
+
+4. i breed maine coon cats and show them .
+   (ID: conversation_46)
+
+5. i had two cats growing up .
+   (ID: conversation_19)
+
+6. my class has 26 kids .
+   (ID: conversation_70)
+
+7. i spend a lot of time driving my kids to sports events .
+   (ID: conversation_75)
+
+8. i do not like kids .
+   (ID: conversation_154)
+
+
+============================================================

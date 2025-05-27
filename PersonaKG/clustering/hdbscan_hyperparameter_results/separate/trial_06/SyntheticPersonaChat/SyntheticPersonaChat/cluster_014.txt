@@ -1,0 +1,33 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I used to fly planes for a living.
+   (ID: conversation_121_user_1)
+
+2. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_95_user_2)
+
+3. I used to work as an actress.
+   (ID: conversation_216_user_1)
+
+4. Welding is my career field.
+   (ID: conversation_139_user_2)
+
+5. I love my job.
+   (ID: conversation_216_user_1)
+
+
+============================================================

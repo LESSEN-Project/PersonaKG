@@ -1,0 +1,39 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.785
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i have always enjoyed telling stories to people .
+   (ID: conversation_340)
+
+2. my last name is spanish , but i tell people that it s italian .
+   (ID: conversation_179)
+
+3. i retired so i can spend more time with my husband and helping people .
+   (ID: conversation_303)
+
+4. i prefer eating at home because people make me nervous .
+   (ID: conversation_253)
+
+5. helping people makes me happy .
+   (ID: conversation_134)
+
+6. i only date people taller than me .
+   (ID: conversation_85)
+
+7. people notice how organized i am .
+   (ID: conversation_435)
+
+
+============================================================

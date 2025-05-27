@@ -1,0 +1,128 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 44
+Cluster persistence (stability): 0.650
+
+Dataset distribution in this cluster:
+  MSC: 1 (2.3%)
+  PEC: 1 (2.3%)
+  PER-CHAT: 34 (77.3%)
+  PersonaChat: 4 (9.1%)
+  SyntheticPersonaChat: 4 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I enjoy burgers.
+   (ID: dialog_33_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i enjoy chips n ice cream too lol
+   (ID: Noimnotsally)
+
+
+--- PER-CHAT ---
+Total from this dataset: 34
+
+1. One of my favorite things is fruit.
+   (ID: 128346fc1e56ccadd25a4b200ecae44637d48f5f)
+
+2. One of my favorite things is vaginas weed.
+   (ID: 53aa6c267ff5eccf891e178786d41ca5df80a5de)
+
+3. One of my favorite things is porridge.
+   (ID: c9a98f7f4291c6c1eefeeaae838890408881f877)
+
+4. One of my favorite things is icecream.
+   (ID: 8285a776fd60b145ed2afc145cdf2b926b93ed8b)
+
+5. One of my favorite things is pickled herring.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+6. One of my favorite things is oatmeal raisin cookies more than chocolate chip cookies.
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+7. One of my favorite things is dr pepper.
+   (ID: 801c30bb9f7fe270789d76054d77c547f65e41eb)
+
+8. One of my favorite things is chickpeas.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+9. One of my favorite things is ginger.
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+10. One of my favorite things is creampies.
+   (ID: 7008f149db59fea91167255eafa8bc84beab0f01)
+
+11. One of my favorite things is bell peppers.
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+12. One of my favorite things is licorice.
+   (ID: 40ad6d409c1f0888bdb3dbd8d7bab47d00f3a6f0)
+
+13. One of my favorite things is pie.
+   (ID: b05c37d4999dc6e0647955781d5a349457a11a40)
+
+14. One of my favorite things is liver.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+15. One of my favorite things is noodle.
+   (ID: 9e778023eda5589ac577e3789edfd900d208edf7)
+
+16. One of my favorite things is eclairs.
+   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
+
+17. One of my favorite things is guinness.
+   (ID: 3c405c5b13146831496e429cf2aff978fcec01eb)
+
+18. One of my favorite things is hot cashew milk with red quinoa.
+   (ID: a94c33f7a102c979d2b0d24245a9721d4136b14f)
+
+19. One of my favorite things is butter.
+   (ID: 35eb47890f8874bbb988ec8308ba762f8377b3b8)
+
+20. One of my favorite things is feta cheese.
+   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+2. i love iced tea .
+   (ID: conversation_1)
+
+3. my favorite food is popcorn .
+   (ID: conversation_15)
+
+4. i love hot wings .
+   (ID: conversation_82)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I like sprite soda.
+   (ID: conversation_20_user_1)
+
+2. I also love orange juice.
+   (ID: conversation_61_user_2)
+
+3. I love ham and cheese sandwiches.
+   (ID: conversation_5_user_2)
+
+4. I love sushi.
+   (ID: conversation_76_user_1)
+
+
+============================================================

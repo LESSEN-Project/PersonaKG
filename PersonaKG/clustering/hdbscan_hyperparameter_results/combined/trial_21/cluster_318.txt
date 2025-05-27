@@ -1,0 +1,71 @@
+CLUSTER 318
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.959
+
+Dataset distribution in this cluster:
+  MSC: 1 (9.1%)
+  PEC: 4 (36.4%)
+  PER-CHAT: 1 (9.1%)
+  PersonaChat: 3 (27.3%)
+  SyntheticPersonaChat: 2 (18.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm an american.
+   (ID: dialog_23_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i see a green one !
+   (ID: ChallengeTaken99)
+
+2. i 'm neither rich , nor american .
+   (ID: exotics)
+
+3. i spotted the american !
+   (ID: zsnajorrah)
+
+4. i have no desire to be american .
+   (ID: trav110)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i can speak arabic , english , and french .
+   (ID: conversation_63)
+
+2. i m from texas .
+   (ID: conversation_8)
+
+3. i am argentinian .
+   (ID: conversation_59)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am from russia.
+   (ID: conversation_7_user_2)
+
+2. I speak fluent italian.
+   (ID: conversation_59_user_2)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I don t work.
+   (ID: conversation_4_user_1)
+
+2. I don t like my reputation.
+   (ID: conversation_3_user_2)
+
+3. I don t like feeling controlled.
+   (ID: conversation_3_user_2)
+
+4. I have depression and anxiety so i don t really go out a lot.
+   (ID: conversation_16_user_2)
+
+5. I have a lot of trophies from my childhood.
+   (ID: conversation_175_user_2)
+
+
+============================================================

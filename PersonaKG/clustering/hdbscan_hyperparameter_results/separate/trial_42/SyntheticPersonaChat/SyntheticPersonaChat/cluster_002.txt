@@ -1,0 +1,36 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.996
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. My mother looks after my grandmother.
+   (ID: conversation_41_user_2)
+
+2. I haven t spoken to my family in years.
+   (ID: conversation_298_user_1)
+
+3. I live alone in my condo.
+   (ID: conversation_39_user_2)
+
+4. My mom is an osteopath.
+   (ID: conversation_59_user_2)
+
+5. My mother is dead.
+   (ID: conversation_99_user_2)
+
+6. I live with my sisters and they provide me with all my needs.
+   (ID: conversation_68_user_2)
+
+
+============================================================

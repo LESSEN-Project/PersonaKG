@@ -1,0 +1,468 @@
+CLUSTER 541
+============================================================
+Total statements in cluster: 2080
+Cluster persistence (stability): 0.478
+
+Dataset distribution in this cluster:
+  FoCus: 50 (2.4%)
+  MPChat: 213 (10.2%)
+  MSC: 81 (3.9%)
+  PEC: 1148 (55.2%)
+  PER-CHAT: 457 (22.0%)
+  PersonaChat: 84 (4.0%)
+  SyntheticPersonaChat: 47 (2.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 50
+
+1. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+2. I am follower of Hyder Ali.
+   (ID: UN54IACHSTX5_11)
+
+3. I have studied about Catuvellauni in my subject.
+   (ID: XY9R2ORN3XBQ_7)
+
+4. I find steam machinery fascinating.
+   (ID: GABQG82ZVJCM_7)
+
+5. I have visited the 7, Lok Kalyan Marg.
+   (ID: EMXI5E4LUV20_11)
+
+6. I have never been to Alaska.
+   (ID: 82ZP2M9AL6U0_11)
+
+7. I am staying in a municipality.
+   (ID: ATJSFYS2K6FK_11)
+
+8. I am not from England.
+   (ID: KCX511DQ2QVM_9)
+
+9. I have an interest in medicinal herbs.
+   (ID: 744H5J0MPE9C_9)
+
+10. I am not Greek.
+   (ID: VB4LDHWFQAVH_11)
+
+11. I am not from Tokyo.
+   (ID: OI93ZLZKWF52_7)
+
+12. I am reseraching glacial meltwater.
+   (ID: SDW19RWSP3ZX_11)
+
+13. I have not been to Walmer.
+   (ID: T9JPYSSWD7NW_11)
+
+14. I have studied about pastoralist communities.
+   (ID: XDIIZK7KZ12G_11)
+
+15. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+16. I am impressed by Strawberry Hill Gothic.
+   (ID: 8C87PLCFQ0ZH_11)
+
+17. I have curiosity about the Activities.
+   (ID: PW1SULL1SY01_11)
+
+18. I will go to Devon.
+   (ID: VUU19OURBLRK_11)
+
+19. I have not been to Nebraska.
+   (ID: UXQZUTQ247LH_11)
+
+20. I am impressed by C. S. Denniss.
+   (ID: QD76MDAZKTVK_11)
+
+
+--- MPChat ---
+Total from this dataset: 213
+
+1. i cooked some mud into a horse shape
+   (ID: postmodernequestrian)
+
+2. are these roots and could i plant them to get another plant
+   (ID: why_the_babies_wet)
+
+3. should i clip it off and plant it separately?
+   (ID: heatsensitive)
+
+4. i'm gushing over these slip trail pieces!
+   (ID: narjis84)
+
+5. my pbr has an upside down label.
+   (ID: Dirk-Killington)
+
+6. i have an obsession with japanese dessert.
+   (ID: justcook_byangel)
+
+7. it is (partially) lit i am in awe
+   (ID: meghanlovessunshine)
+
+8. my hobbylobby opened back up!
+   (ID: Crilbyte)
+
+9. pitcher demo with mono print transfers for my soda surfaces students.
+   (ID: Grooventooven)
+
+10. stripped the decals off my pugs...!
+   (ID: i_like_it_raw_)
+
+11. they my call me a stoner,but i'm an active one.
+   (ID: pope237)
+
+12. this is my neighbor, sammich.
+   (ID: Flattishsassy)
+
+13. i brought this 7 gallon tank from hong kong to west virginia.
+   (ID: onemantwohands)
+
+14. my pup ellen ripley.
+   (ID: SuperfineYarnCo)
+
+15. i am determined to get some mandalas
+   (ID: Sophie74656)
+
+16. this shiitake i grew is an absolute unit.
+   (ID: sundstrom193)
+
+17. i made a neat chi
+   (ID: hmbmelly)
+
+18. i woke him up
+   (ID: kentobean123)
+
+19. wip wednesday one of my current projects rag doll lion
+   (ID: Winter246)
+
+20. my 310 calorie lunch: addicted to wawa's southwest chicken salad!
+   (ID: Metalocachick)
+
+
+--- MSC ---
+Total from this dataset: 81
+
+1. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+2. My housekeeper is dull.
+   (ID: dialog_57_speaker_1)
+
+3. I am a immigrant.
+   (ID: dialog_78_speaker_1)
+
+4. They call me anne.
+   (ID: dialog_163_speaker_1)
+
+5. I am not a professional comedian yet.
+   (ID: dialog_125_speaker_2)
+
+6. I am an urban dweller.
+   (ID: dialog_81_speaker_2)
+
+7. I'm an outcast.
+   (ID: dialog_45_speaker_1)
+
+8. The kitchen is my domain.
+   (ID: dialog_17_speaker_2)
+
+9. I have owned every iPhone except the first.
+   (ID: dialog_141_speaker_1)
+
+10. I always recycle.
+   (ID: dialog_131_speaker_1)
+
+11. I'm bespectacled.
+   (ID: dialog_143_speaker_2)
+
+12. I'm a thrill seeker.
+   (ID: dialog_73_speaker_1)
+
+13. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+14. I do well speaking to others.
+   (ID: dialog_153_speaker_2)
+
+15. I a fancy.
+   (ID: dialog_179_speaker_2)
+
+16. I always chew gum.
+   (ID: dialog_91_speaker_1)
+
+17. Sarah is upstairs.
+   (ID: dialog_128_speaker_1)
+
+18. I have climbed trees before.
+   (ID: dialog_43_speaker_2)
+
+19. I can not be in dirt.
+   (ID: dialog_48_speaker_1)
+
+20. I am a spider monkey. I climb trees.
+   (ID: dialog_43_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1148
+
+1. i never wished i had calculus homework before !
+   (ID: chasemyers)
+
+2. i can dm it first
+   (ID: PECOSbravo)
+
+3. i assumed those giant pretzels that are delicious .
+   (ID: samward7)
+
+4. i ’m speechless .
+   (ID: 11_29_77)
+
+5. i made " fried " pickles and avacado / chickpea ranch .
+   (ID: ItGetsAwkward)
+
+6. i was so impressed with wave .
+   (ID: JimmyMcShiv)
+
+7. i reinstalled windows , then reverted my bios back to my previous miner settings .
+   (ID: Batman_MD)
+
+8. i 'm from nz too .
+   (ID: travelingkiwi)
+
+9. i 'm a valve employee / weapons dealer ama
+   (ID: thed0ctah)
+
+10. i am above the law !
+   (ID: WeirdAvocado)
+
+11. i 'm serious !
+   (ID: GanjaSmoker420HaloXX)
+
+12. i might do sniper fg spiralis
+   (ID: milkisgood1)
+
+13. i ’m naturally clumsy .
+   (ID: Atlmama)
+
+14. i can assure you it ’s not .
+   (ID: 11_29_77)
+
+15. i could not be agnerier
+   (ID: thebastion)
+
+16. i was there .
+   (ID: hussy_trash)
+
+17. i now have 4 complete sets of cutlery .
+   (ID: harumpf)
+
+18. i 'm a robot .
+   (ID: amirman)
+
+19. i 'm naked moon dance
+   (ID: Nick84572)
+
+20. i would happily take two !
+   (ID: ItGetsAwkward)
+
+
+--- PER-CHAT ---
+Total from this dataset: 457
+
+1. margot robbie . because wolf of wallstreet .
+   (ID: f37c6d73f88ae9488245dcae1da46589d182fa9b)
+
+2. abortion , suicide attempt .
+   (ID: 02e4b90101e07338b4251209256c01652a022c5d)
+
+3. I am megan.
+   (ID: 589a27cacaffb5126785db9f91c141a3cea2daae)
+
+4. I am 8th.
+   (ID: 74058c90ada3aae7a59703064acbf3ced38f3681)
+
+5. what is firestrike
+   (ID: b4fb8e20516a28baa38075931e9715db2375a956)
+
+6. I am authleft denialist.
+   (ID: 569832646eef001c1724d2ecdb8abedbbfd927ab)
+
+7. it adds to the mood
+   (ID: ba19f1817c5dfde741b0e3387f4c8902b125e2c5)
+
+8. at the bush or the tress
+   (ID: 6e7cd3892c49f30c5999e4b7337f95be97df0c1b)
+
+9. why would you have to do it on the smith ?
+   (ID: 441f42a774bfb13dc694fc8515be8a2da22decb1)
+
+10. but why ?
+   (ID: d42f47f147cdc8e97117f0e4963e2c1309d1dcd8)
+
+11. I own a leo.
+   (ID: 1160c0c34e8b0184126a6e35a5fa982003442bde)
+
+12. I am angle.
+   (ID: 2cc91bb1c28e4ebb686806a36f563e5047e46ef7)
+
+13. why ?
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+14. I own a bean.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+15. how ?
+   (ID: 34de9309a5c02867b676757fa019c58a66bad300)
+
+16. I am pewdiepie.
+   (ID: a46a927d1c00d0b3c6ef6c26916584373e7bc5d8)
+
+17. what ' s his name ?
+   (ID: 2a43fd1ba18ed201f563f660a853be569ebb3917)
+
+18. I own a input.
+   (ID: 79e5228419de270c01297915dbce56be0063c52b)
+
+19. where can i see more from you ?
+   (ID: 8f5b0c902ce9c2bf19ecdb9205cb3d9f2a7c14fa)
+
+20. should have wacked the opponent ' s captain with your bat
+   (ID: 44477e54e9e15675b9ad5c3be02b0440724c674b)
+
+
+--- PersonaChat ---
+Total from this dataset: 84
+
+1. i am a retired newspaper reporter .
+   (ID: conversation_493)
+
+2. i have two roomates .
+   (ID: conversation_17)
+
+3. i am bisexual .
+   (ID: conversation_159)
+
+4. i have been a vegan since i was 5 .
+   (ID: conversation_242)
+
+5. i'm very athletic .
+   (ID: conversation_3)
+
+6. my name is jovannie and i m 19 .
+   (ID: conversation_184)
+
+7. i'm an accountant .
+   (ID: conversation_305)
+
+8. my husband is a cop .
+   (ID: conversation_78)
+
+9. i'm the youngest of 3 .
+   (ID: conversation_352)
+
+10. we have two pets as well .
+   (ID: conversation_173)
+
+11. i'm quiet but confident .
+   (ID: conversation_232)
+
+12. i am in the army .
+   (ID: conversation_35)
+
+13. i will never punch a clock again .
+   (ID: conversation_208)
+
+14. i once fell up a whole flight of stairs .
+   (ID: conversation_329)
+
+15. i'm a democrat .
+   (ID: conversation_331)
+
+16. i m from texas .
+   (ID: conversation_8)
+
+17. i am considered a nerd by many .
+   (ID: conversation_122)
+
+18. i have my own channel .
+   (ID: conversation_341)
+
+19. i'm adopted .
+   (ID: conversation_190)
+
+20. i'm allergic to dust .
+   (ID: conversation_210)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 47
+
+1. I am a recovering alcoholic.
+   (ID: conversation_375_user_2)
+
+2. I am a technician.
+   (ID: conversation_378_user_2)
+
+3. I am a perfectionist.
+   (ID: conversation_396_user_2)
+
+4. I am always hungry.
+   (ID: conversation_204_user_2)
+
+5. I have braces.
+   (ID: conversation_467_user_1)
+
+6. My idol is theirry henry.
+   (ID: conversation_73_user_2)
+
+7. When i am stressed , i overeat.
+   (ID: conversation_153_user_1)
+
+8. I have a lizard named nagini.
+   (ID: conversation_305_user_2)
+
+9. My inspirations are alexander mcqueen and coco chanel.
+   (ID: conversation_191_user_2)
+
+10. My name is mary and i am from colorado.
+   (ID: conversation_338_user_2)
+
+11. I am a couponed.
+   (ID: conversation_434_user_2)
+
+12. We will be traveling to niagra falls for our honeymoon.
+   (ID: conversation_179_user_2)
+
+13. I am a jack of all , master of none.
+   (ID: conversation_7_user_1)
+
+14. I can do convincing bird calls.
+   (ID: conversation_2_user_2)
+
+15. My masters degree is in italian literature.
+   (ID: conversation_309_user_2)
+
+16. I cs and ds.
+   (ID: conversation_108_user_1)
+
+17. I have many homes.
+   (ID: conversation_261_user_2)
+
+18. I am dumpy.
+   (ID: conversation_29_user_1)
+
+19. I am bloated.
+   (ID: conversation_30_user_1)
+
+20. My husband and i have a suicide pact.
+   (ID: conversation_49_user_2)
+
+
+============================================================

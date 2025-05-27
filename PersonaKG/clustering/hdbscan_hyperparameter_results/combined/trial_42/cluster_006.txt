@@ -1,0 +1,354 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 161
+Cluster persistence (stability): 0.862
+
+Dataset distribution in this cluster:
+  FoCus: 16 (9.9%)
+  MPChat: 2 (1.2%)
+  MSC: 19 (11.8%)
+  PEC: 52 (32.3%)
+  PER-CHAT: 47 (29.2%)
+  PersonaChat: 18 (11.2%)
+  SyntheticPersonaChat: 7 (4.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 16
+
+1. I have visited Ossining longback.
+   (ID: SN7PB5ME98AZ_9)
+
+2. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+3. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+4. I have visited the BC Place.
+   (ID: UHVFDJII2GF5_11)
+
+5. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+6. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+7. I am not Greek.
+   (ID: VB4LDHWFQAVH_11)
+
+8. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+9. I have visited the Canadian National Exhibition Stadium.
+   (ID: NMEFJE64KZ1F_11)
+
+10. I have been to Sigapore.
+   (ID: DYCZHTF8867I_11)
+
+11. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+12. I will visit Piazzale San Paolo.
+   (ID: MRD9ZG9O57GA_11)
+
+13. I am willing to visit Kalvskinnet in this vacation.
+   (ID: TB8HHXAP822G_11)
+
+14. I am not chinese.
+   (ID: BZRZ8OU6V0KE_11)
+
+15. I have been to Manchester before.
+   (ID: WKAD0PJA14Q4_11)
+
+16. I will travel through Meridian.
+   (ID: AGVUC45C9W9X_7)
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i'm the chicken grilling kang legquartertok
+   (ID: Nolon)
+
+2. hello it is i!
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 19
+
+1. I'm from Wisconsin. I have two older brothers. I'm the youngest child in my family.
+   (ID: dialog_141_speaker_1)
+
+2. My name is Kim.
+   (ID: dialog_107_speaker_2)
+
+3. My name is Mark.
+   (ID: dialog_151_speaker_1)
+
+4. I'm the ultimate. I'm the alpha and the omega.
+   (ID: dialog_43_speaker_1)
+
+5. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+6. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+7. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+8. I was born in moscow.
+   (ID: dialog_113_speaker_1)
+
+9. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+10. My name is Jake.
+   (ID: dialog_100_speaker_2)
+
+11. My name is Vladimir.
+   (ID: dialog_100_speaker_1)
+
+12. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+13. I'm a polyglot.
+   (ID: dialog_63_speaker_2)
+
+14. I am a immigrant.
+   (ID: dialog_78_speaker_1)
+
+15. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+16. My name is Jessica. I have a cat named Jasper.
+   (ID: dialog_151_speaker_2)
+
+17. I have a black lab dog named George. I do not have any children.
+   (ID: dialog_76_speaker_2)
+
+18. I have a dog named Sam. My dog is a German Shepherd.
+   (ID: dialog_160_speaker_2)
+
+19. My name is Jim. I have three brothers.
+   (ID: dialog_135_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 52
+
+1. i grew up in teaneck .
+   (ID: juliacakes)
+
+2. i was in 2009
+   (ID: Byde)
+
+3. i was 12 in 1962 .
+   (ID: ddshroom)
+
+4. i grew up in chagrin falls
+   (ID: Justadropinthesea)
+
+5. i offer my skillset as an electrician .
+   (ID: LordQuorad)
+
+6. i ’m ln boys
+   (ID: Unknown_nam3)
+
+7. i ’m a latina !
+   (ID: Sarahthelizard)
+
+8. i not yuor mate , komrade
+   (ID: Malachite_Wrath)
+
+9. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+10. i am the dark one .
+   (ID: combover)
+
+11. i barely recognize you .
+   (ID: KikAtWorkFL)
+
+12. i 'm planning my first bm trip for 2010 .
+   (ID: ifatree)
+
+13. i was in the misty cap river park on friday morning .
+   (ID: parkleswife)
+
+14. i � � ️ m
+   (ID: Takumi-Fujiwara)
+
+15. i have done that trip .
+   (ID: deputydan_scubaman)
+
+16. i 'm baaack !
+   (ID: notthruyet)
+
+17. i am a michigander , so it all is south of me :)
+   (ID: giraffecakes)
+
+18. i 'm also caldari .
+   (ID: coocha)
+
+19. i have a grey tabby as well , also named pippin !
+   (ID: monday_madrigal)
+
+20. i am skuld .
+   (ID: Ooer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 47
+
+1. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+2. I am apa.
+   (ID: 6eb8259d7d6b7ae101dda44ceaaf3b9edaab4fad)
+
+3. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+4. I am king   orcs.
+   (ID: 5fa74a7d6a70c6f2f8a149864f494ac72eefd3e4)
+
+5. I am igl.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+6. I am v.
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+7. I am melee.
+   (ID: 1497e82ba6e08f938dadf0885a6fd8051c0758d1)
+
+8. I am ar.
+   (ID: 419b67e0e2cdcb7bd8ea9a89d34d0747a1f5f620)
+
+9. I am megan.
+   (ID: 589a27cacaffb5126785db9f91c141a3cea2daae)
+
+10. I am native philadelphian.
+   (ID: 48a88dc7eb2bacff2435dad342a33464452811ab)
+
+11. I am bwl.
+   (ID: ddbcd7b957a26c37891ce72069afaf688ba19977)
+
+12. I am shite.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+13. I am thic james beeeyotch.
+   (ID: 6f13975ce6a8747ec3d0e2207b9ef86d80a28713)
+
+14. I am support main.
+   (ID: a0849f7d6d0829c8bb5f820aa9bf63584c7471df)
+
+15. I am yh.
+   (ID: 7dfa169bdfe2df7e214baa35fc2f2b73cbb10c46)
+
+16. I am kid   rod trip.
+   (ID: 7c0a90108389e898ab80f1c7af44e170b85c6d76)
+
+17. I am aro.
+   (ID: c6cc92fb6dee5f65446e9383372864b9e25f1d60)
+
+18. I am zeus_noose.
+   (ID: 05338cf139796c93d123a19ed732a1222e642034)
+
+19. I am u/footofaep.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+20. I am lee sin player.
+   (ID: 1dba5a99fe582b0f335d63ef3d25fee74ce4dd18)
+
+
+--- PersonaChat ---
+Total from this dataset: 18
+
+1. i'm mixed with puerto rica and chinese .
+   (ID: conversation_439)
+
+2. i am from sterling heights , michigan .
+   (ID: conversation_472)
+
+3. i have a dog named percy .
+   (ID: conversation_486)
+
+4. my name is gerald .
+   (ID: conversation_207)
+
+5. my birthplace is spain .
+   (ID: conversation_492)
+
+6. my name is todd .
+   (ID: conversation_119)
+
+7. i was born in baton rouge .
+   (ID: conversation_138)
+
+8. i'm from seattle .
+   (ID: conversation_281)
+
+9. my name is omar .
+   (ID: conversation_42)
+
+10. my name is arnold .
+   (ID: conversation_430)
+
+11. i have a dog named bob .
+   (ID: conversation_27)
+
+12. i grew up in alabama .
+   (ID: conversation_221)
+
+13. i am argentinian .
+   (ID: conversation_59)
+
+14. my dogs name is toto .
+   (ID: conversation_162)
+
+15. we lived in virginia while i was growing up .
+   (ID: conversation_391)
+
+16. i was born in san francisco .
+   (ID: conversation_468)
+
+17. i m from texas .
+   (ID: conversation_8)
+
+18. i speak fluent german .
+   (ID: conversation_156)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+2. I have a lizard named nagini.
+   (ID: conversation_305_user_2)
+
+3. My name is mary and i am from colorado.
+   (ID: conversation_338_user_2)
+
+4. I am east asian.
+   (ID: conversation_161_user_2)
+
+5. I am canadian.
+   (ID: conversation_412_user_1)
+
+6. I am blonde.
+   (ID: conversation_16_user_1)
+
+7. My name is nancy.
+   (ID: conversation_58_user_2)
+
+
+============================================================

@@ -1,0 +1,366 @@
+CLUSTER 398
+============================================================
+Total statements in cluster: 288
+Cluster persistence (stability): 0.990
+
+Dataset distribution in this cluster:
+  FoCus: 10 (3.5%)
+  MPChat: 20 (6.9%)
+  MSC: 12 (4.2%)
+  PEC: 151 (52.4%)
+  PER-CHAT: 71 (24.7%)
+  PersonaChat: 12 (4.2%)
+  SyntheticPersonaChat: 12 (4.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 10
+
+1. I have studied about pastoralist communities.
+   (ID: XDIIZK7KZ12G_11)
+
+2. I have been to Manchester before.
+   (ID: WKAD0PJA14Q4_11)
+
+3. I am reseraching glacial meltwater.
+   (ID: SDW19RWSP3ZX_11)
+
+4. I will go to Devon.
+   (ID: VUU19OURBLRK_11)
+
+5. I am follower of Hyder Ali.
+   (ID: UN54IACHSTX5_11)
+
+6. I am Roman Catholic.
+   (ID: Z8RPC24EURS4_7)
+
+7. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+8. I have never been in a canoe.
+   (ID: K73F47W36X0D_11)
+
+9. I have never been to a mosque.
+   (ID: OKU8UQBPUSMV_11)
+
+10. I wan to go to Minnesota.
+   (ID: JTUKE03HZYSY_11)
+
+
+--- MPChat ---
+Total from this dataset: 20
+
+1. i'm hosting a throwdown!
+   (ID: jlb4est)
+
+2. pardon my potato.
+   (ID: coffeehawaii)
+
+3. what can i do?
+   (ID: Chris55730)
+
+4. i call him yancy the yeti!
+   (ID: Louiesloops)
+
+5. i am a lion!
+   (ID: mattsulli)
+
+6. i made this advent calendar.
+   (ID: gelimausi)
+
+7. here is my homemade dollhouse.
+   (ID: gelimausi)
+
+8. how'd i do?
+   (ID: SilentRansom)
+
+9. potted up my seedlings.
+   (ID: Perthboi92)
+
+10. competed in my first triangulation.
+   (ID: Beardedlantern)
+
+11. been practising my chai lattes!
+   (ID: tepidpotato)
+
+12. i made ciabatta buns!
+   (ID: Novel_Fox)
+
+13. i call it "boyfriending."
+   (ID: mattsulli)
+
+14. i made this outlook.
+   (ID: gelimausi)
+
+15. what should i do with this?
+   (ID: iowajaycee)
+
+16. my pup ellen ripley.
+   (ID: SuperfineYarnCo)
+
+17. i made bi octopi!
+   (ID: FoxInKneeSocks)
+
+18. i made a poinsettia.
+   (ID: gelimausi)
+
+19. is my succulent dehydrated?
+   (ID: why_the_babies_wet)
+
+20. my first corned beef!
+   (ID: iowajaycee)
+
+
+--- MSC ---
+Total from this dataset: 12
+
+1. I am a gemini.
+   (ID: dialog_24_speaker_2)
+
+2. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+3. I can jam.
+   (ID: dialog_0_speaker_1)
+
+4. She's a caretaker.
+   (ID: dialog_30_speaker_2)
+
+5. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+6. I am very withdrawn.
+   (ID: dialog_2_speaker_1)
+
+7. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+8. I am a nerd.
+   (ID: dialog_25_speaker_2)
+
+9. I'm a bibliophile.
+   (ID: dialog_9_speaker_1)
+
+10. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+11. One of my offspring is a quarterback.
+   (ID: dialog_5_speaker_1)
+
+12. I have never been out of the US either.
+   (ID: dialog_8_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 151
+
+1. i see you � �
+   (ID: bummang)
+
+2. i ’m very intrigued though .
+   (ID: Heydawgg)
+
+3. i do it for the groupies !
+   (ID: SerendipitousCat)
+
+4. i ’m out .
+   (ID: StinkinFinger)
+
+5. i may have to go see that .
+   (ID: adertal)
+
+6. i can not " diagnose "
+   (ID: AgedTwenties)
+
+7. i before e , except when it 's not .
+   (ID: StinkinFinger)
+
+8. i also do not get auras .
+   (ID: rycheme)
+
+9. i 'm rooting for you .
+   (ID: KikAtWorkFL)
+
+10. i can see some pineconing on the scales .
+   (ID: kailan123456)
+
+11. i had one as well .
+   (ID: cookiexcmonster)
+
+12. i ’d have unmatched
+   (ID: nate6051)
+
+13. i am from the beyond .
+   (ID: samward7)
+
+14. i call mine the lesbaru
+   (ID: thebastion)
+
+15. i get that .
+   (ID: ItGetsAwkward)
+
+16. i see two biceps
+   (ID: Heydawgg)
+
+17. i 'm entering the giveaway .
+   (ID: JohnnyPappis)
+
+18. i will be noting this in your records .
+   (ID: rspewth)
+
+19. i would go with williams as well .
+   (ID: deputydan_scubaman)
+
+20. i do n't get it ...
+   (ID: closetotheedge48)
+
+
+--- PER-CHAT ---
+Total from this dataset: 71
+
+1. I own a bean.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+2. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+3. why would you ?
+   (ID: fca46720f9aa154a0559b1e4d2d28cb0df46b00a)
+
+4. I own a beam.
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+5. is the askouija ?
+   (ID: 13429813198f2aaef97e18644aa776da323f48a1)
+
+6. I am awware of the dangers of fentanyl.
+   (ID: e5a44ccd2ce03ba23fc6a9fd527ffc5440b8088c)
+
+7. I am redditor.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+8. what !
+   (ID: 3418702de52d65ee261943b207996da3e2569fd2)
+
+9. I am u/footofaep.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+10. I own a grief.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+11. I am gunna.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+12. how  d you do it ?
+   (ID: 19a9190bb25fd002a6b979a3f72494c6523d8880)
+
+13. I am drunke.
+   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
+
+14. whatya do ?
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+15. I own a d3400.
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+16. owo what ' s this
+   (ID: 1b5b08f1246e450c7da09e40c81570fba378da84)
+
+17. I own a province.
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+18. I own a receipt.
+   (ID: 34d7a41f0778ab80ac97d43bcbe30cde5ab458d8)
+
+19. I own a orb.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+20. I own a speculation.
+   (ID: 10d0b3cd3f9e3f2b4c3fd6c4c8bae3ba7917a344)
+
+
+--- PersonaChat ---
+Total from this dataset: 12
+
+1. i am a lumberjack .
+   (ID: conversation_51)
+
+2. i own a hearse .
+   (ID: conversation_5)
+
+3. i am witty .
+   (ID: conversation_65)
+
+4. i am chubby .
+   (ID: conversation_74)
+
+5. my name is omar .
+   (ID: conversation_42)
+
+6. i'm a dancer .
+   (ID: conversation_10)
+
+7. i'm a goalie .
+   (ID: conversation_62)
+
+8. i'm very athletic .
+   (ID: conversation_3)
+
+9. i have epilepsy .
+   (ID: conversation_55)
+
+10. i am argentinian .
+   (ID: conversation_59)
+
+11. i'm an environmental activist .
+   (ID: conversation_83)
+
+12. i have two roomates .
+   (ID: conversation_17)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 12
+
+1. I can t whistle.
+   (ID: conversation_46_user_2)
+
+2. I am a pharmacist.
+   (ID: conversation_30_user_2)
+
+3. I am unsociable.
+   (ID: conversation_7_user_1)
+
+4. My weakness are sweets.
+   (ID: conversation_7_user_1)
+
+5. I am a poet.
+   (ID: conversation_82_user_1)
+
+6. I am bald.
+   (ID: conversation_4_user_1)
+
+7. My idol is theirry henry.
+   (ID: conversation_73_user_2)
+
+8. I have allergies.
+   (ID: conversation_90_user_2)
+
+9. I am dumpy.
+   (ID: conversation_29_user_1)
+
+10. I am obsessed with filming.
+   (ID: conversation_32_user_2)
+
+11. My name is nancy.
+   (ID: conversation_58_user_2)
+
+12. My name is arnold.
+   (ID: conversation_5_user_2)
+
+
+============================================================

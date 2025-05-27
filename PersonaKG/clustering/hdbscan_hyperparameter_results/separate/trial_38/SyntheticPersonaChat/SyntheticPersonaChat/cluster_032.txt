@@ -1,0 +1,36 @@
+CLUSTER 32
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.942
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I got a new job.
+   (ID: conversation_110_user_1)
+
+2. I take pride in my job managing the restaurant.
+   (ID: conversation_47_user_2)
+
+3. My next job will be in the federal court.
+   (ID: conversation_194_user_2)
+
+4. I do not want a job.
+   (ID: conversation_0_user_1)
+
+5. I have a job as a dj at a radio station.
+   (ID: conversation_25_user_1)
+
+6. I m looking for a job.
+   (ID: conversation_70_user_1)
+
+
+============================================================

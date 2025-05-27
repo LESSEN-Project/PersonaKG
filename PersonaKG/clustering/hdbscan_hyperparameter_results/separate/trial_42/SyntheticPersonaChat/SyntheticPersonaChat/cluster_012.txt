@@ -1,0 +1,33 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My favorite tv show is rick and morty.
+   (ID: conversation_13_user_2)
+
+2. I enjoy watching mystery movies.
+   (ID: conversation_36_user_2)
+
+3. I like to watch tv.
+   (ID: conversation_5_user_2)
+
+4. Magic mike is my favorite movie.
+   (ID: conversation_294_user_2)
+
+5. I like anime shows.
+   (ID: conversation_117_user_2)
+
+
+============================================================

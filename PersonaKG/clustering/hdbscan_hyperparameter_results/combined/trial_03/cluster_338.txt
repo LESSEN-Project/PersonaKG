@@ -1,0 +1,43 @@
+CLUSTER 338
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 3 (60.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have six toes on my left foot.
+   (ID: dialog_31_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i have the same bra the left one has .
+   (ID: BabblingBunny)
+
+2. i have abp and it still left me with an ad that could n't be skipped .
+   (ID: Nheea)
+
+3. i still clicked on the rebel icon over that number left of the thumbnail .
+   (ID: harumpf)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My left knee is filled with metal.
+   (ID: conversation_24_user_2)
+
+
+============================================================

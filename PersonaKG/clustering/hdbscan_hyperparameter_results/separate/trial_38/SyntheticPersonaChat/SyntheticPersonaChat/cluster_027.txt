@@ -1,0 +1,33 @@
+CLUSTER 27
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My favorite color is black.
+   (ID: conversation_13_user_2)
+
+2. I have a black purse.
+   (ID: conversation_70_user_2)
+
+3. My truck is black.
+   (ID: conversation_1_user_2)
+
+4. I have a black belt in karate.
+   (ID: conversation_0_user_2)
+
+5. I like dr pepper and black jack gum , but not together.
+   (ID: conversation_172_user_2)
+
+
+============================================================

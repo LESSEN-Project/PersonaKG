@@ -1,0 +1,36 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.996
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i don't like my reputation .
+   (ID: conversation_147)
+
+2. i am witty .
+   (ID: conversation_65)
+
+3. i hate talking to people .
+   (ID: conversation_54)
+
+4. i am not afraid of what others think .
+   (ID: conversation_37)
+
+5. i am a free spirit .
+   (ID: conversation_110)
+
+6. i'm an angry person .
+   (ID: conversation_169)
+
+
+============================================================

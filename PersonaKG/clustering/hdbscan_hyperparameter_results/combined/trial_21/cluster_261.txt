@@ -1,0 +1,51 @@
+CLUSTER 261
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.864
+
+Dataset distribution in this cluster:
+  MPChat: 3 (50.0%)
+  PER-CHAT: 1 (16.7%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. sorry for late wip wednesday but i work overnights and it messes with what day it is.
+   (ID: Ichishiro)
+
+2. every day i go to work covered in hair - not by choice.
+   (ID: VodkaWithSnowflakes)
+
+3. my husband has packed everything he needs for his work day.
+   (ID: kentobean123)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. play video games , and ask to go back to work after a day because i can ' t do nothing all day lol .
+   (ID: dee1be637147c9065afbc159fbd3efc6ff54b847)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i sleep 10 hours every day because my work is tiring .
+   (ID: conversation_44)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I haven t had to work a day in my life.
+   (ID: conversation_98_user_2)
+
+
+============================================================

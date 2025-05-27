@@ -1,0 +1,56 @@
+CLUSTER 779
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (16.7%)
+  MPChat: 1 (16.7%)
+  MSC: 1 (16.7%)
+  PEC: 1 (16.7%)
+  PersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am born in Pennsylvania.
+   (ID: 97WAFKFECFDE_9)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. to have my daughter's name over her crib when she's born
+   (ID: Sophie74656)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I was born in moscow.
+   (ID: dialog_113_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i was born and raised in illinois and i have never been west of missouri .
+   (ID: AgedTwenties)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i was born in baton rouge .
+   (ID: conversation_138)
+
+2. i should beverage been born a prince .
+   (ID: conversation_54)
+
+
+============================================================

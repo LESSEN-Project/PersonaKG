@@ -1,0 +1,63 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 15
+Cluster persistence (stability): 0.979
+
+Dataset distribution in this cluster:
+  PersonaChat: 15 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 15
+
+1. i have brown hair .
+   (ID: conversation_3)
+
+2. my car is pink .
+   (ID: conversation_58)
+
+3. my hair is as red as the sunset .
+   (ID: conversation_274)
+
+4. i have freckles .
+   (ID: conversation_379)
+
+5. i drive a prius .
+   (ID: conversation_68)
+
+6. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+7. my car is green and smells weird .
+   (ID: conversation_162)
+
+8. my eyes are green .
+   (ID: conversation_481)
+
+9. i own a black suburban .
+   (ID: conversation_75)
+
+10. i sometimes drive fast .
+   (ID: conversation_427)
+
+11. i own a hearse .
+   (ID: conversation_5)
+
+12. i smell like french fries .
+   (ID: conversation_342)
+
+13. i drive a jag .
+   (ID: conversation_169)
+
+14. i just dyed my hair hot pink with purple highlights .
+   (ID: conversation_149)
+
+15. i have one blue eye and one hazel eye .
+   (ID: conversation_386)
+
+
+============================================================

@@ -1,0 +1,36 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. my husband is a pastor .
+   (ID: conversation_306)
+
+2. my husband is a cop .
+   (ID: conversation_78)
+
+3. i give out sports information .
+   (ID: conversation_201)
+
+4. i train horses for a living .
+   (ID: conversation_66)
+
+5. the name of my team is the baltimore ravens .
+   (ID: conversation_473)
+
+6. my husband is the ceo of taco bell .
+   (ID: conversation_408)
+
+
+============================================================

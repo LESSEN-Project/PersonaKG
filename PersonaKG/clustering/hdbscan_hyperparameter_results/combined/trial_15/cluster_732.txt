@@ -1,0 +1,54 @@
+CLUSTER 732
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.975
+
+Dataset distribution in this cluster:
+  MSC: 1 (14.3%)
+  PEC: 2 (28.6%)
+  PER-CHAT: 3 (42.9%)
+  PersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i fought for this country ... for this comfort ...
+   (ID: lambsquatch)
+
+2. i honor stomy daniel 's service to our country over president dotards ' .
+   (ID: IgnoranceIsAVirus)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. what country is he the president of ?
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+2. in what country can i find europe  lessons ?
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+3. landlord can charge everyone for something breaking ? what country is this in ?
+   (ID: 2fd27f1218d4f8b9cf90988522a560a50a304dfc)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my country is russia .
+   (ID: conversation_224)
+
+
+============================================================

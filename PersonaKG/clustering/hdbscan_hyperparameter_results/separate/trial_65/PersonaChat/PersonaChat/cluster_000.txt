@@ -1,0 +1,36 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i can be quite forgetful .
+   (ID: conversation_37)
+
+2. i love to tell jokes .
+   (ID: conversation_125)
+
+3. i tell bad jokes on purpose .
+   (ID: conversation_156)
+
+4. i am witty .
+   (ID: conversation_65)
+
+5. people say i've a cute laugh .
+   (ID: conversation_41)
+
+6. i get distracted easily .
+   (ID: conversation_131)
+
+
+============================================================

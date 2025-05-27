@@ -1,0 +1,36 @@
+CLUSTER 27
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i was born 20 years ago .
+   (ID: conversation_23)
+
+2. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+3. i overcame urinary cancer at age 18 .
+   (ID: conversation_227)
+
+4. i married my high school sweetheart .
+   (ID: conversation_206)
+
+5. i was the first born child .
+   (ID: conversation_127)
+
+6. i met my birth mother when i was sixteen .
+   (ID: conversation_180)
+
+
+============================================================

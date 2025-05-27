@@ -1,0 +1,36 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i am witty .
+   (ID: conversation_65)
+
+2. i love to tell jokes .
+   (ID: conversation_125)
+
+3. i'm an angry person .
+   (ID: conversation_169)
+
+4. people say i've a cute laugh .
+   (ID: conversation_41)
+
+5. i'm an environmental activist .
+   (ID: conversation_83)
+
+6. i tell bad jokes on purpose .
+   (ID: conversation_156)
+
+
+============================================================

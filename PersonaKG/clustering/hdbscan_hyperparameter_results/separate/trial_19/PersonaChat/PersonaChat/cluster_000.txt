@@ -1,0 +1,48 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. my friend once bought me a car .
+   (ID: conversation_183)
+
+2. i cut down trees very fast , because i have a large ax .
+   (ID: conversation_51)
+
+3. i started working at google last week on self driving car research .
+   (ID: conversation_122)
+
+4. my car is green and smells weird .
+   (ID: conversation_162)
+
+5. i lost my arm in a car accident .
+   (ID: conversation_157)
+
+6. my car is pink .
+   (ID: conversation_58)
+
+7. i grew up on a large farm .
+   (ID: conversation_167)
+
+8. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+9. i escaped and later became a carpenter .
+   (ID: conversation_127)
+
+10. my favorite car is the ford mustang .
+   (ID: conversation_185)
+
+
+============================================================

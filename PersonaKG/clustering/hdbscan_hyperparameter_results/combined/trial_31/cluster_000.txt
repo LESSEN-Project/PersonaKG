@@ -1,0 +1,46 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 2 (33.3%)
+  PEC: 3 (50.0%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I don't like forest.
+   (ID: T815O8KC30IG_9)
+
+2. I don't like casinos.
+   (ID: 9KDV6LSLWNAX_11)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i would not recommend west hall .
+   (ID: tylock)
+
+2. i hate defensive fanboys .
+   (ID: amirman)
+
+3. i hate ggg .
+   (ID: RonaldFuckingPaul)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I hate to lose.
+   (ID: conversation_64_user_2)
+
+
+============================================================

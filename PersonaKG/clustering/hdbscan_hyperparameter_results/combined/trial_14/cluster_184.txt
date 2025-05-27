@@ -1,0 +1,108 @@
+CLUSTER 184
+============================================================
+Total statements in cluster: 20
+Cluster persistence (stability): 0.882
+
+Dataset distribution in this cluster:
+  FoCus: 1 (5.0%)
+  MPChat: 1 (5.0%)
+  MSC: 6 (30.0%)
+  PEC: 4 (20.0%)
+  PER-CHAT: 2 (10.0%)
+  PersonaChat: 4 (20.0%)
+  SyntheticPersonaChat: 2 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I enjoy exploring cemeteries.
+   (ID: MA2EPDC7QHS5_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. a cake i made that all you gym lovers will hopefully enjoy!
+   (ID: chakita86)
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I enjoy being fake.
+   (ID: dialog_50_speaker_1)
+
+2. I enjoy a few brews by the river.
+   (ID: dialog_61_speaker_1)
+
+3. I enjoy my albums.
+   (ID: dialog_6_speaker_2)
+
+4. I enjoy being part of the crowd.
+   (ID: dialog_16_speaker_2)
+
+5. I enjoy driving.
+   (ID: dialog_1_speaker_1)
+
+6. I enjoy her company.
+   (ID: dialog_64_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i also do enjoy less oxidized greener oolongs as well .
+   (ID: Lilliaan)
+
+2. i enjoy watching the mental breakdown
+   (ID: Nick84572)
+
+3. i am sane and i enjoy this womans body .
+   (ID: mathieu2em)
+
+4. i enjoy it compared to my hrc sense messaging app
+   (ID: mmaswadeh)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I enjoy tottenham hotspur f.c..
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+2. they can enjoy the fact that i keep those types of systems up and running .
+   (ID: 0e19a35c711a9c78f764d5268c09b16559cdadbf)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i enjoy watching videos on youtube .
+   (ID: conversation_174)
+
+2. i especially enjoy listening to the band the mutineers .
+   (ID: conversation_163)
+
+3. i enjoy shopping .
+   (ID: conversation_71)
+
+4. i enjoy eating pumpkins .
+   (ID: conversation_174)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I enjoy budweiser beer.
+   (ID: conversation_178_user_2)
+
+2. I enjoy watching horror flicks.
+   (ID: conversation_54_user_2)
+
+
+============================================================

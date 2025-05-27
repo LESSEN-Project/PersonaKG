@@ -1,0 +1,36 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i never eat veggies .
+   (ID: conversation_96)
+
+2. i am primarily a meat eater .
+   (ID: conversation_4)
+
+3. its good to eat a lot of veggies .
+   (ID: conversation_137)
+
+4. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+5. i don't eat bread .
+   (ID: conversation_183)
+
+6. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+
+============================================================

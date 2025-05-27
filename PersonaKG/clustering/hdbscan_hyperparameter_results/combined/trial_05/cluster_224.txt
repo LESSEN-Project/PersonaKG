@@ -1,0 +1,46 @@
+CLUSTER 224
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  PEC: 3 (50.0%)
+  PersonaChat: 2 (33.3%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i was living in my wallets and started taking drugs .
+   (ID: mathieu2em)
+
+2. i used to wallow in my sadness in bed every day .
+   (ID: AgedTwenties)
+
+3. i killed a raccoon driving .
+   (ID: Nick84572)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i was a slave for 10 years .
+   (ID: conversation_127)
+
+2. i lost my arm in a car accident .
+   (ID: conversation_157)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I broke my nose in 5th grade.
+   (ID: conversation_114_user_2)
+
+
+============================================================

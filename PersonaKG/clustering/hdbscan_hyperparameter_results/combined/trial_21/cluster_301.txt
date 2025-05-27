@@ -1,0 +1,43 @@
+CLUSTER 301
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 1 (20.0%)
+  PersonaChat: 3 (60.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My sister is a social worker.
+   (ID: dialog_23_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'd prefer to do art for someone !
+   (ID: monday_madrigal)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. both my parents were teachers .
+   (ID: conversation_19)
+
+2. my mom is a janitor .
+   (ID: conversation_39)
+
+3. my mother was a nurse .
+   (ID: conversation_45)
+
+
+============================================================

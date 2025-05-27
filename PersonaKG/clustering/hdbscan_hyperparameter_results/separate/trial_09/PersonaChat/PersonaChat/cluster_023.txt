@@ -1,0 +1,33 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. my favorite hobby is chess .
+   (ID: conversation_149)
+
+2. my favorite book is david copperfield .
+   (ID: conversation_57)
+
+3. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+4. 1984 is my favorite book .
+   (ID: conversation_347)
+
+5. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+
+============================================================

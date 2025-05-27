@@ -1,0 +1,42 @@
+CLUSTER 37
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.805
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. My left knee is filled with metal.
+   (ID: conversation_24_user_2)
+
+2. I am a huge fan of baseball.
+   (ID: conversation_255_user_2)
+
+3. I ran for political office in 2004.
+   (ID: conversation_273_user_2)
+
+4. My feet smell.
+   (ID: conversation_307_user_1)
+
+5. My nails are painted green.
+   (ID: conversation_309_user_2)
+
+6. I am on a competitive dance team.
+   (ID: conversation_407_user_2)
+
+7. I build my own computers.
+   (ID: conversation_273_user_2)
+
+8. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+
+============================================================

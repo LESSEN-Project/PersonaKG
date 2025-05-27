@@ -1,0 +1,46 @@
+CLUSTER 44
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.993
+
+Dataset distribution in this cluster:
+  PEC: 4 (66.7%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i hate having to force myself to be friends with her for you .
+   (ID: ItGetsAwkward)
+
+2. i ca n't argue with her on this one .
+   (ID: Occulus)
+
+3. i just hate “ supporting ” her in anyway
+   (ID: Montag3636)
+
+4. i 've never cared for pelosi ...
+   (ID: jay456)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i do not know why my sister in law dislikes me .
+   (ID: conversation_142)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I love her though.
+   (ID: conversation_162_user_2)
+
+
+============================================================

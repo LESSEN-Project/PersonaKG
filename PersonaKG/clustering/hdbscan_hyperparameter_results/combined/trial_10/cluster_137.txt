@@ -1,0 +1,49 @@
+CLUSTER 137
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.987
+
+Dataset distribution in this cluster:
+  FoCus: 1 (14.3%)
+  MSC: 1 (14.3%)
+  PersonaChat: 5 (71.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am a figure skater.
+   (ID: D4619DV1O1OP_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am good at surfing.
+   (ID: dialog_16_speaker_2)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i am a guitar player .
+   (ID: conversation_4)
+
+2. i'm a goalie .
+   (ID: conversation_62)
+
+3. i'm a dancer .
+   (ID: conversation_10)
+
+4. i'm very athletic .
+   (ID: conversation_3)
+
+5. i'm very good at math and science .
+   (ID: conversation_122)
+
+
+============================================================

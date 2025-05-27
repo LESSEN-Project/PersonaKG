@@ -1,0 +1,51 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.758
+
+Dataset distribution in this cluster:
+  PersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 11
+
+1. i lost my arm in a car accident .
+   (ID: conversation_157)
+
+2. i've been in 2 car crashes in my life .
+   (ID: conversation_191)
+
+3. my favorite car is the ford mustang .
+   (ID: conversation_185)
+
+4. i drive a prius .
+   (ID: conversation_68)
+
+5. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+6. i drive a jag .
+   (ID: conversation_169)
+
+7. my car is pink .
+   (ID: conversation_58)
+
+8. i do not drive .
+   (ID: conversation_56)
+
+9. my car is green and smells weird .
+   (ID: conversation_162)
+
+10. my friend once bought me a car .
+   (ID: conversation_183)
+
+11. i started working at google last week on self driving car research .
+   (ID: conversation_122)
+
+
+============================================================

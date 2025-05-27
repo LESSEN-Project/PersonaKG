@@ -1,0 +1,87 @@
+CLUSTER 174
+============================================================
+Total statements in cluster: 18
+Cluster persistence (stability): 0.930
+
+Dataset distribution in this cluster:
+  MPChat: 3 (16.7%)
+  MSC: 4 (22.2%)
+  PersonaChat: 7 (38.9%)
+  SyntheticPersonaChat: 4 (22.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. not my favorite pour, but she's a cutie.
+   (ID: SilentRansom)
+
+2. we made one of my favorite street foods in bolivia.
+   (ID: onemantwohands)
+
+3. a nearly 4lb stromboli from my favorite pizzeria in se florida closing there doors due to covid19
+   (ID: MonstaEatsItAll)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. My favorite novel is about a who realizes he's a commander.
+   (ID: dialog_11_speaker_1)
+
+2. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+3. I order Angus steaks. My favorite band, at least one of them, is RHCP.
+   (ID: dialog_42_speaker_1)
+
+4. My favorite subject is psychology.
+   (ID: dialog_23_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. my favorite hobby is chess .
+   (ID: conversation_149)
+
+2. my favorite color is blue .
+   (ID: conversation_23)
+
+3. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+4. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+5. my favorite flower is a rose .
+   (ID: conversation_129)
+
+6. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+7. my favorite player is mike trout .
+   (ID: conversation_103)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+2. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+3. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+4. My favorite artist is bob ross.
+   (ID: conversation_187_user_1)
+
+
+============================================================

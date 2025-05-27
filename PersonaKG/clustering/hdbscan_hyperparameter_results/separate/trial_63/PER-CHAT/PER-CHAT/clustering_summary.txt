@@ -1,0 +1,48 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 12212
+Vectorization method: hybrid
+Number of clusters: 33
+Number of noise points: 8701 (71.2%)
+Analysis type: clusters
+Timestamp: 2025-05-27 16:21:05
+
+Dataset Distribution:
+  PER-CHAT: 12212 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 4: 780 statements (persistence: 0.744)
+  Cluster 9: 617 statements (persistence: 0.613)
+  Cluster 16: 183 statements (persistence: 0.310)
+  Cluster 28: 166 statements (persistence: 0.404)
+  Cluster 20: 152 statements (persistence: 0.528)
+  Cluster 18: 149 statements (persistence: 0.650)
+  Cluster 19: 140 statements (persistence: 0.535)
+  Cluster 7: 122 statements (persistence: 0.448)
+  Cluster 29: 121 statements (persistence: 0.707)
+  Cluster 14: 120 statements (persistence: 0.460)
+  Cluster 21: 119 statements (persistence: 0.508)
+  Cluster 24: 109 statements (persistence: 0.546)
+  Cluster 27: 92 statements (persistence: 0.711)
+  Cluster 31: 86 statements (persistence: 0.710)
+  Cluster 10: 77 statements (persistence: 0.627)
+  Cluster 8: 69 statements (persistence: 0.534)
+  Cluster 12: 62 statements (persistence: 0.641)
+  Cluster 2: 55 statements (persistence: 0.476)
+  Cluster 0: 48 statements (persistence: 0.549)
+  Cluster 23: 37 statements (persistence: 0.913)
+  Cluster 3: 25 statements (persistence: 0.935)
+  Cluster 6: 20 statements (persistence: 0.947)
+  Cluster 1: 18 statements (persistence: 0.979)
+  Cluster 11: 17 statements (persistence: 0.964)
+  Cluster 13: 17 statements (persistence: 0.978)
+  Cluster 32: 17 statements (persistence: 0.984)
+  Cluster 17: 15 statements (persistence: 0.980)
+  Cluster 22: 15 statements (persistence: 0.992)
+  Cluster 5: 14 statements (persistence: 0.998)
+  Cluster 26: 13 statements (persistence: 1.000)
+  Cluster 15: 12 statements (persistence: 1.000)
+  Cluster 25: 12 statements (persistence: 1.000)
+  Cluster 30: 12 statements (persistence: 1.000)

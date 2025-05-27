@@ -1,0 +1,51 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 11
+
+1. I am an angry person.
+   (ID: conversation_429_user_1)
+
+2. I don t get along with my family.
+   (ID: conversation_360_user_2)
+
+3. I don t know why my sister in law dislikes me.
+   (ID: conversation_98_user_2)
+
+4. I am unsociable.
+   (ID: conversation_7_user_1)
+
+5. I am not a nice person.
+   (ID: conversation_265_user_2)
+
+6. I don t think my girlfriend understands.
+   (ID: conversation_162_user_2)
+
+7. I am a savage.
+   (ID: conversation_387_user_1)
+
+8. My girlfriend just broke up with me.
+   (ID: conversation_243_user_2)
+
+9. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+10. I haven t spoken to my family in years.
+   (ID: conversation_298_user_1)
+
+11. I don t treat my girlfriend very well.
+   (ID: conversation_347_user_1)
+
+
+============================================================

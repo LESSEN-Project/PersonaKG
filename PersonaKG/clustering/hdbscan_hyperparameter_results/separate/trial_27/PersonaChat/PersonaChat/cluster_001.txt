@@ -1,0 +1,42 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. my mother is in the hospital .
+   (ID: conversation_126)
+
+2. i met my birth mother when i was sixteen .
+   (ID: conversation_180)
+
+3. my mother was a nurse .
+   (ID: conversation_45)
+
+4. my mother is a teacher in the city .
+   (ID: conversation_219)
+
+5. my mother doesn t ! ove me .
+   (ID: conversation_138)
+
+6. my mother was born in ireland .
+   (ID: conversation_38)
+
+7. my mother is a well known celebrity .
+   (ID: conversation_280)
+
+8. my mother passed away in 1979 .
+   (ID: conversation_209)
+
+
+============================================================

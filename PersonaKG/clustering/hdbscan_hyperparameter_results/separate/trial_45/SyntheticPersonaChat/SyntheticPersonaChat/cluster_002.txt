@@ -1,0 +1,33 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+2. My dogs name is toto.
+   (ID: conversation_44_user_2)
+
+3. I have one little boy named owen.
+   (ID: conversation_118_user_2)
+
+4. I have a cat named charlie.
+   (ID: conversation_52_user_2)
+
+5. I have 2 beagles named chance and boomer.
+   (ID: conversation_184_user_1)
+
+
+============================================================

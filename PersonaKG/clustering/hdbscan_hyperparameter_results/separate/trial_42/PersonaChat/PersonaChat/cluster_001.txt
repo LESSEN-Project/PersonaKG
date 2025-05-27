@@ -1,0 +1,36 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i like to wear red .
+   (ID: conversation_313)
+
+2. nike cleats are my favorite .
+   (ID: conversation_62)
+
+3. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+4. i am a casual dresser .
+   (ID: conversation_128)
+
+5. i only use apple products because i feel everything else is inferior .
+   (ID: conversation_69)
+
+6. i like to wear boots .
+   (ID: conversation_59)
+
+
+============================================================

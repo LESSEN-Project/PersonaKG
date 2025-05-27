@@ -1,0 +1,39 @@
+CLUSTER 33
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.897
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I cs and ds.
+   (ID: conversation_108_user_1)
+
+2. I collect stamps.
+   (ID: conversation_160_user_2)
+
+3. I only buy convertible cars.
+   (ID: conversation_212_user_2)
+
+4. I have a beta fish.
+   (ID: conversation_82_user_1)
+
+5. I collect bugs in jars.
+   (ID: conversation_273_user_2)
+
+6. I collect vintage cars.
+   (ID: conversation_261_user_2)
+
+7. I am deathly afraid of snakes , but not bugs.
+   (ID: conversation_112_user_2)
+
+
+============================================================

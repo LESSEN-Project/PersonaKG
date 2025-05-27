@@ -1,0 +1,245 @@
+CLUSTER 21
+============================================================
+Total statements in cluster: 75
+Cluster persistence (stability): 0.908
+
+Dataset distribution in this cluster:
+  MSC: 9 (12.0%)
+  PEC: 16 (21.3%)
+  PER-CHAT: 26 (34.7%)
+  PersonaChat: 18 (24.0%)
+  SyntheticPersonaChat: 6 (8.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 9
+
+1. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+2. I'm employed to work with power.
+   (ID: dialog_130_speaker_1)
+
+3. I am a computer programmer. I helped program facebook. I am programming driverless cars. I make over 200k/year.
+   (ID: dialog_124_speaker_1)
+
+4. My name is Jake.
+   (ID: dialog_100_speaker_2)
+
+5. My name is Vladimir.
+   (ID: dialog_100_speaker_1)
+
+6. I play european football.
+   (ID: dialog_62_speaker_2)
+
+7. My name is Kim.
+   (ID: dialog_107_speaker_2)
+
+8. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+9. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 16
+
+1. i am a comedy master
+   (ID: ChallengeTaken99)
+
+2. i 'm a robot .
+   (ID: amirman)
+
+3. i 'm jordan ward !
+   (ID: amirman)
+
+4. i ’m john marcus willam and even i get it
+   (ID: ChallengeTaken99)
+
+5. i 'm groot !
+   (ID: meteoriteminer)
+
+6. i 'm a shepard .
+   (ID: jesuschrysler)
+
+7. i am confu - shan
+   (ID: saharaspberry)
+
+8. i 'm k - boy
+   (ID: GitFloowSnaake)
+
+9. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+10. i am your father
+   (ID: RonaldFuckingPaul)
+
+11. i am skuld .
+   (ID: Ooer)
+
+12. i 'm butcherpete .
+   (ID: JacredCat)
+
+13. i 'm baaack !
+   (ID: notthruyet)
+
+14. i am corgiman ! !
+   (ID: ranieve)
+
+15. i ’m a cunning linguist
+   (ID: jonmyo11)
+
+16. i 'm the juggernaut bitch .
+   (ID: LCPhotowerx)
+
+
+--- PER-CHAT ---
+Total from this dataset: 26
+
+1. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+2. I am kid   rod trip.
+   (ID: 7c0a90108389e898ab80f1c7af44e170b85c6d76)
+
+3. I am u/footofaep.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+4. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+5. I am king   orcs.
+   (ID: 5fa74a7d6a70c6f2f8a149864f494ac72eefd3e4)
+
+6. I am scott.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+7. I am drowinin.
+   (ID: a77a8bcaa391d8b6584d32e6ad243e71297d7258)
+
+8. I am bird of prey.
+   (ID: 162574c7cc4882122c2781c596a51e5023f21691)
+
+9. I am aryan.
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+10. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+11. I am derp.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+12. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+13. I am fist.
+   (ID: bd0712716940e41d4901cd77632c868dc43fa8f0)
+
+14. I am whore.
+   (ID: 392895b8f4f938fb4e2bfae6551b901dccf33ac2)
+
+15. I am shite.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+16. I am dominant species.
+   (ID: f9e9b1e6c59393102159142841e750ea90023928)
+
+17. I am serial killer.
+   (ID: e91d4ec377d82dfdf21d71b4dc685a96ed60ea3d)
+
+18. I am culchie.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+19. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+20. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+
+--- PersonaChat ---
+Total from this dataset: 18
+
+1. i am witty .
+   (ID: conversation_65)
+
+2. i teach kindergarten .
+   (ID: conversation_70)
+
+3. i train horses for a living .
+   (ID: conversation_66)
+
+4. i'm very athletic .
+   (ID: conversation_3)
+
+5. i'm an accountant .
+   (ID: conversation_305)
+
+6. my name is todd .
+   (ID: conversation_119)
+
+7. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+8. i have a marketing job .
+   (ID: conversation_267)
+
+9. i am excellent at playing pool .
+   (ID: conversation_390)
+
+10. i'm a goalie .
+   (ID: conversation_62)
+
+11. i play d and d .
+   (ID: conversation_54)
+
+12. i work as a stand up comedian .
+   (ID: conversation_2)
+
+13. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+14. my name is gerald .
+   (ID: conversation_207)
+
+15. my brothers work with me .
+   (ID: conversation_189)
+
+16. i earn passive income that no one knows about .
+   (ID: conversation_295)
+
+17. my name is omar .
+   (ID: conversation_42)
+
+18. i work for a large law firm .
+   (ID: conversation_30)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I am a roofer.
+   (ID: conversation_384_user_1)
+
+2. My name is arnold.
+   (ID: conversation_5_user_2)
+
+3. I work on wall street.
+   (ID: conversation_148_user_2)
+
+4. My name is nancy.
+   (ID: conversation_58_user_2)
+
+5. I am blonde.
+   (ID: conversation_16_user_1)
+
+6. I am a jack of all , master of none.
+   (ID: conversation_7_user_1)
+
+
+============================================================

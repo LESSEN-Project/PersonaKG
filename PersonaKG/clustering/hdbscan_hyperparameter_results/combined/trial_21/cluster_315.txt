@@ -1,0 +1,46 @@
+CLUSTER 315
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (16.7%)
+  PER-CHAT: 1 (16.7%)
+  PersonaChat: 4 (66.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My passion is in computer repairs.
+   (ID: dialog_32_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I have a husband.
+   (ID: 77770aa98878bbc6909e1c6f872ebb6803362fc5)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. my husband is a cop .
+   (ID: conversation_78)
+
+2. my boyfriend works for nasa .
+   (ID: conversation_37)
+
+3. i'm enrolled in several college credit courses .
+   (ID: conversation_87)
+
+4. welding is my career field .
+   (ID: conversation_4)
+
+
+============================================================

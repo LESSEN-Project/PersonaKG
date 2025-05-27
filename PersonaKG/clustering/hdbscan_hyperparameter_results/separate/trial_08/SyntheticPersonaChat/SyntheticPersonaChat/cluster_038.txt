@@ -1,0 +1,42 @@
+CLUSTER 38
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I am bloated.
+   (ID: conversation_30_user_1)
+
+2. I am tall.
+   (ID: conversation_12_user_1)
+
+3. I m easily agitated.
+   (ID: conversation_106_user_2)
+
+4. I am thin.
+   (ID: conversation_16_user_1)
+
+5. I take medication.
+   (ID: conversation_170_user_1)
+
+6. I am also round.
+   (ID: conversation_33_user_1)
+
+7. I have long fingers.
+   (ID: conversation_19_user_1)
+
+8. I am lactose intolerant.
+   (ID: conversation_101_user_2)
+
+
+============================================================

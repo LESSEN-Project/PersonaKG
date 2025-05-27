@@ -1,0 +1,39 @@
+CLUSTER 31
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.978
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. my favorite pizza is pepperoni .
+   (ID: conversation_206)
+
+2. i love chocolate cake with extra frosting .
+   (ID: conversation_80)
+
+3. my favorite jello is the blue one .
+   (ID: conversation_236)
+
+4. i love iced tea .
+   (ID: conversation_1)
+
+5. my favorite ice cream is pistachio .
+   (ID: conversation_287)
+
+6. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+7. my favorite food is popcorn .
+   (ID: conversation_15)
+
+
+============================================================

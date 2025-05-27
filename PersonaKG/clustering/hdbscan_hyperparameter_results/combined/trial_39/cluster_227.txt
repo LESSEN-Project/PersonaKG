@@ -1,0 +1,93 @@
+CLUSTER 227
+============================================================
+Total statements in cluster: 15
+Cluster persistence (stability): 0.933
+
+Dataset distribution in this cluster:
+  FoCus: 1 (6.7%)
+  MPChat: 1 (6.7%)
+  MSC: 5 (33.3%)
+  PEC: 1 (6.7%)
+  PER-CHAT: 2 (13.3%)
+  PersonaChat: 3 (20.0%)
+  SyntheticPersonaChat: 2 (13.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I enjoy exploring cemeteries.
+   (ID: MA2EPDC7QHS5_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. a cake i made that all you gym lovers will hopefully enjoy!
+   (ID: chakita86)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I enjoy her company.
+   (ID: dialog_64_speaker_1)
+
+2. I enjoy driving.
+   (ID: dialog_1_speaker_1)
+
+3. I enjoy being part of the crowd.
+   (ID: dialog_16_speaker_2)
+
+4. I enjoy a few brews by the river.
+   (ID: dialog_61_speaker_1)
+
+5. I enjoy being fake.
+   (ID: dialog_50_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i enjoy watching the mental breakdown
+   (ID: Nick84572)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. they can enjoy the fact that i keep those types of systems up and running .
+   (ID: 0e19a35c711a9c78f764d5268c09b16559cdadbf)
+
+2. I am aware plenty of games.
+   (ID: 114e3678c6af9d322985bb4656e33b19c03a0479)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i enjoy eating pumpkins .
+   (ID: conversation_174)
+
+2. i enjoy shopping .
+   (ID: conversation_71)
+
+3. i especially enjoy listening to the band the mutineers .
+   (ID: conversation_163)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I enjoy watching horror flicks.
+   (ID: conversation_54_user_2)
+
+2. I enjoy budweiser beer.
+   (ID: conversation_178_user_2)
+
+
+============================================================

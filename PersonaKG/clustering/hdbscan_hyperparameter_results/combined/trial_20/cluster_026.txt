@@ -1,0 +1,155 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 84
+Cluster persistence (stability): 0.775
+
+Dataset distribution in this cluster:
+  FoCus: 65 (77.4%)
+  MSC: 9 (10.7%)
+  PEC: 6 (7.1%)
+  PersonaChat: 2 (2.4%)
+  SyntheticPersonaChat: 2 (2.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 65
+
+1. I am interested in the climate.
+   (ID: LYYSTNQ9MBLY_11)
+
+2. I wish to visit the state of Alaska one day.
+   (ID: 8UN3RBB53NGU_11)
+
+3. I wish to study at Oxford.
+   (ID: PCA6OG1NNC5D_9)
+
+4. I wish to build a tower in Moscow Kremlin.
+   (ID: 9VN3FMWR0NNR_11)
+
+5. I will travel through County Mayo.
+   (ID: MSVCAU01UHE3_11)
+
+6. I am willing to visit River Walbrook.
+   (ID: XY9R2ORN3XBQ_7)
+
+7. I would like to find hiking trails.
+   (ID: Y7WSG3Z184EX_9)
+
+8. I wish to go to El Paso.
+   (ID: Z8RPC24EURS4_7)
+
+9. I would like to visit the Stimson House.
+   (ID: WYFFBVR6YR06_11)
+
+10. I am interested in rainforests.
+   (ID: U2VHOEDA278F_11)
+
+11. I wish to know Karnataka.
+   (ID: CPJ95KR758ZY_11)
+
+12. I wish to see the Cote D'Azur.
+   (ID: VQN3MX06CHI1_11)
+
+13. I would like to visit Auckland.
+   (ID: FOZE4Q84M3RX_11)
+
+14. I am planning to travel to Kosovo on my vacation.
+   (ID: LYYSTNQ9MBLY_11)
+
+15. I have to know about lake.
+   (ID: 931HBHO4JP2E_11)
+
+16. I hope to see a Mountain in Idaho.
+   (ID: D449W0YW7LNU_11)
+
+17. I would like to visit City Hall.
+   (ID: UUN7SKTZQ38T_7)
+
+18. I want to visit Sonoma County.
+   (ID: X8E70IZC7L3S_11)
+
+19. I want to visit Punjab.
+   (ID: RJJWVAVC2B40_9)
+
+20. I have heard about Hooghly River.
+   (ID: WKS47SP8CYLV_11)
+
+
+--- MSC ---
+Total from this dataset: 9
+
+1. I want to travel to nyc.
+   (ID: dialog_192_speaker_1)
+
+2. I like hiking more than skiing. I want find out more about photography. I will take pictures on my vacation.
+   (ID: dialog_13_speaker_2)
+
+3. Seeing the globe is on my bucket list.
+   (ID: dialog_13_speaker_1)
+
+4. I'd love to visit Michigan.
+   (ID: dialog_80_speaker_1)
+
+5. I want to go to Mexico City and see the Zocalo and Teotihuacan. I am interested in Mexico's history. I am interested in Russia's history.
+   (ID: dialog_113_speaker_1)
+
+6. I wish to build a home on the sand.
+   (ID: dialog_155_speaker_1)
+
+7. I want to learn about gardening.
+   (ID: dialog_11_speaker_2)
+
+8. I want to go canoeing in the Amazon rainforest.
+   (ID: dialog_172_speaker_2)
+
+9. I would like to travel to Florida.
+   (ID: dialog_46_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i already have like 4 places that would be great .
+   (ID: RobotHappiness)
+
+2. i 'd love to visit the japanese garden .
+   (ID: nastylittleman)
+
+3. i would probably go to either cozumel or isla mujeres .
+   (ID: deputydan_scubaman)
+
+4. i 'd definitely love to spend some time on the western coast .
+   (ID: lolala34)
+
+5. i would really like to study in glorious germany for my 2nd level degree .
+   (ID: apnudd)
+
+6. i 'll be traveling from the us .
+   (ID: sbsb27)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am traveling to paris this year for my vacation .
+   (ID: conversation_468)
+
+2. i would love to visit the pyramids .
+   (ID: conversation_390)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I want to visit the uk.
+   (ID: conversation_201_user_2)
+
+2. My masters degree is in italian literature.
+   (ID: conversation_309_user_2)
+
+
+============================================================

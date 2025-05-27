@@ -1,0 +1,69 @@
+CLUSTER 341
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.417
+
+Dataset distribution in this cluster:
+  MSC: 2 (16.7%)
+  PEC: 8 (66.7%)
+  PersonaChat: 1 (8.3%)
+  SyntheticPersonaChat: 1 (8.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I prefer wearing a belt.
+   (ID: dialog_31_speaker_2)
+
+2. I much prefer warm weather sports.
+   (ID: dialog_31_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i prefer burgerritaville .
+   (ID: bmeckel)
+
+2. i 'd prefer to do art for someone !
+   (ID: monday_madrigal)
+
+3. i 'd prefer zawk tirson for my name .
+   (ID: CheapyPipe)
+
+4. i prefer to shout " excelsior ! "
+   (ID: wooq)
+
+5. i prefer natural .
+   (ID: Sabiola)
+
+6. i prefer slammed stems and parallel to top tube handlebars : \
+   (ID: RonaldFuckingPaul)
+
+7. i prefer the term ' applied ' philosophy
+   (ID: Shrub74)
+
+8. i prefer dancing ladies .
+   (ID: harumpf)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I prefer headsets over earbuds.
+   (ID: conversation_14_user_2)
+
+
+============================================================

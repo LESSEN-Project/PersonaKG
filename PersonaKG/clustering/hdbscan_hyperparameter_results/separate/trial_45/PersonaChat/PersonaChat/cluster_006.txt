@@ -1,0 +1,42 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.978
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i come from a small town .
+   (ID: conversation_2)
+
+2. i live in nashville .
+   (ID: conversation_117)
+
+3. since i have fibromyalgia , the harsher winters here in pa will be rough on me .
+   (ID: conversation_167)
+
+4. i just accepted a job at the elementary school in my hometown .
+   (ID: conversation_91)
+
+5. my parents recently moved to florida .
+   (ID: conversation_46)
+
+6. i just moved from va to pa .
+   (ID: conversation_167)
+
+7. i live in rural wisconsin .
+   (ID: conversation_15)
+
+8. i just moved into an apartment within the vicinity of my new job .
+   (ID: conversation_91)
+
+
+============================================================

@@ -1,0 +1,39 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.995
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i am considered a nerd by many .
+   (ID: conversation_122)
+
+2. i am a free spirit .
+   (ID: conversation_110)
+
+3. i am not afraid of what others think .
+   (ID: conversation_37)
+
+4. i am a social butterfly .
+   (ID: conversation_16)
+
+5. i am very inquisitive and enjoy learning new things .
+   (ID: conversation_193)
+
+6. i do not have a lot of friends .
+   (ID: conversation_32)
+
+7. i hate talking to people .
+   (ID: conversation_54)
+
+
+============================================================

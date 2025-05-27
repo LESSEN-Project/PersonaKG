@@ -1,0 +1,39 @@
+CLUSTER 34
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.992
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i fly airplanes .
+   (ID: conversation_35)
+
+2. i'm a goalie .
+   (ID: conversation_62)
+
+3. i can benchpress 345 pounds .
+   (ID: conversation_224)
+
+4. i'm very athletic .
+   (ID: conversation_3)
+
+5. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+6. i'm a dancer .
+   (ID: conversation_10)
+
+7. i am a lumberjack .
+   (ID: conversation_51)
+
+
+============================================================

@@ -1,0 +1,42 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.894
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i believe that i can achieve anything .
+   (ID: conversation_435)
+
+2. i am rich beyond my dreams .
+   (ID: conversation_208)
+
+3. i believe in fairytales .
+   (ID: conversation_318)
+
+4. i believe the rich shouldn t be taxed as much .
+   (ID: conversation_604)
+
+5. i believe in love at first sight .
+   (ID: conversation_242)
+
+6. i believe that mermaids are real .
+   (ID: conversation_1)
+
+7. i believe in ghosts and have seen them on several occasions .
+   (ID: conversation_292)
+
+8. i do not believe in love .
+   (ID: conversation_190)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I have been married 3 times.
+   (ID: conversation_164_user_2)
+
+2. I could never be locked down to one partner.
+   (ID: conversation_307_user_2)
+
+3. I wish my boyfriend did not want an open relationship.
+   (ID: conversation_289_user_2)
+
+4. I do not fully understand my own feelings.
+   (ID: conversation_227_user_2)
+
+5. I sometimes wonder why i m not married.
+   (ID: conversation_283_user_2)
+
+
+============================================================

@@ -1,0 +1,48 @@
+HDBSCAN Clustering Analysis Summary
+============================================================
+Total statements: 15536
+Vectorization method: tfidf
+Number of clusters: 33
+Number of noise points: 9063 (58.3%)
+Analysis type: clusters
+Timestamp: 2025-05-27 15:27:42
+
+Dataset Distribution:
+  PER-CHAT: 15536 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 31: 1962 statements (persistence: 0.160)
+  Cluster 4: 936 statements (persistence: 0.999)
+  Cluster 3: 435 statements (persistence: 0.434)
+  Cluster 22: 257 statements (persistence: 0.543)
+  Cluster 23: 213 statements (persistence: 0.585)
+  Cluster 32: 200 statements (persistence: 0.535)
+  Cluster 21: 174 statements (persistence: 0.610)
+  Cluster 10: 148 statements (persistence: 0.540)
+  Cluster 13: 144 statements (persistence: 0.603)
+  Cluster 25: 136 statements (persistence: 0.734)
+  Cluster 14: 120 statements (persistence: 0.690)
+  Cluster 20: 118 statements (persistence: 0.786)
+  Cluster 19: 112 statements (persistence: 0.788)
+  Cluster 6: 104 statements (persistence: 0.740)
+  Cluster 30: 101 statements (persistence: 0.820)
+  Cluster 26: 99 statements (persistence: 0.730)
+  Cluster 11: 98 statements (persistence: 0.737)
+  Cluster 15: 86 statements (persistence: 0.807)
+  Cluster 16: 84 statements (persistence: 0.806)
+  Cluster 7: 83 statements (persistence: 0.838)
+  Cluster 8: 83 statements (persistence: 0.905)
+  Cluster 9: 82 statements (persistence: 0.792)
+  Cluster 18: 77 statements (persistence: 0.803)
+  Cluster 2: 74 statements (persistence: 0.889)
+  Cluster 12: 73 statements (persistence: 0.840)
+  Cluster 27: 72 statements (persistence: 0.869)
+  Cluster 1: 65 statements (persistence: 0.924)
+  Cluster 0: 64 statements (persistence: 0.673)
+  Cluster 5: 63 statements (persistence: 0.907)
+  Cluster 24: 59 statements (persistence: 0.941)
+  Cluster 17: 54 statements (persistence: 0.981)
+  Cluster 28: 53 statements (persistence: 0.957)
+  Cluster 29: 44 statements (persistence: 0.995)

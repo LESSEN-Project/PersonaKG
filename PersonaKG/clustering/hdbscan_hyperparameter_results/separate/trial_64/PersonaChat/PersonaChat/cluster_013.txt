@@ -1,0 +1,42 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.848
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i don t like the song sweet home alabama .
+   (ID: conversation_221)
+
+2. i don't like feeling controlled .
+   (ID: conversation_147)
+
+3. my parents don't know i am gay .
+   (ID: conversation_4)
+
+4. i don t like the beach .
+   (ID: conversation_94)
+
+5. i don't like my reputation .
+   (ID: conversation_147)
+
+6. i don t fully understand my own feelings .
+   (ID: conversation_299)
+
+7. i don't celebrate any holidays .
+   (ID: conversation_292)
+
+8. i don't like acting .
+   (ID: conversation_154)
+
+
+============================================================

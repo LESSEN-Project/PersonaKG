@@ -1,0 +1,128 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 34
+Cluster persistence (stability): 0.905
+
+Dataset distribution in this cluster:
+  MSC: 2 (5.9%)
+  PEC: 3 (8.8%)
+  PER-CHAT: 24 (70.6%)
+  PersonaChat: 3 (8.8%)
+  SyntheticPersonaChat: 2 (5.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I've a lot of wrinkles.
+   (ID: dialog_18_speaker_1)
+
+2. I have six toes on my left foot.
+   (ID: dialog_31_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i sleep with a stuffed kitty .
+   (ID: napalmkitten)
+
+2. i have 6 of them .
+   (ID: carwynllew)
+
+3. i 've got my own father .
+   (ID: RonaldFuckingPaul)
+
+
+--- PER-CHAT ---
+Total from this dataset: 24
+
+1. I have a son… in my family.
+   (ID: 40ad6d409c1f0888bdb3dbd8d7bab47d00f3a6f0)
+
+2. I own a nose.
+   (ID: 8d3203bd3c61b13e57c27bd43fd1be11143f449a)
+
+3. I own a fps.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+4. I own a homies.
+   (ID: d72952657a3571deff985040e565d95d8206db60)
+
+5. I own a ball.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+6. I live in accounts.
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+7. I have a hamster as a pet.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+8. I own a orb.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+9. I own a egg.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+10. I own a fief.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+11. I own a aim.
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+12. I own a dude.
+   (ID: fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1)
+
+13. I own a type.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+14. I own a rx.
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+15. I own a cock.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+16. I own a bullet kid.
+   (ID: 79a889fa6fb8a2c18c34d9aec95f4803861c97fe)
+
+17. I own a junk.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+18. I own a g.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+19. I own a warlock.
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+
+20. I own a zapper.
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i have four sisters .
+   (ID: conversation_1)
+
+2. i have a pet snake .
+   (ID: conversation_50)
+
+3. i've a twin brother .
+   (ID: conversation_57)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I have long fingers.
+   (ID: conversation_19_user_1)
+
+2. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+
+============================================================

@@ -1,0 +1,46 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.993
+
+Dataset distribution in this cluster:
+  PEC: 3 (50.0%)
+  PER-CHAT: 2 (33.3%)
+  PersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i hate stressing about fights .
+   (ID: monday_madrigal)
+
+2. i will also accept scolding .
+   (ID: underneathstars)
+
+3. i 'd rather not push or shove .
+   (ID: amirman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. what if you were the person dragging the convo down ? what a dive would you give that person to improve themselves ?
+   (ID: b67c2fd697e30c5d26fcd88baa61d8bbcce5ec1c)
+
+2. well if i could choose which person was the target i wouldn ' t need to change anything cos they talk enough shit already
+   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i don't like feeling controlled .
+   (ID: conversation_147)
+
+
+============================================================

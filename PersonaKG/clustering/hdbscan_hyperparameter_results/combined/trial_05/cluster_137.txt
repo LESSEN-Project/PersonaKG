@@ -1,0 +1,51 @@
+CLUSTER 137
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.993
+
+Dataset distribution in this cluster:
+  FoCus: 2 (33.3%)
+  PEC: 1 (16.7%)
+  PER-CHAT: 2 (33.3%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I have an interest in Catholicism.
+   (ID: TDUTQ7NCYJ1S_11)
+
+2. I am studying Frank Lloyd Wright.
+   (ID: EDLPKHWH3K5B_11)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i ’m curious , what religion ?
+   (ID: snapsnaptomtom)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. that which is both beyond what is known and throughout all aspects of space i could discover
+   (ID: b5153b16e61f6bc5e4bf4d8db479b7093df1ae26)
+
+2. My social science and humanities is history.
+   (ID: e24ed5c3caffaf18d8a2097a35f6cf37eff0117b)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am a history buff.
+   (ID: conversation_25_user_2)
+
+
+============================================================

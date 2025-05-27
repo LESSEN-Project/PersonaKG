@@ -1,0 +1,46 @@
+CLUSTER 325
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  PEC: 1 (16.7%)
+  PER-CHAT: 3 (50.0%)
+  SyntheticPersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm a stem guy myself .
+   (ID: apnudd)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I am ancom.
+   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+
+2. I am apa.
+   (ID: 6eb8259d7d6b7ae101dda44ceaaf3b9edaab4fad)
+
+3. I am small youtuber.
+   (ID: ac53f9ce173965984299f3686335a39bc2a5810f)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am an excellent student.
+   (ID: conversation_29_user_2)
+
+2. I m a judge in the circuit court.
+   (ID: conversation_194_user_2)
+
+
+============================================================

@@ -1,0 +1,36 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.958
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i was the first born child .
+   (ID: conversation_127)
+
+2. i would rather stay up late than get up early .
+   (ID: conversation_193)
+
+3. i'm pregnant with my first child .
+   (ID: conversation_40)
+
+4. as a child , i won a national spelling bee .
+   (ID: conversation_181)
+
+5. i'm always late .
+   (ID: conversation_177)
+
+6. i had to get a job early as a child .
+   (ID: conversation_116)
+
+
+============================================================

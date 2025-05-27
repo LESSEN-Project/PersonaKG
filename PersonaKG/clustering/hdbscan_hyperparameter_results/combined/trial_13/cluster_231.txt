@@ -1,0 +1,66 @@
+CLUSTER 231
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.967
+
+Dataset distribution in this cluster:
+  MSC: 1 (9.1%)
+  PEC: 4 (36.4%)
+  PER-CHAT: 5 (45.5%)
+  PersonaChat: 1 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have feelings for a person in my past.
+   (ID: dialog_41_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i 'm neither a fighter nor a strong person .
+   (ID: doctor_parcival)
+
+2. i have failed myself as a person .
+   (ID: Ooer)
+
+3. i m fairly certain this person cares more about the adrenaline than the pain .
+   (ID: nate6051)
+
+4. i am not that kind of person .
+   (ID: LooksAtClouds)
+
+
+--- PER-CHAT ---
+Total from this dataset: 5
+
+1. i searched " button person dies " in askreddit and found a bunch that are essentially this
+   (ID: ba6d1d2cee95e9f30e06dc1584d5fa02e62221e8)
+
+2. I am awkward person.
+   (ID: 82bb111e2180a2ffb997b74ab504aa538034feab)
+
+3. probs talk about my dead brother . the other person likely wouldnt have the knowledge .
+   (ID: 8285a776fd60b145ed2afc145cdf2b926b93ed8b)
+
+4. any pattern ? and who ' s  what kind of person ' s bedroom would you be in ?
+   (ID: 4972a31c1a3df007d761e27a613a3b6a99c3a0ca)
+
+5. what if you were the person dragging the convo down ? what a dive would you give that person to improve themselves ?
+   (ID: b67c2fd697e30c5d26fcd88baa61d8bbcce5ec1c)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'm an angry person .
+   (ID: conversation_169)
+
+
+============================================================

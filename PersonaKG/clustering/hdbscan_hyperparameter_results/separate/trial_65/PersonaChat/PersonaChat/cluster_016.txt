@@ -1,0 +1,36 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i like the tv show the walking dead .
+   (ID: conversation_93)
+
+2. i love watching superheroes shows .
+   (ID: conversation_95)
+
+3. my favorite tv show is dancing with the stars .
+   (ID: conversation_144)
+
+4. i like cartoons .
+   (ID: conversation_39)
+
+5. my favorite movie is pretty woman .
+   (ID: conversation_155)
+
+6. my favorite flower is a rose .
+   (ID: conversation_129)
+
+
+============================================================

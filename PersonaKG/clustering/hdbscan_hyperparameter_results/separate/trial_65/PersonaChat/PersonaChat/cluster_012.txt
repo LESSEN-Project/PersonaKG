@@ -1,0 +1,48 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. its good to eat a lot of veggies .
+   (ID: conversation_137)
+
+2. i eat ice cream when i am sad .
+   (ID: conversation_170)
+
+3. i drink a lot of apple martinis when i get a girls night out .
+   (ID: conversation_75)
+
+4. i drink diet coke .
+   (ID: conversation_123)
+
+5. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+6. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+7. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+8. i love iced tea .
+   (ID: conversation_1)
+
+9. i take vitamin c when i have a cold .
+   (ID: conversation_183)
+
+10. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+
+============================================================

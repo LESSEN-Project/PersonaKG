@@ -1,0 +1,46 @@
+CLUSTER 36
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (16.7%)
+  PersonaChat: 4 (66.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i work as a stand up comedian .
+   (ID: conversation_2)
+
+2. i work for a large law firm .
+   (ID: conversation_30)
+
+3. i work at a smoothie shop .
+   (ID: conversation_12)
+
+4. i'm a waitress at a popular houston club .
+   (ID: conversation_77)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am a paper salesman.
+   (ID: conversation_55_user_2)
+
+
+============================================================

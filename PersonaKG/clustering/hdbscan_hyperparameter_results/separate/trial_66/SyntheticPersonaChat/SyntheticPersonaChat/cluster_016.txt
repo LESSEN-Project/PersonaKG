@@ -1,0 +1,48 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.868
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 10
+
+1. I whine a lot.
+   (ID: conversation_565_user_1)
+
+2. I help them win a lot of money.
+   (ID: conversation_318_user_2)
+
+3. I like to use a lot of exclamation marks when i type.
+   (ID: conversation_122_user_2)
+
+4. I have a lot of trophies from my childhood.
+   (ID: conversation_175_user_2)
+
+5. I also meditate a lot.
+   (ID: conversation_200_user_1)
+
+6. I have been in a lot of romantic relationships that have ended up poorly.
+   (ID: conversation_734_user_2)
+
+7. I do not like being asked a lot of questions.
+   (ID: conversation_523_user_2)
+
+8. I enjoy spending a lot of money on my hobbies.
+   (ID: conversation_741_user_2)
+
+9. I get sad a lot.
+   (ID: conversation_317_user_1)
+
+10. I talk a lot in irc.
+   (ID: conversation_283_user_1)
+
+
+============================================================

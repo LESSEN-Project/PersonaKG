@@ -1,0 +1,42 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. My name is kevin.
+   (ID: conversation_121_user_2)
+
+2. I have a brother but we don t talk much yet.
+   (ID: conversation_509_user_2)
+
+3. My name is arnold.
+   (ID: conversation_5_user_2)
+
+4. And , my best friend is calden.
+   (ID: conversation_700_user_2)
+
+5. And , my best friend is abigail.
+   (ID: conversation_571_user_2)
+
+6. I have a girlfriend named luis , and she goes to my college.
+   (ID: conversation_78_user_2)
+
+7. My name is nancy.
+   (ID: conversation_58_user_2)
+
+8. My name is omar.
+   (ID: conversation_528_user_2)
+
+
+============================================================

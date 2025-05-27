@@ -1,0 +1,39 @@
+CLUSTER 33
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.959
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I like to run so that i can clear my head.
+   (ID: conversation_36_user_2)
+
+2. I read three books a week.
+   (ID: conversation_156_user_2)
+
+3. I can read in english and french.
+   (ID: conversation_156_user_2)
+
+4. I like books about trains.
+   (ID: conversation_173_user_1)
+
+5. I read ebooks more than hardcopies.
+   (ID: conversation_66_user_1)
+
+6. I start an internship in engineering later this year.
+   (ID: conversation_82_user_2)
+
+7. Once a year , i take a week off and head to florida.
+   (ID: conversation_144_user_2)
+
+
+============================================================

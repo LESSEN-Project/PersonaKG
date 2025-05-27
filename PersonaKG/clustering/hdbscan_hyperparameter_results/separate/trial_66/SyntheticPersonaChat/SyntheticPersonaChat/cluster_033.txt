@@ -1,0 +1,42 @@
+CLUSTER 33
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.956
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I recently bought a camper.
+   (ID: conversation_27_user_2)
+
+2. I recently discovered a new love for indian food.
+   (ID: conversation_94_user_2)
+
+3. I went to new york city once.
+   (ID: conversation_575_user_1)
+
+4. I like to come up with new hairstyles.
+   (ID: conversation_401_user_2)
+
+5. I am starting a new juicing bar.
+   (ID: conversation_521_user_1)
+
+6. I am planning to move to a new state soon.
+   (ID: conversation_607_user_1)
+
+7. I love new gadgets.
+   (ID: conversation_458_user_1)
+
+8. My favorite city is new york.
+   (ID: conversation_370_user_1)
+
+
+============================================================

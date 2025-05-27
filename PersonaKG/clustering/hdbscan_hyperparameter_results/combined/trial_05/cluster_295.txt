@@ -1,0 +1,69 @@
+CLUSTER 295
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.948
+
+Dataset distribution in this cluster:
+  MSC: 1 (8.3%)
+  PER-CHAT: 2 (16.7%)
+  PersonaChat: 8 (66.7%)
+  SyntheticPersonaChat: 1 (8.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My father is a minister.
+   (ID: dialog_40_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I own a manager.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+2. My other is law.
+   (ID: e91d4ec377d82dfdf21d71b4dc685a96ed60ea3d)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. both my parents were teachers .
+   (ID: conversation_19)
+
+2. i went to a community college and got a degree in communication .
+   (ID: conversation_153)
+
+3. my father was an author .
+   (ID: conversation_9)
+
+4. my boyfriend works for nasa .
+   (ID: conversation_37)
+
+5. my mom is a janitor .
+   (ID: conversation_39)
+
+6. my husband is a cop .
+   (ID: conversation_78)
+
+7. my mother was a nurse .
+   (ID: conversation_45)
+
+8. i graduated with a statistics degree .
+   (ID: conversation_158)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+
+============================================================

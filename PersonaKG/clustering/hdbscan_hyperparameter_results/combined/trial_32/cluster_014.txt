@@ -1,0 +1,125 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 29
+Cluster persistence (stability): 0.969
+
+Dataset distribution in this cluster:
+  MSC: 5 (17.2%)
+  PEC: 12 (41.4%)
+  PER-CHAT: 2 (6.9%)
+  PersonaChat: 8 (27.6%)
+  SyntheticPersonaChat: 2 (6.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I cannot eat certain foods due to flatulence.
+   (ID: dialog_26_speaker_2)
+
+2. I need to make healthier choices when I go out to eat.
+   (ID: dialog_33_speaker_2)
+
+3. I'm not a fan of soy products.
+   (ID: dialog_30_speaker_2)
+
+4. I don't eat sugar.
+   (ID: dialog_71_speaker_1)
+
+5. I do not like chocolate.
+   (ID: dialog_44_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 12
+
+1. i ’m trying to lose body fat while maintaining or increasing my strength .
+   (ID: FruitBatFanatic)
+
+2. i am overweight- 5,3 ” 169 lbs- down 13 pounds from start though .
+   (ID: almajanemi)
+
+3. i 'm the least picky eater ever .
+   (ID: amirman)
+
+4. i have dry skin on my cheeks and driest around the mouth area .
+   (ID: beautifulw0man)
+
+5. i eat once a day , i do n't have an appetite .
+   (ID: AgedTwenties)
+
+6. i ’ve heard a plant based diet is the best for you , and the fastest to loose weight .
+   (ID: almajanemi)
+
+7. i can not drink hot coffee .
+   (ID: AgedTwenties)
+
+8. i m currently doing a combination of minimal raw foods and fasting until i lose 15 pounds
+   (ID: MoncoLovesYanno)
+
+9. i have a 22 bmi but 32 % bodyfat .
+   (ID: buttercup_mauler)
+
+10. i talked to my doctor about it and he suggested the keto diet along with the if .
+   (ID: boo3114)
+
+11. i have tried numerous diet strategies .
+   (ID: bbakks)
+
+12. i 've been on a low fodmap diet for about six years .
+   (ID: RelaxedSociety)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I am heavier smoker.
+   (ID: 5c9dd67e95ee5403b2bd9a6848c017674d46396b)
+
+2. if you are suffering from it then its probably a symptom of something else , for me its dairy so i limit my intake .
+   (ID: 2e1439e8eb18b181a69a66cc4c1b2dc22ce774f0)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i hate tofu .
+   (ID: conversation_30)
+
+2. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+3. i m allergic to shellfish .
+   (ID: conversation_28)
+
+4. i've problems chewing my food .
+   (ID: conversation_126)
+
+5. i hate the taste of cheese .
+   (ID: conversation_105)
+
+6. i don't eat bread .
+   (ID: conversation_183)
+
+7. i hate carrots .
+   (ID: conversation_3)
+
+8. i never eat veggies .
+   (ID: conversation_96)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am not healthy.
+   (ID: conversation_21_user_1)
+
+2. I am lactose intolerant.
+   (ID: conversation_101_user_2)
+
+
+============================================================

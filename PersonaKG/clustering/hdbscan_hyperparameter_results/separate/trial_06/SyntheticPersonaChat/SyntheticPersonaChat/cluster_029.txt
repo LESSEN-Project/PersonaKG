@@ -1,0 +1,33 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My favorite drink is iced coffee.
+   (ID: conversation_0_user_2)
+
+2. I like dr pepper and black jack gum , but not together.
+   (ID: conversation_172_user_2)
+
+3. My favorite jello is the blue one.
+   (ID: conversation_241_user_2)
+
+4. I enjoy budweiser beer.
+   (ID: conversation_178_user_2)
+
+5. I also love orange juice.
+   (ID: conversation_61_user_2)
+
+
+============================================================

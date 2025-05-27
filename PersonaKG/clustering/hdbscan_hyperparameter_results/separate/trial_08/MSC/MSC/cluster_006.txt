@@ -1,0 +1,33 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I like fluid from out of country.
+   (ID: dialog_2_speaker_2)
+
+2. My radio is usually tuned into a country station.
+   (ID: dialog_55_speaker_1)
+
+3. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+4. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+5. I've been in the country all my life.
+   (ID: dialog_42_speaker_2)
+
+
+============================================================

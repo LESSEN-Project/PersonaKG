@@ -1,0 +1,53 @@
+CLUSTER 280
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (20.0%)
+  PEC: 1 (20.0%)
+  PER-CHAT: 1 (20.0%)
+  PersonaChat: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am not Greek.
+   (ID: VB4LDHWFQAVH_11)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i do n't speak polish
+   (ID: alextound)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am stupid teenager.
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i am colorblind .
+   (ID: conversation_109)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am a terrible speller.
+   (ID: conversation_6_user_2)
+
+
+============================================================

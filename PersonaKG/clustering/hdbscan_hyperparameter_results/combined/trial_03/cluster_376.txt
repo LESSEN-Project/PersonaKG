@@ -1,0 +1,43 @@
+CLUSTER 376
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 3 (60.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm sick when I eat fish.
+   (ID: dialog_28_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i do n't eat anything that casts a shadow . "
+   (ID: Mahatma_Panda)
+
+2. i 'd eat cake to that .
+   (ID: VanGoJourney)
+
+3. i 'd have too many hormones running through my body with how much i 'd eat .
+   (ID: buttercup_mauler)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+
+============================================================

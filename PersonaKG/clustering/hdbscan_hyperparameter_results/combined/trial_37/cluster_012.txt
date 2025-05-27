@@ -1,0 +1,137 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 66
+Cluster persistence (stability): 0.264
+
+Dataset distribution in this cluster:
+  MSC: 4 (6.1%)
+  PEC: 2 (3.0%)
+  PER-CHAT: 53 (80.3%)
+  PersonaChat: 5 (7.6%)
+  SyntheticPersonaChat: 2 (3.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+2. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+3. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+4. I live in the state by colorado.
+   (ID: dialog_10_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i live in dayton and everyone is a bengals fan .
+   (ID: worried_panda)
+
+2. i watched lilyhammer , could n't pay me to live in that shithole
+   (ID: BoonTobias)
+
+
+--- PER-CHAT ---
+Total from this dataset: 53
+
+1. I live in sticks.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+2. I live in theory.
+   (ID: 841a375b464a5650f1c027d1c7ae73415228c6ab)
+
+3. I live in punk.
+   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
+
+4. to go live with a cult to see how they were treating my grandma .
+   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
+
+5. I live in pop music.
+   (ID: a94c33f7a102c979d2b0d24245a9721d4136b14f)
+
+6. I live in purple state.
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+7. I live in with smokers.
+   (ID: db585f1dbaa42a5cff4c6b3dbc242bf7ea45bd9a)
+
+8. I live in mid 1960s.
+   (ID: f3a490ceb976e7adf0cbeb213371795128597226)
+
+9. I live in hearing.
+   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+
+10. I live in fruit country.
+   (ID: e036cce09e42b447bacae037ef33243f155fd2bf)
+
+11. I live in dad.
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+12. I live in shaq era.
+   (ID: 4654e3a9a75835f9ff28170ddf31d5d3cf296ea2)
+
+13. I live in liberal town.
+   (ID: b386bb7f54bebf7edfe66a27e8d881a61bd1d6df)
+
+14. I live in with narcissist sister.
+   (ID: 79b35c8caff79f47f37bb4856cc6b57bcd49e5bf)
+
+15. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+16. I live in with fear.
+   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
+
+17. I live in edge dogs.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+18. I live in asian country.
+   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
+
+19. I live in boring america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+20. I live in youtube.
+   (ID: 2069df24de0e78e4765ca507edb903ca074ac2d8)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+2. i live in rural wisconsin .
+   (ID: conversation_15)
+
+3. i live in the usa .
+   (ID: conversation_23)
+
+4. i still live with my parents .
+   (ID: conversation_24)
+
+5. i live on a boat .
+   (ID: conversation_14)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+2. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

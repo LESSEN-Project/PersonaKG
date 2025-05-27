@@ -1,0 +1,42 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.983
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i'm from seattle .
+   (ID: conversation_281)
+
+2. i grew up in alabama .
+   (ID: conversation_221)
+
+3. i come from a small town .
+   (ID: conversation_2)
+
+4. i m from texas .
+   (ID: conversation_8)
+
+5. i was born in baton rouge .
+   (ID: conversation_138)
+
+6. i live in nashville .
+   (ID: conversation_117)
+
+7. i live in rural wisconsin .
+   (ID: conversation_15)
+
+8. we lived in virginia while i was growing up .
+   (ID: conversation_391)
+
+
+============================================================

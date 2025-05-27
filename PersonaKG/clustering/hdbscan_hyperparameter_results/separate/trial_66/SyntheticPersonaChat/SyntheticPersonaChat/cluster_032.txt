@@ -1,0 +1,42 @@
+CLUSTER 32
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I studied business as my major.
+   (ID: conversation_509_user_1)
+
+2. I own my own business.
+   (ID: conversation_81_user_2)
+
+3. I shop online , too much.
+   (ID: conversation_292_user_1)
+
+4. I am trying to build my online business.
+   (ID: conversation_200_user_1)
+
+5. I come from a small town.
+   (ID: conversation_629_user_2)
+
+6. I recently started working online.
+   (ID: conversation_10_user_2)
+
+7. I am a small business owner.
+   (ID: conversation_318_user_2)
+
+8. I am a geology major at alabama university.
+   (ID: conversation_72_user_2)
+
+
+============================================================

@@ -1,0 +1,44 @@
+CLUSTER 742
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  MSC: 2 (28.6%)
+  PersonaChat: 5 (71.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. We have the same parents, he was born first.
+   (ID: dialog_81_speaker_2)
+
+2. My parents are very patient with me.
+   (ID: dialog_39_speaker_2)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. while both my parents have thick european accents , i do not .
+   (ID: conversation_87)
+
+2. both my parents were teachers .
+   (ID: conversation_19)
+
+3. my parents raised me as a buddhist .
+   (ID: conversation_281)
+
+4. my parents are in there 80s .
+   (ID: conversation_274)
+
+5. my brother raised me after our parents died .
+   (ID: conversation_232)
+
+
+============================================================

@@ -1,0 +1,60 @@
+CLUSTER 297
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.970
+
+Dataset distribution in this cluster:
+  FoCus: 1 (11.1%)
+  MSC: 3 (33.3%)
+  PersonaChat: 4 (44.4%)
+  SyntheticPersonaChat: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have membership in a sports club.
+   (ID: VZ1O6OE23O98_11)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I drive a rig.
+   (ID: dialog_34_speaker_1)
+
+2. I push a super car.
+   (ID: dialog_47_speaker_1)
+
+3. I can operate a car with a manual transmission.
+   (ID: dialog_34_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i drive a prius .
+   (ID: conversation_68)
+
+2. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+3. i am in the army .
+   (ID: conversation_35)
+
+4. i drive a jag .
+   (ID: conversation_169)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+
+============================================================

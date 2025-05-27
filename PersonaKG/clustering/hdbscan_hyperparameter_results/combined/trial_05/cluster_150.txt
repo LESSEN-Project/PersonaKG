@@ -1,0 +1,49 @@
+CLUSTER 150
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 1 (14.3%)
+  PEC: 5 (71.4%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. this corner came out so sharp and i can't get over it!
+   (ID: Sophie74656)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i faceplanted while playing wii baseball .
+   (ID: bmeckel)
+
+2. i was packing it a little too hard and pulling too hard .
+   (ID: HugePurpleNipples)
+
+3. i turned down the speed .
+   (ID: Etifaq)
+
+4. i batted heads away for 20 minutes and killed 100 dudes .
+   (ID: CarlofTime)
+
+5. i m hurting myself
+   (ID: SYDWAD)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I can t whistle.
+   (ID: conversation_46_user_2)
+
+
+============================================================

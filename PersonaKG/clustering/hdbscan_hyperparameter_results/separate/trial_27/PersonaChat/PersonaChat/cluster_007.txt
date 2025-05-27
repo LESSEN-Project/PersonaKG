@@ -1,0 +1,51 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 11
+
+1. i like basketball .
+   (ID: conversation_8)
+
+2. i like to paint .
+   (ID: conversation_60)
+
+3. i like cartoons .
+   (ID: conversation_39)
+
+4. i like to cook .
+   (ID: conversation_17)
+
+5. i still like unicorns even though i m an adult .
+   (ID: conversation_390)
+
+6. i like to go to the farmer s market every weekend .
+   (ID: conversation_117)
+
+7. i like to remodel homes .
+   (ID: conversation_0)
+
+8. i like to snowboard .
+   (ID: conversation_15)
+
+9. i like vintage furniture .
+   (ID: conversation_355)
+
+10. i like to get involved in politics .
+   (ID: conversation_214)
+
+11. i like baths .
+   (ID: conversation_6)
+
+
+============================================================

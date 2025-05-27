@@ -1,0 +1,33 @@
+CLUSTER 18
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I once drove a car ! my friend told me what to do while i drove.
+   (ID: conversation_26_user_1)
+
+2. My car is green and smells weird.
+   (ID: conversation_44_user_2)
+
+3. I lost my arm in a car accident.
+   (ID: conversation_141_user_2)
+
+4. Ferrari is my favorite car company.
+   (ID: conversation_142_user_2)
+
+5. I lease my car.
+   (ID: conversation_5_user_1)
+
+
+============================================================

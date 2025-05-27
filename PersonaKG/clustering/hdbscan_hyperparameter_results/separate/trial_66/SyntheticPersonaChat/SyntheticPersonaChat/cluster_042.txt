@@ -1,0 +1,57 @@
+CLUSTER 42
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.867
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 13 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 13
+
+1. I am college student.
+   (ID: conversation_78_user_2)
+
+2. I am an excellent student.
+   (ID: conversation_29_user_2)
+
+3. I graduated college and immediately went to graduate school.
+   (ID: conversation_51_user_2)
+
+4. I am still a student , but i am gonna be a nurse.
+   (ID: conversation_178_user_2)
+
+5. I graduated top of my class.
+   (ID: conversation_446_user_2)
+
+6. I go to a local college.
+   (ID: conversation_515_user_2)
+
+7. My masters degree is in italian literature.
+   (ID: conversation_309_user_2)
+
+8. I have an mba degree.
+   (ID: conversation_236_user_1)
+
+9. I was diagnosed with mild ocd in college.
+   (ID: conversation_144_user_2)
+
+10. I am an avid fan of the boston celtics.
+   (ID: conversation_471_user_2)
+
+11. I like nfl and college football.
+   (ID: conversation_690_user_2)
+
+12. My son is a straight a student.
+   (ID: conversation_383_user_2)
+
+13. I am leaving for college in three months.
+   (ID: conversation_49_user_1)
+
+
+============================================================

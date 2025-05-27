@@ -1,0 +1,69 @@
+CLUSTER 532
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.957
+
+Dataset distribution in this cluster:
+  PEC: 5 (41.7%)
+  PER-CHAT: 2 (16.7%)
+  PersonaChat: 3 (25.0%)
+  SyntheticPersonaChat: 2 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i drive _ _
+   (ID: WorldBFree)
+
+2. i drive a peugeot 206 and this is me .
+   (ID: apnudd)
+
+3. i hated drive .
+   (ID: teriaki)
+
+4. i should n't drive , could you call me a cab ?
+   (ID: rspewth)
+
+5. i never go anywhere alone , n everyone i kno can drive
+   (ID: waterspork)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. is that also why you drive a yellow hummer and call everyone  brah  ?
+   (ID: a23935a11b1de288af939de6809066afab50fe71)
+
+2. I own a drive.
+   (ID: 2c5816cbbee60e3c348eb04900ea7453604cff82)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i do not drive .
+   (ID: conversation_56)
+
+2. i drive a jag .
+   (ID: conversation_169)
+
+3. i drive a prius .
+   (ID: conversation_68)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+2. I drive a lifted chevy truck.
+   (ID: conversation_384_user_1)
+
+
+============================================================

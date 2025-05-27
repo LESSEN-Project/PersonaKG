@@ -1,0 +1,39 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.985
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I like to go to comic con.
+   (ID: conversation_137_user_2)
+
+2. I ve started creating my own comics and presenting them to publishers.
+   (ID: conversation_35_user_2)
+
+3. I am a photographer.
+   (ID: conversation_140_user_1)
+
+4. I am a hair stylist.
+   (ID: conversation_176_user_2)
+
+5. I am a model building enthusiast.
+   (ID: conversation_140_user_2)
+
+6. I like to draw.
+   (ID: conversation_8_user_2)
+
+7. I own a custom upholstery shop.
+   (ID: conversation_84_user_1)
+
+
+============================================================

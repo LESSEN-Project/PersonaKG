@@ -1,0 +1,12 @@
+{
+  "trial": 56,
+  "vectorization": "tfidf",
+  "sample_size": 300,
+  "min_cluster_size_ratio": 0.04,
+  "min_cluster_size": 12,
+  "min_samples": 8,
+  "min_samples_ratio": 0.7,
+  "tfidf_weight": null,
+  "pca_components": 32,
+  "clustering_mode": "separate"
+}

@@ -1,0 +1,33 @@
+CLUSTER 27
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I also meditate a lot.
+   (ID: conversation_200_user_1)
+
+2. I get sad a lot.
+   (ID: conversation_317_user_1)
+
+3. I have a lot of trophies from my childhood.
+   (ID: conversation_175_user_2)
+
+4. I talk a lot in irc.
+   (ID: conversation_283_user_1)
+
+5. I help them win a lot of money.
+   (ID: conversation_318_user_2)
+
+
+============================================================

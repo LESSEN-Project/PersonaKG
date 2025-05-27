@@ -1,0 +1,157 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 44
+Cluster persistence (stability): 0.882
+
+Dataset distribution in this cluster:
+  MPChat: 1 (2.3%)
+  MSC: 4 (9.1%)
+  PEC: 8 (18.2%)
+  PER-CHAT: 26 (59.1%)
+  PersonaChat: 2 (4.5%)
+  SyntheticPersonaChat: 3 (6.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i am a lion!
+   (ID: mattsulli)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+2. I'm the ultimate. I'm the alpha and the omega.
+   (ID: dialog_43_speaker_1)
+
+3. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+4. My name is Bill. I grew up in Alabama.
+   (ID: dialog_53_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i 'm the juggernaut bitch .
+   (ID: LCPhotowerx)
+
+2. i am the dark one .
+   (ID: combover)
+
+3. i am peanut butter and jelly .
+   (ID: CuriousBlueAbra)
+
+4. i am a golden god !
+   (ID: NyxPeregrinus)
+
+5. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+6. i am skuld .
+   (ID: Ooer)
+
+7. i 'm jordan ward !
+   (ID: amirman)
+
+8. i m a athaleet
+   (ID: RonaldFuckingPaul)
+
+
+--- PER-CHAT ---
+Total from this dataset: 26
+
+1. I am star.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+2. I am reason.
+   (ID: eb338cca8f5e87e4b6e5d369997ab6dbebf241c5)
+
+3. I am shite.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+4. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+5. I am derp.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+6. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+7. I am captain.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+8. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+9. I am biotic god.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+10. I am scott.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+11. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+12. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+13. I am u/footofaep.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+14. I am villain.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+15. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+16. I am glass.
+   (ID: 88c65ad9c962da115240776d5aa110748286db73)
+
+17. I am thic james beeeyotch.
+   (ID: 6f13975ce6a8747ec3d0e2207b9ef86d80a28713)
+
+18. I am redditor.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+19. I am ancom.
+   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+
+20. I am agent of chaos.
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my name is omar .
+   (ID: conversation_42)
+
+2. my name is todd .
+   (ID: conversation_119)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My name is arnold.
+   (ID: conversation_5_user_2)
+
+2. My name is kevin.
+   (ID: conversation_121_user_2)
+
+3. My name is nancy.
+   (ID: conversation_58_user_2)
+
+
+============================================================

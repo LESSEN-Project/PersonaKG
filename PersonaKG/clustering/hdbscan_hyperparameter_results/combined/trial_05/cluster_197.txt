@@ -1,0 +1,51 @@
+CLUSTER 197
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  FoCus: 1 (16.7%)
+  MSC: 2 (33.3%)
+  PersonaChat: 2 (33.3%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am a huge fan of going to a villa.
+   (ID: S7EFLIB5IQDV_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I work in TV show business. I am taking a four week break from my job at a studio. I have had trouble finding a job in the past.
+   (ID: dialog_2_speaker_2)
+
+2. I work as a roofer. I am not replacing roofs right now because of the cold but it gives me time to enjoy sports.
+   (ID: dialog_47_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i spend a lot of time driving my kids to sports events .
+   (ID: conversation_75)
+
+2. i'm currently going back to school to try and become a casino manager .
+   (ID: conversation_158)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My friends and i enjoy golfing on sunny days.
+   (ID: conversation_82_user_1)
+
+
+============================================================

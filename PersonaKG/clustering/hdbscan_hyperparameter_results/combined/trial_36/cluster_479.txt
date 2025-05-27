@@ -1,0 +1,59 @@
+CLUSTER 479
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.951
+
+Dataset distribution in this cluster:
+  MPChat: 1 (14.3%)
+  MSC: 2 (28.6%)
+  PEC: 2 (28.6%)
+  PersonaChat: 1 (14.3%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. guy at work wanted his own so i used the rest of the bright thread.
+   (ID: ddizzle23)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I used to  work at a processing center for long hours.
+   (ID: dialog_23_speaker_1)
+
+2. I used to work for the the daily times but I'm no longer employed.
+   (ID: dialog_115_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i used to work at arby 's in the us .
+   (ID: thebastion)
+
+2. i used to work for a newspaper in downtown nyc when it happened .
+   (ID: BoonTobias)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i used to work for a cable company .
+   (ID: conversation_76)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I used to work at a factory making boxes.
+   (ID: conversation_63_user_1)
+
+
+============================================================

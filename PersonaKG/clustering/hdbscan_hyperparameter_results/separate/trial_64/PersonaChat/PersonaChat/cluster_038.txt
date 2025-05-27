@@ -1,0 +1,33 @@
+CLUSTER 38
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i am a small business owner .
+   (ID: conversation_201)
+
+2. it was too small .
+   (ID: conversation_290)
+
+3. my major is business .
+   (ID: conversation_7)
+
+4. i did a few small roles in tv series .
+   (ID: conversation_2)
+
+5. i come from a small town .
+   (ID: conversation_2)
+
+
+============================================================

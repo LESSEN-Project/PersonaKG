@@ -1,0 +1,36 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.986
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I can t eat shrimp.
+   (ID: conversation_19_user_1)
+
+2. I am a vegan.
+   (ID: conversation_17_user_2)
+
+3. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+4. I do not celebrate any holidays.
+   (ID: conversation_212_user_2)
+
+5. I do not like vegetables.
+   (ID: conversation_4_user_2)
+
+6. I never cook.
+   (ID: conversation_322_user_1)
+
+
+============================================================

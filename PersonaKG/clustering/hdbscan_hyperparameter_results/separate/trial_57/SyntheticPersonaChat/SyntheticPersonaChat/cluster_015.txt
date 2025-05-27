@@ -1,0 +1,54 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.980
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 12 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 12
+
+1. I do not like trying new things.
+   (ID: conversation_624_user_2)
+
+2. I hate popcorn.
+   (ID: conversation_645_user_1)
+
+3. I do not like when people get too close to me.
+   (ID: conversation_523_user_2)
+
+4. I hate seafood but love mexican food.
+   (ID: conversation_420_user_2)
+
+5. I hate cleaning.
+   (ID: conversation_173_user_2)
+
+6. I hate talking to people.
+   (ID: conversation_518_user_2)
+
+7. I hate flowers.
+   (ID: conversation_476_user_2)
+
+8. I hate evil.
+   (ID: conversation_109_user_1)
+
+9. I hate tofu.
+   (ID: conversation_569_user_2)
+
+10. I hate the feeling of chalk.
+   (ID: conversation_571_user_1)
+
+11. I do not like dresses.
+   (ID: conversation_697_user_2)
+
+12. Formal situations make me uncomfortable.
+   (ID: conversation_298_user_1)
+
+
+============================================================

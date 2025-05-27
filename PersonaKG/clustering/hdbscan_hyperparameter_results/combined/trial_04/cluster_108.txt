@@ -1,0 +1,77 @@
+CLUSTER 108
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.950
+
+Dataset distribution in this cluster:
+  MPChat: 2 (15.4%)
+  MSC: 1 (7.7%)
+  PEC: 1 (7.7%)
+  PersonaChat: 6 (46.2%)
+  SyntheticPersonaChat: 3 (23.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. not my favorite pour, but she's a cutie.
+   (ID: SilentRansom)
+
+2. my favorite pizza at my favorite local brewery-phoenix rising bakery/chestnut brew works
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My favorite novel is about a who realizes he's a commander.
+   (ID: dialog_11_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm commander shepard , and this is my favorite street in hampton , virginia .
+   (ID: Machinax)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. my favorite car is the ford mustang .
+   (ID: conversation_185)
+
+2. my favorite pizza is pepperoni .
+   (ID: conversation_206)
+
+3. my favorite hobby is chess .
+   (ID: conversation_149)
+
+4. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+5. my favorite jello is the blue one .
+   (ID: conversation_236)
+
+6. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My favorite fruit is apple.
+   (ID: conversation_277_user_1)
+
+2. Starbucks is my favorite hang out spot.
+   (ID: conversation_268_user_1)
+
+3. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+
+============================================================

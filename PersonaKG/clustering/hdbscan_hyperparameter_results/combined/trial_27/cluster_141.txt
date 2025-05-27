@@ -1,0 +1,78 @@
+CLUSTER 141
+============================================================
+Total statements in cluster: 15
+Cluster persistence (stability): 0.990
+
+Dataset distribution in this cluster:
+  MPChat: 3 (20.0%)
+  MSC: 3 (20.0%)
+  PersonaChat: 5 (33.3%)
+  SyntheticPersonaChat: 4 (26.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. monster cakes are my favorite!
+   (ID: Learning2Grow)
+
+2. made my favorite halibut dish last night!
+   (ID: ChroniclyDope)
+
+3. we made one of my favorite street foods in bolivia.
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+2. Guns and roses is my favorite band.
+   (ID: dialog_6_speaker_1)
+
+3. Batman is my favorite hero.
+   (ID: dialog_95_speaker_2)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. my favorite flower is a rose .
+   (ID: conversation_129)
+
+2. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+3. my favorite color is blue .
+   (ID: conversation_23)
+
+4. i favorite brand of clothing is donna karen .
+   (ID: conversation_213)
+
+5. my favorite player is mike trout .
+   (ID: conversation_103)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. My favorite is rock fish.
+   (ID: conversation_157_user_1)
+
+2. Starbucks is my favorite hang out spot.
+   (ID: conversation_268_user_1)
+
+3. My favorite store is american eagle.
+   (ID: conversation_4_user_2)
+
+4. Magic mike is my favorite movie.
+   (ID: conversation_294_user_2)
+
+
+============================================================

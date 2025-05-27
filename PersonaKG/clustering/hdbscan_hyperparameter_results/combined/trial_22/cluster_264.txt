@@ -1,0 +1,85 @@
+CLUSTER 264
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.880
+
+Dataset distribution in this cluster:
+  FoCus: 1 (7.1%)
+  MPChat: 1 (7.1%)
+  MSC: 2 (14.3%)
+  PEC: 5 (35.7%)
+  PER-CHAT: 4 (28.6%)
+  SyntheticPersonaChat: 1 (7.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I would like to see an old New York neighborhood.
+   (ID: M64VNZMJSA71_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my new fish is perfect, he's beautiful, he looks like linda evangelista
+   (ID: zonumnire)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I like eating at new places.
+   (ID: dialog_16_speaker_2)
+
+2. I'm having trouble finding furniture to fill it. I like my new home. I have a piano. I have room for drawing.
+   (ID: dialog_135_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i 'd rather like the old ones to be remade before we get a new one .
+   (ID: Atemu12)
+
+2. i like that idea , the child invents new games .
+   (ID: snapsnaptomtom)
+
+3. i 'd like to welcome a few new moderators to our team !
+   (ID: Ashex)
+
+4. i do n't like the new one .
+   (ID: sweatervest)
+
+5. i like how gandalf whips his head around in discust at his new enemy .
+   (ID: LightofNew)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. i ' m sort . of in the same boat . except mine doesn ' t go as far as telling me about new guys ! in my opinion that almost seems like she ' s trying to see if you get jealous .
+   (ID: 0ffbddfe94023d7c5849c377e3fd6faac3ddc83c)
+
+2. hey can i ask you a question ? i ' m new to the red pill , and would like another guy ' s opinion on something .
+   (ID: 3fb1292a0bd26711d797fe1a61e6229794c21b68)
+
+3. i ' d like to see the new posts on the subreddit , it is not like i have murdered someone .
+   (ID: 544afc73e94949100186d302e382bea6fc33beb4)
+
+4. yeah i like under pressure , but not the new stuff .
+   (ID: dd5faa5a5f52546a048b117b380f01fc0bb80bfe)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I like to come up with new hairstyles.
+   (ID: conversation_401_user_2)
+
+
+============================================================

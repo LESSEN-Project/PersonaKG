@@ -1,0 +1,36 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.996
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i like to get involved in politics .
+   (ID: conversation_214)
+
+2. i like to go to bars and people watch .
+   (ID: conversation_169)
+
+3. i'm all about family and fun .
+   (ID: conversation_110)
+
+4. i like to party .
+   (ID: conversation_7)
+
+5. i spend a lot of time watching obscure foreign film on netflix .
+   (ID: conversation_253)
+
+6. i visit comic con .
+   (ID: conversation_168)
+
+
+============================================================

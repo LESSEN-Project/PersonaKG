@@ -1,0 +1,39 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.986
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I love bruno mars.
+   (ID: conversation_108_user_1)
+
+2. My favorite song is barbie girl.
+   (ID: conversation_58_user_2)
+
+3. My favorite artist is bob ross.
+   (ID: conversation_187_user_1)
+
+4. I listen to rap.
+   (ID: conversation_123_user_1)
+
+5. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+6. I love folk metal.
+   (ID: conversation_163_user_1)
+
+7. My favorite music is rock and roll.
+   (ID: conversation_7_user_2)
+
+
+============================================================

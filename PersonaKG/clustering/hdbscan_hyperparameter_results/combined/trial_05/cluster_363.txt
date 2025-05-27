@@ -1,0 +1,43 @@
+CLUSTER 363
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (20.0%)
+  PersonaChat: 3 (60.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I like to visit palaces.
+   (ID: OJ5U23I3FV0N_11)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i like to cook .
+   (ID: conversation_17)
+
+2. i like to paint .
+   (ID: conversation_60)
+
+3. i like to travel .
+   (ID: conversation_9)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I like to garden.
+   (ID: conversation_12_user_1)
+
+
+============================================================

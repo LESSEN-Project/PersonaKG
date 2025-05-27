@@ -1,0 +1,131 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 1550
+Cluster persistence (stability): 0.420
+
+Dataset distribution in this cluster:
+  MSC: 2 (0.1%)
+  PEC: 3 (0.2%)
+  PER-CHAT: 1539 (99.3%)
+  PersonaChat: 4 (0.3%)
+  SyntheticPersonaChat: 2 (0.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. My favorite cuisine is thai.
+   (ID: dialog_23_speaker_2)
+
+2. My favorite novel is about a who realizes he's a commander.
+   (ID: dialog_11_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i am doubting many things .
+   (ID: catskhiker)
+
+2. i saved your * favorite * things . "
+   (ID: Sugarpeas)
+
+3. i do neither of these things .
+   (ID: mbw1960)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1539
+
+1. One of my favorite things is stipe.
+   (ID: 372e357e1e3acd2a4dea24aa56a5900a539a9e59)
+
+2. One of my favorite things is reddit.
+   (ID: 6fa65e005cc7ba05dc62c263af1ea289902ce6d1)
+
+3. One of my favorite things is simple macros.
+   (ID: 98f9b074f3fba12c7403be7000f77b6a560c5a02)
+
+4. One of my favorite things is anni-frid lyngstad.
+   (ID: bfbfd4c4caa6b137f79275a24c99808ba3d2305b)
+
+5. One of my favorite things is blitzball.
+   (ID: c018255fd73fced873eb4897821cd82620ba8fe2)
+
+6. One of my favorite things is socialistworker.
+   (ID: 29b9b56e163cbfecbc98e83c436b436aca056a8c)
+
+7. One of my favorite things is singular games.
+   (ID: 5ad91cf15026f9d604e90af77be91ab4f6b7289a)
+
+8. One of my favorite things is terragg.
+   (ID: 853f0ac5afe36274ef0f5bd175c44a220505a4ed)
+
+9. One of my favorite things is sultana.
+   (ID: 1e6ea64fb15fb5b12b1d82a3a5bdced4e3a6559a)
+
+10. One of my favorite things is broli capitol.
+   (ID: 821feb57a838ce1b3e5f4aeb9b8e118113a7b57c)
+
+11. One of my favorite things is kells.
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
+
+12. One of my favorite things is blender.
+   (ID: 92705d87eaa503c0c39e0bda00f6d49fe27c65ef)
+
+13. One of my favorite things is Sony Vegas For Editing.
+   (ID: 207223d61d741a9dd298aa4dd1f8b3c219c05cb7)
+
+14. One of my favorite things is suarez.
+   (ID: 1f3e82e13d88ba22fce8ba80102ccc24b3880ae9)
+
+15. One of my favorite things is challengernot.
+   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+
+16. One of my favorite things is felice.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+17. One of my favorite things is church signs.
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+18. One of my favorite things is hollow front.
+   (ID: 085fd6617562d93906a081366dcf00c632ad37f8)
+
+19. One of my favorite things is move.
+   (ID: d5ff87b3b0a008d93a655ee4d43e9da3b5db7984)
+
+20. One of my favorite things is fried okra.
+   (ID: b779c0f28aaed5c7cbc5476e91a7eb397a6933bb)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. nike cleats are my favorite .
+   (ID: conversation_62)
+
+2. connor mcgregor is my favorite fighter .
+   (ID: conversation_381)
+
+3. my favorite musician in charlie daniels .
+   (ID: conversation_250)
+
+4. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My favorite show is scobby doo.
+   (ID: conversation_172_user_2)
+
+2. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+
+============================================================

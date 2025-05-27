@@ -1,0 +1,127 @@
+CLUSTER 236
+============================================================
+Total statements in cluster: 28
+Cluster persistence (stability): 0.484
+
+Dataset distribution in this cluster:
+  FoCus: 4 (14.3%)
+  MPChat: 1 (3.6%)
+  MSC: 4 (14.3%)
+  PEC: 12 (42.9%)
+  PersonaChat: 4 (14.3%)
+  SyntheticPersonaChat: 3 (10.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 4
+
+1. I like street.
+   (ID: FOZE4Q84M3RX_11)
+
+2. I would like to find hiking trails.
+   (ID: Y7WSG3Z184EX_9)
+
+3. I like Garfield Temple.
+   (ID: VQJADZ97TJ0Z_11)
+
+4. I would like to attend a concert.
+   (ID: VV6OHC4AWH3L_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. do you like my deer?
+   (ID: cuppcatt)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I like to be clean.
+   (ID: dialog_6_speaker_2)
+
+2. I like to get dressed up.
+   (ID: dialog_0_speaker_2)
+
+3. I like mystery.
+   (ID: dialog_5_speaker_2)
+
+4. I like to do canning and whittling for hobbies.
+   (ID: dialog_0_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 12
+
+1. i 'd like the c20 sheet masks - 86305 .
+   (ID: rycheme)
+
+2. i do n't like that mouth .
+   (ID: cometparty)
+
+3. i like it but i ’d like it more if it seemed like the letters had meaning
+   (ID: nate6051)
+
+4. i 'd like princess evangile !
+   (ID: tylock)
+
+5. i would like to climb him like a tree .
+   (ID: buttercup_mauler)
+
+6. i like that he is n't an elf .
+   (ID: monday_madrigal)
+
+7. i might get abs from laughing like this
+   (ID: BoonTobias)
+
+8. i 'd like my natsuki now please
+   (ID: tylock)
+
+9. i like it , but not enough to replace utorrent yet
+   (ID: bmeckel)
+
+10. i had to put it down like ol yeller
+   (ID: ProJokeExplainer)
+
+11. i 'd like to see it with grant wood paintings
+   (ID: wooq)
+
+12. i 'd like the cover system to be fleshed out
+   (ID: oussamarer)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i like alternative rock .
+   (ID: conversation_5)
+
+2. i like to cook .
+   (ID: conversation_17)
+
+3. i like basketball .
+   (ID: conversation_8)
+
+4. i like to go hunting .
+   (ID: conversation_0)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I do not like coffee.
+   (ID: conversation_12_user_2)
+
+2. I like ford cars.
+   (ID: conversation_1_user_2)
+
+3. I like sprite soda.
+   (ID: conversation_20_user_1)
+
+
+============================================================

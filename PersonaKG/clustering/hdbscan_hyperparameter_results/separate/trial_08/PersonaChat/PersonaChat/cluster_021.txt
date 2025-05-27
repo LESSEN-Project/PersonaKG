@@ -1,0 +1,39 @@
+CLUSTER 21
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.942
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i should beverage been born a prince .
+   (ID: conversation_54)
+
+2. my father was born in australia .
+   (ID: conversation_9)
+
+3. i was born in baton rouge .
+   (ID: conversation_138)
+
+4. i'm a female .
+   (ID: conversation_121)
+
+5. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+6. i was born 20 years ago .
+   (ID: conversation_23)
+
+7. i am a female and love to be surrounded by males .
+   (ID: conversation_41)
+
+
+============================================================

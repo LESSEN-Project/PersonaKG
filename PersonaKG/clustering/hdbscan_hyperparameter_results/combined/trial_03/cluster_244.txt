@@ -1,0 +1,51 @@
+CLUSTER 244
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.985
+
+Dataset distribution in this cluster:
+  MPChat: 1 (16.7%)
+  MSC: 2 (33.3%)
+  PEC: 2 (33.3%)
+  PER-CHAT: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my star jasmine is in full bloom and my backyard smells so good!
+   (ID: XandXor)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I am not good at math.
+   (ID: dialog_7_speaker_2)
+
+2. I am good with computers.
+   (ID: dialog_32_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i do appreciate a good soundtrack and a good art style , so that sounds good !
+   (ID: KneelDeGrassTieSon)
+
+2. i have had good service from jt on campbell at westview .
+   (ID: LooksAtClouds)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. who ? what ? why ?   . good luck with all that though .
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+
+
+============================================================

@@ -1,0 +1,206 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 119
+Cluster persistence (stability): 0.618
+
+Dataset distribution in this cluster:
+  MSC: 5 (4.2%)
+  PEC: 23 (19.3%)
+  PER-CHAT: 80 (67.2%)
+  PersonaChat: 6 (5.0%)
+  SyntheticPersonaChat: 5 (4.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I live on the east coast.
+   (ID: dialog_76_speaker_1)
+
+2. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+3. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+4. I live in Florida. I have contacts in Alabama.
+   (ID: dialog_85_speaker_2)
+
+5. I am a woman. I breed mine coons. I live with my brother
+   (ID: dialog_46_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 23
+
+1. i watched lilyhammer , could n't pay me to live in that shithole
+   (ID: BoonTobias)
+
+2. i buy every show i go to so my phone is loaded with live gigs .
+   (ID: iToaditSo)
+
+3. i live in nyc and live near " the mosque " .
+   (ID: ddshroom)
+
+4. i do n’t even live that far from this town !
+   (ID: Dustin_Bromain)
+
+5. i live in north georgia and up here it 's more co - slaw .
+   (ID: hardt0f0rget)
+
+6. i 'm in cocoa and have electronic drums that can be midi controlled ... also live for deep house .
+   (ID: ludaa)
+
+7. i live in dayton and everyone is a bengals fan .
+   (ID: worried_panda)
+
+8. i live in montreal and i find this ridiculous - .
+   (ID: arabguyistall)
+
+9. i live in a rental , couple of bedrooms , a loft and a tree inside
+   (ID: metalbark)
+
+10. i lost my will to live somewhere around section 114
+   (ID: Montag3636)
+
+11. i could n't live with that guilt .
+   (ID: GetItTogether)
+
+12. i live in the sticks but will send prezzies .... captpantha
+   (ID: bugaloo2u2)
+
+13. i live in the united arab emirates and they have the same plug sockets as the uk .
+   (ID: bondo84)
+
+14. i live in berlin and my google now shows berlin .
+   (ID: thed0ctah)
+
+15. i live near buffalo and flamingo .
+   (ID: maullove)
+
+16. i can only poop if a live orchestra is playing in front of me
+   (ID: serverpilot)
+
+17. i live on top of your mother .
+   (ID: DarkMoon99)
+
+18. i live under a bridge
+   (ID: PECOSbravo)
+
+19. i live here and those areas are n't detroit !
+   (ID: giraffecakes)
+
+20. i could live in this song .
+   (ID: BoobieBoobieButtButt)
+
+
+--- PER-CHAT ---
+Total from this dataset: 80
+
+1. live in the bush with nature .
+   (ID: 34f464edef8ed81ef72be258369179fe6e6dcb81)
+
+2. I live in boring america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+3. I live in on tip.
+   (ID: 5078613a782f11088cff05f4503056b040cea999)
+
+4. I live in side stage.
+   (ID: 57e23377d2e20446272558e1ff75f7e0cf1b0049)
+
+5. I live in conservative area.
+   (ID: 80ae19b9093d92fad153af508f37fcd7cd9340ec)
+
+6. I live in ideal convertible territory.
+   (ID: b863480affffa35b0ead5c7bc5daa4c4099c0cee)
+
+7. I live in with pigs.
+   (ID: fca46720f9aa154a0559b1e4d2d28cb0df46b00a)
+
+8. I live in dad.
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+9. I live in with asshole guy.
+   (ID: e3a7bbfa5fde0a706f721c3dc5055b3a8963f79f)
+
+10. I live in edge dogs.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+11. I live in pp stories.
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+12. I live in under impression.
+   (ID: fddeeaa11799939dfe96bc7fae74a22b474aaf20)
+
+13. I live in east side.
+   (ID: feb4a6aeed8e7e14b0592329bd91d7933a93217e)
+
+14. I live in nurse.
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+15. I live in games.
+   (ID: 3261c3c121a386d442cb607ca46561af4f956af5)
+
+16. I live in cage.
+   (ID: f042043ff04e1f2bd28d7c34b7937eb8bf31c76e)
+
+17. I live in off of feedback.
+   (ID: 46a39b1131e50f9cc061bbaf88e15686e5c9359d)
+
+18. i live in europe , so that might be why .
+   (ID: b5bfc53fa7245451bad229f942e351fdc7360321)
+
+19. I live in liking science astronomy.
+   (ID: c69ba20c8286f807f6219a451e4448f951938f31)
+
+20. I live in bubble.
+   (ID: e4fb833c981bca730eb26e161a8c64f302e44d49)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i live with my sisters and they provide me with all my needs .
+   (ID: conversation_336)
+
+2. i still live with my parents .
+   (ID: conversation_24)
+
+3. i live on a boat .
+   (ID: conversation_14)
+
+4. i live in the usa .
+   (ID: conversation_23)
+
+5. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+6. i live down the street from miley cyrus and pnb rock .
+   (ID: conversation_184)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+2. I live a lie.
+   (ID: conversation_288_user_1)
+
+3. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+4. My parents live in kentucky.
+   (ID: conversation_310_user_2)
+
+5. I live in japan and own the biggest mansion in the country.
+   (ID: conversation_383_user_1)
+
+
+============================================================

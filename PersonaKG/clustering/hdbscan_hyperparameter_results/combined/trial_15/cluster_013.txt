@@ -1,0 +1,46 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 3 (50.0%)
+  PER-CHAT: 2 (33.3%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i hope life throws you something to make you less lonely .
+   (ID: SeasonedLemur)
+
+2. i hope they make it to their goal .
+   (ID: CarlofTime)
+
+3. i hope these guys make a comeback in weirdmaggedon pt .
+   (ID: Megan_Bee)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. i hope that didn ' t make a splash .
+   (ID: 6adb1b89bb74c203724e574d02e0735080effe2c)
+
+2. ok . i hope your friends never make a joke around you , lest you deem them an asshole .
+   (ID: 0eb78cb406a9dd9e14938eca8822e3bb1e1ad60a)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I do not have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_62_user_2)
+
+
+============================================================

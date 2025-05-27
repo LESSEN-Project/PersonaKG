@@ -1,0 +1,38 @@
+CLUSTER 145
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 3 (60.0%)
+  SyntheticPersonaChat: 2 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i take vitamin c when i have a cold .
+   (ID: conversation_183)
+
+2. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+3. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I eat all take out.
+   (ID: conversation_2_user_1)
+
+2. I drink 10 cups of tea every day.
+   (ID: conversation_112_user_2)
+
+
+============================================================

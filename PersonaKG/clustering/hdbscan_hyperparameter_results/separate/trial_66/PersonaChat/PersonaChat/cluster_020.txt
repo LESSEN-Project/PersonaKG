@@ -1,0 +1,48 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.815
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i love to read crime novels .
+   (ID: conversation_500)
+
+2. i read a lot .
+   (ID: conversation_168)
+
+3. my cats like to be read to .
+   (ID: conversation_564)
+
+4. i'd rather read a book than watch a movie .
+   (ID: conversation_353)
+
+5. i read sci fi space adventures with a passion .
+   (ID: conversation_25)
+
+6. i read ebooks more than hardcopies .
+   (ID: conversation_423)
+
+7. i read autobiographies before bed .
+   (ID: conversation_552)
+
+8. i use third party programs to read portable documents instead of adobe .
+   (ID: conversation_174)
+
+9. i breed maine coon cats and show them .
+   (ID: conversation_46)
+
+10. when i've nothing else to do , i read books .
+   (ID: conversation_36)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 34
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My befriend is from out of town.
+   (ID: conversation_428_user_2)
+
+2. I have my own channel.
+   (ID: conversation_272_user_2)
+
+3. I can read in english and french.
+   (ID: conversation_156_user_2)
+
+4. I am still a student , but i am gonna be a nurse.
+   (ID: conversation_178_user_2)
+
+5. My masters degree is in italian literature.
+   (ID: conversation_309_user_2)
+
+
+============================================================

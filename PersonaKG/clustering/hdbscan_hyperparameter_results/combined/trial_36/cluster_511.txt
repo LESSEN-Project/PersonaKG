@@ -1,0 +1,54 @@
+CLUSTER 511
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (14.3%)
+  PEC: 1 (14.3%)
+  PER-CHAT: 4 (57.1%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I don't have a passport.
+   (ID: dialog_89_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i don see swingers .
+   (ID: glowinthedark)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. hehehe , whatever you do , don ' t be yourself
+   (ID: 795c678726f71492166b6677c955ce0a48a9b294)
+
+2. hybrids , don ' t have a leaded for it
+   (ID: 2a4bb889e40b61bb1755181c2b46750d3a082604)
+
+3. don ' t you do this to me
+   (ID: 162574c7cc4882122c2781c596a51e5023f21691)
+
+4. don ' t see it .
+   (ID: 43582d67310e995ea85c152bb256b0596144bf82)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I don t own a television.
+   (ID: conversation_243_user_2)
+
+
+============================================================

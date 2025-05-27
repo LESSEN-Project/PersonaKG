@@ -1,0 +1,56 @@
+CLUSTER 445
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 10 (90.9%)
+  SyntheticPersonaChat: 1 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 10
+
+1. I would like to visit a Museum in Jacksonville.
+   (ID: LAU455Y1BO1U_9)
+
+2. I would like to visit some historic center in Bengaluru.
+   (ID: N4W8V4TZG4XD_11)
+
+3. I would like to visit a canal.
+   (ID: 8WL4II03WTP0_7)
+
+4. I would like to visit my cousin in Chile.
+   (ID: LEW58VG9I78X_11)
+
+5. I would like to visit Hungary.
+   (ID: W4CQPY8R6C4Q_11)
+
+6. I would like to visit the Wookey hole caves.
+   (ID: 8GQ0F315ZAPD_9)
+
+7. I like to visit temples.
+   (ID: WXYJ15QP91WP_7)
+
+8. I would like to visit the Adam Mickiewicz Theatre again.
+   (ID: PW1SULL1SY01_11)
+
+9. I like to visit a arena.
+   (ID: PHE863C7IQKS_11)
+
+10. I like to visit Grand Coulee Dam.
+   (ID: E6FC9U7LUUT3_11)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. Many of my former students like to visit me.
+   (ID: conversation_107_user_2)
+
+
+============================================================

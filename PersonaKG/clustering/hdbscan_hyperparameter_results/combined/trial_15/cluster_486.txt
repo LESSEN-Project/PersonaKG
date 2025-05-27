@@ -1,0 +1,47 @@
+CLUSTER 486
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.901
+
+Dataset distribution in this cluster:
+  FoCus: 5 (62.5%)
+  PersonaChat: 3 (37.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 5
+
+1. I don't like forest.
+   (ID: T815O8KC30IG_9)
+
+2. I don't like the high temperatures associated with pyroclastic flows.
+   (ID: G4JZMW0OPV0G_11)
+
+3. I don't like North Korea.
+   (ID: TGZJNX488SLV_11)
+
+4. I don't like to intersection road.
+   (ID: UDGAGMKQ9TQ1_11)
+
+5. I don't like railroad in the vicinity of the city.
+   (ID: NK6WLDJ7W255_7)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i don t like the beach .
+   (ID: conversation_94)
+
+2. i don't like acting .
+   (ID: conversation_154)
+
+3. i don't like my reputation .
+   (ID: conversation_147)
+
+
+============================================================

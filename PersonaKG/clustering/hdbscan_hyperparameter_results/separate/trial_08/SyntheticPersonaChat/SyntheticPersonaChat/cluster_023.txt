@@ -1,0 +1,36 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.883
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I never have had alcohol in my life.
+   (ID: conversation_72_user_2)
+
+2. I haven t had to work a day in my life.
+   (ID: conversation_98_user_2)
+
+3. I cannot wait to start my new life.
+   (ID: conversation_134_user_2)
+
+4. God has always been put first in my life.
+   (ID: conversation_76_user_2)
+
+5. I trust in god.
+   (ID: conversation_109_user_1)
+
+6. Sometimes i feel like i have already been through life once before.
+   (ID: conversation_144_user_2)
+
+
+============================================================

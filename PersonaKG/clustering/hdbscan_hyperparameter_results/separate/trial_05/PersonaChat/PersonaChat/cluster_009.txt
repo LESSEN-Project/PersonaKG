@@ -1,0 +1,36 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i am a profesional translator .
+   (ID: conversation_165)
+
+2. i can speak arabic , english , and french .
+   (ID: conversation_63)
+
+3. i speak fluent german .
+   (ID: conversation_156)
+
+4. i am argentinian .
+   (ID: conversation_59)
+
+5. my last name is spanish , but i tell people that it s italian .
+   (ID: conversation_179)
+
+6. i live in the usa .
+   (ID: conversation_23)
+
+
+============================================================

@@ -1,0 +1,112 @@
+CLUSTER 439
+============================================================
+Total statements in cluster: 23
+Cluster persistence (stability): 0.685
+
+Dataset distribution in this cluster:
+  MPChat: 2 (8.7%)
+  MSC: 1 (4.3%)
+  PEC: 10 (43.5%)
+  PER-CHAT: 5 (21.7%)
+  PersonaChat: 4 (17.4%)
+  SyntheticPersonaChat: 1 (4.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i started a cafe job again!
+   (ID: pocket_kira)
+
+2. some convertible mittens to wear to my cold job!
+   (ID: zonumnire)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My job is on the line in a kitchen.
+   (ID: dialog_186_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 10
+
+1. i already do apple / pear sorting and picking as a job ...
+   (ID: Takumi-Fujiwara)
+
+2. i am repulsed and impressed , nice job
+   (ID: sircucumbers)
+
+3. i started the job depressed and unmotivated .
+   (ID: redandblack555)
+
+4. i sent him to the slog and gave him a job .
+   (ID: deputydan_scubaman)
+
+5. i ’m proud of sticking to one job for a while now !
+   (ID: mrhenk9)
+
+6. i 'd rather earn a job than have skydaddy drop it in my lap , thank you .
+   (ID: NyxPeregrinus)
+
+7. i took some photos of myself and sent them to him saying i was off to a job interview .
+   (ID: travelingkiwi)
+
+8. i am applying for a receptionist job at a backpackers hostel .
+   (ID: travelingkiwi)
+
+9. i hated that job only worked there for a month !
+   (ID: Tjgl)
+
+10. i would be so screwed if i was suddenly out of a job .
+   (ID: chirpyboyandbartjr)
+
+
+--- PER-CHAT ---
+Total from this dataset: 5
+
+1. blofeld and odd job
+   (ID: e2865528dd17e86320ca523d3db462efa29e7ca7)
+
+2. what is your job , then ?
+   (ID: 78a7be65b9d2e7cebf18280c07d4f44e6f2b3417)
+
+3. do your job above and beyond what is expected of you .
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+4. i forgot what ' s my job father , may you remind me of it ?
+   (ID: 455d2820736b8e82503d5eeacd6d1a8fa4682a68)
+
+5. it ' s part of my job .
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i have a marketing job .
+   (ID: conversation_267)
+
+2. i had to get a job early as a child .
+   (ID: conversation_116)
+
+3. i do not have a job .
+   (ID: conversation_120)
+
+4. i take pride in my job managing the restaurant .
+   (ID: conversation_189)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My next job will be in the federal court.
+   (ID: conversation_194_user_2)
+
+
+============================================================

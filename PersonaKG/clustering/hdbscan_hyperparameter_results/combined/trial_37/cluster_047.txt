@@ -1,0 +1,49 @@
+CLUSTER 47
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.977
+
+Dataset distribution in this cluster:
+  MSC: 2 (28.6%)
+  PER-CHAT: 4 (57.1%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I'm currently unemployed and in college for social sciences. I used to  work at a processing center for long hours. I want to become a social worker. I went back to school so I can change jobs.
+   (ID: dialog_23_speaker_1)
+
+2. I want my work to be impactful.
+   (ID: dialog_28_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. for my wifi to work on both christmas eve and christmas . they are the two days i don ' t do any work at all and just want to veg and play playstation and watch tv .
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+2. the majority of us are proud of you ! because a dream home is worth it . that ' s why you save up and work hard , to get the things you want . you ' d want to have a nice comfortable life outside of work hence the dream home lol .
+   (ID: 8031d2235c5c79aed4436e575113c1efb8fbe777)
+
+3. if this as a issue for you , then tell your gm that you don ' t want to work at that store and explain your experiences if necessary .
+   (ID: a61db1f2f0a3d15376fd168a1637c028f25100e1)
+
+4. digit , sick of life already , its so terrible , we work until we die and i just don  t want that .
+   (ID: 6faff6ad4f2fa64f202b2b60f154aba162159b2f)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I will work hard for whatever i want.
+   (ID: conversation_66_user_2)
+
+
+============================================================

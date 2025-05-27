@@ -1,0 +1,139 @@
+CLUSTER 104
+============================================================
+Total statements in cluster: 62
+Cluster persistence (stability): 0.812
+
+Dataset distribution in this cluster:
+  MPChat: 1 (1.6%)
+  MSC: 2 (3.2%)
+  PEC: 3 (4.8%)
+  PER-CHAT: 50 (80.6%)
+  PersonaChat: 4 (6.5%)
+  SyntheticPersonaChat: 2 (3.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. this is my dilly cat
+   (ID: BareFootMumma)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I push a super car.
+   (ID: dialog_47_speaker_1)
+
+2. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i have a gt-8 .
+   (ID: bbrandann)
+
+2. i have a 12 si .
+   (ID: mulletprooftiger)
+
+3. i have the 3500 for the evo .
+   (ID: dkinmn)
+
+
+--- PER-CHAT ---
+Total from this dataset: 50
+
+1. I own a rx.
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+2. I own a input.
+   (ID: 79e5228419de270c01297915dbce56be0063c52b)
+
+3. I own a pe scythe.
+   (ID: f114f40c03e5812464be61882b264a0abe2a545e)
+
+4. I own a regulator.
+   (ID: e87275c4c3cfea671e40cbeff9a12d5fc1372f97)
+
+5. I own a n.
+   (ID: a304d2b10646e73686547edafa852cc87a894eb5)
+
+6. I own a steam guard.
+   (ID: a69486a9dd78d1ba9533599ba57eac9079ca3c8d)
+
+7. I own a tl.
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+
+8. I own a stopwatch.
+   (ID: 23394798067974e95a922a95c6609d16ca1b11dd)
+
+9. I own a sd card.
+   (ID: 870d9d198f856764296262192823c935f1daf781)
+
+10. I own a fire gear.
+   (ID: a778c9b10000a3e15377e87997ef5bea46cfe33f)
+
+11. I own a cursor.
+   (ID: 1160c0c34e8b0184126a6e35a5fa982003442bde)
+
+12. I own a jawas.
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+13. I own a pgwp.
+   (ID: 3cc393500aaac3a2ee1cd96955cee486bb062a46)
+
+14. I own a fief.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+15. I own a klashnikov.
+   (ID: b3a8447862df1e30a18d38c5c0ad1c8595c18d4c)
+
+16. I own a 5820k.
+   (ID: 32520dc340c18ed101e3d5ea02b3a7bca25dcc29)
+
+17. I own a drive.
+   (ID: 2c5816cbbee60e3c348eb04900ea7453604cff82)
+
+18. I own a pee.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+19. I own a b2525.
+   (ID: 11afef34c365bb84fac03c7ec8de5b06e6c54b1c)
+
+20. I own a part.
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i have a dog named socks .
+   (ID: conversation_172)
+
+2. i drive a jag .
+   (ID: conversation_169)
+
+3. i drive a prius .
+   (ID: conversation_68)
+
+4. i have a dog named bob .
+   (ID: conversation_27)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I have a lizard named nagini.
+   (ID: conversation_305_user_2)
+
+2. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+
+============================================================

@@ -1,0 +1,39 @@
+CLUSTER 11
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I am blonde.
+   (ID: conversation_16_user_1)
+
+2. I have one blue eye and one hazel eye.
+   (ID: conversation_59_user_2)
+
+3. I am tall.
+   (ID: conversation_12_user_1)
+
+4. I am also round.
+   (ID: conversation_33_user_1)
+
+5. I have brown hair.
+   (ID: conversation_3_user_1)
+
+6. I am bald.
+   (ID: conversation_4_user_1)
+
+7. I have big face cheeks.
+   (ID: conversation_33_user_1)
+
+
+============================================================

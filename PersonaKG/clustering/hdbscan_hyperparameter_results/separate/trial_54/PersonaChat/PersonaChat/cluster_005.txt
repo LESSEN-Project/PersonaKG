@@ -1,0 +1,42 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.770
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i'm enrolled in several college credit courses .
+   (ID: conversation_87)
+
+2. i graduated with a statistics degree .
+   (ID: conversation_158)
+
+3. i recently made the college baseball team .
+   (ID: conversation_103)
+
+4. i graduated college in 2016 .
+   (ID: conversation_70)
+
+5. the idea of working is not my cup of tea .
+   (ID: conversation_110)
+
+6. i'm in college .
+   (ID: conversation_7)
+
+7. i am a college student who is a full time working mom .
+   (ID: conversation_21)
+
+8. i went to a community college and got a degree in communication .
+   (ID: conversation_153)
+
+
+============================================================

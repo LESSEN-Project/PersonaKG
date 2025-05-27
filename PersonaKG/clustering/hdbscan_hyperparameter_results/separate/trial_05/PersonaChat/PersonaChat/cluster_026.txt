@@ -1,0 +1,36 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.991
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. summer is my favorite season .
+   (ID: conversation_24)
+
+2. i don't like my reputation .
+   (ID: conversation_147)
+
+3. my favorite pass time is gazing at clouds .
+   (ID: conversation_29)
+
+4. i love the beach .
+   (ID: conversation_7)
+
+5. i don t like the beach .
+   (ID: conversation_94)
+
+6. i love sunsets .
+   (ID: conversation_148)
+
+
+============================================================

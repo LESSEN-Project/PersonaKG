@@ -1,0 +1,45 @@
+CLUSTER 35
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.984
+
+Dataset distribution in this cluster:
+  PersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i drive a prius .
+   (ID: conversation_68)
+
+2. i know how to drive a stickshift .
+   (ID: conversation_391)
+
+3. i m a truck driver in the south .
+   (ID: conversation_82)
+
+4. i drive 300 mile a week for work .
+   (ID: conversation_536)
+
+5. i sometimes drive fast .
+   (ID: conversation_427)
+
+6. i drive a lifted chevy truck .
+   (ID: conversation_550)
+
+7. i drive a jag .
+   (ID: conversation_169)
+
+8. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+9. i do not drive .
+   (ID: conversation_56)
+
+
+============================================================

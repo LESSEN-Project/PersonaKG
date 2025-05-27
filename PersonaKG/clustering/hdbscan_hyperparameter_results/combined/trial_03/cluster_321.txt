@@ -1,0 +1,46 @@
+CLUSTER 321
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.833
+
+Dataset distribution in this cluster:
+  PEC: 4 (66.7%)
+  PER-CHAT: 1 (16.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i went for p320 .
+   (ID: 1st_Lt_Unson)
+
+2. i see it went well for you .
+   (ID: CarlofTime)
+
+3. i went back when i was 28 .
+   (ID: deputydan_scubaman)
+
+4. i went through the mue as well and do n't see anything .
+   (ID: rycheme)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. i came extremely close to killing myself a while ago
+   (ID: d786fcd0afbed17f795e41e12bf7c85d045d2a0f)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I went to stanford.
+   (ID: conversation_73_user_2)
+
+
+============================================================

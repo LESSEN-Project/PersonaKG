@@ -1,0 +1,77 @@
+CLUSTER 316
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.933
+
+Dataset distribution in this cluster:
+  FoCus: 1 (7.7%)
+  MSC: 1 (7.7%)
+  PEC: 2 (15.4%)
+  PersonaChat: 4 (30.8%)
+  SyntheticPersonaChat: 5 (38.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i ’m from corvallis .
+   (ID: godspeedone)
+
+2. i lived in wisconsin for awhile , too .
+   (ID: MILeft)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. my father was also in the military .
+   (ID: conversation_89)
+
+2. my father worked for ge .
+   (ID: conversation_11)
+
+3. my father was born in australia .
+   (ID: conversation_9)
+
+4. my mother was born in ireland .
+   (ID: conversation_38)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+2. My grandma is from denmark.
+   (ID: conversation_44_user_2)
+
+3. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+4. I was born in baton rouge.
+   (ID: conversation_69_user_2)
+
+5. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+
+============================================================

@@ -1,0 +1,66 @@
+CLUSTER 302
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.879
+
+Dataset distribution in this cluster:
+  MSC: 1 (9.1%)
+  PEC: 7 (63.6%)
+  PersonaChat: 1 (9.1%)
+  SyntheticPersonaChat: 2 (18.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I prefer wearing a belt.
+   (ID: dialog_31_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i prefer to shout " excelsior ! "
+   (ID: wooq)
+
+2. i prefer the term ' applied ' philosophy
+   (ID: Shrub74)
+
+3. i prefer slammed stems and parallel to top tube handlebars : \
+   (ID: RonaldFuckingPaul)
+
+4. i prefer natural .
+   (ID: Sabiola)
+
+5. i 'd prefer zawk tirson for my name .
+   (ID: CheapyPipe)
+
+6. i prefer dancing ladies .
+   (ID: harumpf)
+
+7. i prefer burgerritaville .
+   (ID: bmeckel)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I prefer headsets over earbuds.
+   (ID: conversation_14_user_2)
+
+2. I prefer texting over phone calls.
+   (ID: conversation_41_user_2)
+
+
+============================================================

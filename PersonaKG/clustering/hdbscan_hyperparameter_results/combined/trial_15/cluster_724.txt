@@ -1,0 +1,90 @@
+CLUSTER 724
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.929
+
+Dataset distribution in this cluster:
+  FoCus: 2 (14.3%)
+  MPChat: 3 (21.4%)
+  MSC: 3 (21.4%)
+  PEC: 2 (14.3%)
+  PER-CHAT: 1 (7.1%)
+  PersonaChat: 2 (14.3%)
+  SyntheticPersonaChat: 1 (7.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I am living in a house which has a tennis court.
+   (ID: D4619DV1O1OP_11)
+
+2. I have a Neem tree at my house.
+   (ID: V3LNPA1FT8D2_11)
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. a star trail over my house in on, canada [oc] [2304x2880]
+   (ID: markoshino)
+
+2. this badass wood burning stove is in the house i'm moving into.
+   (ID: ChroniclyDope)
+
+3. i found a bird's nest in the flower box at my house.
+   (ID: gelimausi)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I sold my house.
+   (ID: dialog_37_speaker_1)
+
+2. The pitbull I have weighs twice as much as the kitten in the house.
+   (ID: dialog_85_speaker_2)
+
+3. My house in in the bronx.
+   (ID: dialog_84_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i can walk there from my house ....
+   (ID: notlikethat1)
+
+2. i keep mine under the house .
+   (ID: IgnoranceIsAVirus)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. anything off the shelf at jared ' s house .
+   (ID: 8e22144947225f2bd7d950ea1b4044909a8653ae)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i do the shopping in my house .
+   (ID: conversation_137)
+
+2. my brother is currently couch surfing at my house .
+   (ID: conversation_46)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am buying a house.
+   (ID: conversation_93_user_1)
+
+
+============================================================

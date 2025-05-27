@@ -1,0 +1,33 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I read ebooks more than hardcopies.
+   (ID: conversation_66_user_1)
+
+2. I can read in english and french.
+   (ID: conversation_156_user_2)
+
+3. I learned how to reads when i was three.
+   (ID: conversation_156_user_2)
+
+4. I read three books a week.
+   (ID: conversation_156_user_2)
+
+5. I enjoy reading.
+   (ID: conversation_68_user_2)
+
+
+============================================================

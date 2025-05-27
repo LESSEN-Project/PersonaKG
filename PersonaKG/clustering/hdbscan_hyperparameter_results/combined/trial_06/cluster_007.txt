@@ -1,0 +1,179 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 47
+Cluster persistence (stability): 0.924
+
+Dataset distribution in this cluster:
+  MSC: 7 (14.9%)
+  PEC: 9 (19.1%)
+  PER-CHAT: 19 (40.4%)
+  PersonaChat: 9 (19.1%)
+  SyntheticPersonaChat: 3 (6.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 7
+
+1. My name is Jake.
+   (ID: dialog_100_speaker_2)
+
+2. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+3. My name is Vladimir.
+   (ID: dialog_100_speaker_1)
+
+4. My name is Kim.
+   (ID: dialog_107_speaker_2)
+
+5. I've a high voice.
+   (ID: dialog_3_speaker_1)
+
+6. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+7. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 9
+
+1. i 'm a shepard .
+   (ID: jesuschrysler)
+
+2. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+3. i 'm k - boy
+   (ID: GitFloowSnaake)
+
+4. i am a comedy master
+   (ID: ChallengeTaken99)
+
+5. i 'm groot !
+   (ID: meteoriteminer)
+
+6. i am skuld .
+   (ID: Ooer)
+
+7. i 'm butcherpete .
+   (ID: JacredCat)
+
+8. i am confu - shan
+   (ID: saharaspberry)
+
+9. i 'm jordan ward !
+   (ID: amirman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 19
+
+1. I am scott.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+2. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+3. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+4. I am king   orcs.
+   (ID: 5fa74a7d6a70c6f2f8a149864f494ac72eefd3e4)
+
+5. I am bird of prey.
+   (ID: 162574c7cc4882122c2781c596a51e5023f21691)
+
+6. I am threat to the world.
+   (ID: 98df62eadd0a0c80a6084d5e352985209b46cce9)
+
+7. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+8. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+9. I am serial killer.
+   (ID: e91d4ec377d82dfdf21d71b4dc685a96ed60ea3d)
+
+10. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+11. I am drowinin.
+   (ID: a77a8bcaa391d8b6584d32e6ad243e71297d7258)
+
+12. I am v.
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+13. I am arthur morgan.
+   (ID: 6573f6a8f26b8c23dc16d278f5c2c32e67af1e5b)
+
+14. I am kid   rod trip.
+   (ID: 7c0a90108389e898ab80f1c7af44e170b85c6d76)
+
+15. I am megan.
+   (ID: 589a27cacaffb5126785db9f91c141a3cea2daae)
+
+16. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+17. I am culchie.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+18. I am ace.
+   (ID: 4eddf833981a5600b4abc53d564950e97ee755c4)
+
+19. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i am excellent at playing pool .
+   (ID: conversation_390)
+
+2. my name is omar .
+   (ID: conversation_42)
+
+3. i train horses for a living .
+   (ID: conversation_66)
+
+4. my name is todd .
+   (ID: conversation_119)
+
+5. i work as a stand up comedian .
+   (ID: conversation_2)
+
+6. i m a truck driver in the south .
+   (ID: conversation_82)
+
+7. i'm an accountant .
+   (ID: conversation_305)
+
+8. my name is gerald .
+   (ID: conversation_207)
+
+9. i'm a dancer .
+   (ID: conversation_10)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I am a roofer.
+   (ID: conversation_384_user_1)
+
+2. My name is nancy.
+   (ID: conversation_58_user_2)
+
+3. I work on wall street.
+   (ID: conversation_148_user_2)
+
+
+============================================================

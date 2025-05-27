@@ -1,0 +1,60 @@
+CLUSTER 752
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.939
+
+Dataset distribution in this cluster:
+  MSC: 1 (11.1%)
+  PEC: 6 (66.7%)
+  PersonaChat: 1 (11.1%)
+  SyntheticPersonaChat: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I wear skirts.
+   (ID: dialog_94_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i will give you a corduroy blazer to wear , and you must only utter statements such as this .
+   (ID: Evref)
+
+2. i never wear a bra .
+   (ID: Sabiola)
+
+3. i have to wear a helmet too
+   (ID: Lifes6Midnight)
+
+4. i once made habanero chili , and neglected to wear gloves .
+   (ID: wooq)
+
+5. i wear my glasses in the shower
+   (ID: Takumi-Fujiwara)
+
+6. i do n't wear them generally but whaaat ?
+   (ID: mylescloutier)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i wear contacts .
+   (ID: conversation_3)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I only wear silver jewelry.
+   (ID: conversation_157_user_2)
+
+
+============================================================

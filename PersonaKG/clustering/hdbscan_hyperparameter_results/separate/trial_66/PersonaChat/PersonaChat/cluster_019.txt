@@ -1,0 +1,39 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i have a gun collection at home .
+   (ID: conversation_405)
+
+2. i have 23 cats at home .
+   (ID: conversation_60)
+
+3. we own our home .
+   (ID: conversation_30)
+
+4. my wife stays home with our kids .
+   (ID: conversation_30)
+
+5. i've a vacation home in the mountains .
+   (ID: conversation_477)
+
+6. i work at home on my computer .
+   (ID: conversation_236)
+
+7. my daddy brings home flowers for me .
+   (ID: conversation_730)
+
+
+============================================================

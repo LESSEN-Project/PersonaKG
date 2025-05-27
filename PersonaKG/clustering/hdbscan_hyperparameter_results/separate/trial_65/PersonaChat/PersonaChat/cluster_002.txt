@@ -1,0 +1,36 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i am bisexual .
+   (ID: conversation_159)
+
+2. i m single .
+   (ID: conversation_95)
+
+3. i'm married to a man .
+   (ID: conversation_152)
+
+4. i am getting married in six months .
+   (ID: conversation_101)
+
+5. i got married last year .
+   (ID: conversation_14)
+
+6. i am a female and love to be surrounded by males .
+   (ID: conversation_41)
+
+
+============================================================

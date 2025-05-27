@@ -1,0 +1,39 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.962
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. my father was born in australia .
+   (ID: conversation_9)
+
+2. i was the first born child .
+   (ID: conversation_127)
+
+3. i was born 20 years ago .
+   (ID: conversation_23)
+
+4. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+5. i should beverage been born a prince .
+   (ID: conversation_54)
+
+6. i was born in baton rouge .
+   (ID: conversation_138)
+
+7. i'm pregnant with my first child .
+   (ID: conversation_40)
+
+
+============================================================

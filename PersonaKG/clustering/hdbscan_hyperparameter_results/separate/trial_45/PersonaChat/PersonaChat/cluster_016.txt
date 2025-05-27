@@ -1,0 +1,42 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.984
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i swim often .
+   (ID: conversation_143)
+
+2. i know how to count cards in blackjack .
+   (ID: conversation_158)
+
+3. i'm a dancer .
+   (ID: conversation_10)
+
+4. i am very inquisitive and enjoy learning new things .
+   (ID: conversation_193)
+
+5. i'm very good at math and science .
+   (ID: conversation_122)
+
+6. i'm very athletic .
+   (ID: conversation_3)
+
+7. i play d and d .
+   (ID: conversation_54)
+
+8. i'm a goalie .
+   (ID: conversation_62)
+
+
+============================================================

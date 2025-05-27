@@ -1,0 +1,36 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.939
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I m a sixth grade teacher.
+   (ID: conversation_91_user_2)
+
+2. My wife use to be a teacher.
+   (ID: conversation_154_user_1)
+
+3. I like to use a lot of exclamation marks when i type.
+   (ID: conversation_122_user_2)
+
+4. I broke my nose in 5th grade.
+   (ID: conversation_114_user_2)
+
+5. I use a cane to help me get around.
+   (ID: conversation_25_user_1)
+
+6. I use to compete in beauty pageants.
+   (ID: conversation_118_user_2)
+
+
+============================================================

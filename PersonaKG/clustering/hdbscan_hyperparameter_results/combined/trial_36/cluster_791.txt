@@ -1,0 +1,55 @@
+CLUSTER 791
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.903
+
+Dataset distribution in this cluster:
+  MPChat: 7 (77.8%)
+  PEC: 1 (11.1%)
+  PER-CHAT: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 7
+
+1. [i ate] duroc pork belly bun
+   (ID: patm28)
+
+2. [i ate] cubano
+   (ID: patm28)
+
+3. [i ate] egg while frittata with arugula cucumbers avocado and tomatoes.
+   (ID: patm28)
+
+4. [i ate] avocado toast
+   (ID: patm28)
+
+5. i embroidered another hardanger easter egg.
+   (ID: gelimausi)
+
+6. [i ate] pakora, tikka masala, and naan
+   (ID: onemantwohands)
+
+7. [i ate] a creme brulee donut, a tiramisu donut, and a pumpkin cheesecake donut.
+   (ID: VodkaWithSnowflakes)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i ate too many paaaaancaaaaaakes
+   (ID: ProJokeExplainer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I own a egg.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+
+============================================================

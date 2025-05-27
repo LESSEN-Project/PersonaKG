@@ -1,0 +1,39 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I enjoy skiing.
+   (ID: conversation_7_user_2)
+
+2. I love nighttime.
+   (ID: conversation_52_user_2)
+
+3. I love to larp.
+   (ID: conversation_86_user_1)
+
+4. I enjoy walking around the park.
+   (ID: conversation_21_user_2)
+
+5. I love the beach.
+   (ID: conversation_171_user_2)
+
+6. My favorite place is the mountains.
+   (ID: conversation_441_user_1)
+
+7. I like to go to comic con.
+   (ID: conversation_137_user_2)
+
+
+============================================================

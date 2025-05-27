@@ -1,0 +1,42 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. my father worked for ge .
+   (ID: conversation_11)
+
+2. my mother was a nurse .
+   (ID: conversation_45)
+
+3. my father was also in the military .
+   (ID: conversation_89)
+
+4. i used to work for a cable company .
+   (ID: conversation_76)
+
+5. my father is in prison .
+   (ID: conversation_146)
+
+6. both my parents were teachers .
+   (ID: conversation_19)
+
+7. my mom is a janitor .
+   (ID: conversation_39)
+
+8. my father was an author .
+   (ID: conversation_9)
+
+
+============================================================

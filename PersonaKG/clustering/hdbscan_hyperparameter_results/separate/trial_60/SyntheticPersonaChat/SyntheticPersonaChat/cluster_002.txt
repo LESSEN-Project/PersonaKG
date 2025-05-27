@@ -1,0 +1,33 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I am an athlete.
+   (ID: conversation_50_user_2)
+
+2. This is my second year in the league.
+   (ID: conversation_219_user_2)
+
+3. I had 128 tackles last year.
+   (ID: conversation_323_user_2)
+
+4. My position is linebacker.
+   (ID: conversation_323_user_2)
+
+5. I have played since i was 4 years old.
+   (ID: conversation_94_user_2)
+
+
+============================================================

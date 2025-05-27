@@ -1,0 +1,42 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.977
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+2. i am lactose intolerant .
+   (ID: conversation_307)
+
+3. i m allergic to shellfish .
+   (ID: conversation_28)
+
+4. its good to eat a lot of veggies .
+   (ID: conversation_137)
+
+5. i am on a low carb diet .
+   (ID: conversation_227)
+
+6. i take vitamin c when i have a cold .
+   (ID: conversation_183)
+
+7. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+8. i've problems chewing my food .
+   (ID: conversation_126)
+
+
+============================================================

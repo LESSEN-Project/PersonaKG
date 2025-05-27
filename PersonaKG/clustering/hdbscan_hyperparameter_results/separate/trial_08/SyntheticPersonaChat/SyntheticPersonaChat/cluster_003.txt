@@ -1,0 +1,39 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.916
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I m a judge in the circuit court.
+   (ID: conversation_194_user_2)
+
+2. My next job will be in the federal court.
+   (ID: conversation_194_user_2)
+
+3. I do not want a job.
+   (ID: conversation_0_user_1)
+
+4. I got a new job.
+   (ID: conversation_110_user_1)
+
+5. I m looking for a job.
+   (ID: conversation_70_user_1)
+
+6. I have a job as a dj at a radio station.
+   (ID: conversation_25_user_1)
+
+7. I take pride in my job managing the restaurant.
+   (ID: conversation_47_user_2)
+
+
+============================================================

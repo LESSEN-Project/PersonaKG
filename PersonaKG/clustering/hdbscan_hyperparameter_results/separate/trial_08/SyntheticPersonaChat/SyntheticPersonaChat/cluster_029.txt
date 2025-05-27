@@ -1,0 +1,39 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.823
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I once drove a car ! my friend told me what to do while i drove.
+   (ID: conversation_26_user_1)
+
+2. I like being weird.
+   (ID: conversation_119_user_1)
+
+3. Ferrari is my favorite car company.
+   (ID: conversation_142_user_2)
+
+4. I have a friend group , but i do not like any of them.
+   (ID: conversation_127_user_2)
+
+5. I lease my car.
+   (ID: conversation_5_user_1)
+
+6. My car is green and smells weird.
+   (ID: conversation_44_user_2)
+
+7. I lost my arm in a car accident.
+   (ID: conversation_141_user_2)
+
+
+============================================================

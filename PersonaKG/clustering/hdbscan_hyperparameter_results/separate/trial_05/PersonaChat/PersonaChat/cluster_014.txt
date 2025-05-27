@@ -1,0 +1,42 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.987
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. my class has 26 kids .
+   (ID: conversation_70)
+
+2. the idea of working is not my cup of tea .
+   (ID: conversation_110)
+
+3. i cannot hold down a job for very long .
+   (ID: conversation_197)
+
+4. i do not have a job .
+   (ID: conversation_120)
+
+5. i had to get a job early as a child .
+   (ID: conversation_116)
+
+6. i do not like kids .
+   (ID: conversation_154)
+
+7. i do not like beer .
+   (ID: conversation_198)
+
+8. i don't like feeling controlled .
+   (ID: conversation_147)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. nike cleats are my favorite .
+   (ID: conversation_62)
+
+2. i just got a new sweater .
+   (ID: conversation_290)
+
+3. i just bought new hoop earrings .
+   (ID: conversation_218)
+
+4. i just dyed my hair hot pink with purple highlights .
+   (ID: conversation_149)
+
+5. i just bought a new pair of sneakers and they feel great .
+   (ID: conversation_385)
+
+
+============================================================

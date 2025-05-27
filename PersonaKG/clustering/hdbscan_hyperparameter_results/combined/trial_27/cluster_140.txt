@@ -1,0 +1,89 @@
+CLUSTER 140
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.924
+
+Dataset distribution in this cluster:
+  MPChat: 3 (17.6%)
+  MSC: 3 (17.6%)
+  PEC: 1 (5.9%)
+  PersonaChat: 8 (47.1%)
+  SyntheticPersonaChat: 2 (11.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. canada is my favorite.
+   (ID: dudeinthepnw)
+
+2. my favorite pizza at my favorite local brewery-phoenix rising bakery/chestnut brew works
+   (ID: onemantwohands)
+
+3. not my favorite pour, but she's a cutie.
+   (ID: SilentRansom)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. My favorite novel is about a who realizes he's a commander.
+   (ID: dialog_11_speaker_1)
+
+2. Catching walleye is a favorite sport of mine.
+   (ID: dialog_81_speaker_1)
+
+3. Acdc is my favorite band.
+   (ID: dialog_139_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm commander shepard , and this is my favorite street in hampton , virginia .
+   (ID: Machinax)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. my favorite pizza is pepperoni .
+   (ID: conversation_206)
+
+2. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+3. my favorite band is up .
+   (ID: conversation_329)
+
+4. my favorite jello is the blue one .
+   (ID: conversation_236)
+
+5. my favorite hobby is chess .
+   (ID: conversation_149)
+
+6. my favorite car is the ford mustang .
+   (ID: conversation_185)
+
+7. my favorite beer is coors .
+   (ID: conversation_321)
+
+8. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My favorite fruit is apple.
+   (ID: conversation_277_user_1)
+
+2. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+
+============================================================

@@ -1,0 +1,39 @@
+CLUSTER 21
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.995
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i have brown hair .
+   (ID: conversation_3)
+
+2. my favorite color is blue .
+   (ID: conversation_23)
+
+3. i have ink stains on all my shirts .
+   (ID: conversation_31)
+
+4. i've three tattoos .
+   (ID: conversation_56)
+
+5. i just dyed my hair hot pink with purple highlights .
+   (ID: conversation_149)
+
+6. my favorite flower is a rose .
+   (ID: conversation_129)
+
+7. my mom and dad are both red headed .
+   (ID: conversation_156)
+
+
+============================================================
