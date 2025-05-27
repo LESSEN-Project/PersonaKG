@@ -1,0 +1,51 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.989
+
+Dataset distribution in this cluster:
+  PersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 11
+
+1. i work at a museum .
+   (ID: conversation_32)
+
+2. i currently work at target .
+   (ID: conversation_160)
+
+3. i drive a prius .
+   (ID: conversation_68)
+
+4. i work for a large law firm .
+   (ID: conversation_30)
+
+5. i help around with bookkeeping and tours .
+   (ID: conversation_20)
+
+6. i'm a waitress at a popular houston club .
+   (ID: conversation_77)
+
+7. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+8. i work on cars for a living .
+   (ID: conversation_18)
+
+9. i work as a stand up comedian .
+   (ID: conversation_2)
+
+10. i work at a smoothie shop .
+   (ID: conversation_12)
+
+11. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+
+============================================================

@@ -1,0 +1,468 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 1897
+Cluster persistence (stability): 0.945
+
+Dataset distribution in this cluster:
+  FoCus: 92 (4.8%)
+  MPChat: 176 (9.3%)
+  MSC: 68 (3.6%)
+  PEC: 238 (12.5%)
+  PER-CHAT: 1225 (64.6%)
+  PersonaChat: 66 (3.5%)
+  SyntheticPersonaChat: 32 (1.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 92
+
+1. I would like to visit Auckland.
+   (ID: FOZE4Q84M3RX_11)
+
+2. I would like to travel through British Columbia.
+   (ID: BW2JVSJEMYHL_11)
+
+3. I wish to see the Cote D'Azur.
+   (ID: VQN3MX06CHI1_11)
+
+4. I am living in Cambusbarron.
+   (ID: X4XPZG2COY57_11)
+
+5. I would like to visit Hungary.
+   (ID: W4CQPY8R6C4Q_11)
+
+6. I enjoy Richard Russo.
+   (ID: NR9LNBMYKSX6_9)
+
+7. I love going Geocaching.
+   (ID: X4XPZG2COY57_11)
+
+8. I am interested in rainforests.
+   (ID: U2VHOEDA278F_11)
+
+9. I hope to visit more historic places.
+   (ID: XXU24CBOXMRE_7)
+
+10. I am living in Citrus from my birth.
+   (ID: OII32NSNR2Q2_7)
+
+11. I like to watch movies about stories of the Knights Templar.
+   (ID: EP5CCW821JAW_11)
+
+12. I like marshes.
+   (ID: SJS6GHEH7ZIW_11)
+
+13. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+14. I love aqueducts.
+   (ID: GC9BAJTK54F1_11)
+
+15. I love Stourbridge.
+   (ID: 72MY00U8UEGB_11)
+
+16. I like Paul Andreu work.
+   (ID: 9LPSSRYT28ZD_11)
+
+17. I would like to camp at Đerdap national park.
+   (ID: HY8G2PNPA8VA_11)
+
+18. I love mumbai.
+   (ID: LFDYLQP6HP80_7)
+
+19. I like Kent.
+   (ID: T9JPYSSWD7NW_11)
+
+20. I love dry falls due to its nature.
+   (ID: E6FC9U7LUUT3_11)
+
+
+--- MPChat ---
+Total from this dataset: 176
+
+1. crocheted chandelure and shiny chandelure i made
+   (ID: KnitPurlPrint)
+
+2. finished owl pillow, as a birthday gift to my dad
+   (ID: Winter246)
+
+3. i made a cute black tip reef shark!
+   (ID: KnitPurlPrint)
+
+4. i got a bunch of skeins at a sale and made this collage :)
+   (ID: skorletun)
+
+5. i made a canadian eggs benedict and double fried hash browns this morning and it was delicious.
+   (ID: cookinwithclint)
+
+6. granny stripe boutique bag -- just something i whipped up today [pattern in comments]
+   (ID: blboppie)
+
+7. engagement cake i made for my sister and her fiancé.
+   (ID: ellielumos)
+
+8. a bundle of arizona sunset inspired yarn i dyed for a pair of glovelets im making a friend!
+   (ID: green-egg-and-ham)
+
+9. look at these adorable milkshakes i crocheted!
+   (ID: Louiesloops)
+
+10. some crocheted pacman ghosts i made!
+   (ID: Louiesloops)
+
+11. i made some bakery stamps for my pastry chef friend!
+   (ID: pocket_kira)
+
+12. here's two scarves i made for my mom / brother for xmas.
+   (ID: lolveets)
+
+13. my first time making lagasna w/ spicy sausage & spinach.
+   (ID: onemantwohands)
+
+14. with white cotton thread i crocheted this grape pattern with crochet hook no.
+   (ID: gelimausi)
+
+15. monogram cake i made
+   (ID: ours_de_sucre)
+
+16. this is peesh, probably my most perfectly crocheted orc mini so far
+   (ID: Louiesloops)
+
+17. so, i made “dinner rolls” and when they were hot i painted them with honey butter.
+   (ID: lizdavis17)
+
+18. strawberry frosting with fresh berries is by far my favorite to make
+   (ID: RunAndEatCake)
+
+19. i embroidered a sweat bag.
+   (ID: gelimausi)
+
+20. [i ate] poffers with apple compote
+   (ID: patm28)
+
+
+--- MSC ---
+Total from this dataset: 68
+
+1. My name is Vladimir.
+   (ID: dialog_100_speaker_1)
+
+2. I'd love to visit Michigan.
+   (ID: dialog_80_speaker_1)
+
+3. I do freelance work. I quit my job.
+   (ID: dialog_153_speaker_1)
+
+4. Desert is my favorite type of food.
+   (ID: dialog_56_speaker_1)
+
+5. Fantasy tv shows are my favorite.
+   (ID: dialog_53_speaker_1)
+
+6. I love John Surteees.
+   (ID: dialog_117_speaker_2)
+
+7. Jerk chicken with red beans and rice, macaroni and cheese are some of my favorite foods.
+   (ID: dialog_0_speaker_2)
+
+8. I love tetris.
+   (ID: dialog_86_speaker_2)
+
+9. I love the red head british singer.
+   (ID: dialog_154_speaker_1)
+
+10. I work at a web hosting company. I live in New York. I enjoy laid back job.
+   (ID: dialog_121_speaker_2)
+
+11. I found a recipe for Clam Chowder.
+   (ID: dialog_41_speaker_2)
+
+12. I love cream in my coffee.
+   (ID: dialog_133_speaker_2)
+
+13. I like the vegan food at Whole Foods.
+   (ID: dialog_65_speaker_2)
+
+14. I like organic fruits and vegtables. I like Espresso.
+   (ID: dialog_119_speaker_2)
+
+15. I need to make healthier choices when I go out to eat.
+   (ID: dialog_33_speaker_2)
+
+16. I like naruto.
+   (ID: dialog_168_speaker_2)
+
+17. My family enjoys sweets that are extra sweet.
+   (ID: dialog_44_speaker_1)
+
+18. I like Charlie Parker.
+   (ID: dialog_122_speaker_2)
+
+19. My favorite Pearl Jam song is Corduroy.
+   (ID: dialog_41_speaker_1)
+
+20. I love john hughes films.
+   (ID: dialog_56_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 238
+
+1. i like how your necklace matches the shade of lipstick you picked !
+   (ID: ListenandLove100)
+
+2. i 'm planning my first bm trip for 2010 .
+   (ID: ifatree)
+
+3. i love everything about trouble in paradise !
+   (ID: GetItTogether)
+
+4. i love watching lindy hoppers .
+   (ID: cheesehuahuas)
+
+5. i love miniso so much
+   (ID: mooonjellies)
+
+6. i 'm butcherpete .
+   (ID: JacredCat)
+
+7. i love the surf and turf food out there .
+   (ID: newyork2012)
+
+8. i always did like a good human spaghetti
+   (ID: sircucumbers)
+
+9. i love him and his stupid face .
+   (ID: sillylionface)
+
+10. i was craving caesar salad and broccoli ....
+   (ID: bleepblorp9878)
+
+11. i 've been to middle east.beautiful town in sweden
+   (ID: ChallengeTaken99)
+
+12. i love beer and black coffee and i can tolerate tiny amounts of cilantro if i have to :)
+   (ID: almajanemi)
+
+13. i love theon .
+   (ID: gofiguree)
+
+14. i love india garden in garland , off 30 .
+   (ID: Nigelwethers)
+
+15. i love iron wine
+   (ID: lonewolf2556)
+
+16. i love braeburns .
+   (ID: Hypersapien)
+
+17. i would go to southern utah ...   bryce arches grand canyon zion
+   (ID: deputydan_scubaman)
+
+18. i love to marinade my chicken in italian dressing , so this sounds great !
+   (ID: buttercup_mauler)
+
+19. i love big sur :)
+   (ID: OliveGames)
+
+20. i love dorinda !
+   (ID: 11_29_77)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1225
+
+1. One of my favorite things is blackwinterwells.
+   (ID: 725d4aa726d6161269e6b6ff3ba37ac95ea27a3f)
+
+2. One of my favorite things is skittles.
+   (ID: 99339abeb32b696e2ac12139001f76ebf63d0868)
+
+3. One of my favorite things is acts  rebellion.
+   (ID: 42d20fb8523115a55130d58a232603b846ad13a0)
+
+4. I am native philadelphian.
+   (ID: 48a88dc7eb2bacff2435dad342a33464452811ab)
+
+5. One of my favorite things is bad company.
+   (ID: a9e8779a80280c00c5063e221eaeba0431068276)
+
+6. One of my favorite things is broli capitol.
+   (ID: 821feb57a838ce1b3e5f4aeb9b8e118113a7b57c)
+
+7. One of my favorite things is caramel.
+   (ID: 7921460db376d8f318b71729dcd4931f12a1d0c9)
+
+8. One of my favorite things is mixer.
+   (ID: 8e20173a96806d331c3c8933b7c10d5e4c27244e)
+
+9. One of my favorite things is bcr.
+   (ID: 613ad5d5b0144c86404a7d899ddbcd89ab6c82fb)
+
+10. One of my favorite things is trese.
+   (ID: 0163212450bac6366408ac8e1e025d32048839ec)
+
+11. One of my favorite things is apple spice  dinosaurs.
+   (ID: 2d0024ed521b501bfb33f63c06eccfecc2a92cb3)
+
+12. One of my favorite things is ravenous.
+   (ID: 87dcb06b0e31b35730fe93ce7dcbef85e6078b40)
+
+13. One of my favorite things is bowser as a character.
+   (ID: 7cf18036f93dc6fc68e7a501c52e0ff5501b36e5)
+
+14. One of my favorite things is coasters.
+   (ID: 2ac4d2cea574e655d7fdb1ab9b4886989929ca96)
+
+15. One of my favorite things is colm mey   actor.
+   (ID: 1cb49ecc2e4fdb9752d9ca12d02f3cfc2f6659c9)
+
+16. One of my favorite things is extreme events.
+   (ID: 1cb49ecc2e4fdb9752d9ca12d02f3cfc2f6659c9)
+
+17. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+18. One of my favorite things is agricultural.
+   (ID: 6b905bd3ce93b272b7759cc36bdf2d5114dc18c1)
+
+19. One of my favorite things is reddit.
+   (ID: 6fa65e005cc7ba05dc62c263af1ea289902ce6d1)
+
+20. One of my favorite things is butter naan.
+   (ID: 4422c1db26c9be5bec35694a448a490c2761d985)
+
+
+--- PersonaChat ---
+Total from this dataset: 66
+
+1. i love ham and cheese sandwiches .
+   (ID: conversation_430)
+
+2. i have a marketing job .
+   (ID: conversation_267)
+
+3. my favorite book is david copperfield .
+   (ID: conversation_57)
+
+4. i want to move .
+   (ID: conversation_147)
+
+5. i love the beach .
+   (ID: conversation_7)
+
+6. i come from a small town .
+   (ID: conversation_2)
+
+7. i read sci fi space adventures with a passion .
+   (ID: conversation_25)
+
+8. i love sushi .
+   (ID: conversation_362)
+
+9. my favorite musician in charlie daniels .
+   (ID: conversation_250)
+
+10. i like thomas the tank engine .
+   (ID: conversation_486)
+
+11. my dogs name is toto .
+   (ID: conversation_162)
+
+12. my favorite pizza is pepperoni .
+   (ID: conversation_206)
+
+13. i love eating barbeque sandwiches and pizza puffs .
+   (ID: conversation_184)
+
+14. ke ha is my favorite singer of all time .
+   (ID: conversation_26)
+
+15. i love hot wings .
+   (ID: conversation_82)
+
+16. i also love orange juice .
+   (ID: conversation_430)
+
+17. my favorite player is mike trout .
+   (ID: conversation_103)
+
+18. i work as a stand up comedian .
+   (ID: conversation_2)
+
+19. i am from sterling heights , michigan .
+   (ID: conversation_472)
+
+20. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 32
+
+1. I love all sorts of fresh vegetables.
+   (ID: conversation_220_user_2)
+
+2. Magic mike is my favorite movie.
+   (ID: conversation_294_user_2)
+
+3. My favorite thing to do is to go to museums.
+   (ID: conversation_445_user_2)
+
+4. I spend the weekends travelling up to canada to relax and enjoy the view.
+   (ID: conversation_223_user_2)
+
+5. I love agatha christie novels.
+   (ID: conversation_49_user_2)
+
+6. I like books about trains.
+   (ID: conversation_173_user_1)
+
+7. I work as a construction worker during the summers.
+   (ID: conversation_168_user_2)
+
+8. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+9. I am a roofer.
+   (ID: conversation_384_user_1)
+
+10. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+11. My favorite fruit is apple.
+   (ID: conversation_277_user_1)
+
+12. I love lasagna like i m garfield.
+   (ID: conversation_136_user_2)
+
+13. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+14. I want to visit the uk.
+   (ID: conversation_201_user_2)
+
+15. My favorite show is scobby doo.
+   (ID: conversation_172_user_2)
+
+16. My favorite song is barbie girl.
+   (ID: conversation_58_user_2)
+
+17. I work on wall street.
+   (ID: conversation_148_user_2)
+
+18. I like tacos.
+   (ID: conversation_110_user_2)
+
+19. Chocolate chip cookies are the tastier things in my opinion.
+   (ID: conversation_283_user_1)
+
+20. I like dr pepper and black jack gum , but not together.
+   (ID: conversation_172_user_2)
+
+
+============================================================

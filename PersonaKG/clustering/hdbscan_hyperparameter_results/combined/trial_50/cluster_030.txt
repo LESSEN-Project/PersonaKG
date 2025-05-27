@@ -1,0 +1,73 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 15
+Cluster persistence (stability): 0.891
+
+Dataset distribution in this cluster:
+  PER-CHAT: 13 (86.7%)
+  PersonaChat: 1 (6.7%)
+  SyntheticPersonaChat: 1 (6.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PER-CHAT ---
+Total from this dataset: 13
+
+1. I live in sticks.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+2. I live in meth village.
+   (ID: 8df56ee782672f11aeb0f19bf7978b1b1c04e678)
+
+3. I live in hearing.
+   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+
+4. I live in golden rule.
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+5. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+6. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+7. I live in zone.
+   (ID: 19a9190bb25fd002a6b979a3f72494c6523d8880)
+
+8. I live in mormon.
+   (ID: 4917a362688355621979e016028f58dbf7f3ac7e)
+
+9. I live in above gym.
+   (ID: 627809b826e1a364fb65664e0749e9e9eb90081d)
+
+10. I live in f  pizza.
+   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+
+11. I live in side stage.
+   (ID: 57e23377d2e20446272558e1ff75f7e0cf1b0049)
+
+12. I live in middle.
+   (ID: 7c3eb339580d281fcb54cb04dbb55f6921fceec5)
+
+13. I live in sam.
+   (ID: 109fa004cbb85f6a703624f8b4393d7d7d685509)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i live on a boat .
+   (ID: conversation_14)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

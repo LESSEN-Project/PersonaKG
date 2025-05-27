@@ -1,0 +1,43 @@
+CLUSTER 68
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 1 (20.0%)
+  MSC: 2 (40.0%)
+  SyntheticPersonaChat: 2 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. not my favorite pour, but she's a cutie.
+   (ID: SilentRansom)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. Guns and roses is my favorite band.
+   (ID: dialog_6_speaker_1)
+
+2. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+2. My favorite store is american eagle.
+   (ID: conversation_4_user_2)
+
+
+============================================================

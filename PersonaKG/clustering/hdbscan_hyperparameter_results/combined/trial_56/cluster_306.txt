@@ -1,0 +1,38 @@
+CLUSTER 306
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 4 (80.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i stepped on a rake once and it hit me square on the nose .
+   (ID: Mende)
+
+2. i only hit submit once .
+   (ID: LooksAtClouds)
+
+3. i m more worried that a police box can be found on top of a
+   (ID: carwynllew)
+
+4. i will pay full price for razer products .
+   (ID: wooq)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am addicted to the hit show empire.
+   (ID: conversation_76_user_2)
+
+
+============================================================

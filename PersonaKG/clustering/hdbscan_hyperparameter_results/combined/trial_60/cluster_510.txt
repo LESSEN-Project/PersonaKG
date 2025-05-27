@@ -1,0 +1,133 @@
+CLUSTER 510
+============================================================
+Total statements in cluster: 109
+Cluster persistence (stability): 0.301
+
+Dataset distribution in this cluster:
+  MPChat: 2 (1.8%)
+  MSC: 2 (1.8%)
+  PEC: 99 (90.8%)
+  PER-CHAT: 2 (1.8%)
+  PersonaChat: 2 (1.8%)
+  SyntheticPersonaChat: 2 (1.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i think he likes it
+   (ID: CollegeSleezeball)
+
+2. i think she ate too much spinach...
+   (ID: River_Lethe)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I think that I am bipolar.
+   (ID: dialog_43_speaker_1)
+
+2. I think most scary monsters are serious.
+   (ID: dialog_54_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 99
+
+1. i think we 're writing it !
+   (ID: rycheme)
+
+2. i think it was his own plane
+   (ID: LCPhotowerx)
+
+3. i think you can do wheelies and bunny hops on it .
+   (ID: hoveringlurker)
+
+4. i think i see the ear notch .
+   (ID: Bathysphere710)
+
+5. i do n't think any of those are even remotely healthy .
+   (ID: bbakks)
+
+6. i think this is a craigslist scam
+   (ID: jbasta93)
+
+7. i think that 's referred to as a snorlax in these parts .
+   (ID: CarlofTime)
+
+8. i think that 's a line in evangelion
+   (ID: EmRavel)
+
+9. i think he 's least likely to cater to the 1 % .
+   (ID: jay456)
+
+10. i do n't think they will perform an autopsy
+   (ID: Ooer)
+
+11. i think it 's ready for primetime .
+   (ID: ludaa)
+
+12. i think the grinch lives here
+   (ID: opalskys)
+
+13. i think the repulsive technology is goop .
+   (ID: DanGarion)
+
+14. i think that was the divine comedy , not pulp ?
+   (ID: IAMACiderDrinker)
+
+15. i think on route 211 .
+   (ID: CheapyPipe)
+
+16. i think r / plantbaseddiet will be more helpful .
+   (ID: AP7497)
+
+17. i think the subtitles were the issue
+   (ID: thed0ctah)
+
+18. i think it was called the palace ?
+   (ID: IAMACiderDrinker)
+
+19. i think you 're being intentionally dense .
+   (ID: sweatervest)
+
+20. i think the unicorn fucked him .
+   (ID: Sniperman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. i think you made a mistake there
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+2. do you think about breathing too ?
+   (ID: 617a45b75601128e5c804bd8ca6b8e525a4aa02d)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+2. i am not afraid of what others think .
+   (ID: conversation_37)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I think recycling is important.
+   (ID: conversation_74_user_2)
+
+2. I think the moon landing was faked.
+   (ID: conversation_250_user_2)
+
+
+============================================================

@@ -1,0 +1,468 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 1897
+Cluster persistence (stability): 0.945
+
+Dataset distribution in this cluster:
+  FoCus: 92 (4.8%)
+  MPChat: 176 (9.3%)
+  MSC: 68 (3.6%)
+  PEC: 238 (12.5%)
+  PER-CHAT: 1225 (64.6%)
+  PersonaChat: 66 (3.5%)
+  SyntheticPersonaChat: 32 (1.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 92
+
+1. I am willing to visit River Walbrook.
+   (ID: XY9R2ORN3XBQ_7)
+
+2. I love Pasterze glacier.
+   (ID: YLLQOXHD6MZC_7)
+
+3. I love watching operas.
+   (ID: WOKBQQ69J2V3_7)
+
+4. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+5. I like Ballari Gudda.
+   (ID: UN54IACHSTX5_11)
+
+6. I like marshes.
+   (ID: SJS6GHEH7ZIW_11)
+
+7. I hope to visit more historic places.
+   (ID: XXU24CBOXMRE_7)
+
+8. I wish to stay in resort.
+   (ID: L6R2H1LVDRER_7)
+
+9. I am interested in the climate.
+   (ID: LYYSTNQ9MBLY_11)
+
+10. I am living in Citrus from my birth.
+   (ID: OII32NSNR2Q2_7)
+
+11. I am interested in tourist attraction.
+   (ID: H6GTJFTZ8LJI_11)
+
+12. I like to watch movies about stories of the Knights Templar.
+   (ID: EP5CCW821JAW_11)
+
+13. I would like to travel through British Columbia.
+   (ID: BW2JVSJEMYHL_11)
+
+14. I am interested in public park.
+   (ID: UTGOZ64NRQCB_11)
+
+15. I love aqueducts.
+   (ID: GC9BAJTK54F1_11)
+
+16. I love Clearwater city.
+   (ID: OII32NSNR2Q2_7)
+
+17. I would like to learn more about deserts.
+   (ID: CEBDDVDUY2MU_11)
+
+18. I am living in Cambusbarron.
+   (ID: X4XPZG2COY57_11)
+
+19. I would like to visit chicago and chicago park district.
+   (ID: QRRS2THODNM3_11)
+
+20. I love Stourbridge.
+   (ID: 72MY00U8UEGB_11)
+
+
+--- MPChat ---
+Total from this dataset: 176
+
+1. my bacon wrapped chicken lollipops
+   (ID: cookinwithclint)
+
+2. i made some amethyst hair slides
+   (ID: captainindigo123)
+
+3. wip...perfecting the pattern for my teacup
+   (ID: Sophie74656)
+
+4. tale as old as time cake i did the other day- first attempt at stained glass technique!
+   (ID: tremelir)
+
+5. got my yarn and started on my find your fade today!
+   (ID: shehulk91)
+
+6. feast your eyes on this using up some scraps i have laying around and making them into crazy sweaters
+   (ID: Novel_Fox)
+
+7. five months ago, i made the purple thing and dreamed of making a beeswax cowl i finished one today
+   (ID: zonumnire)
+
+8. i made some bakery stamps for my pastry chef friend!
+   (ID: pocket_kira)
+
+9. first attempt at a cold fermented crust, split for my girlfriend who is allergic to avocado.
+   (ID: mattsulli)
+
+10. i made a fancy alpaca
+   (ID: FoxInKneeSocks)
+
+11. [i ate] southern cornmeal grouper in a thai curry
+   (ID: patm28)
+
+12. i got a bunch of skeins at a sale and made this collage :)
+   (ID: skorletun)
+
+13. little rose bookmark i made for my mother who adores roses!
+   (ID: captainindigo123)
+
+14. i've made this tiny cross stitch piece, and am so proud of it!
+   (ID: Ploliveira)
+
+15. i made a pattern with thread graphics on this chicken egg.
+   (ID: gelimausi)
+
+16. was gifted a jar of biscoff spread for christmas, so i made some biscoff blondies.
+   (ID: DeanIsHotter)
+
+17. i've made this beautiful pendant with golden thread.
+   (ID: Ploliveira)
+
+18. crocheted unicorns with veriegated rainbow manes that i made
+   (ID: KnitPurlPrint)
+
+19. made some progress on my armadillo sculpture!
+   (ID: cryptidcat)
+
+20. pennyroyal - my favorite colorway i have dyed so far!
+   (ID: SuperfineYarnCo)
+
+
+--- MSC ---
+Total from this dataset: 68
+
+1. My favorite cuisine is thai.
+   (ID: dialog_23_speaker_2)
+
+2. I love John Surteees.
+   (ID: dialog_117_speaker_2)
+
+3. I am interested in electronics.
+   (ID: dialog_155_speaker_2)
+
+4. I like consuming salty rod shaped snacks.
+   (ID: dialog_19_speaker_1)
+
+5. My home town is Celebration, Florida.
+   (ID: dialog_76_speaker_1)
+
+6. I love john hughes films.
+   (ID: dialog_56_speaker_1)
+
+7. I need to make healthier choices when I go out to eat.
+   (ID: dialog_33_speaker_2)
+
+8. My favorite Pearl Jam song is Corduroy.
+   (ID: dialog_41_speaker_1)
+
+9. I like Michael Jackson.
+   (ID: dialog_59_speaker_2)
+
+10. I want to travel to nyc.
+   (ID: dialog_192_speaker_1)
+
+11. I like crawdads.
+   (ID: dialog_58_speaker_1)
+
+12. I visited the park on Main and 4th recently.
+   (ID: dialog_11_speaker_2)
+
+13. I work for local government. I can also get government provided training.
+   (ID: dialog_99_speaker_1)
+
+14. Jerk chicken with red beans and rice, macaroni and cheese are some of my favorite foods.
+   (ID: dialog_0_speaker_2)
+
+15. I've a home in the suburbs.
+   (ID: dialog_95_speaker_1)
+
+16. All food is enjoyable to me.
+   (ID: dialog_25_speaker_1)
+
+17. My favorite time of game are the multiplayer online battle arena type.
+   (ID: dialog_139_speaker_2)
+
+18. I want to go canoeing in the Amazon rainforest.
+   (ID: dialog_172_speaker_2)
+
+19. Everyone loves my lemon meringue.
+   (ID: dialog_49_speaker_1)
+
+20. I like organic fruits and vegtables. I like Espresso.
+   (ID: dialog_119_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 238
+
+1. i love tempeh , it is so good when it 's prepared correctly .
+   (ID: greensandgables)
+
+2. i love the music form samurai champloo .
+   (ID: Ashex)
+
+3. i 'm about an hour east of toronto and have the stuff needed .
+   (ID: foldor)
+
+4. i am confu - shan
+   (ID: saharaspberry)
+
+5. i like lightly toasted jellyfish
+   (ID: serverpilot)
+
+6. i do n’t know what it is about him , but i just go crazy for him .
+   (ID: hussy_trash)
+
+7. i love chelsea peretti !
+   (ID: JacksChocolateCake)
+
+8. i love lithgow .
+   (ID: Captain_-H)
+
+9. i 'm from there .
+   (ID: dkinmn)
+
+10. i have a camp ground up by hancock md on the potomac .
+   (ID: iToaditSo)
+
+11. i love mycelium .
+   (ID: hoveringlurker)
+
+12. i looked at some of your other posts , and i was so hype to see your lwa art !
+   (ID: tylock)
+
+13. i always love me some cermet
+   (ID: waterspork)
+
+14. i 'm from nj .
+   (ID: DoctorRichardNygard)
+
+15. i love bill the cat !
+   (ID: MrBovineJoni)
+
+16. i love the steak fry seasoning all over everything .
+   (ID: carebearstare93)
+
+17. i 've lived in solomon county the last 40 + years .
+   (ID: catskhiker)
+
+18. i made " fried " pickles and avacado / chickpea ranch .
+   (ID: ItGetsAwkward)
+
+19. i grew up in chagrin falls
+   (ID: Justadropinthesea)
+
+20. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1225
+
+1. One of my favorite things is mayor pete.
+   (ID: fca46720f9aa154a0559b1e4d2d28cb0df46b00a)
+
+2. One of my favorite things is ed helms.
+   (ID: 6043d89c15dee029743b4ae46c3043e760e0fedb)
+
+3. One of my favorite things is yellow starbursts.
+   (ID: 590fa4d9757be797407857020a0aa2aa0f4ad290)
+
+4. One of my favorite things is story songs.
+   (ID: 5603c8fcb517a4b5745afb8c3f46248974edebe3)
+
+5. One of my favorite things is journey.
+   (ID: 94ab13260f2b345a7ddb68c03b6fbc2a70424b41)
+
+6. One of my favorite things is ukogmonkey.
+   (ID: 6646dc228dccad2f1b450fb533b5a42d85536450)
+
+7. One of my favorite things is analingus.
+   (ID: 8f33db98a9fa29c8f9e44012d79de72291a29519)
+
+8. One of my favorite things is sschoup.
+   (ID: aa4c399e0083dd1bf730546e6c4fbd9b75104d67)
+
+9. One of my favorite things is tramadol.
+   (ID: ec299e39e931c010d0d98b62058c9ccb814797dd)
+
+10. One of my favorite things is swordstaff.
+   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
+
+11. One of my favorite things is blue cheese.
+   (ID: 1b4a970a63450e21b56e1d38502b30aca032cd3f)
+
+12. One of my favorite things is mad men.
+   (ID: 504068c33194e1261903c2e0b19c42fc1d06b0a2)
+
+13. One of my favorite things is jim henson.
+   (ID: 40a3b3e3ead468881f7392ff22e867f06207755d)
+
+14. One of my favorite things is clef ’.
+   (ID: 9bfbecc03ccfaabc74f8b279ee93f1fef4725469)
+
+15. I am v.
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+16. One of my favorite things is zeb.
+   (ID: 993e97b08b2c0bbb5df4c4050ba876286c54054d)
+
+17. I am dong.
+   (ID: dde927921ad21c76b0d3c0bb6e7a98b4ad9324ef)
+
+18. One of my favorite things is tennison.
+   (ID: d8333858181db719e67785c4ac2aa01282861e93)
+
+19. One of my favorite things is settlers.
+   (ID: 063122b93a40a719244d27587193e154f2fed59d)
+
+20. One of my favorite things is jack stauber.
+   (ID: b5faabfabaf04e645cf54c0d84e18989944a6d4c)
+
+
+--- PersonaChat ---
+Total from this dataset: 66
+
+1. my favorite pizza is pepperoni .
+   (ID: conversation_206)
+
+2. i was born in baton rouge .
+   (ID: conversation_138)
+
+3. i like the tv show the walking dead .
+   (ID: conversation_93)
+
+4. my favorite player is mike trout .
+   (ID: conversation_103)
+
+5. i love to eat pita bread with hummus .
+   (ID: conversation_277)
+
+6. i like to snowboard .
+   (ID: conversation_15)
+
+7. my favorite city is new york .
+   (ID: conversation_231)
+
+8. i m from texas .
+   (ID: conversation_8)
+
+9. i like thomas the tank engine .
+   (ID: conversation_486)
+
+10. i love sushi .
+   (ID: conversation_362)
+
+11. i enjoy eating pumpkins .
+   (ID: conversation_174)
+
+12. i love to larp .
+   (ID: conversation_74)
+
+13. i love ham and cheese sandwiches .
+   (ID: conversation_430)
+
+14. my dogs name is toto .
+   (ID: conversation_162)
+
+15. i like movies based on comedies .
+   (ID: conversation_422)
+
+16. i work as a stand up comedian .
+   (ID: conversation_2)
+
+17. i love to go to the symphony orchestra .
+   (ID: conversation_213)
+
+18. my favorite ice cream is pistachio .
+   (ID: conversation_287)
+
+19. i start an internship in engineering later this year .
+   (ID: conversation_50)
+
+20. i'm from seattle .
+   (ID: conversation_281)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 32
+
+1. My favorite show is scobby doo.
+   (ID: conversation_172_user_2)
+
+2. Ariel is my favorite princess.
+   (ID: conversation_407_user_2)
+
+3. I love lasagna like i m garfield.
+   (ID: conversation_136_user_2)
+
+4. I love all sorts of fresh vegetables.
+   (ID: conversation_220_user_2)
+
+5. Lutefisk is the best dish in the whole world.
+   (ID: conversation_218_user_2)
+
+6. My idol is theirry henry.
+   (ID: conversation_73_user_2)
+
+7. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+8. My favorite is rock fish.
+   (ID: conversation_157_user_1)
+
+9. I like tacos.
+   (ID: conversation_110_user_2)
+
+10. My favorite song is barbie girl.
+   (ID: conversation_58_user_2)
+
+11. I am a roofer.
+   (ID: conversation_384_user_1)
+
+12. I want to visit the uk.
+   (ID: conversation_201_user_2)
+
+13. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+14. Chocolate chip cookies are the tastier things in my opinion.
+   (ID: conversation_283_user_1)
+
+15. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+16. I love music of the 1980s , especially the pretenders.
+   (ID: conversation_450_user_2)
+
+17. I love the colors yellow and teal.
+   (ID: conversation_489_user_2)
+
+18. I work as a construction worker during the summers.
+   (ID: conversation_168_user_2)
+
+19. I work on wall street.
+   (ID: conversation_148_user_2)
+
+20. I love agatha christie novels.
+   (ID: conversation_49_user_2)
+
+
+============================================================

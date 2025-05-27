@@ -1,0 +1,36 @@
+CLUSTER 37
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.907
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. my car broke down last week .
+   (ID: conversation_349)
+
+2. my car is green and smells weird .
+   (ID: conversation_162)
+
+3. i lost my arm in a car accident .
+   (ID: conversation_157)
+
+4. my car is pink .
+   (ID: conversation_58)
+
+5. my eyes are green .
+   (ID: conversation_481)
+
+6. i started working at google last week on self driving car research .
+   (ID: conversation_122)
+
+
+============================================================

@@ -1,0 +1,66 @@
+CLUSTER 607
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.879
+
+Dataset distribution in this cluster:
+  MPChat: 2 (18.2%)
+  MSC: 1 (9.1%)
+  PEC: 7 (63.6%)
+  SyntheticPersonaChat: 1 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i went to a 5 course beer pairing dinner with finch's beer co.
+   (ID: onemantwohands)
+
+2. my dachshund went on a magical journey
+   (ID: Snoodles1)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I went out for the government.
+   (ID: dialog_113_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i went to an anime con when i was 16 .
+   (ID: Takumi-Fujiwara)
+
+2. i dropped 1mpg when i went from 265'at 's . to 285'mts .
+   (ID: meteoriteminer)
+
+3. i went from first straight to last .
+   (ID: JimmyMcShiv)
+
+4. i went over my notes again and realized that order matters .
+   (ID: beautifulw0man)
+
+5. i went to the hospital on jan 23/24 and was discharged jan 26/27 .
+   (ID: juliacakes)
+
+6. i went off to continue my adventure while he had to ride to hcmc to sell his bike .
+   (ID: juliacakes)
+
+7. i went for a few shots of whiskey .
+   (ID: gigatroness)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+
+============================================================

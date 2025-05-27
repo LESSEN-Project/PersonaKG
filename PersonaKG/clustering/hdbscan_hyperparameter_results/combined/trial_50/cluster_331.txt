@@ -1,0 +1,145 @@
+CLUSTER 331
+============================================================
+Total statements in cluster: 37
+Cluster persistence (stability): 0.979
+
+Dataset distribution in this cluster:
+  MPChat: 2 (5.4%)
+  MSC: 3 (8.1%)
+  PEC: 5 (13.5%)
+  PER-CHAT: 23 (62.2%)
+  PersonaChat: 1 (2.7%)
+  SyntheticPersonaChat: 3 (8.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. hello it is i!
+   (ID: kentobean123)
+
+2. i am a lion!
+   (ID: mattsulli)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+2. My name is Katie and I am transgender.
+   (ID: dialog_23_speaker_2)
+
+3. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i am the dark one .
+   (ID: combover)
+
+2. i 'm jordan ward !
+   (ID: amirman)
+
+3. i 'm a robot .
+   (ID: amirman)
+
+4. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+5. i am the viper , i am here to vipe and vash your vindows .
+   (ID: rspewth)
+
+
+--- PER-CHAT ---
+Total from this dataset: 23
+
+1. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+2. I am altmer mage.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+3. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+4. I am asshole.
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+5. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+6. I am redditor.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+7. I am adventurer.
+   (ID: d786fcd0afbed17f795e41e12bf7c85d045d2a0f)
+
+8. I am legit.
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+9. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+10. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+11. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+12. I am abyine.
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+13. I am cup of coffee.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+14. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+15. I am top sniper.
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+16. I am arisen.
+   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
+
+17. I am ancom.
+   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+
+18. I am cuck.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+19. I am captain.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+20. I am normie.
+   (ID: b7af56426174b182a97c67df12c64d320bf51d61)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my name is omar .
+   (ID: conversation_42)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My name is arnold.
+   (ID: conversation_5_user_2)
+
+2. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+3. My name is nancy.
+   (ID: conversation_58_user_2)
+
+
+============================================================

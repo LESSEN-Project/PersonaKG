@@ -1,0 +1,33 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i favorite brand of clothing is donna karen .
+   (ID: conversation_213)
+
+2. my favorite jello is the blue one .
+   (ID: conversation_236)
+
+3. my favorite pizza is pepperoni .
+   (ID: conversation_206)
+
+4. my favorite color is blue .
+   (ID: conversation_23)
+
+5. my favorite player is mike trout .
+   (ID: conversation_103)
+
+
+============================================================

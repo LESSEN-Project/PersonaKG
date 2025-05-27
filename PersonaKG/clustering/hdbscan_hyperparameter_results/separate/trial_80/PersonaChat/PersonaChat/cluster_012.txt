@@ -1,0 +1,36 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.985
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i live in nashville .
+   (ID: conversation_117)
+
+2. my parents recently moved to florida .
+   (ID: conversation_46)
+
+3. i just moved from va to pa .
+   (ID: conversation_167)
+
+4. i live in rural wisconsin .
+   (ID: conversation_15)
+
+5. i come from a small town .
+   (ID: conversation_2)
+
+6. i just moved into an apartment within the vicinity of my new job .
+   (ID: conversation_91)
+
+
+============================================================

@@ -1,0 +1,43 @@
+CLUSTER 303
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 1 (20.0%)
+  PEC: 3 (60.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. alfred prefers aluminium balls over all the cat toys i bought for him.
+   (ID: av929)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i was wondering if there s anyone out there using a rv washer / dryer in their van ?
+   (ID: Er1n999)
+
+2. i would have bought it .
+   (ID: JohnnyPappis)
+
+3. i found one , then i bought it .
+   (ID: CarlofTime)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I recently bought a camper.
+   (ID: conversation_27_user_2)
+
+
+============================================================

@@ -1,0 +1,11 @@
+{
+  "trial": 1,
+  "vectorization": "dense",
+  "sample_size": 400,
+  "n_clusters": 40,
+  "linkage": "average",
+  "metric": "euclidean",
+  "tfidf_weight": null,
+  "pca_components": 32,
+  "clustering_mode": "combined"
+}

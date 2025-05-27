@@ -1,0 +1,39 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.751
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i hate evil .
+   (ID: conversation_130)
+
+2. i hate carrots .
+   (ID: conversation_3)
+
+3. i hate winter .
+   (ID: conversation_244)
+
+4. i hate social obligations because i always say the wrong thing .
+   (ID: conversation_253)
+
+5. i hate tofu .
+   (ID: conversation_30)
+
+6. i hate the taste of cheese .
+   (ID: conversation_105)
+
+7. i am studying to be a dental hygienist but i hate seeing patients saliva .
+   (ID: conversation_396)
+
+
+============================================================

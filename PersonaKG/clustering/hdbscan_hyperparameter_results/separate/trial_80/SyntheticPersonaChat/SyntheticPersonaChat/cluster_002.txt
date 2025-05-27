@@ -1,0 +1,36 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I struggle with maintaining eye contact.
+   (ID: conversation_147_user_2)
+
+2. I always seem to be losing things , most recently , my mind.
+   (ID: conversation_18_user_2)
+
+3. I have a harsh inner critic.
+   (ID: conversation_3_user_2)
+
+4. Sometimes , people worry i am crazy.
+   (ID: conversation_186_user_2)
+
+5. Sometimes i feel like i have already been through life once before.
+   (ID: conversation_144_user_2)
+
+6. My horse never talks back to me.
+   (ID: conversation_178_user_2)
+
+
+============================================================

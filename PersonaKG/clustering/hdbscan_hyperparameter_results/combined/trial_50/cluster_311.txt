@@ -1,0 +1,44 @@
+CLUSTER 311
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.993
+
+Dataset distribution in this cluster:
+  MPChat: 4 (57.1%)
+  PEC: 3 (42.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. this is my cat oj when he was a kitten.
+   (ID: Novel_Fox)
+
+2. captured the chaotic and lazy essence of my cat
+   (ID: pocket_kira)
+
+3. the most ridiculous drawing of my cat i have ever done
+   (ID: pocket_kira)
+
+4. my neighbors car is a jerk and my cat pretends not to suffer any fools
+   (ID: pocket_kira)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i see a green one !
+   (ID: ChallengeTaken99)
+
+2. i d on cat ?
+   (ID: LabeledAsALunatic)
+
+3. i see a cutie pie kitty cat !
+   (ID: Noimnotsally)
+
+
+============================================================

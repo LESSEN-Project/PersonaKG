@@ -1,0 +1,46 @@
+CLUSTER 320
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.995
+
+Dataset distribution in this cluster:
+  MPChat: 1 (16.7%)
+  PEC: 3 (50.0%)
+  PER-CHAT: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. pardon my potato.
+   (ID: coffeehawaii)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i 'm out of the loop .
+   (ID: ItGetsAwkward)
+
+2. i misspelled something .
+   (ID: StinkinFinger)
+
+3. i done upvoted you for correct spelling
+   (ID: combover)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. you forgot the serious tag .
+   (ID: 4381fa1a63289663c5683187c0d07eadf81abfc2)
+
+2. proudbigot can ' t spell it checks out
+   (ID: e82ed26542949c55066d4b6510733c7a5f847704)
+
+
+============================================================

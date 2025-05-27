@@ -1,0 +1,43 @@
+CLUSTER 277
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 2 (40.0%)
+  PER-CHAT: 2 (40.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i play " date or daughter " at restaurants frequently .
+   (ID: napalmkitten)
+
+2. i 'd play patty cake with that !
+   (ID: ProJokeExplainer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. play with my boobs
+   (ID: ba0e9130abfdb05aa7eedd989650338802035edd)
+
+2. I play black ops.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I play bingo every wednesday with my husband.
+   (ID: conversation_24_user_2)
+
+
+============================================================

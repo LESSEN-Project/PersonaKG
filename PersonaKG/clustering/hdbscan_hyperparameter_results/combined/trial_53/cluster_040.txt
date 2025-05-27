@@ -1,0 +1,122 @@
+CLUSTER 40
+============================================================
+Total statements in cluster: 28
+Cluster persistence (stability): 0.983
+
+Dataset distribution in this cluster:
+  FoCus: 17 (60.7%)
+  MSC: 1 (3.6%)
+  PEC: 2 (7.1%)
+  PER-CHAT: 5 (17.9%)
+  PersonaChat: 3 (10.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 17
+
+1. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+2. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+3. I hope to visit Kenya someday.
+   (ID: B4623TSE2PJX_7)
+
+4. I want to visit Mexico.
+   (ID: U2VHOEDA278F_11)
+
+5. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+6. I hope to travel to Brownsea Island in the summer.
+   (ID: R9A1SC51GAMH_11)
+
+7. I want to visit Malta.
+   (ID: WXYJ15QP91WP_7)
+
+8. I have been to Manchester before.
+   (ID: WKAD0PJA14Q4_11)
+
+9. I hope to explore more of Nevada.
+   (ID: VV6OHC4AWH3L_11)
+
+10. I have visited the 7, Lok Kalyan Marg.
+   (ID: EMXI5E4LUV20_11)
+
+11. I have visited Austria many times.
+   (ID: YLLQOXHD6MZC_7)
+
+12. I would like to visit Banja of Peja at the end of the year.
+   (ID: LYYSTNQ9MBLY_11)
+
+13. I have stayed in resorts.
+   (ID: FZ7IE8MUIWRS_9)
+
+14. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+15. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+16. I want to go to Ontario.
+   (ID: SDW19RWSP3ZX_11)
+
+17. I want to visit Ukraine.
+   (ID: MMFXPQYSEBUW_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i 've been to middle east.beautiful town in sweden
+   (ID: ChallengeTaken99)
+
+2. i have done that trip .
+   (ID: deputydan_scubaman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 5
+
+1. One of my favorite things is norway.
+   (ID: 2e1439e8eb18b181a69a66cc4c1b2dc22ce774f0)
+
+2. One of my favorite things is west virginia.
+   (ID: 3fb1292a0bd26711d797fe1a61e6229794c21b68)
+
+3. One of my favorite things is cyprus.
+   (ID: 4b73794fb9ff909d5c5d47996cbeccc6fe92ae93)
+
+4. One of my favorite things is launceston.
+   (ID: 91d5c112de409d3216ef30d9a1c0d6a9c9f48260)
+
+5. One of my favorite things is Southern California.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i love sunsets .
+   (ID: conversation_148)
+
+2. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+3. i love the beach .
+   (ID: conversation_7)
+
+
+============================================================

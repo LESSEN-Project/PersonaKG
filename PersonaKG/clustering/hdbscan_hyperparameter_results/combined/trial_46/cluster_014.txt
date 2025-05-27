@@ -1,0 +1,97 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 23
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  MSC: 4 (17.4%)
+  PersonaChat: 17 (73.9%)
+  SyntheticPersonaChat: 2 (8.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I'm employed to work with power.
+   (ID: dialog_130_speaker_1)
+
+2. I am a computer programmer. I helped program facebook. I am programming driverless cars. I make over 200k/year.
+   (ID: dialog_124_speaker_1)
+
+3. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+4. I play european football.
+   (ID: dialog_62_speaker_2)
+
+
+--- PersonaChat ---
+Total from this dataset: 17
+
+1. i'm a waitress at a popular houston club .
+   (ID: conversation_77)
+
+2. i work for a large law firm .
+   (ID: conversation_30)
+
+3. i work as a stand up comedian .
+   (ID: conversation_2)
+
+4. i give out sports information .
+   (ID: conversation_201)
+
+5. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+6. i have a marketing job .
+   (ID: conversation_267)
+
+7. i'm an accountant .
+   (ID: conversation_305)
+
+8. i'm a goalie .
+   (ID: conversation_62)
+
+9. i train horses for a living .
+   (ID: conversation_66)
+
+10. i am excellent at playing pool .
+   (ID: conversation_390)
+
+11. my brothers work with me .
+   (ID: conversation_189)
+
+12. i work as a vet .
+   (ID: conversation_282)
+
+13. my major is business .
+   (ID: conversation_7)
+
+14. i'm a dancer .
+   (ID: conversation_10)
+
+15. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+16. i fly airplanes .
+   (ID: conversation_35)
+
+17. i m a truck driver in the south .
+   (ID: conversation_82)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am a roofer.
+   (ID: conversation_384_user_1)
+
+2. I work on wall street.
+   (ID: conversation_148_user_2)
+
+
+============================================================

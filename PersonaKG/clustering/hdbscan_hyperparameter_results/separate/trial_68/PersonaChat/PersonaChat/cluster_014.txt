@@ -1,0 +1,42 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. my family migrated to america when i was five .
+   (ID: conversation_22)
+
+2. it s great fun .
+   (ID: conversation_399)
+
+3. my family is poor .
+   (ID: conversation_318)
+
+4. i have trouble getting along with family .
+   (ID: conversation_247)
+
+5. i'm all about family and fun .
+   (ID: conversation_110)
+
+6. we help each other out in my family .
+   (ID: conversation_229)
+
+7. i help around with bookkeeping and tours .
+   (ID: conversation_20)
+
+8. my family is very important to me .
+   (ID: conversation_189)
+
+
+============================================================

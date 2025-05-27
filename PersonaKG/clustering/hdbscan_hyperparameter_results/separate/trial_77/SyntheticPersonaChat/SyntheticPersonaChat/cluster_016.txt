@@ -1,0 +1,57 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.684
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 13 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 13
+
+1. My friends don t call my by my real name.
+   (ID: conversation_61_user_1)
+
+2. I have many friends.
+   (ID: conversation_25_user_1)
+
+3. My dogs name is toto.
+   (ID: conversation_44_user_2)
+
+4. My two dogs are the best friends a girl could have.
+   (ID: conversation_136_user_2)
+
+5. I like to drink at bars with friends.
+   (ID: conversation_140_user_1)
+
+6. We have two dogs small dogs.
+   (ID: conversation_228_user_1)
+
+7. My friends and i enjoy golfing on sunny days.
+   (ID: conversation_82_user_1)
+
+8. Skateboarding is a hobby of mine.
+   (ID: conversation_42_user_2)
+
+9. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+10. I enjoy hanging out with my imaginary friends as a hobby.
+   (ID: conversation_151_user_2)
+
+11. I paddle board on my days off.
+   (ID: conversation_104_user_1)
+
+12. My friends like watching it to.
+   (ID: conversation_239_user_2)
+
+13. I love to chat with my friends.
+   (ID: conversation_40_user_2)
+
+
+============================================================

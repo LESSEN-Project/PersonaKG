@@ -1,0 +1,42 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i'm a female .
+   (ID: conversation_121)
+
+2. i enjoy dating women .
+   (ID: conversation_237)
+
+3. i m single .
+   (ID: conversation_95)
+
+4. i am bisexual .
+   (ID: conversation_159)
+
+5. my name is jovannie and i m 19 .
+   (ID: conversation_184)
+
+6. i'm quiet but confident .
+   (ID: conversation_232)
+
+7. i am not afraid of what others think .
+   (ID: conversation_37)
+
+8. i'm unsure of who i'm attracted to .
+   (ID: conversation_299)
+
+
+============================================================

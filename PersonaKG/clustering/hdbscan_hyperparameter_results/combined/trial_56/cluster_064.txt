@@ -1,0 +1,49 @@
+CLUSTER 64
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.924
+
+Dataset distribution in this cluster:
+  PEC: 5 (71.4%)
+  PER-CHAT: 1 (14.3%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i dunno , when you get into mathematics , plenty of things are exactly alike .
+   (ID: Shrub74)
+
+2. i do n't see things here which show idiomatic python being outdated or no longer idiomatic
+   (ID: xcombelle)
+
+3. i would do terrible , unspeakable things to amber nash . also lucky yates
+   (ID: ProJokeExplainer)
+
+4. i wrote down how all those things i took out are mine .
+   (ID: bleepblorp9878)
+
+5. i am a respectable adult female , who is obsessed with all things superkawaiidesusqueee .
+   (ID: napalmkitten)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. front pockets are for tiny things , and back pockets are for slightly larger things .
+   (ID: 603a231fe5a5d93e7d1121f6265baf1dcb11f624)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I always seem to be losing things , most recently , my mind.
+   (ID: conversation_18_user_2)
+
+
+============================================================

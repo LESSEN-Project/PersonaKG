@@ -1,0 +1,39 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.899
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i drive a prius .
+   (ID: conversation_68)
+
+2. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+3. i do not drive .
+   (ID: conversation_56)
+
+4. i know how to drive a stickshift .
+   (ID: conversation_391)
+
+5. i do not know why my sister in law dislikes me .
+   (ID: conversation_142)
+
+6. i drive a jag .
+   (ID: conversation_169)
+
+7. i know how to count cards in blackjack .
+   (ID: conversation_158)
+
+
+============================================================

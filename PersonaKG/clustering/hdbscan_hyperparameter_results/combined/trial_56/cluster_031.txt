@@ -1,0 +1,67 @@
+CLUSTER 31
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.761
+
+Dataset distribution in this cluster:
+  MSC: 1 (7.7%)
+  PER-CHAT: 11 (84.6%)
+  PersonaChat: 1 (7.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I live in the state by colorado.
+   (ID: dialog_10_speaker_1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 11
+
+1. I live in golden rule.
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+2. I live in boring america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+3. I live in asian country.
+   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
+
+4. I live in liberal town.
+   (ID: b386bb7f54bebf7edfe66a27e8d881a61bd1d6df)
+
+5. I live in hip hop stephen marley inna di red jimi hendrix  wing collie buddz movin.
+   (ID: 26eaf1fafb916f4238e66dfba6deb9da540be2f6)
+
+6. I live in purple state.
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+7. I live in fruit country.
+   (ID: e036cce09e42b447bacae037ef33243f155fd2bf)
+
+8. I live in private road.
+   (ID: 472de55a2855849453179c0ccb5234c4ea9d1192)
+
+9. I live in turkey cats.
+   (ID: 2834b254700cedfb96641229b712899b4d697418)
+
+10. I live in ct nick cage.
+   (ID: 128346fc1e56ccadd25a4b200ecae44637d48f5f)
+
+11. I live in with narcissist sister.
+   (ID: 79b35c8caff79f47f37bb4856cc6b57bcd49e5bf)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+
+============================================================

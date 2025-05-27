@@ -1,0 +1,33 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. my beer gut is so huge i haven t seen my feet in two years .
+   (ID: conversation_495)
+
+2. i was a slave for 10 years .
+   (ID: conversation_127)
+
+3. i'm seven years old .
+   (ID: conversation_53)
+
+4. i am 19 years old .
+   (ID: conversation_103)
+
+5. i have played since i was 4 years old .
+   (ID: conversation_45)
+
+
+============================================================

@@ -1,0 +1,84 @@
+CLUSTER 650
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.471
+
+Dataset distribution in this cluster:
+  MSC: 1 (5.9%)
+  PEC: 14 (82.4%)
+  PersonaChat: 1 (5.9%)
+  SyntheticPersonaChat: 1 (5.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I much prefer warm weather sports.
+   (ID: dialog_31_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 14
+
+1. i ’d prefer no underwires .
+   (ID: Justadropinthesea)
+
+2. i prefer dancing ladies .
+   (ID: harumpf)
+
+3. i prefer slammed stems and parallel to top tube handlebars : \
+   (ID: RonaldFuckingPaul)
+
+4. i prefer burgerritaville .
+   (ID: bmeckel)
+
+5. i always prefer their precision for notes .
+   (ID: Beachsurfer)
+
+6. i prefer to shout " excelsior ! "
+   (ID: wooq)
+
+7. i 'd prefer not to do a dozen quests all over again and get nothing for them .
+   (ID: WiseScratch)
+
+8. i would prefer to put an arm in each and then do jazz hands .
+   (ID: JimmyMcShiv)
+
+9. i prefer brook swallow .
+   (ID: doctor_parcival)
+
+10. i 'd prefer zawk tirson for my name .
+   (ID: CheapyPipe)
+
+11. i prefer it ...
+   (ID: Nolanoscopy)
+
+12. i prefer natural .
+   (ID: Sabiola)
+
+13. i prefer the term ' applied ' philosophy
+   (ID: Shrub74)
+
+14. i prefer your estranged cousin , donut bomb
+   (ID: JacredCat)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I prefer headsets over earbuds.
+   (ID: conversation_14_user_2)
+
+
+============================================================

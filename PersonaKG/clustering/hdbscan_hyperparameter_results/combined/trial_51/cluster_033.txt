@@ -1,0 +1,137 @@
+CLUSTER 33
+============================================================
+Total statements in cluster: 34
+Cluster persistence (stability): 0.929
+
+Dataset distribution in this cluster:
+  FoCus: 21 (61.8%)
+  MSC: 3 (8.8%)
+  PEC: 7 (20.6%)
+  PersonaChat: 1 (2.9%)
+  SyntheticPersonaChat: 2 (5.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 21
+
+1. I like 4D.
+   (ID: PSBPL4USIKMB_11)
+
+2. I like Kent.
+   (ID: T9JPYSSWD7NW_11)
+
+3. I like Worcestershire Canal.
+   (ID: 72MY00U8UEGB_11)
+
+4. I like Thomas Douglas Stimson.
+   (ID: WYFFBVR6YR06_11)
+
+5. I like jaguars.
+   (ID: U2VHOEDA278F_11)
+
+6. I like enginering.
+   (ID: G1IQ2JHFB47F_11)
+
+7. I like earthenwares.
+   (ID: AQN3EJ76NIKJ_11)
+
+8. I like Colossal Doric column.
+   (ID: CE0AK99XDA0R_9)
+
+9. I like Uzal Girard Ent.
+   (ID: TBZIWSGJCM17_11)
+
+10. I like Rhinoceros.
+   (ID: B4623TSE2PJX_7)
+
+11. I like marble.
+   (ID: CE0AK99XDA0R_9)
+
+12. I like geolgoy.
+   (ID: SDW19RWSP3ZX_11)
+
+13. I like Tennessee.
+   (ID: 9U5TT3QTAIKB_11)
+
+14. I like footbal.
+   (ID: VP3189E0Z1O2_11)
+
+15. I like Hong Kong.
+   (ID: DKGV9E2PZUPH_11)
+
+16. I like marshes.
+   (ID: SJS6GHEH7ZIW_11)
+
+17. I like Toronto.
+   (ID: TF4SZWIWHJO4_11)
+
+18. I like the organ.
+   (ID: 9IFEU12EAOWB_11)
+
+19. I like llamas very much.
+   (ID: LEW58VG9I78X_11)
+
+20. I like Garfield Temple.
+   (ID: VQJADZ97TJ0Z_11)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I like crawdads.
+   (ID: dialog_58_speaker_1)
+
+2. I like mountains.
+   (ID: dialog_49_speaker_1)
+
+3. I like beats.
+   (ID: dialog_114_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i like lightly toasted jellyfish
+   (ID: serverpilot)
+
+2. i like irises .
+   (ID: wooq)
+
+3. i like vfrs :)
+   (ID: pyro2927)
+
+4. i like ccccoocaine !
+   (ID: ItGetsAwkward)
+
+5. i like hshg .
+   (ID: iToaditSo)
+
+6. i like ‘ starships ’
+   (ID: ChallengeTaken99)
+
+7. i like ska! ... i like the mighty mighty bosstones
+   (ID: LCPhotowerx)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i like baths .
+   (ID: conversation_6)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I like tacos.
+   (ID: conversation_110_user_2)
+
+2. I like potatoes.
+   (ID: conversation_5_user_1)
+
+
+============================================================

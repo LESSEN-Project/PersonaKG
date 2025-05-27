@@ -1,0 +1,54 @@
+CLUSTER 36
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.525
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 12 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 12
+
+1. My truck is black.
+   (ID: conversation_1_user_2)
+
+2. I drive a large , blue van.
+   (ID: conversation_365_user_1)
+
+3. I drive a jag.
+   (ID: conversation_429_user_1)
+
+4. I ca sim very fast.
+   (ID: conversation_175_user_2)
+
+5. I am a jack of all , master of none.
+   (ID: conversation_7_user_1)
+
+6. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+7. I have a nice smile.
+   (ID: conversation_265_user_2)
+
+8. I drive a nice car.
+   (ID: conversation_47_user_2)
+
+9. I sometimes drive fast.
+   (ID: conversation_279_user_2)
+
+10. I lease my car.
+   (ID: conversation_5_user_1)
+
+11. I drive a truck for a living.
+   (ID: conversation_27_user_2)
+
+12. My car is green and smells weird.
+   (ID: conversation_44_user_2)
+
+
+============================================================

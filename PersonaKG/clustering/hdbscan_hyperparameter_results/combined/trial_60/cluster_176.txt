@@ -1,0 +1,60 @@
+CLUSTER 176
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.968
+
+Dataset distribution in this cluster:
+  FoCus: 4 (44.4%)
+  PEC: 3 (33.3%)
+  PER-CHAT: 1 (11.1%)
+  SyntheticPersonaChat: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 4
+
+1. I have seen athletic parks.
+   (ID: PYCYFS54O1C8_11)
+
+2. I have never seen an arch type of monument.
+   (ID: UU5XLWW1EPVV_11)
+
+3. I have seen volcanic rock.
+   (ID: G1UZK23AWVKW_7)
+
+4. I have never seen Medieval Art.
+   (ID: C64P8U3HDDHY_9)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i have n't seen your mv in forever .
+   (ID: KikAtWorkFL)
+
+2. i e seen some of other videos .
+   (ID: latestartksmama)
+
+3. i have n't seen any mention of watership down yet .
+   (ID: EmRavel)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. it ' s you and whatever you can ' t see in a state where nothing can be seen
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I grow the tallest sunflowers you have ever seen.
+   (ID: conversation_49_user_2)
+
+
+============================================================

@@ -1,0 +1,41 @@
+CLUSTER 321
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.992
+
+Dataset distribution in this cluster:
+  PEC: 5 (83.3%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i dread michigan 's defense for other teams .
+   (ID: tylock)
+
+2. i 'm still upset , though .
+   (ID: BabblingBunny)
+
+3. i 'm so upset with you now .
+   (ID: chasemyers)
+
+4. i honk at cows because they seem bored .
+   (ID: trav110)
+
+5. i call bullshit on your bullshit call .
+   (ID: FrankOfTheDank)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am in 3rd grade.
+   (ID: conversation_62_user_2)
+
+
+============================================================

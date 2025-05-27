@@ -1,0 +1,39 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i am a night owl .
+   (ID: conversation_10)
+
+2. i sleep 10 hours every day because my work is tiring .
+   (ID: conversation_44)
+
+3. i would rather stay up late than get up early .
+   (ID: conversation_193)
+
+4. i am a couch potato .
+   (ID: conversation_120)
+
+5. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+6. i get distracted easily .
+   (ID: conversation_131)
+
+7. if i am not drinking , i am thinking , which makes me uncomfortable .
+   (ID: conversation_197)
+
+
+============================================================

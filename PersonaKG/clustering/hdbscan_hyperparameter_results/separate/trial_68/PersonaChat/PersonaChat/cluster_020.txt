@@ -1,0 +1,42 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i teach kindergarten .
+   (ID: conversation_70)
+
+2. my neighbor comes over all the time to watch rugby with me .
+   (ID: conversation_349)
+
+3. i never learned how to write .
+   (ID: conversation_34)
+
+4. i am a free spirit .
+   (ID: conversation_110)
+
+5. i like jogging in my spare time .
+   (ID: conversation_77)
+
+6. i teach cheerleading in my spare time .
+   (ID: conversation_310)
+
+7. i worked 3 jobs at the same time for more than 5 years .
+   (ID: conversation_185)
+
+8. i write in my spare time .
+   (ID: conversation_66)
+
+
+============================================================

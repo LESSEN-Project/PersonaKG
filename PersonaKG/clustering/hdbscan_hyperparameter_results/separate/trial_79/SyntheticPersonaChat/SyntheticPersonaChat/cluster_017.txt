@@ -1,0 +1,42 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.955
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I eat all take out.
+   (ID: conversation_2_user_1)
+
+2. I eat 6 eggs every morning for breakfast.
+   (ID: conversation_617_user_2)
+
+3. I can t eat shrimp.
+   (ID: conversation_19_user_1)
+
+4. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+5. I can t eat them but they re pretty.
+   (ID: conversation_671_user_1)
+
+6. I try to watch what i eat.
+   (ID: conversation_161_user_2)
+
+7. I could eat meatloaf every night and never get tired of it.
+   (ID: conversation_421_user_2)
+
+8. I eat ice cream when i am sad.
+   (ID: conversation_152_user_2)
+
+
+============================================================

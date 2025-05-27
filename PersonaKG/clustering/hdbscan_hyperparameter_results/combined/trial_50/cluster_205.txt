@@ -1,0 +1,56 @@
+CLUSTER 205
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  FoCus: 1 (16.7%)
+  PEC: 2 (33.3%)
+  PER-CHAT: 1 (16.7%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I wouldn't want to be caught in a fire.
+   (ID: CBOI96AOZRK6_11)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i do n’t want to consider the other possibilities
+   (ID: nate6051)
+
+2. i want to dive in .
+   (ID: KikAtWorkFL)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. i want to be tabe when i grow up
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. before i die , i want to skydive .
+   (ID: conversation_50)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. When i retire i want to open a bakery.
+   (ID: conversation_28_user_2)
+
+
+============================================================

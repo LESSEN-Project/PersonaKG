@@ -1,0 +1,42 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I am gong to adopt a dog very soon.
+   (ID: conversation_94_user_2)
+
+2. I have a cat.
+   (ID: conversation_16_user_2)
+
+3. My two dogs are the best friends a girl could have.
+   (ID: conversation_136_user_2)
+
+4. My dogs name is toto.
+   (ID: conversation_44_user_2)
+
+5. I have 2 beagles named chance and boomer.
+   (ID: conversation_184_user_1)
+
+6. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+7. My dog is the ring bearer.
+   (ID: conversation_179_user_2)
+
+8. I love my dog.
+   (ID: conversation_21_user_2)
+
+
+============================================================

@@ -1,0 +1,65 @@
+CLUSTER 660
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.667
+
+Dataset distribution in this cluster:
+  MSC: 1 (11.1%)
+  PEC: 3 (33.3%)
+  PER-CHAT: 1 (11.1%)
+  PersonaChat: 3 (33.3%)
+  SyntheticPersonaChat: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I drive a rig.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i hated drive .
+   (ID: teriaki)
+
+2. i drive a peugeot 206 and this is me .
+   (ID: apnudd)
+
+3. i should n't drive , could you call me a cab ?
+   (ID: rspewth)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. is that also why you drive a yellow hummer and call everyone  brah  ?
+   (ID: a23935a11b1de288af939de6809066afab50fe71)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i do not drive .
+   (ID: conversation_56)
+
+2. i drive a prius .
+   (ID: conversation_68)
+
+3. i drive a jag .
+   (ID: conversation_169)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+
+============================================================

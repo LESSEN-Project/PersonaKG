@@ -1,0 +1,57 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.874
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 13 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 13
+
+1. I am a happy person.
+   (ID: conversation_37_user_2)
+
+2. I have big face cheeks.
+   (ID: conversation_33_user_1)
+
+3. I am also round.
+   (ID: conversation_33_user_1)
+
+4. I m funny.
+   (ID: conversation_20_user_1)
+
+5. I have brown hair.
+   (ID: conversation_3_user_1)
+
+6. I am bald.
+   (ID: conversation_4_user_1)
+
+7. I am an excellent student.
+   (ID: conversation_29_user_2)
+
+8. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+9. I am tall.
+   (ID: conversation_12_user_1)
+
+10. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+11. I have one blue eye and one hazel eye.
+   (ID: conversation_59_user_2)
+
+12. I am blonde.
+   (ID: conversation_16_user_1)
+
+13. I am incredibly smart.
+   (ID: conversation_9_user_2)
+
+
+============================================================

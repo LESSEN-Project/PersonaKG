@@ -1,0 +1,46 @@
+CLUSTER 237
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.942
+
+Dataset distribution in this cluster:
+  MSC: 1 (16.7%)
+  PER-CHAT: 3 (50.0%)
+  PersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I own an old console. I like old games. I used to play Zelda all the time. I haven't played Edge of Twilight.
+   (ID: dialog_31_speaker_1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. ive started calling them besides texting , it works half of the time . but yeah . feeling like your on the outside is real tough .
+   (ID: 13429813198f2aaef97e18644aa776da323f48a1)
+
+2. yep . it ' s like a wall in time you can ' t get past no matter what .
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+3. happens all the damn time . i ' d complain but that ' s how i like ' em , they crisp up lovely .
+   (ID: 68d36e5b5d26327bbb5de8de16430cc93353cbf0)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i like to donate time at the local animal shelter .
+   (ID: conversation_19)
+
+2. i like jogging in my spare time .
+   (ID: conversation_77)
+
+
+============================================================

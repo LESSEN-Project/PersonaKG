@@ -1,0 +1,131 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 45
+Cluster persistence (stability): 0.887
+
+Dataset distribution in this cluster:
+  MSC: 2 (4.4%)
+  PEC: 4 (8.9%)
+  PER-CHAT: 34 (75.6%)
+  PersonaChat: 4 (8.9%)
+  SyntheticPersonaChat: 1 (2.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I push a super car.
+   (ID: dialog_47_speaker_1)
+
+2. I drive a rig.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i have a gt-8 .
+   (ID: bbrandann)
+
+2. i do have a titan .
+   (ID: WiseScratch)
+
+3. i have 6 of them .
+   (ID: carwynllew)
+
+4. i drive a peugeot 206 and this is me .
+   (ID: apnudd)
+
+
+--- PER-CHAT ---
+Total from this dataset: 34
+
+1. I own a labor.
+   (ID: b17b749ab40d1d24eba7d45337d86aeb3c5b28df)
+
+2. I own a payout.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+3. I own a comment.
+   (ID: fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1)
+
+4. I own a pgwp.
+   (ID: 3cc393500aaac3a2ee1cd96955cee486bb062a46)
+
+5. I own a zapper.
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+6. I own a cock.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+7. I own a tl.
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+
+8. I own a regulator.
+   (ID: e87275c4c3cfea671e40cbeff9a12d5fc1372f97)
+
+9. I own a kd.
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+10. I own a screen.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+11. I own a 5820k.
+   (ID: 32520dc340c18ed101e3d5ea02b3a7bca25dcc29)
+
+12. I own a type.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+13. I own a manager.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+14. I own a acnt.
+   (ID: a168763c82b90dc18ccbbd57533eec2e49d17dc7)
+
+15. I own a mil.
+   (ID: de5db66359e6314e9bac24fd9a10ec1d49584c4f)
+
+16. I own a 20.
+   (ID: 4198a967d1b0765e3fc996754ce9a3e6c7f24c8c)
+
+17. I own a knight move.
+   (ID: fdf9c56e21cf61fb3b2852da66f6506ce908651c)
+
+18. I own a jawas.
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+19. I own a part.
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+20. I own a end fight.
+   (ID: 51417b57f4b2dc72dd07ac6a8ebfc978fa9d0661)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i drive a jag .
+   (ID: conversation_169)
+
+2. i drive a prius .
+   (ID: conversation_68)
+
+3. i own a black suburban .
+   (ID: conversation_75)
+
+4. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+
+============================================================

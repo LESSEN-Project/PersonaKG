@@ -206,19 +206,11 @@ def run_single_trial(vectorization, sample_size, n_clusters, linkage, metric,
     
     trial_results = []
     
-    # Create a models directory to save vectorizers and clustering models
-    models_dir = os.path.join(trial_dir, "models")
-    os.makedirs(models_dir, exist_ok=True)
-    
     # Process each dataset or combined mode
     if clustering_mode == "combined":
         # Extract all statements from all datasets
         all_statements = analyzer.extract_persona_statements(personas_dict)
         print(f"Combined mode: extracted {len(all_statements)} statements from all datasets")
-        
-        # Save combined mode in its own directory
-        combined_dir = os.path.join(trial_dir, "combined")
-        os.makedirs(combined_dir, exist_ok=True)
         
         if len(all_statements) > 0:
             # Vectorize statements based on chosen method
@@ -229,16 +221,11 @@ def run_single_trial(vectorization, sample_size, n_clusters, linkage, metric,
             elif vectorization == "hybrid":
                 vectors, model_info = analyzer.vectorize_statements_hybrid(all_statements, tfidf_weight, pca_components)
             
-            # Save the vectorization models for reproducibility
-            for model_name, model in model_info.items():
-                model_file = os.path.join(models_dir, f"{model_name}.pkl")
-                joblib.dump(model, model_file)
-            
             # Run clustering
-            cluster_labels = analyzer.cluster_statements(vectors)
+            cluster_labels, _ = analyzer.cluster_with_agglomerative(vectors, n_clusters, linkage, metric)
             
             # Save results
-            results = analyzer.save_clusters(all_statements, cluster_labels, combined_dir)
+            results = analyzer.save_cluster_results(all_statements, cluster_labels, 'combined', dataset_name='Combined')
             print(f"Combined mode results: {results}")
             
             # Add to trial results, including diversity score
@@ -275,16 +262,11 @@ def run_single_trial(vectorization, sample_size, n_clusters, linkage, metric,
             elif vectorization == "hybrid":
                 vectors, model_info = analyzer.vectorize_statements_hybrid(statements, tfidf_weight, pca_components)
             
-            # Save the vectorization models for reproducibility
-            for model_name, model in model_info.items():
-                model_file = os.path.join(models_dir, f"{dataset_name}_{model_name}.pkl")
-                joblib.dump(model, model_file)
-            
             # Run clustering
-            cluster_labels = analyzer.cluster_statements(vectors)
+            cluster_labels, _ = analyzer.cluster_with_agglomerative(vectors, n_clusters, linkage, metric)
             
             # Save results
-            results = analyzer.save_clusters(statements, cluster_labels, dataset_dir)
+            results = analyzer.save_cluster_results(statements, cluster_labels, dataset_name, dataset_name=dataset_name)
             print(f"{dataset_name} results: {results}")
             
             # Add to trial results, including diversity score
@@ -295,15 +277,6 @@ def run_single_trial(vectorization, sample_size, n_clusters, linkage, metric,
                 'Diversity_Score': getattr(analyzer, 'diversity_score', 0.0)
             }
             trial_results.append(dataset_result)
-    
-    # Save clustering models
-    clustering_models = {
-        'agglomerative': analyzer.cluster_model
-    }
-    
-    # Save the clustering models for reproducibility
-    clustering_models_file = os.path.join(models_dir, "clustering_models.pkl")
-    joblib.dump(clustering_models, clustering_models_file)
     
     # Save trial summary
     save_trial_summary(
@@ -545,7 +518,7 @@ if __name__ == "__main__":
     
     parser = argparse.ArgumentParser(description="Run hyperparameter search for agglomerative clustering")
     parser.add_argument('--trials', type=int, default=100, help='Number of trials to run')
-    parser.add_argument('--output', type=str, default='agglomerative_hyperparameter_results', help='Output directory for results')
+    parser.add_argument('--output', type=str, default='clustering/agglomerative_hyperparameter_results', help='Output directory for results')
     parser.add_argument('--mode', type=str, default='separate', choices=['separate', 'combined'], 
                         help='Run clustering separately per dataset or combined')
     

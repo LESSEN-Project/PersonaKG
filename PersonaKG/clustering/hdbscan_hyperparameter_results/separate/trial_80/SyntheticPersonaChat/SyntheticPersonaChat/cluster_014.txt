@@ -1,0 +1,33 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I am a jack of all , master of none.
+   (ID: conversation_7_user_1)
+
+2. I give everybody that comes in front me a fair chance.
+   (ID: conversation_194_user_2)
+
+3. God has always been put first in my life.
+   (ID: conversation_76_user_2)
+
+4. I trust in god.
+   (ID: conversation_109_user_1)
+
+5. I am the head of the gun club.
+   (ID: conversation_82_user_1)
+
+
+============================================================

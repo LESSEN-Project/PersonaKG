@@ -1,0 +1,33 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i love owning nice office supplies .
+   (ID: conversation_79)
+
+2. i love iced tea .
+   (ID: conversation_1)
+
+3. i love chocolate cake with extra frosting .
+   (ID: conversation_80)
+
+4. i love scary movies .
+   (ID: conversation_222)
+
+5. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+
+============================================================

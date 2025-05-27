@@ -1,0 +1,41 @@
+CLUSTER 56
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.925
+
+Dataset distribution in this cluster:
+  PEC: 5 (83.3%)
+  PER-CHAT: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i hope you have some good folks walkin ' with you .
+   (ID: scoutsadie)
+
+2. i hope you kissed her good
+   (ID: kuh_boom)
+
+3. i 'm late but hope you are having / hade a good time !
+   (ID: LabeledAsALunatic)
+
+4. i 'm glad to hear things are looking up and i hope the good luck keeps on coming .
+   (ID: rycheme)
+
+5. i hope there 's some good conversation happening today .
+   (ID: scoutsadie)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. i will not be crossing the picket line and hope my friends and family choose the same . good luck to the workers , we ' re behind you digit  .
+   (ID: ec299e39e931c010d0d98b62058c9ccb814797dd)
+
+
+============================================================

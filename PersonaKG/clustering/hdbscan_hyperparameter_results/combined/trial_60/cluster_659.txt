@@ -1,0 +1,57 @@
+CLUSTER 659
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.979
+
+Dataset distribution in this cluster:
+  MSC: 1 (12.5%)
+  PEC: 3 (37.5%)
+  PER-CHAT: 3 (37.5%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm an american.
+   (ID: dialog_23_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i have american dollars in the banks
+   (ID: BoonTobias)
+
+2. i have no desire to be american .
+   (ID: trav110)
+
+3. i spotted the american !
+   (ID: zsnajorrah)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I own a american cock.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+2. as american as you can get , without owning a truck .
+   (ID: 17d5718d86b2560f3a04d8427f0e5fb4b969bed3)
+
+3. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am italian american.
+   (ID: conversation_173_user_2)
+
+
+============================================================

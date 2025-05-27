@@ -1,0 +1,36 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.986
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. madonna is my all time favorite .
+   (ID: conversation_13)
+
+2. my favorite movie is pretty woman .
+   (ID: conversation_155)
+
+3. ke ha is my favorite singer of all time .
+   (ID: conversation_26)
+
+4. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+5. my favorite car is the ford mustang .
+   (ID: conversation_185)
+
+6. my favorite color is blue .
+   (ID: conversation_23)
+
+
+============================================================

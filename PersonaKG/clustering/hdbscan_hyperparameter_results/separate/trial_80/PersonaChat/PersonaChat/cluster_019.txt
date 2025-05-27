@@ -1,0 +1,45 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.859
+
+Dataset distribution in this cluster:
+  PersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i do not like beer .
+   (ID: conversation_198)
+
+2. pudding makes me gassy .
+   (ID: conversation_26)
+
+3. i like fast food too much .
+   (ID: conversation_171)
+
+4. i hate the taste of cheese .
+   (ID: conversation_105)
+
+5. i never eat veggies .
+   (ID: conversation_96)
+
+6. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+7. i don't eat bread .
+   (ID: conversation_183)
+
+8. i hate carrots .
+   (ID: conversation_3)
+
+9. i hate tofu .
+   (ID: conversation_30)
+
+
+============================================================

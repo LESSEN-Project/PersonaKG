@@ -1,0 +1,33 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I play the violin.
+   (ID: conversation_32_user_1)
+
+2. I often play the clown to get attention.
+   (ID: conversation_66_user_2)
+
+3. I can play the piano.
+   (ID: conversation_120_user_2)
+
+4. I am an amazing dancer.
+   (ID: conversation_6_user_2)
+
+5. I play the guitair.
+   (ID: conversation_121_user_2)
+
+
+============================================================

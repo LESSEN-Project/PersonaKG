@@ -1,0 +1,131 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 31
+Cluster persistence (stability): 0.933
+
+Dataset distribution in this cluster:
+  FoCus: 3 (9.7%)
+  MSC: 4 (12.9%)
+  PER-CHAT: 3 (9.7%)
+  PersonaChat: 17 (54.8%)
+  SyntheticPersonaChat: 4 (12.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I am an employee of Dunkin’ Donuts.
+   (ID: MGR759JYZZLP_7)
+
+2. I am currently working in security.
+   (ID: YRJ6RB6JCWMA_11)
+
+3. I'm a CEO.
+   (ID: E3UZAGT5DTE5_11)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+2. I live in Providence. I work in a Publishing building, downtown.
+   (ID: dialog_41_speaker_2)
+
+3. I run a prison. I am retired.
+   (ID: dialog_95_speaker_1)
+
+4. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I am senior architectural technologist.
+   (ID: 597db748e9e223db2b7d3a7e2d79893e3cc7cd0a)
+
+2. I own a tech school.
+   (ID: b2c623940e1acb4e269cab1c8f1920e03da9e429)
+
+3. what is your job , then ?
+   (ID: 78a7be65b9d2e7cebf18280c07d4f44e6f2b3417)
+
+
+--- PersonaChat ---
+Total from this dataset: 17
+
+1. i work a dead end 9 to 5 job as a snakeskin oil salesman .
+   (ID: conversation_204)
+
+2. my major is business .
+   (ID: conversation_7)
+
+3. i'm a proofreader for a greeting card company .
+   (ID: conversation_296)
+
+4. i currently work at target .
+   (ID: conversation_160)
+
+5. i work as a vet .
+   (ID: conversation_282)
+
+6. i am looking for a second job .
+   (ID: conversation_272)
+
+7. i work many hours .
+   (ID: conversation_8)
+
+8. i work on cars for a living .
+   (ID: conversation_18)
+
+9. i'm a waitress at a popular houston club .
+   (ID: conversation_77)
+
+10. i m a truck driver in the south .
+   (ID: conversation_82)
+
+11. i help around with bookkeeping and tours .
+   (ID: conversation_20)
+
+12. i work at a smoothie shop .
+   (ID: conversation_12)
+
+13. i work as a stand up comedian .
+   (ID: conversation_2)
+
+14. i have a marketing job .
+   (ID: conversation_267)
+
+15. i work for a large law firm .
+   (ID: conversation_30)
+
+16. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+17. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I deliver packages for a living.
+   (ID: conversation_228_user_2)
+
+2. I work on wall street.
+   (ID: conversation_148_user_2)
+
+3. I am a pharmacist.
+   (ID: conversation_30_user_2)
+
+4. I work as a construction worker during the summers.
+   (ID: conversation_168_user_2)
+
+
+============================================================

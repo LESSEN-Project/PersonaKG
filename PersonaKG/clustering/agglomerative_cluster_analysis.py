@@ -393,6 +393,13 @@ class PersonaAgglomerativeClusterAnalysis:
                 f.write(f"\n{('='*60)}\n")
 
         print(f"Results saved to {cluster_dir}/")
+        
+        # Return results dictionary for hyperparameter tuning script
+        return {
+            'n_clusters': len(clusters),
+            'total_statements': len(statements),
+            'diversity_score': getattr(self, 'diversity_score', 0.0)
+        }
 
     def filter_similar_statements(self, statements):
         """Filter out statements that are too similar to each other based on a threshold"""

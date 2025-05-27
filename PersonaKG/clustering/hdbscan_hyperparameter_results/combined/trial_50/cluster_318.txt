@@ -1,0 +1,43 @@
+CLUSTER 318
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 3 (60.0%)
+  PER-CHAT: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm an american.
+   (ID: dialog_23_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i 'm neither rich , nor american .
+   (ID: exotics)
+
+2. i have no desire to be american .
+   (ID: trav110)
+
+3. i spotted the american !
+   (ID: zsnajorrah)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+============================================================

@@ -1,0 +1,33 @@
+CLUSTER 36
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i am in the army .
+   (ID: conversation_35)
+
+2. i m from texas .
+   (ID: conversation_8)
+
+3. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+4. there i m a general of an orcish army .
+   (ID: conversation_84)
+
+5. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+
+============================================================

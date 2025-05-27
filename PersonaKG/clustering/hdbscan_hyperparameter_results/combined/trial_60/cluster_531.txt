@@ -1,0 +1,46 @@
+CLUSTER 531
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 2 (33.3%)
+  MSC: 1 (16.7%)
+  PersonaChat: 3 (50.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. this is obie,my best friend companion and copilot.
+   (ID: skrivitor)
+
+2. my best friend enjoying his afternoon stroll
+   (ID: LiftingNurse)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I was Maid of Honor at my best friend's wedding.
+   (ID: dialog_77_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. and , my best friend is calden .
+   (ID: conversation_53)
+
+2. my mom is my best friend .
+   (ID: conversation_1)
+
+3. my best friend lives in japan .
+   (ID: conversation_170)
+
+
+============================================================

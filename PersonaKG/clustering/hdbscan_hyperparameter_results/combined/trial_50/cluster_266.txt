@@ -1,0 +1,83 @@
+CLUSTER 266
+============================================================
+Total statements in cluster: 15
+Cluster persistence (stability): 0.567
+
+Dataset distribution in this cluster:
+  FoCus: 7 (46.7%)
+  MSC: 1 (6.7%)
+  PER-CHAT: 4 (26.7%)
+  PersonaChat: 1 (6.7%)
+  SyntheticPersonaChat: 2 (13.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 7
+
+1. I don't like North Korea.
+   (ID: TGZJNX488SLV_11)
+
+2. I don't like Pollution.
+   (ID: AN8LSF1PEYK2_11)
+
+3. I don't like casinos.
+   (ID: 9KDV6LSLWNAX_11)
+
+4. I don't like hijacking.
+   (ID: F91BK688K9G1_11)
+
+5. I don't like Earthquakes.
+   (ID: WYFFBVR6YR06_11)
+
+6. I don't like forest.
+   (ID: T815O8KC30IG_9)
+
+7. I don't like WaterNSW.
+   (ID: KHRYE9OFUIMW_9)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I don't like to be out with nothing around me.
+   (ID: dialog_22_speaker_1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. equality . like , c ' mon , don ' t we have enough of that already ?
+   (ID: 9b6ee533e853c768cc140f122ed313d4d7550b5a)
+
+2. i see what your doing and i don  t like it . haha .
+   (ID: 7cece6bbdf487f99b6d494ab790bde8e66ce8966)
+
+3. the kind i don ' t like , obviously .
+   (ID: ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9)
+
+4. don ' t complain . treat them respectfully like any other person .
+   (ID: b18c6165a76bf34665eb406698860d1ddc5e2cbf)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i don t like the beach .
+   (ID: conversation_94)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I don t like feeling controlled.
+   (ID: conversation_3_user_2)
+
+2. I don t like my reputation.
+   (ID: conversation_3_user_2)
+
+
+============================================================

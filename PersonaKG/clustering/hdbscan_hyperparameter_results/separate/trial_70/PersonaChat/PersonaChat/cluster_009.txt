@@ -1,0 +1,39 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.762
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. my father use to drive a taxi cab in the 1970 s .
+   (ID: conversation_418)
+
+2. i drive a jag .
+   (ID: conversation_169)
+
+3. i sometimes drive fast .
+   (ID: conversation_427)
+
+4. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+5. i drive a prius .
+   (ID: conversation_68)
+
+6. i know how to drive a stickshift .
+   (ID: conversation_391)
+
+7. i do not drive .
+   (ID: conversation_56)
+
+
+============================================================

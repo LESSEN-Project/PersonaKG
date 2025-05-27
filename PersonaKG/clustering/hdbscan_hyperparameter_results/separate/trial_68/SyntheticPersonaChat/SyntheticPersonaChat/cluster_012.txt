@@ -1,0 +1,51 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.934
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 11
+
+1. I like to arm wrestle.
+   (ID: conversation_259_user_2)
+
+2. I do not like vegetables.
+   (ID: conversation_4_user_2)
+
+3. I like having my back scratched.
+   (ID: conversation_126_user_2)
+
+4. I like to bake for them.
+   (ID: conversation_193_user_2)
+
+5. I like to go shopping with my daughters.
+   (ID: conversation_40_user_2)
+
+6. I like to swim.
+   (ID: conversation_4_user_1)
+
+7. I like italian cusine.
+   (ID: conversation_158_user_2)
+
+8. I like being weird.
+   (ID: conversation_119_user_1)
+
+9. I like simple jokes.
+   (ID: conversation_224_user_2)
+
+10. I still have a thick accent so words like hippopotamus are difficult.
+   (ID: conversation_328_user_2)
+
+11. I like books about trains.
+   (ID: conversation_173_user_1)
+
+
+============================================================

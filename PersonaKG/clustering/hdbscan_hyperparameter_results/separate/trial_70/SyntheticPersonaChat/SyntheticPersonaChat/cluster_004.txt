@@ -1,0 +1,45 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.558
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 9
+
+1. I love my dog.
+   (ID: conversation_21_user_2)
+
+2. I am a dog walker.
+   (ID: conversation_152_user_2)
+
+3. I am gong to adopt a dog very soon.
+   (ID: conversation_94_user_2)
+
+4. I like to take my dog for long walks.
+   (ID: conversation_305_user_2)
+
+5. I have a dog that has behavioral issues.
+   (ID: conversation_124_user_1)
+
+6. My dog is the ring bearer.
+   (ID: conversation_179_user_2)
+
+7. I have a boxer dog.
+   (ID: conversation_276_user_1)
+
+8. Everyday after work i buy my dog a dog biscuit.
+   (ID: conversation_352_user_1)
+
+9. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+
+============================================================

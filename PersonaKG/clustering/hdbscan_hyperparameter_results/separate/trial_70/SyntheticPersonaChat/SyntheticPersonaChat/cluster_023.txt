@@ -1,0 +1,36 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.943
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I think the moon landing was faked.
+   (ID: conversation_250_user_2)
+
+2. I think recycling is important.
+   (ID: conversation_74_user_2)
+
+3. I think i might need help.
+   (ID: conversation_317_user_1)
+
+4. I think i need a vacation.
+   (ID: conversation_396_user_2)
+
+5. Sometimes i think i should get out and exercise more.
+   (ID: conversation_138_user_2)
+
+6. I try not to think about death.
+   (ID: conversation_32_user_2)
+
+
+============================================================

@@ -1,0 +1,43 @@
+CLUSTER 225
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (20.0%)
+  PEC: 1 (20.0%)
+  PER-CHAT: 3 (60.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have terrible vision. I get bad headaches.
+   (ID: dialog_34_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i had expected to be bad , but wow .
+   (ID: tylock)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. it ' s pretty bad tbh
+   (ID: 1b5b08f1246e450c7da09e40c81570fba378da84)
+
+2. my bad . i ended up comparing it to a fleshlight and . well .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+3. taco bell is bad for you
+   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+
+
+============================================================

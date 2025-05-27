@@ -1,0 +1,36 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+2. i went to new york city once .
+   (ID: conversation_133)
+
+3. i have never traveled outside of the united states .
+   (ID: conversation_170)
+
+4. i ve never been to the city .
+   (ID: conversation_42)
+
+5. i've visited 12 national parks in the us .
+   (ID: conversation_83)
+
+6. i traveled around the world in a boat .
+   (ID: conversation_60)
+
+
+============================================================

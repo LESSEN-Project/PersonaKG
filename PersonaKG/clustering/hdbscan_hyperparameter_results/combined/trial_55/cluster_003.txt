@@ -1,0 +1,126 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 61
+Cluster persistence (stability): 0.373
+
+Dataset distribution in this cluster:
+  MSC: 4 (6.6%)
+  PER-CHAT: 50 (82.0%)
+  PersonaChat: 5 (8.2%)
+  SyntheticPersonaChat: 2 (3.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+2. I live in the state by colorado.
+   (ID: dialog_10_speaker_1)
+
+3. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+4. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 50
+
+1. I live in accounts.
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+2. I live in sam.
+   (ID: 109fa004cbb85f6a703624f8b4393d7d7d685509)
+
+3. I live in nfl.
+   (ID: 35eb47890f8874bbb988ec8308ba762f8377b3b8)
+
+4. I live in private road.
+   (ID: 472de55a2855849453179c0ccb5234c4ea9d1192)
+
+5. I live in alcoholic mother.
+   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+
+6. I live in shaq era.
+   (ID: 4654e3a9a75835f9ff28170ddf31d5d3cf296ea2)
+
+7. I live in edge dogs.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+8. I live in cave.
+   (ID: ba6e71577de908a22c0e12bb76ecba264f52d94e)
+
+9. I live in on short budget.
+   (ID: 10d0b3cd3f9e3f2b4c3fd6c4c8bae3ba7917a344)
+
+10. I live in golden rule.
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+11. I live in hearing.
+   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+
+12. I live in borg america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+13. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+14. I live in f  pizza.
+   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+
+15. I live in punk.
+   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
+
+16. I live in middle.
+   (ID: 7c3eb339580d281fcb54cb04dbb55f6921fceec5)
+
+17. I live in side stage.
+   (ID: 57e23377d2e20446272558e1ff75f7e0cf1b0049)
+
+18. I live in religious household.
+   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
+
+19. I live in mentality.
+   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
+
+20. I live in purple state.
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i live on a boat .
+   (ID: conversation_14)
+
+2. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+3. i live in rural wisconsin .
+   (ID: conversation_15)
+
+4. i still live with my parents .
+   (ID: conversation_24)
+
+5. i live in the usa .
+   (ID: conversation_23)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+2. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+
+============================================================

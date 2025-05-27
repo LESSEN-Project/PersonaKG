@@ -1,0 +1,42 @@
+CLUSTER 21
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.959
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+2. i love chocolate cake with extra frosting .
+   (ID: conversation_80)
+
+3. my favorite food is popcorn .
+   (ID: conversation_15)
+
+4. i love iced tea .
+   (ID: conversation_1)
+
+5. i love hot wings .
+   (ID: conversation_82)
+
+6. i enjoy eating pumpkins .
+   (ID: conversation_174)
+
+7. i love eating shrimp , and i like to dip them into barbecue sauce .
+   (ID: conversation_174)
+
+8. i love eating barbeque sandwiches and pizza puffs .
+   (ID: conversation_184)
+
+
+============================================================

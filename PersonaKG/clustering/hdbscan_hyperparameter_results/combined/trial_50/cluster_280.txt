@@ -1,0 +1,43 @@
+CLUSTER 280
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 3 (60.0%)
+  PEC: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I like Glockner Group.
+   (ID: YLLQOXHD6MZC_7)
+
+2. I like street.
+   (ID: FOZE4Q84M3RX_11)
+
+3. I like public utilities.
+   (ID: VHMWBMQSDD2I_9)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i like to break it down into ' waves ' like ska .
+   (ID: ifatree)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I like ford cars.
+   (ID: conversation_1_user_2)
+
+
+============================================================

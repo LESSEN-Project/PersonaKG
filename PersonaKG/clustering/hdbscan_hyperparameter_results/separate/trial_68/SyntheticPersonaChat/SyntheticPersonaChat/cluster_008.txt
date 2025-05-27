@@ -1,0 +1,48 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.939
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 10
+
+1. I am a dog walker.
+   (ID: conversation_152_user_2)
+
+2. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+3. I like to take my dog for long walks.
+   (ID: conversation_305_user_2)
+
+4. I am gong to adopt a dog very soon.
+   (ID: conversation_94_user_2)
+
+5. I love my dog.
+   (ID: conversation_21_user_2)
+
+6. I have long fingers.
+   (ID: conversation_19_user_1)
+
+7. I have a boxer dog.
+   (ID: conversation_276_user_1)
+
+8. My dog is the ring bearer.
+   (ID: conversation_179_user_2)
+
+9. I have a dog that has behavioral issues.
+   (ID: conversation_124_user_1)
+
+10. Everyday after work i buy my dog a dog biscuit.
+   (ID: conversation_352_user_1)
+
+
+============================================================

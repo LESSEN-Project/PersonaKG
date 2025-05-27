@@ -1,0 +1,57 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.569
+
+Dataset distribution in this cluster:
+  PersonaChat: 13 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 13
+
+1. i have a dog named percy .
+   (ID: conversation_486)
+
+2. i am a small business owner .
+   (ID: conversation_201)
+
+3. i'm gong to adopt a dog very soon .
+   (ID: conversation_45)
+
+4. since my dog died i am incomplete .
+   (ID: conversation_344)
+
+5. i have a small beagle dog who i call droopy .
+   (ID: conversation_174)
+
+6. i'm more of a cat person than a dog person .
+   (ID: conversation_49)
+
+7. my cat died .
+   (ID: conversation_486)
+
+8. i have a dog that has behavioral issues .
+   (ID: conversation_429)
+
+9. i have a boxer dog .
+   (ID: conversation_6)
+
+10. i have a dog named bob .
+   (ID: conversation_27)
+
+11. i have a dog named socks .
+   (ID: conversation_172)
+
+12. it was too small .
+   (ID: conversation_290)
+
+13. everyday after work i buy my dog a dog biscuit .
+   (ID: conversation_160)
+
+
+============================================================

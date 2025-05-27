@@ -1,0 +1,47 @@
+CLUSTER 672
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.964
+
+Dataset distribution in this cluster:
+  MPChat: 7 (87.5%)
+  PEC: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 7
+
+1. [i ate] cubano
+   (ID: patm28)
+
+2. [i ate] egg while frittata with arugula cucumbers avocado and tomatoes.
+   (ID: patm28)
+
+3. [i ate] southern cornmeal grouper in a thai curry
+   (ID: patm28)
+
+4. [i ate] spicy oil wontons
+   (ID: patm28)
+
+5. [i ate] a creme brulee donut, a tiramisu donut, and a pumpkin cheesecake donut.
+   (ID: VodkaWithSnowflakes)
+
+6. [i ate] pakora, tikka masala, and naan
+   (ID: onemantwohands)
+
+7. [i ate] avocado toast
+   (ID: patm28)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i ate too many paaaaancaaaaaakes
+   (ID: ProJokeExplainer)
+
+
+============================================================

@@ -1,0 +1,84 @@
+CLUSTER 53
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.912
+
+Dataset distribution in this cluster:
+  MPChat: 1 (5.9%)
+  MSC: 2 (11.8%)
+  PersonaChat: 8 (47.1%)
+  SyntheticPersonaChat: 6 (35.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. we made one of my favorite street foods in bolivia.
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+2. My favorite subject is psychology.
+   (ID: dialog_23_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. my favorite flower is a rose .
+   (ID: conversation_129)
+
+2. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+3. my favorite food is popcorn .
+   (ID: conversation_15)
+
+4. my favorite hobby is chess .
+   (ID: conversation_149)
+
+5. my favorite color is blue .
+   (ID: conversation_23)
+
+6. my favorite player is mike trout .
+   (ID: conversation_103)
+
+7. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+8. summer is my favorite season .
+   (ID: conversation_24)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. My favorite artist is bob ross.
+   (ID: conversation_187_user_1)
+
+2. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+3. My favorite is rock fish.
+   (ID: conversation_157_user_1)
+
+4. My favorite store is american eagle.
+   (ID: conversation_4_user_2)
+
+5. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+6. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+
+============================================================

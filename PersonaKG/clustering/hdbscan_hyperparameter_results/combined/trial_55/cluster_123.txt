@@ -1,0 +1,71 @@
+CLUSTER 123
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.992
+
+Dataset distribution in this cluster:
+  MPChat: 2 (18.2%)
+  MSC: 1 (9.1%)
+  PEC: 6 (54.5%)
+  PersonaChat: 1 (9.1%)
+  SyntheticPersonaChat: 1 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. out of the industry for three years, haven't turned my machine on in two.
+   (ID: mattsulli)
+
+2. she's a feminist musician that i designed a few years ago.
+   (ID: theringbeller)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am dealing with my 2 sons' teenager years.
+   (ID: dialog_9_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i have n't drawn this much in years
+   (ID: bleepblorp9878)
+
+2. i was corrected years ago so i will pass it on .
+   (ID: BoonTobias)
+
+3. i learned that years ago .
+   (ID: RonaldFuckingPaul)
+
+4. i have n't been active regarding anime in the past 3 or 4 years except shingeki no kyojin .
+   (ID: Ian_Str8)
+
+5. i saved , planned and designed it for almost 3 years .
+   (ID: VanGoJourney)
+
+6. i have had my primary mask for 16 years .
+   (ID: deputydan_scubaman)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i was born 20 years ago .
+   (ID: conversation_23)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I was a wild child in my younger years.
+   (ID: conversation_30_user_2)
+
+
+============================================================

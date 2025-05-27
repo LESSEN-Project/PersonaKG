@@ -1,0 +1,33 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i go to at least 10 concerts a year .
+   (ID: conversation_13)
+
+2. at night , i party hard in the atlanta club scene , and i never miss a music festival .
+   (ID: conversation_106)
+
+3. i visit comic con .
+   (ID: conversation_168)
+
+4. i like to go to bars and people watch .
+   (ID: conversation_169)
+
+5. i like to party .
+   (ID: conversation_7)
+
+
+============================================================

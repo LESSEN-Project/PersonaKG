@@ -1,0 +1,130 @@
+CLUSTER 188
+============================================================
+Total statements in cluster: 96
+Cluster persistence (stability): 0.423
+
+Dataset distribution in this cluster:
+  MPChat: 2 (2.1%)
+  MSC: 2 (2.1%)
+  PEC: 87 (90.6%)
+  PER-CHAT: 2 (2.1%)
+  PersonaChat: 2 (2.1%)
+  SyntheticPersonaChat: 1 (1.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i think he likes it
+   (ID: CollegeSleezeball)
+
+2. i think she ate too much spinach...
+   (ID: River_Lethe)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I think most scary monsters are serious.
+   (ID: dialog_54_speaker_2)
+
+2. I think that I am bipolar.
+   (ID: dialog_43_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 87
+
+1. i think it was for titanium if memory serves ?
+   (ID: JohnnyPappis)
+
+2. i think the contest is over ...
+   (ID: MILeft)
+
+3. i do n't think dusty is thrilled with his top hat ...
+   (ID: mizzpkat)
+
+4. i think it should be , _ turkey
+   (ID: harumpf)
+
+5. i think the repulsive technology is goop .
+   (ID: DanGarion)
+
+6. i do n't think we should publicize violence .
+   (ID: cometparty)
+
+7. i think i will not be visiting .
+   (ID: dammitOtto)
+
+8. i think i shall call her elizabeth
+   (ID: Stan063)
+
+9. i think it stands for " muddy hemaroids "
+   (ID: aydinsevimli)
+
+10. i think you are lying .
+   (ID: Weed_n_Wisdom)
+
+11. i think this is an untapped market that someone should exploit .
+   (ID: giraffecakes)
+
+12. i think this is a craigslist scam
+   (ID: jbasta93)
+
+13. i think we should call him the original dave :)
+   (ID: conservative_poly)
+
+14. i think that 's a false equivalence .
+   (ID: IncredibleBulk2)
+
+15. i think that 's an act though .
+   (ID: redandblack555)
+
+16. i think he was overwhelmed by all the feedback .
+   (ID: blue_thingy)
+
+17. i think being in the western conference more than anything
+   (ID: BearCanoe)
+
+18. i think it 's ready for primetime .
+   (ID: ludaa)
+
+19. i think i 'm offended that you spelled it as twonies .
+   (ID: foldor)
+
+20. i do n't think that was the quote .
+   (ID: Piraticalstyle)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. do you think about breathing too ?
+   (ID: 617a45b75601128e5c804bd8ca6b8e525a4aa02d)
+
+2. i think you made a mistake there
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am not afraid of what others think .
+   (ID: conversation_37)
+
+2. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I think the moon landing was faked.
+   (ID: conversation_250_user_2)
+
+
+============================================================

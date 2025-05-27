@@ -1,0 +1,166 @@
+CLUSTER 36
+============================================================
+Total statements in cluster: 85
+Cluster persistence (stability): 0.643
+
+Dataset distribution in this cluster:
+  FoCus: 4 (4.7%)
+  MSC: 5 (5.9%)
+  PEC: 5 (5.9%)
+  PER-CHAT: 64 (75.3%)
+  PersonaChat: 5 (5.9%)
+  SyntheticPersonaChat: 2 (2.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 4
+
+1. I wish to live in England.
+   (ID: 72MY00U8UEGB_11)
+
+2. I live in urban part of the city.
+   (ID: QK9TQHXYFFJ9_11)
+
+3. I love to live in Tây Ninh.
+   (ID: IP4KRMQQREBQ_9)
+
+4. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+2. I live in Seattle.
+   (ID: dialog_38_speaker_1)
+
+3. I live in a fantasy world.
+   (ID: dialog_50_speaker_2)
+
+4. I have a porch where I live.
+   (ID: dialog_71_speaker_2)
+
+5. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i live on top of your mother .
+   (ID: DarkMoon99)
+
+2. i live in dallas and you have no idea what it 's like here .
+   (ID: HugePurpleNipples)
+
+3. i know where you live .
+   (ID: MILeft)
+
+4. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
+
+5. i have 3 weezing 's and i live in tx
+   (ID: FrankOfTheDank)
+
+
+--- PER-CHAT ---
+Total from this dataset: 64
+
+1. I live in meth village.
+   (ID: 8df56ee782672f11aeb0f19bf7978b1b1c04e678)
+
+2. I live in sticks.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+3. I live in asbestos.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+4. I live in bedford.
+   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+
+5. I live in trois-rivières.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+6. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+7. I live in cave.
+   (ID: ba6e71577de908a22c0e12bb76ecba264f52d94e)
+
+8. I live in boring america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+9. I live in ty ass town.
+   (ID: b40d1d3ae1e77bcbdcb98e62deea24396d4b4d40)
+
+10. I live in hard water area.
+   (ID: 1e6ea64fb15fb5b12b1d82a3a5bdced4e3a6559a)
+
+11. I live in pp stories.
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+12. I live in reading comics.
+   (ID: 74058c90ada3aae7a59703064acbf3ced38f3681)
+
+13. I live in istanbul.
+   (ID: c63be1429c6442ee9219ae1573b45fc7a40d22f2)
+
+14. I live in borg america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+15. I live in turkey cats.
+   (ID: 2834b254700cedfb96641229b712899b4d697418)
+
+16. I live in society.
+   (ID: 4381fa1a63289663c5683187c0d07eadf81abfc2)
+
+17. I live in pal territory.
+   (ID: 2ac4d2cea574e655d7fdb1ab9b4886989929ca96)
+
+18. I live in guys.
+   (ID: abbe051c76bbb939d8594349cac549cb5435920d)
+
+19. I live in on edge bitch.
+   (ID: 4beccb79954eaf4ba6b69b6ac31b148b48f4f579)
+
+20. I live in adachiku.
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i live in the usa .
+   (ID: conversation_23)
+
+2. i live alone .
+   (ID: conversation_18)
+
+3. i live on a boat .
+   (ID: conversation_14)
+
+4. i live in rural wisconsin .
+   (ID: conversation_15)
+
+5. i live in nashville .
+   (ID: conversation_117)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+2. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+
+============================================================

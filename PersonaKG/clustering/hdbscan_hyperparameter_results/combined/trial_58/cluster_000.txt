@@ -1,0 +1,468 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 8924
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  FoCus: 224 (2.5%)
+  MPChat: 599 (6.7%)
+  MSC: 234 (2.6%)
+  PEC: 4316 (48.4%)
+  PER-CHAT: 3157 (35.4%)
+  PersonaChat: 223 (2.5%)
+  SyntheticPersonaChat: 171 (1.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 224
+
+1. I have membership in a sports club.
+   (ID: VZ1O6OE23O98_11)
+
+2. I love Church of Sinai.
+   (ID: TF24QL7QZSG2_11)
+
+3. I have worked in France.
+   (ID: LFGIG1TODPKB_11)
+
+4. I would like to enjoy matches in flood lighting.
+   (ID: VZ1O6OE23O98_11)
+
+5. I wish I knew Russian.
+   (ID: CBOI96AOZRK6_11)
+
+6. I am impressed by Classical Revival synagogue.
+   (ID: VQJADZ97TJ0Z_11)
+
+7. I like to try every roller coaster available in amusement parks.
+   (ID: KVV5IPK54RRU_11)
+
+8. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+9. I would like to do different activities.
+   (ID: MP1ZK22Q90C9_11)
+
+10. I have a friend from Maharashtra.
+   (ID: KGYT5MMVNDSG_11)
+
+11. I would like to see inscriptions.
+   (ID: CE0AK99XDA0R_9)
+
+12. I like when restorations happen.
+   (ID: AN8LSF1PEYK2_11)
+
+13. I have a painting in my home drawn in the year 1951.
+   (ID: TBZIWSGJCM17_11)
+
+14. I love David Attenborough documentaries since I was a kid.
+   (ID: A06HPOO7OWPE_11)
+
+15. I like valleys.
+   (ID: 82ZP2M9AL6U0_11)
+
+16. I am working in united states air force since 1976.
+   (ID: TBZIWSGJCM17_11)
+
+17. My favourite composer is Bach.
+   (ID: X45C380V98U8_9)
+
+18. I like to research about historic buildings.
+   (ID: H6GTJFTZ8LJI_11)
+
+19. I like learning about the 12 apostles.
+   (ID: OKU8UQBPUSMV_11)
+
+20. I think dragons are cool.
+   (ID: PSBPL4USIKMB_11)
+
+
+--- MPChat ---
+Total from this dataset: 599
+
+1. i have requests from friends for three more already.
+   (ID: Nikyma)
+
+2. finished my first ever blanket!
+   (ID: River_Lethe)
+
+3. i put aside a granny square project a few months ago and i just picked it back up.
+   (ID: FoxInKneeSocks)
+
+4. i thought i would have enough of the scrap color to finish one slipper but alas not.
+   (ID: Novel_Fox)
+
+5. my husband's a little sick so penny proud is making him feel better with her love.
+   (ID: kentobean123)
+
+6. i saw ammonites are reddit worthy so i had to post original ammonites from my pattern :)
+   (ID: iamPauPaul)
+
+7. i made a dragon scale dice bag for my son.
+   (ID: somuchyarn10)
+
+8. i made this cross stitch on scrim with black twist.
+   (ID: gelimausi)
+
+9. made this granny rectangle blanket and figured i'd post it in here for solidarity w the bros
+   (ID: Chris55730)
+
+10. i'm in love with this little anne of green gables that i've just made!
+   (ID: Ploliveira)
+
+11. after weeks of seasoning, i decided to try a cast iron pie.
+   (ID: mattsulli)
+
+12. gonna make a few more to match shirt colors i wear often.
+   (ID: Chris55730)
+
+13. my new keyboard has the volume up button on the left and the volume down on the right
+   (ID: FoxInKneeSocks)
+
+14. orange you glad i didn't crochet a banana?
+   (ID: Ichishiro)
+
+15. yoke done on my swashbuckler sweater!
+   (ID: Novel_Fox)
+
+16. happy with my submission for slowpour supply's rose challenge
+   (ID: jlb4est)
+
+17. i like photoshopping my crocheted characters into movie stills, can you tell the movie?
+   (ID: Louiesloops)
+
+18. my may coverpage - going to try to keep adding flowers as the month progresses.
+   (ID: XandXor)
+
+19. i found a bird's nest in the flower box at my house.
+   (ID: gelimausi)
+
+20. crocheted chandelure and shiny chandelure i made
+   (ID: KnitPurlPrint)
+
+
+--- MSC ---
+Total from this dataset: 234
+
+1. I was a manager before working at the warehouse, but my business went bankrupt. My business was bought out in 2000.
+   (ID: dialog_23_speaker_2)
+
+2. I'm a bibliophile.
+   (ID: dialog_9_speaker_1)
+
+3. I love to eat pizza with my friends. I love deep dish pepperoni pizza. I work art time at a pizza restaurant.
+   (ID: dialog_7_speaker_2)
+
+4. I am going out with my manager.
+   (ID: dialog_37_speaker_1)
+
+5. My favorite cuisine is thai.
+   (ID: dialog_23_speaker_2)
+
+6. I have a ps4.
+   (ID: dialog_35_speaker_1)
+
+7. I come from a large family.
+   (ID: dialog_4_speaker_1)
+
+8. One of my offspring is a quarterback.
+   (ID: dialog_5_speaker_1)
+
+9. I want to help people.
+   (ID: dialog_21_speaker_2)
+
+10. I have a extra digit.
+   (ID: dialog_31_speaker_1)
+
+11. My clothes are usually dark colors.
+   (ID: dialog_6_speaker_1)
+
+12. I have terrible vision. I get bad headaches.
+   (ID: dialog_34_speaker_2)
+
+13. I like mexican foods a lot.
+   (ID: dialog_12_speaker_1)
+
+14. I am shy. I like the Beatles.
+   (ID: dialog_2_speaker_1)
+
+15. I like the rolling stones.
+   (ID: dialog_12_speaker_2)
+
+16. I do not travel much.
+   (ID: dialog_8_speaker_2)
+
+17. Killing for sport is my hobby.
+   (ID: dialog_0_speaker_2)
+
+18. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+19. I work at eureka.
+   (ID: dialog_7_speaker_2)
+
+20. I am planning on running my first marathon. I have a personal goal to run a marathon in under 4 hours.
+   (ID: dialog_0_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4316
+
+1. i see op is following rules 12
+   (ID: ChallengeTaken99)
+
+2. i apologize when i 'm in the wrong .
+   (ID: Weed_n_Wisdom)
+
+3. i saw a vase
+   (ID: msiekkinen)
+
+4. i ’m not sure she cares
+   (ID: nate6051)
+
+5. i 've not used them , but they have been highly recommended to me by several people .
+   (ID: LooksAtClouds)
+
+6. i just need to buy 1 matching rim .
+   (ID: thebastion)
+
+7. i 'm still upset , though .
+   (ID: BabblingBunny)
+
+8. i would have loved this .
+   (ID: ItGetsAwkward)
+
+9. i ’m excited for him to move in with me soon
+   (ID: mooonjellies)
+
+10. i was planning to visit in january .
+   (ID: StinkinFinger)
+
+11. i love the handpainted backgrounds .
+   (ID: amirman)
+
+12. i know a guy that was 83 .
+   (ID: deputydan_scubaman)
+
+13. i mean , i get that they have a mental illness at worst , but still .
+   (ID: Mende)
+
+14. i believe in pa it is 11 years of continous uninterupted upkeep ... that 's pretty tight
+   (ID: RonaldFuckingPaul)
+
+15. i m down for an nyc meetup
+   (ID: NietzschesUbermensch)
+
+16. i will use the screenshot .
+   (ID: xcombelle)
+
+17. i wonder what the facts are on this
+   (ID: SamuelStephenBono)
+
+18. i 'm concerned : they constructed a check w / my name and checking account info .
+   (ID: LooksAtClouds)
+
+19. i 'm afraid i do n't see any picture there , though .
+   (ID: zsnajorrah)
+
+20. i used to follow this guy back in my fundamental days .
+   (ID: SamuelStephenBono)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3157
+
+1. you ' re not a failure because you had a panic attack . you didn ' t choose to , you didn ' t want it , we can ' t blame ourselves for things out of our control . i hope you win your fight .
+   (ID: 68d36e5b5d26327bbb5de8de16430cc93353cbf0)
+
+2. considering if you bayonet charge people in this game , your soldier will said something . then im sure you can get em .
+   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
+
+3. One of my favorite things is dark baths tipofmytongue.
+   (ID: 87173aaf55980a77c94bd30c851c39fb0b52ff2e)
+
+4. this is a truly horrible situation as a single dad i can ' t imagine what i would do if i lost one of mine . my heart goes out to you .
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+5. totally disagree , and frankly idk how people can agree , i mean when is it too much ? is notifying digit million people too much ? what about digit million ? why not just notify the whole planet ! digit  digit  digit we should all just be neighborhood watching for missing kids !
+   (ID: 203253ab73b19e5cd1d950c82537271605475cea)
+
+6. yes , thank you for your work ! if you are willing to do more of those , they will really be appreciated .
+   (ID: 9006d58872586db3bb808208616fdc9c3dff694b)
+
+7. One of my favorite things is reading 19th century european literature.
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+8. One of my favorite things is dinosaurs.
+   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
+
+9. it just is daunting to me to have such a large population for a city , and i would hate to move into the " bad parts " unknowingly . it would be like someone moving to townsville and accidentally going to live in vincent . they . would . die .
+   (ID: 7a3a98777bf2cebb6bd14409075a19b82035e535)
+
+10. oh my god i just literally died because that dog is so cute . then i came back to look again . it  s that cute .
+   (ID: 5481b7a3276de2b79473c4a65d5bb2506e36d79d)
+
+11. good , karma is a bitch sometimes . want to exclude people do ya ? take some of your own medicine , doesn  t that taste good ?
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+
+12. thank you for the response , i  ve been considering whether she  s really worth keeping around anyways . it  s just so hard to cut out someone who you  ve known your whole life .
+   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+
+13. One of my favorite things is pineapple on pizza.
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+14. I live in venice.
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+15. because everyone told me that it was bad as a child without being able to explain why . i got a lot of " it just is " which was about as useful as tits on a nun . i ' ve always had a weird trait , though . when someone tells me to stop asking questions or to stop thinking , i do those things even more . so , after being told to just accept things for years and years , i decided to start reading for myself . after all , i had this internet thing . then i had college . i started reading about all sorts of people . people fighting for social justice long before that became a pejorative , people fighting for economic justice . and also the people who conned other people in the name of those things . i came to a few conclusions  capitalist don ' t give half a flying fuck about the people on the bottom  be they workers , consumers , the old , the infirm , or some combination thereof . if they do seem to care , it ' s usually for the following reasons  they were personally impacted by a certain issue , they need to boost their pr , or and this is insanely rare they are actually decent people that managed to get wealthy . that communism seemed a tad extreme for me . also , that i doubt the human race is capable of actually committing to communism on a large scale without succumbing quickly to greed for power and wealth . that socialism seemed like a pretty nice compromise . take the good things that you see in a capitalist society , but remove the parts that shit all over those at the bottom . my views haven ' t really shifted all that much from those points i realized around ten years ago . i have gained far more knowledge since then , and i have realized that i am an outcast within my own region of the united states . the south is the most backward thinking place i have ever seen . they have some of the most government dependent citizenry , but they convince that citizenry to vote against their own interests and give the elite more power and money . and the thing is , i ' m torn . do i try and save the south which seems damn hard when even the liberals i know wholeheartedly embrace capitalism and shun socialism ? do i scrounge as much as i can and get the fuck out for friendlier waters which seems a tad cowardly and defeatist ?
+   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+
+16. science doesn ' t have to give any explanation , but it could point out the reasons why someone is ' messed up socially ' which would be the first good step towards change . better than the typical religious explanation which is something like ' you need jesus in your life ! that ' s why you are messed up ! let ' s pray together ! ' and ' purpose ' in life ? that ' s easy . it ' s whatever you decide it is . sure , it might be hard deciding , but in the end it is still your choice to make .
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+17. so many questions . how did you breach that subject without pissing her off ? also , can you recommend a doc ? final cost ?
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+18. I own a type.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+19. One of my favorite things is greige.
+   (ID: fe374743dd856c29f2117723cef01c1fdc3b3b5b)
+
+20. always feeling like i was underpaid at work . i felt like i did more work than most and was getting paid less . so in turn i would stop going out of my way and would only worry about myself and my digit every week then i ' d be done . no overtime , no extra work , no nothing and my work eventually declined with my attitude . ended up at a new company who went far out of their way to accommodate me i lost my license and driving to jobsites in a company van was a huge part of everyday and they actually got a whole new insurance policy that would insure me being red flagged when i got my license back . i started off really low on the totem pole only being digit but i worked my dick off and brought back my good habits and my great work ethic . i ' m now digit , been with this company for digit years and happily work overtime and go out of my way because they took risks on me , and even gave me our biggest hospital contract to date . they took the chance on me so i repaid them by giving them digit
+   (ID: dee1be637147c9065afbc159fbd3efc6ff54b847)
+
+
+--- PersonaChat ---
+Total from this dataset: 223
+
+1. i have always wanted a pot bellied pig .
+   (ID: conversation_79)
+
+2. i never learned how to write .
+   (ID: conversation_34)
+
+3. my father was born in australia .
+   (ID: conversation_9)
+
+4. i love the tigers baseball team .
+   (ID: conversation_93)
+
+5. i'm young .
+   (ID: conversation_96)
+
+6. my number is 42 .
+   (ID: conversation_62)
+
+7. i design video games for a living .
+   (ID: conversation_61)
+
+8. i own a hearse .
+   (ID: conversation_5)
+
+9. my parents don't know i am gay .
+   (ID: conversation_4)
+
+10. both my parents were teachers .
+   (ID: conversation_19)
+
+11. i write in my spare time .
+   (ID: conversation_66)
+
+12. i love sharks .
+   (ID: conversation_65)
+
+13. i hate tofu .
+   (ID: conversation_30)
+
+14. i should beverage been born a prince .
+   (ID: conversation_54)
+
+15. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+16. i had two cats growing up .
+   (ID: conversation_19)
+
+17. i am in the army .
+   (ID: conversation_35)
+
+18. i teach kindergarten .
+   (ID: conversation_70)
+
+19. my boyfriend works for nasa .
+   (ID: conversation_37)
+
+20. i wear contacts .
+   (ID: conversation_3)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 171
+
+1. I love sushi.
+   (ID: conversation_76_user_1)
+
+2. I enjoy karaoke every friday night.
+   (ID: conversation_91_user_2)
+
+3. I have one blue eye and one hazel eye.
+   (ID: conversation_59_user_2)
+
+4. I like to garden.
+   (ID: conversation_12_user_1)
+
+5. I don t work.
+   (ID: conversation_4_user_1)
+
+6. I don t know why my sister in law dislikes me.
+   (ID: conversation_98_user_2)
+
+7. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+8. Skateboarding is a hobby of mine.
+   (ID: conversation_42_user_2)
+
+9. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+10. My grand children mean the world to me.
+   (ID: conversation_30_user_2)
+
+11. I am a history buff.
+   (ID: conversation_25_user_2)
+
+12. I am an excellent student.
+   (ID: conversation_29_user_2)
+
+13. I do not have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_62_user_2)
+
+14. My favorite song is barbie girl.
+   (ID: conversation_58_user_2)
+
+15. I am a poet.
+   (ID: conversation_82_user_1)
+
+16. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+17. I went to stanford.
+   (ID: conversation_73_user_2)
+
+18. I am male.
+   (ID: conversation_5_user_1)
+
+19. I have depression and anxiety so i don t really go out a lot.
+   (ID: conversation_16_user_2)
+
+20. I lease my car.
+   (ID: conversation_5_user_1)
+
+
+============================================================

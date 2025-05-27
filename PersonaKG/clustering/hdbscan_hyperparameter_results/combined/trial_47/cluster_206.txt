@@ -1,0 +1,468 @@
+CLUSTER 206
+============================================================
+Total statements in cluster: 2711
+Cluster persistence (stability): 0.313
+
+Dataset distribution in this cluster:
+  FoCus: 64 (2.4%)
+  MPChat: 349 (12.9%)
+  MSC: 113 (4.2%)
+  PEC: 1492 (55.0%)
+  PER-CHAT: 515 (19.0%)
+  PersonaChat: 109 (4.0%)
+  SyntheticPersonaChat: 69 (2.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 64
+
+1. I am planning to go to Ukraine.
+   (ID: KE1YHY4I7DLW_11)
+
+2. I have visited the Teen Murti Bhavan.
+   (ID: EMXI5E4LUV20_11)
+
+3. I have some articles about Benjamin W. Chidlaw.
+   (ID: TBZIWSGJCM17_11)
+
+4. I have studied about Ramakrishna Mission.
+   (ID: WKS47SP8CYLV_11)
+
+5. I have interest in the Burke and Wills Dig Tree.
+   (ID: PSAPP3TRHUMW_11)
+
+6. I will go to Devon.
+   (ID: VUU19OURBLRK_11)
+
+7. I admire George Washington.
+   (ID: RULPAHV9K06Y_11)
+
+8. I have never been to a mosque.
+   (ID: OKU8UQBPUSMV_11)
+
+9. I have visited the Raj Bhavan at Chennai.
+   (ID: V3LNPA1FT8D2_11)
+
+10. I find steam machinery fascinating.
+   (ID: GABQG82ZVJCM_7)
+
+11. I have a cousin who lives in Orange County.
+   (ID: SJS6GHEH7ZIW_11)
+
+12. I have a fantasy about dungeons.
+   (ID: OIMR1GAVEYER_11)
+
+13. I am not from England.
+   (ID: KCX511DQ2QVM_9)
+
+14. I have an interest in medicinal herbs.
+   (ID: 744H5J0MPE9C_9)
+
+15. I have my own office building in Central Norway.
+   (ID: TB8HHXAP822G_11)
+
+16. I have not been to Walmer.
+   (ID: T9JPYSSWD7NW_11)
+
+17. I have studied about Turrbal nation in my college.
+   (ID: N14O6VGOOR7E_11)
+
+18. I have the fantasy about festivals.
+   (ID: CJWI83QV42AK_11)
+
+19. I am follower of Hyder Ali.
+   (ID: UN54IACHSTX5_11)
+
+20. I am fascinated by Neolithic period.
+   (ID: WZJKGOPTI7K6_11)
+
+
+--- MPChat ---
+Total from this dataset: 349
+
+1. channeling my inner bob ross for this buttercream cake
+   (ID: fredbutt)
+
+2. steak was seared at 950f and finished on my pellet grill.
+   (ID: cookinwithclint)
+
+3. it is (partially) lit i am in awe
+   (ID: meghanlovessunshine)
+
+4. [i made] daisy cupcakes
+   (ID: Sunshine_2425)
+
+5. meow i'm cuterer!
+   (ID: baccgirl)
+
+6. he never leaves my side
+   (ID: drewchie)
+
+7. [i ate] southern cornmeal grouper in a thai curry
+   (ID: patm28)
+
+8. this is my neighbor, sammich.
+   (ID: Flattishsassy)
+
+9. my first ever made cream of mushroom soup
+   (ID: toffis97)
+
+10. for bulli lovers i have embroidered a bulli as a key chain.
+   (ID: gelimausi)
+
+11. i turned a fake fur bag into a hood.
+   (ID: Nerdyredeyejedi)
+
+12. [fo]i made a lit christmas package.
+   (ID: gelimausi)
+
+13. how do i avoid ruffled edges on this knit/fleece bib?
+   (ID: hmbmelly)
+
+14. president petrie piggleton sharing my pillow
+   (ID: kentobean123)
+
+15. what should i call it?
+   (ID: jinxie1266)
+
+16. seamus tolerating my weirdness.
+   (ID: ambora)
+
+17. i made this bunny ears headband with a tail
+   (ID: letsallcrochetYT)
+
+18. itap of a syringe i found at an abandoned building
+   (ID: The69LTD)
+
+19. [i ate] oca tubers in a potato whey broth with garlic butter and crispy sage.
+   (ID: Chinchillasaurus)
+
+20. sneaking donuts between my cake layers [oc][3072 × 2048]
+   (ID: yolanda_gampp)
+
+
+--- MSC ---
+Total from this dataset: 113
+
+1. I'm bespectacled.
+   (ID: dialog_143_speaker_2)
+
+2. I am aware of motorcycle safety.
+   (ID: dialog_87_speaker_2)
+
+3. I'm originally from Baton Rouge. I have never been to Maryland. I am a chef for a caterer.
+   (ID: dialog_138_speaker_2)
+
+4. I go to restaurants frequently.
+   (ID: dialog_74_speaker_1)
+
+5. I have a neighbour who has a 386 custom tower.
+   (ID: dialog_31_speaker_1)
+
+6. I have a bachelors degree in psychology.
+   (ID: dialog_109_speaker_1)
+
+7. My name is Kim.
+   (ID: dialog_107_speaker_2)
+
+8. I am uncool.
+   (ID: dialog_122_speaker_2)
+
+9. I was on the pom pon squad as a teen.
+   (ID: dialog_76_speaker_1)
+
+10. There are cows on my farm.
+   (ID: dialog_42_speaker_2)
+
+11. My spouse is a member of the military.
+   (ID: dialog_40_speaker_2)
+
+12. I'm a thrill seeker.
+   (ID: dialog_73_speaker_1)
+
+13. I perform as a part of a congregation.
+   (ID: dialog_82_speaker_2)
+
+14. I am recognized for being neat.
+   (ID: dialog_72_speaker_1)
+
+15. I am employed at a business that serves mocha and other caffeinated drinks.
+   (ID: dialog_144_speaker_2)
+
+16. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+17. I am not a megalomaniac.
+   (ID: dialog_125_speaker_2)
+
+18. I found a recipe for Clam Chowder.
+   (ID: dialog_41_speaker_2)
+
+19. I'm patriotic.
+   (ID: dialog_113_speaker_2)
+
+20. My hubby rights books and we have a pair of twin children.
+   (ID: dialog_132_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1492
+
+1. i 'm an intp dating an intp .
+   (ID: RelaxedSociety)
+
+2. i will allow you to pretend to not tease me with your skintight comfort pants
+   (ID: RonaldFuckingPaul)
+
+3. i ’m a nikki and not all of us are psychotic � �
+   (ID: themarajade1)
+
+4. i ’m very intrigued though .
+   (ID: Heydawgg)
+
+5. i 'm scum .
+   (ID: bostown03)
+
+6. i will never take that cholesterol medicine again .
+   (ID: StinkinFinger)
+
+7. i 'm from nz too .
+   (ID: travelingkiwi)
+
+8. i also suspect a very hefty bill .
+   (ID: BlueSuedeBag)
+
+9. i 'm not bashing yuri .
+   (ID: tylock)
+
+10. i was expecting to see mocking of our very infancy toilets
+   (ID: bbakks)
+
+11. i had that sim as well .
+   (ID: AgedTwenties)
+
+12. i can roll with this .
+   (ID: Ooer)
+
+13. i 'd do me .
+   (ID: lonewolf2556)
+
+14. i ’m naturally clumsy .
+   (ID: Atlmama)
+
+15. i have guerilla !
+   (ID: pyro2927)
+
+16. i have a camp ground up by hancock md on the potomac .
+   (ID: iToaditSo)
+
+17. i was that other poster .
+   (ID: CarlofTime)
+
+18. i was n't invited to their wedding .
+   (ID: genpell)
+
+19. i might be trashy also
+   (ID: lambsquatch)
+
+20. i found something much more meaningful .
+   (ID: 512165381)
+
+
+--- PER-CHAT ---
+Total from this dataset: 515
+
+1. I own a challenge.
+   (ID: a69486a9dd78d1ba9533599ba57eac9079ca3c8d)
+
+2. jaywalking , such shame
+   (ID: 26eaf1fafb916f4238e66dfba6deb9da540be2f6)
+
+3. I am horny teenager.
+   (ID: 9ec97fcc6f16d54d7e24ba1cdb5ebe5785854536)
+
+4. I own a ancestor.
+   (ID: 395865cc8932d0b3d13214bce052e8915f32835b)
+
+5. I am hiv aladeen.
+   (ID: 09c182da66e9fb276d5bb24506e24997b2c988b0)
+
+6. I own a receipt.
+   (ID: 34d7a41f0778ab80ac97d43bcbe30cde5ab458d8)
+
+7. the nuclear launch codes
+   (ID: f07bd8b532084b20c0ab605df63553a028543519)
+
+8. I am igl.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+9. how can i do that again ?
+   (ID: 2abaf8413c23e36fd4e8a1e879a2875dea6dbf69)
+
+10. taking a shower to prepare yourself for a potential waterboarding session .
+   (ID: 067b7441373b7dfebd4b068272381804c26fe6dc)
+
+11. what else would it be there for ?
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+12. toilet paper . you can grab an enormous pinch of napkins from chipotle .
+   (ID: 237175707a16a7382ac8130de85ed85b63dc9442)
+
+13. is your last name gerszewski ?
+   (ID: 4f350b59a80efc55c353f9527b99d8b6f4fc403d)
+
+14. i will go with someone who is not me . cars of england
+   (ID: 89169d635166bbc089338914b42d288ecb2593e9)
+
+15. I own a zapper.
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+16. it adds to the mood
+   (ID: ba19f1817c5dfde741b0e3387f4c8902b125e2c5)
+
+17. I am constantly.
+   (ID: 1955f382f8fc2d10480017d73817b8c3b41c2a02)
+
+18. I own a radio.
+   (ID: a443986595c715cd541cd3925619cb6f1e8ada83)
+
+19. I own a market ban.
+   (ID: a69486a9dd78d1ba9533599ba57eac9079ca3c8d)
+
+20. I am arisen.
+   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
+
+
+--- PersonaChat ---
+Total from this dataset: 109
+
+1. i am colorblind .
+   (ID: conversation_109)
+
+2. i am lactose intolerant .
+   (ID: conversation_307)
+
+3. i am rich beyond my dreams .
+   (ID: conversation_208)
+
+4. i am bisexual .
+   (ID: conversation_159)
+
+5. i go fishing on the weekends to relax .
+   (ID: conversation_314)
+
+6. i m a graphic designer .
+   (ID: conversation_202)
+
+7. i am in 3rd grade .
+   (ID: conversation_354)
+
+8. i have ink stains on all my shirts .
+   (ID: conversation_31)
+
+9. i once fell up a whole flight of stairs .
+   (ID: conversation_329)
+
+10. i have freckles .
+   (ID: conversation_379)
+
+11. i'm a democrat .
+   (ID: conversation_331)
+
+12. i will never punch a clock again .
+   (ID: conversation_208)
+
+13. i am a profesional translator .
+   (ID: conversation_165)
+
+14. i m allergic to shellfish .
+   (ID: conversation_28)
+
+15. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+16. i breed maine coon cats and show them .
+   (ID: conversation_46)
+
+17. i can benchpress 345 pounds .
+   (ID: conversation_224)
+
+18. i'm an aspiring fiction writer .
+   (ID: conversation_86)
+
+19. i am a member of the ymca .
+   (ID: conversation_222)
+
+20. i ran for political office in 2004 .
+   (ID: conversation_113)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 69
+
+1. I am studying for my master s.
+   (ID: conversation_374_user_2)
+
+2. I am an excellent student.
+   (ID: conversation_29_user_2)
+
+3. I teach both japanese and drawing classes.
+   (ID: conversation_328_user_2)
+
+4. I am always hungry.
+   (ID: conversation_204_user_2)
+
+5. I am a poet.
+   (ID: conversation_82_user_1)
+
+6. The weather here is very cold , but so beautiful in the spring.
+   (ID: conversation_88_user_2)
+
+7. I am a baker.
+   (ID: conversation_175_user_1)
+
+8. I have allergies.
+   (ID: conversation_90_user_2)
+
+9. I am a roofer.
+   (ID: conversation_384_user_1)
+
+10. My name is mary and i am from colorado.
+   (ID: conversation_338_user_2)
+
+11. I have 3 science classes.
+   (ID: conversation_348_user_2)
+
+12. I have many homes.
+   (ID: conversation_261_user_2)
+
+13. I am a romantic.
+   (ID: conversation_122_user_1)
+
+14. I can do convincing bird calls.
+   (ID: conversation_2_user_2)
+
+15. I m very religious.
+   (ID: conversation_106_user_2)
+
+16. I am a pharmacist.
+   (ID: conversation_30_user_2)
+
+17. I am touring with frank ocean.
+   (ID: conversation_383_user_1)
+
+18. I have a timeshare in mexico.
+   (ID: conversation_81_user_2)
+
+19. I am a perfectionist.
+   (ID: conversation_396_user_2)
+
+20. My inspirations are alexander mcqueen and coco chanel.
+   (ID: conversation_191_user_2)
+
+
+============================================================

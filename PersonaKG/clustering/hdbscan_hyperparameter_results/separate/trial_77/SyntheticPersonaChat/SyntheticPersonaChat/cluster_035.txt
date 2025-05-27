@@ -1,0 +1,33 @@
+CLUSTER 35
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. My brother is in the army.
+   (ID: conversation_130_user_2)
+
+2. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+3. My brother thinks he is a viking.
+   (ID: conversation_309_user_2)
+
+4. There i am a general of an oris army.
+   (ID: conversation_333_user_2)
+
+5. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+
+============================================================

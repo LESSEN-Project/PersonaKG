@@ -1,0 +1,39 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i don't celebrate any holidays .
+   (ID: conversation_292)
+
+2. i don t know if i enjoy programming , or if it s my only choice .
+   (ID: conversation_179)
+
+3. i don t have a relationship with my deadbeat dad .
+   (ID: conversation_257)
+
+4. my friends don t call my by my real name .
+   (ID: conversation_693)
+
+5. i don t fully understand my own feelings .
+   (ID: conversation_299)
+
+6. i don't own a television .
+   (ID: conversation_400)
+
+7. i don't eat bread .
+   (ID: conversation_183)
+
+
+============================================================

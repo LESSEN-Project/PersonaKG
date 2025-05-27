@@ -1,0 +1,74 @@
+CLUSTER 328
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.866
+
+Dataset distribution in this cluster:
+  MPChat: 2 (16.7%)
+  MSC: 1 (8.3%)
+  PEC: 7 (58.3%)
+  PER-CHAT: 1 (8.3%)
+  PersonaChat: 1 (8.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. my phoenix has reached 40 inches.
+   (ID: Nikyma)
+
+2. i'm a hypocrite.
+   (ID: Beardedlantern)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i 'm stealing this .
+   (ID: ifatree)
+
+2. i can assure you it ’s not .
+   (ID: 11_29_77)
+
+3. i would not call variadic dispatch in python unreadable
+   (ID: xcombelle)
+
+4. i m down for an nyc meetup
+   (ID: NietzschesUbermensch)
+
+5. i would be a chef .
+   (ID: 11_29_77)
+
+6. i fw the vision
+   (ID: FrankOfTheDank)
+
+7. i 'm not bashing yuri .
+   (ID: tylock)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. what ' s her snap ?
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i have my own salon .
+   (ID: conversation_14)
+
+
+============================================================

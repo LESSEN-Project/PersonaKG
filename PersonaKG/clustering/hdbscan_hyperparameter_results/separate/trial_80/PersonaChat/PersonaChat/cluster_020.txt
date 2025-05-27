@@ -1,0 +1,36 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.978
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i enjoy hanging out with my imaginary friends as a hobby .
+   (ID: conversation_184)
+
+2. my favorite hobby is chess .
+   (ID: conversation_149)
+
+3. when i've nothing else to do , i read books .
+   (ID: conversation_36)
+
+4. i enjoy watching videos on youtube .
+   (ID: conversation_174)
+
+5. i like playing games online .
+   (ID: conversation_108)
+
+6. i enjoy shopping .
+   (ID: conversation_71)
+
+
+============================================================

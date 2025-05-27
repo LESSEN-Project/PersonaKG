@@ -1,0 +1,39 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.908
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. my family migrated to america when i was five .
+   (ID: conversation_22)
+
+2. my father lives in china .
+   (ID: conversation_6)
+
+3. while both my parents have thick european accents , i do not .
+   (ID: conversation_87)
+
+4. my father was born in australia .
+   (ID: conversation_9)
+
+5. my last name is spanish , but i tell people that it s italian .
+   (ID: conversation_179)
+
+6. my grandma is from denmark .
+   (ID: conversation_162)
+
+7. my mother was born in ireland .
+   (ID: conversation_38)
+
+
+============================================================

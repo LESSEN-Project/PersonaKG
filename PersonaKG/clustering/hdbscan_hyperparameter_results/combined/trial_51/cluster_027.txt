@@ -1,0 +1,71 @@
+CLUSTER 27
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  MSC: 3 (27.3%)
+  PEC: 2 (18.2%)
+  PER-CHAT: 1 (9.1%)
+  PersonaChat: 3 (27.3%)
+  SyntheticPersonaChat: 2 (18.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I have a black lab dog named George. I do not have any children.
+   (ID: dialog_76_speaker_2)
+
+2. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+3. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i have a green - eyed boy also , but he 's an orange kitty !
+   (ID: mizzpkat)
+
+2. i have affectionately named it theodore .
+   (ID: deputydan_scubaman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I own a african.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. my dogs name is toto .
+   (ID: conversation_162)
+
+2. i have a dog named bob .
+   (ID: conversation_27)
+
+3. i have a dog named socks .
+   (ID: conversation_172)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I have one little boy named owen.
+   (ID: conversation_118_user_2)
+
+2. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+
+============================================================

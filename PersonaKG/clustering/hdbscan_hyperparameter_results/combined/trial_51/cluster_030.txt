@@ -1,0 +1,112 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 23
+Cluster persistence (stability): 0.983
+
+Dataset distribution in this cluster:
+  FoCus: 12 (52.2%)
+  MSC: 1 (4.3%)
+  PEC: 4 (17.4%)
+  PER-CHAT: 2 (8.7%)
+  PersonaChat: 2 (8.7%)
+  SyntheticPersonaChat: 2 (8.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 12
+
+1. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+2. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+3. I visited Frankford last year.
+   (ID: HK4CNKBL5R5V_11)
+
+4. I have visited the BC Place.
+   (ID: UHVFDJII2GF5_11)
+
+5. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+6. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+7. I have been to the state of Illinois.
+   (ID: VPRC44FNGVA6_11)
+
+8. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+9. I am born in Pennsylvania.
+   (ID: 97WAFKFECFDE_9)
+
+10. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+11. I have visited the Canadian National Exhibition Stadium.
+   (ID: NMEFJE64KZ1F_11)
+
+12. I have visited Austria many times.
+   (ID: YLLQOXHD6MZC_7)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I was born in moscow.
+   (ID: dialog_113_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i grew up in chagrin falls
+   (ID: Justadropinthesea)
+
+2. i 'm from the us but i went to a norwegian college .
+   (ID: juliacakes)
+
+3. i spent a lot of my childhood in rochester .
+   (ID: Chicoconut)
+
+4. i 've been to middle east.beautiful town in sweden
+   (ID: ChallengeTaken99)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+2. I am albanian.
+   (ID: 41fc1b2c09d5a16a25f120edde55b2a6e2e54e29)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i was born in baton rouge .
+   (ID: conversation_138)
+
+2. i grew up in alabama .
+   (ID: conversation_221)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am italian american.
+   (ID: conversation_173_user_2)
+
+2. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+
+============================================================

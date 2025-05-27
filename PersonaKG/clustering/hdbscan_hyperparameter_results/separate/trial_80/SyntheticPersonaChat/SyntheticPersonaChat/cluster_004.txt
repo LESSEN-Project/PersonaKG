@@ -1,0 +1,39 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.964
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I recently had knee surgery.
+   (ID: conversation_149_user_2)
+
+2. My left knee is filled with metal.
+   (ID: conversation_24_user_2)
+
+3. There are thorns tattooed on my toes.
+   (ID: conversation_157_user_2)
+
+4. I have long fingers.
+   (ID: conversation_19_user_1)
+
+5. Like a skeleton.
+   (ID: conversation_19_user_1)
+
+6. I have never broken a bone.
+   (ID: conversation_133_user_1)
+
+7. I have 6 toes on one foot.
+   (ID: conversation_114_user_2)
+
+
+============================================================

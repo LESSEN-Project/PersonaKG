@@ -1,0 +1,75 @@
+CLUSTER 37
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.986
+
+Dataset distribution in this cluster:
+  FoCus: 8 (57.1%)
+  MSC: 1 (7.1%)
+  PEC: 4 (28.6%)
+  PersonaChat: 1 (7.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 8
+
+1. I wish to own a house in Toronto.
+   (ID: NMEFJE64KZ1F_11)
+
+2. I wish to have a building in Twickenham.
+   (ID: 8C87PLCFQ0ZH_11)
+
+3. I wish to go to Nuremberg.
+   (ID: YB6ZF4SJI3P1_11)
+
+4. I wish to follow Wolfgang Lazius.
+   (ID: YLLQOXHD6MZC_7)
+
+5. I wish to build a monastery in Sinai Peninsula.
+   (ID: TF24QL7QZSG2_11)
+
+6. I wish to go to El Paso.
+   (ID: Z8RPC24EURS4_7)
+
+7. I wish to build a dam in Australia.
+   (ID: KHRYE9OFUIMW_9)
+
+8. I wish to study at Oxford.
+   (ID: PCA6OG1NNC5D_9)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I wish I was an astronaut.
+   (ID: dialog_45_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i wish i could !
+   (ID: Montag3636)
+
+2. i wish i had this !
+   (ID: bmeckel)
+
+3. i wish i had .
+   (ID: MrBovineJoni)
+
+4. i wish i could go on that !
+   (ID: cassieeh)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i wish i was a tiger .
+   (ID: conversation_156)
+
+
+============================================================

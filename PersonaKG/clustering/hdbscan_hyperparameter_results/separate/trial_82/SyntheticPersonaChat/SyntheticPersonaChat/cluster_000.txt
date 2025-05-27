@@ -1,0 +1,51 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.996
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 11
+
+1. I don t like feeling controlled.
+   (ID: conversation_3_user_2)
+
+2. I do not like coffee.
+   (ID: conversation_12_user_2)
+
+3. I am angry at my coworker.
+   (ID: conversation_289_user_2)
+
+4. I never cook.
+   (ID: conversation_322_user_1)
+
+5. I am unsociable.
+   (ID: conversation_7_user_1)
+
+6. I don t like my reputation.
+   (ID: conversation_3_user_2)
+
+7. I don t think my girlfriend understands.
+   (ID: conversation_162_user_2)
+
+8. I do not like vegetables.
+   (ID: conversation_4_user_2)
+
+9. I don t get along with my family.
+   (ID: conversation_360_user_2)
+
+10. I don t know why my sister in law dislikes me.
+   (ID: conversation_98_user_2)
+
+11. I don t treat my girlfriend very well.
+   (ID: conversation_347_user_1)
+
+
+============================================================

@@ -1,0 +1,39 @@
+CLUSTER 25
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.959
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. if i am not drinking , i am thinking , which makes me uncomfortable .
+   (ID: conversation_197)
+
+2. i wear contacts .
+   (ID: conversation_3)
+
+3. grandma makes jewelry .
+   (ID: conversation_365)
+
+4. pudding makes me gassy .
+   (ID: conversation_26)
+
+5. i only wear silver jewelry .
+   (ID: conversation_396)
+
+6. playing quake on slackware linux makes me happy .
+   (ID: conversation_211)
+
+7. i wear cardigans because i hope it makes me look more cultured .
+   (ID: conversation_179)
+
+
+============================================================

@@ -1,0 +1,42 @@
+CLUSTER 27
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.919
+
+Dataset distribution in this cluster:
+  PersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i do not drive .
+   (ID: conversation_56)
+
+2. i know how to drive a stickshift .
+   (ID: conversation_391)
+
+3. i drive a prius .
+   (ID: conversation_68)
+
+4. i sometimes drive fast .
+   (ID: conversation_427)
+
+5. i drive a lifted chevy truck .
+   (ID: conversation_550)
+
+6. i drive a jag .
+   (ID: conversation_169)
+
+7. my father use to drive a taxi cab in the 1970 s .
+   (ID: conversation_418)
+
+8. i drive a motorcycle instead of a car .
+   (ID: conversation_87)
+
+
+============================================================

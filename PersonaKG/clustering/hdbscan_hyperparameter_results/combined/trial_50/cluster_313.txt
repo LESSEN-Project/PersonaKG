@@ -1,0 +1,51 @@
+CLUSTER 313
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (16.7%)
+  MSC: 1 (16.7%)
+  PersonaChat: 3 (50.0%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have a brother who is passionate about birds and ornithology.
+   (ID: A06HPOO7OWPE_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My passion is in computer repairs.
+   (ID: dialog_32_speaker_2)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. welding is my career field .
+   (ID: conversation_4)
+
+2. my boyfriend works for nasa .
+   (ID: conversation_37)
+
+3. i'm enrolled in several college credit courses .
+   (ID: conversation_87)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+
+============================================================

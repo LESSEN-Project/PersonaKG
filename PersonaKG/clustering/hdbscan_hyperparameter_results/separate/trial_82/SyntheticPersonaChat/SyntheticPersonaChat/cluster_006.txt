@@ -1,0 +1,60 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.968
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 14 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 14
+
+1. I do not have much energy.
+   (ID: conversation_246_user_2)
+
+2. I have epilepsy.
+   (ID: conversation_372_user_2)
+
+3. I am always hungry.
+   (ID: conversation_204_user_2)
+
+4. I am bloated.
+   (ID: conversation_30_user_1)
+
+5. I eat ice cream when i am sad.
+   (ID: conversation_152_user_2)
+
+6. I am lactose intolerant.
+   (ID: conversation_101_user_2)
+
+7. Its good to eat a lot of veggies.
+   (ID: conversation_245_user_2)
+
+8. I eat all take out.
+   (ID: conversation_2_user_1)
+
+9. I try to watch what i eat.
+   (ID: conversation_161_user_2)
+
+10. I take medication.
+   (ID: conversation_170_user_1)
+
+11. I love to eat pita bread with hummus.
+   (ID: conversation_230_user_1)
+
+12. I like to drink green tea.
+   (ID: conversation_36_user_2)
+
+13. I take vitamin c when i have a cold.
+   (ID: conversation_353_user_2)
+
+14. I am a morning person.
+   (ID: conversation_130_user_1)
+
+
+============================================================

@@ -1,0 +1,468 @@
+CLUSTER 128
+============================================================
+Total statements in cluster: 1223
+Cluster persistence (stability): 0.232
+
+Dataset distribution in this cluster:
+  FoCus: 43 (3.5%)
+  MPChat: 159 (13.0%)
+  MSC: 46 (3.8%)
+  PEC: 688 (56.3%)
+  PER-CHAT: 183 (15.0%)
+  PersonaChat: 54 (4.4%)
+  SyntheticPersonaChat: 50 (4.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 43
+
+1. I have studied about pastoralist communities.
+   (ID: XDIIZK7KZ12G_11)
+
+2. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+3. I wan to go to Minnesota.
+   (ID: JTUKE03HZYSY_11)
+
+4. I am curious about local folklore.
+   (ID: WXYJ15QP91WP_7)
+
+5. I have stayed in resorts.
+   (ID: FZ7IE8MUIWRS_9)
+
+6. I have worked in France.
+   (ID: LFGIG1TODPKB_11)
+
+7. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+8. I am a wildlife photographer.
+   (ID: B4623TSE2PJX_7)
+
+9. I once hid in a hollow log during hide and seek as a child.
+   (ID: NETYMHGQTGLI_9)
+
+10. I am follower of Hyder Ali.
+   (ID: UN54IACHSTX5_11)
+
+11. I have never been in a canoe.
+   (ID: K73F47W36X0D_11)
+
+12. I will go to Devon.
+   (ID: VUU19OURBLRK_11)
+
+13. I am a wine connoisseur.
+   (ID: DIQU5A0EAGWM_11)
+
+14. I have interest in the Burke and Wills Dig Tree.
+   (ID: PSAPP3TRHUMW_11)
+
+15. I have curiosity about the original lake.
+   (ID: JJVJO5DV75YG_11)
+
+16. I have been to California.
+   (ID: UC6WD3SK3PG8_11)
+
+17. I am aware of Atlantic Ocean.
+   (ID: G6QWKZ4CTWVW_11)
+
+18. I am curious about isolated places.
+   (ID: Y037WWL4AZRY_11)
+
+19. I have some articles about Benjamin W. Chidlaw.
+   (ID: TBZIWSGJCM17_11)
+
+20. I am curious about jails.
+   (ID: BWZ0H3E6AIGB_11)
+
+
+--- MPChat ---
+Total from this dataset: 159
+
+1. i saved that pile of mess.
+   (ID: Crilbyte)
+
+2. i have 135 squares to block
+   (ID: FoxInKneeSocks)
+
+3. perry the platycorgi has claimed the pillows as his own and by law i cannot move him.
+   (ID: kentobean123)
+
+4. my pup ellen ripley.
+   (ID: SuperfineYarnCo)
+
+5. finished my crochet wooloo and eldegoss from pokemon sword and shield.
+   (ID: pokegirl93a)
+
+6. basket weave hat for my husband for christmas!
+   (ID: HMoney214)
+
+7. the easter bunnies i made for my daughter's 3rd grade class.
+   (ID: guessdragon)
+
+8. i found another finished object that i had forgotten about earlier.
+   (ID: Moriarty58)
+
+9. i'm finally starting to get the hang of soy milk.
+   (ID: BeastaBubbles)
+
+10. is my succulent dehydrated?
+   (ID: why_the_babies_wet)
+
+11. my base keeps washing out.
+   (ID: BeastaBubbles)
+
+12. from cardboard i made the paper cut.
+   (ID: gelimausi)
+
+13. crocheted chandelure and shiny chandelure i made
+   (ID: KnitPurlPrint)
+
+14. i made pride flag mug rugs
+   (ID: FoxInKneeSocks)
+
+15. i'm not even close to being at the level where i call myself a barista yet.
+   (ID: Soggypaper_)
+
+16. a few recent pours, taken with my 50mm/1.8f
+   (ID: ext23)
+
+17. what should i do with this?
+   (ID: iowajaycee)
+
+18. finished my virus meets granny shawl!
+   (ID: ablubberducky)
+
+19. i made 7 toy cars for toddlers.
+   (ID: gelimausi)
+
+20. first attempt at a cold fermented crust, split for my girlfriend who is allergic to avocado.
+   (ID: mattsulli)
+
+
+--- MSC ---
+Total from this dataset: 46
+
+1. I shooting my meals.
+   (ID: dialog_19_speaker_2)
+
+2. I am done with my education.
+   (ID: dialog_12_speaker_1)
+
+3. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+4. I broke my glasses. I have expensive glasses with progressive lenses.
+   (ID: dialog_31_speaker_1)
+
+5. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+6. My passion is in computer repairs.
+   (ID: dialog_32_speaker_2)
+
+7. I am a southern.
+   (ID: dialog_26_speaker_2)
+
+8. I am a nerd.
+   (ID: dialog_25_speaker_2)
+
+9. I much prefer warm weather sports.
+   (ID: dialog_31_speaker_1)
+
+10. My shoulders hurt.
+   (ID: dialog_31_speaker_2)
+
+11. I have never been out of the US either.
+   (ID: dialog_8_speaker_2)
+
+12. I have grown some very large plants.
+   (ID: dialog_17_speaker_1)
+
+13. Jumping out of an airplane would be a thrill.
+   (ID: dialog_1_speaker_1)
+
+14. I am taking singing lessons.
+   (ID: dialog_37_speaker_1)
+
+15. I'm an airplane pilot  in the army. I can give you some pilot training advice or tips.
+   (ID: dialog_35_speaker_2)
+
+16. I am studying finance.
+   (ID: dialog_7_speaker_2)
+
+17. I can jam.
+   (ID: dialog_0_speaker_1)
+
+18. One of my offspring is a quarterback.
+   (ID: dialog_5_speaker_1)
+
+19. My sister is a social worker.
+   (ID: dialog_23_speaker_2)
+
+20. She's a caretaker.
+   (ID: dialog_30_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 688
+
+1. i never understood this phenomenon / trend .
+   (ID: glowinthedark)
+
+2. i could not .
+   (ID: KikAtWorkFL)
+
+3. i never noticed the reset .
+   (ID: CarlofTime)
+
+4. i have always blamed the rich .
+   (ID: exotics)
+
+5. i already have two orders coming from you .
+   (ID: rycheme)
+
+6. i 'm planning my first bm trip for 2010 .
+   (ID: ifatree)
+
+7. i too , have a goal to squat my significant others .
+   (ID: buttercup_mauler)
+
+8. i have some serious internetting to catch up on
+   (ID: msiekkinen)
+
+9. i get an " expired " message .
+   (ID: MILeft)
+
+10. i see you in the mirror there
+   (ID: bummang)
+
+11. i have no preference as to whether the solution is " go to the salon " or diy .
+   (ID: Lsmoothies)
+
+12. i get the reference but i ’m still sick unfortunately :/ any more hints ?
+   (ID: bummang)
+
+13. i chose manual recovery .
+   (ID: amirman)
+
+14. i visited now and it says " 4chan " .
+   (ID: LabeledAsALunatic)
+
+15. i would vote for a corpse before i 'd vote for trump and even worse , pence as vp .
+   (ID: StinkinFinger)
+
+16. i am the dark one .
+   (ID: combover)
+
+17. i find muting me to be even harsher and unfair .
+   (ID: nate6051)
+
+18. i do this and i dint tend to swing as much as you .
+   (ID: AgedTwenties)
+
+19. i 'm karma whoring )
+   (ID: amirman)
+
+20. i was expecting a gif of jenny with something dribbling down her chin .
+   (ID: NietzschesUbermensch)
+
+
+--- PER-CHAT ---
+Total from this dataset: 183
+
+1. i am everyone in this image except squalo and tiziano because that implies that i would ever get pussy or cock
+   (ID: d72952657a3571deff985040e565d95d8206db60)
+
+2. I am amateur.
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+3. I own a empire.
+   (ID: 0b52265db13bf8bc27ad36aad94e870706eb6689)
+
+4. why not both ?
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+5. I own a vape.
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+6. what have you done ?
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+7. spoonfuls of sugar , in bed , after my soccer games .
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+8. I own a stomach.
+   (ID: 45768598053a5b3cdf1e6e286b99114b7acf5f3c)
+
+9. I own a ball.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+10. this one ? or this one ?
+   (ID: b61e1d4de0e5d22ad937104e46a2657b01e7cca9)
+
+11. I own a d3400.
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+12. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+13. I am amateur gunlancer.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+14. I own a fief.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+15. I own a orb.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+16. I am abuser.
+   (ID: e0c81b4b90b0c79cd330827a7fe15c4ac2958b48)
+
+17. I am drunke.
+   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
+
+18. we would save the soviet union
+   (ID: 77a6bff8693a174b55d34fc32fdd8a87710fecb7)
+
+19. because most dudes myself included are clueless on how to be romantic .
+   (ID: 2cc106beadb9cde22175338488da9efb20933748)
+
+20. I own a lunch.
+   (ID: 6eec77fe98b9dc85ec1e5e7edc37cdb415794719)
+
+
+--- PersonaChat ---
+Total from this dataset: 54
+
+1. i should beverage been born a prince .
+   (ID: conversation_54)
+
+2. my mother was a nurse .
+   (ID: conversation_45)
+
+3. my name is omar .
+   (ID: conversation_42)
+
+4. my father was also in the military .
+   (ID: conversation_89)
+
+5. my father worked for ge .
+   (ID: conversation_11)
+
+6. i am in the army .
+   (ID: conversation_35)
+
+7. i am primarily a meat eater .
+   (ID: conversation_4)
+
+8. i own a pug , and he is the most loyal pet you will ever have .
+   (ID: conversation_43)
+
+9. my father was born in australia .
+   (ID: conversation_9)
+
+10. i wear contacts .
+   (ID: conversation_3)
+
+11. i am a social butterfly .
+   (ID: conversation_16)
+
+12. my major is business .
+   (ID: conversation_7)
+
+13. i am chubby .
+   (ID: conversation_74)
+
+14. i own a hearse .
+   (ID: conversation_5)
+
+15. i'm a waitress at a popular houston club .
+   (ID: conversation_77)
+
+16. i can only see 200 feet in front of me .
+   (ID: conversation_34)
+
+17. i'm very athletic .
+   (ID: conversation_3)
+
+18. i m from texas .
+   (ID: conversation_8)
+
+19. my husband is a cop .
+   (ID: conversation_78)
+
+20. sometimes i volunteer at an urban farm .
+   (ID: conversation_20)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 50
+
+1. My name is arnold.
+   (ID: conversation_5_user_2)
+
+2. I am unsociable.
+   (ID: conversation_7_user_1)
+
+3. I am a poet.
+   (ID: conversation_82_user_1)
+
+4. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+5. I am not healthy.
+   (ID: conversation_21_user_1)
+
+6. I am a geology major at alabama university.
+   (ID: conversation_72_user_2)
+
+7. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+8. I can do convincing bird calls.
+   (ID: conversation_2_user_2)
+
+9. I am a pharmacist.
+   (ID: conversation_30_user_2)
+
+10. I am addicted to the hit show empire.
+   (ID: conversation_76_user_2)
+
+11. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+12. I am in 3rd grade.
+   (ID: conversation_62_user_2)
+
+13. I am from russia.
+   (ID: conversation_7_user_2)
+
+14. I have a timeshare in mexico.
+   (ID: conversation_81_user_2)
+
+15. I am incredibly smart.
+   (ID: conversation_9_user_2)
+
+16. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+17. I am obsessed with filming.
+   (ID: conversation_32_user_2)
+
+18. I surf everyday.
+   (ID: conversation_89_user_2)
+
+19. I am blonde.
+   (ID: conversation_16_user_1)
+
+20. I have a harsh inner critic.
+   (ID: conversation_3_user_2)
+
+
+============================================================

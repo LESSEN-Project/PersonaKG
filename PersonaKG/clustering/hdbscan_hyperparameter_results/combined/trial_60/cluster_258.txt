@@ -1,0 +1,84 @@
+CLUSTER 258
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.789
+
+Dataset distribution in this cluster:
+  MPChat: 3 (17.6%)
+  MSC: 5 (29.4%)
+  PersonaChat: 7 (41.2%)
+  SyntheticPersonaChat: 2 (11.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. we made one of my favorite street foods in bolivia.
+   (ID: onemantwohands)
+
+2. a nearly 4lb stromboli from my favorite pizzeria in se florida closing there doors due to covid19
+   (ID: MonstaEatsItAll)
+
+3. monster cakes are my favorite!
+   (ID: Learning2Grow)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. Catching walleye is a favorite sport of mine.
+   (ID: dialog_81_speaker_1)
+
+2. Guns and roses is my favorite band.
+   (ID: dialog_6_speaker_1)
+
+3. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+4. Batman is my favorite hero.
+   (ID: dialog_95_speaker_2)
+
+5. My favorite subject is psychology.
+   (ID: dialog_23_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+2. i favorite brand of clothing is donna karen .
+   (ID: conversation_213)
+
+3. my favorite player is mike trout .
+   (ID: conversation_103)
+
+4. my favorite flower is a rose .
+   (ID: conversation_129)
+
+5. my favorite color is blue .
+   (ID: conversation_23)
+
+6. summer is my favorite season .
+   (ID: conversation_24)
+
+7. my favorite tv show is dancing with the stars .
+   (ID: conversation_144)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My favorite store is american eagle.
+   (ID: conversation_4_user_2)
+
+2. Starbucks is my favorite hang out spot.
+   (ID: conversation_268_user_1)
+
+
+============================================================

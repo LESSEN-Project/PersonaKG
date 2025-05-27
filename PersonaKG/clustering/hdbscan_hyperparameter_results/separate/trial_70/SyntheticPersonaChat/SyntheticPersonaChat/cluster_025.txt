@@ -1,0 +1,36 @@
+CLUSTER 25
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 6
+
+1. I have many friends.
+   (ID: conversation_25_user_1)
+
+2. Skateboarding is a hobby of mine.
+   (ID: conversation_42_user_2)
+
+3. My weekends are filled with bird watching.
+   (ID: conversation_419_user_2)
+
+4. I paddle board on my days off.
+   (ID: conversation_104_user_1)
+
+5. I smoke two packs of cigarettes most days.
+   (ID: conversation_421_user_2)
+
+6. My two dogs are the best friends a girl could have.
+   (ID: conversation_136_user_2)
+
+
+============================================================

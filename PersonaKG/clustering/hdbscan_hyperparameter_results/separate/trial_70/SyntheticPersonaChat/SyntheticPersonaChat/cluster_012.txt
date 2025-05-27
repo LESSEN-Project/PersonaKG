@@ -1,0 +1,45 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.556
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 9
+
+1. My parents do not know i am gay.
+   (ID: conversation_139_user_2)
+
+2. I still live at home with my parents.
+   (ID: conversation_0_user_1)
+
+3. Both of my parents are doctors.
+   (ID: conversation_260_user_2)
+
+4. My parents raised me as a buddhist.
+   (ID: conversation_423_user_2)
+
+5. My parents were divorced.
+   (ID: conversation_222_user_1)
+
+6. I leave the dogs home when i visit my parents.
+   (ID: conversation_215_user_2)
+
+7. Both my parents are creative.
+   (ID: conversation_319_user_2)
+
+8. I have no parents or siblings.
+   (ID: conversation_9_user_2)
+
+9. I know how to count cards in blackjack.
+   (ID: conversation_455_user_1)
+
+
+============================================================

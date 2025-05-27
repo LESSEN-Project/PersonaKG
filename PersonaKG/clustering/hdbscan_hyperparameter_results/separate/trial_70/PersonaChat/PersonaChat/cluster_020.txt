@@ -1,0 +1,36 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. my favorite musician in charlie daniels .
+   (ID: conversation_250)
+
+2. my favorite flower is a rose .
+   (ID: conversation_129)
+
+3. connor mcgregor is my favorite fighter .
+   (ID: conversation_381)
+
+4. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+5. nike cleats are my favorite .
+   (ID: conversation_62)
+
+6. starbucks is my favorite hang out spot .
+   (ID: conversation_455)
+
+
+============================================================

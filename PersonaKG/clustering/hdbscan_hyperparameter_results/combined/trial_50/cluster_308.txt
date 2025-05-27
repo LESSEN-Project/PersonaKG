@@ -1,0 +1,52 @@
+CLUSTER 308
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  PEC: 6 (75.0%)
+  PersonaChat: 1 (12.5%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i drink lots of soda .
+   (ID: Sabiola)
+
+2. i ’m a fruitcake junkie .
+   (ID: 11_29_77)
+
+3. i often get bloated on depo .
+   (ID: mooonjellies)
+
+4. i can not drink hot coffee .
+   (ID: AgedTwenties)
+
+5. i had to take a beta blocker for svt .
+   (ID: rycheme)
+
+6. i have a 22 bmi but 32 % bodyfat .
+   (ID: buttercup_mauler)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i am primarily a meat eater .
+   (ID: conversation_4)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am bloated.
+   (ID: conversation_30_user_1)
+
+
+============================================================

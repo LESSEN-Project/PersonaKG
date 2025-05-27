@@ -1,0 +1,42 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.998
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. My dogs name is toto.
+   (ID: conversation_44_user_2)
+
+2. I have a passion for politics.
+   (ID: conversation_335_user_2)
+
+3. I am buying a house.
+   (ID: conversation_93_user_1)
+
+4. After finishing my career i discovered that i am not that passionate about it.
+   (ID: conversation_229_user_2)
+
+5. I am tall.
+   (ID: conversation_12_user_1)
+
+6. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+7. I have 6 toes on one foot.
+   (ID: conversation_114_user_2)
+
+8. I am afraid to leave the house.
+   (ID: conversation_68_user_2)
+
+
+============================================================

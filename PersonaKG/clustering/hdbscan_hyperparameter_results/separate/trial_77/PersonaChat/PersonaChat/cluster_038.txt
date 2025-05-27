@@ -1,0 +1,33 @@
+CLUSTER 38
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i am in 3rd grade .
+   (ID: conversation_354)
+
+2. i'm terrible at math .
+   (ID: conversation_172)
+
+3. my youngest sister is in first grade .
+   (ID: conversation_293)
+
+4. i'm the youngest of 3 .
+   (ID: conversation_352)
+
+5. i broke my nose in 5th grade .
+   (ID: conversation_368)
+
+
+============================================================

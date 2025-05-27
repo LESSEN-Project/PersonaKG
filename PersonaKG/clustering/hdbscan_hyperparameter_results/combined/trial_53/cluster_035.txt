@@ -1,0 +1,86 @@
+CLUSTER 35
+============================================================
+Total statements in cluster: 16
+Cluster persistence (stability): 0.981
+
+Dataset distribution in this cluster:
+  MSC: 5 (31.2%)
+  PEC: 3 (18.8%)
+  PER-CHAT: 1 (6.2%)
+  PersonaChat: 5 (31.2%)
+  SyntheticPersonaChat: 2 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I have a black lab dog named George. I do not have any children.
+   (ID: dialog_76_speaker_2)
+
+2. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+3. I have a black lab cat. I like go fishing.
+   (ID: dialog_55_speaker_1)
+
+4. My dog's breed is Siberian Husky.I had a dog named Sally. I want a cat soon.
+   (ID: dialog_34_speaker_1)
+
+5. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i have affectionately named it theodore .
+   (ID: deputydan_scubaman)
+
+2. i named my old cat " rex manning " .
+   (ID: Mahatma_Panda)
+
+3. i have a grey tabby as well , also named pippin !
+   (ID: monday_madrigal)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I have a hamster as a pet.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i have a pet snake .
+   (ID: conversation_50)
+
+2. my dogs name is toto .
+   (ID: conversation_162)
+
+3. i've a parrot named parrot .
+   (ID: conversation_138)
+
+4. i have a dog named bob .
+   (ID: conversation_27)
+
+5. i've a cat named leela .
+   (ID: conversation_58)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I have a parakeet.
+   (ID: conversation_101_user_2)
+
+2. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+
+============================================================

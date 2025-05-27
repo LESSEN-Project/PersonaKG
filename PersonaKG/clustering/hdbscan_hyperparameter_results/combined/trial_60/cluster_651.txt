@@ -1,0 +1,66 @@
+CLUSTER 651
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.936
+
+Dataset distribution in this cluster:
+  MPChat: 2 (18.2%)
+  PEC: 5 (45.5%)
+  PersonaChat: 2 (18.2%)
+  SyntheticPersonaChat: 2 (18.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. my dog poppy after finishing the bath she hated
+   (ID: HMoney214)
+
+2. i have embroidered a sunday collar for our dog.
+   (ID: gelimausi)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i 'm fostering a dog and she ran off at an adoption event .
+   (ID: lilykin)
+
+2. i cried at this , moreso than fry 's dog .
+   (ID: Shrub74)
+
+3. i call my dog hairy fairy because she 's tiny and ... hairy
+   (ID: opalskys)
+
+4. i have the fallout the dog .
+   (ID: IAMEvanss)
+
+5. i sketched a dog cross unicorn .
+   (ID: exotics)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i have a dog named bob .
+   (ID: conversation_27)
+
+2. i have a dog named socks .
+   (ID: conversation_172)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+2. My dog is the ring bearer.
+   (ID: conversation_179_user_2)
+
+
+============================================================

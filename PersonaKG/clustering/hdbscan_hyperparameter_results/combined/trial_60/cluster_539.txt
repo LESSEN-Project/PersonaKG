@@ -1,0 +1,63 @@
+CLUSTER 539
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.891
+
+Dataset distribution in this cluster:
+  PEC: 6 (60.0%)
+  PER-CHAT: 1 (10.0%)
+  PersonaChat: 2 (20.0%)
+  SyntheticPersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i 'd rather earn a job than have skydaddy drop it in my lap , thank you .
+   (ID: NyxPeregrinus)
+
+2. i ’m proud of sticking to one job for a while now !
+   (ID: mrhenk9)
+
+3. i started the job depressed and unmotivated .
+   (ID: redandblack555)
+
+4. i sent him to the slog and gave him a job .
+   (ID: deputydan_scubaman)
+
+5. i would be so screwed if i was suddenly out of a job .
+   (ID: chirpyboyandbartjr)
+
+6. i already do apple / pear sorting and picking as a job ...
+   (ID: Takumi-Fujiwara)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. do your job above and beyond what is expected of you .
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i have a marketing job .
+   (ID: conversation_267)
+
+2. i take pride in my job managing the restaurant .
+   (ID: conversation_189)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My next job will be in the federal court.
+   (ID: conversation_194_user_2)
+
+
+============================================================

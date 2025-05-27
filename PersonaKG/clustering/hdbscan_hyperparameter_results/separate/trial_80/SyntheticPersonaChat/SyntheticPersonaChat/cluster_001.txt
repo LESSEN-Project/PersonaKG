@@ -1,0 +1,42 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.921
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I grew up as an orphan.
+   (ID: conversation_66_user_2)
+
+2. I lost my arm in a car accident.
+   (ID: conversation_141_user_2)
+
+3. My mother is dead.
+   (ID: conversation_99_user_2)
+
+4. I broke my nose in 5th grade.
+   (ID: conversation_114_user_2)
+
+5. My father died when i was 2.
+   (ID: conversation_64_user_2)
+
+6. I was a wild child in my younger years.
+   (ID: conversation_30_user_2)
+
+7. When i was a child i was kidnapped by my uncle.
+   (ID: conversation_68_user_2)
+
+8. My cat died.
+   (ID: conversation_173_user_1)
+
+
+============================================================

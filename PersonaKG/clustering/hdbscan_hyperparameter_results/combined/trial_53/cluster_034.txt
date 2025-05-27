@@ -1,0 +1,125 @@
+CLUSTER 34
+============================================================
+Total statements in cluster: 29
+Cluster persistence (stability): 0.917
+
+Dataset distribution in this cluster:
+  MSC: 5 (17.2%)
+  PEC: 5 (17.2%)
+  PER-CHAT: 14 (48.3%)
+  PersonaChat: 2 (6.9%)
+  SyntheticPersonaChat: 3 (10.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. My name is Bill. I grew up in Alabama.
+   (ID: dialog_53_speaker_1)
+
+2. My dad calls me frankie.
+   (ID: dialog_15_speaker_1)
+
+3. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+4. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+5. I'm the ultimate. I'm the alpha and the omega.
+   (ID: dialog_43_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+2. i am peanut butter and jelly .
+   (ID: CuriousBlueAbra)
+
+3. i 'm jordan ward !
+   (ID: amirman)
+
+4. i am skuld .
+   (ID: Ooer)
+
+5. i 'm the juggernaut bitch .
+   (ID: LCPhotowerx)
+
+
+--- PER-CHAT ---
+Total from this dataset: 14
+
+1. I am scott.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+2. I am villain.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+3. I am support main.
+   (ID: a0849f7d6d0829c8bb5f820aa9bf63584c7471df)
+
+4. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+5. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+6. I am altmer mage.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+7. I am derp.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+8. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+9. I am captain.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+10. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+11. I am dayman.
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+12. I am igl.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+13. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+14. I am star.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my name is omar .
+   (ID: conversation_42)
+
+2. my name is todd .
+   (ID: conversation_119)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My name is kevin.
+   (ID: conversation_121_user_2)
+
+2. My name is arnold.
+   (ID: conversation_5_user_2)
+
+3. My name is nancy.
+   (ID: conversation_58_user_2)
+
+
+============================================================

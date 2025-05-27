@@ -1,0 +1,33 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I like collecting rocks.
+   (ID: conversation_190_user_2)
+
+2. I enjoy organizing my surroundings.
+   (ID: conversation_153_user_1)
+
+3. I like to hunt.
+   (ID: conversation_16_user_1)
+
+4. I like to draw.
+   (ID: conversation_8_user_2)
+
+5. I like to garden.
+   (ID: conversation_12_user_1)
+
+
+============================================================

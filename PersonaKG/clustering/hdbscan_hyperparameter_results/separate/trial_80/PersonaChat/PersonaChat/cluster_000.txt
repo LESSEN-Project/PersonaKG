@@ -1,0 +1,33 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i only use apple products because i feel everything else is inferior .
+   (ID: conversation_69)
+
+2. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+3. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+4. i use third party programs to read portable documents instead of adobe .
+   (ID: conversation_174)
+
+5. i couldn t live without my cell phone .
+   (ID: conversation_49)
+
+
+============================================================

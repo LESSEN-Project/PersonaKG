@@ -1,0 +1,196 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 117
+Cluster persistence (stability): 0.474
+
+Dataset distribution in this cluster:
+  FoCus: 2 (1.7%)
+  MSC: 5 (4.3%)
+  PEC: 14 (12.0%)
+  PER-CHAT: 86 (73.5%)
+  PersonaChat: 8 (6.8%)
+  SyntheticPersonaChat: 2 (1.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+2. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I live in California. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+2. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+3. I live in a fantasy world.
+   (ID: dialog_50_speaker_2)
+
+4. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+5. I have a porch where I live.
+   (ID: dialog_71_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 14
+
+1. i live in dayton and everyone is a bengals fan .
+   (ID: worried_panda)
+
+2. i just live in the movies .
+   (ID: Beachsurfer)
+
+3. i 'm sorry i live in asia
+   (ID: beautifulw0man)
+
+4. i ’m guessing you live in the pnw .
+   (ID: Justadropinthesea)
+
+5. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
+
+6. i live on top of your mother .
+   (ID: DarkMoon99)
+
+7. i live in ohio !
+   (ID: GetItTogether)
+
+8. i have 3 weezing 's and i live in tx
+   (ID: FrankOfTheDank)
+
+9. i do n’t even live that far from this town !
+   (ID: Dustin_Bromain)
+
+10. i live in denver .
+   (ID: Bathysphere710)
+
+11. i live in dublin .
+   (ID: Nimmyzed)
+
+12. i live in nyc and live near " the mosque " .
+   (ID: ddshroom)
+
+13. i live in dallas and you have no idea what it 's like here .
+   (ID: HugePurpleNipples)
+
+14. i live in a 3rd world country . )
+   (ID: beautifulw0man)
+
+
+--- PER-CHAT ---
+Total from this dataset: 86
+
+1. I live in hotspot.
+   (ID: 2bb956084cb9bf79f58345d6cf6beca98e76bbb4)
+
+2. I live in above gym.
+   (ID: 627809b826e1a364fb65664e0749e9e9eb90081d)
+
+3. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+4. I live in heating pad.
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+5. I live in world.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+6. I live in light.
+   (ID: 744a61859eb21e8e7ed805da69133b0d07c3e965)
+
+7. I live in with pigs.
+   (ID: fca46720f9aa154a0559b1e4d2d28cb0df46b00a)
+
+8. I live in sam.
+   (ID: 109fa004cbb85f6a703624f8b4393d7d7d685509)
+
+9. I live in venice.
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+10. I live in bangalore.
+   (ID: f37c6d73f88ae9488245dcae1da46589d182fa9b)
+
+11. I live in asbestos.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+12. I live in dogs.
+   (ID: 4f1b65a581332b9d19507ccf0e921d0967e013e7)
+
+13. I live in laminate.
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+14. I live in disneyland.
+   (ID: 46ebabd043d7d3e7a17fff03489569373a3fe5d4)
+
+15. I live in heart.
+   (ID: 445ba4596e4bcff0c96b23f038cf784185970198)
+
+16. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+17. I live in by firm rule.
+   (ID: 337350fc54133b327ce0d6d9f385f82a2a6738cf)
+
+18. I live in society.
+   (ID: 4381fa1a63289663c5683187c0d07eadf81abfc2)
+
+19. I live in borg america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+20. I live in house years.
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+2. i live in rural wisconsin .
+   (ID: conversation_15)
+
+3. i live in the usa .
+   (ID: conversation_23)
+
+4. i went to new york city once .
+   (ID: conversation_133)
+
+5. i live on a boat .
+   (ID: conversation_14)
+
+6. i still live with my parents .
+   (ID: conversation_24)
+
+7. i live alone .
+   (ID: conversation_18)
+
+8. i live in nashville .
+   (ID: conversation_117)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I now live in new mexico.
+   (ID: conversation_120_user_1)
+
+2. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

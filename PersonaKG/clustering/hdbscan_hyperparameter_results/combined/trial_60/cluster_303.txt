@@ -1,0 +1,47 @@
+CLUSTER 303
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.921
+
+Dataset distribution in this cluster:
+  FoCus: 4 (50.0%)
+  PersonaChat: 4 (50.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 4
+
+1. I don't like railroad in the vicinity of the city.
+   (ID: NK6WLDJ7W255_7)
+
+2. I don't like the high temperatures associated with pyroclastic flows.
+   (ID: G4JZMW0OPV0G_11)
+
+3. I don't like forest.
+   (ID: T815O8KC30IG_9)
+
+4. I don't like to intersection road.
+   (ID: UDGAGMKQ9TQ1_11)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i don t like the beach .
+   (ID: conversation_94)
+
+2. i don't like my reputation .
+   (ID: conversation_147)
+
+3. i don't like acting .
+   (ID: conversation_154)
+
+4. i don't like feeling controlled .
+   (ID: conversation_147)
+
+
+============================================================

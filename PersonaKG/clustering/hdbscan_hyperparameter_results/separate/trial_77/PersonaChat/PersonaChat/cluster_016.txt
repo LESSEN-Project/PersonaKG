@@ -1,0 +1,45 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.634
+
+Dataset distribution in this cluster:
+  PersonaChat: 9 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i eat ice cream when i am sad .
+   (ID: conversation_170)
+
+2. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+3. i don't eat bread .
+   (ID: conversation_183)
+
+4. its good to eat a lot of veggies .
+   (ID: conversation_137)
+
+5. i eat breakfast then go right back to bed .
+   (ID: conversation_148)
+
+6. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+7. i never eat veggies .
+   (ID: conversation_96)
+
+8. i love to eat pita bread with hummus .
+   (ID: conversation_277)
+
+9. i only eat organic food .
+   (ID: conversation_210)
+
+
+============================================================

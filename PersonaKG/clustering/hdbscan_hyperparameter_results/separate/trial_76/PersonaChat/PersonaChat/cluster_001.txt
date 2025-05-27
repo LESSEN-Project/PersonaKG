@@ -1,0 +1,36 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 6 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. my favorite car is the ford mustang .
+   (ID: conversation_185)
+
+2. i couldn t live without my cell phone .
+   (ID: conversation_49)
+
+3. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+4. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+5. i only use apple products because i feel everything else is inferior .
+   (ID: conversation_69)
+
+6. i use third party programs to read portable documents instead of adobe .
+   (ID: conversation_174)
+
+
+============================================================

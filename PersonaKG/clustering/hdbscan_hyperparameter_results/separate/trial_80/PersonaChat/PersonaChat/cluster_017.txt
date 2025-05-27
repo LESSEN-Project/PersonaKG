@@ -1,0 +1,54 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.923
+
+Dataset distribution in this cluster:
+  PersonaChat: 12 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 12
+
+1. i like to go hunting .
+   (ID: conversation_0)
+
+2. i love to larp .
+   (ID: conversation_74)
+
+3. i like to snowboard .
+   (ID: conversation_15)
+
+4. i love collecting teapots .
+   (ID: conversation_73)
+
+5. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+6. i like to play sports and get fresh air .
+   (ID: conversation_191)
+
+7. i like to remodel homes .
+   (ID: conversation_0)
+
+8. i like to paint .
+   (ID: conversation_60)
+
+9. i like jogging in my spare time .
+   (ID: conversation_77)
+
+10. i like to make boats on the weekends .
+   (ID: conversation_27)
+
+11. i love to crochet .
+   (ID: conversation_5)
+
+12. i love bicycling .
+   (ID: conversation_3)
+
+
+============================================================

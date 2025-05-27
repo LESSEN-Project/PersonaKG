@@ -1,0 +1,68 @@
+CLUSTER 643
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.837
+
+Dataset distribution in this cluster:
+  MPChat: 1 (10.0%)
+  PEC: 2 (20.0%)
+  PER-CHAT: 1 (10.0%)
+  PersonaChat: 3 (30.0%)
+  SyntheticPersonaChat: 3 (30.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my mother-in-law dressing up koda
+   (ID: kentobean123)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i had inherited it from my mother .
+   (ID: mmaswadeh)
+
+2. i recognized your mother
+   (ID: WiseScratch)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am funniest mother fucker.
+   (ID: 78a7be65b9d2e7cebf18280c07d4f44e6f2b3417)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. my mother was born in ireland .
+   (ID: conversation_38)
+
+2. my mother is in the hospital .
+   (ID: conversation_126)
+
+3. my mother was a nurse .
+   (ID: conversation_45)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My mother is allergic to dogs.
+   (ID: conversation_146_user_1)
+
+2. My mother has 500 pairs of shoes.
+   (ID: conversation_126_user_2)
+
+3. My mother has her own fashion brand.
+   (ID: conversation_187_user_1)
+
+
+============================================================

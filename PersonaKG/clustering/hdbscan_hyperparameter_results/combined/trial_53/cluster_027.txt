@@ -1,0 +1,150 @@
+CLUSTER 27
+============================================================
+Total statements in cluster: 34
+Cluster persistence (stability): 0.927
+
+Dataset distribution in this cluster:
+  FoCus: 1 (2.9%)
+  MPChat: 1 (2.9%)
+  MSC: 8 (23.5%)
+  PEC: 7 (20.6%)
+  PER-CHAT: 1 (2.9%)
+  PersonaChat: 9 (26.5%)
+  SyntheticPersonaChat: 7 (20.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I'm a CEO.
+   (ID: E3UZAGT5DTE5_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. here’s some of my work.
+   (ID: Lookingforearrings2)
+
+
+--- MSC ---
+Total from this dataset: 8
+
+1. I work on the line with machines.
+   (ID: dialog_44_speaker_2)
+
+2. I used to  work at a processing center for long hours.
+   (ID: dialog_23_speaker_1)
+
+3. I work with numbers.
+   (ID: dialog_63_speaker_1)
+
+4. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+5. I stay in an assistant living facility.
+   (ID: dialog_44_speaker_1)
+
+6. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+7. I get paid by the piece. I have friends that work at various publications.
+   (ID: dialog_7_speaker_1)
+
+8. I work at eureka.
+   (ID: dialog_7_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i 'm at work .
+   (ID: mmaswadeh)
+
+2. i 'm off to work now !
+   (ID: exotics)
+
+3. i 'm on the redline headed to work .
+   (ID: doctor_parcival)
+
+4. i work in the surgery room , but fuck me .
+   (ID: Ian_Str8)
+
+5. i see from your username how you work .
+   (ID: LooksAtClouds)
+
+6. i 'm at work so i put the captions on .
+   (ID: SamuelStephenBono)
+
+7. i already work a 3 day week , but i work 13 hour shifts .
+   (ID: I_am_not_a_Taco)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. i only work because you have to these days .
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i work at a museum .
+   (ID: conversation_32)
+
+2. i work for a large law firm .
+   (ID: conversation_30)
+
+3. i work as a stand up comedian .
+   (ID: conversation_2)
+
+4. my brothers work with me .
+   (ID: conversation_189)
+
+5. i work many hours .
+   (ID: conversation_8)
+
+6. i currently work at target .
+   (ID: conversation_160)
+
+7. i used to work for a cable company .
+   (ID: conversation_76)
+
+8. i work at a smoothie shop .
+   (ID: conversation_12)
+
+9. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I work as a construction worker during the summers.
+   (ID: conversation_168_user_2)
+
+2. I work as a vet.
+   (ID: conversation_196_user_1)
+
+3. I am a baker.
+   (ID: conversation_175_user_1)
+
+4. I used to work at a factory making boxes.
+   (ID: conversation_63_user_1)
+
+5. I am a nurse and work in an emergency room at a busy hospital.
+   (ID: conversation_93_user_1)
+
+6. I am a paper salesman.
+   (ID: conversation_55_user_2)
+
+7. I work at home , editing.
+   (ID: conversation_16_user_2)
+
+
+============================================================

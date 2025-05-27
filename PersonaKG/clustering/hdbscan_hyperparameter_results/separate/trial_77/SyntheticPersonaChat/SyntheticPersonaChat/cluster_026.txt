@@ -1,0 +1,33 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I have never traveled outside of the united states.
+   (ID: conversation_152_user_2)
+
+2. My grand children mean the world to me.
+   (ID: conversation_30_user_2)
+
+3. Lutefisk is the best dish in the whole world.
+   (ID: conversation_218_user_2)
+
+4. My best friend lives in japan.
+   (ID: conversation_152_user_2)
+
+5. I traveled around the world in a boat.
+   (ID: conversation_194_user_1)
+
+
+============================================================

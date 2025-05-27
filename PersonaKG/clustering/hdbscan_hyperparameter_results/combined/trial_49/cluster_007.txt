@@ -1,0 +1,187 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 64
+Cluster persistence (stability): 0.807
+
+Dataset distribution in this cluster:
+  FoCus: 5 (7.8%)
+  MSC: 7 (10.9%)
+  PEC: 11 (17.2%)
+  PER-CHAT: 36 (56.2%)
+  PersonaChat: 3 (4.7%)
+  SyntheticPersonaChat: 2 (3.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 5
+
+1. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+2. I am living in Citrus from my birth.
+   (ID: OII32NSNR2Q2_7)
+
+3. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+4. I have a friend in Kent.
+   (ID: PFYAAS1XG3D8_11)
+
+5. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+
+--- MSC ---
+Total from this dataset: 7
+
+1. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+2. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+3. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+4. I do not travel much.
+   (ID: dialog_8_speaker_2)
+
+5. My home town is Celebration, Florida.
+   (ID: dialog_76_speaker_1)
+
+6. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+7. I live in Providence. I work in a Publishing building, downtown.
+   (ID: dialog_41_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 11
+
+1. i up am by pigeon lake - just south of edmonton ..
+   (ID: exotics)
+
+2. i live in denver .
+   (ID: Bathysphere710)
+
+3. i 'm in canada btw .
+   (ID: foldor)
+
+4. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
+
+5. i live in ohio !
+   (ID: GetItTogether)
+
+6. i have a place 4 miles away .
+   (ID: thenanoage)
+
+7. i live in dublin .
+   (ID: Nimmyzed)
+
+8. i just recently moved to la county .
+   (ID: Lifes6Midnight)
+
+9. i am in the southeast .
+   (ID: deputydan_scubaman)
+
+10. i 'm over the pond in england � �
+   (ID: bigfuckingdiamond)
+
+11. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+
+--- PER-CHAT ---
+Total from this dataset: 36
+
+1. I live in hella.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+2. I live in dprk.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+3. I live in venice.
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+4. I live in sticks.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+5. I live in mercury.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+6. I live in bedford.
+   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+
+7. I live in tsunami.
+   (ID: da770212ea31887c4be30925213eff0dc5d8687b)
+
+8. I live in maximus.
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+9. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+10. I live in baguettes.
+   (ID: 168d1161144e63a83a23f04ae4e64bd4b25684c0)
+
+11. I live in johor.
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+12. I live in sam.
+   (ID: 109fa004cbb85f6a703624f8b4393d7d7d685509)
+
+13. I live in snowy wasteland.
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+14. I live in adachiku.
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+15. I live in grizzly.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+16. I live in ty ass town.
+   (ID: b40d1d3ae1e77bcbdcb98e62deea24396d4b4d40)
+
+17. I live in heart.
+   (ID: 445ba4596e4bcff0c96b23f038cf784185970198)
+
+18. I am ar.
+   (ID: 419b67e0e2cdcb7bd8ea9a89d34d0747a1f5f620)
+
+19. I live in istanbul.
+   (ID: c63be1429c6442ee9219ae1573b45fc7a40d22f2)
+
+20. I live in nike.
+   (ID: fa9acab3fbd86b1f64e6380ef31b49912dae0c74)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i come from a small town .
+   (ID: conversation_2)
+
+2. i live in nashville .
+   (ID: conversation_117)
+
+3. i live in rural wisconsin .
+   (ID: conversation_15)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+2. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+
+============================================================

@@ -1,0 +1,54 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  PersonaChat: 12 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 12
+
+1. my girlfriend lives in salt lake city .
+   (ID: conversation_489)
+
+2. i grew up in alabama .
+   (ID: conversation_221)
+
+3. i traveled around the world in a boat .
+   (ID: conversation_60)
+
+4. pudding makes me gassy .
+   (ID: conversation_26)
+
+5. if i am not drinking , i am thinking , which makes me uncomfortable .
+   (ID: conversation_197)
+
+6. playing quake on slackware linux makes me happy .
+   (ID: conversation_211)
+
+7. i grew up in the trailer park .
+   (ID: conversation_718)
+
+8. grandma makes jewelry .
+   (ID: conversation_365)
+
+9. my brother lives in england .
+   (ID: conversation_413)
+
+10. i am an old woman who lives on a social security check .
+   (ID: conversation_722)
+
+11. my grandmother lives in my guesthouse .
+   (ID: conversation_73)
+
+12. i have a boyfriend who lives in italy .
+   (ID: conversation_150)
+
+
+============================================================

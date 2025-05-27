@@ -1,0 +1,42 @@
+CLUSTER 36
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.759
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 8 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I try not to think about death.
+   (ID: conversation_32_user_2)
+
+2. I think i might need help.
+   (ID: conversation_317_user_1)
+
+3. I think recycling is important.
+   (ID: conversation_74_user_2)
+
+4. Sometimes i think i should get out and exercise more.
+   (ID: conversation_138_user_2)
+
+5. I think i need a vacation.
+   (ID: conversation_396_user_2)
+
+6. I think the moon landing was faked.
+   (ID: conversation_250_user_2)
+
+7. I need a soda with me at all times.
+   (ID: conversation_105_user_2)
+
+8. I think if i work hard enough i can fix the world.
+   (ID: conversation_128_user_2)
+
+
+============================================================

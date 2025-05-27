@@ -1,0 +1,59 @@
+CLUSTER 269
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.991
+
+Dataset distribution in this cluster:
+  MPChat: 2 (28.6%)
+  MSC: 1 (14.3%)
+  PEC: 2 (28.6%)
+  PersonaChat: 1 (14.3%)
+  SyntheticPersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. this is the first christmas cake i baked this year.
+   (ID: gelimausi)
+
+2. for easter this year i have painted chicken eggs again.
+   (ID: gelimausi)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My dog died last year.
+   (ID: dialog_34_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i learned to swim this year too , and i 'm twice your age .
+   (ID: DaysOfParadise)
+
+2. i had bruises all over my legs last year from one
+   (ID: exotics)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i go to at least 10 concerts a year .
+   (ID: conversation_13)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I decided to become vegan a year ago.
+   (ID: conversation_44_user_1)
+
+
+============================================================

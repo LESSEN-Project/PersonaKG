@@ -1,0 +1,71 @@
+CLUSTER 39
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 2 (18.2%)
+  PEC: 4 (36.4%)
+  PER-CHAT: 1 (9.1%)
+  PersonaChat: 2 (18.2%)
+  SyntheticPersonaChat: 2 (18.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I cannot eat certain foods due to flatulence.
+   (ID: dialog_26_speaker_2)
+
+2. I'm not a fan of soy products.
+   (ID: dialog_30_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i m currently doing a combination of minimal raw foods and fasting until i lose 15 pounds
+   (ID: MoncoLovesYanno)
+
+2. i talked to my doctor about it and he suggested the keto diet along with the if .
+   (ID: boo3114)
+
+3. i have a 22 bmi but 32 % bodyfat .
+   (ID: buttercup_mauler)
+
+4. i am overweight- 5,3 ” 169 lbs- down 13 pounds from start though .
+   (ID: almajanemi)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am heavier smoker.
+   (ID: 5c9dd67e95ee5403b2bd9a6848c017674d46396b)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i m allergic to shellfish .
+   (ID: conversation_28)
+
+2. i don't eat bread .
+   (ID: conversation_183)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am lactose intolerant.
+   (ID: conversation_101_user_2)
+
+2. I am not healthy.
+   (ID: conversation_21_user_1)
+
+
+============================================================

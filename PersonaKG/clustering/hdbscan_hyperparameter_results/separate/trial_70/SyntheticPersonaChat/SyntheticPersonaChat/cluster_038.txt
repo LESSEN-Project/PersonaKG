@@ -1,0 +1,33 @@
+CLUSTER 38
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 5 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I collect vintage cars.
+   (ID: conversation_261_user_2)
+
+2. I collect stamps.
+   (ID: conversation_160_user_2)
+
+3. I am deathly afraid of snakes , but not bugs.
+   (ID: conversation_112_user_2)
+
+4. I collect bugs in jars.
+   (ID: conversation_273_user_2)
+
+5. I m afraid of clowns.
+   (ID: conversation_359_user_2)
+
+
+============================================================

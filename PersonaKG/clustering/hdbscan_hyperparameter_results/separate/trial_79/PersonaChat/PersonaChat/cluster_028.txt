@@ -1,0 +1,39 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PersonaChat: 7 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. my father was also in the military .
+   (ID: conversation_89)
+
+2. my father was an author .
+   (ID: conversation_9)
+
+3. my father is in prison .
+   (ID: conversation_146)
+
+4. my father worked for ge .
+   (ID: conversation_11)
+
+5. my father used to be a butcher .
+   (ID: conversation_463)
+
+6. my father and grandfather also worked in the circus .
+   (ID: conversation_610)
+
+7. i used to be able to run really fast .
+   (ID: conversation_126)
+
+
+============================================================

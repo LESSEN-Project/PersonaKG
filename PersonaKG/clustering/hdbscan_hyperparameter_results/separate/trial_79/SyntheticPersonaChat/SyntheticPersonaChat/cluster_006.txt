@@ -1,0 +1,51 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  SyntheticPersonaChat: 11 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 11
+
+1. Connor mcgregor is my favorite fighter.
+   (ID: conversation_637_user_1)
+
+2. Halloween is my favorite holiday.
+   (ID: conversation_313_user_2)
+
+3. My favorite fruit is apple.
+   (ID: conversation_277_user_1)
+
+4. My favorite number is 7.
+   (ID: conversation_416_user_2)
+
+5. My favorite fiction genres are sci fi and horror.
+   (ID: conversation_690_user_2)
+
+6. Superman s my favorite super hero.
+   (ID: conversation_283_user_1)
+
+7. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+8. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+9. Ariel is my favorite princess.
+   (ID: conversation_407_user_2)
+
+10. My favorite flower is a lily.
+   (ID: conversation_91_user_1)
+
+11. My favorite meal is steak.
+   (ID: conversation_9_user_2)
+
+
+============================================================

@@ -1,0 +1,48 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.536
+
+Dataset distribution in this cluster:
+  PersonaChat: 10 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i hate winter .
+   (ID: conversation_244)
+
+2. i hate talking to people .
+   (ID: conversation_54)
+
+3. i hate evil .
+   (ID: conversation_130)
+
+4. i hate seafood but love mexican food .
+   (ID: conversation_302)
+
+5. i am studying to be a dental hygienist but i hate seeing patients saliva .
+   (ID: conversation_396)
+
+6. i hate carrots .
+   (ID: conversation_3)
+
+7. i hate that i got my brain from the dad i never met .
+   (ID: conversation_179)
+
+8. i hate tofu .
+   (ID: conversation_30)
+
+9. i hate the taste of cheese .
+   (ID: conversation_105)
+
+10. i hate social obligations because i always say the wrong thing .
+   (ID: conversation_253)
+
+
+============================================================
