@@ -1,10 +1,10 @@
 CLUSTER 0
 ============================================================
-Total statements in cluster: 206
-Cluster persistence (stability): 0.998
+Total statements in cluster: 162
+Cluster persistence (stability): 0.985
 
 Dataset distribution in this cluster:
-  SyntheticPersonaChat: 206 (100.0%)
+  SyntheticPersonaChat: 162 (100.0%)
 
 ============================================================
 
@@ -12,67 +12,67 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 206
+Total from this dataset: 162
 
-1. I have a cat.
-   (ID: conversation_266_user_1)
+1. I enjoy home cooked meals.
+   (ID: conversation_165_user_2)
 
-2. I have 2 dogs.
-   (ID: conversation_264_user_2)
+2. I like to eat hard boiled eggs.
+   (ID: conversation_504_user_2)
 
-3. I have two dogs , one pitbull and old english bulldog.
-   (ID: conversation_48_user_2)
+3. I am a redhead.
+   (ID: conversation_578_user_1)
 
-4. I have a dog named george.
-   (ID: conversation_480_user_1)
+4. I am bald.
+   (ID: conversation_4_user_1)
 
-5. I have a dog named george.
-   (ID: conversation_479_user_1)
+5. I like potatoes.
+   (ID: conversation_5_user_1)
 
-6. I have two dogs.
-   (ID: conversation_666_user_1)
+6. I eat all take out.
+   (ID: conversation_2_user_1)
 
-7. I have 2 cats and a dog.
-   (ID: conversation_651_user_1)
+7. I believe in karma.
+   (ID: conversation_829_user_1)
 
-8. I have one cat.
-   (ID: conversation_657_user_1)
+8. I like things that explode.
+   (ID: conversation_973_user_2)
 
-9. I have two dogs.
-   (ID: conversation_412_user_2)
+9. I like to bowl.
+   (ID: conversation_23_user_2)
 
-10. I have a small pet cat.
-   (ID: conversation_943_user_2)
+10. I am male.
+   (ID: conversation_5_user_1)
 
-11. I have a cat.
-   (ID: conversation_262_user_1)
+11. I trust in god.
+   (ID: conversation_109_user_1)
 
-12. I have a dog.
-   (ID: conversation_835_user_2)
+12. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
 
-13. I have three pets.
-   (ID: conversation_761_user_2)
+13. My favorite meal is chicken and rice.
+   (ID: conversation_925_user_2)
 
-14. I have a small pet cat.
-   (ID: conversation_267_user_2)
+14. I have brown hair.
+   (ID: conversation_3_user_1)
 
-15. I have a dog named george.
-   (ID: conversation_436_user_2)
+15. I recently moved to florida.
+   (ID: conversation_612_user_2)
 
-16. I have a pet snake.
-   (ID: conversation_82_user_2)
+16. I love hockey.
+   (ID: conversation_41_user_2)
 
-17. I have a golden retriever.
-   (ID: conversation_701_user_1)
+17. My favorite food is mashed potatoes.
+   (ID: conversation_204_user_1)
 
-18. I have a french bulldog.
-   (ID: conversation_168_user_1)
+18. I like to bake pies.
+   (ID: conversation_72_user_1)
 
-19. I have 3 cats.
-   (ID: conversation_446_user_1)
+19. I live in america in the state of florida.
+   (ID: conversation_467_user_1)
 
-20. I have 3 cats.
-   (ID: conversation_460_user_2)
+20. I live in seattle.
+   (ID: conversation_373_user_2)
 
 
 ============================================================

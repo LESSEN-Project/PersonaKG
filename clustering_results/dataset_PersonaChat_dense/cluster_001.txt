@@ -1,10 +1,10 @@
 CLUSTER 1
 ============================================================
-Total statements in cluster: 118
-Cluster persistence (stability): 0.994
+Total statements in cluster: 84
+Cluster persistence (stability): 0.993
 
 Dataset distribution in this cluster:
-  PersonaChat: 118 (100.0%)
+  PersonaChat: 84 (100.0%)
 
 ============================================================
 
@@ -12,67 +12,67 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- PersonaChat ---
-Total from this dataset: 118
+Total from this dataset: 84
 
-1. my favorite band is pink floyd .
-   (ID: conversation_272)
-
-2. my favorite band is imagine dragons .
-   (ID: conversation_8)
-
-3. pop is my favorite music .
-   (ID: conversation_637)
-
-4. my favorite band is metallica .
-   (ID: conversation_552)
-
-5. i like the beatles .
-   (ID: conversation_279)
-
-6. i love most music except country and jazz .
-   (ID: conversation_627)
-
-7. favorite band is the beetles .
-   (ID: conversation_540)
-
-8. my favorite music is rock and roll .
-   (ID: conversation_995)
-
-9. i enjoy classical music .
-   (ID: conversation_356)
-
-10. i listen to classic rock .
-   (ID: conversation_225)
-
-11. i love country music .
-   (ID: conversation_86)
-
-12. my favorite band is nirvana .
+1. i am a waitress at a local restaurant .
    (ID: conversation_128)
 
-13. i listen to a lot of strange music .
-   (ID: conversation_687)
+2. i'm from germany .
+   (ID: conversation_439)
 
-14. i love most music except country and jazz .
-   (ID: conversation_701)
+3. i work at the grocery store .
+   (ID: conversation_20)
 
-15. favorite band is the beetles .
-   (ID: conversation_355)
+4. i just graduated high school with honors .
+   (ID: conversation_351)
 
-16. my favorite music genre is classic rock .
-   (ID: conversation_438)
+5. i am from tennessee .
+   (ID: conversation_250)
 
-17. favorite band is red hot chilli peppers .
-   (ID: conversation_928)
+6. i grew up in alabama .
+   (ID: conversation_221)
 
-18. my favorite band is bon over .
-   (ID: conversation_877)
+7. i work in academia at a local university .
+   (ID: conversation_117)
 
-19. i enjoy jazz music from when i was a girl .
-   (ID: conversation_450)
+8. i go to a local college .
+   (ID: conversation_12)
 
-20. i love country music .
-   (ID: conversation_966)
+9. i'm very good at math and science .
+   (ID: conversation_122)
+
+10. i m in grad school .
+   (ID: conversation_674)
+
+11. i work a dead end 9 to 5 job as a snakeskin oil salesman .
+   (ID: conversation_204)
+
+12. i work as a police officer .
+   (ID: conversation_115)
+
+13. i work for a large law firm .
+   (ID: conversation_30)
+
+14. i work as a janitor .
+   (ID: conversation_194)
+
+15. i live in new york .
+   (ID: conversation_170)
+
+16. i sell paper products for a living .
+   (ID: conversation_997)
+
+17. i have a consulting firm .
+   (ID: conversation_201)
+
+18. i work full time .
+   (ID: conversation_445)
+
+19. i work in the it industry .
+   (ID: conversation_725)
+
+20. i work part time at a pizza restaurant .
+   (ID: conversation_7)
 
 
 ============================================================

@@ -1,10 +1,10 @@
 CLUSTER 1
 ============================================================
-Total statements in cluster: 2078
-Cluster persistence (stability): 0.996
+Total statements in cluster: 60
+Cluster persistence (stability): 0.999
 
 Dataset distribution in this cluster:
-  SyntheticPersonaChat: 2078 (100.0%)
+  SyntheticPersonaChat: 60 (100.0%)
 
 ============================================================
 
@@ -12,67 +12,67 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 2078
+Total from this dataset: 60
 
-1. I love mexican food.
-   (ID: conversation_210_user_2)
+1. I work at mcdonald s.
+   (ID: conversation_3_user_1)
 
-2. I am vegan.
-   (ID: conversation_40_user_1)
+2. I work at a power plant.
+   (ID: conversation_103_user_2)
 
-3. I have lived in several different states.
-   (ID: conversation_689_user_1)
+3. I will graduate from college in two years.
+   (ID: conversation_780_user_2)
 
-4. I am in college.
-   (ID: conversation_127_user_1)
+4. I tend to work myself up.
+   (ID: conversation_707_user_2)
 
-5. I work as a freight truck driver.
-   (ID: conversation_722_user_2)
+5. I work as a meeting coordinator.
+   (ID: conversation_758_user_2)
 
-6. I love to walk in the woods.
-   (ID: conversation_774_user_1)
+6. I have a job as an it agent.
+   (ID: conversation_380_user_2)
 
-7. I like spicy food.
-   (ID: conversation_931_user_2)
+7. I work at the local bank.
+   (ID: conversation_948_user_2)
 
-8. My favorite food is pizza.
-   (ID: conversation_166_user_2)
+8. I went to college.
+   (ID: conversation_906_user_2)
 
-9. I love walking in the park.
-   (ID: conversation_471_user_2)
+9. I work 9 to 5 job.
+   (ID: conversation_28_user_2)
 
-10. I love the outdoors.
-   (ID: conversation_389_user_1)
+10. I work in accounting.
+   (ID: conversation_5_user_1)
 
-11. I hate tofu.
-   (ID: conversation_959_user_1)
+11. I m in grad school.
+   (ID: conversation_96_user_2)
 
-12. I freeze up in social situations.
-   (ID: conversation_144_user_2)
+12. I work as a receptionist at a lawyer s office.
+   (ID: conversation_490_user_2)
 
-13. My favorite color is red.
-   (ID: conversation_599_user_2)
+13. I went to the university of north carolina.
+   (ID: conversation_917_user_1)
 
-14. I am in 3rd grade.
-   (ID: conversation_119_user_2)
+14. I am a psychology major.
+   (ID: conversation_209_user_2)
 
-15. I am in college.
-   (ID: conversation_126_user_1)
+15. I work at a daycare.
+   (ID: conversation_213_user_2)
 
-16. I enjoy walking around the park.
-   (ID: conversation_519_user_1)
+16. I work as a waitress.
+   (ID: conversation_8_user_2)
 
-17. I am a vegan.
-   (ID: conversation_779_user_1)
+17. I work as a legal assistant in a law firm that basically only handles real estate work.
+   (ID: conversation_330_user_2)
 
-18. I am in college.
-   (ID: conversation_751_user_1)
+18. I work part time.
+   (ID: conversation_80_user_2)
 
-19. I am a female.
-   (ID: conversation_363_user_1)
+19. I am an insurance salesman.
+   (ID: conversation_39_user_2)
 
-20. I like to cook.
-   (ID: conversation_694_user_1)
+20. I just started college.
+   (ID: conversation_348_user_2)
 
 
 ============================================================

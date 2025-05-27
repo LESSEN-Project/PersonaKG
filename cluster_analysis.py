@@ -12,6 +12,7 @@ import random
 from persona_dataset import PersonaDataset
 import argparse
 from datetime import datetime
+from sklearn.metrics.pairwise import cosine_similarity
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -389,6 +390,90 @@ class PersonaClusterAnalysis:
 
         print(f"Results saved to {cluster_dir}/")
 
+    def filter_similar_statements(self, statements, similarity_threshold=0.8):
+        """Filter out statements that are too similar to each other based on a threshold"""
+        if not statements or len(statements) < 2:
+            return statements
+            
+        print(f"\nFiltering similar statements with threshold {similarity_threshold}...")
+        print(f"Initial number of statements: {len(statements)}")
+        
+        # Use sentence transformer for computing embeddings
+        if self.sentence_model is None:
+            print("Sentence transformer model not loaded! Initializing now...")
+            self.sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
+        
+        # Get text from statements
+        texts = [s['statement'] for s in statements]
+        
+        # Generate embeddings
+        embeddings = self.sentence_model.encode(
+            texts, 
+            show_progress_bar=True, 
+            batch_size=64,
+            convert_to_numpy=True
+        )
+        
+        # Compute similarity matrix
+        similarity_matrix = cosine_similarity(embeddings)
+        
+        # Set diagonal to 0 to avoid self-similarity
+        np.fill_diagonal(similarity_matrix, 0)
+        
+        # Track which indices to keep and which to remove
+        to_remove = set()
+        similar_pairs = []  # Store examples of similar pairs
+        
+        for i in range(len(statements)):
+            # Skip if this statement is already marked for removal
+            if i in to_remove:
+                continue
+                
+            # Find all statements that are too similar to this one
+            similar_indices = np.where(similarity_matrix[i] > similarity_threshold)[0]
+            
+            # Mark similar statements for removal
+            # But not the current statement (it's our reference point)
+            for idx in similar_indices:
+                if idx > i:  # Only consider statements we haven't processed yet
+                    to_remove.add(idx)
+                    # Store this pair as an example (statement i and statement idx)
+                    similar_pairs.append((i, idx, similarity_matrix[i][idx]))
+        
+        # Keep only statements that weren't marked for removal
+        indices_to_keep = [i for i in range(len(statements)) if i not in to_remove]
+        filtered_statements = [statements[i] for i in indices_to_keep]
+        
+        num_removed = len(statements) - len(filtered_statements)
+        removal_percentage = (num_removed / len(statements)) * 100 if statements else 0
+        
+        print(f"Removed {num_removed} similar statements ({removal_percentage:.2f}%)")
+        print(f"Remaining statements: {len(filtered_statements)}")
+        
+        # Print sample similar pairs that were filtered
+        if similar_pairs:
+            # Sort by similarity score (highest first)
+            similar_pairs.sort(key=lambda x: x[2], reverse=True)
+            
+            # Show at most 5 examples
+            print("\nExamples of similar statements that were removed:")
+            
+            # Pick either top 5 or a random sample of 5 if there are many
+            if len(similar_pairs) > 20:
+                # Mix of highest similarity and random samples
+                sample_pairs = similar_pairs[:3]  # 3 highest similarity pairs
+                sample_pairs.extend(random.sample(similar_pairs[3:], min(2, len(similar_pairs)-3)))  # 2 random pairs
+            else:
+                sample_pairs = similar_pairs[:min(5, len(similar_pairs))]
+                
+            for i, idx, sim_score in sample_pairs:
+                print(f"\nSimilarity: {sim_score:.3f}")
+                print(f"Original: \"{statements[i]['statement']}\"")
+                print(f"Removed:  \"{statements[idx]['statement']}\"")
+                print(f"Datasets: {statements[i]['dataset']} / {statements[idx]['dataset']}")
+        
+        return filtered_statements
+
     def run_clustering_all_datasets(self, personas_dict):
         """Run clustering on all datasets combined"""
         print("\n" + "="*60)
@@ -401,6 +486,13 @@ class PersonaClusterAnalysis:
         
         if len(statements) < 10:
             print("Not enough statements for clustering")
+            return
+        
+        # Filter similar statements
+        statements = self.filter_similar_statements(statements, similarity_threshold=0.8)
+        
+        if len(statements) < 10:
+            print("Not enough statements after filtering for clustering")
             return
         
         # Vectorize
@@ -439,6 +531,13 @@ class PersonaClusterAnalysis:
             # Extract statements for this dataset only
             statements = self.extract_persona_statements(personas_dict, dataset_filter=dataset_name)
             print(f"Persona statements from {dataset_name}: {len(statements)}")
+            
+            # Filter similar statements
+            statements = self.filter_similar_statements(statements, similarity_threshold=0.8)
+            
+            if len(statements) < 5:
+                print(f"Not enough statements from {dataset_name} after filtering for clustering")
+                continue
             
             # Vectorize
             vectors, model_info = self.vectorize_statements(statements)
