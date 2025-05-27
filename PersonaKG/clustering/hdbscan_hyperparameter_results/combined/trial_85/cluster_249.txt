@@ -1,0 +1,51 @@
+CLUSTER 249
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (16.7%)
+  PEC: 1 (16.7%)
+  PersonaChat: 2 (33.3%)
+  SyntheticPersonaChat: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I love cola products.
+   (ID: dialog_98_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i love reese 's pieces !
+   (ID: jay456)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i love iced tea .
+   (ID: conversation_1)
+
+2. i love hot wings .
+   (ID: conversation_82)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I love sushi.
+   (ID: conversation_76_user_1)
+
+2. I love candy.
+   (ID: conversation_42_user_2)
+
+
+============================================================

@@ -1,0 +1,54 @@
+CLUSTER 210
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (14.3%)
+  PEC: 4 (57.1%)
+  PER-CHAT: 1 (14.3%)
+  PersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I went out on a date. I do not go out very often.
+   (ID: dialog_2_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i 'm in highschool now !
+   (ID: thebastion)
+
+2. i learned to swim this year too , and i 'm twice your age .
+   (ID: DaysOfParadise)
+
+3. i was get invited to a party , but did n't drink too much .
+   (ID: CheapyPipe)
+
+4. i was probably 12 - 17 at this time .
+   (ID: Mende)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. i don ' t think this is lying . i think this is something personal to you that you didn ' t feel like sharing , and that is ok because it is no one else ' s business . if you wish to tell them in the future you can say you didn ' t want to tell them before . but you don ' t need to explain yourself , like i said it ' s your business . not a lie .
+   (ID: 82227bc3f73e4753802bc6bc025e3544c0c76857)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+
+============================================================

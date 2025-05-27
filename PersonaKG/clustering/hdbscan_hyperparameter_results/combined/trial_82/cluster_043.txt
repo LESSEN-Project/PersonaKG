@@ -1,0 +1,56 @@
+CLUSTER 43
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.984
+
+Dataset distribution in this cluster:
+  MSC: 1 (16.7%)
+  PEC: 1 (16.7%)
+  PER-CHAT: 2 (33.3%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i sleep with a stuffed kitty .
+   (ID: napalmkitten)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I have a hamster as a pet.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+2. I own a egg.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i have a pet snake .
+   (ID: conversation_50)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+
+============================================================

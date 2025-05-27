@@ -1,0 +1,38 @@
+CLUSTER 193
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 4 (80.0%)
+  PersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i am calm .
+   (ID: boyofthechapter)
+
+2. i ’m conserned about you man
+   (ID: ChallengeTaken99)
+
+3. i 'm good .
+   (ID: MILeft)
+
+4. i 'm messaging you for the burn
+   (ID: worried_panda)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'm strong .
+   (ID: conversation_96)
+
+
+============================================================

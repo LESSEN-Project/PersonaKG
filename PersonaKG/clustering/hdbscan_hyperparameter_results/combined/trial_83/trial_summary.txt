@@ -1,0 +1,24 @@
+HYPERPARAMETER TUNING TRIAL SUMMARY
+============================================================
+
+PARAMETERS:
+  Vectorization: hybrid
+  Sample Size: 500
+  Min Cluster Size: 30
+  Min Samples: 21
+  Min Samples Ratio: 0.70
+  PCA Components: 48
+  Clustering Mode: combined
+  TF-IDF Weight: 0.9
+
+RESULTS SUMMARY:
+  Datasets analyzed: 1
+  Total statements: 46737
+  Total clusters: 109
+  Average clusters per dataset: 109.0
+  Average noise percentage: 48.9%
+
+DATASET RESULTS:
+Dataset         Statements Clusters   Noise %   
+--------------------------------------------------
+Combined        46737      109        48.9      

@@ -1,0 +1,57 @@
+CLUSTER 11
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (12.5%)
+  MSC: 1 (12.5%)
+  PEC: 5 (62.5%)
+  PersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I wouldn't like to live in a Castle.
+   (ID: YB6ZF4SJI3P1_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I like stand-up comedy. There are no stand-up comedy clubs around where I live.
+   (ID: dialog_33_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i live in dallas and you have no idea what it 's like here .
+   (ID: HugePurpleNipples)
+
+2. i live here and i do n’t understand why it ’s like this .
+   (ID: Dustin_Bromain)
+
+3. i like to live dangerously .
+   (ID: aydinsevimli)
+
+4. i like to live a complex life .
+   (ID: DarkMoon99)
+
+5. i live right off of 8 mile and have never been in a situation like this .
+   (ID: hussy_trash)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i like to live off of the land .
+   (ID: conversation_110)
+
+
+============================================================

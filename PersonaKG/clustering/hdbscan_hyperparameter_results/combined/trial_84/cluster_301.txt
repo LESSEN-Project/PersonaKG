@@ -1,0 +1,130 @@
+CLUSTER 301
+============================================================
+Total statements in cluster: 29
+Cluster persistence (stability): 0.955
+
+Dataset distribution in this cluster:
+  FoCus: 1 (3.4%)
+  MSC: 3 (10.3%)
+  PEC: 2 (6.9%)
+  PER-CHAT: 2 (6.9%)
+  PersonaChat: 14 (48.3%)
+  SyntheticPersonaChat: 7 (24.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am a figure skater.
+   (ID: D4619DV1O1OP_11)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I've a high voice.
+   (ID: dialog_3_speaker_1)
+
+2. I am good at surfing.
+   (ID: dialog_16_speaker_2)
+
+3. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i am a comedy master
+   (ID: ChallengeTaken99)
+
+2. i ’m john marcus willam and even i get it
+   (ID: ChallengeTaken99)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I am top sniper.
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+2. I am speed.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+
+--- PersonaChat ---
+Total from this dataset: 14
+
+1. i work as a stand up comedian .
+   (ID: conversation_2)
+
+2. i'm very athletic .
+   (ID: conversation_3)
+
+3. i work for a large law firm .
+   (ID: conversation_30)
+
+4. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+5. i work on cars for a living .
+   (ID: conversation_18)
+
+6. i train horses for a living .
+   (ID: conversation_66)
+
+7. i make and me by waiting tables .
+   (ID: conversation_21)
+
+8. i work at a museum .
+   (ID: conversation_32)
+
+9. i am a lumberjack .
+   (ID: conversation_51)
+
+10. i'm a goalie .
+   (ID: conversation_62)
+
+11. i'm a dancer .
+   (ID: conversation_10)
+
+12. i teach kindergarten .
+   (ID: conversation_70)
+
+13. i fly airplanes .
+   (ID: conversation_35)
+
+14. i am a guitar player .
+   (ID: conversation_4)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I do volunteer work for human rights organizations.
+   (ID: conversation_2_user_2)
+
+2. I work at home , editing.
+   (ID: conversation_16_user_2)
+
+3. I am a jack of all , master of none.
+   (ID: conversation_7_user_1)
+
+4. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+5. I work at walmart as a stocker.
+   (ID: conversation_37_user_1)
+
+6. My brothers work with me.
+   (ID: conversation_47_user_2)
+
+7. I am a paper salesman.
+   (ID: conversation_55_user_2)
+
+
+============================================================

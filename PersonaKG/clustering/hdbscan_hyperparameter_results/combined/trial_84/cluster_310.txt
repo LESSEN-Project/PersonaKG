@@ -1,0 +1,89 @@
+CLUSTER 310
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.899
+
+Dataset distribution in this cluster:
+  FoCus: 1 (5.9%)
+  MSC: 3 (17.6%)
+  PER-CHAT: 1 (5.9%)
+  PersonaChat: 9 (52.9%)
+  SyntheticPersonaChat: 3 (17.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I like to go to Church.
+   (ID: Z8RPC24EURS4_7)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I enjoy driving.
+   (ID: dialog_1_speaker_1)
+
+2. I love to catch sea bass.
+   (ID: dialog_18_speaker_2)
+
+3. I love to eat pizza with my friends. I love deep dish pepperoni pizza. I work art time at a pizza restaurant.
+   (ID: dialog_7_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I am bit of a hobby prepper.
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i like to paint .
+   (ID: conversation_60)
+
+2. i like to make boats on the weekends .
+   (ID: conversation_27)
+
+3. i like to go hunting .
+   (ID: conversation_0)
+
+4. i like to snowboard .
+   (ID: conversation_15)
+
+5. summer is my favorite season .
+   (ID: conversation_24)
+
+6. i love the beach .
+   (ID: conversation_7)
+
+7. i love bicycling .
+   (ID: conversation_3)
+
+8. i like to remodel homes .
+   (ID: conversation_0)
+
+9. i like to cook .
+   (ID: conversation_17)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I enjoy walking around the park.
+   (ID: conversation_21_user_2)
+
+2. I like to garden.
+   (ID: conversation_12_user_1)
+
+3. My friends and i enjoy golfing on sunny days.
+   (ID: conversation_82_user_1)
+
+
+============================================================

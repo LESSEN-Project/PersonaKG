@@ -1,0 +1,78 @@
+CLUSTER 128
+============================================================
+Total statements in cluster: 15
+Cluster persistence (stability): 0.993
+
+Dataset distribution in this cluster:
+  MPChat: 5 (33.3%)
+  MSC: 1 (6.7%)
+  PEC: 8 (53.3%)
+  PersonaChat: 1 (6.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 5
+
+1. my service pours have been making me super proud lately
+   (ID: Ry_)
+
+2. getting my practice in.
+   (ID: VodkaWithSnowflakes)
+
+3. i started a cafe job again!
+   (ID: pocket_kira)
+
+4. started a tie this evening for this thing i’m going to this weekend.
+   (ID: Chris55730)
+
+5. i had a very productive conference call this morning!
+   (ID: FoxInKneeSocks)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have a new job selling used and cheap cars.
+   (ID: dialog_25_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i ’ve always been such a responsible planner .
+   (ID: kitcatpaints)
+
+2. i respect you so much .
+   (ID: Lsmoothies)
+
+3. i appreciate you .
+   (ID: tylock)
+
+4. i just passed the coors light bar exam while browsing reddit .
+   (ID: SerendipitousCat)
+
+5. i see it went well for you .
+   (ID: CarlofTime)
+
+6. i dropped off paperwork to be approved for a condo yesterday .
+   (ID: 11_29_77)
+
+7. i 'm doing this this year .
+   (ID: kailan123456)
+
+8. i think i have been promoted to team lead . ftfh . yay ?
+   (ID: buttercup_mauler)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i just accepted a job at the elementary school in my hometown .
+   (ID: conversation_91)
+
+
+============================================================

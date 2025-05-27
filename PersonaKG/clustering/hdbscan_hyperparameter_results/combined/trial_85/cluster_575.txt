@@ -1,0 +1,86 @@
+CLUSTER 575
+============================================================
+Total statements in cluster: 16
+Cluster persistence (stability): 0.922
+
+Dataset distribution in this cluster:
+  MPChat: 1 (6.2%)
+  MSC: 3 (18.8%)
+  PEC: 6 (37.5%)
+  PersonaChat: 5 (31.2%)
+  SyntheticPersonaChat: 1 (6.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i call him yancy the yeti!
+   (ID: Louiesloops)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I named my vehicle pig since it is that color.
+   (ID: dialog_29_speaker_1)
+
+2. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+3. I have a black lab dog named George. I do not have any children.
+   (ID: dialog_76_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i have a grey tabby as well , also named pippin !
+   (ID: monday_madrigal)
+
+2. i call my dog hairy fairy because she 's tiny and ... hairy
+   (ID: opalskys)
+
+3. i also jave a shib named " kiko " .
+   (ID: kuh_boom)
+
+4. i have a green - eyed boy also , but he 's an orange kitty !
+   (ID: mizzpkat)
+
+5. i have affectionately named it theodore .
+   (ID: deputydan_scubaman)
+
+6. i call mine the lesbaru
+   (ID: thebastion)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i have a dog named bob .
+   (ID: conversation_27)
+
+2. i have a dog named socks .
+   (ID: conversation_172)
+
+3. i have a small beagle dog who i call droopy .
+   (ID: conversation_174)
+
+4. my dogs name is toto .
+   (ID: conversation_162)
+
+5. i have a boxer dog .
+   (ID: conversation_6)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have a dog named percy.
+   (ID: conversation_173_user_1)
+
+
+============================================================

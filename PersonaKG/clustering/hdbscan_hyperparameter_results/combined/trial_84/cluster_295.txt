@@ -1,0 +1,61 @@
+CLUSTER 295
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.989
+
+Dataset distribution in this cluster:
+  PEC: 4 (36.4%)
+  PersonaChat: 5 (45.5%)
+  SyntheticPersonaChat: 2 (18.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i drink lots of soda .
+   (ID: Sabiola)
+
+2. i 'm the least picky eater ever .
+   (ID: amirman)
+
+3. i eat as much as i can
+   (ID: Kellen1337)
+
+4. i dip chips in coke
+   (ID: genpell)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i m allergic to shellfish .
+   (ID: conversation_28)
+
+2. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+3. i am primarily a meat eater .
+   (ID: conversation_4)
+
+4. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+5. i drink a lot of apple martinis when i get a girls night out .
+   (ID: conversation_75)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I eat all take out.
+   (ID: conversation_2_user_1)
+
+2. I have allergies.
+   (ID: conversation_90_user_2)
+
+
+============================================================

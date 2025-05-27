@@ -1,0 +1,54 @@
+CLUSTER 557
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.988
+
+Dataset distribution in this cluster:
+  MSC: 3 (42.9%)
+  PEC: 2 (28.6%)
+  PER-CHAT: 1 (14.3%)
+  PersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I go free dive.  I have loved diving since high school. I went to high school in Orlando.
+   (ID: dialog_85_speaker_2)
+
+2. I take school for points.
+   (ID: dialog_87_speaker_2)
+
+3. I ran in high school.
+   (ID: dialog_0_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i wanna see your high school diploma !
+   (ID: rspewth)
+
+2. i went to high school and worked with miss vermont .
+   (ID: aydinsevimli)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. if you go to the lockers at my school , that is all you see .
+   (ID: 01d091dafa86b9d15d91404a1a02a0fc98011e8c)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i go to a private high school .
+   (ID: conversation_87)
+
+
+============================================================

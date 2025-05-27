@@ -1,0 +1,60 @@
+CLUSTER 299
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.991
+
+Dataset distribution in this cluster:
+  FoCus: 1 (11.1%)
+  MSC: 1 (11.1%)
+  PersonaChat: 2 (22.2%)
+  SyntheticPersonaChat: 5 (55.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. My family is from Wales.
+   (ID: LJYX36WCRYDM_9)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my mother was born in ireland .
+   (ID: conversation_38)
+
+2. my father was born in australia .
+   (ID: conversation_9)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+2. I went to stanford.
+   (ID: conversation_73_user_2)
+
+3. I was born in baton rouge.
+   (ID: conversation_69_user_2)
+
+4. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+5. My grandma is from denmark.
+   (ID: conversation_44_user_2)
+
+
+============================================================

@@ -145,9 +145,9 @@ def run_hyperparameter_search(n_trials=100, output_dir="hyperparameter_search", 
         print(f"\nFinal results DataFrame shape: {results_df.shape}")
         
         # Make sure exp_dir exists
-        os.makedirs(output_dir, exist_ok=True)
+        os.makedirs(mode_dir, exist_ok=True)
         
-        final_results_file = os.path.join(output_dir, "hyperparameter_search_results.csv")
+        final_results_file = os.path.join(mode_dir, "hyperparameter_search_results.csv")
         results_df.to_csv(final_results_file, index=False)
         print(f"Saved final results to: {final_results_file}")
     except Exception as e:
@@ -162,7 +162,7 @@ def run_hyperparameter_search(n_trials=100, output_dir="hyperparameter_search", 
     try:
         if len(results_df) > 0:
             print("\nGenerating analysis and visualizations...")
-            generate_analysis(results_df, output_dir)
+            generate_analysis(results_df, mode_dir)
         else:
             print("\nNo results to analyze, skipping analysis generation.")
     except Exception as e:

@@ -1,0 +1,48 @@
+CLUSTER 21
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 2 (40.0%)
+  PER-CHAT: 1 (20.0%)
+  PersonaChat: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i has a 12k loan and a car that s worth roughly 12k now .
+   (ID: AgedTwenties)
+
+2. i pay 985 in rent and my gross pay per month is around 3920 .
+   (ID: AgedTwenties)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I own a grade.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i am a college student who is a full time working mom .
+   (ID: conversation_21)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am buying a house.
+   (ID: conversation_93_user_1)
+
+
+============================================================

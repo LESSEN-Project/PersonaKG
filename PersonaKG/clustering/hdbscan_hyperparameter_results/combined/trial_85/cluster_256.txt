@@ -1,0 +1,243 @@
+CLUSTER 256
+============================================================
+Total statements in cluster: 170
+Cluster persistence (stability): 0.778
+
+Dataset distribution in this cluster:
+  FoCus: 21 (12.4%)
+  MPChat: 6 (3.5%)
+  MSC: 5 (2.9%)
+  PEC: 124 (72.9%)
+  PER-CHAT: 2 (1.2%)
+  PersonaChat: 7 (4.1%)
+  SyntheticPersonaChat: 5 (2.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 21
+
+1. I love Buckinghamshire.
+   (ID: JBP0INT1W707_11)
+
+2. I love NASCAR.
+   (ID: PKTFMWPHB1E3_11)
+
+3. I love Horace Walpole.
+   (ID: 8C87PLCFQ0ZH_11)
+
+4. I love peaks.
+   (ID: BPCV4KG0PEMD_7)
+
+5. I love soup.
+   (ID: 744H5J0MPE9C_9)
+
+6. I love geological findings conducted by volcanologists.
+   (ID: G4JZMW0OPV0G_11)
+
+7. I have never been to Madagascar and would love to go there.
+   (ID: FS1LJTHM1IC0_11)
+
+8. I love RAF Cleave.
+   (ID: DNUH5LJGPOZC_11)
+
+9. I love Pittsburgh.
+   (ID: GE7KWP503PGI_7)
+
+10. I would love to vist Divljana Monastery again.
+   (ID: V0DLNYLN813E_11)
+
+11. I love Congregation Baith Israel.
+   (ID: VQJADZ97TJ0Z_11)
+
+12. I love mumbai.
+   (ID: LFDYLQP6HP80_7)
+
+13. I love aqueducts.
+   (ID: GC9BAJTK54F1_11)
+
+14. I love Mardi Gras.
+   (ID: TF4SZWIWHJO4_11)
+
+15. I love Hanumappa Nayaka.
+   (ID: UN54IACHSTX5_11)
+
+16. I love Reidar Andersen.
+   (ID: TB8HHXAP822G_11)
+
+17. I love cathedrals.
+   (ID: TDUTQ7NCYJ1S_11)
+
+18. I love bats.
+   (ID: X3WVWF5IVCYD_11)
+
+19. I love bridges.
+   (ID: YWRU353H4NFF_11)
+
+20. I love Pasterze glacier.
+   (ID: YLLQOXHD6MZC_7)
+
+
+--- MPChat ---
+Total from this dataset: 6
+
+1. i love beetles and so i made this stamp!
+   (ID: pocket_kira)
+
+2. i love how this is coming out.
+   (ID: Sophie74656)
+
+3. i'm in love with this cabled cowl!
+   (ID: ddizzle23)
+
+4. i'm in love with spooky and glitter.
+   (ID: skorletun)
+
+5. this is why i love bottomless portafilters.
+   (ID: Ry_)
+
+6. love my cypress hideaway!
+   (ID: pope237)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I love tetris.
+   (ID: dialog_86_speaker_2)
+
+2. I love mosh pits.
+   (ID: dialog_13_speaker_2)
+
+3. I love Crookshanks.
+   (ID: dialog_48_speaker_1)
+
+4. I love the nhl.
+   (ID: dialog_86_speaker_1)
+
+5. I love my knee highs.
+   (ID: dialog_59_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 124
+
+1. i love the venue .
+   (ID: genpell)
+
+2. i love it here .
+   (ID: tylock)
+
+3. i love smite !
+   (ID: elevatorhijack)
+
+4. i love bippyz !
+   (ID: ChoppingOnionsForYou)
+
+5. i love rustic overtones too !
+   (ID: MrBovineJoni)
+
+6. i love sluts too !
+   (ID: newyork2012)
+
+7. i love cubase 7 !
+   (ID: bbrandann)
+
+8. i love both of you .
+   (ID: amirman)
+
+9. i love it so much ! ! !
+   (ID: samward7)
+
+10. i love the handpainted backgrounds .
+   (ID: amirman)
+
+11. i would love a copenhagen postcard !
+   (ID: Ml7500)
+
+12. i love the baptist
+   (ID: BearCanoe)
+
+13. i love fna , but it is a liability ?
+   (ID: dammitOtto)
+
+14. i love his musics!~ ! !
+   (ID: amirman)
+
+15. i love you pap .
+   (ID: gigatroness)
+
+16. i love dimples !
+   (ID: latestartksmama)
+
+17. i love u doug
+   (ID: Justadropinthesea)
+
+18. i love my klean kanteen .
+   (ID: mylescloutier)
+
+19. i would love all of them please .
+   (ID: SamuelStephenBono)
+
+20. i love you tony !
+   (ID: LabeledAsALunatic)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. i love you the most , dave .
+   (ID: cae6d1fb1a818280e66de4a71148560d2d217d70)
+
+2. one where i find love
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+
+--- PersonaChat ---
+Total from this dataset: 7
+
+1. i love sharks .
+   (ID: conversation_65)
+
+2. i love hamburgers .
+   (ID: conversation_244)
+
+3. i love to larp .
+   (ID: conversation_74)
+
+4. i love sunsets .
+   (ID: conversation_148)
+
+5. i love bicycling .
+   (ID: conversation_3)
+
+6. i love to go to the symphony orchestra .
+   (ID: conversation_213)
+
+7. i love pandas .
+   (ID: conversation_88)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I love agatha christie novels.
+   (ID: conversation_49_user_2)
+
+2. I love the chainsmokers.
+   (ID: conversation_299_user_2)
+
+3. I love to do yoga.
+   (ID: conversation_92_user_1)
+
+4. I love her though.
+   (ID: conversation_162_user_2)
+
+5. I love zumba.
+   (ID: conversation_190_user_2)
+
+
+============================================================

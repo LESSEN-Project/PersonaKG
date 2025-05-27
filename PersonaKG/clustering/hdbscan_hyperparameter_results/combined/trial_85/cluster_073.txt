@@ -1,0 +1,74 @@
+CLUSTER 73
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.900
+
+Dataset distribution in this cluster:
+  MSC: 2 (16.7%)
+  PEC: 4 (33.3%)
+  PER-CHAT: 3 (25.0%)
+  PersonaChat: 2 (16.7%)
+  SyntheticPersonaChat: 1 (8.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I have feelings for a person in my past.
+   (ID: dialog_41_speaker_2)
+
+2. I am a charitable person.
+   (ID: dialog_79_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i 'm the only person with a curfew .
+   (ID: _gansmadchen)
+
+2. i have failed myself as a person .
+   (ID: Ooer)
+
+3. i have never met a nonwhite person with this view .
+   (ID: giraffecakes)
+
+4. i 'm neither a fighter nor a strong person .
+   (ID: doctor_parcival)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. the same one i get every month . you cannot rely on anybody else . you are in your own . only you can understan your thoughts and only yoh can execute them without screwing it up . if you put any responsibility on another person they will let you down .
+   (ID: 7008f149db59fea91167255eafa8bc84beab0f01)
+
+2. I am worst person.
+   (ID: 20704d953f0b1774a4782d2f049f69736ac4eea2)
+
+3. I am insignifixant person in this vast world.
+   (ID: 782311f0352356940fd2c1e77bc3cfa9f74b06fa)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i'm an angry person .
+   (ID: conversation_169)
+
+2. i'm more of a cat person than a dog person .
+   (ID: conversation_49)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am not a nice person.
+   (ID: conversation_265_user_2)
+
+
+============================================================

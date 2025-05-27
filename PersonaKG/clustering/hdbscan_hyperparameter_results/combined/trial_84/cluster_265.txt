@@ -1,0 +1,38 @@
+CLUSTER 265
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 3 (60.0%)
+  PersonaChat: 2 (40.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i am just starting my it degree , i am studying for my ccna on my own time .
+   (ID: AgedTwenties)
+
+2. i has a 12k loan and a car that s worth roughly 12k now .
+   (ID: AgedTwenties)
+
+3. i pay 985 in rent and my gross pay per month is around 3920 .
+   (ID: AgedTwenties)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am a college student who is a full time working mom .
+   (ID: conversation_21)
+
+2. i'm enrolled in several college credit courses .
+   (ID: conversation_87)
+
+
+============================================================

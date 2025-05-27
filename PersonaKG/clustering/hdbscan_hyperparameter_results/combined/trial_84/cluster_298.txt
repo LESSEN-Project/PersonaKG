@@ -1,0 +1,54 @@
+CLUSTER 298
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.980
+
+Dataset distribution in this cluster:
+  FoCus: 2 (28.6%)
+  MSC: 1 (14.3%)
+  PEC: 3 (42.9%)
+  PersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I am going to Illinois for work.
+   (ID: EDLPKHWH3K5B_11)
+
+2. I am going to London later this year.
+   (ID: NR67D1SY5ZKB_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am planning a few family getaways during summer break.
+   (ID: dialog_9_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i was planning to visit in january .
+   (ID: StinkinFinger)
+
+2. i ’m from oregon and thought i ’d visit seattle for the next few days .
+   (ID: godspeedone)
+
+3. i 'll be moving there for the summer on may 5th .
+   (ID: mylescloutier)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'm hoping to move to australia soon to marry my boyfriend .
+   (ID: conversation_77)
+
+
+============================================================

@@ -1,0 +1,63 @@
+CLUSTER 55
+============================================================
+Total statements in cluster: 10
+Cluster persistence (stability): 0.985
+
+Dataset distribution in this cluster:
+  MSC: 1 (10.0%)
+  PEC: 6 (60.0%)
+  PER-CHAT: 2 (20.0%)
+  PersonaChat: 1 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I can read a book in one day.
+   (ID: dialog_5_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i feel like i relate best to data and that scares me .
+   (ID: amirman)
+
+2. i got ta leave my front door open more often !
+   (ID: exotics)
+
+3. i can if i ever get enough sleep .
+   (ID: NietzschesUbermensch)
+
+4. i can blow a day or a weekend like it 's nothing .
+   (ID: AgedTwenties)
+
+5. i catch up on sleep .
+   (ID: prettynicky10)
+
+6. i do feel so much better mentally when i ’m active .
+   (ID: 11_29_77)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. i can turn off the things that limit most people . pain etc .
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+2. i daydream all the time . i don ' t have the time to put it all down on papeipad  pc , or like you say , i ' m in the most inconvenient spot . but i ' ve written enough to make me happy . sometimes i wonder what it would be like to be a full time writer . would the pressure make me stop ? but i do force myself to remember a particularly good concept if one pops into my head . i think i ' ve been able to retain about digit  of those .
+   (ID: e8daa61bfd9bf81549666ebd0bdf393156b492de)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i sleep 10 hours every day because my work is tiring .
+   (ID: conversation_44)
+
+
+============================================================

@@ -1,0 +1,468 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 6521
+Cluster persistence (stability): 0.961
+
+Dataset distribution in this cluster:
+  FoCus: 224 (3.4%)
+  MPChat: 567 (8.7%)
+  MSC: 188 (2.9%)
+  PEC: 2565 (39.3%)
+  PER-CHAT: 2596 (39.8%)
+  PersonaChat: 230 (3.5%)
+  SyntheticPersonaChat: 151 (2.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 224
+
+1. I wish to go to Nuremberg.
+   (ID: YB6ZF4SJI3P1_11)
+
+2. I am interested in non-profit organizations.
+   (ID: 942CCWXHPUZT_11)
+
+3. I am interested in rainforests.
+   (ID: U2VHOEDA278F_11)
+
+4. I am interested in the architecture.
+   (ID: W4CQPY8R6C4Q_11)
+
+5. I find Freemasonry really interesting.
+   (ID: UHZ1K434LZ46_11)
+
+6. I have visited Neill Avenue many times.
+   (ID: EI53JQVYRP0R_11)
+
+7. I would like to watch fireworks.
+   (ID: GHAH3LR3KR67_11)
+
+8. I love bats.
+   (ID: X3WVWF5IVCYD_11)
+
+9. I would like to know more about the Phrygians.
+   (ID: LX3CSQUSJ9B3_9)
+
+10. I have seen a seaport.
+   (ID: F91BK688K9G1_11)
+
+11. I am curious about Mars.
+   (ID: 942CCWXHPUZT_11)
+
+12. I'm interested in urban hydrology.
+   (ID: SJS6GHEH7ZIW_11)
+
+13. I like enginering.
+   (ID: G1IQ2JHFB47F_11)
+
+14. I have studied about pastoralist communities.
+   (ID: XDIIZK7KZ12G_11)
+
+15. I like the organ.
+   (ID: 9IFEU12EAOWB_11)
+
+16. I wish to buy a flat in Woolloongabba.
+   (ID: N14O6VGOOR7E_11)
+
+17. I love park.
+   (ID: U6NEN4YX4OT6_9)
+
+18. I love the smell of Lotus.
+   (ID: KGYT5MMVNDSG_11)
+
+19. I am curious about United States territories.
+   (ID: Y037WWL4AZRY_11)
+
+20. I love Pittsburgh.
+   (ID: GE7KWP503PGI_7)
+
+
+--- MPChat ---
+Total from this dataset: 567
+
+1. i made a dragon scale dice bag for my son.
+   (ID: somuchyarn10)
+
+2. i embroidered another hardanger easter egg.
+   (ID: gelimausi)
+
+3. i've made this beautiful pendant with golden thread.
+   (ID: Ploliveira)
+
+4. getting my base more symmetrical and defined
+   (ID: jlb4est)
+
+5. i've been dabbling in chocolate bark, here are a few more toffee nut and raspberry
+   (ID: TattsMcGee)
+
+6. made a little cactus for my desk at work
+   (ID: Sophie74656)
+
+7. got my first this morning, a royal arrow.
+   (ID: mattsulli)
+
+8. [fo] finished my first piece thanks to everyone who gave advice, my wife loves her bday present
+   (ID: XandXor)
+
+9. [i ate] chocolate croissants
+   (ID: DeanIsHotter)
+
+10. i wanna line my skirt, any tips on fabric, colour, or technique?
+   (ID: Crilbyte)
+
+11. i have a mouse desk pad embroidered with pen holder.
+   (ID: gelimausi)
+
+12. wanted to share this i made it
+   (ID: letsallcrochetYT)
+
+13. was gifted a jar of biscoff spread for christmas, so i made some biscoff blondies.
+   (ID: DeanIsHotter)
+
+14. we made one of my favorite street foods in bolivia.
+   (ID: onemantwohands)
+
+15. i've got 2 that i'm trying to get rid of.
+   (ID: ddizzle23)
+
+16. my shirt that blends with this pillowcase
+   (ID: SliverCobain)
+
+17. gizmos birthday was yesterday so i took him on a little adventure around town.
+   (ID: kentobean123)
+
+18. best jerk chicken i have had[
+   (ID: onemantwohands)
+
+19. getting better at this design but my swans always end up chunky from the inverted pour.
+   (ID: jlb4est)
+
+20. i can usually tell which restaurant the sushi came from by the spicy salmon - volcano - morgantown, wv
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 188
+
+1. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+2. Fantasy tv shows are my favorite.
+   (ID: dialog_53_speaker_1)
+
+3. I cannot eat certain foods due to flatulence.
+   (ID: dialog_26_speaker_2)
+
+4. Seeing the globe is on my bucket list.
+   (ID: dialog_13_speaker_1)
+
+5. All food is enjoyable to me.
+   (ID: dialog_25_speaker_1)
+
+6. I like to listen to redneck singing.
+   (ID: dialog_46_speaker_1)
+
+7. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+8. I am partial to shades of grass and teal.
+   (ID: dialog_47_speaker_2)
+
+9. My hobbies are hiking and biking.
+   (ID: dialog_41_speaker_1)
+
+10. I order Angus steaks. My favorite band, at least one of them, is RHCP.
+   (ID: dialog_42_speaker_1)
+
+11. Mojitos are one of my favorite drinks. I like other drinks over mojitos. One of my favorite drinks is a caipirinha.
+   (ID: dialog_2_speaker_2)
+
+12. I'm able to read music.
+   (ID: dialog_10_speaker_2)
+
+13. I want to help people.
+   (ID: dialog_21_speaker_2)
+
+14. I am trying to get a post college degree.
+   (ID: dialog_23_speaker_1)
+
+15. I like Sherlock Holmes.
+   (ID: dialog_5_speaker_2)
+
+16. I stay in an assistant living facility.
+   (ID: dialog_44_speaker_1)
+
+17. I love art metal bands.
+   (ID: dialog_35_speaker_2)
+
+18. I live on a private island where things can take a bit to be delivered.
+   (ID: dialog_69_speaker_2)
+
+19. I like the musician in charlie daniels.
+   (ID: dialog_55_speaker_1)
+
+20. I love being with freezing water.
+   (ID: dialog_51_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2565
+
+1. i can tell by the pixels .
+   (ID: amirman)
+
+2. i go all the time with my family and love the difference in seasonal menus .
+   (ID: bmeckel)
+
+3. i just want more matt mcconaughey lincoln commercials
+   (ID: thebastion)
+
+4. i think he got one foot on
+   (ID: RonaldFuckingPaul)
+
+5. i do n't know , he 's a bit controlling and insecure .
+   (ID: NietzschesUbermensch)
+
+6. i play via emulator on my pc with 2x scaling .
+   (ID: JohnnyPappis)
+
+7. i need to change the links and inner tie rod on mine .
+   (ID: BoonTobias)
+
+8. i also love the clash version !
+   (ID: SerendipitousCat)
+
+9. i know that i should n't have laughed , but i did .
+   (ID: SerendipitousCat)
+
+10. i really want to like crucible .
+   (ID: WiseScratch)
+
+11. i still do n't get it :(
+   (ID: Megan_Bee)
+
+12. i 've read women 's lib articles that said pms was something that men made up .
+   (ID: DarkMoon99)
+
+13. i would appreciate it guys , thank you !
+   (ID: beautifulw0man)
+
+14. i got ta say , those are huge life changes ! !
+   (ID: kitcatpaints)
+
+15. i sent multiple different sources .
+   (ID: Montag3636)
+
+16. i would say ab , julio , and probably deandre hopkins .
+   (ID: LabeledAsALunatic)
+
+17. i 've fucking had enough .
+   (ID: vikkivinegar)
+
+18. i need the frame nos .
+   (ID: beautifulw0man)
+
+19. i spit out my soda .
+   (ID: Nick84572)
+
+20. i think the whole point of this cartoon went over your head .
+   (ID: bbakks)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2596
+
+1. hey it  s good you  ve acknowledged you have a problem ! i don  t think disliking your boyfriends watching porn is inherently a crazy thing but the depths to which it  s making you suffer isn  t normal . do you have any trauma or mental illness history ? things of that nature can influence feelings like this . i know you said you  ve tried therapy but i would give it another go , and or make it a requirement that your bf  s don  t watch porn . some men don  t watch it in the first place
+   (ID: fdfa8a07ca863e2631c049fe1f6a12483b81afbf)
+
+2. I am thic james beeeyotch.
+   (ID: 6f13975ce6a8747ec3d0e2207b9ef86d80a28713)
+
+3. I live in central time zone.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+4. One of my favorite things is santner.
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+5. I own a dude.
+   (ID: fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1)
+
+6. she needs to get out of her mind that she is being  forced  . nah , fuck that shit . i rather have my family be mad at me than see that pos . part of being an adult is looking out for your wellbeing cause most the time family doesn  t understand that . good luck .
+   (ID: 3590b3fd811042b17c3ff7f8b851664408a349ef)
+
+7. One of my favorite things is geoff.
+   (ID: 88279b92dca36b3b3c236d960135a2afe2e68b33)
+
+8. that ' s a really long winded way of missing the point entirely . it was digit words . you quoted it , you should know . if you think that ' s " long winded " then you ' re clearly not very good at reading . you managed to cram bias and agenda in there within the space of digit words as well . it ' s pretty clear where your priorities lie for all to see  in disregarding opinions you don ' t like by labelling them and disregarding them without being able to provide evidence against them , or even describe what they are . please tell me how how this is " bias and agenda " . let ' s make this clear  everyone should be treated equally . that means if someone in a wheelchair flags down a bus , and that space is already in use , they have to wait for the next bus , just like the rest of us . equality for all , not special treatment for some .
+   (ID: f7356e924b370675e942b29b9c2184dc895ea5b7)
+
+9. nah the only challenging monster is behemoth and it ' s only because of the weird mechanics . great game don ' t get me wrong on of my top picks of the year , but compared to mhgu that came out on the switch it just doesn ' t hold a candle to the amount of content .
+   (ID: e82ed26542949c55066d4b6510733c7a5f847704)
+
+10. this sounds kinda healthy . i know far too many people who do the opposite and bury themselves in kid issues to the neck and when the kids leave , they have nothing more to talk about and get divorced . if you  re resentful about it , why not say something ?
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+11. One of my favorite things is little girls oingo boingo.
+   (ID: 8b9c4341d896783998a7c3485fa949b3c63cbd73)
+
+12. everything in its right place by radiohead . i don  t listen to it much it  s probably not even in my top digit songs but it  s an experience whenever i do
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+13. at the risk of getting excommunicated from this sub , i ' m going to agree with you . while i respect the massive influence ce has had on the series and gaming in general , i don ' t think it ' s aged too well . a lot of this missions are really repetitive , to the point of being boring imo . there ' s a lot to love , obviously music and atmosphere being obvious choices , but i don ' t find it nearly as fun or engaging as the others in the series .
+   (ID: 4ea608a8fbdec83863f8ba3f502bfd6966794702)
+
+14. yes . what ' s it like ?
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+15. yea , schools also do a shit job of showing what respect is . if you have to say it , you don ' t have it . pretty sure anyone can get the gist of it after that
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+16. it ' s because they ' re removing anything decent with excuses like ' you ' re post has been removed because it ' s a play on words ' . i assure you non of the many i submitted were a play on words . only total bullshit gets accepted .
+   (ID: c9a98f7f4291c6c1eefeeaae838890408881f877)
+
+17. One of my favorite things is spinner games.
+   (ID: a0295151ec48c51be6978c891260159d3526ed86)
+
+18. stop begging for attention i know for a fact if someone wants to kill them selves they do it they don ' t got whining about it on the internet
+   (ID: ba6e71577de908a22c0e12bb76ecba264f52d94e)
+
+19. One of my favorite things is cronometer.
+   (ID: f0cc6658fb97955562b5f1b7845c6141dd2eefdf)
+
+20. yes , it could be that , i got the page from the video and forget about it . that is the bad thing of the points system , you don ' t know if people downvote because they hate it , because they downvote things they arent interested like gunlance or because technical details .
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+
+--- PersonaChat ---
+Total from this dataset: 230
+
+1. both my parents were teachers .
+   (ID: conversation_19)
+
+2. summer is my favorite season .
+   (ID: conversation_24)
+
+3. i like to wear boots .
+   (ID: conversation_59)
+
+4. i know how to count cards in blackjack .
+   (ID: conversation_158)
+
+5. i escaped and later became a carpenter .
+   (ID: conversation_127)
+
+6. i was born 20 years ago .
+   (ID: conversation_23)
+
+7. i love animals .
+   (ID: conversation_11)
+
+8. i worked 3 jobs at the same time for more than 5 years .
+   (ID: conversation_185)
+
+9. i cannot wait to start my new life .
+   (ID: conversation_21)
+
+10. i like baths .
+   (ID: conversation_6)
+
+11. i drink diet coke .
+   (ID: conversation_123)
+
+12. i hate carrots .
+   (ID: conversation_3)
+
+13. i'm young .
+   (ID: conversation_96)
+
+14. my father was born in australia .
+   (ID: conversation_9)
+
+15. i've a daughter .
+   (ID: conversation_105)
+
+16. i drive a prius .
+   (ID: conversation_68)
+
+17. i will study computer science .
+   (ID: conversation_108)
+
+18. my number is 42 .
+   (ID: conversation_62)
+
+19. i love my girlfriend .
+   (ID: conversation_81)
+
+20. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 151
+
+1. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+2. My favorite is rock fish.
+   (ID: conversation_157_user_1)
+
+3. I play the guitair.
+   (ID: conversation_121_user_2)
+
+4. My idol is theirry henry.
+   (ID: conversation_73_user_2)
+
+5. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+6. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+7. I am an old woman.
+   (ID: conversation_193_user_2)
+
+8. I work at home , editing.
+   (ID: conversation_16_user_2)
+
+9. I love bruno mars.
+   (ID: conversation_108_user_1)
+
+10. I like thomas the tank engine.
+   (ID: conversation_173_user_1)
+
+11. I love dark clothes.
+   (ID: conversation_197_user_2)
+
+12. When i am stressed , i overeat.
+   (ID: conversation_153_user_1)
+
+13. I am italian american.
+   (ID: conversation_173_user_2)
+
+14. I love hamburgers.
+   (ID: conversation_111_user_2)
+
+15. I broke my nose in 5th grade.
+   (ID: conversation_114_user_2)
+
+16. I always seem to be losing things , most recently , my mind.
+   (ID: conversation_18_user_2)
+
+17. I am working in finance.
+   (ID: conversation_123_user_1)
+
+18. I love ham and cheese sandwiches.
+   (ID: conversation_5_user_2)
+
+19. I am unsociable.
+   (ID: conversation_7_user_1)
+
+20. Currently , i m saving up to get some procedures done.
+   (ID: conversation_162_user_2)
+
+
+============================================================

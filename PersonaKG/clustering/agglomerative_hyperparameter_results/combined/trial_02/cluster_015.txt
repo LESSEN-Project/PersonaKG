@@ -1,0 +1,159 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 384
+
+Dataset distribution in this cluster:
+  PEC: 4 (1.0%)
+  PER-CHAT: 354 (92.2%)
+  SyntheticPersonaChat: 26 (6.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i am a girl ...
+   (ID: exotics)
+
+2. i 'm an 18 year old woman .
+   (ID: Mende)
+
+3. i am a 23 year old male .
+   (ID: AgedTwenties)
+
+4. i am a 23 year old male who likes to be active and be outdoors .
+   (ID: AgedTwenties)
+
+
+--- PER-CHAT ---
+Total from this dataset: 354
+
+1. I am a male.
+   (ID: e9d9b9400a09031a7e1021173867d784ebb9cf94)
+
+2. I am a male.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+3. I am a male.
+   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
+
+4. I am a female.
+   (ID: d8014467041b98317d9f1dec2b0dae4ff9405b91)
+
+5. I am a male.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+6. I am a female.
+   (ID: fe374743dd856c29f2117723cef01c1fdc3b3b5b)
+
+7. I am a male.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+8. I am a female.
+   (ID: 7921460db376d8f318b71729dcd4931f12a1d0c9)
+
+9. I am a male.
+   (ID: 067b7441373b7dfebd4b068272381804c26fe6dc)
+
+10. I am a male.
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+
+11. I am a male.
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+12. I am a male.
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+13. I am a male.
+   (ID: 49c1f9b73ecf635bdf7d4c4715d79caa4c296579)
+
+14. I am a female.
+   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+
+15. I am a male.
+   (ID: 6fa65e005cc7ba05dc62c263af1ea289902ce6d1)
+
+16. I am a male.
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+17. I am a male.
+   (ID: b7af56426174b182a97c67df12c64d320bf51d61)
+
+18. I am a male.
+   (ID: 57e23377d2e20446272558e1ff75f7e0cf1b0049)
+
+19. I am a male.
+   (ID: e82ed26542949c55066d4b6510733c7a5f847704)
+
+20. I am a male.
+   (ID: c374848a7cde05ee9d6d14f7ab991b3b11f71a87)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 26
+
+1. I am a man.
+   (ID: conversation_24_user_1)
+
+2. I am male.
+   (ID: conversation_10_user_1)
+
+3. I am a man.
+   (ID: conversation_33_user_2)
+
+4. I am male.
+   (ID: conversation_5_user_1)
+
+5. I am thirty years old.
+   (ID: conversation_75_user_2)
+
+6. I m a girl.
+   (ID: conversation_58_user_2)
+
+7. I am male.
+   (ID: conversation_7_user_1)
+
+8. I am male.
+   (ID: conversation_8_user_1)
+
+9. I am a girl.
+   (ID: conversation_80_user_1)
+
+10. I am a man.
+   (ID: conversation_22_user_1)
+
+11. I am a girl.
+   (ID: conversation_79_user_1)
+
+12. I am a woman.
+   (ID: conversation_57_user_2)
+
+13. I am twenty five years old.
+   (ID: conversation_22_user_1)
+
+14. I am a girl.
+   (ID: conversation_81_user_1)
+
+15. I am male.
+   (ID: conversation_11_user_1)
+
+16. I am male.
+   (ID: conversation_9_user_1)
+
+17. I am a man.
+   (ID: conversation_21_user_1)
+
+18. I am a girl.
+   (ID: conversation_78_user_1)
+
+19. I m a older woman.
+   (ID: conversation_60_user_2)
+
+20. I am a girl.
+   (ID: conversation_76_user_1)
+
+
+============================================================

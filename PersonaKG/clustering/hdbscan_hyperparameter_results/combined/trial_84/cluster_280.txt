@@ -1,0 +1,65 @@
+CLUSTER 280
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.948
+
+Dataset distribution in this cluster:
+  MSC: 2 (22.2%)
+  PEC: 1 (11.1%)
+  PER-CHAT: 4 (44.4%)
+  PersonaChat: 1 (11.1%)
+  SyntheticPersonaChat: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I have six toes on my left foot.
+   (ID: dialog_31_speaker_1)
+
+2. I've a lot of wrinkles.
+   (ID: dialog_18_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i have a not - green thumb .
+   (ID: samward7)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. I own a nose.
+   (ID: 8d3203bd3c61b13e57c27bd43fd1be11143f449a)
+
+2. I own a stomach.
+   (ID: 45768598053a5b3cdf1e6e286b99114b7acf5f3c)
+
+3. we know you have one , you don ' t have to tell us
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+4. I own a cock.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my car is pink .
+   (ID: conversation_58)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have one blue eye and one hazel eye.
+   (ID: conversation_59_user_2)
+
+
+============================================================

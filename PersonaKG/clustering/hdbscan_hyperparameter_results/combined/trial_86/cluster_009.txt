@@ -1,0 +1,85 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  MPChat: 2 (14.3%)
+  MSC: 1 (7.1%)
+  PEC: 5 (35.7%)
+  PER-CHAT: 2 (14.3%)
+  PersonaChat: 2 (14.3%)
+  SyntheticPersonaChat: 2 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i'm house-sitting for a cat is still a little scared of me
+   (ID: evantide)
+
+2. i call him yancy the yeti!
+   (ID: Louiesloops)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i named my old cat " rex manning " .
+   (ID: Mahatma_Panda)
+
+2. i call mine the lesbaru
+   (ID: thebastion)
+
+3. i have a grey tabby as well , also named pippin !
+   (ID: monday_madrigal)
+
+4. i have affectionately named it theodore .
+   (ID: deputydan_scubaman)
+
+5. i too have a tabby colored barn cat that likes to prowl
+   (ID: exotics)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I own a bean.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+2. I have a hamster as a pet.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i have a dog named bob .
+   (ID: conversation_27)
+
+2. i have a pet snake .
+   (ID: conversation_50)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My dogs name is toto.
+   (ID: conversation_44_user_2)
+
+2. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+
+============================================================

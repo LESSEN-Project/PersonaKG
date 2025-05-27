@@ -1,0 +1,11 @@
+{
+  "trial": 3,
+  "vectorization": "hybrid",
+  "sample_size": 100,
+  "n_clusters": 100,
+  "linkage": "single",
+  "metric": "euclidean",
+  "tfidf_weight": 0.7,
+  "pca_components": 16,
+  "clustering_mode": "combined"
+}

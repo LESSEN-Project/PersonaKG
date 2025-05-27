@@ -1,0 +1,46 @@
+CLUSTER 189
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.996
+
+Dataset distribution in this cluster:
+  MSC: 3 (50.0%)
+  PEC: 2 (33.3%)
+  PersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. It is my dream to be a full-time comedian.
+   (ID: dialog_33_speaker_1)
+
+2. I've high ambitions for myself.
+   (ID: dialog_12_speaker_1)
+
+3. I'm an insurance salesman. My dream would be to start my own insurance company.
+   (ID: dialog_15_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i would be a chef .
+   (ID: 11_29_77)
+
+2. i 'd like to become an international bounty hunter .
+   (ID: msiekkinen)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i hope it to become a doctor one day .
+   (ID: conversation_21)
+
+
+============================================================

@@ -1,0 +1,56 @@
+CLUSTER 255
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  FoCus: 1 (16.7%)
+  MSC: 2 (33.3%)
+  PER-CHAT: 1 (16.7%)
+  PersonaChat: 1 (16.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am a baseball fan.
+   (ID: PK2U426B57KL_9)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I am a nerd.
+   (ID: dialog_25_speaker_2)
+
+2. I'm able to read music.
+   (ID: dialog_10_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I own a empire.
+   (ID: 0b52265db13bf8bc27ad36aad94e870706eb6689)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i like basketball .
+   (ID: conversation_8)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am a poet.
+   (ID: conversation_82_user_1)
+
+
+============================================================

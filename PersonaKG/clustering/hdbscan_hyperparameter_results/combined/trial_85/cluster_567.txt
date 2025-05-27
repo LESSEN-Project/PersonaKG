@@ -1,0 +1,54 @@
+CLUSTER 567
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MPChat: 1 (14.3%)
+  MSC: 1 (14.3%)
+  PEC: 4 (57.1%)
+  PersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i have 3 gallons of milk to burn through tonight.
+   (ID: jlb4est)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I cannot be alone at night.
+   (ID: dialog_61_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i rule the night .
+   (ID: Waterrat)
+
+2. i 'm done for the night .
+   (ID: kailan123456)
+
+3. i do n't go to night clubs .
+   (ID: deputydan_scubaman)
+
+4. i blame you for my fucked up sleep schedule .
+   (ID: harumpf)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i am a night owl .
+   (ID: conversation_10)
+
+
+============================================================

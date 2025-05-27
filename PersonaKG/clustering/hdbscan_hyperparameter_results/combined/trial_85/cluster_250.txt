@@ -1,0 +1,54 @@
+CLUSTER 250
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.997
+
+Dataset distribution in this cluster:
+  FoCus: 3 (42.9%)
+  MSC: 1 (14.3%)
+  PEC: 2 (28.6%)
+  PersonaChat: 1 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I love Clearwater city.
+   (ID: OII32NSNR2Q2_7)
+
+2. I love park.
+   (ID: U6NEN4YX4OT6_9)
+
+3. I love the moon.
+   (ID: ZWQO9OQ8DX45_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I love being with freezing water.
+   (ID: dialog_51_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i love every track .
+   (ID: tommythestone420)
+
+2. i love the ' daily show ! '
+   (ID: jay456)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i love the beach .
+   (ID: conversation_7)
+
+
+============================================================

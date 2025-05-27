@@ -1,0 +1,112 @@
+CLUSTER 214
+============================================================
+Total statements in cluster: 23
+Cluster persistence (stability): 0.857
+
+Dataset distribution in this cluster:
+  FoCus: 1 (4.3%)
+  MPChat: 3 (13.0%)
+  MSC: 2 (8.7%)
+  PEC: 11 (47.8%)
+  PER-CHAT: 4 (17.4%)
+  PersonaChat: 2 (8.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have stayed in resorts.
+   (ID: FZ7IE8MUIWRS_9)
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. i'm a hypocrite.
+   (ID: Beardedlantern)
+
+2. i call it the antlered meeble walker
+   (ID: Louiesloops)
+
+3. my phoenix has reached 40 inches.
+   (ID: Nikyma)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+2. I am a southern.
+   (ID: dialog_26_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 11
+
+1. i would n't last the full 15 .
+   (ID: KikAtWorkFL)
+
+2. i 'm stealing this .
+   (ID: ifatree)
+
+3. i m down for an nyc meetup
+   (ID: NietzschesUbermensch)
+
+4. i would not call variadic dispatch in python unreadable
+   (ID: xcombelle)
+
+5. i ’m speechless .
+   (ID: 11_29_77)
+
+6. i am speechless .............
+   (ID: Noimnotsally)
+
+7. i can assure you it ’s not .
+   (ID: 11_29_77)
+
+8. i aim to please
+   (ID: ProJokeExplainer)
+
+9. i could get a machete for $ 15 there !
+   (ID: adertal)
+
+10. i 'm at 400 dives give / take 15 .
+   (ID: deputydan_scubaman)
+
+11. i 'm not bashing yuri .
+   (ID: tylock)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. I own a aim.
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+2. I am amateur.
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+3. I am amateur gunlancer.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+4. what ' s her snap ?
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i m allergic to shellfish .
+   (ID: conversation_28)
+
+2. i have my own salon .
+   (ID: conversation_14)
+
+
+============================================================

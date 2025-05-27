@@ -1,0 +1,57 @@
+CLUSTER 294
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.917
+
+Dataset distribution in this cluster:
+  MPChat: 1 (12.5%)
+  PEC: 2 (25.0%)
+  PER-CHAT: 4 (50.0%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i'm a hypocrite.
+   (ID: Beardedlantern)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i 'm just a douchebag
+   (ID: nate6051)
+
+2. i 'm a moron , too .
+   (ID: cometparty)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. I am narcissist.
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+2. I am abuser.
+   (ID: e0c81b4b90b0c79cd330827a7fe15c4ac2958b48)
+
+3. I am asshole.
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+4. I am cuck.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+
+============================================================

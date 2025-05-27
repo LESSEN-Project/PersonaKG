@@ -1,0 +1,77 @@
+CLUSTER 303
+============================================================
+Total statements in cluster: 13
+Cluster persistence (stability): 0.822
+
+Dataset distribution in this cluster:
+  FoCus: 7 (53.8%)
+  MSC: 1 (7.7%)
+  PEC: 2 (15.4%)
+  PersonaChat: 2 (15.4%)
+  SyntheticPersonaChat: 1 (7.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 7
+
+1. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+2. I have visited the Canadian National Exhibition Stadium.
+   (ID: NMEFJE64KZ1F_11)
+
+3. I have been to California.
+   (ID: UC6WD3SK3PG8_11)
+
+4. I have visited Austria many times.
+   (ID: YLLQOXHD6MZC_7)
+
+5. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+6. I have stayed in resorts.
+   (ID: FZ7IE8MUIWRS_9)
+
+7. I have never been to a mosque.
+   (ID: OKU8UQBPUSMV_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i 've been to middle east.beautiful town in sweden
+   (ID: ChallengeTaken99)
+
+2. i was born and raised in illinois and i have never been west of missouri .
+   (ID: AgedTwenties)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i ve never been to the city .
+   (ID: conversation_42)
+
+2. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+
+============================================================

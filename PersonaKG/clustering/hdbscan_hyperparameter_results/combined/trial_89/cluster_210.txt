@@ -1,0 +1,57 @@
+CLUSTER 210
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.960
+
+Dataset distribution in this cluster:
+  PEC: 3 (37.5%)
+  PER-CHAT: 2 (25.0%)
+  PersonaChat: 2 (25.0%)
+  SyntheticPersonaChat: 1 (12.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i was mistaking being sued with being charged .
+   (ID: exotics)
+
+2. i recognize it from somewheres ...
+   (ID: Kellen1337)
+
+3. i have a pet sheep who had a stroke .
+   (ID: exotics)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I have a hamster as a pet.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+2. at the bush or the tress
+   (ID: 6e7cd3892c49f30c5999e4b7337f95be97df0c1b)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i own a pug , and he is the most loyal pet you will ever have .
+   (ID: conversation_43)
+
+2. i have a pet snake .
+   (ID: conversation_50)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have a crush on my co worker.
+   (ID: conversation_42_user_2)
+
+
+============================================================

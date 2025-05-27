@@ -1,0 +1,46 @@
+CLUSTER 205
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 1 (16.7%)
+  PEC: 2 (33.3%)
+  PER-CHAT: 3 (50.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I am a big fan of pop culture.
+   (ID: dialog_13_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i ’m a big fan of this though � � � � ‍ ♀ ️
+   (ID: hussy_trash)
+
+2. i 'm not a big fan of the gadsden flag , tbh .
+   (ID: cometparty)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I am big fan of the switch port.
+   (ID: 8d3203bd3c61b13e57c27bd43fd1be11143f449a)
+
+2. I am huge fan of big government.
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+
+3. I am big fan of dark souls.
+   (ID: 8d3203bd3c61b13e57c27bd43fd1be11143f449a)
+
+
+============================================================

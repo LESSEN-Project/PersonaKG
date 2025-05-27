@@ -1,0 +1,76 @@
+CLUSTER 177
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.988
+
+Dataset distribution in this cluster:
+  MPChat: 1 (9.1%)
+  MSC: 1 (9.1%)
+  PEC: 3 (27.3%)
+  PER-CHAT: 3 (27.3%)
+  PersonaChat: 1 (9.1%)
+  SyntheticPersonaChat: 2 (18.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. this was my first time getting some char out of my cheap gas oven
+   (ID: mattsulli)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I had a medical emergency.
+   (ID: dialog_34_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i was jumping through the hoops my insurance needed for me to have bariatric surgery .
+   (ID: boo3114)
+
+2. i accidentally did a 22 hour fast by leaving my lunch at home .
+   (ID: boo3114)
+
+3. i just recently left my stove on for 24 hours .
+   (ID: Mende)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. was trying to leave house early in the morning gingerly going down the stairs , counted wrong landed on my foot and broke a toe .
+   (ID: 7911b1d92de80b0e1abd4e2a29e4f762a8a2908f)
+
+2. damn . i took four days off once . it was supposed to be five but my boss made me work one of those days .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+3. badly banged up my thumb with the hammer whilst putting the ikea cot together , still hurts in cold weather .
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i had to call 911 when i had a terrible headache .
+   (ID: conversation_34)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I haven t had to work a day in my life.
+   (ID: conversation_98_user_2)
+
+2. I retired so i can spend more time with my husband and helping people.
+   (ID: conversation_60_user_2)
+
+
+============================================================

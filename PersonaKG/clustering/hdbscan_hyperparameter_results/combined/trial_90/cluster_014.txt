@@ -1,0 +1,111 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 31
+Cluster persistence (stability): 0.714
+
+Dataset distribution in this cluster:
+  MSC: 2 (6.5%)
+  PEC: 2 (6.5%)
+  PER-CHAT: 25 (80.6%)
+  PersonaChat: 2 (6.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I live in Seattle.
+   (ID: dialog_38_speaker_1)
+
+2. I have a porch where I live.
+   (ID: dialog_71_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i live crunch wraps .
+   (ID: KikAtWorkFL)
+
+2. i have 3 weezing 's and i live in tx
+   (ID: FrankOfTheDank)
+
+
+--- PER-CHAT ---
+Total from this dataset: 25
+
+1. I live in adachiku.
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+2. I live in istanbul.
+   (ID: c63be1429c6442ee9219ae1573b45fc7a40d22f2)
+
+3. I live in hotspot.
+   (ID: 2bb956084cb9bf79f58345d6cf6beca98e76bbb4)
+
+4. I live in trois-rivières.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+5. I live in craziness.
+   (ID: 7ed1ff576cc7dc77750ed5f15461eb3ccdb52a7a)
+
+6. I live in foreground.
+   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
+
+7. I live in with pigs.
+   (ID: fca46720f9aa154a0559b1e4d2d28cb0df46b00a)
+
+8. I live in asbestos.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+9. I live in dprk.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+10. I live in hella.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+11. I live in grizzly.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+12. I live in utrecht.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+13. I live in baguettes.
+   (ID: 168d1161144e63a83a23f04ae4e64bd4b25684c0)
+
+14. I live in maximus.
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+15. I live in desert.
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+
+16. I live in mercury.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+17. I live in snowy wasteland.
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+18. I live in ohio pls.
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+19. I live in with scar.
+   (ID: ea1aba6f5a01e142602653a1b9987c70e3862a45)
+
+20. I live in side.
+   (ID: 03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i live alone .
+   (ID: conversation_18)
+
+2. i live in nashville .
+   (ID: conversation_117)
+
+
+============================================================

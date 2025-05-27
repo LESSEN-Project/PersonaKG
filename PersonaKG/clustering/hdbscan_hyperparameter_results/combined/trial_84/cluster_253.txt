@@ -1,0 +1,102 @@
+CLUSTER 253
+============================================================
+Total statements in cluster: 23
+Cluster persistence (stability): 0.963
+
+Dataset distribution in this cluster:
+  MSC: 1 (4.3%)
+  PEC: 1 (4.3%)
+  PER-CHAT: 20 (87.0%)
+  SyntheticPersonaChat: 1 (4.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I have a ps4.
+   (ID: dialog_35_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i have 6 of them .
+   (ID: carwynllew)
+
+
+--- PER-CHAT ---
+Total from this dataset: 20
+
+1. I own a fief.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+2. I own a junk.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+3. I own a tl.
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+
+4. I own a kd.
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+5. I own a warlock.
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+
+6. I own a zapper.
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+7. I own a rx.
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+8. I own a orb.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+9. I own a bullet kid.
+   (ID: 79a889fa6fb8a2c18c34d9aec95f4803861c97fe)
+
+10. I own a grade.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+11. I live in accounts.
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+12. I own a ball.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+13. I own a window.
+   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+
+14. I own a grief.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+15. I own a aim.
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+16. I own a g.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+17. I own a beam.
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+18. I own a fps.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+19. I own a screen.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+20. I own a type.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I own an iphone.
+   (ID: conversation_13_user_2)
+
+
+============================================================

@@ -91,6 +91,16 @@ def run_hyperparameter_search(n_trials=100, output_dir="hyperparameter_results",
         # Create trial directory
         trial_prefix = f"trial_{trial + 1:02d}"
         trial_dir = os.path.join(mode_dir, trial_prefix)
+        os.makedirs(trial_dir, exist_ok=True)
+        if os.path.exists(trial_dir):
+            for filename in os.listdir(trial_dir):
+                file_path = os.path.join(trial_dir, filename)
+                if os.path.isfile(file_path) or os.path.islink(file_path):
+                    os.unlink(file_path)
+                elif os.path.isdir(file_path):
+                    shutil.rmtree(file_path)
+        else:
+            os.makedirs(trial_dir, exist_ok=True)
         
         # Clear any existing trial directory
         if os.path.exists(trial_dir):
@@ -149,9 +159,9 @@ def run_hyperparameter_search(n_trials=100, output_dir="hyperparameter_results",
         print(f"\nFinal results DataFrame shape: {results_df.shape}")
         
         # Make sure exp_dir exists
-        os.makedirs(output_dir, exist_ok=True)
+        os.makedirs(mode_dir, exist_ok=True)
         
-        final_results_file = os.path.join(output_dir, "agglomerative_hyperparameter_results.csv")
+        final_results_file = os.path.join(mode_dir, "agglomerative_hyperparameter_results.csv")
         results_df.to_csv(final_results_file, index=False)
         print(f"Saved final results to: {final_results_file}")
     except Exception as e:
@@ -166,7 +176,7 @@ def run_hyperparameter_search(n_trials=100, output_dir="hyperparameter_results",
     try:
         if len(results_df) > 0:
             print("\nGenerating analysis and visualizations...")
-            generate_analysis(results_df, output_dir)
+            generate_analysis(results_df, mode_dir)
         else:
             print("\nNo results to analyze, skipping analysis generation.")
     except Exception as e:
@@ -519,7 +529,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run hyperparameter search for agglomerative clustering")
     parser.add_argument('--trials', type=int, default=100, help='Number of trials to run')
     parser.add_argument('--output', type=str, default='clustering/agglomerative_hyperparameter_results', help='Output directory for results')
-    parser.add_argument('--mode', type=str, default='separate', choices=['separate', 'combined'], 
+    parser.add_argument('--mode', type=str, default='combined', choices=['separate', 'combined'], 
                         help='Run clustering separately per dataset or combined')
     
     args = parser.parse_args()

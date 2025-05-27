@@ -1,0 +1,468 @@
+CLUSTER 225
+============================================================
+Total statements in cluster: 1625
+Cluster persistence (stability): 0.880
+
+Dataset distribution in this cluster:
+  FoCus: 44 (2.7%)
+  MPChat: 271 (16.7%)
+  MSC: 68 (4.2%)
+  PEC: 819 (50.4%)
+  PER-CHAT: 246 (15.1%)
+  PersonaChat: 92 (5.7%)
+  SyntheticPersonaChat: 85 (5.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 44
+
+1. I am living in a house which has a tennis court.
+   (ID: D4619DV1O1OP_11)
+
+2. I have visited the Canadian National Exhibition Stadium.
+   (ID: NMEFJE64KZ1F_11)
+
+3. I am not a fan of Manchester city.
+   (ID: UVWYNJ9N0J17_11)
+
+4. I am not Greek.
+   (ID: VB4LDHWFQAVH_11)
+
+5. I am impressed by Classical Revival synagogue.
+   (ID: VQJADZ97TJ0Z_11)
+
+6. I have not been to Walmer.
+   (ID: T9JPYSSWD7NW_11)
+
+7. I am Mississippi on business.
+   (ID: AGVUC45C9W9X_7)
+
+8. I am working in united states air force since 1976.
+   (ID: TBZIWSGJCM17_11)
+
+9. I am a fan of the Canadian Football League.
+   (ID: NMEFJE64KZ1F_11)
+
+10. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+11. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+12. I am a fan of Kevin Costner.
+   (ID: PK2U426B57KL_9)
+
+13. I have stayed in resorts.
+   (ID: FZ7IE8MUIWRS_9)
+
+14. I have curiosity about the original lake.
+   (ID: JJVJO5DV75YG_11)
+
+15. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+16. I have a cousin who lives in Barcelona.
+   (ID: FNURQ2XMQVJF_11)
+
+17. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+18. I have visited the Raj Bhavan at Chennai.
+   (ID: V3LNPA1FT8D2_11)
+
+19. I have visited the 7, Lok Kalyan Marg.
+   (ID: EMXI5E4LUV20_11)
+
+20. I am reseraching glacial meltwater.
+   (ID: SDW19RWSP3ZX_11)
+
+
+--- MPChat ---
+Total from this dataset: 271
+
+1. [fo] made 2 unicorns for my boss's daughters.
+   (ID: Ichishiro)
+
+2. took a month, but i can finally throw down some sloppy stacks.
+   (ID: mattsulli)
+
+3. i have an obsession with japanese dessert.
+   (ID: justcook_byangel)
+
+4. may or may not be hoarding all my limited edition, practically empty vaselines.
+   (ID: ellielumos)
+
+5. my cuckoo leghorn chicken sage laid her first egg last week.
+   (ID: Soapy_Von_Soaps)
+
+6. i made this advent calendar.
+   (ID: gelimausi)
+
+7. i baked a raisins bread for sunday.
+   (ID: gelimausi)
+
+8. store bought rainbow sprinkles are terrible, so my wife made some herself.
+   (ID: 05twister)
+
+9. i loveeee how it turns out.
+   (ID: justcook_byangel)
+
+10. i participated in the reddit gifts holiday card exchange.
+   (ID: FoxInKneeSocks)
+
+11. was 5 hrs in and i left it outside to rise in the warmth for 10 minutes.
+   (ID: RaeADropOfGoldenSun)
+
+12. i had about half the necessary ingredients for cinnamon rolls
+   (ID: RaeADropOfGoldenSun)
+
+13. added yarn storage for my stash of course!
+   (ID: iowajaycee)
+
+14. he is "number 1" in my eyes!
+   (ID: baccgirl)
+
+15. [i made] meatball subwiches?
+   (ID: MonstaEatsItAll)
+
+16. [i ate] egg while frittata with arugula cucumbers avocado and tomatoes.
+   (ID: patm28)
+
+17. [i made] a peppa pig and george cake for twin birthdays.
+   (ID: amandabakes)
+
+18. my 1st quilt project that isn't a pot holder!
+   (ID: XandXor)
+
+19. i had a very productive conference call this morning!
+   (ID: FoxInKneeSocks)
+
+20. my milkshake brings all the boys to the yard
+   (ID: kawaii1105)
+
+
+--- MSC ---
+Total from this dataset: 68
+
+1. I sold my house.
+   (ID: dialog_37_speaker_1)
+
+2. I'm very sensitive.
+   (ID: dialog_73_speaker_1)
+
+3. I'm a key player in a miles davis group.
+   (ID: dialog_63_speaker_2)
+
+4. I travel to canada on the weekends.
+   (ID: dialog_15_speaker_1)
+
+5. I have a ps4.
+   (ID: dialog_35_speaker_1)
+
+6. I cannot eat certain foods due to flatulence.
+   (ID: dialog_26_speaker_2)
+
+7. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+8. I can operate a car with a manual transmission.
+   (ID: dialog_34_speaker_1)
+
+9. My name is Katie and I am transgender.
+   (ID: dialog_23_speaker_2)
+
+10. I'm not a fan of soy products.
+   (ID: dialog_30_speaker_2)
+
+11. I can jam.
+   (ID: dialog_0_speaker_1)
+
+12. I am done with my education.
+   (ID: dialog_12_speaker_1)
+
+13. I shooting my meals.
+   (ID: dialog_19_speaker_2)
+
+14. My father is a minister.
+   (ID: dialog_40_speaker_2)
+
+15. I am very withdrawn.
+   (ID: dialog_2_speaker_1)
+
+16. My pet keeps me company.
+   (ID: dialog_26_speaker_1)
+
+17. I have grown some very large plants.
+   (ID: dialog_17_speaker_1)
+
+18. I admire lipton beverages.
+   (ID: dialog_1_speaker_2)
+
+19. I drive a rig.
+   (ID: dialog_34_speaker_1)
+
+20. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 819
+
+1. i ’d smash .
+   (ID: Dustin_Bromain)
+
+2. i made it up there . ”
+   (ID: doctor_parcival)
+
+3. i still have celery in the vault .
+   (ID: WiseScratch)
+
+4. i checked the app store and cydia to no avail .
+   (ID: bmeckel)
+
+5. i have such a mixed bag of emotions .
+   (ID: conservative_poly)
+
+6. i was yarning for someone to continue
+   (ID: alextound)
+
+7. i have submitted a complaint .
+   (ID: kailan123456)
+
+8. i have 2014 q50s with runflats .
+   (ID: msiekkinen)
+
+9. i called you a dick .
+   (ID: gigatroness)
+
+10. i called he had aj , lost
+   (ID: alextound)
+
+11. i am often a customer .
+   (ID: msiekkinen)
+
+12. i .. well ..
+   (ID: bestform)
+
+13. .
+   (ID: exotics)
+
+14. i have delanie walker as my starting te .
+   (ID: sweatervest)
+
+15. i giochi per pc .
+   (ID: apnudd)
+
+16. i caught you , aids !
+   (ID: sweatervest)
+
+17. i can add comment to ?
+   (ID: SerendipitousCat)
+
+18. i 'm disagreeing with the comic author .
+   (ID: CuriousBlueAbra)
+
+19. i m a athaleet
+   (ID: RonaldFuckingPaul)
+
+20. i ’m made out of fat
+   (ID: Heydawgg)
+
+
+--- PER-CHAT ---
+Total from this dataset: 246
+
+1. I am approx.
+   (ID: 5d5b1d6dc4106ea3828986093f78b562f2a75587)
+
+2. this one is the one
+   (ID: fada832baa55975057f6409e8926deefae094f1f)
+
+3. I own a 20.
+   (ID: 4198a967d1b0765e3fc996754ce9a3e6c7f24c8c)
+
+4. My television is british tv.
+   (ID: f7356e924b370675e942b29b9c2184dc895ea5b7)
+
+5. I own a window.
+   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+
+6. I own a account.
+   (ID: 77a6bff8693a174b55d34fc32fdd8a87710fecb7)
+
+7. I am rangers fan.
+   (ID: f8d48136e1ccbc739d4b7fb8db1e8f668422b145)
+
+8. I am gear.
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+9. proudbigot can ' t spell it checks out
+   (ID: e82ed26542949c55066d4b6510733c7a5f847704)
+
+10. why not both ?
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+11. I own a screen.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+12. I own a supply.
+   (ID: e807b18e05d35f02282740d90e8c63546558b267)
+
+13. I am derp.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+14. I own a stomach.
+   (ID: 45768598053a5b3cdf1e6e286b99114b7acf5f3c)
+
+15. I am puss.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+16. I am arisen.
+   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
+
+17. I own a orb.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+18. I own a tl.
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+
+19. I am owo luv.
+   (ID: 9ec97fcc6f16d54d7e24ba1cdb5ebe5785854536)
+
+20. what show is that from ?
+   (ID: 1e6ea64fb15fb5b12b1d82a3a5bdced4e3a6559a)
+
+
+--- PersonaChat ---
+Total from this dataset: 92
+
+1. i am a guitar player .
+   (ID: conversation_4)
+
+2. i'm in college .
+   (ID: conversation_7)
+
+3. my mother was born in ireland .
+   (ID: conversation_38)
+
+4. i graduated with a statistics degree .
+   (ID: conversation_158)
+
+5. i am primarily a meat eater .
+   (ID: conversation_4)
+
+6. i have a dog named socks .
+   (ID: conversation_172)
+
+7. i am a free spirit .
+   (ID: conversation_110)
+
+8. my husband is a cop .
+   (ID: conversation_78)
+
+9. i am a lumberjack .
+   (ID: conversation_51)
+
+10. i should beverage been born a prince .
+   (ID: conversation_54)
+
+11. welding is my career field .
+   (ID: conversation_4)
+
+12. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+13. i swim often .
+   (ID: conversation_143)
+
+14. my father lives in china .
+   (ID: conversation_6)
+
+15. i'm very athletic .
+   (ID: conversation_3)
+
+16. i'm strong .
+   (ID: conversation_96)
+
+17. my name is todd .
+   (ID: conversation_119)
+
+18. i collect bugs in jars .
+   (ID: conversation_113)
+
+19. i am bisexual .
+   (ID: conversation_159)
+
+20. i am colorblind .
+   (ID: conversation_109)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 85
+
+1. My left knee is filled with metal.
+   (ID: conversation_24_user_2)
+
+2. I am italian american.
+   (ID: conversation_173_user_2)
+
+3. I went to stanford.
+   (ID: conversation_73_user_2)
+
+4. I am a geology major at alabama university.
+   (ID: conversation_72_user_2)
+
+5. I m easily agitated.
+   (ID: conversation_106_user_2)
+
+6. I collect stamps.
+   (ID: conversation_160_user_2)
+
+7. I have a poster of neil tyson degrasse on my wall.
+   (ID: conversation_136_user_2)
+
+8. I am the head of the gun club.
+   (ID: conversation_82_user_1)
+
+9. I recently bought a camper.
+   (ID: conversation_27_user_2)
+
+10. I eat all take out.
+   (ID: conversation_2_user_1)
+
+11. My idol is theirry henry.
+   (ID: conversation_73_user_2)
+
+12. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+13. I have a large cd collection.
+   (ID: conversation_160_user_2)
+
+14. I also own a cupcake business.
+   (ID: conversation_86_user_2)
+
+15. My weakness are sweets.
+   (ID: conversation_7_user_1)
+
+16. My husband owns a small auto repair shop.
+   (ID: conversation_43_user_2)
+
+17. My husband and i have a suicide pact.
+   (ID: conversation_49_user_2)
+
+18. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+19. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+20. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+
+============================================================

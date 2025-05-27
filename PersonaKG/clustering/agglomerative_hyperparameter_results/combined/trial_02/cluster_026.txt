@@ -1,0 +1,69 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 9
+
+Dataset distribution in this cluster:
+  FoCus: 1 (11.1%)
+  MPChat: 1 (11.1%)
+  MSC: 1 (11.1%)
+  PEC: 4 (44.4%)
+  PER-CHAT: 1 (11.1%)
+  SyntheticPersonaChat: 1 (11.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have worked in France.
+   (ID: LFGIG1TODPKB_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i work at a coffee house and we caught this guy eating our halloween pumpkins and corn.
+   (ID: Caserole)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My boyfriend worked as a short-order cook and he lives in Michighan.
+   (ID: dialog_37_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i bought one while working at a butcher in ontario .
+   (ID: mylescloutier)
+
+2. i 've heard that about a lot of fast food places .
+   (ID: msiekkinen)
+
+3. i 've eaten alligator once , in a restaurant in london .
+   (ID: Sabiola)
+
+4. i used to work at arby 's in the us .
+   (ID: thebastion)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. i  ve heard horror stories about certain restaurants that friends have worked at , and now i can  t eat at any of them .
+   (ID: 2cc106beadb9cde22175338488da9efb20933748)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My family owned a small restaurant.
+   (ID: conversation_28_user_2)
+
+
+============================================================

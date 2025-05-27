@@ -1,0 +1,41 @@
+CLUSTER 558
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  MSC: 2 (33.3%)
+  PersonaChat: 4 (66.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. We have the same parents, he was born first.
+   (ID: dialog_81_speaker_2)
+
+2. I'm a parent.
+   (ID: dialog_81_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i was the first born child .
+   (ID: conversation_127)
+
+2. i am an only child .
+   (ID: conversation_200)
+
+3. i was raised by two mothers .
+   (ID: conversation_37)
+
+4. i have two children .
+   (ID: conversation_19)
+
+
+============================================================

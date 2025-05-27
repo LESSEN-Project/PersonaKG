@@ -1,0 +1,50 @@
+CLUSTER 280
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.975
+
+Dataset distribution in this cluster:
+  PEC: 5 (55.6%)
+  PER-CHAT: 4 (44.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i see you punted on my question .
+   (ID: cookiexcmonster)
+
+2. i misunderstood the question .
+   (ID: Takumi-Fujiwara)
+
+3. i have an ethical question .
+   (ID: FruitBatFanatic)
+
+4. i can not see the relation with my previous answer :/
+   (ID: Ml7500)
+
+5. i get that question now whenever i listen to the smiths .
+   (ID: cherrytonguetie)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. and that ' s the answer
+   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
+
+2. what is the answer to my question ?
+   (ID: 198c7cf8170708799eec80da464639ba2be896b4)
+
+3. the answer is in the question , young padewan   x200b
+   (ID: b5511d022d9aa43868b3f1a7ca2e4368d861570c)
+
+4. podrick . why is this even a question ?
+   (ID: fa9acab3fbd86b1f64e6380ef31b49912dae0c74)
+
+
+============================================================

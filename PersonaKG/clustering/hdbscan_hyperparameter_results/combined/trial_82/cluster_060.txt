@@ -1,0 +1,46 @@
+CLUSTER 60
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  PEC: 1 (16.7%)
+  PersonaChat: 2 (33.3%)
+  SyntheticPersonaChat: 3 (50.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i love beer .
+   (ID: amirman)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i love hot wings .
+   (ID: conversation_82)
+
+2. i love iced tea .
+   (ID: conversation_1)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I also love orange juice.
+   (ID: conversation_61_user_2)
+
+2. I love ham and cheese sandwiches.
+   (ID: conversation_5_user_2)
+
+3. I love sushi.
+   (ID: conversation_76_user_1)
+
+
+============================================================

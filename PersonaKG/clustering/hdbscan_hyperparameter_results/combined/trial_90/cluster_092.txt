@@ -1,0 +1,55 @@
+CLUSTER 92
+============================================================
+Total statements in cluster: 9
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  MSC: 1 (11.1%)
+  PersonaChat: 4 (44.4%)
+  SyntheticPersonaChat: 4 (44.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. Guns and roses is my favorite band.
+   (ID: dialog_6_speaker_1)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. my favorite player is mike trout .
+   (ID: conversation_103)
+
+2. my favorite color is blue .
+   (ID: conversation_23)
+
+3. my favorite tv show is dancing with the stars .
+   (ID: conversation_144)
+
+4. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. My favorite artist is bob ross.
+   (ID: conversation_187_user_1)
+
+2. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+3. My favorite store is american eagle.
+   (ID: conversation_4_user_2)
+
+4. 1984 is my favorite book.
+   (ID: conversation_126_user_1)
+
+
+============================================================

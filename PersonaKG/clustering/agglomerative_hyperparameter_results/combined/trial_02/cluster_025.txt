@@ -1,0 +1,336 @@
+CLUSTER 25
+============================================================
+Total statements in cluster: 447
+
+Dataset distribution in this cluster:
+  FoCus: 2 (0.4%)
+  MSC: 26 (5.8%)
+  PEC: 16 (3.6%)
+  PER-CHAT: 331 (74.0%)
+  PersonaChat: 32 (7.2%)
+  SyntheticPersonaChat: 40 (8.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I have kids.
+   (ID: UXR4EKSRCULN_11)
+
+2. My family is from Wales.
+   (ID: LJYX36WCRYDM_9)
+
+
+--- MSC ---
+Total from this dataset: 26
+
+1. I have 4 sisters.
+   (ID: dialog_1_speaker_2)
+
+2. I have four sisters.
+   (ID: dialog_14_speaker_1)
+
+3. My sister has lots of kids.
+   (ID: dialog_7_speaker_1)
+
+4. A few people share my flat.
+   (ID: dialog_17_speaker_2)
+
+5. I have sons.
+   (ID: dialog_9_speaker_2)
+
+6. My parents had 5 kids.
+   (ID: dialog_14_speaker_1)
+
+7. My mother is my best friend.
+   (ID: dialog_1_speaker_2)
+
+8. I'm part of a modern family.
+   (ID: dialog_37_speaker_2)
+
+9. My family is in the military.
+   (ID: dialog_16_speaker_1)
+
+10. I've ben to Canada before with my father.
+   (ID: dialog_33_speaker_2)
+
+11. I am dealing with my 2 sons' teenager years.
+   (ID: dialog_9_speaker_2)
+
+12. I come from a large family.
+   (ID: dialog_4_speaker_1)
+
+13. I have 4 sisters named Anne, Lauren, Alexis, and Sam.
+   (ID: dialog_1_speaker_2)
+
+14. My family used to live in sydney.
+   (ID: dialog_9_speaker_2)
+
+15. My parents had 5 kids.
+   (ID: dialog_1_speaker_2)
+
+16. My mother is the closest person to me.
+   (ID: dialog_1_speaker_2)
+
+17. I have 2 sons in college. I can travel during the school terms.
+   (ID: dialog_9_speaker_1)
+
+18. I have 2 mothers
+   (ID: dialog_37_speaker_2)
+
+19. My mom is my best friends.
+   (ID: dialog_14_speaker_1)
+
+20. I have a couple kids.
+   (ID: dialog_19_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 16
+
+1. i pay 985 in rent and my gross pay per month is around 3920 .
+   (ID: AgedTwenties)
+
+2. i wish i had one or two cute little sisters .
+   (ID: Lsmoothies)
+
+3. i always feel like i 'd be ashamed if this was a relative of mine lol
+   (ID: Taydrz)
+
+4. i am a woman , a mom ..
+   (ID: exotics)
+
+5. i ’m 40 , never been pregnant , and will not be having kids .
+   (ID: 11_29_77)
+
+6. i just talked to my dad on the phone .
+   (ID: kitcatpaints)
+
+7. i 'm in my 30s , pretty sure my decision to be childless is for real .
+   (ID: scoutsadie)
+
+8. i married one .
+   (ID: combover)
+
+9. i 've got my own father .
+   (ID: RonaldFuckingPaul)
+
+10. i 'm working and living with my mom for the summer haha .
+   (ID: mylescloutier)
+
+11. i have quite a nest egg in my hsa .
+   (ID: deputydan_scubaman)
+
+12. i has a 12k loan and a car that s worth roughly 12k now .
+   (ID: AgedTwenties)
+
+13. i am but i ’m a university student and single mom .
+   (ID: kitcatpaints)
+
+14. i love my mom .
+   (ID: chasemyers)
+
+15. i have both a traditional and a roth ira .
+   (ID: msiekkinen)
+
+16. i 'm a 20-year - old guy living with his parents .
+   (ID: Lsmoothies)
+
+
+--- PER-CHAT ---
+Total from this dataset: 331
+
+1. I have a father in my family.
+   (ID: 7ba2f45f62c701a508f1895df828d4da2f3f446d)
+
+2. I have a daughter in my family.
+   (ID: 5bb6e2d4db1d5ccf3a1f430564735551dfb4c28b)
+
+3. I have a sister in my family.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+4. I have a son in my family.
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+5. I have a father in my family.
+   (ID: 873d7cdd437cc48c69447d68b6cd96b54580dae7)
+
+6. I have a father in my family.
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+7. I have a brother in my family.
+   (ID: 9adb5fb6fb9aeeeb65afe41002460d73817044b0)
+
+8. I have a mother in my family.
+   (ID: 2e2a44cdfc726423ec202a2fe420543af441d1ad)
+
+9. I have a father in my family.
+   (ID: 68d36e5b5d26327bbb5de8de16430cc93353cbf0)
+
+10. I live in alcoholic mother.
+   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+
+11. I have a daughter in my family.
+   (ID: b3497f72ed4462f0414951db6d9ee7aa4004b515)
+
+12. I have a brother in my family.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+13. I have a father in my family.
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+14. I have a brother in my family.
+   (ID: 465a8b7c9604514a10670d3813f18485575cfa5c)
+
+15. I have a mother in my family.
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+16. I have a mother in my family.
+   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+
+17. I have a mother in my family.
+   (ID: d72952657a3571deff985040e565d95d8206db60)
+
+18. I have a father in my family.
+   (ID: 7a3a98777bf2cebb6bd14409075a19b82035e535)
+
+19. I have a sister in my family.
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+20. I have a brother in my family.
+   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+
+
+--- PersonaChat ---
+Total from this dataset: 32
+
+1. my family migrated to america when i was five .
+   (ID: conversation_22)
+
+2. my grandmother lives in my guesthouse .
+   (ID: conversation_73)
+
+3. i have two roomates .
+   (ID: conversation_17)
+
+4. my mom is my best friend .
+   (ID: conversation_49)
+
+5. i am a college student who is a full time working mom .
+   (ID: conversation_21)
+
+6. i still live at home .
+   (ID: conversation_39)
+
+7. my wife stays home with our kids .
+   (ID: conversation_68)
+
+8. i never knew my dad .
+   (ID: conversation_90)
+
+9. i've two nephews .
+   (ID: conversation_99)
+
+10. i've one son .
+   (ID: conversation_55)
+
+11. i have an older brother .
+   (ID: conversation_81)
+
+12. my mom is my best friend .
+   (ID: conversation_1)
+
+13. my father was born in australia .
+   (ID: conversation_38)
+
+14. i have four sisters .
+   (ID: conversation_1)
+
+15. i have two children .
+   (ID: conversation_19)
+
+16. my husband is a soldier in the us army .
+   (ID: conversation_40)
+
+17. i still live with my parents .
+   (ID: conversation_24)
+
+18. i was raised by two mothers .
+   (ID: conversation_37)
+
+19. i've three kids .
+   (ID: conversation_82)
+
+20. i've a twin brother .
+   (ID: conversation_57)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 40
+
+1. I ve two siblings.
+   (ID: conversation_70_user_1)
+
+2. I ve two siblings.
+   (ID: conversation_71_user_1)
+
+3. I have 5 brothers and sisters.
+   (ID: conversation_8_user_2)
+
+4. My parents are divorced.
+   (ID: conversation_29_user_2)
+
+5. I have 4 daughters.
+   (ID: conversation_50_user_2)
+
+6. I am a family man.
+   (ID: conversation_23_user_2)
+
+7. I am currently pregnant with my second child.
+   (ID: conversation_65_user_1)
+
+8. I am married with 2 children.
+   (ID: conversation_23_user_2)
+
+9. I live with my parents and my little brother.
+   (ID: conversation_62_user_2)
+
+10. My grandma is from denmark.
+   (ID: conversation_44_user_2)
+
+11. I have a twin brother.
+   (ID: conversation_19_user_2)
+
+12. I am 25 years old and live with my parents.
+   (ID: conversation_78_user_2)
+
+13. I still live at home with my parents.
+   (ID: conversation_1_user_1)
+
+14. I am currently a stay at home mom while my husband is the sole provider.
+   (ID: conversation_75_user_2)
+
+15. I have two children.
+   (ID: conversation_75_user_2)
+
+16. I am a stay at home mom.
+   (ID: conversation_65_user_1)
+
+17. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+18. I have a wife and a 4 year old son.
+   (ID: conversation_73_user_2)
+
+19. I am a mother.
+   (ID: conversation_85_user_1)
+
+20. I live with my sisters and they provide me with all my needs.
+   (ID: conversation_68_user_2)
+
+
+============================================================

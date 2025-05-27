@@ -1,0 +1,80 @@
+CLUSTER 349
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.992
+
+Dataset distribution in this cluster:
+  MPChat: 1 (7.1%)
+  MSC: 2 (14.3%)
+  PEC: 1 (7.1%)
+  PersonaChat: 8 (57.1%)
+  SyntheticPersonaChat: 2 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my favorite pizza at my favorite local brewery-phoenix rising bakery/chestnut brew works
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. Desert is my favorite type of food.
+   (ID: dialog_56_speaker_1)
+
+2. Guns and roses is my favorite band.
+   (ID: dialog_6_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm commander shepard , and this is my favorite street in hampton , virginia .
+   (ID: Machinax)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. my favorite pizza is pepperoni .
+   (ID: conversation_206)
+
+2. my favorite car is the ford mustang .
+   (ID: conversation_185)
+
+3. my favorite food is popcorn .
+   (ID: conversation_15)
+
+4. my favorite ice cream is pistachio .
+   (ID: conversation_287)
+
+5. my favorite color is blue .
+   (ID: conversation_23)
+
+6. my favorite player is mike trout .
+   (ID: conversation_103)
+
+7. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+8. my favorite jello is the blue one .
+   (ID: conversation_236)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My favorite fruit is apple.
+   (ID: conversation_277_user_1)
+
+2. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+
+============================================================

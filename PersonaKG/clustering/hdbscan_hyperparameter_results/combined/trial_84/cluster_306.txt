@@ -1,0 +1,134 @@
+CLUSTER 306
+============================================================
+Total statements in cluster: 41
+Cluster persistence (stability): 0.569
+
+Dataset distribution in this cluster:
+  MSC: 6 (14.6%)
+  PEC: 4 (9.8%)
+  PER-CHAT: 29 (70.7%)
+  PersonaChat: 1 (2.4%)
+  SyntheticPersonaChat: 1 (2.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+2. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+3. I travel to canada on the weekends.
+   (ID: dialog_15_speaker_1)
+
+4. I do not travel much.
+   (ID: dialog_8_speaker_2)
+
+5. I live in the state by colorado.
+   (ID: dialog_10_speaker_1)
+
+6. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i live in greenwood .
+   (ID: boo3114)
+
+2. i 'm in japan now .
+   (ID: StinkinFinger)
+
+3. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+4. i am in the southeast .
+   (ID: deputydan_scubaman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 29
+
+1. I live in hearing.
+   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+
+2. I live in shit.
+   (ID: 203253ab73b19e5cd1d950c82537271605475cea)
+
+3. I live in cave.
+   (ID: ba6e71577de908a22c0e12bb76ecba264f52d94e)
+
+4. I live in middle.
+   (ID: 7c3eb339580d281fcb54cb04dbb55f6921fceec5)
+
+5. I live in meth village.
+   (ID: 8df56ee782672f11aeb0f19bf7978b1b1c04e678)
+
+6. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+7. I live in utrecht.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+8. I live in sticks.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+9. I live in ulster.
+   (ID: 93fee667f85cc0ee55e2451cc1a83efc0b764ef4)
+
+10. I live in large river.
+   (ID: 0d77404b10744947bcd2c91d8c926021d4b8650f)
+
+11. I live in heating pad.
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+12. I live in f  pizza.
+   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+
+13. I live in borg america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+14. I live in istanbul.
+   (ID: c63be1429c6442ee9219ae1573b45fc7a40d22f2)
+
+15. I live in part.
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+16. I live in boring america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+17. I live in snowy wasteland.
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+18. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+19. I live in sam.
+   (ID: 109fa004cbb85f6a703624f8b4393d7d7d685509)
+
+20. I live in dad.
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i live in rural wisconsin .
+   (ID: conversation_15)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+
+============================================================

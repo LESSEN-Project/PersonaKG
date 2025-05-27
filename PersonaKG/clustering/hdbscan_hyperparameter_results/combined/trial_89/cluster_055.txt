@@ -1,0 +1,46 @@
+CLUSTER 55
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (16.7%)
+  PEC: 4 (66.7%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I love the United States.
+   (ID: Z8RPC24EURS4_7)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i 'd love to smoke some * * pot * * with you .
+   (ID: Weed_n_Wisdom)
+
+2. i love how light your lines are , and the minimal shading , it 's gorgeous !
+   (ID: deryyaa)
+
+3. i love your pride in his hobby and skill .
+   (ID: kitcatpaints)
+
+4. i love the white beard crew .
+   (ID: CarlofTime)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I love to put a smile on peoples faces.
+   (ID: conversation_32_user_2)
+
+
+============================================================

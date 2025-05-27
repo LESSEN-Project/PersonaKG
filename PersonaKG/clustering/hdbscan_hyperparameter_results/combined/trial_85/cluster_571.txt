@@ -1,0 +1,75 @@
+CLUSTER 571
+============================================================
+Total statements in cluster: 14
+Cluster persistence (stability): 0.990
+
+Dataset distribution in this cluster:
+  MSC: 1 (7.1%)
+  PEC: 10 (71.4%)
+  PersonaChat: 1 (7.1%)
+  SyntheticPersonaChat: 2 (14.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. Sometimes I have trouble breathing.
+   (ID: dialog_40_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 10
+
+1. i was diagnosed in gi after an abdominal ct .
+   (ID: Waterrat)
+
+2. i often get bloated on depo .
+   (ID: mooonjellies)
+
+3. i take magnesium threonate .
+   (ID: meteoriteminer)
+
+4. i 'm fairly certain the pain is originating in my kidney .
+   (ID: bbakks)
+
+5. i take peroxitine which is an ssri anti depressant .
+   (ID: thebastion)
+
+6. i take a pheneragain for it and it eases up .
+   (ID: Waterrat)
+
+7. i had to take a beta blocker for svt .
+   (ID: rycheme)
+
+8. i have been diagnosed .
+   (ID: SamuelStephenBono)
+
+9. i have scholiosis and stage 2 degeneration of my lower lumbar curve .
+   (ID: VanGoJourney)
+
+10. i was finally diagnosed with mild gastroparesis and my dr put me on domperidone !
+   (ID: cassieeh)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i have epilepsy .
+   (ID: conversation_55)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am lactose intolerant.
+   (ID: conversation_101_user_2)
+
+2. I am not healthy.
+   (ID: conversation_21_user_1)
+
+
+============================================================

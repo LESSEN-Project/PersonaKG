@@ -1,0 +1,66 @@
+CLUSTER 283
+============================================================
+Total statements in cluster: 11
+Cluster persistence (stability): 0.971
+
+Dataset distribution in this cluster:
+  PEC: 6 (54.5%)
+  PER-CHAT: 3 (27.3%)
+  PersonaChat: 1 (9.1%)
+  SyntheticPersonaChat: 1 (9.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i 'll apologize .
+   (ID: chasemyers)
+
+2. i 'm op .
+   (ID: StinkinFinger)
+
+3. i make shit .
+   (ID: ifatree)
+
+4. i do n't even know anymore .
+   (ID: Nheea)
+
+5. i 'm karma whoring )
+   (ID: amirman)
+
+6. i found a downvote for you
+   (ID: ProJokeExplainer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. I am reason.
+   (ID: eb338cca8f5e87e4b6e5d369997ab6dbebf241c5)
+
+2. I am cup of coffee.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+3. I am redditor.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i am witty .
+   (ID: conversation_65)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am incredibly smart.
+   (ID: conversation_9_user_2)
+
+
+============================================================

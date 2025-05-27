@@ -1,0 +1,228 @@
+CLUSTER 46
+============================================================
+Total statements in cluster: 64
+Cluster persistence (stability): 0.887
+
+Dataset distribution in this cluster:
+  FoCus: 2 (3.1%)
+  MPChat: 1 (1.6%)
+  MSC: 6 (9.4%)
+  PEC: 9 (14.1%)
+  PER-CHAT: 24 (37.5%)
+  PersonaChat: 15 (23.4%)
+  SyntheticPersonaChat: 7 (10.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I am a baseball fan.
+   (ID: PK2U426B57KL_9)
+
+2. I am a figure skater.
+   (ID: D4619DV1O1OP_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. hello it is i!
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I am good with computers.
+   (ID: dialog_32_speaker_2)
+
+2. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+3. I'm a railway conductor.
+   (ID: dialog_19_speaker_1)
+
+4. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+5. I am a veteran. I don't currently have a job.
+   (ID: dialog_11_speaker_1)
+
+6. My job is in real estate.
+   (ID: dialog_37_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 9
+
+1. i guess that makes me a stark .
+   (ID: zsnajorrah)
+
+2. i 'm jordan ward !
+   (ID: amirman)
+
+3. i ’m john marcus willam and even i get it
+   (ID: ChallengeTaken99)
+
+4. i am the best .
+   (ID: RonaldFuckingPaul)
+
+5. i 'm a lefty .
+   (ID: BabblingBunny)
+
+6. i m a athaleet
+   (ID: RonaldFuckingPaul)
+
+7. i 'm op .
+   (ID: StinkinFinger)
+
+8. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+9. i am a comedy master
+   (ID: ChallengeTaken99)
+
+
+--- PER-CHAT ---
+Total from this dataset: 24
+
+1. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+2. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+3. I own a manager.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+4. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+5. I am top sniper.
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+6. I am speed.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+7. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+8. I am redditor.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+9. I am altmer mage.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+10. I am u/footofaep.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+11. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+12. I am captain.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+13. I am serial killer.
+   (ID: e91d4ec377d82dfdf21d71b4dc685a96ed60ea3d)
+
+14. I am sand guardian.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+15. I am ‘ underage loli ’.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+16. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+17. I am selfer.
+   (ID: f67daf28a38187108da9b380f2e2f9336016c584)
+
+18. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+19. I am star.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+20. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+
+--- PersonaChat ---
+Total from this dataset: 15
+
+1. my name is omar .
+   (ID: conversation_42)
+
+2. i m a truck driver in the south .
+   (ID: conversation_82)
+
+3. i am a guitar player .
+   (ID: conversation_4)
+
+4. i fly airplanes .
+   (ID: conversation_35)
+
+5. i'm a goalie .
+   (ID: conversation_62)
+
+6. i'm a michigan state trooper .
+   (ID: conversation_80)
+
+7. i teach kindergarten .
+   (ID: conversation_70)
+
+8. i am a lumberjack .
+   (ID: conversation_51)
+
+9. i work on cars for a living .
+   (ID: conversation_18)
+
+10. i work many hours .
+   (ID: conversation_8)
+
+11. i am witty .
+   (ID: conversation_65)
+
+12. i work for a large law firm .
+   (ID: conversation_30)
+
+13. i work as a stand up comedian .
+   (ID: conversation_2)
+
+14. i train horses for a living .
+   (ID: conversation_66)
+
+15. i'm a dancer .
+   (ID: conversation_10)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I am a paper salesman.
+   (ID: conversation_55_user_2)
+
+2. My name is nancy.
+   (ID: conversation_58_user_2)
+
+3. My brothers work with me.
+   (ID: conversation_47_user_2)
+
+4. I am blonde.
+   (ID: conversation_16_user_1)
+
+5. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+6. I work at home , editing.
+   (ID: conversation_16_user_2)
+
+7. My name is arnold.
+   (ID: conversation_5_user_2)
+
+
+============================================================

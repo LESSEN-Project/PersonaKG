@@ -1,0 +1,51 @@
+CLUSTER 228
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 0.948
+
+Dataset distribution in this cluster:
+  PEC: 2 (33.3%)
+  PER-CHAT: 1 (16.7%)
+  PersonaChat: 2 (33.3%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i have a stone that keeps tigers away .
+   (ID: harumpf)
+
+2. i sleep with a stuffed kitty .
+   (ID: napalmkitten)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I have a hamster as a pet.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i have a pet snake .
+   (ID: conversation_50)
+
+2. i have 23 cats at home .
+   (ID: conversation_60)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+
+============================================================

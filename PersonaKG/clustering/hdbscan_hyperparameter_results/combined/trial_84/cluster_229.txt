@@ -1,0 +1,54 @@
+CLUSTER 229
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.994
+
+Dataset distribution in this cluster:
+  MSC: 3 (42.9%)
+  PEC: 1 (14.3%)
+  PER-CHAT: 1 (14.3%)
+  PersonaChat: 2 (28.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I work in TV show business. I am taking a four week break from my job at a studio. I have had trouble finding a job in the past.
+   (ID: dialog_2_speaker_2)
+
+2. I am trying to get a post college degree.
+   (ID: dialog_23_speaker_1)
+
+3. I am planning on running my first marathon. I have a personal goal to run a marathon in under 4 hours.
+   (ID: dialog_0_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i have scholiosis and stage 2 degeneration of my lower lumbar curve .
+   (ID: VanGoJourney)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. apply ! this program sounds amazing !
+   (ID: f179711c18514780c1b0257643d893ef1cf5a081)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i start an internship in engineering later this year .
+   (ID: conversation_50)
+
+2. i will be graduating in september and hope to get a teaching job soon .
+   (ID: conversation_22)
+
+
+============================================================

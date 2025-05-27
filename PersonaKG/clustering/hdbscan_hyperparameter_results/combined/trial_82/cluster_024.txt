@@ -1,0 +1,94 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 17
+Cluster persistence (stability): 0.981
+
+Dataset distribution in this cluster:
+  MPChat: 2 (11.8%)
+  MSC: 1 (5.9%)
+  PEC: 7 (41.2%)
+  PER-CHAT: 5 (29.4%)
+  PersonaChat: 1 (5.9%)
+  SyntheticPersonaChat: 1 (5.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i finished my negroni shirt and i am so freaking proud!
+   (ID: XandXor)
+
+2. long shipping to australia, but it got here in time for my days off work
+   (ID: Perthboi92)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I used to  work at a processing center for long hours.
+   (ID: dialog_23_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i accidentally did a 22 hour fast by leaving my lunch at home .
+   (ID: boo3114)
+
+2. i was probably 12 - 17 at this time .
+   (ID: Mende)
+
+3. i 'm in highschool now !
+   (ID: thebastion)
+
+4. i got waitlisted at my top choice school .
+   (ID: KneelDeGrassTieSon)
+
+5. i learned to swim this year too , and i 'm twice your age .
+   (ID: DaysOfParadise)
+
+6. i graduated in may with my bachelors and it took me 7 months to find a job .
+   (ID: AgedTwenties)
+
+7. i went back when i was 28 .
+   (ID: deputydan_scubaman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 5
+
+1. i ' m in grad school now but i had a gap year after undergrad . it was very different . i had less on my plate than before because i worked full  time during undergrad . i lost a lot of friends that year because many people moved away .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+2. was trying to leave house early in the morning gingerly going down the stairs , counted wrong landed on my foot and broke a toe .
+   (ID: 7911b1d92de80b0e1abd4e2a29e4f762a8a2908f)
+
+3. i got my taxes done  it always feels good to get that out of the way for another year .
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+4. damn . i took four days off once . it was supposed to be five but my boss made me work one of those days .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+5. badly banged up my thumb with the hammer whilst putting the ikea cot together , still hurts in cold weather .
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I retired so i can spend more time with my husband and helping people.
+   (ID: conversation_60_user_2)
+
+
+============================================================

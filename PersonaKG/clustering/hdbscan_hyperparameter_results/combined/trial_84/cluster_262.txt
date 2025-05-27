@@ -1,0 +1,49 @@
+CLUSTER 262
+============================================================
+Total statements in cluster: 7
+Cluster persistence (stability): 0.975
+
+Dataset distribution in this cluster:
+  FoCus: 1 (14.3%)
+  MSC: 4 (57.1%)
+  PersonaChat: 2 (28.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have membership in a sports club.
+   (ID: VZ1O6OE23O98_11)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I can operate a car with a manual transmission.
+   (ID: dialog_34_speaker_1)
+
+2. I drive a rig.
+   (ID: dialog_34_speaker_1)
+
+3. I have a job. I go to school.
+   (ID: dialog_29_speaker_1)
+
+4. I've a disability.
+   (ID: dialog_34_speaker_2)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i'm in college .
+   (ID: conversation_7)
+
+2. i am in the army .
+   (ID: conversation_35)
+
+
+============================================================

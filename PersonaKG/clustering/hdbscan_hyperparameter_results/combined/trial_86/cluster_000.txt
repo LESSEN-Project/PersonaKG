@@ -1,0 +1,127 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 563
+Cluster persistence (stability): 0.421
+
+Dataset distribution in this cluster:
+  FoCus: 1 (0.2%)
+  MPChat: 2 (0.4%)
+  MSC: 2 (0.4%)
+  PER-CHAT: 555 (98.6%)
+  PersonaChat: 2 (0.4%)
+  SyntheticPersonaChat: 1 (0.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. Ferry rides are my favorite.
+   (ID: NETYMHGQTGLI_9)
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. mittens are one my favorite things to make!
+   (ID: Novel_Fox)
+
+2. one of my favorite things to make at home: vietnamese coffee.
+   (ID: BeastaBubbles)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. Pepperoni is my favorite topping.
+   (ID: dialog_23_speaker_1)
+
+2. My favorite cuisine is thai.
+   (ID: dialog_23_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 555
+
+1. One of my favorite things is groundwar.
+   (ID: d7ab0e5728c419d1e50c8ba827489e51566c046b)
+
+2. One of my favorite things is breitling.
+   (ID: 9e8a44f7c55ebce4785906436a033b33a1ccb949)
+
+3. One of my favorite things is tokyo ghoul op.
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+4. One of my favorite things is aldi.
+   (ID: d9e6e1ecc09dc9affbcc8ccb0191ff241370a782)
+
+5. One of my favorite things is ~ 4000k.
+   (ID: 6259aa52bc6c6edc83b90b70ae922dcaba51cac8)
+
+6. One of my favorite things is ice poseidon.
+   (ID: 44477e54e9e15675b9ad5c3be02b0440724c674b)
+
+7. One of my favorite things is feta cheese.
+   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
+
+8. One of my favorite things is peony.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+9. One of my favorite things is balance  maps.
+   (ID: 03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa)
+
+10. One of my favorite things is mustard on fries.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+11. One of my favorite things is being fucked in the ass.
+   (ID: 2168250be01c43791f88e7c8ad875c0396307047)
+
+12. One of my favorite things is drop zone 😍.
+   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
+
+13. One of my favorite things is billy eyelash.
+   (ID: e036cce09e42b447bacae037ef33243f155fd2bf)
+
+14. One of my favorite things is pickled herring.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+15. One of my favorite things is banks.
+   (ID: 213f629dfbc5d6e1a065cffce0f81b825e4467de)
+
+16. One of my favorite things is errors.
+   (ID: 541b4cbc0fbf09faead4d7954b3a984391890627)
+
+17. One of my favorite things is operations.
+   (ID: c3b51ad627b2162cac848c7fadd53da61827346a)
+
+18. One of my favorite things is porridge.
+   (ID: c9a98f7f4291c6c1eefeeaae838890408881f877)
+
+19. One of my favorite things is plastering.
+   (ID: 0c68cfdaec11ee0673f6c5aec23193d412bf30ba)
+
+20. One of my favorite things is alton.
+   (ID: fe374743dd856c29f2117723cef01c1fdc3b3b5b)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. nike cleats are my favorite .
+   (ID: conversation_62)
+
+2. my favorite food is popcorn .
+   (ID: conversation_15)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My favorite show is battlestar galactica.
+   (ID: conversation_55_user_2)
+
+
+============================================================

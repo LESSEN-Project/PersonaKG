@@ -1,0 +1,57 @@
+CLUSTER 307
+============================================================
+Total statements in cluster: 8
+Cluster persistence (stability): 0.991
+
+Dataset distribution in this cluster:
+  PEC: 1 (12.5%)
+  PER-CHAT: 2 (25.0%)
+  PersonaChat: 3 (37.5%)
+  SyntheticPersonaChat: 2 (25.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i 'm going to school in kitchener .
+   (ID: mylescloutier)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I own a province.
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+2. I am ghanan-american.
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i m from texas .
+   (ID: conversation_8)
+
+2. i come from a small town .
+   (ID: conversation_2)
+
+3. i am argentinian .
+   (ID: conversation_59)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+2. I am from russia.
+   (ID: conversation_7_user_2)
+
+
+============================================================

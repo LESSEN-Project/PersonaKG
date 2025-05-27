@@ -1,0 +1,11 @@
+{
+  "trial": 1,
+  "vectorization": "tfidf",
+  "sample_size": 300,
+  "n_clusters": 10,
+  "linkage": "complete",
+  "metric": "euclidean",
+  "tfidf_weight": null,
+  "pca_components": 32,
+  "clustering_mode": "combined"
+}

@@ -1,0 +1,109 @@
+CLUSTER 569
+============================================================
+Total statements in cluster: 22
+Cluster persistence (stability): 0.765
+
+Dataset distribution in this cluster:
+  MPChat: 2 (9.1%)
+  MSC: 3 (13.6%)
+  PEC: 8 (36.4%)
+  PER-CHAT: 2 (9.1%)
+  PersonaChat: 4 (18.2%)
+  SyntheticPersonaChat: 3 (13.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. my fave trendy chicago eat - italian beef dipped
+   (ID: onemantwohands)
+
+2. chinese steamed eggs one of my fave ways to eat eggs!
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I'm sick when I eat fish.
+   (ID: dialog_28_speaker_2)
+
+2. I cannot eat certain foods due to flatulence.
+   (ID: dialog_26_speaker_2)
+
+3. I eat somali food.
+   (ID: dialog_16_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i only eat pigs who have invested in amway .
+   (ID: CuriousBlueAbra)
+
+2. i eat while gaming but only when i 'm waiting to respawn .
+   (ID: Takumi-Fujiwara)
+
+3. i eat my acidic / spicy food with a side of zantac and imodium .
+   (ID: Samoht2113)
+
+4. i do n’t eat seafood .
+   (ID: AP7497)
+
+5. i do n't eat anything that casts a shadow . "
+   (ID: Mahatma_Panda)
+
+6. i had to dip my hotdog bread in apple sauce once because it 's all i had to eat .
+   (ID: Bananafoofoofwee)
+
+7. i 'd still eat it .
+   (ID: sweatervest)
+
+8. i 'd eat a satsuki burger .
+   (ID: thed0ctah)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. you are what you eat .
+   (ID: 011a531fc3f706d76441a0f95cc8091fd4453dd8)
+
+2. " eat pant "
+   (ID: ed2d2ab477a99cff4d15f5f18a7d3662571d6e1a)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i never eat veggies .
+   (ID: conversation_96)
+
+2. i only eat organic food .
+   (ID: conversation_210)
+
+3. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+4. i eat ice cream when i am sad .
+   (ID: conversation_170)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+2. We drink beer and eat food.
+   (ID: conversation_239_user_2)
+
+3. I eat all take out.
+   (ID: conversation_2_user_1)
+
+
+============================================================

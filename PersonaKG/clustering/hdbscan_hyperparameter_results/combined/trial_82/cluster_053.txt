@@ -1,0 +1,38 @@
+CLUSTER 53
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 2 (40.0%)
+  PersonaChat: 3 (60.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i drink lots of soda .
+   (ID: Sabiola)
+
+2. i 'm the least picky eater ever .
+   (ID: amirman)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i am primarily a meat eater .
+   (ID: conversation_4)
+
+2. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+3. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+
+============================================================

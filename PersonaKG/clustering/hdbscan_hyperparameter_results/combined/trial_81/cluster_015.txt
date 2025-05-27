@@ -1,0 +1,129 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 27
+Cluster persistence (stability): 0.999
+
+Dataset distribution in this cluster:
+  FoCus: 7 (25.9%)
+  MPChat: 1 (3.7%)
+  MSC: 2 (7.4%)
+  PEC: 12 (44.4%)
+  PER-CHAT: 2 (7.4%)
+  PersonaChat: 2 (7.4%)
+  SyntheticPersonaChat: 1 (3.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 7
+
+1. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+2. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+3. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+4. I visited Frankford last year.
+   (ID: HK4CNKBL5R5V_11)
+
+5. I have visited Ras Sufsafeh once.
+   (ID: TF24QL7QZSG2_11)
+
+6. I have been to the state of Illinois.
+   (ID: VPRC44FNGVA6_11)
+
+7. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i went to the dells in wisconsin last weekend.
+   (ID: Nolon)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I am from Vancouver, British Colombia.
+   (ID: dialog_33_speaker_1)
+
+2. I visited the park on Main and 4th recently.
+   (ID: dialog_11_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 12
+
+1. i lived a block away on vermont / wilshire from here .
+   (ID: John7oliver)
+
+2. i grew up in chagrin falls
+   (ID: Justadropinthesea)
+
+3. i went to ghana this past year , absolutely amazing
+   (ID: iam1r7)
+
+4. i took the dartmouth ferry into the town ....
+   (ID: nastylittleman)
+
+5. i used to go to the woodlands .
+   (ID: JacredCat)
+
+6. i was there this summer - living in alberta - we went to enderby .
+   (ID: exotics)
+
+7. i was born and raised in illinois and i have never been west of missouri .
+   (ID: AgedTwenties)
+
+8. i was there in off season in 2002 .
+   (ID: sbsb27)
+
+9. i spent a lot of my childhood in rochester .
+   (ID: Chicoconut)
+
+10. i was in the misty cap river park on friday morning .
+   (ID: parkleswife)
+
+11. i lived in cape may for 8 weeks !
+   (ID: DickRubnuts)
+
+12. i went and best experience ever oka qc canada
+   (ID: mathieu2em)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. I am albanian.
+   (ID: 41fc1b2c09d5a16a25f120edde55b2a6e2e54e29)
+
+2. I am ar.
+   (ID: 419b67e0e2cdcb7bd8ea9a89d34d0747a1f5f620)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i went to new york city once .
+   (ID: conversation_133)
+
+2. i was born in baton rouge .
+   (ID: conversation_138)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+
+============================================================

@@ -1,0 +1,142 @@
+CLUSTER 300
+============================================================
+Total statements in cluster: 33
+Cluster persistence (stability): 0.961
+
+Dataset distribution in this cluster:
+  FoCus: 1 (3.0%)
+  MSC: 2 (6.1%)
+  PEC: 5 (15.2%)
+  PER-CHAT: 20 (60.6%)
+  PersonaChat: 3 (9.1%)
+  SyntheticPersonaChat: 2 (6.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am follower of Hyder Ali.
+   (ID: UN54IACHSTX5_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+2. My name is Gary.
+   (ID: dialog_15_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+2. i 'm jordan ward !
+   (ID: amirman)
+
+3. i am the dark one .
+   (ID: combover)
+
+4. i am your father
+   (ID: RonaldFuckingPaul)
+
+5. i m a athaleet
+   (ID: RonaldFuckingPaul)
+
+
+--- PER-CHAT ---
+Total from this dataset: 20
+
+1. I am ‘ underage loli ’.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+2. I am alch.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+3. I am adventurer.
+   (ID: d786fcd0afbed17f795e41e12bf7c85d045d2a0f)
+
+4. I am abyine.
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+5. I am prefix.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+6. I am adult ’.
+   (ID: 4345d92dae99b45255ddd6b7f7c88a7ad331da93)
+
+7. I am hole.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+8. I am star.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+9. I am captain.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+10. I am sand guardian.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+11. I am drunke.
+   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
+
+12. I am rubber.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+13. I am u/footofaep.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+14. I am selfer.
+   (ID: f67daf28a38187108da9b380f2e2f9336016c584)
+
+15. I am altmer mage.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+16. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+17. I am gordon freeman.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+18. I am legit.
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+19. I am weeaboo.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+20. I am auqilibio.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i'm seven years old .
+   (ID: conversation_53)
+
+2. my name is omar .
+   (ID: conversation_42)
+
+3. i'm young .
+   (ID: conversation_96)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My name is arnold.
+   (ID: conversation_5_user_2)
+
+2. My name is nancy.
+   (ID: conversation_58_user_2)
+
+
+============================================================

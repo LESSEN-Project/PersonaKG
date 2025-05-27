@@ -1,0 +1,115 @@
+CLUSTER 132
+============================================================
+Total statements in cluster: 24
+Cluster persistence (stability): 0.504
+
+Dataset distribution in this cluster:
+  FoCus: 4 (16.7%)
+  MPChat: 1 (4.2%)
+  MSC: 3 (12.5%)
+  PEC: 11 (45.8%)
+  PersonaChat: 3 (12.5%)
+  SyntheticPersonaChat: 2 (8.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 4
+
+1. I like street.
+   (ID: FOZE4Q84M3RX_11)
+
+2. I would like to attend a concert.
+   (ID: VV6OHC4AWH3L_11)
+
+3. I would like to find hiking trails.
+   (ID: Y7WSG3Z184EX_9)
+
+4. I like Garfield Temple.
+   (ID: VQJADZ97TJ0Z_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. do you like my deer?
+   (ID: cuppcatt)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I like to get dressed up.
+   (ID: dialog_0_speaker_2)
+
+2. I like to do canning and whittling for hobbies.
+   (ID: dialog_0_speaker_1)
+
+3. I like mystery.
+   (ID: dialog_5_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 11
+
+1. i might get abs from laughing like this
+   (ID: BoonTobias)
+
+2. i do n't like that mouth .
+   (ID: cometparty)
+
+3. i like it , but not enough to replace utorrent yet
+   (ID: bmeckel)
+
+4. i 'd like the c20 sheet masks - 86305 .
+   (ID: rycheme)
+
+5. i like it but i ’d like it more if it seemed like the letters had meaning
+   (ID: nate6051)
+
+6. i like that he is n't an elf .
+   (ID: monday_madrigal)
+
+7. i 'd like my natsuki now please
+   (ID: tylock)
+
+8. i would like to climb him like a tree .
+   (ID: buttercup_mauler)
+
+9. i had to put it down like ol yeller
+   (ID: ProJokeExplainer)
+
+10. i 'd like princess evangile !
+   (ID: tylock)
+
+11. i 'd like to see it with grant wood paintings
+   (ID: wooq)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i like to go hunting .
+   (ID: conversation_0)
+
+2. i like basketball .
+   (ID: conversation_8)
+
+3. i like to cook .
+   (ID: conversation_17)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I like ford cars.
+   (ID: conversation_1_user_2)
+
+2. I like sprite soda.
+   (ID: conversation_20_user_1)
+
+
+============================================================

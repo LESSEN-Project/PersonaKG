@@ -1,0 +1,46 @@
+CLUSTER 172
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 2 (33.3%)
+  PER-CHAT: 3 (50.0%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I don't enjoy rollercoaster rides.
+   (ID: PFYAAS1XG3D8_11)
+
+2. I don't have a wall or fence in my yard.
+   (ID: CBOI96AOZRK6_11)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. don ' t stop me now by queen .
+   (ID: 4f3fd3511e55513b94a4aa6c4ac9441a6ba9f86f)
+
+2. that ' s cause you don ' t have one . . wasn ' t yours ?
+   (ID: 795c678726f71492166b6677c955ce0a48a9b294)
+
+3. don ' t explain your life choices to anyone . your life is not debatable for anyone but you .
+   (ID: e0c81b4b90b0c79cd330827a7fe15c4ac2958b48)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My friends don t call my by my real name.
+   (ID: conversation_61_user_1)
+
+
+============================================================

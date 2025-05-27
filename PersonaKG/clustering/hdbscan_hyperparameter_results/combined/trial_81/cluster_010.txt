@@ -1,0 +1,450 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 1014
+Cluster persistence (stability): 0.928
+
+Dataset distribution in this cluster:
+  FoCus: 27 (2.7%)
+  MPChat: 57 (5.6%)
+  MSC: 19 (1.9%)
+  PEC: 236 (23.3%)
+  PER-CHAT: 631 (62.2%)
+  PersonaChat: 29 (2.9%)
+  SyntheticPersonaChat: 15 (1.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 27
+
+1. I love bridges.
+   (ID: YWRU353H4NFF_11)
+
+2. I love Reidar Andersen.
+   (ID: TB8HHXAP822G_11)
+
+3. I love Tormentil.
+   (ID: VOQV863ZK27L_11)
+
+4. I love park.
+   (ID: U6NEN4YX4OT6_9)
+
+5. I love Pittsburgh.
+   (ID: GE7KWP503PGI_7)
+
+6. I love aqueducts.
+   (ID: GC9BAJTK54F1_11)
+
+7. I love RAF Cleave.
+   (ID: DNUH5LJGPOZC_11)
+
+8. I love watching operas.
+   (ID: WOKBQQ69J2V3_7)
+
+9. I love scenic highways.
+   (ID: KZB502IPAHTD_11)
+
+10. I love geological findings conducted by volcanologists.
+   (ID: G4JZMW0OPV0G_11)
+
+11. I love mumbai.
+   (ID: LFDYLQP6HP80_7)
+
+12. I love Hanumappa Nayaka.
+   (ID: UN54IACHSTX5_11)
+
+13. I love soup.
+   (ID: 744H5J0MPE9C_9)
+
+14. I love cathedrals.
+   (ID: TDUTQ7NCYJ1S_11)
+
+15. I love old towers.
+   (ID: CBOI96AOZRK6_11)
+
+16. I love Congregation Baith Israel.
+   (ID: VQJADZ97TJ0Z_11)
+
+17. I love Mardi Gras.
+   (ID: TF4SZWIWHJO4_11)
+
+18. I love Pasterze glacier.
+   (ID: YLLQOXHD6MZC_7)
+
+19. I love Stourbridge.
+   (ID: 72MY00U8UEGB_11)
+
+20. I love the moon.
+   (ID: ZWQO9OQ8DX45_11)
+
+
+--- MPChat ---
+Total from this dataset: 57
+
+1. [i ate] pakora, tikka masala, and naan
+   (ID: onemantwohands)
+
+2. i'm in love with this cabled cowl!
+   (ID: ddizzle23)
+
+3. i love my mk6 gli
+   (ID: bryanw0104)
+
+4. here's something i made this week orange swiss roll cake
+   (ID: justcook_byangel)
+
+5. [i ate] southern cornmeal grouper in a thai curry
+   (ID: patm28)
+
+6. i love a good boy in plaid
+   (ID: kentobean123)
+
+7. [i ate] chocolate croissants
+   (ID: DeanIsHotter)
+
+8. [i ate] cubano
+   (ID: patm28)
+
+9. i made candy corn for my daughter's first-grade class.
+   (ID: guessdragon)
+
+10. i made a tim hortons cake with giant timbits for canada day happy 148th canada [x-post /r/dessertporn]
+   (ID: yolanda_gampp)
+
+11. i made 2 mont blanc cheesecake this week for my office because one wasn't enough.
+   (ID: justcook_byangel)
+
+12. was so happy with my wheat sourdough until i tasted it... and realized that i forgot the salt.
+   (ID: Pearl_krabs)
+
+13. mom and i made double cheese patty melts tonight.
+   (ID: TranerGarvis)
+
+14. i love his constant blop
+   (ID: kentobean123)
+
+15. my first time making pretzels they came out really well :) the recipe i used is in the comments
+   (ID: Veretica)
+
+16. salted salmon | salmon sashimi my way
+   (ID: toffis97)
+
+17. i baked a raisins bread for sunday.
+   (ID: gelimausi)
+
+18. chinese steamed eggs one of my fave ways to eat eggs!
+   (ID: onemantwohands)
+
+19. a little work snack that i foraged recently, raw white matsutakes.
+   (ID: sundstrom193)
+
+20. a couple weeks ago i had a half a teaspoon of milk kefir grains.
+   (ID: IncubusHexx)
+
+
+--- MSC ---
+Total from this dataset: 19
+
+1. I'm not a fan of soy products.
+   (ID: dialog_30_speaker_2)
+
+2. I love Crookshanks.
+   (ID: dialog_48_speaker_1)
+
+3. My favorite dish is shepherd's pie. I have two different recipes.
+   (ID: dialog_107_speaker_1)
+
+4. I love the color black
+   (ID: dialog_69_speaker_1)
+
+5. I love Formula Racing.
+   (ID: dialog_117_speaker_2)
+
+6. I love cream in my coffee.
+   (ID: dialog_133_speaker_2)
+
+7. I love john hughes films.
+   (ID: dialog_56_speaker_1)
+
+8. I love mosh pits.
+   (ID: dialog_13_speaker_2)
+
+9. Fried catfish is delicious.
+   (ID: dialog_124_speaker_2)
+
+10. I love John Surteees.
+   (ID: dialog_117_speaker_2)
+
+11. Jerk chicken with red beans and rice, macaroni and cheese are some of my favorite foods.
+   (ID: dialog_0_speaker_2)
+
+12. I love Sirius Black.
+   (ID: dialog_48_speaker_2)
+
+13. I love the nhl.
+   (ID: dialog_86_speaker_1)
+
+14. I love my knee highs.
+   (ID: dialog_59_speaker_2)
+
+15. All food is enjoyable to me.
+   (ID: dialog_25_speaker_1)
+
+16. I love my clan.
+   (ID: dialog_140_speaker_2)
+
+17. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+18. I love any and all movies with clark kent.
+   (ID: dialog_134_speaker_1)
+
+19. I love tetris.
+   (ID: dialog_86_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 236
+
+1. i love you ?
+   (ID: combover)
+
+2. i love the rubies lol
+   (ID: Megan_Bee)
+
+3. i love dorinda !
+   (ID: 11_29_77)
+
+4. i love kam .
+   (ID: EvieAugust)
+
+5. i love that guy ... * sighs *
+   (ID: hussy_trash)
+
+6. i love her long knitted cardi so cuteeee
+   (ID: iam1r7)
+
+7. i love that thing brie does with her eyebrows .
+   (ID: aydinsevimli)
+
+8. i love posturing .
+   (ID: DarkMoon99)
+
+9. i love it when joel mchale calls her ' the thumb . '
+   (ID: MrBovineJoni)
+
+10. i enjoyed a few bowls with my husband , then snacked on some salami and cheese .
+   (ID: COCOnizzle)
+
+11. i love that tail !
+   (ID: silentpower)
+
+12. i love how clean it looks .
+   (ID: sean__christian)
+
+13. i love this movie and the soundtrack .
+   (ID: amirman)
+
+14. i make chocolate zucchini bread and it 's delicious .
+   (ID: IncredibleBulk2)
+
+15. i love deb .
+   (ID: whyunogivemegoodname)
+
+16. i love flash pops
+   (ID: bummang)
+
+17. i love rockwell !
+   (ID: thed0ctah)
+
+18. i love long coats !
+   (ID: howfuckedareyou)
+
+19. i love love love clumpy , voluminous lashes
+   (ID: beautifulw0man)
+
+20. i love the glasses one !
+   (ID: howfuckedareyou)
+
+
+--- PER-CHAT ---
+Total from this dataset: 631
+
+1. One of my favorite things is slime.
+   (ID: 7d48334cb8c79d90b96048b0f085563eb847ba89)
+
+2. One of my favorite things is nick frost.
+   (ID: ca6f75f7c2f9d1175fa6abae36369351bda1afb8)
+
+3. One of my favorite things is conan.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+4. One of my favorite things is miat.
+   (ID: dd1a306ab5abb82ade20a2c7f74d928797a35a61)
+
+5. One of my favorite things is mash.
+   (ID: 8e9d9ac876fd2e0508d95d3e43def46faae3c312)
+
+6. One of my favorite things is pulp.
+   (ID: f4e4929bb0bef09e7eb72aaccf20c2d9454729c7)
+
+7. One of my favorite things is heath.
+   (ID: 920ba0628cbea5588ecca4c8ba7f80b411ff70ef)
+
+8. One of my favorite things is falco.
+   (ID: fb5e95e954b3ee83c39276138f0fa3b854970db4)
+
+9. One of my favorite things is nichibros.
+   (ID: 1df1bd07e28c0df73bd865f8cb447d7c8f1bd4d3)
+
+10. One of my favorite things is curran.
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+11. One of my favorite things is alien3.
+   (ID: a18adc4ad3b28b34dfa3063a1c77566b8681a79d)
+
+12. One of my favorite things is thst aspect of the game.
+   (ID: 23b74d30984aae116954fc82863fe4bd913ba329)
+
+13. One of my favorite things is al-an as a character.
+   (ID: e53542ff680164cdf45964372fb47cf6a7d48484)
+
+14. One of my favorite things is kylie.
+   (ID: 04b12cbc989702ae4909382de2ac53409fddbbf4)
+
+15. One of my favorite things is voltron.
+   (ID: 3319add5fded9e9b6e45fcb1340aaf52d39da50e)
+
+16. One of my favorite things is cspan.
+   (ID: 230ce64c825c9de0874b588b6d715819e39e5610)
+
+17. One of my favorite things is jackie.
+   (ID: eb736a8c6e4b69cfd870418bec35f4839b24780b)
+
+18. One of my favorite things is elton john naman.
+   (ID: ab3c8c681660786b8cfd174d247a71a2d57b02b6)
+
+19. One of my favorite things is herobrine.
+   (ID: 6c99329e90a867248b7cd3a376f1a2fd57ae3994)
+
+20. One of my favorite things is ben stokes.
+   (ID: 5186a4f234c22a2668969b75a1a54616526c2ee4)
+
+
+--- PersonaChat ---
+Total from this dataset: 29
+
+1. i love sharks .
+   (ID: conversation_65)
+
+2. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+3. i love the beatles .
+   (ID: conversation_247)
+
+4. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+5. i love to eat pita bread with hummus .
+   (ID: conversation_277)
+
+6. i love the beach .
+   (ID: conversation_7)
+
+7. i hate carrots .
+   (ID: conversation_3)
+
+8. i love eating shrimp , and i like to dip them into barbecue sauce .
+   (ID: conversation_174)
+
+9. i love pandas .
+   (ID: conversation_88)
+
+10. i love sushi .
+   (ID: conversation_362)
+
+11. i am on a low carb diet .
+   (ID: conversation_227)
+
+12. pudding makes me gassy .
+   (ID: conversation_26)
+
+13. i love to go to the symphony orchestra .
+   (ID: conversation_213)
+
+14. i love to larp .
+   (ID: conversation_74)
+
+15. i love the all american rejects .
+   (ID: conversation_304)
+
+16. i love iced tea .
+   (ID: conversation_1)
+
+17. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+18. i love hamburgers .
+   (ID: conversation_244)
+
+19. i love sunsets .
+   (ID: conversation_148)
+
+20. i hate the taste of cheese .
+   (ID: conversation_105)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 15
+
+1. I love candy.
+   (ID: conversation_42_user_2)
+
+2. I love the chainsmokers.
+   (ID: conversation_299_user_2)
+
+3. Chocolate chip cookies are the tastier things in my opinion.
+   (ID: conversation_283_user_1)
+
+4. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+5. I also love orange juice.
+   (ID: conversation_61_user_2)
+
+6. I love all sorts of fresh vegetables.
+   (ID: conversation_220_user_2)
+
+7. I love ham and cheese sandwiches.
+   (ID: conversation_5_user_2)
+
+8. I love lasagna like i m garfield.
+   (ID: conversation_136_user_2)
+
+9. I love zumba.
+   (ID: conversation_190_user_2)
+
+10. My favorite show is scobby doo.
+   (ID: conversation_172_user_2)
+
+11. I love the smell of beans.
+   (ID: conversation_190_user_2)
+
+12. I love to drink whiskey.
+   (ID: conversation_268_user_2)
+
+13. I like dr pepper and black jack gum , but not together.
+   (ID: conversation_172_user_2)
+
+14. I love honey.
+   (ID: conversation_304_user_1)
+
+15. I love agatha christie novels.
+   (ID: conversation_49_user_2)
+
+
+============================================================

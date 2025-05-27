@@ -1,0 +1,43 @@
+CLUSTER 170
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  PEC: 2 (40.0%)
+  PER-CHAT: 2 (40.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i 'm almost 32 and i really want to get married .
+   (ID: Mahatma_Panda)
+
+2. i 'm working and living with my mom for the summer haha .
+   (ID: mylescloutier)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. i ' m going to move to a larger town with my two best friends ! really excited about that
+   (ID: 2cb4aa2e032749d7dca2c2ab5fbd17d2ba53bb10)
+
+2. christmas shop , get to the gym , give my wife a spa day .
+   (ID: 5d0b750bf77c2c6e8b41ebf03caf4038a907b876)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am leaving for college in three months.
+   (ID: conversation_49_user_1)
+
+
+============================================================

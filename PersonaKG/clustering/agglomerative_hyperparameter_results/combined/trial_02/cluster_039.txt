@@ -1,0 +1,393 @@
+CLUSTER 39
+============================================================
+Total statements in cluster: 610
+
+Dataset distribution in this cluster:
+  FoCus: 22 (3.6%)
+  MSC: 42 (6.9%)
+  PEC: 54 (8.9%)
+  PER-CHAT: 442 (72.5%)
+  PersonaChat: 17 (2.8%)
+  SyntheticPersonaChat: 33 (5.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 22
+
+1. I live in England.
+   (ID: SRO8K4E2N5N5_7)
+
+2. I am from Colorado.
+   (ID: T815O8KC30IG_9)
+
+3. I am willing to work in Metropolitan Water Sewerage and Drainage Board.
+   (ID: KHRYE9OFUIMW_9)
+
+4. I live in a house.
+   (ID: SRO8K4E2N5N5_7)
+
+5. I live in the United States.
+   (ID: 82ZP2M9AL6U0_11)
+
+6. I am going to stay in Ontario.
+   (ID: UXR4EKSRCULN_11)
+
+7. I have a friend in Kent.
+   (ID: PFYAAS1XG3D8_11)
+
+8. I have a friend from Tornoto.
+   (ID: NMEFJE64KZ1F_11)
+
+9. I am interested in volunteer work.
+   (ID: 942CCWXHPUZT_11)
+
+10. I am visiting Canada.
+   (ID: SDW19RWSP3ZX_11)
+
+11. I care about the preservation of fauna and flora.
+   (ID: Y7WSG3Z184EX_9)
+
+12. I don't have a wall or fence in my yard.
+   (ID: CBOI96AOZRK6_11)
+
+13. I am on vacation in Canada.
+   (ID: UXR4EKSRCULN_11)
+
+14. I am living in a house which has a tennis court.
+   (ID: D4619DV1O1OP_11)
+
+15. I live in San Diego.
+   (ID: SJS6GHEH7ZIW_11)
+
+16. I lived in Indiana.
+   (ID: X0N9IFSJSH26_11)
+
+17. I am going to Illinois for work.
+   (ID: EDLPKHWH3K5B_11)
+
+18. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+19. I am in the United Kingdom for work.
+   (ID: VUU19OURBLRK_11)
+
+20. I am not that huge when it comes to environment issues.
+   (ID: JW0BLP5O75BW_11)
+
+
+--- MSC ---
+Total from this dataset: 42
+
+1. I live surrounded by farmland.
+   (ID: dialog_27_speaker_1)
+
+2. I am from South California. I haven't seen snow in years.
+   (ID: dialog_14_speaker_1)
+
+3. I work in Orlando.
+   (ID: dialog_32_speaker_2)
+
+4. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+5. I am from Philadelphia.
+   (ID: dialog_12_speaker_1)
+
+6. I've a lot of plants in my house.
+   (ID: dialog_11_speaker_1)
+
+7. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+8. I live in the country.
+   (ID: dialog_15_speaker_2)
+
+9. I live in Seattle. I have a houseboat.
+   (ID: dialog_14_speaker_2)
+
+10. I live on a farm.
+   (ID: dialog_13_speaker_1)
+
+11. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+12. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+13. I live in Alaska.
+   (ID: dialog_34_speaker_2)
+
+14. I call the ghetto home.
+   (ID: dialog_36_speaker_1)
+
+15. My house is very big.
+   (ID: dialog_20_speaker_1)
+
+16. I work at eureka.
+   (ID: dialog_7_speaker_2)
+
+17. I am from a very small town. I do not live somewhere exotic.
+   (ID: dialog_2_speaker_1)
+
+18. I live in Virginia with my dad who is a cop.
+   (ID: dialog_34_speaker_1)
+
+19. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+20. I hail from the lone star state.
+   (ID: dialog_8_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 54
+
+1. i lived in wisconsin for awhile , too .
+   (ID: MILeft)
+
+2. i 'm in austin , i 've only seen 1 yrs or 6 mo around here
+   (ID: msiekkinen)
+
+3. i live rurally ..
+   (ID: exotics)
+
+4. i 'm also from ro , that 's why i was asking .
+   (ID: Nheea)
+
+5. i 'm in ferndale and i second this .
+   (ID: hussy_trash)
+
+6. i live at 10,000 feet currently .
+   (ID: buttercup_mauler)
+
+7. i live in canada very near the canadian rockies ..
+   (ID: exotics)
+
+8. i was born and raised in illinois and i have never been west of missouri .
+   (ID: AgedTwenties)
+
+9. i do nt think they have units in most places
+   (ID: trav110)
+
+10. i get a call from a number 900 miles away in tampa , fl .
+   (ID: AgedTwenties)
+
+11. i believe you still need to get an m 1 license and take the test .
+   (ID: glowinthedark)
+
+12. i 'm way up in canada myself ..
+   (ID: exotics)
+
+13. i 'm in south east asia .
+   (ID: kailan123456)
+
+14. i have job prospects in the area , i already live in a place where there is nothing to do
+   (ID: AgedTwenties)
+
+15. i need to find a market here in miami .
+   (ID: SerendipitousCat)
+
+16. i live in greenwood .
+   (ID: boo3114)
+
+17. i live there but i have to work tomorrow .
+   (ID: amirman)
+
+18. i need help finding a road bike .
+   (ID: Lsmoothies)
+
+19. i do n't have insurance .
+   (ID: deputydan_scubaman)
+
+20. i 'm trying to find one for double that in canada
+   (ID: BoonTobias)
+
+
+--- PER-CHAT ---
+Total from this dataset: 442
+
+1. I live in island.
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+2. I live in woods.
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+3. I live in arizona.
+   (ID: 3dfcdf92c717ed4c117768210afcbbaf9a2ca8a9)
+
+4. I live in united states.
+   (ID: 79a889fa6fb8a2c18c34d9aec95f4803861c97fe)
+
+5. I live in on short budget.
+   (ID: 10d0b3cd3f9e3f2b4c3fd6c4c8bae3ba7917a344)
+
+6. I live in asheville.
+   (ID: 05bc4f6f6f6bb573d85181292f88efbd50c59547)
+
+7. I live in bigger city.
+   (ID: 238316960c030f561912bd63e9f572a4170f991b)
+
+8. I live in toronto.
+   (ID: 564c5b4efd54586fbf212727e2071f5ddadabb82)
+
+9. I live in rosewood.
+   (ID: ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9)
+
+10. I live in malaysia.
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+11. I live in europe.
+   (ID: 53aa6c267ff5eccf891e178786d41ca5df80a5de)
+
+12. I live in denmark.
+   (ID: b5bfc53fa7245451bad229f942e351fdc7360321)
+
+13. I live in dallas.
+   (ID: 0254abd776ead925b3c998e740c3ae71d2b4c6e0)
+
+14. I live in florida.
+   (ID: 8f7369c6ebb47df350fec663be46dfd8481ee2db)
+
+15. I live in Central California.
+   (ID: 65e18a8843fe1a6d644e4fe6a3b227426a6b9103)
+
+16. I live in borg america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+17. I live in germany.
+   (ID: f4f3116c36134aaf6c836035cf76dc86210b1c12)
+
+18. I live in mexico.
+   (ID: 6e7cd3892c49f30c5999e4b7337f95be97df0c1b)
+
+19. I live in punk.
+   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
+
+20. I live in australia.
+   (ID: b6c3e540255084641f0e148a3992d9113c560f0b)
+
+
+--- PersonaChat ---
+Total from this dataset: 17
+
+1. i live in a house in the country .
+   (ID: conversation_98)
+
+2. i m from texas .
+   (ID: conversation_8)
+
+3. i live on a small farm in ohio .
+   (ID: conversation_42)
+
+4. i live in vermont .
+   (ID: conversation_83)
+
+5. i live in a house in the country .
+   (ID: conversation_40)
+
+6. i live alone .
+   (ID: conversation_33)
+
+7. i live in a house .
+   (ID: conversation_97)
+
+8. i live in rural wisconsin .
+   (ID: conversation_15)
+
+9. i live in colorado .
+   (ID: conversation_52)
+
+10. i live in the usa .
+   (ID: conversation_23)
+
+11. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+12. i live on an island .
+   (ID: conversation_27)
+
+13. i m a truck driver in the south .
+   (ID: conversation_82)
+
+14. i live in the city .
+   (ID: conversation_81)
+
+15. i live alone .
+   (ID: conversation_18)
+
+16. i grew up on a farm .
+   (ID: conversation_99)
+
+17. i come from a small town .
+   (ID: conversation_2)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 33
+
+1. I live on a pig farm.
+   (ID: conversation_90_user_2)
+
+2. I live in the suburbs of a major city.
+   (ID: conversation_26_user_2)
+
+3. I live on a farm.
+   (ID: conversation_63_user_2)
+
+4. I want to move.
+   (ID: conversation_3_user_2)
+
+5. I live with a roommate.
+   (ID: conversation_80_user_2)
+
+6. I live walking distance from work.
+   (ID: conversation_12_user_2)
+
+7. I live in a suburb of boston.
+   (ID: conversation_84_user_2)
+
+8. I hope to move out soon.
+   (ID: conversation_16_user_2)
+
+9. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+10. I have a timeshare in mexico.
+   (ID: conversation_81_user_2)
+
+11. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+12. I live in an apartment.
+   (ID: conversation_46_user_2)
+
+13. We live in a rural area.
+   (ID: conversation_57_user_2)
+
+14. I m looking for a job.
+   (ID: conversation_70_user_1)
+
+15. I have a farm with pigs , horses and hens.
+   (ID: conversation_17_user_2)
+
+16. I live in vermont.
+   (ID: conversation_20_user_2)
+
+17. I live by a lake.
+   (ID: conversation_84_user_1)
+
+18. My name is mary and i m from colorado.
+   (ID: conversation_88_user_2)
+
+19. I recently bought a camper.
+   (ID: conversation_27_user_2)
+
+20. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+
+============================================================

@@ -1,0 +1,51 @@
+CLUSTER 213
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 2 (33.3%)
+  MPChat: 1 (16.7%)
+  PEC: 2 (33.3%)
+  SyntheticPersonaChat: 1 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I have the fantasy of rivers.
+   (ID: FZ7IE8MUIWRS_9)
+
+2. I have the fantasy of forts.
+   (ID: G6QWKZ4CTWVW_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. hello it is i!
+   (ID: kentobean123)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i 'm not a native speaker , but should n't it be * has * ?
+   (ID: harumpf)
+
+2. i often get bloated on depo .
+   (ID: mooonjellies)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am bloated.
+   (ID: conversation_30_user_1)
+
+
+============================================================

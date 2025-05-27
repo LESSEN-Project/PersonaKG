@@ -1,0 +1,38 @@
+CLUSTER 316
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (20.0%)
+  PersonaChat: 4 (80.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I like jaguars.
+   (ID: U2VHOEDA278F_11)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i love pandas .
+   (ID: conversation_88)
+
+2. i love children .
+   (ID: conversation_91)
+
+3. i love animals .
+   (ID: conversation_11)
+
+4. i love sharks .
+   (ID: conversation_65)
+
+
+============================================================

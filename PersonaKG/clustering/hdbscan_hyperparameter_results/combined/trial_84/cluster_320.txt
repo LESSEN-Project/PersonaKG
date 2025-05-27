@@ -1,0 +1,69 @@
+CLUSTER 320
+============================================================
+Total statements in cluster: 12
+Cluster persistence (stability): 0.948
+
+Dataset distribution in this cluster:
+  MSC: 1 (8.3%)
+  PEC: 2 (16.7%)
+  PersonaChat: 4 (33.3%)
+  SyntheticPersonaChat: 5 (41.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i ’m a fruitcake junkie .
+   (ID: 11_29_77)
+
+2. i enjoy chips n ice cream too lol
+   (ID: Noimnotsally)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i love hot wings .
+   (ID: conversation_82)
+
+2. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+3. my favorite food is popcorn .
+   (ID: conversation_15)
+
+4. i love iced tea .
+   (ID: conversation_1)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I like sprite soda.
+   (ID: conversation_20_user_1)
+
+2. I like potatoes.
+   (ID: conversation_5_user_1)
+
+3. I also love orange juice.
+   (ID: conversation_61_user_2)
+
+4. I love sushi.
+   (ID: conversation_76_user_1)
+
+5. I love ham and cheese sandwiches.
+   (ID: conversation_5_user_2)
+
+
+============================================================

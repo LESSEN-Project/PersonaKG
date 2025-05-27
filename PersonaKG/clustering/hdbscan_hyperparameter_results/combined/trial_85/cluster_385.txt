@@ -1,0 +1,41 @@
+CLUSTER 385
+============================================================
+Total statements in cluster: 6
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 4 (66.7%)
+  MSC: 2 (33.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 4
+
+1. I like Kongsvoll Alpine Garden.
+   (ID: TB8HHXAP822G_11)
+
+2. I like Eastchester Road.
+   (ID: EI53JQVYRP0R_11)
+
+3. I like street.
+   (ID: FOZE4Q84M3RX_11)
+
+4. I like public utilities.
+   (ID: VHMWBMQSDD2I_9)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I like to be clean.
+   (ID: dialog_6_speaker_2)
+
+2. I like my teeth.
+   (ID: dialog_75_speaker_1)
+
+
+============================================================

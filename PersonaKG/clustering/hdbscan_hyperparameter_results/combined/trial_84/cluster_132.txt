@@ -1,0 +1,53 @@
+CLUSTER 132
+============================================================
+Total statements in cluster: 5
+Cluster persistence (stability): 1.000
+
+Dataset distribution in this cluster:
+  FoCus: 1 (20.0%)
+  MPChat: 1 (20.0%)
+  PEC: 1 (20.0%)
+  PER-CHAT: 1 (20.0%)
+  SyntheticPersonaChat: 1 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I am living in a house which has a tennis court.
+   (ID: D4619DV1O1OP_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i have a hot pocket
+   (ID: kentobean123)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i have a razor blade with a cool handle .
+   (ID: rycheme)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. I live in laminate.
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have a black purse.
+   (ID: conversation_70_user_2)
+
+
+============================================================
