@@ -7,6 +7,7 @@ from tqdm import tqdm
 from dataset import get_dataset, extract_user_utterances
 from evaluate import load
 import re
+import random
 import ast
 from prompts import get_next_utterance_prompt, canonicalization_prompt, kg_prompt
 
@@ -27,6 +28,8 @@ def setup_args():
     parser.add_argument('--output_dir', "-od", type=str, default='results',
                         help='Directory to save results')
     parser.add_argument('--similarity-threshold', type=float, default=0.75, help='Threshold for similarity matching')
+    parser.add_argument('--num_samples', "-n", type=int, default=-1,
+                        help='Number of random samples to use. -1 means use all samples (default: -1)')
     return parser.parse_args()
 
 def parse_conversation(conversation):
@@ -419,7 +422,8 @@ def create_experiment_id(args):
         'model': args.model,
         'split': args.split,
         'knowledge_graph': args.knowledge_graph,
-        'max_neighbors': args.max_neighbors
+        'max_neighbors': args.max_neighbors,
+        'num_samples': args.num_samples
     }
     param_str = json.dumps(params, sort_keys=True)
     return hashlib.md5(param_str.encode()).hexdigest()
@@ -436,13 +440,9 @@ def run_experiment(args):
     final_output_file = os.path.join(args.output_dir, f"results_{experiment_id}.json")
     
     # Check if this experiment has already been completed
-    if os.path.exists(final_output_file):
-        print(f"Experiment already completed. Results available at {final_output_file}")
-        with open(final_output_file, 'r') as f:
-            results = json.load(f)
-        print(f"BLEU Score: {results['metrics']['bleu']}")
-        print(f"ROUGE-F1 Score: {results['metrics']['rouge']}")
-        return results
+    if os.path.exists(eval_file):
+        with open(eval_file, 'r') as f:
+            results_data = json.load(f)
     
     # Check if there's a checkpoint to resume from
     completed_samples = []
@@ -568,6 +568,12 @@ def run_experiment(args):
         split=args.split
     )
     
+    # If num_samples is specified and valid, select a random subset
+    if args.num_samples > 0 and args.num_samples < len(samples):
+        random.seed(42)  # For reproducibility
+        samples = random.sample(samples, args.num_samples)
+        print(f"Randomly selected {len(samples)} samples.")
+    
     # If we've already processed some samples, skip those
     if start_idx > 0:
         print(f"Skipping {start_idx} already processed samples")
@@ -586,141 +592,110 @@ def run_experiment(args):
     
     # Only process samples that haven't been processed yet
     for i, sample in enumerate(tqdm(samples_to_process)):
-        try:
-            # Get prediction and prompt
-            prediction, prompt = predict_next_utterance(
-                sample, 
-                llm=llm,
-                kg=kg,
-                kg_extractor=kg_extractor,
-                canonicalizer=canonicalizer,
-                max_neighbors=args.max_neighbors,
-                return_prompt=True
-            )
-            
-            predictions.append(prediction)
-            targets.append(sample['target'])
-            
-            # Record this sample as completed
-            completed_samples.append({
-                'index': start_idx + i,
-                'user1_persona': sample['user1_persona'],
-                'user2_persona': sample['user2_persona'],
-                'history': sample['history'],
-                'target': sample['target'],
-                'prediction': prediction,
-                'prompt': prompt
-            })
-            
-            # Save checkpoint every 5 samples
-            if (i + 1) % 5 == 0 or i == len(samples_to_process) - 1:
-                checkpoint_data = {
-                    'args': vars(args),
-                    'experiment_id': experiment_id,
-                    'completed_samples': completed_samples,
-                    'timestamp': str(datetime.datetime.now()),
-                    'progress': f"{len(completed_samples)}/{len(samples)}"
-                }
-                with open(checkpoint_file, 'w') as f:
-                    json.dump(checkpoint_data, f, indent=2)
-                print(f"\nCheckpoint saved at sample {start_idx + i + 1}/{len(samples)}")
-            
-            # Run intermediate evaluation every 10 samples
-            if (start_idx + i + 1) % 10 == 0 or i == len(samples_to_process) - 1:
-                print(f"\nRunning intermediate evaluation at sample {start_idx + i + 1}...")
-                # Get predictions and targets from completed samples
-                interim_predictions = [s['prediction'] for s in completed_samples]
-                interim_targets = [s['target'] for s in completed_samples]
-                
-                # Run evaluation
-                interim_results = evaluate_predictions(interim_predictions, interim_targets)
-                
-                # Create interim result data
-                interim_result_data = {
-                    'args': vars(args),
-                    'experiment_id': experiment_id,
-                    'metrics': interim_results,
-                    'timestamp': str(datetime.datetime.now()),
-                    'total_samples': len(samples),
-                    'processed_samples': len(completed_samples),
-                    'is_interim': True,
-                    'samples': completed_samples,  # This now includes prompts
-                }
-                
-                # Save to a single evaluation file that gets updated each time
-                with open(eval_file, 'w') as f:
-                    json.dump(interim_result_data, f, indent=2)                    
-                print(f"Evaluation results updated in {eval_file}")
-                print(f"Interim BLEU Score: {interim_results['bleu']}")
-                print(f"Interim ROUGE-F1 Score: {interim_results['rouge']}")
-        except Exception as e:
-            print(f"Error processing sample {start_idx + i}: {str(e)}")
-            # Save checkpoint on error as well
+    
+        prediction, prompt = predict_next_utterance(
+            sample, 
+            llm=llm,
+            kg=kg,
+            kg_extractor=kg_extractor,
+            canonicalizer=canonicalizer,
+            max_neighbors=args.max_neighbors,
+            return_prompt=True
+        )
+        
+        predictions.append(prediction)
+        targets.append(sample['target'])
+        
+        # Record this sample as completed
+        completed_samples.append({
+            'index': start_idx + i,
+            'user1_persona': sample['user1_persona'],
+            'user2_persona': sample['user2_persona'],
+            'history': sample['history'],
+            'target': sample['target'],
+            'prediction': prediction,
+            'prompt': prompt
+        })
+        
+        # Save checkpoint every 5 samples
+        if (i + 1) % 5 == 0 or i == len(samples_to_process) - 1:
             checkpoint_data = {
                 'args': vars(args),
                 'experiment_id': experiment_id,
                 'completed_samples': completed_samples,
                 'timestamp': str(datetime.datetime.now()),
-                'progress': f"{len(completed_samples)}/{len(samples)}",
-                'error': str(e)
+                'progress': f"{len(completed_samples)}/{len(samples)}"
             }
             with open(checkpoint_file, 'w') as f:
                 json.dump(checkpoint_data, f, indent=2)
-            print(f"\nCheckpoint saved before error at sample {start_idx + i + 1}/{len(samples)}")
+            print(f"\nCheckpoint saved at sample {start_idx + i + 1}/{len(samples)}")
+        
+        # Run intermediate evaluation every 10 samples
+        if (start_idx + i + 1) % 10 == 0 or i == len(samples_to_process) - 1:
+            print(f"\nRunning intermediate evaluation at sample {start_idx + i + 1}...")
+            # Get predictions and targets from completed samples
+            interim_predictions = [s['prediction'] for s in completed_samples]
+            interim_targets = [s['target'] for s in completed_samples]
             
-            # Run evaluation on what we have so far
-            if completed_samples:
-                print("\nRunning evaluation on samples completed before error...")
-                # Get predictions and targets from completed samples
-                interim_predictions = [s['prediction'] for s in completed_samples]
-                interim_targets = [s['target'] for s in completed_samples]
-                
-                # Run evaluation
-                interim_results = evaluate_predictions(interim_predictions, interim_targets)
-                
-                # Save results
-                interim_result_data = {
-                    'args': vars(args),
-                    'experiment_id': experiment_id,
-                    'metrics': interim_results,
-                    'timestamp': str(datetime.datetime.now()),
-                    'total_samples': len(samples),
-                    'processed_samples': len(completed_samples),
-                    'is_interim': True,
-                    'error': str(e),
-                    'samples': completed_samples
-                }
-                
-                with open(eval_file, 'w') as f:
-                    json.dump(interim_result_data, f, indent=2)
-                    
-                print(f"Error evaluation saved to {eval_file}")
+            # Run evaluation
+            interim_results = evaluate_predictions(interim_predictions, interim_targets)
+            
+            # Create interim result data
+            interim_result_data = {
+                'args': vars(args),
+                'experiment_id': experiment_id,
+                'metrics': interim_results,
+                'timestamp': str(datetime.datetime.now()),
+                'total_samples': len(samples),
+                'processed_samples': len(completed_samples),
+            }
+            
+            # Save to a single evaluation file that gets updated each time
+            with open(eval_file, 'w') as f:
+                json.dump(interim_result_data, f, indent=2)                    
+            print(f"Evaluation results updated in {eval_file}")
+            print(f"Interim BLEU Score: {interim_results['bleu']}")
+            print(f"Interim ROUGE-F1 Score: {interim_results['rouge']}")
+ 
     
     print("Evaluating predictions...")
-    results = evaluate_predictions(predictions, targets)
+    # Combine predictions and targets from both checkpoint and newly processed samples
+    all_predictions = []
+    all_targets = []
     
-    # Create result data with all the details
-    result_data = {
+    # Add predictions and targets from completed samples (includes checkpoint data)
+    for sample in completed_samples:
+        all_predictions.append(sample['prediction'])
+        all_targets.append(sample['target'])
+    
+    # Add any remaining predictions/targets that might not be in completed_samples yet
+    for i in range(len(predictions)):
+        if i >= len(completed_samples):
+            all_predictions.append(predictions[i])
+            all_targets.append(targets[i])
+    
+    # Run evaluation on all samples
+    results = evaluate_predictions(all_predictions, all_targets)
+    
+    # Update the evaluation file with final results
+    final_result_data = {
         'args': vars(args),
         'experiment_id': experiment_id,
         'metrics': results,
         'timestamp': str(datetime.datetime.now()),
         'total_samples': len(samples),
-        'processed_samples': len(predictions),
-        'is_final': True,
-        'samples': completed_samples,
+        'processed_samples': len(all_predictions)
     }
     
-    # Save to final output file
-    with open(final_output_file, 'w') as f:
-        json.dump(result_data, f, indent=2)
+    with open(eval_file, 'w') as f:
+        json.dump(final_result_data, f, indent=2)
     
     # If we have a checkpoint file and the experiment is complete, we can remove it
     if os.path.exists(checkpoint_file) and len(predictions) == len(samples):
         os.remove(checkpoint_file)
         print(f"Checkpoint file removed as experiment is complete.")
     
-    print(f"Results saved to {final_output_file}")
+    print(f"Final results saved to {eval_file}")
     print(f"BLEU Score: {results['bleu']}")
     print(f"ROUGE-F1 Score: {results['rouge']}")
     
