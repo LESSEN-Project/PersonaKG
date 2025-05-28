@@ -1,0 +1,467 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 40334
+
+Dataset distribution in this cluster:
+  FoCus: 1084 (2.7%)
+  MPChat: 2850 (7.1%)
+  MSC: 1857 (4.6%)
+  PEC: 16148 (40.0%)
+  PER-CHAT: 15172 (37.6%)
+  PersonaChat: 1070 (2.7%)
+  SyntheticPersonaChat: 2153 (5.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1084
+
+1. I am studying Saint Paul.
+   (ID: MRD9ZG9O57GA_11)
+
+2. I like Science.
+   (ID: STW2OR1N34AR_11)
+
+3. I have never traveled by a ship.
+   (ID: TGZJNX488SLV_11)
+
+4. I have never been to a baseball park.
+   (ID: HO684VMC687Z_11)
+
+5. I learned about the Baroque style on a trip to Spain.
+   (ID: OJ5U23I3FV0N_11)
+
+6. I like history.
+   (ID: O5F8MAFDNJB4_11)
+
+7. I wish to visit china.
+   (ID: 9VXK9YXEDKCO_11)
+
+8. I am interested in national collection.
+   (ID: O32SMRJRNDHW_11)
+
+9. I like to go to Church.
+   (ID: Z8RPC24EURS4_7)
+
+10. I would like to visit a castle.
+   (ID: W67GZU3ZXI46_9)
+
+11. I love going parks.
+   (ID: B623Z1BXC8IT_11)
+
+12. I want to visit a popular landmark.
+   (ID: B623Z1BXC8IT_11)
+
+13. I'm interested in names.
+   (ID: E3UZAGT5DTE5_11)
+
+14. I wouldn't like to be caught on a speed camera.
+   (ID: MJ8L7IHV13N8_11)
+
+15. I have never played golf.
+   (ID: MP1ZK22Q90C9_11)
+
+16. I would like to know the description.
+   (ID: PSAPP3TRHUMW_11)
+
+17. I love to watch races.
+   (ID: PKTFMWPHB1E3_11)
+
+18. I hate kayaks.
+   (ID: KN10OGBG14Y2_11)
+
+19. I am studying WWII.
+   (ID: O76ENSZ0ZFAX_11)
+
+20. I didn't know that there was gallery specialized in exhibiting protraits.
+   (ID: MGEY7QK79154_11)
+
+
+--- MPChat ---
+Total from this dataset: 2850
+
+1. my fourth comfort bear for this year is my one and only finished object for this week.
+   (ID: Moriarty58)
+
+2. my first planned pooling project!
+   (ID: smsikking)
+
+3. i made some thanksgiving cookies
+   (ID: kimbowee)
+
+4. copper and patina (my second post... first one didn't go over so well)
+   (ID: HobbitLass)
+
+5. i'm in love with pompoms and braided ear flaps <3
+   (ID: ddizzle23)
+
+6. this bro kept me hiding in my car...for 25 minutes.
+   (ID: baccgirl)
+
+7. i saw ammonites are reddit worthy so i had to post original ammonites from my pattern :)
+   (ID: iamPauPaul)
+
+8. why do i feel like my pupper is about to send me on a quest?
+   (ID: pocket_kira)
+
+9. i miss making coffee, so i made stamps
+   (ID: pocket_kira)
+
+10. [i ate] steak frittes, asparagus with hollandaise sauce, crab legs, and baked cauliflour.
+   (ID: Flattishsassy)
+
+11. my xero looks like she's in motion
+   (ID: fredbutt)
+
+12. r/aww didn't like my little boy.
+   (ID: ddizzle23)
+
+13. made a graduation cake for my grade 12 class... first time with fondant!
+   (ID: Sebubble)
+
+14. my 1st quilt project that isn't a pot holder!
+   (ID: XandXor)
+
+15. i made a matching baby booties and headband set for easter they have bunny ears and a tail
+   (ID: letsallcrochetYT)
+
+16. made a unicorn for my niece.
+   (ID: Nikyma)
+
+17. i'll be competing in coffee fest for my first time next week.
+   (ID: jlb4est)
+
+18. i recreated a whopper
+   (ID: iSliz187)
+
+19. finished it’s different but i think it turned out well
+   (ID: smsikking)
+
+20. seamus when i got him at 3 months old to now at 10 months old.
+   (ID: ambora)
+
+
+--- MSC ---
+Total from this dataset: 1857
+
+1. I adore cats.
+   (ID: dialog_11_speaker_2)
+
+2. I never had a job and I never will.
+   (ID: dialog_18_speaker_1)
+
+3. A soldier is what I'm.
+   (ID: dialog_35_speaker_2)
+
+4. I am from a very small town. I do not live somewhere exotic. I like small town life in some ways.
+   (ID: dialog_2_speaker_1)
+
+5. I'm from Nashville, TN, and I've lived here my whole life. I like country music.
+   (ID: dialog_66_speaker_2)
+
+6. I like 80s and 90s rock music. I like listening to music at the beach. I like upbeat music you can sing to.
+   (ID: dialog_88_speaker_2)
+
+7. I love to see things grow.
+   (ID: dialog_49_speaker_1)
+
+8. I take care of people.
+   (ID: dialog_28_speaker_1)
+
+9. I routinely travel to Europe and South America. I plan on travelling to Japan. I would like to explore the mountain areas and see the world heritage sites.
+   (ID: dialog_9_speaker_1)
+
+10. I am surprised how good pictures taken with iPhone came out.
+   (ID: dialog_49_speaker_2)
+
+11. I enjoy watching The Cable Guy.
+   (ID: dialog_15_speaker_2)
+
+12. Warm weather is my favorite time of year.
+   (ID: dialog_12_speaker_1)
+
+13. I do not know my real parents.
+   (ID: dialog_68_speaker_1)
+
+14. I have a cat and a dog.
+   (ID: dialog_65_speaker_1)
+
+15. I am a vegetarian. I enjoy instructing people on how to eat and lead a healthier life.
+   (ID: dialog_10_speaker_2)
+
+16. I volunteer as much as possible.
+   (ID: dialog_95_speaker_1)
+
+17. My favorite book is Twilight. I like old games.
+   (ID: dialog_31_speaker_1)
+
+18. I graduated college with a literature degree. I want to be a teacher.
+   (ID: dialog_48_speaker_2)
+
+19. Iin my previous job I was a recruiter for time warner.
+   (ID: dialog_76_speaker_2)
+
+20. I like playing video games. My favourite is Call of Duty.
+   (ID: dialog_67_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 16148
+
+1. i had a similar thought when he said they took people in immediately .
+   (ID: Nobody-Likes-Change)
+
+2. i love short haired cats but not so keen on the long hair varieties ...
+   (ID: SeasonedLemur)
+
+3. i believe she is controlling them as much as my father .
+   (ID: RelaxedSociety)
+
+4. i have not come to bring peace , but a sword . "
+   (ID: Hypersapien)
+
+5. i get that , but what does it actually look like to sew ?
+   (ID: buttercup_mauler)
+
+6. i am a little ashamed of how long it took me to find it .
+   (ID: chirpyboyandbartjr)
+
+7. i 'd bet that far more teams would want prince than dennis .
+   (ID: BearCanoe)
+
+8. i love the awkward yeti !
+   (ID: Mahatma_Panda)
+
+9. i knocked him out and then drowned him in sewer water ....
+   (ID: eye-brows)
+
+10. i want pets asap .
+   (ID: underneathstars)
+
+11. i usually do nt support needlessly violent characters but i m all game for an exception .
+   (ID: LCPhotowerx)
+
+12. i say this while working off a 2 tb hard drive that ’s not backed up ....
+   (ID: glowinthedark)
+
+13. i still have 2 years to go and my worst fear is , that i won‘t make it .
+   (ID: useralpha101)
+
+14. i think she does since she lives there .
+   (ID: Mende)
+
+15. i 'm just pointing out that your phrase does n't make sense .
+   (ID: cometparty)
+
+16. i prefer the food police .
+   (ID: Mahatma_Panda)
+
+17. i agree , there are some flaws always .
+   (ID: LabeledAsALunatic)
+
+18. i 'm 27w+ ....
+   (ID: teriaki)
+
+19. i 'm still going to keep telling you .
+   (ID: gigatroness)
+
+20. i ’ve read 7 - 9 :-)
+   (ID: ListenandLove100)
+
+
+--- PER-CHAT ---
+Total from this dataset: 15172
+
+1. yeh if they do bring him back that could be a good way of doing it . i just hope they do it right you know and don ' t do it in a way that would minimize his sacrifice
+   (ID: 350ebf5f22b005c6fa011b8241361bb7184ec8d5)
+
+2. One of my favorite things is coffee.
+   (ID: 787b93a7786c68b0f31fb63e18ccf3551bafae1b)
+
+3. being happy and being usefull for other people . for me if you think you shouldn ' t be happy you are living wrong and if you think it ' s fine being a useless piece of shit you are living wrong as well .
+   (ID: 10d0b3cd3f9e3f2b4c3fd6c4c8bae3ba7917a344)
+
+4. I am normie.
+   (ID: b7af56426174b182a97c67df12c64d320bf51d61)
+
+5. i ' d like to think it means you can say whatever you want assuming you aren ' t outright threatening someone or something , but the more i poke around in reading about freedom of speech , the more i become convinced it doesn ' t exist as much as we think it does here . if you speak out against the government too much , or tell the truth about what they ' re really doing , they ' ll off you and make it look like an accident .
+   (ID: 1d39daed654c59dbe2076d0171bf5d18da510d72)
+
+6. the staring . of all the things i found difficult over there , staring was one of the worst . you might think that being taught not to stare at funny  looking people is common for children around the world . nope . and what do you do when it ' s a parent and their child , staring and pointing together , like they ' re watching an orangutan at a zoo ?
+   (ID: e036cce09e42b447bacae037ef33243f155fd2bf)
+
+7. I'm interested in dating.
+   (ID: a7b9419fd0d77202baa763e253e9f634da5728c1)
+
+8. that ' s the duality of life
+   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
+
+9. One of my favorite things is rice milk.
+   (ID: 1e6ea64fb15fb5b12b1d82a3a5bdced4e3a6559a)
+
+10. i think we got way of topic here anyway . the original question was well kinda why does gaming industry now day feels obligated to satisfy all those  pissy dickweeds  , can  t we have just  he , she , they  characters , maybe even white ones too ?
+   (ID: 77770aa98878bbc6909e1c6f872ebb6803362fc5)
+
+11. i mean , he  s really good at management but he  s so busy with other people  s stuff that he doesn  t have time for our network . as for temperatures , it  s actually pretty good because most of it is audio stuff but on hot days it can be like digit degrees celsius hotter
+   (ID: 7bd4f8e2f55f684df651b44f2faa8769031fc782)
+
+12. im a male and ladies if i am wrong please let me know . their dog will be there when you cheat , lie , and steal . their dog will love them on their darkest and brightest days . their dog will be by their side no matter what . a large number of the male population cant even accomplish one of those sentences that a dog can do without trying . does this make them  obsessed  ? nope . it merely shows their loyalty to those who are loyal to them .
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+13. I live in rural area.
+   (ID: 8df56ee782672f11aeb0f19bf7978b1b1c04e678)
+
+14. i know , it can ' t really be that hard to change a red and a blue to something else ?
+   (ID: 35c328d4a335c5fd9ddfe5f40bbfd2580065561c)
+
+15. cremation after the removal of anything useful
+   (ID: 7921460db376d8f318b71729dcd4931f12a1d0c9)
+
+16. I'm interested in food and beverages.
+   (ID: 90eb51492399cbfe8bbde2fd7d291e5e115a59db)
+
+17. they forgot to shower or something . like anything , please . i feel bad for someone , cause he ' s in the runners trucks now .
+   (ID: 8777ebe00a7403385686cc8962653ff5accb28f0)
+
+18. One of my favorite things is tall guys.
+   (ID: fca46720f9aa154a0559b1e4d2d28cb0df46b00a)
+
+19. if we ' re being technical , digit minutes . we agreed on dating then i changed my mind because i felt like i wasn ' t in a good mental state .
+   (ID: 404d4f663681fcf738d043296148ae4de655b22b)
+
+20. living in the area we all know just how bad br can be at times . whether it  s the traffic , poor drainage , failing school system , old infrastructure , or a lack of entertainment , it  s just not something i want to be reminded of on a daily basis . i get wanting to be made aware of the issues but it seems like the same issues have been around br for ever with no sense of improvement in sight .
+   (ID: 9284af9896fed617d56596c55fb3ff4e8a4c8dde)
+
+
+--- PersonaChat ---
+Total from this dataset: 1070
+
+1. nachos are my favorite food .
+   (ID: conversation_54)
+
+2. my number is 42 .
+   (ID: conversation_62)
+
+3. i work at the local bank .
+   (ID: conversation_73)
+
+4. my favorite animal is the koala .
+   (ID: conversation_198)
+
+5. my mom is my best friend .
+   (ID: conversation_61)
+
+6. lady gaga is my current favorite singer .
+   (ID: conversation_13)
+
+7. i'm a olympian .
+   (ID: conversation_224)
+
+8. i wear cardigans because i hope it makes me look more cultured .
+   (ID: conversation_179)
+
+9. i play jazz piano in a band .
+   (ID: conversation_63)
+
+10. i love watching sitcoms on television .
+   (ID: conversation_220)
+
+11. nachos make me happy .
+   (ID: conversation_245)
+
+12. i was adopted .
+   (ID: conversation_180)
+
+13. i had to get a job early as a child .
+   (ID: conversation_116)
+
+14. i like watching tv in my free time as well .
+   (ID: conversation_191)
+
+15. i couldn t live without my cell phone .
+   (ID: conversation_49)
+
+16. i like to play sports and get fresh air .
+   (ID: conversation_191)
+
+17. i have been in a lot of romantic relationships that have ended up poorly .
+   (ID: conversation_131)
+
+18. i like gardening .
+   (ID: conversation_239)
+
+19. i have a missing pinky toe .
+   (ID: conversation_107)
+
+20. i never learned how to write .
+   (ID: conversation_34)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2153
+
+1. I m a vegetarian.
+   (ID: conversation_117_user_1)
+
+2. I help around with bookkeeping and tours.
+   (ID: conversation_48_user_1)
+
+3. I have big face cheeks.
+   (ID: conversation_183_user_2)
+
+4. I live in my parents basement.
+   (ID: conversation_116_user_1)
+
+5. I try not to think about death.
+   (ID: conversation_32_user_2)
+
+6. I work as a barista.
+   (ID: conversation_198_user_1)
+
+7. My car is blue.
+   (ID: conversation_238_user_1)
+
+8. I used to be a lawyer.
+   (ID: conversation_194_user_2)
+
+9. I am not healthy.
+   (ID: conversation_21_user_1)
+
+10. I own a cat.
+   (ID: conversation_164_user_1)
+
+11. I drive a ford truck.
+   (ID: conversation_164_user_2)
+
+12. I work in finance.
+   (ID: conversation_12_user_2)
+
+13. I used to fly planes for a living.
+   (ID: conversation_121_user_1)
+
+14. I like video games.
+   (ID: conversation_236_user_2)
+
+15. I love rock music.
+   (ID: conversation_233_user_1)
+
+16. I am trying to build my online business.
+   (ID: conversation_238_user_2)
+
+17. I have a ford f150.
+   (ID: conversation_11_user_2)
+
+18. I drive a honda car.
+   (ID: conversation_228_user_2)
+
+19. I like thomas the tank engine.
+   (ID: conversation_174_user_1)
+
+20. I take pride in getting straight a s.
+   (ID: conversation_76_user_2)
+
+
+============================================================

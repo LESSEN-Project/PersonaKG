@@ -1,0 +1,93 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 221
+
+Dataset distribution in this cluster:
+  PEC: 1 (0.5%)
+  PER-CHAT: 219 (99.1%)
+  PersonaChat: 1 (0.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i have pet ducks
+   (ID: exotics)
+
+
+--- PER-CHAT ---
+Total from this dataset: 219
+
+1. I have a dog as a pet.
+   (ID: 12803a9aad224d0537b68ab83a6cdc6a45d3160f)
+
+2. I have a dog as a pet.
+   (ID: c9b1e924c86788c982ec59df3d5704354a2a4ae1)
+
+3. I have a cat as a pet.
+   (ID: 89169d635166bbc089338914b42d288ecb2593e9)
+
+4. I have a cat as a pet.
+   (ID: 067b7441373b7dfebd4b068272381804c26fe6dc)
+
+5. I have a dog as a pet.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+6. I have a dog as a pet.
+   (ID: ad24fe51d61dbe3cddd863ba9cb6adae61265a06)
+
+7. I have a dog as a pet.
+   (ID: cae6d1fb1a818280e66de4a71148560d2d217d70)
+
+8. I have a dog as a pet.
+   (ID: 1dba5a99fe582b0f335d63ef3d25fee74ce4dd18)
+
+9. I have a dog as a pet.
+   (ID: 28b40f8090abf393e7d7a7cf1772fb2c16d434a1)
+
+10. I have a cat as a pet.
+   (ID: e09cddf2452184c83537d2d4e8a36f0ba7c3fae9)
+
+11. I have a cat as a pet.
+   (ID: 1aa2a9bdfead7897363f32a7bc9e416ca9098b9f)
+
+12. I have a dog as a pet.
+   (ID: 4a5a9ac8eab027b38804427b3c8c5e19c8991de3)
+
+13. I have a cat as a pet.
+   (ID: bb88411b165294ddd01835e6389a8e93e9d796d3)
+
+14. I have a dog as a pet.
+   (ID: 5dc1e0203cb86a245c4ede5cb73923b295b1fdc8)
+
+15. I have a cat as a pet.
+   (ID: a0849f7d6d0829c8bb5f820aa9bf63584c7471df)
+
+16. I have a dog as a pet.
+   (ID: 89e76efb1868896fe46bffbc2c10d965b53857d1)
+
+17. I have a dog as a pet.
+   (ID: a22b82fe301caa42c89cbd71b2e3733753f695d9)
+
+18. I have a cat as a pet.
+   (ID: df28c2a39b633ca418192316a199668289382292)
+
+19. I have a dog as a pet.
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+20. I have a dog as a pet.
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i own a pug , and he is the most loyal pet you will ever have .
+   (ID: conversation_43)
+
+
+============================================================

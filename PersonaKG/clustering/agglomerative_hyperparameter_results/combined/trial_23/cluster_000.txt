@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 61486
+
+Dataset distribution in this cluster:
+  FoCus: 1750 (2.8%)
+  MPChat: 3720 (6.1%)
+  MSC: 2709 (4.4%)
+  PEC: 24256 (39.4%)
+  PER-CHAT: 24372 (39.6%)
+  PersonaChat: 1566 (2.5%)
+  SyntheticPersonaChat: 3113 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1750
+
+1. I want to visit Chicago.
+   (ID: EDLPKHWH3K5B_11)
+
+2. I like free public tours.
+   (ID: WPN43Y3S2N4D_11)
+
+3. I am interested in Richard Westmacott.
+   (ID: G3027JCTO8X5_11)
+
+4. I like Worcestershire Canal.
+   (ID: 72MY00U8UEGB_11)
+
+5. I am going to visit San Francisco, California.
+   (ID: QCE0MRFN8S9J_9)
+
+6. I like scientific interest sites.
+   (ID: HWMW6AUW4UTK_11)
+
+7. I wish to visit the chinatown.
+   (ID: DKGV9E2PZUPH_11)
+
+8. I would like to know more about the old native villages of my state.
+   (ID: 97WAFKFECFDE_9)
+
+9. I like playing baseball.
+   (ID: PYCYFS54O1C8_11)
+
+10. I am interested in site's landmarks.
+   (ID: HGV5HAZVG959_11)
+
+11. I didn't know that there was gallery specialized in exhibiting protraits.
+   (ID: MGEY7QK79154_11)
+
+12. I like valleys.
+   (ID: 82ZP2M9AL6U0_11)
+
+13. I like to go to a park.
+   (ID: LYKL0NXYUSDG_11)
+
+14. I like studying physics.
+   (ID: GNIFMHXKEMKB_11)
+
+15. I am studying coal mines.
+   (ID: N1SMQLB7T5J7_11)
+
+16. I have seen athletic parks.
+   (ID: PYCYFS54O1C8_11)
+
+17. I love wildlife.
+   (ID: T815O8KC30IG_9)
+
+18. I wish to find some new print books to check out.
+   (ID: 9QE8MQM0B8P7_11)
+
+19. I want to go to the Music Festival this year.
+   (ID: RUXEW8EYORSZ_11)
+
+20. I want to visit Arizona.
+   (ID: MZEB41FAFYS0_11)
+
+
+--- MPChat ---
+Total from this dataset: 3720
+
+1. my boy loves our sunday morning walk
+   (ID: LiftingNurse)
+
+2. i named him tommy.
+   (ID: Louiesloops)
+
+3. my very first granny square made for my step mom for her birthday can't wait till december
+   (ID: Winter246)
+
+4. this half dollar coin after being in my grinder for 6ish years
+   (ID: VapeThisBro)
+
+5. bought myself a present ahead of my overseas trip...
+   (ID: ext23)
+
+6. gizmo stealing my pillow feat petrie giving me the side eye
+   (ID: kentobean123)
+
+7. my cake handwriting is much better than my actual penmanship.
+   (ID: fredbutt)
+
+8. just moved my 75 g to my new house.the only thing i was terrified about moving.
+   (ID: pope237)
+
+9. i love the colors in this yarn so much more than i thought i would!
+   (ID: SarahFree339)
+
+10. with twist i embroidered this motif on aida fabric.
+   (ID: gelimausi)
+
+11. i’ve been getting these hearts pretty consistently.
+   (ID: Nutellism)
+
+12. i made a steampunk-themed birthday cake this week.
+   (ID: LittleBitOdd)
+
+13. i finished my plant holder!
+   (ID: FindingTheAdventure)
+
+14. my friend and i explored an abandoned prison and took some pics
+   (ID: bryanw0104)
+
+15. i made a guitar as a keychain
+   (ID: gelimausi)
+
+16. i crocheted green christmas balls.
+   (ID: gelimausi)
+
+17. i made this japanese strawberry shortcake last sunday for my friend's mom
+   (ID: justcook_byangel)
+
+18. found this shaggy ink cap on my morning jog.
+   (ID: fredbutt)
+
+19. my father's day haul going on the camp chef tomorrow bright and early
+   (ID: MonstaEatsItAll)
+
+20. "i see you have hot dogs," she says.
+   (ID: mle12189)
+
+
+--- MSC ---
+Total from this dataset: 2709
+
+1. I live surrounded by farmland.
+   (ID: dialog_27_speaker_1)
+
+2. I'm Chinese American. My mom taught me to cook. I love cooking.
+   (ID: dialog_46_speaker_2)
+
+3. I am also from the US. My favorite color is pink.
+   (ID: dialog_23_speaker_1)
+
+4. I've never ridden a horse.
+   (ID: dialog_117_speaker_2)
+
+5. I enjoy time on the water.
+   (ID: dialog_104_speaker_2)
+
+6. I fixed my old Bronco.
+   (ID: dialog_33_speaker_2)
+
+7. I listen to music when I'm trying to relax.
+   (ID: dialog_128_speaker_1)
+
+8. I want to jump out of a plane.
+   (ID: dialog_104_speaker_1)
+
+9. I live in a retirement home.
+   (ID: dialog_44_speaker_1)
+
+10. I live in Argentina. I have horses.
+   (ID: dialog_59_speaker_2)
+
+11. I am an adult.
+   (ID: dialog_103_speaker_2)
+
+12. I work in a hospital.
+   (ID: dialog_20_speaker_1)
+
+13. I'm from the midwest. I'm a college student. I'm a retired veteran.
+   (ID: dialog_89_speaker_2)
+
+14. I love animals.
+   (ID: dialog_90_speaker_2)
+
+15. I've a lot of pets.
+   (ID: dialog_118_speaker_2)
+
+16. I have strong social skills and love to chat with my many companions.
+   (ID: dialog_131_speaker_2)
+
+17. I bow hunt. I remodel homes.
+   (ID: dialog_0_speaker_2)
+
+18. I have red hair.
+   (ID: dialog_32_speaker_1)
+
+19. I have only visited places in the us.
+   (ID: dialog_89_speaker_1)
+
+20. I am willing to write and record music to go with the dirt bike video. I am trying to have work I can show people when looking for a job.
+   (ID: dialog_53_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 24256
+
+1. i ’m assuming they do the recipes and testing for ba magazine
+   (ID: vivagypsy)
+
+2. i do n't think i 've seen a joke delivered that well .
+   (ID: Shrub74)
+
+3. i 'm very confused .
+   (ID: ifatree)
+
+4. i 'm sure he 'd embrace the pats if we took him .
+   (ID: mulletprooftiger)
+
+5. i promise to not be creepy , if our paths should cross .
+   (ID: napalmkitten)
+
+6. i wo n’t let my daughter leave the front porch !
+   (ID: FridaysChild219)
+
+7. i 've been watching you for years
+   (ID: Stan063)
+
+8. i say this while working off a 2 tb hard drive that ’s not backed up ....
+   (ID: glowinthedark)
+
+9. i would love to win those games !
+   (ID: JohnnyPappis)
+
+10. i 'm exceedingly jealous at the same time .
+   (ID: nate6051)
+
+11. i think you just gave me a nerdgasm .
+   (ID: misplaced_my_pants)
+
+12. i 'm guessing that 's meant to be tongue in cheek .
+   (ID: cometparty)
+
+13. i up am by pigeon lake - just south of edmonton ..
+   (ID: exotics)
+
+14. i am a farmer and i am slightly offended
+   (ID: freddlaren)
+
+15. i mean , he grabbed the dude 's facemask and was pulling and yanking for about 5 yards .
+   (ID: wooq)
+
+16. i do n't see how that changes the fact that the owner may be dead somewhere .
+   (ID: Piraticalstyle)
+
+17. i think it 's best you keep posting .. � �
+   (ID: ChoppingOnionsForYou)
+
+18. i watch it every christmas just to remind myself that love makes it all go round .
+   (ID: Beachsurfer)
+
+19. i love this sentence
+   (ID: deryyaa)
+
+20. i 'm slowly recovering .
+   (ID: giraffecakes)
+
+
+--- PER-CHAT ---
+Total from this dataset: 24372
+
+1. I'm interested in cats.
+   (ID: a8b3c82ca36eb4e48fd6b6674a642f96d401743e)
+
+2. One of my favorite things is peanut butter.
+   (ID: c28c39847d1ec88851aadf063f6e8baf4594b35c)
+
+3. airtel is the worst ? i have jio and i can ' t download 25kb whatsapp images most of the time .
+   (ID: f37c6d73f88ae9488245dcae1da46589d182fa9b)
+
+4. i ' m guessing you did not want to move into your wife ' s parents house in the first place . do you think that if this injury were from something like working out that you ' d be as upset by it ? what if it had been your wife that had made the mistake ? is the resentment confined to the injury , and your in  laws supposed stupidity , or is there something about the living situation itself affecting your attitude . i ' m guessing it ' s a more generally bad situation for you and it feels better to hone in on one specific outrage than to look at the entirety of it . perhaps highly speculatively you ' re worried that you ' re the incompetent one . good luck btw   that ' s a tough situation .
+   (ID: 17b8a304069d7530607e28f8e04d840e28be0d3e)
+
+5. One of my favorite things is shadows of valentia.
+   (ID: 39ad1ed2bdf42527fd153f3d4be927df170fc195)
+
+6. I am a male.
+   (ID: 89fd53ef642d85d9a24d63f88469480646354104)
+
+7. I live in dorm.
+   (ID: b779c0f28aaed5c7cbc5476e91a7eb397a6933bb)
+
+8. no he  s really good if you know how to sneak
+   (ID: 9c91f42953bc8f6d2f718503a1924734b9da6acc)
+
+9. yep ! i was super close to doing it too . but then i realized that i was going through a depressive episode and i was subconsciously feeling those things as a way to try and escape from whatever was making me stressed  depressed . once i acknowledged the issues the feelings went away . your scenario is most likely very different though and your feelings are probably more valid than mine ! do what is best for you .
+   (ID: e16a0d174adc309bd63cefcfaac2428d7ebba9e9)
+
+10. I live in manboobs.
+   (ID: 2e1439e8eb18b181a69a66cc4c1b2dc22ce774f0)
+
+11. One of my favorite things is wednesday.
+   (ID: 89c3606d2dfc5d2a2da97fb49ddc1894f8bf330f)
+
+12. dude . so with you on this . concerts , festivals , comedy shows . i realized a couple months back that while i enjoy a great number of things that this world has to offer , i love very few things . which is why i find myself despondent at events that i  ve paid money to attend . brain  i thought you liked this band . me  i do . brain  why aren  t you enjoying yourself then ? me  i don  t know . isn  t that kinda your job ? brain  me ? psh . i  m only here for the free show , man .
+   (ID: 08da4119a215672a002df8147181afbb771a75f9)
+
+13. I live in nintendo.
+   (ID: 3f096e5688ae1e18a7e30befd53c2492595b4825)
+
+14. not my story but the story my filipino co worker told me about his circumcision . i can ' t even begin to tell his story , but it was the most interesting , intriguing , fucked up story i have ever heard . just look up project tuli , and the new " common " way will be explained but even that ' s not what happened with my coworker who ' s parents decided to do it the more traditional way .
+   (ID: 7bbefe3c73b49467552610b8dad9354ce8c09cde)
+
+15. I have a brother in my family.
+   (ID: a80b8bc356414690d849369456d68876c95d5518)
+
+16. I am a male.
+   (ID: 6938adfadf158e773c1a81f3c3b4f7ef1aed3881)
+
+17. and your supposed to be an expert on englishology ? people like you are just there too show how smart you are and put others down , rather then lift then up . your just a looser and thats the end of it !
+   (ID: 9a6c8092baa903ed1df9f0bfae4b28070e199c8c)
+
+18. i think my voice is decent , but i can ' t bring myself to sing in front of anyone . lol
+   (ID: de5db66359e6314e9bac24fd9a10ec1d49584c4f)
+
+19. people actually like being sick ? what kind of fuckery is this ?
+   (ID: de5db66359e6314e9bac24fd9a10ec1d49584c4f)
+
+20. I am a male.
+   (ID: 64ee30820164d5febf4618f35085fd26a3387cc9)
+
+
+--- PersonaChat ---
+Total from this dataset: 1566
+
+1. i lost my arm in a car accident .
+   (ID: conversation_157)
+
+2. i work at a bookstore .
+   (ID: conversation_56)
+
+3. i go to a local college .
+   (ID: conversation_12)
+
+4. in my freetime i enjoy cloud watching .
+   (ID: conversation_204)
+
+5. i only sleep 3 hours a day .
+   (ID: conversation_254)
+
+6. i like to ride horses .
+   (ID: conversation_15)
+
+7. i enjoy building computers .
+   (ID: conversation_67)
+
+8. i live on the third floor in an apartment .
+   (ID: conversation_268)
+
+9. i am lactose intolerant .
+   (ID: conversation_307)
+
+10. i'm married .
+   (ID: conversation_276)
+
+11. my car broke down last week .
+   (ID: conversation_349)
+
+12. i love to hunt .
+   (ID: conversation_302)
+
+13. since i have fibromyalgia , the harsher winters here in pa will be rough on me .
+   (ID: conversation_167)
+
+14. i love to take my children on nature walks .
+   (ID: conversation_173)
+
+15. my brothers work with me .
+   (ID: conversation_189)
+
+16. my car is green and smells weird .
+   (ID: conversation_162)
+
+17. i believe in fairytales .
+   (ID: conversation_318)
+
+18. i am seven years old .
+   (ID: conversation_294)
+
+19. as a child , i won a national spelling bee .
+   (ID: conversation_181)
+
+20. i love the beach .
+   (ID: conversation_326)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3113
+
+1. I love to watch ted talks.
+   (ID: conversation_67_user_2)
+
+2. I read a lot of used books.
+   (ID: conversation_117_user_1)
+
+3. I live in chicago.
+   (ID: conversation_131_user_2)
+
+4. My mother doesn t ! ove me.
+   (ID: conversation_69_user_2)
+
+5. I am a high school teacher.
+   (ID: conversation_108_user_2)
+
+6. I am married.
+   (ID: conversation_250_user_1)
+
+7. I travel every year to disney world.
+   (ID: conversation_329_user_2)
+
+8. I have many friends.
+   (ID: conversation_26_user_1)
+
+9. I am a vegan.
+   (ID: conversation_196_user_1)
+
+10. I am a classicly trained chef.
+   (ID: conversation_69_user_2)
+
+11. My father is a retired police officer.
+   (ID: conversation_216_user_2)
+
+12. I used to be a nurse.
+   (ID: conversation_302_user_2)
+
+13. My favorite animal is the koala.
+   (ID: conversation_80_user_2)
+
+14. I have good health.
+   (ID: conversation_256_user_1)
+
+15. Yellow is my favorite color.
+   (ID: conversation_234_user_2)
+
+16. We have two pets as well.
+   (ID: conversation_199_user_2)
+
+17. I ride a unicycle.
+   (ID: conversation_326_user_1)
+
+18. I am a vegan.
+   (ID: conversation_193_user_1)
+
+19. I have a cat named felix and a small terrer names emmy.
+   (ID: conversation_169_user_2)
+
+20. I have 3 dogs and 2 cats.
+   (ID: conversation_196_user_1)
+
+
+============================================================

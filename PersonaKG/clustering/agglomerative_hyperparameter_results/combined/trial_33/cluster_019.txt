@@ -1,0 +1,130 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 726
+
+Dataset distribution in this cluster:
+  MSC: 1 (0.1%)
+  PEC: 2 (0.3%)
+  PER-CHAT: 715 (98.5%)
+  PersonaChat: 1 (0.1%)
+  SyntheticPersonaChat: 7 (1.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm a male.
+   (ID: dialog_42_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i 'd love to see an all male campus with male cheerleaders at the football games
+   (ID: IgnoranceIsAVirus)
+
+2. i am and i have several male friends who love sailor moon .
+   (ID: silentpower)
+
+
+--- PER-CHAT ---
+Total from this dataset: 715
+
+1. I am a male.
+   (ID: dee1be637147c9065afbc159fbd3efc6ff54b847)
+
+2. I am a male.
+   (ID: a8d677a357cabd8cb6d9bfa06e041b5b173582d8)
+
+3. I am a male.
+   (ID: 77a6bff8693a174b55d34fc32fdd8a87710fecb7)
+
+4. I am a male.
+   (ID: ba19f1817c5dfde741b0e3387f4c8902b125e2c5)
+
+5. I am a male.
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+6. I am a male.
+   (ID: f2cec4af782c7d455288420e90648dc9c6d12538)
+
+7. I am a male.
+   (ID: 5dc1e0203cb86a245c4ede5cb73923b295b1fdc8)
+
+8. I am a male.
+   (ID: fae28587bce17296589bf92d656ad68ee32601d6)
+
+9. I am a male.
+   (ID: 0ff9b93da34f69dc075bf7e22366843c393b5bdd)
+
+10. I am a male.
+   (ID: 114f7cbc1e95e422548314f66f04854e144a7a35)
+
+11. I am a male.
+   (ID: 617a45b75601128e5c804bd8ca6b8e525a4aa02d)
+
+12. I am a male.
+   (ID: 800762ac8d54632109094a4e9132fe0aed711561)
+
+13. I am a male.
+   (ID: f3192aa413ed905a2d6bc7e74ae65b23517e05a0)
+
+14. I am a male.
+   (ID: 029f5b503d15f7a11f4a0300f77d88f29e5c7ed5)
+
+15. I am a male.
+   (ID: 011a531fc3f706d76441a0f95cc8091fd4453dd8)
+
+16. I am a male.
+   (ID: 6b2e7201275c9aa1dcb6d1b24840765a41796c3d)
+
+17. I am a male.
+   (ID: 3e7b07ddd384cb288bc529e6aeb73f840aa5a294)
+
+18. I am a male.
+   (ID: 7281ac55eb2a6383df4bfcf1408cda0145e29328)
+
+19. I am a male.
+   (ID: c6b2000b95ec54c8393c3ab07cc2c5acd2563345)
+
+20. I am a male.
+   (ID: bdf7e254fb732651bb0373067c57200731f7ca55)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i've male pattern baldness .
+   (ID: conversation_138)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I am male.
+   (ID: conversation_6_user_1)
+
+2. I am male.
+   (ID: conversation_9_user_1)
+
+3. I am male.
+   (ID: conversation_5_user_1)
+
+4. I am male.
+   (ID: conversation_11_user_1)
+
+5. I am male.
+   (ID: conversation_10_user_1)
+
+6. I am male.
+   (ID: conversation_8_user_1)
+
+7. I am male.
+   (ID: conversation_7_user_1)
+
+
+============================================================

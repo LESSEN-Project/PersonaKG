@@ -1,0 +1,233 @@
+CLUSTER 22
+============================================================
+Total statements in cluster: 209
+
+Dataset distribution in this cluster:
+  FoCus: 5 (2.4%)
+  MPChat: 1 (0.5%)
+  MSC: 14 (6.7%)
+  PEC: 1 (0.5%)
+  PER-CHAT: 167 (79.9%)
+  PersonaChat: 4 (1.9%)
+  SyntheticPersonaChat: 17 (8.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 5
+
+1. I like animals from America.
+   (ID: 77B9J8TADYDF_7)
+
+2. I love animals.
+   (ID: SR7IVZSR3LV5_11)
+
+3. I like animals from Africa.
+   (ID: 77B9J8TADYDF_7)
+
+4. I love animals.
+   (ID: 77B9J8TADYDF_7)
+
+5. I like learning about a variety of animals.
+   (ID: LFGIG1TODPKB_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i hear you have pets?
+   (ID: HMoney214)
+
+
+--- MSC ---
+Total from this dataset: 14
+
+1. I like to raise animals.
+   (ID: dialog_40_speaker_2)
+
+2. I like animals.
+   (ID: dialog_28_speaker_2)
+
+3. I care about animals.
+   (ID: dialog_10_speaker_2)
+
+4. I have 2 pets.
+   (ID: dialog_65_speaker_1)
+
+5. I love animals.
+   (ID: dialog_90_speaker_2)
+
+6. I like to walk pets.
+   (ID: dialog_84_speaker_1)
+
+7. I like to walk pets.
+   (ID: dialog_89_speaker_1)
+
+8. I want to be a forest ranger.  I like the outdoors.  I like animals.
+   (ID: dialog_53_speaker_2)
+
+9. I have pets.
+   (ID: dialog_47_speaker_2)
+
+10. I like animals.
+   (ID: dialog_24_speaker_2)
+
+11. I love all my pets.
+   (ID: dialog_63_speaker_1)
+
+12. I love having pets.
+   (ID: dialog_90_speaker_1)
+
+13. I don't have any pets.
+   (ID: dialog_55_speaker_2)
+
+14. I like animals.
+   (ID: dialog_65_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i just see animals as more than " things " .
+   (ID: NyxPeregrinus)
+
+
+--- PER-CHAT ---
+Total from this dataset: 167
+
+1. I'm interested in pets and animals.
+   (ID: 777e86703ab013526ea933a9a9fcc97d1fbd6a78)
+
+2. I'm interested in pets and animals.
+   (ID: bd0712716940e41d4901cd77632c868dc43fa8f0)
+
+3. I'm interested in pets and animals.
+   (ID: 0254abd776ead925b3c998e740c3ae71d2b4c6e0)
+
+4. I'm interested in pets and animals.
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+5. I'm interested in pets and animals.
+   (ID: 4e289af5e18133c4578deba659b7e1d2784a925d)
+
+6. I'm interested in pets and animals.
+   (ID: 2bef35da312e37edc8bab504f87f6973d3b8481a)
+
+7. I'm interested in pets and animals.
+   (ID: 7a0302ed354e54bfa45e1de27055f29421f91f29)
+
+8. I'm interested in pets and animals.
+   (ID: dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e)
+
+9. I'm interested in pets and animals.
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+
+10. I'm interested in pets and animals.
+   (ID: 2abaf8413c23e36fd4e8a1e879a2875dea6dbf69)
+
+11. I'm interested in pets and animals.
+   (ID: f3a490ceb976e7adf0cbeb213371795128597226)
+
+12. I'm interested in pets and animals.
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+13. I'm interested in pets and animals.
+   (ID: b6c3e540255084641f0e148a3992d9113c560f0b)
+
+14. I'm interested in pets and animals.
+   (ID: 9e1be6964f5835f58b6cdaac71f8b557f0b4a42f)
+
+15. I'm interested in pets and animals.
+   (ID: d42f47f147cdc8e97117f0e4963e2c1309d1dcd8)
+
+16. I'm interested in pets and animals.
+   (ID: b6567f005c34603036e6119544386ff4f12ec3a9)
+
+17. I'm interested in pets and animals.
+   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+
+18. I'm interested in pets and animals.
+   (ID: 2069df24de0e78e4765ca507edb903ca074ac2d8)
+
+19. I'm interested in pets and animals.
+   (ID: 5b8ed03bdff11aec4ed3a2ed4e122a505bf937dd)
+
+20. I'm interested in pets and animals.
+   (ID: e1cfe7e3bd4f78988caf9c6fd043691888e401c8)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i love animals .
+   (ID: conversation_47)
+
+2. i love animals .
+   (ID: conversation_11)
+
+3. i love animals .
+   (ID: conversation_196)
+
+4. we have two pets as well .
+   (ID: conversation_173)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 17
+
+1. We have two pets as well.
+   (ID: conversation_199_user_2)
+
+2. I do not like animals.
+   (ID: conversation_130_user_1)
+
+3. I love animals.
+   (ID: conversation_170_user_2)
+
+4. I have 2 dogs as pets.
+   (ID: conversation_215_user_2)
+
+5. I love animals.
+   (ID: conversation_192_user_1)
+
+6. I do not like animals.
+   (ID: conversation_131_user_1)
+
+7. I love animals.
+   (ID: conversation_189_user_1)
+
+8. I love animals.
+   (ID: conversation_191_user_1)
+
+9. I love all animals.
+   (ID: conversation_216_user_1)
+
+10. I love animals.
+   (ID: conversation_190_user_1)
+
+11. I have 2 dogs as pets.
+   (ID: conversation_146_user_1)
+
+12. I love animals.
+   (ID: conversation_220_user_1)
+
+13. I love animals.
+   (ID: conversation_67_user_2)
+
+14. I love animals.
+   (ID: conversation_221_user_1)
+
+15. I have 4 pets.
+   (ID: conversation_46_user_2)
+
+16. We have two pets as well.
+   (ID: conversation_75_user_2)
+
+17. I love animals.
+   (ID: conversation_17_user_2)
+
+
+============================================================

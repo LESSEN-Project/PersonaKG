@@ -1,0 +1,286 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 894
+
+Dataset distribution in this cluster:
+  MSC: 23 (2.6%)
+  PEC: 5 (0.6%)
+  PER-CHAT: 822 (91.9%)
+  PersonaChat: 18 (2.0%)
+  SyntheticPersonaChat: 26 (2.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 23
+
+1. I have 4 siblings: brothers and sisters. My brother got engaged and plans to marry next year.
+   (ID: dialog_42_speaker_1)
+
+2. I have two younger brothers.
+   (ID: dialog_59_speaker_1)
+
+3. I have four sisters.
+   (ID: dialog_14_speaker_1)
+
+4. I have a girl.
+   (ID: dialog_85_speaker_2)
+
+5. I have 4 sisters named Anne, Lauren, Alexis, and Sam.
+   (ID: dialog_1_speaker_2)
+
+6. I have sons.
+   (ID: dialog_9_speaker_2)
+
+7. I've a family.
+   (ID: dialog_44_speaker_2)
+
+8. I'm part of a modern family.
+   (ID: dialog_37_speaker_2)
+
+9. I've 3 brothers and sisters.
+   (ID: dialog_42_speaker_1)
+
+10. I am very close to my adopted family.
+   (ID: dialog_68_speaker_1)
+
+11. I don't know my family.
+   (ID: dialog_68_speaker_1)
+
+12. I have 4 sisters.
+   (ID: dialog_1_speaker_2)
+
+13. I have tons of relatives.
+   (ID: dialog_78_speaker_1)
+
+14. I've no siblings.
+   (ID: dialog_68_speaker_1)
+
+15. My number one priority are my parents and siblings.
+   (ID: dialog_73_speaker_1)
+
+16. My parents had 5 kids.
+   (ID: dialog_14_speaker_1)
+
+17. I come from a large family.
+   (ID: dialog_4_speaker_1)
+
+18. I have one son.
+   (ID: dialog_55_speaker_2)
+
+19. I  do not  have  any siblings.
+   (ID: dialog_68_speaker_1)
+
+20. I am one of two boys in my family.
+   (ID: dialog_57_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i 've got my own father .
+   (ID: RonaldFuckingPaul)
+
+2. i 'm blood related to a ton of people i never see .
+   (ID: IncredibleBulk2)
+
+3. i know this family .
+   (ID: BlueSuedeBag)
+
+4. i have a beautiful family , and a wife , and kid .
+   (ID: DarkMoon99)
+
+5. i have relatives in the theatre as well .
+   (ID: MILeft)
+
+
+--- PER-CHAT ---
+Total from this dataset: 822
+
+1. I have a father in my family.
+   (ID: 9447b1479bba35e43476f822ef86882e0d4d70d7)
+
+2. I have a father in my family.
+   (ID: bfc2e9a6e5f84327293fa1a1fd0287066782bcec)
+
+3. I have a brothers in my family.
+   (ID: a61db1f2f0a3d15376fd168a1637c028f25100e1)
+
+4. I have a father in my family.
+   (ID: 4a03851d25b2526583af78261bff2af13796094e)
+
+5. I have a mother in my family.
+   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+
+6. I have a mother in my family.
+   (ID: d8492ac2e05f869f3bd79bafc9f32c603a615e59)
+
+7. I have a brothers in my family.
+   (ID: 6735159236fd8a4634f1974d6eba7f027dbd1aa7)
+
+8. I have a father in my family.
+   (ID: 2e369dc21156ed2b443bc09084e27c8acb516093)
+
+9. I have a mother in my family.
+   (ID: 0d5c70b45072ef9ffc8fb257e4775e8302391e3c)
+
+10. I own a girl.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+11. I have a mother in my family.
+   (ID: 74058c90ada3aae7a59703064acbf3ced38f3681)
+
+12. I have a brother in my family.
+   (ID: 79b7d42cddd601decb70d75b54d7b51f91360e2d)
+
+13. I have a father in my family.
+   (ID: e762afbb043380ba48c73fe9d10d74d8daeb8b17)
+
+14. I have a brother in my family.
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+15. I have a brother in my family.
+   (ID: f3f34b7b903c833de2625265da4585abdc86ab7c)
+
+16. I have a mother in my family.
+   (ID: 9c91f42953bc8f6d2f718503a1924734b9da6acc)
+
+17. I have a brothers in my family.
+   (ID: 4917a362688355621979e016028f58dbf7f3ac7e)
+
+18. I have a brother in my family.
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+19. I have a sister in my family.
+   (ID: fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1)
+
+20. I have a mother in my family.
+   (ID: ea3b9395602c702397d514c6da7049b089458032)
+
+
+--- PersonaChat ---
+Total from this dataset: 18
+
+1. i'm one of four siblings .
+   (ID: conversation_135)
+
+2. i've a twin brother .
+   (ID: conversation_57)
+
+3. i'm an only child .
+   (ID: conversation_190)
+
+4. i have a little girl .
+   (ID: conversation_129)
+
+5. i have an older brother .
+   (ID: conversation_81)
+
+6. i've one son .
+   (ID: conversation_55)
+
+7. i have two brothers .
+   (ID: conversation_242)
+
+8. i've a daughter .
+   (ID: conversation_105)
+
+9. i've several siblings i don t know .
+   (ID: conversation_180)
+
+10. we help each other out in my family .
+   (ID: conversation_229)
+
+11. my family is very important to me .
+   (ID: conversation_189)
+
+12. i am the youngest sibling in my family .
+   (ID: conversation_193)
+
+13. i am the middle child of 3 siblings .
+   (ID: conversation_101)
+
+14. i'm the youngest of 4 children .
+   (ID: conversation_157)
+
+15. i am an only child .
+   (ID: conversation_200)
+
+16. i've 2 sisters .
+   (ID: conversation_161)
+
+17. i've two nephews .
+   (ID: conversation_99)
+
+18. i have four sisters .
+   (ID: conversation_1)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 26
+
+1. My family is very important to me.
+   (ID: conversation_47_user_2)
+
+2. I have 5 brothers and sisters.
+   (ID: conversation_8_user_2)
+
+3. I have a son.
+   (ID: conversation_155_user_2)
+
+4. I am an only child.
+   (ID: conversation_81_user_1)
+
+5. I grew up with 6 siblings.
+   (ID: conversation_223_user_1)
+
+6. My family means the world to me.
+   (ID: conversation_24_user_2)
+
+7. I have ten nieces and nephews.
+   (ID: conversation_243_user_1)
+
+8. I have the support of my whole family.
+   (ID: conversation_143_user_2)
+
+9. I am an only child.
+   (ID: conversation_58_user_2)
+
+10. I have 2 sisters.
+   (ID: conversation_175_user_1)
+
+11. I ve two siblings.
+   (ID: conversation_71_user_1)
+
+12. I am an only child.
+   (ID: conversation_229_user_1)
+
+13. I have two nephews.
+   (ID: conversation_130_user_2)
+
+14. I have a big family.
+   (ID: conversation_151_user_1)
+
+15. I am one of four siblings.
+   (ID: conversation_230_user_2)
+
+16. I grew up with 6 siblings.
+   (ID: conversation_222_user_1)
+
+17. I ve a big family.
+   (ID: conversation_152_user_1)
+
+18. I have 2 sisters.
+   (ID: conversation_176_user_1)
+
+19. I have ten nieces and nephews.
+   (ID: conversation_249_user_1)
+
+20. I have no parents or siblings.
+   (ID: conversation_9_user_2)
+
+
+============================================================

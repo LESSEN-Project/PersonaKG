@@ -1,0 +1,222 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 102
+
+Dataset distribution in this cluster:
+  MPChat: 6 (5.9%)
+  MSC: 6 (5.9%)
+  PEC: 11 (10.8%)
+  PER-CHAT: 11 (10.8%)
+  PersonaChat: 6 (5.9%)
+  SyntheticPersonaChat: 62 (60.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 6
+
+1. vegan friends, what is this green veggie in my tamarind soup on the bottom left?
+   (ID: Chris55730)
+
+2. made and eggplant since my gf thought it was funny
+   (ID: MontyManta)
+
+3. here's my first time making this (vegan) zebra cake
+   (ID: justcook_byangel)
+
+4. i may have gone a little overboard by quadrupling this vegan cheese sauce recipe...
+   (ID: ReturnOfTheFox)
+
+5. tonight she requested one of my vegan cheezesteaks.
+   (ID: ReturnOfTheFox)
+
+6. even my non-vegan, picky eater daughter called it amazing.
+   (ID: ReturnOfTheFox)
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I am a vegan.
+   (ID: dialog_86_speaker_1)
+
+2. I am going to try being vegan.
+   (ID: dialog_65_speaker_1)
+
+3. I like eating salads all day everyday. I am incorporating vegan meals into my diet.
+   (ID: dialog_86_speaker_2)
+
+4. I'm vegan. I like the vegan food at Whole Foods.
+   (ID: dialog_65_speaker_2)
+
+5. I'm vegan
+   (ID: dialog_65_speaker_2)
+
+6. I like the vegan food at Whole Foods.
+   (ID: dialog_65_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 11
+
+1. i think kellogg ’s chocos are vegan , but i am not sure .
+   (ID: AP7497)
+
+2. i hope it 's gmo and gluten free as well
+   (ID: msiekkinen)
+
+3. i really should n't be surprised that the second result is " premium ethical vegan fair trade condoms " .
+   (ID: adertal)
+
+4. i am not a vegan .
+   (ID: exotics)
+
+5. i 'm a long time vegetarian going keto for the first time .
+   (ID: redraindropped)
+
+6. i have finally taken the plunge and have been vegan for a little under a week .
+   (ID: AP7497)
+
+7. i know like 1 other vegan in real life .
+   (ID: AP7497)
+
+8. i was raised vegetarian , and have been wanting to go vegan for the longest time .
+   (ID: AP7497)
+
+9. i spot a future vegan .
+   (ID: AP7497)
+
+10. i know plenty of people who are n't vegan but " reducetarian " and just try to eat less .
+   (ID: NyxPeregrinus)
+
+11. i fully support going meatless or going vegetarian etc , with veganism as an eventual goal .
+   (ID: FruitBatFanatic)
+
+
+--- PER-CHAT ---
+Total from this dataset: 11
+
+1. I am vegan.
+   (ID: a168763c82b90dc18ccbbd57533eec2e49d17dc7)
+
+2. I'm interested in vegan and vegetarian.
+   (ID: e9d9b9400a09031a7e1021173867d784ebb9cf94)
+
+3. but at least everyone else will have something to eat . that is , if you like soylent green .
+   (ID: e8daa61bfd9bf81549666ebd0bdf393156b492de)
+
+4. I'm interested in vegan and vegetarian.
+   (ID: 801c30bb9f7fe270789d76054d77c547f65e41eb)
+
+5. I'm interested in vegan and vegetarian.
+   (ID: c0cbd0e097375f98ad98ec291f836a39d55e02c1)
+
+6. don  t make the normal kids suffer . at my jobs xmas party last year my ceo decided to have all the food be vegan but only him and his son are vegan . long story short the party ended with tables full of food wasted because your average person doesn  t like that crap . hell , even the cake was bad . if you can  t make a cake taste good you  re doing something wrong
+   (ID: 0e1406b3a5b6031911de9279cf70144f8f1d9136)
+
+7. spot on that . was vegan for digit months with the most non understanding friends you can get . back to eating meat for now but can  t justify it morally . i was a rubbish vegan and the lack of nutrition made me sad .
+   (ID: 90eb51492399cbfe8bbde2fd7d291e5e115a59db)
+
+8. I'm interested in vegan and vegetarian.
+   (ID: 445ba4596e4bcff0c96b23f038cf784185970198)
+
+9. I'm interested in vegan and vegetarian.
+   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+
+10. I'm interested in vegan and vegetarian.
+   (ID: 7921460db376d8f318b71729dcd4931f12a1d0c9)
+
+11. I'm interested in vegan and vegetarian.
+   (ID: 5ad91cf15026f9d604e90af77be91ab4f6b7289a)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i'm vegan .
+   (ID: conversation_20)
+
+2. i'm a vegan .
+   (ID: conversation_205)
+
+3. i am a vegan .
+   (ID: conversation_155)
+
+4. i have been a vegan since i was 5 .
+   (ID: conversation_242)
+
+5. i'm a vegan .
+   (ID: conversation_151)
+
+6. i am a vegan .
+   (ID: conversation_60)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 62
+
+1. I am vegan.
+   (ID: conversation_47_user_1)
+
+2. I am vegan.
+   (ID: conversation_40_user_1)
+
+3. I m a vegan.
+   (ID: conversation_159_user_1)
+
+4. I am a vegan.
+   (ID: conversation_194_user_1)
+
+5. I am a vegan.
+   (ID: conversation_238_user_2)
+
+6. I am a vegan.
+   (ID: conversation_187_user_1)
+
+7. I am a vegan.
+   (ID: conversation_217_user_1)
+
+8. I am vegan.
+   (ID: conversation_49_user_1)
+
+9. I am a vegan.
+   (ID: conversation_206_user_1)
+
+10. I am a vegan.
+   (ID: conversation_188_user_1)
+
+11. I am a vegan.
+   (ID: conversation_201_user_1)
+
+12. I decided to become vegan a year ago.
+   (ID: conversation_50_user_1)
+
+13. I decided to become vegan a year ago.
+   (ID: conversation_48_user_1)
+
+14. I am a vegan.
+   (ID: conversation_216_user_1)
+
+15. I am a vegan.
+   (ID: conversation_210_user_1)
+
+16. I am vegan.
+   (ID: conversation_42_user_1)
+
+17. I am a vegan.
+   (ID: conversation_192_user_1)
+
+18. I am vegan.
+   (ID: conversation_37_user_1)
+
+19. I m a vegan.
+   (ID: conversation_158_user_1)
+
+20. I am vegan.
+   (ID: conversation_39_user_1)
+
+
+============================================================

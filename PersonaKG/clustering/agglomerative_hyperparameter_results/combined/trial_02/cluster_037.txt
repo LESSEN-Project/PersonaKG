@@ -1,0 +1,467 @@
+CLUSTER 37
+============================================================
+Total statements in cluster: 1675
+
+Dataset distribution in this cluster:
+  FoCus: 376 (22.4%)
+  MPChat: 24 (1.4%)
+  MSC: 328 (19.6%)
+  PEC: 373 (22.3%)
+  PER-CHAT: 143 (8.5%)
+  PersonaChat: 131 (7.8%)
+  SyntheticPersonaChat: 300 (17.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 376
+
+1. I like Geography.
+   (ID: HSQSOF3LX08H_7)
+
+2. I like ancient murals.
+   (ID: WZJKGOPTI7K6_11)
+
+3. I like to Digital things.
+   (ID: UDGAGMKQ9TQ1_11)
+
+4. I like Pac Man.
+   (ID: SMBXGLB08A4C_11)
+
+5. I like hiking.
+   (ID: 8BSRL0F5WC2L_11)
+
+6. I like stained glass.
+   (ID: E90Q3KNN7V8I_11)
+
+7. I don't like casinos.
+   (ID: 9KDV6LSLWNAX_11)
+
+8. I would like to visit an aquarium.
+   (ID: NQNDXIDJUAUC_7)
+
+9. I would like to visit New York someday.
+   (ID: IKQ9QU6QOUT4_11)
+
+10. I would like to visit Minnesota.
+   (ID: KN10OGBG14Y2_11)
+
+11. I would like to go to United States.
+   (ID: FZ7IE8MUIWRS_9)
+
+12. I like to go to a park.
+   (ID: MP1ZK22Q90C9_11)
+
+13. I like studying.
+   (ID: J5M5FXFIS10V_11)
+
+14. I like the United States.
+   (ID: 7NISCLZRSK4E_7)
+
+15. I like to learn about Climate.
+   (ID: HK4CNKBL5R5V_11)
+
+16. I would like to visit England.
+   (ID: IS9KP8O0CE1M_11)
+
+17. I like living in a city.
+   (ID: 9KDV6LSLWNAX_11)
+
+18. I like architecture.
+   (ID: AGVUC45C9W9X_7)
+
+19. I like heritage sites.
+   (ID: JGNFHPJEPO6H_9)
+
+20. I would like to visit USA.
+   (ID: UTGOZ64NRQCB_11)
+
+
+--- MPChat ---
+Total from this dataset: 24
+
+1. i like to put cute animals in my coffee!
+   (ID: av929)
+
+2. sometimes, my sense of humor is like that of a 12-year-old.
+   (ID: hottiecakes)
+
+3. i didn’t like it so i scraped it off and started again.
+   (ID: amandabakes)
+
+4. i like to bake in rainbow colors.
+   (ID: Soliloquy119)
+
+5. my beardie wears her food like a hat as well
+   (ID: AlbinoMetroid)
+
+6. i think they look like aesthetic spaghetti
+   (ID: green-egg-and-ham)
+
+7. do you like my deer?
+   (ID: cuppcatt)
+
+8. i really do not like spooders.
+   (ID: baccgirl)
+
+9. i hiked along the nagelfluhkette-ridge in the german alps with awesome views like this!
+   (ID: ChristophZee)
+
+10. why do my zigzag stitches look like this?
+   (ID: hmbmelly)
+
+11. everyone's making these baby groots and i'm like, wait what about yondu?
+   (ID: Louiesloops)
+
+12. not totally perfect, but i like it!
+   (ID: fredbutt)
+
+13. my xero looks like she's in motion
+   (ID: fredbutt)
+
+14. i heard you guys like slammed hippie mobiles.
+   (ID: rileyracks)
+
+15. weird but i like it
+   (ID: jlb4est)
+
+16. i like bunny butts and i cannot lie!
+   (ID: drfrank1982)
+
+17. this plant i saw looks like it's scratching its butt
+   (ID: RaeADropOfGoldenSun)
+
+18. well... looks like i can't move my hand now.
+   (ID: ambora)
+
+19. lily made me say "squee" out loud when i saw her like this.
+   (ID: Soapy_Von_Soaps)
+
+20. found a random print of a composition i didn't quite like.
+   (ID: pocket_kira)
+
+
+--- MSC ---
+Total from this dataset: 328
+
+1. I like the look.
+   (ID: dialog_82_speaker_1)
+
+2. I like 80s and 90s rock music. I like listening to music at the beach. I like upbeat music you can sing to.
+   (ID: dialog_88_speaker_2)
+
+3. I like fairy tales.
+   (ID: dialog_14_speaker_1)
+
+4. I like to be outdoors when I am not working.
+   (ID: dialog_48_speaker_2)
+
+5. I like fishing, role-playing games.
+   (ID: dialog_61_speaker_1)
+
+6. I like country music.
+   (ID: dialog_86_speaker_2)
+
+7. I like my picture.
+   (ID: dialog_36_speaker_1)
+
+8. I like to participate in sports.
+   (ID: dialog_100_speaker_2)
+
+9. I like to celebrate with friends.
+   (ID: dialog_7_speaker_2)
+
+10. I like to fish.
+   (ID: dialog_33_speaker_2)
+
+11. I like gardening.
+   (ID: dialog_112_speaker_1)
+
+12. I like true crime podcasts.
+   (ID: dialog_9_speaker_2)
+
+13. I like rock music.
+   (ID: dialog_5_speaker_1)
+
+14. I like to jam.
+   (ID: dialog_117_speaker_2)
+
+15. I like to eat the same thing as ninja turtles.
+   (ID: dialog_121_speaker_2)
+
+16. I like fried chicken.
+   (ID: dialog_82_speaker_2)
+
+17. I like mystery novels. I like Sherlock Holmes. I like the Jonathan Creek books. I like the Benedict Cumberbatch Sherlock TV Series.
+   (ID: dialog_5_speaker_2)
+
+18. I like to go to the pool.
+   (ID: dialog_107_speaker_2)
+
+19. I like heavy metal.
+   (ID: dialog_113_speaker_1)
+
+20. I like art and photography. I do not have an expensive camera.
+   (ID: dialog_112_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 373
+
+1. i always felt like the mat was n't big enough .
+   (ID: JacredCat)
+
+2. i ’d like to thank the people who share in this sub
+   (ID: snapsnaptomtom)
+
+3. i 'm thinking like 350ce=1refined .
+   (ID: thebastion)
+
+4. i like your writing style and would love to read part two !
+   (ID: travelingkiwi)
+
+5. i could have used something more globally relevant i guess , like littering .
+   (ID: Tsukino_Stareine)
+
+6. i like cooking meals so it should be fun !
+   (ID: sean__christian)
+
+7. i like this , noted for the next comp :)
+   (ID: Ooer)
+
+8. i 'm not like the other goths m'lady
+   (ID: Lifes6Midnight)
+
+9. i had a friend like this .
+   (ID: helensis_)
+
+10. i can only imagine what that looked like
+   (ID: bennystache)
+
+11. i love that she looks like she has some fire and glow in her !
+   (ID: kitcatpaints)
+
+12. i like what happened to ad related disorders .
+   (ID: JimmyMcShiv)
+
+13. i see more of a white lining .
+   (ID: NyxPeregrinus)
+
+14. i like the way you express yourself on camera .
+   (ID: ArtOverdrive01)
+
+15. i absolutely prefer uncut men .
+   (ID: teriaki)
+
+16. i used to be certain like you , but then i took an arrow to the knee .
+   (ID: mostlikelyto___)
+
+17. i 'd like to see it with grant wood paintings
+   (ID: wooq)
+
+18. i 'd like to see your results and references .
+   (ID: metalbark)
+
+19. i have no real hobbies .
+   (ID: underneathstars)
+
+20. i like the cut of your jib . seriously though i could n't agree with you more for asus
+   (ID: thebastion)
+
+
+--- PER-CHAT ---
+Total from this dataset: 143
+
+1. well i like you . as a friend
+   (ID: c787052a42459acc9cd2034c7531250ccd441795)
+
+2. yes , because we talk like that .
+   (ID: f0cc6658fb97955562b5f1b7845c6141dd2eefdf)
+
+3. bottle . i just like the way it sounds .
+   (ID: f3a490ceb976e7adf0cbeb213371795128597226)
+
+4. at least jordan appears to be moving to carry out their own death sentences now . i like some in  the  moment tit  for  tat .
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+5. i like them bigger but it ' s not that big of a deal
+   (ID: db585f1dbaa42a5cff4c6b3dbc242bf7ea45bd9a)
+
+6. now that  s what i like to hear .
+   (ID: 841a375b464a5650f1c027d1c7ae73415228c6ab)
+
+7. like what ? can you post an example pic ?
+   (ID: af0db6dfe4be67a6b6915437597ea564bbb33830)
+
+8. there ' s one kid in class and we all choose variations of his name like if his name was jake , we would use something like jakesoph stalin
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+9. no sounds like something you would see on im14andthisisdeep
+   (ID: 23db574d60be3ebd64ccd49ceb2b7a6ca7eff040)
+
+10. you seem like you have fluid retention , but it ' s not evident because you clearly are so full of yourself .
+   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+
+11. ahh the joys of downtime until you go home . it ' s like chilling on the beach .
+   (ID: fd112b0116b574aa5911af63529dca9683e5f6eb)
+
+12. what ' s good is the most fire song in my opinion
+   (ID: 09635643777fe30eb3750faad0e2ea7a607f855c)
+
+13. only when i am craving something in particular like mudpie , which isn ' t very often .
+   (ID: 664b365f80ff1d51db95866fada8009f14d8e9b1)
+
+14. you make it sound like what we say matters to rito .
+   (ID: 41b9459dbd87b475322566af693bf5fe2a47086d)
+
+15. it almost looks like she ' s mocking him . kind of distracting if you are trying to listen to him .
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+16. what ' s it look like when it ' s on ? is it not obvious ?
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+17. yeah i like under pressure , but not the new stuff .
+   (ID: dd5faa5a5f52546a048b117b380f01fc0bb80bfe)
+
+18. how much they like me on a scale of digit  digit . it would help me a lot with spotting who actually wants to be my friend
+   (ID: 26831d6557d17492ae3b0b54585b32e08055f834)
+
+19. from my experience the crazier they are outside the bedroom the freakiest they are in there . or any where else the mood might strike .
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+20. i agree . even fighting should be done with respect . all fists no weapons and no kicking while the other guy is down . kicking someone in the head while they  re down is done pansyass bs . give them a chance to stand and fight like fights should be
+   (ID: 0e1406b3a5b6031911de9279cf70144f8f1d9136)
+
+
+--- PersonaChat ---
+Total from this dataset: 131
+
+1. i like to bake .
+   (ID: conversation_141)
+
+2. i like to hunt .
+   (ID: conversation_19)
+
+3. i like music .
+   (ID: conversation_205)
+
+4. i like to ride horses .
+   (ID: conversation_15)
+
+5. i like to sing broadway show tunes .
+   (ID: conversation_144)
+
+6. i like skateboarding .
+   (ID: conversation_121)
+
+7. i like to shoot a bow .
+   (ID: conversation_338)
+
+8. i like to go fishing .
+   (ID: conversation_124)
+
+9. i like playing basketball .
+   (ID: conversation_278)
+
+10. i like to ride horses .
+   (ID: conversation_59)
+
+11. i like to go to the farmer s market every weekend .
+   (ID: conversation_117)
+
+12. someday i would like a truck .
+   (ID: conversation_327)
+
+13. my parents were like this as well .
+   (ID: conversation_110)
+
+14. i like to think about what it would be like to be an artist .
+   (ID: conversation_212)
+
+15. i like to draw .
+   (ID: conversation_135)
+
+16. i like to go hunting .
+   (ID: conversation_195)
+
+17. i like cooking healthy meals .
+   (ID: conversation_237)
+
+18. i don t like the beach .
+   (ID: conversation_94)
+
+19. i like to play video games .
+   (ID: conversation_136)
+
+20. i like to dress up for other people .
+   (ID: conversation_317)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 300
+
+1. I like the color blue or red.
+   (ID: conversation_48_user_2)
+
+2. I like to go for bike rides.
+   (ID: conversation_212_user_1)
+
+3. I like video games.
+   (ID: conversation_236_user_2)
+
+4. I like swimming.
+   (ID: conversation_202_user_2)
+
+5. I like having my back scratched.
+   (ID: conversation_126_user_2)
+
+6. I like camping and the outdoors in general.
+   (ID: conversation_140_user_2)
+
+7. I like to stay fit.
+   (ID: conversation_67_user_2)
+
+8. I like soccer.
+   (ID: conversation_204_user_1)
+
+9. I like baking.
+   (ID: conversation_21_user_2)
+
+10. I like sprite soda.
+   (ID: conversation_54_user_1)
+
+11. I like to listen to music.
+   (ID: conversation_276_user_1)
+
+12. I like cookies.
+   (ID: conversation_281_user_1)
+
+13. I like to watch tv.
+   (ID: conversation_31_user_2)
+
+14. I like football.
+   (ID: conversation_239_user_2)
+
+15. I like to play outside.
+   (ID: conversation_80_user_1)
+
+16. I like to play tennis.
+   (ID: conversation_175_user_1)
+
+17. I like to hike.
+   (ID: conversation_141_user_2)
+
+18. I like to travel.
+   (ID: conversation_282_user_2)
+
+19. I like eating healthy foods.
+   (ID: conversation_283_user_2)
+
+20. I like to play tennis.
+   (ID: conversation_176_user_1)
+
+
+============================================================

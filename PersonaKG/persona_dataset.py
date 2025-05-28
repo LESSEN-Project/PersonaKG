@@ -103,9 +103,9 @@ class PersonaDataset:
             if self.config[dataset_name]["source"] == "huggingface":
                 dataset_dict = None
                 if "dataset_config" in self.config[dataset_name]:
-                    dataset_dict = load_dataset(self.config[dataset_name]["repo/url"], **self.config[dataset_name]["dataset_config"])
+                    dataset_dict = load_dataset(self.config[dataset_name]["repo/url"], **self.config[dataset_name]["dataset_config"], trust_remote_code=True)
                 else:
-                    dataset_dict = load_dataset(self.config[dataset_name]["repo/url"])
+                    dataset_dict = load_dataset(self.config[dataset_name]["repo/url"], trust_remote_code=True)
                 
                 # Apply sample_size limit to each split
                 if sample_size > 0:

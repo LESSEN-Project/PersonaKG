@@ -1,0 +1,68 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 12
+
+Dataset distribution in this cluster:
+  PEC: 5 (41.7%)
+  PER-CHAT: 4 (33.3%)
+  PersonaChat: 2 (16.7%)
+  SyntheticPersonaChat: 1 (8.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i know that it 's old .
+   (ID: apnudd)
+
+2. i work for northumberland , i know all about old smelly cream .
+   (ID: Bananafoofoofwee)
+
+3. i have been playing for about a year , and have always had a lot of fun with hearthstone .
+   (ID: Kialand)
+
+4. i have powders that old .
+   (ID: Justadropinthesea)
+
+5. i believe it 's 65 years old .
+   (ID: I_am_not_a_Taco)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. i think she was about digit years old at the time
+   (ID: 25a3a19690cf520ebb090d792f9aab864cc59254)
+
+2. really does not matter . she does not write her own music or lyrics for that matter , so will it even really count ? plus , i highly , highly doubt her music is listens to religiously in digit years , let alone digit .
+   (ID: a8d677a357cabd8cb6d9bfa06e041b5b173582d8)
+
+3. is it between digit and digit years old ?
+   (ID: 2266fd8e27b1d50f2e144f7cd11716068cff21d5)
+
+4. i believe a year and like digit months or so
+   (ID: d9e6e1ecc09dc9affbcc8ccb0191ff241370a782)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i have played since i was 4 years old .
+   (ID: conversation_100)
+
+2. i have played since i was 4 years old .
+   (ID: conversation_45)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have played since i was 4 years old.
+   (ID: conversation_94_user_2)
+
+
+============================================================

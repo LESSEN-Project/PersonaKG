@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 47467
+
+Dataset distribution in this cluster:
+  FoCus: 266 (0.6%)
+  MPChat: 4178 (8.8%)
+  MSC: 756 (1.6%)
+  PEC: 26720 (56.3%)
+  PER-CHAT: 14319 (30.2%)
+  PersonaChat: 413 (0.9%)
+  SyntheticPersonaChat: 815 (1.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 266
+
+1. I don't like fat people.
+   (ID: D4619DV1O1OP_11)
+
+2. I am interested in BTS Network.
+   (ID: 8KHO3GFPWXQ3_11)
+
+3. I like the name Alexandra.
+   (ID: F91BK688K9G1_11)
+
+4. I like lake.
+   (ID: DTX89JENNS0P_11)
+
+5. I would like to know the origins.
+   (ID: SSWJZGJZ66UK_11)
+
+6. I dont like heights.
+   (ID: IBY6RB2J4SRM_7)
+
+7. I like waking up early.
+   (ID: STDMXJC7HTUG_11)
+
+8. I am willing to follow Eric Ford.
+   (ID: N14O6VGOOR7E_11)
+
+9. I don't want large market franchise to replace all small private stores.
+   (ID: 8QHMKV7JII6J_11)
+
+10. I wouldn't like to be in a prison.
+   (ID: OJ5U23I3FV0N_11)
+
+11. I am fond of the Byzantine Revival style.
+   (ID: 81HQ6CXFBQYH_11)
+
+12. I don't like Pollution.
+   (ID: AN8LSF1PEYK2_11)
+
+13. I love Anti-Fascist Protection Rampart.
+   (ID: 9A5KQW7ZJ9KZ_11)
+
+14. I would like to enrol my child in Sunday School.
+   (ID: HMSHQ9H7RA76_7)
+
+15. I don't like waterways.
+   (ID: DMD9S9COJOIA_7)
+
+16. I am going to stay in Ontario.
+   (ID: UXR4EKSRCULN_11)
+
+17. I do know about Asian art.
+   (ID: GG3IBG4SOHXX_11)
+
+18. I like rivers.
+   (ID: AOQJE7BBYFVM_11)
+
+19. I would like to visit the Adam Mickiewicz Theatre again.
+   (ID: PW1SULL1SY01_11)
+
+20. I don't like neo-Gothic style.
+   (ID: 9VN3FMWR0NNR_11)
+
+
+--- MPChat ---
+Total from this dataset: 4178
+
+1. i've recently started crochet.
+   (ID: Lookingforearrings2)
+
+2. not a problem said i.
+   (ID: Soapy_Von_Soaps)
+
+3. some ceramic tea pots i made this past weekend.
+   (ID: Grooventooven)
+
+4. crossposting from r/yarnaddicts cause i'm giddy over them and thought you might enjoy!
+   (ID: ninjaeatingzombie)
+
+5. super soft hat i finished in bernat pipsqueak!
+   (ID: Veretica)
+
+6. some of my favorite cakes i've made in the last 2 years
+   (ID: MrsTheJones)
+
+7. i am pretty sure the estella dress is going to be my new favorite
+   (ID: meghanlovessunshine)
+
+8. a game of thrones cake i made.
+   (ID: ThePurpleBaker)
+
+9. pink floyd cake i made for my husband's birthday
+   (ID: Sunshine_2425)
+
+10. here’s my latest hat fresh off the needles!
+   (ID: scrumperumper)
+
+11. my first socks i can't wait to make more
+   (ID: zonumnire)
+
+12. i have more expensive pens but i don't have nicer ones.
+   (ID: mattsulli)
+
+13. mixed my 17g tank water with betta water and put frank in his new home.
+   (ID: ijohno)
+
+14. i only just found r/breadit.
+   (ID: Rosiebelleann)
+
+15. now i just need i make 3 more.
+   (ID: ddizzle23)
+
+16. wip the start to my roseanne inspired blanket.
+   (ID: Steven1027)
+
+17. i made a pudgy unicorn
+   (ID: FoxInKneeSocks)
+
+18. been busy creating recipes for the food truck i am starting.
+   (ID: ReturnOfTheFox)
+
+19. my final finished object for this week is a brown bear.
+   (ID: Moriarty58)
+
+20. mittens are one my favorite things to make!
+   (ID: Novel_Fox)
+
+
+--- MSC ---
+Total from this dataset: 756
+
+1. I have little facial hair.
+   (ID: dialog_138_speaker_1)
+
+2. I am better at listening than discussing.
+   (ID: dialog_54_speaker_2)
+
+3. I'm bound to a wheelchair.
+   (ID: dialog_32_speaker_2)
+
+4. I build my own furniture. I believe DIY saves money.
+   (ID: dialog_176_speaker_1)
+
+5. My name is Angela. My nicknmae is bubblegum since I always chew gum.
+   (ID: dialog_91_speaker_1)
+
+6. I have brown eyes and brown hair.
+   (ID: dialog_97_speaker_1)
+
+7. I cannot play music.
+   (ID: dialog_80_speaker_1)
+
+8. I cook a lot.
+   (ID: dialog_141_speaker_2)
+
+9. My name is Nancy.
+   (ID: dialog_108_speaker_1)
+
+10. I am afraid of heighs.
+   (ID: dialog_67_speaker_1)
+
+11. My younger brother plays cod.
+   (ID: dialog_67_speaker_2)
+
+12. My name is Gary
+   (ID: dialog_15_speaker_2)
+
+13. I am a vegan.
+   (ID: dialog_86_speaker_1)
+
+14. I'm selfish.
+   (ID: dialog_1_speaker_1)
+
+15. I met a vampire in a cave during halloween last year.
+   (ID: dialog_58_speaker_1)
+
+16. I don't eat sugar.
+   (ID: dialog_71_speaker_1)
+
+17. I am a forgetful person
+   (ID: dialog_37_speaker_2)
+
+18. I believe in love.
+   (ID: dialog_165_speaker_2)
+
+19. I like to help out in the community.
+   (ID: dialog_20_speaker_2)
+
+20. I'm a vegetarian.
+   (ID: dialog_65_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 26720
+
+1. i love how reddit upvotes shit like this while having 15 tabs of porn open
+   (ID: BoonTobias)
+
+2. i ca n't imagine how it could get any blacker than it already is
+   (ID: trav110)
+
+3. i wanna hug you now .
+   (ID: Sarahthelizard)
+
+4. i 'm very confused .
+   (ID: ifatree)
+
+5. i mean ... it 's happening .
+   (ID: trav110)
+
+6. i just checked .
+   (ID: NaBacLeis)
+
+7. i wonder if this is why some people do n’t like reading
+   (ID: lovestheautumn)
+
+8. i love the attempt at doing the splits .
+   (ID: Bathysphere710)
+
+9. i felt the pain in this post .
+   (ID: serverpilot)
+
+10. i love that thing brie does with her eyebrows .
+   (ID: aydinsevimli)
+
+11. i was thinking of drowning
+   (ID: msiekkinen)
+
+12. i 'd still yell though .
+   (ID: parkleswife)
+
+13. i was expecting a live snake .
+   (ID: apcreddit)
+
+14. i am not worthy
+   (ID: nileous)
+
+15. i got more angry when the service guy squaked the tires in my amg with 3000 km on it .
+   (ID: JaZepi)
+
+16. i wish i had read this last week , thank you so much .
+   (ID: dohko_xar)
+
+17. i ca nt remember the last time he was funny .
+   (ID: BlueSuedeBag)
+
+18. i can go back to not checking obsessively .
+   (ID: Samoht2113)
+
+19. i 'll try and watch out for this hehehe xd
+   (ID: leo9g)
+
+20. i 've seen cars bottom out on them .
+   (ID: sillylionface)
+
+
+--- PER-CHAT ---
+Total from this dataset: 14319
+
+1. i dont know as far as saying that cops would just let clean cut white kids go . drive through the ghetto of anywhere in my case chicago you clearly plainly see black people walking down the sidewalk smoking blunts standing on the corner of the street asking random people if they want to buy weed hanging out at gas stations asking random people if they want weed driving around with skunky smelling smoke billowing out of the windows . i think black peoples problem isnt completely racial profiling tho i do think it has alot to do with it but the fact that they arent nearly as sneaky when they break the law
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+2. the amount of shit liberty gives about older fans . if you really were an " older fan " you would remember bridgestone used this exact same system with a " soft " and " hard " tyre and it worked perfectly fine , and before that you wouldn ' t have a clue what the competing tyre companies brought to a race .
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+3. agree as it doesn ' t impact their work .
+   (ID: 9f31985e70e208f2dc692e2c378f1707cedd3bc9)
+
+4. you know what i say to those people ? i say " oh yeah ? well if you ' re so fuckin ' smart then you go build a pyramid . anytime ' s just fine , asshole , i ' ll wait "
+   (ID: ac8a82591082c2300a109b982be874d6d61d6cba)
+
+5. i ' m pretty sure most if not all past duping glitches have been patched . i did try a few of them that i could find throwing weapon , using stash both been patched .
+   (ID: 837b9a4e21703cdb7da723a44b91b0582031c386)
+
+6. it ' s sad how robotic we ' ve become .
+   (ID: f9d66cb7c29781b64b81947ff0e36c01dd0aa973)
+
+7. i was on overwatch , and i entered a game as any would . pissed off , toxic , and willing to throw a match at any costs . mostly because when i lose a game , i get a little too harsh on myself because i have high functioning autism . so when i lose a game , my reactions to teammates is like tyler1 on steroids . anyways , the queue ended came across a team that was running bastion , torb , sym pre rework , roadhog , and sombra . i thought we had lost the game , so i just went on team chat , and as usual , picked my main , genji . as soon as i joined , these people were so pissed off at each other , this two stack was fighting over what seemed to be their irl relationship , i assume this because they were talking about divorce and other personal stuff , and the three stack were a bunch of trolls . i tried to diffuse everyone so they can try their best without any negative thoughts clouding their mind . the couple wouldn ' t listen till they stopped screaming at each other , and the three trolls were , well , trolls . mid round , the trolls were picking on me specifically , calling me retarded , a failed abortion , and an autist . i muted them and quietly cried for the rest of the game , not really trying , because why try if people are gonna not only make my gameplay experience crap , but make me feel like crap . the enemy team ended up winning the first round . but through all of that , i unmuted my mic and suddenly , my team got serious . my team still analyzed their composition , and we won the second round . the trolls , who were throwing , are now playing seriously , and i started to make friends with one of the trolls as we talked in competitive . and the couple are now giggling and playing around , but still playing seriously . i never thought it would happen , but by just winning a round , we were able to diffuse a toxic team , and create a positive atmosphere in competitive . in the next round we ran dive and won the round in roughly digit and a half minutes . the team was ecstatic , we are digit min in , and the enemy team takes the 4th round , but surprisingly , my team isn ' t angry . then they got serious , we quicky coordinated a plan with each other and formed a dive comp with a bastion instead of genji . and we rolled them hard . then we played the same comp and won defense . we all were upsetting and popping off , and everyone was happy , the complete opposite of what happened in the beginning of the game . and with that game , i got a great friendship with one of the trolls that lasted now over a year , and will continue to grow , not because of blizzard ' s community as a whole , but the gaming community working together past their outside problems to work on a single objective , and that was to win . and by god , did we win . both in game , and out of the game
+   (ID: 0217046a1ad9b1e567109f7f7a4bb8b9f4b4fc05)
+
+8. never know what country around the world can do to do destruction the worst can be like a bomb full of ebola
+   (ID: 3cd6cbd0ced9eeece859e4e31c6ae046d9711c59)
+
+9. it  s probably best that you  re digit  sure which country cork is in before you do anything else .
+   (ID: ed9fd9ff218602605c7fbdf8f02f658604680c61)
+
+10. i ' ll bet you anything that they don ' t do twitchcon with this patch . if for none of the major flaws it will be because the extra character models in the zombies make the game super laggy . i ' ve been watching some streamers doing scrims tonight and that ' s their biggest complaint
+   (ID: b30983a02e6c6ad80a50a521eee441b9f454a5e9)
+
+11. what film is this ? it is so familiar to me but i can ' t remember .
+   (ID: 240d1415f521eebd4f0b74c693880dae8455a2e5)
+
+12. unfortunately that ' s just the way things are in the country i live in . i would not be surprised if that manager had to suck someone else off to get to where he is today
+   (ID: d03d1ad154435125e19860973a5b0df5434be0e5)
+
+13. i woke up today to the sun shining bright as fuck right on my face and instead of getting annoyed like i normally would have , i thought  today  s going to be a beautiful day  . my next thought was wtf did i just say ? lol . it  s a great feeling after years or depending on something to truly be free from it . it truly owns your life . keep your head up and your nose clean !
+   (ID: 541b4cbc0fbf09faead4d7954b3a984391890627)
+
+14. the human body is an amazing thing , it ' ll tell you if you ' re lacking , if you get thirsty then drink it , if you don ' t feel thirsty don ' t go drinking digit liters a day just because some long held belief says so . next time you ' re having a checkup with your general practitioner hit them but but im certain they ' ll just tell you to drink an amount that feels right to you .
+   (ID: b489bebca81ea07c422e4a78e54cd162edf2a814)
+
+15. be gentle . lube is your friend . use contraception . listen to her . foreplay ! most importantly  porn is not sex . sex is awkward , your first time especially . don ' t panic too much , as long as you love each other and are doing it because you both want to , it will be fine . make sure you ' re each ok with what the other is doing , remember you can set your own boundaries as well ! good luck my friend
+   (ID: c1af2a10f968ba6f52d825dbf8fc9b8210db72ba)
+
+16. i ' m usefull for you fucking bacon eating bitch ! if i don ' t eat it there is more for you .
+   (ID: 10d0b3cd3f9e3f2b4c3fd6c4c8bae3ba7917a344)
+
+17. well you can see if you items are still in your stash . you can add another option so it works that way . but you can also do it manually just gab you items and then " rightclick the courier icon to send it back to the first person " many people don ' t know you can do that dx
+   (ID: 417f107ec53971c82b0d9bb8ee79067ec512bdbb)
+
+18. i can only assume one of them bend over into the others lap . how easy or comfortable that could be is another question in which i do not have the answers for .
+   (ID: 0ff9b93da34f69dc075bf7e22366843c393b5bdd)
+
+19. living in the area we all know just how bad br can be at times . whether it  s the traffic , poor drainage , failing school system , old infrastructure , or a lack of entertainment , it  s just not something i want to be reminded of on a daily basis . i get wanting to be made aware of the issues but it seems like the same issues have been around br for ever with no sense of improvement in sight .
+   (ID: 9284af9896fed617d56596c55fb3ff4e8a4c8dde)
+
+20. i do read comics , just not the marvel ones       i ' m open to new stuff though . i just don ' t really know how to get into it .
+   (ID: bb403667518ffc82f0508e3aee8741ea63cec050)
+
+
+--- PersonaChat ---
+Total from this dataset: 413
+
+1. i've perfect pitch .
+   (ID: conversation_181)
+
+2. my number is 42 .
+   (ID: conversation_62)
+
+3. i've male pattern baldness .
+   (ID: conversation_138)
+
+4. my left knee is filled with metal .
+   (ID: conversation_450)
+
+5. i have three tattoos .
+   (ID: conversation_90)
+
+6. i'm a vegan .
+   (ID: conversation_281)
+
+7. i blame myself for all of my problems .
+   (ID: conversation_197)
+
+8. i don t like the song sweet home alabama .
+   (ID: conversation_221)
+
+9. i never learned how to write .
+   (ID: conversation_34)
+
+10. i am bisexual .
+   (ID: conversation_159)
+
+11. my name is kevin .
+   (ID: conversation_230)
+
+12. i don't eat bread .
+   (ID: conversation_322)
+
+13. i am a lumberjack .
+   (ID: conversation_51)
+
+14. i'm a civil war reenactment participant .
+   (ID: conversation_280)
+
+15. my dreams are often bizarre .
+   (ID: conversation_295)
+
+16. i've a rose tattooed on my right ankle .
+   (ID: conversation_396)
+
+17. as a child , i won a national spelling bee .
+   (ID: conversation_181)
+
+18. i love helping people .
+   (ID: conversation_303)
+
+19. i have very curly hair .
+   (ID: conversation_461)
+
+20. i'm a night owl .
+   (ID: conversation_412)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 815
+
+1. Regular life disappoints me.
+   (ID: conversation_360_user_2)
+
+2. My newly bought laptop has a bum battery.
+   (ID: conversation_403_user_2)
+
+3. I prefer iphone over samsung.
+   (ID: conversation_417_user_2)
+
+4. I have a friend group , but i do not like any of them.
+   (ID: conversation_127_user_2)
+
+5. I have three tattoos.
+   (ID: conversation_240_user_2)
+
+6. I hate skiing.
+   (ID: conversation_114_user_2)
+
+7. I am trying to open my own teaching program for horse racing.
+   (ID: conversation_248_user_2)
+
+8. I am still in love with my ex boyfriend.
+   (ID: conversation_399_user_2)
+
+9. I use to be a huge superman fan as a child.
+   (ID: conversation_468_user_2)
+
+10. I married my high school sweetheart.
+   (ID: conversation_344_user_1)
+
+11. I go to at least 10 concerts a year.
+   (ID: conversation_309_user_1)
+
+12. I am an omnivore.
+   (ID: conversation_484_user_2)
+
+13. I am a vegan.
+   (ID: conversation_484_user_1)
+
+14. I once lived in a storage locker for two months.
+   (ID: conversation_375_user_2)
+
+15. I m a lesbian.
+   (ID: conversation_134_user_1)
+
+16. I hate wearing make up.
+   (ID: conversation_432_user_2)
+
+17. I ve broken my arm twice.
+   (ID: conversation_223_user_1)
+
+18. I am a meat eater.
+   (ID: conversation_117_user_2)
+
+19. I have blonde hair that reaches my knees.
+   (ID: conversation_79_user_2)
+
+20. I look down on people who did not.
+   (ID: conversation_182_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 2458
+
+Dataset distribution in this cluster:
+  FoCus: 33 (1.3%)
+  MPChat: 119 (4.8%)
+  MSC: 56 (2.3%)
+  PEC: 1433 (58.3%)
+  PER-CHAT: 758 (30.8%)
+  PersonaChat: 24 (1.0%)
+  SyntheticPersonaChat: 35 (1.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 33
+
+1. I like history.
+   (ID: HO5IT5J1RXE4_11)
+
+2. I like to hear a lot about doombar.
+   (ID: DAT5H5H80JCW_7)
+
+3. I like history.
+   (ID: MRD9ZG9O57GA_11)
+
+4. My favourite band is The Beatles.
+   (ID: UHZ1K434LZ46_11)
+
+5. I like history.
+   (ID: NOJ4G30KI3T7_11)
+
+6. I prefer looking inside the well-known building to just exterior of the building.
+   (ID: XW6WLBIV74VV_11)
+
+7. I like history.
+   (ID: EDLPKHWH3K5B_11)
+
+8. I like history.
+   (ID: BVS6H6G1BVW6_11)
+
+9. I like to research about historic buildings.
+   (ID: H6GTJFTZ8LJI_11)
+
+10. I like history.
+   (ID: BY611XJQ5BVM_11)
+
+11. I have an interest in the historic industry in England.
+   (ID: CH4FIE1LU3RG_11)
+
+12. I writing a paper on PJ Krouse.
+   (ID: AGVUC45C9W9X_7)
+
+13. I like historic stuff.
+   (ID: DAZUOQ6PPGPD_9)
+
+14. I am a fan of Kevin Costner.
+   (ID: PK2U426B57KL_9)
+
+15. I hate Lord Dudley.
+   (ID: 72MY00U8UEGB_11)
+
+16. I am fond of the Byzantine Revival style.
+   (ID: 81HQ6CXFBQYH_11)
+
+17. I like history.
+   (ID: O5F8MAFDNJB4_11)
+
+18. I like to research about historic buildings.
+   (ID: ADLF9YCC3J49_11)
+
+19. I am a fan of architecture.
+   (ID: VHZMEJDEHGGQ_11)
+
+20. I am fond of the Herrerian architecture.
+   (ID: QEDR6NULRI9U_7)
+
+
+--- MPChat ---
+Total from this dataset: 119
+
+1. after more than a year, it is finally done i thought i would share with my brochet brothers first
+   (ID: XandXor)
+
+2. this bro was having a swell time on my door
+   (ID: xxHikari)
+
+3. i've just entered him in a contest.
+   (ID: theringbeller)
+
+4. gizmo trying to steal the food out of my mouth like the little gremlin he is
+   (ID: kentobean123)
+
+5. free handed a basket to feel like i accomplished something.
+   (ID: smsikking)
+
+6. just made this cake for my nephew.
+   (ID: castaneda2912)
+
+7. i originally shared this with r/flamingo, but i thought you might appreciate it as well.
+   (ID: VisitingCivet)
+
+8. my professor's cat just had laser therapy.
+   (ID: Caserole)
+
+9. my precious perry the platycorgi
+   (ID: kentobean123)
+
+10. my dad just emailed me this...
+   (ID: Sophie74656)
+
+11. as someone who just switched over from saltwater, i still find great joy in landing these fish.
+   (ID: GoodBull1748)
+
+12. i thought the almost 2lb burger would be the challenging part.
+   (ID: MonstaEatsItAll)
+
+13. i just started my first real barista job a month ago and i love practicing latte art.
+   (ID: batman1227)
+
+14. i just love the rich color of thai tea
+   (ID: gxnelson)
+
+15. today, he's my little superhero!
+   (ID: BananaStand07)
+
+16. i named him tommy.
+   (ID: Louiesloops)
+
+17. i shall name him ... jeff!
+   (ID: mle12189)
+
+18. i really didn't feel like baking three days ago so i stuck the dough in the fridge.
+   (ID: mattsulli)
+
+19. made and eggplant since my gf thought it was funny
+   (ID: MontyManta)
+
+20. thought i'd try making some flammkuchen today
+   (ID: mattsulli)
+
+
+--- MSC ---
+Total from this dataset: 56
+
+1. My father is a book writer and he just wrote a sci fiction book on time travel.
+   (ID: dialog_38_speaker_2)
+
+2. My boyfriend is learning acting.  My boyfriend works during the week.
+   (ID: dialog_87_speaker_1)
+
+3. I miss the show The Walking Dead. I like Marvel movies and shows.
+   (ID: dialog_15_speaker_2)
+
+4. I like mystery books.
+   (ID: dialog_17_speaker_1)
+
+5. I collect autographs. I have over 15 million autographs.
+   (ID: dialog_48_speaker_1)
+
+6. I like Steven King. I love Halloween.
+   (ID: dialog_5_speaker_1)
+
+7. I have a boyfriend.
+   (ID: dialog_87_speaker_1)
+
+8. I watched The Walking Dead.
+   (ID: dialog_93_speaker_2)
+
+9. I joined a reading group.
+   (ID: dialog_49_speaker_2)
+
+10. My favorite novel is about a who realizes he's a commander.
+   (ID: dialog_11_speaker_1)
+
+11. I collect a lot of sports memorabilia.
+   (ID: dialog_48_speaker_1)
+
+12. I don't collect comic books. I like Green Lantern comics.
+   (ID: dialog_48_speaker_2)
+
+13. I like mystery novels.
+   (ID: dialog_5_speaker_2)
+
+14. I work at a comic book store. I like Batman, Superman, and Spiderman comic books.
+   (ID: dialog_25_speaker_2)
+
+15. I love Sirius Black. I like Harry Potter. I saw the Order of Phoenix. I am going to see the Goblet of Fire. I'm going to read the books after I have finished the movies.
+   (ID: dialog_48_speaker_2)
+
+16. My favorite movie is Silence of the Lambs. I love comedy movies. I like new movies.
+   (ID: dialog_15_speaker_1)
+
+17. I have a car. I have a boyfriend. My boyfriend is learning acting.
+   (ID: dialog_87_speaker_1)
+
+18. I just started playing Valheim. My friend from the army introduced me to the game Valheim.
+   (ID: dialog_35_speaker_1)
+
+19. I ate anything I saw before, I just eat things from roots these days.
+   (ID: dialog_86_speaker_1)
+
+20. I collect comic book, autographs.
+   (ID: dialog_48_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1433
+
+1. i do n’t know what it is about him , but i just go crazy for him .
+   (ID: hussy_trash)
+
+2. i just told him you said that .
+   (ID: glowinthedark)
+
+3. i just tell the door entrance person i just want to buy popcorn .
+   (ID: VanGoJourney)
+
+4. i get sam harris updates on google now .
+   (ID: SamuelStephenBono)
+
+5. i immediately thought of benny hill when i saw the video !
+   (ID: Mende)
+
+6. i literally just saw an ad for ctv on bell mobile devices ....
+   (ID: mylescloutier)
+
+7. i preferred his videos he did for razer music with steve duda .
+   (ID: glowinthedark)
+
+8. i thought she would freak out but she said it was big of me !
+   (ID: ifatree)
+
+9. i feel like he 's got ta be sitting there playing like ... learn a real fuckin instrument
+   (ID: Kellen1337)
+
+10. i feel terrible for spicey , that guy did n't know what he was getting into .
+   (ID: HugePurpleNipples)
+
+11. i 'd say he 's in for the surprise .
+   (ID: metalbark)
+
+12. i am not the kind of person who can just go out and do something just for me .
+   (ID: 11_29_77)
+
+13. i ’ve tried amazon sword and vallisneria and i just ca n’t keep them alive .
+   (ID: FruitBatFanatic)
+
+14. i considered buying another x pure but the screen while amazing was just too large for my hands .
+   (ID: apnudd)
+
+15. i just light a candle and put it in the window .
+   (ID: nastylittleman)
+
+16. i just figured god hated smoking
+   (ID: John7oliver)
+
+17. i feel like weed robbed years of my life .
+   (ID: mathieu2em)
+
+18. i would think he would just go into a coma ...
+   (ID: SYDWAD)
+
+19. i do feel so much better mentally when i ’m active .
+   (ID: 11_29_77)
+
+20. i 've never thought of it like that .
+   (ID: SeasonedLemur)
+
+
+--- PER-CHAT ---
+Total from this dataset: 758
+
+1. just because you can , that doesn ' t mean you should .
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+2. i  m a dude so technically you haven  t . also i know what mansplaining is . also how the hell did autocorrect know that , but i thought feminists thought all men  mansplained
+   (ID: ad911088c8434d08c7a96c969a57a09b00f02e99)
+
+3. i have the gamecube gameboy advance player somewhere , but i can ' t find it to save my life . if i could just find the disc , i could probably find the device itself on ebay pretty easily . i just miss the ability to play pokemon emerald on the big screen . maybe one day i ' ll get emerald on the switch . until then i ' ve got a modded mini snes , but it ' s just not the same !
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+4. sorry about your mum . sometimes i feel like i need to scream like that , but i don ' t have a legitimate reason .
+   (ID: 34de9309a5c02867b676757fa019c58a66bad300)
+
+5. but he ' s an addict and i believe he was molested by his mother as a kid . he has done some nice things for his kid . he always apologizes or at least does something to get on their goodside . and honestly i think he did the right thing by telling fiona that sean still used .
+   (ID: 5366d3e890f8a540d03733631ae8f32ef2335c31)
+
+6. buckle down and raise a son when i really wasn ' t ready to . i don ' t want to be a deadbeat dad , but sometimes i feel like it would be a hell of a lot easier than what i ' m going through now
+   (ID: 0804200f8083dc053afb8aa8f228fa4025950bd5)
+
+7. My entertainment is one piece.
+   (ID: a5976f282a96c036f5e4d14957305323c9a5776d)
+
+8. probably , but i use just basic settings profile , deinstall both ones and try win10 , just to see if anything happens ?
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+9. i thought everything was in a loop , you didn  t die , you just started over like everyone else .
+   (ID: c5e877ff3be5d3571f5fe899f55887a6f608ee98)
+
+10. why don ' t you trust yourself ? just get a parts list , post on  buildapc and  pcmasterrace for advice , and once everything looks good , build it . the only scary part about building is how much force you have to physically exert on the mobo at times to make the components slide into place  especially the ram , but everything else is just following instructions from the mobo manual .
+   (ID: 1dba5a99fe582b0f335d63ef3d25fee74ce4dd18)
+
+11. he seems like the type of guy who was bullied a lot in high school because he acted smarter than all the other kids .
+   (ID: ce0130e0736ec79181ef08a51b107514a8021d5c)
+
+12. sorta similar but i lost my dog a few years ago , honnestly he was a good boi the best and it took me a while to get over him , i felt that the thought of the rainbow bridge helped me get over it . if you haven  t heard of it it  s basically heaven for animals .
+   (ID: 77ab4860c32a7084ca81fd91302df6690ce56731)
+
+13. true at the time i didn ' t connect it , but afterwards i thought the same thing . he sort of just disappeared . the only other person i could think of being " the american " would be brenner , but i have my doubts about that .
+   (ID: 36314aee005a03517f2446ec0da2834fe0f712d6)
+
+14. ikr , all of these youtubers talking about tryhards are in a way tryhards themselves or just too weak to fight them
+   (ID: a443986595c715cd541cd3925619cb6f1e8ada83)
+
+15. no , if someone chooses to be a " loner " thats just how they function .
+   (ID: ba841e2486d1df5b5baefde5ead0636c7c03c79c)
+
+16. quality , man . you gotta see that cooch at 1080p without any pixelation . otherwise you feel like you are watching asian porn all the time .
+   (ID: 9a96ba583f43f670f5797ea5031052161bf613cf)
+
+17. yeah ! digit . cube inside a cube isn ' t a tesseract . digit . according to marvel , tesseract is a stone  object which converts random energy into usable energy without wasting any energy . but here this is just a cube which observing energy and just emitting the same energy which is stored inside the cube . digit . it implies that 4d object can fit inside a 3d object , which isn ' t possible , which makes the whole tesseract thing a flaw and eventually rest of marvel creations . digit . so i asked why can ' t marvel build a tesseract which was a mistake , my question should be as you mentioned why can ' t the the company marvel build something like an actual tesseract instead of some random cube . digit . they could have choose another name instead of a tesseract , which itself defines as 4d model . but i guess marvel can do better than just a glowing cube regarding what their story is completely based on . it ' s like iron man made out of plastic . correct me if i ' m wrong !
+   (ID: 498ec9e13eaa203d64a9b79260e2285867993564)
+
+18. sometimes you have to take care of number one , regardless of how others might feel . it  ll be a different story if he was actually trying to get help , you have no reason to feel like the bad guy .
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+19. when the situation gets too tough for everyone else , that ' s when it ' s just right for me  marv levy
+   (ID: 380598f491e44cdd92f2ec6105505f0f439372e2)
+
+20. i ' d probably ask him if he wants to get lunch with me or something nice
+   (ID: 009af0be6850d8d1ff9d388a3c7f39f0f7727594)
+
+
+--- PersonaChat ---
+Total from this dataset: 24
+
+1. i just bought new hoop earrings .
+   (ID: conversation_218)
+
+2. i thought of joining the military when i was younger .
+   (ID: conversation_113)
+
+3. when i've nothing else to do , i read books .
+   (ID: conversation_36)
+
+4. my favorite hero is superman .
+   (ID: conversation_119)
+
+5. my favorite player is mike trout .
+   (ID: conversation_103)
+
+6. i like the tv show the walking dead .
+   (ID: conversation_93)
+
+7. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+8. i just graduated from high school .
+   (ID: conversation_108)
+
+9. my wife just left me .
+   (ID: conversation_231)
+
+10. i collect comic books .
+   (ID: conversation_210)
+
+11. i only use apple products because i feel everything else is inferior .
+   (ID: conversation_69)
+
+12. my favorite singer is justin timberlike .
+   (ID: conversation_248)
+
+13. sometimes i listen to gary human to be ironic .
+   (ID: conversation_69)
+
+14. my husband is a soldier in the us army .
+   (ID: conversation_40)
+
+15. i just accepted a job at the elementary school in my hometown .
+   (ID: conversation_216)
+
+16. it is my universe , and everyone else is just a character in it .
+   (ID: conversation_106)
+
+17. and , my best friend is calden .
+   (ID: conversation_53)
+
+18. i just lost my job and i'm looking for something new .
+   (ID: conversation_159)
+
+19. i just graduated college .
+   (ID: conversation_48)
+
+20. i just graduated college with my bachelor s degree in education .
+   (ID: conversation_216)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 35
+
+1. I ve been rejected several times and thought of giving up with this.
+   (ID: conversation_35_user_2)
+
+2. I am in a very intimate and loving relationship.
+   (ID: conversation_124_user_1)
+
+3. My favorite artist is bob ross.
+   (ID: conversation_187_user_1)
+
+4. I have a crush on my co worker.
+   (ID: conversation_42_user_2)
+
+5. My favorite artist is 2pac.
+   (ID: conversation_185_user_2)
+
+6. I like the tv show the walking dead.
+   (ID: conversation_16_user_1)
+
+7. Sometimes i feel like i have already been through life once before.
+   (ID: conversation_144_user_2)
+
+8. I have one little boy named owen.
+   (ID: conversation_118_user_2)
+
+9. I just took a trip to london.
+   (ID: conversation_106_user_2)
+
+10. My idol is theirry henry.
+   (ID: conversation_73_user_2)
+
+11. I just bought new hoop earrings.
+   (ID: conversation_166_user_2)
+
+12. But , i feel lost and far away from who i truly am.
+   (ID: conversation_127_user_2)
+
+13. I have not been on a date since high school.
+   (ID: conversation_248_user_2)
+
+14. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+15. I won a beauty pageant one time but didn t feel like it was worth the effort.
+   (ID: conversation_217_user_2)
+
+16. Last season i was just getting started.
+   (ID: conversation_219_user_2)
+
+17. My husband is a soldier in the us army.
+   (ID: conversation_235_user_2)
+
+18. My favorite is rock fish.
+   (ID: conversation_157_user_1)
+
+19. I like the tv show the walking dead.
+   (ID: conversation_18_user_1)
+
+20. I like the tv show the walking dead.
+   (ID: conversation_17_user_1)
+
+
+============================================================

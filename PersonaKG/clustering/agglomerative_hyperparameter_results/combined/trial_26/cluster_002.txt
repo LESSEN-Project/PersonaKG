@@ -1,0 +1,455 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 1790
+
+Dataset distribution in this cluster:
+  FoCus: 16 (0.9%)
+  MPChat: 105 (5.9%)
+  MSC: 125 (7.0%)
+  PEC: 755 (42.2%)
+  PER-CHAT: 647 (36.1%)
+  PersonaChat: 50 (2.8%)
+  SyntheticPersonaChat: 92 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 16
+
+1. I enjoy sports events.
+   (ID: TF4SZWIWHJO4_11)
+
+2. I enjoy nature.
+   (ID: N3BKTMTKN6PG_11)
+
+3. I enjoy climbing.
+   (ID: CE0AK99XDA0R_9)
+
+4. I would enjoy living in Australia.
+   (ID: S7EFLIB5IQDV_11)
+
+5. I have not visited a zoo in a long time.
+   (ID: LFGIG1TODPKB_11)
+
+6. I enjoy exploring cemeteries.
+   (ID: MA2EPDC7QHS5_11)
+
+7. I don't enjoy rollercoaster rides.
+   (ID: PFYAAS1XG3D8_11)
+
+8. I enjoy winter.
+   (ID: CFYWBHPKPOHZ_7)
+
+9. I enjoy learning about history.
+   (ID: UXR4EKSRCULN_11)
+
+10. I enjoy gardening.
+   (ID: UHZ1K434LZ46_11)
+
+11. I enjoy shopping at the store.
+   (ID: NR67D1SY5ZKB_11)
+
+12. I enjoy fishing.
+   (ID: BY611XJQ5BVM_11)
+
+13. I enjoy walking on trails.
+   (ID: X3WVWF5IVCYD_11)
+
+14. I would like to enjoy matches in flood lighting.
+   (ID: VZ1O6OE23O98_11)
+
+15. I like enjoy learning history.
+   (ID: AGVUC45C9W9X_7)
+
+16. I am worried about any inappropriate use of natural resources.
+   (ID: 91IHZ45NQ48A_11)
+
+
+--- MPChat ---
+Total from this dataset: 105
+
+1. this bro was having a swell time on my door
+   (ID: xxHikari)
+
+2. the cardigan i made.i wanted it to be cheerful and use leftover yarn as well
+   (ID: letsallcrochetYT)
+
+3. i tried for the first time castella pancake.
+   (ID: justcook_byangel)
+
+4. i made for the first time vanilla soufflé
+   (ID: justcook_byangel)
+
+5. i think we can all agree that like 90% of crocheting is actually shopping and hoarding pretty yarn
+   (ID: Lookingforearrings2)
+
+6. another project done, just as i got a new commission.
+   (ID: smsikking)
+
+7. i took care of my buddy's dachshunds this weekend and got this shot.
+   (ID: evantide)
+
+8. my memorial day meat kit from wild fork foods made it in time .
+   (ID: MonstaEatsItAll)
+
+9. went to the krishna temple in utah to eat and i got to feed the llamas
+   (ID: kentobean123)
+
+10. yes, this is a yarn, but i don't have any clue of how to use it.
+   (ID: Ploliveira)
+
+11. everyone's got a different name for it, but i call them "everything bars."
+   (ID: fredbutt)
+
+12. cardigan i made.i wanted it to be cheerful and wanted to use leftover yarn
+   (ID: letsallcrochetYT)
+
+13. big fan of great british bake off, i got inspired from the first episode.
+   (ID: justcook_byangel)
+
+14. first time camping and i got to see this before we set up.
+   (ID: crunch816)
+
+15. i don't always wash my hands, but when i do it's to use this
+   (ID: crunch816)
+
+16. got my yarn today for a special christmas gift.
+   (ID: Sophie74656)
+
+17. i got 2 fortune cookies in one package
+   (ID: evantide)
+
+18. stayed up later than i meant to but got the body done.
+   (ID: Sophie74656)
+
+19. i made for the first time vanilla souffle
+   (ID: justcook_byangel)
+
+20. this is my second time trying bagels.
+   (ID: Novel_Fox)
+
+
+--- MSC ---
+Total from this dataset: 125
+
+1. I am a full-time student.
+   (ID: dialog_87_speaker_2)
+
+2. I enjoy moving my body.
+   (ID: dialog_40_speaker_1)
+
+3. On evenings and weekends I enjoy televised sports and cartoons.
+   (ID: dialog_71_speaker_1)
+
+4. I have 4 siblings: brothers and sisters. My brother got engaged and plans to marry next year.
+   (ID: dialog_42_speaker_1)
+
+5. Television viewing occupies most of my time.
+   (ID: dialog_18_speaker_2)
+
+6. I enjoy pop music.
+   (ID: dialog_26_speaker_2)
+
+7. I enjoy baking.
+   (ID: dialog_60_speaker_1)
+
+8. I enjoy spending time with my small  family. My family is in my hometown, but I live in the city. I am from a very small town with 500 people. I like peace and quiet.
+   (ID: dialog_2_speaker_2)
+
+9. I enjoy playing video games
+   (ID: dialog_46_speaker_1)
+
+10. I work as a roofer. I like my job. I am not replacing roofs right now because of the cold but it gives me time to enjoy sports.
+   (ID: dialog_47_speaker_1)
+
+11. I just got a divorce.
+   (ID: dialog_21_speaker_2)
+
+12. I enjoy her company.
+   (ID: dialog_64_speaker_1)
+
+13. My job is proofreading for Hallmark. I love my job. I enjoy reading. I building a nice little library.
+   (ID: dialog_9_speaker_1)
+
+14. I enjoy computers and phones.
+   (ID: dialog_1_speaker_1)
+
+15. I would enjoy having a dip in the pool.
+   (ID: dialog_55_speaker_2)
+
+16. I got married last year.
+   (ID: dialog_14_speaker_2)
+
+17. Television viewing occupies most of my time.
+   (ID: dialog_33_speaker_2)
+
+18. I watch GOT.
+   (ID: dialog_66_speaker_2)
+
+19. I enjoy a few brews by the river.
+   (ID: dialog_82_speaker_1)
+
+20. I am a fisherman. I use worms and minnow for bait.
+   (ID: dialog_82_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 755
+
+1. i totally agree , i 'm just saying to give people some slack !
+   (ID: buttercup_mauler)
+
+2. i think we just got put in our place
+   (ID: Bob_Majerle)
+
+3. i agree with you .
+   (ID: Nick84572)
+
+4. i use an ipad .
+   (ID: PepperPixie09)
+
+5. i like this shot , but do n't know if i got everything out of it .
+   (ID: zsnajorrah)
+
+6. i went for a while without one but it got stressful and it eventually seemed worth it
+   (ID: Captain_-H)
+
+7. i have never been so excited to be a wwe fan in a long time .
+   (ID: aydinsevimli)
+
+8. i enjoy more playing a game than wining money
+   (ID: xcombelle)
+
+9. i personally enjoy the mental image of a man running around with 160 throwing knives on his person .
+   (ID: CuriousBlueAbra)
+
+10. i am 32 , and just got so jealous of that kids swinging ability .
+   (ID: genpell)
+
+11. i got a dancing skeleton gif !
+   (ID: ChoppingOnionsForYou)
+
+12. i bet she got upset about the wedding and searched about wtf is mike 's deal .
+   (ID: Nheea)
+
+13. i ’ve now got a lot of love in my heart for you and your dad .
+   (ID: doctor_parcival)
+
+14. i just went to the pub and got wankered
+   (ID: RelaxedSociety)
+
+15. i got a malware detection when i clicked on the site .. ?
+   (ID: AgedTwenties)
+
+16. i know what they mean , but i do not agree that this was the right choice .
+   (ID: shortgiraffe9000)
+
+17. i miss you all the time .
+   (ID: boyofthechapter)
+
+18. i ’m married - can i stay there part time when i ’m in the dog house ?
+   (ID: ExcessiveAggro)
+
+19. i got sucked into a thread , forgot where i was for a second
+   (ID: iam1r7)
+
+20. i got my first motorcycle !
+   (ID: mmaswadeh)
+
+
+--- PER-CHAT ---
+Total from this dataset: 647
+
+1. i guess because i pick up most the concepts fairly quickly i enjoy the feeling of solving something that others can  t
+   (ID: 10f3c4c68efa9cd11f34f4a88f492c7d7e693418)
+
+2. i agree . i originally misread the intention of this post and upvoted it . rescinded that upvote when i understood the intention . granted , i ' m only an occasional watcher of episodes post  season digit , so i don ' t know anything about the lisa stories the user who replied to you before me mentions .
+   (ID: b3ce8c3aa09031bfd6d4fa7836489539a481a3f4)
+
+3. thats not a bad idea actually . however i will be outside so i might not have the ability to use something like walls to hold anything . i ' m also using reds which are pretty heavy
+   (ID: 6fa64e2a9482c3b6f542e4f8f6ab0e5076d808e9)
+
+4. I enjoy boxing.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+5. I enjoy football.
+   (ID: e84ec39cf97c9609b6feb31cbaab5faf551f372d)
+
+6. i don ' t mean balance as in the character meta , but in the community sense . more people are on equal footing . and yeah i agree the prices are ridiculous but unfortunately i don ' t think it ' ll change to much . i wish they would do a system like injustice where you could buy most characters for the farmable currency , but some would be event based
+   (ID: 350ebf5f22b005c6fa011b8241361bb7184ec8d5)
+
+7. I enjoy wrestling.
+   (ID: 664b365f80ff1d51db95866fada8009f14d8e9b1)
+
+8. best one i ' ve heard in a while . thanks man will definitely use this one
+   (ID: e9d9b9400a09031a7e1021173867d784ebb9cf94)
+
+9. i ' m black . i use it on white folk when they ' re angry . i hard r them before they can do it to me . freaks them out .
+   (ID: 6735159236fd8a4634f1974d6eba7f027dbd1aa7)
+
+10. i actually had no idea . is it going to be worth having an sli setup again ? what games do you use it with ? and does the rtx function better with two cards ?
+   (ID: 1885b01dd0970230fea2a9c9ae9c4eaeaceb59a3)
+
+11. i can agree to that wording . my answer is still the same , it was perceived to be a  pagan practice  and like all other  pagan practices  was labelled an abomination . the very thought of paganism to early jewish societies was met with equal parts rage , equal parts disgust .
+   (ID: c637d1bdb57c374d26802ca6ff7ebf3084477147)
+
+12. nobody could ever profit from a nuclear war , seeing as how it would pretty much destroy every nations economy , cause mass starvation because of contaminatited food and crops , and possibly cause a nuclear winter . so , if nobody profits from it , its unlikely that anyone actually starts launching nukes . the whole point of nukes is to scare the opponent into submission . same thing with russia talking about how they could use ballistic missiles to disrupt yellowstone and destroy mainland usa  even if they did that , it would affect them just as much as the us and theyd lose just as much as theyd gain from doing it .
+   (ID: fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1)
+
+13. is it actually painful ? my ears have never hurt from it and i actually enjoy it . but you do you .
+   (ID: ba841e2486d1df5b5baefde5ead0636c7c03c79c)
+
+14. I enjoy baseball.
+   (ID: f296ca909e75f5e7a28f054f4937f3c6eccb6a56)
+
+15. amazon is calling this a " movie tie  in . it ' s not written after the film is it ? i got a novelisation of alien once , and it was awful . i loved the movie , under the skin .
+   (ID: 6f3d93754035383ba31c7eb4503265c62893fa84)
+
+16. i never thought about eating it . now you ' ve got me wondering . i bet they ' re delicious .
+   (ID: b85d09c5bfb3611a720f11287b9483cc0802908d)
+
+17. i would copy your original wallet . dat file and save it somewhere safe . also dump your private key and keep it somewhere as well . i assume that you can recover your wallet with the backup file , but i always use the original wallet . dat file . if someone else has said wallet . dat file then yes i believe they can access your funds so dont let it get in anyone elses hands i do not know anything regarding the passphrase and the extra security it may provide . there are how  tos on how to dump private key and access wallet . dat file if you need them
+   (ID: 6eb8259d7d6b7ae101dda44ceaaf3b9edaab4fad)
+
+18. me and my older brother use to share a room when we were younger and we had an elmo toy . so one night we both woke up and heard a little pitter patter on the floor so we looked over the side of our beds , luckily i had the top bunk , and we seen this little elmo toy running around laughing . so as any older brother would do , he ran into my parents room and left me just hiding under my covers . elmo is now somewhere in the loft still haunting my thoughts .
+   (ID: 6faff6ad4f2fa64f202b2b60f154aba162159b2f)
+
+19. I enjoy soccer.
+   (ID: 6573f6a8f26b8c23dc16d278f5c2c32e67af1e5b)
+
+20. yta . they do have to come out . would you like everyone assuming youre a homosexual ? its got to be harder to find a mate if you keep attracting the wrong side .
+   (ID: d8014467041b98317d9f1dec2b0dae4ff9405b91)
+
+
+--- PersonaChat ---
+Total from this dataset: 50
+
+1. i enjoy eating vegetarian food .
+   (ID: conversation_225)
+
+2. ke ha is my favorite singer of all time .
+   (ID: conversation_26)
+
+3. i like watching tv in my free time as well .
+   (ID: conversation_191)
+
+4. madonna is my all time favorite .
+   (ID: conversation_13)
+
+5. i enjoy working out and learning new things .
+   (ID: conversation_230)
+
+6. i enjoy reading .
+   (ID: conversation_155)
+
+7. i enjoy shopping .
+   (ID: conversation_71)
+
+8. i enjoy hanging out with my imaginary friends as a hobby .
+   (ID: conversation_184)
+
+9. i'm a full time mom .
+   (ID: conversation_248)
+
+10. i like to use a lot of exclamation marks when i type .
+   (ID: conversation_211)
+
+11. i enjoy dating women .
+   (ID: conversation_237)
+
+12. in my freetime i enjoy cloud watching .
+   (ID: conversation_204)
+
+13. i enjoy hiking and riding my bicycle .
+   (ID: conversation_164)
+
+14. i use third party programs to read portable documents instead of adobe .
+   (ID: conversation_174)
+
+15. i got married last year .
+   (ID: conversation_14)
+
+16. i spend too much time shopping .
+   (ID: conversation_123)
+
+17. i especially enjoy listening to the band the mutineers .
+   (ID: conversation_163)
+
+18. i enjoy horseback riding .
+   (ID: conversation_248)
+
+19. i went to a community college and got a degree in communication .
+   (ID: conversation_153)
+
+20. i like to donate time at the local animal shelter .
+   (ID: conversation_19)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 92
+
+1. I got married last year.
+   (ID: conversation_176_user_2)
+
+2. I enjoy walking around the park.
+   (ID: conversation_21_user_2)
+
+3. I enjoy jazz music.
+   (ID: conversation_163_user_2)
+
+4. I got a new job.
+   (ID: conversation_113_user_1)
+
+5. I enjoy reading.
+   (ID: conversation_170_user_2)
+
+6. I enjoy reading.
+   (ID: conversation_182_user_1)
+
+7. I got a new job.
+   (ID: conversation_110_user_1)
+
+8. I enjoy eating italian food.
+   (ID: conversation_161_user_2)
+
+9. I enjoy playing guitar and video games.
+   (ID: conversation_124_user_1)
+
+10. I enjoy watching mystery movies.
+   (ID: conversation_36_user_2)
+
+11. I enjoy reading.
+   (ID: conversation_92_user_2)
+
+12. I enjoy working out and learning new things.
+   (ID: conversation_121_user_2)
+
+13. I enjoy magic the gathering , it is a card game.
+   (ID: conversation_46_user_2)
+
+14. I enjoy budweiser beer.
+   (ID: conversation_178_user_2)
+
+15. I use a cane to help me get around.
+   (ID: conversation_27_user_1)
+
+16. I enjoy hiking.
+   (ID: conversation_187_user_1)
+
+17. I enjoy swimming.
+   (ID: conversation_110_user_2)
+
+18. I got a new job.
+   (ID: conversation_112_user_1)
+
+19. I enjoy walking on the beach.
+   (ID: conversation_39_user_1)
+
+20. I use a cane to help me get around.
+   (ID: conversation_26_user_1)
+
+
+============================================================

@@ -1,0 +1,163 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 289
+
+Dataset distribution in this cluster:
+  MSC: 7 (2.4%)
+  PEC: 6 (2.1%)
+  PER-CHAT: 267 (92.4%)
+  PersonaChat: 4 (1.4%)
+  SyntheticPersonaChat: 5 (1.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 7
+
+1. I'm a female in my 30s.
+   (ID: dialog_152_speaker_2)
+
+2. I am a female.
+   (ID: dialog_108_speaker_1)
+
+3. I'm female.
+   (ID: dialog_108_speaker_1)
+
+4. I have a female child.
+   (ID: dialog_162_speaker_1)
+
+5. Jasper is an indoor female cat.
+   (ID: dialog_151_speaker_2)
+
+6. I've a female child.
+   (ID: dialog_129_speaker_2)
+
+7. My name is Jessica. I have an indoor female cat named Jasper.
+   (ID: dialog_151_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i 'm a female so i would like to get a female fit one .
+   (ID: travelingkiwi)
+
+2. i always choose the female character because i like being catty with the other female characters .
+   (ID: BrianV91)
+
+3. i work in an all female company , and it ’s great .
+   (ID: bugaloo2u2)
+
+4. i 'm female , and most of my characters in world of warcraft are female too .
+   (ID: Sabiola)
+
+5. i just made female sims instead :( sorry
+   (ID: underneathstars)
+
+6. i 've heard the same about female reproductive parts as well !
+   (ID: ifatree)
+
+
+--- PER-CHAT ---
+Total from this dataset: 267
+
+1. I am a female.
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
+
+2. I am a female.
+   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
+
+3. I am a female.
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+4. I am a female.
+   (ID: 80bb9445ee518d7503eeef1b2c418d38a6e936e9)
+
+5. I am a female.
+   (ID: 2904e4959568457dd43970d8388e42064d7c7d34)
+
+6. I am a female.
+   (ID: b386bb7f54bebf7edfe66a27e8d881a61bd1d6df)
+
+7. I am a female.
+   (ID: bef3bdf131cc9dbe9d33343a3b9988680236cf9d)
+
+8. I am a female.
+   (ID: 618e7c681a628e6c6c5521926bf4d17deb5ed5d6)
+
+9. I am a female.
+   (ID: e6359b877efa1250fe2c10f65ddfd7cb1bef1a9e)
+
+10. I am a female.
+   (ID: 7911b1d92de80b0e1abd4e2a29e4f762a8a2908f)
+
+11. I am a female.
+   (ID: 2cb4aa2e032749d7dca2c2ab5fbd17d2ba53bb10)
+
+12. I am a female.
+   (ID: 56b0fa955cab3b71ba6368e8c4ad684a45da92dd)
+
+13. I am a female.
+   (ID: 821feb57a838ce1b3e5f4aeb9b8e118113a7b57c)
+
+14. I am a female.
+   (ID: 61cecb8714e90365638145aa099b1fb86718270f)
+
+15. I am a female.
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+16. I am a female.
+   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+
+17. I am a female.
+   (ID: 765135d22ccec6feceb4fa47636d721a4530a57c)
+
+18. I am a female.
+   (ID: b6c3e540255084641f0e148a3992d9113c560f0b)
+
+19. I am a female.
+   (ID: d1e274dbfcf8ed1af55bb50c57e00046b961b6fd)
+
+20. I am a female.
+   (ID: b4052c69cfd7bf0df0101b2dcc97fc007ad28841)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i'm a female .
+   (ID: conversation_121)
+
+2. i am a female and love to be surrounded by males .
+   (ID: conversation_41)
+
+3. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_426)
+
+4. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I am a female.
+   (ID: conversation_360_user_1)
+
+2. I am a female.
+   (ID: conversation_361_user_1)
+
+3. I am a female.
+   (ID: conversation_363_user_1)
+
+4. I am a female.
+   (ID: conversation_362_user_1)
+
+5. I am a female and love to be surrounded by males.
+   (ID: conversation_399_user_2)
+
+
+============================================================

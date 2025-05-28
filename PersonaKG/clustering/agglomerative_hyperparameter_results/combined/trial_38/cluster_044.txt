@@ -1,0 +1,446 @@
+CLUSTER 44
+============================================================
+Total statements in cluster: 903
+
+Dataset distribution in this cluster:
+  FoCus: 13 (1.4%)
+  MPChat: 24 (2.7%)
+  MSC: 101 (11.2%)
+  PEC: 160 (17.7%)
+  PER-CHAT: 432 (47.8%)
+  PersonaChat: 62 (6.9%)
+  SyntheticPersonaChat: 111 (12.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 13
+
+1. I like cars.
+   (ID: PKTFMWPHB1E3_11)
+
+2. I love scenic highways.
+   (ID: KZB502IPAHTD_11)
+
+3. I love traveling by rail.
+   (ID: 82C5DC88Z9VL_11)
+
+4. I love to watch races.
+   (ID: PKTFMWPHB1E3_11)
+
+5. I like locomotives.
+   (ID: N1SMQLB7T5J7_11)
+
+6. I like trains.
+   (ID: CRWZDJUVM3WL_11)
+
+7. I like railways.
+   (ID: GABQG82ZVJCM_7)
+
+8. I hope to own a Mercedes-Benz.
+   (ID: YF9056CYZ5L2_11)
+
+9. I love travelling in narrow gauge trains.
+   (ID: CA1IZ57C8644_11)
+
+10. I like steam locomotives.
+   (ID: M6QLMFHJ3CAF_11)
+
+11. I love NASCAR.
+   (ID: PKTFMWPHB1E3_11)
+
+12. I have a number plate numbered 1924.
+   (ID: QRRS2THODNM3_11)
+
+13. I love locomotives.
+   (ID: GABQG82ZVJCM_7)
+
+
+--- MPChat ---
+Total from this dataset: 24
+
+1. just moved my 75 g to my new house.the only thing i was terrified about moving.
+   (ID: pope237)
+
+2. my headlight reflection makes it look like this honda wants to devour my soul.
+   (ID: baccgirl)
+
+3. my tacoma the day i bought it vs. today
+   (ID: SixthSnail)
+
+4. i love my xj, but i just welcomed a new member to the jeep family.
+   (ID: SweetSassyClassy)
+
+5. since people liked my post the other day, heres a super high resolution shot of my car.
+   (ID: bryanw0104)
+
+6. finished my first build a few months ago.
+   (ID: GamblinGambit)
+
+7. first bike i've owned in 7 years.
+   (ID: travelingisdumb)
+
+8. mom, can i drive?
+   (ID: insthotchkiss)
+
+9. after the car being totaled from someone texting and driving, i miss this car every day.
+   (ID: Deeshizznit)
+
+10. follow up from yesterday's shot...i got a vacuum dealer for christmas and opened it today!
+   (ID: iowajaycee)
+
+11. boyfriend got me a lift for my birthday, and i couldn’t be happier.
+   (ID: SweetSassyClassy)
+
+12. made a new frame for my anet a8.
+   (ID: ItsBail)
+
+13. i love my xj but i'll always regret selling my 1st gen 4runner years ago.
+   (ID: dudeinthepnw)
+
+14. [wip] trying out parking on this vintage kit i got at salvation army.
+   (ID: Veretica)
+
+15. so i picked up my like 10th bike (3rd harley) wednesday.
+   (ID: Dirk-Killington)
+
+16. it's my cakeday, so here is my favorite picture of my car.
+   (ID: crunch816)
+
+17. blowout at 60mph, not the best way to start my day!
+   (ID: chirp16)
+
+18. petrie being taught to drive the city shuttle while visiting my husband at work
+   (ID: kentobean123)
+
+19. super impressed with how well my cherokee performed with minimal mods.
+   (ID: SweetSassyClassy)
+
+20. finally got a tailgate lock for my 2nd gen.
+   (ID: drinkdrinkshoesgone)
+
+
+--- MSC ---
+Total from this dataset: 101
+
+1. I enjoy speed.
+   (ID: dialog_149_speaker_1)
+
+2. I'm a mechanic.
+   (ID: dialog_18_speaker_2)
+
+3. I like the open road.
+   (ID: dialog_143_speaker_1)
+
+4. I worked as a mechanic. I like cars.
+   (ID: dialog_113_speaker_2)
+
+5. My brother and I went hunting with my father when we were children. I think my brother and I should start our own car business. I will be starting my first business. I have a good car knowledge. I used to help my dad with cars when me and my brother were growing up on the ranch.
+   (ID: dialog_99_speaker_2)
+
+6. I don't have a car. I am a teacher.
+   (ID: dialog_141_speaker_2)
+
+7. I have a horse and a motorcycle and I like to ride both . My quarter horse is named Applejack.
+   (ID: dialog_117_speaker_1)
+
+8. I have a new job selling cars.
+   (ID: dialog_25_speaker_1)
+
+9. I like bike racing. I like Formula One Racing and Nascar. I own a vintage car.
+   (ID: dialog_117_speaker_1)
+
+10. My vehicle is a dark color.
+   (ID: dialog_6_speaker_1)
+
+11. I drive a rig.
+   (ID: dialog_82_speaker_2)
+
+12. My vehicle is a dark color.
+   (ID: dialog_69_speaker_1)
+
+13. I like driving fast and dangerously.
+   (ID: dialog_87_speaker_2)
+
+14. I do not own a car. I drive a motorcycle.
+   (ID: dialog_87_speaker_2)
+
+15. I own a vintage car.
+   (ID: dialog_117_speaker_1)
+
+16. I drive a truck for work.
+   (ID: dialog_82_speaker_2)
+
+17. I own an older model car.
+   (ID: dialog_123_speaker_2)
+
+18. I like race cars.
+   (ID: dialog_67_speaker_1)
+
+19. I have a car.
+   (ID: dialog_87_speaker_1)
+
+20. I race cars. I have a race track.
+   (ID: dialog_124_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 160
+
+1. i need help switching cars
+   (ID: mmaswadeh)
+
+2. i 'm tired of this , suvs need to be banned
+   (ID: BoonTobias)
+
+3. i can thrash my car and still get 30mpg
+   (ID: kaizermattias)
+
+4. i kinda want something faster / comfier / off - roadier ” then it just starts aaaall over again lol
+   (ID: pandachestpress)
+
+5. i want to have sex with this car .
+   (ID: rspewth)
+
+6. i ’m in like all the big movies and have a bunch cars and junk .
+   (ID: error785)
+
+7. i think 80 is too damn fast
+   (ID: mbw1960)
+
+8. i 'm basically invisible to cops in my silver japanese sedan .
+   (ID: ProJokeExplainer)
+
+9. i too own a volkswagen .
+   (ID: I_am_not_a_Taco)
+
+10. i 'm wearing my seatbelt in bed , right now .
+   (ID: DarkMoon99)
+
+11. i recognized the car hop as someone i once rode the bus with as a teenager .
+   (ID: redandblack555)
+
+12. i got pretty lucky at this car show
+   (ID: sircucumbers)
+
+13. i want to drive with college marshall and ted .
+   (ID: redandblack555)
+
+14. i look both ways even on one way streets .
+   (ID: breakingashleylynne)
+
+15. i do not know why people are always pushing the 89 .
+   (ID: Szos)
+
+16. i have a 2003 .
+   (ID: jwshapir)
+
+17. i 'd debadge too , i hope to get the same truck .
+   (ID: coocha)
+
+18. i 'm already bored of automatic cars .
+   (ID: serverpilot)
+
+19. i have a picture just like this of my grandpa and a dr . pepper truck ! ! !
+   (ID: FridaysChild219)
+
+20. i just hate the idea of it having enough truck .
+   (ID: Zarqume)
+
+
+--- PER-CHAT ---
+Total from this dataset: 432
+
+1. One of my favorite things is cars.
+   (ID: 9286ff57fb4290178a79b38d20f6a95da9d2267f)
+
+2. One of my favorite things is automobiles.
+   (ID: 338e964d6f616e85c5b26cf7b63ec2dba22cf7ba)
+
+3. your mileage may vary . i practiced on a friends car for a couple hours before i got my first car with a manual , i did ok at first , but there were definitely a lot of stressful moments the first month or two . hill starts were really scary , and one time i tried to start in 3rd on a hill and smoked the living hell out of the clutch . but now , a year and a half later i feel like a pro , double clutching with the best of them . my girlfriend , on the other hand , is hopeless . we have spent digit hours in a parking lot , and she still asks me which petal is which when we start a session , and can get the car moving maybe once or twice without getting fed up . i ' ll teach her eventually though .
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+4. One of my favorite things is automobiles.
+   (ID: 20b71c431f98b1f88ec1b3e7ada79d31df65a8c2)
+
+5. One of my favorite things is subaru.
+   (ID: c23be0b501278176a288ed6b3ab6669ac6b9896a)
+
+6. One of my favorite things is automobiles.
+   (ID: 37dcb77e38bb95527b0376694dc5852e5c3012eb)
+
+7. nah use it all the time with me slow mate zac . fuck he ' s a dumb cunt .
+   (ID: b3a8447862df1e30a18d38c5c0ad1c8595c18d4c)
+
+8. One of my favorite things is automobiles.
+   (ID: c0c5a7c74c41387a99afab68d3e9fe0bfab4b8b9)
+
+9. One of my favorite things is jeep.
+   (ID: 6f291f3688a3a398f92cd165b10b1d3796d86840)
+
+10. One of my favorite things is automobiles.
+   (ID: 5078613a782f11088cff05f4503056b040cea999)
+
+11. One of my favorite things is jeep.
+   (ID: 0f3da013abe745c83b2d4eb042abb7fd28f5e872)
+
+12. One of my favorite things is cars.
+   (ID: 30572ac5982532854b2ead41285ed9bbaba6d654)
+
+13. One of my favorite things is automobiles.
+   (ID: 46a39b1131e50f9cc061bbaf88e15686e5c9359d)
+
+14. i ' m gonna be serious for a minute though , i lean towards against high driving . i know a few seasoned tokers who can handle it , but most people can ' t really drive high very well . there are exceptions though , and i would include myself in that . it ' s important to note though , that knowing your limits plays a part .
+   (ID: 5c9dd67e95ee5403b2bd9a6848c017674d46396b)
+
+15. One of my favorite things is motorcycles.
+   (ID: 000804102a722a64dab51502693ae73a9773ff5c)
+
+16. One of my favorite things is aston martins.
+   (ID: 8889ee4547e570f04696e9cc7b50124dca69b82e)
+
+17. I follow police.
+   (ID: faebbe18abd4d1c69e3bb9106178f797255444c5)
+
+18. One of my favorite things is motorcycles.
+   (ID: 7e977d8c833923afad8d62330f570dfb4308db8b)
+
+19. I live in uber/lyft central.
+   (ID: 5bae960970112f75742b080e45f735ad64949805)
+
+20. One of my favorite things is car.
+   (ID: 51e06ea43809bd7f43c9c3b13a19193236a72570)
+
+
+--- PersonaChat ---
+Total from this dataset: 62
+
+1. i've been in 2 car crashes in my life .
+   (ID: conversation_191)
+
+2. i drive an suv .
+   (ID: conversation_477)
+
+3. my car is green and smells weird .
+   (ID: conversation_339)
+
+4. driving in the country side is a pastime .
+   (ID: conversation_401)
+
+5. i work in car sales .
+   (ID: conversation_321)
+
+6. i drive a prius .
+   (ID: conversation_420)
+
+7. i own a car .
+   (ID: conversation_387)
+
+8. i like cars .
+   (ID: conversation_291)
+
+9. i drive a nice car .
+   (ID: conversation_189)
+
+10. i drive a mercedes .
+   (ID: conversation_286)
+
+11. i drive a ford truck .
+   (ID: conversation_405)
+
+12. i drive a blue honda civic .
+   (ID: conversation_264)
+
+13. my car is green and smells weird .
+   (ID: conversation_162)
+
+14. i work on cars for a living .
+   (ID: conversation_18)
+
+15. i drive a red car .
+   (ID: conversation_313)
+
+16. my car is blue .
+   (ID: conversation_276)
+
+17. i drive a mercedes .
+   (ID: conversation_101)
+
+18. i work as a contractor for a cab company .
+   (ID: conversation_176)
+
+19. i drive a ford taurus .
+   (ID: conversation_123)
+
+20. i have 3 ferrari cars in my garage .
+   (ID: conversation_456)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 111
+
+1. I work on trucks.
+   (ID: conversation_22_user_1)
+
+2. I have a ford f150.
+   (ID: conversation_11_user_2)
+
+3. I drive a honda car.
+   (ID: conversation_324_user_1)
+
+4. I work as a contractor for a cab company.
+   (ID: conversation_391_user_2)
+
+5. My car is blue.
+   (ID: conversation_240_user_1)
+
+6. I drive a honda car.
+   (ID: conversation_228_user_2)
+
+7. My car is black.
+   (ID: conversation_185_user_2)
+
+8. I drive junk cars that no one else wants.
+   (ID: conversation_128_user_2)
+
+9. I drive a large , blue van.
+   (ID: conversation_365_user_1)
+
+10. I like to work on cars.
+   (ID: conversation_311_user_2)
+
+11. I own a ford truck.
+   (ID: conversation_11_user_2)
+
+12. I also like ford trucks.
+   (ID: conversation_1_user_2)
+
+13. My newest car is a chevy.
+   (ID: conversation_103_user_2)
+
+14. My car is green and smells weird.
+   (ID: conversation_381_user_2)
+
+15. I lease my car.
+   (ID: conversation_5_user_1)
+
+16. My wife and i enjoy long sunday drives.
+   (ID: conversation_383_user_2)
+
+17. I own a car.
+   (ID: conversation_77_user_1)
+
+18. I own a ford truck.
+   (ID: conversation_1_user_2)
+
+19. I am a mechanic.
+   (ID: conversation_115_user_2)
+
+20. I drive a jag.
+   (ID: conversation_429_user_1)
+
+
+============================================================

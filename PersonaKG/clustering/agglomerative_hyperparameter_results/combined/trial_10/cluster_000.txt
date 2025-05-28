@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 84513
+
+Dataset distribution in this cluster:
+  FoCus: 2485 (2.9%)
+  MPChat: 5005 (5.9%)
+  MSC: 3812 (4.5%)
+  PEC: 32759 (38.8%)
+  PER-CHAT: 33878 (40.1%)
+  PersonaChat: 2203 (2.6%)
+  SyntheticPersonaChat: 4371 (5.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2485
+
+1. I like chimneys.
+   (ID: XJHUSUPBYFL1_11)
+
+2. I live in Queensland.
+   (ID: 9IUBDDZBGMIC_11)
+
+3. I like history.
+   (ID: MSVCAU01UHE3_11)
+
+4. I love bats.
+   (ID: X3WVWF5IVCYD_11)
+
+5. I don't hope to ever visit New Zealand.
+   (ID: 9KDV6LSLWNAX_11)
+
+6. I am in Wales for the summer.
+   (ID: BVS6H6G1BVW6_11)
+
+7. I want to go to college.
+   (ID: JTUKE03HZYSY_11)
+
+8. I serve the army.
+   (ID: 6J40PNLBFR2V_11)
+
+9. I have never seen a monuments.
+   (ID: O160CLPSNJOK_7)
+
+10. I love walking in shopping malls.
+   (ID: PNIMGSDW8PY2_9)
+
+11. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+12. I especially like the gothic designed architecture.
+   (ID: MGEY7QK79154_11)
+
+13. I have lost my job because of the COVID-19 pandemic.
+   (ID: FNURQ2XMQVJF_11)
+
+14. I have visited many cities.
+   (ID: 7VWG5N19V7SK_11)
+
+15. I am German-American.
+   (ID: RETEM7MY5SHI_11)
+
+16. I am interested in geography.
+   (ID: FOZE4Q84M3RX_11)
+
+17. I am staying in a room numbered 1920.
+   (ID: LAU455Y1BO1U_9)
+
+18. I have an interest in the Victorian era.
+   (ID: 7KD1MTP5A7ZD_11)
+
+19. I want to visit Malta.
+   (ID: WXYJ15QP91WP_7)
+
+20. I like soccer.
+   (ID: EEZIRIVGB0TG_9)
+
+
+--- MPChat ---
+Total from this dataset: 5005
+
+1. is this normal or am i playing wrong?
+   (ID: drewchie)
+
+2. i crocheted "rose quartz" from steven universe!
+   (ID: skorletun)
+
+3. added eeyore to my winnie the pooh group.
+   (ID: Nikyma)
+
+4. made a cake for my year 12 class who are graduating this time with fondant but pretty happy!
+   (ID: Sebubble)
+
+5. made some progress on my armadillo sculpture!
+   (ID: cryptidcat)
+
+6. [fo] i made this cross stitch on scrim with black twist.
+   (ID: gelimausi)
+
+7. [pattern] i had to finish the epic tardis pattern!
+   (ID: gxnelson)
+
+8. i made a pointed scarf using lion brand mandala yarn.
+   (ID: IncubusHexx)
+
+9. i was amused these were next to each other.
+   (ID: insertnamehere02)
+
+10. i'm so proud
+   (ID: krichmondRPH)
+
+11. my one and only finished object for this week is comfort bear no 15 for this year.
+   (ID: Moriarty58)
+
+12. my favorite ob- i love those blue scales on his jaw so gorgeous
+   (ID: lizdavis17)
+
+13. my hippo and i took a little trip to a waterfall recently
+   (ID: Thomson-Woods)
+
+14. "excuse me, momma, i jumped into the box but there was no blanket in it?"
+   (ID: fishgoose)
+
+15. i smoked some wings on the weekend
+   (ID: cookinwithclint)
+
+16. made a new frame for my anet a8.
+   (ID: ItsBail)
+
+17. this is my backyard, a bit of a slope.
+   (ID: SweetSassyClassy)
+
+18. finished my odyssey shawl!
+   (ID: zonumnire)
+
+19. it's my cakeday; here's my dog.
+   (ID: hmbmelly)
+
+20. itap of a syringe i found at an abandoned building
+   (ID: The69LTD)
+
+
+--- MSC ---
+Total from this dataset: 3812
+
+1. I have only played the in person chess. I am interested in playing the chess online.
+   (ID: dialog_149_speaker_1)
+
+2. I like to jog. I am a waitress.
+   (ID: dialog_136_speaker_1)
+
+3. I work at a hospital on a military base as a nurse.
+   (ID: dialog_16_speaker_1)
+
+4. I'm strong.
+   (ID: dialog_51_speaker_2)
+
+5. I watched the movie Trading Places in the 80's.  I am good at math. I got my MBA from the University of Tennessee in 1999 and moved to NYC immediately after graduation. I have been working on Wall street for 22 years.
+   (ID: dialog_121_speaker_1)
+
+6. My spouse hates us.
+   (ID: dialog_174_speaker_1)
+
+7. People say I am a force if nature.
+   (ID: dialog_39_speaker_1)
+
+8. I like to race cars. I have a race car track. I have never raced a driverless car.
+   (ID: dialog_124_speaker_2)
+
+9. I work at a movie theater.
+   (ID: dialog_87_speaker_1)
+
+10. I'm a big fan of vegan food. I know some great vegan recipes. I know some new Greek recipes. I like growing my own eggplants and making organic vegan food with them.
+   (ID: dialog_189_speaker_1)
+
+11. I drive a sedan.
+   (ID: dialog_108_speaker_2)
+
+12. I have only traveled to America and Mexico.
+   (ID: dialog_113_speaker_2)
+
+13. I am a fan if the great white.
+   (ID: dialog_65_speaker_2)
+
+14. I enjoy volunteering. I donate to charities. I have a charity.
+   (ID: dialog_124_speaker_1)
+
+15. I want to help people.
+   (ID: dialog_21_speaker_2)
+
+16. I don't get to see my parents very often.
+   (ID: dialog_6_speaker_2)
+
+17. I like hospitals.
+   (ID: dialog_191_speaker_1)
+
+18. I just crashed my car. My car is in the shop.
+   (ID: dialog_191_speaker_2)
+
+19. I'm 28.
+   (ID: dialog_65_speaker_2)
+
+20. I'm going to study business in the university of kentucky when I graduate.
+   (ID: dialog_159_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 32759
+
+1. i keep hearing that !
+   (ID: DoctorRichardNygard)
+
+2. i have never really been to that city ... hmmm .
+   (ID: leo9g)
+
+3. i 'm annoyed by it .
+   (ID: Hypersapien)
+
+4. i researched for a good three days .
+   (ID: osmosisparrot)
+
+5. i identify with this in an uncomfortable way .
+   (ID: IncredibleBulk2)
+
+6. i will eat that right now .
+   (ID: supmraj)
+
+7. i know a lot of people leave in the afternoon , so would earlier be better ?
+   (ID: maullove)
+
+8. i 'm actually in lancaster , so not very far for me !
+   (ID: jenni268)
+
+9. i have only the best golf courses around the world !
+   (ID: IgnoranceIsAVirus)
+
+10. i 'll second that
+   (ID: notthruyet)
+
+11. i want one !
+   (ID: redandblack555)
+
+12. i think my mood is directly linked to my wet dream .
+   (ID: aydinsevimli)
+
+13. i think they might 've made sekiro * too * hard , ya know ?
+   (ID: Thenewfoundlanders)
+
+14. i hope you feel better soon .
+   (ID: PepperPixie09)
+
+15. i re - read it every few years .
+   (ID: Simplisticjoy)
+
+16. i did respond with something else .
+   (ID: cookiexcmonster)
+
+17. i did n't acutally expect it to be a photograph .
+   (ID: nastylittleman)
+
+18. i feel like a freaking zigerion scammer .
+   (ID: CarlofTime)
+
+19. i ended up buying the premium version .
+   (ID: ludaa)
+
+20. i 'm not one to cry .
+   (ID: juliacakes)
+
+
+--- PER-CHAT ---
+Total from this dataset: 33878
+
+1. One of my favorite things is consistency.
+   (ID: 8712de543372bc5f398d43ea5b918c85efc5dda7)
+
+2. child porn , snuff , revenge porn here in the uk i have think bestiality
+   (ID: e982e025c0604997a6e2072eb87b9bb01bed38ae)
+
+3. poem my nam is dog i like to run i like toy cuz they fun i rip them i throw them and one i see it mak noise i bite more noise hooman smile i play some more the squeak make me happy so hooman get more joy
+   (ID: 61d850113b440da97216a14cfd8a5509352c72b2)
+
+4. fresh fruits and veggies all year round .
+   (ID: 650ba9cdaca39ad1c1fe5e6348b11afb4d8e7a0f)
+
+5. One of my favorite things is cats.
+   (ID: 239eded9e37fe1b7388561d1e82993d15dd4fc15)
+
+6. I am a male.
+   (ID: f270f54ee5a501d23ceae23084513e682d0cfd32)
+
+7. I live in europe.
+   (ID: 725e5a3de682f359cfb87481ec457a2f78867ef3)
+
+8. you know to much .
+   (ID: d42f47f147cdc8e97117f0e4963e2c1309d1dcd8)
+
+9. that ' s not really my point you brick . if they don ' t want to work over their contract required hours , they don ' t have to . yes sitting is easy , we can all do it , but some of us do more than that , and want more than that , people deserve days off . if you want to go in and fix it , than be our guest but something tells me your screen , which you claim to sit by everyday , is a little too simple to do the work .
+   (ID: c6e9d7bec5bbee67d384191c91101e443de5ac3c)
+
+10. I play video games.
+   (ID: bd0712716940e41d4901cd77632c868dc43fa8f0)
+
+11. man  congrats ! it ' s stories like which are the only real reason i feel somewhat hopeful that i will one day live without being self conscious about this massive mask on my face . i know its only aesthetic , and people including myself should like me for me , not for how my face looks , but its been so hard to have self confidence , as its been so many years since i started getting really bad masks . of course , as always happens , i started having problems with masks on my face in high school , where people that age can be really cruel and exclusive over things like masks . i guess i never really got over the feeling that i should be hiding my face , so no one needs to look at me and judge me for the masks on my face . i ' m digit now and about to start a new treatment , i really hope it works just like your one has . again congratulations . from an inspired friend
+   (ID: 7d39153e3adadffd15e1638679c2e1cdc5c64fde)
+
+12. I'm interested in relationships.
+   (ID: c502154cdae9232a9351bdc0e55d2030d75a8094)
+
+13. definitely buy a scale . dmt hits too fast that you can  t just keep hitting it until you breakthrough . also eyeballing is very hard and you can easily take too much or not enough .
+   (ID: 160325a949e5dbc41bc99b9243f0df0953ef7bd4)
+
+14. i frequently end up being left without a group for assignments in university . i end up randomly assigned to others without groups and they tend to be lazy students with bad work ethics .
+   (ID: 7df89b558f49c9f710c5f928f61dae67f52229c7)
+
+15. for some reason , i feel like i ' m the only one who wants to see what happens next
+   (ID: 43361d3d352286328dcb058ec017ca0e2d364601)
+
+16. I am a female.
+   (ID: be1b74bb05b478e06170986082b9da6ed5c84444)
+
+17. " when your father died , the last thing he told me was how much he hated you "  mother
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+18. I live in cities.
+   (ID: 72155748e939f50a6f3bde77aee5ae7b7c499725)
+
+19. i didn ' t take offense , i did find it to be laughable though , worst marketing move of the year . so far .
+   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+
+20. when people use " how ' s it goin ' ? " , " how are you ? " or " what ' s goin ' on ? " when they only mean to say hi or hello . i start to respond and they ' ve already moved on .
+   (ID: 0584cf3a466df04147d01844c1b06d6637322f0a)
+
+
+--- PersonaChat ---
+Total from this dataset: 2203
+
+1. my mom is a nurse .
+   (ID: conversation_90)
+
+2. i've two roomates .
+   (ID: conversation_268)
+
+3. my favorite color is red .
+   (ID: conversation_402)
+
+4. i like to draw and paint in my spare time .
+   (ID: conversation_448)
+
+5. i am still living at home at age 30 .
+   (ID: conversation_372)
+
+6. i play bingo every wednesday with my husband .
+   (ID: conversation_450)
+
+7. i'm a graduate student .
+   (ID: conversation_301)
+
+8. i drive a mercedes .
+   (ID: conversation_286)
+
+9. i drive a red car .
+   (ID: conversation_313)
+
+10. i'm a mother to two beautiful boys .
+   (ID: conversation_248)
+
+11. i broke my nose in 5th grade .
+   (ID: conversation_368)
+
+12. i love to play league of legends .
+   (ID: conversation_139)
+
+13. i don't believe in love .
+   (ID: conversation_319)
+
+14. i often worry about where to park when i go somewhere new .
+   (ID: conversation_232)
+
+15. i believe that mermaids are real .
+   (ID: conversation_357)
+
+16. i enjoy spending time with family and friends .
+   (ID: conversation_140)
+
+17. i am a famous video game character online .
+   (ID: conversation_50)
+
+18. my favorite flower is a rose .
+   (ID: conversation_129)
+
+19. i enjoy reading .
+   (ID: conversation_155)
+
+20. i love to run fast .
+   (ID: conversation_235)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4371
+
+1. I love to cook for my family and friends.
+   (ID: conversation_399_user_2)
+
+2. I like to go fishing on the lake.
+   (ID: conversation_329_user_1)
+
+3. I am an american citizen.
+   (ID: conversation_313_user_1)
+
+4. I am married.
+   (ID: conversation_243_user_1)
+
+5. I sing in the shower.
+   (ID: conversation_86_user_2)
+
+6. I grew up in nevada.
+   (ID: conversation_121_user_1)
+
+7. I am a pilot.
+   (ID: conversation_184_user_1)
+
+8. My favorite color is red.
+   (ID: conversation_71_user_1)
+
+9. I have really long fingernails.
+   (ID: conversation_432_user_2)
+
+10. I have only one child.
+   (ID: conversation_180_user_2)
+
+11. I love agatha christie novels.
+   (ID: conversation_49_user_2)
+
+12. I am a vegan.
+   (ID: conversation_423_user_2)
+
+13. I collect dolls.
+   (ID: conversation_122_user_1)
+
+14. I am good at throwing parties.
+   (ID: conversation_305_user_1)
+
+15. My favorite food is pizza.
+   (ID: conversation_408_user_1)
+
+16. I am married with 5 kids.
+   (ID: conversation_342_user_2)
+
+17. I try to watch what i eat.
+   (ID: conversation_161_user_2)
+
+18. I went to school for fashion design and did nothing with it.
+   (ID: conversation_98_user_2)
+
+19. I love candy.
+   (ID: conversation_323_user_1)
+
+20. I once drove a car ! my friend told me what to do while i drove.
+   (ID: conversation_26_user_1)
+
+
+============================================================

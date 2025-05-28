@@ -1,0 +1,103 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 22
+
+Dataset distribution in this cluster:
+  MSC: 2 (9.1%)
+  PEC: 10 (45.5%)
+  PER-CHAT: 1 (4.5%)
+  PersonaChat: 1 (4.5%)
+  SyntheticPersonaChat: 8 (36.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I play around with candies a lot.
+   (ID: dialog_71_speaker_1)
+
+2. I have a lot of ink.
+   (ID: dialog_71_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 10
+
+1. i get this a lot
+   (ID: beautifulw0man)
+
+2. i get that a lot .
+   (ID: bondo84)
+
+3. i get that a lot .
+   (ID: ddshroom)
+
+4. i thought there was a lot of overlap between /btards and diggers anyway .
+   (ID: Hypersapien)
+
+5. i averted my eyes a lot .
+   (ID: BabblingBunny)
+
+6. i do n't play assasins , so i actually get a lot of these messages lol .
+   (ID: playertd)
+
+7. i stroked it a lot .
+   (ID: Bananafoofoofwee)
+
+8. i see it a lot but do n't know .
+   (ID: Ian_Str8)
+
+9. i love her a lot .
+   (ID: ddshroom)
+
+10. i stared a lot too .
+   (ID: Bananafoofoofwee)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. seems to be a lot more whiners everywhere . that ' s about it .
+   (ID: 059c976738098229106db9c4736116cbb2f47eb8)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i also meditate a lot .
+   (ID: conversation_267)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I play a lot of video games.
+   (ID: conversation_136_user_1)
+
+2. I also meditate a lot.
+   (ID: conversation_238_user_2)
+
+3. I play a lot of video games.
+   (ID: conversation_134_user_1)
+
+4. I play a lot of video games.
+   (ID: conversation_137_user_1)
+
+5. I also meditate a lot.
+   (ID: conversation_201_user_1)
+
+6. I also meditate a lot.
+   (ID: conversation_200_user_1)
+
+7. I play a lot of video games.
+   (ID: conversation_247_user_2)
+
+8. I play a lot of video games.
+   (ID: conversation_135_user_1)
+
+
+============================================================

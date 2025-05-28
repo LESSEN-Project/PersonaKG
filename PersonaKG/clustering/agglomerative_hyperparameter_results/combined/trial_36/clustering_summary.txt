@@ -1,0 +1,74 @@
+Agglomerative Clustering Analysis Summary
+============================================================
+Total statements: 61499
+Vectorization method: tfidf
+Number of clusters: 52
+Analysis type: combined
+Diversity score: 0.0016 (higher is better)
+Silhouette score: 0.3765 (higher is better)
+Timestamp: 2025-05-28 16:38:06
+
+Dataset Distribution:
+  FoCus: 1750 statements
+  MPChat: 3721 statements
+  MSC: 2709 statements
+  PEC: 24262 statements
+  PER-CHAT: 24378 statements
+  PersonaChat: 1566 statements
+  SyntheticPersonaChat: 3113 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 0: 55785 statements
+  Cluster 27: 1014 statements
+  Cluster 15: 487 statements
+  Cluster 22: 449 statements
+  Cluster 39: 297 statements
+  Cluster 31: 268 statements
+  Cluster 47: 235 statements
+  Cluster 13: 202 statements
+  Cluster 17: 191 statements
+  Cluster 41: 185 statements
+  Cluster 20: 171 statements
+  Cluster 25: 145 statements
+  Cluster 11: 141 statements
+  Cluster 40: 125 statements
+  Cluster 6: 121 statements
+  Cluster 33: 104 statements
+  Cluster 45: 102 statements
+  Cluster 4: 101 statements
+  Cluster 46: 99 statements
+  Cluster 32: 96 statements
+  Cluster 7: 95 statements
+  Cluster 24: 95 statements
+  Cluster 30: 87 statements
+  Cluster 34: 78 statements
+  Cluster 16: 70 statements
+  Cluster 19: 65 statements
+  Cluster 3: 63 statements
+  Cluster 38: 63 statements
+  Cluster 21: 54 statements
+  Cluster 23: 53 statements
+  Cluster 9: 49 statements
+  Cluster 42: 49 statements
+  Cluster 14: 45 statements
+  Cluster 1: 44 statements
+  Cluster 12: 40 statements
+  Cluster 28: 38 statements
+  Cluster 29: 34 statements
+  Cluster 43: 32 statements
+  Cluster 5: 25 statements
+  Cluster 18: 20 statements
+  Cluster 37: 20 statements
+  Cluster 48: 17 statements
+  Cluster 2: 14 statements
+  Cluster 10: 10 statements
+  Cluster 35: 7 statements
+  Cluster 8: 3 statements
+  Cluster 44: 3 statements
+  Cluster 26: 2 statements
+  Cluster 49: 2 statements
+  Cluster 51: 2 statements
+  Cluster 36: 1 statements
+  Cluster 50: 1 statements

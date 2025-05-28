@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 86099
+
+Dataset distribution in this cluster:
+  FoCus: 2499 (2.9%)
+  MPChat: 5046 (5.9%)
+  MSC: 3868 (4.5%)
+  PEC: 33472 (38.9%)
+  PER-CHAT: 34533 (40.1%)
+  PersonaChat: 2236 (2.6%)
+  SyntheticPersonaChat: 4445 (5.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2499
+
+1. I am interested in the architecture.
+   (ID: W4CQPY8R6C4Q_11)
+
+2. I want a higher education.
+   (ID: L2FEEPD1V8BQ_11)
+
+3. I am not from France.
+   (ID: ATXXTPOD4WEI_11)
+
+4. I live in the United States.
+   (ID: 82ZP2M9AL6U0_11)
+
+5. I like to visit australia.
+   (ID: PSAPP3TRHUMW_11)
+
+6. I like to visit cultural centres.
+   (ID: L2FEEPD1V8BQ_11)
+
+7. I would like to visit the Alley Pond Park.
+   (ID: J4C8YDZ0WJBW_7)
+
+8. I would like to enrol my child in Sunday School.
+   (ID: HMSHQ9H7RA76_7)
+
+9. I like mounts.
+   (ID: TQCNCMKK1WW5_11)
+
+10. I have been to Little Italy.
+   (ID: 6TU9FPP8YD8M_11)
+
+11. I will travel through County Mayo.
+   (ID: MSVCAU01UHE3_11)
+
+12. I am interested in concerts.
+   (ID: FCHHL9I1PIW0_11)
+
+13. I would like to know more about old structures.
+   (ID: AOQJE7BBYFVM_11)
+
+14. I hope to worship in a church.
+   (ID: HMSHQ9H7RA76_7)
+
+15. I am a figure skater.
+   (ID: D4619DV1O1OP_11)
+
+16. I love to explore.
+   (ID: L9UIUIA2CU20_11)
+
+17. I love cathedrals.
+   (ID: E90Q3KNN7V8I_11)
+
+18. I love to see mountains and go for a trek.
+   (ID: FS1LJTHM1IC0_11)
+
+19. I have studied about Ramakrishna Mission.
+   (ID: WKS47SP8CYLV_11)
+
+20. I am wiling to follow Robert Whitworth.
+   (ID: 72MY00U8UEGB_11)
+
+
+--- MPChat ---
+Total from this dataset: 5046
+
+1. i embroidered a slipbox as a teddy.
+   (ID: gelimausi)
+
+2. i made some stitch markers to help with my ongoing projects
+   (ID: captainindigo123)
+
+3. i love pigs.
+   (ID: insertnamehere02)
+
+4. i think the blanket has gotten cat approved, at least.
+   (ID: fishgoose)
+
+5. i'm making good progress on this triangle scarf.
+   (ID: IncubusHexx)
+
+6. the shrug i crocheted and mom claimed as her own
+   (ID: letsallcrochetYT)
+
+7. i crocheted this baby blanket
+   (ID: letsallcrochetYT)
+
+8. with twist i embroidered this motif on aida fabric.
+   (ID: gelimausi)
+
+9. made an amigurumi of my late cat for a memorial spot.
+   (ID: Crilbyte)
+
+10. another one that i made
+   (ID: insertnamehere02)
+
+11. the books in a country house bedroom i recently stayed in.
+   (ID: JEZTURNER)
+
+12. i got the hamster her own futon, no boys allowed
+   (ID: krichmondRPH)
+
+13. [i made] a tiffany &co. inspired cake!
+   (ID: Sunshine_2425)
+
+14. itap of my son taking a picture
+   (ID: dudeinthepnw)
+
+15. growing far taller than the cooch grass of my lawn and unsure how to kill it.
+   (ID: Perthboi92)
+
+16. my floor lamp.carved and burned wood with ceramic inlays and hand made ceramic lamp shader.
+   (ID: ahimoto)
+
+17. my pibble used to be terrified of the snow.
+   (ID: ddizzle23)
+
+18. made some oven roasted potatoes in my vintage lecreuset au gratin dish!
+   (ID: sundstrom193)
+
+19. baked and decorated this for my parents 30th anniversary, can comment recipes and piping tips etc if requested!
+   (ID: Cantwa1t)
+
+20. my gf knitted one of our kittens a sweater.
+   (ID: dudeinthepnw)
+
+
+--- MSC ---
+Total from this dataset: 3868
+
+1. I collect comic book, autographs. I have over 15 million autographs.
+   (ID: dialog_48_speaker_1)
+
+2. I haven't finish school. I am enlisted in the army.
+   (ID: dialog_67_speaker_2)
+
+3. I played on the basketball team in middle school. I was cut from the team.
+   (ID: dialog_8_speaker_1)
+
+4. I like trying new cuisines and going to restaurants with friends who know what to order.
+   (ID: dialog_100_speaker_1)
+
+5. I like to create.
+   (ID: dialog_86_speaker_2)
+
+6. I like scary movies.
+   (ID: dialog_98_speaker_1)
+
+7. I graduated college with a literature degree. I want to be a teacher.
+   (ID: dialog_48_speaker_2)
+
+8. I play european football.
+   (ID: dialog_62_speaker_2)
+
+9. I write fictional novels.
+   (ID: dialog_86_speaker_2)
+
+10. I recently moved to the south.
+   (ID: dialog_133_speaker_1)
+
+11. My place of residence is floating on a river.
+   (ID: dialog_14_speaker_2)
+
+12. I live in Texas.
+   (ID: dialog_160_speaker_1)
+
+13. I am considering aiming the book for ages 7 and up. I enjoy working on my book. I don't have that much other work to do.
+   (ID: dialog_132_speaker_1)
+
+14. I want candy.
+   (ID: dialog_4_speaker_1)
+
+15. I work as a graphic designer. I like graphic design.
+   (ID: dialog_33_speaker_1)
+
+16. I had several kittens.
+   (ID: dialog_19_speaker_2)
+
+17. When I was a kid I wore eyeglasses.
+   (ID: dialog_158_speaker_1)
+
+18. I am studying finance.
+   (ID: dialog_7_speaker_2)
+
+19. I was born in NYC. I have lived in NYC my whole life.
+   (ID: dialog_170_speaker_2)
+
+20. I try weird food combinations like bacon on ice cream. I am a creative cook.
+   (ID: dialog_107_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 33472
+
+1. i can see its ' hoo hoo 's .
+   (ID: opalskys)
+
+2. i had no idea .
+   (ID: DoctorRichardNygard)
+
+3. i bet you looked awesome and they were just an asshole .
+   (ID: gigatroness)
+
+4. i will sleep but ...
+   (ID: SerendipitousCat)
+
+5. i lost 70 lbs @ 34 .
+   (ID: I_am_not_a_Taco)
+
+6. i ca n’t imagine anyone ever rewatching that episode ...
+   (ID: mrhenk9)
+
+7. i love you so much , . alex
+   (ID: boyofthechapter)
+
+8. i feel like you were just in my game before op .
+   (ID: BearCanoe)
+
+9. i really do n't like listening to him during the fights
+   (ID: isitbrokenorsomethin)
+
+10. i 'm 28 .
+   (ID: blue_thingy)
+
+11. i 'm so ronery .
+   (ID: chasemyers)
+
+12. i currently am using a 32 inch lcd tv as a display .
+   (ID: JohnnyPappis)
+
+13. i 'm quite impressed .
+   (ID: vikkivinegar)
+
+14. i ca n't name it .
+   (ID: shockrush)
+
+15. i want to hear him talk about his ' bling bling ' .
+   (ID: sweatervest)
+
+16. i have a round shift head and grab it from the side instead of the top .
+   (ID: pyro2927)
+
+17. i m sure he will remember you now .
+   (ID: bbrandann)
+
+18. i miss the sunny morning drives to work !
+   (ID: mmaswadeh)
+
+19. i ca n’t with that fat belly !
+   (ID: opalskys)
+
+20. i definitely do not miss working at the 99 cent store and dealing with these people
+   (ID: MontanaMcC)
+
+
+--- PER-CHAT ---
+Total from this dataset: 34533
+
+1. I have a brother in my family.
+   (ID: c1af2a10f968ba6f52d825dbf8fc9b8210db72ba)
+
+2. I have a mother in my family.
+   (ID: 7da53707a39963b12b6e7c5fea7a54f263d0cf17)
+
+3. I own a competitor.
+   (ID: d8e39e092041fc01f24bedce425d10f55bd2a764)
+
+4. One of my favorite things is coffee.
+   (ID: 917dfa16e92ce1db67ec3f88bc07b87b70a36c95)
+
+5. I am a male.
+   (ID: 8ea8e4a00c3f2a64096e00bdbba0247e580cdb17)
+
+6. ok so i am not against someone for being gay or trans but rather forcing their beliefs on others . i was once screamed at for " mis  gendering " someone yes that is a thing in this day and age i have been under the mentality that what you where born as is your gender . xx  female xy  male . that ' s that . i won ' t be mad if you are gay or trans or whatever . i will however use the pronoun for your scientific gender . that ' s my viewpoint .
+   (ID: b136c35b12e5cf30c5001b25d88b97380f9209e3)
+
+7. I am anomaly.
+   (ID: 2e34fbd58bc49726f7e8c74b8ea82513ca226ab4)
+
+8. when we have guests at home i will literally stay inside my room and don  t leave which is especially bad if they stay for a few days because i will literally just starve myself until either i know for sure that i can avoid an interaction with them or i can  t hold out any longer .
+   (ID: dcc0b8be922b572122c03b3f5e2a0f9fccb4d351)
+
+9. i  m getting itchy just looking at it . you have a lot of self control to be able to stop and take a picture .
+   (ID: faebbe18abd4d1c69e3bb9106178f797255444c5)
+
+10. One of my favorite things is reading  interesting experiences.
+   (ID: ead4924f7abc0f9258d2b484a3f379aedee2cc5c)
+
+11. I have a wife.
+   (ID: f8d48136e1ccbc739d4b7fb8db1e8f668422b145)
+
+12. One of my favorite things is chili ’.
+   (ID: 6cb8904cf2faf74f712ddb1c620007fe43bf46df)
+
+13. oh totally , lust at first sight is common . in fact , it ' s probably what leads to the ' love at first sight ' myth . when you have that kind of animal attraction to someone , it can help keep a relationship strong .
+   (ID: 5bf69e8a91457991a99f2cc3f9248ca16f27a0d5)
+
+14. One of my favorite things is plastic.
+   (ID: c1e8a543083ba89c9353a25d98386cffe1addefc)
+
+15. well , you didn ' t add a " serious " tag , but i ' ll give you a serious answer anyway . i ' ve done a fair amount of research on this . all adults   the ones with the money   hate school fundraisers . the idea that gives you the absolutely best return is this  you send a note home at the beginning of the year explaining that you know everyone hates school fundraisers , and you are therefore going to dispense with that nonsense and instead request " direct giving " include an envelope . ask parents to donate the amount of money they would otherwise be wasting on wrapping paper , cookie dough , and other crap they only buy to placate their children . you will end up with substantially more money than if you actually sold the wrapping paper or cookie dough . if you ' re dead set on holding a fundraiser , try the " original art " one . find a company that prints original art on random things mousepads , t  shirts , coffee mugs and does school fundraisers . they will provide your school with all the materials . each kid draws a picture and then goes around to family  friends and tries to get them to buy a mousepad  t  shirt  coffee cup featuring their original art . it ' s still a terrible idea , but at least you get something your kid made instead of some awful cookie dough .
+   (ID: 54097549786e78808b0d9772bb36b401b5761588)
+
+16. One of my favorite things is trees.
+   (ID: 5961595dfc87bf2297732de81d6f236102fb1790)
+
+17. that sounds neat ! i  ll have to ask my hubby about this . side note  how do you get the tag in blue by your name ?
+   (ID: 2ab410cb3dc233b072c65fa9acc3c6323d05914e)
+
+18. also , what language would you like the mewtwo to be ?
+   (ID: c956c3bf88cce2d3de1fc9f4d4a6e7b082a20dbb)
+
+19. it sounds cliche and like a instagram " quote " but being single is so much better than being in a relationship that ' s not healthy . you really have to see that you pretty much are in a relationship while you ' re technically single . that relationship is with yourself . that is the most important relationship you will ever have . no one else can " make " you happy . that ' s an internal job . everything else is just a bonus . good for you for leaving that behind .
+   (ID: d785eda10245445843c3355a0710d262b0d65bb9)
+
+20. I enjoy cricket.
+   (ID: 44477e54e9e15675b9ad5c3be02b0440724c674b)
+
+
+--- PersonaChat ---
+Total from this dataset: 2236
+
+1. i secretly love my long deployments , because it gets me away from conventional life .
+   (ID: conversation_273)
+
+2. my mother doesn t ! ove me .
+   (ID: conversation_138)
+
+3. i am lactose intolerant .
+   (ID: conversation_447)
+
+4. i am a older gentlemen .
+   (ID: conversation_498)
+
+5. my wife and i like to go scuba diving .
+   (ID: conversation_297)
+
+6. my favorite band is insane clown posse .
+   (ID: conversation_74)
+
+7. i'm from san fransico .
+   (ID: conversation_495)
+
+8. i had two cats growing up .
+   (ID: conversation_19)
+
+9. i have no parents or siblings .
+   (ID: conversation_254)
+
+10. i am married with 2 kids .
+   (ID: conversation_252)
+
+11. i've 6 toes on one foot .
+   (ID: conversation_368)
+
+12. i take pride in my job managing the restaurant .
+   (ID: conversation_189)
+
+13. my mom is a janitor .
+   (ID: conversation_358)
+
+14. i have 2 beagles named chance and boomer .
+   (ID: conversation_489)
+
+15. my girl friend lives in the condo next door .
+   (ID: conversation_493)
+
+16. i like to donate time and money to charity .
+   (ID: conversation_376)
+
+17. i like to go hunting .
+   (ID: conversation_392)
+
+18. i work out daily .
+   (ID: conversation_219)
+
+19. i eat well .
+   (ID: conversation_441)
+
+20. i like to hike .
+   (ID: conversation_157)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4445
+
+1. I play a lot of video games.
+   (ID: conversation_247_user_2)
+
+2. I live in vermont.
+   (ID: conversation_20_user_2)
+
+3. I am 25 years old and live with my parents.
+   (ID: conversation_78_user_2)
+
+4. I prefer iphone over samsung.
+   (ID: conversation_67_user_1)
+
+5. One child has autism.
+   (ID: conversation_381_user_1)
+
+6. My hair is black.
+   (ID: conversation_397_user_1)
+
+7. I hate skiing.
+   (ID: conversation_114_user_2)
+
+8. My favorite book is ender s game.
+   (ID: conversation_53_user_2)
+
+9. I am single.
+   (ID: conversation_428_user_1)
+
+10. I love honey.
+   (ID: conversation_306_user_1)
+
+11. I am partially blind.
+   (ID: conversation_2_user_2)
+
+12. I love animals.
+   (ID: conversation_190_user_1)
+
+13. I have braces.
+   (ID: conversation_470_user_1)
+
+14. I like tall men.
+   (ID: conversation_385_user_1)
+
+15. My masters degree is in italian literature.
+   (ID: conversation_449_user_2)
+
+16. I love to draw.
+   (ID: conversation_460_user_1)
+
+17. My dad works offshore.
+   (ID: conversation_299_user_2)
+
+18. I m an actress and i work at a grocery store.
+   (ID: conversation_322_user_1)
+
+19. I married my high school sweetheart.
+   (ID: conversation_453_user_1)
+
+20. I love candy.
+   (ID: conversation_301_user_1)
+
+
+============================================================

@@ -1,0 +1,431 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 470
+
+Dataset distribution in this cluster:
+  FoCus: 115 (24.5%)
+  MPChat: 8 (1.7%)
+  MSC: 63 (13.4%)
+  PEC: 169 (36.0%)
+  PER-CHAT: 31 (6.6%)
+  PersonaChat: 27 (5.7%)
+  SyntheticPersonaChat: 57 (12.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 115
+
+1. I would like to walk through a dock.
+   (ID: F91BK688K9G1_11)
+
+2. I like nature.
+   (ID: FHCSCC2MB2X0_7)
+
+3. I like street.
+   (ID: FOZE4Q84M3RX_11)
+
+4. I like Gothic Revival style.
+   (ID: 8C87PLCFQ0ZH_11)
+
+5. I like Science.
+   (ID: STW2OR1N34AR_11)
+
+6. I like Worcestershire Canal.
+   (ID: 72MY00U8UEGB_11)
+
+7. I like athletics.
+   (ID: FGIEUW9ABAQU_11)
+
+8. I would like to go to college.
+   (ID: NOJ4G30KI3T7_11)
+
+9. I like eagles.
+   (ID: IBKUIXV3M06F_7)
+
+10. I would like to be a pianist.
+   (ID: D0BKN1W8KWG6_7)
+
+11. I like locomotives.
+   (ID: N1SMQLB7T5J7_11)
+
+12. I like to go to a park.
+   (ID: MP1ZK22Q90C9_11)
+
+13. I like rivers.
+   (ID: AOQJE7BBYFVM_11)
+
+14. I like to go to Church.
+   (ID: LRGBCD6RT2HQ_11)
+
+15. I do not like French Gothic.
+   (ID: 9IFEU12EAOWB_11)
+
+16. I like waking up early.
+   (ID: STDMXJC7HTUG_11)
+
+17. I would like to go to Idaho.
+   (ID: D449W0YW7LNU_11)
+
+18. I like Shakespeare's works.
+   (ID: POTYY4E7PSQF_11)
+
+19. I like shopping.
+   (ID: FOZE4Q84M3RX_11)
+
+20. I like Recreation.
+   (ID: AN8LSF1PEYK2_11)
+
+
+--- MPChat ---
+Total from this dataset: 8
+
+1. why do my zigzag stitches look like this?
+   (ID: hmbmelly)
+
+2. my snickerdoodles dont look like your snickerdoodles!
+   (ID: baccgirl)
+
+3. weird but i like it
+   (ID: jlb4est)
+
+4. i would like one boop please.
+   (ID: kentobean123)
+
+5. i like to fold papers too!
+   (ID: gxnelson)
+
+6. why are my rosetta's twisting like this?
+   (ID: ext23)
+
+7. i think they look like aesthetic spaghetti
+   (ID: green-egg-and-ham)
+
+8. i like to put cute animals in my coffee!
+   (ID: av929)
+
+
+--- MSC ---
+Total from this dataset: 63
+
+1. I do not like chocolate.
+   (ID: dialog_44_speaker_2)
+
+2. I also like to go biking.
+   (ID: dialog_76_speaker_1)
+
+3. I like to buy things.
+   (ID: dialog_71_speaker_2)
+
+4. I like my boo.
+   (ID: dialog_89_speaker_2)
+
+5. I like christmas.
+   (ID: dialog_66_speaker_2)
+
+6. I like getting dishes.
+   (ID: dialog_73_speaker_2)
+
+7. I like seafood a lot.
+   (ID: dialog_25_speaker_2)
+
+8. I like travelling for leisure. I like the beach.
+   (ID: dialog_82_speaker_2)
+
+9. I like beer
+   (ID: dialog_61_speaker_1)
+
+10. I like to be eccentric.
+   (ID: dialog_81_speaker_2)
+
+11. I like my picture.
+   (ID: dialog_36_speaker_1)
+
+12. I like to be around books.
+   (ID: dialog_56_speaker_2)
+
+13. I like to buy things.
+   (ID: dialog_27_speaker_1)
+
+14. I like to walk pets.
+   (ID: dialog_89_speaker_1)
+
+15. I like bigger canines.
+   (ID: dialog_6_speaker_2)
+
+16. I like mojitos.
+   (ID: dialog_2_speaker_1)
+
+17. I like suspense.
+   (ID: dialog_5_speaker_1)
+
+18. I like things that aren't complicated.
+   (ID: dialog_82_speaker_1)
+
+19. I like to whittle. I make figurines.
+   (ID: dialog_0_speaker_1)
+
+20. I like to eat.
+   (ID: dialog_16_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 169
+
+1. i think i should leave this one like this .
+   (ID: serverpilot)
+
+2. i like oranges and apples at room temp .
+   (ID: mbw1960)
+
+3. i m not like the other goths * tips fedora w/ chains *
+   (ID: Lifes6Midnight)
+
+4. i do nt like hr
+   (ID: LCPhotowerx)
+
+5. i like that you capitalized very big one
+   (ID: doctor_parcival)
+
+6. i like 1 and 3 .
+   (ID: kailan123456)
+
+7. i like yours more
+   (ID: Evref)
+
+8. i like how you left the 7 unrepeating .
+   (ID: ifatree)
+
+9. i like drawing .
+   (ID: Captain_-H)
+
+10. i do n't even like coffee , but i gots to have it .
+   (ID: cookiexcmonster)
+
+11. i have done dbt and would like to follow along .
+   (ID: parkleswife)
+
+12. i 'd like to be as diplomatic as possible .
+   (ID: carwynllew)
+
+13. i always pirate first , and then buy if i like it .
+   (ID: CuriousBlueAbra)
+
+14. i like to think of it as " childfree . "
+   (ID: scoutsadie)
+
+15. i do n't like pants
+   (ID: alextound)
+
+16. i 'd like to see him topless .
+   (ID: doctor_parcival)
+
+17. i think you look a little like kristen stewart !
+   (ID: ListenandLove100)
+
+18. i would like to climb him like a tree .
+   (ID: buttercup_mauler)
+
+19. i like the way you think .
+   (ID: LooksAtClouds)
+
+20. i like that lip color on you !
+   (ID: latestartksmama)
+
+
+--- PER-CHAT ---
+Total from this dataset: 31
+
+1. i used to be like that too , not anymore though . but i ' m afraid i will at some point think about it again so i like to make jokes because it makes something i ' m scared of a little less scary .
+   (ID: d786fcd0afbed17f795e41e12bf7c85d045d2a0f)
+
+2. why should you of felt bad in the first place ? if you like it , you like it .
+   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
+
+3. i like that . i think the origin of " god bless you " was the belief that when you sneeze some of your soul escapes .
+   (ID: 259e025807a2eee6eaf38242805e7dfc46aaa91f)
+
+4. would you like  thing a  or  thing b  ?
+   (ID: 2971f819c4d7400b9fa7806434e9037b6af4dfae)
+
+5. booboo ? was that like ubu ' s evil doppelganger or something ?
+   (ID: af0db6dfe4be67a6b6915437597ea564bbb33830)
+
+6. what  s the cost look like for you locally there ?
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+7. i ' m making this video because . i like animals .  that ' s enough for me
+   (ID: 0254dc2f43007419c5c3fd1e155e6bf15fce137d)
+
+8. the martian had so much potential but was such a letdown for me . almost every actor seemed like they ' d rather be somewhere else .
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+9. i dont think it works like that but ok
+   (ID: 801c30bb9f7fe270789d76054d77c547f65e41eb)
+
+10. it  s more like you return to home . i think it  s a pun on peter being a kid like spider man get back home ! or the chancla !
+   (ID: 6e7cd3892c49f30c5999e4b7337f95be97df0c1b)
+
+11. might look like
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+12. i think the question is asking what industries you ' d like to kill off , i think you ' re taking it as an insult
+   (ID: 125ddbf9c8c84552065bdd657a82dd3f392bf5c1)
+
+13. i like you
+   (ID: 19a9190bb25fd002a6b979a3f72494c6523d8880)
+
+14. i think everyone pronounces their ts like ds if its in the middle of a word
+   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+
+15. i suppose you ' re right , but i ' d like to think that i deserve to be wanted and  or desired .
+   (ID: fddeeaa11799939dfe96bc7fae74a22b474aaf20)
+
+16. hahah ! like they would make three matrix films . i think you might be trolling .
+   (ID: 0ff9b93da34f69dc075bf7e22366843c393b5bdd)
+
+17. i think it ' s more like when you go to pick up your kid from school but you forgot his name .
+   (ID: bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809)
+
+18. one of these things are not like the others .
+   (ID: 5a485308ca6e36eb17d7b0fc321fcf7695f3af53)
+
+19. i think it ' s like disco domination where it ' s release is delayed but alot more worse
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+20. what ' s it look like when it ' s on ? is it not obvious ?
+   (ID: 2ce8587266f0888bb10672ccf8a7be1bc6c3f0d2)
+
+
+--- PersonaChat ---
+Total from this dataset: 27
+
+1. i like to go to the movies .
+   (ID: conversation_185)
+
+2. i like cartoons more than movies .
+   (ID: conversation_102)
+
+3. i like to skateboard .
+   (ID: conversation_205)
+
+4. i like to go fishing .
+   (ID: conversation_124)
+
+5. i like baths .
+   (ID: conversation_6)
+
+6. i like to draw .
+   (ID: conversation_135)
+
+7. i like baths .
+   (ID: conversation_182)
+
+8. my parents were like this as well .
+   (ID: conversation_110)
+
+9. i like to snowboard .
+   (ID: conversation_15)
+
+10. i like basketball .
+   (ID: conversation_8)
+
+11. i like basketball .
+   (ID: conversation_207)
+
+12. i like to exercise .
+   (ID: conversation_182)
+
+13. i like gardening .
+   (ID: conversation_239)
+
+14. i like to sing broadway show tunes .
+   (ID: conversation_144)
+
+15. i do not like kids .
+   (ID: conversation_154)
+
+16. i like to party .
+   (ID: conversation_7)
+
+17. i like to party .
+   (ID: conversation_112)
+
+18. i like meat too much .
+   (ID: conversation_137)
+
+19. i like to think about what it would be like to be an artist .
+   (ID: conversation_212)
+
+20. i like the guitar .
+   (ID: conversation_205)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 57
+
+1. I like to cook.
+   (ID: conversation_169_user_2)
+
+2. I like to build things.
+   (ID: conversation_12_user_1)
+
+3. I like to bike.
+   (ID: conversation_106_user_1)
+
+4. Like a skeleton.
+   (ID: conversation_56_user_2)
+
+5. I like to cook.
+   (ID: conversation_40_user_2)
+
+6. I like soccer.
+   (ID: conversation_204_user_1)
+
+7. I like dogs.
+   (ID: conversation_121_user_1)
+
+8. I like to go for bike rides.
+   (ID: conversation_213_user_1)
+
+9. I like to go to comic con.
+   (ID: conversation_137_user_2)
+
+10. I like dogs.
+   (ID: conversation_120_user_1)
+
+11. I like to go fishing.
+   (ID: conversation_50_user_2)
+
+12. I like the movie godfather.
+   (ID: conversation_21_user_1)
+
+13. I like photography.
+   (ID: conversation_74_user_1)
+
+14. I like football.
+   (ID: conversation_239_user_2)
+
+15. I like the movie godfather.
+   (ID: conversation_33_user_2)
+
+16. I like to be alone.
+   (ID: conversation_93_user_2)
+
+17. I like gardening.
+   (ID: conversation_169_user_2)
+
+18. I like meat too much.
+   (ID: conversation_245_user_2)
+
+19. I like victorian things.
+   (ID: conversation_122_user_1)
+
+20. I like to go to the movies.
+   (ID: conversation_135_user_2)
+
+
+============================================================

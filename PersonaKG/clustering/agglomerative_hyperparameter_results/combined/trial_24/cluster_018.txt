@@ -1,0 +1,467 @@
+CLUSTER 18
+============================================================
+Total statements in cluster: 1246
+
+Dataset distribution in this cluster:
+  FoCus: 369 (29.6%)
+  MPChat: 22 (1.8%)
+  MSC: 139 (11.2%)
+  PEC: 446 (35.8%)
+  PER-CHAT: 148 (11.9%)
+  PersonaChat: 46 (3.7%)
+  SyntheticPersonaChat: 76 (6.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 369
+
+1. I have heard about Bern.
+   (ID: ATJSFYS2K6FK_11)
+
+2. I have heard of many shipwrecks.
+   (ID: DAT5H5H80JCW_7)
+
+3. I am curious about Mars.
+   (ID: 942CCWXHPUZT_11)
+
+4. I went to France on my vacation last year.
+   (ID: OVAVQ6KQ4YWN_11)
+
+5. I would like to visit a castle.
+   (ID: 8PCBSP0T0VTY_11)
+
+6. I have not visited a zoo in a long time.
+   (ID: LFGIG1TODPKB_11)
+
+7. I wish to go to Beijing.
+   (ID: UDGAGMKQ9TQ1_11)
+
+8. I have been to Norway.
+   (ID: VZ1O6OE23O98_11)
+
+9. I am from Colorado.
+   (ID: T815O8KC30IG_9)
+
+10. I hope to visit Kenya someday.
+   (ID: B4623TSE2PJX_7)
+
+11. I wish to go to Ludgate Hill.
+   (ID: LRGBCD6RT2HQ_11)
+
+12. I wish I could see an ancient city.
+   (ID: C19OKX49XN0G_7)
+
+13. I have not been to Cumbria.
+   (ID: 8PCBSP0T0VTY_11)
+
+14. I hope to see buildings in Nuremberg.
+   (ID: YB6ZF4SJI3P1_11)
+
+15. I have a friend from Tornoto.
+   (ID: NMEFJE64KZ1F_11)
+
+16. I am willing to visit Dortmund in this summer.
+   (ID: EUD8WT84YX0Q_11)
+
+17. I have never played golf.
+   (ID: MP1ZK22Q90C9_11)
+
+18. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+19. I have visited the BC Place.
+   (ID: UHVFDJII2GF5_11)
+
+20. I wish to visit Wales.
+   (ID: N1SMQLB7T5J7_11)
+
+
+--- MPChat ---
+Total from this dataset: 22
+
+1. my first picture post ...who says iowa is all flat and corn fields?
+   (ID: iowajaycee)
+
+2. favorite picture i took yesterday in the meadows at longwood gardens
+   (ID: ReturnOfTheFox)
+
+3. this is my favorite shot from yesterday's fourth of july festivities.
+   (ID: LunaMcLovin)
+
+4. i have never been to a brunch wedding, but i am a fan!
+   (ID: onemantwohands)
+
+5. i tried to take a snow day photo of baker
+   (ID: BananaStand07)
+
+6. found this tiny fren in my back yard.
+   (ID: smsikking)
+
+7. this is the most beautiful place i have ever been to.
+   (ID: LunaMcLovin)
+
+8. all of my friends think nevada is ugly...
+   (ID: evantide)
+
+9. valley falls state park, wv - really tested my brakes coming down
+   (ID: onemantwohands)
+
+10. i need to get back here
+   (ID: FormalSwimming)
+
+11. it's a jurassic kind of world - oahu, hawai'i
+   (ID: River_Lethe)
+
+12. it was windy and gray, but i played 18 in shorts on january 5th.
+   (ID: Taengoosundies)
+
+13. "i would like to engage in recreation, sir."
+   (ID: ambora)
+
+14. i live in thailand and me and my girlfriend go to this island from time to time.
+   (ID: PaidJewishTroll)
+
+15. i have to travel 3.5 hours for decent dim sum...
+   (ID: onemantwohands)
+
+16. how my hometown in nevada normally looks compared to how it currently looks due to the california rim fire.
+   (ID: evantide)
+
+17. it's my first day in naples and i'm already loving it
+   (ID: RaeADropOfGoldenSun)
+
+18. this is my neighbor, sammich.
+   (ID: Flattishsassy)
+
+19. baby backs over mesquite, i fell asleep and thought i burned them.
+   (ID: billwhiz)
+
+20. (i have not seen it in person yet)
+   (ID: iowajaycee)
+
+
+--- MSC ---
+Total from this dataset: 139
+
+1. I'm from Nashville, TN, and I've lived here my whole life. I like country music.
+   (ID: dialog_66_speaker_2)
+
+2. My best friend lives in Tokyo. I've never been outside the US.
+   (ID: dialog_89_speaker_1)
+
+3. I live with my parents. My father has Covid-19, but he is getting better.
+   (ID: dialog_77_speaker_1)
+
+4. I think I can be a good role model for youngsters.
+   (ID: dialog_48_speaker_2)
+
+5. I want to live closer to nature.
+   (ID: dialog_45_speaker_1)
+
+6. My family used to live in sydney.
+   (ID: dialog_38_speaker_2)
+
+7. I'm in high school. I want to be an astronaut.
+   (ID: dialog_90_speaker_1)
+
+8. I enlighten young minds.
+   (ID: dialog_86_speaker_2)
+
+9. I'm single. I want to go to Japan.
+   (ID: dialog_89_speaker_1)
+
+10. Seeing the globe is on my bucket list.
+   (ID: dialog_13_speaker_1)
+
+11. I will holiday in Hawaii.
+   (ID: dialog_16_speaker_2)
+
+12. I want t o travel and make things.
+   (ID: dialog_75_speaker_2)
+
+13. I like tacos. I am getting ready to move.
+   (ID: dialog_12_speaker_1)
+
+14. I am surprised how good pictures taken with iPhone came out.
+   (ID: dialog_49_speaker_2)
+
+15. I am from a very small town.
+   (ID: dialog_2_speaker_1)
+
+16. I hope one day I will be good at stocks.
+   (ID: dialog_54_speaker_1)
+
+17. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+18. I want to be like diego maradona.
+   (ID: dialog_53_speaker_2)
+
+19. I live in Florida. I have contacts in Alabama. I have never been to Alabama.
+   (ID: dialog_85_speaker_2)
+
+20. I'll probably be moving to Orlando.
+   (ID: dialog_32_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 446
+
+1. i stayed 6 hours and it would have been painful !
+   (ID: cassieeh)
+
+2. i ’m so glad this does n’t happen in my area
+   (ID: FrankOfTheDank)
+
+3. i once have been to an away game with four other people .
+   (ID: harumpf)
+
+4. i 'm in ferndale and i second this .
+   (ID: hussy_trash)
+
+5. i thought this was america
+   (ID: John7oliver)
+
+6. i ’m on vacation in prague , but my feet hurt from sightseeing in such a beautiful city .
+   (ID: StinkinFinger)
+
+7. i 've been going there for 15 years :)
+   (ID: rycheme)
+
+8. i ’ve checked tripadvisor and other subreddits , but just want to make sure i ’m not missing anything .
+   (ID: SPQR1212)
+
+9. i was born and raised southern az and so many people here come from illinois .
+   (ID: I_am_not_a_Taco)
+
+10. i would give anything to have that delicious sleepy feeling again .
+   (ID: 11_29_77)
+
+11. i ’m in sunny weather .
+   (ID: PepperPixie09)
+
+12. i hope one day you can look in the mirror and see the beautiful person that others do .
+   (ID: Evolatic)
+
+13. i go every week !
+   (ID: doctor_parcival)
+
+14. i want that 1:40 of my life back
+   (ID: lambsquatch)
+
+15. i want to go to there
+   (ID: Chicoconut)
+
+16. i 'd almost die for a rainy day at this point .
+   (ID: zsnajorrah)
+
+17. i 'm from nebraska and i promise you we educate our farm children .
+   (ID: IncredibleBulk2)
+
+18. i 'm getting stationed there soon , i 'm glad to hear this .
+   (ID: adertal)
+
+19. i grew up in chagrin falls
+   (ID: Justadropinthesea)
+
+20. i am wondering if what the op thinks is the city is actually a hoa .
+   (ID: dammitOtto)
+
+
+--- PER-CHAT ---
+Total from this dataset: 148
+
+1. does foster actually exist ? i always thought it was just a joke we were playing on americans . kind of like asians selling feng shui to white people
+   (ID: 56b0fa955cab3b71ba6368e8c4ad684a45da92dd)
+
+2. i ' ve never had dutch brothers coffee . we just moved to the western part of usa . but the lines at literally every location we ' ve seen are enormous all day long . i don ' t know what they are putting in that stuff but folks sure love it .
+   (ID: 74cc8b596c27cbe385709690baaf3b68f39b3915)
+
+3. yeah , we got a ton here in seattle , and they ' re almost all great . one of the best ways to keep shops like that open , in my opinion . if you don ' t want to do a lot of food you can always do a coffee shop and allow outside food with a small cover i ' ve seen  digit or partner with a nearby shop to allow their food exclusively in return for a discount for your employees .
+   (ID: 650ba9cdaca39ad1c1fe5e6348b11afb4d8e7a0f)
+
+4. hell yes ! that is the only thing i miss about living in california .
+   (ID: 388a9b7cd52305ad65297c63f4c50272c2661e4c)
+
+5. place  southern rim of the grand canyon . absolutely breathtaking and overwhelming . but one of my favorite places was because of a moment when i was able to watch a solar eclipse in my home state
+   (ID: 7a0302ed354e54bfa45e1de27055f29421f91f29)
+
+6. in some places , maybe , but therr are still places where you can get killed for being gay .
+   (ID: b5e15026c378d181e66e2b38bfc245705510a727)
+
+7. hell yeah , especially the digit always has that vibe . but they overhauled the whole building it ' s not that dark and damp place people used to love haha . but sucks man if you still want to go you can always hook up with me so you have a place to stay with some friends or what not ! have a nice day man !
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+8. i don ' t know enough about canada to know if this is stupid or not , so feel free to ignore me if it is . can you sign up with credit karma ? it ' s a free site that will show you your credit reports and they also will show you offers you might qualify for . check it out and see if they recommend any particular cards . discover cards are usually pretty easy to get , as are capital one cards . just be careful of things like annual fees and high interest rates .
+   (ID: 0e19a35c711a9c78f764d5268c09b16559cdadbf)
+
+9. i lived there as a kid  looking at this meadow , i ' m like , " i think i ' ve actually been there ! "  then i get sad because i never appreciated being there as a kid  now that i ' m grown , i can ' t just pick up  move back .
+   (ID: 649605988d72e34fdcf0c170b6b9fa959a7d483e)
+
+10. you obviously don ' t really want to do it . stop worrying about everyone else and take the time to get yourself together
+   (ID: e762afbb043380ba48c73fe9d10d74d8daeb8b17)
+
+11. declining invites is i think a bit too far unless you have reason to expect an immediate disaster , such as a hurricane or snowstorm . here ' s what i would do . digit  keep some basics in your car , primarily water , food , meds and blankets . if you ' re travelling without a car , keep basics in your luggage if at all possible . digit  introduce others to prepping , but be diplomatic about it  start with the absolute basics , and mention for instance how you ' ve been reading about hurricanes  floods  any other fairly common disaster , and you think a few day ' s worth of supplies is a really great idea digit  don ' t start off by saying ' the end is nigh and i will not come stay unless you have guns , ammo and twelve years of mres ' sounds far  fetched but i ' ve met very intense preppers . they ' ll almost certainly just think you ' re both impolite and crazy , which is unhelpful . digit  you have an advantage now that it has happened once . next time you go stay with these friends , you can say ' remembering what happened last time , would it be helpful if i bring some spare water and things along ? no big deal , just though it might help keep all of our minds at rest , what with the kids and all ! ' they ' ll almost certainly take the hint and stock up on a few basic supplies if they can do so .
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+
+12. yes ! i thought i was the only one who felt terrible after digit beers there . thanks for the validation , you complete me .
+   (ID: 5b8ed03bdff11aec4ed3a2ed4e122a505bf937dd)
+
+13. you ' ll never know if you don ' t go
+   (ID: b62d2865206257ab4ea65a5e489f9d4e1c8d5e9b)
+
+14. it will absolutely kill you . do not go west , even if your name is fievel
+   (ID: 052f00c7edd271c075c12682b25bc1bd94228324)
+
+15. memphis is nice . moderate climate low taxes cost of living is low . we also have one of the largest city parks in the country .
+   (ID: 79e5228419de270c01297915dbce56be0063c52b)
+
+16. we just kinda roll with it here , no on really talks about it . some people have whats called a  happy lamp  that gives off uv rays or something . i think digit  of the people that live here get sad , which is caused from the lack of sunlight . sad is a seasonal depression disorder btw i live in america , but alaska
+   (ID: 13429813198f2aaef97e18644aa776da323f48a1)
+
+17. very good point , didn ' t think about that aspect . but the fact that op started with " being in la " makes me think it ' s for social media purposes .
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+18. . you can do anything there .
+   (ID: 79be9557b3d70396e049eaa975227b5e203bb8db)
+
+19. well you defo need to go . great festival . but i live in tilburg you can always hit me up . don ' t know if i will go .
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+20. you  re amazing ! i say this as a mom of two kids in church and having years of practice with them ! twins ! bless you for even coming out of the house let alone trying something new ! i have been through rcia  it was the kids that were finally the tipping point for me actually husband is what is termed a  cradle catholic  it was a good experience not only for learning but also developing some real bonds with people in the church . check the  parish bulletin  if they have one  sometimes they have mom nights which is nice to make friends  have play groups with kids of similar ages . mass is great , the community that can form around it is amazing . welcome red  heart
+   (ID: 392895b8f4f938fb4e2bfae6551b901dccf33ac2)
+
+
+--- PersonaChat ---
+Total from this dataset: 46
+
+1. i'm hoping to move to australia soon to marry my boyfriend .
+   (ID: conversation_77)
+
+2. my dream is to move to the middle of the desert .
+   (ID: conversation_92)
+
+3. i wish i did not have to work .
+   (ID: conversation_212)
+
+4. i want to move .
+   (ID: conversation_147)
+
+5. i dream of becoming a famous actress .
+   (ID: conversation_94)
+
+6. i wish i was a tiger .
+   (ID: conversation_156)
+
+7. i wish i had a real dragon i could train .
+   (ID: conversation_31)
+
+8. i love to travel .
+   (ID: conversation_246)
+
+9. my best friend lives in japan .
+   (ID: conversation_170)
+
+10. i want to grow up to be a superhero one day .
+   (ID: conversation_119)
+
+11. i like to travel .
+   (ID: conversation_166)
+
+12. my parents recently moved to florida .
+   (ID: conversation_46)
+
+13. i want to be a museum curator .
+   (ID: conversation_238)
+
+14. i love living in texas .
+   (ID: conversation_26)
+
+15. before i die , i want to skydive .
+   (ID: conversation_92)
+
+16. i'm going on a cruise next month .
+   (ID: conversation_46)
+
+17. i still dream about going to paris and designing clothes .
+   (ID: conversation_75)
+
+18. i wish i made more money .
+   (ID: conversation_212)
+
+19. i like to travel .
+   (ID: conversation_9)
+
+20. i want to become an author .
+   (ID: conversation_165)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 76
+
+1. My best friend lives in japan.
+   (ID: conversation_152_user_2)
+
+2. I love to travel.
+   (ID: conversation_209_user_2)
+
+3. I have traveled to europe and mexico.
+   (ID: conversation_202_user_2)
+
+4. I want to be an astronaut when i grow up.
+   (ID: conversation_136_user_2)
+
+5. I am from california.
+   (ID: conversation_74_user_2)
+
+6. I travel often.
+   (ID: conversation_14_user_2)
+
+7. I like to travel.
+   (ID: conversation_112_user_1)
+
+8. I live to not disappoint my loved ones.
+   (ID: conversation_11_user_1)
+
+9. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+10. I grew up in nevada.
+   (ID: conversation_120_user_1)
+
+11. Many of my former students like to visit me.
+   (ID: conversation_107_user_2)
+
+12. I believe that i can achieve anything.
+   (ID: conversation_214_user_2)
+
+13. I like to travel.
+   (ID: conversation_13_user_1)
+
+14. I love to travel.
+   (ID: conversation_237_user_1)
+
+15. I just took a trip to london.
+   (ID: conversation_106_user_2)
+
+16. I grew up in nevada.
+   (ID: conversation_121_user_1)
+
+17. I live to not disappoint my loved ones.
+   (ID: conversation_9_user_1)
+
+18. My family owned a small restaurant.
+   (ID: conversation_28_user_2)
+
+19. I want to travel the world taking photographs of my travels.
+   (ID: conversation_225_user_1)
+
+20. I want to visit rome , but i cannot make myself go alone.
+   (ID: conversation_233_user_2)
+
+
+============================================================

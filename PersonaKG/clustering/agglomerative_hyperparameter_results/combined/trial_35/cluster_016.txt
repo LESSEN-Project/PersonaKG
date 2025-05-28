@@ -1,0 +1,141 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 79
+
+Dataset distribution in this cluster:
+  MPChat: 1 (1.3%)
+  MSC: 3 (3.8%)
+  PEC: 66 (83.5%)
+  PER-CHAT: 2 (2.5%)
+  PersonaChat: 3 (3.8%)
+  SyntheticPersonaChat: 4 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. can’t believe i have two tanks now.
+   (ID: zonumnire)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I do not believe in love.
+   (ID: dialog_165_speaker_1)
+
+2. I believe in love.
+   (ID: dialog_165_speaker_2)
+
+3. I believe in the supernatural.
+   (ID: dialog_58_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 66
+
+1. i believe in thorough investigation before confirmation , do you ?
+   (ID: Question-everythings)
+
+2. i believe it was a modded cart ?
+   (ID: MUZAI)
+
+3. i 'd like to believe you .
+   (ID: Nolanoscopy)
+
+4. i still do the believe any of you .
+   (ID: arabguyistall)
+
+5. i do not believe them .
+   (ID: apcreddit)
+
+6. i do n't believe so .
+   (ID: pyro2927)
+
+7. i do n’t believe you .
+   (ID: Heydawgg)
+
+8. i believe you can do it !
+   (ID: boo3114)
+
+9. i do n't believe that
+   (ID: GitFloowSnaake)
+
+10. i believe they are associated , but i ’m not sure .
+   (ID: USAFIDMT)
+
+11. i do n’t believe it .
+   (ID: samward7)
+
+12. i 'll believe it when we go there again
+   (ID: RonaldFuckingPaul)
+
+13. i believe ics allows you to encrypt the storage .
+   (ID: Evolatic)
+
+14. i believe it 63 %
+   (ID: alextound)
+
+15. i believe tedx is not affiliated with ted .
+   (ID: osmosisparrot)
+
+16. i believe it !
+   (ID: jay456)
+
+17. i believe you .
+   (ID: Evref)
+
+18. i believe we 're on to something here .
+   (ID: Machinax)
+
+19. i believe in you � � � �
+   (ID: Noimnotsally)
+
+20. i do n't believe it until i see it .
+   (ID: Wowliam)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. you believe in those ?
+   (ID: 726c36ce13fa631676ed5053f62b0f5f7b61eb5e)
+
+2. because i believe it
+   (ID: 2264050ea82d909575d6593daf8246fa8655751e)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i believe in ghosts and have seen them on several occasions .
+   (ID: conversation_292)
+
+2. i do not believe in love .
+   (ID: conversation_190)
+
+3. i believe in fairytales .
+   (ID: conversation_318)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I do not believe in love.
+   (ID: conversation_292_user_1)
+
+2. I do not believe in love.
+   (ID: conversation_229_user_1)
+
+3. I believe in leprechauns.
+   (ID: conversation_226_user_2)
+
+4. I believe in ghosts and have seen them on several occasions.
+   (ID: conversation_212_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 55785
+
+Dataset distribution in this cluster:
+  FoCus: 1527 (2.7%)
+  MPChat: 3644 (6.5%)
+  MSC: 2600 (4.7%)
+  PEC: 22569 (40.5%)
+  PER-CHAT: 20990 (37.6%)
+  PersonaChat: 1496 (2.7%)
+  SyntheticPersonaChat: 2959 (5.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1527
+
+1. I love the National Park Service.
+   (ID: KW9HNA6XJ79B_11)
+
+2. I am planning to go to India.
+   (ID: CJWI83QV42AK_11)
+
+3. I have met a lot of Jewish people living in South Florida.
+   (ID: VUQVHZP0LUAH_11)
+
+4. I attend The Church of Jesus Christ of Latter-day Saints.
+   (ID: G9I9RZZLCC1P_11)
+
+5. I would like to know the location of knob hill.
+   (ID: TBZIWSGJCM17_11)
+
+6. I am interested in knowing the longest tunnels.
+   (ID: MJ8L7IHV13N8_11)
+
+7. I enjoy learning history.
+   (ID: WBJ9XM2CIE43_9)
+
+8. I like history.
+   (ID: EDLPKHWH3K5B_11)
+
+9. I would like to go to India.
+   (ID: CPJ95KR758ZY_11)
+
+10. I like to go to parks.
+   (ID: QCE0MRFN8S9J_9)
+
+11. I wish to visit Toronto.
+   (ID: AQN3EJ76NIKJ_11)
+
+12. I like shopping.
+   (ID: FOZE4Q84M3RX_11)
+
+13. I am interested in future extension plans.
+   (ID: 8KHO3GFPWXQ3_11)
+
+14. I wish I could visit the County of Champagne.
+   (ID: TDUTQ7NCYJ1S_11)
+
+15. I wish to see lemurs.
+   (ID: FS1LJTHM1IC0_11)
+
+16. I like to visit france.
+   (ID: P1H8TAIRTLFZ_9)
+
+17. I like public Park.
+   (ID: RN7ZT44D6QK1_11)
+
+18. I don't like the high temperatures associated with pyroclastic flows.
+   (ID: G4JZMW0OPV0G_11)
+
+19. I like Lake Burragorang.
+   (ID: KHRYE9OFUIMW_9)
+
+20. I wish I had opportunity to live in New York one day.
+   (ID: YH6KAJ3V2KQ8_11)
+
+
+--- MPChat ---
+Total from this dataset: 3644
+
+1. old photo i took last year but still beautiful!
+   (ID: Foolz_Go1d)
+
+2. happy with my attempt, lots to improve on!
+   (ID: zenbuffy)
+
+3. this picture of a project i recently finished makes me happy
+   (ID: FoxInKneeSocks)
+
+4. my boy drogo looking for the splash
+   (ID: FMbutterpants)
+
+5. i've never actually finished any project until tonight... it's not much, but it's done!
+   (ID: SarahFree339)
+
+6. i'm all set for fall with this headband i crocheted!
+   (ID: FoxInKneeSocks)
+
+7. my cat is missing some front teeth
+   (ID: Nerdyredeyejedi)
+
+8. i still have their helmets to be complete, but those can wait.
+   (ID: amandabakes)
+
+9. my all aluminum ergodox project is now complete!
+   (ID: ItsBail)
+
+10. i also wuv fall
+   (ID: drewchie)
+
+11. here is my first comfort bear for this year.
+   (ID: Moriarty58)
+
+12. the cardigan i made.i wanted it to be cheerful and use leftover yarn as well
+   (ID: letsallcrochetYT)
+
+13. i embroidered a round hardanger blanket.
+   (ID: gelimausi)
+
+14. [i ate] biscuit and sawmill gravy with fried chicken and poached egg.
+   (ID: patm28)
+
+15. i have requests from friends for three more already.
+   (ID: Nikyma)
+
+16. i never knew what i was missing.
+   (ID: ddizzle23)
+
+17. finished off this tiny baby blanket, i will be turning this into a wall art piece.
+   (ID: Winter246)
+
+18. a few pics from my camping trip to arches national park.
+   (ID: myowndevo)
+
+19. [i ate] pakora, tikka masala, and naan
+   (ID: onemantwohands)
+
+20. submitted photos to enter the largest throwdown i'd ever be in.
+   (ID: jlb4est)
+
+
+--- MSC ---
+Total from this dataset: 2600
+
+1. My dad used to be employed at general electrics.
+   (ID: dialog_47_speaker_2)
+
+2. My favorite author is stephen king. Reading is my favorite hobby.
+   (ID: dialog_132_speaker_2)
+
+3. I have an apartment in new york.
+   (ID: dialog_121_speaker_1)
+
+4. I like to celebrate with friends.
+   (ID: dialog_7_speaker_2)
+
+5. My parents are very judgmental and rude.
+   (ID: dialog_2_speaker_1)
+
+6. I have never left the countryside.
+   (ID: dialog_42_speaker_2)
+
+7. I'm employed at the stock exchange.
+   (ID: dialog_121_speaker_1)
+
+8. I love the water.
+   (ID: dialog_20_speaker_1)
+
+9. My mother was born in ireland. My father was born in australia.  I live in California.
+   (ID: dialog_38_speaker_2)
+
+10. Working in outer space would be awesome!.
+   (ID: dialog_90_speaker_1)
+
+11. I do not eat a lot of vegetables.
+   (ID: dialog_35_speaker_1)
+
+12. I'm an outcast.
+   (ID: dialog_45_speaker_1)
+
+13. I spend a lot of time in the kitchen.
+   (ID: dialog_109_speaker_1)
+
+14. I am single and tired of the bar scene. I was promoted to salon manager.
+   (ID: dialog_14_speaker_1)
+
+15. I like game of thrones. Arya Stark is my favorite character.
+   (ID: dialog_1_speaker_2)
+
+16. I go to Dialectical behavioral therapy (DBT) and it is very helpful. I have borderline personality disorder.
+   (ID: dialog_106_speaker_2)
+
+17. My hobbies are hiking and biking.
+   (ID: dialog_41_speaker_1)
+
+18. I enjoy playing tennis. I play tennis in the park on Main Street and 4th.
+   (ID: dialog_11_speaker_2)
+
+19. My neighborhood can get loud late.
+   (ID: dialog_36_speaker_1)
+
+20. I am married to my wife.
+   (ID: dialog_50_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 22569
+
+1. i took your survey
+   (ID: dammitOtto)
+
+2. i think that 's an egg .
+   (ID: parkleswife)
+
+3. i 've heard the terms food porn and car porn prior to reddit existing .
+   (ID: CuriousBlueAbra)
+
+4. i played today and did better with my flames now that i know about the reserves !
+   (ID: YouDirtyDogg)
+
+5. i 'd like to down vote you , but sadly i ca n't find my downv- nope .
+   (ID: YuseiAkask)
+
+6. i player red dead redemption 2 . that was good .... but it was over before it began .
+   (ID: Aloha-Potato)
+
+7. i 'm a hero
+   (ID: Nick84572)
+
+8. i did n’t get the big hype with shadow of war , i really wanted to like it .
+   (ID: JeMangeLeButt)
+
+9. i wave like a moron
+   (ID: Aloha-Potato)
+
+10. i 'm really not sure , , i 'll look into it and let you know !
+   (ID: deryyaa)
+
+11. i 've done t before , nothing happened
+   (ID: FrankOfTheDank)
+
+12. i lurve them .
+   (ID: bugaloo2u2)
+
+13. i ’m just feeling really discouraged .
+   (ID: Montag3636)
+
+14. i would like the feel of that .
+   (ID: Beachsurfer)
+
+15. i think the question should be , who does n't like a british bum !
+   (ID: ChoppingOnionsForYou)
+
+16. i matured , and i know how to be an effective leader .
+   (ID: Lifes6Midnight)
+
+17. i do n't trust the bank so i 'd love to hear from some people with experience .
+   (ID: bbrandann)
+
+18. i kinda missed the boat on that whole thing .
+   (ID: Megan_Bee)
+
+19. i would take plan b just to be safe
+   (ID: mooonjellies)
+
+20. i have a tasker profile to do it instead .
+   (ID: Ashex)
+
+
+--- PER-CHAT ---
+Total from this dataset: 20990
+
+1. i don ' t think you should feel embarrassed . as far as i understand , you didn ' t really have a choice back then and your friend will probably understand this . i think he ' ll mainly be glad you ' re doing fine now .
+   (ID: bfc2e9a6e5f84327293fa1a1fd0287066782bcec)
+
+2. prove him wrong then . i don  t know the entire situation but at the end of the day if he  s your dad , he loves you . whether he can physically show it or not .
+   (ID: 541b4cbc0fbf09faead4d7954b3a984391890627)
+
+3. hahahah ! i know who wrote that ! there are more on the second floor of the library ! and probably more all over campus , i have not done an exhausive search of all the water closets
+   (ID: 7d39153e3adadffd15e1638679c2e1cdc5c64fde)
+
+4. you know . i ' m something of a scientist my self . and i wanna ask you  did you come to this conclusion after kowalski analysis ? no . you don ' t wanna tell me ? all right then keep your secrets to yourself . amen brothers . can i get digit likes . oops sorry , i guess we don ' t do that here .
+   (ID: 4381fa1a63289663c5683187c0d07eadf81abfc2)
+
+5. as he stated it ' s a timeloop but would mean its like ground hog day except its in years i thought thst with time if you left your spot you ended thst line and then creates a new parallel universe
+   (ID: da770212ea31887c4be30925213eff0dc5d8687b)
+
+6. well even if that ' s the case , it ' s sort of hard to just take control  analyze your own subconscious without professional help . this was like a few months ago . i guess my biggest fear relationship wise is becoming that father in the movies who is so thrown into his work , that he never makes time for his family which causes them to drift apart . this could be something else or just something petty . i mean i won ' t tolerate something that ' s obviously worse like cheating or something but i ' m not sure how to " fix " my issues in terms of attraction unless professional help is called upon i guess . i think it could be way worse though .
+   (ID: cfabcbc785db80706dcc28a81eb7851d8c7bd3ce)
+
+7. I have a daughter in my family.
+   (ID: 77a6bff8693a174b55d34fc32fdd8a87710fecb7)
+
+8. i ' m sorry about your struggle with depression . i have had the same struggle and can empathize , suicidal thoughts included . the comment she made was terrible and i ' m sure it stung extra hard in that moment in particular . but maybe try and see it from her side too . she had a terrible day with bil i know how much stress this kind of situation can be because i was a drug addict and it hurts everyone and puts a lot on others close to you . it was a problem on top of a problem . it was obviously a terrible thing to say but from what you wrote i ' m sure she didnt mean that . do you really think shes a sociopath or something ? i would hope you guys can sit down and talk things through , sincerely . just wanted to comment because i have said terrible things to loved ones and definitely didnt mean it . best of luck .
+   (ID: df32c155f124e2413f811d36f780385403a5374a)
+
+9. One of my favorite things is dark souls.
+   (ID: 95c90f0b7430996843a42a4f365667a13e4c2eb5)
+
+10. we are finding it fun and manageable as we enter month digit with our digit month lab . he  s definitely not an adult yet and there is training that needs doing regarding occasional rude behavior and overstimulation , but he  s very nice to the cat and has a great temperament . for a first time owner having a baby at the same time as a puppy or young dog might be crazy . a new dog is kind of like a baby , you  re always trying to figure out what it wants and how to get it to go to sleep ! perhaps i  m speaking too soon but as long as we have a dog walker and have like . digit hours outside of work to train  exercise  bond with him , he seems very happy and sleeps all night . we ski on weekends and feel bad about the alone time , so usually try to spend one day doing a lot of dog  centric active stuff with him .
+   (ID: eace5bb8fae91afe15af3966cf6b9189772fe2cc)
+
+11. thank you ! that ' s what i said too ! i was like , this is the lamest faux  strip tease i ' ve ever seen . it was freaking terrible ! he now loses all credibility he ever had as a judge and mentor on that reality show . dude . you suck live !
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+12. what are you doing in aws ? this question is just way to broad .
+   (ID: 76442d997e7f64c10223aeac0f4ff8af70ff9dde)
+
+13. One of my favorite things is slytherin.
+   (ID: 3019ca7bd07e9287b998767b6d0eb22d6049a635)
+
+14. One of my favorite things is crafts.
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
+
+15. One of my favorite things is raisins.
+   (ID: f3a490ceb976e7adf0cbeb213371795128597226)
+
+16. i am a chef and as anyone in the industry knows it  s nothing but repetitive tasks that takes ages . so as i  m dicing , stirring , and daydreaming of murdering my entire staff i listen to audiobooks . at least digit hours a week . really does help
+   (ID: 46cf1fc2a9c8dec12fa16589117be75cf1571e1d)
+
+17. if you want my advice on what you should do now , in your present situation . keeping in mind that it is just that , my advice . i ' d say you should first make peace with yourself and the situation . accept that you can move on and live a healthy , happy , productive life full of love and positive relationships if you never speak to him again . this is vital . it ' s the single most important thing you can do right now . search your soul . be strong , and realize that strength . then , tell him you ' re sorry for trying to force his hand , but you realize that you can ' t continue this way . then walk away . it sort of speaks to that old addage " if you love something , set it free " if he wants to be with you , truly wants to , he ' ll figure it out . this will accomplish digit things for you . a you ' re absolving yourself of his blame for ruining the other girl ' s life and you ' re removing a card he can play later . let me explain that a little better . say you don ' t take my advice which , again , is your choice and you keep up the ultimatum . in digit days , he chooses you and the two of you continue your relationship . no relationship is perfect . everyone fights . everyone has bad days . everyone feels annoyed  irritated by their partner . and everyone wonders if they made the right choice . this is what you ' ve given him  a great big if . one he can idealize in his head . " oh , itssodifficult is being such a bitch right now ! othergirl wasn ' t ever this bitchy  crazy  irrational  werewolfy ! i bet if i ' d stayed with her , i ' d be so much happier now " that ' s a seed you have helped plant , and every time there ' s an arguement or disagreement , it grows , as does his resentment . and if he stays in touch with or reestablishes contact with othergirl , she is the one who consoles him . she becomes the one he can talk to , and their bond strengthens . this isn ' t a great way to go about establishing a healthy relationship , set aside the fact that manipulation never ends well . b if he does decide you ' re the one he wants , making that choice is now his . and he now has to do something to get your attention  win you back , which is , i believe , under the heading of " needing to prove " something to you , yes ? so it ' s a two birds one stone type deal , whereas now all he has to do to win you over is say " yep , i dumped her " c you ' ll renew this relationship on equal footing . that ' s important if you actually have hopes of this relationship lasting . sorry for the wall of text .
+   (ID: 87dcb06b0e31b35730fe93ce7dcbef85e6078b40)
+
+18. One of my favorite things is languages.
+   (ID: 2988ee1cd7a2bcf8e2d215c795ee2d06a985665a)
+
+19. I have a brothers in my family.
+   (ID: 51417b57f4b2dc72dd07ac6a8ebfc978fa9d0661)
+
+20. it sure looks like it to me . what makes you think he doesn ' t like you , because everything you have put here is very much in the yes category or am i missing something obvious like usual ?
+   (ID: e81e156f1716864a56cc694239300f979e8a5412)
+
+
+--- PersonaChat ---
+Total from this dataset: 1496
+
+1. i am bisexual .
+   (ID: conversation_159)
+
+2. i work in a factory .
+   (ID: conversation_125)
+
+3. in my freetime i enjoy cloud watching .
+   (ID: conversation_204)
+
+4. my favorite music artist is isaiah rashad .
+   (ID: conversation_289)
+
+5. i've traveled to both ireland and australia .
+   (ID: conversation_38)
+
+6. i go to the pool every thursday for three hours .
+   (ID: conversation_262)
+
+7. i like playing basketball .
+   (ID: conversation_278)
+
+8. i work as a personal trainer , 5 days a week .
+   (ID: conversation_314)
+
+9. i still live with my parents .
+   (ID: conversation_24)
+
+10. i practice yoga and hike .
+   (ID: conversation_318)
+
+11. i drink a lot of apple martinis when i get a girls night out .
+   (ID: conversation_75)
+
+12. i love dogs and cats .
+   (ID: conversation_97)
+
+13. i love cooking .
+   (ID: conversation_199)
+
+14. i drive a red car .
+   (ID: conversation_313)
+
+15. my favorite jello is the blue one .
+   (ID: conversation_236)
+
+16. the idea of working is not my cup of tea .
+   (ID: conversation_110)
+
+17. i live in seattle .
+   (ID: conversation_346)
+
+18. i am from georgia .
+   (ID: conversation_298)
+
+19. i help around with bookkeeping and tours .
+   (ID: conversation_20)
+
+20. my mom is my best friend .
+   (ID: conversation_1)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2959
+
+1. I prefer vinyl records to any other music recording format.
+   (ID: conversation_128_user_2)
+
+2. I work part time at aldi s.
+   (ID: conversation_43_user_2)
+
+3. I play piano.
+   (ID: conversation_335_user_1)
+
+4. I like cars.
+   (ID: conversation_111_user_1)
+
+5. I grew up as an orphan.
+   (ID: conversation_66_user_2)
+
+6. I often think about quitting my job and becoming a roadie for justin bieber.
+   (ID: conversation_167_user_2)
+
+7. My favorite color is orange.
+   (ID: conversation_211_user_1)
+
+8. I am married.
+   (ID: conversation_252_user_1)
+
+9. I live by a lake.
+   (ID: conversation_84_user_1)
+
+10. I work in a flower shop.
+   (ID: conversation_117_user_1)
+
+11. I am afraid of rejection from my parents.
+   (ID: conversation_227_user_2)
+
+12. I work at walmart as a stocker.
+   (ID: conversation_37_user_1)
+
+13. I traveled around the world in a boat.
+   (ID: conversation_194_user_1)
+
+14. My husband owns a small auto repair shop.
+   (ID: conversation_43_user_2)
+
+15. I prefer iphone over samsung.
+   (ID: conversation_68_user_1)
+
+16. I don t work.
+   (ID: conversation_259_user_1)
+
+17. I have blonde hair that reaches my knees.
+   (ID: conversation_6_user_2)
+
+18. I am a vegan.
+   (ID: conversation_170_user_2)
+
+19. I have two nephews.
+   (ID: conversation_130_user_2)
+
+20. I grew up with 6 siblings.
+   (ID: conversation_222_user_1)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 27422
+
+Dataset distribution in this cluster:
+  FoCus: 734 (2.7%)
+  MPChat: 2416 (8.8%)
+  MSC: 1399 (5.1%)
+  PEC: 11367 (41.5%)
+  PER-CHAT: 9057 (33.0%)
+  PersonaChat: 808 (2.9%)
+  SyntheticPersonaChat: 1641 (6.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 734
+
+1. I am Anglican.
+   (ID: G1IQ2JHFB47F_11)
+
+2. I like travel.
+   (ID: PGIZXWTCX77K_7)
+
+3. I like learning about the Ottomans.
+   (ID: OKU8UQBPUSMV_11)
+
+4. I go to a university.
+   (ID: PCA6OG1NNC5D_9)
+
+5. I would like to know about name.
+   (ID: BPCV4KG0PEMD_7)
+
+6. I would like to see a Chinese garden.
+   (ID: 9VXK9YXEDKCO_11)
+
+7. I live in a house.
+   (ID: SRO8K4E2N5N5_7)
+
+8. I have a lot of respect for St. Demetrius.
+   (ID: V0DLNYLN813E_11)
+
+9. I am a huge fan of traveling the world.
+   (ID: VUQVHZP0LUAH_11)
+
+10. I would like to fish at Little Butte Creek in the summer again.
+   (ID: AN8LSF1PEYK2_11)
+
+11. I have seen a lot of World War II films.
+   (ID: 91IHZ45NQ48A_11)
+
+12. I would like to visit Canada.
+   (ID: GG3IBG4SOHXX_11)
+
+13. I like to visit france.
+   (ID: P1H8TAIRTLFZ_9)
+
+14. I have an Irish heritage.
+   (ID: D0BKN1W8KWG6_7)
+
+15. I love going museum.
+   (ID: X45C380V98U8_9)
+
+16. I like to visit palaces.
+   (ID: OJ5U23I3FV0N_11)
+
+17. I have never been to Glasgow.
+   (ID: QISL6J366OY6_11)
+
+18. I do know about Asian art.
+   (ID: GG3IBG4SOHXX_11)
+
+19. I would like to do different activities.
+   (ID: MP1ZK22Q90C9_11)
+
+20. I am living in a house which has a tennis court.
+   (ID: D4619DV1O1OP_11)
+
+
+--- MPChat ---
+Total from this dataset: 2416
+
+1. anyways, here are some cakes i decorated for some kids birthdays this weekend.
+   (ID: mashedtatoes88)
+
+2. (fo) bday shawl for my sis using one of the new caron cakes "strawberry trifle"
+   (ID: Ichishiro)
+
+3. my tonight dinner) roasted pork with veggies;))
+   (ID: toffis97)
+
+4. my first go at flower petals and i couldn't bee happier with the outcome
+   (ID: SugarHighBakedGoods)
+
+5. i made german pretzels
+   (ID: patm28)
+
+6. i give my mom a set like this for every occasion.
+   (ID: Louiesloops)
+
+7. i tried my hand at cake pops for the first time!
+   (ID: kduluth)
+
+8. i (tunisian) crocheted these a year ago and they're one of my favorite pairs!
+   (ID: Novel_Fox)
+
+9. i made an inlay picture.
+   (ID: gelimausi)
+
+10. working on a soft book for my daughter.
+   (ID: Sophie74656)
+
+11. little 6oz mocha i made for myself today!
+   (ID: tepidpotato)
+
+12. i found the free pattern on the hobbii website.
+   (ID: Nikyma)
+
+13. crocheting a blanket while sitting on my crochet couch cushion cover
+   (ID: green-egg-and-ham)
+
+14. i won a series of latte art competitions in seattle.
+   (ID: madeasnack)
+
+15. gonna make a few more to match shirt colors i wear often.
+   (ID: Chris55730)
+
+16. here are some of my favorite creations from last year.
+   (ID: Louiesloops)
+
+17. brown butter chocolate chip cookie cake with ermine vanilla bean icing i made for a friend.
+   (ID: DeanIsHotter)
+
+18. my other finished objects for this week are two green sheep.
+   (ID: Moriarty58)
+
+19. i crocheted a baby dinosaur plush by just using bulky yarn on a mini pattern!
+   (ID: Louiesloops)
+
+20. i made a tiny millennium falcon!
+   (ID: Louiesloops)
+
+
+--- MSC ---
+Total from this dataset: 1399
+
+1. I have not decided on a major for school.
+   (ID: dialog_12_speaker_2)
+
+2. My favorite comedy is Dr. Strangelove.
+   (ID: dialog_15_speaker_2)
+
+3. I'm a rock star on the strings.
+   (ID: dialog_42_speaker_2)
+
+4. I adore cats.
+   (ID: dialog_11_speaker_2)
+
+5. I bought a house.
+   (ID: dialog_68_speaker_2)
+
+6. I enjoy playing tennis. I play tennis in the park on Main Street and 4th. I started playing tennis when I was 3, with my father.
+   (ID: dialog_11_speaker_2)
+
+7. I do not know the sex of the baby yet. My husband wants a boy. My husband is in the army.
+   (ID: dialog_40_speaker_2)
+
+8. I'm an insurance salesman
+   (ID: dialog_15_speaker_2)
+
+9. I like animals.
+   (ID: dialog_28_speaker_2)
+
+10. I attend night classes.
+   (ID: dialog_21_speaker_2)
+
+11. I like to write while out in nature.
+   (ID: dialog_86_speaker_1)
+
+12. I like doing my face.
+   (ID: dialog_29_speaker_1)
+
+13. I'm in great shape.
+   (ID: dialog_3_speaker_2)
+
+14. I am a lumberjack.
+   (ID: dialog_51_speaker_2)
+
+15. I had open heart surgery close to my home.
+   (ID: dialog_64_speaker_2)
+
+16. Catching walleye is a favorite sport of mine.
+   (ID: dialog_81_speaker_1)
+
+17. I just started playing Valheim. My friend from the army introduced me to the game Valheim.
+   (ID: dialog_35_speaker_1)
+
+18. I would like to travel to Florida.
+   (ID: dialog_46_speaker_1)
+
+19. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+20. We have relocated a ton.
+   (ID: dialog_21_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 11367
+
+1. i 'm not doubting op , but this is strange .
+   (ID: hoveringlurker)
+
+2. i think you 'd look killer with one
+   (ID: bennystache)
+
+3. i think it depends on where you live .
+   (ID: chirpyboyandbartjr)
+
+4. i ’m looking for $ 67.50 shipped after paypal invoice fees .
+   (ID: LabeledAsALunatic)
+
+5. i will pm you !
+   (ID: HungryJumper)
+
+6. i just converted an old bra into a pumping bra ... it 's life changing !
+   (ID: EvieAugust)
+
+7. i call the big one bitey
+   (ID: lambsquatch)
+
+8. i remember them catching hell for saying that trump had a chance of winning .
+   (ID: Captain_-H)
+
+9. i 've never seen this in me me format
+   (ID: BoonTobias)
+
+10. i finally have almost everything i need to start the business i 've always wanted .
+   (ID: bbrandann)
+
+11. i tip my fedora to you
+   (ID: sircucumbers)
+
+12. i recently found 2 that match your set in ks !
+   (ID: latestartksmama)
+
+13. i saw a musculoskeletal doctor today who told me that it ’s definitely not musculoskeletal .
+   (ID: FruitBatFanatic)
+
+14. i can help you out .
+   (ID: Nick84572)
+
+15. i have watched this a dozen times and still ca n't figure out how it 's done .
+   (ID: chirpyboyandbartjr)
+
+16. i 'd rather pump one up my ass and go to the fuckin moon .
+   (ID: Weed_n_Wisdom)
+
+17. i like fred , george , bill , and ron .
+   (ID: Chicoconut)
+
+18. i had been looking all over for a livestream , but they were all terrible .
+   (ID: adertal)
+
+19. i mean penis .
+   (ID: bbrandann)
+
+20. i would cut that thing open and put my weed in there !
+   (ID: ifatree)
+
+
+--- PER-CHAT ---
+Total from this dataset: 9057
+
+1. . you know you liked it .
+   (ID: 42d20fb8523115a55130d58a232603b846ad13a0)
+
+2. I live in ohio.
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+3. I live in near east brisbane.
+   (ID: 9adb5fb6fb9aeeeb65afe41002460d73817044b0)
+
+4. should i be having an awkward conversation with my partner then ? i figured it was just a thing that happened to guys with a foreskin . he showers daily and his hygiene is otherwise fine but i do notice it gets kinda . gooey under there
+   (ID: 46d8e69cfbec2948bee8eaeaf91010f2e7f16e4b)
+
+5. try and eat the same time every day , when possible . you should eventually adapt and not be that hungry much it ' ll happen now and then if it ' s at night , why not eat later ? skip breakfast , have brunch or similar ?
+   (ID: e0a46a0dc8fa303b4f52545ef88afe4d8f63943b)
+
+6. yeah put this on a fastener and you have to hammer the proper size on once you realize it isn  t any good
+   (ID: 198c7cf8170708799eec80da464639ba2be896b4)
+
+7. I play video games.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+8. children trust you based on their knowing that they can rely on you for the love they need when they need it . my daughter believed it ' s part of the " magic " of childhood .
+   (ID: 58245e8d537b9e7b6d76cc6a9919ea776e4ef6f0)
+
+9. what make is that weedeater ?
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+10. I live in on internet.
+   (ID: 080eedcfaabe8f67b2c0a8da33a3a401906822f2)
+
+11. thank dude , but i posted this hours ago and there is like digit person registered on it . don ' t think this is going well .
+   (ID: e3524b3478c664f2c6e8b00a4341ff0a26995fbc)
+
+12. I play dungeons & dragons.
+   (ID: bd0712716940e41d4901cd77632c868dc43fa8f0)
+
+13. by being honest about it , not throwing anybody else under the bus in the process , and at least trying to address it with suggestions for how to fix it or minimize damage .
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+14. i ' m just here to say that marijuana really helps to reduce night terrors and you don ' t really remember dreams as well . just saying for those that might be looking for a solution .
+   (ID: 7c5209c3b827e0de0cd436466f80ce09b615606b)
+
+15. if you ' re good at it or have an interest . i found a job where i laugh every day and love what i do . could have made a lot more elsewhere but that is my measure for success .
+   (ID: 37dcb77e38bb95527b0376694dc5852e5c3012eb)
+
+16. my 5th grade history and language arts teacher would go into rants about his family and sometimes would spend a whole class talking about nothing important .
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+17. the alt  left are sjws , antifa , politics posters , etc . the left are the normies who don ' t care much about politics , and only hear from cnn and   fake news sites like that .
+   (ID: 3bd27d669b5f394ae490c4e17c08aca524c47546)
+
+18. shut the fuck up .
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+19. I live in light.
+   (ID: 744a61859eb21e8e7ed805da69133b0d07c3e965)
+
+20. gastrointestinal virusnot sure i spelt it right . i went swimming in a lake for a school feild trip then later figured out there was e . coli in the lake . so i had e . coli and the virus at the same time . it felt like someone was hitting me with a hammer from the inside . i was super pale and curled up in a ball on the floor . i puked digit times in digit hours and couldn ' t eat or drink anything .
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+
+--- PersonaChat ---
+Total from this dataset: 808
+
+1. i'm a carnivore .
+   (ID: conversation_146)
+
+2. my dogs name is toto .
+   (ID: conversation_162)
+
+3. i have ink stains on all my shirts .
+   (ID: conversation_31)
+
+4. i married my high school sweetheart .
+   (ID: conversation_206)
+
+5. i'm a violinist .
+   (ID: conversation_45)
+
+6. i've blonde hair .
+   (ID: conversation_121)
+
+7. i wait tables .
+   (ID: conversation_129)
+
+8. i have two brothers .
+   (ID: conversation_242)
+
+9. my favorite animal is the koala .
+   (ID: conversation_198)
+
+10. i had to call 911 when i had a terrible headache .
+   (ID: conversation_34)
+
+11. i graduated from college .
+   (ID: conversation_157)
+
+12. my mom is my best friend .
+   (ID: conversation_1)
+
+13. i'm a meat eater .
+   (ID: conversation_116)
+
+14. i never learned how to swim .
+   (ID: conversation_209)
+
+15. my favorite color is blue .
+   (ID: conversation_23)
+
+16. my dad is an airline pilot .
+   (ID: conversation_58)
+
+17. i live with my parents .
+   (ID: conversation_159)
+
+18. i don't eat asparagus .
+   (ID: conversation_236)
+
+19. i favorite brand of clothing is donna karen .
+   (ID: conversation_213)
+
+20. i've 3 ex wives .
+   (ID: conversation_154)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1641
+
+1. I once drove a car ! my friend told me what to do while i drove.
+   (ID: conversation_26_user_1)
+
+2. I go to the theater to watch plays.
+   (ID: conversation_21_user_2)
+
+3. I have a new job selling cars.
+   (ID: conversation_154_user_1)
+
+4. I drive a truck for a living.
+   (ID: conversation_27_user_2)
+
+5. I like tacos.
+   (ID: conversation_165_user_1)
+
+6. I am the head of the gun club.
+   (ID: conversation_82_user_1)
+
+7. I teach a yoga class.
+   (ID: conversation_94_user_1)
+
+8. I need a soda with me at all times.
+   (ID: conversation_105_user_2)
+
+9. I have two smartphones.
+   (ID: conversation_203_user_1)
+
+10. I like to hunt.
+   (ID: conversation_18_user_1)
+
+11. I also like ford trucks.
+   (ID: conversation_1_user_2)
+
+12. I am very shy.
+   (ID: conversation_222_user_2)
+
+13. I am in the band.
+   (ID: conversation_109_user_2)
+
+14. I eat well.
+   (ID: conversation_77_user_2)
+
+15. My favorite video game is halo 3.
+   (ID: conversation_147_user_2)
+
+16. I have only one child.
+   (ID: conversation_180_user_2)
+
+17. I look down on people who did not.
+   (ID: conversation_182_user_2)
+
+18. I love food.
+   (ID: conversation_150_user_1)
+
+19. I also meditate a lot.
+   (ID: conversation_200_user_1)
+
+20. I love to read true crime books.
+   (ID: conversation_96_user_2)
+
+
+============================================================

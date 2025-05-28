@@ -1,0 +1,419 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 2032
+
+Dataset distribution in this cluster:
+  FoCus: 4 (0.2%)
+  MPChat: 424 (20.9%)
+  MSC: 89 (4.4%)
+  PEC: 939 (46.2%)
+  PER-CHAT: 347 (17.1%)
+  PersonaChat: 67 (3.3%)
+  SyntheticPersonaChat: 162 (8.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 4
+
+1. I love the smell of Lotus.
+   (ID: KGYT5MMVNDSG_11)
+
+2. I would like to discover the typical food of Australia.
+   (ID: JJN7XJSS0B4W_11)
+
+3. I like vegetarian food.
+   (ID: TF4SZWIWHJO4_11)
+
+4. I would like to do some weight lifting.
+   (ID: EFTS0UG7NK5K_9)
+
+
+--- MPChat ---
+Total from this dataset: 424
+
+1. crispy smoked chicken wings done on my broil king pellet xl
+   (ID: cookinwithclint)
+
+2. i made venison nachos
+   (ID: crunch816)
+
+3. the package said "roast" buuut i grilled it.
+   (ID: Flattishsassy)
+
+4. i'm not even close to being at the level where i call myself a barista yet.
+   (ID: Soggypaper_)
+
+5. i'm an amateur home barista, how's my cartado pour?
+   (ID: The69LTD)
+
+6. best reuben i've ever made
+   (ID: Finntastic)
+
+7. chinese breakfast black sticky rice pudding (i'll put the recipe in the comments)
+   (ID: Cherryday11)
+
+8. way overcooked for my taste but still good.
+   (ID: billwhiz)
+
+9. i could achieve smoother foam with other milks but this brand specifically is harder.
+   (ID: Soggypaper_)
+
+10. i'm finally starting to get the hang of soy milk.
+   (ID: BeastaBubbles)
+
+11. i made doughnuts and buns from my own recipe
+   (ID: iowajaycee)
+
+12. i've been dabbling in chocolate bark, here are a few more toffee nut and raspberry
+   (ID: TattsMcGee)
+
+13. slowly getting the hang of my new pitcher
+   (ID: coffeehawaii)
+
+14. [i ate] cubano
+   (ID: patm28)
+
+15. having finished the seal, i needed to make something else on the commute.
+   (ID: pokegirl93a)
+
+16. i been always want to try this.
+   (ID: justcook_byangel)
+
+17. [i ate] spicy oil pork wontons
+   (ID: patm28)
+
+18. [i ate] roasted pig
+   (ID: castaneda2912)
+
+19. like all great baristas, i would live some feedback!
+   (ID: Beardedlantern)
+
+20. i also made bon appetit’s cranberry lime pie!
+   (ID: hmbmelly)
+
+
+--- MSC ---
+Total from this dataset: 89
+
+1. I cannot go to a lot of places because of my seizures.
+   (ID: dialog_55_speaker_2)
+
+2. I have asthma.
+   (ID: dialog_40_speaker_1)
+
+3. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+4. I like pizza. I want to try deep dish pepperoni pizza.
+   (ID: dialog_7_speaker_1)
+
+5. I was a really good runner when I was younger.
+   (ID: dialog_0_speaker_1)
+
+6. I try to eat less meat.
+   (ID: dialog_10_speaker_1)
+
+7. I'm a vegetarian.
+   (ID: dialog_65_speaker_2)
+
+8. I do not eat a lot of vegetables.
+   (ID: dialog_35_speaker_1)
+
+9. I only eat meat. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+10. I'd never even look at meat, yet alone eat it.
+   (ID: dialog_60_speaker_1)
+
+11. I also love pizza but prefer thai food over sushi.
+   (ID: dialog_23_speaker_2)
+
+12. I like to takedown my own did dinners.
+   (ID: dialog_88_speaker_1)
+
+13. I dislike orange vegetables from the ground.
+   (ID: dialog_3_speaker_2)
+
+14. I could eat Mexican food every day. Burritos are my favorite food.
+   (ID: dialog_27_speaker_1)
+
+15. I am a vegetarian. I have many friends who also are vegetarians.
+   (ID: dialog_88_speaker_2)
+
+16. I'm vegan. I like the vegan food at Whole Foods.
+   (ID: dialog_65_speaker_2)
+
+17. I could never be a vegetarian.
+   (ID: dialog_32_speaker_1)
+
+18. Taste the rainbow!.
+   (ID: dialog_71_speaker_1)
+
+19. I don't know how to make lasagna.
+   (ID: dialog_44_speaker_2)
+
+20. I dislike orange vegetables from the ground.
+   (ID: dialog_72_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 939
+
+1. i 'd use onion and garlic instead of powder / flakes
+   (ID: wooq)
+
+2. i do nt eat meat and this looks amazing .
+   (ID: glowinthedark)
+
+3. i very much preferred my danner 's .
+   (ID: meteoriteminer)
+
+4. i 'll have to try this out .
+   (ID: KikAtWorkFL)
+
+5. i have nt been diagnosed with bpd but i think i might have mild bpd ?
+   (ID: shortgiraffe9000)
+
+6. i ’ve heard a plant based diet is the best for you , and the fastest to loose weight .
+   (ID: almajanemi)
+
+7. i went to ihop too , it did n't last long either !
+   (ID: Ooer)
+
+8. i am overweight- 5,3 ” 169 lbs- down 13 pounds from start though .
+   (ID: almajanemi)
+
+9. i 'm worried this is going to be the rest of my pregnancy !
+   (ID: teriaki)
+
+10. i generally go out to eat before or after .
+   (ID: Captain_-H)
+
+11. i just assumed someone who works out would n’t use a machine like that .
+   (ID: lambsquatch)
+
+12. i believe they call it " cheese food "
+   (ID: glowinthedark)
+
+13. i barely saw any vegetables , and just pretty much made bacon crust " pizza " 24/7 .
+   (ID: mmaswadeh)
+
+14. i ’ll be sure to check it out .
+   (ID: SPQR1212)
+
+15. i 'd be too worried about getting nasty meat juice in my breathing area .
+   (ID: metalbark)
+
+16. i want to try this
+   (ID: buttercup_mauler)
+
+17. i 've always wondered and are there any ways to prevent it ?
+   (ID: carwynllew)
+
+18. i have hospitality but i feel its not " vanilla - like "
+   (ID: SYDWAD)
+
+19. i * always * need goulash .
+   (ID: zsnajorrah)
+
+20. i gave up on thermacell .
+   (ID: meteoriteminer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 347
+
+1. one time , a walks in , my restaurant has a order first , pay second policy , so he ordered , he took the food and didnt pay . he never came back
+   (ID: 1b5b08f1246e450c7da09e40c81570fba378da84)
+
+2. i ' ve had some amazingly giant poops .
+   (ID: 488bde170f2c1483481aa38d08906ea10be03ff1)
+
+3. I live in off of carbs.
+   (ID: d298609ba6b9516031b9d0b9bc9217d85ce28f05)
+
+4. bottle . i just like the way it sounds .
+   (ID: f3a490ceb976e7adf0cbeb213371795128597226)
+
+5. very late to this but one thing i have realised is , don ' t tell anybody your true end date for your sentence . tell them one year later . why set yourself up for harassment and being targeted by fellow inmates who are jealous of you ?
+   (ID: 359f9ab2b3224a06fb2eeef0a72bf286f2fe9fa5)
+
+6. i think there ' s something in your teeth . not a roast , a legit gross thing i noticed .
+   (ID: 7fdfc2063b89c8be6521566a61aeb5bf9497d47e)
+
+7. again with the orchid . they ' re pretty and all , but i feel like they don ' t really add anything to the dish . my crew and i call this type of garnish " culinary masturbation . but hey brother , you ' re trying and you ' re learning in the process ! good for you and keep it up !
+   (ID: 05bc4f6f6f6bb573d85181292f88efbd50c59547)
+
+8. there are some foods that need to be cooked that are otherwise toxic , quinoa for example . the ' cooking destroys nutrients ' thesis , although often true is irrelevant . you can eat eat a greater quantity of steamed broccoli and recieve the same amount of micronutrients as a smaller quantity of raw brocolli
+   (ID: 85ac769b0cb349e567cb91e8109645bd1ac28b9f)
+
+9. kale digit . it ' s over exaggerated . digit . spinach exists digit . it ' s just the worst
+   (ID: c6e9d7bec5bbee67d384191c91101e443de5ac3c)
+
+10. i prefer my ketchup and mustard cold .
+   (ID: 6f13975ce6a8747ec3d0e2207b9ef86d80a28713)
+
+11. i don ' t know about stretching , but eating right can certainly help .
+   (ID: 8b9c4341d896783998a7c3485fa949b3c63cbd73)
+
+12. in not sure this is unpopular  but yes there is only so much seasoning , so many ingredients you can add before a dish starts to be horrible . nevertheless people want the best , most expensive , extravagant thing they can find . even absolutely fresh , local ingredients prepared by highly trained chefs will only get you so far in terms of a mark up . food is ultimately just dirt , seeds , and slaughtered animals  the gold beckons you into a web of sin  but don ' t go in
+   (ID: 85ac769b0cb349e567cb91e8109645bd1ac28b9f)
+
+13. I live in dia healthcare.
+   (ID: 4422c1db26c9be5bec35694a448a490c2761d985)
+
+14. it ' s very simple , if i say i want to be a vegan because all i eat is fruits and veggies but like me i ' m also a bow hunter i will be denied entry . why ? because i ' ll be breaking a tenet of the cult .
+   (ID: 4a7a47c2e5a0426b71a637dd821ac57f06afeedf)
+
+15. hey i mean if you like it all power to you , i ' m just lost on why it ' s so popular . maybe i just can ' t handle the neutron style
+   (ID: 590fa4d9757be797407857020a0aa2aa0f4ad290)
+
+16. his bread looks like shit . he should let women do the job
+   (ID: 2834b254700cedfb96641229b712899b4d697418)
+
+17. a septum ? really ? are you trying to be a cow ? that  s all i will say until i see a pic without the whore filter on .
+   (ID: 89fd53ef642d85d9a24d63f88469480646354104)
+
+18. what ' heterosexuality ' ? also i hear these are pretty thick and hard to swallow
+   (ID: 2b53241b2b7d7e4ce58f4e39589b18bda4d0d5d2)
+
+19. I am novice slow cooker.
+   (ID: 08c0532c5e9b4c1272d1faf5af748d761625424a)
+
+20. thank you for the reassuring words . you think abstinence is a good idea ? won ' t i orgasm too soon if i keep hard anyways ?
+   (ID: 7ba2f45f62c701a508f1895df828d4da2f3f446d)
+
+
+--- PersonaChat ---
+Total from this dataset: 67
+
+1. i only eat organic food .
+   (ID: conversation_210)
+
+2. i can also squat 400 pounds .
+   (ID: conversation_241)
+
+3. i'm a carnivore .
+   (ID: conversation_146)
+
+4. pudding makes me gassy .
+   (ID: conversation_26)
+
+5. i am primarily a meat eater .
+   (ID: conversation_4)
+
+6. i have been a vegan since i was 5 .
+   (ID: conversation_242)
+
+7. i am a vegan .
+   (ID: conversation_60)
+
+8. i take vitamin c when i have a cold .
+   (ID: conversation_183)
+
+9. i love chocolate cake with extra frosting .
+   (ID: conversation_80)
+
+10. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+11. i think i need botos soon .
+   (ID: conversation_142)
+
+12. i hate carrots .
+   (ID: conversation_72)
+
+13. i hate broccoli .
+   (ID: conversation_61)
+
+14. i'm a vegan .
+   (ID: conversation_205)
+
+15. i do not like green eggs and ham .
+   (ID: conversation_199)
+
+16. i hate cooking .
+   (ID: conversation_150)
+
+17. i'm a vegetarian .
+   (ID: conversation_10)
+
+18. i've problems chewing my food .
+   (ID: conversation_126)
+
+19. i hate tofu .
+   (ID: conversation_30)
+
+20. i drink a lot of apple martinis when i get a girls night out .
+   (ID: conversation_75)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 162
+
+1. I love meat.
+   (ID: conversation_156_user_1)
+
+2. I eat all take out.
+   (ID: conversation_2_user_1)
+
+3. I want to be a vegetarian.
+   (ID: conversation_245_user_2)
+
+4. I try to eat healthy or i do not eat at all.
+   (ID: conversation_208_user_2)
+
+5. I m allergic to apples yet still eat them.
+   (ID: conversation_91_user_2)
+
+6. I love meat.
+   (ID: conversation_155_user_1)
+
+7. I eat meat.
+   (ID: conversation_63_user_1)
+
+8. I am vegan.
+   (ID: conversation_40_user_1)
+
+9. I am vegan.
+   (ID: conversation_41_user_1)
+
+10. I do not like vegetables.
+   (ID: conversation_4_user_2)
+
+11. I eat meat.
+   (ID: conversation_62_user_1)
+
+12. I am vegan.
+   (ID: conversation_49_user_1)
+
+13. I m bloated.
+   (ID: conversation_161_user_1)
+
+14. I am a vegan.
+   (ID: conversation_212_user_1)
+
+15. I have always wanted a pot bellied pig.
+   (ID: conversation_217_user_2)
+
+16. I am a vegan.
+   (ID: conversation_198_user_1)
+
+17. I decided to become vegan a year ago.
+   (ID: conversation_48_user_1)
+
+18. I am a vegan.
+   (ID: conversation_218_user_1)
+
+19. My feet are size six women s.
+   (ID: conversation_198_user_2)
+
+20. I m a vegetarian.
+   (ID: conversation_117_user_1)
+
+
+============================================================

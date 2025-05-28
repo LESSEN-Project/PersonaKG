@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 61474
+
+Dataset distribution in this cluster:
+  FoCus: 1748 (2.8%)
+  MPChat: 3719 (6.0%)
+  MSC: 2709 (4.4%)
+  PEC: 24242 (39.4%)
+  PER-CHAT: 24377 (39.7%)
+  PersonaChat: 1566 (2.5%)
+  SyntheticPersonaChat: 3113 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1748
+
+1. I wouldn't like to be in a flood.
+   (ID: GC9BAJTK54F1_11)
+
+2. I enjoy Richard Russo.
+   (ID: NR9LNBMYKSX6_9)
+
+3. I love the theater.
+   (ID: QFCC4W8VUHOO_11)
+
+4. I want to go on a trip.
+   (ID: OYVLAB02CT4O_11)
+
+5. I wish I had opportunity to live in New York one day.
+   (ID: YH6KAJ3V2KQ8_11)
+
+6. I love the country of England.
+   (ID: I0CVV46WKEKI_11)
+
+7. I like history.
+   (ID: BW2JVSJEMYHL_11)
+
+8. I love old cinemas.
+   (ID: DSK4ZP7S862W_11)
+
+9. I would like to visit a canal.
+   (ID: 8WL4II03WTP0_7)
+
+10. I have visited Neill Avenue many times.
+   (ID: EI53JQVYRP0R_11)
+
+11. I was born in Germany.
+   (ID: W1ARCAV1RHTZ_11)
+
+12. I have plans to visit Australia.
+   (ID: G1IQ2JHFB47F_11)
+
+13. I want to visit San Francisco.
+   (ID: O76ENSZ0ZFAX_11)
+
+14. I want to visit Kentucky.
+   (ID: N3BKTMTKN6PG_11)
+
+15. I love church buildings.
+   (ID: N14O6VGOOR7E_11)
+
+16. I prefer looking inside the well-known building to just exterior of the building.
+   (ID: XW6WLBIV74VV_11)
+
+17. I enjoy opera music.
+   (ID: CZUJJI1HG1SZ_7)
+
+18. I am interested in volunteer work.
+   (ID: 942CCWXHPUZT_11)
+
+19. I'm interested in endangered species.
+   (ID: QLDCXP7YJP9Q_11)
+
+20. I'm going on a trip to Minnesota.
+   (ID: L96351DIHFAR_7)
+
+
+--- MPChat ---
+Total from this dataset: 3719
+
+1. i've been really busy, but still definitely making progress on my jungle blanket!
+   (ID: ablubberducky)
+
+2. i'm making a blanket with these color but now i'm thinking i want to add more colors.
+   (ID: Sophie74656)
+
+3. found a new use for one of my old chopped springboard decks.
+   (ID: Perthboi92)
+
+4. i had a pipe in my truck bed and the cop didn't say anything
+   (ID: Nerdyredeyejedi)
+
+5. my dad would take her to work and greasy mechanics bottle fed her until she was healthy.
+   (ID: dudeinthepnw)
+
+6. [fo]a carpet from my dollhouse.
+   (ID: gelimausi)
+
+7. started working on my slowsies.
+   (ID: Deeshizznit)
+
+8. my friends can’t decide if this is cute or creepy.
+   (ID: meepmeepcuriouscat)
+
+9. just named the #1 burger in south jersey and i had it last night!
+   (ID: Metalocachick)
+
+10. i was so busy with christmas gifts that i didn't get to make any holiday toys.
+   (ID: Nikyma)
+
+11. i hope my christmas gumbo will warm everyone's heart as much as it does mine :)
+   (ID: Dirk-Killington)
+
+12. i know this is a trap, but i can't help it.
+   (ID: MafHoney)
+
+13. i made a fancy alpaca!
+   (ID: FoxInKneeSocks)
+
+14. i love colorado.
+   (ID: Foolz_Go1d)
+
+15. i can't stop making baskets from scrap yarn!
+   (ID: lolveets)
+
+16. the shrug i crocheted and mom claimed as her own
+   (ID: letsallcrochetYT)
+
+17. can i sit with you guys now....?
+   (ID: i_like_it_raw_)
+
+18. taking way longer than i anticipated.
+   (ID: Chris55730)
+
+19. my cake was i made it some white modelling chocolate knitwear!
+   (ID: Rosiebelleann)
+
+20. i made my first wearable piece!
+   (ID: NervousToast)
+
+
+--- MSC ---
+Total from this dataset: 2709
+
+1. I like winter sports.
+   (ID: dialog_113_speaker_1)
+
+2. I am one of two boys in my family.
+   (ID: dialog_57_speaker_2)
+
+3. I prefer wearing a belt.
+   (ID: dialog_31_speaker_2)
+
+4. We have two kids, 5 granddaughters and 2 grandsons.
+   (ID: dialog_127_speaker_2)
+
+5. I have not told my family that I'm interested in the same sex.
+   (ID: dialog_35_speaker_1)
+
+6. I live on the west coast.
+   (ID: dialog_92_speaker_1)
+
+7. I don't have any tattoos
+   (ID: dialog_90_speaker_1)
+
+8. I have no clue who my father is.
+   (ID: dialog_90_speaker_2)
+
+9. My marriage lasted ten calendars after.
+   (ID: dialog_127_speaker_2)
+
+10. My name is Lucy.
+   (ID: dialog_23_speaker_1)
+
+11. I will be glad when I do not have to work anymore.
+   (ID: dialog_50_speaker_1)
+
+12. I eat fish all the time.
+   (ID: dialog_116_speaker_1)
+
+13. I have a wife.
+   (ID: dialog_68_speaker_2)
+
+14. I went to medical school.
+   (ID: dialog_43_speaker_1)
+
+15. I like to listen to live music.
+   (ID: dialog_97_speaker_1)
+
+16. I'm female.
+   (ID: dialog_108_speaker_1)
+
+17. Glasses give me a headache.
+   (ID: dialog_3_speaker_2)
+
+18. I have a job in the tech field.
+   (ID: dialog_124_speaker_1)
+
+19. I'm scared of heights. I don't ride horses.
+   (ID: dialog_66_speaker_1)
+
+20. I'm a midget.
+   (ID: dialog_105_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 24242
+
+1. i thought germs were yellow pacmen with purple polkadots .
+   (ID: mbw1960)
+
+2. i ’ll be in chennai for 2 weeks .
+   (ID: godspeedone)
+
+3. i will be interested in borrowing it as well .
+   (ID: serverpilot)
+
+4. i genuinely do n't know a single person who drives , who ca n't drive manual .
+   (ID: bigfuckingdiamond)
+
+5. i 've always known .
+   (ID: ItGetsAwkward)
+
+6. i like when girls are smooth down there .
+   (ID: WorldBFree)
+
+7. i 'm pretty sure this is what dick morris is saying right now
+   (ID: closetotheedge48)
+
+8. i wish there were some way to change your vote .
+   (ID: nastylittleman)
+
+9. i need that in my life .
+   (ID: beautifulw0man)
+
+10. i 'll downvote myself since no - one got my joke .
+   (ID: rspewth)
+
+11. i can never see this dish without thinking of a series of unfortunate events .
+   (ID: monday_madrigal)
+
+12. i 'm not the one talking out of his ass .
+   (ID: chasemyers)
+
+13. i thought it was boring and a poorly developed concept .
+   (ID: BoobieBoobieButtButt)
+
+14. i did n't even know it was my reddit birthday !
+   (ID: juliacakes)
+
+15. i had a " boyfriend " and someone dared us to kiss .
+   (ID: Mahatma_Panda)
+
+16. i think you just disproved yourself .
+   (ID: middlegeek)
+
+17. i do nt remember the last time i did nt smoke lol
+   (ID: John7oliver)
+
+18. i 'm in the south east and i 've never heard anyone speak like that ..
+   (ID: bigfuckingdiamond)
+
+19. i ’ll take either one thanks
+   (ID: LabeledAsALunatic)
+
+20. i am not exactly clear on what you are getting at .
+   (ID: cookiexcmonster)
+
+
+--- PER-CHAT ---
+Total from this dataset: 24377
+
+1. I am a male.
+   (ID: 5d6cecafd26473d96b39b973965364f09d4d41f1)
+
+2. dayz  for mobile and non  res users    more infohttps        digit to remove    ignore subhttps
+   (ID: e24ed5c3caffaf18d8a2097a35f6cf37eff0117b)
+
+3. you people will never stop trump . how can you people expect to stop trump if you people refuse to argue against his policies ? all i see is a bunch of people complaining about how " mean " trump is . the washington post lost their access to trump events because the majority of the articles they put out on trump have nothing to do with his policies and instead they just focus on trying to get the reader to become irrationally emotional so they can guide them into hating trump . maga
+   (ID: adc3a5cfebc17d4df8b27d363588dd0bb2a7265c)
+
+4. I own a aunt.
+   (ID: 818422b560c80f37eedf14f771cd2fcd3657589a)
+
+5. i used meditation about a year ago to help cope with stress and my night terrors , i stopped over the summer , and now that classes have started up again , my night terrors have come with them . i don ' t think meditation is bullshit , but i can understand why you would .
+   (ID: 3158d7c63f10e871a80f147fb47725c8714163c7)
+
+6. black diamondhttps    and destinyhttps    by stratovarius star skyhttps    by two steps from hell those .
+   (ID: e917c5f43624fa287dde4f957a529b37a96df1d3)
+
+7. One of my favorite things is nature on tvs.
+   (ID: 649605988d72e34fdcf0c170b6b9fa959a7d483e)
+
+8. One of my favorite things is pineapple on pizza.
+   (ID: c28c39847d1ec88851aadf063f6e8baf4594b35c)
+
+9. let ' s get to the bottom of your problems . so . when did you first realise you hated your mother ?
+   (ID: 34de9309a5c02867b676757fa019c58a66bad300)
+
+10. are you taking about trails in the sky digit or trails of cold steel digit because the english release of sky digit came out last year and the japanese release of cold steel digit came out last year and they usually take a couple of years to be translated . you can definitely start playing cold steel digit without having played any in the trails in the sky series . the first sky is only  digit at the moment but the other two are still somewhat expensive , by my standards at least . i haven ' t actually played the third sky , but i think the story is only somewhat related to digit and digit , in that it has the same characters but runs somewhat parallel to the story of digit and digit , which is a continuous story .
+   (ID: fdf9c56e21cf61fb3b2852da66f6506ce908651c)
+
+11. I live in late 80s.
+   (ID: 4721143ecfe877298792b1d44e635051f5f2c84e)
+
+12. One of my favorite things is big dick.
+   (ID: 0254dc2f43007419c5c3fd1e155e6bf15fce137d)
+
+13. oh no the easy way to get kills has been removed ! that  s it i  m going to quit because i can  t git gud !
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+14. very few gifted people accept that they are gifted . don ' t expect many responses .
+   (ID: 9d1b3fafafa63d6ec9712c98a0c16b4cc697d112)
+
+15. One of my favorite things is burgers.
+   (ID: c22fbcc3fbb3286d348387d73888b66c1c9e09ba)
+
+16. One of my favorite things is pe.
+   (ID: d53ad0bccb6d6f62bf1a4957708759d7b446498b)
+
+17. i think you are an upstanding member of a higher functioning society . i agree with you on all points . and i greatly appreciate that you have replied to people disagreeing with you . it ' s just a shame that none seems open minded to it .
+   (ID: 8e425f2be5b1012969ff4827fa2372423ba47972)
+
+18. hunters do not ask anyone else to adopt thier morals . hunters are not compelled to kill by tenet but by choice , there are plenty of times i ' ve sat in a blind had a few beers and never touched my bow as deer wandered by . i can say that i didn ' t even try to kill anything today when i get back to the lodge and no one will say that i ' m not longer a hunter . my bet is if you say to a group of vegans that you just a little bacon today or a bit of scrambled eggs this morning the reaction will not be as favorable .
+   (ID: 4a7a47c2e5a0426b71a637dd821ac57f06afeedf)
+
+19. I have a father in my family.
+   (ID: 5be7ef463c3ba0c7a9c255bd9769c5f638d2b805)
+
+20. thank you . i was a bit nervous that i would insult someone as these terms are so loaded . i would hate to demean anyone .
+   (ID: 787b93a7786c68b0f31fb63e18ccf3551bafae1b)
+
+
+--- PersonaChat ---
+Total from this dataset: 1566
+
+1. i love to workout .
+   (ID: conversation_64)
+
+2. i have my own channel .
+   (ID: conversation_341)
+
+3. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+4. my favorite color is orange .
+   (ID: conversation_307)
+
+5. i go fishing on the weekends to relax .
+   (ID: conversation_314)
+
+6. i dance ballet .
+   (ID: conversation_200)
+
+7. i do not drive .
+   (ID: conversation_90)
+
+8. i live with a roommate .
+   (ID: conversation_198)
+
+9. i am still in love with my ex boyfriend .
+   (ID: conversation_41)
+
+10. i'm weak and selfish , but i want to change .
+   (ID: conversation_130)
+
+11. my mom is a checker at the local grocery store .
+   (ID: conversation_221)
+
+12. my father worked for ge .
+   (ID: conversation_47)
+
+13. my favorite color is blue .
+   (ID: conversation_311)
+
+14. i like horseback riding .
+   (ID: conversation_28)
+
+15. i cut down trees very fast , because i have a large ax .
+   (ID: conversation_51)
+
+16. my favorite tv show is silicon valley .
+   (ID: conversation_161)
+
+17. i live in nashville .
+   (ID: conversation_215)
+
+18. i love comic books .
+   (ID: conversation_119)
+
+19. i have no parents or siblings .
+   (ID: conversation_309)
+
+20. i dream of playing music for a living .
+   (ID: conversation_328)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3113
+
+1. My car is blue.
+   (ID: conversation_145_user_2)
+
+2. My favorite food is pizza.
+   (ID: conversation_73_user_2)
+
+3. I run track.
+   (ID: conversation_172_user_1)
+
+4. I was an army brat.
+   (ID: conversation_178_user_1)
+
+5. I want to get married again.
+   (ID: conversation_289_user_2)
+
+6. I just lost my job and i m looking for something new.
+   (ID: conversation_317_user_1)
+
+7. I love to ride my bike on the weekend.
+   (ID: conversation_39_user_2)
+
+8. I love the game halo.
+   (ID: conversation_234_user_2)
+
+9. I stay active.
+   (ID: conversation_256_user_1)
+
+10. I am currently unemployed.
+   (ID: conversation_269_user_1)
+
+11. My favorite color is purple.
+   (ID: conversation_326_user_2)
+
+12. My dad was a carsalesman.
+   (ID: conversation_141_user_1)
+
+13. I am primarily a meat eater.
+   (ID: conversation_139_user_2)
+
+14. I live on a farm.
+   (ID: conversation_63_user_2)
+
+15. I live with my parents and my little brother.
+   (ID: conversation_119_user_2)
+
+16. I have a job as a dj at a radio station.
+   (ID: conversation_28_user_1)
+
+17. I am single.
+   (ID: conversation_93_user_1)
+
+18. My idol is theirry henry.
+   (ID: conversation_73_user_2)
+
+19. I can draw.
+   (ID: conversation_30_user_1)
+
+20. I have a crush on my co worker.
+   (ID: conversation_303_user_1)
+
+
+============================================================

@@ -1,0 +1,39 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 4
+
+Dataset distribution in this cluster:
+  FoCus: 1 (25.0%)
+  PersonaChat: 2 (50.0%)
+  SyntheticPersonaChat: 1 (25.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I love the royal family.
+   (ID: LJYX36WCRYDM_9)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i love my family .
+   (ID: conversation_278)
+
+2. i love family time .
+   (ID: conversation_310)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I love family time.
+   (ID: conversation_457_user_2)
+
+
+============================================================

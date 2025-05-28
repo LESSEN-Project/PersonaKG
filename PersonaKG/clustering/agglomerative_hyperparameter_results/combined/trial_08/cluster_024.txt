@@ -1,0 +1,201 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 121
+
+Dataset distribution in this cluster:
+  FoCus: 3 (2.5%)
+  MPChat: 1 (0.8%)
+  MSC: 6 (5.0%)
+  PEC: 25 (20.7%)
+  PER-CHAT: 83 (68.6%)
+  SyntheticPersonaChat: 3 (2.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I enjoy surfing.
+   (ID: X8E70IZC7L3S_11)
+
+2. I enjoy Richard Russo.
+   (ID: NR9LNBMYKSX6_9)
+
+3. I don't enjoy rollercoaster rides.
+   (ID: PFYAAS1XG3D8_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i hope you enjoy some of my fancy goldfish mugs i made
+   (ID: tinytinatuna2)
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I enjoy my albums.
+   (ID: dialog_6_speaker_2)
+
+2. I enjoy jogging.
+   (ID: dialog_56_speaker_1)
+
+3. I enjoy cosplay.
+   (ID: dialog_99_speaker_1)
+
+4. I enjoy romance.
+   (ID: dialog_122_speaker_1)
+
+5. I enjoy cosplay.
+   (ID: dialog_188_speaker_2)
+
+6. I enjoy my albums.
+   (ID: dialog_182_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 25
+
+1. i hope you enjoy !
+   (ID: Kialand)
+
+2. i hope you enjoy his class !
+   (ID: clueless3867)
+
+3. i would enjoy that snack every time .
+   (ID: 2inthehands)
+
+4. i hope you really enjoy your rig .
+   (ID: Aced920)
+
+5. i hope we all enjoy it and the combat .
+   (ID: Aced920)
+
+6. i for one , enjoy it
+   (ID: WillemDafoesAlterEgo)
+
+7. i hope you really enjoy it .
+   (ID: 3scotchnight)
+
+8. i hope you enjoy the rest of forever together
+   (ID: kuh_boom)
+
+9. i hope you enjoy !
+   (ID: BearCanoe)
+
+10. i hope you thoroughly enjoy your line of work , you deserve it .
+   (ID: EvieAugust)
+
+11. i also do enjoy less oxidized greener oolongs as well .
+   (ID: Lilliaan)
+
+12. i enjoy waiters .
+   (ID: newyork2012)
+
+13. i hope that you enjoy it !
+   (ID: kitcatpaints)
+
+14. i enjoy this so much
+   (ID: alicepalmbeach)
+
+15. i think r / accidentalrenaissance might even enjoy this .
+   (ID: WeirdAvocado)
+
+16. i think you would enjoy the r / disneyeyes sub � �
+   (ID: mrhenk9)
+
+17. i hope you get a chance to enjoy them soon !
+   (ID: kitcatpaints)
+
+18. i think he would enjoy the gran turismo games .
+   (ID: Ashex)
+
+19. i hope you enjoy many happy years together
+   (ID: notthruyet)
+
+20. i 'm sorry , but that emoji caption made me enjoy this less :/
+   (ID: OliveGames)
+
+
+--- PER-CHAT ---
+Total from this dataset: 83
+
+1. I enjoy mma.
+   (ID: 44477e54e9e15675b9ad5c3be02b0440724c674b)
+
+2. I enjoy fifa.
+   (ID: 2ea109772fcc0738f65030d7584f4ec864e785dd)
+
+3. I enjoy fc barcelona.
+   (ID: 2fa786bde9d7f9b2d3a93476f3298d77041fdb1e)
+
+4. I enjoy mma.
+   (ID: 8f33db98a9fa29c8f9e44012d79de72291a29519)
+
+5. I enjoy minnesota vikings.
+   (ID: e84ec39cf97c9609b6feb31cbaab5faf551f372d)
+
+6. I enjoy cricket.
+   (ID: 7d39153e3adadffd15e1638679c2e1cdc5c64fde)
+
+7. I enjoy tottenham hotspur f.c..
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+8. I enjoy mma.
+   (ID: 26eaf1fafb916f4238e66dfba6deb9da540be2f6)
+
+9. I enjoy cricket.
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+10. I enjoy fc barcelona.
+   (ID: 1aeb7d227bb9f7bdec3e7350c5522353fdb74354)
+
+11. I enjoy boston redsox.
+   (ID: 34ec1eee47d9e01bd9a5b29f2d3b8f2098f875d3)
+
+12. I enjoy baltimore ravens.
+   (ID: e8daa61bfd9bf81549666ebd0bdf393156b492de)
+
+13. I enjoy fifa.
+   (ID: 67ef96fb30756c49a9ffdff2579058eb2a3c1398)
+
+14. I enjoy rugby.
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+15. I enjoy poker.
+   (ID: d45001f1fdd37cda488cfddffabec23e83ee7b7e)
+
+16. I enjoy cricket.
+   (ID: 1aeb7d227bb9f7bdec3e7350c5522353fdb74354)
+
+17. I enjoy boxing.
+   (ID: 2ad50e702ea7ef4cc62a34ca116f658d564c0474)
+
+18. I enjoy philadelphia eagles.
+   (ID: e84ec39cf97c9609b6feb31cbaab5faf551f372d)
+
+19. I enjoy mma.
+   (ID: 9a13b21f54717da1499379b5cb0e991e82d4c90f)
+
+20. I enjoy mma.
+   (ID: ac1ceb388a2e170941cb682c48398cacc87c5019)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I enjoy hitchhiking.
+   (ID: conversation_298_user_1)
+
+2. I enjoy being alone.
+   (ID: conversation_99_user_2)
+
+3. I enjoy organizing my surroundings.
+   (ID: conversation_153_user_1)
+
+
+============================================================

@@ -1,3 +1,19 @@
+def get_cluster_themes():
+    return [{
+        "role": "system",
+        "content": """You are a cluster theme extraction system."""
+        },
+        {
+            "role": "user",
+            "content": """You will be given a set of persona statements. They all belong to the same cluster. Your task is to identify
+            the themes they share, so that the cluster can be named properly. Statements can have multiple themes, a single theme, or no theme at all.     
+            The themes corresponding to the personal information shared by the users. Identify the category(ies) of personal information shared by the users.       
+            Try to find a general category that would be the best representation of the cluster. If not one single category exists, limit the number of categories to 3.
+            Here are the persona statements:
+            {statements}
+            If exists, output the theme or themes that best represent the cluster. If no theme exists, output "None". If multiple themes exists, separate them with a comma. Do not output anything besides the theme or themes."""
+        }]
+
 def get_next_utterance_prompt(user1_persona, user2_persona, conversation_history, target_speaker, kg_info=""):
     """Generate a prompt for next utterance prediction.
     

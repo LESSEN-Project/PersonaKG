@@ -1,0 +1,124 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 207
+
+Dataset distribution in this cluster:
+  MSC: 4 (1.9%)
+  PEC: 2 (1.0%)
+  PER-CHAT: 198 (95.7%)
+  PersonaChat: 2 (1.0%)
+  SyntheticPersonaChat: 1 (0.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. My father flies for delta.
+   (ID: dialog_58_speaker_2)
+
+2. My father flies for delta.
+   (ID: dialog_29_speaker_1)
+
+3. I've ben to Canada before with my father.
+   (ID: dialog_33_speaker_2)
+
+4. My father is a minister.
+   (ID: dialog_40_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i believe she is controlling them as much as my father .
+   (ID: RelaxedSociety)
+
+2. i am your father
+   (ID: RonaldFuckingPaul)
+
+
+--- PER-CHAT ---
+Total from this dataset: 198
+
+1. I have a father in my family.
+   (ID: 7928bd3c3e727c94ff476240a27ed7199d92d666)
+
+2. I have a father in my family.
+   (ID: addb5c6e93320b8955b216917ee93bd0b85f0646)
+
+3. I have a father in my family.
+   (ID: 726c36ce13fa631676ed5053f62b0f5f7b61eb5e)
+
+4. I have a father in my family.
+   (ID: 90eb51492399cbfe8bbde2fd7d291e5e115a59db)
+
+5. I have a father in my family.
+   (ID: 3cc393500aaac3a2ee1cd96955cee486bb062a46)
+
+6. I have a father in my family.
+   (ID: 4167b7bc7d40ac86ca6b492ac0bbaefa992711f6)
+
+7. I have a father in my family.
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+8. I have a father in my family.
+   (ID: 36314aee005a03517f2446ec0da2834fe0f712d6)
+
+9. I have a father in my family.
+   (ID: ed7b237fb6485952b3dcc1d753d52f12dfff995a)
+
+10. I have a father in my family.
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+11. I have a father in my family.
+   (ID: 18e18998471794de2ee0ded08a5f57a45a336e24)
+
+12. I have a father in my family.
+   (ID: a3c37892d1eb5776c9a4299ce29fc6200c20dd34)
+
+13. I have a father in my family.
+   (ID: de5db66359e6314e9bac24fd9a10ec1d49584c4f)
+
+14. I have a father in my family.
+   (ID: 75ca79d6c5cfc50533ff56cde25edfb593ae8568)
+
+15. I have a father in my family.
+   (ID: 9ec97fcc6f16d54d7e24ba1cdb5ebe5785854536)
+
+16. I have a father in my family.
+   (ID: 41fc1b2c09d5a16a25f120edde55b2a6e2e54e29)
+
+17. I have a father in my family.
+   (ID: 841a375b464a5650f1c027d1c7ae73415228c6ab)
+
+18. I have a father in my family.
+   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
+
+19. I have a father in my family.
+   (ID: 1885b01dd0970230fea2a9c9ae9c4eaeaceb59a3)
+
+20. I have a father in my family.
+   (ID: 2e369dc21156ed2b443bc09084e27c8acb516093)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my father is a preacher .
+   (ID: conversation_98)
+
+2. my father is a preacher .
+   (ID: conversation_40)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My father is a preacher.
+   (ID: conversation_235_user_2)
+
+
+============================================================

@@ -1,0 +1,410 @@
+CLUSTER 48
+============================================================
+Total statements in cluster: 1246
+
+Dataset distribution in this cluster:
+  FoCus: 31 (2.5%)
+  MPChat: 1 (0.1%)
+  MSC: 57 (4.6%)
+  PEC: 49 (3.9%)
+  PER-CHAT: 1009 (81.0%)
+  PersonaChat: 36 (2.9%)
+  SyntheticPersonaChat: 63 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 31
+
+1. I would like to live in Hong Kong.
+   (ID: FHCSCC2MB2X0_7)
+
+2. I am living in New Hampshire.
+   (ID: 9QE8MQM0B8P7_11)
+
+3. I live in Sonoma County.
+   (ID: EZGYRI0YA8OX_9)
+
+4. I live in Kansas City.
+   (ID: HO684VMC687Z_11)
+
+5. I live in a house.
+   (ID: 6JXMJ0KGXDGI_11)
+
+6. I live in England.
+   (ID: AOQJE7BBYFVM_11)
+
+7. I live in Oregon.
+   (ID: X3WVWF5IVCYD_11)
+
+8. I live in a city.
+   (ID: NKLIZUTIPPP1_11)
+
+9. I live in a house.
+   (ID: SRO8K4E2N5N5_7)
+
+10. I live in urban part of the city.
+   (ID: QK9TQHXYFFJ9_11)
+
+11. I live in London.
+   (ID: DSK4ZP7S862W_11)
+
+12. I live in New York City.
+   (ID: O2J7AJP3JLY3_11)
+
+13. I would like to live in Palladian house.
+   (ID: QCGNF3BW4P3K_11)
+
+14. I love to live in Tây Ninh.
+   (ID: IP4KRMQQREBQ_9)
+
+15. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+16. I would like to live in Queensland.
+   (ID: JGNFHPJEPO6H_9)
+
+17. I live in India.
+   (ID: ASEVTIZW4Z03_11)
+
+18. I like to live in the City of London.
+   (ID: XY9R2ORN3XBQ_7)
+
+19. I live in Canada.
+   (ID: INVNLHZVN3VM_9)
+
+20. I live in Pennsylvania.
+   (ID: GYX0OU7PEQ7Q_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i live in a burgerless country, so i have to make my own.
+   (ID: DogWearingSunglasses)
+
+
+--- MSC ---
+Total from this dataset: 57
+
+1. I live in a rural area in Alabama, outside Birmingham.
+   (ID: dialog_85_speaker_1)
+
+2. I live out in the country.
+   (ID: dialog_40_speaker_2)
+
+3. I live in a stand alone.
+   (ID: dialog_118_speaker_2)
+
+4. I am from a very small town. I do not live somewhere exotic.
+   (ID: dialog_2_speaker_1)
+
+5. I am from the United States. I live in Jersey.
+   (ID: dialog_59_speaker_1)
+
+6. I live on a farm.
+   (ID: dialog_13_speaker_1)
+
+7. I live surrounded by farmland.
+   (ID: dialog_27_speaker_1)
+
+8. I live in Argentina. I live with horses on a horse ranch. I have horses named Max, Rodney and Finn.
+   (ID: dialog_59_speaker_2)
+
+9. I am single. I live in a suburb in Boston.
+   (ID: dialog_41_speaker_1)
+
+10. I live on a private island.
+   (ID: dialog_69_speaker_2)
+
+11. I am from and live in Vancouver, British Colombia.
+   (ID: dialog_33_speaker_1)
+
+12. I live in a bad neighborhood.
+   (ID: dialog_13_speaker_2)
+
+13. I live near a barn near Saratoga..
+   (ID: dialog_117_speaker_1)
+
+14. I live near a barn near Saratoga.
+   (ID: dialog_117_speaker_1)
+
+15. I live in a studio.
+   (ID: dialog_42_speaker_1)
+
+16. I live in Seattle. I have a houseboat.
+   (ID: dialog_14_speaker_2)
+
+17. I live by the ocean.
+   (ID: dialog_69_speaker_2)
+
+18. I live in the suburbs in new jersey.
+   (ID: dialog_95_speaker_2)
+
+19. I live on a farm in Ohio.
+   (ID: dialog_42_speaker_2)
+
+20. I live in a nursing home.
+   (ID: dialog_116_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 49
+
+1. i live in north georgia and up here it 's more co - slaw .
+   (ID: hardt0f0rget)
+
+2. i live in canada very near the canadian rockies ..
+   (ID: exotics)
+
+3. i live in nyc and live near " the mosque " .
+   (ID: ddshroom)
+
+4. i live in mirdif and fuck you but you 're right :/
+   (ID: Darth_Waiter)
+
+5. i live more than a mile away from the nearest fish and chip shop .
+   (ID: Ooer)
+
+6. i live nearby .
+   (ID: metalbark)
+
+7. i ’m guessing you live in the pnw .
+   (ID: Justadropinthesea)
+
+8. i do n’t live here but this is my favorite city in the whole world .
+   (ID: themarajade1)
+
+9. i am lucky enough to live within walking distance of a japanese grocery store .
+   (ID: chirpyboyandbartjr)
+
+10. i live here and i do n’t understand why it ’s like this .
+   (ID: Dustin_Bromain)
+
+11. i live at 10,000 feet currently .
+   (ID: buttercup_mauler)
+
+12. i 'm in i live right by wooster square what up
+   (ID: Nick84572)
+
+13. i live in bc , canada .
+   (ID: FruitBatFanatic)
+
+14. i live in a 3rd world country . )
+   (ID: beautifulw0man)
+
+15. i live my generous heart .
+   (ID: latestartksmama)
+
+16. i live in montreal and i find this ridiculous - .
+   (ID: arabguyistall)
+
+17. i live in ohio !
+   (ID: GetItTogether)
+
+18. i live in a resort area .
+   (ID: StinkinFinger)
+
+19. i live in dayton and everyone is a bengals fan .
+   (ID: worried_panda)
+
+20. i think i live like a couple min away
+   (ID: Sniperman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1009
+
+1. I live in ny.
+   (ID: 701f8001d10c04dcd53d9b13ab2a896b452e50f7)
+
+2. I live in houston.
+   (ID: e762afbb043380ba48c73fe9d10d74d8daeb8b17)
+
+3. I live in borg america.
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+4. I live in on island.
+   (ID: 0254dc2f43007419c5c3fd1e155e6bf15fce137d)
+
+5. I live in near village.
+   (ID: 6c99329e90a867248b7cd3a376f1a2fd57ae3994)
+
+6. I live in quad cities.
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
+
+7. I live in country.
+   (ID: 3b1e3cf14f6a566c4f731ae09429e3bbfd3a1bfc)
+
+8. I live in toronto.
+   (ID: 00b878c3a1ec656c05e2872b35fdccfcfda3baac)
+
+9. I live in town.
+   (ID: 6ea82786a74ccdc85dc1fddd809a575aa4e4efcf)
+
+10. I live in washington state.
+   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+
+11. I live in south carolina.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+12. I live in toronto.
+   (ID: c9b1e924c86788c982ec59df3d5704354a2a4ae1)
+
+13. I live in ohio.
+   (ID: 3ba6725e8f1b7a123febfe8a266ec0dc4d054b65)
+
+14. I live in washgton state.
+   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+
+15. I live in zealand.
+   (ID: 40ad6d409c1f0888bdb3dbd8d7bab47d00f3a6f0)
+
+16. I live in pp stories.
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+17. I live in chicago.
+   (ID: 29b9b56e163cbfecbc98e83c436b436aca056a8c)
+
+18. I live in fruit country.
+   (ID: e036cce09e42b447bacae037ef33243f155fd2bf)
+
+19. I live in san francisco.
+   (ID: eb0cdac3cc0d373669b221df2a54b8040cfa1dde)
+
+20. I live in community.
+   (ID: ca13e283de9a99b9eb1cf4f68eed33eccff74e35)
+
+
+--- PersonaChat ---
+Total from this dataset: 36
+
+1. i live in chicago .
+   (ID: conversation_211)
+
+2. i live with my best friend .
+   (ID: conversation_177)
+
+3. i live with a roommate .
+   (ID: conversation_198)
+
+4. i live in a small city .
+   (ID: conversation_239)
+
+5. i live in an apartment .
+   (ID: conversation_308)
+
+6. i live in an apartment .
+   (ID: conversation_135)
+
+7. i live in a house in the country .
+   (ID: conversation_40)
+
+8. i live on the third floor in an apartment .
+   (ID: conversation_268)
+
+9. i live in a house with a yard .
+   (ID: conversation_344)
+
+10. i live in seattle .
+   (ID: conversation_346)
+
+11. i still live with my parents .
+   (ID: conversation_24)
+
+12. i live in a house .
+   (ID: conversation_97)
+
+13. i live in a house in the country .
+   (ID: conversation_98)
+
+14. i live with my parents .
+   (ID: conversation_159)
+
+15. i live in the city .
+   (ID: conversation_81)
+
+16. i live in a house .
+   (ID: conversation_118)
+
+17. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+18. we live in a rural area .
+   (ID: conversation_233)
+
+19. i need certain medications to live .
+   (ID: conversation_171)
+
+20. i live in the usa .
+   (ID: conversation_23)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 63
+
+1. I live to not disappoint my loved ones.
+   (ID: conversation_11_user_1)
+
+2. I live in colorado.
+   (ID: conversation_145_user_2)
+
+3. I live with my parents.
+   (ID: conversation_346_user_2)
+
+4. I live near the ocean.
+   (ID: conversation_280_user_2)
+
+5. I still live at home with my parents.
+   (ID: conversation_1_user_1)
+
+6. I live near the ocean.
+   (ID: conversation_332_user_1)
+
+7. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+8. I still live at home with my parents.
+   (ID: conversation_2_user_1)
+
+9. I live near the ocean.
+   (ID: conversation_288_user_2)
+
+10. I live in a small apartment in new york.
+   (ID: conversation_267_user_2)
+
+11. I live in an apartment.
+   (ID: conversation_46_user_2)
+
+12. I live on a beet farm.
+   (ID: conversation_116_user_2)
+
+13. My parents live in kentucky.
+   (ID: conversation_310_user_2)
+
+14. I live close to the coast.
+   (ID: conversation_41_user_1)
+
+15. I live to not disappoint my loved ones.
+   (ID: conversation_10_user_1)
+
+16. I live on a pig farm.
+   (ID: conversation_90_user_2)
+
+17. I live in california.
+   (ID: conversation_115_user_2)
+
+18. I live close to the coast.
+   (ID: conversation_45_user_1)
+
+19. I live in chicago.
+   (ID: conversation_131_user_2)
+
+20. I live in chicago.
+   (ID: conversation_122_user_2)
+
+
+============================================================

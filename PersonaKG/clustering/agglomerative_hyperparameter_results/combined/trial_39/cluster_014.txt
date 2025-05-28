@@ -1,0 +1,413 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 1888
+
+Dataset distribution in this cluster:
+  FoCus: 366 (19.4%)
+  MPChat: 2 (0.1%)
+  MSC: 89 (4.7%)
+  PEC: 175 (9.3%)
+  PER-CHAT: 1105 (58.5%)
+  PersonaChat: 55 (2.9%)
+  SyntheticPersonaChat: 96 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 366
+
+1. I want a higher education.
+   (ID: L2FEEPD1V8BQ_11)
+
+2. I wish to know more about Constantinople.
+   (ID: VB4LDHWFQAVH_11)
+
+3. I wish to study at Oxford.
+   (ID: PCA6OG1NNC5D_9)
+
+4. I am interested in the history.
+   (ID: BW0T5H4NNS8X_11)
+
+5. I am interested in the Orthodox religion.
+   (ID: VB4LDHWFQAVH_11)
+
+6. At school, I wrote an essay on World Heritage Sites.
+   (ID: 9XU1TTS7R7XN_11)
+
+7. I am interested in primates.
+   (ID: XPO6CJX81MYK_9)
+
+8. I want to go back to India.
+   (ID: KGUNB0DFP7UP_11)
+
+9. I am writing about Stratovolcano.
+   (ID: LERVJ9I223JG_7)
+
+10. I wish to know more about Trinovantes.
+   (ID: XY9R2ORN3XBQ_7)
+
+11. I have to know its operation.
+   (ID: P1H8TAIRTLFZ_9)
+
+12. I am interested in art galleries.
+   (ID: NNHLL70QFA6I_11)
+
+13. I am interested in history.
+   (ID: P1H8TAIRTLFZ_9)
+
+14. I want to study in Oxford.
+   (ID: J5M5FXFIS10V_11)
+
+15. I wish to know more about Theodore Roosevelt.
+   (ID: DSVUVNI5ADO5_11)
+
+16. I have heard about Hooghly River.
+   (ID: WKS47SP8CYLV_11)
+
+17. I hope to compete in the Olympics.
+   (ID: 8WL4II03WTP0_7)
+
+18. I am interested in business.
+   (ID: A4HYLQI5894E_11)
+
+19. I have seen many times a hydroelectric dam near the city where I live.
+   (ID: 91IHZ45NQ48A_11)
+
+20. I have studied about Ngô Văn Chiêu in my college.
+   (ID: IP4KRMQQREBQ_9)
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. working on a soft book for my daughter.
+   (ID: Sophie74656)
+
+2. i need some help!
+   (ID: batman1227)
+
+
+--- MSC ---
+Total from this dataset: 89
+
+1. I want to start running. I want to start a training programme.
+   (ID: dialog_40_speaker_2)
+
+2. I'm in college to receive my diploma.
+   (ID: dialog_191_speaker_2)
+
+3. I attend night classes.
+   (ID: dialog_21_speaker_2)
+
+4. I go to school online.
+   (ID: dialog_139_speaker_1)
+
+5. I am interested in electronics.
+   (ID: dialog_155_speaker_2)
+
+6. I attend school virtually.
+   (ID: dialog_53_speaker_2)
+
+7. My dream is to compete professionally or qualify for an event one day.
+   (ID: dialog_15_speaker_1)
+
+8. I like to participate in sports that require speed and agility.
+   (ID: dialog_143_speaker_2)
+
+9. I'm attending college to obtain my ba.
+   (ID: dialog_89_speaker_2)
+
+10. I am in school majoring in business at university. I am studying finance.
+   (ID: dialog_7_speaker_2)
+
+11. I am in college to receive my diploma.
+   (ID: dialog_106_speaker_1)
+
+12. I want to work for myself and run my own daycare as a lifelong career.
+   (ID: dialog_119_speaker_2)
+
+13. I am a student. I go to michigan state.
+   (ID: dialog_144_speaker_2)
+
+14. I will be attending college in california.
+   (ID: dialog_108_speaker_2)
+
+15. I like tacos. I am getting ready to move. I am going to the University of Michigan. I major in Pre-med since I like to become a doctor.
+   (ID: dialog_12_speaker_1)
+
+16. I am going to a private college.
+   (ID: dialog_12_speaker_1)
+
+17. I'm studying for a bachelors degree.
+   (ID: dialog_89_speaker_2)
+
+18. I major in Pre-med since I like to become a doctor.
+   (ID: dialog_12_speaker_1)
+
+19. I'm starting my own business.
+   (ID: dialog_109_speaker_2)
+
+20. I have not decided on a major for school.
+   (ID: dialog_12_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 175
+
+1. i do n't know how to proceed .
+   (ID: Always_Ask_4_Sources)
+
+2. i graduate in may and have a post grad job already .
+   (ID: Kangfight)
+
+3. i thought for sure bogus article , but i 'm interested in what comes of it
+   (ID: alextound)
+
+4. i 'm not sure where to start .
+   (ID: Sometimes_Why)
+
+5. i want to compete in a powerliftmeet / strongman event in a few years .
+   (ID: Takumi-Fujiwara)
+
+6. i just finished my degree after 9 years
+   (ID: CtC666)
+
+7. i 'm currently in my junior year of high school and plan to attend university in japan .
+   (ID: YuseiAkask)
+
+8. i second this the gottman 's are some the world 's most respected scholars .
+   (ID: notjawn)
+
+9. i need big help
+   (ID: GitFloowSnaake)
+
+10. i 'd love to see evidence that there 's over 500 chemicals in coffee that are carcinogenic .
+   (ID: bluesatin)
+
+11. i ’m a freshman in college and have to take a required communications class .
+   (ID: QueenPea13)
+
+12. i ’m about to finish my classes for hvac in april .
+   (ID: iToaditSo)
+
+13. i would n't know where to start .
+   (ID: underneathstars)
+
+14. i would like more evidence of their findings .
+   (ID: IgnoranceIsAVirus)
+
+15. i 've read lots of books about the civil war , maybe you should try it .
+   (ID: pissin_in_the_wind)
+
+16. i 'm pretty new at this stuff but trying to learn more .
+   (ID: NyxPeregrinus)
+
+17. i do n't know where to start .
+   (ID: Sometimes_Why)
+
+18. i need to read a book
+   (ID: SamuelStephenBono)
+
+19. i have zero idea where to begin .
+   (ID: Sometimes_Why)
+
+20. i 'm trying to figure out college too at 23 .
+   (ID: WeldyLady)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1105
+
+1. I'm interested in cooking.
+   (ID: dc513faaa334954cbf68db2825ec42a31e42fac2)
+
+2. I'm interested in lgbt.
+   (ID: 920ba0628cbea5588ecca4c8ba7f80b411ff70ef)
+
+3. I'm interested in personal finance.
+   (ID: 5bf69e8a91457991a99f2cc3f9248ca16f27a0d5)
+
+4. I'm interested in environment.
+   (ID: 695c696deb58364c4f03bf78d7d406b01f2254e6)
+
+5. I'm interested in lgbt.
+   (ID: 85bffe0bb9cbc6b9878fa42cd379cd2d4c7a27e1)
+
+6. I'm interested in sex.
+   (ID: e7516540d2045135f43a4a7c61f0bd88856c8ff4)
+
+7. I am agumon  elementary school.
+   (ID: 76b9606d2d21bcdc24810e0215e37a6a9d45b771)
+
+8. I'm interested in fashion and beauty.
+   (ID: dcb1bc1d0feb2af72f09ec35633379706e2b36f0)
+
+9. My social science and humanities is history.
+   (ID: e24ed5c3caffaf18d8a2097a35f6cf37eff0117b)
+
+10. I'm interested in parenting.
+   (ID: c0cbd0e097375f98ad98ec291f836a39d55e02c1)
+
+11. I'm interested in cooking.
+   (ID: c6e9d7bec5bbee67d384191c91101e443de5ac3c)
+
+12. I'm interested in personal finance.
+   (ID: 6b04f3448a053338b902c242d1883da1e90dc7bb)
+
+13. I'm interested in depression and anxiety.
+   (ID: c83b22a49a20c27500a33ae6560c81c75749e66b)
+
+14. I'm interested in marketing.
+   (ID: 7bbefe3c73b49467552610b8dad9354ce8c09cde)
+
+15. I'm interested in self-help and motivation.
+   (ID: abf75f77636a74f3ad337cbd0a59bf507e662343)
+
+16. I'm interested in self-help and motivation.
+   (ID: fd98a0804e382a144d76dd9fdb6ff8323a9d6b21)
+
+17. I'm interested in makeup.
+   (ID: 5d5b1d6dc4106ea3828986093f78b562f2a75587)
+
+18. I'm interested in personal finance.
+   (ID: d636d8bc8fb2d3a1ea5a2a256cca15dd7f35a058)
+
+19. I'm interested in depression and anxiety.
+   (ID: 067b7441373b7dfebd4b068272381804c26fe6dc)
+
+20. I'm interested in health.
+   (ID: f9d3bf7ce779e854aa865f12a7dfaaee14a65cfa)
+
+
+--- PersonaChat ---
+Total from this dataset: 55
+
+1. i am in 3rd grade .
+   (ID: conversation_354)
+
+2. i am in high school .
+   (ID: conversation_121)
+
+3. i am in 3rd grade .
+   (ID: conversation_482)
+
+4. i just graduated from high school .
+   (ID: conversation_108)
+
+5. i just graduated college .
+   (ID: conversation_48)
+
+6. i'm a student in college .
+   (ID: conversation_230)
+
+7. i'll be graduating in september and hope to get a teaching job soon .
+   (ID: conversation_374)
+
+8. i am pursuing my law degree .
+   (ID: conversation_352)
+
+9. i m going to school to get my bachelor s degree .
+   (ID: conversation_453)
+
+10. i am in college .
+   (ID: conversation_441)
+
+11. i'm a college student .
+   (ID: conversation_172)
+
+12. i m a children s librarian .
+   (ID: conversation_330)
+
+13. i am in college .
+   (ID: conversation_16)
+
+14. i go to a private high school .
+   (ID: conversation_87)
+
+15. i will be graduating in september and hope to get a teaching job soon .
+   (ID: conversation_22)
+
+16. i will study computer science .
+   (ID: conversation_108)
+
+17. i'm going to school to get a degree now .
+   (ID: conversation_191)
+
+18. my major is business .
+   (ID: conversation_112)
+
+19. i'm a graduate student studying law .
+   (ID: conversation_43)
+
+20. i am going to school to get my bachelors degree .
+   (ID: conversation_89)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 96
+
+1. I am college student.
+   (ID: conversation_78_user_2)
+
+2. I am working on a biology degree.
+   (ID: conversation_126_user_1)
+
+3. I am studying to be a dentist.
+   (ID: conversation_488_user_1)
+
+4. I am a student in college.
+   (ID: conversation_257_user_2)
+
+5. I am learning to play the piano.
+   (ID: conversation_254_user_2)
+
+6. I am a high school student.
+   (ID: conversation_433_user_1)
+
+7. I am in college.
+   (ID: conversation_128_user_1)
+
+8. I go to school for business.
+   (ID: conversation_174_user_2)
+
+9. I am in high school.
+   (ID: conversation_108_user_1)
+
+10. I am leaving for college in three months.
+   (ID: conversation_49_user_1)
+
+11. I am in 3rd grade.
+   (ID: conversation_119_user_2)
+
+12. I am going back to school.
+   (ID: conversation_170_user_2)
+
+13. I am working on a biology degree.
+   (ID: conversation_129_user_1)
+
+14. I study philosophy at umass.
+   (ID: conversation_159_user_1)
+
+15. I am taking courses online.
+   (ID: conversation_391_user_2)
+
+16. I am a psychology major.
+   (ID: conversation_290_user_2)
+
+17. I just started the tenth grade and my concentration is in science.
+   (ID: conversation_469_user_1)
+
+18. I study philosophy at umass.
+   (ID: conversation_158_user_1)
+
+19. I go to school for business.
+   (ID: conversation_7_user_2)
+
+20. I m a children s librarian.
+   (ID: conversation_321_user_1)
+
+
+============================================================

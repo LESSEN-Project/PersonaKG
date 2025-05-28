@@ -1,0 +1,37 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 5
+
+Dataset distribution in this cluster:
+  PEC: 1 (20.0%)
+  SyntheticPersonaChat: 4 (80.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i wish my sister listened to vaporwave .
+   (ID: Heydawgg)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. My sister is a guitarist.
+   (ID: conversation_59_user_1)
+
+2. My sister is a guitarist.
+   (ID: conversation_60_user_1)
+
+3. My sister is a guitarist.
+   (ID: conversation_57_user_1)
+
+4. My sister is a guitarist.
+   (ID: conversation_58_user_1)
+
+
+============================================================

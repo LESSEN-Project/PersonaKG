@@ -1,0 +1,368 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 1530
+
+Dataset distribution in this cluster:
+  FoCus: 1 (0.1%)
+  MPChat: 6 (0.4%)
+  MSC: 95 (6.2%)
+  PEC: 103 (6.7%)
+  PER-CHAT: 1136 (74.2%)
+  PersonaChat: 92 (6.0%)
+  SyntheticPersonaChat: 97 (6.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have kids.
+   (ID: UXR4EKSRCULN_11)
+
+
+--- MPChat ---
+Total from this dataset: 6
+
+1. my husband has packed everything he needs for his work day.
+   (ID: kentobean123)
+
+2. my dad just emailed me this...
+   (ID: Sophie74656)
+
+3. my husband asked for a baby he asked for 6 more for his friends
+   (ID: Sophie74656)
+
+4. 48 hours worth of work out of my home kitchen to make some mom's happy today.
+   (ID: SugarHighBakedGoods)
+
+5. my husband asked for a sweater.
+   (ID: somuchyarn10)
+
+6. i made this shrug but mom decided that i had made it for her
+   (ID: letsallcrochetYT)
+
+
+--- MSC ---
+Total from this dataset: 95
+
+1. My mom helped me with my children.
+   (ID: dialog_98_speaker_1)
+
+2. My sister has lots of kids.
+   (ID: dialog_7_speaker_1)
+
+3. I was adopted when I was 1.
+   (ID: dialog_10_speaker_1)
+
+4. Being a grandma is my greatest accomplishment.
+   (ID: dialog_104_speaker_2)
+
+5. My younger brother plays cod.
+   (ID: dialog_67_speaker_2)
+
+6. My dad is a preacher and is judgemental. We live in the old country.
+   (ID: dialog_98_speaker_2)
+
+7. I have tons of relatives.
+   (ID: dialog_78_speaker_1)
+
+8. I do not have kids.
+   (ID: dialog_58_speaker_2)
+
+9. I come from a large family.
+   (ID: dialog_4_speaker_1)
+
+10. I have a large family with babies.
+   (ID: dialog_76_speaker_1)
+
+11. I have one son.
+   (ID: dialog_55_speaker_2)
+
+12. I don't know my family.
+   (ID: dialog_68_speaker_1)
+
+13. We have the same parents, he was born first.
+   (ID: dialog_81_speaker_2)
+
+14. We have 5 granddaughters and 2 grandsons.
+   (ID: dialog_127_speaker_2)
+
+15. I have no sisters or brothers.
+   (ID: dialog_108_speaker_1)
+
+16. I wish my folks were here.
+   (ID: dialog_84_speaker_2)
+
+17. I have two nephews.
+   (ID: dialog_99_speaker_2)
+
+18. I have a lot of kids.
+   (ID: dialog_124_speaker_2)
+
+19. I've a family.
+   (ID: dialog_44_speaker_2)
+
+20. My mom is my good friend.
+   (ID: dialog_14_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 103
+
+1. i called my mom for the gravy and she talked me through it .
+   (ID: chirpyboyandbartjr)
+
+2. i have similar markings to you mama .
+   (ID: EvieAugust)
+
+3. i know this family .
+   (ID: BlueSuedeBag)
+
+4. i want to be like your brother .
+   (ID: Takumi-Fujiwara)
+
+5. i 'm going to post this on my girlfriend 's facebook wall !
+   (ID: NietzschesUbermensch)
+
+6. i 'm sure your parents have some fun stories about you .
+   (ID: Evref)
+
+7. i 'd call that a dad joke , but that would be generous .
+   (ID: Evref)
+
+8. i m going to show my grandmother .
+   (ID: bbrandann)
+
+9. i wish i had half a dad as he has .
+   (ID: DickRubnuts)
+
+10. i was gon na ask if your dad likes minecraft as well .
+   (ID: I_am_not_a_Taco)
+
+11. i guess i should have mentioned that we ditched him with the grandparents
+   (ID: chirpyboyandbartjr)
+
+12. i 've abandoned my child
+   (ID: doctor_parcival)
+
+13. i doubt op will forget that , but his love for his dad obviously is n't fake .
+   (ID: scoutsadie)
+
+14. i 'm blood related to a ton of people i never see .
+   (ID: IncredibleBulk2)
+
+15. i do n’t remember saying anything about his parents
+   (ID: Montag3636)
+
+16. i do wish you could have met your grandsons .
+   (ID: gigatroness)
+
+17. i pick up my dad from the airport in 25 minutes , then grab the u - haul .
+   (ID: teriaki)
+
+18. i bet it feels cool to have the name of someone who meant so much to you .
+   (ID: sbsb27)
+
+19. i never told my mom i saw him , obviously .
+   (ID: hussy_trash)
+
+20. i guess i am looking for a mother figure because i never really had one .
+   (ID: RelaxedSociety)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1136
+
+1. I have a sisters in my family.
+   (ID: f46d1bfdfed7fc05bbe39789c092019944471e9d)
+
+2. I have a mother in my family.
+   (ID: 465a8b7c9604514a10670d3813f18485575cfa5c)
+
+3. I have a brother in my family.
+   (ID: 8e425f2be5b1012969ff4827fa2372423ba47972)
+
+4. I have a mother in my family.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+5. I have a son in my family.
+   (ID: f8d48136e1ccbc739d4b7fb8db1e8f668422b145)
+
+6. I have a brothers in my family.
+   (ID: 6735159236fd8a4634f1974d6eba7f027dbd1aa7)
+
+7. I have a mother in my family.
+   (ID: 514a3ecd0d04716c9225352c4a3a5d5424dd8056)
+
+8. I have a mother in my family.
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+9. I have a mother in my family.
+   (ID: 54097549786e78808b0d9772bb36b401b5761588)
+
+10. I have a mother in my family.
+   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+
+11. I have a son in my family.
+   (ID: eeef74f05127fafe9b00ca3ad85ff51c0eb20fff)
+
+12. I have a sister in my family.
+   (ID: a04ffec23ab9c2af8d4ac433e06db2b5d1b4bf9b)
+
+13. I have a son in my family.
+   (ID: a4cf7bd5112d789bb0b45477a071f936cf9b4ba7)
+
+14. she acted like you took up sooo much of her time whining about your poor baby . no . this woman is a cold lizard . she gave you the minimum and you are victim blaming yourself ! sorry . she sounds peeved that you are so sunk in your grief that you  ve forgotten the planets revolve around her ! well screw her . you are grieving your baby . what was her name ? where is he buried ? and what did she look like ? these are all such basic questions , for god  s sake that she could have asked ! because they mean something , and like any parent , you want to share your memories of your beloved infant . and you deserve to .
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+15. I have a mother in my family.
+   (ID: 664b365f80ff1d51db95866fada8009f14d8e9b1)
+
+16. I have a father in my family.
+   (ID: e74c4268e9e1c5f9cadf933981b55c5a5aa0d1f2)
+
+17. I have a sisters in my family.
+   (ID: 92705d87eaa503c0c39e0bda00f6d49fe27c65ef)
+
+18. I have a mother in my family.
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+
+19. I have a daughter in my family.
+   (ID: 1aa2a9bdfead7897363f32a7bc9e416ca9098b9f)
+
+20. my mom did some things that made me have really low self  esteem , and i can ' t just seem to fix it .
+   (ID: 2f03a8d589defb9434044b9ef9bfffc676e2b49a)
+
+
+--- PersonaChat ---
+Total from this dataset: 92
+
+1. my mom stays at home .
+   (ID: conversation_324)
+
+2. i've two children .
+   (ID: conversation_306)
+
+3. my mom went crazy when i was three and i've not seen her since .
+   (ID: conversation_305)
+
+4. my husband died a few years ago , so i am raising them alone .
+   (ID: conversation_340)
+
+5. i am the middle child of 3 siblings .
+   (ID: conversation_101)
+
+6. i miss my dad .
+   (ID: conversation_84)
+
+7. i've a twin brother .
+   (ID: conversation_57)
+
+8. i have two brothers .
+   (ID: conversation_242)
+
+9. i was raised by two mothers .
+   (ID: conversation_37)
+
+10. i was the first born child .
+   (ID: conversation_127)
+
+11. i've four siblings .
+   (ID: conversation_264)
+
+12. i have 8 brothers and we are close .
+   (ID: conversation_274)
+
+13. i've three daughters .
+   (ID: conversation_297)
+
+14. i am the oldest sibling .
+   (ID: conversation_293)
+
+15. i am the youngest sibling in my family .
+   (ID: conversation_193)
+
+16. i am an orphan who was in the foster care system .
+   (ID: conversation_153)
+
+17. i'm one of four siblings .
+   (ID: conversation_135)
+
+18. my family is very important to me .
+   (ID: conversation_189)
+
+19. i have no children of my own .
+   (ID: conversation_330)
+
+20. my family is very important to me .
+   (ID: conversation_316)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 97
+
+1. I have 3 children.
+   (ID: conversation_266_user_2)
+
+2. I am a mother of three.
+   (ID: conversation_230_user_1)
+
+3. I have three children.
+   (ID: conversation_26_user_2)
+
+4. I am one of four siblings.
+   (ID: conversation_230_user_2)
+
+5. My mother doesn t ! ove me.
+   (ID: conversation_69_user_2)
+
+6. I never knew my dad.
+   (ID: conversation_146_user_2)
+
+7. I have an 18 year old son.
+   (ID: conversation_191_user_1)
+
+8. My mother passed away in 1979.
+   (ID: conversation_117_user_2)
+
+9. My father died when i was 2.
+   (ID: conversation_64_user_2)
+
+10. I grew up as an orphan.
+   (ID: conversation_66_user_2)
+
+11. My family comes first to me.
+   (ID: conversation_279_user_2)
+
+12. I am an orphan.
+   (ID: conversation_121_user_1)
+
+13. I have only one child.
+   (ID: conversation_180_user_2)
+
+14. I have two kids , ages 2 and 6.
+   (ID: conversation_43_user_2)
+
+15. I have 3 kids.
+   (ID: conversation_105_user_2)
+
+16. We have two sons.
+   (ID: conversation_113_user_2)
+
+17. I have two nephews.
+   (ID: conversation_130_user_2)
+
+18. My mom is a cancer survivor.
+   (ID: conversation_331_user_2)
+
+19. I have 5 grandchildren.
+   (ID: conversation_329_user_1)
+
+20. My son is a football player.
+   (ID: conversation_313_user_1)
+
+
+============================================================

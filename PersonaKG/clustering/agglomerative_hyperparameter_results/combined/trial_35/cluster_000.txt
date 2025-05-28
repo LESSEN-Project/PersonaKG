@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 84320
+
+Dataset distribution in this cluster:
+  FoCus: 2447 (2.9%)
+  MPChat: 5010 (5.9%)
+  MSC: 3804 (4.5%)
+  PEC: 32705 (38.8%)
+  PER-CHAT: 33788 (40.1%)
+  PersonaChat: 2197 (2.6%)
+  SyntheticPersonaChat: 4369 (5.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2447
+
+1. I like studying the Middle Ages.
+   (ID: W1ARCAV1RHTZ_11)
+
+2. I like history.
+   (ID: MSVCAU01UHE3_11)
+
+3. I would like to visit Turkey.
+   (ID: JOUKPJIZMRMN_11)
+
+4. I like history.
+   (ID: MRD9ZG9O57GA_11)
+
+5. I like agricultural lands.
+   (ID: ATJSFYS2K6FK_11)
+
+6. I like the University life.
+   (ID: CPJ95KR758ZY_11)
+
+7. I have been to Pennsylvania.
+   (ID: 6XG4PP92HNX6_9)
+
+8. I like Thomas Douglas Stimson.
+   (ID: WYFFBVR6YR06_11)
+
+9. I live in urban part of the city.
+   (ID: QK9TQHXYFFJ9_11)
+
+10. I would like to visit Queensland.
+   (ID: 9DGY1RAZGYLM_9)
+
+11. I like playing Golf.
+   (ID: G4G0O51GJSQQ_11)
+
+12. I love old castles.
+   (ID: OVAVQ6KQ4YWN_11)
+
+13. I like acoustics.
+   (ID: EGOP94LCW2PF_11)
+
+14. I'm interested in music.
+   (ID: X45C380V98U8_9)
+
+15. I hope to visit New York.
+   (ID: LYKL0NXYUSDG_11)
+
+16. I like going to the park.
+   (ID: 6TU9FPP8YD8M_11)
+
+17. I wish to learn about American history.
+   (ID: OYTF1VSA3B6S_11)
+
+18. I am interested in the heritage.
+   (ID: VKB1PDSE9I2R_11)
+
+19. I am willing to visit Dortmund in this summer.
+   (ID: EUD8WT84YX0Q_11)
+
+20. I am a student.
+   (ID: ASEVTIZW4Z03_11)
+
+
+--- MPChat ---
+Total from this dataset: 5010
+
+1. little guy popped up inside a pot i have indoors.
+   (ID: snaps_pro)
+
+2. found my first stinkhorn in central washington!
+   (ID: sundstrom193)
+
+3. i'm in love with pompoms and braided ear flaps <3
+   (ID: ddizzle23)
+
+4. i did it!
+   (ID: MaximumLoaf)
+
+5. [fo] i embroidered this easter card.
+   (ID: gelimausi)
+
+6. cake i did for my sons baptism  i can't believe it's almost been a year already!
+   (ID: tremelir)
+
+7. my grandson wanted a shark, beach, sea, dolphin, boat cake for his birthday... delivered
+   (ID: Lady_FriendOfSpiders)
+
+8. i agree, buddy, that's the best spot in the house.
+   (ID: m3lodym4ker)
+
+9. i always make treats for my office.
+   (ID: ddizzle23)
+
+10. i have ra but i love to crochet.
+   (ID: krichmondRPH)
+
+11. daytona is calling, wish i was there again.
+   (ID: insthotchkiss)
+
+12. not the best with buttercream but i think this one turned out ok. lol #ihatesheetcakes
+   (ID: Sunshine_2425)
+
+13. my favorite piece yet, also i cut my finger with that wire
+   (ID: the-otherme)
+
+14. taking advantage of my son's 1st nap with a little sock knitting
+   (ID: ninjaeatingzombie)
+
+15. one of the prettiest cakes i've made!
+   (ID: chirp16)
+
+16. went to the krishna temple in utah to eat and i got to feed the llamas
+   (ID: kentobean123)
+
+17. every monday i crochet someones monster drawing.
+   (ID: Louiesloops)
+
+18. some more of my easter cupcakes, the kids loved them
+   (ID: Lady_FriendOfSpiders)
+
+19. quite proud for my first time making this cookies.
+   (ID: justcook_byangel)
+
+20. i made a large one, and one tiny one with an acorn hat!
+   (ID: CuriosityK)
+
+
+--- MSC ---
+Total from this dataset: 3804
+
+1. I cannot see very well.
+   (ID: dialog_31_speaker_1)
+
+2. I've a lot of worldly knowledge about food.
+   (ID: dialog_136_speaker_2)
+
+3. I work from home.
+   (ID: dialog_34_speaker_2)
+
+4. I do not have a dog.
+   (ID: dialog_174_speaker_1)
+
+5. I enjoy football and other games.
+   (ID: dialog_86_speaker_1)
+
+6. I'm a Registered Nurse.
+   (ID: dialog_155_speaker_2)
+
+7. I have always liked nice cars.
+   (ID: dialog_101_speaker_2)
+
+8. I love any and all movies with clark kent.
+   (ID: dialog_134_speaker_1)
+
+9. I don't know how to make lasagna.
+   (ID: dialog_44_speaker_2)
+
+10. I like to spend time with my family and my dogs.
+   (ID: dialog_109_speaker_1)
+
+11. I like to watch TV at night.
+   (ID: dialog_106_speaker_2)
+
+12. I am making a scarf for my daughter.
+   (ID: dialog_152_speaker_2)
+
+13. I make the greatest dessert all my friends say so.
+   (ID: dialog_183_speaker_1)
+
+14. Besides writing novels, I work at a diner as a cook. I am bad at singing.
+   (ID: dialog_119_speaker_1)
+
+15. Coke isn't my favorite.
+   (ID: dialog_134_speaker_1)
+
+16. I like tacos. I am getting ready to move. I am going to the University of Michigan. I major in Pre-med since I like to become a doctor.
+   (ID: dialog_12_speaker_1)
+
+17. I am in the military.
+   (ID: dialog_178_speaker_1)
+
+18. I call the ghetto home.
+   (ID: dialog_118_speaker_1)
+
+19. I use an evidence based approach to thought.
+   (ID: dialog_122_speaker_2)
+
+20. I'm a pilot.
+   (ID: dialog_156_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 32705
+
+1. i just watch movies on my laptop .
+   (ID: TylerC_D)
+
+2. i was wondering if you meant that but your parenthesis were confusing .
+   (ID: SanJOahu84)
+
+3. i do n't understand the roast me posts
+   (ID: Lifes6Midnight)
+
+4. i work two jobs too .
+   (ID: SamuelStephenBono)
+
+5. i like nerdy girls that have nice teeth .
+   (ID: LordQuorad)
+
+6. i am incapable of walking for 2 days and overall in pain for 8 hours .
+   (ID: justgirlypasta)
+
+7. i love beanball .
+   (ID: jesuschrysler)
+
+8. i really do n't get why white would not tennuki at the first black move
+   (ID: xcombelle)
+
+9. i ’m sorry everyone !
+   (ID: Atlmama)
+
+10. i 'll get my coat .
+   (ID: bondo84)
+
+11. i went to the game yesterday and they played his acceptance speech on the jumbo tron .
+   (ID: DoctorRichardNygard)
+
+12. i have held off buying anything because i am waiting on this .
+   (ID: JohnnyPappis)
+
+13. i like the donatello and ezio :) i can never find them
+   (ID: bummang)
+
+14. i hope it never stops for you !
+   (ID: latestartksmama)
+
+15. i ’m out of the loop
+   (ID: JeMangeLeButt)
+
+16. i 'm not usually a fan of insomnia ...
+   (ID: 2inthehands)
+
+17. i feel like we would be friends in real life
+   (ID: nate6051)
+
+18. i just bought some from amazon seller toktok .
+   (ID: rycheme)
+
+19. i 've had fatigue , but it 's never normal to be bleeding like that .
+   (ID: Waterrat)
+
+20. i think that 's what he said = d
+   (ID: JaZepi)
+
+
+--- PER-CHAT ---
+Total from this dataset: 33788
+
+1. i mean she takes it a step further , right ? she actually travels to cuba to meet with and talk to providers , health advocates and patients . she gives off the essence of a principled academic with scientific rigor to boot . she made a much greater effort than the three reactionary white dudes from a business school in texas did to support their thesis . but ultimately her paper was published by the university of miami , a hub for gold  toothed emigres with nothing but reactionary sentiment towards the cuban people . like most miami institutions they ' ve sought the demise of the cuban people and cuban project for a long time . i would avoid medical literature altogether and just use raw data to drawn your own conclusions and support the argument you want to make     x200b  i think the counter  argument to all of this is really simple  cuba is a poor  ass country with a shit gdp but still maintains excellent health parity and health outcomes . maternal mortality and infant mortality are both low when compared with the rest of the rich world . malnutrition and undernutrition are both also extremely low . life expectancy hangs out in the high 70s for men and low 80s for women . chronic illnesses are not prevalent unlike in the u . s . and this is all accomplished with only spending digit  of gdp on health expenditures .   x200b  the lesson to be learned here is that when you commit to economic nationalism , when you use the land , labor , markets , and resources of your country for the betterment of its people you get excellent health outcomes and health parity . when you do the opposite , when you privatize the healthcare industry and place the burden of costs onto your citizens , you not only get shit health outcomes and insurmountable health disparities but you also get financed assholes like benjamin powell who say that " sweatshops are actually good " while in the same breath say that healthcare is " repressive " in cuba .
+   (ID: 77d0324af3e030bb9fb9365a16e870bd522fd275)
+
+2. digit of digit things i ' m thinking . like many other people nba players are likely to follow fashion trends , probably more so than your average person because they have so many eyes on them all the time , they want to look good . . or they ' re having a behind the scene bet seeing who can wear the most ridiculous glasses at postgame
+   (ID: 7d39153e3adadffd15e1638679c2e1cdc5c64fde)
+
+3. I am a male.
+   (ID: 3fff1b9f2826f67730a90b0826e2ae56278e5d92)
+
+4. i suffer from anxiety mostly about germs , i have some chronic health conditions and in digit i was at my lowest , but have gradually taken back my life . however , i recently realized my issues with urinating while people are waiting this was at a doctor ' s office which i think stems from a self  esteem issue maybe yay . it ' s really nothing compared to what you ' re struggling with , but i thought i ' d mention that i can empathize . today i realized that the amount of anxiety i get from this issue adds too much anxiety to my already , at times , anxious life , so i ' m considering cognitive behavioral therapy . some questions to think about privately or publicly if you so choose  around when did this issue start for you ? is there an event that may have caused it to start ? maybe understanding how it all started can help you . i know you ' re seeing all of the things it has affected and you ' re probably unsure of where to start to actually take back some of what you used to have . i think it ' s important to have a good support system , so i ' d recommend finding a therapist you ' re comfortable with if you can afford it . it might not even need to be that they specialize in this condition , just professional therapist  counselor to talk to could be valuable . if you ' re unable to get a therapist right now , like you did by posting here , find a person or people to somehow make friendships with and possibly talk to about your issues . it ' s not fun to have to go it alone . i might suggest making " baby steps . " what if you could start working on this by finding either a very unfrequented private public restroom or an unfrequented public restroom with several stalls start with whichever sounds like the least uncomfortable to you . maybe a business where you can go when it ' s less crowded or maybe the college you went to , usually during break periods the schools are open and less students are there . i ' m wondering too if it might be helpful to use a public bathroom you used to be able to use . maybe you could you start off with using that one restroom and become comfortable going there often ? then could you move onto find another bathroom similar ? maybe eventually this would open the possibility of using less familiar , more frequented bathrooms . also , if you attempt something one day and feel it ' s too overwhelming , try again later or another day . don ' t see it as a failure , you tried . that ' s one more step than you might have done a different day . i was so sad when i read that you used alcohol as a way to try to help you through these situations , you shouldn ' t have to suffer like this . i hope you ' re able to get back your life !
+   (ID: 345fbf1e655edda9a5f8099ba480dfe0a7a0bd47)
+
+5. i ' ll take it as given that ' s that ' s the word for that , and thank  fuck you for that info .
+   (ID: 52f4e645771d12babe63c93a43451316a5fb0980)
+
+6. makes me look sharp .
+   (ID: 071de8843a9f6c2baf4f1a9eccd0700b9c6589a6)
+
+7. sure , it ' s still in its wrapper . what ' s your email
+   (ID: 2a43fd1ba18ed201f563f660a853be569ebb3917)
+
+8. I am a male.
+   (ID: 9d412b0236e1db384766edb9df245de053d643ad)
+
+9. I own a bullet kid.
+   (ID: 79a889fa6fb8a2c18c34d9aec95f4803861c97fe)
+
+10. I am aqua velva.
+   (ID: 9e1be6964f5835f58b6cdaac71f8b557f0b4a42f)
+
+11. I'm interested in snakes.
+   (ID: 8e2981abd669b044bf2b787c04095c3ebe52e273)
+
+12. I have a girlfriend.
+   (ID: e9e31949fb9369b722c0967c2e5f8ec095f0b329)
+
+13. it really do be like that sometimes .
+   (ID: d298609ba6b9516031b9d0b9bc9217d85ce28f05)
+
+14. i don ' t think that i ' m above anyone or feel that others are less than me . i ' m not desperate , miserable , or ugly inside . whether i ' m with someone or not i will be happy no matter what , thank you .
+   (ID: 159a1a696667b6871cb8de2b957ac5dd05b77427)
+
+15. win a  wait . just wait until time comes back because my game just froze for digit damn minutes , damn this is irritating .
+   (ID: 1e92f1e007a1c147f8200d50f473d5433028bffc)
+
+16. your safety concerns don ' t matter , and either do you , to your satanic government . the fix has been in for digit years .
+   (ID: bb6976d9c9771467d072134ccdbbbd5c82e5a67f)
+
+17. I own a dude.
+   (ID: 22864f9484c3c6d7f8c8dac79c58ea32865eb794)
+
+18. cheer up man , you have more people that care about you than you realize . you just need to find out how to find out how to care about yourself . love yourself before you love anyone else .
+   (ID: cedcbee1b270d7b3c90109c069d452a800ba09a7)
+
+19. One of my favorite things is agricultural.
+   (ID: 457d7d37e1181cc932693cd4220e6fbfd564a75d)
+
+20. One of my favorite things is automobiles.
+   (ID: 4520a5ba79e39385d988ada973bf675eafa2fc5b)
+
+
+--- PersonaChat ---
+Total from this dataset: 2197
+
+1. i like to listen to someone else reading a book .
+   (ID: conversation_102)
+
+2. i am a cat owner .
+   (ID: conversation_386)
+
+3. my passion is writing .
+   (ID: conversation_371)
+
+4. i like to work on cars .
+   (ID: conversation_438)
+
+5. i can benchpress 345 pounds .
+   (ID: conversation_224)
+
+6. i like to go hunting .
+   (ID: conversation_195)
+
+7. i recently made the college baseball team .
+   (ID: conversation_103)
+
+8. i love to bake cakes .
+   (ID: conversation_57)
+
+9. i eat well .
+   (ID: conversation_441)
+
+10. my father was a famous actor .
+   (ID: conversation_456)
+
+11. i play the bass guitar .
+   (ID: conversation_219)
+
+12. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+13. i live in the usa .
+   (ID: conversation_426)
+
+14. i love to clean my house .
+   (ID: conversation_336)
+
+15. my wife is a hairdresser .
+   (ID: conversation_321)
+
+16. i've never done drugs because i do not know where to buy them .
+   (ID: conversation_26)
+
+17. i've owned two mustangs .
+   (ID: conversation_384)
+
+18. i'm incredibly smart .
+   (ID: conversation_309)
+
+19. i do not have a lot of friends .
+   (ID: conversation_32)
+
+20. my girlfriend is 6 months pregnant .
+   (ID: conversation_258)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4369
+
+1. My car is blue.
+   (ID: conversation_398_user_2)
+
+2. Skateboarding is a hobby of mine.
+   (ID: conversation_302_user_1)
+
+3. I like to go to the gym and work out.
+   (ID: conversation_258_user_1)
+
+4. I work in the emergency room.
+   (ID: conversation_182_user_1)
+
+5. I like the music group the backstreet boys.
+   (ID: conversation_397_user_2)
+
+6. We will be traveling to niagra falls for our honeymoon.
+   (ID: conversation_469_user_2)
+
+7. My uncle use to work on fish boats in florida.
+   (ID: conversation_427_user_2)
+
+8. I have a sleeve of tattoos.
+   (ID: conversation_149_user_1)
+
+9. I am married.
+   (ID: conversation_398_user_2)
+
+10. I don t know why my sister in law dislikes me.
+   (ID: conversation_98_user_2)
+
+11. My parents were divorced.
+   (ID: conversation_222_user_1)
+
+12. I have blonde hair that reaches my knees.
+   (ID: conversation_6_user_2)
+
+13. I love eating out.
+   (ID: conversation_481_user_1)
+
+14. I play bass.
+   (ID: conversation_167_user_1)
+
+15. I work at a vet.
+   (ID: conversation_443_user_1)
+
+16. One day i would really like to skydive.
+   (ID: conversation_221_user_2)
+
+17. I am a vegan.
+   (ID: conversation_213_user_1)
+
+18. I cannot stand beets.
+   (ID: conversation_423_user_1)
+
+19. I live alone.
+   (ID: conversation_292_user_1)
+
+20. I love to travel.
+   (ID: conversation_290_user_2)
+
+
+============================================================

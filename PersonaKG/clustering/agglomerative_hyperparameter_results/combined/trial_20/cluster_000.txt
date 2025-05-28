@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43510
+
+Dataset distribution in this cluster:
+  FoCus: 1248 (2.9%)
+  MPChat: 2872 (6.6%)
+  MSC: 1896 (4.4%)
+  PEC: 16968 (39.0%)
+  PER-CHAT: 17265 (39.7%)
+  PersonaChat: 1105 (2.5%)
+  SyntheticPersonaChat: 2156 (5.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1248
+
+1. I would like to visit Canada.
+   (ID: GG3IBG4SOHXX_11)
+
+2. I would like to visit more heritage sites.
+   (ID: J3FELD3FPXVQ_11)
+
+3. I have a boyfriend who is a rock climber.
+   (ID: D4619DV1O1OP_11)
+
+4. I love to visit other countries' national monuments.
+   (ID: DK9VMLV1IASM_11)
+
+5. I love the sea.
+   (ID: FXSLHPIIV91K_11)
+
+6. I like government.
+   (ID: HO5IT5J1RXE4_11)
+
+7. I'm a CEO.
+   (ID: E3UZAGT5DTE5_11)
+
+8. I would like to compete in a ski competition.
+   (ID: QTNNKQN2EVU5_11)
+
+9. I am curious about jails.
+   (ID: BWZ0H3E6AIGB_11)
+
+10. I am interested in Martin Donlin.
+   (ID: G3027JCTO8X5_11)
+
+11. I love gardens.
+   (ID: SRO8K4E2N5N5_7)
+
+12. I like to visit united states.
+   (ID: BPCV4KG0PEMD_7)
+
+13. I like climbing.
+   (ID: OVAVQ6KQ4YWN_11)
+
+14. I wish to visit china.
+   (ID: 9VXK9YXEDKCO_11)
+
+15. I am impressed by Strawberry Hill Gothic.
+   (ID: 8C87PLCFQ0ZH_11)
+
+16. I am from England.
+   (ID: QC5LXWBDY6EM_11)
+
+17. I have visited the Guindy National Park.
+   (ID: V3LNPA1FT8D2_11)
+
+18. I like learning about a variety of animals.
+   (ID: LFGIG1TODPKB_11)
+
+19. I hope to see a Building in Beijing.
+   (ID: UDGAGMKQ9TQ1_11)
+
+20. I love going on tours.
+   (ID: N3BKTMTKN6PG_11)
+
+
+--- MPChat ---
+Total from this dataset: 2872
+
+1. how do i avoid ruffled edges on this knit/fleece bib?
+   (ID: hmbmelly)
+
+2. my go to cut for quick and easy steak sandwiches.
+   (ID: MonstaEatsItAll)
+
+3. had some scraps so i made a snake stamp and some little stickers
+   (ID: pocket_kira)
+
+4. i'm in love with pompoms and braided ear flaps <3
+   (ID: ddizzle23)
+
+5. summer's blossom coaster - not blocked but i was too excited not to share :)
+   (ID: ddizzle23)
+
+6. i made a pop tart
+   (ID: Sophie74656)
+
+7. [fo] i embroidered this easter card.
+   (ID: gelimausi)
+
+8. my baby boy is such an adorable sleepyhead
+   (ID: kentobean123)
+
+9. i miss making coffee, so i made stamps
+   (ID: pocket_kira)
+
+10. judge me if you want, but i love white castle!
+   (ID: onemantwohands)
+
+11. my happypotamus the happy hippo i really love how he turned out
+   (ID: ablubberducky)
+
+12. this is how i fixed my broken remote control thank you dear crochet
+   (ID: iamPauPaul)
+
+13. my first fondant decorated cake.
+   (ID: BareFootMumma)
+
+14. first attempt at a cold fermented crust, split for my girlfriend who is allergic to avocado.
+   (ID: mattsulli)
+
+15. some rose cupcakes i made recently
+   (ID: Cantwa1t)
+
+16. [ i made] argentine grilled hanger steak with argentine red chimichurri sauce
+   (ID: MonstaEatsItAll)
+
+17. i think this is my favourite thing i’ve ever made
+   (ID: FoxInKneeSocks)
+
+18. miso ramen at a new shop that opened up by my place.
+   (ID: VodkaWithSnowflakes)
+
+19. reworked the handle on the bag for my future mother in law
+   (ID: Sophie74656)
+
+20. my local supermarket has a whole display dedicated to edible insects
+   (ID: ReturnOfTheFox)
+
+
+--- MSC ---
+Total from this dataset: 1896
+
+1. I'm employed with a tv crew making educational material.
+   (ID: dialog_39_speaker_1)
+
+2. I don't have any tattoos
+   (ID: dialog_90_speaker_1)
+
+3. My cousin wants to buy a house in Michighan.
+   (ID: dialog_37_speaker_2)
+
+4. I like playing video games. My favourite is Call of Duty.
+   (ID: dialog_67_speaker_1)
+
+5. My hobbies are hiking and biking.
+   (ID: dialog_41_speaker_1)
+
+6. I have sons.
+   (ID: dialog_9_speaker_2)
+
+7. My father is a pilot on a major airline.
+   (ID: dialog_29_speaker_1)
+
+8. I bought a house.
+   (ID: dialog_30_speaker_2)
+
+9. I like fairy tales.
+   (ID: dialog_14_speaker_1)
+
+10. I am taking college courses.
+   (ID: dialog_87_speaker_2)
+
+11. I've one pet.
+   (ID: dialog_27_speaker_2)
+
+12. I want to be a forest ranger.  I like the outdoors.  I like animals.
+   (ID: dialog_53_speaker_2)
+
+13. I am pregnant for the first time. My pregnancy is 6 months in.
+   (ID: dialog_40_speaker_2)
+
+14. I like felines more than beagles.
+   (ID: dialog_49_speaker_2)
+
+15. I have a job. I go to school.
+   (ID: dialog_29_speaker_1)
+
+16. I am one of two boys in my family.
+   (ID: dialog_57_speaker_2)
+
+17. I like call of duty.
+   (ID: dialog_67_speaker_1)
+
+18. I dream about moving to Los Angeles. I would love to have a movie premiere.
+   (ID: dialog_87_speaker_1)
+
+19. I sometimes forget to take my medication to help stabilize my mood. I sometimes forget to bring my medication with me when I go out.
+   (ID: dialog_43_speaker_1)
+
+20. Mediterranean food is my go to lunch.
+   (ID: dialog_43_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 16968
+
+1. i wonder what ’s in the spacesuit
+   (ID: nate6051)
+
+2. i think you meant to reply to the comment thread up above with this one : d
+   (ID: NyxPeregrinus)
+
+3. i think he 's sick and in serious pain .
+   (ID: apnudd)
+
+4. i ca nt think of many more deserving .
+   (ID: LCPhotowerx)
+
+5. i averted my eyes a lot .
+   (ID: BabblingBunny)
+
+6. i do n't understand how they are able to do this and i 'm a little pissed .
+   (ID: kailan123456)
+
+7. i ’m speechless .
+   (ID: 11_29_77)
+
+8. i found a stray , and i am in desperate need of a name for her !
+   (ID: mmaswadeh)
+
+9. i see it too and do not understand it .
+   (ID: hussy_trash)
+
+10. i watched cube already and loved it !
+   (ID: beautifulw0man)
+
+11. i get this bug on every map in forge
+   (ID: SYDWAD)
+
+12. i need to find a market here in miami .
+   (ID: SerendipitousCat)
+
+13. i 'd go go back to find more , asap !
+   (ID: meteoriteminer)
+
+14. i want it .
+   (ID: CarlofTime)
+
+15. i just thank god for making brilliant engineers
+   (ID: bbakks)
+
+16. i hope that you keep the upwards momentum .
+   (ID: kitcatpaints)
+
+17. i am having a hard time with this diagram as it just seems backwards .
+   (ID: dammitOtto)
+
+18. i see from the wikipedia article that it can be invasive in certain areas .
+   (ID: LooksAtClouds)
+
+19. i 'd bet that far more teams would want prince than dennis .
+   (ID: BearCanoe)
+
+20. i feel horrible about that .
+   (ID: Mende)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17265
+
+1. uuhhh no . you ' re using that word , but i don ' t think you know what it means . let me guess  you ' ve seen that word thrown around in the news lately and you decided to give it a try ? here , let me spell this out for you . i ' m literally not supporting a pedophile protection agency , nor am i falling for a ridiculous myth of a magical sky wizard . soooooo nice try , dimwit . way to look like a fucking moron using words you ' re clueless about .
+   (ID: 029f5b503d15f7a11f4a0300f77d88f29e5c7ed5)
+
+2. how does the boredom level compare to with phones ? we ' re you more bored then with less things to do or more bored now with what is probably a shorter attention span ?
+   (ID: 9a6c8092baa903ed1df9f0bfae4b28070e199c8c)
+
+3. of course i don ' t fucking think that . i ' m just trying to point out that the whole " he could ' ve just got an illegal gun on the black  market " argument is bullshit . if in the future there is a gang driven black  market for semi  autos in nz the gangs will need to be very careful about who they sell them too , and a some neck beard 4chan weirdo would almost certainly be told to fuck off .
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+4. One of my favorite things is rotmg.
+   (ID: 767dc546311237345e846f55cd4d6b549fa0cb71)
+
+5. we did acid with two other people , one of them had a fucked up bad trip and was eventually going to hurt himself or us he already tried to shoot us with a gun he hallucinated . before i called digit , the two other people including my former bff left . the other guy could have killed me and no one would know . it was then i realized that he didn ' t actually care about me and was toxic .
+   (ID: e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3)
+
+6. that is a good choise of case
+   (ID: 1b5b08f1246e450c7da09e40c81570fba378da84)
+
+7. I have a father in my family.
+   (ID: 45768598053a5b3cdf1e6e286b99114b7acf5f3c)
+
+8. i was taking a shit in my alternative school bathroom stall , put my phone on the floor so it wouldn ' t fall out my pocket and break , some guys walked in and saw it on the floor , my teacher thought i was watching porn , my probation officer heard about it , i lost my phone to him for a week . that ' s my only story so far . and it wasn ' t even a porn watching story .
+   (ID: 5366d3e890f8a540d03733631ae8f32ef2335c31)
+
+9. intellectualized , damn straight . their music is top notch , but you don ' t need to be smart to like them . i hate their fanbase more than their music .
+   (ID: 9a96ba583f43f670f5797ea5031052161bf613cf)
+
+10. it adds to the mood
+   (ID: ba19f1817c5dfde741b0e3387f4c8902b125e2c5)
+
+11. women can smell the stink of jealousy  insecurity a mile away . if you are a whiny baby about this , you aren ' t helping yourself . you are likely giving her something to complain about to other guys . be the guy she can ' t live without . be awesome and confident and she ' s be crazy to leave you for another guy . if you can ' t be that guy in her life , you ' ll always be worried about other guys . if she ' s the kind of woman who is easily distracted by other guys , then you both deserve something else . trust me . unless your life is a total shitshow , you absolutely find someone who will adore you and you ' ll never have a single worry . but don ' t stay in a relationship just to have one . better to be single with prospects than be trapped in this cloud of doubt .
+   (ID: fcec87cb8b541d87ad0eb8b52c3541c8fc49132b)
+
+12. I enjoy soccer.
+   (ID: 5ea29f01c8cdade4f178fd446d00647edc5fc70e)
+
+13. I am a male.
+   (ID: 7fdfc2063b89c8be6521566a61aeb5bf9497d47e)
+
+14. happy cake day op ! but what is a cake day ? hey vsauce ! michael here . if you browse reddit often then that means you need to get a life . also it means you might be familiar with the phrase " cake day . what is it ? to know what it is we must go back all the way to when reddit was created . back in digit , reddit didn ' t exist . but you know what did ? my space . that ' s right . now if we take apart its name , it comes off as " my " , meaning the user ' s , and " space " , implying the particular space belongs to the user . now if you ' ve ever had a myspace account , if you ' ve ever stooped so low to actually make one , you will realise that while making an account , it asks for you dob . now dob could mean a lot of things , dicks of brian , death of bjork , and so on . but that ' s not what it means here . here , you see , dob stands for " date of birth " , meaning the date you were born . side note , some countries like china and japan prefer the yyyy  mm  dd format and some or perhaps only america uses mm  dd  yyyy which i think is really retarded . anyway back to the topic , the website asks for your date of birth to confirm whether you are old enough to use the website or not . granted , you could easily lie about your dob , like i did sorry mom and have some grumpy old redneck ask for you nude pictures , but for the of this video , we are going to assume you enter it correctly . okay . so now the site knows how old you are by subtracting your birth year from the current year . cool . but what does that have to do with cake days ? see , on birthdays , we tend to eat cakes . everybody likes cakes . if you don ' t then i don ' t know what ' s wrong with you but yeah everybody likes cakes . except brian . also brian has multiple dicks . anyway , on birthdays we tend to eat cake . that ' s right . now see , fast forward to digit when reddit is created . if you are here means you probably have a reddit account . i ' m not judging though , to each their own . but remember , when you were making your account , do you remember enetering your dicks of brian ? yeah . you don ' t . reddit only requires you to enter your email and username with password . see , future ! also it ' s good they are not cpoying myspace . now when you enter all these , what reddit does is that it saves the date you enter all these on . in my case it was digit feburby digit . reddit notes this date and saves it . so , by the next year , digit in my case , when feburby digit comes , i would ' ve completed one year on reddit . what comes once each year ? that ' s right , the 4th of july . oh say can you see  we ' ll sing it together later . but what else comes once every year ? that ' s right . your birthday . your reddit birthday . your " cake day " even though there are no cakes involved and all you get are fake internet points and probably a few wishes . still better than getting none on your actual birthday haha . that is all there is to cake days . a way to spread love , just for completing another year on an internet website . how lonely we people are . maybe sometime in future humanity will cease to exist . until then , let ' s celebrate all cake days we have left . and as always , thanks for watching .
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+15. what i ' ve always heard isn ' t that the digit , digit is a literal number of beta access or vip access . it was equivalent in the time the book was written to saying a zillion . just with extra meaning . digit tribes of israel , squared , times digit so a lot .
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+16. got to agree , this is the first comic i see that doesn  t make me feel bad for john . oh yeah , it also made me laugh .
+   (ID: f0bbaad5859eeb6263167cb895c64b86a48638ee)
+
+17. One of my favorite things is basketball man.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+18. that sucks . i made a second account which i play on now and have some emotes and stuff i would like to transfer over
+   (ID: dd5faa5a5f52546a048b117b380f01fc0bb80bfe)
+
+19. My television is game of thrones.
+   (ID: 18e18998471794de2ee0ded08a5f57a45a336e24)
+
+20. i will feel a great wave of sadness over the level of stupidity in this country . then i will go about my day as normal unless something directely affects me or someone i know . the only good thing will be the great material that all the comics will come up with while he is in office .
+   (ID: 388a9b7cd52305ad65297c63f4c50272c2661e4c)
+
+
+--- PersonaChat ---
+Total from this dataset: 1105
+
+1. i eat junk food .
+   (ID: conversation_120)
+
+2. i love to dance .
+   (ID: conversation_65)
+
+3. i want to grow up to be a superhero one day .
+   (ID: conversation_119)
+
+4. i am a professional gamer .
+   (ID: conversation_139)
+
+5. my mother is a dentist .
+   (ID: conversation_161)
+
+6. i love nighttime .
+   (ID: conversation_218)
+
+7. i love hamburgers .
+   (ID: conversation_244)
+
+8. i love eating barbeque sandwiches and pizza puffs .
+   (ID: conversation_184)
+
+9. i'm a college student .
+   (ID: conversation_172)
+
+10. i never learned how to swim .
+   (ID: conversation_116)
+
+11. i went to school for fashion design and did nothing with it .
+   (ID: conversation_142)
+
+12. i'm going on a cruise next month .
+   (ID: conversation_46)
+
+13. i like cartoons more than movies .
+   (ID: conversation_102)
+
+14. i hit for over forty million dollars .
+   (ID: conversation_208)
+
+15. i have a cat named speckles .
+   (ID: conversation_71)
+
+16. i've been married for 20 years .
+   (ID: conversation_145)
+
+17. i'm a happy person .
+   (ID: conversation_163)
+
+18. i like to make boats on the weekends .
+   (ID: conversation_27)
+
+19. i'm overall happy with life .
+   (ID: conversation_128)
+
+20. i volunteer in my spare time .
+   (ID: conversation_226)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2156
+
+1. I enjoy hiking.
+   (ID: conversation_218_user_1)
+
+2. I love to sew.
+   (ID: conversation_93_user_2)
+
+3. I am a registered nurse.
+   (ID: conversation_206_user_1)
+
+4. My favorite food is steak.
+   (ID: conversation_123_user_1)
+
+5. I am a girl.
+   (ID: conversation_78_user_1)
+
+6. I like meat.
+   (ID: conversation_123_user_1)
+
+7. My girlfriend lives in salt lake city.
+   (ID: conversation_186_user_1)
+
+8. I want to travel the world taking photographs of my travels.
+   (ID: conversation_224_user_1)
+
+9. I grew up in nevada.
+   (ID: conversation_120_user_1)
+
+10. I work as a tutor for english literature.
+   (ID: conversation_57_user_1)
+
+11. I collect stamps.
+   (ID: conversation_160_user_2)
+
+12. My inspirations are alexander mcqueen and coco chanel.
+   (ID: conversation_191_user_2)
+
+13. Before i die , i want to skydive.
+   (ID: conversation_82_user_2)
+
+14. I am chubby.
+   (ID: conversation_88_user_1)
+
+15. I like football.
+   (ID: conversation_239_user_2)
+
+16. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+17. I have a cat named jasper.
+   (ID: conversation_211_user_1)
+
+18. I am working on a biology degree.
+   (ID: conversation_128_user_1)
+
+19. I do not want a job.
+   (ID: conversation_2_user_1)
+
+20. I can knit.
+   (ID: conversation_57_user_1)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 21483
+
+Dataset distribution in this cluster:
+  FoCus: 669 (3.1%)
+  MPChat: 1845 (8.6%)
+  MSC: 1183 (5.5%)
+  PEC: 8485 (39.5%)
+  PER-CHAT: 7094 (33.0%)
+  PersonaChat: 693 (3.2%)
+  SyntheticPersonaChat: 1514 (7.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 669
+
+1. I love history museums.
+   (ID: MMFXPQYSEBUW_11)
+
+2. I like taking pictures of national historic landmark.
+   (ID: MGEY7QK79154_11)
+
+3. I am a fan of the Roman empire.
+   (ID: VB4LDHWFQAVH_11)
+
+4. I go to a university.
+   (ID: PCA6OG1NNC5D_9)
+
+5. I have taken a course on Asian art.
+   (ID: JJN7XJSS0B4W_11)
+
+6. I would like to learn more about Francoism.
+   (ID: QEDR6NULRI9U_7)
+
+7. I am interested in crystal glass.
+   (ID: AHA35P484Z5B_11)
+
+8. I didn't know that heritage-listed store does exist.
+   (ID: 8QHMKV7JII6J_11)
+
+9. I hate the night life of bars and places like bars.
+   (ID: GPJYUNUXPVWI_11)
+
+10. I would like to experience tall buildings.
+   (ID: XA7M896U3YIQ_11)
+
+11. I am interested in the history.
+   (ID: W4CQPY8R6C4Q_11)
+
+12. I don't want large market franchise to replace all small private stores.
+   (ID: 8QHMKV7JII6J_11)
+
+13. I like to visit australia.
+   (ID: PSAPP3TRHUMW_11)
+
+14. I find the Middle Ages fascinating.
+   (ID: SRO8K4E2N5N5_7)
+
+15. I have a friend in Kent.
+   (ID: PFYAAS1XG3D8_11)
+
+16. I am living in New Hampshire.
+   (ID: 9QE8MQM0B8P7_11)
+
+17. I like studying the Middle Ages.
+   (ID: W1ARCAV1RHTZ_11)
+
+18. I am a masochist.
+   (ID: MMFXPQYSEBUW_11)
+
+19. I like hiking.
+   (ID: QUHIQZPYU7H1_11)
+
+20. I have never been to Australia.
+   (ID: A06HPOO7OWPE_11)
+
+
+--- MPChat ---
+Total from this dataset: 1845
+
+1. was gifted a jar of biscoff spread for christmas, so i made some biscoff blondies.
+   (ID: DeanIsHotter)
+
+2. finished off my 2nd shawl i ever knit!
+   (ID: Winter246)
+
+3. my first christmas card i made this year, which i will send.
+   (ID: gelimausi)
+
+4. my perfect breakfast during easter time) handmade sweet easter bread with raisins & orange zest;))
+   (ID: toffis97)
+
+5. just got my shipment of mandala yarn for my sophie’s garden afghan!
+   (ID: HMoney214)
+
+6. a bit sized vampire you can b+ i loved crocheting
+   (ID: Louiesloops)
+
+7. this is obie,my best friend companion and copilot.
+   (ID: skrivitor)
+
+8. i embroidered a small hardanger blanket with wrapped webs and maltese crosses.
+   (ID: gelimausi)
+
+9. i made coffee brownie cheesecake
+   (ID: justcook_byangel)
+
+10. my first time doing danish butter cookies
+   (ID: justcook_byangel)
+
+11. my favourite swoon pattern, this one i made for myself!
+   (ID: feraljess)
+
+12. my  tree which i grew from seed.
+   (ID: ReturnOfTheFox)
+
+13. i just finished 2 giant projects and don’t know what to make next!
+   (ID: green-egg-and-ham)
+
+14. my one and only finished object for this week is comfort bear no 25 for this year.
+   (ID: Moriarty58)
+
+15. she's a feminist musician that i designed a few years ago.
+   (ID: theringbeller)
+
+16. [i smoked] a top round roast for "chicago style italian beef" sandwiches
+   (ID: MonstaEatsItAll)
+
+17. my wife and i just found out we are pregnant.
+   (ID: fordr015)
+
+18. i found the corners almost done now
+   (ID: baccgirl)
+
+19. my hubby makes the best, no more carry outs ever
+   (ID: FormalSwimming)
+
+20. my cousin is having a girl in september
+   (ID: Sophie74656)
+
+
+--- MSC ---
+Total from this dataset: 1183
+
+1. I like rock music.
+   (ID: dialog_69_speaker_1)
+
+2. Guns and roses is my favorite band.
+   (ID: dialog_69_speaker_1)
+
+3. I'm a thrill seeker.
+   (ID: dialog_73_speaker_1)
+
+4. I am not very good at playing basketball.
+   (ID: dialog_8_speaker_1)
+
+5. I'm very sensitive.
+   (ID: dialog_73_speaker_1)
+
+6. I played on the basketball team in middle school. I was cut from the team.
+   (ID: dialog_8_speaker_1)
+
+7. I like hiking. I find nature relaxing.
+   (ID: dialog_8_speaker_1)
+
+8. I like to daydream about magical creatures.
+   (ID: dialog_31_speaker_2)
+
+9. I like to make cookies.
+   (ID: dialog_44_speaker_1)
+
+10. I watch anime.
+   (ID: dialog_71_speaker_1)
+
+11. I am aware of motorcycle safety.
+   (ID: dialog_87_speaker_2)
+
+12. I do not get along with other people easily.
+   (ID: dialog_88_speaker_1)
+
+13. I like to try new foods.
+   (ID: dialog_23_speaker_1)
+
+14. I was a cheerleader in high school. I am a middle school cheerleading coach.
+   (ID: dialog_76_speaker_1)
+
+15. My sister died.
+   (ID: dialog_77_speaker_2)
+
+16. I like authentic Mexican food.
+   (ID: dialog_27_speaker_2)
+
+17. I am in school majoring in business at university. I am studying finance.
+   (ID: dialog_7_speaker_2)
+
+18. I have a dead sibling.
+   (ID: dialog_77_speaker_2)
+
+19. I have a professional job.
+   (ID: dialog_41_speaker_2)
+
+20. I don't collect comic books. I like Green Lantern comics.
+   (ID: dialog_48_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 8485
+
+1. i have a fear of people coming to my door .
+   (ID: AgedTwenties)
+
+2. i now have 4 complete sets of cutlery .
+   (ID: harumpf)
+
+3. i seriously think this every time i see a bug in the car .
+   (ID: cassieeh)
+
+4. i understand it now !
+   (ID: useralpha101)
+
+5. i am counting constantine .
+   (ID: adertal)
+
+6. i have one .
+   (ID: napalmkitten)
+
+7. i was just telling my nana about these aldi quarter fobs because she loves aldi
+   (ID: mostlikelyto___)
+
+8. i keep hearing these reviews , soo , skipping xd
+   (ID: leo9g)
+
+9. i like to send my father - in law cute pics of his grandson .
+   (ID: chirpyboyandbartjr)
+
+10. i sound like a dumb parent huh ?
+   (ID: exotics)
+
+11. i knew immediately where you were from !
+   (ID: Mende)
+
+12. i cut off my ndad completely a year ago , no regrets , no worries .
+   (ID: RelaxedSociety)
+
+13. i ’m out .
+   (ID: StinkinFinger)
+
+14. i may have the worst personality ever but at least i know how to make proper memes .
+   (ID: beautifulw0man)
+
+15. i too own a volkswagen .
+   (ID: I_am_not_a_Taco)
+
+16. i might do the spin *
+   (ID: doctor_parcival)
+
+17. i have the alice one .
+   (ID: napalmkitten)
+
+18. i wondered how long it would take someone to notice that .
+   (ID: amirman)
+
+19. i screenshotted as evidence of the ludicrous !
+   (ID: DarkMoon99)
+
+20. i love how mature and thoughtful your response is !
+   (ID: JacksChocolateCake)
+
+
+--- PER-CHAT ---
+Total from this dataset: 7094
+
+1. I'm interested in depression and anxiety.
+   (ID: f0bbaad5859eeb6263167cb895c64b86a48638ee)
+
+2. i have issues with this . why is a blind person using a pencil . why are they trying to colour something . are they drawing something ? if so what are they drawing , does it look like the thing ? or is it like in the episode of becker where jake sculpts a woman but it looks kind of like a blob , until he explains that it is how she feels ?
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+3. it ' s incredibly important to have high relations with villages . if they like you digit then there ' s a chance of getting digit peasants in a single shot , and perhaps 20ish of the highest tier units .
+   (ID: fdf9c56e21cf61fb3b2852da66f6506ce908651c)
+
+4. to me it seems to mostly be the younger guys . digit  digit or so . i tell them to knock it off though . i think maybe they watch music videos or something ? i dunno .
+   (ID: c6e395c03fa0151554baed67a84968066bfa9cf3)
+
+5. woodworking man . go pick up a stack of free pallets , and you can tear them down with an hour and a hammer . after that , you know you have free wood , so even if what you make is crap , it didn ' t cost a dime . make a shelf , box , whatever . if it ' s something you ' re into , it ' ll grow to making cool stuff . and if you ' re not into it , no harm no foul , didn ' t cost anything but a few basic tools if you don ' t have them hammer , drill and circular saw will handle most everything , and are cheap online  craigslist . good luck man ! hope it works out
+   (ID: 9a6c8092baa903ed1df9f0bfae4b28070e199c8c)
+
+6. very nice plan . even i wanted to so like this .
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
+
+7. waffles . i love the crunch and it also feels more special because i can ' t make them at home no waffle iron .
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
+
+8. in my limited experience  it ' s best to set boundaries clearly , but one issue at a time . you walking up to her mother and saying " you need to back off " immediately sets you up as the adversary trying to cut her off from her baby girl in the most important time . you ' ll be treated that way from that point forward . instead , you need to talk about the individual things with your wife so you have an agreed stance the next time they come up with your mil . it ' s way less likely to lead to war if you can hold your wife ' s hand and speak up for her saying ' we ' ve decided it ' s best if it ' s just us and the medical staff in the delivery room ' , ' we ' ve done the research and want to do x ' , etc . than if you go in by yourself and try to lay down the law to a mother about her child . you can be the one to make the statements , but they need to be phrased as joint decisions with your wife ' s clear if silent support . if your wife doesn ' t want to have those conversations alone alone , that ' s fine . her part becomes to deflect , i . e . " we ' ll talk about it next time we see you " , or just not respond when the mil isolates her on an issue . her backtracking or bargaining alone will kill any progress you make by standing strong together . talk to her about that , too . also , congrats and good luck !
+   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+
+9. if yo i get raided the cops have a full history of your dealing and you can  t say it  s a one time thing .
+   (ID: bdf7e254fb732651bb0373067c57200731f7ca55)
+
+10. I own a history.
+   (ID: a61db1f2f0a3d15376fd168a1637c028f25100e1)
+
+11. i ' m starting to feel guilty that i shaked my head to many old people for not knowing how in my mind simple technical things work and here i am playing around with my instagram i don ' t even use anymore for digit minutes and can ' t figure out what you mean with history . all i see are pictures . oh well hope one of you will post the direct video for young old people like me duh
+   (ID: 5ea29f01c8cdade4f178fd446d00647edc5fc70e)
+
+12. total disaster insurance man  now this place you were at , moe ' s , is this a business of some sort ? homer ' s brain  don ' t tell him you were at a bar . but what else is open at night ? homer  it ' s a pornography store . i was buying pornography . homer ' s brain  heh , heh , heh . i would never have thought of that .
+   (ID: 380598f491e44cdd92f2ec6105505f0f439372e2)
+
+13. I am amateur gunlancer.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+14. wait so your gay or you ' re not interested but want to talk to her . harem ? either way you should say no since it will only end in disappointment for her . just be kind .
+   (ID: 6ea82786a74ccdc85dc1fddd809a575aa4e4efcf)
+
+15. your bf should not be entertaining other girls , especially if he knows it upsets you . if he won ' t respect your wishes then you need to leave him . you can ' t just magically get over it if it hurts you . it ' s going to continue bothering you and it sounds like he ' s going to continue doing it . i know leaving someone you love hurts , but trust me , you ' re digit , you are gonna thank yourself for leaving now and not waiting till you ' re digit . do you wanna be in a better place in digit years or do you wanna stay with someone who makes you feel like shit ? it doesn ' t matter how many things are going good , he doesn ' t respect you .
+   (ID: 82227bc3f73e4753802bc6bc025e3544c0c76857)
+
+16. the president is telling you we need to go to war . does congress do everything the president says ?  you do not yet have the information about how gwb got a briefing in august that it was going to happen and ignored it . the president is not the only one who gets briefings . the democrats are on committees that get most of the same briefings . they have access to top secret information that you and i dont have unless you are getting e  mails from hillary clinton . they knew what the president knew and they did nothing either . to vote for war and then say bush lied is a fucking lie . they are as responsible as he is . im willing to admit that bush was pushing for war and was wrong to do so , but what you cant to is hold those democrats responsible for letting a war happen that they should have prevent if it was such a bad thing .
+   (ID: 35eb47890f8874bbb988ec8308ba762f8377b3b8)
+
+17. I follow world news.
+   (ID: 9414b9913220ebe2601862e3001aac74ebcffe33)
+
+18. I am support.
+   (ID: 409a49cde6f1f65f92cac4d33c7c769f7ba9e965)
+
+19. i mean at least you didn ' t get banned from . dankmemes for " brigading "
+   (ID: b62d2865206257ab4ea65a5e489f9d4e1c8d5e9b)
+
+20. I'm interested in dating.
+   (ID: 603a231fe5a5d93e7d1121f6265baf1dcb11f624)
+
+
+--- PersonaChat ---
+Total from this dataset: 693
+
+1. i am a waitress at a local restaurant .
+   (ID: conversation_128)
+
+2. i wear a lot of leather .
+   (ID: conversation_223)
+
+3. at night , i party hard in the atlanta club scene , and i never miss a music festival .
+   (ID: conversation_106)
+
+4. i give out sports information .
+   (ID: conversation_201)
+
+5. i'm thirty years old .
+   (ID: conversation_173)
+
+6. i listen to metal music .
+   (ID: conversation_187)
+
+7. i'm adopted .
+   (ID: conversation_190)
+
+8. i never learned how to write .
+   (ID: conversation_34)
+
+9. i love dogs and cats .
+   (ID: conversation_118)
+
+10. my mother was a nurse .
+   (ID: conversation_45)
+
+11. i'm twenty two years old .
+   (ID: conversation_91)
+
+12. i should beverage been born a prince .
+   (ID: conversation_54)
+
+13. i'm a classicly trained chef .
+   (ID: conversation_138)
+
+14. i miss my dad .
+   (ID: conversation_84)
+
+15. i spend a lot of time driving my kids to sports events .
+   (ID: conversation_75)
+
+16. i just bought a new house with my partner .
+   (ID: conversation_234)
+
+17. i'm very smart .
+   (ID: conversation_194)
+
+18. my mom is my best friend .
+   (ID: conversation_61)
+
+19. my favorite holiday is halloween .
+   (ID: conversation_195)
+
+20. i have a friend named james who secretly rules the world .
+   (ID: conversation_26)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1514
+
+1. I love watching superheroes shows.
+   (ID: conversation_66_user_1)
+
+2. I have created my own personal religion.
+   (ID: conversation_212_user_2)
+
+3. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+4. I am divorced.
+   (ID: conversation_182_user_1)
+
+5. I was born outside the us.
+   (ID: conversation_151_user_1)
+
+6. I was born outside the us.
+   (ID: conversation_150_user_1)
+
+7. I went to an elite ivy league school.
+   (ID: conversation_182_user_2)
+
+8. I occasionally go for walks down by the park.
+   (ID: conversation_147_user_1)
+
+9. I love to paint pictures.
+   (ID: conversation_156_user_1)
+
+10. My favorite food is pizza.
+   (ID: conversation_133_user_1)
+
+11. My mother looks after my grandmother.
+   (ID: conversation_41_user_2)
+
+12. I am bloated.
+   (ID: conversation_232_user_1)
+
+13. I like the tv show the walking dead.
+   (ID: conversation_16_user_1)
+
+14. I like collecting rocks.
+   (ID: conversation_190_user_2)
+
+15. My husband is 20 years older than me.
+   (ID: conversation_113_user_2)
+
+16. My favorite sport is football.
+   (ID: conversation_27_user_2)
+
+17. I never learned how to swim.
+   (ID: conversation_117_user_2)
+
+18. I am afraid of spiders.
+   (ID: conversation_184_user_1)
+
+19. I clean houses for extra money.
+   (ID: conversation_177_user_2)
+
+20. I recently started working online.
+   (ID: conversation_62_user_1)
+
+
+============================================================

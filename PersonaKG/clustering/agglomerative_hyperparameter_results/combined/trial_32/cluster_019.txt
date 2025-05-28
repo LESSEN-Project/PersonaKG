@@ -1,0 +1,116 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 268
+
+Dataset distribution in this cluster:
+  MSC: 3 (1.1%)
+  PER-CHAT: 260 (97.0%)
+  PersonaChat: 1 (0.4%)
+  SyntheticPersonaChat: 4 (1.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I am a female.
+   (ID: dialog_108_speaker_1)
+
+2. I'm female.
+   (ID: dialog_108_speaker_1)
+
+3. I'm a female in my 30s.
+   (ID: dialog_152_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 260
+
+1. I am a female.
+   (ID: 649605988d72e34fdcf0c170b6b9fa959a7d483e)
+
+2. I am a female.
+   (ID: 9b7ab2ecf50a1f0d1a04c43a5112617f13aebfb4)
+
+3. I am a female.
+   (ID: bb79791c3753a1fc8ece696b3835b0f59ddccc90)
+
+4. I am a female.
+   (ID: 259e025807a2eee6eaf38242805e7dfc46aaa91f)
+
+5. I am a female.
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+6. I am a female.
+   (ID: 61cecb8714e90365638145aa099b1fb86718270f)
+
+7. I am a female.
+   (ID: 45bf5c8227b94451beff1dce1059d0d2c683c40c)
+
+8. I am a female.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+9. I am a female.
+   (ID: 59231a2c6c18ffc9988af4adbd5a441bf1221c38)
+
+10. I am a female.
+   (ID: 85ada8069a64aa3ed39736f565e8a9ceed369acd)
+
+11. I am a female.
+   (ID: 238316960c030f561912bd63e9f572a4170f991b)
+
+12. I am a female.
+   (ID: 993e97b08b2c0bbb5df4c4050ba876286c54054d)
+
+13. I am a female.
+   (ID: ea1aba6f5a01e142602653a1b9987c70e3862a45)
+
+14. I am a female.
+   (ID: 339d06087e421a1cf86d695af2a2088546f9dc91)
+
+15. I am a female.
+   (ID: 194714d1fdaeadcdfa8c031ea9ba02536763b6bf)
+
+16. I am a female.
+   (ID: d9ec7752117a31823171b7cfc56b1cf267be53df)
+
+17. I am a female.
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+18. I am a female.
+   (ID: c0c5a7c74c41387a99afab68d3e9fe0bfab4b8b9)
+
+19. I am a female.
+   (ID: 82227bc3f73e4753802bc6bc025e3544c0c76857)
+
+20. I am a female.
+   (ID: 7aa559a048e16f5e07993ececfa9eb494e72a8fc)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'm a female .
+   (ID: conversation_121)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I am a female.
+   (ID: conversation_362_user_1)
+
+2. I am a female.
+   (ID: conversation_363_user_1)
+
+3. I am a female.
+   (ID: conversation_361_user_1)
+
+4. I am a female.
+   (ID: conversation_360_user_1)
+
+
+============================================================

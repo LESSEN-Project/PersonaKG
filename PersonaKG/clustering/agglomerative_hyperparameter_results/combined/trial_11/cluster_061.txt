@@ -1,0 +1,112 @@
+CLUSTER 61
+============================================================
+Total statements in cluster: 25
+
+Dataset distribution in this cluster:
+  MPChat: 3 (12.0%)
+  MSC: 4 (16.0%)
+  PEC: 9 (36.0%)
+  PersonaChat: 5 (20.0%)
+  SyntheticPersonaChat: 4 (16.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. my boy loves our sunday morning walk
+   (ID: LiftingNurse)
+
+2. he's the reason i fly up north to go camping so much!
+   (ID: drewchie)
+
+3. he's the motivation and reason i fly up north to go camping so much
+   (ID: drewchie)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. My younger brother plays cod.
+   (ID: dialog_67_speaker_2)
+
+2. I have a big house with a swing set and a slide in my backyard. I got a playground 2 years ago.
+   (ID: dialog_118_speaker_2)
+
+3. I like playing out of the house.
+   (ID: dialog_151_speaker_1)
+
+4. I see my kids pretty regularly.
+   (ID: dialog_44_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 9
+
+1. i love drive - by dad visits !
+   (ID: teriaki)
+
+2. i 'm from canada and my husband and i watch together !
+   (ID: EvieAugust)
+
+3. i used to play majora 's mask with my neighbor a lot too so just wondering .
+   (ID: redandblack555)
+
+4. i do n't have a backyard , but i do have a large field that i can play with .
+   (ID: mmaswadeh)
+
+5. i used to take my kids to harris lake and bass fish from shore .
+   (ID: deputydan_scubaman)
+
+6. i was gon na ask if your dad likes minecraft as well .
+   (ID: I_am_not_a_Taco)
+
+7. i am friends with someone who owns a bounce house !
+   (ID: redandblack555)
+
+8. i play " date or daughter " at restaurants frequently .
+   (ID: napalmkitten)
+
+9. i have relatives in the theatre as well .
+   (ID: MILeft)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i like playing ultimate in the park with my guys sometimes .
+   (ID: conversation_43)
+
+2. my neighbor comes over all the time to watch rugby with me .
+   (ID: conversation_349)
+
+3. i spend a lot of time driving my kids to sports events .
+   (ID: conversation_75)
+
+4. my poppa has a train set that i play with .
+   (ID: conversation_486)
+
+5. we watch the games together .
+   (ID: conversation_399)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. My poppa has a train set that i play with.
+   (ID: conversation_174_user_1)
+
+2. I try to go hunting with my brothers several times a year.
+   (ID: conversation_405_user_1)
+
+3. I try to go hunting with my brothers several times a year.
+   (ID: conversation_404_user_1)
+
+4. My poppa has a train set that i play with.
+   (ID: conversation_173_user_1)
+
+
+============================================================

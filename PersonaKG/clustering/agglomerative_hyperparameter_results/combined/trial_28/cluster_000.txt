@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43820
+
+Dataset distribution in this cluster:
+  FoCus: 1249 (2.9%)
+  MPChat: 2886 (6.6%)
+  MSC: 1915 (4.4%)
+  PEC: 17215 (39.3%)
+  PER-CHAT: 17207 (39.3%)
+  PersonaChat: 1116 (2.5%)
+  SyntheticPersonaChat: 2232 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1249
+
+1. I am Catholic.
+   (ID: 9IFEU12EAOWB_11)
+
+2. I love wildlife.
+   (ID: T815O8KC30IG_9)
+
+3. I would like to compete in a ski competition.
+   (ID: QTNNKQN2EVU5_11)
+
+4. I have an interest in Art Deco.
+   (ID: XA7M896U3YIQ_11)
+
+5. I wish to buy a flat in Woolloongabba.
+   (ID: N14O6VGOOR7E_11)
+
+6. I love going to parks.
+   (ID: 82ZP2M9AL6U0_11)
+
+7. I would love to attend the worlds fair.
+   (ID: VPRC44FNGVA6_11)
+
+8. I have studied about Turrbal nation in my college.
+   (ID: N14O6VGOOR7E_11)
+
+9. I love to garden.
+   (ID: MA2EPDC7QHS5_11)
+
+10. I like nonviolence.
+   (ID: IP4KRMQQREBQ_9)
+
+11. I love Theatres.
+   (ID: L2FEEPD1V8BQ_11)
+
+12. I am interested in World Heritage Sites.
+   (ID: WXYJ15QP91WP_7)
+
+13. I am a wildlife photographer.
+   (ID: B4623TSE2PJX_7)
+
+14. My parents are Polish.
+   (ID: MMFXPQYSEBUW_11)
+
+15. I wish to attend some events.
+   (ID: ZXCRSZ4D5PMK_11)
+
+16. I am interested in studying construction and making a blueprint of my own house.
+   (ID: XW6WLBIV74VV_11)
+
+17. I am fond of collecting rocks.
+   (ID: QUHIQZPYU7H1_11)
+
+18. I am interested in national collection.
+   (ID: O32SMRJRNDHW_11)
+
+19. I have 61500 likes in my instagram page.
+   (ID: QRRS2THODNM3_11)
+
+20. I love lake.
+   (ID: L6R2H1LVDRER_7)
+
+
+--- MPChat ---
+Total from this dataset: 2886
+
+1. the second birthday cake i made for myself this week :) preppy kitchen's oreo cake recipe.
+   (ID: paintingpajamaspink)
+
+2. i'm very proud of how dragon bite turned out.
+   (ID: SuperfineYarnCo)
+
+3. only had shredded cheese, but i made it work.
+   (ID: RaeADropOfGoldenSun)
+
+4. my pinata cake for cinco de mayo
+   (ID: yolanda_gampp)
+
+5. made these cute little cake toppers for my twin nephewsu 5th birthday!
+   (ID: TattsMcGee)
+
+6. i've already made all the willow squares and am joining them with the celtic lace join.
+   (ID: ablubberducky)
+
+7. the cutest little christmas tree destroyer i have ever seen.
+   (ID: kentobean123)
+
+8. really proud of this buttercream baby shower cake i decorated tonight
+   (ID: BananaStand07)
+
+9. i was so happy when i saw these flowers!
+   (ID: tremelir)
+
+10. what colour should i do next?
+   (ID: meepmeepcuriouscat)
+
+11. my hubby got me a beautiful set of crochet hooks with these wonderful handles.
+   (ID: somuchyarn10)
+
+12. walnut shuttles my grandpa in law made me.
+   (ID: iowajaycee)
+
+13. i made a knight helm too!
+   (ID: ddizzle23)
+
+14. i made this 20th birthday cake, red velvet and cream cheese frosting!
+   (ID: Cantwa1t)
+
+15. i participated in the reddit gifts holiday card exchange.
+   (ID: FoxInKneeSocks)
+
+16. itap of my mocha cake sliced
+   (ID: Notnotnotbryan)
+
+17. my husband made this lime cheesecake for work
+   (ID: hmbmelly)
+
+18. i really enjoyed this new machine today.
+   (ID: BeastaBubbles)
+
+19. my valentine's day cake this year!
+   (ID: yolanda_gampp)
+
+20. can you guess who i'm currently making?
+   (ID: Winter246)
+
+
+--- MSC ---
+Total from this dataset: 1915
+
+1. I love mosh pits.
+   (ID: dialog_13_speaker_2)
+
+2. I like trips to the ocean.
+   (ID: dialog_80_speaker_1)
+
+3. I identify as trans.
+   (ID: dialog_23_speaker_2)
+
+4. I only eat meat. Prime rib is my favorite meat. I want to try jerk prime rib.
+   (ID: dialog_0_speaker_1)
+
+5. I like christmas.
+   (ID: dialog_66_speaker_1)
+
+6. My dog died last year.
+   (ID: dialog_34_speaker_2)
+
+7. My favorite song is two steps from hell.
+   (ID: dialog_25_speaker_2)
+
+8. My family is in the military.
+   (ID: dialog_16_speaker_1)
+
+9. I'm around people all day.
+   (ID: dialog_30_speaker_2)
+
+10. I want to sing professionally.
+   (ID: dialog_47_speaker_2)
+
+11. I like historical colonial books.
+   (ID: dialog_55_speaker_1)
+
+12. My dream would be to start my own insurance company
+   (ID: dialog_15_speaker_2)
+
+13. My hobbies are hiking and biking. I own a bicycle.
+   (ID: dialog_41_speaker_1)
+
+14. I work as a manager at the mall. I work 80 hours a week.
+   (ID: dialog_13_speaker_2)
+
+15. I love spending my free time in the sun with a good novel.
+   (ID: dialog_88_speaker_2)
+
+16. I will start working at a new place of employment soon.
+   (ID: dialog_91_speaker_2)
+
+17. My name is Katie and I am transgender.
+   (ID: dialog_23_speaker_2)
+
+18. I didn't graduate from university.
+   (ID: dialog_67_speaker_2)
+
+19. I want to be a forest ranger.  I like the outdoors.  I like animals.
+   (ID: dialog_53_speaker_2)
+
+20. I build computers as a hobby. I play computer games. I enjoy playing call of duty.
+   (ID: dialog_35_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 17215
+
+1. i think the correct form would be " look to whom " which does n't work i this context .
+   (ID: bbakks)
+
+2. i 'm impressed .
+   (ID: xcombelle)
+
+3. i pass the minimum requirements by a fair bit .
+   (ID: Lsmoothies)
+
+4. i also love the stick kiss , first time i 've seen it .
+   (ID: dammitOtto)
+
+5. i would pay money to see this movie
+   (ID: nate6051)
+
+6. i recently decided to get some goldfish , but it ’s important for me to do things right !
+   (ID: FruitBatFanatic)
+
+7. i prefer word feud .
+   (ID: BabblingBunny)
+
+8. i have .. way too many kids and somehow this escaped me .
+   (ID: HugePurpleNipples)
+
+9. i have finally taken the plunge and have been vegan for a little under a week .
+   (ID: AP7497)
+
+10. i do n't mind .
+   (ID: Nheea)
+
+11. i was rooting for her the whole time !
+   (ID: GetItTogether)
+
+12. i do n't know if that 's a good idea .
+   (ID: BabblingBunny)
+
+13. i like you just the way you are .
+   (ID: IncredibleBulk2)
+
+14. i was just there .
+   (ID: IncredibleBulk2)
+
+15. i 've been working in a call center for four years and i absolutely hate it .
+   (ID: underneathstars)
+
+16. i 'm really excited to read this one !
+   (ID: Megan_Bee)
+
+17. i mean ... it 's happening .
+   (ID: trav110)
+
+18. i saw it as the symbol for the flash .
+   (ID: adertal)
+
+19. i literally lol'd the instant i read of these charity contributions , and saw sarsour 's slimy name attached .
+   (ID: Evref)
+
+20. i would love to play a pixel are version of ddlc on the snes
+   (ID: tylock)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17207
+
+1. it ' s hard to give advice because everyone handles this sort of thing differently . we went through three miscarriages , but they were all before our first child , so for us , there wasn ' t any question of trying again . for some people , it helps to start trying again right away . some want to wait for awhile before trying again . it ' s probably best to give it some time , for your wife to get back to normal physically , and for you both to heal emotionally . make sure she knows you ' re there to support her , but don ' t smother here either , give her space if she needs it . and always keep in mind , that unless she has an underlying health problem which it doesn ' t sound like is the case since you already have two kids , miscarriages are random occurrences , and aren ' t likely to happen with the next pregnancy .
+   (ID: 5bf69e8a91457991a99f2cc3f9248ca16f27a0d5)
+
+2. where did you gather that i think everyone owes me something ? last time i checked friendships are a two way street . i get what you  re saying bro , but you don  t and never will know the extent of my friendships with these people . and just for the future , there are nicer ways of getting this point across . maybe think twice next time you call a suicidal person a  douche who thinks everything is a fucking gift  .
+   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
+
+3. get as much free shit as you can or at least make sure you get a good deal . also , do the forget to try having a straw full blown right up your butt . it ' s amazing
+   (ID: eb701dce6e6a2a5da4a0d10410214d821dc525a2)
+
+4. I am a male.
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+
+5. I have a father in my family.
+   (ID: 3cc393500aaac3a2ee1cd96955cee486bb062a46)
+
+6. One of my favorite things is cronometer.
+   (ID: f0cc6658fb97955562b5f1b7845c6141dd2eefdf)
+
+7. i have had very similar experiences with edgepark though i never ended up ordering from them . just the short list   i only mentioned interest in the omnipod . digit weeks later , received approval letter from my insurance . they had requested rx from a doctor my pcp , not endo without my consent .  misquoted my benefit level to the point of not believing my insurance company about how to code the rx  tried to tell me that they don ' t like to fill the omnipod rx without also filling dexcom  when i cancelled the order after both me and my insurance company yelling at them , the order magically appeared again digit weeks later . went to byram , no issues , very pleased .
+   (ID: 5ab7eb494e48f5dccac549a3e018fb911f19527e)
+
+8. I'm interested in botany.
+   (ID: 2cb4aa2e032749d7dca2c2ab5fbd17d2ba53bb10)
+
+9. it seems ethically wrong . something weird is going on .
+   (ID: 7c0a90108389e898ab80f1c7af44e170b85c6d76)
+
+10. photoshopping your dead mom into a wedding photo is one thing , but bragging about online is another thing entirely .
+   (ID: 808718709a1de9360ade79304c59728079eae812)
+
+11. One of my favorite things is cops.
+   (ID: afb309c0f8d875957ab1e2c406a762b6127668b6)
+
+12. unpopular opinion but i actually don  t disagree with atm fees , as they are providing a machine for you to access cash when you need it . if you plan ahead , you can get your cash for free assuming you have an account . if truly an emergency ,  digit . digit is worth it . i have not paid a fee in digit years simply due to planning . i wish people would get this upset about taxes .
+   (ID: 5ab7eb494e48f5dccac549a3e018fb911f19527e)
+
+13. One of my favorite things is process simpsons.
+   (ID: 5a485308ca6e36eb17d7b0fc321fcf7695f3af53)
+
+14. I am fucking fraud.
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+15. pogba , griezmann , and now mbappe are the biggest stars . also hugo lloris . hard to say any one of them is the most prominent . not to mention a whole host of star players they have on their roster .
+   (ID: 0264eec5f9f9a43d83f3a82c46341e90961fa3b8)
+
+16. One of my favorite things is kids.
+   (ID: a0849f7d6d0829c8bb5f820aa9bf63584c7471df)
+
+17. i  d say it  s funnier , even if it  s still not funny . they didn  t crop the image though ? they erased the speech bubbles and replaced  britain  with the uk flag . then leave lmao
+   (ID: c418fa452eafbca022ce1c49b521d4574aa77cd1)
+
+18. getting as fat as i am right now .
+   (ID: c391065478603a686531cbdd50568136a5e14508)
+
+19. what kind of a salary are you looking at ? the interviewer wants to know how well you can assess yourself , and whether you ' re going to a legitimate asset to the company or a drain .
+   (ID: f3192aa413ed905a2d6bc7e74ae65b23517e05a0)
+
+20. know how you feel , it was my cakeday yesterday and i realised that today
+   (ID: 95acb2ca6e2c4b0e43ae1565f6eb3f529105e156)
+
+
+--- PersonaChat ---
+Total from this dataset: 1116
+
+1. i work in retail .
+   (ID: conversation_13)
+
+2. my favorite thing to do is to read books on the beach .
+   (ID: conversation_88)
+
+3. i tell bad jokes on purpose .
+   (ID: conversation_156)
+
+4. we own our home .
+   (ID: conversation_30)
+
+5. i love to surf .
+   (ID: conversation_88)
+
+6. i like to go swimming .
+   (ID: conversation_55)
+
+7. i love cooking .
+   (ID: conversation_199)
+
+8. my favorite food is spaghetti and meatballs .
+   (ID: conversation_37)
+
+9. i married my high school sweetheart .
+   (ID: conversation_206)
+
+10. i have brown hair .
+   (ID: conversation_3)
+
+11. i am in the navy .
+   (ID: conversation_153)
+
+12. my clients are gamblers .
+   (ID: conversation_201)
+
+13. both my moms tell me they love me when i call them .
+   (ID: conversation_211)
+
+14. i love to read .
+   (ID: conversation_78)
+
+15. i've two dogs .
+   (ID: conversation_17)
+
+16. i graduated college in 2016 .
+   (ID: conversation_70)
+
+17. my favorite food is meatloaf .
+   (ID: conversation_162)
+
+18. my favorite book is anne of green gables .
+   (ID: conversation_79)
+
+19. i like to go to the farmer s market every weekend .
+   (ID: conversation_117)
+
+20. i'm a olympian .
+   (ID: conversation_241)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2232
+
+1. I am a girl.
+   (ID: conversation_77_user_1)
+
+2. I have a lot of friends.
+   (ID: conversation_234_user_1)
+
+3. I am a vegan.
+   (ID: conversation_209_user_1)
+
+4. I am in 3rd grade.
+   (ID: conversation_62_user_2)
+
+5. My favorite drink is dr pepper.
+   (ID: conversation_92_user_2)
+
+6. I work in accounting.
+   (ID: conversation_6_user_1)
+
+7. I love dogs.
+   (ID: conversation_104_user_2)
+
+8. I am funny.
+   (ID: conversation_232_user_1)
+
+9. I am male.
+   (ID: conversation_8_user_1)
+
+10. I wish i could take back a mistake.
+   (ID: conversation_3_user_2)
+
+11. I like going barefoot.
+   (ID: conversation_56_user_1)
+
+12. I do not believe in love.
+   (ID: conversation_229_user_1)
+
+13. My mother was a nurse.
+   (ID: conversation_93_user_2)
+
+14. I want to put my photos to a music video staring adam levin.
+   (ID: conversation_226_user_1)
+
+15. I play the violin.
+   (ID: conversation_32_user_1)
+
+16. My twin brother and i share an apartment.
+   (ID: conversation_221_user_2)
+
+17. I owe 2 monitors for work.
+   (ID: conversation_68_user_1)
+
+18. I talk in my sleep.
+   (ID: conversation_166_user_1)
+
+19. I enjoy working out and learning new things.
+   (ID: conversation_121_user_2)
+
+20. I play bass.
+   (ID: conversation_169_user_1)
+
+
+============================================================

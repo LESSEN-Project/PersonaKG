@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 55688
+
+Dataset distribution in this cluster:
+  FoCus: 1527 (2.7%)
+  MPChat: 3640 (6.5%)
+  MSC: 2604 (4.7%)
+  PEC: 22492 (40.4%)
+  PER-CHAT: 20967 (37.7%)
+  PersonaChat: 1494 (2.7%)
+  SyntheticPersonaChat: 2964 (5.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1527
+
+1. I love Arts.
+   (ID: O2J7AJP3JLY3_11)
+
+2. I am fond of the Herrerian architecture.
+   (ID: QEDR6NULRI9U_7)
+
+3. I like to read books.
+   (ID: C7RS7BTZIF1Q_11)
+
+4. I like History.
+   (ID: SKF7IKD9SC0U_9)
+
+5. I am fond of birdwatching.
+   (ID: MYQ0792Q7S1E_11)
+
+6. I am a horticulturist.
+   (ID: KMISZIRFKCAC_11)
+
+7. I wan to go to Minnesota.
+   (ID: JTUKE03HZYSY_11)
+
+8. I want to live in an official residence.
+   (ID: WPN43Y3S2N4D_11)
+
+9. I like to Digital things.
+   (ID: UDGAGMKQ9TQ1_11)
+
+10. I like to visit united states.
+   (ID: U6NEN4YX4OT6_9)
+
+11. I am interested in national library.
+   (ID: O32SMRJRNDHW_11)
+
+12. I like government.
+   (ID: HO5IT5J1RXE4_11)
+
+13. I love birds.
+   (ID: 9DGY1RAZGYLM_9)
+
+14. I'd like to join National Woman's Party if its similar version exists in Korea.
+   (ID: DK9VMLV1IASM_11)
+
+15. I love David Attenborough documentaries since I was a kid.
+   (ID: A06HPOO7OWPE_11)
+
+16. I am willing to visit Dortmund in this summer.
+   (ID: EUD8WT84YX0Q_11)
+
+17. I like architecture.
+   (ID: O5F8MAFDNJB4_11)
+
+18. I would like to visit Banja of Peja at the end of the year.
+   (ID: LYYSTNQ9MBLY_11)
+
+19. I am interested in the climate.
+   (ID: LYYSTNQ9MBLY_11)
+
+20. I enjoy shopping at the store.
+   (ID: NR67D1SY5ZKB_11)
+
+
+--- MPChat ---
+Total from this dataset: 3640
+
+1. he never leaves my side
+   (ID: drewchie)
+
+2. canada is my favorite.
+   (ID: dudeinthepnw)
+
+3. i just love him so much
+   (ID: kentobean123)
+
+4. here is nick the pig, a poet that i designed for my planet ringbeller series.
+   (ID: theringbeller)
+
+5. i don't always wash my hands, but when i do it's to use this
+   (ID: crunch816)
+
+6. i made a mask cover out of leftover sock wool
+   (ID: Novel_Fox)
+
+7. i knit these christmas ornaments
+   (ID: Novel_Fox)
+
+8. the best lemon macarons by my wife, which macaron flavor is your favorite!
+   (ID: 05twister)
+
+9. i made salvadorean casamiento using the cast iron after i grilled some garlic chicken in it.. yup.
+   (ID: knivesandchives)
+
+10. my boyfriend refuses to learn how to use our coffee machine.
+   (ID: av929)
+
+11. i made some cakes for friendsgiving so i could practice piping.
+   (ID: MafHoney)
+
+12. this was my favorite shot from the whole thing.
+   (ID: garret_weintrob)
+
+13. the whole reason i got into cake, is because i wanted to bake my sons birthday cake.
+   (ID: amandabakes)
+
+14. my first attempt at making japanese style fruit sandwich cake
+   (ID: justcook_byangel)
+
+15. gizmo trying to steal the food out of my mouth like the little gremlin he is
+   (ID: kentobean123)
+
+16. i saw this in r/pics, thought it belonged here.
+   (ID: mattsulli)
+
+17. i have been both barista and customer
+   (ID: pocket_kira)
+
+18. had to send this to my husband when he asked how my day was going.
+   (ID: ddizzle23)
+
+19. [wip pattern] started making my own pattern tonight.
+   (ID: gxnelson)
+
+20. after 27 days of work, i finally finished the space marine for my husband.
+   (ID: Lookingforearrings2)
+
+
+--- MSC ---
+Total from this dataset: 2604
+
+1. I am hoping to become an advocate for motorcycle safety. Motorcycles are my passion. I look up to Keanu Reeves.
+   (ID: dialog_87_speaker_2)
+
+2. I like popping fireworks.
+   (ID: dialog_106_speaker_2)
+
+3. I am a chef. I like to travel more than being a chef. I enjoy visiting places with beaches.
+   (ID: dialog_112_speaker_1)
+
+4. I love all my pets.
+   (ID: dialog_63_speaker_1)
+
+5. I work from home.
+   (ID: dialog_34_speaker_2)
+
+6. I have an eclectic taste in music.
+   (ID: dialog_69_speaker_2)
+
+7. I like rap music. I like Michael Jackson.
+   (ID: dialog_59_speaker_1)
+
+8. I like whole wheat waffles with nutella and sliced strawberries.
+   (ID: dialog_107_speaker_1)
+
+9. I would like to workout with you. I'm tired of being a couch potato.
+   (ID: dialog_120_speaker_2)
+
+10. I live and work in Michigan as a state trooper.
+   (ID: dialog_80_speaker_2)
+
+11. Music comes easy to me.
+   (ID: dialog_35_speaker_1)
+
+12. I am a vegetarian. I have many friends who also are vegetarians. I like cooking vegetarian dishes for my friends.
+   (ID: dialog_88_speaker_2)
+
+13. I have watched all Marvel Movies. I have also read all the comics.
+   (ID: dialog_15_speaker_1)
+
+14. I know one of the members of Pearl Jam.
+   (ID: dialog_41_speaker_2)
+
+15. I've fresh employment mongering automobiles.
+   (ID: dialog_25_speaker_1)
+
+16. I love to catch sea bass.
+   (ID: dialog_33_speaker_2)
+
+17. I have a large family with babies.
+   (ID: dialog_76_speaker_1)
+
+18. I've not told my family that I am interested in the same sex.
+   (ID: dialog_4_speaker_2)
+
+19. I don't have kid. I'm married.
+   (ID: dialog_55_speaker_1)
+
+20. I fly a bomber.
+   (ID: dialog_67_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 22492
+
+1. i love reddit ...
+   (ID: ProbablyGayingOnYou)
+
+2. i find that i prefer text - based launchers like minimalist text and tagy .
+   (ID: bbakks)
+
+3. i have a couple plum trees on the property and more plums than i know what to do with ,
+   (ID: John7oliver)
+
+4. i do n't hate the world , just most of the people that inhabit it .
+   (ID: JaZepi)
+
+5. i used to love clinique , but i just bought the .
+   (ID: juliacakes)
+
+6. i 'm gon na guess that he was asking about how safe are these bottles from falling .
+   (ID: dohko_xar)
+
+7. i think tankies treat everything like euiv .
+   (ID: Shrub74)
+
+8. i love marshall and lily as a couple .
+   (ID: Megan_Bee)
+
+9. i know an actual karen .
+   (ID: Osiris0123)
+
+10. i do n't know if there is an easier way .
+   (ID: bestform)
+
+11. i 'm starting a fb group right now .
+   (ID: gigatroness)
+
+12. i ’m getting mixed signals from the comment
+   (ID: Wowliam)
+
+13. i could eat them everyday .
+   (ID: AP7497)
+
+14. i just wish people knew there are always other options besides taking your own life .
+   (ID: DickRubnuts)
+
+15. i ask because those analog ones are nt very accurate , and some ca nt even be calibrated .
+   (ID: Sniperman)
+
+16. i eventually found an email address .
+   (ID: xcombelle)
+
+17. i ’m glad she accepted me non the less !
+   (ID: mrhenk9)
+
+18. i checked the website .
+   (ID: BabblingBunny)
+
+19. i 've got reloadevery on my browser .
+   (ID: harumpf)
+
+20. i 'm drunk .
+   (ID: mostlikelyto___)
+
+
+--- PER-CHAT ---
+Total from this dataset: 20967
+
+1. in a car like yours you could probably keep gas below  digit , food might run you around  digit if you stop for fast food only , the hotel rooms could be around  digit or up to  digit depending on where you decide to stay , tolls should be less than  digit  with most being between philly and chicago . my friend and i went from charleston , sc to california in digit days but that is with two people driving . if you wanted to do any sightseeing it would be a little ways off the highway . after chicago there isn  t really much to see until denver .
+   (ID: fe5860fea6be29c69501e1a97b1240375d594aa9)
+
+2. chit chat , ask him how he feels about the election next year and what he  ll do if he doesn  t win , ask him about aliens space , not illegal and shit like that . i wouldn  t try and lecture him or change his opinions on anything because we all know how futile that would be , so honestly i think i would just listen to him . our politics are very different but i wouldn  t scream or argue or ridicule him because what  s the point ? he  s still a human being and despite what people say he actually does have a good sense of humour and is apparently an extremely good conversationist .
+   (ID: 4654e3a9a75835f9ff28170ddf31d5d3cf296ea2)
+
+3. i know im late to this post but , you ' re still trying , even if you relapse it ' s a part of recovery , and i believe that you can do it , just try to stay strong
+   (ID: feb4a6aeed8e7e14b0592329bd91d7933a93217e)
+
+4. this . its one of the best cartoons made in the last digit years , watch that shit , you pompous ass .
+   (ID: d8681af7ff5797fb2ffcb9a4a08f377463526e2d)
+
+5. i ' d probably take my chances . i mean we live in a world where living things must kill and consume other living things for survival , so , how much worse could it be ?
+   (ID: 7c5209c3b827e0de0cd436466f80ce09b615606b)
+
+6. i was thinking about that when i ' m finally old enough . i want to move out of the us and to canada or at least far away from my family .
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+7. I am arisen.
+   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
+
+8. maybe invite her to the park ? other than that i have nothing .
+   (ID: cc3d4f2be41112acacb92d09090db0e1f8d7e387)
+
+9. i see where you are coming from . like i said earlier i just don  t think this year is the year to do it . we really need an ace or two . other then mike do you really trust any other starter ?
+   (ID: d5ff87b3b0a008d93a655ee4d43e9da3b5db7984)
+
+10. I enjoy soccer.
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+11. it is but it ' s better like that , plus if i really don ' t want to continue i just break up and appreciate my privacy again until the depression comes back .
+   (ID: a80b8bc356414690d849369456d68876c95d5518)
+
+12. obligatory " not a janitor " but i have one . people in the girls washroom started watting up wet paper towels and throughing them on the ceiling . nobody wanted to go in there in fear of having one drop on their heads
+   (ID: f3a18644ac7abbbf38805d44618254b8104cce6f)
+
+13. One of my favorite things is deception.
+   (ID: 43361d3d352286328dcb058ec017ca0e2d364601)
+
+14. One of my favorite things is writing.
+   (ID: ef7434997159219f750735c89670b9fc3bdad5c3)
+
+15. One of my favorite things is design and decor.
+   (ID: 199704b2ab3344a95185dd1a9c09023379518eb0)
+
+16. One of my favorite things is ass  school snacks.
+   (ID: 1e92f1e007a1c147f8200d50f473d5433028bffc)
+
+17. I live in star wars.
+   (ID: 0cfe15b45fa033fe460b061d1625e4bb67bab696)
+
+18. I live in country.
+   (ID: bfc2e9a6e5f84327293fa1a1fd0287066782bcec)
+
+19. My other is art.
+   (ID: c7e5f1c7a94109955f94d7acd2417ffad0ba60db)
+
+20. One of my favorite things is al-an as a character.
+   (ID: e53542ff680164cdf45964372fb47cf6a7d48484)
+
+
+--- PersonaChat ---
+Total from this dataset: 1494
+
+1. i earn passive income that no one knows about .
+   (ID: conversation_295)
+
+2. my mom went crazy when i was three and i've not seen her since .
+   (ID: conversation_305)
+
+3. i go to the pool every thursday for three hours .
+   (ID: conversation_262)
+
+4. i like watching tv in my free time as well .
+   (ID: conversation_191)
+
+5. i have never traveled outside of the united states .
+   (ID: conversation_170)
+
+6. christmas is my favorite holiday .
+   (ID: conversation_180)
+
+7. i am witty .
+   (ID: conversation_65)
+
+8. i don't believe in love .
+   (ID: conversation_319)
+
+9. i was adopted when i was a baby .
+   (ID: conversation_324)
+
+10. playing quake on slackware linux makes me happy .
+   (ID: conversation_251)
+
+11. i love the water , any water , ocean , river , or lake .
+   (ID: conversation_102)
+
+12. i like to play tennis .
+   (ID: conversation_161)
+
+13. i just bought new hoop earrings .
+   (ID: conversation_218)
+
+14. i have been in a lot of romantic relationships that have ended up poorly .
+   (ID: conversation_131)
+
+15. i am on a low carb diet .
+   (ID: conversation_227)
+
+16. i like the internet .
+   (ID: conversation_348)
+
+17. my neighbor comes over all the time to watch rugby with me .
+   (ID: conversation_349)
+
+18. i like to shoot a bow .
+   (ID: conversation_195)
+
+19. i love animals .
+   (ID: conversation_47)
+
+20. i am a profesional translator .
+   (ID: conversation_165)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2964
+
+1. I was an army brat.
+   (ID: conversation_181_user_1)
+
+2. I watch youtube videos.
+   (ID: conversation_3_user_1)
+
+3. I use to compete in beauty pageants.
+   (ID: conversation_118_user_2)
+
+4. I enjoy hiking.
+   (ID: conversation_188_user_1)
+
+5. I am 10 years old.
+   (ID: conversation_5_user_2)
+
+6. I work at a doctors office.
+   (ID: conversation_145_user_1)
+
+7. I like to cook.
+   (ID: conversation_28_user_2)
+
+8. I am allergic to lactose.
+   (ID: conversation_252_user_2)
+
+9. My favorite food is pizza.
+   (ID: conversation_22_user_1)
+
+10. I can knit.
+   (ID: conversation_58_user_1)
+
+11. My mother passed away in 1979.
+   (ID: conversation_117_user_2)
+
+12. I live near the ocean.
+   (ID: conversation_300_user_2)
+
+13. My favorite drink is dr pepper.
+   (ID: conversation_182_user_1)
+
+14. My favorite jello is the blue one.
+   (ID: conversation_241_user_2)
+
+15. My parents are divorced.
+   (ID: conversation_25_user_2)
+
+16. I can knit.
+   (ID: conversation_57_user_1)
+
+17. I like to plant flowers in my gardens.
+   (ID: conversation_305_user_2)
+
+18. I still like combat boots with babydoll dresses.
+   (ID: conversation_233_user_2)
+
+19. My father is a mechanic.
+   (ID: conversation_49_user_1)
+
+20. I work as a secretary at an insurance agency.
+   (ID: conversation_329_user_2)
+
+
+============================================================

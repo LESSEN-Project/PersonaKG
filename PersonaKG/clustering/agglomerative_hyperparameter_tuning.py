@@ -34,7 +34,7 @@ def run_hyperparameter_search(n_trials=100, output_dir="hyperparameter_results",
     if clustering_mode == "separate":
         sample_sizes = [200, 350, 500, 750]
     else:
-        sample_sizes = [250, 350, 500, 600]
+        sample_sizes = [250, 350, 500]
 
     # Agglomerative clustering specific parameters
     # Define n_clusters as a percentage of sample_size (rounded, min 2)

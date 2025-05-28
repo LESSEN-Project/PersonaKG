@@ -1,0 +1,31 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 3
+
+Dataset distribution in this cluster:
+  FoCus: 1 (33.3%)
+  SyntheticPersonaChat: 2 (66.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I hate school.
+   (ID: EXXMSRQDF6PN_11)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I hate school.
+   (ID: conversation_435_user_1)
+
+2. I hate school.
+   (ID: conversation_434_user_1)
+
+
+============================================================

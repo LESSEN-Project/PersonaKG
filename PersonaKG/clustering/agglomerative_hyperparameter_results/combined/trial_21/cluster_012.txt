@@ -1,0 +1,467 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 28439
+
+Dataset distribution in this cluster:
+  FoCus: 999 (3.5%)
+  MPChat: 1605 (5.6%)
+  MSC: 1283 (4.5%)
+  PEC: 9312 (32.7%)
+  PER-CHAT: 12994 (45.7%)
+  PersonaChat: 744 (2.6%)
+  SyntheticPersonaChat: 1502 (5.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 999
+
+1. I have visited the Guindy National Park.
+   (ID: V3LNPA1FT8D2_11)
+
+2. I like English Heritage.
+   (ID: W67GZU3ZXI46_9)
+
+3. I would like to see a worship place.
+   (ID: KGUNB0DFP7UP_11)
+
+4. I would like to learn more about the Nazis.
+   (ID: H697EKUHA9EW_11)
+
+5. I would like study about ancient monuments.
+   (ID: XDIIZK7KZ12G_11)
+
+6. I hope to see a Mountain in Idaho.
+   (ID: D449W0YW7LNU_11)
+
+7. I love cathedrals.
+   (ID: TDUTQ7NCYJ1S_11)
+
+8. I am an animal lover.
+   (ID: QLDCXP7YJP9Q_11)
+
+9. I would like to visit England.
+   (ID: IS9KP8O0CE1M_11)
+
+10. I like to know the climate of the places I visit.
+   (ID: XFB5FMNQN1Q8_9)
+
+11. I once hid in a hollow log during hide and seek as a child.
+   (ID: NETYMHGQTGLI_9)
+
+12. I am writing a paper on Domingo de Petrés.
+   (ID: TPWBWPRCHUGC_11)
+
+13. I would like to visit a castle.
+   (ID: 8PCBSP0T0VTY_11)
+
+14. I am going to California for vacation.
+   (ID: O76ENSZ0ZFAX_11)
+
+15. I love art.
+   (ID: O5F8MAFDNJB4_11)
+
+16. I like jazz music.
+   (ID: RUXEW8EYORSZ_11)
+
+17. I dislike churches.
+   (ID: DAZUOQ6PPGPD_9)
+
+18. I am going to holiday in Malta.
+   (ID: WOKBQQ69J2V3_7)
+
+19. I would like to travel through British Columbia.
+   (ID: BW2JVSJEMYHL_11)
+
+20. I love History.
+   (ID: V0DLNYLN813E_11)
+
+
+--- MPChat ---
+Total from this dataset: 1605
+
+1. i love drawing on cakes.
+   (ID: Learning2Grow)
+
+2. i made salvadorean casamiento using the cast iron after i grilled some garlic chicken in it.. yup.
+   (ID: knivesandchives)
+
+3. i really liked this one from today.
+   (ID: jlb4est)
+
+4. twiglet's favourite thing ever is to steal socks so i had to tell him off this morning.
+   (ID: ellielumos)
+
+5. i made a tiny chef hat to add to amigurumi / my thumb!
+   (ID: Louiesloops)
+
+6. smashed double cheeseburgs for lunch i'm hungry
+   (ID: ambora)
+
+7. the cozy loft i stayed in while in paris
+   (ID: chirp16)
+
+8. my favorite thing i've done recently...sgt.
+   (ID: hottiecakes)
+
+9. when should i dunk it in water?
+   (ID: sundstrom193)
+
+10. rate my burger - thin patty, shredded lettuce, tomato, special sauce
+   (ID: elocdylan)
+
+11. gift i made for my mom this year.
+   (ID: SweetSassyClassy)
+
+12. my pinky had an unfortunate run-in with some polish remover but so far i love them
+   (ID: batman1227)
+
+13. 9mm may be the biggest hook i've ever used.
+   (ID: Sophie74656)
+
+14. i never get my fingernails done.
+   (ID: ReturnOfTheFox)
+
+15. i find them to be quite an attractive couple!
+   (ID: CL_ceramics)
+
+16. i made a keychain.
+   (ID: gelimausi)
+
+17. i made a little hedgehog!
+   (ID: FoxInKneeSocks)
+
+18. i made a bed extender
+   (ID: GamblinGambit)
+
+19. christmas dinner with my family (and favorite skillet)
+   (ID: tstandiford)
+
+20. crocheted unicorns with veriegated rainbow manes that i made
+   (ID: KnitPurlPrint)
+
+
+--- MSC ---
+Total from this dataset: 1283
+
+1. I don't eat animal products.
+   (ID: dialog_60_speaker_2)
+
+2. I like hot weather.
+   (ID: dialog_78_speaker_1)
+
+3. I used to be interested in graphics design. I went to college.
+   (ID: dialog_33_speaker_2)
+
+4. I love my puppies.
+   (ID: dialog_13_speaker_1)
+
+5. I have a peanut allergy.
+   (ID: dialog_48_speaker_2)
+
+6. I was born in 1860.
+   (ID: dialog_127_speaker_2)
+
+7. I like both cats and dogs.
+   (ID: dialog_97_speaker_2)
+
+8. I like winter sports.
+   (ID: dialog_113_speaker_1)
+
+9. I have a job. I go to school.
+   (ID: dialog_29_speaker_1)
+
+10. Sometimes I will go for a walk or bike ride.
+   (ID: dialog_41_speaker_1)
+
+11. I graduated college with a literature degree. I want to be a teacher. I am looking for a job.
+   (ID: dialog_48_speaker_2)
+
+12. My husband was a career soldier. I have 4 kids.
+   (ID: dialog_127_speaker_1)
+
+13. I like cameras.
+   (ID: dialog_49_speaker_1)
+
+14. I am a carnivore.
+   (ID: dialog_0_speaker_1)
+
+15. I am also going on vacation. I will be going to the mountains.
+   (ID: dialog_112_speaker_1)
+
+16. I reside on the outskirts of a city know as beantown.
+   (ID: dialog_41_speaker_1)
+
+17. I like fried chicken and fish.
+   (ID: dialog_82_speaker_1)
+
+18. I am a weight-lifter.
+   (ID: dialog_100_speaker_1)
+
+19. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+20. I like fluid from out of country.
+   (ID: dialog_2_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 9312
+
+1. i have used it in the metro .
+   (ID: godspeedone)
+
+2. i like where this is going .
+   (ID: Ashex)
+
+3. i have a web cam , but that 's the only way i could record myself on the 3ds .
+   (ID: CheapyPipe)
+
+4. i 'm really happy for you ! !
+   (ID: blue_thingy)
+
+5. i will definitely call and ask !
+   (ID: pipette_on)
+
+6. i am going to audition for them on bari this coming year .
+   (ID: JacredCat)
+
+7. i hope they called an ambulance for the injuries you sustained facepalming too hard .
+   (ID: silentpower)
+
+8. i 'm starting to dislike this place .
+   (ID: Shrub74)
+
+9. i prefer the native win - bash and gnuwin32 tools .
+   (ID: foldor)
+
+10. i ’m dumb , can someone explain
+   (ID: lambsquatch)
+
+11. i know exactly what it means .
+   (ID: BorgDrone)
+
+12. i 'm looking for the original release of billie holidays strange fruit single on commodore .
+   (ID: Ashex)
+
+13. i think so too .
+   (ID: mbw1960)
+
+14. i drink lots of soda .
+   (ID: Sabiola)
+
+15. i think that might only be in your area .
+   (ID: WhereRtheTacos)
+
+16. i still find physical attraction to be very important to me .
+   (ID: aydinsevimli)
+
+17. i am in fact a beer .
+   (ID: Dustin_Bromain)
+
+18. i love love love our photos :)
+   (ID: genpell)
+
+19. i 'm trying it out now and loving it so far .
+   (ID: thebastion)
+
+20. i assume you 're speaking to the general dynamics contract to supply uv 's for around 15b usd ?
+   (ID: JaZepi)
+
+
+--- PER-CHAT ---
+Total from this dataset: 12994
+
+1. I live in hick town.
+   (ID: 93102e17c1a3f6136bb2fad08c587ad924185f76)
+
+2. no , once you ' bust ' , your turn is over . and all you could do is throw a digit but that is not a double out .
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+3. I live in texas.
+   (ID: 2abaf8413c23e36fd4e8a1e879a2875dea6dbf69)
+
+4. One of my favorite things is writing.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+5. when i first learned how to do it digit i would do it like once a week and as i got older i did it more and more . now digit i do it like two  three times a day , but some days it ' s like seven .
+   (ID: 4345d92dae99b45255ddd6b7f7c88a7ad331da93)
+
+6. One of my favorite things is ice cream   wter.
+   (ID: e036cce09e42b447bacae037ef33243f155fd2bf)
+
+7. what ' s wrong , but sounds write ?
+   (ID: 787f4a3fe31691883105c973a6b8e3df9df1436e)
+
+8. I am anime artist.
+   (ID: d298609ba6b9516031b9d0b9bc9217d85ce28f05)
+
+9. no but i still keep my stance if the money is there . pay me . everybody is different , they have their own thoughts and ideas . if i don ' t do it somebody else will . why shouldn ' t i make that money if i ' m perfectly able to ? it ' s a job . that ' s all . now if it ' s universally immoral then we may have an issue . i ' m not gonna be the spokesperson for human trafficking . with that same thought process though if your thoughts and ideas don ' t allow you to think like that then that particular job isn ' t for you .
+   (ID: 7cece6bbdf487f99b6d494ab790bde8e66ce8966)
+
+10. you . you  ve become the very thing you swore to destroy !
+   (ID: 1306973da0fba9f8c4b839b9163f3f01aacfe98a)
+
+11. honestly i think the complaints about settings are overblown . sure , add a search feature for finding things even more quickly that ' s fine , but i don ' t know what jagex are supposed to do about it when people can ' t find the settings for combat experience when you ' ve got digit categories , one labelled skills and the other combat and both point to the same interface . if it ' s really taking you that long to find where combat experience in a list that literally says combat  experience i don ' t think there ' s much jagex can do to help you . people need to understand some games have a lot of options and that it ' s worth taking a few minutes to go through and see what ' s available rather than never delving into them . maybe if people really want a hand holding interface they should offer a streamlined  simplified bare bones with a toggle option for advanced settings as to not scare off new players .
+   (ID: 818321ef6a71106a1a86010b5df8bc2991279431)
+
+12. One of my favorite things is soda.
+   (ID: c956c3bf88cce2d3de1fc9f4d4a6e7b082a20dbb)
+
+13. this was already posted . someone mentioned that there is a possibility of an extra digit   digit  off down the road , similar to last year . yet , many of the items may be sold out by then . so grab what you like if you feel it may not be available . also those normandys are great , the ones on clearance don ' t have the same soles as the updated ones unfortunately .
+   (ID: 4721143ecfe877298792b1d44e635051f5f2c84e)
+
+14. glad you made it to he other side . you know what  s weird ? i still , at times , enjoy listening to christian music . not because my beliefs are the same , but part nostalgia , part good emotions , part because i don  t have an issue with a  higher power  that i probably don  t believe in . i  ve decided to just not analyze and do what i want . i don  t have to have a good reason . zany  face
+   (ID: f90b0d899acf3c82adaa55fb250d0c7ea9eaeaf3)
+
+15. One of my favorite things is valve  events.
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+16. One of my favorite things is congress.
+   (ID: 41d66f92509db20d202cca3f348509c6cd25586b)
+
+17. im gonna tell you , mate , taking your life only hurts the people around you . not one single person is thinking life would be better without you . high school is no determination factor anyway , life changes after high school and you can make life what you want it . you can start and entirely new life for yourself , you ' re moving on to how you want to impact the world . i know talking to someone isnt at the top of everyones lists when it comes to mental health but from experience , it really helps . reddit is a really good place to get your emotions out mate . there are lots of people on here with the same problems you ' re going through and we ' re trying to overcome it together . we ' re here for you , mate .
+   (ID: ea1aba6f5a01e142602653a1b9987c70e3862a45)
+
+18. so i saw earlier that your president caved . guess my read of the situation was correct . care to discuss the other foolish parts of your viewpoints or are you waiting for hannity to tell you what to say ? i ' ll wait . i know he doesn ' t come on till later .
+   (ID: f15c79447707a6e701285e8c59cc3aa25d54daa6)
+
+19. I own a pc.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+20. One of my favorite things is writing.
+   (ID: 87173aaf55980a77c94bd30c851c39fb0b52ff2e)
+
+
+--- PersonaChat ---
+Total from this dataset: 744
+
+1. i like to ride horses .
+   (ID: conversation_15)
+
+2. my hobbies are sleeping and playing the guitar .
+   (ID: conversation_343)
+
+3. i like to ride my bike .
+   (ID: conversation_282)
+
+4. i m a graphic designer .
+   (ID: conversation_202)
+
+5. i eat large meals .
+   (ID: conversation_16)
+
+6. i despise sweet potatoes .
+   (ID: conversation_304)
+
+7. i'm not afraid to die .
+   (ID: conversation_273)
+
+8. i drive a jag .
+   (ID: conversation_169)
+
+9. i am in college .
+   (ID: conversation_112)
+
+10. my son is a straight a student .
+   (ID: conversation_315)
+
+11. i've boots i always wear .
+   (ID: conversation_223)
+
+12. my favorite seafood in lobster .
+   (ID: conversation_346)
+
+13. i'm a petsitter .
+   (ID: conversation_323)
+
+14. i know how to count cards in blackjack .
+   (ID: conversation_158)
+
+15. i'm a meat eater .
+   (ID: conversation_116)
+
+16. i just graduated from high school .
+   (ID: conversation_108)
+
+17. i retired so i can spend more time with my husband and helping people .
+   (ID: conversation_303)
+
+18. i am trying to become a male model in hollywood .
+   (ID: conversation_227)
+
+19. i'm a olympian .
+   (ID: conversation_241)
+
+20. i lost my arm in a car accident .
+   (ID: conversation_157)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1502
+
+1. I love folk metal.
+   (ID: conversation_164_user_1)
+
+2. I used to fly planes for a living.
+   (ID: conversation_276_user_2)
+
+3. The name of my team is the baltimore ravens.
+   (ID: conversation_323_user_2)
+
+4. Running is my way to relax.
+   (ID: conversation_349_user_2)
+
+5. I am a chef.
+   (ID: conversation_73_user_1)
+
+6. I love to sing.
+   (ID: conversation_348_user_1)
+
+7. I like sprite soda.
+   (ID: conversation_232_user_1)
+
+8. I like to build furniture.
+   (ID: conversation_216_user_2)
+
+9. My favorite fruit is apple.
+   (ID: conversation_277_user_1)
+
+10. I build my own computers.
+   (ID: conversation_273_user_2)
+
+11. My doctor told me i have six months to live.
+   (ID: conversation_252_user_2)
+
+12. I eat healthy.
+   (ID: conversation_109_user_2)
+
+13. I am studying to be a special education teacher.
+   (ID: conversation_293_user_2)
+
+14. I am a retired school teacher.
+   (ID: conversation_107_user_2)
+
+15. I swim often.
+   (ID: conversation_346_user_1)
+
+16. I am blind.
+   (ID: conversation_26_user_1)
+
+17. My favorite music is rock and roll.
+   (ID: conversation_174_user_2)
+
+18. I am an amateur chef who cooks 5 different cuisines.
+   (ID: conversation_296_user_1)
+
+19. I am a school teacher.
+   (ID: conversation_207_user_2)
+
+20. I love zumba.
+   (ID: conversation_190_user_2)
+
+
+============================================================

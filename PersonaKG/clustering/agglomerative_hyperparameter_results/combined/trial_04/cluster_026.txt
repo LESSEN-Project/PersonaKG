@@ -1,0 +1,252 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 283
+
+Dataset distribution in this cluster:
+  MPChat: 2 (0.7%)
+  MSC: 12 (4.2%)
+  PEC: 11 (3.9%)
+  PER-CHAT: 233 (82.3%)
+  PersonaChat: 6 (2.1%)
+  SyntheticPersonaChat: 19 (6.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. it's my cakeday; here's my dog.
+   (ID: hmbmelly)
+
+2. my newest "pet" for love your pet day.
+   (ID: Gallifrey4637)
+
+
+--- MSC ---
+Total from this dataset: 12
+
+1. I love my dog.
+   (ID: dialog_43_speaker_2)
+
+2. I do not have a dog.
+   (ID: dialog_174_speaker_1)
+
+3. I have not been bitten by a dog.
+   (ID: dialog_121_speaker_1)
+
+4. I know a lot about dogs. I like to practice singing alone. I would love a dog as company.
+   (ID: dialog_11_speaker_2)
+
+5. I have been bitten by a dog.
+   (ID: dialog_121_speaker_2)
+
+6. I am a dog walker.
+   (ID: dialog_170_speaker_2)
+
+7. I have a dog.
+   (ID: dialog_71_speaker_2)
+
+8. I have a dog.
+   (ID: dialog_184_speaker_1)
+
+9. I have a dog.
+   (ID: dialog_160_speaker_2)
+
+10. My little dingo dog is friendly. My wife and I adopted a stray dog. My pet dogs have always been mutts. My parents used to have a dalmation that bit strangers.
+   (ID: dialog_11_speaker_1)
+
+11. My last dog's name was Sirius.
+   (ID: dialog_118_speaker_1)
+
+12. I have a dog.
+   (ID: dialog_112_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 11
+
+1. i love that dog !
+   (ID: leo9g)
+
+2. i love this dog
+   (ID: Kristyn673)
+
+3. i love it pet ;
+   (ID: LightofNew)
+
+4. i have a dog
+   (ID: ranieve)
+
+5. i have a cow dog too !
+   (ID: Kangfight)
+
+6. i would go here because of the dog
+   (ID: jmontoya5280)
+
+7. i love dog smiles .
+   (ID: notthruyet)
+
+8. i love a smiling dog !
+   (ID: notthruyet)
+
+9. i love how the dad is curled up on the bottom of the bed like a dog ! !
+   (ID: jmontoya5280)
+
+10. i love that she 's doing all that while clinging to a corn dog .
+   (ID: VanGoJourney)
+
+11. i ’d like to snuggle that dog , please !
+   (ID: FridaysChild219)
+
+
+--- PER-CHAT ---
+Total from this dataset: 233
+
+1. I have a dog as a pet.
+   (ID: faf8e2f0b237550f2553944dd4c08846f7505988)
+
+2. I have a dog as a pet.
+   (ID: 34d7a41f0778ab80ac97d43bcbe30cde5ab458d8)
+
+3. I have a dog as a pet.
+   (ID: 841a375b464a5650f1c027d1c7ae73415228c6ab)
+
+4. I have a dog as a pet.
+   (ID: f903d9b4ab2ed2813eb60579aa407d7730187596)
+
+5. I have a dog as a pet.
+   (ID: 06f1a2f5d32f7dd1949254b41bf285307f38a718)
+
+6. I have a dog as a pet.
+   (ID: 73298992cdad815c5bab6ce9bfb5d9a5ad3b9729)
+
+7. I have a dog as a pet.
+   (ID: dc123ff47fa4f2e85bbecd444342fe7d8fcb7db5)
+
+8. I have a dog as a pet.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+9. I have a dog as a pet.
+   (ID: fb5e95e954b3ee83c39276138f0fa3b854970db4)
+
+10. I have a dog as a pet.
+   (ID: ab7b04c861ea53216d337be29676deb59279c791)
+
+11. I have a dog as a pet.
+   (ID: 8e629a7555369b0d827116a133d05901757cd56a)
+
+12. I have a dog as a pet.
+   (ID: 0f6c6c4bd3531c7f028b4bf901123522dd67c300)
+
+13. I have a dog as a pet.
+   (ID: 87921f4850625bbc1ea70e7a3027781ab887303e)
+
+14. I have a dog as a pet.
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+15. I have a dog as a pet.
+   (ID: 6eec77fe98b9dc85ec1e5e7edc37cdb415794719)
+
+16. I have a dog as a pet.
+   (ID: c787052a42459acc9cd2034c7531250ccd441795)
+
+17. I have a dog as a pet.
+   (ID: ab3c8c681660786b8cfd174d247a71a2d57b02b6)
+
+18. I have a dog as a pet.
+   (ID: dadc9911849239b0d3b98ea480d7a3be43208f42)
+
+19. I have a dog as a pet.
+   (ID: 128346fc1e56ccadd25a4b200ecae44637d48f5f)
+
+20. I have a dog as a pet.
+   (ID: 268efb139763eba39bf6c3c85d53f9e70824c23b)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i have a boxer dog .
+   (ID: conversation_6)
+
+2. my dog s name is toto .
+   (ID: conversation_255)
+
+3. i am a dog walker .
+   (ID: conversation_170)
+
+4. my dog s name is toto .
+   (ID: conversation_339)
+
+5. everyday after work i buy my dog a dog biscuit .
+   (ID: conversation_160)
+
+6. i have a boxer dog .
+   (ID: conversation_182)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 19
+
+1. I have a dog.
+   (ID: conversation_397_user_1)
+
+2. I have 3 dog.
+   (ID: conversation_443_user_1)
+
+3. I love my dog.
+   (ID: conversation_21_user_2)
+
+4. My dog s name is wonwon.
+   (ID: conversation_328_user_2)
+
+5. I am a dog walker.
+   (ID: conversation_152_user_2)
+
+6. I have a dog.
+   (ID: conversation_396_user_1)
+
+7. I have a boxer dog.
+   (ID: conversation_276_user_1)
+
+8. I have 3 dog.
+   (ID: conversation_442_user_1)
+
+9. I have a dog.
+   (ID: conversation_272_user_1)
+
+10. I have a dog.
+   (ID: conversation_273_user_1)
+
+11. Everyday after work i buy my dog a dog biscuit.
+   (ID: conversation_352_user_1)
+
+12. I have a dog.
+   (ID: conversation_334_user_2)
+
+13. I have 3 dog.
+   (ID: conversation_491_user_2)
+
+14. Everyday after work i buy my dog a dog biscuit.
+   (ID: conversation_488_user_2)
+
+15. We have a dog.
+   (ID: conversation_57_user_2)
+
+16. I have 3 dog.
+   (ID: conversation_260_user_1)
+
+17. I have a dog.
+   (ID: conversation_398_user_1)
+
+18. We have a dog.
+   (ID: conversation_357_user_2)
+
+19. I love my dog.
+   (ID: conversation_51_user_2)
+
+
+============================================================

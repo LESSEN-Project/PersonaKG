@@ -1,0 +1,196 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 303
+
+Dataset distribution in this cluster:
+  MSC: 8 (2.6%)
+  PEC: 16 (5.3%)
+  PER-CHAT: 270 (89.1%)
+  PersonaChat: 4 (1.3%)
+  SyntheticPersonaChat: 5 (1.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 8
+
+1. Jasper is an indoor female cat.
+   (ID: dialog_151_speaker_2)
+
+2. I'm female.
+   (ID: dialog_108_speaker_1)
+
+3. I have a female child.
+   (ID: dialog_162_speaker_1)
+
+4. I am a female.
+   (ID: dialog_108_speaker_1)
+
+5. I have a female sibling with a very common name.
+   (ID: dialog_133_speaker_1)
+
+6. I've a female child.
+   (ID: dialog_129_speaker_2)
+
+7. My name is Jessica. I have an indoor female cat named Jasper.
+   (ID: dialog_151_speaker_2)
+
+8. I'm a female in my 30s.
+   (ID: dialog_152_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 16
+
+1. i 'm a female so i would like to get a female fit one .
+   (ID: travelingkiwi)
+
+2. i 'm female , and most of my characters in world of warcraft are female too .
+   (ID: Sabiola)
+
+3. i still think they ’re funny , i ’m 46 and a female .
+   (ID: fabs1171)
+
+4. i am female in my mid-30 's and have a small pet rabbit .
+   (ID: RobotHappiness)
+
+5. i just finished playing the last of us a day earlier before i adopted a female kitten .
+   (ID: mmaswadeh)
+
+6. i just made female sims instead :( sorry
+   (ID: underneathstars)
+
+7. i have many of the typical austistic female traits .
+   (ID: RelaxedSociety)
+
+8. i 'm going to choose to imagine that the people commenting " nurse " are female .
+   (ID: awyissbeardskritches)
+
+9. i am a respectable adult female , who is obsessed with all things superkawaiidesusqueee .
+   (ID: napalmkitten)
+
+10. i 'm a female and i think this is pretty creepy
+   (ID: mostlikelyto___)
+
+11. i 'm a straight female , but daaaaaaaaaaaaamn she 's gorgeous .
+   (ID: Megan_Bee)
+
+12. i am in my mid 30 's and female .
+   (ID: RobotHappiness)
+
+13. i 've heard the same about female reproductive parts as well !
+   (ID: ifatree)
+
+14. i also liked that other post that pointed out tig notaro is female linus ,
+   (ID: pharan_x)
+
+15. i work in an all female company , and it ’s great .
+   (ID: bugaloo2u2)
+
+16. i always choose the female character because i like being catty with the other female characters .
+   (ID: BrianV91)
+
+
+--- PER-CHAT ---
+Total from this dataset: 270
+
+1. I am a female.
+   (ID: 54073428e1afecd7ce44872ad5cd42619b1da6ed)
+
+2. I am a female.
+   (ID: 752bae2818e8a99ea6b8b00277a3811570a73708)
+
+3. I am a female.
+   (ID: 448fa72755c2d77f67b820a9620d09e9d4573816)
+
+4. I am a female.
+   (ID: 4f26e00e0769f7123ce8a1a0d11a5e285c445ec3)
+
+5. I am a female.
+   (ID: 4345d92dae99b45255ddd6b7f7c88a7ad331da93)
+
+6. I am a female.
+   (ID: bef3bdf131cc9dbe9d33343a3b9988680236cf9d)
+
+7. I am a female.
+   (ID: 48a88dc7eb2bacff2435dad342a33464452811ab)
+
+8. I am a female.
+   (ID: 2988ee1cd7a2bcf8e2d215c795ee2d06a985665a)
+
+9. I am a female.
+   (ID: 26385f66cbe9eeb82d4441391355c1c6c8e64c0a)
+
+10. I am a female.
+   (ID: 7c0a90108389e898ab80f1c7af44e170b85c6d76)
+
+11. I am a female.
+   (ID: fa4c371fe8b38af948c041b548e9bad7869c7b69)
+
+12. I am a female.
+   (ID: 726d5aaac9472ccdcb64345cd6d082bee4eae6fa)
+
+13. I am a female.
+   (ID: e707e3b97faf5ee7a6bc4fac3f1e296e163b3c89)
+
+14. I am a female.
+   (ID: fb2296a3311d8cfcc95ae0603076bd7cb1471865)
+
+15. I am a female.
+   (ID: 53c827dc263721b97d54bc4c972350c3a1b57856)
+
+16. I am a female.
+   (ID: 29b9b56e163cbfecbc98e83c436b436aca056a8c)
+
+17. I am a female.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+18. I am a female.
+   (ID: 3adf883c491ca030d52ee22ed62e166c87ed0d5e)
+
+19. I am a female.
+   (ID: e6359b877efa1250fe2c10f65ddfd7cb1bef1a9e)
+
+20. I am a female.
+   (ID: 23d8dae7213e264b515a84a02f18e02f44dbe192)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_426)
+
+2. i am a female and love to be surrounded by males .
+   (ID: conversation_41)
+
+3. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+4. i'm a female .
+   (ID: conversation_121)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I am a female.
+   (ID: conversation_361_user_1)
+
+2. I am a female.
+   (ID: conversation_362_user_1)
+
+3. I am a female.
+   (ID: conversation_363_user_1)
+
+4. I am a female and love to be surrounded by males.
+   (ID: conversation_399_user_2)
+
+5. I am a female.
+   (ID: conversation_360_user_1)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 17162
+
+Dataset distribution in this cluster:
+  FoCus: 487 (2.8%)
+  MPChat: 923 (5.4%)
+  MSC: 810 (4.7%)
+  PEC: 6830 (39.8%)
+  PER-CHAT: 6634 (38.7%)
+  PersonaChat: 479 (2.8%)
+  SyntheticPersonaChat: 999 (5.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 487
+
+1. I am follower of Hyder Ali.
+   (ID: UN54IACHSTX5_11)
+
+2. I am an admirer of Jorge Semprún.
+   (ID: H697EKUHA9EW_11)
+
+3. I want to know more about various forests.
+   (ID: FS1LJTHM1IC0_11)
+
+4. I am interested in the Industrial Revolution.
+   (ID: IS9KP8O0CE1M_11)
+
+5. I don't like forest.
+   (ID: T815O8KC30IG_9)
+
+6. I want a higher education.
+   (ID: L2FEEPD1V8BQ_11)
+
+7. I am interested in Wildlife Refuges.
+   (ID: Y037WWL4AZRY_11)
+
+8. I am interested in BTS Network.
+   (ID: 8KHO3GFPWXQ3_11)
+
+9. I don't like casinos.
+   (ID: 9KDV6LSLWNAX_11)
+
+10. I like to read books.
+   (ID: C7RS7BTZIF1Q_11)
+
+11. I am interested in history.
+   (ID: UTGOZ64NRQCB_11)
+
+12. I have curiosity about the exhibits.
+   (ID: FF36QQ08S28H_11)
+
+13. I like Shakespeare's works.
+   (ID: POTYY4E7PSQF_11)
+
+14. I am interested in biodiversity.
+   (ID: 8LTOMMR1K4L5_11)
+
+15. I like the Metro.
+   (ID: D0BKN1W8KWG6_7)
+
+16. I love animals.
+   (ID: 77B9J8TADYDF_7)
+
+17. I am interested in history.
+   (ID: EYWHRALFUG0D_11)
+
+18. I am interested in war history.
+   (ID: GHGLD29537QW_11)
+
+19. I am from Southeast Asia.
+   (ID: 9ZUQKMGM6HTD_11)
+
+20. I am interested in world records.
+   (ID: FHCSCC2MB2X0_7)
+
+
+--- MPChat ---
+Total from this dataset: 923
+
+1. noticed this on my cc..help!
+   (ID: BananaStand07)
+
+2. exploring the southwest is my passion.
+   (ID: tssouthwest)
+
+3. my buddy loves to lay belly-up!
+   (ID: chirp16)
+
+4. i told seamus he has to get a job and start paying rent.
+   (ID: ambora)
+
+5. reddit, i've been into decorating cakes for about 6 months and here's one of my favorites.
+   (ID: kduluth)
+
+6. this is a cute chick i made
+   (ID: FindingTheAdventure)
+
+7. my first planned pooling project!
+   (ID: smsikking)
+
+8. my dad just emailed me this...
+   (ID: Sophie74656)
+
+9. i love camping!
+   (ID: insthotchkiss)
+
+10. my latest edlothia shawl in hobbii twister mojave azurite.
+   (ID: somuchyarn10)
+
+11. i am literally a human pillow.
+   (ID: mattsulli)
+
+12. [fo] an animal alphabet for my children.
+   (ID: gelimausi)
+
+13. i’ve been keeping busy during lockdown!
+   (ID: FoxInKneeSocks)
+
+14. my cuckoo leghorn chicken sage laid her first egg last week.
+   (ID: Soapy_Von_Soaps)
+
+15. "gosh darn it i need those files now kent"
+   (ID: kentobean123)
+
+16. perry the platypus has claimed my pillow as his own.
+   (ID: kentobean123)
+
+17. my precious perry the platycorgi
+   (ID: kentobean123)
+
+18. he loves the colour blue and makes his best out of any blue yarn i leave lying around.
+   (ID: pokegirl93a)
+
+19. is this shot-hole on my skip laurels?
+   (ID: chirp16)
+
+20. i sorta want one of these plungers.
+   (ID: patm28)
+
+
+--- MSC ---
+Total from this dataset: 810
+
+1. My mom is a cashier at walmart. I live in my mom's basement.
+   (ID: dialog_53_speaker_1)
+
+2. I collect a lot of sports memorabilia.
+   (ID: dialog_70_speaker_1)
+
+3. My favorite subject is psychology.
+   (ID: dialog_23_speaker_1)
+
+4. I don't collect comic books. I like comic books.
+   (ID: dialog_48_speaker_2)
+
+5. I'm from the midwest. I'm a college student.
+   (ID: dialog_89_speaker_2)
+
+6. I value organization.
+   (ID: dialog_124_speaker_2)
+
+7. I love animals and I am vegan.
+   (ID: dialog_97_speaker_1)
+
+8. I have a boat.
+   (ID: dialog_80_speaker_1)
+
+9. We have the same parents, he was born first.
+   (ID: dialog_81_speaker_2)
+
+10. I love vampire music with pizza. I love Detroit-style deep dish pizza. I like simple toppings - pepperoni and sausage. I like spicy food .
+   (ID: dialog_121_speaker_2)
+
+11. I like to spend time with my family
+   (ID: dialog_109_speaker_2)
+
+12. My favorite normal breakfast is pancakes with blueberries and strawberries.
+   (ID: dialog_107_speaker_2)
+
+13. I daydream about a fancier lifestyle.
+   (ID: dialog_54_speaker_2)
+
+14. My husband is a writer.
+   (ID: dialog_132_speaker_2)
+
+15. I often enter a room only to stop and wonder why I came there.
+   (ID: dialog_37_speaker_2)
+
+16. Batman is a my favorite comic book character.
+   (ID: dialog_120_speaker_1)
+
+17. Being a grandma is my greatest accomplishment.
+   (ID: dialog_116_speaker_1)
+
+18. I own a prius. I want to buy a van.
+   (ID: dialog_68_speaker_2)
+
+19. I have four sisters.
+   (ID: dialog_14_speaker_1)
+
+20. I am on the computer a lot.
+   (ID: dialog_60_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 6830
+
+1. i am kind of pretty busy for the next coming weeks but i will definitely think about it :)
+   (ID: Ml7500)
+
+2. i was told every facet of pregnancy is common sense and he should just know this stuff .
+   (ID: GetItTogether)
+
+3. i would definitely wash it off well , careful as it 's very fragile .
+   (ID: meteoriteminer)
+
+4. i 'm trying to find one for double that in canada
+   (ID: BoonTobias)
+
+5. i just noticed this !
+   (ID: YuseiAkask)
+
+6. i 'm a robot .
+   (ID: amirman)
+
+7. i do n't know .. does n't it just kind of .. piss you off ?
+   (ID: Kellen1337)
+
+8. i have scholiosis and stage 2 degeneration of my lower lumbar curve .
+   (ID: VanGoJourney)
+
+9. i looked into vga / usb wallplates , but most seem .
+   (ID: pyro2927)
+
+10. i did n't need any additional assistance .
+   (ID: DarkMoon99)
+
+11. i am so done w/ this disease .
+   (ID: justgirlypasta)
+
+12. i had weeks where i averaged 4h .
+   (ID: leo9g)
+
+13. i see it !
+   (ID: bostown03)
+
+14. i worked at hollister up until last month , and i can confirm those are hollister men 's shorts .
+   (ID: Nolanoscopy)
+
+15. i guess i can pull out a drawer to hit things with ?
+   (ID: Othello)
+
+16. i 'm looking forward to from a tob , you might wanna check out the story
+   (ID: Darth_Waiter)
+
+17. i get him .
+   (ID: giraffecakes)
+
+18. i once had an affair with op 's mother .
+   (ID: Ian_Str8)
+
+19. i was born in the country of africa .
+   (ID: DarkMoon99)
+
+20. i have a headache now though
+   (ID: themarajade1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 6634
+
+1. I have a dog as a pet.
+   (ID: 9d6cadbef277b68098e82945a77678dbb2a079c6)
+
+2. i know what i am in for everytime i click that atheism link , but within each link . including this one i find myself at both a loss of words and a loss of faith for the future for humanity .
+   (ID: b5153b16e61f6bc5e4bf4d8db479b7093df1ae26)
+
+3. I'm interested in shopping.
+   (ID: cae6d1fb1a818280e66de4a71148560d2d217d70)
+
+4. i typically interpret it as " choose another being hostile to the attacker , or not at all . basically you ' re making the enemies not want to attack you .
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+5. I live in sf.
+   (ID: 17b8a304069d7530607e28f8e04d840e28be0d3e)
+
+6. i may be moving to mt soon for work ! i ' ve read that people from montana are not super stoked on outsiders moving into the state . did you find this to be true ? thanks and enjoy that snow ! happy new year
+   (ID: 2988ee1cd7a2bcf8e2d215c795ee2d06a985665a)
+
+7. i ' ve never been on a cruise and i don ' t think i ever will . but that was damned entertaining . nawimsayin ?
+   (ID: c3b51ad627b2162cac848c7fadd53da61827346a)
+
+8. maybe he was checking that you have proof of sufficient amount of money to sustain yourself while staying in that country , aren ' t a lot of european countries pretty strict with that sort of thing ?
+   (ID: a04ffec23ab9c2af8d4ac433e06db2b5d1b4bf9b)
+
+9. I'm interested in cats.
+   (ID: 4f26e00e0769f7123ce8a1a0d11a5e285c445ec3)
+
+10. I have a dog as a pet.
+   (ID: 68b48505d5f7a16cf14847c82fff612e6bd59090)
+
+11. I'm interested in lgbt.
+   (ID: fe56409176d2a6089f323227d5b07061f851d63b)
+
+12. I live in adachiku.
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+13. I live in netherlands.
+   (ID: fd98a0804e382a144d76dd9fdb6ff8323a9d6b21)
+
+14. I'm interested in pets and animals.
+   (ID: 0254dc2f43007419c5c3fd1e155e6bf15fce137d)
+
+15. I'm interested in relationships.
+   (ID: bf662bc559367d8b6475102fe891d5e4eb072ffd)
+
+16. I own a introversion.
+   (ID: 1ebb4643f7e1e4d41ee2503d9b5d94ed0224c96b)
+
+17. kamiladavies   i am a bot that helps link to subreddits .   i also keep an archive of all boutinela posts  stories at  boutinelafeed .
+   (ID: 63a01bcbc0844858aae3db187005728f6c6af2cb)
+
+18. all of them . all meals i ' ve never eaten i will never be able to recreate .
+   (ID: c3b51ad627b2162cac848c7fadd53da61827346a)
+
+19. I'm interested in finance.
+   (ID: e8fea87ced4a86b7ba9c50ae33cf5b3dda99af88)
+
+20. i like this . here is my take  professor hulk uses starks version of the infinity gauntlet to bring everyone back , captain america uses mjolnir to fight thanos , captain america finally says avengers assemble , and the combined avengers defeat thanos and his army . also , stark hugs peter when he sees him alive for the first time and peter says " huh , this is nice " . we even get a scene during the time travel sequence where the future captain america fights the past captain america . the captain america from the past says " i can do this all day " and the future captain america says " i know " . also , spoilers .
+   (ID: e91d4ec377d82dfdf21d71b4dc685a96ed60ea3d)
+
+
+--- PersonaChat ---
+Total from this dataset: 479
+
+1. i've a pet snake .
+   (ID: conversation_92)
+
+2. my hair is short .
+   (ID: conversation_186)
+
+3. i ve never been to the city .
+   (ID: conversation_42)
+
+4. i own a pug , and he is the most loyal pet you will ever have .
+   (ID: conversation_43)
+
+5. we have two kids .
+   (ID: conversation_134)
+
+6. i have two dogs .
+   (ID: conversation_268)
+
+7. i love book .
+   (ID: conversation_347)
+
+8. i grew up in the deep south .
+   (ID: conversation_302)
+
+9. my father was also in the military .
+   (ID: conversation_89)
+
+10. i am a vegan .
+   (ID: conversation_282)
+
+11. my dog is smaller than my cat .
+   (ID: conversation_85)
+
+12. i own four german shepherds .
+   (ID: conversation_292)
+
+13. my mother is dead .
+   (ID: conversation_332)
+
+14. i want to be in a band someday .
+   (ID: conversation_44)
+
+15. although i m studying to be a doctor , animals like me .
+   (ID: conversation_301)
+
+16. my dream is to own my own restaurant .
+   (ID: conversation_272)
+
+17. i met my birth mother when i was sixteen .
+   (ID: conversation_180)
+
+18. i've three daughters .
+   (ID: conversation_297)
+
+19. i'm a night owl .
+   (ID: conversation_164)
+
+20. my favorite book is the tale of genji .
+   (ID: conversation_323)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 999
+
+1. My favorite food is a cheeseburger.
+   (ID: conversation_290_user_1)
+
+2. I have 2 sisters.
+   (ID: conversation_177_user_1)
+
+3. I ve a dog.
+   (ID: conversation_70_user_1)
+
+4. I am bloated.
+   (ID: conversation_30_user_1)
+
+5. I live alone.
+   (ID: conversation_297_user_1)
+
+6. I love dogs.
+   (ID: conversation_77_user_1)
+
+7. I was an army brat.
+   (ID: conversation_180_user_1)
+
+8. My favorite food is mashed potatoes.
+   (ID: conversation_204_user_1)
+
+9. I am a vegan.
+   (ID: conversation_195_user_1)
+
+10. I ve an iphone.
+   (ID: conversation_14_user_2)
+
+11. I am very shy.
+   (ID: conversation_222_user_2)
+
+12. I lease my car.
+   (ID: conversation_5_user_1)
+
+13. I am a vegan.
+   (ID: conversation_191_user_1)
+
+14. I draw comics.
+   (ID: conversation_340_user_1)
+
+15. I like dogs.
+   (ID: conversation_121_user_1)
+
+16. I love book.
+   (ID: conversation_129_user_1)
+
+17. I have a golden retriever.
+   (ID: conversation_324_user_2)
+
+18. I am from mexico.
+   (ID: conversation_188_user_2)
+
+19. I am a vegan.
+   (ID: conversation_217_user_1)
+
+20. I am buying a house.
+   (ID: conversation_184_user_2)
+
+
+============================================================

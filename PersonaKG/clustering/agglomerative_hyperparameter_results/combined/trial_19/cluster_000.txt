@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 35195
+
+Dataset distribution in this cluster:
+  FoCus: 963 (2.7%)
+  MPChat: 2743 (7.8%)
+  MSC: 1677 (4.8%)
+  PEC: 15240 (43.3%)
+  PER-CHAT: 11683 (33.2%)
+  PersonaChat: 969 (2.8%)
+  SyntheticPersonaChat: 1920 (5.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 963
+
+1. I have an interest in football.
+   (ID: GHAH3LR3KR67_11)
+
+2. I would like to visit Suffolk.
+   (ID: HWMW6AUW4UTK_11)
+
+3. I am impressed by Strawberry Hill Gothic.
+   (ID: 8C87PLCFQ0ZH_11)
+
+4. I would like to know the description.
+   (ID: PSAPP3TRHUMW_11)
+
+5. I am interested in volunteer work.
+   (ID: 942CCWXHPUZT_11)
+
+6. I am a sports fan.
+   (ID: MX05X059ETMG_11)
+
+7. I like Rhine river.
+   (ID: EUD8WT84YX0Q_11)
+
+8. I am going to Illinois for work.
+   (ID: EDLPKHWH3K5B_11)
+
+9. I like cars.
+   (ID: PKTFMWPHB1E3_11)
+
+10. I would like to visit Banja of Peja at the end of the year.
+   (ID: LYYSTNQ9MBLY_11)
+
+11. I would like to enjoy matches in flood lighting.
+   (ID: VZ1O6OE23O98_11)
+
+12. I have visited Austria many times.
+   (ID: YLLQOXHD6MZC_7)
+
+13. I have attended a few music concerts.
+   (ID: WKAD0PJA14Q4_11)
+
+14. I hope to travel to many football stadiums across the globe and interact with fans.
+   (ID: UVWYNJ9N0J17_11)
+
+15. I have seen aquariums.
+   (ID: L6JH57TIZGRW_11)
+
+16. I like history.
+   (ID: NOJ4G30KI3T7_11)
+
+17. I am not Greek.
+   (ID: VB4LDHWFQAVH_11)
+
+18. I would like to visit Hungary.
+   (ID: W4CQPY8R6C4Q_11)
+
+19. I want to visit Pennsylvania.
+   (ID: IBKUIXV3M06F_7)
+
+20. I have never been to any amusement park outside of England.
+   (ID: PFYAAS1XG3D8_11)
+
+
+--- MPChat ---
+Total from this dataset: 2743
+
+1. look at what i've created: this is boitatá, based on a brazilian's folkloric creature.
+   (ID: Ploliveira)
+
+2. cupcakes i made for the ribbon cutting of a new mobile video game business.
+   (ID: MrsTheJones)
+
+3. homemade strawberry macarons that my wife made for me and my coworkers!
+   (ID: 05twister)
+
+4. my 10 year old made this star destroyer from memory.
+   (ID: youngdad33)
+
+5. my coworkers liked my cup sleeve so much they asked for their own :)
+   (ID: ddizzle23)
+
+6. my poodle falling asleep with her koala
+   (ID: av929)
+
+7. customer asked for a "giant brownie" and this is what i delivered.
+   (ID: ellielumos)
+
+8. i mostly made plarn but started a mat too.
+   (ID: Chris55730)
+
+9. i am loving this ombre!
+   (ID: Sophie74656)
+
+10. my first finished object for this week is another green sheep.
+   (ID: Moriarty58)
+
+11. i wanted to share a couple origami dripper art pieces that i made into stickers recently!
+   (ID: nickeymousee)
+
+12. crocheted unicorns with veriegated rainbow manes that i made
+   (ID: KnitPurlPrint)
+
+13. i was pretty happy with this oat milk pour.
+   (ID: BeastaBubbles)
+
+14. just completed my very first wedding cake themed to reflect the canyon where the couple tied the knot yesterday.
+   (ID: SugarHighBakedGoods)
+
+15. still struggling getting my buttercream nice and smooth but happy with this one!
+   (ID: paintingpajamaspink)
+
+16. i had so much fun making this rainbow cake!
+   (ID: Finntastic)
+
+17. may or may not be hoarding all my limited edition, practically empty vaselines.
+   (ID: ellielumos)
+
+18. my lil baby karma enjoying some lazy morning snuggles.
+   (ID: TranerGarvis)
+
+19. i've barely ever crocheted but i made a triangle and i'm proud of myself
+   (ID: alnomds)
+
+20. this is big foot bobby named after my dad!
+   (ID: Louiesloops)
+
+
+--- MSC ---
+Total from this dataset: 1677
+
+1. My sister died.
+   (ID: dialog_77_speaker_2)
+
+2. I like travelling for leisure.
+   (ID: dialog_82_speaker_1)
+
+3. I am fairly good with English and grammar skills in general. I have a very good recipe for corn and bean salad.
+   (ID: dialog_86_speaker_1)
+
+4. I have a boat. Boating is one of my favorite activities.
+   (ID: dialog_80_speaker_1)
+
+5. I am a runner.
+   (ID: dialog_40_speaker_1)
+
+6. I like to make miniatures.
+   (ID: dialog_26_speaker_1)
+
+7. I can read a book in one day.
+   (ID: dialog_5_speaker_1)
+
+8. I like to bake pies.
+   (ID: dialog_49_speaker_1)
+
+9. I am taking college courses.
+   (ID: dialog_87_speaker_2)
+
+10. I want to be in a band someday.
+   (ID: dialog_44_speaker_2)
+
+11. My cellular device is my life line.
+   (ID: dialog_49_speaker_2)
+
+12. I will start working at a new place of employment soon.
+   (ID: dialog_91_speaker_2)
+
+13. My dog's breed is Siberian Husky.I had a dog named Sally. I want a cat soon.
+   (ID: dialog_34_speaker_1)
+
+14. I call the ghetto home.
+   (ID: dialog_36_speaker_1)
+
+15. I've a hard time seeing.
+   (ID: dialog_34_speaker_2)
+
+16. I identify as trans.
+   (ID: dialog_23_speaker_2)
+
+17. I like large bodies of water.
+   (ID: dialog_63_speaker_1)
+
+18. I like to watch sports.
+   (ID: dialog_9_speaker_1)
+
+19. I study to be a businessman.
+   (ID: dialog_7_speaker_2)
+
+20. I teach animals for my career.
+   (ID: dialog_66_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 15240
+
+1. i 'm sure you are !
+   (ID: lovestheautumn)
+
+2. i 'm afraid it was .
+   (ID: zsnajorrah)
+
+3. i still laugh at " gimme nuculer secrets "
+   (ID: wooq)
+
+4. i like getting one of them with a shaman bone blade and watching them beat each other up .
+   (ID: nastylittleman)
+
+5. i 'd buy that so hard !
+   (ID: JohnnyPappis)
+
+6. i was craving caesar salad and broccoli ....
+   (ID: bleepblorp9878)
+
+7. i hope this is on the ass of the world 's grandest slut .
+   (ID: Evref)
+
+8. i was expecting them to get shot , as trigger happy as cops seem to be nowadays .
+   (ID: I_am_not_a_Taco)
+
+9. i wish i could see it
+   (ID: Montag3636)
+
+10. i 'd trash some walls if i could ~~buy~~ afford one of these ...
+   (ID: conservative_poly)
+
+11. i 'll try to catch the next drawing one .
+   (ID: KikAtWorkFL)
+
+12. i played infinite first , and i just finished playing the original bioshock today .
+   (ID: Megan_Bee)
+
+13. i 'm inclined to think it might develop depression .
+   (ID: Shrub74)
+
+14. i appreciate the support :) . and that was not sonic .
+   (ID: Kialand)
+
+15. i just added you , btw .
+   (ID: CheapyPipe)
+
+16. i mean , it 's still new , it 's just fucked up .
+   (ID: trav110)
+
+17. i 'm fairly certain the pain is originating in my kidney .
+   (ID: bbakks)
+
+18. i ’m a 41 year old woman and i want this for my birthday !
+   (ID: 11_29_77)
+
+19. i need to remember , palms down and do n't cross legs when i land .
+   (ID: Lifes6Midnight)
+
+20. i 'm ok with that .
+   (ID: chasemyers)
+
+
+--- PER-CHAT ---
+Total from this dataset: 11683
+
+1. i ' m a bit confused on what your asking but i ' m going to assume your asking can you use your vive without your monitor plugged into your gpu ? if that is what your asking idk about vive but if your pc is on and you use a rift it puts you into a launch screen type thing so if the vive has that then yeah you can .
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+2. how about you chop your hand off and do it yourself ?  nbsp  edit  i know how to run a joke into the ground when i see one .
+   (ID: eab4b13c25e8e05018f7cb7159b0e36614341438)
+
+3. i figure if you don ' t leave me a message . then you don ' t actually want to speak w me .
+   (ID: 97c35f21c6a14bb50b6faae9a7b18cd5968c350c)
+
+4. hey ! nice . better than photoshopping a meme in digit minutes for nothing . so how did you do it ? do i need to farm karma here or anywhere else is fine ? does my account need to super old ?
+   (ID: 4381fa1a63289663c5683187c0d07eadf81abfc2)
+
+5. wouldn ' t you like to know , huh ?
+   (ID: 795c678726f71492166b6677c955ce0a48a9b294)
+
+6. in the previous week we talked about dreams and falling teeth is not something good as far as i remember . go check it out mate .
+   (ID: 73cbf17c3a84102fdc5b18efc6bc4cacd841961c)
+
+7. I own a suggestion.
+   (ID: c9b1e924c86788c982ec59df3d5704354a2a4ae1)
+
+8. hey , i know there ' s a thousand other comments on here , but just wanted to say real quick that you didn ' t do anything wrong . dude sounds like a hassle to say the least , and anyone who is willing to flip on you and humiliate you online is not someone you should be wasting your time with . that ' s some immature , disrespectful , petty shit . it seems like you feel guilty to an extent , which i understand , but don ' t linger on the guilt . once it passes you ' ll realize you did yourself a favor by setting some standards of what you will and won ' t put up with . lots of people choose to stay unhappy in their relationships and that is an unhealthy way to live .
+   (ID: cb830ff94bb369e5db655e15ee074f392a52c14f)
+
+9. plays in professional women ' s league is allowed to kneel during national anthem is allowed to verbally attack her president openly gay and nobody cares makes more money proportionally than the men ' s team digit  vs digit  of what they bring in still feels wronged the left will never be happy
+   (ID: 0d5c70b45072ef9ffc8fb257e4775e8302391e3c)
+
+10. you sound amazing . i ' m sure you are stronger than you think .
+   (ID: 0254dc2f43007419c5c3fd1e155e6bf15fce137d)
+
+11. jesus worries about other people and died horrifically to save them . what are we doing ? why should we be comfortable ?
+   (ID: 2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4)
+
+12. I have a brother in my family.
+   (ID: 4cd63391f1644eb1dde02717bf6a72fc6c22acc7)
+
+13. you try you will get a good shape . what about chapati you asked ?
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
+
+14. I am positive leader skills work.
+   (ID: 2a4bb889e40b61bb1755181c2b46750d3a082604)
+
+15. I own a phone.
+   (ID: 5dc1e0203cb86a245c4ede5cb73923b295b1fdc8)
+
+16. I have a mother in my family.
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+17. I'm interested in fashion and beauty.
+   (ID: ea3b9395602c702397d514c6da7049b089458032)
+
+18. i assume they masturbate if they feel the urge . if you are an a list celebrity , you can ' t just hook up whenever you want because people will know who you are eventually .
+   (ID: 1aa2a9bdfead7897363f32a7bc9e416ca9098b9f)
+
+19. day digit  got the patch test added to my back . it was kind of annoying at first because of how it felt like my back had a brace on it . my shirts kept getting stuck on the tape as well . day digit  my shirts still got stuck on the tape , but i figured out how to lay down with it on . the tape started to itch really badly . day digit  i was told that i was smelly by my brother , but other than that i was fine . the tape was really itchy at night , but i just ignored it . day digit  i went and got the test removed . removinf the tape felt like a wax and was very uncomfortable but it wasn  t that bad . i had a lot of tape irritation . the only patch that my doctor is concerned with is  digit hydroperoxides of linalool , commonly found in fragrances , cosmetics , and hygiene products . i was told to wait a couple of days and to see if it got any worse because right now they can  t say for sure that it is a positive match . the other splotches are either dyes or common reactions , like polka dots from cobalt . i went out and bought fragrance free shampoo  shaving cream . now i just got to convince my girlfriend to do something similar . i hope you all are fighting the good fight ! don  t hate yourself because of eczema ! it  s just your body is confused and fighting itself ! don  t worry ! be happy !
+   (ID: c374848a7cde05ee9d6d14f7ab991b3b11f71a87)
+
+20. that ' s different
+   (ID: 41d66f92509db20d202cca3f348509c6cd25586b)
+
+
+--- PersonaChat ---
+Total from this dataset: 969
+
+1. i enjoy watching videos on youtube .
+   (ID: conversation_174)
+
+2. i play piano .
+   (ID: conversation_186)
+
+3. i enjoy hiking and riding my bicycle .
+   (ID: conversation_164)
+
+4. i don't like feeling controlled .
+   (ID: conversation_147)
+
+5. i am a violinist .
+   (ID: conversation_100)
+
+6. i'm strong .
+   (ID: conversation_96)
+
+7. i watch a lot of tv .
+   (ID: conversation_33)
+
+8. i have ink stains on all my shirts .
+   (ID: conversation_31)
+
+9. i graduated with a statistics degree .
+   (ID: conversation_158)
+
+10. i drive a ford taurus .
+   (ID: conversation_123)
+
+11. my mother is a dentist .
+   (ID: conversation_161)
+
+12. i have a severe phobia of wide open spaces .
+   (ID: conversation_181)
+
+13. i m currently in nursing school .
+   (ID: conversation_200)
+
+14. i just graduated college with my bachelor s degree in education .
+   (ID: conversation_216)
+
+15. i listen to metal music .
+   (ID: conversation_187)
+
+16. i'm an environmental activist .
+   (ID: conversation_83)
+
+17. i recently had a private lunch with will ferrell .
+   (ID: conversation_227)
+
+18. i've several siblings i don t know .
+   (ID: conversation_180)
+
+19. my brother is in the army .
+   (ID: conversation_99)
+
+20. i've borderline personality disorder .
+   (ID: conversation_106)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1920
+
+1. I am vegan.
+   (ID: conversation_45_user_1)
+
+2. I hope to move out soon.
+   (ID: conversation_16_user_2)
+
+3. I read ebooks more than hardcopies.
+   (ID: conversation_69_user_1)
+
+4. I am young.
+   (ID: conversation_52_user_1)
+
+5. I have a big family.
+   (ID: conversation_151_user_1)
+
+6. I am a vegan.
+   (ID: conversation_212_user_1)
+
+7. I like to paint.
+   (ID: conversation_113_user_2)
+
+8. I like gardening.
+   (ID: conversation_169_user_2)
+
+9. I play the bass.
+   (ID: conversation_160_user_2)
+
+10. I like cars.
+   (ID: conversation_110_user_1)
+
+11. I am studying to be a dental hygienist but i hate seeing patient s saliva.
+   (ID: conversation_157_user_2)
+
+12. I am single.
+   (ID: conversation_95_user_1)
+
+13. I flirted with the dmv officer in order to pass my driving exam.
+   (ID: conversation_233_user_2)
+
+14. I have a cat named jasper.
+   (ID: conversation_215_user_1)
+
+15. I run more then 2 miles a day even though i hate it.
+   (ID: conversation_180_user_2)
+
+16. I met my husband when i was a freshman in college.
+   (ID: conversation_32_user_1)
+
+17. I am working in finance.
+   (ID: conversation_123_user_1)
+
+18. I am funny.
+   (ID: conversation_31_user_1)
+
+19. I will work hard for whatever i want.
+   (ID: conversation_66_user_2)
+
+20. I am athletic.
+   (ID: conversation_133_user_1)
+
+
+============================================================

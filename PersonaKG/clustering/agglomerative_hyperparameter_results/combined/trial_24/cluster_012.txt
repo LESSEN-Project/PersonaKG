@@ -1,0 +1,467 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 4817
+
+Dataset distribution in this cluster:
+  FoCus: 62 (1.3%)
+  MPChat: 164 (3.4%)
+  MSC: 86 (1.8%)
+  PEC: 3085 (64.0%)
+  PER-CHAT: 1261 (26.2%)
+  PersonaChat: 62 (1.3%)
+  SyntheticPersonaChat: 97 (2.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 62
+
+1. I wouldn't like to be in a flood.
+   (ID: GC9BAJTK54F1_11)
+
+2. I hate coal.
+   (ID: YWRU353H4NFF_11)
+
+3. I am willing to see Kleinglockner pinacle.
+   (ID: YLLQOXHD6MZC_7)
+
+4. I am not a fan of church.
+   (ID: OKU8UQBPUSMV_11)
+
+5. I often buy beauty products.
+   (ID: NR67D1SY5ZKB_11)
+
+6. I wouldn't like to be in a prison.
+   (ID: OJ5U23I3FV0N_11)
+
+7. I do not like French Gothic.
+   (ID: 9IFEU12EAOWB_11)
+
+8. I love Warragamba Emergency Scheme.
+   (ID: KHRYE9OFUIMW_9)
+
+9. I hate Lord Dudley.
+   (ID: 72MY00U8UEGB_11)
+
+10. I hate people and companies damaging the wildlife and environment of national parks.
+   (ID: LEW58VG9I78X_11)
+
+11. I have climbed a mountain.
+   (ID: QTNNKQN2EVU5_11)
+
+12. I don't like casinos.
+   (ID: 9KDV6LSLWNAX_11)
+
+13. I have heard of the Otomi.
+   (ID: ZWQO9OQ8DX45_11)
+
+14. I like the organ.
+   (ID: 9IFEU12EAOWB_11)
+
+15. I don't like Walpole.
+   (ID: 8C87PLCFQ0ZH_11)
+
+16. I wouldn't like to live in a Castle.
+   (ID: YB6ZF4SJI3P1_11)
+
+17. I have attended a few music concerts.
+   (ID: WKAD0PJA14Q4_11)
+
+18. I don't like the high temperatures associated with pyroclastic flows.
+   (ID: G4JZMW0OPV0G_11)
+
+19. I don't like golf.
+   (ID: CXUYRK4MA1NB_11)
+
+20. I hate the Vietnam War.
+   (ID: TGZJNX488SLV_11)
+
+
+--- MPChat ---
+Total from this dataset: 164
+
+1. far from perfect and i've learnt a lot
+   (ID: hellywelly)
+
+2. found a nice way to display my keychains
+   (ID: Sophie74656)
+
+3. seriously now, first time using a banneton and i kept peeking and prodding.
+   (ID: Rosiebelleann)
+
+4. super excited about my new book!
+   (ID: gxnelson)
+
+5. took this shot at my cafe today.
+   (ID: SilentRansom)
+
+6. dear my beloved little rhatt: your time is done, your line is flat.
+   (ID: green-egg-and-ham)
+
+7. so not as good as my chicks and carrots but still just as terrified looking
+   (ID: Cantwa1t)
+
+8. my other handsome boy doing the sleepy half front curl.
+   (ID: smsikking)
+
+9. i think i might have a problem
+   (ID: green-egg-and-ham)
+
+10. and so i ran.....
+   (ID: Rosiebelleann)
+
+11. i was accidentally allowed in to joanns unsupervised this morning...
+   (ID: SarahFree339)
+
+12. orange you glad i didn't crochet a banana?
+   (ID: Ichishiro)
+
+13. some of you asked for my progress.
+   (ID: Nutellism)
+
+14. my boyfriend knows me so well deborah lippmann for christmas!
+   (ID: gxnelson)
+
+15. had to make my b.l.t.
+   (ID: cookinwithclint)
+
+16. i'm so excited to dive in.
+   (ID: mattsulli)
+
+17. meet the new addition to my home, bane.
+   (ID: bakedNdelicious)
+
+18. i built a church.
+   (ID: kduluth)
+
+19. ok... i think this is getting a little out of hand... it's only june
+   (ID: mashedtatoes88)
+
+20. one day i will get a photo of president petrie without his tongue out.
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 86
+
+1. I remember movie plots.
+   (ID: dialog_15_speaker_2)
+
+2. I don't like to be around people.
+   (ID: dialog_30_speaker_1)
+
+3. I want to climb with you together.
+   (ID: dialog_43_speaker_2)
+
+4. I think that I am bipolar.
+   (ID: dialog_43_speaker_1)
+
+5. I would enjoy having a dip in the pool.
+   (ID: dialog_55_speaker_2)
+
+6. I am exhausted by work everyday.
+   (ID: dialog_44_speaker_2)
+
+7. I took my cure for the common cold to the lab.
+   (ID: dialog_91_speaker_1)
+
+8. I'm scared of high places.
+   (ID: dialog_66_speaker_1)
+
+9. I don't like winter. I train horses for a living.
+   (ID: dialog_66_speaker_2)
+
+10. I am afraid of heighs.
+   (ID: dialog_67_speaker_1)
+
+11. I am very talkative which can get me in trouble.
+   (ID: dialog_72_speaker_1)
+
+12. I am deathly afraid of halloween costumes.
+   (ID: dialog_17_speaker_2)
+
+13. I'm bound to a wheelchair.
+   (ID: dialog_32_speaker_2)
+
+14. I was on the pom pon squad as a teen.
+   (ID: dialog_76_speaker_1)
+
+15. I often enter a room only to stop and wonder why I came there.
+   (ID: dialog_37_speaker_2)
+
+16. I've been feeling depressed.
+   (ID: dialog_64_speaker_1)
+
+17. I started a club in High School.
+   (ID: dialog_90_speaker_2)
+
+18. I think I found the cure for the common cold while I was in the shower.
+   (ID: dialog_91_speaker_1)
+
+19. I sometimes forget to take my medication to help stabilize my mood. I sometimes forget to bring my medication with me when I go out.
+   (ID: dialog_43_speaker_1)
+
+20. I am worried about school shootings.
+   (ID: dialog_91_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3085
+
+1. i fell asleep .
+   (ID: conservative_poly)
+
+2. i denied the holocaust .
+   (ID: harumpf)
+
+3. i did n’t .
+   (ID: kitcatpaints)
+
+4. i can neither confirm nor deny your solution would work .
+   (ID: CuriousBlueAbra)
+
+5. i 'm gon na save all my pee for kissinger .
+   (ID: Shrub74)
+
+6. i love that description : p . alsoyou'rereallypretty .
+   (ID: Nolanoscopy)
+
+7. i got to meet this cutie at go fest
+   (ID: QueenPea13)
+
+8. i 'm sure you can upvote twos and threes as well .
+   (ID: zsnajorrah)
+
+9. i wish i remembered more of the details .
+   (ID: ifatree)
+
+10. i was tired of playing the game of cat and mouse .
+   (ID: _gansmadchen)
+
+11. i think i died a bit just from reading the bold in your post .
+   (ID: cookiexcmonster)
+
+12. i hope there 's a recap of punk coming to the ring ! !
+   (ID: aydinsevimli)
+
+13. i do n't want a fookin tombstone ! ! !
+   (ID: mbw1960)
+
+14. i have no pressure now ; no deadlines .
+   (ID: zsnajorrah)
+
+15. i guess i did n't really realize how far that really was .
+   (ID: HugePurpleNipples)
+
+16. i 'd rather not let my secret place out .
+   (ID: CheapyPipe)
+
+17. i just spat pepsi max everywhere !
+   (ID: SeasonedLemur)
+
+18. i was watching and i somehow missed it .
+   (ID: SerendipitousCat)
+
+19. i would * love * to have an english or american accent when i speak english .
+   (ID: Sabiola)
+
+20. i just told you ...
+   (ID: ProJokeExplainer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1261
+
+1. i have signs above my chests but i still be like i want one thing from here and another from there
+   (ID: 10f3c4c68efa9cd11f34f4a88f492c7d7e693418)
+
+2. i see nothing wrong with this .
+   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
+
+3. how would you know if you ' re having sex .
+   (ID: 3e510494aac4d4cfd98d8ee4e7b04dffd5534bee)
+
+4. baby on life support , doctors ask us , " what do you want to do "
+   (ID: de5db66359e6314e9bac24fd9a10ec1d49584c4f)
+
+5. either you ' ve got a really skewed idea of how people are prepped for burial or no idea how taxidermy works
+   (ID: 7921460db376d8f318b71729dcd4931f12a1d0c9)
+
+6. i think that there is a trade off being a public persona and private persona off of camera . one ' s disguise has to be really good or the pressure to be constantly ' on ' can get to even the most seasoned celebrities . i think it would suck to be constantly hounded by people  but if done right then people would think you were cool no matter what for no reason . really it ' s a double  edged sword with trust and complicated social dynamics based  out of trust and exposure .
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+7. think about what i can feasibly do , and do that , little things that help can go a long way to help your conscious
+   (ID: b67c2fd697e30c5d26fcd88baa61d8bbcce5ec1c)
+
+8. i confirmed it the first time i licked a box . def hetero .
+   (ID: ac1ceb388a2e170941cb682c48398cacc87c5019)
+
+9. when you realize what you are looking at , it hits your heart like a brick . i was listening to " this woman ' s work " kate bush version when i clicked on your post . whew !
+   (ID: 259e025807a2eee6eaf38242805e7dfc46aaa91f)
+
+10. one of these things are not like the others .
+   (ID: 5a485308ca6e36eb17d7b0fc321fcf7695f3af53)
+
+11. its like you know me . have another upvote .
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+12. maybe  why the hell do we bother posting for likes etc if karma is just imaginary internet points that don ' t mean anything in the real world ?
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
+
+13. never lived with a roommate .
+   (ID: 472de55a2855849453179c0ccb5234c4ea9d1192)
+
+14. if you  re asking yourself these kinds of questions i think you already have the answer .
+   (ID: 3a16ba639560d155caf77e9cfc21f6a1df031d4f)
+
+15. i was the oddball . i would mess around a lot , and sometimes i try to socialize with flies at lunch because someone told me not to be scared of them .
+   (ID: 1e92f1e007a1c147f8200d50f473d5433028bffc)
+
+16. glad we ' re on the same page in this technological age i think more people are looking into names and most people will check what they mean , but they ' ll always be some .
+   (ID: 101eeb53846c81b36d32c33e2b4260cb3e4ac576)
+
+17. yeah , i know it ' s the hardest and worst but i simply want it . the why ? i already played a dozen worlds to where i was starting to mine iron , and this stupid black bronze has always eluded me . the most i ever managed to make were digit tools at any one given time . i refuse to progress further until i get this .
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+18. context matters . being around your crush is different from being around your boss . crushing on someone means that you ' re in love with them by definition . he is so messed up that he doesn ' t even know when he ' s in love  has a crush . how do ypu know when you ' ve got a crush ?  when you notice butterflies around your crush that  s probably one way you can tell you like them . this is a tautology .  you can also pay attention to the thoughts you are having also an internal experience only you would know about unless you express it out loud to another individual thereby making op  s question valid around your crush . if you  re having the thought that  she  he is really beautiful  handsome  . . . in conjunction with experiencing butterflies in that setting . you mean like when her jealous boyfriend is coming towards me to knock the shit put of me ? or when this beautiful chick is serving me a warrant ?  or  i love being around so and so  how do i know that i love being around them ?  that will help you personally differentiate between the two  butterflies because you  re nervous  scared vs butterflies because you feel love . what does love feel like ?  also never become a psychologist . . . . you  d probably make no money and help no one . like the folks at psychology today ?  it  s not very difficult to tell you  re not a psychologist and don  t work in that field by your comments anyway . digit emotional intelligence . i ' m a psychologist . i ' m always helping people with their emotional problems , looking at new ideas , and experimenting .
+   (ID: ab9a3fa39c7ebd1066697c2d7027afe2422d5ac7)
+
+19. litterally just whatever i ' m thinking at the time , maybe it ' s just me but i always run scenarios through my head , decisions i ' ve made what ' s happening ect and so whenever i sit down been mostly writing in it while i eat lunch and just before bed  like right now i just write whatever i ' m thinking , my entry for today is digit pages already of a5 paper . part of it is just talking about a conversation i had at work and how i was being stupid , it might seem weird but writing down concerns about how i messed something up helps me realise it really wasn ' t a big deal , like at all . also just been keeping track of what im looking forward to , relationships with certain people stuff like that .
+   (ID: ced909c5cb6ff0568a08e4114fa46116da622fa1)
+
+20. how to self heimlich if you are choking .
+   (ID: 2ce191fd1043183c73daf2ab41afee9b122fd42b)
+
+
+--- PersonaChat ---
+Total from this dataset: 62
+
+1. i am colorblind .
+   (ID: conversation_109)
+
+2. i lived most of my life not knowing who bob marley was .
+   (ID: conversation_229)
+
+3. i have three tattoos .
+   (ID: conversation_90)
+
+4. i wish i knew where i belonged .
+   (ID: conversation_66)
+
+5. i should beverage been born a prince .
+   (ID: conversation_54)
+
+6. i escaped and later became a carpenter .
+   (ID: conversation_127)
+
+7. i hate winter .
+   (ID: conversation_244)
+
+8. i just dyed my hair hot pink with purple highlights .
+   (ID: conversation_149)
+
+9. i never learned how to swim .
+   (ID: conversation_116)
+
+10. i wear contacts .
+   (ID: conversation_72)
+
+11. i traveled around the world in a boat .
+   (ID: conversation_60)
+
+12. i'm disabled and cannot walk .
+   (ID: conversation_183)
+
+13. i've been in 2 car crashes in my life .
+   (ID: conversation_191)
+
+14. i wear contacts .
+   (ID: conversation_194)
+
+15. i think i might need help .
+   (ID: conversation_159)
+
+16. i don t like the beach .
+   (ID: conversation_94)
+
+17. i've three tattoos .
+   (ID: conversation_56)
+
+18. i hit for over forty million dollars .
+   (ID: conversation_208)
+
+19. i was a slave for 10 years .
+   (ID: conversation_127)
+
+20. sometimes , i sit by strangers on the subway and strike up a conversation .
+   (ID: conversation_220)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 97
+
+1. I talk in my sleep.
+   (ID: conversation_249_user_2)
+
+2. I am bipolar.
+   (ID: conversation_231_user_1)
+
+3. I have never kissed a woman.
+   (ID: conversation_214_user_2)
+
+4. I am afraid of spiders.
+   (ID: conversation_186_user_1)
+
+5. I am afraid to leave the house.
+   (ID: conversation_68_user_2)
+
+6. I am blind.
+   (ID: conversation_28_user_1)
+
+7. I do not like coffee.
+   (ID: conversation_12_user_2)
+
+8. I wear glasses all day.
+   (ID: conversation_170_user_1)
+
+9. I do not like my reputation.
+   (ID: conversation_187_user_2)
+
+10. I never learned how to swim.
+   (ID: conversation_117_user_2)
+
+11. I am too short to reach the top shelf.
+   (ID: conversation_231_user_2)
+
+12. I m easily agitated.
+   (ID: conversation_106_user_2)
+
+13. I have been held hostage in a store robbery situation.
+   (ID: conversation_216_user_2)
+
+14. I have three tattoos.
+   (ID: conversation_146_user_2)
+
+15. I work too many hours in a week.
+   (ID: conversation_204_user_2)
+
+16. I look down on people who did not.
+   (ID: conversation_182_user_2)
+
+17. Like a skeleton.
+   (ID: conversation_29_user_1)
+
+18. I traveled around the world in a boat.
+   (ID: conversation_194_user_1)
+
+19. I prefer the simpler times.
+   (ID: conversation_224_user_2)
+
+20. I am a terrible speller.
+   (ID: conversation_79_user_2)
+
+
+============================================================

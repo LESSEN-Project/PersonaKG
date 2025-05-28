@@ -1,0 +1,455 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 3456
+
+Dataset distribution in this cluster:
+  FoCus: 211 (6.1%)
+  MPChat: 16 (0.5%)
+  MSC: 231 (6.7%)
+  PEC: 419 (12.1%)
+  PER-CHAT: 2246 (65.0%)
+  PersonaChat: 132 (3.8%)
+  SyntheticPersonaChat: 201 (5.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 211
+
+1. My uncle lives in England.
+   (ID: QLDCXP7YJP9Q_11)
+
+2. I am Jewish.
+   (ID: DSK4ZP7S862W_11)
+
+3. I am Anglican.
+   (ID: G1IQ2JHFB47F_11)
+
+4. I'm on vacation in New York.
+   (ID: PNIMGSDW8PY2_9)
+
+5. I am from Montreal.
+   (ID: D0BKN1W8KWG6_7)
+
+6. I don't know Cheshire.
+   (ID: 6JXMJ0KGXDGI_11)
+
+7. I have relatives in Wales.
+   (ID: QC5LXWBDY6EM_11)
+
+8. I am from the United States.
+   (ID: 6J40PNLBFR2V_11)
+
+9. I grew up in the suburbs.
+   (ID: DSK4ZP7S862W_11)
+
+10. I do not wish to live in Pennsylvania.
+   (ID: M6QLMFHJ3CAF_11)
+
+11. I am not Canadian.
+   (ID: QTNNKQN2EVU5_11)
+
+12. I am a follower of Islam.
+   (ID: D0KVGN5X78BU_11)
+
+13. I am from England.
+   (ID: T9JPYSSWD7NW_11)
+
+14. I have a British accent.
+   (ID: UUN7SKTZQ38T_7)
+
+15. I am staying in Manhattan.
+   (ID: KLWOSNBHG320_11)
+
+16. I live in East Sussex.
+   (ID: VWS66D8OLB4G_9)
+
+17. I am from Australia.
+   (ID: 9IUBDDZBGMIC_11)
+
+18. I am interested in war.
+   (ID: W67GZU3ZXI46_9)
+
+19. I am English.
+   (ID: XXU24CBOXMRE_7)
+
+20. I have a friend from Germany.
+   (ID: R5EJNE152Y8L_11)
+
+
+--- MPChat ---
+Total from this dataset: 16
+
+1. i finally live in a place where i can walk out my back door and hunt.
+   (ID: ChroniclyDope)
+
+2. this is my backyard, a bit of a slope.
+   (ID: SweetSassyClassy)
+
+3. i love winter, but will miss warm summer nights under the stars [oc] [1600x1146]
+   (ID: garret_weintrob)
+
+4. ozarks here i come!
+   (ID: pope237)
+
+5. view from my apartment rooftop isn’t too shabby.
+   (ID: MafHoney)
+
+6. (just took this outside of my house)
+   (ID: sayuriaiona)
+
+7. i've played a lot of mario kart, sorry oregon
+   (ID: Nerdyredeyejedi)
+
+8. first rosetta i've been happy with!
+   (ID: SilentRansom)
+
+9. all of my friends think nevada is ugly...
+   (ID: evantide)
+
+10. you guys have uranium glass, i have melted glass
+   (ID: zenbuffy)
+
+11. my lab doing lab things in devils lake, wi
+   (ID: FMbutterpants)
+
+12. spinning a web inside my washroom in sw ontario, canada.
+   (ID: ambora)
+
+13. location: in my house, east texas
+   (ID: Nerdyredeyejedi)
+
+14. it was smokey in the pnw but i miss summer!
+   (ID: dudeinthepnw)
+
+15. covid camping over the weekend - pulled out all the shelters - i may have a problem.
+   (ID: reecee)
+
+16. this is my neighbor, sammich.
+   (ID: Flattishsassy)
+
+
+--- MSC ---
+Total from this dataset: 231
+
+1. My boyfriend is in Japan.
+   (ID: dialog_170_speaker_2)
+
+2. I call the ghetto home.
+   (ID: dialog_118_speaker_1)
+
+3. I am from and live in Vancouver, British Colombia.
+   (ID: dialog_33_speaker_1)
+
+4. I hail from the lone star state.
+   (ID: dialog_8_speaker_2)
+
+5. I lived in the country when I was younger.
+   (ID: dialog_167_speaker_2)
+
+6. I live in the suburbs in new jersey.
+   (ID: dialog_95_speaker_2)
+
+7. I live in a studio.
+   (ID: dialog_135_speaker_2)
+
+8. We have relocated a ton.
+   (ID: dialog_21_speaker_1)
+
+9. I reside in manhattan.
+   (ID: dialog_121_speaker_1)
+
+10. I've a home in the suburbs.
+   (ID: dialog_95_speaker_1)
+
+11. I live in Alaska.
+   (ID: dialog_34_speaker_2)
+
+12. I live with my parents. My father has Covid-19, but he is getting better.
+   (ID: dialog_77_speaker_1)
+
+13. My house in in the bronx.
+   (ID: dialog_170_speaker_2)
+
+14. I live in the country.
+   (ID: dialog_15_speaker_2)
+
+15. I live in a nursing home.
+   (ID: dialog_116_speaker_1)
+
+16. Actually, I'm still with my parents.
+   (ID: dialog_175_speaker_2)
+
+17. I live in Nashville.
+   (ID: dialog_117_speaker_2)
+
+18. Although my mother and father both speak with a german inflection, my dialect is strictly american.
+   (ID: dialog_87_speaker_2)
+
+19. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+20. I have a job in a nice neighborhood.
+   (ID: dialog_106_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 419
+
+1. i ’m worried i ’ll lose my deposit .
+   (ID: garlicbreadismyboyf)
+
+2. i 'm in redmond !
+   (ID: Justakiss15)
+
+3. i 'm from rural alberta ... this is a whole new level of fucked
+   (ID: Tjgl)
+
+4. i do n't know man , florida usually gets all the attention for being weird as shit .
+   (ID: sweatervest)
+
+5. i do live near the german border but i ’m not german
+   (ID: mrhenk9)
+
+6. i live in mn .
+   (ID: dkinmn)
+
+7. i live in the uk .
+   (ID: garlicbreadismyboyf)
+
+8. i feel sorry for you in the summer months .
+   (ID: PaperSkinMan)
+
+9. i 'm white , so black is the predominant color .
+   (ID: vivagypsy)
+
+10. i ’ve never been to oregon but i hope to one day
+   (ID: fabs1171)
+
+11. i fucking hate how canada is going ... why do i live here .
+   (ID: SYDWAD)
+
+12. i had it in french as a canadian kid .
+   (ID: Nigelwethers)
+
+13. i 'm way up in canada myself ..
+   (ID: exotics)
+
+14. i 'm american .... am i fucked or do i have a chance ?
+   (ID: thed0ctah)
+
+15. i salute your english .
+   (ID: serverpilot)
+
+16. i just moved from atlanta .
+   (ID: jonmyo11)
+
+17. i 've always liked colorado but thought the price point was too high in most areas .
+   (ID: NyxPeregrinus)
+
+18. i ’m a cunning linguist
+   (ID: jonmyo11)
+
+19. i thought indiana was beautiful in the fall ?
+   (ID: Zarqume)
+
+20. i want this place
+   (ID: Oceanshimmy)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2246
+
+1. I live in city.
+   (ID: 6f291f3688a3a398f92cd165b10b1d3796d86840)
+
+2. I live in place.
+   (ID: d239102bc184479462fc1422e316856d8bca37ba)
+
+3. I live in big kids.
+   (ID: a0295151ec48c51be6978c891260159d3526ed86)
+
+4. I live in london mucus lampards shot.
+   (ID: 2ad50e702ea7ef4cc62a34ca116f658d564c0474)
+
+5. I live in big city.
+   (ID: addb5c6e93320b8955b216917ee93bd0b85f0646)
+
+6. I live in California.
+   (ID: 259e025807a2eee6eaf38242805e7dfc46aaa91f)
+
+7. I live in athens.
+   (ID: 30572ac5982532854b2ead41285ed9bbaba6d654)
+
+8. I live in single alcoholic mother.
+   (ID: 6227692d2c261d0ca079ff0b4b03c8c2a6933b88)
+
+9. I live in new hampshire.
+   (ID: c0c5a7c74c41387a99afab68d3e9fe0bfab4b8b9)
+
+10. I am american.
+   (ID: bfb28ccea698c3dc12ee1909c3188e266edbbb84)
+
+11. I live in bay area.
+   (ID: c378ee827fb7d26c7ea685ec1dc451bf264b0151)
+
+12. I live in uk.
+   (ID: faf8e2f0b237550f2553944dd4c08846f7505988)
+
+13. I live in at home.
+   (ID: eca32d278abf2524af02edbb3cc3041ed8b0b880)
+
+14. I live in michigan.
+   (ID: 5bf69e8a91457991a99f2cc3f9248ca16f27a0d5)
+
+15. I live in purpose.
+   (ID: 93e92e6a7d8e94b12bcd450fad136ec14436f359)
+
+16. My political view is socialist.
+   (ID: 77d0324af3e030bb9fb9365a16e870bd522fd275)
+
+17. I own a dealer.
+   (ID: b25bdf3935142c93d642393810cba283ec3b801f)
+
+18. I live in scandinavia.
+   (ID: 6f3d93754035383ba31c7eb4503265c62893fa84)
+
+19. I live in henderson.
+   (ID: 45bf5c8227b94451beff1dce1059d0d2c683c40c)
+
+20. I live in canterbury.
+   (ID: b4e4c05c47c7939661297c7f0b909e47f4ef628e)
+
+
+--- PersonaChat ---
+Total from this dataset: 132
+
+1. i live in a suburb of boston .
+   (ID: conversation_164)
+
+2. i live alone in my condo .
+   (ID: conversation_311)
+
+3. i own my home .
+   (ID: conversation_276)
+
+4. my parents recently moved to florida .
+   (ID: conversation_46)
+
+5. my birthplace is spain .
+   (ID: conversation_492)
+
+6. i live alone .
+   (ID: conversation_33)
+
+7. i live on a boat .
+   (ID: conversation_14)
+
+8. i grew up in the deep south .
+   (ID: conversation_302)
+
+9. my house is paid for .
+   (ID: conversation_448)
+
+10. i live on a boat .
+   (ID: conversation_228)
+
+11. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+12. i am from sterling heights , michigan .
+   (ID: conversation_472)
+
+13. i live in a house .
+   (ID: conversation_97)
+
+14. i live in a small town .
+   (ID: conversation_397)
+
+15. i'm from germany .
+   (ID: conversation_439)
+
+16. i am a profesional translator .
+   (ID: conversation_165)
+
+17. i live in an apartment .
+   (ID: conversation_135)
+
+18. i was born in baton rouge .
+   (ID: conversation_138)
+
+19. i live in a house in the country .
+   (ID: conversation_40)
+
+20. i live in rural wisconsin .
+   (ID: conversation_15)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 201
+
+1. I live in a retirement home.
+   (ID: conversation_193_user_2)
+
+2. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+3. I am from france.
+   (ID: conversation_208_user_1)
+
+4. I live near the ocean.
+   (ID: conversation_288_user_2)
+
+5. I live in a suburb of boston.
+   (ID: conversation_84_user_2)
+
+6. I just moved from va to pa.
+   (ID: conversation_341_user_2)
+
+7. I hope to move out soon.
+   (ID: conversation_266_user_1)
+
+8. I live in a big city.
+   (ID: conversation_294_user_2)
+
+9. My father lives in china.
+   (ID: conversation_276_user_1)
+
+10. I live in my parent s basement.
+   (ID: conversation_117_user_1)
+
+11. I own my home.
+   (ID: conversation_238_user_1)
+
+12. I live in seattle.
+   (ID: conversation_373_user_2)
+
+13. I live with a roommate.
+   (ID: conversation_80_user_2)
+
+14. I have a passion for politics.
+   (ID: conversation_335_user_2)
+
+15. I live in colorado.
+   (ID: conversation_236_user_1)
+
+16. I have a wife and two kids back in the states.
+   (ID: conversation_387_user_2)
+
+17. I live with my sisters and they provide me with all my needs.
+   (ID: conversation_68_user_2)
+
+18. I live in portland , maine.
+   (ID: conversation_291_user_1)
+
+19. I live alone.
+   (ID: conversation_293_user_1)
+
+20. I live with my parents.
+   (ID: conversation_14_user_2)
+
+
+============================================================

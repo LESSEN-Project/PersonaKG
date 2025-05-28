@@ -1,0 +1,148 @@
+CLUSTER 34
+============================================================
+Total statements in cluster: 181
+
+Dataset distribution in this cluster:
+  MPChat: 1 (0.6%)
+  MSC: 5 (2.8%)
+  PER-CHAT: 164 (90.6%)
+  PersonaChat: 4 (2.2%)
+  SyntheticPersonaChat: 7 (3.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. it's my cakeday; here's my dog.
+   (ID: hmbmelly)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I have a dog.
+   (ID: dialog_71_speaker_2)
+
+2. I have a dog.
+   (ID: dialog_112_speaker_2)
+
+3. I have not been bitten by a dog.
+   (ID: dialog_121_speaker_1)
+
+4. I have been bitten by a dog.
+   (ID: dialog_121_speaker_2)
+
+5. My last dog's name was Sirius.
+   (ID: dialog_118_speaker_1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 164
+
+1. I have a dog as a pet.
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+2. I have a dog as a pet.
+   (ID: 5033a9b064a9790931d6db4cc634e02af206bbb1)
+
+3. I have a dog as a pet.
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+4. I have a dog as a pet.
+   (ID: ed7b237fb6485952b3dcc1d753d52f12dfff995a)
+
+5. I have a dog as a pet.
+   (ID: 06f1a2f5d32f7dd1949254b41bf285307f38a718)
+
+6. I have a dog as a pet.
+   (ID: b3497f72ed4462f0414951db6d9ee7aa4004b515)
+
+7. I have a dog as a pet.
+   (ID: af0c660bb723d5afb410ddb2f8b9e5f271ae2703)
+
+8. I have a dog as a pet.
+   (ID: 0217046a1ad9b1e567109f7f7a4bb8b9f4b4fc05)
+
+9. I have a dog as a pet.
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+10. I have a dog as a pet.
+   (ID: 8e2981abd669b044bf2b787c04095c3ebe52e273)
+
+11. I have a dog as a pet.
+   (ID: 3e906e06d59fb5c2993270f0b4efed5b9ab122f7)
+
+12. I have a dog as a pet.
+   (ID: 76442d997e7f64c10223aeac0f4ff8af70ff9dde)
+
+13. I have a dog as a pet.
+   (ID: 2cc106beadb9cde22175338488da9efb20933748)
+
+14. I have a dog as a pet.
+   (ID: 8e629a7555369b0d827116a133d05901757cd56a)
+
+15. I have a dog as a pet.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+16. I have a dog as a pet.
+   (ID: dc513faaa334954cbf68db2825ec42a31e42fac2)
+
+17. I have a dog as a pet.
+   (ID: fe4ddb52a6f20437e3f3c6003b775cb72c3d048f)
+
+18. I have a dog as a pet.
+   (ID: 9425493e0ea7469367495f8e5947330e536cafa9)
+
+19. I have a dog as a pet.
+   (ID: cbba33bde970dd57ea65378793409285d5501f7d)
+
+20. I have a dog as a pet.
+   (ID: e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. i have a boxer dog .
+   (ID: conversation_6)
+
+2. i have a boxer dog .
+   (ID: conversation_182)
+
+3. my dog s name is toto .
+   (ID: conversation_255)
+
+4. my dog s name is toto .
+   (ID: conversation_339)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I have a dog.
+   (ID: conversation_334_user_2)
+
+2. I have a boxer dog.
+   (ID: conversation_276_user_1)
+
+3. We have a dog.
+   (ID: conversation_57_user_2)
+
+4. I have a dog.
+   (ID: conversation_272_user_1)
+
+5. My dog s name is wonwon.
+   (ID: conversation_328_user_2)
+
+6. I have a dog.
+   (ID: conversation_273_user_1)
+
+7. I have 3 dog.
+   (ID: conversation_260_user_1)
+
+
+============================================================

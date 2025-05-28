@@ -1,0 +1,98 @@
+CLUSTER 32
+============================================================
+Total statements in cluster: 17
+
+Dataset distribution in this cluster:
+  FoCus: 2 (11.8%)
+  MPChat: 1 (5.9%)
+  MSC: 1 (5.9%)
+  PEC: 7 (41.2%)
+  PER-CHAT: 2 (11.8%)
+  PersonaChat: 2 (11.8%)
+  SyntheticPersonaChat: 2 (11.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I am researching Grace O'Malley.
+   (ID: MSVCAU01UHE3_11)
+
+2. I have several family members who suffered an accident.
+   (ID: 9KDV6LSLWNAX_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my cousin works with kids who lost a sibling to cancer.
+   (ID: spinni81)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I look for advice from my family.
+   (ID: dialog_165_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i 'll have to look into this , have an alcoholic in the family .
+   (ID: baconnaire)
+
+2. i 'd love to hear his advice on meal planning and what not .
+   (ID: GanjaSmoker420HaloXX)
+
+3. i 'm looking for guidance or experiences with raising funds for a family dealing with als .
+   (ID: sbsb27)
+
+4. i am a birth mother reunited with my son .
+   (ID: onederful2018)
+
+5. i need to at minimum make sure the parents underwent the proper genetic testing .
+   (ID: giraffecakes)
+
+6. i party assist my sister because she ’s at tier 25 ish .
+   (ID: TheRealAshren)
+
+7. i want to look them up and see if they share any relatives .
+   (ID: ShamPow20)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. what time do you do it ? thanks as well
+   (ID: 6938adfadf158e773c1a81f3c3b4f7ef1aed3881)
+
+2. nice . what do you take and how much do you usually get for things ? just curious for myself .
+   (ID: c8c5c965e2188b52c51dd0dd8715dabd412209f5)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am an orphan who was in the foster care system .
+   (ID: conversation_153)
+
+2. i also give blood monthly in honor of my sister who died .
+   (ID: conversation_77)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I also give blood monthly in honor of my sister who died.
+   (ID: conversation_404_user_2)
+
+2. I also give blood monthly in honor of my sister who died.
+   (ID: conversation_189_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 40559
+
+Dataset distribution in this cluster:
+  FoCus: 1128 (2.8%)
+  MPChat: 2318 (5.7%)
+  MSC: 1807 (4.5%)
+  PEC: 15390 (37.9%)
+  PER-CHAT: 16795 (41.4%)
+  PersonaChat: 1037 (2.6%)
+  SyntheticPersonaChat: 2084 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1128
+
+1. I like cycling.
+   (ID: 8WL4II03WTP0_7)
+
+2. I am curious about Mars.
+   (ID: 942CCWXHPUZT_11)
+
+3. I am studying coal mines.
+   (ID: N1SMQLB7T5J7_11)
+
+4. I have met a lot of Jewish people living in South Florida.
+   (ID: VUQVHZP0LUAH_11)
+
+5. I love England.
+   (ID: HWMW6AUW4UTK_11)
+
+6. I have plans to visit Australia.
+   (ID: G1IQ2JHFB47F_11)
+
+7. I want to go to Washington DC.
+   (ID: QFCC4W8VUHOO_11)
+
+8. I am a fan of Lake Michigan.
+   (ID: VPRC44FNGVA6_11)
+
+9. I have been to Colorado.
+   (ID: CRWZDJUVM3WL_11)
+
+10. I like taking pictures of national historic landmark.
+   (ID: MGEY7QK79154_11)
+
+11. I have been to United States.
+   (ID: L6JH57TIZGRW_11)
+
+12. I would like to fish at Little Butte Creek in the summer again.
+   (ID: AN8LSF1PEYK2_11)
+
+13. I have never played golf.
+   (ID: MP1ZK22Q90C9_11)
+
+14. I am going to travel to Mexico at the end of the month.
+   (ID: XVCYQ74XC28W_11)
+
+15. I am interested in Native Americans.
+   (ID: IBKUIXV3M06F_7)
+
+16. I would like to go to Bavaria.
+   (ID: YB6ZF4SJI3P1_11)
+
+17. I own a house.
+   (ID: C7RS7BTZIF1Q_11)
+
+18. I am a huge fan of going to a villa.
+   (ID: S7EFLIB5IQDV_11)
+
+19. I like to live in the City of London.
+   (ID: XY9R2ORN3XBQ_7)
+
+20. I want to visit Italy.
+   (ID: DIQU5A0EAGWM_11)
+
+
+--- MPChat ---
+Total from this dataset: 2318
+
+1. i think i'm starting to get the hang of this :)
+   (ID: Nutellism)
+
+2. i love getting a layer in that 2 stack to creep up.
+   (ID: jlb4est)
+
+3. i was really excited.
+   (ID: BeastaBubbles)
+
+4. my next finished object for this week is a shopping bag with pouch.
+   (ID: Moriarty58)
+
+5. my phoenix has reached 40 inches.
+   (ID: Nikyma)
+
+6. just found these today at my local shop.
+   (ID: mattsulli)
+
+7. i crocheted this hat with my own pattern
+   (ID: letsallcrochetYT)
+
+8. baking my way through momofuku milk bar cookbook!
+   (ID: chirp16)
+
+9. i worked with florentine embroidery on this big paper tonne and put in all my manual work.
+   (ID: gelimausi)
+
+10. 48 hours worth of work out of my home kitchen to make some mom's happy today.
+   (ID: SugarHighBakedGoods)
+
+11. gave my partner one day to decorate an r2d2 for a friends wedding.
+   (ID: skrivitor)
+
+12. inherited this enameled dutch oven from my aunt.
+   (ID: iowajaycee)
+
+13. i made this advent calendar.
+   (ID: gelimausi)
+
+14. this is my second easter decoration, which i made myself.
+   (ID: gelimausi)
+
+15. for my best friend who is also a baker!
+   (ID: Cantwa1t)
+
+16. i live in thailand and me and my girlfriend go to this island from time to time.
+   (ID: PaidJewishTroll)
+
+17. doing some asparagus and corn before i smoke ribs!
+   (ID: billwhiz)
+
+18. i really liked this one from today.
+   (ID: jlb4est)
+
+19. i've finished these cuties and i'm so excited to show them off!
+   (ID: Ploliveira)
+
+20. my first bit of fondant modelling was for my dog-mad friend 3 years ago.
+   (ID: zenbuffy)
+
+
+--- MSC ---
+Total from this dataset: 1807
+
+1. I daydream about a fancier lifestyle.
+   (ID: dialog_54_speaker_2)
+
+2. I like music, especially hard rock.  I love the song Californication. I like drawing sketches.
+   (ID: dialog_42_speaker_1)
+
+3. I'm the proud parent of 2 boys and 1 girl.
+   (ID: dialog_82_speaker_2)
+
+4. My father recently retired from GE.
+   (ID: dialog_11_speaker_2)
+
+5. I'm an insurance salesman. My dream would be to start my own insurance company.
+   (ID: dialog_15_speaker_2)
+
+6. I work at Churchill Museum in Orlando.
+   (ID: dialog_32_speaker_2)
+
+7. I also love pizza but prefer thai food over sushi.
+   (ID: dialog_23_speaker_2)
+
+8. I am a vegetarian. I have many friends who also are vegetarians.
+   (ID: dialog_88_speaker_2)
+
+9. I'm a meat eater. I dropped out of college.
+   (ID: dialog_35_speaker_2)
+
+10. I want to be a teacher.
+   (ID: dialog_48_speaker_2)
+
+11. I make video games. I am working on a popular MMORPG that is almost ready to be released. My channel has around 30k subscribers.
+   (ID: dialog_58_speaker_2)
+
+12. I have begun to eliminate meat. I have completely stopped eating red meat. I only eat chicken and fish.
+   (ID: dialog_10_speaker_1)
+
+13. I like christmas.
+   (ID: dialog_66_speaker_1)
+
+14. My mom was a rn.
+   (ID: dialog_45_speaker_2)
+
+15. I have a beautiful wife.
+   (ID: dialog_52_speaker_2)
+
+16. I like rock alternative music.
+   (ID: dialog_5_speaker_2)
+
+17. The pitbull I have weighs twice as much as the kitten in the house.
+   (ID: dialog_85_speaker_2)
+
+18. I like historical colonial books.
+   (ID: dialog_55_speaker_1)
+
+19. I think I found the cure for the common cold while I was in the shower.
+   (ID: dialog_91_speaker_1)
+
+20. It can be hard to control my school group.
+   (ID: dialog_70_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 15390
+
+1. i 've met some , true , just not on reddit !
+   (ID: dammitOtto)
+
+2. i love the guy but he ’s a trip .
+   (ID: error785)
+
+3. i always said seeg .
+   (ID: ChoppingOnionsForYou)
+
+4. i was obsessing over my pores in my t - zone yesterday .
+   (ID: jukkujak)
+
+5. i have had a little break from your chaos after my hubs nearly died .
+   (ID: gigatroness)
+
+6. i thought i was the only one .
+   (ID: BearCanoe)
+
+7. i made it a while ago when i was pretty into tiny tower and never checked its growth .
+   (ID: Lsmoothies)
+
+8. i thought i was being trolled with that first picture and answer .
+   (ID: harumpf)
+
+9. i also give them veggies once or twice a week .
+   (ID: FruitBatFanatic)
+
+10. i love your moxie .
+   (ID: gigatroness)
+
+11. i just want to spank it .
+   (ID: KikAtWorkFL)
+
+12. i kept my head down and tried to be as respectful as possible to these guys .
+   (ID: Lifes6Midnight)
+
+13. i want some context to this
+   (ID: techdude21)
+
+14. i bet this fucker thought reddit ’s algorithm sorts posts alphabetically , hence the unnecessary “ ah ”
+   (ID: ChallengeTaken99)
+
+15. i think those pants were really trendy that year for some reason !
+   (ID: mostlikelyto___)
+
+16. i 'm sick of it .
+   (ID: Lsmoothies)
+
+17. i got to pet nelson , the newfoundland .
+   (ID: Bathysphere710)
+
+18. i thought black hole by charles burns was a miserable waste of my time and money
+   (ID: Stan063)
+
+19. i said that i ’d try my best .
+   (ID: freddlaren)
+
+20. i do n't get why people get so upset about this .
+   (ID: closetotheedge48)
+
+
+--- PER-CHAT ---
+Total from this dataset: 16795
+
+1. specialist batsmen ? i heard he was playing as an all  rounder .
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+2. rip harambe . if you don ' t know why , please switch lives with me so that i can say i never heard that song .
+   (ID: 46a39b1131e50f9cc061bbaf88e15686e5c9359d)
+
+3. that ' s pretty bad . i can ' t even begin to imagine the thought processes involved here . the guy sounds like a real tool . hopefully your next date turns out much better .
+   (ID: 93aef5ab9bcfb13e4085ecbd6b6948845a9ec03b)
+
+4. One of my favorite things is tits.
+   (ID: 2266fd8e27b1d50f2e144f7cd11716068cff21d5)
+
+5. i love it ! can i ask what you used to make this ?
+   (ID: 1d327d2812dfee71bf8ef77d36ffd5eb70efd55b)
+
+6. okay , did they treat you like slave labor ? and did you ever get a visit from osha ?
+   (ID: e8daa61bfd9bf81549666ebd0bdf393156b492de)
+
+7. don ' t try to act it was intentional or that you were serious . just laugh in a way , that indicates that you know you just did something awkward . thats how you show confidence and the ability to laugh about yourself . but you still need to stand your ground , if your awkward moment becomes a permanent joke about you . but the absolute worst thing you can do ist to become the aggressor , if you try to bring the attention to somebody else , by beeing an asshole , you show everybody your low self esteem and bad character .
+   (ID: e5a44ccd2ce03ba23fc6a9fd527ffc5440b8088c)
+
+8. I am art.
+   (ID: 498ec9e13eaa203d64a9b79260e2285867993564)
+
+9. while i agree somewhat to the fact that hispanics like to fuck . i find it a bit distasteful to say that the problem is with hispanics . not with retarted white christians . who are too dumb to realize that their children are going to fuck regardless of what they ' re told . so hey lets get them to put on a jimmiehat
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+10. i mean if you can ' t type properly you should not be on reddit .
+   (ID: 53aa6c267ff5eccf891e178786d41ca5df80a5de)
+
+11. I follow world news.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+12. my kid ' s smile
+   (ID: 1cf567904675ac1ca7b5a90612e5479a5b6c9bef)
+
+13. One of my favorite things is sushi.
+   (ID: 1b4a970a63450e21b56e1d38502b30aca032cd3f)
+
+14. not gonna lie , i ' ve known some girls that do not understand why i ' m repulsed by and scared of snakes , and they keep acting like i ' ll " come around " if i " just give them a chance . " no way . not a snowball ' s chance in lucifer ' s kitchen .
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
+
+15. merch is not a fanbase , but again my point about the underlying story has to make some sense to you . also america is obsessed with junk media , not all but the majority pushes this fanbase towards fringe . i apologise to those who didn ' t get that . if you have ever looked at tik tok or whatever for more than digit minutes you are probably going to still be offended . also just being extra anal , those two stores do nothing but by merch for new games so i would be curious how well kh sells compared to something for scale . i ' m not doubting it did well , just curious .
+   (ID: c6e9d7bec5bbee67d384191c91101e443de5ac3c)
+
+16. that really hit me hard man , but not as hard as that weed might have . at least someone else was able to have a good time for your sacrifice
+   (ID: 82b1cc976e9cc8f0d95b0d28452197c9a2b333d2)
+
+17. ive reached point where material items dont really do much for me anymore . im just looking for a relationship at the moment , and to plan out my life so i dont end up working until im dead .
+   (ID: ae9e10cc82b9b20c52f819c70c83f657724f9f44)
+
+18. i don ' t really like doing business online , because you have to give them your bank data and stuff .
+   (ID: e6c4a2b8e8c999b54ade342babc3d7b48868cc6d)
+
+19. i actually like this question , for once .
+   (ID: 6938adfadf158e773c1a81f3c3b4f7ef1aed3881)
+
+20. I have a wife.
+   (ID: ad24fe51d61dbe3cddd863ba9cb6adae61265a06)
+
+
+--- PersonaChat ---
+Total from this dataset: 1037
+
+1. i like to cook .
+   (ID: conversation_239)
+
+2. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+3. my parents are still married .
+   (ID: conversation_233)
+
+4. i like going to the beach .
+   (ID: conversation_111)
+
+5. people say i've a cute laugh .
+   (ID: conversation_41)
+
+6. my favorite movie is pretty woman .
+   (ID: conversation_155)
+
+7. my husband is an author and we have twins together .
+   (ID: conversation_132)
+
+8. i love animals .
+   (ID: conversation_196)
+
+9. i like cartoons .
+   (ID: conversation_39)
+
+10. my favorite food is cheese .
+   (ID: conversation_28)
+
+11. my brothers work with me .
+   (ID: conversation_189)
+
+12. i'm a registered nurse .
+   (ID: conversation_155)
+
+13. it is my universe , and everyone else is just a character in it .
+   (ID: conversation_106)
+
+14. i am a profesional translator .
+   (ID: conversation_165)
+
+15. both my moms tell me they love me when i call them .
+   (ID: conversation_211)
+
+16. i ride horses in my spare time .
+   (ID: conversation_190)
+
+17. after finishing my career i discovered that i'm not that passionate about it .
+   (ID: conversation_165)
+
+18. i am a woman .
+   (ID: conversation_233)
+
+19. i live in the usa .
+   (ID: conversation_23)
+
+20. i've visited 12 national parks in the us .
+   (ID: conversation_83)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2084
+
+1. I cook well.
+   (ID: conversation_107_user_1)
+
+2. I drive a bmw.
+   (ID: conversation_234_user_1)
+
+3. I married my highschool sweetheart.
+   (ID: conversation_99_user_2)
+
+4. I don t have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_119_user_2)
+
+5. I live with my parents.
+   (ID: conversation_14_user_2)
+
+6. I can recite the movie young frankenstein word for word.
+   (ID: conversation_2_user_2)
+
+7. I have male pattern baldness.
+   (ID: conversation_69_user_2)
+
+8. I ve an iphone.
+   (ID: conversation_14_user_2)
+
+9. I am a mother.
+   (ID: conversation_85_user_1)
+
+10. My feet are size six women s.
+   (ID: conversation_167_user_1)
+
+11. I enjoy reading.
+   (ID: conversation_91_user_1)
+
+12. I like to garden.
+   (ID: conversation_123_user_2)
+
+13. I have a poodle named nanette.
+   (ID: conversation_148_user_2)
+
+14. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+15. Many of my former students like to visit me.
+   (ID: conversation_107_user_2)
+
+16. I am an athlete.
+   (ID: conversation_159_user_2)
+
+17. I like to bike.
+   (ID: conversation_71_user_2)
+
+18. I am a writer.
+   (ID: conversation_249_user_1)
+
+19. I go to work early in the morning as a nurse.
+   (ID: conversation_230_user_1)
+
+20. I am afraid of spiders.
+   (ID: conversation_185_user_1)
+
+
+============================================================

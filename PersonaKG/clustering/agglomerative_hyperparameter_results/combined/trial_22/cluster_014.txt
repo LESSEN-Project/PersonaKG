@@ -1,0 +1,467 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 52060
+
+Dataset distribution in this cluster:
+  FoCus: 1536 (3.0%)
+  MPChat: 3658 (7.0%)
+  MSC: 2626 (5.0%)
+  PEC: 22859 (43.9%)
+  PER-CHAT: 16899 (32.5%)
+  PersonaChat: 1508 (2.9%)
+  SyntheticPersonaChat: 2974 (5.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1536
+
+1. I hope to spend my upcoming vacation in Washington D.C.
+   (ID: KW9HNA6XJ79B_11)
+
+2. I love history.
+   (ID: QFCC4W8VUHOO_11)
+
+3. I am going to California for vacation.
+   (ID: O76ENSZ0ZFAX_11)
+
+4. I like to try every roller coaster available in amusement parks.
+   (ID: KVV5IPK54RRU_11)
+
+5. I want to visit Punjab.
+   (ID: RJJWVAVC2B40_9)
+
+6. I live in England.
+   (ID: POTYY4E7PSQF_11)
+
+7. I am interested in good education.
+   (ID: IKQ9QU6QOUT4_11)
+
+8. I love Gothic architecture.
+   (ID: 7KD1MTP5A7ZD_11)
+
+9. I hope to travel to Los Angeles in the summer.
+   (ID: WYFFBVR6YR06_11)
+
+10. I like playing Golf.
+   (ID: G4G0O51GJSQQ_11)
+
+11. I am a fan of architecture.
+   (ID: VHZMEJDEHGGQ_11)
+
+12. I am interested in site's landmarks.
+   (ID: HGV5HAZVG959_11)
+
+13. I have an interest in education.
+   (ID: MYQ0792Q7S1E_11)
+
+14. I hate how tense the political situation in Kashmir is.
+   (ID: Z4X3H6WLUB9I_11)
+
+15. I am studying WWII.
+   (ID: O76ENSZ0ZFAX_11)
+
+16. I do not like French Gothic.
+   (ID: 9IFEU12EAOWB_11)
+
+17. I would like to study more about the history of World War I.
+   (ID: JW0BLP5O75BW_11)
+
+18. I have seen Native Americans.
+   (ID: PYCYFS54O1C8_11)
+
+19. I have seen many times a hydroelectric dam near the city where I live.
+   (ID: 91IHZ45NQ48A_11)
+
+20. I have never seen an arch type of monument.
+   (ID: UU5XLWW1EPVV_11)
+
+
+--- MPChat ---
+Total from this dataset: 3658
+
+1. i love alone, all i have to say.
+   (ID: billwhiz)
+
+2. well i hope it no longer looks like a nipple haha
+   (ID: Sophie74656)
+
+3. my girlfriend called these "dino-eggs": deviled eggs with an avocado spread.
+   (ID: mattsulli)
+
+4. my marie antoinette inspired nails
+   (ID: HobbitLass)
+
+5. i’m still not getting the hang of attaching the trunk.
+   (ID: NervousToast)
+
+6. help my skip laurels!
+   (ID: chirp16)
+
+7. i crocheted a tiny rocket!
+   (ID: Louiesloops)
+
+8. fly-in camping solo with my puppy
+   (ID: drewchie)
+
+9. she may not have the prettiest look, but i still love her.
+   (ID: River_Lethe)
+
+10. after being stuck in shanghi for the month of jan, my new pens arrived!
+   (ID: XandXor)
+
+11. strawberry macarons that my wife made for me and my coworkers!
+   (ID: 05twister)
+
+12. i made a star baby blanket
+   (ID: FoxInKneeSocks)
+
+13. we're self isolating as my oh and i are showing symptoms.
+   (ID: blackbook90)
+
+14. i finally live in a place where i can walk out my back door and hunt.
+   (ID: ChroniclyDope)
+
+15. waffles is always jealous when she can't be in my crochet pictures.
+   (ID: FoxInKneeSocks)
+
+16. [wip] my wife is a professional knitter.
+   (ID: iowajaycee)
+
+17. afternoon tea virus throw, finished for my step-mom, mother's day gift
+   (ID: Winter246)
+
+18. momma, can i have some more mealworms please
+   (ID: FindingTheAdventure)
+
+19. i made a fancy alpaca
+   (ID: FoxInKneeSocks)
+
+20. how'd i do?
+   (ID: SilentRansom)
+
+
+--- MSC ---
+Total from this dataset: 2626
+
+1. I'll probably be moving to Orlando.
+   (ID: dialog_32_speaker_2)
+
+2. Although my mother and father both speak with a german inflection, my dialect is strictly american.
+   (ID: dialog_87_speaker_2)
+
+3. My mom went to beauty school. My mom is my best friends.
+   (ID: dialog_14_speaker_1)
+
+4. I like the sand on my feet.
+   (ID: dialog_76_speaker_2)
+
+5. I watch performing arts.
+   (ID: dialog_87_speaker_1)
+
+6. I am a huge dog lover! I have a dog who likes everything.
+   (ID: dialog_107_speaker_2)
+
+7. I am an only child.
+   (ID: dialog_108_speaker_1)
+
+8. I lived in a rural area as a child.
+   (ID: dialog_99_speaker_2)
+
+9. I like beer.
+   (ID: dialog_61_speaker_1)
+
+10. I like food.
+   (ID: dialog_74_speaker_1)
+
+11. I started a club in High School.
+   (ID: dialog_90_speaker_2)
+
+12. I used to interact in sports in my older teen years.
+   (ID: dialog_47_speaker_1)
+
+13. I have a good mac and cheese recipe.
+   (ID: dialog_0_speaker_2)
+
+14. I like old school music.
+   (ID: dialog_5_speaker_2)
+
+15. I am a vegetarian. I've decided to study computer science in college.
+   (ID: dialog_108_speaker_2)
+
+16. I want to climb with you together.
+   (ID: dialog_43_speaker_2)
+
+17. I am done with my education.
+   (ID: dialog_12_speaker_1)
+
+18. I like winter and I like to read.
+   (ID: dialog_66_speaker_1)
+
+19. I like mystery novels.
+   (ID: dialog_5_speaker_2)
+
+20. I prefer big dogs. I don't have dogs.
+   (ID: dialog_80_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 22859
+
+1. i am a fan
+   (ID: dawgreddit2014)
+
+2. i thought lefrak city was just a company name on top of some tall building .
+   (ID: SpartanWarNinja)
+
+3. i remeber when i tried to make kylo work .
+   (ID: playertd)
+
+4. i contest , sir , that you do n't know what a link is .
+   (ID: sweatervest)
+
+5. i would take the sat and do the best that you can on it .
+   (ID: clueless3867)
+
+6. i 'm assuming that was fatal ?
+   (ID: trav110)
+
+7. i try to feel it fully and even let the thought repeat in my head .
+   (ID: snapsnaptomtom)
+
+8. i was wondering if it ’s a euphemism for drugs or something ...
+   (ID: themarajade1)
+
+9. i have “ adopted ” a stray outside cat and really have no clue what i ’m doing .
+   (ID: jenni268)
+
+10. i was really hoping someone would reply " oh there 's a new spot opening in downtown bellevue ! "
+   (ID: mulletprooftiger)
+
+11. i bought it for you because i 'm drunk and thought it would be funny
+   (ID: Nick84572)
+
+12. i 'm so sorry for your loss of this sweet boy .
+   (ID: scoutsadie)
+
+13. i re - read the post .
+   (ID: 11_29_77)
+
+14. i wrote my first computer program on one of those .
+   (ID: sbsb27)
+
+15. i could help you install a lock on your bedroom if you want .
+   (ID: sherry2012)
+
+16. i 've always wanted d2o ' sinking ' ice cubes .
+   (ID: harumpf)
+
+17. i ’m curious too !
+   (ID: vivagypsy)
+
+18. i 'm better at clash royale when i sit back and relax
+   (ID: FrankOfTheDank)
+
+19. i wonder what they got in there that makes all of this happen ?
+   (ID: error785)
+
+20. i 'm thinking i will put this on my short list .
+   (ID: JaZepi)
+
+
+--- PER-CHAT ---
+Total from this dataset: 16899
+
+1. " sir . " i try to interject but the old bearded man keeps shouting . " i can ' t find a damn thing in this place ! " his face has turned a boiling red , in contrast with his milky white eyes . steam shoots from his ears . " sir ! you ' re looking in the wrong cupboard ! " i shout , " sit down ! let me help you ! " " speak up , boy , i can barely hear you . " he grumbles , " sit down ? oh fine . " i pull up a chair and he settles down into it . " teacup ! " he shouts , and i hurry to retrieve one . i place it in his left hand and he points his right finger at it . a stream of boiling water pours from the tip of his finger like the spout of a teapot . i hand him a tea bag . " so what were you looking for , sir ? " " ahh . just an old book . what ' s the point anyway ? i can ' t even read the thing . can you read ancient greek ? " i admit that i can ' t and avoid mentioning that we are in the kitchen , not the library . i also don ' t know my way around very well , so i ' m a bit relieved . the building we are in is not a conventional home . it is a grand , curling spire dozens of stories high . this would be a problem for the old man if he were not able to float , up or down , straight through the center of the spiral staircase , easily arriving at a floor usually the wrong one much faster than i can climb the steps . " why did you need the book , sir ? " i ask , " what are we doing today ? " " ah the village by the river has a bridge troll they need taken care of . the messengers are on their way here now . " i know better than to ask how he knows this . he continues , " i remember the spell anyway . no one else can be bothered to learn the stupid things . " or no one has the ability . the old man , while grumpy and difficult , is also the greatest wizard alive . he is known as the wizard with no name although he hates the title , assuring me he does have a name . he also says his name is probably unpronounceable for me and might make my heart stop beating . i have been his assistant for digit weeks , in exchange only for room and board . i am an orphan and this is the only apprenticeship i can find , although i know i have been treated much better in town since becoming associated with the wizard . just then , i hear the loud knocker at the front door bang through the tower . " well ? " the old wizard says , " get a move on . " i hustle down the hundreds of steps , watch the wizard float down past me , and arrive at the door as he waves his hand and it slowly opens . two horsemen stand outside with four horses , wearing the light armor of provincial soldiers . the messengers jump a bit then take a step forward . " great wizard ! " one begins , " we have traveled fifty miles to retrieve you ! our town is under attack . " " bridge troll ! " the wizard loudly interrupts . " it ' s just a damn bridge troll and you fools can ' t simply kill the thing . but fine , i ' ll deal with your troll in exchange for a small yearly tithe . " the messengers cringe , knowing how poor their town is , but the wizard doesn ' t see the reaction and they agree on a portion of the harvest for the payment . the wizard smiles , " good ! now that payment is settled , where are your horses ? i know i ' ve been smelling some . " i lead the wizard to a horse and he floats onto it while the soldiers gape . i mount one beside him . " take your time getting back , " he says to them , " it should all be cleared up by then . " we trot off but all movement by the horse seems uncomfortable to the wizard . strangely he nudges his horse to go faster and faster and i urge mine to match him . as we ride the horses seem to bounce less and less . one lets out a loud whinny and i look down to see that their hooves are floating above the surface of the ground . the horses seem to know where they ' re going because at this point the wizard is feeling around in his beard for fuzz or food . we arrive in the town in two hours , much faster than the eight hours the fifty miles would normally take . as soon as we near the perimeter i hear the sound of fire and screams . we slow our horses and trot forward until the troll comes into view . it is a monstrous beast , taller than rooftops , grabbing women and children where it can while the men fight to hold it back and secure the town ' s population in the large central church . " how big is it ? " the wizard asks . " about digit feet tall ? " i guess . he chuckles , " they ' ve been procrastinating , huh ? alright bring me to it ? " " bring you . to it ? " i ask hesitantly . " don ' t make me repeat myself boy . how else am i supposed to handle it ? " i shudder then grab his horse ' s lead . i walk our horses through the town . the soldiers shout at us to get back as we pass their perimeter and we ignore them . eighty yards away the troll notices us . " he saw us , " i say , " straight ahead . " " good , " the wizard smiles . he cracks his long fingers . suddenly , a flurry of words burst out of his mouth . in it , i hear what seem to be thousands of unique sounds adding up to dozens of languages . i hear a goat ' s bleat , snake ' s hiss and baby ' s laugh . i hear words that sound as powerful as crashing waves and silences as deep as the moment before dawn . my vision shrinks into a black tunnel until suddenly the words stop . i see the bridge troll frozen in place . it slowly falls with a huge crash like a massive tree . " good , " the old wizard grins , " now show me to the food . i ' m hungry . "
+   (ID: ba6d1d2cee95e9f30e06dc1584d5fa02e62221e8)
+
+2. how is this not interesting !
+   (ID: 1d327d2812dfee71bf8ef77d36ffd5eb70efd55b)
+
+3. what ' s your relationship like with other women ? what non  partying hobbies are you involved in ? what is your living situation like ? how ' s you career ? are you on par with other digit yr olds ? these would be great places to start to working on yourself . i wish you the best of luck !
+   (ID: 40e9f2306751118eda95174d093680e74831a34d)
+
+4. this is a truly horrible situation as a single dad i can ' t imagine what i would do if i lost one of mine . my heart goes out to you .
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+5. lol , you are truly so dumb . i mean my lord . this is been a lot of fun , but i think you should check with your mom to see if you are allowed on reddit .
+   (ID: 8ee36b7de5870d8a018edda36a1e88aee55b98f9)
+
+6. not a worker , but the lady behind me got upset about the bill she got over  digit and thought that she could refund it by puking it up back on to her plate . she got even more upset when they wouldn ' t accept it , and started to trash everything ! of course , they had to call security to get her out . by far the weirdest , but funniest thing i ' ve ever seen !
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+7. because i believe it
+   (ID: 2264050ea82d909575d6593daf8246fa8655751e)
+
+8. it honestly depends on how much free time i have . digit  digit minutes , i open a book on my phone and read . digit  digit minutes , i practice calligraphy . digit  digit minutes , i watch an episode or two of something . if i have more time than that , well , i bake , write , read , trim my bonsai , practice the harmonica , or read some of the denser books i ' ve got
+   (ID: dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e)
+
+9. yes , travel would be impossible unless you were rich . why do you think no one would maintain them ?
+   (ID: fbed02b3d7caf00e8d1533f452f8951cf390df73)
+
+10. is this your original work ? why digit products ? can it not be done in one ? i ' m just curious , and it ' s beautiful , btw .
+   (ID: 6f3d93754035383ba31c7eb4503265c62893fa84)
+
+11. regardless if he comes back in my lifetime or not i  ll still follow and believe in him til the day i die . there was just no reason that the bible was persevered and protected for digit  digit years . there was something about it that made more special than every other book ever written . there was something about it that millions and millions of people died for it through out history . there  s a reason that it  s still here today and now there  s digit billion copies of the bible . we wouldn  t even be where we are today if it wasn  t for the bible . the bible was a major key of history and how everything came to be . the books in the old testament was written digit  digit years before jesus and there  s been many times that they even mentioned of his coming . if you don  t mind taking sometime out of your day to watch this video , that  d be great there  s more hidden meaning in the bible than what  s seen .
+   (ID: f8dc0ff928f07f3c544894b03ad92f5944e13321)
+
+12. ok to be fair i had depression back then but i burst into tears while fwb was eating me out .
+   (ID: bf662bc559367d8b6475102fe891d5e4eb072ffd)
+
+13. I own a team.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+14. i was going to make a comment about how at some point , maybe you should let the dog go , but i can  t believe how well he healed . i should have more faith .
+   (ID: 4345d92dae99b45255ddd6b7f7c88a7ad331da93)
+
+15. some people like to compartmentalize certain parts of their life and its completely natural . if you warm up to them and show you can really vibe this can change .
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+16. I own a beam.
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+17. not at all what i said , maybe they can come to your house and help you learn how to read .
+   (ID: 8ee36b7de5870d8a018edda36a1e88aee55b98f9)
+
+18. this girl i like . literally the most attractive person i  ve seen . don  t get me wrong actors like gal gadot are hot , there  s no denying that , but i much prefer my crush over any mainstream actress .
+   (ID: 2657c8854c93e48c0bab9764c7904833e823cac9)
+
+19. how big . how many ? it ' s kind of a crap shoot that we don ' t really want to test to figure out . let ' s treat it like meth .
+   (ID: 30506e41c4121e1e7573a25d4985de191de679c9)
+
+20. I own a arrow.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+
+--- PersonaChat ---
+Total from this dataset: 1508
+
+1. i've one little boy named owen .
+   (ID: conversation_300)
+
+2. i don t drink alcohol .
+   (ID: conversation_289)
+
+3. i love to sleep in .
+   (ID: conversation_242)
+
+4. i have a little girl .
+   (ID: conversation_129)
+
+5. i am from tennessee .
+   (ID: conversation_250)
+
+6. i am obsessed with animals .
+   (ID: conversation_318)
+
+7. i volunteer in my spare time .
+   (ID: conversation_226)
+
+8. i'm strong .
+   (ID: conversation_235)
+
+9. i like to go to the farmer s market every weekend .
+   (ID: conversation_117)
+
+10. i was born male and transitioned to female when i was 17 .
+   (ID: conversation_23)
+
+11. i like to paint outdoors .
+   (ID: conversation_335)
+
+12. i'm a 30 year old female .
+   (ID: conversation_282)
+
+13. my children are mostly grown .
+   (ID: conversation_239)
+
+14. i like to make short films .
+   (ID: conversation_280)
+
+15. i never learned how to write .
+   (ID: conversation_34)
+
+16. i used to be a chef , but i am a teacher now .
+   (ID: conversation_141)
+
+17. i like to wear red .
+   (ID: conversation_313)
+
+18. i m allergic to shellfish .
+   (ID: conversation_28)
+
+19. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+20. my mom is a nurse .
+   (ID: conversation_90)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2974
+
+1. I love watching game of thrones.
+   (ID: conversation_275_user_2)
+
+2. I am a classicly trained chef.
+   (ID: conversation_69_user_2)
+
+3. I am thirty years old.
+   (ID: conversation_199_user_2)
+
+4. I like to go to the gym and work out.
+   (ID: conversation_255_user_1)
+
+5. I have no children of my own.
+   (ID: conversation_320_user_1)
+
+6. I often play the clown to get attention.
+   (ID: conversation_66_user_2)
+
+7. I like to fish.
+   (ID: conversation_37_user_2)
+
+8. I m not very tall.
+   (ID: conversation_71_user_1)
+
+9. I have a job as a dj at a radio station.
+   (ID: conversation_26_user_1)
+
+10. I teach both japanese and drawing classes.
+   (ID: conversation_328_user_2)
+
+11. I recently bought a camper.
+   (ID: conversation_27_user_2)
+
+12. My father is a mechanic.
+   (ID: conversation_49_user_1)
+
+13. My friends and i enjoy golfing on sunny days.
+   (ID: conversation_82_user_1)
+
+14. My feet are size six womens.
+   (ID: conversation_168_user_1)
+
+15. I like music.
+   (ID: conversation_212_user_1)
+
+16. I use a cane to help me get around.
+   (ID: conversation_26_user_1)
+
+17. I enjoy running.
+   (ID: conversation_297_user_2)
+
+18. I love the smell of beans.
+   (ID: conversation_190_user_2)
+
+19. I love all sorts of fresh vegetables.
+   (ID: conversation_220_user_2)
+
+20. My favorite color is blue.
+   (ID: conversation_78_user_1)
+
+
+============================================================

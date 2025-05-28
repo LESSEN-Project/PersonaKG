@@ -1,0 +1,72 @@
+Agglomerative Clustering Analysis Summary
+============================================================
+Total statements: 86137
+Vectorization method: hybrid
+Number of clusters: 50
+Analysis type: combined
+Diversity score: 0.0071 (higher is better)
+Silhouette score: 0.1053 (higher is better)
+Timestamp: 2025-05-28 15:23:08
+
+Dataset Distribution:
+  FoCus: 2500 statements
+  MPChat: 5048 statements
+  MSC: 3868 statements
+  PEC: 33497 statements
+  PER-CHAT: 34537 statements
+  PersonaChat: 2236 statements
+  SyntheticPersonaChat: 4451 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 2: 61222 statements
+  Cluster 11: 2314 statements
+  Cluster 0: 2006 statements
+  Cluster 12: 1790 statements
+  Cluster 44: 1188 statements
+  Cluster 18: 1169 statements
+  Cluster 4: 1043 statements
+  Cluster 5: 1035 statements
+  Cluster 1: 1017 statements
+  Cluster 23: 867 statements
+  Cluster 17: 852 statements
+  Cluster 14: 836 statements
+  Cluster 26: 809 statements
+  Cluster 15: 785 statements
+  Cluster 40: 762 statements
+  Cluster 45: 749 statements
+  Cluster 20: 663 statements
+  Cluster 21: 601 statements
+  Cluster 35: 585 statements
+  Cluster 16: 528 statements
+  Cluster 19: 495 statements
+  Cluster 7: 480 statements
+  Cluster 32: 480 statements
+  Cluster 48: 465 statements
+  Cluster 27: 446 statements
+  Cluster 3: 403 statements
+  Cluster 31: 348 statements
+  Cluster 25: 305 statements
+  Cluster 49: 300 statements
+  Cluster 28: 206 statements
+  Cluster 6: 203 statements
+  Cluster 30: 151 statements
+  Cluster 9: 146 statements
+  Cluster 22: 122 statements
+  Cluster 24: 121 statements
+  Cluster 38: 121 statements
+  Cluster 33: 117 statements
+  Cluster 37: 105 statements
+  Cluster 34: 74 statements
+  Cluster 13: 63 statements
+  Cluster 10: 57 statements
+  Cluster 36: 32 statements
+  Cluster 41: 22 statements
+  Cluster 8: 20 statements
+  Cluster 47: 10 statements
+  Cluster 43: 9 statements
+  Cluster 29: 4 statements
+  Cluster 39: 4 statements
+  Cluster 42: 4 statements
+  Cluster 46: 3 statements

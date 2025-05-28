@@ -1,0 +1,219 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 270
+
+Dataset distribution in this cluster:
+  MPChat: 1 (0.4%)
+  MSC: 10 (3.7%)
+  PEC: 6 (2.2%)
+  PER-CHAT: 231 (85.6%)
+  PersonaChat: 5 (1.9%)
+  SyntheticPersonaChat: 17 (6.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. it's my cakeday; here's my dog.
+   (ID: hmbmelly)
+
+
+--- MSC ---
+Total from this dataset: 10
+
+1. I am a dog walker.
+   (ID: dialog_170_speaker_2)
+
+2. I have a dog.
+   (ID: dialog_184_speaker_1)
+
+3. I have a dog.
+   (ID: dialog_160_speaker_2)
+
+4. I have a dog.
+   (ID: dialog_112_speaker_2)
+
+5. I have been bitten by a dog.
+   (ID: dialog_121_speaker_2)
+
+6. My last dog's name was Sirius.
+   (ID: dialog_118_speaker_1)
+
+7. I do not have a dog.
+   (ID: dialog_174_speaker_1)
+
+8. I love my dog.
+   (ID: dialog_43_speaker_2)
+
+9. I have a dog.
+   (ID: dialog_71_speaker_2)
+
+10. I have not been bitten by a dog.
+   (ID: dialog_121_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 6
+
+1. i love this dog
+   (ID: Kristyn673)
+
+2. i have a cow dog too !
+   (ID: Kangfight)
+
+3. i would go here because of the dog
+   (ID: jmontoya5280)
+
+4. i love dog smiles .
+   (ID: notthruyet)
+
+5. i love that dog !
+   (ID: leo9g)
+
+6. i have a dog
+   (ID: ranieve)
+
+
+--- PER-CHAT ---
+Total from this dataset: 231
+
+1. I have a dog as a pet.
+   (ID: 4e0f41bc85f51f64d9103c2a165328ff6329dea1)
+
+2. I have a dog as a pet.
+   (ID: f9d3bf7ce779e854aa865f12a7dfaaee14a65cfa)
+
+3. I have a dog as a pet.
+   (ID: 73298992cdad815c5bab6ce9bfb5d9a5ad3b9729)
+
+4. I have a dog as a pet.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+5. I have a dog as a pet.
+   (ID: b6567f005c34603036e6119544386ff4f12ec3a9)
+
+6. I have a dog as a pet.
+   (ID: 4bddcbadec311f472e8b62614b7394e14eb1d7ac)
+
+7. I have a dog as a pet.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+8. I have a dog as a pet.
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
+
+9. I have a dog as a pet.
+   (ID: d6ae299c9d415416b659c654241697c95c8f377a)
+
+10. I have a dog as a pet.
+   (ID: 4a5a9ac8eab027b38804427b3c8c5e19c8991de3)
+
+11. I have a dog as a pet.
+   (ID: 1dba5a99fe582b0f335d63ef3d25fee74ce4dd18)
+
+12. I have a dog as a pet.
+   (ID: 4167b7bc7d40ac86ca6b492ac0bbaefa992711f6)
+
+13. I have a dog as a pet.
+   (ID: a22b82fe301caa42c89cbd71b2e3733753f695d9)
+
+14. I have a dog as a pet.
+   (ID: d8681af7ff5797fb2ffcb9a4a08f377463526e2d)
+
+15. I have a dog as a pet.
+   (ID: 54271e4114265f638c8e4c59d7a3b35b6caa55bf)
+
+16. I have a dog as a pet.
+   (ID: 757e143549620faa46043c6954071c7a8dd6b484)
+
+17. I have a dog as a pet.
+   (ID: e5fd25110413c69853218bbcbb0169f73c8f06e1)
+
+18. I have a dog as a pet.
+   (ID: 225291489bc1a4ddf3d197a3062fa9ff935f3029)
+
+19. I have a dog as a pet.
+   (ID: fb5e95e954b3ee83c39276138f0fa3b854970db4)
+
+20. I have a dog as a pet.
+   (ID: ce5016a49c41770ec711f4758a362203587f841e)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i have a boxer dog .
+   (ID: conversation_6)
+
+2. my dog s name is toto .
+   (ID: conversation_255)
+
+3. i am a dog walker .
+   (ID: conversation_170)
+
+4. my dog s name is toto .
+   (ID: conversation_339)
+
+5. i have a boxer dog .
+   (ID: conversation_182)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 17
+
+1. I love my dog.
+   (ID: conversation_51_user_2)
+
+2. I have a dog.
+   (ID: conversation_273_user_1)
+
+3. I have 3 dog.
+   (ID: conversation_260_user_1)
+
+4. I have a dog.
+   (ID: conversation_396_user_1)
+
+5. I have a boxer dog.
+   (ID: conversation_276_user_1)
+
+6. I have a dog.
+   (ID: conversation_334_user_2)
+
+7. We have a dog.
+   (ID: conversation_57_user_2)
+
+8. I am a dog walker.
+   (ID: conversation_152_user_2)
+
+9. I have a dog.
+   (ID: conversation_272_user_1)
+
+10. We have a dog.
+   (ID: conversation_357_user_2)
+
+11. I have 3 dog.
+   (ID: conversation_491_user_2)
+
+12. My dog s name is wonwon.
+   (ID: conversation_328_user_2)
+
+13. I have 3 dog.
+   (ID: conversation_442_user_1)
+
+14. I have a dog.
+   (ID: conversation_398_user_1)
+
+15. I have a dog.
+   (ID: conversation_397_user_1)
+
+16. I love my dog.
+   (ID: conversation_21_user_2)
+
+17. I have 3 dog.
+   (ID: conversation_443_user_1)
+
+
+============================================================

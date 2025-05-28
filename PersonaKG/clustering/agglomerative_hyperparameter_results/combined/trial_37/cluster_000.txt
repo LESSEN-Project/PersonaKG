@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43988
+
+Dataset distribution in this cluster:
+  FoCus: 1250 (2.8%)
+  MPChat: 2886 (6.6%)
+  MSC: 1916 (4.4%)
+  PEC: 17217 (39.1%)
+  PER-CHAT: 17371 (39.5%)
+  PersonaChat: 1116 (2.5%)
+  SyntheticPersonaChat: 2232 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1250
+
+1. I like Shakespeare's works.
+   (ID: POTYY4E7PSQF_11)
+
+2. I am interested in Italian history.
+   (ID: DIQU5A0EAGWM_11)
+
+3. I wish I could visit the City of Brisbane one day.
+   (ID: 8QHMKV7JII6J_11)
+
+4. I have a friend from Vancouver.
+   (ID: UHVFDJII2GF5_11)
+
+5. I like the Metro.
+   (ID: D0BKN1W8KWG6_7)
+
+6. I would like to know the description.
+   (ID: PSAPP3TRHUMW_11)
+
+7. I love boating.
+   (ID: 931HBHO4JP2E_11)
+
+8. I have lived in a city all my life.
+   (ID: EA2ZVDRVQ40F_11)
+
+9. I live in San Diego.
+   (ID: SJS6GHEH7ZIW_11)
+
+10. I am willing to know more about Jewish Deco.
+   (ID: VQJADZ97TJ0Z_11)
+
+11. I like animals from Africa.
+   (ID: 77B9J8TADYDF_7)
+
+12. I'd like to visit a national park.
+   (ID: 8BSRL0F5WC2L_11)
+
+13. I have never been to Glasgow.
+   (ID: QISL6J366OY6_11)
+
+14. I am interested in rainforests.
+   (ID: U2VHOEDA278F_11)
+
+15. I wish to build a monastery in Sinai Peninsula.
+   (ID: TF24QL7QZSG2_11)
+
+16. I love staying in hotels.
+   (ID: R9A1SC51GAMH_11)
+
+17. I am going to travel to Florida.
+   (ID: V9H9262H3NLV_11)
+
+18. I like bells, I think they're pretty.
+   (ID: CBOI96AOZRK6_11)
+
+19. I have heard about American Civil War.
+   (ID: G6QWKZ4CTWVW_11)
+
+20. I have heard about Bern.
+   (ID: ATJSFYS2K6FK_11)
+
+
+--- MPChat ---
+Total from this dataset: 2886
+
+1. i just finished this bad boy
+   (ID: FoxInKneeSocks)
+
+2. nails to match my new necklace
+   (ID: gxnelson)
+
+3. i also made bon appetit’s cranberry lime pie!
+   (ID: hmbmelly)
+
+4. buttercream bluey cake for my toddler's birthday!
+   (ID: hmbmelly)
+
+5. i crocheted a tiny thor and loki for a fellow redditor and i'm so proud of them!
+   (ID: Louiesloops)
+
+6. i made mini cookies (quarter size) for my sons advent calendar.
+   (ID: amandabakes)
+
+7. i made a asthma shell for his inhaler for a good friend who has severe asthma.
+   (ID: gelimausi)
+
+8. my daughter's strawberry lemonade birthday cake with strawberry lemon macarons.
+   (ID: Soliloquy119)
+
+9. i find them to be quite an attractive couple!
+   (ID: CL_ceramics)
+
+10. my third and final finished object for this week is comfort bear no.
+   (ID: Moriarty58)
+
+11. what dimensions should i use to make this into a scarf using the whole spool?
+   (ID: Crilbyte)
+
+12. my big table clock embroidered in plastic canvas.
+   (ID: gelimausi)
+
+13. i made some mittens with cables
+   (ID: Novel_Fox)
+
+14. one day i came home with a kitten.
+   (ID: crunch816)
+
+15. i've been wanting to make this sunflower pattern for a while
+   (ID: Sophie74656)
+
+16. oh i see you are using this, i must sit.
+   (ID: APacman)
+
+17. anyways, here are some cakes i decorated for some kids birthdays this weekend.
+   (ID: mashedtatoes88)
+
+18. i call him yancy the yeti!
+   (ID: Louiesloops)
+
+19. stuck in class on st patrick's day, at least i may my nails to distract me.
+   (ID: gxnelson)
+
+20. i hope you like him:)
+   (ID: theringbeller)
+
+
+--- MSC ---
+Total from this dataset: 1916
+
+1. I have 4 siblings.
+   (ID: dialog_42_speaker_1)
+
+2. I wish I could have a pig.
+   (ID: dialog_85_speaker_2)
+
+3. I like to spend a lot of my free time with my pet.
+   (ID: dialog_29_speaker_2)
+
+4. I know how to use a chainsaw, large axe, and bucksaw.
+   (ID: dialog_51_speaker_2)
+
+5. I like to get dressed up.
+   (ID: dialog_0_speaker_2)
+
+6. I am from Japan.  I don't like sports.
+   (ID: dialog_93_speaker_1)
+
+7. I am studying finance.
+   (ID: dialog_7_speaker_2)
+
+8. I live in Florida. I have contacts in Alabama.
+   (ID: dialog_85_speaker_2)
+
+9. I like to learn new things.
+   (ID: dialog_7_speaker_1)
+
+10. I am from Alabama.
+   (ID: dialog_33_speaker_2)
+
+11. I'm huge and colorful.
+   (ID: dialog_24_speaker_1)
+
+12. I want to be like diego maradona.
+   (ID: dialog_53_speaker_2)
+
+13. I love all my pets.
+   (ID: dialog_63_speaker_1)
+
+14. I have expensive glasses with progressive lenses.
+   (ID: dialog_31_speaker_1)
+
+15. I grew up in the east.
+   (ID: dialog_34_speaker_1)
+
+16. Desert is my favorite type of food.
+   (ID: dialog_56_speaker_1)
+
+17. I also love to live life to the fullest.
+   (ID: dialog_46_speaker_2)
+
+18. I pick up the drinks.
+   (ID: dialog_92_speaker_1)
+
+19. I met a vampire in a cave during halloween last year. I believe in the supernatural.  My mom can 'feel' things. I like ghosts. I think a ghost lives in my house.
+   (ID: dialog_58_speaker_1)
+
+20. I like to move it to music.
+   (ID: dialog_28_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 17217
+
+1. i wonder what our congress and president think of this .
+   (ID: chasemyers)
+
+2. i also hated the red sauce stains on my plastic containers .
+   (ID: Nobody-Likes-Change)
+
+3. i 'd watch that .
+   (ID: redraindropped)
+
+4. i 've seen it many times this year , but i agree that it seems suddenly brighter .
+   (ID: LooksAtClouds)
+
+5. i got mad for my boyfriend tagging his friend in a meme and not me
+   (ID: QueenPea13)
+
+6. i really need to go .
+   (ID: jay456)
+
+7. i hope you ’re feeling okay !
+   (ID: lovestheautumn)
+
+8. i got away .
+   (ID: gigatroness)
+
+9. i ’m calling it .
+   (ID: Etifaq)
+
+10. i have trouble using reddit .
+   (ID: metalbark)
+
+11. i hate them .
+   (ID: Dustin_Bromain)
+
+12. i was trying to show that it was r / science and the deleted comment ...
+   (ID: Aloha-Potato)
+
+13. i give them all negative traits and then you can do mean interactions with every sim you come across .
+   (ID: jukkujak)
+
+14. i ca n’t believe no one has made this comment already !
+   (ID: jessibabyy11)
+
+15. i will educate them !
+   (ID: ChoppingOnionsForYou)
+
+16. i believe it 63 %
+   (ID: alextound)
+
+17. i ’ve picked them up from different people as well , and altered them to fit into my life .
+   (ID: AP7497)
+
+18. i ca n’t wait until tom brady is gone ...
+   (ID: Montag3636)
+
+19. i was bordering on a 14 when i decided to lose weight
+   (ID: Chicoconut)
+
+20. i searched , and no
+   (ID: SYDWAD)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17371
+
+1. lol , you are truly so dumb . i mean my lord . this is been a lot of fun , but i think you should check with your mom to see if you are allowed on reddit .
+   (ID: 8ee36b7de5870d8a018edda36a1e88aee55b98f9)
+
+2. I have a father in my family.
+   (ID: 3fb1292a0bd26711d797fe1a61e6229794c21b68)
+
+3. One of my favorite things is larceny.
+   (ID: 7281ac55eb2a6383df4bfcf1408cda0145e29328)
+
+4. One of my favorite things is hypocritical people with double standards.
+   (ID: 9a96ba583f43f670f5797ea5031052161bf613cf)
+
+5. most of the time is parental pressure or self pressure to be with what is perceived as the ' best ' group . somehow our monkey brains haven ' t worked out that what we enjoy and what is the best for us is the same thing safety aside , i mean where you feel like you belong
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+6. I live in huntsville.
+   (ID: 2ab410cb3dc233b072c65fa9acc3c6323d05914e)
+
+7. i felt like i didn ' t deserve how well my life was going , so i fucked it all the up . little by little , and now i ' m hanging on by a thread .
+   (ID: 472084017072e7ced5fed0827bae57ba801d9b7d)
+
+8. I'm interested in dogs.
+   (ID: 2834b254700cedfb96641229b712899b4d697418)
+
+9. One of my favorite things is volkswagen.
+   (ID: 7008f149db59fea91167255eafa8bc84beab0f01)
+
+10. I have a father in my family.
+   (ID: 1df1bd07e28c0df73bd865f8cb447d7c8f1bd4d3)
+
+11. could you please explain what you mean by " opening up the world " , and how will ukip go about doing that ?
+   (ID: 12b33309ed44732201ee2caf9b6ce9ce17552a26)
+
+12. One of my favorite things is drop zone 😍.
+   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
+
+13. ok . i  ll save up for him . are any of the other faction wars characters worth getting ?
+   (ID: c5b665e8ba18adb2125a557bd8ecbb0654907c67)
+
+14. i ' ve personally faced violence for being a transman more than once , and i live in a really bigoted place filled with truly awful people . i totally get where you ' re coming from  the point of my comment was actually to point of that transmen face their share of issues with being trans . most commonly , in my experience , misogyny that reduces us down to genitals and the use that men can have for them .
+   (ID: 77e0b8c51dfb89ff57bd838b86ee4d78a9fe856f)
+
+15. One of my favorite things is laura linney.
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+16. that i ' m acualy in a mental ward and every one i know and where i go every day isn ' t real and i ' m just crazy . or a wake up from a comma with a different family and life and that i ' m gunna have to rekindle a relationship with people i ' ve never seen before with an attachment to fake people in my comma .
+   (ID: f3a18644ac7abbbf38805d44618254b8104cce6f)
+
+17. what is your definition of an assault weapon ? do you mean something that is fully automatic ? if so then those are already illegal in most states and very hard to obtain by your average citizen in the ones that do sell them .
+   (ID: 7ebdc00c75f6f836557e13d39a9efb279ed2ef7a)
+
+18. your body looks absolutely perfect to me , but make yourself happy !
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+19. gonna answer the second part of your question , since no one else bothered to  no , you can start where the anime left off . there isn  t really anything different in the manga . enjoy , because spoiler alert shit gets crazy
+   (ID: cbba33bde970dd57ea65378793409285d5501f7d)
+
+20. I live in asbestos.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+
+--- PersonaChat ---
+Total from this dataset: 1116
+
+1. i got married last year .
+   (ID: conversation_228)
+
+2. i like to role play .
+   (ID: conversation_188)
+
+3. i teach at a large school .
+   (ID: conversation_70)
+
+4. i ride a unicycle .
+   (ID: conversation_192)
+
+5. i love to sleep in .
+   (ID: conversation_242)
+
+6. my suspenders sometimes make my shoulders hurt .
+   (ID: conversation_31)
+
+7. i travel a lot .
+   (ID: conversation_140)
+
+8. i work at an accounting firm .
+   (ID: conversation_190)
+
+9. my mother was born in ireland .
+   (ID: conversation_38)
+
+10. my job involves building drones .
+   (ID: conversation_114)
+
+11. i'm married .
+   (ID: conversation_52)
+
+12. i work in a diner .
+   (ID: conversation_177)
+
+13. my brother is in a metal band and travels the world .
+   (ID: conversation_22)
+
+14. i love the beach .
+   (ID: conversation_112)
+
+15. i hate that i got my brain from the dad i never met .
+   (ID: conversation_179)
+
+16. i m usually very shy .
+   (ID: conversation_247)
+
+17. i live with a roommate .
+   (ID: conversation_198)
+
+18. not a day goes by that i do not drink four mountain dews .
+   (ID: conversation_149)
+
+19. my wife just left me .
+   (ID: conversation_231)
+
+20. i've three kids .
+   (ID: conversation_82)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2232
+
+1. I am a woman.
+   (ID: conversation_228_user_1)
+
+2. I own an iphone.
+   (ID: conversation_13_user_2)
+
+3. I am an orphan.
+   (ID: conversation_121_user_1)
+
+4. I spend time signing a lot of petitions and donate to animal rights groups.
+   (ID: conversation_220_user_1)
+
+5. One day i would really like to skydive.
+   (ID: conversation_221_user_2)
+
+6. My favorite past time is cooking.
+   (ID: conversation_175_user_2)
+
+7. My hair is brown.
+   (ID: conversation_35_user_1)
+
+8. My dog is my best friend.
+   (ID: conversation_226_user_2)
+
+9. I have a big family.
+   (ID: conversation_151_user_1)
+
+10. I am from california.
+   (ID: conversation_74_user_2)
+
+11. I can draw.
+   (ID: conversation_55_user_1)
+
+12. I love animals.
+   (ID: conversation_220_user_1)
+
+13. I enjoy reading.
+   (ID: conversation_91_user_1)
+
+14. I have long fingers.
+   (ID: conversation_19_user_1)
+
+15. I enjoy walking on the beach.
+   (ID: conversation_45_user_1)
+
+16. My parents pay my rent.
+   (ID: conversation_51_user_2)
+
+17. I teach 5th grade students near oakville , ny.
+   (ID: conversation_207_user_2)
+
+18. I ve a big family.
+   (ID: conversation_150_user_1)
+
+19. I have a job as a dj at a radio station.
+   (ID: conversation_25_user_1)
+
+20. I sleep a lot.
+   (ID: conversation_108_user_1)
+
+
+============================================================

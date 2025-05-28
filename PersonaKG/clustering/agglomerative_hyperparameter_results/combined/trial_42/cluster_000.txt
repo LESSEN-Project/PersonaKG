@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43875
+
+Dataset distribution in this cluster:
+  FoCus: 1250 (2.8%)
+  MPChat: 2881 (6.6%)
+  MSC: 1908 (4.3%)
+  PEC: 17197 (39.2%)
+  PER-CHAT: 17361 (39.6%)
+  PersonaChat: 1109 (2.5%)
+  SyntheticPersonaChat: 2169 (4.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1250
+
+1. I love to view paintings.
+   (ID: ZXCRSZ4D5PMK_11)
+
+2. I am a huge fan of parks.
+   (ID: VPRC44FNGVA6_11)
+
+3. I like to research about historic buildings.
+   (ID: H6GTJFTZ8LJI_11)
+
+4. I have never been to stadiums.
+   (ID: VZ1O6OE23O98_11)
+
+5. I would like to see sea lion.
+   (ID: L6JH57TIZGRW_11)
+
+6. I like palace.
+   (ID: ADLF9YCC3J49_11)
+
+7. I would like to meet Pratibha Patil.
+   (ID: KGYT5MMVNDSG_11)
+
+8. I love recreational activities close to nature.
+   (ID: L96351DIHFAR_7)
+
+9. I am interested in Indigenous people.
+   (ID: 9DGY1RAZGYLM_9)
+
+10. I am going to travel to Mexico at the end of the month.
+   (ID: XVCYQ74XC28W_11)
+
+11. I have visited Dreamland Margate amusement park.
+   (ID: PFYAAS1XG3D8_11)
+
+12. I love to visit the rocky mountains.
+   (ID: T815O8KC30IG_9)
+
+13. I have a lot of friends who are in the Air Force.
+   (ID: JW0BLP5O75BW_11)
+
+14. I would love to vist Divljana Monastery again.
+   (ID: V0DLNYLN813E_11)
+
+15. I wish I had a palace.
+   (ID: 9ZUQKMGM6HTD_11)
+
+16. I love doing different activities.
+   (ID: LYKL0NXYUSDG_11)
+
+17. I wish to see the Cote D'Azur.
+   (ID: VQN3MX06CHI1_11)
+
+18. I like shopping.
+   (ID: STDMXJC7HTUG_11)
+
+19. I have been to California.
+   (ID: UC6WD3SK3PG8_11)
+
+20. I exercise in the park every weekend.
+   (ID: D4619DV1O1OP_11)
+
+
+--- MPChat ---
+Total from this dataset: 2881
+
+1. just using my wip as a bed
+   (ID: Sophie74656)
+
+2. [i ate] a plate of sushi
+   (ID: Ry_)
+
+3. this was the closest i got to a heart last sunday.
+   (ID: Nutellism)
+
+4. i cooked a fiery chili con carne for my husband.
+   (ID: gelimausi)
+
+5. i'm efficiently lazy.
+   (ID: ddizzle23)
+
+6. my grandson wanted a shark, beach, sea, dolphin, boat cake for his birthday... delivered
+   (ID: Lady_FriendOfSpiders)
+
+7. came out tender, texture was almost like corned beef not what i wanted but was good eatin
+   (ID: MonstaEatsItAll)
+
+8. what do you think of my first strawberry shortcake?
+   (ID: justcook_byangel)
+
+9. my first ever roll cake.
+   (ID: MrsTheJones)
+
+10. my partner and i made a nine tier wedding cake for kingfisher oceanside resort & spa
+   (ID: skrivitor)
+
+11. finished my campfire cardigan!
+   (ID: Winter246)
+
+12. i put aside a granny square project a few months ago and i just picked it back up.
+   (ID: FoxInKneeSocks)
+
+13. now i need to make 3 more.
+   (ID: ddizzle23)
+
+14. how did i do this knife cake?
+   (ID: jehkane28)
+
+15. i made a dragon scale dice bag for my son.
+   (ID: somuchyarn10)
+
+16. i love how he sits on the couch
+   (ID: kentobean123)
+
+17. this corner came out so sharp and i can't get over it!
+   (ID: Sophie74656)
+
+18. i heart you guys a lot
+   (ID: jlb4est)
+
+19. my zombie cats pattern by me
+   (ID: Tanston)
+
+20. pringles responded to my email...
+   (ID: ThatPurpleDrank)
+
+
+--- MSC ---
+Total from this dataset: 1908
+
+1. I am 14. I go to school. I'm studying online this term. I like biology. I like my biology teacher.
+   (ID: dialog_67_speaker_1)
+
+2. I travel a lot. I like to travel to Ireland and Australia.
+   (ID: dialog_9_speaker_2)
+
+3. I like rock music. I Like Led Zeppelin.
+   (ID: dialog_13_speaker_1)
+
+4. When I vacation I go to Colorado and stay in a cabin in the mountains by a big lake.
+   (ID: dialog_13_speaker_2)
+
+5. I like the sand on my feet.
+   (ID: dialog_76_speaker_2)
+
+6. I am a fan of the starwars comic books.
+   (ID: dialog_25_speaker_1)
+
+7. I am a mermaid researcher.
+   (ID: dialog_1_speaker_2)
+
+8. I live on an island in Hawaii.
+   (ID: dialog_27_speaker_2)
+
+9. I need to be kind to others.
+   (ID: dialog_75_speaker_1)
+
+10. I like mystery books.
+   (ID: dialog_17_speaker_1)
+
+11. In my youth I could spell competitively.
+   (ID: dialog_3_speaker_1)
+
+12. I have a friend in Tokyo. I am going to go to Tokyo.
+   (ID: dialog_89_speaker_1)
+
+13. Dancing is fun to me.
+   (ID: dialog_27_speaker_1)
+
+14. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+15. I enjoy being around large groups at parties.
+   (ID: dialog_75_speaker_1)
+
+16. I love my cat. My cat is 10 years old and I am thinking of getting another one. My cat mostly stays indoors. Sometimes, I take her to the beach on a leash.
+   (ID: dialog_49_speaker_2)
+
+17. I am a fan of the minnesota twins.
+   (ID: dialog_71_speaker_1)
+
+18. I visited the park on Main and 4th recently.
+   (ID: dialog_11_speaker_2)
+
+19. My mother is my best friend.
+   (ID: dialog_1_speaker_2)
+
+20. I've a passion for feeding the hungry.
+   (ID: dialog_17_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 17197
+
+1. i know right ! !
+   (ID: FrankOfTheDank)
+
+2. i wondered about the lack of talking heads / friend discussions involving him , too .
+   (ID: scoutsadie)
+
+3. i hate the atlanta airport , but i 'll survive it .
+   (ID: Waterrat)
+
+4. i think my friend would have preferred the three points on his license rather than knowledge such people exist .
+   (ID: Ooer)
+
+5. i hope you 're having a nice week scurius .
+   (ID: bluesatin)
+
+6. i got ta leave my front door open more often !
+   (ID: exotics)
+
+7. i think you are underestimating how large any amount of money can be .
+   (ID: Ooer)
+
+8. i think he 's sick and in serious pain .
+   (ID: apnudd)
+
+9. i think a relationship should be working on * love * - not * pity * !
+   (ID: conservative_poly)
+
+10. i wish i could !
+   (ID: Montag3636)
+
+11. i ’m sorry , indy .
+   (ID: WiseScratch)
+
+12. i posed a question to them before and also go no response .
+   (ID: Evref)
+
+13. i could not agree with you more on this !
+   (ID: notlikethat1)
+
+14. i was thinking the same thing
+   (ID: boo3114)
+
+15. i figured i 'd post here to see if anyone has had success .
+   (ID: BabblingBunny)
+
+16. i think that they ’re high enough value that a good amount of collectors are looking for them .
+   (ID: bummang)
+
+17. i just got off face time with him and i was a sobbing mess .
+   (ID: _gansmadchen)
+
+18. i ’ll have an update tmrw !
+   (ID: latestartksmama)
+
+19. i only found out about this because i 've been getting messages from random strangers on facebook .
+   (ID: BLONDEBITCHH)
+
+20. i honestly do n't know , does surrendering influence that at all ?
+   (ID: cookiexcmonster)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17361
+
+1. I am a male.
+   (ID: 53aa6c267ff5eccf891e178786d41ca5df80a5de)
+
+2. I'm interested in finance.
+   (ID: a3b2823250cd4b5927129512a5ab9061e10ebaf2)
+
+3. none really , but if it was a super hot chick and i couldn ' t get my dick hard , then yea , that ' d be the worst .
+   (ID: 199ca187d50b43aebb52968a5525289cb65a1520)
+
+4. One of my favorite things is cetaphil.
+   (ID: f179711c18514780c1b0257643d893ef1cf5a081)
+
+5. I have a wife.
+   (ID: b5e15026c378d181e66e2b38bfc245705510a727)
+
+6. being a male i ' ve never had a period so i honestly feel it would be pretty disrespectful to voice that sort of opinion towards any female as i haven ' t experienced it myself . it ' s like someone painting a wall and somebody else comes up and says your taking a long time . how do they know what it ' s like or the problems that can arise if they haven ' t got any experience of what i ' m doing ? i choose just to be supportive .
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+7. I'm interested in pets and animals.
+   (ID: 7911b1d92de80b0e1abd4e2a29e4f762a8a2908f)
+
+8. I'm interested in math.
+   (ID: fc02053133b0aa8d444b95ed56c24999ae82879b)
+
+9. I live in shaq era.
+   (ID: 4654e3a9a75835f9ff28170ddf31d5d3cf296ea2)
+
+10. i play online vs exclusively . i ' m not saying this to piss you off , but i can poke check and stick lift all day long and hardly ever get a penalty . my poke checking could arguably be considered poke spamming i do it so much . it ' s all about proper positioning and timing for those poke checks , and never poke from behind . as far as stick lifts , they work very well during puck battles , especially along the boards . if your opponent gets possession , lift that shit right away you have to be fast and it ' ll almost always come loose and back to you . i ' m not saying it ' s perfect far from it , but if you ' re getting penalties on poke checks and stick lifts either your timing or positioning is off . go ahead and downvote me if you want , but i hardly ever get penalties for pokes and lifts . almost all my penalties are checks into the boards that ea will randomly call boarding or charging .
+   (ID: 7c5209c3b827e0de0cd436466f80ce09b615606b)
+
+11. thats cool . it does really depend on the girl . i think we all probably have little things we like  dislike about women . its not that one is right or wrong . for example i like it when i can see the impression of a girls ribs some people would say the idol os anorexic or too skinny but i like it for some reason
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+12. how does this make any sense ?
+   (ID: c22fbcc3fbb3286d348387d73888b66c1c9e09ba)
+
+13. One of my favorite things is mayo luigi.
+   (ID: d7ab0e5728c419d1e50c8ba827489e51566c046b)
+
+14. One of my favorite things is chips.
+   (ID: 0ffbddfe94023d7c5849c377e3fd6faac3ddc83c)
+
+15. i cut off reading when you said they shit in the pool then your partner eventually joins in being disrespectful towards you . alarm bells . not so much that your considering moving in but the fact that your still with him ? you should never , ever spend your time with someone who disrespects you . i ' ll be honest i ' ve done a lot of drugs in my younger years but i was still respectful and if i even attempted to shit in a pool i would probably be spoken to by my friends . it ' s not the drugs it ' s the company he keeps . and by the sounds of it him . do you honestly think he ' s going to change ? nope . do you need to move out ? yes move in with him ? i definitely wouldn ' t and i would probably leave him
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+16. One of my favorite things is squirtle.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+17. i ' m straight and was just wired that way . if you think sexual preference comes down to a choice , and assuming you ' re straight , when was the exact moment you chose to be straight ? what makes you think it ' s any different for homosexual people ? more importantly , why does it even matter and what will intolerance gain you ? it took me a long time to realize this way of looking at it and become more tolerant in my life , but i got there .
+   (ID: 725e5a3de682f359cfb87481ec457a2f78867ef3)
+
+18. I live in religious household.
+   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
+
+19. I own a dude.
+   (ID: fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1)
+
+20. I'm interested in cooking.
+   (ID: d54a04c3eba52404f5dd7abb0e459a949dbc7f93)
+
+
+--- PersonaChat ---
+Total from this dataset: 1109
+
+1. i teach at a large school .
+   (ID: conversation_70)
+
+2. i'm all about family and fun .
+   (ID: conversation_110)
+
+3. i work in retail .
+   (ID: conversation_13)
+
+4. i drive a jag .
+   (ID: conversation_169)
+
+5. my father worked for ge .
+   (ID: conversation_47)
+
+6. i'm allergic to cats .
+   (ID: conversation_222)
+
+7. i like alternative rock .
+   (ID: conversation_5)
+
+8. i drink diet coke .
+   (ID: conversation_123)
+
+9. i do not know why my sister in law dislikes me .
+   (ID: conversation_142)
+
+10. i am a dog walker .
+   (ID: conversation_170)
+
+11. i love the outdoors .
+   (ID: conversation_194)
+
+12. i'm a babysitter .
+   (ID: conversation_101)
+
+13. i live with my parents .
+   (ID: conversation_159)
+
+14. sometimes i volunteer at an urban farm .
+   (ID: conversation_20)
+
+15. i live in vermont .
+   (ID: conversation_83)
+
+16. i read tons of books .
+   (ID: conversation_65)
+
+17. i was the first born child .
+   (ID: conversation_127)
+
+18. i sleep in late during the day .
+   (ID: conversation_187)
+
+19. i like to play sports and get fresh air .
+   (ID: conversation_191)
+
+20. i overcame urinary cancer at age 18 .
+   (ID: conversation_227)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2169
+
+1. I like photography.
+   (ID: conversation_74_user_1)
+
+2. I have blonde hair that reaches my knees.
+   (ID: conversation_79_user_2)
+
+3. I grew up with 6 siblings.
+   (ID: conversation_223_user_1)
+
+4. I am a woman.
+   (ID: conversation_57_user_2)
+
+5. I run track.
+   (ID: conversation_171_user_1)
+
+6. I am a 30 year old female.
+   (ID: conversation_197_user_1)
+
+7. I have made over 90 , 000 on trifecta bets alone this year.
+   (ID: conversation_248_user_2)
+
+8. Sometimes i go to yoga classes.
+   (ID: conversation_158_user_2)
+
+9. My parents live across the street from me.
+   (ID: conversation_96_user_2)
+
+10. I like sprite soda.
+   (ID: conversation_232_user_1)
+
+11. I work at an accounting firm.
+   (ID: conversation_229_user_1)
+
+12. I am smart too.
+   (ID: conversation_183_user_2)
+
+13. I love dogs.
+   (ID: conversation_145_user_1)
+
+14. I like tacos.
+   (ID: conversation_249_user_2)
+
+15. I am 10 years old.
+   (ID: conversation_61_user_2)
+
+16. I am a nurse.
+   (ID: conversation_180_user_1)
+
+17. I was an army brat.
+   (ID: conversation_179_user_1)
+
+18. My parents are divorced.
+   (ID: conversation_168_user_2)
+
+19. I am blind.
+   (ID: conversation_26_user_1)
+
+20. My favorite movie is dirty harry.
+   (ID: conversation_232_user_2)
+
+
+============================================================

@@ -1,0 +1,179 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 70
+
+Dataset distribution in this cluster:
+  FoCus: 4 (5.7%)
+  MPChat: 2 (2.9%)
+  MSC: 4 (5.7%)
+  PEC: 46 (65.7%)
+  PER-CHAT: 1 (1.4%)
+  PersonaChat: 9 (12.9%)
+  SyntheticPersonaChat: 4 (5.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 4
+
+1. I've never been to Oakland.
+   (ID: G9I9RZZLCC1P_11)
+
+2. I've never been in a Fort.
+   (ID: EZGYRI0YA8OX_9)
+
+3. I've never been to Provence.
+   (ID: EGOP94LCW2PF_11)
+
+4. I've never been to Brisbane.
+   (ID: XXWV8BD5AL9Z_11)
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. my favorite slowsetta i've done yet.
+   (ID: jlb4est)
+
+2. the coolest campsite i've ever had.
+   (ID: garret_weintrob)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I've not been lit.
+   (ID: dialog_103_speaker_1)
+
+2. I've one pet.
+   (ID: dialog_27_speaker_2)
+
+3. I've a few beagles and a tabby.
+   (ID: dialog_110_speaker_1)
+
+4. I've a family.
+   (ID: dialog_44_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 46
+
+1. i 've never done it .
+   (ID: meteoriteminer)
+
+2. i ’ve found my people !
+   (ID: Atlmama)
+
+3. i would 've guessed they were melting .
+   (ID: Chicoconut)
+
+4. i 've found where i belong
+   (ID: Lsmoothies)
+
+5. i 've been to that mall .
+   (ID: chasemyers)
+
+6. i 've always associated them with .
+   (ID: misplaced_my_pants)
+
+7. i 've had it for almost two years now .
+   (ID: closetotheedge48)
+
+8. i ’ve had the skyla iud for over 2.5 years .
+   (ID: vivagypsy)
+
+9. i 've been eyeing it for a while .
+   (ID: ludaa)
+
+10. i 've been there .
+   (ID: JimmyMcShiv)
+
+11. i ’ve been on and off antidepressants for 6 years now .
+   (ID: helensis_)
+
+12. i 've never been charged .
+   (ID: COCOnizzle)
+
+13. i ’ve have n’t done anything about electrolytes .
+   (ID: Justadropinthesea)
+
+14. i ’ve done it .
+   (ID: sherry2012)
+
+15. i ’ve had an everki titan for like 5 years .
+   (ID: JaZepi)
+
+16. i 've been bingeing on it and almost done ...
+   (ID: Beachsurfer)
+
+17. i ’ve never had it in my stuffing
+   (ID: LabeledAsALunatic)
+
+18. i would 've done the same for platonic ladyfriends .
+   (ID: misplaced_my_pants)
+
+19. i 've had it done to me .
+   (ID: WiseScratch)
+
+20. i ’ve peaked .
+   (ID: Kialand)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1
+
+1. how much of a parody of themselves they ' ve become .
+   (ID: ecc98de1e575d7e863a2124b364b8ed586778ba5)
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i've two siberian huskies .
+   (ID: conversation_80)
+
+2. i've two nephews .
+   (ID: conversation_99)
+
+3. i've been in 3 triathlons .
+   (ID: conversation_285)
+
+4. i've 3 roommates .
+   (ID: conversation_307)
+
+5. i've two smartphones .
+   (ID: conversation_155)
+
+6. i've an iq of 250 .
+   (ID: conversation_266)
+
+7. i've one son .
+   (ID: conversation_55)
+
+8. i've two roomates .
+   (ID: conversation_268)
+
+9. i've 4 pets .
+   (ID: conversation_308)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I ve a dog.
+   (ID: conversation_71_user_1)
+
+2. I ve a big family.
+   (ID: conversation_152_user_1)
+
+3. I ve a dog.
+   (ID: conversation_70_user_1)
+
+4. I ve a big family.
+   (ID: conversation_150_user_1)
+
+
+============================================================

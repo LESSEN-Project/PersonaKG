@@ -1,0 +1,467 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 2046
+
+Dataset distribution in this cluster:
+  FoCus: 85 (4.2%)
+  MPChat: 30 (1.5%)
+  MSC: 450 (22.0%)
+  PEC: 420 (20.5%)
+  PER-CHAT: 277 (13.5%)
+  PersonaChat: 303 (14.8%)
+  SyntheticPersonaChat: 481 (23.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 85
+
+1. I am an architect.
+   (ID: G9I9RZZLCC1P_11)
+
+2. I am doing my research studies in Washington.
+   (ID: E6FC9U7LUUT3_11)
+
+3. I would like to go to college.
+   (ID: NOJ4G30KI3T7_11)
+
+4. I like the University life.
+   (ID: D449W0YW7LNU_11)
+
+5. I am interested in war.
+   (ID: 8PCBSP0T0VTY_11)
+
+6. I hope to work in engineering.
+   (ID: YRJ6RB6JCWMA_11)
+
+7. I work with architecture.
+   (ID: OVAVQ6KQ4YWN_11)
+
+8. I have a daughter attending secondary school.
+   (ID: 9KDV6LSLWNAX_11)
+
+9. I am planning to go to college.
+   (ID: O2J7AJP3JLY3_11)
+
+10. I have several family members who suffered an accident.
+   (ID: 9KDV6LSLWNAX_11)
+
+11. I hope I can acquire deep insight of laws.
+   (ID: IJ61LGMTNN5M_11)
+
+12. I am an architect.
+   (ID: 9IFEU12EAOWB_11)
+
+13. I hope to worship in a church.
+   (ID: HMSHQ9H7RA76_7)
+
+14. I am going to run for mayor.
+   (ID: JGNFHPJEPO6H_9)
+
+15. I'll go to graduate school.
+   (ID: ASEVTIZW4Z03_11)
+
+16. I am a researcher.
+   (ID: T9680U7NZ97F_11)
+
+17. I want to go to college.
+   (ID: JTUKE03HZYSY_11)
+
+18. I hope to travel to many football stadiums across the globe and interact with fans.
+   (ID: UVWYNJ9N0J17_11)
+
+19. My dream is to become a prosecutor in the future.
+   (ID: IJ61LGMTNN5M_11)
+
+20. I am a student.
+   (ID: ASEVTIZW4Z03_11)
+
+
+--- MPChat ---
+Total from this dataset: 30
+
+1. one year ago today i started my job that i got through a reddit post of mine.
+   (ID: BeastaBubbles)
+
+2. i miss working at the bar.
+   (ID: Soggypaper_)
+
+3. i worked a leather picture frame.
+   (ID: gelimausi)
+
+4. just got accepted to compete in my very first coffee fest!
+   (ID: jlb4est)
+
+5. i make narwhals and octopuses!
+   (ID: skorletun)
+
+6. i finally started running my out-of-home cottage bakery full time, this is what my second week looked like.
+   (ID: SugarHighBakedGoods)
+
+7. [wip] my wife is a professional knitter.
+   (ID: iowajaycee)
+
+8. i’m working on getting an etsy shop up for myself and today i was working on pictures.
+   (ID: FoxInKneeSocks)
+
+9. out of the industry for three years, haven't turned my machine on in two.
+   (ID: mattsulli)
+
+10. can i just do a sc?
+   (ID: Crilbyte)
+
+11. i'll be competing in coffee fest for my first time next week.
+   (ID: jlb4est)
+
+12. just put in my notice at a retail job, thought i would treat myself!
+   (ID: gxnelson)
+
+13. working 5 jobs... but i love baking.
+   (ID: BabyCakesBakeryyy)
+
+14. i love my job
+   (ID: Nerdyredeyejedi)
+
+15. long shipping to australia, but it got here in time for my days off work
+   (ID: Perthboi92)
+
+16. i do volunteer work at a fire watch tower in the national forest in northern colorado
+   (ID: de_argh)
+
+17. i have been both barista and customer
+   (ID: pocket_kira)
+
+18. exploring the southwest is my passion.
+   (ID: tssouthwest)
+
+19. been busy creating recipes for the food truck i am starting.
+   (ID: ReturnOfTheFox)
+
+20. i love my job :)
+   (ID: mashedtatoes88)
+
+
+--- MSC ---
+Total from this dataset: 450
+
+1. I used to  work at a processing center for long hours.
+   (ID: dialog_23_speaker_1)
+
+2. A soldier is what I'm.
+   (ID: dialog_67_speaker_2)
+
+3. I work at subway
+   (ID: dialog_46_speaker_1)
+
+4. I work in the navy.
+   (ID: dialog_129_speaker_1)
+
+5. My boyfriend is learning acting.  My boyfriend works during the week. I have a lot of time during the week.
+   (ID: dialog_87_speaker_1)
+
+6. I teach kindergarten. Teaching kindergarteners brings me so much joy!  I love kids. I wouldn't enjoy teaching older kids because they are grumpy.
+   (ID: dialog_91_speaker_2)
+
+7. I study to be a businessman.
+   (ID: dialog_112_speaker_2)
+
+8. I am in university majoring in business. I am studying finance.
+   (ID: dialog_7_speaker_2)
+
+9. I'm getting a degree in health science.
+   (ID: dialog_106_speaker_1)
+
+10. I study in college.
+   (ID: dialog_131_speaker_1)
+
+11. I went to medical school.
+   (ID: dialog_43_speaker_1)
+
+12. I work at a movie theater.
+   (ID: dialog_87_speaker_1)
+
+13. I want to work for myself and run my own daycare as a lifelong career.
+   (ID: dialog_119_speaker_2)
+
+14. I am trying to get a post college degree.
+   (ID: dialog_23_speaker_1)
+
+15. I am a strong and helpful person.
+   (ID: dialog_109_speaker_2)
+
+16. I'm an insurance salesman. My dream would be to start my own insurance company.
+   (ID: dialog_15_speaker_2)
+
+17. I work for local government. I can also get government provided training.
+   (ID: dialog_99_speaker_1)
+
+18. I like babies and I want to run my own daycare as a lifelong career. I like murder mysteries.
+   (ID: dialog_119_speaker_2)
+
+19. I work in a hospital.
+   (ID: dialog_20_speaker_1)
+
+20. I am a charitable person
+   (ID: dialog_79_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 420
+
+1. i suggested spring because you will get your degree done one semester sooner .
+   (ID: LordQuorad)
+
+2. i filled out forms and signed contracts and i officially have the job .
+   (ID: aydinsevimli)
+
+3. i have the requirements for both .
+   (ID: shortgiraffe9000)
+
+4. i am upside tho
+   (ID: Aloha-Potato)
+
+5. i 'm watching lots of disney stuff while he 's gone .
+   (ID: Chicoconut)
+
+6. i 've got a job for that .
+   (ID: BorgDrone)
+
+7. i just finished my degree .
+   (ID: arabguyistall)
+
+8. i got the job !
+   (ID: lolala34)
+
+9. i 've got the sales part , i need the gimmick !
+   (ID: notlikethat1)
+
+10. i 'm seeing the careers advisor to get some help with my cv
+   (ID: IAMACiderDrinker)
+
+11. i know what i 'm doing , and i like it
+   (ID: Bathysphere710)
+
+12. i graduate next spring .
+   (ID: mmaswadeh)
+
+13. i have my ba in anthropology / sociology and i graduated college 6 yrs ago .
+   (ID: juliacakes)
+
+14. i m in los angeles and applying to local and online programs .
+   (ID: notlikethat1)
+
+15. i m my own boss though !
+   (ID: bbrandann)
+
+16. i most likely am not moving before obtaining employment .
+   (ID: AgedTwenties)
+
+17. i 'm glad someone like you has this job .
+   (ID: NietzschesUbermensch)
+
+18. i love histology .
+   (ID: rycheme)
+
+19. i actually chose gaming , but it had a low level .
+   (ID: YuseiAkask)
+
+20. i started on march 1st and i 'm on sick day number 6 already .
+   (ID: underneathstars)
+
+
+--- PER-CHAT ---
+Total from this dataset: 277
+
+1. I own a school.
+   (ID: a62b69d15e6c81a1a1acb2d0dd4bf9119038ff09)
+
+2. I own a school.
+   (ID: 3cc393500aaac3a2ee1cd96955cee486bb062a46)
+
+3. salary . just get the job done and don ' t worry too much about what time you arrive in the morning .
+   (ID: be9f60605270d73ac3a4e5b587575b1f65df15f5)
+
+4. I am recent architectural technologist graduate.
+   (ID: 597db748e9e223db2b7d3a7e2d79893e3cc7cd0a)
+
+5. my friend was in a similar situation . his parents are british but they moved to south africa and had him there , so although he is a uk citizen he wasn ' t classified as a local student for the purpose of uni fees . you could always try germany . you could study for free at public german universities as an undergraduate . good luck !
+   (ID: 8f22657eff8a2d9aeade346926843c63f2a21e0a)
+
+6. history . everything is history . from the big bang to thoughts of the future . though my field is psychology .
+   (ID: b5153b16e61f6bc5e4bf4d8db479b7093df1ae26)
+
+7. if you don ' t like your job , find one thing about the job you do like , and make time to do that one thing every day . you  ll have something to look forward to everyday .
+   (ID: 225291489bc1a4ddf3d197a3062fa9ff935f3029)
+
+8. it ' s part of my job .
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+9. i don ' t know enough about canada to know if this is stupid or not , so feel free to ignore me if it is . can you sign up with credit karma ? it ' s a free site that will show you your credit reports and they also will show you offers you might qualify for . check it out and see if they recommend any particular cards . discover cards are usually pretty easy to get , as are capital one cards . just be careful of things like annual fees and high interest rates .
+   (ID: 0e19a35c711a9c78f764d5268c09b16559cdadbf)
+
+10. just apply , you don ' t need any experience . you apply , they call you in , you take a test , if you pass they do an interview .
+   (ID: 8f7369c6ebb47df350fec663be46dfd8481ee2db)
+
+11. savage as fuck . what are you doing with your life ?
+   (ID: b4d61ff0c23f7ce5512ee9f64d1bea0f938f262a)
+
+12. ask yourself what you absolutely love doing , what your values are , what your unique strengths are and what kind of life would you lead if money wasn ' t an issue .
+   (ID: 1b4a970a63450e21b56e1d38502b30aca032cd3f)
+
+13. this looks very hard . i wonder how students can afford this . it ' s very hard to want a good education with this . i ' m from france and all public university and schools are free , everyone who ' s motivated can build his destiny and make studies . there is also the apprenticeship which permits to make studies half time and work half time in the studies domain . this is great , you can become a engineer while having a salary more than digit per month , and you ' ll strat as engineer with digit years work experience . the us system is so hard , but i think this isn ' t the worst . in my opinion the worth is healthcare . having to pay for health is awful , pay 20k  for a pregnancy and labor is so much ! this requires a lot of organization and brave .
+   (ID: 862cb85d93fa9b931c3c64cf2fd17ef592d48c50)
+
+14. I am astronaut.
+   (ID: bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809)
+
+15. i have no advice , as i am in a very similar boat . i ' m digit and have digit years in admin , hate it , am considering a new career but have no idea what to do . i too love reading and writing but don ' t want to pursue writing full time for the reasons you mentioned . i just wanted to say that you are not alone . there are so many people our age who feel unfulfilled with their current career and feel that it could be too late to start a new one . it isn ' t . think about the average life span . we have a whole lot of life to live , it ' s never too late to pursue happiness . have you ever considered that for people like us , perhaps there will be no aha moment ? some people simply don ' t have digit purpose to devote their lives to . that can be so scary because it can leave you feeling restless , directionless and lost . i watched a ted talk that referred to this as being a " multi potentialite . here ' s the link if you care to check it out  maybe you should do some searching . find what naturally gives you joy . it doesn ' t matter if it ' s a profession , a hobby or an interest that captures your attention . identify things that you are excited to do and go from there . some of the happiest people found their dream job completely on accident while just doing something they love . i hope that rambling helped some . best of luck to you !
+   (ID: a9b07d3f94647dffebe730771c20ee3ca1af7ec4)
+
+16. the connections you make can be more important than the things you learn in the classroom . so if there are clubs and internships related to the job you want do them . look for jobs that have skills related to what you want to do , or can at least sell to your future employer . the worst ? you find out you hate what you are going into but can change to something else before you are too invested ! the best ? valuable connections that will help you get where you want to go . remember , its not what you know its who you know .
+   (ID: 213f629dfbc5d6e1a065cffce0f81b825e4467de)
+
+17. i have nothing against people studying what interests them , but i don  t have much sympathy for people with these degrees who complain about how hard it is to find a job in their field or how nobody wants to pay a lot of money for someone with a liberal arts degree .
+   (ID: 4654e3a9a75835f9ff28170ddf31d5d3cf296ea2)
+
+18. i ' ve been working at starbucks for several months and nobody ' s found out i hate coffee .
+   (ID: d54a04c3eba52404f5dd7abb0e459a949dbc7f93)
+
+19. hey all , so i ' m currently a 1st year physics student in one of the better uk unis and am starting to fear for my future . the thing is i only have enough money to sustain myself for the duration of the course , that means that i will only have the opportunity to do one internship because of how the uk system works , no masters studies , no digit year industry placements . so after digit years i will have a bsc in physics and will be looking for a job . i ' ve tried reading up online what a physics graduate can do , however most of the conversations are geared towards masters and phd ' s and for undergrads they usually talk about majors  minors in the us , which isn ' t a thing here , i only have physics to my name . now , i don ' t care that much if my job has little or nothing to do with my course , as long as it doesn ' t feel like my education was a complete waste of time . though it seems to me like i can ' t get into nucleaoptics  medical  meteorological physics , because they have enough masters and phd applicants . i like programming , but i won ' t be qualified enough to compete against compsci  engineering graduates , even if i take extra modules in them .   x200b  so besides teaching which i really don ' t want to do , am i completely screwed ? i only have one chance at an internship , what sector should i aim for that has no problems accepting physics bsc ' s with a little bit of experience ?
+   (ID: 96167969642339382f3b9c4eeee4ea73aec3823c)
+
+20. well best of luck and be yourself personally i would never jump into politics tho . wanted to be a lawyer or something in the criminal justice but aye i was raised around some  illegal  shit and i just said it  s not worth my time fighting for lost cause . politics is a circle jerk  gridlock and end of the day nothing is gonna change . just remember this , get a job that can support you and your future family if you want one .
+   (ID: 4422c1db26c9be5bec35694a448a490c2761d985)
+
+
+--- PersonaChat ---
+Total from this dataset: 303
+
+1. i'm a college student .
+   (ID: conversation_172)
+
+2. i am a veteran .
+   (ID: conversation_89)
+
+3. i working in a publishing building .
+   (ID: conversation_41)
+
+4. i make robots for a living .
+   (ID: conversation_271)
+
+5. my mom is a janitor .
+   (ID: conversation_39)
+
+6. i'm currently going back to school to try and become a casino manager .
+   (ID: conversation_158)
+
+7. my wife stays home with our kids .
+   (ID: conversation_68)
+
+8. my dream is to own my own restaurant .
+   (ID: conversation_272)
+
+9. i do not have a job .
+   (ID: conversation_120)
+
+10. i dropped out of college .
+   (ID: conversation_67)
+
+11. i don t know if i enjoy programming , or if it s my only choice .
+   (ID: conversation_179)
+
+12. i m currently in nursing school .
+   (ID: conversation_200)
+
+13. i work for a online company from home .
+   (ID: conversation_310)
+
+14. i work at a retail store .
+   (ID: conversation_240)
+
+15. i am a barista .
+   (ID: conversation_63)
+
+16. my father was a famous actor .
+   (ID: conversation_154)
+
+17. i've been published in the new yorker magazine .
+   (ID: conversation_181)
+
+18. i went to a community college and got a degree in communication .
+   (ID: conversation_153)
+
+19. i am going to school to get my bachelors degree .
+   (ID: conversation_89)
+
+20. i'm a software engineer .
+   (ID: conversation_346)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 481
+
+1. I am studying software development.
+   (ID: conversation_121_user_2)
+
+2. I used to work as an actress.
+   (ID: conversation_216_user_1)
+
+3. I graduated college and immediately went to graduate school.
+   (ID: conversation_51_user_2)
+
+4. I love to put a smile on peoples faces.
+   (ID: conversation_186_user_2)
+
+5. I graduated high school in 1986.
+   (ID: conversation_337_user_1)
+
+6. I am an accountant.
+   (ID: conversation_226_user_2)
+
+7. My husband is a corporate attorney.
+   (ID: conversation_256_user_2)
+
+8. I have my own salon.
+   (ID: conversation_176_user_2)
+
+9. I am a writer.
+   (ID: conversation_242_user_1)
+
+10. I work at home , editing.
+   (ID: conversation_16_user_2)
+
+11. I work as a veterinarian.
+   (ID: conversation_192_user_2)
+
+12. I work in tv.
+   (ID: conversation_348_user_1)
+
+13. I m a student living at home while pursuing my music industry degree.
+   (ID: conversation_319_user_2)
+
+14. My father used to be a cop.
+   (ID: conversation_101_user_1)
+
+15. I work at a power plant.
+   (ID: conversation_103_user_2)
+
+16. I plan to retire in 6 months.
+   (ID: conversation_143_user_2)
+
+17. I work as a legal assistant in a law firm that basically only handles real estate work.
+   (ID: conversation_330_user_2)
+
+18. I work at a museum.
+   (ID: conversation_342_user_1)
+
+19. I am a waitress at a popular houston club.
+   (ID: conversation_189_user_2)
+
+20. I am in medical school.
+   (ID: conversation_260_user_2)
+
+
+============================================================

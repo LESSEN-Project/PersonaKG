@@ -1,0 +1,467 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 49433
+
+Dataset distribution in this cluster:
+  FoCus: 760 (1.5%)
+  MPChat: 3428 (6.9%)
+  MSC: 1793 (3.6%)
+  PEC: 22151 (44.8%)
+  PER-CHAT: 18072 (36.6%)
+  PersonaChat: 1020 (2.1%)
+  SyntheticPersonaChat: 2209 (4.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 760
+
+1. I like forts.
+   (ID: F8WIALS35WHE_11)
+
+2. I love peaks.
+   (ID: BPCV4KG0PEMD_7)
+
+3. I am a huge fan of attending arenas.
+   (ID: WKAD0PJA14Q4_11)
+
+4. I like Lake Burragorang.
+   (ID: KHRYE9OFUIMW_9)
+
+5. I hate the night life of bars and places like bars.
+   (ID: GPJYUNUXPVWI_11)
+
+6. I hate drug-dealing.
+   (ID: B4Z7LALR7H1Q_11)
+
+7. I love music.
+   (ID: JTUKE03HZYSY_11)
+
+8. I love watching the sport of boxing.
+   (ID: WKAD0PJA14Q4_11)
+
+9. I like visiting historic buildings.
+   (ID: MZEB41FAFYS0_11)
+
+10. I am afraid of witches.
+   (ID: OIMR1GAVEYER_11)
+
+11. I love golf.
+   (ID: D9V2U3AIWTVB_7)
+
+12. I love animals.
+   (ID: XFB5FMNQN1Q8_9)
+
+13. I like national parks.
+   (ID: SR7IVZSR3LV5_11)
+
+14. I don't know Cheshire.
+   (ID: 6JXMJ0KGXDGI_11)
+
+15. I am not that huge when it comes to environment issues.
+   (ID: JW0BLP5O75BW_11)
+
+16. I wouldn't like to be in a prison.
+   (ID: OJ5U23I3FV0N_11)
+
+17. I love shopping malls.
+   (ID: X0N9IFSJSH26_11)
+
+18. I like soccer game.
+   (ID: QRRS2THODNM3_11)
+
+19. I am worried about any inappropriate use of natural resources.
+   (ID: 91IHZ45NQ48A_11)
+
+20. I am follower of Hyder Ali.
+   (ID: UN54IACHSTX5_11)
+
+
+--- MPChat ---
+Total from this dataset: 3428
+
+1. i lost my scraper so it’s not the smoothest frosting
+   (ID: Cantwa1t)
+
+2. the first thing i’ve ever painted in my life...
+   (ID: i_like_it_raw_)
+
+3. westholme wagyu ribeye i grilled last night
+   (ID: cookinwithclint)
+
+4. pork belly burnt ends i did on my broil king pellet xl
+   (ID: cookinwithclint)
+
+5. here’s a cake i made this week :)
+   (ID: ellielumos)
+
+6. 40th birthday cake i made.
+   (ID: DeanIsHotter)
+
+7. owl cake i made for my daughter's 1st birthday
+   (ID: feraljess)
+
+8. this is big foot bobby named after my dad!
+   (ID: Louiesloops)
+
+9. costumes i made for my little knights.
+   (ID: imakethingsgoboom)
+
+10. [i ate] tartufo e funghi - mushroom and truffle pizza.
+   (ID: patm28)
+
+11. made my friends 21st cake, 7inch 7layered vanilla cake with strawberry spread
+   (ID: Notnotnotbryan)
+
+12. finally done 2 months of work and i am so proud of how this turned out
+   (ID: XandXor)
+
+13. this is my favorite shot from yesterday's fourth of july festivities.
+   (ID: LunaMcLovin)
+
+14. i wanted a funky image for bathroom...
+   (ID: Nolon)
+
+15. cake i did for a friend's birthday based off of her bluebird tattoo.
+   (ID: fredbutt)
+
+16. tofu scramble and avocado everything toast with a good book is my kind of morning
+   (ID: ReturnOfTheFox)
+
+17. pretty happy with the cake and treat boxes i created for my mother in law's 70th birthday bash.
+   (ID: SugarHighBakedGoods)
+
+18. all shared with my technicians from a very grateful client.
+   (ID: baccgirl)
+
+19. my 5 day old ducklings looking for a snack
+   (ID: captainindigo123)
+
+20. end of the year project finished for my son, to catch all his bad dreams :)
+   (ID: Winter246)
+
+
+--- MSC ---
+Total from this dataset: 1793
+
+1. I play the violin in an orchestra.
+   (ID: dialog_100_speaker_2)
+
+2. I am a fisherman.
+   (ID: dialog_82_speaker_1)
+
+3. I have a car.
+   (ID: dialog_87_speaker_1)
+
+4. I enjoy skateboarding and going skiing.
+   (ID: dialog_38_speaker_1)
+
+5. I made it to printed words.
+   (ID: dialog_22_speaker_1)
+
+6. I do not think I could have romantic feelings for a person smaller than myself.
+   (ID: dialog_85_speaker_2)
+
+7. I like animals.
+   (ID: dialog_65_speaker_2)
+
+8. I like beer.
+   (ID: dialog_61_speaker_1)
+
+9. I was a manager before working at the warehouse, but my business went bankrupt. My business was bought out in 2000.
+   (ID: dialog_23_speaker_2)
+
+10. I am a chef. I like to travel more than being a chef.
+   (ID: dialog_112_speaker_1)
+
+11. I watch performing arts.
+   (ID: dialog_87_speaker_1)
+
+12. I love to go dancing. I love eating out.
+   (ID: dialog_27_speaker_1)
+
+13. I am a huge fan of chocolate poodles.
+   (ID: dialog_10_speaker_1)
+
+14. I feel like sometimes I am just pretending.
+   (ID: dialog_111_speaker_1)
+
+15. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+16. I adore cats.
+   (ID: dialog_47_speaker_2)
+
+17. I like playing video games.
+   (ID: dialog_35_speaker_1)
+
+18. I like pizza. I drive a moped.
+   (ID: dialog_51_speaker_1)
+
+19. I eat a lot of seafood. I like shrimp. I'm not good at cooking. I've tried cooking seafood Spanish paella and spaghetti before, not success. I want to cook more often.
+   (ID: dialog_105_speaker_1)
+
+20. I really enjoy doing vocals with the band.
+   (ID: dialog_37_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 22151
+
+1. i politely declined .
+   (ID: teriaki)
+
+2. i ’ll bet .
+   (ID: kitcatpaints)
+
+3. i guess maybe it ’s just me but i do n’t see it with him .
+   (ID: Montag3636)
+
+4. i do n't use the etsy app .
+   (ID: meteoriteminer)
+
+5. i want to take actions against them .
+   (ID: bbrandann)
+
+6. i think alot of guys would like a compliment on their physique from the opposite sex .
+   (ID: Takumi-Fujiwara)
+
+7. i love it !
+   (ID: Nolanoscopy)
+
+8. i ’m glad your family is there for him , and i hope mil ends up alone .
+   (ID: Atlmama)
+
+9. i want you . ahahahahaha
+   (ID: Kellen1337)
+
+10. i am really not sure .
+   (ID: pipette_on)
+
+11. i 'll give it a try as well .
+   (ID: juls2587)
+
+12. i ’m sorry , internet friend .
+   (ID: Atlmama)
+
+13. i 'm headed to my prenatal class in about an hour .
+   (ID: teriaki)
+
+14. i ve grown under just fluros before , not cfls though .
+   (ID: Sniperman)
+
+15. i honestly do n’t remember saying that , but it seems sensible .
+   (ID: nastylittleman)
+
+16. i second jayjayh 's emotion .
+   (ID: middlegeek)
+
+17. i 'm not sure i 'd even sell it .
+   (ID: JaZepi)
+
+18. i can imagine .
+   (ID: PepperPixie09)
+
+19. i 'd take half for a first time .
+   (ID: RelaxedSociety)
+
+20. i ’ve had similar thoughts , thanks for articulating them .
+   (ID: snapsnaptomtom)
+
+
+--- PER-CHAT ---
+Total from this dataset: 18072
+
+1. i don ' t see a superman game being challenging enough considering how over powered he is . i would go with beyond game .
+   (ID: 4f3fd3511e55513b94a4aa6c4ac9441a6ba9f86f)
+
+2. One of my favorite things is sushi.
+   (ID: 1b4a970a63450e21b56e1d38502b30aca032cd3f)
+
+3. black panther . i ' m not saying it ' s bad , it was just way over  hyped .
+   (ID: 78a7be65b9d2e7cebf18280c07d4f44e6f2b3417)
+
+4. what ? it ' s a well know fact that cats can sense an empty box like a shark can sense a drop of blood in the ocean .
+   (ID: 4d17a8a4d7907bba6d158e8a0b9c3504d69be003)
+
+5. One of my favorite things is natsuki more.
+   (ID: 0b52265db13bf8bc27ad36aad94e870706eb6689)
+
+6. One of my favorite things is repetitions on this show.
+   (ID: 4cd63391f1644eb1dde02717bf6a72fc6c22acc7)
+
+7. One of my favorite things is basic boring shopping streets.
+   (ID: 86aa9f4e4439cfc2f93b784da95581053937806c)
+
+8. One of my favorite things is penguinz0.
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+9. now that you ' ve learned your mistake go back and do it the right way .
+   (ID: 74253a87130d79f3a85bfb20807ead84f4a4612d)
+
+10. tale a day . sit down and talk . spend all the time finding something easy to talk about . don  t let her leave . if she gets mad tell her why , explain very clearly why you  re sitting her down and just talking all day . let her know that you are just worried . this isn  t her problem alone , it  s very much about both of you and you need to make her understand that the main reason you get in a relationship is to help each other and be happy . take all the time you can without hurting your own mental health and spend it with her . i hope you and your so will get past this and go forward even happier than ever .
+   (ID: 8777ebe00a7403385686cc8962653ff5accb28f0)
+
+11. I own a game.
+   (ID: b7af56426174b182a97c67df12c64d320bf51d61)
+
+12. no matter how bad you want to , i doubt you ' ll be wooshing anyone in this thread .
+   (ID: 5218a6fd3b7d990775fbaa39249c20beea16f741)
+
+13. im currently at the point when you see something so weird that you look around to see if everyone is seeing what you  re seeing .
+   (ID: 01d4ddab8cb9e73e5e85941c592482da1b3c6bcd)
+
+14. One of my favorite things is trundle.
+   (ID: 261413214c13676b8aee2ce20a47107c4ccfe6b8)
+
+15. involving himself with the community , attempting to reach out to the younger generation via memes , reddit etc .
+   (ID: 7d84a169d4ddae2aee36640f218ff2b5b534792d)
+
+16. I have a girlfriend.
+   (ID: 248dfc064467a4d774ed5853571f5757bace1bf3)
+
+17. replaced her toothpaste with sanitize .
+   (ID: 016485853897f1b9f422dd4da7d83e7e4a5261b0)
+
+18. like what ? can you post an example pic ?
+   (ID: af0db6dfe4be67a6b6915437597ea564bbb33830)
+
+19. he must have been curious to see how big he can get this thing i don  t understand how that could happen unless it was on purpose . he also seems to know how to operate that thing too .
+   (ID: 89a759866debf6704efa0f603c1b9c4476abd731)
+
+20. i only value the opinions of freinds , family and intelligent people as your not any of them  friends  you ' re you seem to lack the basic intelligence to use punctuation altogether . i could probably mash my dick on a keyboard and type a better comment than you .
+   (ID: f7356e924b370675e942b29b9c2184dc895ea5b7)
+
+
+--- PersonaChat ---
+Total from this dataset: 1020
+
+1. i'm strong .
+   (ID: conversation_235)
+
+2. i like to get involved in politics .
+   (ID: conversation_214)
+
+3. i enjoy playing tennis .
+   (ID: conversation_11)
+
+4. i drive a nice car .
+   (ID: conversation_189)
+
+5. i read a lot .
+   (ID: conversation_168)
+
+6. my last name is spanish , but i tell people that it s italian .
+   (ID: conversation_179)
+
+7. i do yoga on tuesdays .
+   (ID: conversation_262)
+
+8. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+9. summer is my favorite season .
+   (ID: conversation_24)
+
+10. i wear contacts .
+   (ID: conversation_72)
+
+11. i'm allergic to cats .
+   (ID: conversation_222)
+
+12. my friend once bought me a car .
+   (ID: conversation_322)
+
+13. i love to ride my bike .
+   (ID: conversation_111)
+
+14. my favorite color is blue .
+   (ID: conversation_311)
+
+15. i only eat organic food .
+   (ID: conversation_210)
+
+16. i like to read .
+   (ID: conversation_64)
+
+17. i'm married .
+   (ID: conversation_326)
+
+18. i love to tell jokes .
+   (ID: conversation_125)
+
+19. i like free diving .
+   (ID: conversation_85)
+
+20. i can be quite forgetful .
+   (ID: conversation_37)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2209
+
+1. I talk a lot in irc.
+   (ID: conversation_291_user_2)
+
+2. I have three dogs and two cats.
+   (ID: conversation_122_user_2)
+
+3. Favorite color is green.
+   (ID: conversation_115_user_1)
+
+4. I have 2 cats.
+   (ID: conversation_42_user_1)
+
+5. My favorite subject in school was science.
+   (ID: conversation_331_user_2)
+
+6. I have 3 dogs and 2 cats.
+   (ID: conversation_197_user_1)
+
+7. I like to play tennis.
+   (ID: conversation_175_user_1)
+
+8. I wear glasses all day.
+   (ID: conversation_172_user_1)
+
+9. I am single.
+   (ID: conversation_99_user_1)
+
+10. I have a cat.
+   (ID: conversation_263_user_1)
+
+11. I used to travel the usa playing guitar.
+   (ID: conversation_287_user_2)
+
+12. I am trying to build my online business.
+   (ID: conversation_200_user_1)
+
+13. I read a lot.
+   (ID: conversation_342_user_1)
+
+14. I like to play soccer , draw and read asteria.
+   (ID: conversation_62_user_2)
+
+15. I want people to notice me.
+   (ID: conversation_66_user_2)
+
+16. Starbucks is my favorite hang out spot.
+   (ID: conversation_268_user_1)
+
+17. I enjoy visiting museums.
+   (ID: conversation_113_user_2)
+
+18. I am vegan.
+   (ID: conversation_50_user_1)
+
+19. My favorite band is the story so far.
+   (ID: conversation_61_user_1)
+
+20. Pizza is my favorite food.
+   (ID: conversation_331_user_2)
+
+
+============================================================

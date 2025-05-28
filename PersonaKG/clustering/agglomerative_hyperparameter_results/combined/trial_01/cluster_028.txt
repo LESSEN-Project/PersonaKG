@@ -1,0 +1,156 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 239
+
+Dataset distribution in this cluster:
+  MPChat: 3 (1.3%)
+  MSC: 6 (2.5%)
+  PEC: 5 (2.1%)
+  PER-CHAT: 221 (92.5%)
+  PersonaChat: 3 (1.3%)
+  SyntheticPersonaChat: 1 (0.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. it's my cakeday; here's my dog.
+   (ID: hmbmelly)
+
+2. made this pug to match my friend's dog
+   (ID: Lookingforearrings2)
+
+3. i made this dog for my son.
+   (ID: gelimausi)
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I have a dog and a cat.
+   (ID: dialog_85_speaker_2)
+
+2. I have a cat and a dog.
+   (ID: dialog_65_speaker_1)
+
+3. My little dingo dog is friendly. My wife and I adopted a stray dog. My pet dogs have always been mutts. My parents used to have a dalmation that bit strangers.
+   (ID: dialog_11_speaker_1)
+
+4. I have a dog.
+   (ID: dialog_71_speaker_2)
+
+5. My dog's breed is Siberian Husky.I had a dog named Sally. I want a cat soon.
+   (ID: dialog_34_speaker_1)
+
+6. I don't have a pet. I want a pet pig.
+   (ID: dialog_85_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i want to sleep as well as your dog does .
+   (ID: chirpyboyandbartjr)
+
+2. i have pet ducks
+   (ID: exotics)
+
+3. i had one as a pet as a child .
+   (ID: Waterrat)
+
+4. i want to pet one so much !
+   (ID: MoncoLovesYanno)
+
+5. i ’m not a pet owner .
+   (ID: AP7497)
+
+
+--- PER-CHAT ---
+Total from this dataset: 221
+
+1. I have a cat as a pet.
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+2. I have a dog as a pet.
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+3. I have a cat as a pet.
+   (ID: cb830ff94bb369e5db655e15ee074f392a52c14f)
+
+4. I have a dog as a pet.
+   (ID: 5dc1e0203cb86a245c4ede5cb73923b295b1fdc8)
+
+5. I have a dog as a pet.
+   (ID: 2988ee1cd7a2bcf8e2d215c795ee2d06a985665a)
+
+6. I have a dog as a pet.
+   (ID: e564e7a04c6cafd6927ead32dbaf13efc4322c04)
+
+7. I have a dog as a pet.
+   (ID: 52733f5273fb099705b2a9e455932c48dae3d6b0)
+
+8. I have a cat as a pet.
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+9. I have a dog as a pet.
+   (ID: 9986ae9dc79e871f6701d6323d4b631234b6ef8c)
+
+10. I have a dog as a pet.
+   (ID: 28b40f8090abf393e7d7a7cf1772fb2c16d434a1)
+
+11. I have a dog as a pet.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+12. I have a dog as a pet.
+   (ID: 3dfcdf92c717ed4c117768210afcbbaf9a2ca8a9)
+
+13. I have a cat as a pet.
+   (ID: 2ea109772fcc0738f65030d7584f4ec864e785dd)
+
+14. I have a cat as a pet.
+   (ID: 75ca79d6c5cfc50533ff56cde25edfb593ae8568)
+
+15. I have a dog as a pet.
+   (ID: 2e2a44cdfc726423ec202a2fe420543af441d1ad)
+
+16. I have a cat as a pet.
+   (ID: c7e5f1c7a94109955f94d7acd2417ffad0ba60db)
+
+17. I have a dog as a pet.
+   (ID: 8e9d9ac876fd2e0508d95d3e43def46faae3c312)
+
+18. I have a dog as a pet.
+   (ID: 8784cd4227a610d9cbb51480d635b44be1d31e8c)
+
+19. I have a dog as a pet.
+   (ID: 01d4ddab8cb9e73e5e85941c592482da1b3c6bcd)
+
+20. I have a cat as a pet.
+   (ID: 89169d635166bbc089338914b42d288ecb2593e9)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i have a boxer dog .
+   (ID: conversation_6)
+
+2. i have a boxer dog .
+   (ID: conversation_182)
+
+3. i own a pug , and he is the most loyal pet you will ever have .
+   (ID: conversation_43)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. We have a dog.
+   (ID: conversation_57_user_2)
+
+
+============================================================

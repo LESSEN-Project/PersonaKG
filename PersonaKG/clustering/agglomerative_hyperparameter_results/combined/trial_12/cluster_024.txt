@@ -1,0 +1,56 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 8
+
+Dataset distribution in this cluster:
+  FoCus: 1 (12.5%)
+  MSC: 2 (25.0%)
+  PEC: 3 (37.5%)
+  SyntheticPersonaChat: 2 (25.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I enjoy exploring cemeteries.
+   (ID: MA2EPDC7QHS5_11)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I enjoy my albums.
+   (ID: dialog_6_speaker_2)
+
+2. I enjoy her company.
+   (ID: dialog_64_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i also do enjoy less oxidized greener oolongs as well .
+   (ID: Lilliaan)
+
+2. i enjoy 2 shotting people without revenge : d
+   (ID: playertd)
+
+3. i enjoy being by myself much more than being in a place of people .
+   (ID: AgedTwenties)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I enjoy being alone.
+   (ID: conversation_99_user_2)
+
+2. I enjoy organizing my surroundings.
+   (ID: conversation_153_user_1)
+
+
+============================================================

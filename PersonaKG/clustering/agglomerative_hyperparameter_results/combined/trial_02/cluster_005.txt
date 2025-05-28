@@ -1,0 +1,467 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 11415
+
+Dataset distribution in this cluster:
+  FoCus: 177 (1.6%)
+  MPChat: 442 (3.9%)
+  MSC: 475 (4.2%)
+  PEC: 6136 (53.8%)
+  PER-CHAT: 3137 (27.5%)
+  PersonaChat: 327 (2.9%)
+  SyntheticPersonaChat: 721 (6.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 177
+
+1. I have an interest in military history.
+   (ID: LCFMQMTGBUJO_7)
+
+2. I have visited the Teen Murti Bhavan.
+   (ID: EMXI5E4LUV20_11)
+
+3. I would like to go to college.
+   (ID: NOJ4G30KI3T7_11)
+
+4. I hated the British rule.
+   (ID: KG8AEOFQLTO4_11)
+
+5. I am a member of the Democratic party.
+   (ID: IKQ9QU6QOUT4_11)
+
+6. I am impressed by Strawberry Hill Gothic.
+   (ID: 8C87PLCFQ0ZH_11)
+
+7. I am a Philanthropist.
+   (ID: UUN7SKTZQ38T_7)
+
+8. I would love to attend the worlds fair.
+   (ID: VPRC44FNGVA6_11)
+
+9. I have never watched state high school football championships before.
+   (ID: FCHHL9I1PIW0_11)
+
+10. I'm a sports fan.
+   (ID: X7MOE4GZ4HOG_11)
+
+11. I am fascinated by caves.
+   (ID: X3WVWF5IVCYD_11)
+
+12. I'm a football fan.
+   (ID: X7MOE4GZ4HOG_11)
+
+13. I like learning about the 12 apostles.
+   (ID: OKU8UQBPUSMV_11)
+
+14. My favorite season is summer.
+   (ID: INVNLHZVN3VM_9)
+
+15. I am writing a book about the 19th-century.
+   (ID: JBP0INT1W707_11)
+
+16. I'm a cistercian.
+   (ID: EGOP94LCW2PF_11)
+
+17. I am Catholic.
+   (ID: DDUH6892W2P9_7)
+
+18. I hate construction.
+   (ID: V87MW1A1QA33_11)
+
+19. I am a fan of the Canadian Football League.
+   (ID: NMEFJE64KZ1F_11)
+
+20. I care about the preservation of fauna and flora.
+   (ID: Y7WSG3Z184EX_9)
+
+
+--- MPChat ---
+Total from this dataset: 442
+
+1. i was away from home for 6 months, i have some clean up to do!
+   (ID: billwhiz)
+
+2. it is now one of my favorites!
+   (ID: catsinpockets)
+
+3. this room is from my dollhouse.
+   (ID: gelimausi)
+
+4. i'm wondering why the left side always consistently has larger holes?
+   (ID: Lookingforearrings2)
+
+5. i have almost completed my seal dissection amigurumi.
+   (ID: pokegirl93a)
+
+6. i recreated the in-n-out double-double animal style, because i can't have it here in germany
+   (ID: iSliz187)
+
+7. look forward to the day when i can make it permanent but this is my temp bookshelf.
+   (ID: Nolon)
+
+8. my new snail and new home for him before him eating his tomatoes
+   (ID: why_the_babies_wet)
+
+9. my hobbylobby opened back up!
+   (ID: Crilbyte)
+
+10. found at my local consignment shop.
+   (ID: thumbsmagoo)
+
+11. i'm having a hard time getting over my own disappointment.
+   (ID: meepmeepcuriouscat)
+
+12. what's wrong with my hybrid tea roses?
+   (ID: chirp16)
+
+13. i am overjoyed.
+   (ID: FoxInKneeSocks)
+
+14. super stoked i had to share, my first sock one more to go
+   (ID: XandXor)
+
+15. my co worker said his son “is gonna freak” so proud of this one
+   (ID: mathwifey)
+
+16. well it’s... kinda ramen, i guess?
+   (ID: RaeADropOfGoldenSun)
+
+17. ran out during my lunch break because i needed one skein of black yarn.
+   (ID: Sophie74656)
+
+18. i ate my dream at yume wo katare!
+   (ID: RaeADropOfGoldenSun)
+
+19. i couldn’t be happier with my modest mods.
+   (ID: SweetSassyClassy)
+
+20. vegan friends, what is this green veggie in my tamarind soup on the bottom left?
+   (ID: Chris55730)
+
+
+--- MSC ---
+Total from this dataset: 475
+
+1. I have not played Clue in years. I loved the Clue movie. I think Tim Curry was hilarious.
+   (ID: dialog_124_speaker_1)
+
+2. I watch kids.
+   (ID: dialog_4_speaker_1)
+
+3. I am a nerd.
+   (ID: dialog_25_speaker_2)
+
+4. I'm a star on screen.
+   (ID: dialog_107_speaker_1)
+
+5. My hair is purple.
+   (ID: dialog_14_speaker_2)
+
+6. I'm 28.
+   (ID: dialog_65_speaker_2)
+
+7. I haven't finish school. I am online learning this term.
+   (ID: dialog_67_speaker_2)
+
+8. I am a trans woman.
+   (ID: dialog_131_speaker_1)
+
+9. I enjoying hiking in the mountains.
+   (ID: dialog_91_speaker_2)
+
+10. My mane is to my waist and is chestnut.
+   (ID: dialog_129_speaker_2)
+
+11. I have a job. I go to school.
+   (ID: dialog_29_speaker_1)
+
+12. I love cooking and I'm good at cooking. I try weird food combinations like bacon on ice cream. I am a creative cook.
+   (ID: dialog_107_speaker_2)
+
+13. I don't own or drive a car.
+   (ID: dialog_90_speaker_2)
+
+14. My radio is usually tuned into a country station.
+   (ID: dialog_55_speaker_1)
+
+15. People say I am a force if nature.
+   (ID: dialog_39_speaker_1)
+
+16. I have twins.
+   (ID: dialog_132_speaker_2)
+
+17. We have 5 granddaughters and 2 grandsons.
+   (ID: dialog_127_speaker_2)
+
+18. I used to read Black Stallion. I want to read Twilight.
+   (ID: dialog_31_speaker_2)
+
+19. I think I'm getting engaged soon.
+   (ID: dialog_126_speaker_1)
+
+20. I am free on the weekends.
+   (ID: dialog_119_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 6136
+
+1. i 've lost so many oc memes to those fags ...
+   (ID: SYDWAD)
+
+2. i do n't even ...
+   (ID: sbsb27)
+
+3. i would be the jerk to destroy the display
+   (ID: iam1r7)
+
+4. i suspect it 's true for a lot of people .
+   (ID: Waterrat)
+
+5. i was born in the year 1 , as far as these guys know .
+   (ID: Othello)
+
+6. i do believe they 're right !
+   (ID: jay456)
+
+7. i get the joke , of saying i .... i .
+   (ID: CarlofTime)
+
+8. i ’m not in california .
+   (ID: Captain_-H)
+
+9. i used to hate it so so much .
+   (ID: aydinsevimli)
+
+10. i hate politics so very much .
+   (ID: wooq)
+
+11. i can confirm this and its a very unfortunate thing in the middle east and some families .
+   (ID: KhalidPhoenix)
+
+12. i had that too !
+   (ID: lambsquatch)
+
+13. i 'm glad that the craze is over though .
+   (ID: Mahatma_Panda)
+
+14. i 'd still be shitting myself if i was on the flight , but still super cute .
+   (ID: cherrytonguetie)
+
+15. i 'd take him and miller back as a shootout tandem , only .
+   (ID: dammitOtto)
+
+16. i realized how much i wanted this baby .
+   (ID: lolala34)
+
+17. i 'm so excited !
+   (ID: travelingkiwi)
+
+18. i was n't even even mad anymore after .
+   (ID: gigatroness)
+
+19. i totally understand why this is your opinion !
+   (ID: freddlaren)
+
+20. i read as cock , made me smile .
+   (ID: Ian_Str8)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3137
+
+1. i don ' t know , i can ' t remember . i was digit .
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+
+2. plus , they apparently steal content from other youttubers . they even had the gall to steal cr1tikal ' s reptar bar video . the only reason why i ' m still subbed to buzzfeed is because of unsolved , that ' s it .
+   (ID: afb250d177d47ce6467dfa3414d91e9e07eec6c4)
+
+3. spot on that . was vegan for digit months with the most non understanding friends you can get . back to eating meat for now but can  t justify it morally . i was a rubbish vegan and the lack of nutrition made me sad .
+   (ID: 90eb51492399cbfe8bbde2fd7d291e5e115a59db)
+
+4. ah , that ' s a shame . well . were the first few pages intriguing enough so that you want to finish reading it at some point ?
+   (ID: 581212399ab927ef4ad073e5e0d8d36cf5929452)
+
+5. i would pull out my dick , and say " check this out , it ' s gotten pretty big , right ? guys ? right guys ? "
+   (ID: eca32d278abf2524af02edbb3cc3041ed8b0b880)
+
+6. if keeping your mind and hands occupied is helpful to you like it is me , you can make that work for you . learning an instrument is an amazing way to keep your anxiety at bay . and unlike games , you will gain endless social benefits and confidence that will help you tremendously !
+   (ID: aeeeb72f8fa4535141823a3cf83acb5f60bbaff4)
+
+7. i don ' t , but when you add the ! it ' s annoying
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+8. that  s your opinion
+   (ID: 57566e418da3ba7bb3e33d1def44eaef175b88e9)
+
+9. chase best op ever . even better with that cover
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+
+10. I am typing.
+   (ID: f8d48136e1ccbc739d4b7fb8db1e8f668422b145)
+
+11. " well it ' s hannibal i guess we have to set fire to all the pigs now "
+   (ID: d7f47de640bd3d8659ad150b77fea8f843c60c26)
+
+12. what on earth ?
+   (ID: 8ea8e4a00c3f2a64096e00bdbba0247e580cdb17)
+
+13. . are you serious ?
+   (ID: bb79791c3753a1fc8ece696b3835b0f59ddccc90)
+
+14. jesus worries about other people and died horrifically to save them . what are we doing ? why should we be comfortable ?
+   (ID: 2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4)
+
+15. being able to call out your president and other leadership on their constant bs and not get sent to a concentration camp
+   (ID: 36314aee005a03517f2446ec0da2834fe0f712d6)
+
+16. it reads like the author said ,  if i put a lot of words and say a lot , the reader will quit out of boredom and confusion and assume the boa is ok .
+   (ID: f90b0d899acf3c82adaa55fb250d0c7ea9eaeaf3)
+
+17. i have a better idea . why not go and have sex instead ?
+   (ID: 6fa65e005cc7ba05dc62c263af1ea289902ce6d1)
+
+18. that makes it that much better .
+   (ID: 7ebdc00c75f6f836557e13d39a9efb279ed2ef7a)
+
+19. what makes you think i might not already have ? the dt should not be compelled to post the images , fine , but you either do or do not . all it takes is a few seconds to unblur that ridiculous compromise they went for . it makes as much sense as censoring swear words with asterisks and grawlixes , we all know what they are , don ' t treat all of us like children .
+   (ID: 12b33309ed44732201ee2caf9b6ce9ce17552a26)
+
+20. this is amazing ! everything is set for my application , all that ' s left is to finalize the digit  second video . i don ' t know why i struggle so much on that one .
+   (ID: 581212399ab927ef4ad073e5e0d8d36cf5929452)
+
+
+--- PersonaChat ---
+Total from this dataset: 327
+
+1. i take great care of my skin .
+   (ID: conversation_317)
+
+2. i cannot do math .
+   (ID: conversation_342)
+
+3. traveling and making friends is something i find delightful .
+   (ID: conversation_287)
+
+4. i have a harsh inner critic .
+   (ID: conversation_334)
+
+5. my favorite color is orange .
+   (ID: conversation_151)
+
+6. i believe dragons are real .
+   (ID: conversation_54)
+
+7. i hate talking to people .
+   (ID: conversation_54)
+
+8. i am the middle child of 3 siblings .
+   (ID: conversation_286)
+
+9. i am six feet tall .
+   (ID: conversation_156)
+
+10. 1984 is my favorite book .
+   (ID: conversation_347)
+
+11. my favorite tv show is dancing with the stars .
+   (ID: conversation_144)
+
+12. i'm trying to build my online business .
+   (ID: conversation_267)
+
+13. i grew up on a large farm .
+   (ID: conversation_167)
+
+14. i wear contacts .
+   (ID: conversation_72)
+
+15. i am a member of four book clubs , the pta , and two bunch groups .
+   (ID: conversation_75)
+
+16. i have four siblings .
+   (ID: conversation_293)
+
+17. after finishing my career i discovered that i'm not that passionate about it .
+   (ID: conversation_165)
+
+18. i am engaged to be married .
+   (ID: conversation_269)
+
+19. i have 8 brothers and we are close .
+   (ID: conversation_274)
+
+20. i attend book club every week .
+   (ID: conversation_49)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 721
+
+1. I am blind.
+   (ID: conversation_28_user_1)
+
+2. I am a gentle giant.
+   (ID: conversation_279_user_2)
+
+3. I am single.
+   (ID: conversation_144_user_1)
+
+4. I am an athlete.
+   (ID: conversation_323_user_2)
+
+5. I never knew my dad.
+   (ID: conversation_146_user_2)
+
+6. I draw all of my friends as my little pony characters.
+   (ID: conversation_119_user_1)
+
+7. I live with my sisters and they provide me with all my needs.
+   (ID: conversation_68_user_2)
+
+8. I am a widow.
+   (ID: conversation_223_user_1)
+
+9. I am buying a house.
+   (ID: conversation_104_user_1)
+
+10. I have ten nieces and nephews.
+   (ID: conversation_249_user_1)
+
+11. I have big face cheeks.
+   (ID: conversation_183_user_2)
+
+12. I am a woman.
+   (ID: conversation_132_user_1)
+
+13. 1984 is my favorite book.
+   (ID: conversation_128_user_1)
+
+14. My name is nancy.
+   (ID: conversation_58_user_2)
+
+15. My name is arnold.
+   (ID: conversation_5_user_2)
+
+16. My name is arnold.
+   (ID: conversation_61_user_2)
+
+17. I have sausage fingers.
+   (ID: conversation_54_user_1)
+
+18. I am engaged.
+   (ID: conversation_233_user_1)
+
+19. I m a lesbian.
+   (ID: conversation_134_user_1)
+
+20. My favorite book is david copperfield.
+   (ID: conversation_19_user_2)
+
+
+============================================================

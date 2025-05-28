@@ -1,0 +1,261 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 234
+
+Dataset distribution in this cluster:
+  MPChat: 7 (3.0%)
+  MSC: 4 (1.7%)
+  PEC: 16 (6.8%)
+  PER-CHAT: 174 (74.4%)
+  PersonaChat: 6 (2.6%)
+  SyntheticPersonaChat: 27 (11.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 7
+
+1. itap of my cat posing gracefully
+   (ID: markoshino)
+
+2. my cat noodle has got that puss in boots thing going on.
+   (ID: VodkaWithSnowflakes)
+
+3. this is my dilly cat
+   (ID: BareFootMumma)
+
+4. i freaked out when my cat got out... this is how i found her.
+   (ID: ddizzle23)
+
+5. my cat is possessed but still sooo very awwww :)
+   (ID: ddizzle23)
+
+6. my roommates cat must have been in timeout.
+   (ID: Nerdyredeyejedi)
+
+7. i made a cat fort... it's not going so well.
+   (ID: MafHoney)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I love my cat.
+   (ID: dialog_49_speaker_2)
+
+2. For me, one cat is enough.
+   (ID: dialog_49_speaker_1)
+
+3. I own a Cat.
+   (ID: dialog_191_speaker_1)
+
+4. I love my cat.
+   (ID: dialog_49_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 16
+
+1. i love this cat .
+   (ID: notthruyet)
+
+2. i have a pretty cat ....
+   (ID: kaizermattias)
+
+3. i got to pet nelson , the newfoundland .
+   (ID: Bathysphere710)
+
+4. i like your cat and would like to pet it ’s tummy .
+   (ID: bugaloo2u2)
+
+5. i have a similar thing going on with my cat .
+   (ID: mmaswadeh)
+
+6. i have a cat
+   (ID: mathieu2em)
+
+7. i 've got a cat and a bunch of heathen friends and we 'd love to have you !
+   (ID: EmRaff7)
+
+8. i think the neighbours cat did it .
+   (ID: harumpf)
+
+9. i ’m sure your cat is a floof
+   (ID: FrankOfTheDank)
+
+10. i have a one - eyed pirate cat too ! !
+   (ID: bugaloo2u2)
+
+11. i love bill the cat !
+   (ID: MrBovineJoni)
+
+12. i snorted so loudly it startled the cat .
+   (ID: windowcircle)
+
+13. i read this as ' neighbours cat' ... i'm so relieved .
+   (ID: bigfuckingdiamond)
+
+14. i did that to my cat once !
+   (ID: mostlikelyto___)
+
+15. i do n’t have a cat .
+   (ID: throwaway073847)
+
+16. i d on cat ?
+   (ID: LabeledAsALunatic)
+
+
+--- PER-CHAT ---
+Total from this dataset: 174
+
+1. I have a cat as a pet.
+   (ID: c57c1c4a7bc322137f33348912909a05c50dd624)
+
+2. I have a cat as a pet.
+   (ID: 153d8b303a8e2cf2226dbc301822060e43ceab6c)
+
+3. I have a cat as a pet.
+   (ID: c7e5f1c7a94109955f94d7acd2417ffad0ba60db)
+
+4. I have a cat as a pet.
+   (ID: c6cc92fb6dee5f65446e9383372864b9e25f1d60)
+
+5. I have a cat as a pet.
+   (ID: 4f65e5402391c052d2d3e7a2a4d73b01ea1db203)
+
+6. I have a cat as a pet.
+   (ID: 96167969642339382f3b9c4eeee4ea73aec3823c)
+
+7. you ' re going to be a cat person soon , trust me . you will fall in love with this cat .
+   (ID: f5639f88927d467b89189ab179bb30d8a5705552)
+
+8. I have a cat as a pet.
+   (ID: 2bb956084cb9bf79f58345d6cf6beca98e76bbb4)
+
+9. I have a cat as a pet.
+   (ID: 164327be87300906de16932661437c5b2b671c9d)
+
+10. I have a cat as a pet.
+   (ID: 5763816fca04febe03a678f8e19c39daaa876bd4)
+
+11. I have a cat as a pet.
+   (ID: 13351a02e20f4adf8ac13d71b9b8887cf8b7bb2c)
+
+12. I have a cat as a pet.
+   (ID: 48327dfb7185a727925115986b0d0501d2999a36)
+
+13. I have a cat as a pet.
+   (ID: 4917a362688355621979e016028f58dbf7f3ac7e)
+
+14. I have a cat as a pet.
+   (ID: a0849f7d6d0829c8bb5f820aa9bf63584c7471df)
+
+15. I have a cat as a pet.
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+
+16. I have a cat as a pet.
+   (ID: b386bb7f54bebf7edfe66a27e8d881a61bd1d6df)
+
+17. I have a cat as a pet.
+   (ID: ae9e10cc82b9b20c52f819c70c83f657724f9f44)
+
+18. I have a cat as a pet.
+   (ID: f9074998a5afc016e8779c3abcabf220d4ee8eb6)
+
+19. I have a cat as a pet.
+   (ID: 1b99508b414040c0a77716b8287dc8d53ceeed67)
+
+20. I have a cat as a pet.
+   (ID: 89e76efb1868896fe46bffbc2c10d965b53857d1)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i have a cat .
+   (ID: conversation_455)
+
+2. i've a cat .
+   (ID: conversation_24)
+
+3. i have a cat .
+   (ID: conversation_446)
+
+4. i have one cat .
+   (ID: conversation_275)
+
+5. i recently got a cat .
+   (ID: conversation_497)
+
+6. i've a cat .
+   (ID: conversation_370)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 27
+
+1. I own a cat.
+   (ID: conversation_249_user_2)
+
+2. I have a cat.
+   (ID: conversation_271_user_1)
+
+3. I have a cat.
+   (ID: conversation_16_user_2)
+
+4. I have a cat.
+   (ID: conversation_261_user_1)
+
+5. I own a cat.
+   (ID: conversation_165_user_1)
+
+6. I have one cat.
+   (ID: conversation_418_user_1)
+
+7. I have a cat.
+   (ID: conversation_265_user_1)
+
+8. I have a cat as a pet.
+   (ID: conversation_315_user_2)
+
+9. I have a cat.
+   (ID: conversation_268_user_1)
+
+10. I have a cat.
+   (ID: conversation_97_user_2)
+
+11. I have a cat.
+   (ID: conversation_269_user_1)
+
+12. I have one cat.
+   (ID: conversation_419_user_1)
+
+13. I have a cat.
+   (ID: conversation_267_user_1)
+
+14. I recently got a cat.
+   (ID: conversation_320_user_2)
+
+15. I own a cat.
+   (ID: conversation_495_user_2)
+
+16. I own a cat.
+   (ID: conversation_287_user_1)
+
+17. I own a cat.
+   (ID: conversation_164_user_1)
+
+18. I have a cat.
+   (ID: conversation_263_user_1)
+
+19. I have a cat.
+   (ID: conversation_93_user_2)
+
+20. I own a cat.
+   (ID: conversation_163_user_1)
+
+
+============================================================

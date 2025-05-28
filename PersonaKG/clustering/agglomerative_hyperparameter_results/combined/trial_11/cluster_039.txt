@@ -1,0 +1,211 @@
+CLUSTER 39
+============================================================
+Total statements in cluster: 1693
+
+Dataset distribution in this cluster:
+  MSC: 5 (0.3%)
+  PEC: 7 (0.4%)
+  PER-CHAT: 1637 (96.7%)
+  PersonaChat: 6 (0.4%)
+  SyntheticPersonaChat: 38 (2.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I am an elderly male.
+   (ID: dialog_169_speaker_2)
+
+2. I am 29 years old.
+   (ID: dialog_41_speaker_1)
+
+3. I'm a female in my 30s.
+   (ID: dialog_152_speaker_2)
+
+4. I am a female.
+   (ID: dialog_108_speaker_1)
+
+5. I am 30 years old.
+   (ID: dialog_65_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i am in my mid 30 's and female .
+   (ID: RobotHappiness)
+
+2. i m 38 , i m fully grown .
+   (ID: randominternetdood)
+
+3. i 'm a 23 year old female .
+   (ID: MirandaTulip)
+
+4. i am a 67 year old male .
+   (ID: ddshroom)
+
+5. i 'm an 18 year old woman .
+   (ID: Mende)
+
+6. i am a 23 year old male .
+   (ID: AgedTwenties)
+
+7. i 'm a 31 year old male .
+   (ID: JustHereForCum)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1637
+
+1. I am a male.
+   (ID: 7ed1ff576cc7dc77750ed5f15461eb3ccdb52a7a)
+
+2. I am a male.
+   (ID: 41ecb08cd807b953da29a82cba9ddfcf32745fc3)
+
+3. I am a male.
+   (ID: 03d15a94c7d0f2138a5e5c0cf7e503c341abbf78)
+
+4. I am a male.
+   (ID: 9a13b21f54717da1499379b5cb0e991e82d4c90f)
+
+5. I am a male.
+   (ID: ef87eefe030bad98e7a1705beba0859fe1869cef)
+
+6. I am a male.
+   (ID: 4e6c3b61b6f315293cfe18b64752202ad52882b5)
+
+7. I am a male.
+   (ID: 41d66f92509db20d202cca3f348509c6cd25586b)
+
+8. I am a male.
+   (ID: 2fd27f1218d4f8b9cf90988522a560a50a304dfc)
+
+9. I am a male.
+   (ID: b315186ce8337ceb3b156267ade8222ced5499ef)
+
+10. I am a male.
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+
+11. I am a male.
+   (ID: 25b8235c988cb167d94968ee893707e9c358cde8)
+
+12. I am a male.
+   (ID: e9829c29404a911421b2b39c7ea7309cbcf3329e)
+
+13. I am a male.
+   (ID: 2e464b2732570f16afced14ab79d30fa92622627)
+
+14. I am a male.
+   (ID: f024c8cde5b36a880df271cca31792d32264df2c)
+
+15. I am a male.
+   (ID: b30983a02e6c6ad80a50a521eee441b9f454a5e9)
+
+16. I am a male.
+   (ID: c41e4affc406bbc71e6c12aabf095d759b6dbec2)
+
+17. I am a male.
+   (ID: 41f8ac05c762907b27cbd358a42fe8a860c399ab)
+
+18. I am a male.
+   (ID: 9425493e0ea7469367495f8e5947330e536cafa9)
+
+19. I am a male.
+   (ID: ed2d2ab477a99cff4d15f5f18a7d3662571d6e1a)
+
+20. I am a female.
+   (ID: dbef825d92ac68d9f1c82f424ece80adbf736aeb)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i'm a older woman .
+   (ID: conversation_303)
+
+2. i'm a middle aged woman .
+   (ID: conversation_278)
+
+3. i'm 29 years old .
+   (ID: conversation_164)
+
+4. i am 19 years old .
+   (ID: conversation_103)
+
+5. i'm a 30 year old female .
+   (ID: conversation_282)
+
+6. i am eighteen years old .
+   (ID: conversation_351)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 38
+
+1. I am a 70 year old man.
+   (ID: conversation_330_user_1)
+
+2. I am seventy one years old.
+   (ID: conversation_220_user_2)
+
+3. I am a 70 year old man.
+   (ID: conversation_329_user_1)
+
+4. I am male.
+   (ID: conversation_10_user_1)
+
+5. I am twenty five years old.
+   (ID: conversation_23_user_1)
+
+6. I am male.
+   (ID: conversation_9_user_1)
+
+7. I am thirty years old.
+   (ID: conversation_199_user_2)
+
+8. I am twenty five years old.
+   (ID: conversation_22_user_1)
+
+9. I am an old woman.
+   (ID: conversation_193_user_2)
+
+10. I weight 300 pounds.
+   (ID: conversation_21_user_1)
+
+11. I am male.
+   (ID: conversation_7_user_1)
+
+12. I am an older guy.
+   (ID: conversation_15_user_2)
+
+13. I am a female.
+   (ID: conversation_361_user_1)
+
+14. I am an old woman.
+   (ID: conversation_405_user_2)
+
+15. I am a 30 year old female.
+   (ID: conversation_196_user_1)
+
+16. I am younger then 46.
+   (ID: conversation_397_user_2)
+
+17. I am a older woman.
+   (ID: conversation_402_user_2)
+
+18. I am twenty one years old.
+   (ID: conversation_267_user_2)
+
+19. I weight 300 pounds.
+   (ID: conversation_33_user_2)
+
+20. I am a female.
+   (ID: conversation_360_user_1)
+
+
+============================================================

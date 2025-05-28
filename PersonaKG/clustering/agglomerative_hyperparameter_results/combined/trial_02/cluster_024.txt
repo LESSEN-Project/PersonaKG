@@ -1,0 +1,443 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 1473
+
+Dataset distribution in this cluster:
+  FoCus: 47 (3.2%)
+  MPChat: 138 (9.4%)
+  MSC: 62 (4.2%)
+  PEC: 933 (63.3%)
+  PER-CHAT: 218 (14.8%)
+  PersonaChat: 63 (4.3%)
+  SyntheticPersonaChat: 12 (0.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 47
+
+1. I have seen a lot of World War II films.
+   (ID: 91IHZ45NQ48A_11)
+
+2. I've never been to an island.
+   (ID: GHGLD29537QW_11)
+
+3. I have some articles about Benjamin W. Chidlaw.
+   (ID: TBZIWSGJCM17_11)
+
+4. I have seen Tarn.
+   (ID: Q997WWV6FO9L_11)
+
+5. I am impressed by C. S. Denniss.
+   (ID: QD76MDAZKTVK_11)
+
+6. I have never seen a T-antenna before.
+   (ID: GNIFMHXKEMKB_11)
+
+7. I have never seen a river.
+   (ID: V87MW1A1QA33_11)
+
+8. I've always wanted to go to Germany,
+   (ID: OOU8UC23AVLV_11)
+
+9. I have never seen Chichen-Itzá.
+   (ID: ZWQO9OQ8DX45_11)
+
+10. I have heard of the Saint John of Capistrano.
+   (ID: LEUWGO47I5DG_11)
+
+11. I have not seen the River Ribble.
+   (ID: PDQ9Z8XXYUMC_11)
+
+12. I've never been in a Fort.
+   (ID: EZGYRI0YA8OX_9)
+
+13. I have seen River Thames.
+   (ID: DMD9S9COJOIA_7)
+
+14. I have never seen a blackbuck.
+   (ID: V3LNPA1FT8D2_11)
+
+15. I have seen a seaport.
+   (ID: F91BK688K9G1_11)
+
+16. I have seen many parks.
+   (ID: LFDYLQP6HP80_7)
+
+17. I have learned more about Fr. Juan Xuárez O.F.M. in my college.
+   (ID: OII32NSNR2Q2_7)
+
+18. I think Washington is also very beautiful city I've ever seen.
+   (ID: MGEY7QK79154_11)
+
+19. I have seen aquariums.
+   (ID: L6JH57TIZGRW_11)
+
+20. I'm deeply impressed in Women's Suffrage.
+   (ID: DK9VMLV1IASM_11)
+
+
+--- MPChat ---
+Total from this dataset: 138
+
+1. i've just made this weekend
+   (ID: justcook_byangel)
+
+2. i’ve since improved my straightness skills and consistency with letters.
+   (ID: 1cecream4breakfast)
+
+3. i've pitched my tent in worse locations
+   (ID: ed2base)
+
+4. just completed my very first wedding cake themed to reflect the canyon where the couple tied the knot yesterday.
+   (ID: SugarHighBakedGoods)
+
+5. this was one of my first crochet pieces, i've made it when i was like 9 y.o.
+   (ID: Ploliveira)
+
+6. first rosetta i've been happy with!
+   (ID: SilentRansom)
+
+7. desserts i've made in my school!
+   (ID: DarkLotus1029)
+
+8. one of the largest red pines i've ever seen!
+   (ID: travelingisdumb)
+
+9. i've just made this cake for my friend's birthday for today.
+   (ID: justcook_byangel)
+
+10. after years seen my friend doing macarons.
+   (ID: justcook_byangel)
+
+11. i've made this beautiful pendant with golden thread.
+   (ID: Ploliveira)
+
+12. some cakes i've baked recently.
+   (ID: DeanIsHotter)
+
+13. just delivered my first wedding cake!
+   (ID: DeanIsHotter)
+
+14. because i've been missing boba
+   (ID: Lookingforearrings2)
+
+15. squirt is getting so big today is two years that i've had him
+   (ID: castaneda2912)
+
+16. all the baby blankets i’ve made during social isolation!
+   (ID: green-egg-and-ham)
+
+17. [fo] most complicated beanie i've [bro]cheted so far!
+   (ID: lolveets)
+
+18. i've just made this mango mousse cake for the weekend
+   (ID: justcook_byangel)
+
+19. first wild oyster mushroom i’ve ever found in washinon though!
+   (ID: sundstrom193)
+
+20. some of the craziest light i've ever seen [oc]
+   (ID: garret_weintrob)
+
+
+--- MSC ---
+Total from this dataset: 62
+
+1. I've a long commute.
+   (ID: dialog_56_speaker_1)
+
+2. I've no job.
+   (ID: dialog_24_speaker_2)
+
+3. I've a passion for feeding the hungry.
+   (ID: dialog_17_speaker_1)
+
+4. Sometimes I've trouble breathing.
+   (ID: dialog_114_speaker_1)
+
+5. I've a beautiful wife.
+   (ID: dialog_78_speaker_2)
+
+6. I've never played chess.
+   (ID: dialog_108_speaker_1)
+
+7. I've seen dracula.
+   (ID: dialog_58_speaker_1)
+
+8. I met a vampire in a cave during halloween last year.
+   (ID: dialog_58_speaker_1)
+
+9. I've not loved.
+   (ID: dialog_72_speaker_1)
+
+10. I've never been to a mystery dinner party before.
+   (ID: dialog_119_speaker_2)
+
+11. I've a boat.
+   (ID: dialog_55_speaker_1)
+
+12. I've not been lit.
+   (ID: dialog_103_speaker_1)
+
+13. I've never been to Peru. I am not into hiking. I think exploring is fun.
+   (ID: dialog_9_speaker_2)
+
+14. I've a job in a supermarket.
+   (ID: dialog_101_speaker_1)
+
+15. My father is a book writer and he just wrote a sci fiction book on time travel.
+   (ID: dialog_38_speaker_2)
+
+16. I've no self control when it comes to candy.
+   (ID: dialog_25_speaker_2)
+
+17. I love to go boating when I've a spare moment.
+   (ID: dialog_70_speaker_2)
+
+18. I've lost a pinky toe.
+   (ID: dialog_107_speaker_2)
+
+19. I've 3 brothers and sisters.
+   (ID: dialog_42_speaker_1)
+
+20. I've tons of buddies.
+   (ID: dialog_97_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 933
+
+1. i 've never won a box figurine ever .
+   (ID: kailan123456)
+
+2. i 've always wondered how they taste .
+   (ID: Waterrat)
+
+3. i ’ve always had very light periods and minor cramps .
+   (ID: AP7497)
+
+4. i 've had it for about a week and a half now .
+   (ID: dkinmn)
+
+5. i 've made this with green tomatoes and used different herbs .
+   (ID: Waterrat)
+
+6. i 've never been a fan of reislings
+   (ID: Captain_-H)
+
+7. i 've learned there is no such thing as a good driver .
+   (ID: notjawn)
+
+8. i ’ve compared my tap water to my tank water .
+   (ID: FruitBatFanatic)
+
+9. i 've considered travelling the world with my bike , just travel between continents on a cruise ship .
+   (ID: Ashex)
+
+10. i 've been playing for a couple week , s but i have no friends who play .
+   (ID: Megan_Bee)
+
+11. i ’ve tried tightening my core and glutes , and my last hope is to just get stronger .
+   (ID: FrankOfTheDank)
+
+12. i do believe i 've caught touch of the vapors .
+   (ID: silentpower)
+
+13. i 've seen a pic of a zebra finch with this .
+   (ID: Waterrat)
+
+14. i have seen ftfy before .. what does it mean ?
+   (ID: exotics)
+
+15. i 've never upvoted something so hard in my life .
+   (ID: Osiris0123)
+
+16. i 've romantically moved on from the relationship .
+   (ID: clueless3867)
+
+17. i 've always associated them with .
+   (ID: misplaced_my_pants)
+
+18. i 've never been good at writing or even worse , song - writing :)
+   (ID: dohko_xar)
+
+19. i ’ve stayed there and i ’m being dead serious- it ’s fucking haunted .
+   (ID: billclay55raiders)
+
+20. i ’ve known only or or two dudes that regularly do it but at least a dozen women .
+   (ID: BoobieBoobieButtButt)
+
+
+--- PER-CHAT ---
+Total from this dataset: 218
+
+1. no , they are not flushable . if the box says so , they are lying to try to sell more tampons , though i ' ve ever seen that on a box . tampons are literally designed to plug and soak up liquids , so they do that in the pipes too . " flushable " wipes are not supposed to be flushed either , they do not break down .
+   (ID: 32963b268f862205bfe0776470d7730e54b581ec)
+
+2. i  ve been here ! it  s absolutely my favourite place in the entire world . when i found out about it i knew i had to visit . only took me a digit hour drive to get their but it was so worth it . i feel even deeper into my obsession with birds their .
+   (ID: 77ab4860c32a7084ca81fd91302df6690ce56731)
+
+3. but that ' s judging , for all you know , he  she couldve been the nicest person you ' ve ever met .
+   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
+
+4. i  ve seen this one before but no matter how many times i  d do the wtf factor only increases
+   (ID: 6b1a5069121a216d43b11b6d5c61b018eb668aaa)
+
+5. so i ' ve never played multiplayer . how does splitting loot work ? you meet up after you ' ve all done your bounties , then pop open your caches , then what ? do you take what you want from the pile and hope that whoever you ' re playing with doesn ' t hoover everything up ?
+   (ID: 063122b93a40a719244d27587193e154f2fed59d)
+
+6. how much of a parody of themselves they ' ve become .
+   (ID: ecc98de1e575d7e863a2124b364b8ed586778ba5)
+
+7. employers are required to give you the option to keep your heath insurance after you part ways  you agreed to this health insurance isn ' t like car insurance . you paid your premiums every month while working , it ' s the same after employment separation  monthly  digit for health insurance covering a digit month period is totally unrealistic unless you paid a lump sum to start up your insurance , which i ' ve never heard of you have been paying for insurance coverage you ' ve already received . unless you can provide proof that you were insured by another insurance company during that same previous time period that you paid for after the fact , no , they do not owe you anything . they insured you for that month , you paid for it after . nothing you can do
+   (ID: 20ee46767f4f96df6795d9b93f6c4c7be9a56261)
+
+8. people paid you money for a decision you made . no one forced you to make porn . so you do owe fans at least the content they paid and clicked to see . if this sub helps them find it , then that  s what you owe them . if a real actor quits , they don  t get to take down their movies or shut down fan sites that get in the way of them living a normal life or changing career paths . that said , it  s not a big deal to me . i understand you couldn  t hack it and would rather just give up . we  ve all been there with a job . if you ever make a come back , you  ll want the social media infrastructure in place eg this sub . i  ve seen girls quit and come back once they re  discover how hard it is in the real world to make this kinda cash . also , you should know that shutting down a sub is meaningless . another can pop up . and anyone can still google their way to your naked body . what you need to do is file with social security for a name change even if you didn  t use your real name , but especially if you used your real name .
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+9. i ' ve lost many a pair of glasses
+   (ID: 2bb956084cb9bf79f58345d6cf6beca98e76bbb4)
+
+10. i ' ve been thinking about this for a while and i see something that sticks out heavily . this dude knows about capitalization considering he capitalized after a period . but he starts the paragraph with it lowercase . bes should also be capital because it ' s a proper noun . here ' s what i ' m saying      remember the quick brown fox jumped over the lazy dog     many of those who fought the mighty god bes have climbed their way from the ground up , pushing their ways to the top of the skies above . they create  great names for themselves , strown across great distances . pushing shouldn ' t be capital either considering it ' s after a comma which does not capitalize words . what do you guys think ?
+   (ID: 767dc546311237345e846f55cd4d6b549fa0cb71)
+
+11. fuuuuuuuck ! what is seen can not be unseen !
+   (ID: c69ba20c8286f807f6219a451e4448f951938f31)
+
+12. because you ' ll never hear someone say don ' t joke about that i ' ve been murdered before it ' s not funny .
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+13. damn , wasn ' t supposed to reply on you but if it weren ' t for you ' re dickriding kind , you would ' ve had way less karma and i would , nt have lost digit of them
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+14. city of god . atleast everyone i ask if they ' d seen the movie , they ' ve never even heard of it . so dissapointing .
+   (ID: 199ca187d50b43aebb52968a5525289cb65a1520)
+
+15. i ' ve been working at starbucks for several months and nobody ' s found out i hate coffee .
+   (ID: d54a04c3eba52404f5dd7abb0e459a949dbc7f93)
+
+16. that ' s the most adorable thing i ' ve seen till now .
+   (ID: 60d49a425809d6f450335028a75a5202d3b84678)
+
+17. but . suicide ? you  ve got so much left to do ! tens of thousands of people to meet . places you  ve never seen in food you  ve never tried . music you  ve never heard and books you  ve never read . it  s a big world and i don  t want you to miss it
+   (ID: 757e143549620faa46043c6954071c7a8dd6b484)
+
+18. you don ' t think that ' s ever worked before ? i ' ve done it myself in an apartment unit and that worked , and i ' ve seen growing up these guys across from where i lived they were blasting their music at night , my neighbour yelled at them and told them to turn their fucken music off and bam the music went off
+   (ID: 564c5b4efd54586fbf212727e2071f5ddadabb82)
+
+19. i think you ' ve stumbled upon one of the great secrets of the universe there . i think you ' ve just paid for your ticket to that great gameshow in the sky .
+   (ID: c9a98f7f4291c6c1eefeeaae838890408881f877)
+
+20. i ' ve yet to see this picture . somehow i think im content with not .
+   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
+
+
+--- PersonaChat ---
+Total from this dataset: 63
+
+1. i've a golden retriever .
+   (ID: conversation_332)
+
+2. i've a lot of friends .
+   (ID: conversation_97)
+
+3. i've been married for 20 years .
+   (ID: conversation_145)
+
+4. i've lots of friends and can hold a conversation easily .
+   (ID: conversation_131)
+
+5. i've 2 dogs .
+   (ID: conversation_115)
+
+6. i've a thick full beard .
+   (ID: conversation_274)
+
+7. i've four siblings .
+   (ID: conversation_264)
+
+8. i've a lot of friends .
+   (ID: conversation_118)
+
+9. i've 2 sisters .
+   (ID: conversation_161)
+
+10. i've purple hair .
+   (ID: conversation_323)
+
+11. people say i've a cute laugh .
+   (ID: conversation_41)
+
+12. i've 2 cats .
+   (ID: conversation_141)
+
+13. i've long red hair .
+   (ID: conversation_236)
+
+14. i've been divorced for 2 years .
+   (ID: conversation_73)
+
+15. i've 4 dogs .
+   (ID: conversation_107)
+
+16. i've perfect pitch .
+   (ID: conversation_181)
+
+17. i've black spiky hair .
+   (ID: conversation_187)
+
+18. i've three great danes .
+   (ID: conversation_304)
+
+19. sometimes , i've sword fights with strangers in the park .
+   (ID: conversation_149)
+
+20. i've a daughter .
+   (ID: conversation_105)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 12
+
+1. I used to travel the usa playing guitar.
+   (ID: conversation_63_user_1)
+
+2. I ve a big family.
+   (ID: conversation_150_user_1)
+
+3. I ve broken my arm twice.
+   (ID: conversation_222_user_1)
+
+4. I ve an iphone.
+   (ID: conversation_14_user_2)
+
+5. I ve broken my arm twice.
+   (ID: conversation_223_user_1)
+
+6. I ve started creating my own comics and presenting them to publishers.
+   (ID: conversation_35_user_2)
+
+7. I ve a big family.
+   (ID: conversation_152_user_1)
+
+8. I used to travel the usa playing guitar.
+   (ID: conversation_287_user_2)
+
+9. I ve studied ballet all my life.
+   (ID: conversation_143_user_2)
+
+10. I ve two siblings.
+   (ID: conversation_70_user_1)
+
+11. I ve two siblings.
+   (ID: conversation_71_user_1)
+
+12. I ve been married for five years.
+   (ID: conversation_335_user_2)
+
+
+============================================================

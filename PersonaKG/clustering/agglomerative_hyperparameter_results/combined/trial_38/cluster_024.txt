@@ -1,0 +1,467 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 1765
+
+Dataset distribution in this cluster:
+  FoCus: 84 (4.8%)
+  MPChat: 91 (5.2%)
+  MSC: 55 (3.1%)
+  PEC: 975 (55.2%)
+  PER-CHAT: 480 (27.2%)
+  PersonaChat: 35 (2.0%)
+  SyntheticPersonaChat: 45 (2.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 84
+
+1. I hated the British rule.
+   (ID: KG8AEOFQLTO4_11)
+
+2. I wouldn't like to be in a flood.
+   (ID: 9QE8MQM0B8P7_11)
+
+3. I don't like neo-Gothic style.
+   (ID: 9VN3FMWR0NNR_11)
+
+4. I don't like Pollution.
+   (ID: AN8LSF1PEYK2_11)
+
+5. I don't like hurricanes.
+   (ID: NOJ4G30KI3T7_11)
+
+6. I do not like modern scenery.
+   (ID: G0MQSJ1XOT71_11)
+
+7. I don't like waterways.
+   (ID: DMD9S9COJOIA_7)
+
+8. I do not like French Gothic.
+   (ID: 9IFEU12EAOWB_11)
+
+9. I wouldn't want to be caught in a fire.
+   (ID: CBOI96AOZRK6_11)
+
+10. I don’t like church.
+   (ID: QQA1IXI7US3V_11)
+
+11. I wouldn't like to live in a Castle.
+   (ID: YB6ZF4SJI3P1_11)
+
+12. I dont like heights.
+   (ID: IBY6RB2J4SRM_7)
+
+13. I hate hippies.
+   (ID: 8065KWB9BLWJ_11)
+
+14. I hate hotels.
+   (ID: OBPQ1J7Y62Q6_11)
+
+15. I hate Canadian Pacific 972.
+   (ID: M6QLMFHJ3CAF_11)
+
+16. I wouldn't like to be surrounded by nuclear waste.
+   (ID: ILXI0OBUPJ0I_11)
+
+17. I am not afraid of heights.
+   (ID: UU5XLWW1EPVV_11)
+
+18. I don’t like Casino.
+   (ID: KMISZIRFKCAC_11)
+
+19. I wouldn't like to be in a prison.
+   (ID: OJ5U23I3FV0N_11)
+
+20. I wouldn't like to work at a factory.
+   (ID: IS9KP8O0CE1M_11)
+
+
+--- MPChat ---
+Total from this dataset: 91
+
+1. look at what i've created: this is boitatá, based on a brazilian's folkloric creature.
+   (ID: Ploliveira)
+
+2. san antonio burrito wrapper art i spotted tonight
+   (ID: evantide)
+
+3. i ordered these both online and the mohair ended up being lighter than i thought it would be.
+   (ID: scrumperumper)
+
+4. made this to match my son's skateboard.
+   (ID: PrissyCakes)
+
+5. what dimensions should i use to make this into a scarf using the whole spool?
+   (ID: Crilbyte)
+
+6. i think she secretly likes wearing silly clothes
+   (ID: MafHoney)
+
+7. i used crochet hook 4mm.
+   (ID: cuppcatt)
+
+8. what else can i add that is low light?
+   (ID: zonumnire)
+
+9. perry the platycorgi sleeping warms my heart
+   (ID: kentobean123)
+
+10. like all great baristas, i would live some feedback!
+   (ID: Beardedlantern)
+
+11. not a problem said i.
+   (ID: Soapy_Von_Soaps)
+
+12. experiment: tried out two amazon no brand hooks (plus my trusty clover)
+   (ID: Lookingforearrings2)
+
+13. i can’t even with that face.
+   (ID: lizdavis17)
+
+14. someone said my crocheted bat looked like a zubat, so i had to make that happen
+   (ID: Louiesloops)
+
+15. i made a pattern with thread graphics on this chicken egg.
+   (ID: gelimausi)
+
+16. i just love my little bejeweled heart sprakly nails so much right now.
+   (ID: hottiecakes)
+
+17. (three in the back are for a blanket i'm making)
+   (ID: NervousToast)
+
+18. "you said i wouldnt be overdressed"
+   (ID: kentobean123)
+
+19. now i need to learn to layer that top heart.
+   (ID: jlb4est)
+
+20. [aloha april contest] should i go with blue or green buttons for this baby dress?
+   (ID: fatpinkchicken)
+
+
+--- MSC ---
+Total from this dataset: 55
+
+1. I wear skirts.
+   (ID: dialog_121_speaker_2)
+
+2. My closet is full of t shirts.
+   (ID: dialog_114_speaker_2)
+
+3. I dislike orange vegetables from the ground.
+   (ID: dialog_72_speaker_2)
+
+4. I wish I were more creative.
+   (ID: dialog_52_speaker_1)
+
+5. I dislike orange vegetables from the ground.
+   (ID: dialog_3_speaker_2)
+
+6. I dislike hatred.
+   (ID: dialog_130_speaker_2)
+
+7. I don't know how to ride a horse.
+   (ID: dialog_117_speaker_2)
+
+8. I do not like skiing.
+   (ID: dialog_31_speaker_1)
+
+9. I don't eat bread.
+   (ID: dialog_183_speaker_2)
+
+10. I wear a uniform at work.
+   (ID: dialog_157_speaker_1)
+
+11. I don't like gardening.
+   (ID: dialog_142_speaker_2)
+
+12. I'm scared of high places.
+   (ID: dialog_66_speaker_1)
+
+13. I do not like french fries.
+   (ID: dialog_190_speaker_1)
+
+14. Me and my sibling, both have crimson locks.
+   (ID: dialog_91_speaker_1)
+
+15. I do not like pizza.
+   (ID: dialog_149_speaker_2)
+
+16. I do not like chocolate.
+   (ID: dialog_44_speaker_2)
+
+17. I don't like scary things.
+   (ID: dialog_58_speaker_2)
+
+18. I am not a fan of heights.
+   (ID: dialog_9_speaker_2)
+
+19. I don't go to school. I wear a uniform at my job as a museum guard.
+   (ID: dialog_157_speaker_1)
+
+20. I don't like cheese.
+   (ID: dialog_105_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 975
+
+1. i do n't want to do your damn spells
+   (ID: Lsmoothies)
+
+2. i 'm shutting down the studio .
+   (ID: canitasteyourjuice)
+
+3. i wonder if our setup will be very similar to the millennium version .
+   (ID: almajanemi)
+
+4. i politely declined .
+   (ID: teriaki)
+
+5. i do n't want to say anything meaningful because i do n't want to get banned .
+   (ID: Occams_Spork)
+
+6. i ’ll be the old guy in the front row of the sideline seats stage right .
+   (ID: JaZepi)
+
+7. i get that one !
+   (ID: Ricketysyntax)
+
+8. i 'd say the dress on the right with off white or tan colored pumps .
+   (ID: whyunogivemegoodname)
+
+9. i 'll take that bet .
+   (ID: Question-everythings)
+
+10. i 'm just asking you to calm down , haha .
+   (ID: LabeledAsALunatic)
+
+11. i ’ve compared my tap water to my tank water .
+   (ID: FruitBatFanatic)
+
+12. i would line them with a lightweight woven fabric , but that 's just me .
+   (ID: MILeft)
+
+13. i have nothing in mind .
+   (ID: snapsnaptomtom)
+
+14. i feel that gordon ramsey is athletic enough to actually catch a death avoidant scuttling crab � �
+   (ID: jenni268)
+
+15. i was like holy shit how tf does he lift that
+   (ID: mass08)
+
+16. i think this qualifies as a god tier cosplay
+   (ID: 98VoteForPedro)
+
+17. i think it 's not for everyone , but if you love it , you really love the cut .
+   (ID: genpell)
+
+18. i just used to strong of wire i think .
+   (ID: genpell)
+
+19. i love camping , but i have no desire to go while pregnant .
+   (ID: COCOnizzle)
+
+20. i 'm convinced no one deadlifts properly
+   (ID: creedisagoodband)
+
+
+--- PER-CHAT ---
+Total from this dataset: 480
+
+1. say that one more time . i dare you i double dare you , motherf  !
+   (ID: 9d1b3fafafa63d6ec9712c98a0c16b4cc697d112)
+
+2. same ! i understand she ' s not the best unit , but i mostly go for heroes i like . call me crazy , whatever . i ' m just a fan of lyn , and the artwork for l ! lyn is beautiful .
+   (ID: bb403667518ffc82f0508e3aee8741ea63cec050)
+
+3. cuz you told me to pick one is not like you gave me a choice
+   (ID: 0501bf1e5cd313190bb4590a1c677057b15a6e47)
+
+4. the fact that i don ' t have one .
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+5. i wouldn ' t say that amanda punches harder . cyborg is the bigger woman , and punches pretty hard . amanda ' s punches are just faster . so by the time cyborg is extending her punches , she ' s already getting rocked by amanda . either way , you ' re right that she didn ' t fight smart . it ' s what happens when you ' re the hunted for so long , you forget to keep doing what got you to the dance .
+   (ID: 6735159236fd8a4634f1974d6eba7f027dbd1aa7)
+
+6. not sure how to feel about this but i think i like it .
+   (ID: 89a0689162d7d341f5389b93a7b5fc391663c68d)
+
+7. you forgot the serious tag .
+   (ID: 4381fa1a63289663c5683187c0d07eadf81abfc2)
+
+8. i wish that could become his nickname now because that was incredible
+   (ID: 7e06b6173caa339822499761ab78ee796513d9aa)
+
+9. you ' re not ugly man . you seem like a slender guy and the shirt your wearing in your photos look a bit oversized so perhaps size down or just find better fitting clothing . otherwise you look good .
+   (ID: 89e76efb1868896fe46bffbc2c10d965b53857d1)
+
+10. you wouldn ' t do that to save your marriage ? dude i looked at your situation and gave you a solution that wouldn ' t hurt your family and that would ameliorate the situation .   x200b  it ' s a shit situation regardless , with very few options .
+   (ID: 85ada8069a64aa3ed39736f565e8a9ceed369acd)
+
+11. just fucking say you ' re sorry .
+   (ID: 74253a87130d79f3a85bfb20807ead84f4a4612d)
+
+12. what i would do is , rather than get revenge like that , cut ties between a and b .
+   (ID: 9f31985e70e208f2dc692e2c378f1707cedd3bc9)
+
+13. let them know you ' re genuinely sorry , then step away and give them space to process .
+   (ID: 2904e4959568457dd43970d8388e42064d7c7d34)
+
+14. hello , i ' m a young clash of clans content creator , who started posting about a year and a half ago . i normally post daily , i post clash of clans tutorial , list , and trolling videos . if you were to review my channel , please send me constrictive criticism , i . e what i should be doing better , also send me what i ' m doing well . my channel link
+   (ID: 544afc73e94949100186d302e382bea6fc33beb4)
+
+15. i don ' t know if i should feel good about that or not .
+   (ID: fddeeaa11799939dfe96bc7fae74a22b474aaf20)
+
+16. probably if they are self conscious of their bodies or to protect from sunburn
+   (ID: cd68f53972cab9fdcbb4876f7761f6654836ff2c)
+
+17. look , the muscle has digit attachment points , the origin at the shoulder and insertion at the forearm points . the case for biceps is for some people the insertion point is higher , creating that gap . there ' s nothing you can do to change that , you were born with it . what you can do is increasing the size by training it
+   (ID: a04ffec23ab9c2af8d4ac433e06db2b5d1b4bf9b)
+
+18. there ' s one kid in class and we all choose variations of his name like if his name was jake , we would use something like jakesoph stalin
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+19. i watched your video , and here is my review  i can bearly hear your voice over the music , the title could do some work , maybe in your description other than promoting your socials you can describe your video in a nutshell . i like the professional look of your channel the layout , banner and the thumbnails of the other videos on your channel , also i love the fact that you respond to everyone in the comment section . i ' m definitely going to go deeper in your channel .
+   (ID: 544afc73e94949100186d302e382bea6fc33beb4)
+
+20. first week . learned my manager is a shady tech who doesnt do things right or legal to the building code . has a " my way only " attitude and while being in the industry for several years , he seems like he never truly understood engineering concepts or techniques which is why a troubleshoot that should have taken digit mins took digit . 5hrs . because he was too proud to listen my idea when i presented it in digit mins only to wait so long while he did it ' his way '
+   (ID: 803d3eb0d3664275a2ad6840048dba9d4d991cf7)
+
+
+--- PersonaChat ---
+Total from this dataset: 35
+
+1. i've never kissed a woman .
+   (ID: conversation_435)
+
+2. i hate flowers .
+   (ID: conversation_471)
+
+3. i am going to be the starting shortstop .
+   (ID: conversation_103)
+
+4. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+5. i don't eat bread .
+   (ID: conversation_322)
+
+6. i like to wear boots .
+   (ID: conversation_59)
+
+7. i don't eat bread .
+   (ID: conversation_183)
+
+8. i wear a red purse .
+   (ID: conversation_313)
+
+9. i hate popcorn .
+   (ID: conversation_245)
+
+10. i like to wear red shoes also .
+   (ID: conversation_313)
+
+11. i never learned how to swim .
+   (ID: conversation_116)
+
+12. i hate carrots .
+   (ID: conversation_3)
+
+13. i never learned how to swim .
+   (ID: conversation_209)
+
+14. i don't much like tv .
+   (ID: conversation_359)
+
+15. i do not like beer .
+   (ID: conversation_198)
+
+16. i don't know how to swim .
+   (ID: conversation_407)
+
+17. i hate evil .
+   (ID: conversation_130)
+
+18. i don't much like tv .
+   (ID: conversation_424)
+
+19. i never cook .
+   (ID: conversation_317)
+
+20. i wear a uniform to work .
+   (ID: conversation_448)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 45
+
+1. I hate tacos.
+   (ID: conversation_259_user_1)
+
+2. I hate skiing.
+   (ID: conversation_114_user_2)
+
+3. I do not celebrate any holidays.
+   (ID: conversation_212_user_2)
+
+4. I don t know how to swim.
+   (ID: conversation_370_user_2)
+
+5. I hate evil.
+   (ID: conversation_109_user_1)
+
+6. I hate green beans.
+   (ID: conversation_106_user_2)
+
+7. I hate tacos.
+   (ID: conversation_425_user_1)
+
+8. I wear dingy clothes.
+   (ID: conversation_395_user_1)
+
+9. Although i ski down high hills , i have a fear of heights.
+   (ID: conversation_263_user_2)
+
+10. I cannot stand beets.
+   (ID: conversation_423_user_1)
+
+11. I never cook.
+   (ID: conversation_322_user_1)
+
+12. I have never kissed a woman.
+   (ID: conversation_214_user_2)
+
+13. I can t stand pizza.
+   (ID: conversation_243_user_2)
+
+14. I hate tomatoes.
+   (ID: conversation_363_user_1)
+
+15. I hate mexican food.
+   (ID: conversation_496_user_1)
+
+16. I do not eat bread.
+   (ID: conversation_365_user_2)
+
+17. I don t much like tv.
+   (ID: conversation_67_user_2)
+
+18. I do not like coffee.
+   (ID: conversation_12_user_2)
+
+19. I wear a uniform to work.
+   (ID: conversation_409_user_2)
+
+20. I hate tomatoes.
+   (ID: conversation_360_user_1)
+
+
+============================================================

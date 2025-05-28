@@ -1,0 +1,198 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 621
+
+Dataset distribution in this cluster:
+  FoCus: 1 (0.2%)
+  MSC: 5 (0.8%)
+  PEC: 407 (65.5%)
+  PER-CHAT: 202 (32.5%)
+  PersonaChat: 3 (0.5%)
+  SyntheticPersonaChat: 3 (0.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I believe courthouse judgments are fair.
+   (ID: OJ5U23I3FV0N_11)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I believe in the supernatural.
+   (ID: dialog_58_speaker_1)
+
+2. My father flies for delta.
+   (ID: dialog_29_speaker_1)
+
+3. My father is a minister.
+   (ID: dialog_40_speaker_2)
+
+4. My father flies for delta.
+   (ID: dialog_58_speaker_2)
+
+5. I believe mermaids are real.
+   (ID: dialog_14_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 407
+
+1. i do n’t believe it .
+   (ID: samward7)
+
+2. i ca n’t do it .
+   (ID: justgirlypasta)
+
+3. i ca n't stand le betard .
+   (ID: BlueSuedeBag)
+
+4. i ca n't tell if that apple is enormous or she is just that tiny
+   (ID: RelaxedSociety)
+
+5. i ca n't seem to find it anywhere .
+   (ID: bmeckel)
+
+6. i ca n’t believe people still upvote comments like these lmao
+   (ID: Heydawgg)
+
+7. i ca n't tell if that was sarcasm .
+   (ID: cookiexcmonster)
+
+8. i ca n't sleep in my own bed .
+   (ID: StinkinFinger)
+
+9. i just realised i ca n't remember the last thing i was excited about
+   (ID: bluesatin)
+
+10. i ca n’t take any more bad news
+   (ID: lambsquatch)
+
+11. i ca n't stop singing this
+   (ID: mbw1960)
+
+12. i believe so .
+   (ID: AgedTwenties)
+
+13. i ca n't believe i had n't seen this video .
+   (ID: BearCanoe)
+
+14. i ca n't remember where i heard that from .
+   (ID: CuriousBlueAbra)
+
+15. i believe that post .
+   (ID: serverpilot)
+
+16. i ca n't look at it .
+   (ID: cometparty)
+
+17. i ca nt ever imagine being so desperate i d date kate
+   (ID: bleepblorp9878)
+
+18. i ca n't get over it !
+   (ID: aydinsevimli)
+
+19. i ’m from europe so ca n’t visit the reservations but hopefully someday ☺ ️
+   (ID: KattenMeisje)
+
+20. i ca n't wait to get my own dslr
+   (ID: Bananafoofoofwee)
+
+
+--- PER-CHAT ---
+Total from this dataset: 202
+
+1. I have a father in my family.
+   (ID: de62a0a330b0a7ca76d55a6702dcae5baf1c3cae)
+
+2. I have a father in my family.
+   (ID: c378ee827fb7d26c7ea685ec1dc451bf264b0151)
+
+3. I have a father in my family.
+   (ID: 7928bd3c3e727c94ff476240a27ed7199d92d666)
+
+4. I have a father in my family.
+   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+
+5. I have a father in my family.
+   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+
+6. I have a father in my family.
+   (ID: 12803a9aad224d0537b68ab83a6cdc6a45d3160f)
+
+7. I have a father in my family.
+   (ID: 96167969642339382f3b9c4eeee4ea73aec3823c)
+
+8. I have a father in my family.
+   (ID: ef181804526093c6a2f6a4e0fba8b4f18fc0e775)
+
+9. I have a father in my family.
+   (ID: 5147e830e7cfa538d6990a8699ad6462b57cfb52)
+
+10. I have a father in my family.
+   (ID: 029f5b503d15f7a11f4a0300f77d88f29e5c7ed5)
+
+11. I have a father in my family.
+   (ID: ed7b237fb6485952b3dcc1d753d52f12dfff995a)
+
+12. I have a father in my family.
+   (ID: 248dfc064467a4d774ed5853571f5757bace1bf3)
+
+13. I have a father in my family.
+   (ID: e762afbb043380ba48c73fe9d10d74d8daeb8b17)
+
+14. I have a father in my family.
+   (ID: 420a86ecfb9d645349db591746d0cdeba4b68f37)
+
+15. I have a father in my family.
+   (ID: 1df1bd07e28c0df73bd865f8cb447d7c8f1bd4d3)
+
+16. I have a father in my family.
+   (ID: 74b41b40662f8290cb9efa13620a4b8ecd792ba9)
+
+17. I have a father in my family.
+   (ID: fdf9c56e21cf61fb3b2852da66f6506ce908651c)
+
+18. I have a father in my family.
+   (ID: 1e92f1e007a1c147f8200d50f473d5433028bffc)
+
+19. I have a father in my family.
+   (ID: c5e877ff3be5d3571f5fe899f55887a6f608ee98)
+
+20. I have a father in my family.
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. my father is a preacher .
+   (ID: conversation_98)
+
+2. i believe that mermaids are real .
+   (ID: conversation_1)
+
+3. my father is a preacher .
+   (ID: conversation_40)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My father is a preacher.
+   (ID: conversation_235_user_2)
+
+2. I believe in leprechauns.
+   (ID: conversation_226_user_2)
+
+3. I ca sim very fast.
+   (ID: conversation_175_user_2)
+
+
+============================================================

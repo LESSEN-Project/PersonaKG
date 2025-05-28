@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 57009
+
+Dataset distribution in this cluster:
+  FoCus: 1639 (2.9%)
+  MPChat: 3679 (6.5%)
+  MSC: 2534 (4.4%)
+  PEC: 23416 (41.1%)
+  PER-CHAT: 21443 (37.6%)
+  PersonaChat: 1435 (2.5%)
+  SyntheticPersonaChat: 2863 (5.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1639
+
+1. I would like to go to college.
+   (ID: NOJ4G30KI3T7_11)
+
+2. I like Henry VIII.
+   (ID: R9A1SC51GAMH_11)
+
+3. I like river.
+   (ID: G1UZK23AWVKW_7)
+
+4. I am interested in ceramics.
+   (ID: AQN3EJ76NIKJ_11)
+
+5. I have never seen a hamlet.
+   (ID: W1ARCAV1RHTZ_11)
+
+6. I love recreational activities close to nature.
+   (ID: L96351DIHFAR_7)
+
+7. I am studying to be an archaeologist.
+   (ID: WBJ9XM2CIE43_9)
+
+8. I'm from Denmark.
+   (ID: 8065KWB9BLWJ_11)
+
+9. I am interested in industrial cities.
+   (ID: OYTF1VSA3B6S_11)
+
+10. I am an admirer of Jorge Semprún.
+   (ID: H697EKUHA9EW_11)
+
+11. I have been to California.
+   (ID: LEUWGO47I5DG_11)
+
+12. I love horses.
+   (ID: KG8AEOFQLTO4_11)
+
+13. I love bridges.
+   (ID: YWRU353H4NFF_11)
+
+14. I am interested in learning about different eras.
+   (ID: 71M9UKWZ9JT9_11)
+
+15. I want to go on a trip.
+   (ID: OYVLAB02CT4O_11)
+
+16. I would like to visit Newcastle.
+   (ID: 744H5J0MPE9C_9)
+
+17. I like hiking.
+   (ID: MZEB41FAFYS0_11)
+
+18. I like church.
+   (ID: GE7KWP503PGI_7)
+
+19. I would like to do ice fishing.
+   (ID: L6R2H1LVDRER_7)
+
+20. I hope to learn more about war.
+   (ID: T9JPYSSWD7NW_11)
+
+
+--- MPChat ---
+Total from this dataset: 3679
+
+1. this is janis the music lover, one of my monster designs.
+   (ID: theringbeller)
+
+2. today marks my 12th year in coffee so i tried 12 different different designs in a day.
+   (ID: jlb4est)
+
+3. my 5minutes before we open rosetta.
+   (ID: VodkaWithSnowflakes)
+
+4. i embroidered a small hardanger blanket with pearl yarn on hardanger fabric.
+   (ID: gelimausi)
+
+5. starting a blanket for my girl due in september.
+   (ID: Sophie74656)
+
+6. my first beanie starting from bottom to top.
+   (ID: Ploliveira)
+
+7. animal print cookies for baby shower i made!
+   (ID: chirp16)
+
+8. i just finished this bad boy
+   (ID: FoxInKneeSocks)
+
+9. naked wedding cake i made for my cousin's wedding!
+   (ID: yolanda_gampp)
+
+10. unconventional aww i found while hiking the missouri river.
+   (ID: Dirk-Killington)
+
+11. may or may not be hoarding all my limited edition, practically empty vaselines.
+   (ID: ellielumos)
+
+12. drove two and a half hours to go hunting for some lobsters/chanterelles, but i got skunked.
+   (ID: sundstrom193)
+
+13. made a stamp of my favorite prayer plant
+   (ID: pocket_kira)
+
+14. my first ever roll cake.
+   (ID: MrsTheJones)
+
+15. trying to bake my way to the nice list!
+   (ID: yolanda_gampp)
+
+16. made these cute little cake toppers for my twin nephewsu 5th birthday!
+   (ID: TattsMcGee)
+
+17. i should have blocked the sakura blossoms before adding them, huh...?
+   (ID: Crilbyte)
+
+18. i crocheted a tiny piglet!
+   (ID: Louiesloops)
+
+19. a star trail over my house in on, canada [oc] [2304x2880]
+   (ID: markoshino)
+
+20. i crocheted a baby bat!
+   (ID: FoxInKneeSocks)
+
+
+--- MSC ---
+Total from this dataset: 2534
+
+1. Sometimes I've trouble breathing.
+   (ID: dialog_114_speaker_1)
+
+2. It is a local firm.
+   (ID: dialog_68_speaker_2)
+
+3. My dog won won is a golden retriever.
+   (ID: dialog_93_speaker_1)
+
+4. I sell houses and buildings for a living.
+   (ID: dialog_37_speaker_1)
+
+5. I have considered selling cupcakes online.
+   (ID: dialog_128_speaker_1)
+
+6. My clothes are usually dark colors.
+   (ID: dialog_6_speaker_1)
+
+7. My dad is a cop.
+   (ID: dialog_34_speaker_1)
+
+8. I like to drive a lot.
+   (ID: dialog_117_speaker_1)
+
+9. I go free dive.
+   (ID: dialog_85_speaker_2)
+
+10. I drive a rig.
+   (ID: dialog_82_speaker_2)
+
+11. I play for the Minnesota wolves. I practice sports 3 times a week. I workout every day.
+   (ID: dialog_120_speaker_1)
+
+12. I am pregnant for the first time. My pregnancy is 6 months in.
+   (ID: dialog_40_speaker_2)
+
+13. I'll graduate next year.
+   (ID: dialog_94_speaker_1)
+
+14. I'm one year older than 28.
+   (ID: dialog_41_speaker_1)
+
+15. I have a severe allergy.
+   (ID: dialog_2_speaker_1)
+
+16. My dad was a proud soldier, too.
+   (ID: dialog_89_speaker_2)
+
+17. I am single.
+   (ID: dialog_34_speaker_1)
+
+18. I have called 911.
+   (ID: dialog_34_speaker_2)
+
+19. I'm afraid of drowning.
+   (ID: dialog_116_speaker_2)
+
+20. It is my dream to be a full-time comedian.
+   (ID: dialog_33_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 23416
+
+1. i think we 're writing it !
+   (ID: rycheme)
+
+2. i like to send my father - in law cute pics of his grandson .
+   (ID: chirpyboyandbartjr)
+
+3. i think we need a little break
+   (ID: harumpf)
+
+4. i got it n just posted my thank you .
+   (ID: Noimnotsally)
+
+5. i ’ve seen enough hentai to know where this is going .
+   (ID: KhalidPhoenix)
+
+6. i say go drugs !
+   (ID: Kellen1337)
+
+7. i meant that we ate babies .
+   (ID: bluesatin)
+
+8. i 'm coming from an iphone ... so , no clue !
+   (ID: BlueSuedeBag)
+
+9. i bid $ 1 .
+   (ID: DanGarion)
+
+10. i think this is actually maud , oklahoma .
+   (ID: BLONDEBITCHH)
+
+11. i could n't finish .
+   (ID: chasemyers)
+
+12. i would n't pay extra for a leveled pet , it 's easy enough to level them myself .
+   (ID: Sabiola)
+
+13. i 'm watching them all .
+   (ID: hoveringlurker)
+
+14. i wonder if you can keep them if you equipped them pre patch .
+   (ID: Atemu12)
+
+15. i want to go to bingo too now lol
+   (ID: Noimnotsally)
+
+16. i can resist everything except _ _ _ _ _ _
+   (ID: tommythestone420)
+
+17. i want to drive with college marshall and ted .
+   (ID: redandblack555)
+
+18. i think he s shouting loud for the obviously inferior hearing people community lol
+   (ID: shortgiraffe9000)
+
+19. i want the ls3 so 08 and up .
+   (ID: YouDirtyDogg)
+
+20. i hope my dad does n't think i 'm tugging one out in there everyday !
+   (ID: SeasonedLemur)
+
+
+--- PER-CHAT ---
+Total from this dataset: 21443
+
+1. i didn ' t want to make a full post about this but i see you a lot in comments . so i ' m doing my first dosage of 600mg i ' ll be doing 300mg and than waiting an hour and doing the next 300mg , i think ill be fine . my friend on the other hand is doing 800mg for the his first trip , should i try and get him away from that idea ?
+   (ID: 114e3678c6af9d322985bb4656e33b19c03a0479)
+
+2. the way i see it , it ' s okay if it protects you from imminent harm , like using violence . otherwise , it ' s not .
+   (ID: c978d968d1c4e9730afc6b7b09cbdd832546a06f)
+
+3. I am adult.
+   (ID: 0cd5284a49d41ed5d0b33c24b5c7a84017aa9737)
+
+4. i usually will wear them until i either poop bidet owner or shower . that can sometimes mean digit or three underpants changes a day . sometimes a day and a half . traveling makes me want to die
+   (ID: 6eec77fe98b9dc85ec1e5e7edc37cdb415794719)
+
+5. I'm interested in makeup.
+   (ID: 4f26e00e0769f7123ce8a1a0d11a5e285c445ec3)
+
+6. I'm interested in shopping.
+   (ID: 49a34e99b8a6ee0f246ab6ee16bec8f40a856dcd)
+
+7. there were like a thousand different codes and weird actions being floated about . i don ' t remember any of them .
+   (ID: 40ad6d409c1f0888bdb3dbd8d7bab47d00f3a6f0)
+
+8. i ' m not into golden showers . not hot .
+   (ID: 7281ac55eb2a6383df4bfcf1408cda0145e29328)
+
+9. no one gives a fuck about you . life is meaningless , you should be grateful that the world formed miraculously to finally create you . don ' t waste this one chance of life you have , go fuck some goats or something .
+   (ID: 93e92e6a7d8e94b12bcd450fad136ec14436f359)
+
+10. but i need evidence that your ass is fat , i cant possibly believe you without a picture
+   (ID: 23df46bdba3eb265d08b02c9ec5f365cf45ae5fd)
+
+11. not a great living but definitely a lot better . you do realize that mose of europe believes in a livable wage , not a minimum at least in the uk i know they do . i believe you are the one with a skewed perception . you grow up hearing " america number digit " so much that you believe it . since you like to throw your own heat , allow me to retort . from your post history i ' d assume you lack a level of empathy considering you told one person they are in america because nobody else would hire them , and your first comment ever is able not being able to love your own child because it ' s disabled . if you want to continue to sling mud at my heritage and mentality go ahead . i ' m not the one who got offended about a simple joke .
+   (ID: 7008f149db59fea91167255eafa8bc84beab0f01)
+
+12. just throw your phone out the window , you ' ll tank me later
+   (ID: 1dbec065c128d343063f0297b2cf3c3a2bc2db96)
+
+13. mallorymarroquin   i am a bot that helps link to subreddits .   i also keep an archive of all boutinela posts  stories at  boutinelafeed .
+   (ID: 63a01bcbc0844858aae3db187005728f6c6af2cb)
+
+14. I'm interested in cats.
+   (ID: 80bb9445ee518d7503eeef1b2c418d38a6e936e9)
+
+15. i got downvoted on similar posts showing the math too . i dont think people understand the levity of what etsy is going to change .
+   (ID: 3dfcdf92c717ed4c117768210afcbbaf9a2ca8a9)
+
+16. you are hidden during snowball , therefore you are invulnerable to everything . to stop snowball you need to preemptively bkb , regardless of blackhole positioning . i believe that by casting at the max range of black hole , there is still more than digit units behind you so that tusk cannot walrus punch you
+   (ID: 2dcd820eac167adf18c6706f1c0a26a39eb945be)
+
+17. I am idiotic teenager.
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
+
+18. hell yeah you said it bro . or when you like chillin in the park and some guy comes with his girlfriend and hog the monkey bars and all the other play equipment just to show off " look at us crossfitting " and all the kids stare in disbelieve and ask what are they doing ? how the fuck do you explain that to a kid ? " well son , they have mental issues " not that i have kids but i see them fucking up the playgrounds !
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+19. yeah in similar fashion i am a hindu , i ' ve also heard stories like that but i ' ve never seen a thing tbh . and in hindu culture the traditional is to mostly fire the dead . but in some cases they also berry them . it ' s called " shradh " . it ' s peace act to rip body  soul . if it hasn ' t done properly then the ghost is still on earth roaming is the saying .
+   (ID: 2fa786bde9d7f9b2d3a93476f3298d77041fdb1e)
+
+20. so . thats like , owning something ? oh wait ! is that when your not drunk ?
+   (ID: f4588f2a476206e602fe5b84647a1e777eaae604)
+
+
+--- PersonaChat ---
+Total from this dataset: 1435
+
+1. my birthday is in june .
+   (ID: conversation_24)
+
+2. i like to go out to the bars .
+   (ID: conversation_237)
+
+3. before i die , i want to skydive .
+   (ID: conversation_92)
+
+4. i love katy perry .
+   (ID: conversation_123)
+
+5. i teach at a large school .
+   (ID: conversation_217)
+
+6. i graduated with a nursing degree .
+   (ID: conversation_134)
+
+7. i am bipolar .
+   (ID: conversation_277)
+
+8. i drink diet coke .
+   (ID: conversation_123)
+
+9. my favorite season is winter .
+   (ID: conversation_183)
+
+10. i love rock climbing .
+   (ID: conversation_240)
+
+11. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+12. i'm a painter .
+   (ID: conversation_238)
+
+13. i like to read .
+   (ID: conversation_64)
+
+14. my favorite food is pasta .
+   (ID: conversation_303)
+
+15. i love to run fast .
+   (ID: conversation_235)
+
+16. my number is 42 .
+   (ID: conversation_62)
+
+17. i'm a vegan .
+   (ID: conversation_259)
+
+18. my favorite food is pizza .
+   (ID: conversation_203)
+
+19. when i cut loose , i lose control .
+   (ID: conversation_229)
+
+20. i like cooking healthy meals .
+   (ID: conversation_237)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2863
+
+1. I have three tattoos.
+   (ID: conversation_240_user_2)
+
+2. There i am a general of an oris army.
+   (ID: conversation_333_user_2)
+
+3. I can t whistle.
+   (ID: conversation_46_user_2)
+
+4. I write.
+   (ID: conversation_3_user_1)
+
+5. I am a farmer.
+   (ID: conversation_141_user_2)
+
+6. I live at home with my dad and brother.
+   (ID: conversation_266_user_1)
+
+7. I love anime.
+   (ID: conversation_340_user_1)
+
+8. I like tacos.
+   (ID: conversation_166_user_1)
+
+9. I like to travel.
+   (ID: conversation_12_user_1)
+
+10. My favorite band is one direction.
+   (ID: conversation_102_user_2)
+
+11. I love going fishing.
+   (ID: conversation_103_user_1)
+
+12. My father is a preacher.
+   (ID: conversation_235_user_2)
+
+13. I have a ten year old son.
+   (ID: conversation_335_user_1)
+
+14. I love my dog.
+   (ID: conversation_21_user_2)
+
+15. My favorite book is pride and prejudice.
+   (ID: conversation_324_user_2)
+
+16. I have eight grandchildren.
+   (ID: conversation_257_user_1)
+
+17. I am a vegan.
+   (ID: conversation_190_user_1)
+
+18. I am slightly overweight , but my doctors say i m healthy.
+   (ID: conversation_137_user_1)
+
+19. I have a ford f150.
+   (ID: conversation_1_user_2)
+
+20. I dream of playing music for a living.
+   (ID: conversation_319_user_2)
+
+
+============================================================

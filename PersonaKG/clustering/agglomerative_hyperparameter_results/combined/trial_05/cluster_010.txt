@@ -1,0 +1,321 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 658
+
+Dataset distribution in this cluster:
+  FoCus: 12 (1.8%)
+  MSC: 9 (1.4%)
+  PEC: 30 (4.6%)
+  PER-CHAT: 572 (86.9%)
+  PersonaChat: 12 (1.8%)
+  SyntheticPersonaChat: 23 (3.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 12
+
+1. I live in a Village.
+   (ID: W1ARCAV1RHTZ_11)
+
+2. I live in Rio de Janeiro.
+   (ID: NAJC0A4P5P7S_11)
+
+3. I live in Oxford.
+   (ID: PCA6OG1NNC5D_9)
+
+4. I live in Queensland.
+   (ID: 9IUBDDZBGMIC_11)
+
+5. I live in Beijing.
+   (ID: 9LPSSRYT28ZD_11)
+
+6. I live in Savannah.
+   (ID: C7RS7BTZIF1Q_11)
+
+7. I live in Queensland.
+   (ID: XXWV8BD5AL9Z_11)
+
+8. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+9. I live in Morelos.
+   (ID: FLY9O8E8QPK3_11)
+
+10. I live in Wollongong.
+   (ID: EXXMSRQDF6PN_11)
+
+11. I live in Liverpool.
+   (ID: WOFC7GYRD403_7)
+
+12. I live in Tokyo.
+   (ID: OHOLASMOVV8L_11)
+
+
+--- MSC ---
+Total from this dataset: 9
+
+1. My family used to live in sydney.
+   (ID: dialog_38_speaker_2)
+
+2. I have a porch where I live.
+   (ID: dialog_71_speaker_2)
+
+3. I live with my family.
+   (ID: dialog_77_speaker_1)
+
+4. I live for sunshine!.
+   (ID: dialog_163_speaker_2)
+
+5. My family used to live in sydney.
+   (ID: dialog_9_speaker_2)
+
+6. I live PA.
+   (ID: dialog_167_speaker_2)
+
+7. I live with my brother
+   (ID: dialog_46_speaker_2)
+
+8. My family used to live in sydney.
+   (ID: dialog_166_speaker_2)
+
+9. I live in Nashville.
+   (ID: dialog_117_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 30
+
+1. i think the weasley 's live here !
+   (ID: hardt0f0rget)
+
+2. i 'd live in that .
+   (ID: Occams_Spork)
+
+3. i live and breathe , the who !
+   (ID: Heavenandhell50)
+
+4. i could live with that .
+   (ID: Bananafoofoofwee)
+
+5. i live in aus .
+   (ID: DarkMoon99)
+
+6. i live in denver .
+   (ID: Bathysphere710)
+
+7. i can live with this .
+   (ID: serverpilot)
+
+8. i will never live this down .
+   (ID: PartyPisser)
+
+9. i live here .
+   (ID: SanJOahu84)
+
+10. i live here .
+   (ID: themarajade1)
+
+11. i live in denver ..
+   (ID: smileisafrown)
+
+12. i live in dublin .
+   (ID: Nimmyzed)
+
+13. i live on top of your mother .
+   (ID: DarkMoon99)
+
+14. i live in zurich .
+   (ID: futurespice)
+
+15. i have 3 weezing 's and i live in tx
+   (ID: FrankOfTheDank)
+
+16. i live in berlin and mine is berlin .
+   (ID: thed0ctah)
+
+17. i live rurally ..
+   (ID: exotics)
+
+18. i live at the waterfront in plymouth .
+   (ID: mass08)
+
+19. i live by dearborn , mi in the u.s .
+   (ID: giraffecakes)
+
+20. i live in the pacific northwest :(
+   (ID: lambsquatch)
+
+
+--- PER-CHAT ---
+Total from this dataset: 572
+
+1. I live in appalacian mountas.
+   (ID: b5153b16e61f6bc5e4bf4d8db479b7093df1ae26)
+
+2. I live in on outskirts.
+   (ID: 3a74a7f224822b70fc5b403157367714c46b161a)
+
+3. I live in outskirts.
+   (ID: d785eda10245445843c3355a0710d262b0d65bb9)
+
+4. I live in dimension.
+   (ID: 9e8a44f7c55ebce4785906436a033b33a1ccb949)
+
+5. I live in ecuador.
+   (ID: 827584bdc66e3c4749f22f0ad0a9420dc64ac2b5)
+
+6. I live in canandaigua.
+   (ID: 256407c5e6c8d9342d8aabf5c9c392fc179ba9f3)
+
+7. I live in wv.
+   (ID: 7fdfc2063b89c8be6521566a61aeb5bf9497d47e)
+
+8. I live in alberta.
+   (ID: ab5524e568131ce7cb4db227daae4d0f489838e1)
+
+9. I live in houston.
+   (ID: f4e4929bb0bef09e7eb72aaccf20c2d9454729c7)
+
+10. I live in maryland.
+   (ID: abbe051c76bbb939d8594349cac549cb5435920d)
+
+11. I live in maryland.
+   (ID: 4ce6edbd86b6936a31b902056e0708d563c2b4bb)
+
+12. I live in suburb.
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+13. I live in thneedville.
+   (ID: 812f0130222ed7d2f4768ba9e9d81f1c42857723)
+
+14. I live in bulgaria.
+   (ID: 2c1d97aa622f6ad7ec3a9aad9285dd4ec1e1f28d)
+
+15. I live in family.
+   (ID: a8d677a357cabd8cb6d9bfa06e041b5b173582d8)
+
+16. I live in als ob 2pac eyez.
+   (ID: c863a7172df41853f354be7adff4b3f9a0cb9736)
+
+17. I live in melbourne.
+   (ID: 5df8f31d7e0521d2306b8c923ad3cbb6e96e8d04)
+
+18. I live in sc.
+   (ID: 726d5aaac9472ccdcb64345cd6d082bee4eae6fa)
+
+19. I live in houston.
+   (ID: e762afbb043380ba48c73fe9d10d74d8daeb8b17)
+
+20. I live in richmond.
+   (ID: 695ad7129ad4566e5fbe988279cd914c2bff0ce9)
+
+
+--- PersonaChat ---
+Total from this dataset: 12
+
+1. i live alone .
+   (ID: conversation_18)
+
+2. i live alone .
+   (ID: conversation_33)
+
+3. i live alone in my condo .
+   (ID: conversation_311)
+
+4. i live alone .
+   (ID: conversation_136)
+
+5. i live in a suburb of boston .
+   (ID: conversation_164)
+
+6. i live in a condo .
+   (ID: conversation_493)
+
+7. i own a mansion that i do not live in .
+   (ID: conversation_475)
+
+8. i live alone with my dog .
+   (ID: conversation_266)
+
+9. i live in nashville .
+   (ID: conversation_117)
+
+10. i live alone in a cabin .
+   (ID: conversation_104)
+
+11. i live in vermont .
+   (ID: conversation_83)
+
+12. i live in nashville .
+   (ID: conversation_215)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 23
+
+1. I live alone in my condo.
+   (ID: conversation_39_user_2)
+
+2. I live in vermont.
+   (ID: conversation_20_user_2)
+
+3. I live alone.
+   (ID: conversation_298_user_1)
+
+4. I live alone.
+   (ID: conversation_290_user_1)
+
+5. I live alone in a cabin.
+   (ID: conversation_331_user_1)
+
+6. I live in nashville.
+   (ID: conversation_390_user_2)
+
+7. I live alone in a cabin.
+   (ID: conversation_330_user_1)
+
+8. I live in cape hatteras.
+   (ID: conversation_157_user_1)
+
+9. I live alone.
+   (ID: conversation_289_user_1)
+
+10. I live in a suburb of boston.
+   (ID: conversation_84_user_2)
+
+11. I live in portland , maine.
+   (ID: conversation_291_user_1)
+
+12. I live in portland , maine.
+   (ID: conversation_295_user_1)
+
+13. I live alone.
+   (ID: conversation_292_user_1)
+
+14. I live alone.
+   (ID: conversation_295_user_1)
+
+15. I live alone.
+   (ID: conversation_293_user_1)
+
+16. I live alone in a cabin.
+   (ID: conversation_328_user_1)
+
+17. I live alone.
+   (ID: conversation_294_user_1)
+
+18. I live in a suburb of boston.
+   (ID: conversation_253_user_2)
+
+19. I live in springfield , mo.
+   (ID: conversation_404_user_1)
+
+20. I live alone.
+   (ID: conversation_297_user_1)
+
+
+============================================================

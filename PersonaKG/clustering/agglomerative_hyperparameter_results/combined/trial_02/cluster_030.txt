@@ -1,0 +1,446 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 1029
+
+Dataset distribution in this cluster:
+  FoCus: 57 (5.5%)
+  MPChat: 17 (1.7%)
+  MSC: 64 (6.2%)
+  PEC: 515 (50.0%)
+  PER-CHAT: 326 (31.7%)
+  PersonaChat: 16 (1.6%)
+  SyntheticPersonaChat: 34 (3.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 57
+
+1. I want to go on a trip.
+   (ID: OYVLAB02CT4O_11)
+
+2. I want to visit New York.
+   (ID: MV4DPBGX0OB5_11)
+
+3. I want to visit the U.S. Virgin Islands.
+   (ID: LH031RZU9PAS_11)
+
+4. I want to visit San Francisco.
+   (ID: O76ENSZ0ZFAX_11)
+
+5. I want to go to Ontario.
+   (ID: SDW19RWSP3ZX_11)
+
+6. I want to visit Kentucky.
+   (ID: N3BKTMTKN6PG_11)
+
+7. I want to study the Middle Ages.
+   (ID: C64P8U3HDDHY_9)
+
+8. I want to visit Pennsylvania.
+   (ID: IBKUIXV3M06F_7)
+
+9. I want to visit Clermont.
+   (ID: T9680U7NZ97F_11)
+
+10. I want to visit Pittsburgh.
+   (ID: GYX0OU7PEQ7Q_11)
+
+11. I want a higher education.
+   (ID: L2FEEPD1V8BQ_11)
+
+12. I want to visit Scotland.
+   (ID: RYVLIPTXZRXJ_11)
+
+13. I want to visit Arizona.
+   (ID: MZEB41FAFYS0_11)
+
+14. I want to go to college.
+   (ID: JTUKE03HZYSY_11)
+
+15. I want to attend sporting events.
+   (ID: MGR759JYZZLP_7)
+
+16. I want to visit Utah.
+   (ID: 942CCWXHPUZT_11)
+
+17. I want to read in english.
+   (ID: NR9LNBMYKSX6_9)
+
+18. I want to explore.
+   (ID: CFYWBHPKPOHZ_7)
+
+19. I want to know more about various forests.
+   (ID: FS1LJTHM1IC0_11)
+
+20. I am studying Geology and want to become an Archeologist.
+   (ID: F10IB9885VKB_11)
+
+
+--- MPChat ---
+Total from this dataset: 17
+
+1. i don't want to brag but i'm cashing this baby today
+   (ID: crunch816)
+
+2. "i would like some love please"
+   (ID: kentobean123)
+
+3. i want to try different kind of cheesecake.
+   (ID: justcook_byangel)
+
+4. judge me if you want, but i love white castle!
+   (ID: onemantwohands)
+
+5. i'm making a blanket with these color but now i'm thinking i want to add more colors.
+   (ID: Sophie74656)
+
+6. i so desperately want to buy this yarn but can't decide what to make with it.
+   (ID: River_Lethe)
+
+7. i been always want to try this.
+   (ID: justcook_byangel)
+
+8. getting closer to where i want to be...
+   (ID: ext23)
+
+9. i always want to try to make a honeycomb cheesecake
+   (ID: justcook_byangel)
+
+10. my niece and nephews want scarves.
+   (ID: Sophie74656)
+
+11. my first amigurumi almost don't want to give it away
+   (ID: AlbinoMetroid)
+
+12. seems like i waste too much wood if i want a campfire meal...
+   (ID: JMHorsemanship)
+
+13. gets me everywhere i want to go.
+   (ID: SweetSassyClassy)
+
+14. my attempt at acid wash/distressed/however you want to call them nails.
+   (ID: hottiecakes)
+
+15. "i want my name to be spaghetti."
+   (ID: hmbmelly)
+
+16. i know you guys want some
+   (ID: FormalSwimming)
+
+17. i sorta want one of these plungers.
+   (ID: patm28)
+
+
+--- MSC ---
+Total from this dataset: 64
+
+1. I want candy.
+   (ID: dialog_4_speaker_1)
+
+2. I don't have a pet. I want a pet pig.
+   (ID: dialog_85_speaker_1)
+
+3. I want to adopt a rescue dog from a shelter.
+   (ID: dialog_100_speaker_2)
+
+4. I want to jump out of a plane.
+   (ID: dialog_104_speaker_1)
+
+5. I graduated college with a literature degree. I want to be a teacher.
+   (ID: dialog_48_speaker_2)
+
+6. I want to be a singer.  I like to read sheet music, but not books.
+   (ID: dialog_11_speaker_2)
+
+7. I love taco bell. I want to learn to make cruch wraps at home.
+   (ID: dialog_32_speaker_1)
+
+8. I want to start watching The Walking Dead.
+   (ID: dialog_93_speaker_1)
+
+9. I am a charitable person. I am working on a charity app matching volunteers to financial donations. I want to launch the app before the holiday season.
+   (ID: dialog_79_speaker_1)
+
+10. I like pizza. I want to try deep dish pepperoni pizza.
+   (ID: dialog_7_speaker_1)
+
+11. I have a Canon camera that I am thinking of selling. I want to upgrade my camera. I like more advanced equipment than just phone cameras.
+   (ID: dialog_49_speaker_1)
+
+12. I'm in high school. I want to be an astronaut.
+   (ID: dialog_90_speaker_1)
+
+13. I only eat meat. Prime rib is my favorite meat. I want to try jerk prime rib.
+   (ID: dialog_0_speaker_1)
+
+14. I like to ski. I want to ski in Europe.
+   (ID: dialog_33_speaker_1)
+
+15. I like American sushi. I want to try authentic Japanese sushi, especially pufferfish.
+   (ID: dialog_89_speaker_1)
+
+16. I want to be an artist.
+   (ID: dialog_42_speaker_1)
+
+17. I live in a dorm. I want to get a pet when I  move into my own home.
+   (ID: dialog_97_speaker_1)
+
+18. I want to launch the app before the holiday season.
+   (ID: dialog_79_speaker_1)
+
+19. I want to open the juicy bar at the beach. I need help. I love reading books at the beach.
+   (ID: dialog_88_speaker_2)
+
+20. I want to be a teacher.
+   (ID: dialog_48_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 515
+
+1. i want to kiss his face ! !
+   (ID: vivagypsy)
+
+2. i just want to say your site is a god sent !
+   (ID: YouDirtyDogg)
+
+3. i want you to be one of my users .
+   (ID: ChoppingOnionsForYou)
+
+4. i just want to be relaxed and not get that shitty anxious feeling .
+   (ID: giraffecakes)
+
+5. i 'd want to kill that damn dog !
+   (ID: mizzpkat)
+
+6. i want to be able to watch the news without fearing something awful has happened in the world .
+   (ID: bigfuckingdiamond)
+
+7. i want to give a shoutout to r / gumshoes which exists for exactly this purpose .
+   (ID: glowinthedark)
+
+8. i want a reality show with these two women please
+   (ID: lambsquatch)
+
+9. i just want to cuddle him !
+   (ID: AP7497)
+
+10. i have a spare level 64 gengar that i want to get rid of for something good .
+   (ID: FrankOfTheDank)
+
+11. i own 2 cats , this survey is n't for me and i want my money back .
+   (ID: Bananafoofoofwee)
+
+12. i can look at it if you want
+   (ID: QueenPea13)
+
+13. i really want a banana in this picture .
+   (ID: Evolatic)
+
+14. i do n't want any part of your tight ass country club you freak bitch !
+   (ID: closetotheedge48)
+
+15. i live in america and want to play with a friend living in vietnam .
+   (ID: Lsmoothies)
+
+16. i want you to have it bro ”
+   (ID: sherry2012)
+
+17. i really want to like crucible .
+   (ID: WiseScratch)
+
+18. i tried he does n't want to flare .
+   (ID: kailan123456)
+
+19. i suddenly realize that maybe i would n’t want to know this .
+   (ID: Nobody-Likes-Change)
+
+20. i do n't know if he will survive , but i heard you and the fear in your voice .
+   (ID: gigatroness)
+
+
+--- PER-CHAT ---
+Total from this dataset: 326
+
+1. its my money and i want it now !
+   (ID: bdbdc7c12fe37172b721ff3ae186b84ad646d582)
+
+2. i want to make it . so pretty ok  hand
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
+
+3. sims is only boring if you don  t know what you want out of life . me ? i just go around and impregnate already married sims face  with  tears  of  joy
+   (ID: 08da4119a215672a002df8147181afbb771a75f9)
+
+4. why do you want to know ?
+   (ID: 801c30bb9f7fe270789d76054d77c547f65e41eb)
+
+5. communicate , communicate , communicate talk to him . tell him what you like . tell him what you want . tell him what you don ' t like . tell him what you don ' t want . ask him what his wants and likes are .
+   (ID: d06e7949138d7c04b968c15f3dd6f37d07c5a670)
+
+6. we don ' t want to stop killing each other , we just want to look like we care about people while killing them .
+   (ID: f4f3116c36134aaf6c836035cf76dc86210b1c12)
+
+7. what do you want to talk about ? some book you read about world war digit ?
+   (ID: 3a16ba639560d155caf77e9cfc21f6a1df031d4f)
+
+8. yes i like this . i want this to be the truth
+   (ID: 8031d2235c5c79aed4436e575113c1efb8fbe777)
+
+9. hey you i want you to know . i don ' t care and don ' t even remember it . get some sleep , sleep is important .
+   (ID: 7ed1ff576cc7dc77750ed5f15461eb3ccdb52a7a)
+
+10. yes . i want to be able to kill myself when i decide i don ' t want to live any more . nowhere near that state yet but i ' d still like to be able to control my own exit .
+   (ID: 873d7cdd437cc48c69447d68b6cd96b54580dae7)
+
+11. i mean , i explicitly told you do x , y , and z if you want to improve , but hey , that doesn ' t count right ? i even offered you a bet where winning it meant you made a life improvement , but that doesn ' t count right ? you know best still . i ' m blocking you now . you are one of the saddest , most pathetic , most repugnant fucking things i ' ve ever encountered here . seriously , it ' s difficult to even consider you a human . you ' re more like a parasite . a disease , that infects everything around you with revulsion at the sight of you . how fat are you ? how fucking ugly are you ? how much of your existence is spent in that incel sub ? frankly , spend all or your time there . no one wants you anywhere else . you are fucking disgusting . i am going to delete every post i ' ve made here , simply because i want to eradicate any evidence i ' ve encountered you . you sicken me that much . you ' re suicidal ? well don ' t do it . keep living , like this , forever . that would make me happy . keep living .
+   (ID: 029f5b503d15f7a11f4a0300f77d88f29e5c7ed5)
+
+12. my past self is an asshole , so i want to continually upstage and do everything better than that guy
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+13. at the very least , similar interests . i don ' t want to find someone that is my clone , mind you  but it would be nice to enjoy as least a few things together at the same time .
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+14. kendall , and because people want to fuck them
+   (ID: 4654e3a9a75835f9ff28170ddf31d5d3cf296ea2)
+
+15. it ' s amazing how long the list of shit people want is , it ' s never ending
+   (ID: 50043497a219924fd275a92e5dadb6e04bac5936)
+
+16. fyi  bullshit must be called within the image by another poster , not heavily implied . although , if you want , you could easily send this to tumblrinaction .
+   (ID: f67daf28a38187108da9b380f2e2f9336016c584)
+
+17. wow . it almost like you can support who you want
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+18. i ' m turning digit next week but right now i just want to not be an asshole
+   (ID: 79fc72ea72532d39a039ecb4e47a630a601ff4a8)
+
+19. dude right ? most bees don ' t want anything to do with you along with a lot of other creepy crawlies you find and they won ' t bother you if you don ' t fuck with them . trap it in a cup and put it outside , that ' s probably where it wants to be anyways .
+   (ID: 2e34fbd58bc49726f7e8c74b8ea82513ca226ab4)
+
+20. ok i have another question for you why do you want to eliminate swearing ?
+   (ID: 409a49cde6f1f65f92cac4d33c7c769f7ba9e965)
+
+
+--- PersonaChat ---
+Total from this dataset: 16
+
+1. i am in college now and want to be a teacher .
+   (ID: conversation_22)
+
+2. i want to be a museum curator .
+   (ID: conversation_133)
+
+3. i want to grow up to be a superhero one day .
+   (ID: conversation_119)
+
+4. i want to teach kids in elementary school .
+   (ID: conversation_48)
+
+5. i want to have two kids .
+   (ID: conversation_298)
+
+6. i want to be a vegetarian .
+   (ID: conversation_137)
+
+7. i want to be desired .
+   (ID: conversation_288)
+
+8. i want to visit rome , but i can t make myself go alone .
+   (ID: conversation_257)
+
+9. i want to become an author .
+   (ID: conversation_165)
+
+10. i want to be a museum curator .
+   (ID: conversation_238)
+
+11. before i die , i want to skydive .
+   (ID: conversation_50)
+
+12. my dad owns a appliance store that i don t want to inherit .
+   (ID: conversation_253)
+
+13. i want to be in a band someday .
+   (ID: conversation_44)
+
+14. before i die , i want to skydive .
+   (ID: conversation_92)
+
+15. i'm weak and selfish , but i want to change .
+   (ID: conversation_130)
+
+16. i could move out , but she doesn t want me to .
+   (ID: conversation_175)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 34
+
+1. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_169_user_1)
+
+2. I want to be a famous photographer.
+   (ID: conversation_226_user_1)
+
+3. I am weak and selfish , but i want to change.
+   (ID: conversation_109_user_1)
+
+4. I want to travel the world taking photographs of my travels.
+   (ID: conversation_224_user_1)
+
+5. I want to be a vegetarian.
+   (ID: conversation_245_user_2)
+
+6. I want to put my photos to a music video staring adam levin.
+   (ID: conversation_224_user_1)
+
+7. I want to travel the world taking photographs of my travels.
+   (ID: conversation_225_user_1)
+
+8. I want to be a famous photographer.
+   (ID: conversation_224_user_1)
+
+9. I want to be a music teacher.
+   (ID: conversation_54_user_2)
+
+10. I want to be an astronaut when i grow up.
+   (ID: conversation_136_user_2)
+
+11. Before i die , i want to skydive.
+   (ID: conversation_82_user_2)
+
+12. I want to live at the beach.
+   (ID: conversation_306_user_1)
+
+13. I want to put my photos to a music video staring adam levin.
+   (ID: conversation_226_user_1)
+
+14. I want to visit the uk.
+   (ID: conversation_201_user_2)
+
+15. I do not want a job.
+   (ID: conversation_0_user_1)
+
+16. I went on welfare last month , which makes me want to run into traffic in front of big trucks.
+   (ID: conversation_297_user_2)
+
+17. I do not want a job.
+   (ID: conversation_2_user_1)
+
+18. I want to be a famous photographer.
+   (ID: conversation_225_user_1)
+
+19. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_95_user_2)
+
+20. I want to live at the beach.
+   (ID: conversation_305_user_1)
+
+
+============================================================

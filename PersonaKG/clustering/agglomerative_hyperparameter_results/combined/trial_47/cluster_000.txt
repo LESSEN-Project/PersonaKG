@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 41633
+
+Dataset distribution in this cluster:
+  FoCus: 1137 (2.7%)
+  MPChat: 2870 (6.9%)
+  MSC: 1876 (4.5%)
+  PEC: 16704 (40.1%)
+  PER-CHAT: 15770 (37.9%)
+  PersonaChat: 1089 (2.6%)
+  SyntheticPersonaChat: 2187 (5.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1137
+
+1. I have grown up in London.
+   (ID: 8WL4II03WTP0_7)
+
+2. I like The Rolling Stones.
+   (ID: GHAH3LR3KR67_11)
+
+3. I don't like to intersection road.
+   (ID: UDGAGMKQ9TQ1_11)
+
+4. I hope to know how water is supplied.
+   (ID: YWRU353H4NFF_11)
+
+5. I am willing to visit River Walbrook.
+   (ID: XY9R2ORN3XBQ_7)
+
+6. I love the United States.
+   (ID: TGZJNX488SLV_11)
+
+7. I hope to travel to many football stadiums across the globe and interact with fans.
+   (ID: UVWYNJ9N0J17_11)
+
+8. I would like to visit a canal.
+   (ID: 8WL4II03WTP0_7)
+
+9. I like football.
+   (ID: VZ1O6OE23O98_11)
+
+10. I like studying the Middle Ages.
+   (ID: W1ARCAV1RHTZ_11)
+
+11. I prefer visiting a easily accessible location.
+   (ID: PHE863C7IQKS_11)
+
+12. I want to visit the U.S. Virgin Islands.
+   (ID: LH031RZU9PAS_11)
+
+13. I have never been to Europe before.
+   (ID: RUXEW8EYORSZ_11)
+
+14. I don't hope to ever see my work exhibited in a museum.
+   (ID: JJN7XJSS0B4W_11)
+
+15. I want to visit Kentucky.
+   (ID: N3BKTMTKN6PG_11)
+
+16. I am going to England.
+   (ID: LRGBCD6RT2HQ_11)
+
+17. I am curious about local folklore.
+   (ID: WXYJ15QP91WP_7)
+
+18. I have seen many parks.
+   (ID: LFDYLQP6HP80_7)
+
+19. I'm interested in names.
+   (ID: E3UZAGT5DTE5_11)
+
+20. I wish to attend some events.
+   (ID: ZXCRSZ4D5PMK_11)
+
+
+--- MPChat ---
+Total from this dataset: 2870
+
+1. my second finished object for this week is an orange sheep.
+   (ID: Moriarty58)
+
+2. just made this cake for my nephew.
+   (ID: castaneda2912)
+
+3. cute little carrot cake i made this weekend.
+   (ID: chakita86)
+
+4. the package said "roast" buuut i grilled it.
+   (ID: Flattishsassy)
+
+5. i'm a hypocrite.
+   (ID: Beardedlantern)
+
+6. my favorite raw fish - salmon - i can eat a whole plate of it....
+   (ID: onemantwohands)
+
+7. i recently designed this lion head wall hanging.
+   (ID: theringbeller)
+
+8. made my own hummus, and tahini.
+   (ID: onemantwohands)
+
+9. another cake i baked during a busy weekend
+   (ID: Cantwa1t)
+
+10. i crocheted a baby dinosaur plush by just using bulky yarn on a mini pattern!
+   (ID: Louiesloops)
+
+11. the first thing i've made for myself.
+   (ID: ddizzle23)
+
+12. i'm house-sitting for a cat is still a little scared of me
+   (ID: evantide)
+
+13. yes, i am "
+   (ID: kentobean123)
+
+14. i crocheted some tiny bell bags from animal crossing!
+   (ID: Louiesloops)
+
+15. my first wedding cake to create is this castlewood canyon inspired buttercream painted cake.
+   (ID: SugarHighBakedGoods)
+
+16. finished a mandala vest pattern for my niece, i was really excited about how it turned out!
+   (ID: j3iglesia)
+
+17. i call it the antlered meeble walker
+   (ID: Louiesloops)
+
+18. go it in my slot
+   (ID: baccgirl)
+
+19. my perfect hubby makes the perfect burgers
+   (ID: FormalSwimming)
+
+20. made some cookies for my dad's birthday
+   (ID: itsamayazing)
+
+
+--- MSC ---
+Total from this dataset: 1876
+
+1. My son is 12 years old. My son likes sci-fi and fantasy books. My son likes Harry Potter, Tamara Pierce and Isaac Asimov.
+   (ID: dialog_55_speaker_2)
+
+2. I am married. We like to swim.
+   (ID: dialog_16_speaker_2)
+
+3. I would love to be a professional.
+   (ID: dialog_15_speaker_1)
+
+4. I try to travel once a year.
+   (ID: dialog_38_speaker_2)
+
+5. I named my vehicle pig since it is that color.
+   (ID: dialog_58_speaker_2)
+
+6. I enjoy surfing the web.
+   (ID: dialog_67_speaker_1)
+
+7. I am from a very small town.
+   (ID: dialog_2_speaker_1)
+
+8. I much prefer warm weather sports.
+   (ID: dialog_31_speaker_1)
+
+9. I am shy. I like the Beatles.
+   (ID: dialog_2_speaker_1)
+
+10. I like to make cookies.
+   (ID: dialog_44_speaker_1)
+
+11. I create music on instruments.
+   (ID: dialog_80_speaker_2)
+
+12. I enjoy name brand sport shoes.
+   (ID: dialog_62_speaker_2)
+
+13. I work for an adoption law firm.
+   (ID: dialog_68_speaker_2)
+
+14. I am a singer.  I have grandchildren. I am giving my granddaughter singing lessons. I like to teach music.
+   (ID: dialog_44_speaker_1)
+
+15. I am a bit shy. I don't want to work at a large company. I want to write a book.
+   (ID: dialog_2_speaker_1)
+
+16. I play my guitar hours every day. I learned a new song on my guitar - RHCP Californication. I prefer old school hip hop artist. I like NWA and Biggie Smalls. I don't like hip hop artists whose words are hard to understand.
+   (ID: dialog_42_speaker_2)
+
+17. I was raised by my mom.
+   (ID: dialog_59_speaker_1)
+
+18. I think Great danes or french bulldog are good choices for pet dogs.
+   (ID: dialog_47_speaker_2)
+
+19. I collect a lot of sports memorabilia.
+   (ID: dialog_70_speaker_1)
+
+20. My name is Sally. I live in Taos, New Mexico. I have pet dogs.
+   (ID: dialog_10_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 16704
+
+1. i was there when they shot jamal .
+   (ID: serverpilot)
+
+2. i did n't even notice !
+   (ID: tylock)
+
+3. i miss holding hands , head scratches , and couch cuddles .
+   (ID: _gansmadchen)
+
+4. i may need to use this saying .
+   (ID: BlueSuedeBag)
+
+5. i 'm sorry about the gf and you 're cute af .
+   (ID: parkleswife)
+
+6. i was just wondering what you guys know or what you have learned from experience .
+   (ID: worried_panda)
+
+7. i 'm not a trump supporter , but she will be facing her own legal problems soon .
+   (ID: meteoriteminer)
+
+8. i 'm not part of the circlejerking .
+   (ID: hoveringlurker)
+
+9. i can show you the fundraising page if you want .
+   (ID: carwynllew)
+
+10. i did n't need any additional assistance .
+   (ID: DarkMoon99)
+
+11. i think they are great , reintroduce skill and team tactics .
+   (ID: nate6051)
+
+12. i own a business in a military town .
+   (ID: I_am_not_a_Taco)
+
+13. i would also be interested in a more in depth showing .
+   (ID: IgnoranceIsAVirus)
+
+14. i ’ll bet he hammer strikes people out of the way of the power ammo too .
+   (ID: WiseScratch)
+
+15. i think it should be to tell everyone about fight club .
+   (ID: Captain_-H)
+
+16. i 'm gon na get with the guys from el batallón hopefully they 're going there sunday
+   (ID: SamuelStephenBono)
+
+17. i admire you very much , this is a really great thing for me to read right now .
+   (ID: jbasta93)
+
+18. i 'm fifteen and depressed too .
+   (ID: NietzschesUbermensch)
+
+19. i did this to a bowl of oatmeal as i was dashing out the door for work .
+   (ID: 11_29_77)
+
+20. i love that " no " is not even an option
+   (ID: mmaswadeh)
+
+
+--- PER-CHAT ---
+Total from this dataset: 15770
+
+1. who said anything about cutting calories ? i said eating . once . a . day . eating once a day doesn  t necessarily mean you  re cutting calories . it depends on what you eat and how physical you are . i assumed the op eats something high in calories and fat for that one meal which if you eat a meal with those characteristics you will hinder any weight loss efforts but the op said they  re not trying to lose weight so it  s irrelevant .
+   (ID: 60a31a4071ae4962f2a308822d53a634a3760fa1)
+
+2. One of my favorite things is tits in every shapes.
+   (ID: 3eca81edf4e6bc73783677c148d86e9de5e6527e)
+
+3. One of my favorite things is traps.
+   (ID: 54271e4114265f638c8e4c59d7a3b35b6caa55bf)
+
+4. One of my favorite things is ghost projections.
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+
+5. I own a ship date.
+   (ID: b2c623940e1acb4e269cab1c8f1920e03da9e429)
+
+6. you ' re right . no one should be able to force you . my point is that you should choose to do the right thing anyway . if you have the chance to do right , and you choose not to , then you have done evil through inaction . you have the right to disagree . but for me the greater evil has always been the taking of an innocent human life . i can ' t deny that an embryo is innocent human life . and that is why i am pro  life .
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+7. One of my favorite things is doggo ’.
+   (ID: 2d1b758f410687b90c33a1260646954b4c1301f7)
+
+8. start by not giving a shit about what other people think of you . do what you need to do for yourself . learn to say " no " more often without the repercussions of other people ' s feelings . the rest will come naturally .
+   (ID: c22fbcc3fbb3286d348387d73888b66c1c9e09ba)
+
+9. from the epilogue of the book , professor pieixoto says they narrowed the commander of the handmaid on the tapes down to either waterford or judd , and they went on to say " judd devised the particicution , realizing that it would release the pent  up anger of the handmaids . pieixoto says that particicutions became so popular that in gilead ' s " middle period " they occurred four times a year . judd also came up with the notion that women should control other women . pieixoto says that no empire lacks this " control of the indigenous by members of their own group " so yes , the women are living under the control of the men  but the men were pitting the women against each other .
+   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
+
+10. don ' t explain your life choices to anyone . your life is not debatable for anyone but you .
+   (ID: e0c81b4b90b0c79cd330827a7fe15c4ac2958b48)
+
+11. they forgot to shower or something . like anything , please . i feel bad for someone , cause he ' s in the runners trucks now .
+   (ID: 8777ebe00a7403385686cc8962653ff5accb28f0)
+
+12. and that ' s why i refuse to have pets . really sorry for your loss . i lost my cat of digit years digit years ago . i grew up with him , he was my brother . it ' s been digit years and i still wake up crying from time to time when he appears in my dreams . a little advice  don ' t turn to alcohol . i spent the next digit months after that blacking out daily and odds are my liver will now kill me before i ' m digit .
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+13. all you can eat buffets can get you depending on how much you eat . all you can eat at a pizza place may be  digit and you may not finish a whole pizza , whereas you could spend  digit and get all you can eat plus left overs
+   (ID: 9a6c8092baa903ed1df9f0bfae4b28070e199c8c)
+
+14. One of my favorite things is musical.
+   (ID: aeeeb72f8fa4535141823a3cf83acb5f60bbaff4)
+
+15. i believe it . i sometimes think about spirits as the human part of the deceased that didn  t want to leave . they want to stay , for some reason . and they aren  t necessarily hostile or scary , they just have unfinished business and are hanging out until they can complete it . it appears he may have cared about you so much that he wanted to meet you before he left .
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+
+16. One of my favorite things is hard af heros.
+   (ID: 0501bf1e5cd313190bb4590a1c677057b15a6e47)
+
+17. I live in ontario.
+   (ID: 93aef5ab9bcfb13e4085ecbd6b6948845a9ec03b)
+
+18. i built a time machine for you . but you always die no matter what i do
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+19. One of my favorite things is hunting in story mode.
+   (ID: e6c4a2b8e8c999b54ade342babc3d7b48868cc6d)
+
+20. please illuminate me to the meaning of this . is it like yesn ' t ?
+   (ID: 4972a31c1a3df007d761e27a613a3b6a99c3a0ca)
+
+
+--- PersonaChat ---
+Total from this dataset: 1089
+
+1. i sing in the shower .
+   (ID: conversation_177)
+
+2. i love eating barbeque sandwiches and pizza puffs .
+   (ID: conversation_184)
+
+3. my favorite color is hunter green .
+   (ID: conversation_249)
+
+4. i live on a boat .
+   (ID: conversation_228)
+
+5. i like horseback riding .
+   (ID: conversation_28)
+
+6. my brothers work with me .
+   (ID: conversation_189)
+
+7. i larp on the weekends in the forest .
+   (ID: conversation_84)
+
+8. i cannot hold down a job for very long .
+   (ID: conversation_197)
+
+9. i love rock climbing .
+   (ID: conversation_240)
+
+10. i play music in my spare time .
+   (ID: conversation_215)
+
+11. i wear a lot of leather .
+   (ID: conversation_187)
+
+12. i like anime shows .
+   (ID: conversation_209)
+
+13. i was adopted .
+   (ID: conversation_180)
+
+14. i met my birth mother when i was sixteen .
+   (ID: conversation_180)
+
+15. my father was an author .
+   (ID: conversation_9)
+
+16. i can t get enough gummy worms to satisfy my sweet tooth .
+   (ID: conversation_25)
+
+17. i have a missing pinky toe .
+   (ID: conversation_199)
+
+18. i grew up in alabama .
+   (ID: conversation_221)
+
+19. my favorite food is spaghetti and meatballs .
+   (ID: conversation_37)
+
+20. i work as a janitor .
+   (ID: conversation_194)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2187
+
+1. I love dogs.
+   (ID: conversation_91_user_1)
+
+2. I like books about trains.
+   (ID: conversation_173_user_1)
+
+3. I am married.
+   (ID: conversation_236_user_1)
+
+4. I enjoy going to festivals.
+   (ID: conversation_61_user_1)
+
+5. My mother is allergic to dogs.
+   (ID: conversation_146_user_1)
+
+6. My days are filled with cross country try outs and basketball practice.
+   (ID: conversation_127_user_2)
+
+7. I have a lot of style.
+   (ID: conversation_153_user_1)
+
+8. I love comics.
+   (ID: conversation_35_user_2)
+
+9. I like anime shows.
+   (ID: conversation_117_user_2)
+
+10. I have a tattoo of an angel on my hip.
+   (ID: conversation_159_user_1)
+
+11. I work at the grocery store.
+   (ID: conversation_51_user_1)
+
+12. I can t stand pizza.
+   (ID: conversation_243_user_2)
+
+13. I like cars.
+   (ID: conversation_110_user_1)
+
+14. I love to clean my house.
+   (ID: conversation_68_user_2)
+
+15. I live to not disappoint my loved ones.
+   (ID: conversation_11_user_1)
+
+16. I like the color blue or red.
+   (ID: conversation_48_user_2)
+
+17. I love dogs.
+   (ID: conversation_78_user_1)
+
+18. I love the tigers baseball team.
+   (ID: conversation_16_user_1)
+
+19. I have a lot of friends.
+   (ID: conversation_234_user_1)
+
+20. I love going to concerts.
+   (ID: conversation_160_user_1)
+
+
+============================================================

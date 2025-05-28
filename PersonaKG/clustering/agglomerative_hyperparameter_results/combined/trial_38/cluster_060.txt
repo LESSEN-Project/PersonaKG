@@ -1,0 +1,467 @@
+CLUSTER 60
+============================================================
+Total statements in cluster: 2913
+
+Dataset distribution in this cluster:
+  FoCus: 100 (3.4%)
+  MPChat: 47 (1.6%)
+  MSC: 94 (3.2%)
+  PEC: 389 (13.4%)
+  PER-CHAT: 2120 (72.8%)
+  PersonaChat: 53 (1.8%)
+  SyntheticPersonaChat: 110 (3.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 100
+
+1. I would like to see the generation of hydroelectric power.
+   (ID: G1UZK23AWVKW_7)
+
+2. I like scenic views.
+   (ID: LCFMQMTGBUJO_7)
+
+3. I love Tormentil.
+   (ID: VOQV863ZK27L_11)
+
+4. I like hills.
+   (ID: XJHUSUPBYFL1_11)
+
+5. I like caves.
+   (ID: 8GQ0F315ZAPD_9)
+
+6. I love Hanumappa Nayaka.
+   (ID: UN54IACHSTX5_11)
+
+7. I like to hear the sound of the creek.
+   (ID: 97WAFKFECFDE_9)
+
+8. I like nature.
+   (ID: FHCSCC2MB2X0_7)
+
+9. I love undulating landscape.
+   (ID: QCGNF3BW4P3K_11)
+
+10. I love going Geocaching.
+   (ID: X4XPZG2COY57_11)
+
+11. I like 4D.
+   (ID: PSBPL4USIKMB_11)
+
+12. I like national parks.
+   (ID: SR7IVZSR3LV5_11)
+
+13. I enjoy hill views.
+   (ID: CA1IZ57C8644_11)
+
+14. I love Llangynog for its cleanliness.
+   (ID: QD76MDAZKTVK_11)
+
+15. I like lake.
+   (ID: DTX89JENNS0P_11)
+
+16. I like Lakes.
+   (ID: Q997WWV6FO9L_11)
+
+17. I love forests.
+   (ID: TQCNCMKK1WW5_11)
+
+18. I love the sound of a river.
+   (ID: Z4X3H6WLUB9I_11)
+
+19. I love wildlife.
+   (ID: T815O8KC30IG_9)
+
+20. I love national parks.
+   (ID: 9CD2B0WSKOVZ_11)
+
+
+--- MPChat ---
+Total from this dataset: 47
+
+1. i usually kind of hate it, but today this one felt pleasing
+   (ID: switchbladesally)
+
+2. i agree, buddy, that's the best spot in the house.
+   (ID: m3lodym4ker)
+
+3. for me, i opt to explore the northern section of the range.
+   (ID: tssouthwest)
+
+4. i love alone, all i have to say.
+   (ID: billwhiz)
+
+5. i'm starting to love sgraffito
+   (ID: KittyButt42)
+
+6. i could not ask for a better way to spend all my days!
+   (ID: meghanlovessunshine)
+
+7. i like bunny butts and i cannot lie!
+   (ID: drfrank1982)
+
+8. posting a picture every day until i can go camping again, day 4: jacks river campsite- cohutta wilderness
+   (ID: Pearl_krabs)
+
+9. my hubby makes me so happy
+   (ID: FormalSwimming)
+
+10. a star trail over my house in on, canada [oc] [2304x2880]
+   (ID: markoshino)
+
+11. here are some pictures from my recent end to end hike of the vermont long trail.
+   (ID: walkalong)
+
+12. i'm in love with spooky and glitter.
+   (ID: skorletun)
+
+13. took one of my favorite photos ever on a canoeing trip last week.
+   (ID: wowsage)
+
+14. this is my beetle!
+   (ID: feraljess)
+
+15. i tried to take a snow day photo of baker
+   (ID: BananaStand07)
+
+16. i can't decide.
+   (ID: thegentlestbutterfly)
+
+17. it's a jurassic kind of world - oahu, hawai'i
+   (ID: River_Lethe)
+
+18. can you tell i love raw salmon?
+   (ID: onemantwohands)
+
+19. i love google maps.
+   (ID: pope237)
+
+20. i can almost imagine gandalf and the hobbits running across this california meadow
+   (ID: tssouthwest)
+
+
+--- MSC ---
+Total from this dataset: 94
+
+1. My favorite comedy is Dr. Strangelove. I enjoy watching The Cable Guy.
+   (ID: dialog_15_speaker_2)
+
+2. I have a sweet tooth.
+   (ID: dialog_139_speaker_1)
+
+3. I like brownies.
+   (ID: dialog_178_speaker_1)
+
+4. I like sweets and dessert.
+   (ID: dialog_84_speaker_1)
+
+5. My favorite show is about zombies.
+   (ID: dialog_164_speaker_1)
+
+6. My favorite comedy is Dr. Strangelove.
+   (ID: dialog_15_speaker_2)
+
+7. My significant other makes me happy.
+   (ID: dialog_50_speaker_1)
+
+8. I enjoy living in florida keys.
+   (ID: dialog_102_speaker_2)
+
+9. I want candy.
+   (ID: dialog_4_speaker_1)
+
+10. My favorite shows are about zombies.
+   (ID: dialog_93_speaker_2)
+
+11. I've a sweet tooth.
+   (ID: dialog_176_speaker_2)
+
+12. I like sweets and dessert.
+   (ID: dialog_170_speaker_2)
+
+13. I love tetris.
+   (ID: dialog_86_speaker_2)
+
+14. I love watching the sunset and sunrise.
+   (ID: dialog_148_speaker_2)
+
+15. I like the sand on my feet.
+   (ID: dialog_111_speaker_2)
+
+16. Reality programs with music and liveliness gets my heart racing.
+   (ID: dialog_144_speaker_2)
+
+17. I like game of thrones. Arya Stark is my favorite character.
+   (ID: dialog_1_speaker_2)
+
+18. I like mountains.
+   (ID: dialog_49_speaker_1)
+
+19. I love taking pictures, especially of my cat and garden using my canon camera.
+   (ID: dialog_49_speaker_1)
+
+20. I love nature.
+   (ID: dialog_146_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 389
+
+1. i love this every time that it is reposted .
+   (ID: SerendipitousCat)
+
+2. i want interpretive dance damn it .
+   (ID: bluesatin)
+
+3. i want to bang everything .
+   (ID: aydinsevimli)
+
+4. i just want you to enjoy more .
+   (ID: gigatroness)
+
+5. i can never decide where i land on that one
+   (ID: amandahm4916)
+
+6. i say " i love you ! "
+   (ID: QueenPea13)
+
+7. i 'd say this is in the running , definitely .
+   (ID: Thenewfoundlanders)
+
+8. i would love to see a living hummingbird once in my life :)
+   (ID: Ml7500)
+
+9. i bet those fun
+   (ID: dawgreddit2014)
+
+10. i do love disney fantasia tho
+   (ID: mimbo757)
+
+11. i can hear the exasperation in chocolate dutchs voice
+   (ID: Aloha-Potato)
+
+12. i love all of them
+   (ID: waterspork)
+
+13. i ’m so sick of the word troll
+   (ID: BoobieBoobieButtButt)
+
+14. i love all of them !
+   (ID: amandahm4916)
+
+15. i always need more wwi podcasts
+   (ID: Shrub74)
+
+16. i love the magic hour light .
+   (ID: EmRavel)
+
+17. i see your alliancemate 's car , and raise you my
+   (ID: coocha)
+
+18. i want to die on the moon .
+   (ID: RobotHappiness)
+
+19. i can see some pineconing on the scales .
+   (ID: kailan123456)
+
+20. i have bubba kush seeds .
+   (ID: jonmyo11)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2120
+
+1. One of my favorite things is konosuba.
+   (ID: 8764a223ca1af7d1792e76a58bf3b1209bf73ad3)
+
+2. One of my favorite things is verdigris.
+   (ID: e3524b3478c664f2c6e8b00a4341ff0a26995fbc)
+
+3. One of my favorite things is bh.
+   (ID: eb736a8c6e4b69cfd870418bec35f4839b24780b)
+
+4. One of my favorite things is dza.
+   (ID: 52630a8de60c1fa7b1adc6ce63b9b05563b7b9f2)
+
+5. One of my favorite things is ashley ’.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+6. One of my favorite things is devon.
+   (ID: 4420123abde71e42df266171d2bcb8a90afeed93)
+
+7. well guys do tell me i ' m hot , but they say that about so many guys that i think it ' s just something they habitually say and it really doesn ' t mean much . it ' s also such a 1980s saying that i ' m surprised anyone still uses it lol ! i suspect they ' re just settling since they couldn ' t get any of the hot guys .
+   (ID: 0d3d136fd15476f8c62c2f90566b0d8af0c2caca)
+
+8. One of my favorite things is knuckles.
+   (ID: ee6fdc3d42cb3e2a3321054cfa11a7a337437f94)
+
+9. One of my favorite things is curves.
+   (ID: 26eaf1fafb916f4238e66dfba6deb9da540be2f6)
+
+10. One of my favorite things is nick podehl.
+   (ID: 6eec77fe98b9dc85ec1e5e7edc37cdb415794719)
+
+11. One of my favorite things is aurora   reason.
+   (ID: ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9)
+
+12. One of my favorite things is steam.
+   (ID: 12b33309ed44732201ee2caf9b6ce9ce17552a26)
+
+13. One of my favorite things is orson.
+   (ID: 4dc8611321f8939824b42f21260d7a2adbf4a5d1)
+
+14. One of my favorite things is dragline.
+   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
+
+15. One of my favorite things is quinn.
+   (ID: e74de4b8aa6f46c2dd5cb848b2770028e7469b55)
+
+16. One of my favorite things is dr.
+   (ID: 8e20173a96806d331c3c8933b7c10d5e4c27244e)
+
+17. One of my favorite things is yang.
+   (ID: a3b2823250cd4b5927129512a5ab9061e10ebaf2)
+
+18. One of my favorite things is sera.
+   (ID: e3561bdda3e6ea0d1b0ca099b5f947cf7e037b3a)
+
+19. One of my favorite things is angerfist.
+   (ID: ff51288ca8adbfbd763f8c0e670e39dfa27cb681)
+
+20. One of my favorite things is realism.
+   (ID: ecce6e894db30f245f1073ca0e270a3bb87eaa71)
+
+
+--- PersonaChat ---
+Total from this dataset: 53
+
+1. i like ice cream .
+   (ID: conversation_176)
+
+2. i like thomas the tank engine .
+   (ID: conversation_486)
+
+3. i love the beach .
+   (ID: conversation_326)
+
+4. i love to walk in the woods .
+   (ID: conversation_424)
+
+5. lady gaga is my current favorite singer .
+   (ID: conversation_13)
+
+6. i love watching sitcoms on television .
+   (ID: conversation_220)
+
+7. i watch jimmy allons show every night .
+   (ID: conversation_435)
+
+8. i wish i could live forever .
+   (ID: conversation_85)
+
+9. i dream of winning the lottery .
+   (ID: conversation_361)
+
+10. i love the beach .
+   (ID: conversation_7)
+
+11. i like watching videos of surgery .
+   (ID: conversation_389)
+
+12. my favorite place to visit is seattle .
+   (ID: conversation_436)
+
+13. i love to walk in the woods .
+   (ID: conversation_359)
+
+14. i wish i made more money .
+   (ID: conversation_483)
+
+15. i like nature .
+   (ID: conversation_445)
+
+16. i like baths .
+   (ID: conversation_182)
+
+17. i love the natural world beauty .
+   (ID: conversation_318)
+
+18. i still like combat boots with babydoll dresses .
+   (ID: conversation_257)
+
+19. my favorite tv show is silicon valley .
+   (ID: conversation_161)
+
+20. i like baths .
+   (ID: conversation_6)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 110
+
+1. My weakness are sweets.
+   (ID: conversation_9_user_1)
+
+2. I love sweets.
+   (ID: conversation_108_user_1)
+
+3. I want to go to mars.
+   (ID: conversation_451_user_1)
+
+4. I want to climb mount everest.
+   (ID: conversation_205_user_2)
+
+5. I enjoy all things my little pony.
+   (ID: conversation_119_user_1)
+
+6. My weakness are sweets.
+   (ID: conversation_10_user_1)
+
+7. My favorite movies are disney movies.
+   (ID: conversation_346_user_2)
+
+8. I like candy and soda.
+   (ID: conversation_21_user_1)
+
+9. Lady gaga is my current favorite singer.
+   (ID: conversation_309_user_1)
+
+10. My favorite show is scobby doo.
+   (ID: conversation_172_user_2)
+
+11. I like ice cream.
+   (ID: conversation_233_user_1)
+
+12. My favorite movie is dirty harry.
+   (ID: conversation_489_user_2)
+
+13. My favorite movie is pretty woman.
+   (ID: conversation_207_user_1)
+
+14. I love nighttime.
+   (ID: conversation_52_user_2)
+
+15. My favorite show is battlestar galactica.
+   (ID: conversation_55_user_2)
+
+16. I love candy.
+   (ID: conversation_228_user_2)
+
+17. I love candy.
+   (ID: conversation_301_user_1)
+
+18. I enjoy watching horror flicks.
+   (ID: conversation_54_user_2)
+
+19. My favorite tv show is silicon valley.
+   (ID: conversation_176_user_1)
+
+20. I love watching superheroes shows.
+   (ID: conversation_66_user_1)
+
+
+============================================================

@@ -1,0 +1,56 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 8
+
+Dataset distribution in this cluster:
+  MSC: 1 (12.5%)
+  PEC: 2 (25.0%)
+  PER-CHAT: 3 (37.5%)
+  SyntheticPersonaChat: 2 (25.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I make blogs.
+   (ID: dialog_76_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i will if i ever make another one .
+   (ID: Ml7500)
+
+2. i make dh do the laundry .
+   (ID: teriaki)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. what make is that weedeater ?
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+2. do you have any tutorials on how to do what you do ? could you make one ?
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+
+3. i wonder of they make some alts here to do the same ?
+   (ID: 161e54996257552df993f906d6f848a053922141)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I make my own compost.
+   (ID: conversation_153_user_2)
+
+2. I make my own compost.
+   (ID: conversation_123_user_2)
+
+
+============================================================

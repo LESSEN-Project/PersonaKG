@@ -1,0 +1,467 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 3670
+
+Dataset distribution in this cluster:
+  FoCus: 200 (5.4%)
+  MPChat: 67 (1.8%)
+  MSC: 98 (2.7%)
+  PEC: 1166 (31.8%)
+  PER-CHAT: 2006 (54.7%)
+  PersonaChat: 47 (1.3%)
+  SyntheticPersonaChat: 86 (2.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 200
+
+1. I love going swimming.
+   (ID: QK9TQHXYFFJ9_11)
+
+2. I'm interested in names.
+   (ID: E3UZAGT5DTE5_11)
+
+3. I like jaguars.
+   (ID: U2VHOEDA278F_11)
+
+4. I like Lakes.
+   (ID: Q997WWV6FO9L_11)
+
+5. I am interested in Phrygia.
+   (ID: LX3CSQUSJ9B3_9)
+
+6. I would like to be a pianist.
+   (ID: D0BKN1W8KWG6_7)
+
+7. I am interested in studying escapes.
+   (ID: BWZ0H3E6AIGB_11)
+
+8. I love going to the theatre.
+   (ID: NKLIZUTIPPP1_11)
+
+9. I am going to Australia.
+   (ID: CFYWBHPKPOHZ_7)
+
+10. I am interested in the Industrial Revolution.
+   (ID: AHA35P484Z5B_11)
+
+11. I like sculptures.
+   (ID: MJ8L7IHV13N8_11)
+
+12. I am interested in Pleistocene glaciation.
+   (ID: LQEMVPLBWMFW_11)
+
+13. I'm interested in hip-hop culture.
+   (ID: MV4DPBGX0OB5_11)
+
+14. I would like to discover the typical food of Australia.
+   (ID: JJN7XJSS0B4W_11)
+
+15. I would like to go to Switzerland.
+   (ID: ATJSFYS2K6FK_11)
+
+16. I am interested in history.
+   (ID: SDW19RWSP3ZX_11)
+
+17. I am interested in concerts.
+   (ID: FCHHL9I1PIW0_11)
+
+18. I'm interested in history.
+   (ID: SJS6GHEH7ZIW_11)
+
+19. I am interested in ecology.
+   (ID: LQEMVPLBWMFW_11)
+
+20. I love going to Natural history museums.
+   (ID: FF36QQ08S28H_11)
+
+
+--- MPChat ---
+Total from this dataset: 67
+
+1. where did i go wrong?
+   (ID: Crilbyte)
+
+2. i love a good sale
+   (ID: SarahFree339)
+
+3. i would like one boop please.
+   (ID: kentobean123)
+
+4. haha i did it!
+   (ID: Nutellism)
+
+5. [updated wip] not going to get both panels done by christmas, but i should have one!
+   (ID: iowajaycee)
+
+6. i finally did it!!
+   (ID: meepmeepcuriouscat)
+
+7. i am 31 year old bachelor how did i do?
+   (ID: onemantwohands)
+
+8. i called him a good boy.
+   (ID: kentobean123)
+
+9. slow going but i really like how the color is pooling
+   (ID: Sophie74656)
+
+10. say hello to my baby, professor mcgonagall.
+   (ID: MrsTheJones)
+
+11. i like to fold papers too!
+   (ID: gxnelson)
+
+12. came out tender, texture was almost like corned beef not what i wanted but was good eatin
+   (ID: MonstaEatsItAll)
+
+13. and i decorated for a good friends wedding.
+   (ID: tremelir)
+
+14. i hope my cousins new baby girl is going to love it!
+   (ID: ablubberducky)
+
+15. i guess i'm not going to bed tonight.
+   (ID: ddizzle23)
+
+16. haven't baked in about five years; i forgot how good this tastes.
+   (ID: mattsulli)
+
+17. my renaissance fair drawstring bag, made from my darn good yarn's subscription yarn.
+   (ID: somuchyarn10)
+
+18. goate-esque jam tarts (because apparently i'm not good at doing nice things)
+   (ID: LittleBitOdd)
+
+19. i love a good boy in plaid
+   (ID: kentobean123)
+
+20. going to test my luck today.
+   (ID: jlb4est)
+
+
+--- MSC ---
+Total from this dataset: 98
+
+1. I like memoirs and autobiographies.
+   (ID: dialog_55_speaker_2)
+
+2. I am going to the University of Michigan.
+   (ID: dialog_12_speaker_1)
+
+3. I like going to the creek with family
+   (ID: dialog_61_speaker_1)
+
+4. I think NWA and Biggie Smalls are good hip hop artists. I prefer hard rock bands from the 70's. 80's and 90';s.
+   (ID: dialog_42_speaker_1)
+
+5. I am going to listen to rock music
+   (ID: dialog_61_speaker_2)
+
+6. I also like to go biking.
+   (ID: dialog_76_speaker_1)
+
+7. My mom is my good friend.
+   (ID: dialog_14_speaker_2)
+
+8. I like junk food. Meat and pizza are my favorite.
+   (ID: dialog_25_speaker_1)
+
+9. I am going to a private college.
+   (ID: dialog_12_speaker_1)
+
+10. My favorite food is italian.
+   (ID: dialog_5_speaker_1)
+
+11. I am fairly good with English and grammar skills in general. I have a very good recipe for corn and bean salad.
+   (ID: dialog_86_speaker_1)
+
+12. I have not told my family that I'm interested in the same sex.
+   (ID: dialog_35_speaker_1)
+
+13. I love mexican food.
+   (ID: dialog_27_speaker_1)
+
+14. I am not good at math. I am taking a math class. I don't like algebra. I am good at science and english.
+   (ID: dialog_7_speaker_2)
+
+15. I am not very good at playing basketball.
+   (ID: dialog_8_speaker_1)
+
+16. My sibling enjoys music and going to different places.
+   (ID: dialog_22_speaker_2)
+
+17. I have no clue who my father is.
+   (ID: dialog_90_speaker_2)
+
+18. I've not told my family that I am interested in the same sex.
+   (ID: dialog_4_speaker_2)
+
+19. I like to go biking.
+   (ID: dialog_76_speaker_2)
+
+20. I've a family.
+   (ID: dialog_44_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1166
+
+1. i did n't .
+   (ID: alextound)
+
+2. i think you ’re lovely and you seem sweet so i ’d also say you ’re also lovable .
+   (ID: ListenandLove100)
+
+3. i did n't know that was a thing !
+   (ID: parkleswife)
+
+4. i always say , manners cost nothing . � � +
+   (ID: ChallengeTaken99)
+
+5. i 'll say 10 times a year .
+   (ID: blue_thingy)
+
+6. i always start my valentines ads with “ good with children ”
+   (ID: Lifes6Midnight)
+
+7. i did n’t know it could get worse .
+   (ID: snapsnaptomtom)
+
+8. i was going to mention the one in toronto too !
+   (ID: EvieAugust)
+
+9. i figured he 'd be a good person to.ask coz of its a throwaway , he would not mind xd
+   (ID: leo9g)
+
+10. i thought this was really good .
+   (ID: deputydan_scubaman)
+
+11. i 've mine going too in a jar right now .
+   (ID: kailan123456)
+
+12. i still say sara shahi woulda been a better talia
+   (ID: LCPhotowerx)
+
+13. i say end it my dude.op not only stuck his dick in crazy , he married it .
+   (ID: ChallengeTaken99)
+
+14. i remember the good ol' other stuff folder ... and other stuff1 , other stuff2 , other stuff3 ...
+   (ID: baconnaire)
+
+15. i went to ihop too , it did n't last long either !
+   (ID: Ooer)
+
+16. i think is a good way to learn , can be quite long but rewarding .
+   (ID: xcombelle)
+
+17. i 'd say you did " share something with the group " alright !
+   (ID: scoutsadie)
+
+18. i was going to say " fork him to death " until i read this .
+   (ID: VanGoJourney)
+
+19. i absolutely agree .
+   (ID: Er1n999)
+
+20. i thought i was getting good at this haha
+   (ID: bennystache)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2006
+
+1. I'm interested in skincare.
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
+
+2. I'm interested in depression and anxiety.
+   (ID: 6b55ac21377298601038ad44ea0f65b18e7c5b51)
+
+3. I'm interested in pets and animals.
+   (ID: fe4ddb52a6f20437e3f3c6003b775cb72c3d048f)
+
+4. I'm interested in reptiles.
+   (ID: 4f26e00e0769f7123ce8a1a0d11a5e285c445ec3)
+
+5. I'm interested in lgbt.
+   (ID: 77ab4860c32a7084ca81fd91302df6690ce56731)
+
+6. i didn  t have the option of getting mine back , if i did i probably would have done it too . that  s ok about the pics , thank you !
+   (ID: 91fce15f80cee843edc2c92559e78e027c94f5d0)
+
+7. I'm interested in cats.
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
+
+8. say , you know how to get the hell to dodge ?
+   (ID: 2bef35da312e37edc8bab504f87f6973d3b8481a)
+
+9. fair enough . if you hypothetically did receiver endgame now then , would you still watch it ? or would you leak spoilers ?
+   (ID: 91fce15f80cee843edc2c92559e78e027c94f5d0)
+
+10. if it was still the digit  s , i  d say  not having my corn pops  i gotta have my pops . but , i  m in my digit  s now , so i  ll say  waking up with some new kind of pain that wasn  t there yesterday
+   (ID: 2cc106beadb9cde22175338488da9efb20933748)
+
+11. I'm interested in self-help and motivation.
+   (ID: c502154cdae9232a9351bdc0e55d2030d75a8094)
+
+12. I'm interested in sex.
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+13. I'm interested in food and beverages.
+   (ID: d298609ba6b9516031b9d0b9bc9217d85ce28f05)
+
+14. I'm interested in accessories.
+   (ID: b62d2865206257ab4ea65a5e489f9d4e1c8d5e9b)
+
+15. what country are you , and what did they tell you started wwii ?
+   (ID: f4f3116c36134aaf6c836035cf76dc86210b1c12)
+
+16. I'm interested in relationships.
+   (ID: 74b41b40662f8290cb9efa13620a4b8ecd792ba9)
+
+17. i say you take what you want from it , and see it as you please .
+   (ID: d42f47f147cdc8e97117f0e4963e2c1309d1dcd8)
+
+18. I'm interested in food and beverages.
+   (ID: d54a04c3eba52404f5dd7abb0e459a949dbc7f93)
+
+19. I'm interested in dating.
+   (ID: b74c6f378f67934bed1f9dd4c591152d002827ec)
+
+20. ive been wanting to go there . i only think of good things when i think of australia . why would you want it to be gone ?
+   (ID: 0ffbddfe94023d7c5849c377e3fd6faac3ddc83c)
+
+
+--- PersonaChat ---
+Total from this dataset: 47
+
+1. i'm very good at math and science .
+   (ID: conversation_122)
+
+2. i like cartoons .
+   (ID: conversation_39)
+
+3. its good to eat a lot of veggies .
+   (ID: conversation_137)
+
+4. my favorite food is a cheeseburger .
+   (ID: conversation_33)
+
+5. i also give blood monthly in honor of my sister who died .
+   (ID: conversation_77)
+
+6. my favorite food is popcorn .
+   (ID: conversation_15)
+
+7. my favorite food is cheeseburgers .
+   (ID: conversation_219)
+
+8. i think food trucks are awesome .
+   (ID: conversation_232)
+
+9. i went to school for fashion design and did nothing with it .
+   (ID: conversation_142)
+
+10. i have trouble getting along with family .
+   (ID: conversation_247)
+
+11. my family is very important to me .
+   (ID: conversation_189)
+
+12. my favorite food is cheese .
+   (ID: conversation_28)
+
+13. we help each other out in my family .
+   (ID: conversation_229)
+
+14. i only eat organic food .
+   (ID: conversation_210)
+
+15. my favorite food is pizza .
+   (ID: conversation_218)
+
+16. i love going to concerts and dancing hard .
+   (ID: conversation_28)
+
+17. going snorkeling is my favorite thing to do .
+   (ID: conversation_69)
+
+18. i like going to the beach .
+   (ID: conversation_111)
+
+19. my family migrated to america when i was five .
+   (ID: conversation_22)
+
+20. my father is a preacher .
+   (ID: conversation_98)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 86
+
+1. My favorite food is pizza.
+   (ID: conversation_166_user_2)
+
+2. I am a family man.
+   (ID: conversation_23_user_2)
+
+3. My family is very important to me.
+   (ID: conversation_47_user_2)
+
+4. I love spicy food.
+   (ID: conversation_202_user_2)
+
+5. I am not a good artist.
+   (ID: conversation_205_user_2)
+
+6. I like to be alone.
+   (ID: conversation_93_user_2)
+
+7. I like victorian things.
+   (ID: conversation_122_user_1)
+
+8. My favorite food is strawberries.
+   (ID: conversation_43_user_1)
+
+9. I love going to concerts.
+   (ID: conversation_158_user_1)
+
+10. My sister is a guitarist.
+   (ID: conversation_57_user_1)
+
+11. I like to sew.
+   (ID: conversation_35_user_1)
+
+12. My favorite food is strawberries.
+   (ID: conversation_46_user_1)
+
+13. I like snowboarding.
+   (ID: conversation_180_user_2)
+
+14. My favorite food is pizza.
+   (ID: conversation_154_user_1)
+
+15. I have a big family.
+   (ID: conversation_151_user_1)
+
+16. I love fast food.
+   (ID: conversation_246_user_2)
+
+17. My favorite food is jello.
+   (ID: conversation_46_user_2)
+
+18. My favorite food is mashed potatoes.
+   (ID: conversation_204_user_1)
+
+19. I ve a big family.
+   (ID: conversation_152_user_1)
+
+20. I love food.
+   (ID: conversation_150_user_1)
+
+
+============================================================

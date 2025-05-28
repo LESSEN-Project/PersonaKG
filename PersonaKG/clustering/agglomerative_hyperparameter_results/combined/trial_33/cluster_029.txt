@@ -1,0 +1,128 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 233
+
+Dataset distribution in this cluster:
+  PEC: 2 (0.9%)
+  PER-CHAT: 221 (94.8%)
+  PersonaChat: 1 (0.4%)
+  SyntheticPersonaChat: 9 (3.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i recognized your mother
+   (ID: WiseScratch)
+
+2. i had inherited it from my mother .
+   (ID: mmaswadeh)
+
+
+--- PER-CHAT ---
+Total from this dataset: 221
+
+1. I have a mother in my family.
+   (ID: 2a3d0cc7409627207d71d58affd421983020efbe)
+
+2. I have a mother in my family.
+   (ID: 0d5c70b45072ef9ffc8fb257e4775e8302391e3c)
+
+3. I have a mother in my family.
+   (ID: 3d776de779e565cac9f29e072415ad6b781eaca0)
+
+4. I have a mother in my family.
+   (ID: fddeeaa11799939dfe96bc7fae74a22b474aaf20)
+
+5. I have a mother in my family.
+   (ID: 96167969642339382f3b9c4eeee4ea73aec3823c)
+
+6. I have a mother in my family.
+   (ID: 5a15ba0aaa5a6e6f9e3a2db25befda6ec40a9b88)
+
+7. I have a mother in my family.
+   (ID: 225291489bc1a4ddf3d197a3062fa9ff935f3029)
+
+8. I have a mother in my family.
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+9. I have a mother in my family.
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+10. I have a mother in my family.
+   (ID: 777e86703ab013526ea933a9a9fcc97d1fbd6a78)
+
+11. I have a mother in my family.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+12. I have a mother in my family.
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+13. I have a mother in my family.
+   (ID: 3e1762624e55cdfb0929da3e1a1c438675e0c217)
+
+14. I have a mother in my family.
+   (ID: 7a3a98777bf2cebb6bd14409075a19b82035e535)
+
+15. I have a mother in my family.
+   (ID: f491028c794855d1611365b07d4525f7b98173ae)
+
+16. I have a mother in my family.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+17. I have a mother in my family.
+   (ID: 68d36e5b5d26327bbb5de8de16430cc93353cbf0)
+
+18. I have a mother in my family.
+   (ID: b29114e3d39ee1086f5eb2abbe6cbec33bc7749f)
+
+19. I have a mother in my family.
+   (ID: 10f3c4c68efa9cd11f34f4a88f492c7d7e693418)
+
+20. I have a mother in my family.
+   (ID: e74c4268e9e1c5f9cadf933981b55c5a5aa0d1f2)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my mother is a dentist .
+   (ID: conversation_161)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 9
+
+1. My mother is a ballerina.
+   (ID: conversation_143_user_2)
+
+2. My mother is a dentist.
+   (ID: conversation_175_user_1)
+
+3. I am a mother of three.
+   (ID: conversation_231_user_1)
+
+4. My mother is a housemaid.
+   (ID: conversation_202_user_2)
+
+5. My mother is a dentist.
+   (ID: conversation_177_user_1)
+
+6. I am a mother.
+   (ID: conversation_85_user_1)
+
+7. My mother is a dentist.
+   (ID: conversation_176_user_1)
+
+8. I am a mother.
+   (ID: conversation_84_user_1)
+
+9. I am a mother of three.
+   (ID: conversation_230_user_1)
+
+
+============================================================

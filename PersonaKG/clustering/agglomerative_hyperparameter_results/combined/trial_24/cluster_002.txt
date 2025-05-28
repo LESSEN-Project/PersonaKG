@@ -1,0 +1,467 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 2826
+
+Dataset distribution in this cluster:
+  FoCus: 66 (2.3%)
+  MPChat: 61 (2.2%)
+  MSC: 333 (11.8%)
+  PEC: 713 (25.2%)
+  PER-CHAT: 967 (34.2%)
+  PersonaChat: 212 (7.5%)
+  SyntheticPersonaChat: 474 (16.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 66
+
+1. I love Mardi Gras.
+   (ID: TF4SZWIWHJO4_11)
+
+2. I am from Southeast Asia.
+   (ID: 9ZUQKMGM6HTD_11)
+
+3. I am a wine connoisseur.
+   (ID: DIQU5A0EAGWM_11)
+
+4. I am from England.
+   (ID: CH4FIE1LU3RG_11)
+
+5. I like weight training.
+   (ID: EFTS0UG7NK5K_9)
+
+6. I like to go to Church.
+   (ID: LRGBCD6RT2HQ_11)
+
+7. I have never gone into camping but would love to try it.
+   (ID: A06HPOO7OWPE_11)
+
+8. I love Church of Sinai.
+   (ID: TF24QL7QZSG2_11)
+
+9. I am from the United States.
+   (ID: DAZUOQ6PPGPD_9)
+
+10. I like sand.
+   (ID: CXUYRK4MA1NB_11)
+
+11. I am proficient in Spanish.
+   (ID: FNURQ2XMQVJF_11)
+
+12. I have 61500 likes in my instagram page.
+   (ID: QRRS2THODNM3_11)
+
+13. I have a friend who is an actor.
+   (ID: POTYY4E7PSQF_11)
+
+14. I am from England.
+   (ID: MX05X059ETMG_11)
+
+15. I have German relatives.
+   (ID: 6Y1JUDZSPANM_9)
+
+16. I like gold.
+   (ID: OOU8UC23AVLV_11)
+
+17. I am a masochist.
+   (ID: MMFXPQYSEBUW_11)
+
+18. I am a researcher.
+   (ID: T9680U7NZ97F_11)
+
+19. I have the hobby of swimming.
+   (ID: U6NEN4YX4OT6_9)
+
+20. I'm from England.
+   (ID: PCA6OG1NNC5D_9)
+
+
+--- MPChat ---
+Total from this dataset: 61
+
+1. spinning a web inside my washroom in sw ontario, canada.
+   (ID: ambora)
+
+2. i was just doing i turned around to see isabella like this.
+   (ID: evantide)
+
+3. i'm being watched...
+   (ID: iamPauPaul)
+
+4. and it's not even my birthday.
+   (ID: Soapy_Von_Soaps)
+
+5. my buddy loves to lay belly-up!
+   (ID: chirp16)
+
+6. first time camping and i got to see this before we set up.
+   (ID: crunch816)
+
+7. it’s my birthday weekend!
+   (ID: jehkane28)
+
+8. i call it "boyfriending."
+   (ID: mattsulli)
+
+9. to have my daughter's name over her crib when she's born
+   (ID: Sophie74656)
+
+10. my hubby makes the best lunches
+   (ID: FormalSwimming)
+
+11. i'm 30 and very excited about my first bong.
+   (ID: crunch816)
+
+12. my handsome dude just turned 14!
+   (ID: smsikking)
+
+13. hey, i was a novice then!
+   (ID: DeanIsHotter)
+
+14. i have a hot pocket
+   (ID: kentobean123)
+
+15. alright, i guess i'm into tea now!
+   (ID: SilentRansom)
+
+16. my son loves transformers and he was born on march 17th.
+   (ID: amandabakes)
+
+17. hello it is i
+   (ID: kentobean123)
+
+18. sitting idly as i fix my bike.
+   (ID: ambora)
+
+19. my old man just turned 14. one handsome curl... he gets sore sometimes.
+   (ID: smsikking)
+
+20. i’m gonna be an auntie and i cannot wait
+   (ID: smsikking)
+
+
+--- MSC ---
+Total from this dataset: 333
+
+1. I am 14. I go to school. I'm studying online this term. I like biology. I like my biology teacher.
+   (ID: dialog_67_speaker_1)
+
+2. I am getting married and moving to australia soon. I'm planning a wedding.
+   (ID: dialog_77_speaker_2)
+
+3. I am single.
+   (ID: dialog_34_speaker_1)
+
+4. I am a parent to 2 toddlers.
+   (ID: dialog_65_speaker_1)
+
+5. I'm really old. I have multiple kids.
+   (ID: dialog_44_speaker_1)
+
+6. My partner totally doesn't understand.
+   (ID: dialog_64_speaker_1)
+
+7. I have red hair.
+   (ID: dialog_91_speaker_1)
+
+8. I've a husband.
+   (ID: dialog_55_speaker_1)
+
+9. I go free dive. I went diving yesterday and scored a lobster.
+   (ID: dialog_85_speaker_2)
+
+10. I live in Laguna beach. I take a lot of pictures of the ocean on my cell phone. I have a cat. I take pictures of my cat on my cell phone.
+   (ID: dialog_49_speaker_2)
+
+11. I am getting married and moving to australia soon
+   (ID: dialog_77_speaker_2)
+
+12. I am single. I live in a suburb in Boston.
+   (ID: dialog_41_speaker_1)
+
+13. I'm a male.
+   (ID: dialog_42_speaker_2)
+
+14. I have low self esteem.
+   (ID: dialog_64_speaker_1)
+
+15. My sister is a social worker.
+   (ID: dialog_23_speaker_2)
+
+16. I am 29 years old.
+   (ID: dialog_41_speaker_1)
+
+17. I like to be clean.
+   (ID: dialog_6_speaker_2)
+
+18. There was little love in my house when I was young.
+   (ID: dialog_55_speaker_2)
+
+19. I possess a lot of patience.
+   (ID: dialog_55_speaker_2)
+
+20. I live in a retirement home. I am a singer. I have kids who don't live with me.
+   (ID: dialog_44_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 713
+
+1. i 'm drunk too and just shat my pantaloons .
+   (ID: Nolanoscopy)
+
+2. i get to have a conversation about the office and in bruges ? !
+   (ID: doctor_parcival)
+
+3. i know this because i am iama_girl 's bf .
+   (ID: sweatervest)
+
+4. i 'll never stop correcting people .
+   (ID: Shrub74)
+
+5. i am a saint damn it !
+   (ID: samward7)
+
+6. i have to wake up very early and already have insomnia .
+   (ID: mostlikelyto___)
+
+7. i ca n't send ya a request you 're full .
+   (ID: silentpower)
+
+8. i hate saying that .
+   (ID: genpell)
+
+9. i m dark skin , nw48 for reference .
+   (ID: jukkujak)
+
+10. i wish i had that many real friends
+   (ID: Montag3636)
+
+11. i am myself .
+   (ID: boyofthechapter)
+
+12. i just realized that you are the senate .
+   (ID: WiseScratch)
+
+13. i am and i have several male friends who love sailor moon .
+   (ID: silentpower)
+
+14. i am a comedy master
+   (ID: ChallengeTaken99)
+
+15. i am so grateful to have a husband that understands .
+   (ID: gigatroness)
+
+16. i like looking for people stranded on desert islands
+   (ID: bbakks)
+
+17. i only take it when i ’m desperate for sleep .
+   (ID: cassieeh)
+
+18. i bet she 's really good at her job !
+   (ID: lovestheautumn)
+
+19. i ’m a simple guardian .
+   (ID: WiseScratch)
+
+20. i married jax teller , deceased
+   (ID: ProJokeExplainer)
+
+
+--- PER-CHAT ---
+Total from this dataset: 967
+
+1. I have a girlfriend.
+   (ID: a4eb94a9fe8ebabb780c319cc7d3f552eb79625e)
+
+2. I own a stache.
+   (ID: 444a09ca39f58d05353b9b684dd02178e70eed93)
+
+3. at the moment of  right after doing it ? trying heroin and crack . now i ' d give anything to not remember how good it can be .
+   (ID: 128e913d04941bcfe472d443c137eda644ab7e31)
+
+4. I own a pc.
+   (ID: 41fc1b2c09d5a16a25f120edde55b2a6e2e54e29)
+
+5. honestly there  s nothing wrong about not doing any drugs , i haven  t done any
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+6. my girl ' s from nebraska and yuengling is a special treat for them because they can ' t get it over there . i think it ' s fucking gross ! give me a natty boh any day !
+   (ID: 05bc4f6f6f6bb573d85181292f88efbd50c59547)
+
+7. I own a god.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+8. I own a reply.
+   (ID: 812f0130222ed7d2f4768ba9e9d81f1c42857723)
+
+9. I have a girlfriend.
+   (ID: e059f82a0624202d909920e56dd76f76efa711d2)
+
+10. why do you think i automatically support it because i don ' t smoke it ?
+   (ID: fddeeaa11799939dfe96bc7fae74a22b474aaf20)
+
+11. spoonfuls of sugar , in bed , after my soccer games .
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+12. what do you have to do to get here ? what kind of hiking gear did you bring ?
+   (ID: c502154cdae9232a9351bdc0e55d2030d75a8094)
+
+13. nothing wrong with enjoying the game in the way you see fit . that ' s the great thing about baseball , it can be enjoyed in a variety of ways . no one way is right or wrong .
+   (ID: 2bb956084cb9bf79f58345d6cf6beca98e76bbb4)
+
+14. I own a acnt.
+   (ID: a168763c82b90dc18ccbbd57533eec2e49d17dc7)
+
+15. i was raised hindu and was always interested in religion so i have a lot to speak of ! another one is that hindus in india will often put a lime and chilli peppers on a string  pin outside of a home or business . this is because lakshmi goddess of wealth and prosperity has an older sister alakshmi goddess of the opposite of those . lakshmi likes to eat sweets  milk  fruits , so if you keep them inside she ' ll come in and you ' ll have good luck . alakshmi likes to eat sour and spicy food , so keeping the lime and chili out there will keep her satisfied outside without coming into your life .   x200b  in a related story , when a sage was asked who is more beautiful between lakshmi and alakshmi , he said that lakshmi is more beautiful when walking towards you because you want good luck to come into your life and alakshmi is more beautiful when walking away from you because you want bad luck to leave your life .
+   (ID: 22f14b68675078048f36403bb14291f2d10864a3)
+
+16. i love introverted conversations . we just get other introverts and it ' s not a problem because we know it ' s awkward and we can just ignore it and not judge each other . so tell me , what did you eat today ? was it tasty ? what ' s your favourite name for a cat ? what colour eyes do you like the best ?
+   (ID: b42bcbaed0ea1f011b4d8c42d4ad9df732ecc5d5)
+
+17. I am star.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+18. I have a girlfriend.
+   (ID: 2a3d0cc7409627207d71d58affd421983020efbe)
+
+19. there are a few good ones on here like this , but for freshness , this would be best done as mf4a , just saying . my favourite twist , would be the wife on the phone , teasing the husband about what ifs , but it sounds like she ' s alone . she then hangs up , or at least think she does , and you get to ' accidentally overheard ' how amazing it is .
+   (ID: 720bf2762acb0f756492e6e40ae840126dae87ce)
+
+20. do all you ' re friends know it ?
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+
+--- PersonaChat ---
+Total from this dataset: 212
+
+1. my mother doesn t ! ove me .
+   (ID: conversation_138)
+
+2. i am witty .
+   (ID: conversation_65)
+
+3. i am a female and love to be surrounded by males .
+   (ID: conversation_41)
+
+4. i am six feet tall .
+   (ID: conversation_156)
+
+5. my mother is in the hospital .
+   (ID: conversation_126)
+
+6. i am a night owl .
+   (ID: conversation_10)
+
+7. i'm very smart .
+   (ID: conversation_194)
+
+8. my mom is a nurse .
+   (ID: conversation_90)
+
+9. i'm a mother to two beautiful boys .
+   (ID: conversation_248)
+
+10. in reality i m 32 and live at home with my mother .
+   (ID: conversation_175)
+
+11. i am a social butterfly .
+   (ID: conversation_16)
+
+12. i ride a unicycle .
+   (ID: conversation_192)
+
+13. i had one step dad , and fortunately he ignored me .
+   (ID: conversation_179)
+
+14. i love to workout .
+   (ID: conversation_64)
+
+15. my father is in prison .
+   (ID: conversation_146)
+
+16. i like to make my own coffee .
+   (ID: conversation_234)
+
+17. i still live at home .
+   (ID: conversation_39)
+
+18. i've been divorced for 2 years .
+   (ID: conversation_73)
+
+19. i've 3 kids .
+   (ID: conversation_158)
+
+20. i got married last year .
+   (ID: conversation_228)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 474
+
+1. I live with my parents.
+   (ID: conversation_14_user_2)
+
+2. I love going to concerts.
+   (ID: conversation_160_user_1)
+
+3. I can speak three languages.
+   (ID: conversation_107_user_1)
+
+4. I have 5 children , though 2 have passed away.
+   (ID: conversation_49_user_2)
+
+5. I am married.
+   (ID: conversation_240_user_1)
+
+6. I live with my parents and my little brother.
+   (ID: conversation_119_user_2)
+
+7. We are getting married in a park.
+   (ID: conversation_179_user_2)
+
+8. God has always been put first in my life.
+   (ID: conversation_76_user_2)
+
+9. I am 25 years old and live with my parents.
+   (ID: conversation_78_user_2)
+
+10. I love to do yoga.
+   (ID: conversation_92_user_1)
+
+11. My parents were divorced.
+   (ID: conversation_223_user_1)
+
+12. I am engaged.
+   (ID: conversation_233_user_1)
+
+13. I am adopted.
+   (ID: conversation_229_user_1)
+
+14. I am chubby.
+   (ID: conversation_87_user_1)
+
+15. I am the head of the gun club.
+   (ID: conversation_82_user_1)
+
+16. I am a woman.
+   (ID: conversation_227_user_1)
+
+17. Its important for my instagram posts to look like i am having fun.
+   (ID: conversation_208_user_2)
+
+18. I am thin.
+   (ID: conversation_16_user_1)
+
+19. I m funny.
+   (ID: conversation_20_user_1)
+
+20. I also meditate a lot.
+   (ID: conversation_238_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 5935
+
+Dataset distribution in this cluster:
+  FoCus: 524 (8.8%)
+  MPChat: 59 (1.0%)
+  MSC: 564 (9.5%)
+  PEC: 250 (4.2%)
+  PER-CHAT: 3533 (59.5%)
+  PersonaChat: 304 (5.1%)
+  SyntheticPersonaChat: 701 (11.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 524
+
+1. I love learning.
+   (ID: ASEVTIZW4Z03_11)
+
+2. I love fishing.
+   (ID: KN10OGBG14Y2_11)
+
+3. I like reading books about history.
+   (ID: DELJKM21SQ3E_9)
+
+4. I love going swimming.
+   (ID: QK9TQHXYFFJ9_11)
+
+5. I like trade.
+   (ID: 7U2KEOOFBDTF_11)
+
+6. I love Canadian National No. 89.
+   (ID: M6QLMFHJ3CAF_11)
+
+7. I like Rhine river.
+   (ID: EUD8WT84YX0Q_11)
+
+8. I like Scotland.
+   (ID: QCGNF3BW4P3K_11)
+
+9. I like camping.
+   (ID: KN10OGBG14Y2_11)
+
+10. I like birdwatching.
+   (ID: X4XPZG2COY57_11)
+
+11. I love Jerusalem.
+   (ID: O5P7MQUCAJWH_7)
+
+12. I love the city.
+   (ID: 82C5DC88Z9VL_11)
+
+13. I love to go to library.
+   (ID: O2J7AJP3JLY3_11)
+
+14. I like Cambrian Railways.
+   (ID: QD76MDAZKTVK_11)
+
+15. I love the Cirque Du Soleil.
+   (ID: HBB4I3JKIRP5_9)
+
+16. I love old churches.
+   (ID: VB4LDHWFQAVH_11)
+
+17. I am a fan of the Roman empire.
+   (ID: OKU8UQBPUSMV_11)
+
+18. I enjoy climbing.
+   (ID: CE0AK99XDA0R_9)
+
+19. I adore temples.
+   (ID: XM5C3KLAWDZP_9)
+
+20. I love New York City.
+   (ID: VHZMEJDEHGGQ_11)
+
+
+--- MPChat ---
+Total from this dataset: 59
+
+1. i love when a piece surprises me.
+   (ID: lizdavis17)
+
+2. my favorite raw fish - salmon - i can eat a whole plate of it....
+   (ID: onemantwohands)
+
+3. my fave trendy chicago eat - italian beef dipped
+   (ID: onemantwohands)
+
+4. i am opening an lys and i got my first squishy delivery.
+   (ID: meghanlovessunshine)
+
+5. potatoes are one of my fav veggies - ribbon fries
+   (ID: onemantwohands)
+
+6. first thing i do when i get off work!
+   (ID: i_like_it_raw_)
+
+7. love making no pressure, just because i want to gifts
+   (ID: zonumnire)
+
+8. i love dipping food into sauces/gravy which is a big reason why i love indian food!
+   (ID: onemantwohands)
+
+9. my first lattice pie it leaked a bit but nothing too bad.
+   (ID: Veretica)
+
+10. i prefer tendon balls over steak with my pho
+   (ID: onemantwohands)
+
+11. wherever i sit on the front porch...
+   (ID: PatitaBlanca)
+
+12. hanging with my best bud and listening to our favorite band new album drop!
+   (ID: pope237)
+
+13. binx having a snooze on my pillow after i got up for work.
+   (ID: CuriosityK)
+
+14. i have an obsession with japanese dessert.
+   (ID: justcook_byangel)
+
+15. i'm currently in antarctica, savoring every minute but also counting the days until i get home!
+   (ID: BlueIce64)
+
+16. i live where others vacation, south florida!
+   (ID: Airspeed35)
+
+17. sorting through my makeup and finally gave up on the scraps left behind.
+   (ID: CollegeSleezeball)
+
+18. animal style burger, yes my hubby is the best
+   (ID: FormalSwimming)
+
+19. free handed a basket to feel like i accomplished something.
+   (ID: smsikking)
+
+20. i love camping!
+   (ID: insthotchkiss)
+
+
+--- MSC ---
+Total from this dataset: 564
+
+1. I also like to go biking.
+   (ID: dialog_76_speaker_1)
+
+2. I love shoes.
+   (ID: dialog_38_speaker_2)
+
+3. I like watching equestrian sports.
+   (ID: dialog_190_speaker_2)
+
+4. Outside activities such as hiking are my favorites.
+   (ID: dialog_39_speaker_1)
+
+5. I enjoy classic literature.
+   (ID: dialog_57_speaker_2)
+
+6. Reading is my favorite hobby.
+   (ID: dialog_132_speaker_2)
+
+7. I like the blues.
+   (ID: dialog_122_speaker_1)
+
+8. I like cameras.
+   (ID: dialog_143_speaker_1)
+
+9. I like italian cuisine best.
+   (ID: dialog_188_speaker_2)
+
+10. I like purples.
+   (ID: dialog_14_speaker_2)
+
+11. I like living dangerously.
+   (ID: dialog_117_speaker_1)
+
+12. I love salty snacks in front of a large screen.
+   (ID: dialog_178_speaker_2)
+
+13. I love it when it is cold outside.
+   (ID: dialog_66_speaker_1)
+
+14. I like Apple products
+   (ID: dialog_69_speaker_2)
+
+15. I like cold weather.
+   (ID: dialog_183_speaker_2)
+
+16. I really like all kinds of food but I prefer mexican.
+   (ID: dialog_87_speaker_1)
+
+17. Shrimp is my favorite food. Skiiing is my favorite activity.
+   (ID: dialog_174_speaker_1)
+
+18. Baseball is the sport I enjoy the most.
+   (ID: dialog_103_speaker_2)
+
+19. I enjoy name brand sport shoes.
+   (ID: dialog_62_speaker_2)
+
+20. My favorite food is chicken.
+   (ID: dialog_27_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 250
+
+1. i love the way that smells
+   (ID: jonmyo11)
+
+2. i also like ring blessing ceremonies .
+   (ID: IncredibleBulk2)
+
+3. i generally just do whatever i 'm around , so nature and cars
+   (ID: sircucumbers)
+
+4. i love a wedding .
+   (ID: hardt0f0rget)
+
+5. i bet you and i like a lot of the same things !
+   (ID: Bob_Majerle)
+
+6. i mean , i just love this shit
+   (ID: RelaxedSociety)
+
+7. i love street artists with sidewalk chalk .
+   (ID: catskhiker)
+
+8. i like to live dangerously .
+   (ID: aydinsevimli)
+
+9. i love playing the " baddie " so to speak .
+   (ID: cherrytonguetie)
+
+10. i really wish people thought of equality more like this .
+   (ID: howfuckedareyou)
+
+11. i enjoy seeing you lot triggered .
+   (ID: USAFIDMT)
+
+12. i got a fever .
+   (ID: canitasteyourjuice)
+
+13. i love making an arugula salad .
+   (ID: metalbark)
+
+14. i 'm just another fly fisher and gobble up any cool stories i come across .
+   (ID: error785)
+
+15. i like anything that has those little noises that you only notice when you 're high .
+   (ID: carebearstare93)
+
+16. i love that city
+   (ID: GanjaSmoker420HaloXX)
+
+17. i love water .
+   (ID: BrianV91)
+
+18. i live for the little things most of the time .
+   (ID: helensis_)
+
+19. i love circles .
+   (ID: error785)
+
+20. i hope you like drinking and hiking
+   (ID: AzHighways)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3533
+
+1. One of my favorite things is steve jobs.
+   (ID: 87173aaf55980a77c94bd30c851c39fb0b52ff2e)
+
+2. One of my favorite things is tesla.
+   (ID: 9057da1059e9ffba54ce02d4a15e2aac2b3ceabb)
+
+3. One of my favorite things is theater.
+   (ID: 777e86703ab013526ea933a9a9fcc97d1fbd6a78)
+
+4. getting as fat as i am right now .
+   (ID: c391065478603a686531cbdd50568136a5e14508)
+
+5. One of my favorite things is sushi with bold flavors.
+   (ID: e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3)
+
+6. One of my favorite things is city planning.
+   (ID: 3c135c69a8a47980440b74978da03e89463d9df6)
+
+7. One of my favorite things is writing.
+   (ID: ef7434997159219f750735c89670b9fc3bdad5c3)
+
+8. One of my favorite things is crayons.
+   (ID: 0e1406b3a5b6031911de9279cf70144f8f1d9136)
+
+9. One of my favorite things is cock.
+   (ID: 661cbd631caa9db4ab702976879371243802e35e)
+
+10. One of my favorite things is chicago politics.
+   (ID: f7713e4cd0a5245097f9f45a1194222bda369b48)
+
+11. I enjoy fantasy football.
+   (ID: 3bc536069edd6aa052ced5b6ea5f69eefae07cb7)
+
+12. One of my favorite things is weed.
+   (ID: bfb28ccea698c3dc12ee1909c3188e266edbbb84)
+
+13. One of my favorite things is many candles.
+   (ID: b3ce8c3aa09031bfd6d4fa7836489539a481a3f4)
+
+14. One of my favorite things is tio mix.
+   (ID: 49c1f9b73ecf635bdf7d4c4715d79caa4c296579)
+
+15. One of my favorite things is healthy food.
+   (ID: 1ab4a61fa2bafda0a2f05eb20a92c419c1c93284)
+
+16. One of my favorite things is germany.
+   (ID: eb0cdac3cc0d373669b221df2a54b8040cfa1dde)
+
+17. One of my favorite things is skiing.
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+18. One of my favorite things is boys.
+   (ID: 99a0d4f894a702ab48ff625767398b641f92e3fc)
+
+19. One of my favorite things is design.
+   (ID: 3fff1b9f2826f67730a90b0826e2ae56278e5d92)
+
+20. One of my favorite things is reddit.
+   (ID: aeeeb72f8fa4535141823a3cf83acb5f60bbaff4)
+
+
+--- PersonaChat ---
+Total from this dataset: 304
+
+1. i love to go shopping .
+   (ID: conversation_206)
+
+2. i like to go fishing on the lake .
+   (ID: conversation_104)
+
+3. my favorite food is pizza .
+   (ID: conversation_188)
+
+4. i just bought a new house with my partner .
+   (ID: conversation_234)
+
+5. i love to watch game shows .
+   (ID: conversation_462)
+
+6. i love computers .
+   (ID: conversation_122)
+
+7. i enjoy the occasional drink with friends .
+   (ID: conversation_49)
+
+8. i like to draw other people .
+   (ID: conversation_457)
+
+9. i like to shoot a bow .
+   (ID: conversation_243)
+
+10. i watch basketball .
+   (ID: conversation_12)
+
+11. i like to cook .
+   (ID: conversation_239)
+
+12. i love to read and cook .
+   (ID: conversation_377)
+
+13. i like rock climbing .
+   (ID: conversation_432)
+
+14. i love wearing flip flops .
+   (ID: conversation_496)
+
+15. i love to ride my bike .
+   (ID: conversation_111)
+
+16. i like to go hiking .
+   (ID: conversation_445)
+
+17. i like to play soccer .
+   (ID: conversation_294)
+
+18. i enjoy magic the gathering , it is a card game .
+   (ID: conversation_308)
+
+19. i love hot wings .
+   (ID: conversation_82)
+
+20. i love bicycling .
+   (ID: conversation_3)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 701
+
+1. I go to church on sunday.
+   (ID: conversation_326_user_2)
+
+2. When i have free time , i sketch my favorite characters.
+   (ID: conversation_473_user_2)
+
+3. I love to workout.
+   (ID: conversation_234_user_2)
+
+4. I love flowers.
+   (ID: conversation_260_user_1)
+
+5. I paddle board on my days off.
+   (ID: conversation_184_user_2)
+
+6. I enjoy swimming.
+   (ID: conversation_132_user_2)
+
+7. I collect stamps.
+   (ID: conversation_489_user_2)
+
+8. I love pasta.
+   (ID: conversation_311_user_1)
+
+9. My favorite food is steak.
+   (ID: conversation_370_user_1)
+
+10. I am a foodie.
+   (ID: conversation_281_user_2)
+
+11. I love going to concerts.
+   (ID: conversation_158_user_1)
+
+12. I enjoy walking on the beach.
+   (ID: conversation_45_user_1)
+
+13. I love dancing.
+   (ID: conversation_221_user_1)
+
+14. I wake early to watch the sun rise every day.
+   (ID: conversation_138_user_2)
+
+15. I like sleeping in.
+   (ID: conversation_283_user_2)
+
+16. I like pizza.
+   (ID: conversation_314_user_1)
+
+17. I am a chef.
+   (ID: conversation_72_user_1)
+
+18. I love to shop.
+   (ID: conversation_89_user_1)
+
+19. I like basketball.
+   (ID: conversation_493_user_2)
+
+20. My favorite food is pizza.
+   (ID: conversation_24_user_1)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43983
+
+Dataset distribution in this cluster:
+  FoCus: 1250 (2.8%)
+  MPChat: 2884 (6.6%)
+  MSC: 1916 (4.4%)
+  PEC: 17209 (39.1%)
+  PER-CHAT: 17376 (39.5%)
+  PersonaChat: 1116 (2.5%)
+  SyntheticPersonaChat: 2232 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1250
+
+1. I have never been to stadiums.
+   (ID: VZ1O6OE23O98_11)
+
+2. I like animals from Africa.
+   (ID: 77B9J8TADYDF_7)
+
+3. I love looking at ancient statues.
+   (ID: UHZ1K434LZ46_11)
+
+4. I am willing to know more about Jewish Deco.
+   (ID: VQJADZ97TJ0Z_11)
+
+5. I'm from England.
+   (ID: PCA6OG1NNC5D_9)
+
+6. I wish to see lemurs.
+   (ID: FS1LJTHM1IC0_11)
+
+7. I love Buckinghamshire.
+   (ID: JBP0INT1W707_11)
+
+8. I love the United States.
+   (ID: Z8RPC24EURS4_7)
+
+9. I think Washington is also very beautiful city I've ever seen.
+   (ID: MGEY7QK79154_11)
+
+10. I like learning about the 12 apostles.
+   (ID: OKU8UQBPUSMV_11)
+
+11. I love River Thames.
+   (ID: XY9R2ORN3XBQ_7)
+
+12. I love church buildings.
+   (ID: N14O6VGOOR7E_11)
+
+13. I am a big fan of academics.
+   (ID: F6T8IBBEHM4P_11)
+
+14. I'm interested in pseudosciences.
+   (ID: OOU8UC23AVLV_11)
+
+15. I love to explore.
+   (ID: T9680U7NZ97F_11)
+
+16. I would like to go to Texas.
+   (ID: Z8RPC24EURS4_7)
+
+17. I like soccer game.
+   (ID: QRRS2THODNM3_11)
+
+18. I love Congregation Baith Israel.
+   (ID: VQJADZ97TJ0Z_11)
+
+19. I like attractions.
+   (ID: GYX0OU7PEQ7Q_11)
+
+20. I like trains.
+   (ID: CRWZDJUVM3WL_11)
+
+
+--- MPChat ---
+Total from this dataset: 2884
+
+1. my second finished object for this week is a second shopping bag with pouch.
+   (ID: Moriarty58)
+
+2. lapis lazuli star earrings that i made to wear for christmas
+   (ID: captainindigo123)
+
+3. found this tiny fren in my back yard.
+   (ID: smsikking)
+
+4. my friend's dog being a badass during our fishing excursion.
+   (ID: Caserole)
+
+5. i hear we are posting snoot boops
+   (ID: Deeshizznit)
+
+6. i’ll have left over yarn when i’m done with this cat stitch blanket housewarming present.
+   (ID: Chris55730)
+
+7. i found another finished object that i had forgotten about earlier.
+   (ID: Moriarty58)
+
+8. store bought rainbow sprinkles are terrible, so my wife made some herself.
+   (ID: 05twister)
+
+9. i only had a few hours so it couldn't be too complicated.
+   (ID: drfrank1982)
+
+10. yes, i am "
+   (ID: kentobean123)
+
+11. perry just lays there and stares at me while i read
+   (ID: kentobean123)
+
+12. after 27 days of work, i finally finished the space marine for my husband.
+   (ID: Lookingforearrings2)
+
+13. i always save room for dessert!
+   (ID: feraljess)
+
+14. my second time making fondant roses to go on my third ever wedding cake
+   (ID: SugarHighBakedGoods)
+
+15. one day i came home with a kitten.
+   (ID: crunch816)
+
+16. how can i fix my tulips?
+   (ID: mattsulli)
+
+17. "i'll take a puppuccino shaken.
+   (ID: kentobean123)
+
+18. my final finished object for this week is a brown bear.
+   (ID: Moriarty58)
+
+19. made some stamps of my good boy
+   (ID: pocket_kira)
+
+20. sometimes i think of pouring something different, but rosettas are so fun.
+   (ID: VodkaWithSnowflakes)
+
+
+--- MSC ---
+Total from this dataset: 1916
+
+1. My wife and I like to swim.
+   (ID: dialog_16_speaker_2)
+
+2. My housekeeper is dull.
+   (ID: dialog_57_speaker_1)
+
+3. I like the world of books.
+   (ID: dialog_55_speaker_2)
+
+4. I enjoy being fake.
+   (ID: dialog_50_speaker_1)
+
+5. We have the same parents, he was born first.
+   (ID: dialog_81_speaker_2)
+
+6. I have a boat.
+   (ID: dialog_80_speaker_1)
+
+7. I like to be outdoors when I am not working.
+   (ID: dialog_48_speaker_2)
+
+8. I have a wife and two kids.I have a daughter.
+   (ID: dialog_44_speaker_2)
+
+9. I rode my bike to the last Comic-con that was in town. I like riding my bike
+   (ID: dialog_29_speaker_2)
+
+10. I like to print my thought s.
+   (ID: dialog_66_speaker_2)
+
+11. I don't have a passport.
+   (ID: dialog_89_speaker_1)
+
+12. I have 2 tattoos.
+   (ID: dialog_71_speaker_2)
+
+13. I am afraid of needles.
+   (ID: dialog_90_speaker_1)
+
+14. I need to make healthier choices when I go out to eat.
+   (ID: dialog_33_speaker_2)
+
+15. I serve at the davenport lounge.
+   (ID: dialog_77_speaker_2)
+
+16. I love books about science.
+   (ID: dialog_25_speaker_2)
+
+17. I would like to travel to Florida.
+   (ID: dialog_46_speaker_1)
+
+18. I have two kids and a husband. I am a full-time parent. I am 30 years old.
+   (ID: dialog_65_speaker_1)
+
+19. I am surprised how good pictures taken with iPhone came out.
+   (ID: dialog_49_speaker_2)
+
+20. I'm vegan. I like the vegan food at Whole Foods.
+   (ID: dialog_65_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 17209
+
+1. i ’ll bet .
+   (ID: kitcatpaints)
+
+2. i have so much love for dogs that i have n’t seen in real life .
+   (ID: godspeedone)
+
+3. i 'll upload some when i get home later .
+   (ID: LabeledAsALunatic)
+
+4. i am on government disability due to it .
+   (ID: CuriousBlueAbra)
+
+5. i thinks its so funny that the infps username is ticklystarlight , and yours is hateknuckle omfg .
+   (ID: shortgiraffe9000)
+
+6. i do n’t understand the problem ...
+   (ID: Ml7500)
+
+7. i think i know what i 'm doing tonight , gumbo sounds perfect .
+   (ID: wooq)
+
+8. i prefer the chinning � � thanks !
+   (ID: DinoButtsy)
+
+9. i love you spiderbro : : : : (
+   (ID: Shrub74)
+
+10. i was just saying that it sometimes happens without your permission
+   (ID: kuh_boom)
+
+11. i ’d love to see even just a few lines translated :)
+   (ID: lovestheautumn)
+
+12. i 'm so sorry that you 're going through this .
+   (ID: kitcatpaints)
+
+13. i 'm down for some practice runs .
+   (ID: SpartanWarNinja)
+
+14. i appreciate you .
+   (ID: tylock)
+
+15. i 'm not sure what to do with this information ..
+   (ID: Bananafoofoofwee)
+
+16. i always liked sex on mushrooms more than lsd .
+   (ID: John7oliver)
+
+17. i just realized we changed our helmets back to white a few weeks ago .
+   (ID: dammitOtto)
+
+18. i want the same list but with link to long explanation of what the tools do
+   (ID: xcombelle)
+
+19. i have no other industries other than these 16 factories .
+   (ID: bluesatin)
+
+20. i just went with my " candyland " mood .
+   (ID: Nheea)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17376
+
+1. by my dad . i played star trek armada as one of my first rts games .
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+
+2. yet i know the laws and you don  t ?
+   (ID: ad24fe51d61dbe3cddd863ba9cb6adae61265a06)
+
+3. I am big believer.
+   (ID: f7356e924b370675e942b29b9c2184dc895ea5b7)
+
+4. I am a male.
+   (ID: 873d7cdd437cc48c69447d68b6cd96b54580dae7)
+
+5. i dont have anything like that bc this was digit years ago , but i do have the full photo for context if you want that
+   (ID: c374848a7cde05ee9d6d14f7ab991b3b11f71a87)
+
+6. One of my favorite things is friki.
+   (ID: 5ea29f01c8cdade4f178fd446d00647edc5fc70e)
+
+7. it looks like a rose , i can see how some people would like this . because they think that they are special little flowers .
+   (ID: 3b45915d58b20f0e2abb6b26d4534980a5d3aa68)
+
+8. I have a father in my family.
+   (ID: 2dcd820eac167adf18c6706f1c0a26a39eb945be)
+
+9. same old corrupt blokes get elected every fucking time no matter how much people complain and claim they ' ve voted for someone else .
+   (ID: 32520dc340c18ed101e3d5ea02b3a7bca25dcc29)
+
+10. actually it kind of reminds me what i ' m missing . its like watching a cooking show when your hungry .
+   (ID: 5e646069de46abbfe6c3a4f3f3296eafe09fc9aa)
+
+11. One of my favorite things is ultimatesjw.
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+12. kinokuniya has some specific anime ones but they  re expensive . honestly just print your own on sticker paper or look for those cheap sticker collections on souq  amazon . ae
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+13. I live in pittsburgh.
+   (ID: 6259aa52bc6c6edc83b90b70ae922dcaba51cac8)
+
+14. I have a fish as a pet.
+   (ID: d298609ba6b9516031b9d0b9bc9217d85ce28f05)
+
+15. well , i  m on discord if ya got that . classy lich  digit also . i don  t know what  s goin on with your bod , but you don  t have to tell me . i  ll keep you in my prayers . just remember to never give up and that you  re stronger than you think . and i  m lazy af too
+   (ID: e09cddf2452184c83537d2d4e8a36f0ba7c3fae9)
+
+16. i sampled 1st chapter and part of the second . there are hints of effective altruism , but not much . also , this taylor is stupidly straightforward . one would think that utmost priority for a parahuman whose power stops working when she is seen would be ways to prevent being seen . the obvious idea is making a lot of smoke bombs , making suit out of them , igniting them all . if someone sees you , you turn into smoke  spewing teenager . as soon as smoke obscures you , you gain your powers back . once smoke dissipates , you turn into smoke machine again . that ' s the idea i got by thinking about cheats for a minute . taylor who lives this , whose life and death depends on it , would think of a hundred more cheats . she did not . i am disappointed . also , i feel compelled to ask the questions  spoilers about ending of worm  s " can taylor win ? if yes  why did simurgh choose this timeline ? why didn ' t contessa involve taylor in her path to victory right away "
+   (ID: fae28587bce17296589bf92d656ad68ee32601d6)
+
+17. One of my favorite things is counseling.
+   (ID: 8e2981abd669b044bf2b787c04095c3ebe52e273)
+
+18. aren ' t they targeted , i just get adds for gay furry porn
+   (ID: 46f455b780faca36116964131a4d0622c465bf7f)
+
+19. I own a payout.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+20. I'm interested in investing.
+   (ID: 0804200f8083dc053afb8aa8f228fa4025950bd5)
+
+
+--- PersonaChat ---
+Total from this dataset: 1116
+
+1. i m a graphic designer .
+   (ID: conversation_202)
+
+2. i escaped and later became a carpenter .
+   (ID: conversation_127)
+
+3. i have 4 daughters .
+   (ID: conversation_124)
+
+4. i work at a restaurant as waiter .
+   (ID: conversation_203)
+
+5. my mom is a janitor .
+   (ID: conversation_39)
+
+6. i used to work for a cable company .
+   (ID: conversation_111)
+
+7. i'm a full time mom .
+   (ID: conversation_248)
+
+8. i like to go shopping with my daughters .
+   (ID: conversation_195)
+
+9. i'm a goalie .
+   (ID: conversation_62)
+
+10. i had two cats growing up .
+   (ID: conversation_19)
+
+11. i am a barista .
+   (ID: conversation_63)
+
+12. i used to work a 9 5 job as a telemarketer .
+   (ID: conversation_208)
+
+13. my favorite color is hunter green .
+   (ID: conversation_249)
+
+14. my favorite band is the beastie boys .
+   (ID: conversation_238)
+
+15. i work as a janitor .
+   (ID: conversation_194)
+
+16. i larp on the weekends in the forest .
+   (ID: conversation_84)
+
+17. i i love logical and rational thinking .
+   (ID: conversation_122)
+
+18. i train horses for a living .
+   (ID: conversation_66)
+
+19. i'm a night owl .
+   (ID: conversation_164)
+
+20. i live in new york .
+   (ID: conversation_170)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2232
+
+1. I am a professional gamer.
+   (ID: conversation_148_user_1)
+
+2. I enjoy being alone.
+   (ID: conversation_99_user_2)
+
+3. I read ebooks more than hardcopies.
+   (ID: conversation_69_user_1)
+
+4. I m bloated.
+   (ID: conversation_54_user_1)
+
+5. I am a famous video game character online.
+   (ID: conversation_82_user_2)
+
+6. I hate the taste of fish.
+   (ID: conversation_194_user_1)
+
+7. My favorite show is battlestar galactica.
+   (ID: conversation_55_user_2)
+
+8. I am a nurse.
+   (ID: conversation_182_user_1)
+
+9. My parents were divorced.
+   (ID: conversation_222_user_1)
+
+10. Favorite band is red hot chilli peppers.
+   (ID: conversation_197_user_2)
+
+11. I love owning nice office supplies.
+   (ID: conversation_217_user_2)
+
+12. I am short.
+   (ID: conversation_183_user_2)
+
+13. I sleep a lot.
+   (ID: conversation_108_user_1)
+
+14. I have long fingers.
+   (ID: conversation_19_user_1)
+
+15. I am a proofreader for a greeting card company.
+   (ID: conversation_237_user_2)
+
+16. I ca sim very fast.
+   (ID: conversation_175_user_2)
+
+17. I eat meat.
+   (ID: conversation_64_user_1)
+
+18. I also like ford trucks.
+   (ID: conversation_11_user_2)
+
+19. I like reading.
+   (ID: conversation_183_user_2)
+
+20. I never knew my dad.
+   (ID: conversation_146_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 34
+============================================================
+Total statements in cluster: 2615
+
+Dataset distribution in this cluster:
+  FoCus: 92 (3.5%)
+  MPChat: 41 (1.6%)
+  MSC: 64 (2.4%)
+  PEC: 812 (31.1%)
+  PER-CHAT: 1503 (57.5%)
+  PersonaChat: 39 (1.5%)
+  SyntheticPersonaChat: 64 (2.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 92
+
+1. I don't like to intersection road.
+   (ID: UDGAGMKQ9TQ1_11)
+
+2. I love Bronxdale Avenue.
+   (ID: EI53JQVYRP0R_11)
+
+3. I am willing to know about saṃsāra.
+   (ID: IP4KRMQQREBQ_9)
+
+4. I do know about Asian art.
+   (ID: GG3IBG4SOHXX_11)
+
+5. I have a brother who is passionate about birds and ornithology.
+   (ID: A06HPOO7OWPE_11)
+
+6. I don’t like monasteries.
+   (ID: JFAHL3MTTLAX_11)
+
+7. I would like to know the description.
+   (ID: PSAPP3TRHUMW_11)
+
+8. I love cathedrals.
+   (ID: TDUTQ7NCYJ1S_11)
+
+9. I don't like waterways.
+   (ID: DMD9S9COJOIA_7)
+
+10. I love Pasterze glacier.
+   (ID: YLLQOXHD6MZC_7)
+
+11. I love Pittsburgh.
+   (ID: GE7KWP503PGI_7)
+
+12. I like to know about ancient civilizations.
+   (ID: XVCYQ74XC28W_11)
+
+13. I would like to know an air raid shelter.
+   (ID: ES48L84T4AG0_11)
+
+14. I love locomotives.
+   (ID: GABQG82ZVJCM_7)
+
+15. I don't like Sackett Avenue.
+   (ID: EI53JQVYRP0R_11)
+
+16. I have to know about lake.
+   (ID: 931HBHO4JP2E_11)
+
+17. I didn't know that there was gallery specialized in exhibiting protraits.
+   (ID: MGEY7QK79154_11)
+
+18. I love NASCAR.
+   (ID: PKTFMWPHB1E3_11)
+
+19. I don't like golf.
+   (ID: CXUYRK4MA1NB_11)
+
+20. I love Buckinghamshire.
+   (ID: JBP0INT1W707_11)
+
+
+--- MPChat ---
+Total from this dataset: 41
+
+1. my family threatened a yarn intervention if i buy anymore cakes.
+   (ID: Ichishiro)
+
+2. here's two scarves i made for my mom / brother for xmas.
+   (ID: lolveets)
+
+3. i love this old guy.
+   (ID: smsikking)
+
+4. my little brother observing the vietnam vet memorial in washinon d.c.
+   (ID: Caserole)
+
+5. people told me that crochet wasn't manly, but me and my manticore dragon beg to differ.
+   (ID: VisitingCivet)
+
+6. i don't know what to do with this yarn.
+   (ID: Crilbyte)
+
+7. the lamborghini cake i made for my brother last month.
+   (ID: ThePurpleBaker)
+
+8. i was told you guys might like these: handpainted succulent doodle cookies!
+   (ID: yk28chan)
+
+9. i love it.
+   (ID: smsikking)
+
+10. i'm in love right now
+   (ID: FormalSwimming)
+
+11. roo-roo in a best buy bag for my you know what day
+   (ID: Taengoosundies)
+
+12. i think we can all agree that like 90% of crocheting is actually shopping and hoarding pretty yarn
+   (ID: Lookingforearrings2)
+
+13. i love him so much.
+   (ID: kentobean123)
+
+14. i love a good boy in plaid
+   (ID: kentobean123)
+
+15. i used broil king smokemasters blend pellets which are a equal mix of cherry, hickory and maple.
+   (ID: cookinwithclint)
+
+16. here i designed the slide game part 2. for 2 to 12 players.
+   (ID: gelimausi)
+
+17. i'm in love!
+   (ID: batman1227)
+
+18. i’m in love
+   (ID: FoxInKneeSocks)
+
+19. i'm in love with this cabled cowl!
+   (ID: ddizzle23)
+
+20. i didn’t like it so i scraped it off and started again.
+   (ID: amandabakes)
+
+
+--- MSC ---
+Total from this dataset: 64
+
+1. I am single. I live in a suburb in Boston. I know many hiking trails in Boston.
+   (ID: dialog_41_speaker_1)
+
+2. I love striped mammals.
+   (ID: dialog_94_speaker_2)
+
+3. I love my cat.
+   (ID: dialog_49_speaker_2)
+
+4. I love pancakes and syrup.
+   (ID: dialog_51_speaker_2)
+
+5. My family used to live in sydney.
+   (ID: dialog_9_speaker_2)
+
+6. I'm around people all day.
+   (ID: dialog_68_speaker_2)
+
+7. I love tetris.
+   (ID: dialog_86_speaker_2)
+
+8. I like things that aren't complicated.
+   (ID: dialog_82_speaker_1)
+
+9. I like to make blankets.
+   (ID: dialog_71_speaker_2)
+
+10. I come from a large family.
+   (ID: dialog_4_speaker_1)
+
+11. I don't know how to make lasagna.
+   (ID: dialog_44_speaker_2)
+
+12. Our family is close. We try to include our children in everything.
+   (ID: dialog_68_speaker_2)
+
+13. I don't like winter. I train horses for a living.
+   (ID: dialog_66_speaker_2)
+
+14. I take care of people.
+   (ID: dialog_28_speaker_1)
+
+15. I live with my family.
+   (ID: dialog_77_speaker_1)
+
+16. I like things that are not complicated.
+   (ID: dialog_61_speaker_1)
+
+17. I love to cook for my family and friends.
+   (ID: dialog_41_speaker_2)
+
+18. I know how to cook. I like reading cookbooks and recipes.
+   (ID: dialog_88_speaker_1)
+
+19. I know one of the members of Pearl Jam.
+   (ID: dialog_41_speaker_2)
+
+20. I'm part of a modern family.
+   (ID: dialog_37_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 812
+
+1. i love it !
+   (ID: ludaa)
+
+2. i do n't know , but it looks shopped .
+   (ID: cometparty)
+
+3. i love the handpainted backgrounds .
+   (ID: amirman)
+
+4. i do n’t .
+   (ID: Atlmama)
+
+5. i 'd be curious to know .
+   (ID: EvieAugust)
+
+6. i get more downvotes from reddit destiny players than hate mail from in - game .
+   (ID: SpartanWarNinja)
+
+7. i love this summary .
+   (ID: redraindropped)
+
+8. i hear it 's not that accurate anyways so i do n't pay much attention to it .
+   (ID: I_am_not_a_Taco)
+
+9. i love kouros .
+   (ID: wooq)
+
+10. i would love to see more of this .
+   (ID: ExcessiveAggro)
+
+11. i still love to reread it :)
+   (ID: JacksChocolateCake)
+
+12. i know this because i am iama_girl 's bf .
+   (ID: sweatervest)
+
+13. i am not on birth control and know my cycle pretty well now .
+   (ID: justgirlypasta)
+
+14. i love all of you .
+   (ID: serverpilot)
+
+15. i know that δx means x2-x1 , and dx the same but with limes ? ? ?
+   (ID: useralpha101)
+
+16. i played the beta and i found it very entertaining
+   (ID: freddlaren)
+
+17. i love this :)
+   (ID: Hypersapien)
+
+18. i love it !
+   (ID: meteoriteminer)
+
+19. i do n't know how to explain it .
+   (ID: Lsmoothies)
+
+20. i 'd love to know more about your flax gel .
+   (ID: redraindropped)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1503
+
+1. I am a male.
+   (ID: 44477e54e9e15675b9ad5c3be02b0440724c674b)
+
+2. I am a male.
+   (ID: 3bd27d669b5f394ae490c4e17c08aca524c47546)
+
+3. I have a son in my family.
+   (ID: 23df46bdba3eb265d08b02c9ec5f365cf45ae5fd)
+
+4. I have a sister in my family.
+   (ID: b650c9c531ec58d468c7c1fc9b7083efc4cbca9c)
+
+5. I have a daughter in my family.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+6. I have a brothers in my family.
+   (ID: d78765bdf49a3df577dd2523ce864393d4d0d2c9)
+
+7. I am a male.
+   (ID: fddeeaa11799939dfe96bc7fae74a22b474aaf20)
+
+8. i watched your video , and here is my review  i can bearly hear your voice over the music , the title could do some work , maybe in your description other than promoting your socials you can describe your video in a nutshell . i like the professional look of your channel the layout , banner and the thumbnails of the other videos on your channel , also i love the fact that you respond to everyone in the comment section . i ' m definitely going to go deeper in your channel .
+   (ID: 544afc73e94949100186d302e382bea6fc33beb4)
+
+9. I have a brothers in my family.
+   (ID: 7d84a169d4ddae2aee36640f218ff2b5b534792d)
+
+10. I am a male.
+   (ID: d298609ba6b9516031b9d0b9bc9217d85ce28f05)
+
+11. I am a male.
+   (ID: 0254abd776ead925b3c998e740c3ae71d2b4c6e0)
+
+12. I am a male.
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
+
+13. I have a sisters in my family.
+   (ID: 92705d87eaa503c0c39e0bda00f6d49fe27c65ef)
+
+14. I am a male.
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+15. a ruthless dictator to know north who wants to obliterate our way of life .
+   (ID: 41a67e67cad6d49fc85ef1ed0bf4549a04d9e027)
+
+16. I am a male.
+   (ID: 7008f149db59fea91167255eafa8bc84beab0f01)
+
+17. I am a male.
+   (ID: 9adb5fb6fb9aeeeb65afe41002460d73817044b0)
+
+18. I am a male.
+   (ID: 409a49cde6f1f65f92cac4d33c7c769f7ba9e965)
+
+19. yeah , i know it ' s the hardest and worst but i simply want it . the why ? i already played a dozen worlds to where i was starting to mine iron , and this stupid black bronze has always eluded me . the most i ever managed to make were digit tools at any one given time . i refuse to progress further until i get this .
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+20. I am a male.
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+
+--- PersonaChat ---
+Total from this dataset: 39
+
+1. i love sunsets .
+   (ID: conversation_148)
+
+2. i do not like beer .
+   (ID: conversation_198)
+
+3. i like crocheting .
+   (ID: conversation_152)
+
+4. i don t like the beach .
+   (ID: conversation_94)
+
+5. my brother is currently couch surfing at my house .
+   (ID: conversation_46)
+
+6. we help each other out in my family .
+   (ID: conversation_229)
+
+7. i'm all about family and fun .
+   (ID: conversation_110)
+
+8. i do not know why my sister in law dislikes me .
+   (ID: conversation_142)
+
+9. i am the youngest sibling in my family .
+   (ID: conversation_193)
+
+10. i don't like my reputation .
+   (ID: conversation_147)
+
+11. i love sharks .
+   (ID: conversation_65)
+
+12. i love to surf .
+   (ID: conversation_88)
+
+13. my brother is in a metal band and travels the world .
+   (ID: conversation_22)
+
+14. i love nighttime .
+   (ID: conversation_218)
+
+15. i love bicycling .
+   (ID: conversation_72)
+
+16. i know how to count cards in blackjack .
+   (ID: conversation_158)
+
+17. i love to cook for my family and friends .
+   (ID: conversation_41)
+
+18. my brother is in the army .
+   (ID: conversation_99)
+
+19. i love the beatles .
+   (ID: conversation_247)
+
+20. my parents don't know i am gay .
+   (ID: conversation_4)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 64
+
+1. I love my grandchildren.
+   (ID: conversation_85_user_1)
+
+2. I am a family man.
+   (ID: conversation_23_user_2)
+
+3. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+4. My family is very important to me.
+   (ID: conversation_47_user_2)
+
+5. My favorite band is the avert brother.
+   (ID: conversation_209_user_2)
+
+6. I love cars.
+   (ID: conversation_130_user_1)
+
+7. I am male.
+   (ID: conversation_5_user_1)
+
+8. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+9. I have a twin brother.
+   (ID: conversation_19_user_2)
+
+10. I love zumba.
+   (ID: conversation_190_user_2)
+
+11. I love bruno mars.
+   (ID: conversation_108_user_1)
+
+12. I have the gene that lets me know when someones eaten asparagus.
+   (ID: conversation_231_user_2)
+
+13. I love to sew.
+   (ID: conversation_93_user_2)
+
+14. My twin brother and i share an apartment.
+   (ID: conversation_221_user_2)
+
+15. I don t like beer.
+   (ID: conversation_80_user_2)
+
+16. I live with my parents and my little brother.
+   (ID: conversation_62_user_2)
+
+17. I am male.
+   (ID: conversation_11_user_1)
+
+18. My family loves me , but keeps their distance.
+   (ID: conversation_206_user_2)
+
+19. I love my grandchildren.
+   (ID: conversation_84_user_1)
+
+20. I like crocheting.
+   (ID: conversation_227_user_1)
+
+
+============================================================

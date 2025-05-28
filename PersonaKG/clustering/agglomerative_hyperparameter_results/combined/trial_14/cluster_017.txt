@@ -1,0 +1,118 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 73
+
+Dataset distribution in this cluster:
+  MSC: 3 (4.1%)
+  PEC: 1 (1.4%)
+  PER-CHAT: 66 (90.4%)
+  PersonaChat: 2 (2.7%)
+  SyntheticPersonaChat: 1 (1.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I love my girlfriend.
+   (ID: dialog_89_speaker_2)
+
+2. I am 6 ft. My girlfriend is 6'2.
+   (ID: dialog_85_speaker_2)
+
+3. I have a girlfriend.
+   (ID: dialog_64_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1
+
+1. i ’m that girlfriend too !
+   (ID: samward7)
+
+
+--- PER-CHAT ---
+Total from this dataset: 66
+
+1. I have a girlfriend.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+2. I have a girlfriend.
+   (ID: 3eca81edf4e6bc73783677c148d86e9de5e6527e)
+
+3. I have a girlfriend.
+   (ID: cda2027ff011b74a04f79a766c8e8da339eb1f0b)
+
+4. I have a girlfriend.
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+5. I have a girlfriend.
+   (ID: 9414b9913220ebe2601862e3001aac74ebcffe33)
+
+6. I have a girlfriend.
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+
+7. I have a girlfriend.
+   (ID: 2a3d0cc7409627207d71d58affd421983020efbe)
+
+8. I have a girlfriend.
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+9. I have a girlfriend.
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+10. I have a girlfriend.
+   (ID: c9b1e924c86788c982ec59df3d5704354a2a4ae1)
+
+11. I have a girlfriend.
+   (ID: 292b765cb2e74ea6eb438a054f334da466dda75e)
+
+12. I have a girlfriend.
+   (ID: 74d9c413c2cf59d223d7510b599edf6b6b1df3a2)
+
+13. I have a girlfriend.
+   (ID: ecc98de1e575d7e863a2124b364b8ed586778ba5)
+
+14. I have a girlfriend.
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+15. I have a girlfriend.
+   (ID: e9e31949fb9369b722c0967c2e5f8ec095f0b329)
+
+16. I have a girlfriend.
+   (ID: 1921dc07cd609c210cb71a0176afa3dfa4fa3772)
+
+17. I have a girlfriend.
+   (ID: dc000fb877b86a0bbd3d65fe6040b512b4f5b042)
+
+18. I have a girlfriend.
+   (ID: 36314aee005a03517f2446ec0da2834fe0f712d6)
+
+19. I have a girlfriend.
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+20. I have a girlfriend.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i love my girlfriend .
+   (ID: conversation_81)
+
+2. i love my girlfriend .
+   (ID: conversation_89)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I have a girlfriend of 7 years.
+   (ID: conversation_72_user_2)
+
+
+============================================================

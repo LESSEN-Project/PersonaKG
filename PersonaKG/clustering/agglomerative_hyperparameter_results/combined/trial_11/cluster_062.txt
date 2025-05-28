@@ -1,0 +1,84 @@
+CLUSTER 62
+============================================================
+Total statements in cluster: 14
+
+Dataset distribution in this cluster:
+  FoCus: 1 (7.1%)
+  MSC: 1 (7.1%)
+  PEC: 3 (21.4%)
+  PER-CHAT: 4 (28.6%)
+  PersonaChat: 2 (14.3%)
+  SyntheticPersonaChat: 3 (21.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. My sister lives near Oregon.
+   (ID: 8LTOMMR1K4L5_11)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. My date has an apartment nearby.
+   (ID: dialog_115_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i live in parker so i tend to stay south , but she does n't need to .
+   (ID: chickenpants80)
+
+2. i 've moved to a nearby town since the divorce .
+   (ID: NaBacLeis)
+
+3. i ’m married - can i stay there part time when i ’m in the dog house ?
+   (ID: ExcessiveAggro)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4
+
+1. without knowing your current rent and city i can ' t say if that ' s a lot or a little . or even relevant at all . i also don ' t know her situation as well hence why i simply stated it as an option not a must do .
+   (ID: 25ac51284c94eb6c58e189bbefc7f2bb9bb9e1b5)
+
+2. are you kidding me ? holy crap , i ' d take you , the kid and dogs and leave for the entire evista . or make him go stay with her while shes there also i ' d be thinking about if you want to live with thing long term
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+3. the wife ' s asked if anyone knows where she can pick one of these up ?
+   (ID: 5078613a782f11088cff05f4503056b040cea999)
+
+4. i gotta ask how did you get a pic of your landlords wife ' s pussy ?
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. my girlfriend lives in salt lake city .
+   (ID: conversation_489)
+
+2. my girl friend lives in the condo next door .
+   (ID: conversation_493)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My girlfriend lives in salt lake city.
+   (ID: conversation_184_user_1)
+
+2. My girlfriend lives in salt lake city.
+   (ID: conversation_186_user_1)
+
+3. My girlfriend lives in salt lake city.
+   (ID: conversation_185_user_1)
+
+
+============================================================

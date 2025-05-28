@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 59464
+
+Dataset distribution in this cluster:
+  FoCus: 1725 (2.9%)
+  MPChat: 3692 (6.2%)
+  MSC: 2659 (4.5%)
+  PEC: 23523 (39.6%)
+  PER-CHAT: 23274 (39.1%)
+  PersonaChat: 1543 (2.6%)
+  SyntheticPersonaChat: 3048 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1725
+
+1. I am usually one of the first to purchase new electronic items.
+   (ID: NR67D1SY5ZKB_11)
+
+2. I wish to visit the chinatown.
+   (ID: DKGV9E2PZUPH_11)
+
+3. I hope to visit Chile soon.
+   (ID: V83LRI44QW1S_11)
+
+4. I'd like to join National Woman's Party if its similar version exists in Korea.
+   (ID: DK9VMLV1IASM_11)
+
+5. I have the fantasy of mansions.
+   (ID: RN7ZT44D6QK1_11)
+
+6. I'm interested in pseudosciences.
+   (ID: OOU8UC23AVLV_11)
+
+7. I am willing to visit River Walbrook.
+   (ID: XY9R2ORN3XBQ_7)
+
+8. I visited Frankford last year.
+   (ID: HK4CNKBL5R5V_11)
+
+9. I am not Spanish.
+   (ID: X5NX5GAWOEW2_11)
+
+10. I have a picture of the Lancaster Canal.
+   (ID: PDQ9Z8XXYUMC_11)
+
+11. I'm learning about history.
+   (ID: IM69XV5WEIAK_11)
+
+12. I want to visit a sport stadium.
+   (ID: X7MOE4GZ4HOG_11)
+
+13. I like valleys.
+   (ID: 82ZP2M9AL6U0_11)
+
+14. I am an animal lover.
+   (ID: QLDCXP7YJP9Q_11)
+
+15. I like Georgian style architectures because it looks so georgeous.
+   (ID: DK9VMLV1IASM_11)
+
+16. I want to go to Broadway shopping centre.
+   (ID: L6X3D5VDORJH_11)
+
+17. I love animals.
+   (ID: 77B9J8TADYDF_7)
+
+18. I wish I could go hiking.
+   (ID: KN10OGBG14Y2_11)
+
+19. I love fishing.
+   (ID: VQN3MX06CHI1_11)
+
+20. I love Italian food.
+   (ID: DIQU5A0EAGWM_11)
+
+
+--- MPChat ---
+Total from this dataset: 3692
+
+1. went on my first kayak camping trip.
+   (ID: GamblinGambit)
+
+2. i think i did ok :)
+   (ID: ddizzle23)
+
+3. here's a farm cake i made for a boy turning 7. he was in love with this rooster.
+   (ID: PrissyCakes)
+
+4. i'm currently in antarctica, savoring every minute but also counting the days until i get home!
+   (ID: BlueIce64)
+
+5. pringles responded to my email...
+   (ID: ThatPurpleDrank)
+
+6. i love camping!
+   (ID: insthotchkiss)
+
+7. i made creme brulee cheesecake for my boyfriend.
+   (ID: justcook_byangel)
+
+8. going to make a hat and i'm not sure what else.
+   (ID: Soapy_Von_Soaps)
+
+9. one day i came home with a kitten.
+   (ID: crunch816)
+
+10. i got two fortune cookies instead of one!
+   (ID: Tweenkie38)
+
+11. lv supreme duffle bag cake i just finished it
+   (ID: Sunshine_2425)
+
+12. i'm assuming they're all weeds...
+   (ID: ChroniclyDope)
+
+13. i’ll post what i have in the comments
+   (ID: sundstrom193)
+
+14. i wanted to make something homemade but can't be bother with cleaning up and lots of preparation.
+   (ID: justcook_byangel)
+
+15. i made these for a blackhawks game i went to!
+   (ID: HobbitLass)
+
+16. attempted to recreate my friend's pug
+   (ID: Lookingforearrings2)
+
+17. dropped my '86 bridgestone today
+   (ID: i_like_it_raw_)
+
+18. here i designed the slide game part 2. for 2 to 12 players.
+   (ID: gelimausi)
+
+19. i need to get up and ready to leave, but he's so comfortable in this spot!
+   (ID: MafHoney)
+
+20. homemade birthday cake i made for my son.
+   (ID: gelimausi)
+
+
+--- MSC ---
+Total from this dataset: 2659
+
+1. I love to be under water.
+   (ID: dialog_16_speaker_2)
+
+2. I drink alcohol.
+   (ID: dialog_106_speaker_2)
+
+3. I like trying new food. I'm going to the UK.
+   (ID: dialog_82_speaker_1)
+
+4. I'm currently attend indiana university.
+   (ID: dialog_81_speaker_1)
+
+5. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+6. A long time ago, I had a lot of pets.
+   (ID: dialog_34_speaker_2)
+
+7. I am part irish.
+   (ID: dialog_38_speaker_2)
+
+8. I am not good at math.
+   (ID: dialog_7_speaker_2)
+
+9. I live in Florida. I have contacts in Alabama. I have never been to Alabama.
+   (ID: dialog_85_speaker_2)
+
+10. In the future I want to drive a large vehicle.
+   (ID: dialog_28_speaker_1)
+
+11. My husband was a career soldier. I have 4 kids.
+   (ID: dialog_127_speaker_1)
+
+12. I want to start watching The Walking Dead.
+   (ID: dialog_93_speaker_1)
+
+13. I have feelings for a person in my past.
+   (ID: dialog_41_speaker_2)
+
+14. I collect a lot of sports memorabilia.
+   (ID: dialog_70_speaker_1)
+
+15. I have never left the countryside.
+   (ID: dialog_42_speaker_2)
+
+16. I like to watch sports.
+   (ID: dialog_62_speaker_1)
+
+17. We own several dogs.
+   (ID: dialog_65_speaker_1)
+
+18. I lift a lot of weights.
+   (ID: dialog_100_speaker_1)
+
+19. I enjoy watching The Cable Guy.
+   (ID: dialog_15_speaker_2)
+
+20. I love being with freezing water.
+   (ID: dialog_51_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 23523
+
+1. i went to a computer repair store and embarrassed myself by having a password from a video game .
+   (ID: Lagnaktor)
+
+2. i can get behind that !
+   (ID: conservative_poly)
+
+3. i hope you get a chance to enjoy them soon !
+   (ID: kitcatpaints)
+
+4. i love banh mi - thank you for sharing the recipe !
+   (ID: monday_madrigal)
+
+5. i was just going off memory lol .
+   (ID: jessibabyy11)
+
+6. i ’m sos glad i did n’t even consider it was fast sunday ha .
+   (ID: WhereRtheTacos)
+
+7. i know what you mean .
+   (ID: iToaditSo)
+
+8. i only know the shallow bay ones
+   (ID: breakingashleylynne)
+
+9. i really want the back story here lol
+   (ID: breakingashleylynne)
+
+10. i suppose startup will take longer then , but that 's not that big of a deal really
+   (ID: thebastion)
+
+11. i see that .
+   (ID: KikAtWorkFL)
+
+12. i just finished the first thor movie lol
+   (ID: shortgiraffe9000)
+
+13. i mean muscle soreness from a few days after training .
+   (ID: Takumi-Fujiwara)
+
+14. i 'll add to my favorites and use as i go along .
+   (ID: sean__christian)
+
+15. i love the inclusion of arab lore , you need to tie in folk stories !
+   (ID: Ashex)
+
+16. i stopped eating fish 20-plus years ago .
+   (ID: redraindropped)
+
+17. i keep my room at 50 - 60 temp , any warmer and it ’s uncomfortable .
+   (ID: bugaloo2u2)
+
+18. i would have a little spray can of it in my bag ... for emergencies
+   (ID: Nimmyzed)
+
+19. i did n't enjoy it as much as i did before .
+   (ID: Nheea)
+
+20. i want it just for the poster
+   (ID: bummang)
+
+
+--- PER-CHAT ---
+Total from this dataset: 23274
+
+1. I own a profile.
+   (ID: 35c328d4a335c5fd9ddfe5f40bbfd2580065561c)
+
+2. why would you want to hide your personality ? i see it as expressing your true self to people , because i have been liying to people for too long . on the other hand there is the argument that , well accourse it ' s just a hobby and that people shouldn ' t care what hobbies you have , but lets be honest , who ' s personality hasn ' t changed because of the fandom ?
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+3. go back to when abraham lincoln was assassinated and yell out for him to turn around . thrust being known as the person who save the president . or who got him shot in the face .
+   (ID: 2168250be01c43791f88e7c8ad875c0396307047)
+
+4. One of my favorite things is cars.
+   (ID: c9a98f7f4291c6c1eefeeaae838890408881f877)
+
+5. i can ' t really relate , i ' ve never had a guy do that , but dryness is never an issue for me , i ' ve only used lube with one person a couple of times and it wasn ' t very sexy .
+   (ID: 6646dc228dccad2f1b450fb533b5a42d85536450)
+
+6. I am a male.
+   (ID: a94c33f7a102c979d2b0d24245a9721d4136b14f)
+
+7. cosmo wheezer carl wheezer and cosmo from fairly odd parents
+   (ID: 5b1553b6a517f6dfee19019582f0bb534a60ae0a)
+
+8. i get these messages on pictures i take . it ' s so stupid . how do i give you a source for something that i took a photo of lol
+   (ID: 97c35f21c6a14bb50b6faae9a7b18cd5968c350c)
+
+9. spoonfuls of sugar , in bed , after my soccer games .
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+10. you see a lot of hate against donald trump but have we actually seen anybody do anything against him ? maybe it ' s all talk but maybe the " government is imprisoning who it likes .
+   (ID: 2266fd8e27b1d50f2e144f7cd11716068cff21d5)
+
+11. gauze ? dengar ! i think your height would make you a good ig  digit if you could come up with something from those components . maybe a taller than normal bib fortuna ?
+   (ID: 664b365f80ff1d51db95866fada8009f14d8e9b1)
+
+12. even if you ' re fired for a reason you can often get it . i filed for it once , and my employer didn ' t contest it so i got it
+   (ID: 5218a6fd3b7d990775fbaa39249c20beea16f741)
+
+13. are you on pc or console ?
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+14. I own a game.
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+
+15. this this and this . do your best to change it for her . make her feel like it  s not a bad thing and there  s no reason to feel bad . try your best to erase that part of her past . purple  heart
+   (ID: 3590b3fd811042b17c3ff7f8b851664408a349ef)
+
+16. I have a father in my family.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+17. plus , they apparently steal content from other youttubers . they even had the gall to steal cr1tikal ' s reptar bar video . the only reason why i ' m still subbed to buzzfeed is because of unsolved , that ' s it .
+   (ID: afb250d177d47ce6467dfa3414d91e9e07eec6c4)
+
+18. ! delta oh what fun this ' delta ' buisness . that ' s my complaint with sausage , mushrooms . lazily done too frequently . crumbled sounds buonisimo . artichokes too , but mainly at upscale places . and at those they actually have manicotti or lasagna worth ordering
+   (ID: 85ac769b0cb349e567cb91e8109645bd1ac28b9f)
+
+19. One of my favorite things is humans.
+   (ID: 77e0b8c51dfb89ff57bd838b86ee4d78a9fe856f)
+
+20. i feel like this is the problem i  d have with it too now that i think about it . i held the xs in the apple store today and honestly , the size seemed perfect for me . my digit  is beautiful but it  s annoying to use because it  s huge . while i  d love a brand new phone , a used x with a little wear  tear for half the price it was brand new last year seems like a better deal for me . i  m not that bothered about having the latest  greatest .
+   (ID: 5f75c9b696f1ea78d1a7d21e5a6d5dd1c9391b14)
+
+
+--- PersonaChat ---
+Total from this dataset: 1543
+
+1. i believe that mermaids are real .
+   (ID: conversation_284)
+
+2. my dad worked for home depot .
+   (ID: conversation_86)
+
+3. i am a woman .
+   (ID: conversation_152)
+
+4. i am colorblind .
+   (ID: conversation_109)
+
+5. i take great care of my skin .
+   (ID: conversation_317)
+
+6. i like to listen to music .
+   (ID: conversation_6)
+
+7. i work at an accounting firm .
+   (ID: conversation_190)
+
+8. i m scared of left turns .
+   (ID: conversation_264)
+
+9. i like to play video games .
+   (ID: conversation_136)
+
+10. i work at home on my computer .
+   (ID: conversation_236)
+
+11. i used to work for a cable company .
+   (ID: conversation_76)
+
+12. i hate that i got my brain from the dad i never met .
+   (ID: conversation_179)
+
+13. my mom died when i was six .
+   (ID: conversation_323)
+
+14. my favorite food is cheese .
+   (ID: conversation_28)
+
+15. i fly airplanes .
+   (ID: conversation_35)
+
+16. my favorite color is green .
+   (ID: conversation_207)
+
+17. i live in the usa .
+   (ID: conversation_23)
+
+18. i drive an acura .
+   (ID: conversation_321)
+
+19. i am from georgia .
+   (ID: conversation_298)
+
+20. i love chocolate .
+   (ID: conversation_298)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3048
+
+1. My favorite drink is chocolate milk.
+   (ID: conversation_271_user_2)
+
+2. I build my own computers.
+   (ID: conversation_273_user_2)
+
+3. I live near the ocean.
+   (ID: conversation_280_user_2)
+
+4. I can t eat shrimp.
+   (ID: conversation_19_user_1)
+
+5. I have blonde hair.
+   (ID: conversation_322_user_2)
+
+6. I run track.
+   (ID: conversation_172_user_1)
+
+7. My favorite tv show is silicon valley.
+   (ID: conversation_177_user_1)
+
+8. My favorite animal is a monkey.
+   (ID: conversation_306_user_1)
+
+9. I love to watch game shows.
+   (ID: conversation_106_user_2)
+
+10. I am a meat eater.
+   (ID: conversation_117_user_2)
+
+11. I work too many hours in a week.
+   (ID: conversation_204_user_2)
+
+12. I grew up as an orphan.
+   (ID: conversation_66_user_2)
+
+13. I love dogs.
+   (ID: conversation_141_user_1)
+
+14. I play video games all day.
+   (ID: conversation_2_user_1)
+
+15. I am blonde.
+   (ID: conversation_16_user_1)
+
+16. I work part time at aldi s.
+   (ID: conversation_43_user_2)
+
+17. My favorite color is orange.
+   (ID: conversation_110_user_2)
+
+18. I work as a legal assistant in a law firm that basically only handles real estate work.
+   (ID: conversation_330_user_2)
+
+19. I take great care of my skin.
+   (ID: conversation_322_user_1)
+
+20. I live in an apartment.
+   (ID: conversation_230_user_2)
+
+
+============================================================

@@ -1,0 +1,461 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 602
+
+Dataset distribution in this cluster:
+  FoCus: 18 (3.0%)
+  MPChat: 33 (5.5%)
+  MSC: 119 (19.8%)
+  PEC: 137 (22.8%)
+  PER-CHAT: 65 (10.8%)
+  PersonaChat: 80 (13.3%)
+  SyntheticPersonaChat: 150 (24.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 18
+
+1. I wish to work in St. Louis Catholic Church.
+   (ID: OII32NSNR2Q2_7)
+
+2. I am interested in volunteer work.
+   (ID: 942CCWXHPUZT_11)
+
+3. I wouldn't like to work at a factory.
+   (ID: IS9KP8O0CE1M_11)
+
+4. I am willing to work in Metropolitan Water Sewerage and Drainage Board.
+   (ID: KHRYE9OFUIMW_9)
+
+5. I work in business.
+   (ID: STDMXJC7HTUG_11)
+
+6. I am willing to work in Isles of Scilly Wildlife Trust.
+   (ID: VBRKEB3J9BVV_7)
+
+7. I am going to Canada for work.
+   (ID: A2FLEF1TRRHW_11)
+
+8. I love the work done by Rajiv Gandhi.
+   (ID: EMXI5E4LUV20_11)
+
+9. I work in a non-profit organization.
+   (ID: 8065KWB9BLWJ_11)
+
+10. I hope to work in engineering.
+   (ID: YRJ6RB6JCWMA_11)
+
+11. I work with architecture.
+   (ID: OVAVQ6KQ4YWN_11)
+
+12. I am going to Canada for work.
+   (ID: BW2JVSJEMYHL_11)
+
+13. I would like to work with military.
+   (ID: F8WIALS35WHE_11)
+
+14. I don't hope to ever see my work exhibited in a museum.
+   (ID: JJN7XJSS0B4W_11)
+
+15. I work for the National Register of Historic Places.
+   (ID: EZGYRI0YA8OX_9)
+
+16. I work with ancient art.
+   (ID: C64P8U3HDDHY_9)
+
+17. I would like to work in the National Sculpture society.
+   (ID: KW9HNA6XJ79B_11)
+
+18. I am going to Illinois for work.
+   (ID: EDLPKHWH3K5B_11)
+
+
+--- MPChat ---
+Total from this dataset: 33
+
+1. found a picture of my work on instagram!
+   (ID: mattsulli)
+
+2. the coffee company i work for is staying open through this pandemic.
+   (ID: Deeshizznit)
+
+3. my dad would take her to work and greasy mechanics bottle fed her until she was healthy.
+   (ID: dudeinthepnw)
+
+4. guy at work wanted his own so i used the rest of the bright thread.
+   (ID: ddizzle23)
+
+5. the coffee grinder at my work has its name spelled 2 different ways.
+   (ID: The69LTD)
+
+6. here’s some of my work.
+   (ID: Lookingforearrings2)
+
+7. shaping needs work, but here's my first sourdough!
+   (ID: mattsulli)
+
+8. a little work snack that i foraged recently, raw white matsutakes.
+   (ID: sundstrom193)
+
+9. my husband made this lime cheesecake for work
+   (ID: hmbmelly)
+
+10. i do volunteer work at a fire watch tower in the national forest in northern colorado
+   (ID: de_argh)
+
+11. these are the types of photos i get while at work of my sleeping tater tot
+   (ID: pocket_kira)
+
+12. only had shredded cheese, but i made it work.
+   (ID: RaeADropOfGoldenSun)
+
+13. i keep telling myself to work through my stash but i ordered more yarn yesterday
+   (ID: smsikking)
+
+14. finally done 2 months of work and i am so proud of how this turned out
+   (ID: XandXor)
+
+15. my supurrvisor, waffles, is keeping a close eye on me while i work from home
+   (ID: FoxInKneeSocks)
+
+16. little mouse i found outside my work.
+   (ID: myowndevo)
+
+17. i work at a bar & grill, and this gem printed out last night during busy friday dinner.
+   (ID: lolveets)
+
+18. prettier pics of the hamburger cupcakes i made for work :)
+   (ID: ddizzle23)
+
+19. 48 hours worth of work out of my home kitchen to make some mom's happy today.
+   (ID: SugarHighBakedGoods)
+
+20. made a little cactus for my desk at work
+   (ID: Sophie74656)
+
+
+--- MSC ---
+Total from this dataset: 119
+
+1. I do not work at a funeral home.
+   (ID: dialog_5_speaker_2)
+
+2. I like to work out.
+   (ID: dialog_16_speaker_2)
+
+3. I work at a movie theater.
+   (ID: dialog_87_speaker_1)
+
+4. I work as a graphic designer. I like graphic design.
+   (ID: dialog_33_speaker_1)
+
+5. I work on a military base. I am a nurse.
+   (ID: dialog_16_speaker_1)
+
+6. I work at a juice business.
+   (ID: dialog_12_speaker_2)
+
+7. I want to work in tech.
+   (ID: dialog_108_speaker_2)
+
+8. I work from home.
+   (ID: dialog_34_speaker_2)
+
+9. I work in the navy.
+   (ID: dialog_129_speaker_1)
+
+10. I work as an editor at a local magazine.
+   (ID: dialog_64_speaker_2)
+
+11. I work at a place that cleans cars and I am not a fan.
+   (ID: dialog_46_speaker_1)
+
+12. I used to work a corporate job which I hated.
+   (ID: dialog_128_speaker_1)
+
+13. I work at subway.  I had to stay overtime many times in the past month.
+   (ID: dialog_46_speaker_1)
+
+14. I work out.
+   (ID: dialog_16_speaker_2)
+
+15. I am a singer and I work from home.
+   (ID: dialog_47_speaker_2)
+
+16. I want to work with animals when I grow up.
+   (ID: dialog_97_speaker_2)
+
+17. I work from home and stay in my pajamas.
+   (ID: dialog_93_speaker_2)
+
+18. I like to exercise before work.
+   (ID: dialog_29_speaker_2)
+
+19. I work in a hospital.
+   (ID: dialog_16_speaker_1)
+
+20. I work in a factory.
+   (ID: dialog_44_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 137
+
+1. i almost rode a tandem to work because my bicycle lock was broken lol .
+   (ID: Takumi-Fujiwara)
+
+2. i enjoyed this during work , today .
+   (ID: bestform)
+
+3. i do work weird hours which disrupts my sleep pattern .
+   (ID: freddlaren)
+
+4. i repurposed the bottle for immersion oil at work .
+   (ID: Nheea)
+
+5. i ca n't access youtube at work .
+   (ID: Piraticalstyle)
+
+6. i want to work hard .
+   (ID: underneathstars)
+
+7. i have to transcribe interviews for work and it 's a total ball ache .
+   (ID: bondo84)
+
+8. i 'll wear this to work .
+   (ID: bostown03)
+
+9. i live there but i have to work tomorrow .
+   (ID: amirman)
+
+10. i work out 3 - 5 times a week and my job is very active .
+   (ID: freddlaren)
+
+11. i do n't motivate to work out , but i do work out to stay motivated .
+   (ID: ifatree)
+
+12. i can no longer work in pt .
+   (ID: jwshapir)
+
+13. i work for northumberland , i know all about old smelly cream .
+   (ID: Bananafoofoofwee)
+
+14. i had to miss work .
+   (ID: bbrandann)
+
+15. i work at man met uni :-)
+   (ID: Stan063)
+
+16. i work weekends and today is slow and sleepy at home .
+   (ID: parkleswife)
+
+17. i brought them home from work so she could see how funky her hands are before washing them !
+   (ID: FridaysChild219)
+
+18. i have done some volunteer work grant writing though .
+   (ID: chirpyboyandbartjr)
+
+19. i used to work for a newspaper in downtown nyc when it happened .
+   (ID: BoonTobias)
+
+20. i bet * you * do n't work .
+   (ID: Nolanoscopy)
+
+
+--- PER-CHAT ---
+Total from this dataset: 65
+
+1. that ' s not really my point you brick . if they don ' t want to work over their contract required hours , they don ' t have to . yes sitting is easy , we can all do it , but some of us do more than that , and want more than that , people deserve days off . if you want to go in and fix it , than be our guest but something tells me your screen , which you claim to sit by everyday , is a little too simple to do the work .
+   (ID: c6e9d7bec5bbee67d384191c91101e443de5ac3c)
+
+2. anyone answering this question seriously probably shouldn ' t be in that line of work .
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+3. let  s say you  re incredibly homeless . it may take years but if you do work hard enough you can turn your life around . it may require effort , but everything in life does . the people that get rich because of themselves are the ones who are willing to do what it may take . if you have enough willpower and motivation you can get what you want . people need to find theirs .
+   (ID: bcaa247be9d3b5a702098c9ffea4721d09504809)
+
+4. would you , would you really ? or are you just small minded and don ' t understand how to deal with a broken game . working these people to death will get nowhere . they probably hate their managers for working them hard at the end of the project . they probably didn ' t agree with every decision . they probably just go to work and attempt to find solutions , work within the confines of company procedure , and do what they can . why should they be worked all weekend just so you can sit in your underwear alone and play digit . just get a different game and wait for them to do what they can .
+   (ID: c6e9d7bec5bbee67d384191c91101e443de5ac3c)
+
+5. i ' m at work but i ' m not actually working .
+   (ID: 0e19a35c711a9c78f764d5268c09b16559cdadbf)
+
+6. i work for gamestop , so that alone should tell you enough .
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
+
+7. balance . if you want a successful and healthy life then it needs to be balanced . worked digit hours this week ? work digit next week . had pizza for dinner tonight ? have salad and fish tomorrow . etc etc .
+   (ID: 0b40e1731a58e377af57361e27d4264ac065a5b8)
+
+8. yes , thank you for your work ! if you are willing to do more of those , they will really be appreciated .
+   (ID: 9006d58872586db3bb808208616fdc9c3dff694b)
+
+9. the only way you ' ll really know is if you ask them . it could be because of doing work months food , it could be a green house , it could be a secret lab .
+   (ID: 7632dd7ebcb664bfada5fff420a436f42e3721d5)
+
+10. not everyone can just leave their job and work somewhere for twice the salary . a bit of an opinionated advice no ? how  s that even a realistic scenario .
+   (ID: 93e9e943e9d5e6606a938961fd4d02312afb101b)
+
+11. where is the thing made in blender ? i only see some real life video lmao . great work .
+   (ID: 337350fc54133b327ce0d6d9f385f82a2a6738cf)
+
+12. uhhh . what kind of work do you do ?
+   (ID: d3491a90d756046acac8c3053e9e99c3e6c231f9)
+
+13. not in the physics based definition of work , but in the common sense , yes . the value of someone ' s work is what people will pay them for it . sure , without construction workers , no one would have a house or office or such , but plenty of people can do construction and an agreed upon value has been placed on that work . a doctor might not sweat nearly as much as a construction worker , but their work has far more value because that is what society has valued it at . if you want to get a bunch of friends together and all become doctors and offer your services for minimum wage , you could disrupt this value , but that isn ' t going to happen .
+   (ID: b650c9c531ec58d468c7c1fc9b7083efc4cbca9c)
+
+14. so people who earn great wealth should not be able to pass that on to their kids ? isn ' t that one of the main reasons we work so hard , to make a better life for our kids ?
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+15. that  s a lot of guys ! why did it take so long to work ?
+   (ID: 472de55a2855849453179c0ccb5234c4ea9d1192)
+
+16. daily life is boring unfortunately lol if you want to be productive you gotta do the boring crap before it needs to be done
+   (ID: 238316960c030f561912bd63e9f572a4170f991b)
+
+17. damn . i took four days off once . it was supposed to be five but my boss made me work one of those days .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+18. the majority of us are proud of you ! because a dream home is worth it . that ' s why you save up and work hard , to get the things you want . you ' d want to have a nice comfortable life outside of work hence the dream home lol .
+   (ID: 8031d2235c5c79aed4436e575113c1efb8fbe777)
+
+19. them ? i have no idea . i didn ' t know them well enough . me ? kinda ? mostly just the times recovering from the partying and work .
+   (ID: 7e67f2109db2f138225338a090de78cfd116cfca)
+
+20. One of my favorite things is hands  work.
+   (ID: 661cbd631caa9db4ab702976879371243802e35e)
+
+
+--- PersonaChat ---
+Total from this dataset: 80
+
+1. i work as an electrician .
+   (ID: conversation_244)
+
+2. i work part time .
+   (ID: conversation_198)
+
+3. i work as a vet .
+   (ID: conversation_282)
+
+4. i work at a smoothie shop .
+   (ID: conversation_225)
+
+5. i work out daily .
+   (ID: conversation_219)
+
+6. i work as a english teacher .
+   (ID: conversation_340)
+
+7. i work all the time .
+   (ID: conversation_189)
+
+8. i work for a marketing agency .
+   (ID: conversation_289)
+
+9. i like to work puzzles .
+   (ID: conversation_86)
+
+10. i work in a factory .
+   (ID: conversation_125)
+
+11. i used to work for a cable company .
+   (ID: conversation_111)
+
+12. i work at the grocery store .
+   (ID: conversation_20)
+
+13. i work many hours .
+   (ID: conversation_8)
+
+14. i go to work early in the morning as a nurse .
+   (ID: conversation_277)
+
+15. i work in a movie theater .
+   (ID: conversation_245)
+
+16. i work for a magazine .
+   (ID: conversation_64)
+
+17. i used to work for monsanto .
+   (ID: conversation_345)
+
+18. i work for a large law firm .
+   (ID: conversation_68)
+
+19. i work in a factory .
+   (ID: conversation_226)
+
+20. i work at home on my computer .
+   (ID: conversation_236)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 150
+
+1. I work at home , editing.
+   (ID: conversation_266_user_1)
+
+2. I work as a barista.
+   (ID: conversation_199_user_1)
+
+3. I think if i work hard enough i can fix the world.
+   (ID: conversation_128_user_2)
+
+4. I work in accounting.
+   (ID: conversation_5_user_1)
+
+5. I work at a restaurant as waiter.
+   (ID: conversation_102_user_1)
+
+6. I work in finance.
+   (ID: conversation_182_user_2)
+
+7. I work as a secretary at an insurance agency.
+   (ID: conversation_329_user_2)
+
+8. I work in tv.
+   (ID: conversation_348_user_1)
+
+9. I work in a doctor s office.
+   (ID: conversation_157_user_2)
+
+10. I work as a waitress.
+   (ID: conversation_8_user_2)
+
+11. I work at the grocery store.
+   (ID: conversation_50_user_1)
+
+12. I work 9 to 5 job.
+   (ID: conversation_28_user_2)
+
+13. I work on trucks.
+   (ID: conversation_22_user_1)
+
+14. I work 60 hours a week.
+   (ID: conversation_138_user_2)
+
+15. I play electric violin , and also work as an accountant.
+   (ID: conversation_200_user_2)
+
+16. I work in accounting.
+   (ID: conversation_6_user_1)
+
+17. I work in a veterinary office.
+   (ID: conversation_43_user_1)
+
+18. I work in a veterinary office.
+   (ID: conversation_42_user_1)
+
+19. I work in finance.
+   (ID: conversation_173_user_2)
+
+20. I work as a barista.
+   (ID: conversation_215_user_1)
+
+
+============================================================

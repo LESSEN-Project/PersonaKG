@@ -1,0 +1,402 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 1225
+
+Dataset distribution in this cluster:
+  FoCus: 28 (2.3%)
+  MSC: 49 (4.0%)
+  PEC: 64 (5.2%)
+  PER-CHAT: 1009 (82.4%)
+  PersonaChat: 31 (2.5%)
+  SyntheticPersonaChat: 44 (3.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 28
+
+1. I am living in New Hampshire.
+   (ID: 9QE8MQM0B8P7_11)
+
+2. I live in a house.
+   (ID: SRO8K4E2N5N5_7)
+
+3. I live in Kentucky.
+   (ID: T9680U7NZ97F_11)
+
+4. I live in San Diego.
+   (ID: SJS6GHEH7ZIW_11)
+
+5. I am staying in a municipality.
+   (ID: ATJSFYS2K6FK_11)
+
+6. I live in England.
+   (ID: AOQJE7BBYFVM_11)
+
+7. I am in the United Kingdom for work.
+   (ID: VUU19OURBLRK_11)
+
+8. I live in Oxford.
+   (ID: PCA6OG1NNC5D_9)
+
+9. I live in England.
+   (ID: SRO8K4E2N5N5_7)
+
+10. I live in the North of England.
+   (ID: UHZ1K434LZ46_11)
+
+11. I live in Pennsylvania.
+   (ID: GYX0OU7PEQ7Q_11)
+
+12. I am on vacation in Canada.
+   (ID: UXR4EKSRCULN_11)
+
+13. I live in Savannah.
+   (ID: C7RS7BTZIF1Q_11)
+
+14. I am Mississippi on business.
+   (ID: AGVUC45C9W9X_7)
+
+15. I have my own office building in Central Norway.
+   (ID: TB8HHXAP822G_11)
+
+16. I own a house.
+   (ID: C7RS7BTZIF1Q_11)
+
+17. I live in a city.
+   (ID: NKLIZUTIPPP1_11)
+
+18. I live in Oregon.
+   (ID: X3WVWF5IVCYD_11)
+
+19. I am living in a house which has a tennis court.
+   (ID: D4619DV1O1OP_11)
+
+20. I live in Queensland.
+   (ID: XXWV8BD5AL9Z_11)
+
+
+--- MSC ---
+Total from this dataset: 49
+
+1. I live in a fantasy world.
+   (ID: dialog_50_speaker_2)
+
+2. I live in the country.
+   (ID: dialog_15_speaker_2)
+
+3. I live on an island in Hawaii.
+   (ID: dialog_27_speaker_2)
+
+4. I live on a private island where things can take a bit to be delivered.
+   (ID: dialog_69_speaker_2)
+
+5. My house is very big.
+   (ID: dialog_20_speaker_1)
+
+6. I reside on the outskirts of a city know as beantown.
+   (ID: dialog_41_speaker_1)
+
+7. I live by the ocean.
+   (ID: dialog_69_speaker_2)
+
+8. I live in New York City.
+   (ID: dialog_89_speaker_1)
+
+9. My house is very big.
+   (ID: dialog_80_speaker_1)
+
+10. I live in a rural area in Alabama, outside Birmingham.
+   (ID: dialog_85_speaker_1)
+
+11. I live in Providence. I work in a Publishing building, downtown.
+   (ID: dialog_41_speaker_2)
+
+12. I've a home in the suburbs.
+   (ID: dialog_95_speaker_1)
+
+13. I have a houseboat.
+   (ID: dialog_14_speaker_2)
+
+14. I live in Alaska.
+   (ID: dialog_34_speaker_2)
+
+15. I live in Seattle.
+   (ID: dialog_38_speaker_1)
+
+16. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+17. I live in a fantasy world.
+   (ID: dialog_92_speaker_2)
+
+18. I live surrounded by farmland.
+   (ID: dialog_27_speaker_1)
+
+19. I live in Alaska
+   (ID: dialog_34_speaker_2)
+
+20. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 64
+
+1. i live in the uk and just got back from texas last week .
+   (ID: Ooer)
+
+2. i m so poor
+   (ID: mathieu2em)
+
+3. i live in martinsburg
+   (ID: iToaditSo)
+
+4. i am not in europe
+   (ID: Aloha-Potato)
+
+5. i live in sa right now .
+   (ID: SamuelStephenBono)
+
+6. i have three pet lions and know every single person ~~on the continent~~ in the country .
+   (ID: DarkMoon99)
+
+7. i live nearby .
+   (ID: metalbark)
+
+8. i 'm in the hollywood area .
+   (ID: glowinthedark)
+
+9. i 'm over the pond in england � �
+   (ID: bigfuckingdiamond)
+
+10. i 'm in the usa and i 'm def interested .
+   (ID: John7oliver)
+
+11. i think you exist in third dimension .
+   (ID: AgedTwenties)
+
+12. i ’m in a deed restricted condo .
+   (ID: 11_29_77)
+
+13. i live in the north seattle area .
+   (ID: Machinax)
+
+14. i ’m just standing here with perfect posture and 200 $ douche sunglasses ... i am here for the music
+   (ID: lambsquatch)
+
+15. i live in canada very near the canadian rockies ..
+   (ID: exotics)
+
+16. i live in the us .
+   (ID: Hypersapien)
+
+17. i live there but i have to work tomorrow .
+   (ID: amirman)
+
+18. i live in the pacific northwest :(
+   (ID: lambsquatch)
+
+19. i do n't make a lot of money , my apartment is tiny .
+   (ID: Lifes6Midnight)
+
+20. i am lucky enough to live within walking distance of a japanese grocery store .
+   (ID: chirpyboyandbartjr)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1009
+
+1. I live in island.
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+2. I live in michigan.
+   (ID: 89a759866debf6704efa0f603c1b9c4476abd731)
+
+3. I live in connecticut.
+   (ID: 3c405c5b13146831496e429cf2aff978fcec01eb)
+
+4. I live in vermont.
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+5. I live in dmv area.
+   (ID: cb830ff94bb369e5db655e15ee074f392a52c14f)
+
+6. I live in California.
+   (ID: 3cc393500aaac3a2ee1cd96955cee486bb062a46)
+
+7. I live in canada.
+   (ID: dc000fb877b86a0bbd3d65fe6040b512b4f5b042)
+
+8. I live in canada.
+   (ID: e9e31949fb9369b722c0967c2e5f8ec095f0b329)
+
+9. I live in at windyridge.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+10. I live in western canada.
+   (ID: c28c39847d1ec88851aadf063f6e8baf4594b35c)
+
+11. I live in michigan.
+   (ID: 1aa2a9bdfead7897363f32a7bc9e416ca9098b9f)
+
+12. I own a house.
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+13. I live in wv.
+   (ID: 7fdfc2063b89c8be6521566a61aeb5bf9497d47e)
+
+14. I live in middle.
+   (ID: 514a3ecd0d04716c9225352c4a3a5d5424dd8056)
+
+15. I live in at apartment complex.
+   (ID: 7e06b6173caa339822499761ab78ee796513d9aa)
+
+16. I live in united kingdom.
+   (ID: 75ca79d6c5cfc50533ff56cde25edfb593ae8568)
+
+17. I live in city.
+   (ID: 97f042c151ad751b2811d75ae69fd7feae42ed77)
+
+18. I live in guilt.
+   (ID: 74b41b40662f8290cb9efa13620a4b8ecd792ba9)
+
+19. I live in america.
+   (ID: 3171687207fd659f146afaa305fc2ad7b92ea52b)
+
+20. I live in largest city.
+   (ID: 650ba9cdaca39ad1c1fe5e6348b11afb4d8e7a0f)
+
+
+--- PersonaChat ---
+Total from this dataset: 31
+
+1. i live on a boat .
+   (ID: conversation_228)
+
+2. i live in new york .
+   (ID: conversation_170)
+
+3. i own my home .
+   (ID: conversation_52)
+
+4. i live in a house .
+   (ID: conversation_97)
+
+5. i live alone in a cabin .
+   (ID: conversation_104)
+
+6. i live in a house in the country .
+   (ID: conversation_40)
+
+7. we own our home .
+   (ID: conversation_68)
+
+8. i live in nashville .
+   (ID: conversation_215)
+
+9. we own our home .
+   (ID: conversation_30)
+
+10. i live in chicago .
+   (ID: conversation_211)
+
+11. i live in a small city .
+   (ID: conversation_239)
+
+12. we live in a rural area .
+   (ID: conversation_233)
+
+13. i live alone .
+   (ID: conversation_136)
+
+14. i live in colorado .
+   (ID: conversation_52)
+
+15. i live alone .
+   (ID: conversation_33)
+
+16. i live in nashville .
+   (ID: conversation_117)
+
+17. i live in an apartment .
+   (ID: conversation_135)
+
+18. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+19. i live in a house in the country .
+   (ID: conversation_98)
+
+20. i live in the city .
+   (ID: conversation_81)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 44
+
+1. I live close to the coast.
+   (ID: conversation_45_user_1)
+
+2. I live in colorado.
+   (ID: conversation_238_user_1)
+
+3. I live in the suburbs of a major city.
+   (ID: conversation_26_user_2)
+
+4. I live alone in my condo.
+   (ID: conversation_39_user_2)
+
+5. I rent an apartment.
+   (ID: conversation_12_user_2)
+
+6. I have a timeshare in mexico.
+   (ID: conversation_81_user_2)
+
+7. I live in california.
+   (ID: conversation_103_user_2)
+
+8. I own my home.
+   (ID: conversation_240_user_1)
+
+9. I live in chicago.
+   (ID: conversation_131_user_2)
+
+10. I live in the city.
+   (ID: conversation_178_user_2)
+
+11. I live by a lake.
+   (ID: conversation_84_user_1)
+
+12. I live in vermont.
+   (ID: conversation_20_user_2)
+
+13. I live in an apartment.
+   (ID: conversation_46_user_2)
+
+14. My house is located in the countryside.
+   (ID: conversation_220_user_2)
+
+15. I now live in new mexico.
+   (ID: conversation_120_user_1)
+
+16. I live in new york.
+   (ID: conversation_152_user_2)
+
+17. I live close to the coast.
+   (ID: conversation_41_user_1)
+
+18. I live in colorado.
+   (ID: conversation_145_user_2)
+
+19. I live in an apartment.
+   (ID: conversation_230_user_2)
+
+20. I own my home.
+   (ID: conversation_145_user_2)
+
+
+============================================================

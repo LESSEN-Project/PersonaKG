@@ -1,0 +1,72 @@
+Agglomerative Clustering Analysis Summary
+============================================================
+Total statements: 86137
+Vectorization method: tfidf
+Number of clusters: 50
+Analysis type: combined
+Diversity score: 0.0027 (higher is better)
+Silhouette score: 0.5070 (higher is better)
+Timestamp: 2025-05-28 15:14:15
+
+Dataset Distribution:
+  FoCus: 2500 statements
+  MPChat: 5048 statements
+  MSC: 3868 statements
+  PEC: 33497 statements
+  PER-CHAT: 34537 statements
+  PersonaChat: 2236 statements
+  SyntheticPersonaChat: 4451 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 1: 72753 statements
+  Cluster 11: 6402 statements
+  Cluster 17: 1403 statements
+  Cluster 10: 658 statements
+  Cluster 26: 589 statements
+  Cluster 40: 412 statements
+  Cluster 32: 374 statements
+  Cluster 28: 339 statements
+  Cluster 24: 319 statements
+  Cluster 3: 289 statements
+  Cluster 20: 265 statements
+  Cluster 27: 239 statements
+  Cluster 47: 204 statements
+  Cluster 21: 197 statements
+  Cluster 18: 154 statements
+  Cluster 2: 138 statements
+  Cluster 23: 135 statements
+  Cluster 0: 132 statements
+  Cluster 4: 129 statements
+  Cluster 9: 120 statements
+  Cluster 22: 115 statements
+  Cluster 29: 112 statements
+  Cluster 7: 111 statements
+  Cluster 6: 84 statements
+  Cluster 25: 75 statements
+  Cluster 14: 70 statements
+  Cluster 8: 68 statements
+  Cluster 13: 61 statements
+  Cluster 5: 53 statements
+  Cluster 12: 48 statements
+  Cluster 16: 48 statements
+  Cluster 15: 6 statements
+  Cluster 19: 4 statements
+  Cluster 34: 3 statements
+  Cluster 44: 3 statements
+  Cluster 46: 3 statements
+  Cluster 49: 3 statements
+  Cluster 30: 2 statements
+  Cluster 33: 2 statements
+  Cluster 35: 2 statements
+  Cluster 39: 2 statements
+  Cluster 41: 2 statements
+  Cluster 45: 2 statements
+  Cluster 31: 1 statements
+  Cluster 36: 1 statements
+  Cluster 37: 1 statements
+  Cluster 38: 1 statements
+  Cluster 42: 1 statements
+  Cluster 43: 1 statements
+  Cluster 48: 1 statements

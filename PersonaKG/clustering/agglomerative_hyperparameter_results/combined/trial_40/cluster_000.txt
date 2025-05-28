@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 31789
+
+Dataset distribution in this cluster:
+  FoCus: 866 (2.7%)
+  MPChat: 2021 (6.4%)
+  MSC: 1444 (4.5%)
+  PEC: 11800 (37.1%)
+  PER-CHAT: 13061 (41.1%)
+  PersonaChat: 833 (2.6%)
+  SyntheticPersonaChat: 1764 (5.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 866
+
+1. I hope to explore more of Nevada.
+   (ID: VV6OHC4AWH3L_11)
+
+2. I like the University life.
+   (ID: D449W0YW7LNU_11)
+
+3. I love Buckinghamshire.
+   (ID: JBP0INT1W707_11)
+
+4. I have been to Ireland.
+   (ID: DDUH6892W2P9_7)
+
+5. I have visited the Raj Bhavan at Chennai.
+   (ID: V3LNPA1FT8D2_11)
+
+6. I hope to see a Building in Beijing.
+   (ID: UDGAGMKQ9TQ1_11)
+
+7. I love to watch races.
+   (ID: PKTFMWPHB1E3_11)
+
+8. I hope to join the Army.
+   (ID: LCFMQMTGBUJO_7)
+
+9. I have a number plate numbered 1924.
+   (ID: QRRS2THODNM3_11)
+
+10. I would like to fish at Little Butte Creek in the summer again.
+   (ID: AN8LSF1PEYK2_11)
+
+11. I would like to visit a museum.
+   (ID: QC5LXWBDY6EM_11)
+
+12. I love to visit museum.
+   (ID: C64P8U3HDDHY_9)
+
+13. I have read the Indianapolis Star.
+   (ID: X0N9IFSJSH26_11)
+
+14. I love fishing.
+   (ID: JJVJO5DV75YG_11)
+
+15. I have the fantasy of rivers.
+   (ID: FZ7IE8MUIWRS_9)
+
+16. I am aware of Atlantic Ocean.
+   (ID: G6QWKZ4CTWVW_11)
+
+17. I have a friend from Tornoto.
+   (ID: NMEFJE64KZ1F_11)
+
+18. I would like to learn more about Gothic architecture.
+   (ID: TDUTQ7NCYJ1S_11)
+
+19. I am a architect.
+   (ID: POTYY4E7PSQF_11)
+
+20. I love River Thames.
+   (ID: XY9R2ORN3XBQ_7)
+
+
+--- MPChat ---
+Total from this dataset: 2021
+
+1. using up my schachenmayr lumio.
+   (ID: Novel_Fox)
+
+2. i made a glasses case.
+   (ID: gelimausi)
+
+3. i'm just altering the shawl pattern.
+   (ID: Crilbyte)
+
+4. my pigs will sleep better than i do!
+   (ID: BananaStand07)
+
+5. testing the baby hat i made on my kitty; he's not too thrilled!
+   (ID: chirp16)
+
+6. i'm still just getting used to tunisian crochet, but i'm mesmerized by how this washcloth worked up
+   (ID: SarahFree339)
+
+7. how am i supposed to do these chains?
+   (ID: Crilbyte)
+
+8. landlords said we couldn't have ferrets, so i created a ferret dragon!
+   (ID: VisitingCivet)
+
+9. i made some ornaments.
+   (ID: smsikking)
+
+10. this one i actually made for myself :)
+   (ID: ddizzle23)
+
+11. quick morning project to make my home more inviting.
+   (ID: Chris55730)
+
+12. it's another milo+nescafe (mocha) with milk frothed by an ikea frothing wand woooo, my best yet
+   (ID: Soggypaper_)
+
+13. i reupholstered almost the entire couch......
+   (ID: green-egg-and-ham)
+
+14. my "wtf it's 4 am" nacho platter
+   (ID: ambora)
+
+15. i embroidered the cute php elephant as a keychain.
+   (ID: gelimausi)
+
+16. the first macrame project i've ever finished!
+   (ID: lolveets)
+
+17. [i ate] bacon and pimento cheese
+   (ID: patm28)
+
+18. my fortune cookie from pei wei contained three fortunes.
+   (ID: Chris55730)
+
+19. i found another finished object that i had forgotten about earlier.
+   (ID: Moriarty58)
+
+20. i took the advice from my last weird pours and i'm seeing improvement!
+   (ID: Caserole)
+
+
+--- MSC ---
+Total from this dataset: 1444
+
+1. I am bipolar. I'm the ultimate. I'm the alpha and the omega.
+   (ID: dialog_43_speaker_1)
+
+2. I have scored ten points in one basketball game before.
+   (ID: dialog_8_speaker_2)
+
+3. I possess a death carriage.
+   (ID: dialog_5_speaker_2)
+
+4. I am a game hunter.
+   (ID: dialog_93_speaker_2)
+
+5. My spouse is a member of the military.
+   (ID: dialog_40_speaker_2)
+
+6. I used to be interested in graphics design. I went to college.
+   (ID: dialog_33_speaker_2)
+
+7. I like to read on the beach.
+   (ID: dialog_88_speaker_1)
+
+8. I'm a thrill seeker.
+   (ID: dialog_73_speaker_1)
+
+9. My daughter Bonnie is 3 and she has nightmares. I am thinking of bringing her to the doctor for her nightmares.
+   (ID: dialog_58_speaker_1)
+
+10. I am a jon snow fan.
+   (ID: dialog_66_speaker_1)
+
+11. I want to live closer to nature.
+   (ID: dialog_45_speaker_1)
+
+12. I like to go to concerts.
+   (ID: dialog_86_speaker_2)
+
+13. I live in a quiet neighborhood.
+   (ID: dialog_40_speaker_2)
+
+14. I do not have kids.
+   (ID: dialog_58_speaker_2)
+
+15. I like historical colonial books and non-fiction books.
+   (ID: dialog_55_speaker_1)
+
+16. I am a trauma doctor at Las Vegas general. I have a tough job. I just got a promotion to the chief of medicine.
+   (ID: dialog_80_speaker_1)
+
+17. Last month I was hired for my first post collegiate job.
+   (ID: dialog_48_speaker_2)
+
+18. I dislike orange vegetables from the ground.
+   (ID: dialog_72_speaker_2)
+
+19. I prefer wearing a belt.
+   (ID: dialog_31_speaker_2)
+
+20. I had several kittens.
+   (ID: dialog_19_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 11800
+
+1. i love it !
+   (ID: opalskys)
+
+2. i have one too .
+   (ID: bmeckel)
+
+3. i would pull image as needed something else would be premature optimization .
+   (ID: xcombelle)
+
+4. i know those valves can stick if dirty but the engine revs between 2000 - 3000rpm whenever i 'm idling
+   (ID: Piraticalstyle)
+
+5. i would pay to explore this
+   (ID: Aloha-Potato)
+
+6. i think he 's turning white .
+   (ID: MILeft)
+
+7. i shall work on that , thank you .
+   (ID: Shrub74)
+
+8. i 'm planning on being a ref for them .
+   (ID: aydinsevimli)
+
+9. i pictured this being said by chief wiggum .
+   (ID: JohnnyPappis)
+
+10. i m still getting over him but its been a month and a half now c :
+   (ID: bleepblorp9878)
+
+11. i guess some must experience insomnia too .
+   (ID: Ml7500)
+
+12. i hate having to force myself to be friends with her for you .
+   (ID: ItGetsAwkward)
+
+13. i 've fixed the same issue by recreating the guild .
+   (ID: harumpf)
+
+14. i ’m in texas and this is standard for anywhere a step above applebees
+   (ID: prettynicky10)
+
+15. i had no idea and i love that store so much .
+   (ID: parkleswife)
+
+16. i never even realized ?
+   (ID: freddlaren)
+
+17. i would n't put friends in .
+   (ID: kailan123456)
+
+18. i already do n't .
+   (ID: Lsmoothies)
+
+19. i do n't think fragrantica should ever be considered canon when it comes to smell - alikes and notes .
+   (ID: wooq)
+
+20. i think it 's a napping puppy .
+   (ID: CheapyPipe)
+
+
+--- PER-CHAT ---
+Total from this dataset: 13061
+
+1. i got kidnapped by a serial killer and tortured also there ' s another dream i had but it wasnt scary so much as memorable , i dreamt i had sleep paralysis and dat boi was riding towards me while suspenseful music played
+   (ID: b5e15026c378d181e66e2b38bfc245705510a727)
+
+2. many americans believe it will not improve our security relative to the cost of building and maintaining it .
+   (ID: 41a67e67cad6d49fc85ef1ed0bf4549a04d9e027)
+
+3. One of my favorite things is frogs.
+   (ID: 54d8d3056c8f47c31e118e652b57922cf96c4876)
+
+4. I own a exam.
+   (ID: a168763c82b90dc18ccbbd57533eec2e49d17dc7)
+
+5. the fly is getting a remake . oh god , why do they have to ruin the things i love
+   (ID: 84b2c69cbe8c44b78569e5e8b9af935f703ee480)
+
+6. I live in Southern California.
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+7. you were just helping them with a new years resolution of giving up soda . they are gonna be panicked anytime they ask for a large pepsi now .
+   (ID: 45768598053a5b3cdf1e6e286b99114b7acf5f3c)
+
+8. One of my favorite things is nick valentine.
+   (ID: 2731a84ac27fa3325bd3e2bf989471ffcb1456fe)
+
+9. I own a machine.
+   (ID: e1aebf37580e679f77f5038c575f4359c51af29f)
+
+10. the big dollar wheel in vegas .
+   (ID: 46ebabd043d7d3e7a17fff03489569373a3fe5d4)
+
+11. proud of you ! unfortunately i ' ve learned the hard way i can ' t control my consumption and it brings me in this deep dark spot where i ' ve pushed people away and scared people cause of the way i ' ve felt about myself under intoxication . filled with regrets but i ' m taking steps now like you to find that life worth living without spirits . thank you for inspiring me to push every day . i really love this channel so much and now i don ' t feel alone because of all the posters like you who contribute !
+   (ID: 035cdb776979e198d6824c24b5c3e7399d673eeb)
+
+12. I live in michigan.
+   (ID: 7281ac55eb2a6383df4bfcf1408cda0145e29328)
+
+13. I am selfer.
+   (ID: f67daf28a38187108da9b380f2e2f9336016c584)
+
+14. One of my favorite things is paul thomas anderson.
+   (ID: 0264eec5f9f9a43d83f3a82c46341e90961fa3b8)
+
+15. One of my favorite things is nat.
+   (ID: 5147e830e7cfa538d6990a8699ad6462b57cfb52)
+
+16. i stand by my assessment . you gave the server money you otherwise wouldn ' t have , and your intent was to convince them to vote for a particular candidate . i understand your position that it was a symbolic gesture , but i don ' t believe you can separate that out from the fact that you did give them money . fortunately , it seems i ' m in the minority on this not unusual for me , so you should have nothing to worry about .
+   (ID: b17b749ab40d1d24eba7d45337d86aeb3c5b28df)
+
+17. One of my favorite things is dan levy.
+   (ID: c0c5a7c74c41387a99afab68d3e9fe0bfab4b8b9)
+
+18. i beat this game in one night a few months back for old time ' s sake . one of the best nostalgia trips ever .
+   (ID: c378ee827fb7d26c7ea685ec1dc451bf264b0151)
+
+19. thank you , i just find it to be quite logical honestly . checking yourself in the best way you know will work to see if it ' s worth the wait , if your results were different emotionally you would know not to waste your and your so ' s time , which is better than starting the official relationship just for you to find out you don ' t really love her , now that ' s fucked up . goodluck with whatever you decide !
+   (ID: e0c81b4b90b0c79cd330827a7fe15c4ac2958b48)
+
+20. leaves party gets gunned down by the rogue for leaving lmao but really , yeah they should have the feature to give someone like digit seconds to leave before also being marked . i enjoy going rogue but i know some of my friends are like you and dont so i won ' t go rogue if i ' m with them , but you never know when you squad up with a rando .
+   (ID: dee1be637147c9065afbc159fbd3efc6ff54b847)
+
+
+--- PersonaChat ---
+Total from this dataset: 833
+
+1. i have a missing pinky toe .
+   (ID: conversation_107)
+
+2. my father was born in australia .
+   (ID: conversation_9)
+
+3. i have a wife and two kids .
+   (ID: conversation_44)
+
+4. i make and me by waiting tables .
+   (ID: conversation_21)
+
+5. i like to get involved in politics .
+   (ID: conversation_214)
+
+6. i drive a jag .
+   (ID: conversation_169)
+
+7. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+8. i ride a unicycle .
+   (ID: conversation_192)
+
+9. i am in college .
+   (ID: conversation_112)
+
+10. i like to go hunting .
+   (ID: conversation_0)
+
+11. i am argentinian .
+   (ID: conversation_59)
+
+12. i have an mba degree .
+   (ID: conversation_52)
+
+13. i like anime shows .
+   (ID: conversation_209)
+
+14. i love dogs and cats .
+   (ID: conversation_118)
+
+15. i like to go fishing .
+   (ID: conversation_124)
+
+16. i am married .
+   (ID: conversation_78)
+
+17. i lived most of my life not knowing who bob marley was .
+   (ID: conversation_229)
+
+18. my idea of flirting is to stare from a distance .
+   (ID: conversation_204)
+
+19. i like to travel .
+   (ID: conversation_166)
+
+20. my father worked for ge .
+   (ID: conversation_47)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1764
+
+1. I am east asian.
+   (ID: conversation_203_user_2)
+
+2. I work at the grocery store.
+   (ID: conversation_50_user_1)
+
+3. I do yoga three times a week.
+   (ID: conversation_108_user_2)
+
+4. I don t know why my sister in law dislikes me.
+   (ID: conversation_98_user_2)
+
+5. I am in college.
+   (ID: conversation_129_user_1)
+
+6. I ve two siblings.
+   (ID: conversation_70_user_1)
+
+7. I live in california.
+   (ID: conversation_103_user_2)
+
+8. I have a black belt in karate.
+   (ID: conversation_0_user_2)
+
+9. My favorite tv show is game of thrones.
+   (ID: conversation_165_user_2)
+
+10. I like to dance.
+   (ID: conversation_79_user_1)
+
+11. My parents live across the street from me.
+   (ID: conversation_96_user_2)
+
+12. I love animals.
+   (ID: conversation_17_user_2)
+
+13. I am an accountant.
+   (ID: conversation_226_user_2)
+
+14. I enjoy going to festivals.
+   (ID: conversation_64_user_1)
+
+15. I do not fully understand my own feelings.
+   (ID: conversation_227_user_2)
+
+16. My favorite rapper is yo gotti.
+   (ID: conversation_76_user_2)
+
+17. I am buying a house.
+   (ID: conversation_93_user_1)
+
+18. I am an orphan.
+   (ID: conversation_120_user_1)
+
+19. I live in chicago.
+   (ID: conversation_108_user_2)
+
+20. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+
+============================================================

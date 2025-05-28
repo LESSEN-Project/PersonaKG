@@ -1,0 +1,125 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 1000
+
+Dataset distribution in this cluster:
+  MSC: 1 (0.1%)
+  PEC: 2 (0.2%)
+  PER-CHAT: 989 (98.9%)
+  SyntheticPersonaChat: 8 (0.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm a male.
+   (ID: dialog_42_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i think it ’s the male counterpart for ghoul trooper .
+   (ID: TheRealAshren)
+
+2. i now live my life not as a incel , but a vocel , a voluntarily celibate male .
+   (ID: Etifaq)
+
+
+--- PER-CHAT ---
+Total from this dataset: 989
+
+1. I am a male.
+   (ID: 6eb8259d7d6b7ae101dda44ceaaf3b9edaab4fad)
+
+2. I am a male.
+   (ID: 89c3606d2dfc5d2a2da97fb49ddc1894f8bf330f)
+
+3. I am a male.
+   (ID: b7af56426174b182a97c67df12c64d320bf51d61)
+
+4. I am a male.
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
+
+5. I am a male.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+6. I am a male.
+   (ID: f14ea91df683dc236b3ffe5956871b69581e71d3)
+
+7. I am a male.
+   (ID: 337350fc54133b327ce0d6d9f385f82a2a6738cf)
+
+8. I am a male.
+   (ID: a2ca7f9e05e83928ce894848f01290dbcd0f654e)
+
+9. I am a male.
+   (ID: 3c4a38138d39bd51556bd7f8a05ba48bf283c7e6)
+
+10. I am a male.
+   (ID: 804f1bee8d4950d83d7626539cb86d46b2848fd3)
+
+11. I am a male.
+   (ID: 8ea8e4a00c3f2a64096e00bdbba0247e580cdb17)
+
+12. I am a male.
+   (ID: 3e1762624e55cdfb0929da3e1a1c438675e0c217)
+
+13. I am a male.
+   (ID: d51e2f0207b67be3748f59fc0b78f82cd1e47a1c)
+
+14. I am a male.
+   (ID: 2c1d97aa622f6ad7ec3a9aad9285dd4ec1e1f28d)
+
+15. I am a male.
+   (ID: ce0130e0736ec79181ef08a51b107514a8021d5c)
+
+16. I am a male.
+   (ID: b650c9c531ec58d468c7c1fc9b7083efc4cbca9c)
+
+17. I am a male.
+   (ID: 5218a6fd3b7d990775fbaa39249c20beea16f741)
+
+18. I am a male.
+   (ID: 18cbf1c145fcc3d10b99255dd1de8fb616ecb38f)
+
+19. I am a male.
+   (ID: 74b39a57f22c2783cb59064a6f33cd8db3d8f787)
+
+20. I am a male.
+   (ID: f3a490ceb976e7adf0cbeb213371795128597226)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I am male.
+   (ID: conversation_5_user_1)
+
+2. I am male.
+   (ID: conversation_10_user_1)
+
+3. I am male.
+   (ID: conversation_8_user_1)
+
+4. I am male.
+   (ID: conversation_6_user_1)
+
+5. I am male.
+   (ID: conversation_11_user_1)
+
+6. I am male.
+   (ID: conversation_274_user_2)
+
+7. I am male.
+   (ID: conversation_7_user_1)
+
+8. I am male.
+   (ID: conversation_9_user_1)
+
+
+============================================================

@@ -1,0 +1,96 @@
+CLUSTER 45
+============================================================
+Total statements in cluster: 186
+
+Dataset distribution in this cluster:
+  MSC: 2 (1.1%)
+  PER-CHAT: 183 (98.4%)
+  PersonaChat: 1 (0.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I am a female.
+   (ID: dialog_108_speaker_1)
+
+2. I'm female.
+   (ID: dialog_108_speaker_1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 183
+
+1. I am a female.
+   (ID: 238316960c030f561912bd63e9f572a4170f991b)
+
+2. I am a female.
+   (ID: 4d17a8a4d7907bba6d158e8a0b9c3504d69be003)
+
+3. I am a female.
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
+
+4. I am a female.
+   (ID: 4f760107331d45dfdba746f7464dec4f0f14170d)
+
+5. I am a female.
+   (ID: 68b48505d5f7a16cf14847c82fff612e6bd59090)
+
+6. I am a female.
+   (ID: e3a7bbfa5fde0a706f721c3dc5055b3a8963f79f)
+
+7. I am a female.
+   (ID: f5639f88927d467b89189ab179bb30d8a5705552)
+
+8. I am a female.
+   (ID: 3ba6725e8f1b7a123febfe8a266ec0dc4d054b65)
+
+9. I am a female.
+   (ID: 943cc5e526975c71d69ca1804666ab2f83b06a27)
+
+10. I am a female.
+   (ID: 827584bdc66e3c4749f22f0ad0a9420dc64ac2b5)
+
+11. I am a female.
+   (ID: 8b7590cb8502d6abd38b320b842aa7642186b6d8)
+
+12. I am a female.
+   (ID: 256407c5e6c8d9342d8aabf5c9c392fc179ba9f3)
+
+13. I am a female.
+   (ID: 3f4f5511095f668b3c84312b8bfeb87b30dd8f03)
+
+14. I am a female.
+   (ID: ec299e39e931c010d0d98b62058c9ccb814797dd)
+
+15. I am a female.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+16. I am a female.
+   (ID: 2988ee1cd7a2bcf8e2d215c795ee2d06a985665a)
+
+17. I am a female.
+   (ID: 28ecb35c880034ee5298d0c4abb71cabdafd1e4f)
+
+18. I am a female.
+   (ID: 80bb9445ee518d7503eeef1b2c418d38a6e936e9)
+
+19. I am a female.
+   (ID: 2069df24de0e78e4765ca507edb903ca074ac2d8)
+
+20. I am a female.
+   (ID: 777e86703ab013526ea933a9a9fcc97d1fbd6a78)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'm a female .
+   (ID: conversation_121)
+
+
+============================================================

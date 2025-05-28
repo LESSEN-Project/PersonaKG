@@ -1,0 +1,115 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 49
+
+Dataset distribution in this cluster:
+  MSC: 1 (2.0%)
+  PEC: 43 (87.8%)
+  PER-CHAT: 2 (4.1%)
+  PersonaChat: 1 (2.0%)
+  SyntheticPersonaChat: 2 (4.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I believe in the supernatural.
+   (ID: dialog_58_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 43
+
+1. i believe it .
+   (ID: I_am_not_a_Taco)
+
+2. i do n't believe you
+   (ID: ProJokeExplainer)
+
+3. i ’d like to believe in both of these at the same time
+   (ID: doctor_parcival)
+
+4. i believe you .
+   (ID: Evref)
+
+5. i believe it !
+   (ID: jay456)
+
+6. i ’d have to see this to believe it .
+   (ID: Dustin_Bromain)
+
+7. i believe your right !
+   (ID: Noimnotsally)
+
+8. i believe you can do it !
+   (ID: boo3114)
+
+9. i believe you are exactly right .
+   (ID: vikkivinegar)
+
+10. i believe it !
+   (ID: meteoriteminer)
+
+11. i 'd like to believe you .
+   (ID: Nolanoscopy)
+
+12. i believe there 's a weekly redditor meetup in downtown denver .
+   (ID: Piraticalstyle)
+
+13. i believe so .
+   (ID: AgedTwenties)
+
+14. i believe in you !
+   (ID: BlueSuedeBag)
+
+15. i believe in you both !
+   (ID: JacksChocolateCake)
+
+16. i believe you .
+   (ID: Bathysphere710)
+
+17. i believe that is [ pavel petel .
+   (ID: silentpower)
+
+18. i believe it was in a lot of aerosols , not just hairspray .
+   (ID: exotics)
+
+19. i believe they are out of republicans .
+   (ID: vikkivinegar)
+
+20. i do n’t believe you .
+   (ID: Heydawgg)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. because i believe it
+   (ID: 2264050ea82d909575d6593daf8246fa8655751e)
+
+2. you believe in those ?
+   (ID: 726c36ce13fa631676ed5053f62b0f5f7b61eb5e)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i do not believe in love .
+   (ID: conversation_190)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I believe in leprechauns.
+   (ID: conversation_226_user_2)
+
+2. I do not believe in love.
+   (ID: conversation_229_user_1)
+
+
+============================================================

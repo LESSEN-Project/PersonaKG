@@ -1,0 +1,347 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 206
+
+Dataset distribution in this cluster:
+  FoCus: 5 (2.4%)
+  MPChat: 4 (1.9%)
+  MSC: 46 (22.3%)
+  PEC: 25 (12.1%)
+  PER-CHAT: 11 (5.3%)
+  PersonaChat: 40 (19.4%)
+  SyntheticPersonaChat: 75 (36.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 5
+
+1. I work in a business district.
+   (ID: 9IUBDDZBGMIC_11)
+
+2. I Work at a Stadium.
+   (ID: NAJC0A4P5P7S_11)
+
+3. I love the work done by Rajiv Gandhi.
+   (ID: EMXI5E4LUV20_11)
+
+4. I work in business.
+   (ID: STDMXJC7HTUG_11)
+
+5. I work in a cotton plantation.
+   (ID: SF062658I1IO_7)
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. first thing i do when i get off work!
+   (ID: i_like_it_raw_)
+
+2. here’s some of my work.
+   (ID: Lookingforearrings2)
+
+3. holds my hardware and supplies for work
+   (ID: switchbladesally)
+
+4. my shiba katsumi, everyday when i get home from work.
+   (ID: myowndevo)
+
+
+--- MSC ---
+Total from this dataset: 46
+
+1. I work outside on taxis.
+   (ID: dialog_139_speaker_1)
+
+2. My work is in leadership at safeway.
+   (ID: dialog_15_speaker_1)
+
+3. I work in agriculture.
+   (ID: dialog_157_speaker_2)
+
+4. I work for Google.
+   (ID: dialog_144_speaker_1)
+
+5. I work at the smoothie shop.
+   (ID: dialog_12_speaker_2)
+
+6. I work at Target. My work is laying people off.
+   (ID: dialog_160_speaker_2)
+
+7. I love to work on my garden.
+   (ID: dialog_37_speaker_1)
+
+8. I wear a uniform at work.
+   (ID: dialog_157_speaker_1)
+
+9. I work in an office.
+   (ID: dialog_8_speaker_2)
+
+10. I work out.
+   (ID: dialog_16_speaker_2)
+
+11. I work with computers.
+   (ID: dialog_179_speaker_2)
+
+12. I work in a restaurant.
+   (ID: dialog_59_speaker_1)
+
+13. I work outside on taxis.
+   (ID: dialog_176_speaker_2)
+
+14. I work hard at my job, but am more of a dauber than anything.
+   (ID: dialog_111_speaker_1)
+
+15. I love to work on my garden.
+   (ID: dialog_180_speaker_1)
+
+16. I work at eureka.
+   (ID: dialog_112_speaker_2)
+
+17. I work at Amazon and am too old to work.
+   (ID: dialog_23_speaker_2)
+
+18. I work in technology.
+   (ID: dialog_144_speaker_1)
+
+19. I work at Google.
+   (ID: dialog_122_speaker_2)
+
+20. I work as a infant assistant teacher at a daycare.
+   (ID: dialog_119_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 25
+
+1. i work to live .
+   (ID: JaZepi)
+
+2. i 'm off to work now !
+   (ID: exotics)
+
+3. i can work with this .
+   (ID: RogueCackle)
+
+4. i 'm at work so i put the captions on .
+   (ID: SamuelStephenBono)
+
+5. i 'm at work .
+   (ID: mmaswadeh)
+
+6. i love your work .
+   (ID: ShamPow20)
+
+7. i 'm trying to goof off at work !
+   (ID: pissin_in_the_wind)
+
+8. i work my butt off and have been blessed abundantly .
+   (ID: sean__christian)
+
+9. i too work in this industry , and particularily with moodle .
+   (ID: foldor)
+
+10. i will work on consistency more .
+   (ID: Beachsurfer)
+
+11. i bet * you * do n't work .
+   (ID: Nolanoscopy)
+
+12. i 'm glad she 's well enough to work !
+   (ID: Sarahthelizard)
+
+13. i work two jobs too .
+   (ID: SamuelStephenBono)
+
+14. i do clerical work for a radiological facility !
+   (ID: howfuckedareyou)
+
+15. i ca n't even make vicky work with 2 people .
+   (ID: Shrub74)
+
+16. i am in the same line of work and can sympathize .
+   (ID: futurespice)
+
+17. i love it , tell her to keep the good work up .
+   (ID: notjawn)
+
+18. i 'm on the redline headed to work .
+   (ID: doctor_parcival)
+
+19. i feel it the wiser , since i m at work .
+   (ID: randominternetdood)
+
+20. i love detective work
+   (ID: windowcircle)
+
+
+--- PER-CHAT ---
+Total from this dataset: 11
+
+1. music , work , booze
+   (ID: 752bae2818e8a99ea6b8b00277a3811570a73708)
+
+2. do more work to avoid the work they are given .
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+3. uhhh . what kind of work do you do ?
+   (ID: d3491a90d756046acac8c3053e9e99c3e6c231f9)
+
+4. i work for gamestop , so that alone should tell you enough .
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
+
+5. what do you work as ?
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+6. not all condoms work , so why should this
+   (ID: 38a1a6eac84444872020421e5880d0a28cd981e1)
+
+7. I own a work friend.
+   (ID: 44544d02ee07c96b8d593f9252059c899c993d61)
+
+8. i only work because you have to these days .
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+9. i ' m at work but i ' m not actually working .
+   (ID: 0e19a35c711a9c78f764d5268c09b16559cdadbf)
+
+10. having a coffee at work . somehow it makes it feel less like work .
+   (ID: 13a80daa16b50a35515cc7dd9a2f892770b9695a)
+
+11. do you work on commission ? we will buy all the things .
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
+
+
+--- PersonaChat ---
+Total from this dataset: 40
+
+1. i work as an interior designer .
+   (ID: conversation_74)
+
+2. i work as a secretary at an insurance agency .
+   (ID: conversation_458)
+
+3. i work as a computer programmer .
+   (ID: conversation_376)
+
+4. i work many hours .
+   (ID: conversation_8)
+
+5. i work at a smoothie shop .
+   (ID: conversation_225)
+
+6. i work as a janitor .
+   (ID: conversation_194)
+
+7. i wear a uniform to work .
+   (ID: conversation_448)
+
+8. i work as a bartender .
+   (ID: conversation_36)
+
+9. i work for a newspaper .
+   (ID: conversation_371)
+
+10. i work for a marketing agency .
+   (ID: conversation_289)
+
+11. i work 2 jobs .
+   (ID: conversation_326)
+
+12. i work at mcdonalds .
+   (ID: conversation_207)
+
+13. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_452)
+
+14. i work as a meeting coordinator .
+   (ID: conversation_436)
+
+15. i work at a coffee shop .
+   (ID: conversation_402)
+
+16. i work as a contractor for a cab company .
+   (ID: conversation_176)
+
+17. i work as an electrician .
+   (ID: conversation_244)
+
+18. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+19. i work at amazon .
+   (ID: conversation_382)
+
+20. i work as a barista .
+   (ID: conversation_151)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 75
+
+1. I do not work.
+   (ID: conversation_425_user_1)
+
+2. I work for peta.
+   (ID: conversation_408_user_2)
+
+3. I work as a contractor for a cab company.
+   (ID: conversation_233_user_1)
+
+4. I work as a barista.
+   (ID: conversation_211_user_1)
+
+5. I work in tv.
+   (ID: conversation_348_user_1)
+
+6. I work two jobs as a cashier.
+   (ID: conversation_197_user_2)
+
+7. I work as an electrician.
+   (ID: conversation_436_user_1)
+
+8. I work too much.
+   (ID: conversation_396_user_2)
+
+9. I work in retail.
+   (ID: conversation_309_user_1)
+
+10. I work in accounting.
+   (ID: conversation_412_user_2)
+
+11. I work as a veterinarian s assistant.
+   (ID: conversation_146_user_1)
+
+12. I work as an interior designer.
+   (ID: conversation_86_user_1)
+
+13. I work as a barista.
+   (ID: conversation_215_user_1)
+
+14. I work in tv.
+   (ID: conversation_350_user_1)
+
+15. I work at a restaurant as waiter.
+   (ID: conversation_102_user_1)
+
+16. I work as an interior designer.
+   (ID: conversation_88_user_1)
+
+17. I work in a diner.
+   (ID: conversation_86_user_2)
+
+18. I work as a barista.
+   (ID: conversation_217_user_1)
+
+19. I work in public relations.
+   (ID: conversation_423_user_2)
+
+20. I work at a bookstore.
+   (ID: conversation_240_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 85000
+
+Dataset distribution in this cluster:
+  FoCus: 2499 (2.9%)
+  MPChat: 5048 (5.9%)
+  MSC: 3865 (4.5%)
+  PEC: 33478 (39.4%)
+  PER-CHAT: 33425 (39.3%)
+  PersonaChat: 2234 (2.6%)
+  SyntheticPersonaChat: 4451 (5.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2499
+
+1. I am writing a book about WWI.
+   (ID: DJ4IA2ZGTGQW_11)
+
+2. I have heard about Thrissur pooram.
+   (ID: CJWI83QV42AK_11)
+
+3. I have not been to Bristol.
+   (ID: DMD9S9COJOIA_7)
+
+4. I would like to go to England.
+   (ID: BK0F3JSD41JJ_11)
+
+5. I like going to the zoo.
+   (ID: QLDCXP7YJP9Q_11)
+
+6. I like dolphins.
+   (ID: LH031RZU9PAS_11)
+
+7. I am going to take a trip to Bengaluru in India.
+   (ID: N4W8V4TZG4XD_11)
+
+8. I'm interested in history.
+   (ID: Y2QT7AAK6CLK_11)
+
+9. I wish to live in England for rest of my life.
+   (ID: UIC15IVGSRBN_11)
+
+10. I love doing different activities.
+   (ID: LYKL0NXYUSDG_11)
+
+11. I would like to fish at the Raystown Lake.
+   (ID: JJVJO5DV75YG_11)
+
+12. I am fond of diving.
+   (ID: F8WHQ8QX5MHB_7)
+
+13. I am not very fond of insurance companies.
+   (ID: VHZMEJDEHGGQ_11)
+
+14. I love Gothic architecture.
+   (ID: 7KD1MTP5A7ZD_11)
+
+15. My favourite band is The Beatles.
+   (ID: UHZ1K434LZ46_11)
+
+16. I would like to visit chicago and chicago park district.
+   (ID: QRRS2THODNM3_11)
+
+17. I like to live in the City of London.
+   (ID: XY9R2ORN3XBQ_7)
+
+18. I wish to visit Maharashtra.
+   (ID: A0Z3UWA0T3EK_9)
+
+19. I'd like to see a beautiful view.
+   (ID: 8BSRL0F5WC2L_11)
+
+20. I wish to visit Norway.
+   (ID: NRWCDZW051T6_11)
+
+
+--- MPChat ---
+Total from this dataset: 5048
+
+1. having finished the seal, i needed to make something else on the commute.
+   (ID: pokegirl93a)
+
+2. i wanted something simple and cheery, so i tried buttercream painting and i think it worked out well!
+   (ID: MafHoney)
+
+3. projects i started last night.
+   (ID: krichmondRPH)
+
+4. making progress on my wedding dress!
+   (ID: BuggaloWings)
+
+5. finally reached my goal of having one :d
+   (ID: switchbladesally)
+
+6. my mom makes some awwesome ceramics
+   (ID: Im_The_Government)
+
+7. here is my homemade dollhouse.
+   (ID: gelimausi)
+
+8. i love classic knits
+   (ID: zonumnire)
+
+9. plants look great and i have a new tiny painting for my wall
+   (ID: switchbladesally)
+
+10. [i ate] 1/2 lb wagyu burger with bacon, maine lobster, brie and a truffle aioli.
+   (ID: patm28)
+
+11. what’s going on with my cactus?
+   (ID: Grooventooven)
+
+12. i assume these are aphids that are ruining my tomatoes.
+   (ID: opie2)
+
+13. tiny unicorn made with my new tiny hooks
+   (ID: Sophie74656)
+
+14. i made my uncle a chocolate cake with caramel, ganache and buttercream filling.
+   (ID: SugarHighBakedGoods)
+
+15. i made hungry jacks angriest whopper with carolina reaper baked in the bub and sauce.
+   (ID: dadcooksstufs)
+
+16. i like to put cute animals in my coffee!
+   (ID: av929)
+
+17. here's my cat t-bone, just getting settled in under the covers.
+   (ID: TenuredHickory)
+
+18. first thing i saw coming out the door this morning....
+   (ID: opie2)
+
+19. first thing i do when i get off work!
+   (ID: i_like_it_raw_)
+
+20. what dimensions should i use to make this into a scarf using the whole spool?
+   (ID: Crilbyte)
+
+
+--- MSC ---
+Total from this dataset: 3865
+
+1. I am majoring in business at university.  I work at a part-time job.
+   (ID: dialog_7_speaker_2)
+
+2. I work at Churchill Museum in Orlando.
+   (ID: dialog_32_speaker_2)
+
+3. My favorite food is spagetti and meatballs
+   (ID: dialog_37_speaker_2)
+
+4. I wish to be a rock star.
+   (ID: dialog_44_speaker_2)
+
+5. My wife and I like watching movies. I like making fun of my wife for her taste in movies. My wife has no taste in movies but she loves Scarlett Johansson.
+   (ID: dialog_15_speaker_2)
+
+6. I like learning about maintenance of mechanical systems. I like to be able to do my own maintenance.
+   (ID: dialog_176_speaker_2)
+
+7. I like hip hop.
+   (ID: dialog_74_speaker_1)
+
+8. Boating is one of my favorite activities.
+   (ID: dialog_80_speaker_1)
+
+9. I wish to join education.
+   (ID: dialog_22_speaker_2)
+
+10. I need to get a tune up.
+   (ID: dialog_145_speaker_1)
+
+11. Fantasy tv shows are my favorite.
+   (ID: dialog_53_speaker_1)
+
+12. I enjoy jogging.
+   (ID: dialog_56_speaker_1)
+
+13. I have painted some portraits.
+   (ID: dialog_153_speaker_1)
+
+14. I live in Argentina. I live with horses on a horse ranch. I have horses named Max, Rodney and Finn.
+   (ID: dialog_59_speaker_2)
+
+15. I've been in the country all my life.
+   (ID: dialog_42_speaker_2)
+
+16. I run a busy restaurant. My theme of restaurant does not fit with Greek recipes.
+   (ID: dialog_189_speaker_2)
+
+17. My career is that of a physical performer.
+   (ID: dialog_10_speaker_2)
+
+18. I love the color red.  I like to jog.
+   (ID: dialog_77_speaker_2)
+
+19. I want to get back into graphic design, but I do not have the time.
+   (ID: dialog_33_speaker_2)
+
+20. I have been married for 20 years. I volunteer with animals.
+   (ID: dialog_189_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 33478
+
+1. i really should work on that .
+   (ID: windowcircle)
+
+2. i ’m still sad .
+   (ID: iToaditSo)
+
+3. i agree , that dress is amazing !
+   (ID: kitcatpaints)
+
+4. i 'll look it up !
+   (ID: Darth_Waiter)
+
+5. i ’m sorry everyone !
+   (ID: Atlmama)
+
+6. i like how their nipples are ' kissing ' , it 's kind of cute
+   (ID: sillylionface)
+
+7. i came here to agree !
+   (ID: juls2587)
+
+8. i would n't have even guessed that .
+   (ID: Lifes6Midnight)
+
+9. i am with you on that .........
+   (ID: dawgreddit2014)
+
+10. i had a friend who always wanted to watch elf over the holidays .
+   (ID: sbsb27)
+
+11. i would really like to grab this bike asap before someone else takes the deal .
+   (ID: pandachestpress)
+
+12. i hope you thoroughly enjoy your line of work , you deserve it .
+   (ID: EvieAugust)
+
+13. i 'll get my coat .
+   (ID: bondo84)
+
+14. i understand what you mean .
+   (ID: Ashex)
+
+15. i find myself thinking that when i watch black mirror .
+   (ID: baconnaire)
+
+16. i think king also had a double - double , too !
+   (ID: JacredCat)
+
+17. i am starting a synthetic urine business .
+   (ID: jwshapir)
+
+18. i think i just preferred the lotr series over amateur art work
+   (ID: Captain_-H)
+
+19. i mean .... he got in , right ?
+   (ID: ludaa)
+
+20. i still play morrowind :p and its a lot of fun ^.^ tons of mods and all
+   (ID: GitFloowSnaake)
+
+
+--- PER-CHAT ---
+Total from this dataset: 33425
+
+1. I am a male.
+   (ID: 8a3698ce1bb32ad286b9d5063f6279b8c23a8f14)
+
+2. this is one of those people new to tf2 who thought they would like to share a video with u , so lower those pitchforks , or just a kid who wants karma , in that case , shower him in downvotes
+   (ID: 5a485308ca6e36eb17d7b0fc321fcf7695f3af53)
+
+3. think the quotes messed up , don ' t know if that ' s a mistake or not .
+   (ID: 31010e05529816820e206497e04c189d0c81c647)
+
+4. I live in hong kong.
+   (ID: 2731a84ac27fa3325bd3e2bf989471ffcb1456fe)
+
+5. I live in fort worth.
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+6. you probably suck as a parent if you feel that way
+   (ID: 4f1b65a581332b9d19507ccf0e921d0967e013e7)
+
+7. I live in same zone.
+   (ID: 2904e4959568457dd43970d8388e42064d7c7d34)
+
+8. whoa . x post to snowwhites . i think that ' s the name of the subreddit . they ' d appreciate you there too
+   (ID: dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e)
+
+9. I own a core.
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+10. One of my favorite things is charts.
+   (ID: e978c4c5dd931b8985b65369abe1ef855c833aa3)
+
+11. I am a male.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+12. the same kind from digit ?
+   (ID: 9dc145263dd1a50db0f9af555000e486f0939a54)
+
+13. i qas born in ' digit and i think it was a good thing to grow up not having the electronic distractions . i think as adults when we say i want to give my kids what i never had they don ' t build that character trait you value in yourself .
+   (ID: 37dcb77e38bb95527b0376694dc5852e5c3012eb)
+
+14. One of my favorite things is beathard.
+   (ID: 7ed1ff576cc7dc77750ed5f15461eb3ccdb52a7a)
+
+15. I own a favourite.
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+16. taking out a bunch of other while you do it ? many less human
+   (ID: 000804102a722a64dab51502693ae73a9773ff5c)
+
+17. i think it was like digit days when i was around the age of digit or digit in the summer . i really didn  t care lol
+   (ID: d9e6e1ecc09dc9affbcc8ccb0191ff241370a782)
+
+18. I am a female.
+   (ID: d4912bd11a6aaa98c91794eda03e9fafdfcf5c43)
+
+19. One of my favorite things is power tools.
+   (ID: 0d3d136fd15476f8c62c2f90566b0d8af0c2caca)
+
+20. One of my favorite things is feeling tall.
+   (ID: 91fce15f80cee843edc2c92559e78e027c94f5d0)
+
+
+--- PersonaChat ---
+Total from this dataset: 2234
+
+1. i love sushi .
+   (ID: conversation_387)
+
+2. i eat mainly chinese food .
+   (ID: conversation_271)
+
+3. i like to party .
+   (ID: conversation_7)
+
+4. i'm a big sports fan .
+   (ID: conversation_214)
+
+5. i live in colorado .
+   (ID: conversation_52)
+
+6. my parents don't know i am gay .
+   (ID: conversation_4)
+
+7. my dog is my best friend .
+   (ID: conversation_305)
+
+8. i just got a new sweater .
+   (ID: conversation_290)
+
+9. i'm the youngest of 3 .
+   (ID: conversation_352)
+
+10. i'm a baker .
+   (ID: conversation_161)
+
+11. my passion is writing .
+   (ID: conversation_371)
+
+12. i love to dance .
+   (ID: conversation_65)
+
+13. my father was born in australia .
+   (ID: conversation_38)
+
+14. my father is a school teacher , he teaches middle school .
+   (ID: conversation_293)
+
+15. i still live with my parents .
+   (ID: conversation_446)
+
+16. i love ergonomic keyboards and chairs .
+   (ID: conversation_385)
+
+17. i play the piano .
+   (ID: conversation_471)
+
+18. on weekends i like to go hiking .
+   (ID: conversation_48)
+
+19. i am a strong woman .
+   (ID: conversation_140)
+
+20. i've a wife and two kids back in the states .
+   (ID: conversation_273)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4451
+
+1. I live in chicago.
+   (ID: conversation_131_user_2)
+
+2. We will be traveling to niagra falls for our honeymoon.
+   (ID: conversation_469_user_2)
+
+3. I like to read horror novels.
+   (ID: conversation_449_user_1)
+
+4. I live alone.
+   (ID: conversation_290_user_1)
+
+5. I live to not disappoint my loved ones.
+   (ID: conversation_10_user_1)
+
+6. I always seem to be losing things , most recently , my mind.
+   (ID: conversation_18_user_2)
+
+7. I have 5 kids.
+   (ID: conversation_458_user_1)
+
+8. I enjoy cooking for people.
+   (ID: conversation_305_user_2)
+
+9. I know karate.
+   (ID: conversation_451_user_1)
+
+10. I love the chainsmokers.
+   (ID: conversation_299_user_2)
+
+11. I am trying to build my online business.
+   (ID: conversation_238_user_2)
+
+12. My favorite singer is britney spears.
+   (ID: conversation_311_user_1)
+
+13. I usually go to bed late.
+   (ID: conversation_489_user_1)
+
+14. I am a very funny woman.
+   (ID: conversation_323_user_1)
+
+15. I start an internship in engineering later this year.
+   (ID: conversation_82_user_2)
+
+16. I am a fruitarian.
+   (ID: conversation_123_user_2)
+
+17. I am doing financial business now.
+   (ID: conversation_486_user_2)
+
+18. I work as a vet.
+   (ID: conversation_197_user_1)
+
+19. I am a vegan.
+   (ID: conversation_210_user_1)
+
+20. I m not very tall.
+   (ID: conversation_71_user_1)
+
+
+============================================================

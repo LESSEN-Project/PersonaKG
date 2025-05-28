@@ -1,0 +1,133 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 2697
+
+Dataset distribution in this cluster:
+  MSC: 2 (0.1%)
+  PEC: 2 (0.1%)
+  PER-CHAT: 2685 (99.6%)
+  PersonaChat: 1 (0.0%)
+  SyntheticPersonaChat: 7 (0.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I obsess over things.
+   (ID: dialog_79_speaker_1)
+
+2. I obsess over things
+   (ID: dialog_79_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i would n't do any of these things .
+   (ID: GetItTogether)
+
+2. i do neither of these things .
+   (ID: mbw1960)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2685
+
+1. One of my favorite things is animal husbandry.
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+
+2. One of my favorite things is torchic.
+   (ID: 3f03e19f839d6382fd2b368797fa9feed1073b58)
+
+3. One of my favorite things is chess.
+   (ID: 93aef5ab9bcfb13e4085ecbd6b6948845a9ec03b)
+
+4. One of my favorite things is piercings.
+   (ID: d9ec7752117a31823171b7cfc56b1cf267be53df)
+
+5. One of my favorite things is red dwarf.
+   (ID: 2ac4d2cea574e655d7fdb1ab9b4886989929ca96)
+
+6. One of my favorite things is candy.
+   (ID: 404d4f663681fcf738d043296148ae4de655b22b)
+
+7. One of my favorite things is chemistry.
+   (ID: c1af2a10f968ba6f52d825dbf8fc9b8210db72ba)
+
+8. One of my favorite things is leshies.
+   (ID: 4972a31c1a3df007d761e27a613a3b6a99c3a0ca)
+
+9. One of my favorite things is hentai.
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+10. One of my favorite things is football.
+   (ID: 4420123abde71e42df266171d2bcb8a90afeed93)
+
+11. One of my favorite things is bill wurtz.
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+12. One of my favorite things is peppermint.
+   (ID: f296ca909e75f5e7a28f054f4937f3c6eccb6a56)
+
+13. One of my favorite things is squirtle.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+14. One of my favorite things is attainable goals.
+   (ID: b5f9b695867ef3b560a4fe7610f75e43b62809f6)
+
+15. One of my favorite things is birds.
+   (ID: a4eb94a9fe8ebabb780c319cc7d3f552eb79625e)
+
+16. One of my favorite things is ehh.
+   (ID: d34c3e58ec43e53b7d6bfdd857ddcfa727257f80)
+
+17. One of my favorite things is idkhow.
+   (ID: 88279b92dca36b3b3c236d960135a2afe2e68b33)
+
+18. One of my favorite things is jb.
+   (ID: 650ba9cdaca39ad1c1fe5e6348b11afb4d8e7a0f)
+
+19. One of my favorite things is majority of.
+   (ID: 5df8f31d7e0521d2306b8c923ad3cbb6e96e8d04)
+
+20. One of my favorite things is stardew valley.
+   (ID: 650ba9cdaca39ad1c1fe5e6348b11afb4d8e7a0f)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. My favorite drink is iced coffee.
+   (ID: conversation_87_user_2)
+
+2. My favorite drink is chocolate milk.
+   (ID: conversation_4_user_1)
+
+3. My favorite drink is dr pepper.
+   (ID: conversation_92_user_2)
+
+4. My favorite drink is caramel cappuccino.
+   (ID: conversation_96_user_2)
+
+5. My favorite drink is iced coffee.
+   (ID: conversation_0_user_2)
+
+6. My favorite drink is dr pepper.
+   (ID: conversation_182_user_1)
+
+7. My favorite drink is dr pepper.
+   (ID: conversation_183_user_1)
+
+
+============================================================

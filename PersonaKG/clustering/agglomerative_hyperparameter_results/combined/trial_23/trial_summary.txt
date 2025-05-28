@@ -1,0 +1,23 @@
+==================================================
+AGGLOMERATIVE CLUSTERING TRIAL SUMMARY
+==================================================
+
+Trial Directory: clustering/agglomerative_hyperparameter_results/combined/trial_23
+Timestamp: 2025-05-28 15:59:27
+
+HYPERPARAMETERS:
+Clustering Mode: combined
+Vectorization Method: dense
+Sample Size: 350
+Number of Clusters: 14
+Linkage: single
+Distance Metric: euclidean
+PCA Components: 48
+
+RESULTS:
+
+Combined:
+  - Total Statements: 61499
+  - Number of Clusters: 14
+  - Diversity Score: 0.0272
+  - Silhouette Score: -0.0676

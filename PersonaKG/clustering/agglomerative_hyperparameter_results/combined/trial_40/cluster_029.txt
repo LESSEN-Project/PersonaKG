@@ -1,0 +1,206 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 149
+
+Dataset distribution in this cluster:
+  FoCus: 1 (0.7%)
+  MPChat: 2 (1.3%)
+  MSC: 3 (2.0%)
+  PEC: 14 (9.4%)
+  PER-CHAT: 116 (77.9%)
+  PersonaChat: 6 (4.0%)
+  SyntheticPersonaChat: 7 (4.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have a brother who is passionate about birds and ornithology.
+   (ID: A06HPOO7OWPE_11)
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. my little brother observing the vietnam vet memorial in washinon d.c.
+   (ID: Caserole)
+
+2. here's two scarves i made for my mom / brother for xmas.
+   (ID: lolveets)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I have 4 siblings: brothers and sisters. My brother got engaged and plans to marry next year.
+   (ID: dialog_42_speaker_1)
+
+2. My younger brother plays cod.
+   (ID: dialog_67_speaker_2)
+
+3. I live with my brother
+   (ID: dialog_46_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 14
+
+1. i want to be like your brother .
+   (ID: Takumi-Fujiwara)
+
+2. i 'm white and my brother 's paki .
+   (ID: Shrub74)
+
+3. i 'm with you brother .
+   (ID: apnudd)
+
+4. i 'm so glad to hear your brother is ok .
+   (ID: Sabiola)
+
+5. i 'm glad he 's alright
+   (ID: Captain_-H)
+
+6. i can imagine myself messing with my brother in - law 's printer like this ... hmmm
+   (ID: mmaswadeh)
+
+7. i 'm so glad your brother is there for you and you got support from your school too !
+   (ID: kitcatpaints)
+
+8. i think you cropped your gif wrong there brother
+   (ID: sircucumbers)
+
+9. i definitely think he is the hotter brother .
+   (ID: Mende)
+
+10. i ’ve been enjoying it a lot and so has my brother who has a ps4 of his own .
+   (ID: RogueCackle)
+
+11. i was debating over that one or the nfl brother !
+   (ID: LabeledAsALunatic)
+
+12. i am the same way brother .
+   (ID: iToaditSo)
+
+13. i did a doubletake because my mom dressed my brother just like that for halloween one year !
+   (ID: teriaki)
+
+14. i never had a teddy bear , but my younger brother did .
+   (ID: teriaki)
+
+
+--- PER-CHAT ---
+Total from this dataset: 116
+
+1. I have a brother in my family.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+2. I have a brother in my family.
+   (ID: b650c9c531ec58d468c7c1fc9b7083efc4cbca9c)
+
+3. I have a brother in my family.
+   (ID: e74c4268e9e1c5f9cadf933981b55c5a5aa0d1f2)
+
+4. I have a brother in my family.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+5. I have a brother in my family.
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+6. I have a brother in my family.
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+
+7. how do we know he  s not his brother ? already watcher the finale
+   (ID: c0f309bee7152ab458da8ec03fbb1e17fa2876cd)
+
+8. I have a brother in my family.
+   (ID: 74058c90ada3aae7a59703064acbf3ced38f3681)
+
+9. I have a brother in my family.
+   (ID: ce5016a49c41770ec711f4758a362203587f841e)
+
+10. I have a brother in my family.
+   (ID: 61d850113b440da97216a14cfd8a5509352c72b2)
+
+11. I have a brother in my family.
+   (ID: a80b8bc356414690d849369456d68876c95d5518)
+
+12. I have a brother in my family.
+   (ID: f7356e924b370675e942b29b9c2184dc895ea5b7)
+
+13. I have a brother in my family.
+   (ID: cb830ff94bb369e5db655e15ee074f392a52c14f)
+
+14. I have a brother in my family.
+   (ID: 9c91f42953bc8f6d2f718503a1924734b9da6acc)
+
+15. I have a brother in my family.
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+16. I have a brother in my family.
+   (ID: 4167b7bc7d40ac86ca6b492ac0bbaefa992711f6)
+
+17. I have a brother in my family.
+   (ID: 5a485308ca6e36eb17d7b0fc321fcf7695f3af53)
+
+18. I have a brother in my family.
+   (ID: 85ac769b0cb349e567cb91e8109645bd1ac28b9f)
+
+19. I have a brother in my family.
+   (ID: f8d48136e1ccbc739d4b7fb8db1e8f668422b145)
+
+20. I have a brother in my family.
+   (ID: de62a0a330b0a7ca76d55a6702dcae5baf1c3cae)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i have an older brother .
+   (ID: conversation_81)
+
+2. my brother raised me after our parents died .
+   (ID: conversation_232)
+
+3. i've a twin brother .
+   (ID: conversation_57)
+
+4. my brother is in a metal band and travels the world .
+   (ID: conversation_22)
+
+5. my brother is currently couch surfing at my house .
+   (ID: conversation_46)
+
+6. my brother is in the army .
+   (ID: conversation_99)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. My brother is in the army.
+   (ID: conversation_130_user_2)
+
+2. My twin brother and i share an apartment.
+   (ID: conversation_221_user_2)
+
+3. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+4. My brother used to be in the navy.
+   (ID: conversation_204_user_1)
+
+5. My favorite band is the avert brother.
+   (ID: conversation_209_user_2)
+
+6. I have a twin brother.
+   (ID: conversation_19_user_2)
+
+7. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+
+============================================================

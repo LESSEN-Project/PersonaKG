@@ -1,0 +1,398 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 768
+
+Dataset distribution in this cluster:
+  FoCus: 12 (1.6%)
+  MPChat: 5 (0.7%)
+  MSC: 92 (12.0%)
+  PEC: 224 (29.2%)
+  PER-CHAT: 268 (34.9%)
+  PersonaChat: 55 (7.2%)
+  SyntheticPersonaChat: 112 (14.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 12
+
+1. My favourite genre is Classical.
+   (ID: X45C380V98U8_9)
+
+2. My favourite band is The Beatles.
+   (ID: UHZ1K434LZ46_11)
+
+3. I like rap music.
+   (ID: MV4DPBGX0OB5_11)
+
+4. I love music.
+   (ID: JTUKE03HZYSY_11)
+
+5. I'm interested in hip-hop culture.
+   (ID: MV4DPBGX0OB5_11)
+
+6. I like jazz music.
+   (ID: RUXEW8EYORSZ_11)
+
+7. I am a high school music teacher.
+   (ID: RUXEW8EYORSZ_11)
+
+8. I like The Rolling Stones.
+   (ID: GHAH3LR3KR67_11)
+
+9. I like Glockner Group.
+   (ID: YLLQOXHD6MZC_7)
+
+10. I want to watch films.
+   (ID: JBP0INT1W707_11)
+
+11. My favourite composer is Bach.
+   (ID: X45C380V98U8_9)
+
+12. I like Uzal Girard Ent.
+   (ID: TBZIWSGJCM17_11)
+
+
+--- MPChat ---
+Total from this dataset: 5
+
+1. can someone help me identify my new friends?
+   (ID: gxnelson)
+
+2. they're a k-pop band i'm in love with
+   (ID: batman1227)
+
+3. "sweat it out" the best burger i have ever had
+   (ID: xxHikari)
+
+4. yes, my music taste is that bad.
+   (ID: RaeADropOfGoldenSun)
+
+5. my favorite handwriting fonts that are actually ok to write long stuff with :)
+   (ID: green-egg-and-ham)
+
+
+--- MSC ---
+Total from this dataset: 92
+
+1. My favorite song is two steps from hell.
+   (ID: dialog_25_speaker_2)
+
+2. I enjoy listening to grunge bands.
+   (ID: dialog_41_speaker_1)
+
+3. I like 80s and 90s rock music. I like listening to music at the beach. I like upbeat music you can sing to.
+   (ID: dialog_88_speaker_2)
+
+4. I like pop music.
+   (ID: dialog_88_speaker_2)
+
+5. I want to be a singer.
+   (ID: dialog_91_speaker_1)
+
+6. I really enjoy doing vocals with the band.
+   (ID: dialog_37_speaker_1)
+
+7. I love art metal bands.
+   (ID: dialog_67_speaker_2)
+
+8. I play the drums.
+   (ID: dialog_59_speaker_2)
+
+9. I DJ parties.
+   (ID: dialog_85_speaker_1)
+
+10. I enjoy Country music
+   (ID: dialog_46_speaker_1)
+
+11. Guns and roses is my favorite band.
+   (ID: dialog_6_speaker_1)
+
+12. I want to sing professionally.
+   (ID: dialog_47_speaker_2)
+
+13. I cannot play music.
+   (ID: dialog_80_speaker_1)
+
+14. I like to listen to redneck singing.
+   (ID: dialog_46_speaker_1)
+
+15. My favorite band is Nine Inch Nails. I like alternative rock music.
+   (ID: dialog_5_speaker_2)
+
+16. I like the rolling stones.
+   (ID: dialog_12_speaker_2)
+
+17. I listen to George Strait.
+   (ID: dialog_66_speaker_2)
+
+18. My mom likes rock music. I love her cooking.
+   (ID: dialog_61_speaker_2)
+
+19. I want to sing professionally.
+   (ID: dialog_11_speaker_2)
+
+20. I like hardcore music.
+   (ID: dialog_39_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 224
+
+1. i ca n't find anybody else who 's even heard of nick cave .
+   (ID: Shrub74)
+
+2. i like hshg .
+   (ID: iToaditSo)
+
+3. i think it needs more intro circling around the helicopter
+   (ID: msiekkinen)
+
+4. i guess only mid - to - late-90 's kids would get it ...
+   (ID: Weed_n_Wisdom)
+
+5. i 'd add the byrds , wasn't born to follow .
+   (ID: Waterrat)
+
+6. i buy every show i go to so my phone is loaded with live gigs .
+   (ID: iToaditSo)
+
+7. i would n't be caught dead at a country music concert .... to each thier own .
+   (ID: IgnoranceIsAVirus)
+
+8. i am actually a bigger fan of their earlier stuff .
+   (ID: cookiexcmonster)
+
+9. i ca n't stop singing this
+   (ID: mbw1960)
+
+10. i 'm just not seeing that in tom delonge and the rest .
+   (ID: Etifaq)
+
+11. i recognise radiohead lou reed brand new and violent femmes
+   (ID: SeasonedLemur)
+
+12. i also emit vibration in the form of speech
+   (ID: ChallengeTaken99)
+
+13. i could listen to get version of it in repeat , great cover
+   (ID: buttercup_mauler)
+
+14. i am currently learning spanish on duolingo and i have started watching tv in spanish .
+   (ID: chirpyboyandbartjr)
+
+15. i like them all : d sad songs did help me kinda like romance movies help too
+   (ID: bleepblorp9878)
+
+16. i thought the song op had edited in might have been by depeche mode lmao .
+   (ID: Heydawgg)
+
+17. i m playing this on my radio show !
+   (ID: carwynllew)
+
+18. i had no idea they did them !
+   (ID: bigfuckingdiamond)
+
+19. i want more of that song !
+   (ID: SeasonedLemur)
+
+20. i first heard this song about 11 or 12 years ago .
+   (ID: chasemyers)
+
+
+--- PER-CHAT ---
+Total from this dataset: 268
+
+1. no ! but do you really believe they write every line in their songs ?
+   (ID: 01d4ddab8cb9e73e5e85941c592482da1b3c6bcd)
+
+2. went to their show in minneapolis and would agree , fanbase makeup is dominated by white men in their 20s  30s . very few poc and women , age distribution was also very alarming . my partner found them to be very off  putting when i play them in the car . she feels like they don ' t make an effort to make space for women and other voices and therefore can ' t relate to them in any meaningful sense . this coupled with the recurrent themes of misogyny makes them peak bro  socialism at best and reactionary at worst . conversely , when i play revleft in the car , my partner loves hearing brett ' s voice and whoever he has on . he makes an effort to have diverse voices on his pod and thereby practices what he preaches . brett seems to have evolved politically as well since the start of his show , but i can ' t say the same for cth albeit , except for matt . it ' s the same bro  socialist  libdem  socdem rhetoric today as when they started . they do admit though that digit they are dirtbags , and digit their entire shtick is to follow the antics and theater of the ruling elites and ruling institutions . i appreciate those combatting the liberalism within their sub and friends irl who won ' t shut up about cth .
+   (ID: 77d0324af3e030bb9fb9365a16e870bd522fd275)
+
+3. One of my favorite things is phil collins version.
+   (ID: 96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01)
+
+4. One of my favorite things is musical.
+   (ID: ba6d1d2cee95e9f30e06dc1584d5fa02e62221e8)
+
+5. I own a album.
+   (ID: e917c5f43624fa287dde4f957a529b37a96df1d3)
+
+6. One of my favorite things is guitar.
+   (ID: c22fbcc3fbb3286d348387d73888b66c1c9e09ba)
+
+7. the theme from raiders of the lost ark or the music from the asteroid belt in the empire strike back . but people will probably always wonder why i ' m all keyed up and always jumping off the furniture .
+   (ID: c3739aee1cfa0a286d1056b5d9225e9d6e4f6547)
+
+8. tie between uma thurman  fall out boy and i saw her standing there if someone was never introduced to rock n roll these would be the first songs i  d show them . they are just perfect songs . the boys are back in town  thin lizzy this song is fun . there  s not really another way to describe it . i listen to music for fun to to have fun riders on the storm  the doors i love this song . i think i like it because it is so simple . it  s a song everyone can sing isn  t overshadowed by either , vocals , piano , guitar . it  s amazing
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+9. One of my favorite things is musical.
+   (ID: 0254abd776ead925b3c998e740c3ae71d2b4c6e0)
+
+10. One of my favorite things is guitar.
+   (ID: 404d4f663681fcf738d043296148ae4de655b22b)
+
+11. the lucky omrice set , of course .
+   (ID: c3739aee1cfa0a286d1056b5d9225e9d6e4f6547)
+
+12. whistle  and the funny thing is that i did not understand any of the lyrics .
+   (ID: 11d16c1ced94665eed03bc34f590f8fafeed40d2)
+
+13. awesome , i ' ll be sure to innerfidelity out . i doubt i ' ll end up buying new headphones now , i like the hd599s and ill see if listening to them as you said opens my eyes a little . but the explenation of akg and beyerdynamic will be super helpful when i inevitably do decide to buy another pair thanks for the help , once again
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+14. One of my favorite things is metal.
+   (ID: 726c36ce13fa631676ed5053f62b0f5f7b61eb5e)
+
+15. One of my favorite things is ska.
+   (ID: f2cec4af782c7d455288420e90648dc9c6d12538)
+
+16. ' why be a king , when you can be a god ? '  eminem rap god
+   (ID: 4a03851d25b2526583af78261bff2af13796094e)
+
+17. kills me , it was sad as a kid , but that was more or less over ' how sad  mean it was ' listening to it once you can understand it properly is just heartbreaking .
+   (ID: e74c4268e9e1c5f9cadf933981b55c5a5aa0d1f2)
+
+18. if you have netflix or something i put on . show i ' ve seen many times over as background noise to help me sleep . or sometimes music if netflix is down
+   (ID: 9e778023eda5589ac577e3789edfd900d208edf7)
+
+19. i only kinda like this song , which imo is about descending into dark woods , down through its levels , trying to find your dog , but there are other dogs chasing you , so don ' t get too distracted by the fairy lights and the magic foliage , keep moving .
+   (ID: a3c37892d1eb5776c9a4299ce29fc6200c20dd34)
+
+20. One of my favorite things is drums.
+   (ID: 57e23377d2e20446272558e1ff75f7e0cf1b0049)
+
+
+--- PersonaChat ---
+Total from this dataset: 55
+
+1. i am a huge fan of classical jazz .
+   (ID: conversation_227)
+
+2. i listen to techno music , exclusively .
+   (ID: conversation_114)
+
+3. i love rock music .
+   (ID: conversation_176)
+
+4. my favorite band is tool .
+   (ID: conversation_67)
+
+5. rock music is my favorite .
+   (ID: conversation_61)
+
+6. i am learning to play the piano .
+   (ID: conversation_222)
+
+7. i sing in the shower .
+   (ID: conversation_177)
+
+8. i am a violinist .
+   (ID: conversation_100)
+
+9. my favorite band is the beastie boys .
+   (ID: conversation_238)
+
+10. i play piano .
+   (ID: conversation_186)
+
+11. i like to listen to music .
+   (ID: conversation_6)
+
+12. i play music in my spare time .
+   (ID: conversation_215)
+
+13. i'm an aspiring singer .
+   (ID: conversation_11)
+
+14. my favorite music is two steps from hell and rock opera genre .
+   (ID: conversation_25)
+
+15. i listen to metal music .
+   (ID: conversation_223)
+
+16. i don t like the song sweet home alabama .
+   (ID: conversation_221)
+
+17. i love the beatles .
+   (ID: conversation_247)
+
+18. i am an aspiring singer .
+   (ID: conversation_47)
+
+19. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+20. my favorite band is insane clown posse .
+   (ID: conversation_74)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 112
+
+1. I sing in the shower.
+   (ID: conversation_222_user_2)
+
+2. I am a guitar player.
+   (ID: conversation_139_user_2)
+
+3. I prefer vinyl records to any other music recording format.
+   (ID: conversation_128_user_2)
+
+4. I love rock music.
+   (ID: conversation_233_user_1)
+
+5. I like the guitar.
+   (ID: conversation_212_user_1)
+
+6. My favorite music is country.
+   (ID: conversation_216_user_1)
+
+7. I love folk metal.
+   (ID: conversation_163_user_1)
+
+8. I am the lead singer for an indie band.
+   (ID: conversation_178_user_2)
+
+9. I play the violin.
+   (ID: conversation_32_user_1)
+
+10. I like music.
+   (ID: conversation_212_user_1)
+
+11. My favorite music is rock and roll.
+   (ID: conversation_7_user_2)
+
+12. I play bass.
+   (ID: conversation_167_user_1)
+
+13. Country music makes me cringe.
+   (ID: conversation_6_user_2)
+
+14. My favorite band is insane clown posse.
+   (ID: conversation_86_user_1)
+
+15. I love the band red hot chili peppers.
+   (ID: conversation_95_user_2)
+
+16. I can play the piano.
+   (ID: conversation_120_user_2)
+
+17. My favorite band is muse.
+   (ID: conversation_37_user_1)
+
+18. I own 9 guitars.
+   (ID: conversation_210_user_1)
+
+19. My favorite band is insane clown posse.
+   (ID: conversation_88_user_1)
+
+20. I love country music.
+   (ID: conversation_195_user_2)
+
+
+============================================================

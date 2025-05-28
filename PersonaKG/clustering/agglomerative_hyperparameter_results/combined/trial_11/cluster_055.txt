@@ -1,0 +1,464 @@
+CLUSTER 55
+============================================================
+Total statements in cluster: 1599
+
+Dataset distribution in this cluster:
+  FoCus: 240 (15.0%)
+  MPChat: 205 (12.8%)
+  MSC: 44 (2.8%)
+  PEC: 807 (50.5%)
+  PER-CHAT: 263 (16.4%)
+  PersonaChat: 21 (1.3%)
+  SyntheticPersonaChat: 19 (1.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 240
+
+1. I haver never been to a tower.
+   (ID: 9ZUQKMGM6HTD_11)
+
+2. I have been to Illinois.
+   (ID: FBUZJNVHT0N2_9)
+
+3. I have been to England.
+   (ID: Q997WWV6FO9L_11)
+
+4. I've never been to Brisbane.
+   (ID: XXWV8BD5AL9Z_11)
+
+5. I have a painting in my home drawn in the year 1951.
+   (ID: TBZIWSGJCM17_11)
+
+6. I have a picture of the Lancaster Canal.
+   (ID: PDQ9Z8XXYUMC_11)
+
+7. I have heard about Bern.
+   (ID: ATJSFYS2K6FK_11)
+
+8. I have been to Windsor.
+   (ID: 7IBCPXY2UPQA_11)
+
+9. I think Washington is also very beautiful city I've ever seen.
+   (ID: MGEY7QK79154_11)
+
+10. I have not been to Bristol.
+   (ID: DMD9S9COJOIA_7)
+
+11. I have not been to Maryland.
+   (ID: 6XG4PP92HNX6_9)
+
+12. I have heard about Marshall Field & Co.
+   (ID: FBUZJNVHT0N2_9)
+
+13. I have seen a seaport.
+   (ID: F91BK688K9G1_11)
+
+14. I have heard about the River Medway.
+   (ID: BK0F3JSD41JJ_11)
+
+15. I've never been to an island.
+   (ID: GHGLD29537QW_11)
+
+16. I have never been to Wisconsin.
+   (ID: F6T8IBBEHM4P_11)
+
+17. I am aware of routes in New Jersey.
+   (ID: DTX89JENNS0P_11)
+
+18. I have not seen the Plainridge Park Casino.
+   (ID: DCX9CLWBX4L6_11)
+
+19. I visited Frankford last year.
+   (ID: HK4CNKBL5R5V_11)
+
+20. I have never seen a river.
+   (ID: V87MW1A1QA33_11)
+
+
+--- MPChat ---
+Total from this dataset: 205
+
+1. nothing too exciting, but i like how it turned out.
+   (ID: MaximumLoaf)
+
+2. my home for the night overlooking crummock water in england's lake district national park.
+   (ID: ed2base)
+
+3. the coolest campsite i've ever had.
+   (ID: garret_weintrob)
+
+4. i went camping - packed into the pasayten wilderness and helped rebuild a bridge
+   (ID: reecee)
+
+5. my girlfriend and i went camping together for the first time.
+   (ID: rileyracks)
+
+6. took the xj to my old stomping grounds.
+   (ID: SweetSassyClassy)
+
+7. found this tiny fren in my back yard.
+   (ID: smsikking)
+
+8. this one has been keeping watch over my hibiscus and planter box.
+   (ID: insertnamehere02)
+
+9. the sky from my camping spot!
+   (ID: gammonjoshua)
+
+10. as someone who just switched over from saltwater, i still find great joy in landing these fish.
+   (ID: GoodBull1748)
+
+11. first night of camping after i fnished the van build
+   (ID: overlandervanman)
+
+12. i found the best trail in arkansas!
+   (ID: VapeThisBro)
+
+13. "i think you'll find that the couch is free"- president petrie
+   (ID: kentobean123)
+
+14. took one of my favorite photos ever on a canoeing trip last week.
+   (ID: wowsage)
+
+15. i went on my first ever backpacking trip solo!
+   (ID: catsinpockets)
+
+16. i'm in tucson and visited a local cactus nursery, amazing!
+   (ID: CuriosityK)
+
+17. happy simplicity day - i'm going horse camping!
+   (ID: reecee)
+
+18. i went to the great sand dunes in colorado and i wish i stayed longer!
+   (ID: FindingTheAdventure)
+
+19. i was where i was supposed to be.
+   (ID: Nerdyredeyejedi)
+
+20. a quick snap on my way to work this morning - seattle, wa
+   (ID: MafHoney)
+
+
+--- MSC ---
+Total from this dataset: 44
+
+1. I recently moved to the south.
+   (ID: dialog_133_speaker_1)
+
+2. I am from South California. I haven't seen snow in years.
+   (ID: dialog_14_speaker_1)
+
+3. I have never visited Japan.
+   (ID: dialog_9_speaker_2)
+
+4. Las vegas was my stomping ground when I was young.
+   (ID: dialog_10_speaker_1)
+
+5. I live in California. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+6. I have never left the countryside.
+   (ID: dialog_42_speaker_2)
+
+7. I rode my bike to the last Comic-con that was in town.
+   (ID: dialog_29_speaker_2)
+
+8. I went on a cycling vacation with my friends.
+   (ID: dialog_170_speaker_2)
+
+9. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+10. I've never been to a mystery dinner party before.
+   (ID: dialog_119_speaker_2)
+
+11. I have been to Brittany in France.
+   (ID: dialog_147_speaker_2)
+
+12. I have never been out of the US either.
+   (ID: dialog_8_speaker_2)
+
+13. The ocean is a great place to have fun.
+   (ID: dialog_88_speaker_2)
+
+14. I enjoying hiking in the mountains.
+   (ID: dialog_91_speaker_2)
+
+15. I have hit alot of attractions.
+   (ID: dialog_83_speaker_2)
+
+16. I've never been outside the US.
+   (ID: dialog_89_speaker_1)
+
+17. I rode my bike to the last Comic-con that was in town. I like riding my bike
+   (ID: dialog_29_speaker_2)
+
+18. I visit Mexico every other month.
+   (ID: dialog_174_speaker_1)
+
+19. I've only visited NY twice.
+   (ID: dialog_170_speaker_1)
+
+20. I'm originally from Baton Rouge. I have never been to Maryland. I am a chef for a caterer.
+   (ID: dialog_138_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 807
+
+1. i had a visiting friend taste and he enjoyed it .
+   (ID: Samoht2113)
+
+2. i saw daft punk in miami at ultra music festival in 2007 .
+   (ID: osmosisparrot)
+
+3. i went there two weekends ago , such a beautiful and serene garden ! !
+   (ID: Justakiss15)
+
+4. i have a friend who is an incredible bassist who moved there last year .
+   (ID: JimmyMcShiv)
+
+5. i 've tried drinking while sitting on a rock ; it 's pretty cool !
+   (ID: SerendipitousCat)
+
+6. i thought indiana was beautiful in the fall ?
+   (ID: Zarqume)
+
+7. i think the listing realtor is nuts .
+   (ID: dammitOtto)
+
+8. i am going out to a campground for the weekend .
+   (ID: Beachsurfer)
+
+9. i live in north georgia and up here it 's more co - slaw .
+   (ID: hardt0f0rget)
+
+10. i ca n't wait one day to visit at a non - local bar .
+   (ID: Evref)
+
+11. i ’m assuming there is a more than one way to enter the building .
+   (ID: PECOSbravo)
+
+12. i was told bronson is a great place to go .
+   (ID: osmosisparrot)
+
+13. i am lucky enough to live within walking distance of a japanese grocery store .
+   (ID: chirpyboyandbartjr)
+
+14. i was there too .
+   (ID: aydinsevimli)
+
+15. i came back with some incredible fossils from near serpent mound area .
+   (ID: meteoriteminer)
+
+16. i 'm in southern az , i 've never heard that phrase before .
+   (ID: I_am_not_a_Taco)
+
+17. i thought highland park at first glance .
+   (ID: hussy_trash)
+
+18. i lived a block away on vermont / wilshire from here .
+   (ID: John7oliver)
+
+19. i got 3 headshots on my way home .
+   (ID: chrisisfunny)
+
+20. i 'm in ny and play halo 5 coach pappis m/ 30 hit me up .
+   (ID: JohnnyPappis)
+
+
+--- PER-CHAT ---
+Total from this dataset: 263
+
+1. it ' s a place you can visit , but you don ' t actually go there .
+   (ID: 9a4083ece31f241c8374b733a1ef26a760deb17a)
+
+2. azumanga daioh  if you ignore all the obviously ridiculous bits , like all the sexual innuendo and physical abuse , then what is left over is actually a surprisingly accurate portrayal of what school is like there .
+   (ID: 8e22144947225f2bd7d950ea1b4044909a8653ae)
+
+3. haha i ' m based in a college town , so i ' ve found a niche in with all the ring  by  spring couples that can ' t afford much . i do travel if you ' re particularly fond of my work !
+   (ID: 17496dcfdb38727f022d155f086be60541019391)
+
+4. it ' s doesn ' t really sound asian or african to me and i ' m from western europa so know more precisely the languages here and i don ' t really recognise it so that lets south america and it fits a little about the melody in the sentences but i say that but i ' m not good at guessing that sort of things at all
+   (ID: a74790331386859adbbd886bd045a7391e95948c)
+
+5. florida here you ' ve heard the stories nuff said .
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+6. are continents large enough scale for you , retard ? if not , good news  you could be only a day and airfare away from living like a king in africa .
+   (ID: 3d776de779e565cac9f29e072415ad6b781eaca0)
+
+7. that the malay plane was landed at diego something
+   (ID: 26385f66cbe9eeb82d4441391355c1c6c8e64c0a)
+
+8. so i have a friend from europe . the first thing they wanted to see once getting their us visa was the capital and the white house . i think this is the case for a couple of reasons . digit it  s the white house . where the most powerful person lives . for foreigners , it  s the peak of america . digit so many movies portray the wh , it  s different to see it in movies and see it in person . the second place that same friend wanted to go to was the manhattan bridge . he thought it was so unreal he was on the same bridge he  d seen in all those countless movies
+   (ID: 071de8843a9f6c2baf4f1a9eccd0700b9c6589a6)
+
+9. im not sure if you actively use this account but , try posting this in dallas and you may get an answer . outside of reddit you can use it has tons of info regarding fishing and i am sure you can find advice on fishing around rockwall . maybe even a guide or some fishing friends .
+   (ID: d9b642bbd6c09c682f252a2f49914c0d21506e6f)
+
+10. everything you just listed off can be said about alot of other places outside of the united states included i guess they ' re influential pop culture wise , but not much else
+   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+
+11. because the heat of the sun , and the amount of water and salt and all the time that it ' s been there . there is more water and more area affected by that than in your glass of water . although maybe it ' s an interesting experiment if you put lot of salt in a small container , you heat it up and when you ' re gonna smell it , you cover you head and the container with a towel . if you try it , let me know what happens .
+   (ID: 2069df24de0e78e4765ca507edb903ca074ac2d8)
+
+12. yes it is , but common sense dictates don  t drive the middle of fucking nowhere .
+   (ID: abd2d3c15975e586b4b74794df81b7ac62b7f321)
+
+13. you ' ll never know if you don ' t go
+   (ID: b62d2865206257ab4ea65a5e489f9d4e1c8d5e9b)
+
+14. the only way you ' ll really know is if you ask them . it could be because of doing work months food , it could be a green house , it could be a secret lab .
+   (ID: 7632dd7ebcb664bfada5fff420a436f42e3721d5)
+
+15. austin , madison , ithaca are full . if you want to be really hip , find the next cool town . as weird as it may sound , omaha is the town that most reminds me of those cities twenty years ago .
+   (ID: 338fc695adfaaf11a58feb723c7240c6700982d8)
+
+16. i think there ' s not a wildlife center in my city but i ' ll check . thanks
+   (ID: 2834b254700cedfb96641229b712899b4d697418)
+
+17. because a good looking lawn looks nice . i ' m not going to let my grass turn yellow and let weeds grow out of control . gotta keep that shit nice and clean
+   (ID: a90f01f580b7cc08038958d5c1f659fd492b1f2c)
+
+18. never been to one yet that  s why i  m looking for suggestions im sure their pricing is listed in their websites . not sure about teams if you go in by yourself but usually people do it in groups
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+19. the point is that you can see such a small few pixels of the top of their head where they can easily see everything over the wall . you can ' t hear the person jumping either because that is apart of the bug .
+   (ID: b5faabfabaf04e645cf54c0d84e18989944a6d4c)
+
+20. this is actually the most compelling answer here . that would be a seriously disgusting way to check out .
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+
+--- PersonaChat ---
+Total from this dataset: 21
+
+1. i went to new york city once .
+   (ID: conversation_433)
+
+2. i go visit them sometimes .
+   (ID: conversation_360)
+
+3. i ve never been to the city .
+   (ID: conversation_42)
+
+4. driving in the country side is a pastime .
+   (ID: conversation_401)
+
+5. i think food trucks are awesome .
+   (ID: conversation_232)
+
+6. i ve never been to the beach .
+   (ID: conversation_469)
+
+7. i just moved from va to pa .
+   (ID: conversation_167)
+
+8. i traveled around the world in a boat .
+   (ID: conversation_60)
+
+9. i went to new york city once .
+   (ID: conversation_133)
+
+10. i had a gig at local theater last night .
+   (ID: conversation_406)
+
+11. i always travel alone .
+   (ID: conversation_254)
+
+12. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+13. driving in the country side is a pastime .
+   (ID: conversation_397)
+
+14. i ve been to canada two times my entire life .
+   (ID: conversation_418)
+
+15. she likes to grow plants in her garden .
+   (ID: conversation_360)
+
+16. i want to visit rome , but i can t make myself go alone .
+   (ID: conversation_257)
+
+17. i went to new york city once .
+   (ID: conversation_238)
+
+18. i've visited 12 national parks in the us .
+   (ID: conversation_83)
+
+19. i have never traveled outside of the united states .
+   (ID: conversation_170)
+
+20. i had a gig at local theater last night .
+   (ID: conversation_2)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 19
+
+1. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+2. I have went to mexico 4 times this year.
+   (ID: conversation_497_user_1)
+
+3. I have never traveled outside of the united states.
+   (ID: conversation_152_user_2)
+
+4. Every fall i visit my sister in canada.
+   (ID: conversation_359_user_2)
+
+5. I traveled around the world in a boat.
+   (ID: conversation_209_user_1)
+
+6. I have visited 12 national parks in the us.
+   (ID: conversation_20_user_2)
+
+7. I am currently looking for a job in baltimore.
+   (ID: conversation_258_user_2)
+
+8. I ve been to canada two times my entire life.
+   (ID: conversation_427_user_2)
+
+9. I want to visit rome , but i cannot make myself go alone.
+   (ID: conversation_425_user_2)
+
+10. I have visited 12 national parks in the us.
+   (ID: conversation_463_user_2)
+
+11. I traveled around the world in a boat.
+   (ID: conversation_202_user_1)
+
+12. I always travel alone.
+   (ID: conversation_9_user_2)
+
+13. I just moved from va to pa.
+   (ID: conversation_341_user_2)
+
+14. I have went to mexico 4 times this year.
+   (ID: conversation_496_user_1)
+
+15. I have traveled to europe and mexico.
+   (ID: conversation_202_user_2)
+
+16. I traveled around the world in a boat.
+   (ID: conversation_194_user_1)
+
+17. I traveled around the world in a boat.
+   (ID: conversation_195_user_1)
+
+18. I want to visit rome , but i cannot make myself go alone.
+   (ID: conversation_233_user_2)
+
+19. I have traveled to both ireland and australia.
+   (ID: conversation_282_user_2)
+
+
+============================================================

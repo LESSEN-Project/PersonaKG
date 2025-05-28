@@ -1,0 +1,368 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 608
+
+Dataset distribution in this cluster:
+  FoCus: 3 (0.5%)
+  MPChat: 4 (0.7%)
+  MSC: 78 (12.8%)
+  PEC: 28 (4.6%)
+  PER-CHAT: 366 (60.2%)
+  PersonaChat: 32 (5.3%)
+  SyntheticPersonaChat: 97 (16.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I especially like eating hamburgers lying on the hill.
+   (ID: ZDIM8K78EM2D_11)
+
+2. I love Italian food.
+   (ID: DIQU5A0EAGWM_11)
+
+3. I like Ballari Gudda.
+   (ID: UN54IACHSTX5_11)
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. chinese steamed eggs one of my fave ways to eat eggs!
+   (ID: onemantwohands)
+
+2. my favorite raw fish - salmon - i can eat a whole plate of it....
+   (ID: onemantwohands)
+
+3. potatoes are one of my fav veggies - ribbon fries
+   (ID: onemantwohands)
+
+4. i have an obsession with japanese dessert.
+   (ID: justcook_byangel)
+
+
+--- MSC ---
+Total from this dataset: 78
+
+1. My favorite food is Pizza. I love sushi and eat it when I study.
+   (ID: dialog_23_speaker_1)
+
+2. I like junk food.
+   (ID: dialog_25_speaker_1)
+
+3. I like fried chicken and fish.
+   (ID: dialog_82_speaker_1)
+
+4. I like pizza. I drive a moped.
+   (ID: dialog_51_speaker_1)
+
+5. I love mexican food.
+   (ID: dialog_27_speaker_1)
+
+6. I like sweets and dessert.
+   (ID: dialog_89_speaker_1)
+
+7. My favorite food is chicken. I have a dog named Bob.
+   (ID: dialog_27_speaker_2)
+
+8. My grandson likes chocolate the most.
+   (ID: dialog_44_speaker_1)
+
+9. I'm Chinese American. My mom taught me to cook. I love cooking.
+   (ID: dialog_46_speaker_2)
+
+10. I admire lipton beverages.
+   (ID: dialog_14_speaker_1)
+
+11. I enjoy burgers. I go fishing.
+   (ID: dialog_33_speaker_2)
+
+12. I love italian cooking.
+   (ID: dialog_95_speaker_1)
+
+13. I like food.
+   (ID: dialog_74_speaker_1)
+
+14. I like to try new foods.
+   (ID: dialog_23_speaker_1)
+
+15. I like sweet food.
+   (ID: dialog_80_speaker_2)
+
+16. I like consuming salty rod shaped snacks.
+   (ID: dialog_19_speaker_1)
+
+17. My favorite food is spagetti and meatballs
+   (ID: dialog_37_speaker_2)
+
+18. I want candy.
+   (ID: dialog_4_speaker_1)
+
+19. I enjoy cold drinks.
+   (ID: dialog_29_speaker_2)
+
+20. My grandson likes chocolate the most. I'm good at baking.
+   (ID: dialog_44_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 28
+
+1. i like breakfast in bed , but i love garlic and bread .
+   (ID: FrankOfTheDank)
+
+2. i have a friend who orders pineapple and tuna on a pizza .
+   (ID: Ooer)
+
+3. i like lay 's potato chips
+   (ID: deputydan_scubaman)
+
+4. i love oreos .
+   (ID: Noimnotsally)
+
+5. i enjoy chips n ice cream too lol
+   (ID: Noimnotsally)
+
+6. i just developed a craving for kung pao chicken , and i have n't eaten it for 25 years .
+   (ID: MILeft)
+
+7. i love vegetables .
+   (ID: AP7497)
+
+8. i have a severe sugar addiction .
+   (ID: cassieeh)
+
+9. i like coke but pepsi is ok too .
+   (ID: bbrandann)
+
+10. i enjoy olive bread
+   (ID: Nick84572)
+
+11. i like ccccoocaine !
+   (ID: ItGetsAwkward)
+
+12. i am partial to a good malted milk
+   (ID: bigfuckingdiamond)
+
+13. i have fallen in love with roasted oolongs recently .
+   (ID: Lilliaan)
+
+14. i ’m a fruitcake junkie .
+   (ID: 11_29_77)
+
+15. i like taco bell .
+   (ID: bbrandann)
+
+16. i like chuck e. cheese
+   (ID: bummang)
+
+17. i love cookies .
+   (ID: cookiexcmonster)
+
+18. i love beer and black coffee and i can tolerate tiny amounts of cilantro if i have to :)
+   (ID: almajanemi)
+
+19. i love chinese food too .
+   (ID: IgnoranceIsAVirus)
+
+20. i love pizza !
+   (ID: samward7)
+
+
+--- PER-CHAT ---
+Total from this dataset: 366
+
+1. One of my favorite things is fried chicken.
+   (ID: afb309c0f8d875957ab1e2c406a762b6127668b6)
+
+2. One of my favorite things is ice.
+   (ID: b3497f72ed4462f0414951db6d9ee7aa4004b515)
+
+3. One of my favorite things is brown sugar.
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+4. One of my favorite things is chicken.
+   (ID: 564c5b4efd54586fbf212727e2071f5ddadabb82)
+
+5. One of my favorite things is georgia food.
+   (ID: 229018d265fee53903659270acea70a8c7f46caa)
+
+6. One of my favorite things is beef sausage.
+   (ID: c0cbd0e097375f98ad98ec291f836a39d55e02c1)
+
+7. One of my favorite things is mint icecream.
+   (ID: 2ce191fd1043183c73daf2ab41afee9b122fd42b)
+
+8. One of my favorite things is liver.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+9. One of my favorite things is tea.
+   (ID: d45001f1fdd37cda488cfddffabec23e83ee7b7e)
+
+10. One of my favorite things is waffles.
+   (ID: 6b2e7201275c9aa1dcb6d1b24840765a41796c3d)
+
+11. One of my favorite things is waffles.
+   (ID: b721d508c3e10f143c9836626787b26136faa266)
+
+12. One of my favorite things is onions.
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+13. One of my favorite things is chicken.
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+14. One of my favorite things is pickled herring.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+15. One of my favorite things is peanut butter.
+   (ID: c28c39847d1ec88851aadf063f6e8baf4594b35c)
+
+16. One of my favorite things is lettuce  salad.
+   (ID: d8492ac2e05f869f3bd79bafc9f32c603a615e59)
+
+17. One of my favorite things is mountain dew.
+   (ID: eee9dc5129787c4d2a8fda055f09565efcf9322a)
+
+18. One of my favorite things is turkish delight.
+   (ID: 56b0fa955cab3b71ba6368e8c4ad684a45da92dd)
+
+19. One of my favorite things is spice cake.
+   (ID: fe374743dd856c29f2117723cef01c1fdc3b3b5b)
+
+20. One of my favorite things is fruit.
+   (ID: 02e4b90101e07338b4251209256c01652a022c5d)
+
+
+--- PersonaChat ---
+Total from this dataset: 32
+
+1. i love hamburgers .
+   (ID: conversation_244)
+
+2. my favorite food is cheeseburgers .
+   (ID: conversation_219)
+
+3. i love hot wings .
+   (ID: conversation_82)
+
+4. my favorite food is pizza .
+   (ID: conversation_218)
+
+5. nachos are my favorite food .
+   (ID: conversation_54)
+
+6. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+7. i think food trucks are awesome .
+   (ID: conversation_232)
+
+8. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+9. i like fast food too much .
+   (ID: conversation_171)
+
+10. my favorite food is cheese .
+   (ID: conversation_28)
+
+11. my favorite food is sushi .
+   (ID: conversation_134)
+
+12. nachos make me happy .
+   (ID: conversation_245)
+
+13. my favorite food is pizza .
+   (ID: conversation_188)
+
+14. i love coffee with cream .
+   (ID: conversation_133)
+
+15. my favorite food is steak .
+   (ID: conversation_231)
+
+16. my favorite foods are fried chicken and chocolate cake .
+   (ID: conversation_193)
+
+17. my favorite food is popcorn .
+   (ID: conversation_15)
+
+18. my favorite food is meatloaf .
+   (ID: conversation_162)
+
+19. i like eating vegetables .
+   (ID: conversation_247)
+
+20. i enjoy eating pumpkins .
+   (ID: conversation_174)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 97
+
+1. My favorite food is tacos.
+   (ID: conversation_208_user_1)
+
+2. My favorite food is pizza.
+   (ID: conversation_130_user_1)
+
+3. My weakness are sweets.
+   (ID: conversation_8_user_1)
+
+4. My favorite food is strawberries.
+   (ID: conversation_47_user_1)
+
+5. My favorite drink is iced coffee.
+   (ID: conversation_87_user_2)
+
+6. I love to eat pita bread with hummus.
+   (ID: conversation_231_user_1)
+
+7. I like dr pepper and black jack gum , but not together.
+   (ID: conversation_172_user_2)
+
+8. My favorite drink is dr pepper.
+   (ID: conversation_183_user_1)
+
+9. My favorite food is meatloaf.
+   (ID: conversation_44_user_2)
+
+10. I love eating out.
+   (ID: conversation_196_user_2)
+
+11. I like sprite soda.
+   (ID: conversation_161_user_1)
+
+12. My weakness are sweets.
+   (ID: conversation_9_user_1)
+
+13. My favorite food is pizza.
+   (ID: conversation_24_user_1)
+
+14. I enjoy eating italian food.
+   (ID: conversation_203_user_2)
+
+15. My favorite drink is dr pepper.
+   (ID: conversation_182_user_1)
+
+16. My weakness are sweets.
+   (ID: conversation_10_user_1)
+
+17. I like sprite soda.
+   (ID: conversation_31_user_1)
+
+18. I love sweets.
+   (ID: conversation_108_user_1)
+
+19. I love candy.
+   (ID: conversation_42_user_2)
+
+20. I love sushi.
+   (ID: conversation_77_user_1)
+
+
+============================================================

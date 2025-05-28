@@ -1,0 +1,351 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 1365
+
+Dataset distribution in this cluster:
+  FoCus: 295 (21.6%)
+  MSC: 19 (1.4%)
+  PEC: 98 (7.2%)
+  PER-CHAT: 929 (68.1%)
+  PersonaChat: 8 (0.6%)
+  SyntheticPersonaChat: 16 (1.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 295
+
+1. I am interested in historic buildings.
+   (ID: U6BF1QZ941QN_11)
+
+2. I am reseraching glacial meltwater.
+   (ID: SDW19RWSP3ZX_11)
+
+3. I hope to know a Cathedral.
+   (ID: LRGBCD6RT2HQ_11)
+
+4. I have curiosity about the exhibits.
+   (ID: FF36QQ08S28H_11)
+
+5. I am interested in the climate.
+   (ID: LYYSTNQ9MBLY_11)
+
+6. I am very interested in Formula One races.
+   (ID: FNURQ2XMQVJF_11)
+
+7. I would like to visit some historic center in Bengaluru.
+   (ID: N4W8V4TZG4XD_11)
+
+8. I would like to know more about old structures.
+   (ID: AOQJE7BBYFVM_11)
+
+9. I am interested in University of Sydney.
+   (ID: L6X3D5VDORJH_11)
+
+10. I am interested in good education.
+   (ID: IKQ9QU6QOUT4_11)
+
+11. I have curiosity about the Fishes of the laguna.
+   (ID: SKF7IKD9SC0U_9)
+
+12. I am interested in history.
+   (ID: MA2EPDC7QHS5_11)
+
+13. I am interested in the history of the 17th century.
+   (ID: 744H5J0MPE9C_9)
+
+14. I am interested in bridges.
+   (ID: CRWZDJUVM3WL_11)
+
+15. I am interested in architecture.
+   (ID: DJ4IA2ZGTGQW_11)
+
+16. I am interested to study about ancient settlement.
+   (ID: ATJSFYS2K6FK_11)
+
+17. I would like to compete in a ski competition.
+   (ID: QTNNKQN2EVU5_11)
+
+18. I wish to learn more about the Civil War.
+   (ID: LXA6AWUAMHUX_11)
+
+19. I have studied about No. 639 Squadron in my college.
+   (ID: DNUH5LJGPOZC_11)
+
+20. I am interested in geology.
+   (ID: LQEMVPLBWMFW_11)
+
+
+--- MSC ---
+Total from this dataset: 19
+
+1. I am interested in vegetarian food. I am interested in menu planning.
+   (ID: dialog_88_speaker_1)
+
+2. I am not a student. I am looking for a new job.
+   (ID: dialog_147_speaker_2)
+
+3. I am interested in taking discounted classes. I want to learn to manage the ups and downs of my income. I want to look into finance managing apps.
+   (ID: dialog_139_speaker_2)
+
+4. I am looking for a job.
+   (ID: dialog_83_speaker_1)
+
+5. My dream is to create a philanthropy app for the iphone.
+   (ID: dialog_79_speaker_1)
+
+6. I really love learning different languages and habe been studying them for years.
+   (ID: dialog_165_speaker_2)
+
+7. I am a charitable person. I am working on a charity app matching volunteers to financial donations. I want to launch the app before the holiday season.
+   (ID: dialog_79_speaker_1)
+
+8. I am studying finance.
+   (ID: dialog_7_speaker_2)
+
+9. I live in Wichita. I am interested in the history of the civil rights movement.
+   (ID: dialog_87_speaker_1)
+
+10. I would like to learn about tin foil and radio waves.
+   (ID: dialog_176_speaker_1)
+
+11. I am looking fora job.
+   (ID: dialog_70_speaker_2)
+
+12. I am working on a charity app matching volunteers to financial donations.
+   (ID: dialog_79_speaker_1)
+
+13. I have searched for Buffalo gold coins. I like Austrian gold coins.
+   (ID: dialog_124_speaker_2)
+
+14. I am interested in gold coins.
+   (ID: dialog_124_speaker_1)
+
+15. I would like to enroll in nutrition classes and know more about the vegetarian way of eating.
+   (ID: dialog_10_speaker_1)
+
+16. I want to learn about gardening.
+   (ID: dialog_11_speaker_2)
+
+17. I haven't finish school. I am online learning this term.
+   (ID: dialog_67_speaker_2)
+
+18. I need to be employed.
+   (ID: dialog_137_speaker_1)
+
+19. I am interested in electronics.
+   (ID: dialog_155_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 98
+
+1. i have the requirements for both .
+   (ID: shortgiraffe9000)
+
+2. i 'm interested in : impacts of digital , social inequality , racism , and health .
+   (ID: juliacakes)
+
+3. i 'm pretty new at this stuff but trying to learn more .
+   (ID: NyxPeregrinus)
+
+4. i was thinking about forks over knives , cowspiracy , or what the health .
+   (ID: FruitBatFanatic)
+
+5. i 'm not interested in any one specific program , but i 'm just curious .
+   (ID: Always_Ask_4_Sources)
+
+6. i 'm looking into only english - taught programmes .
+   (ID: apnudd)
+
+7. i 'm not officially accepted yet .
+   (ID: Sugarpeas)
+
+8. i 'm in the usa and i 'm def interested .
+   (ID: John7oliver)
+
+9. i want to go to there .
+   (ID: notjawn)
+
+10. i want to join them .
+   (ID: juls2587)
+
+11. i researched corn , tumors and fatty liver disease in rats and i never fed mine corn , ever .
+   (ID: Waterrat)
+
+12. i need some documentation .
+   (ID: closetotheedge48)
+
+13. i appreciate all answers , short or long .
+   (ID: Blue_Sky_Blue)
+
+14. i would like to use youtube , browser , netflix if possible
+   (ID: BoonTobias)
+
+15. i always wondered how many of the nutrients were destroyed by the pasteurization process though .
+   (ID: TylerC_D)
+
+16. i 'm looking to write sheet music and have a program play it for me on the piano .
+   (ID: Nobody-Likes-Change)
+
+17. i 'm looking to begin buddhism but have no clue where to even begin .
+   (ID: mdk15)
+
+18. i was in the poker soc last year but did nt have the time for it .
+   (ID: carwynllew)
+
+19. i m not big into books � �
+   (ID: GitFloowSnaake)
+
+20. i 'm holding a very special family reunion that i 'd like to be documented .
+   (ID: Evref)
+
+
+--- PER-CHAT ---
+Total from this dataset: 929
+
+1. I'm interested in math.
+   (ID: fc02053133b0aa8d444b95ed56c24999ae82879b)
+
+2. I'm interested in fitness and nutrition.
+   (ID: d9ec7752117a31823171b7cfc56b1cf267be53df)
+
+3. I'm interested in real estate.
+   (ID: 071de8843a9f6c2baf4f1a9eccd0700b9c6589a6)
+
+4. I'm interested in fitness and nutrition.
+   (ID: af5ee378b1abffcc7a909dba267af824a56225d0)
+
+5. I'm interested in keto.
+   (ID: 9d6cadbef277b68098e82945a77678dbb2a079c6)
+
+6. I'm interested in health.
+   (ID: 298dd327349771a27c9a14437b3b5a53d0bd9e35)
+
+7. I'm interested in fitness and nutrition.
+   (ID: 85ac769b0cb349e567cb91e8109645bd1ac28b9f)
+
+8. I'm interested in personal finance.
+   (ID: b2c623940e1acb4e269cab1c8f1920e03da9e429)
+
+9. I'm interested in food and beverages.
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+10. I'm interested in fitness and nutrition.
+   (ID: 25b8235c988cb167d94968ee893707e9c358cde8)
+
+11. I'm interested in depression and anxiety.
+   (ID: f46d1bfdfed7fc05bbe39789c092019944471e9d)
+
+12. I'm interested in cooking.
+   (ID: d54a04c3eba52404f5dd7abb0e459a949dbc7f93)
+
+13. I'm interested in jobs and careers.
+   (ID: ee6fdc3d42cb3e2a3321054cfa11a7a337437f94)
+
+14. I'm interested in cooking.
+   (ID: 3ad18913fe75fd4a63c4ae0d0255c37d90fd7144)
+
+15. I'm interested in real estate.
+   (ID: 088497bce89e4823631f87585634427788f1c44f)
+
+16. I'm interested in finance.
+   (ID: c787052a42459acc9cd2034c7531250ccd441795)
+
+17. I'm interested in shopping.
+   (ID: 5146a89965a734a4d1ec9ec9145abae872a4569d)
+
+18. I'm interested in space.
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+19. I'm interested in investing.
+   (ID: faebbe18abd4d1c69e3bb9106178f797255444c5)
+
+20. I'm interested in self-help and motivation.
+   (ID: 063122b93a40a719244d27587193e154f2fed59d)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i'm a history buff .
+   (ID: conversation_269)
+
+2. i am studying software development .
+   (ID: conversation_230)
+
+3. i am looking for a second job .
+   (ID: conversation_398)
+
+4. i am looking for a second job .
+   (ID: conversation_272)
+
+5. i am currently looking for a job .
+   (ID: conversation_384)
+
+6. i'm looking to start a business .
+   (ID: conversation_214)
+
+7. i want to learn self defense .
+   (ID: conversation_409)
+
+8. i m currently looking for employment .
+   (ID: conversation_479)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 16
+
+1. I am working on a biology degree.
+   (ID: conversation_126_user_1)
+
+2. I am writing a novel.
+   (ID: conversation_13_user_2)
+
+3. I am a history buff.
+   (ID: conversation_25_user_2)
+
+4. I am working on a biology degree.
+   (ID: conversation_150_user_2)
+
+5. I am working on a biology degree.
+   (ID: conversation_127_user_1)
+
+6. I am a history buff.
+   (ID: conversation_413_user_2)
+
+7. I am working on a biology degree.
+   (ID: conversation_128_user_1)
+
+8. I am studying software development.
+   (ID: conversation_121_user_2)
+
+9. I am working on a biology degree.
+   (ID: conversation_129_user_1)
+
+10. I am studying software development.
+   (ID: conversation_257_user_2)
+
+11. I am trying to open my own teaching program for horse racing.
+   (ID: conversation_248_user_2)
+
+12. I am trying to open my own teaching program for horse racing.
+   (ID: conversation_487_user_2)
+
+13. I am studying literature.
+   (ID: conversation_208_user_1)
+
+14. I am hoping to play basketball overseas.
+   (ID: conversation_149_user_2)
+
+15. I am a professional horse racing handicapper.
+   (ID: conversation_487_user_2)
+
+16. I m looking for a job.
+   (ID: conversation_70_user_1)
+
+
+============================================================
