@@ -24,28 +24,28 @@ def run_hyperparameter_search(n_trials=100, output_dir="hyperparameter_results",
         output_dir: Directory to save results
         clustering_mode: Run clustering separately per dataset or combined
     """
-    
     # Prepare output directory: create if it doesn't exist
     mode_dir = os.path.join(output_dir, clustering_mode)
     os.makedirs(mode_dir, exist_ok=True)
 
     # Define hyperparameter search space
     vectorization_methods = ["tfidf", "dense", "hybrid"]
-    
+
     if clustering_mode == "separate":
-        sample_sizes = [200, 300, 400, 500, 750]
+        sample_sizes = [200, 350, 500, 750]
     else:
-        sample_sizes = [100, 200, 300, 400]
-        
+        sample_sizes = [250, 350, 500, 600]
+
     # Agglomerative clustering specific parameters
-    n_clusters_options = [10, 20, 30, 40, 50, 100]
+    # Define n_clusters as a percentage of sample_size (rounded, min 2)
+    n_clusters_percentages = [0.04, 0.05, 0.06, 0.07, 0.1, 0.15]  # 2% to 15%
     linkage_options = ['ward', 'complete', 'average', 'single']
-    
+
     # For hybrid vectorization
-    tfidf_weights = [0.3, 0.5, 0.7, 0.9] 
-    
+    tfidf_weights = [0.3, 0.5, 0.7, 0.9]
+
     # For dimensionality reduction
-    pca_components_options = [16, 32, 48, 64] 
+    pca_components_options = [32, 48, 64] 
     
     results = []
     
@@ -60,7 +60,7 @@ def run_hyperparameter_search(n_trials=100, output_dir="hyperparameter_results",
         # Sample random hyperparameters
         vectorization = random.choice(vectorization_methods)
         sample_size = random.choice(sample_sizes)
-        n_clusters = random.choice(n_clusters_options)
+        n_clusters = int(sample_size * random.choice(n_clusters_percentages))
         
         # For ward linkage, only euclidean distance is valid
         linkage = random.choice(linkage_options)
@@ -238,12 +238,13 @@ def run_single_trial(vectorization, sample_size, n_clusters, linkage, metric,
             results = analyzer.save_cluster_results(all_statements, cluster_labels, 'combined', dataset_name='Combined')
             print(f"Combined mode results: {results}")
             
-            # Add to trial results, including diversity score
+            # Add to trial results, including diversity score and silhouette score
             combined_result = {
                 'Dataset': 'Combined',
                 'Total_Statements': len(all_statements),
                 'Number_of_Clusters': results['n_clusters'],
-                'Diversity_Score': getattr(analyzer, 'diversity_score', 0.0)
+                'Diversity_Score': getattr(analyzer, 'diversity_score', 0.0),
+                'Silhouette_Score': results.get('silhouette_score', -1)
             }
             trial_results.append(combined_result)
             
@@ -279,12 +280,13 @@ def run_single_trial(vectorization, sample_size, n_clusters, linkage, metric,
             results = analyzer.save_cluster_results(statements, cluster_labels, dataset_name, dataset_name=dataset_name)
             print(f"{dataset_name} results: {results}")
             
-            # Add to trial results, including diversity score
+            # Add to trial results, including diversity score and silhouette score
             dataset_result = {
                 'Dataset': dataset_name,
                 'Total_Statements': len(statements),
                 'Number_of_Clusters': results['n_clusters'],
-                'Diversity_Score': getattr(analyzer, 'diversity_score', 0.0)
+                'Diversity_Score': getattr(analyzer, 'diversity_score', 0.0),
+                'Silhouette_Score': results.get('silhouette_score', -1)
             }
             trial_results.append(dataset_result)
     
@@ -345,6 +347,8 @@ def save_trial_summary(trial_dir, trial_results, vectorization, sample_size, n_c
         summary.append(f"  - Number of Clusters: {clusters}")
         if 'Diversity_Score' in result:
             summary.append(f"  - Diversity Score: {result['Diversity_Score']:.4f}")
+        if 'Silhouette_Score' in result:
+            summary.append(f"  - Silhouette Score: {result['Silhouette_Score']:.4f}")
     
     # Write summary to file
     summary_path = os.path.join(trial_dir, "trial_summary.txt")

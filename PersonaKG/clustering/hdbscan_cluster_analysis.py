@@ -20,7 +20,7 @@ from PersonaKG.persona_dataset import PersonaDataset
 
 
 class PersonaClusterAnalysis:
-    def __init__(self, sample_size=100000, split="train", vectorization="tfidf", mode="separate", pca_components=None, tfidf_weight=0.5, min_cluster_size=50, min_samples_ratio=0.5):
+    def __init__(self, sample_size=100000, split="train", vectorization="tfidf", mode="separate", pca_components=None, tfidf_weight=0.5, min_cluster_size_ratio=0.05, min_samples_ratio=0.5):
         self.persona_dataset = PersonaDataset()
         self.sample_size = sample_size
         self.split = split
@@ -28,7 +28,8 @@ class PersonaClusterAnalysis:
         self.mode = mode
         self.pca_components = pca_components
         self.tfidf_weight = tfidf_weight
-        self.min_cluster_size = min_cluster_size
+        self.min_cluster_size_ratio = min_cluster_size_ratio
+        self.min_cluster_size = int(sample_size * min_cluster_size_ratio)
         self.min_samples_ratio = min_samples_ratio
         self.min_samples = max(1, int(self.min_cluster_size * self.min_samples_ratio))
         self.output_dir = os.path.join("clustering/hdbscan_clusters", self.mode)
@@ -682,13 +683,13 @@ class PersonaClusterAnalysis:
 def main():
     parser = argparse.ArgumentParser(description="Persona Clustering Analysis using HDBSCAN")
     add = parser.add_argument
-    add("-s", "--sample_size", type=int, default=1000, help="Sample size for each dataset (default: 100000)")
+    add("-s", "--sample_size", type=int, default=600, help="Sample size for each dataset (default: 500)")
     add("-t", "--split", type=str, default="train", choices=["train", "validation", "test"], help="Dataset split to use (default: train)")
-    add("-m", "--mode", type=str, default="separate", choices=["combined", "separate"], help="Clustering mode: combined (all datasets together), or separate (per dataset)")
+    add("-m", "--mode", type=str, default="combined", choices=["combined", "separate"], help="Clustering mode: combined (all datasets together), or separate (per dataset)")
     add("-v", "--vectorization", type=str, default="tfidf", choices=["tfidf", "dense", "hybrid"], help="Vectorization method: tfidf, dense (sentence embeddings), or hybrid (both)")
-    add("-p", "--pca_components", type=int, default=50, help="Number of PCA components to use (default: 50)")
+    add("-p", "--pca_components", type=int, default=64, help="Number of PCA components to use (default: 64)")
     add("-w", "--tfidf_weight", type=float, default=0.5, help="Weight for TF-IDF vectors in hybrid vectorization (default: 0.5)")
-    add("-c", "--min_cluster_size", type=int, default=20, help="Minimum cluster size for HDBSCAN (default: 20)")
+    add("-c", "--min_cluster_size_ratio", type=float, default=0.1, help="Minimum cluster size ratio for HDBSCAN (default: 5%)")
     add("-r", "--min_samples_ratio", type=float, default=1, help="Ratio of min_samples to min_cluster_size for HDBSCAN (default: 1)")
     
     args = parser.parse_args()
@@ -700,7 +701,7 @@ def main():
         mode=args.mode,
         pca_components=args.pca_components,
         tfidf_weight=args.tfidf_weight,
-        min_cluster_size=args.min_cluster_size,
+        min_cluster_size_ratio=args.min_cluster_size_ratio,
         min_samples_ratio=args.min_samples_ratio
     )
     

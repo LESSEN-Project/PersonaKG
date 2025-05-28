@@ -15,6 +15,7 @@ from datetime import datetime
 from sklearn.metrics.pairwise import cosine_similarity
 import warnings
 warnings.filterwarnings('ignore')
+from sklearn.metrics import silhouette_score
 
 from PersonaKG.persona_dataset import PersonaDataset
 
@@ -291,10 +292,22 @@ class PersonaAgglomerativeClusterAnalysis:
         # Calculate cluster diversity score
         diversity_score = self.calculate_cluster_diversity(cluster_labels)
         
+        # Calculate silhouette score
+        silhouette = -1  # Default value if calculation fails
+        try:
+            if n_clusters_actual > 1 and vectors.shape[0] > 1:
+                silhouette = silhouette_score(vectors, cluster_labels)
+                print(f"  Silhouette score: {silhouette:.4f}")
+            else:
+                print("  Silhouette score: Not applicable (requires at least 2 clusters)")
+        except Exception as e:
+            print(f"  Error calculating silhouette score: {e}")
+        
         # Agglomerative clustering doesn't have a concept of noise points or probabilities
         
-        # Store the diversity score and cluster model in the object for later use
+        # Store the scores and cluster model in the object for later use
         self.diversity_score = diversity_score
+        self.silhouette_score = silhouette
         self.cluster_model = clusterer
         
         return cluster_labels, clusterer
@@ -337,6 +350,7 @@ class PersonaAgglomerativeClusterAnalysis:
             f.write(f"Number of clusters: {len(clusters)}\n")
             f.write(f"Analysis type: {output_prefix}\n")
             f.write(f"Diversity score: {getattr(self, 'diversity_score', 0.0):.4f} (higher is better)\n")
+            f.write(f"Silhouette score: {getattr(self, 'silhouette_score', -1):.4f} (higher is better)\n")
             f.write(f"Timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
 
             # Dataset distribution
@@ -398,7 +412,8 @@ class PersonaAgglomerativeClusterAnalysis:
         return {
             'n_clusters': len(clusters),
             'total_statements': len(statements),
-            'diversity_score': getattr(self, 'diversity_score', 0.0)
+            'diversity_score': getattr(self, 'diversity_score', 0.0),
+            'silhouette_score': getattr(self, 'silhouette_score', -1)
         }
 
     def filter_similar_statements(self, statements):
