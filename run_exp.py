@@ -690,11 +690,6 @@ def run_experiment(args):
     with open(eval_file, 'w') as f:
         json.dump(final_result_data, f, indent=2)
     
-    # If we have a checkpoint file and the experiment is complete, we can remove it
-    if os.path.exists(checkpoint_file) and len(predictions) == len(samples):
-        os.remove(checkpoint_file)
-        print(f"Checkpoint file removed as experiment is complete.")
-    
     print(f"Final results saved to {eval_file}")
     print(f"BLEU Score: {results['bleu']}")
     print(f"ROUGE-F1 Score: {results['rouge']}")
