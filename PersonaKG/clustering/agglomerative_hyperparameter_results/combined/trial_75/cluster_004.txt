@@ -1,0 +1,188 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 1081
+
+Dataset distribution in this cluster:
+  MSC: 11 (1.0%)
+  PER-CHAT: 1049 (97.0%)
+  PersonaChat: 11 (1.0%)
+  SyntheticPersonaChat: 10 (0.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 11
+
+1. I have 4 sisters.
+   (ID: dialog_1_speaker_2)
+
+2. My mom is a lesbian.
+   (ID: dialog_110_speaker_1)
+
+3. My sister has children.
+   (ID: dialog_99_speaker_2)
+
+4. I have 2 mothers
+   (ID: dialog_37_speaker_2)
+
+5. I have a nephew.
+   (ID: dialog_100_speaker_1)
+
+6. I have two younger brothers.
+   (ID: dialog_59_speaker_1)
+
+7. My mother is in law.
+   (ID: dialog_81_speaker_1)
+
+8. I have four sisters.
+   (ID: dialog_14_speaker_1)
+
+9. I have two nephews.
+   (ID: dialog_99_speaker_2)
+
+10. My sister has lots of kids.
+   (ID: dialog_7_speaker_1)
+
+11. I have four daughters.
+   (ID: dialog_124_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1049
+
+1. I have a mother in my family.
+   (ID: 664b365f80ff1d51db95866fada8009f14d8e9b1)
+
+2. I have a father in my family.
+   (ID: 80bb9445ee518d7503eeef1b2c418d38a6e936e9)
+
+3. I have a brothers in my family.
+   (ID: e5fd25110413c69853218bbcbb0169f73c8f06e1)
+
+4. I have a mother in my family.
+   (ID: 5a15ba0aaa5a6e6f9e3a2db25befda6ec40a9b88)
+
+5. I have a brothers in my family.
+   (ID: 7cece6bbdf487f99b6d494ab790bde8e66ce8966)
+
+6. I have a mother in my family.
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+7. I have a sisters in my family.
+   (ID: cbed067932829315de162cb512843a4f6b1083b7)
+
+8. I have a sister-in-law in my family.
+   (ID: 54097549786e78808b0d9772bb36b401b5761588)
+
+9. I have a brother in my family.
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+10. I have a daughter in my family.
+   (ID: c0cbd0e097375f98ad98ec291f836a39d55e02c1)
+
+11. I have a mother in my family.
+   (ID: 1634046145226dc01b1fa030132efd0574c38352)
+
+12. I have a sister in my family.
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+13. I have a brother in my family.
+   (ID: cd907372aff0871825a64e977822586e3bb0ecb7)
+
+14. I have a brother in my family.
+   (ID: 78a7be65b9d2e7cebf18280c07d4f44e6f2b3417)
+
+15. I have a sisters in my family.
+   (ID: abd2d3c15975e586b4b74794df81b7ac62b7f321)
+
+16. I have a daughter in my family.
+   (ID: 445ba4596e4bcff0c96b23f038cf784185970198)
+
+17. I have a mother in my family.
+   (ID: 544afc73e94949100186d302e382bea6fc33beb4)
+
+18. I have a mother in my family.
+   (ID: 695ad7129ad4566e5fbe988279cd914c2bff0ce9)
+
+19. I have a son in my family.
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+
+20. I have a sister in my family.
+   (ID: 3e1762624e55cdfb0929da3e1a1c438675e0c217)
+
+
+--- PersonaChat ---
+Total from this dataset: 11
+
+1. i have an older brother .
+   (ID: conversation_81)
+
+2. i've a twin brother .
+   (ID: conversation_57)
+
+3. i have 8 brothers and we are close .
+   (ID: conversation_274)
+
+4. i have two brothers .
+   (ID: conversation_242)
+
+5. i've a daughter .
+   (ID: conversation_105)
+
+6. i've three daughters .
+   (ID: conversation_297)
+
+7. i have four sisters .
+   (ID: conversation_1)
+
+8. i have 4 daughters .
+   (ID: conversation_124)
+
+9. i've 2 sisters .
+   (ID: conversation_161)
+
+10. i've two nephews .
+   (ID: conversation_99)
+
+11. i have a twin sister .
+   (ID: conversation_256)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 10
+
+1. I have a little sister.
+   (ID: conversation_324_user_2)
+
+2. I have a twin brother.
+   (ID: conversation_19_user_2)
+
+3. I have 2 sisters.
+   (ID: conversation_175_user_1)
+
+4. I have two nephews.
+   (ID: conversation_349_user_2)
+
+5. I have 2 sisters.
+   (ID: conversation_176_user_1)
+
+6. I am close to both of my brothers.
+   (ID: conversation_329_user_2)
+
+7. I have 4 daughters.
+   (ID: conversation_159_user_2)
+
+8. I have 2 sisters.
+   (ID: conversation_177_user_1)
+
+9. I have two nephews.
+   (ID: conversation_130_user_2)
+
+10. I have 4 daughters.
+   (ID: conversation_50_user_2)
+
+
+============================================================

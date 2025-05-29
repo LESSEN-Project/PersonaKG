@@ -1,0 +1,395 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 899
+
+Dataset distribution in this cluster:
+  FoCus: 4 (0.4%)
+  MPChat: 12 (1.3%)
+  MSC: 27 (3.0%)
+  PEC: 24 (2.7%)
+  PER-CHAT: 743 (82.6%)
+  PersonaChat: 38 (4.2%)
+  SyntheticPersonaChat: 51 (5.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 4
+
+1. I have interest in the Rothschild family.
+   (ID: JBP0INT1W707_11)
+
+2. My family is from Wales.
+   (ID: LJYX36WCRYDM_9)
+
+3. I am going to Blaenau Ffestiniog to visit family.
+   (ID: BVS6H6G1BVW6_11)
+
+4. My family lives in Warsaw.
+   (ID: C64P8U3HDDHY_9)
+
+
+--- MPChat ---
+Total from this dataset: 12
+
+1. working on a shawl for my future mother in law.
+   (ID: Sophie74656)
+
+2. the dishcloth set i have made as a gift for my mother hoping she likes it
+   (ID: letsallcrochetYT)
+
+3. here's two scarves i made for my mom / brother for xmas.
+   (ID: lolveets)
+
+4. reworked the handle on the bag for my future mother in law
+   (ID: Sophie74656)
+
+5. "no stopping me now shawl" for my mother using caron cakes buttercream and boston cream.
+   (ID: Ichishiro)
+
+6. my mother-in-law sent me a picture of her sleepy huskies
+   (ID: kentobean123)
+
+7. my mother-in-law dressing up koda
+   (ID: kentobean123)
+
+8. little rose bookmark i made for my mother who adores roses!
+   (ID: captainindigo123)
+
+9. the dishcloth set i made for my mother hoping she likes it
+   (ID: letsallcrochetYT)
+
+10. afternoon tea virus throw, finished for my step-mom, mother's day gift
+   (ID: Winter246)
+
+11. first time doing basket weave 3 vanilla layers with vanilla and caramel buttercream for my mother's birthday
+   (ID: Lady_FriendOfSpiders)
+
+12. the lamborghini cake i made for my brother last month.
+   (ID: ThePurpleBaker)
+
+
+--- MSC ---
+Total from this dataset: 27
+
+1. My mother works in healthcare.
+   (ID: dialog_90_speaker_2)
+
+2. My mother works at kroger.
+   (ID: dialog_53_speaker_1)
+
+3. My mother is a pro cleaner.
+   (ID: dialog_39_speaker_2)
+
+4. My mother is in law.
+   (ID: dialog_81_speaker_1)
+
+5. My mother has a terrible illness.
+   (ID: dialog_36_speaker_1)
+
+6. My mother tells fortunes.
+   (ID: dialog_58_speaker_1)
+
+7. My father has Covid-19.
+   (ID: dialog_77_speaker_1)
+
+8. I've ben to Canada before with my father.
+   (ID: dialog_33_speaker_2)
+
+9. My father recently retired from GE.
+   (ID: dialog_11_speaker_2)
+
+10. My father is a book writer.
+   (ID: dialog_38_speaker_2)
+
+11. My father has a lot of knowledge about household repair.
+   (ID: dialog_86_speaker_2)
+
+12. I am an author. My father is an author too.
+   (ID: dialog_9_speaker_2)
+
+13. I have no clue who my father is.
+   (ID: dialog_90_speaker_2)
+
+14. My mother is the closest person to me.
+   (ID: dialog_1_speaker_2)
+
+15. My mother used to play piano and sing.
+   (ID: dialog_10_speaker_1)
+
+16. My father is a minister.
+   (ID: dialog_40_speaker_2)
+
+17. My mother is the closest person to me.
+   (ID: dialog_14_speaker_1)
+
+18. I do not like my family.
+   (ID: dialog_2_speaker_1)
+
+19. My mother is my best friend.
+   (ID: dialog_1_speaker_2)
+
+20. My father flies for delta.
+   (ID: dialog_29_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 24
+
+1. i would come home not knowing which mother would be there .
+   (ID: snapsnaptomtom)
+
+2. i definitely think he is the hotter brother .
+   (ID: Mende)
+
+3. i like it cause no one else in my family does , so they do n’t eat my candy !
+   (ID: onederful2018)
+
+4. i guess your mother had one too many drinks !
+   (ID: bluesatin)
+
+5. i was debating over that one or the nfl brother !
+   (ID: LabeledAsALunatic)
+
+6. i think you cropped your gif wrong there brother
+   (ID: sircucumbers)
+
+7. i 'm not jewish , but it is a family name .
+   (ID: Mahatma_Panda)
+
+8. i am the same way brother .
+   (ID: iToaditSo)
+
+9. i once had an affair with op 's mother .
+   (ID: Ian_Str8)
+
+10. i 'm white and my brother 's paki .
+   (ID: Shrub74)
+
+11. i am a birth mother reunited with my son .
+   (ID: onederful2018)
+
+12. i am your father
+   (ID: RonaldFuckingPaul)
+
+13. i 'm with you brother .
+   (ID: apnudd)
+
+14. i was told a pomeranian was the father .
+   (ID: opalskys)
+
+15. i 'm holding a very special family reunion that i 'd like to be documented .
+   (ID: Evref)
+
+16. i loved the liver omelette for the mother - in - law .
+   (ID: StinkinFinger)
+
+17. i believe she is controlling them as much as my father .
+   (ID: RelaxedSociety)
+
+18. i miss my grand mother ’s ...
+   (ID: Ml7500)
+
+19. i recognized your mother
+   (ID: WiseScratch)
+
+20. i 'm straight but my entire family is like your parents .
+   (ID: SamuelStephenBono)
+
+
+--- PER-CHAT ---
+Total from this dataset: 743
+
+1. I have a mother in my family.
+   (ID: 54271e4114265f638c8e4c59d7a3b35b6caa55bf)
+
+2. I have a mother in my family.
+   (ID: 3158d7c63f10e871a80f147fb47725c8714163c7)
+
+3. I have a brother in my family.
+   (ID: 88c65ad9c962da115240776d5aa110748286db73)
+
+4. I have a mother in my family.
+   (ID: b05c37d4999dc6e0647955781d5a349457a11a40)
+
+5. I have a brother in my family.
+   (ID: a61db1f2f0a3d15376fd168a1637c028f25100e1)
+
+6. I have a father in my family.
+   (ID: cda2027ff011b74a04f79a766c8e8da339eb1f0b)
+
+7. I have a sister in my family.
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+8. i  m sorry i can  t offer some kind of fix all solution for you . it  s a tragic thing  years later and my mother  s still stuck in her old ways . the only thing you can do for them is try to be supportive . as i learned , though , some people . they really just don  t want to get better . it  s a sad life to live , and it hurts to see , but there truly isn  t much you can do . patience is key , and if they can truly find it in themselves to seek a better life , then they will  it may take days or it may take years . overall , it  s just a question of ,  is it worth it ?  do you truly want to stick around through thick and thin , then the answer is yes . unfortunately , i believe you  re already doing all you can by being a supportive friend . maybe he  s not quite as far gone as my mother was , and a family  friend intervention could at least get the wheels turning ? other than that , i regret to say that i have no advice . best of luck xx
+   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+
+9. when my mother was my age , she had been dead for three years . so i am doing way better in that regard .
+   (ID: 514a3ecd0d04716c9225352c4a3a5d5424dd8056)
+
+10. I have a sister in my family.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+11. I have a son in my family.
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
+
+12. I have a father in my family.
+   (ID: 168d1161144e63a83a23f04ae4e64bd4b25684c0)
+
+13. I have a sister in my family.
+   (ID: 2266fd8e27b1d50f2e144f7cd11716068cff21d5)
+
+14. I have a mother in my family.
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+15. I have a mother in my family.
+   (ID: a4eb94a9fe8ebabb780c319cc7d3f552eb79625e)
+
+16. I have a son in my family.
+   (ID: 1ebb4643f7e1e4d41ee2503d9b5d94ed0224c96b)
+
+17. I have a daughter in my family.
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+
+18. I have a father in my family.
+   (ID: 34de9309a5c02867b676757fa019c58a66bad300)
+
+19. I have a mother in my family.
+   (ID: a5abb0fc49ef940b208bd33b46b6b669a13fc83f)
+
+20. One of my favorite things is mother mother.
+   (ID: 6c99329e90a867248b7cd3a376f1a2fd57ae3994)
+
+
+--- PersonaChat ---
+Total from this dataset: 38
+
+1. my father was an author .
+   (ID: conversation_38)
+
+2. my mother passed away in 1979 .
+   (ID: conversation_209)
+
+3. my mother is a dentist .
+   (ID: conversation_161)
+
+4. my father lives in china .
+   (ID: conversation_6)
+
+5. i'm a mother to two beautiful boys .
+   (ID: conversation_248)
+
+6. my brother is in the army .
+   (ID: conversation_99)
+
+7. my mother is a teacher in the city .
+   (ID: conversation_219)
+
+8. my mother was a nurse .
+   (ID: conversation_45)
+
+9. my father lives in china .
+   (ID: conversation_182)
+
+10. i met my birth mother when i was sixteen .
+   (ID: conversation_180)
+
+11. my mother raised me since my father left when i was five years old .
+   (ID: conversation_178)
+
+12. my family is very important to me .
+   (ID: conversation_189)
+
+13. my father worked for ge .
+   (ID: conversation_11)
+
+14. my father is in prison .
+   (ID: conversation_146)
+
+15. my father was born in australia .
+   (ID: conversation_9)
+
+16. my father was also in the military .
+   (ID: conversation_89)
+
+17. my mother was born in ireland .
+   (ID: conversation_166)
+
+18. my family migrated to america when i was five .
+   (ID: conversation_22)
+
+19. my mother is in the hospital .
+   (ID: conversation_126)
+
+20. i'm all about family and fun .
+   (ID: conversation_110)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 51
+
+1. My mother is a teacher.
+   (ID: conversation_230_user_2)
+
+2. My mother is a dentist.
+   (ID: conversation_177_user_1)
+
+3. My mother was a teacher.
+   (ID: conversation_247_user_1)
+
+4. My father used to be a cop.
+   (ID: conversation_101_user_1)
+
+5. My mother looks after my grandmother.
+   (ID: conversation_211_user_2)
+
+6. My mother passed away in 1979.
+   (ID: conversation_117_user_2)
+
+7. My brother is in the army.
+   (ID: conversation_130_user_2)
+
+8. I am thinking of becoming a mother next year.
+   (ID: conversation_230_user_1)
+
+9. My father is a retired police officer.
+   (ID: conversation_177_user_2)
+
+10. I am a mother of three.
+   (ID: conversation_231_user_1)
+
+11. My mother is dead.
+   (ID: conversation_99_user_2)
+
+12. My sister is becoming my mother and often asks me when i m getting married.
+   (ID: conversation_167_user_2)
+
+13. My father is a preacher.
+   (ID: conversation_235_user_2)
+
+14. I am a mother.
+   (ID: conversation_84_user_1)
+
+15. My mother doesn t ! ove me.
+   (ID: conversation_69_user_2)
+
+16. My mother has her own fashion brand.
+   (ID: conversation_188_user_1)
+
+17. My mother is a teacher.
+   (ID: conversation_71_user_2)
+
+18. My mother is a housemaid.
+   (ID: conversation_202_user_2)
+
+19. My family is very important to me.
+   (ID: conversation_47_user_2)
+
+20. My mother is a teacher.
+   (ID: conversation_107_user_1)
+
+
+============================================================

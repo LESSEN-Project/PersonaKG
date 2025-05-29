@@ -1,0 +1,467 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 43969
+
+Dataset distribution in this cluster:
+  FoCus: 1249 (2.8%)
+  MPChat: 2885 (6.6%)
+  MSC: 1916 (4.4%)
+  PEC: 17198 (39.1%)
+  PER-CHAT: 17374 (39.5%)
+  PersonaChat: 1115 (2.5%)
+  SyntheticPersonaChat: 2232 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1249
+
+1. I wish I could go hiking.
+   (ID: KN10OGBG14Y2_11)
+
+2. I love art.
+   (ID: HO5IT5J1RXE4_11)
+
+3. I hope to know how water is supplied.
+   (ID: YWRU353H4NFF_11)
+
+4. I prefer visiting a easily accessible location.
+   (ID: PHE863C7IQKS_11)
+
+5. I have a friend who works in Tennessee.
+   (ID: PYCYFS54O1C8_11)
+
+6. I like street.
+   (ID: FOZE4Q84M3RX_11)
+
+7. I would like to visit England.
+   (ID: IS9KP8O0CE1M_11)
+
+8. I am interested in World Heritage Sites.
+   (ID: WXYJ15QP91WP_7)
+
+9. I have not been to Bristol.
+   (ID: DMD9S9COJOIA_7)
+
+10. I wish to live in England.
+   (ID: 72MY00U8UEGB_11)
+
+11. My favourite band is The Beatles.
+   (ID: UHZ1K434LZ46_11)
+
+12. I like to stay in resort.
+   (ID: 931HBHO4JP2E_11)
+
+13. I love New York City.
+   (ID: O5F8MAFDNJB4_11)
+
+14. I am interested in knowing the longest tunnels.
+   (ID: MJ8L7IHV13N8_11)
+
+15. I have visited the Canadian National Exhibition Stadium.
+   (ID: NMEFJE64KZ1F_11)
+
+16. I have been to United States.
+   (ID: PYCYFS54O1C8_11)
+
+17. I wish to buy a flat in Woolloongabba.
+   (ID: N14O6VGOOR7E_11)
+
+18. I like Worcestershire Canal.
+   (ID: 72MY00U8UEGB_11)
+
+19. I have attended a few music concerts.
+   (ID: WKAD0PJA14Q4_11)
+
+20. I like furniture.
+   (ID: HO5IT5J1RXE4_11)
+
+
+--- MPChat ---
+Total from this dataset: 2885
+
+1. i also made bon appetit’s cranberry lime pie!
+   (ID: hmbmelly)
+
+2. fries...are my krytonite...
+   (ID: onemantwohands)
+
+3. i made some red jasper heart shaped hair slides
+   (ID: captainindigo123)
+
+4. i made this danish butter cookies for my boyfriend.
+   (ID: justcook_byangel)
+
+5. cake i made for my friends birthday
+   (ID: kawaii1105)
+
+6. my local supermarket has a whole display dedicated to edible insects
+   (ID: ReturnOfTheFox)
+
+7. i'm slowly improving hehehehe.
+   (ID: Soggypaper_)
+
+8. basket of flowers cake i made yesterday
+   (ID: ellielumos)
+
+9. my second finished object for this week is a string shopping bag with pouch.
+   (ID: Moriarty58)
+
+10. made a birthday cake for my dad.
+   (ID: LunaMcLovin)
+
+11. my memorial day meat kit from wild fork foods made it in time
+   (ID: MonstaEatsItAll)
+
+12. "i need those freaking files now"
+   (ID: kentobean123)
+
+13. i crocheted the pokemon gothita!
+   (ID: KnitPurlPrint)
+
+14. this is my newest fungaloid, clarence the wise, and i love him
+   (ID: Louiesloops)
+
+15. i got a little carried away with the tiny octopus keychains
+   (ID: FoxInKneeSocks)
+
+16. my coworkers liked my cup sleeve so much they asked for their own :)
+   (ID: ddizzle23)
+
+17. i've finished these cuties and i'm so excited to show them off!
+   (ID: Ploliveira)
+
+18. i made butterfly keychains!
+   (ID: FoxInKneeSocks)
+
+19. i am... very confused as to how this may have happened.
+   (ID: alnomds)
+
+20. i made 5 for halloween.
+   (ID: cuppcatt)
+
+
+--- MSC ---
+Total from this dataset: 1916
+
+1. I like to be outside.
+   (ID: dialog_84_speaker_2)
+
+2. I work at a movie theater.
+   (ID: dialog_87_speaker_1)
+
+3. I enjoy seeing the world.
+   (ID: dialog_9_speaker_2)
+
+4. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+5. I'm the ultimate. I'm the alpha and the omega.
+   (ID: dialog_43_speaker_1)
+
+6. I like rap music. I like Michael Jackson.
+   (ID: dialog_59_speaker_1)
+
+7. I have a boring job.
+   (ID: dialog_20_speaker_2)
+
+8. I like pizza.
+   (ID: dialog_89_speaker_2)
+
+9. I serve at the davenport lounge.
+   (ID: dialog_77_speaker_2)
+
+10. I enjoy watching football and hockey games.
+   (ID: dialog_9_speaker_1)
+
+11. When I vacation I go to Colorado and stay in a cabin in the mountains by a big lake.
+   (ID: dialog_13_speaker_2)
+
+12. In the future I want to drive a large vehicle.
+   (ID: dialog_28_speaker_1)
+
+13. I listen to George Strait.
+   (ID: dialog_66_speaker_2)
+
+14. I am a website designer. I spend a lot of time on the computer.
+   (ID: dialog_1_speaker_1)
+
+15. I like getting dishes.
+   (ID: dialog_73_speaker_2)
+
+16. My puppy is called georgie.
+   (ID: dialog_76_speaker_2)
+
+17. I am enlisted in the army. I am a pilot. I fly a bomber.
+   (ID: dialog_67_speaker_2)
+
+18. I am afraid of needles.
+   (ID: dialog_90_speaker_1)
+
+19. I prefer big dogs. I don't have dogs.
+   (ID: dialog_80_speaker_1)
+
+20. My mom is a website designer.
+   (ID: dialog_1_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 17198
+
+1. i cold not remember where i took this .
+   (ID: chirpyboyandbartjr)
+
+2. i think passives are always better in the long run .
+   (ID: Taydrz)
+
+3. i 've had the pills for over a month now and i 've been too scared to take one .
+   (ID: underneathstars)
+
+4. i have a 115 yamaha on a 19 ' and it moves .
+   (ID: ludaa)
+
+5. i am so waiting for a bozarking comment .
+   (ID: cookiexcmonster)
+
+6. i ’m just curious if it will improve things .
+   (ID: SPQR1212)
+
+7. i 'd like to see it with grant wood paintings
+   (ID: wooq)
+
+8. i do n't think the cops would know ...
+   (ID: thebastion)
+
+9. i 'm seeing polkadots .
+   (ID: BabblingBunny)
+
+10. i really do hope you find something that works for you !
+   (ID: AP7497)
+
+11. i ca n’t imagine how incredibly annoying the dildoe holder is as a human
+   (ID: lambsquatch)
+
+12. i 'll lol all over this bitch !
+   (ID: ludaa)
+
+13. i need someone to proof read my application for a year of study abroad .
+   (ID: carwynllew)
+
+14. i 'm white btw .
+   (ID: closetotheedge48)
+
+15. i 'm okay with that terminology .
+   (ID: IncredibleBulk2)
+
+16. i wonder if this is why some people do n’t like reading
+   (ID: lovestheautumn)
+
+17. i 'm pretty sure in my 7th grade , 2 decades ago this was n't even news .
+   (ID: alextound)
+
+18. i wonder how a pinstripe suit would go with a flapper pearl necklace .
+   (ID: silentpower)
+
+19. i have always believed in the quote " failing sucks more than studying " .
+   (ID: beautifulw0man)
+
+20. i think they need to be manually turned off when they die so their heart stops beating
+   (ID: Nick84572)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17374
+
+1. One of my favorite things is jokes of all kinds of morbidity.
+   (ID: c22fbcc3fbb3286d348387d73888b66c1c9e09ba)
+
+2. don  t get your pussy where you get your paycheck . also , don  t cheat on your wife . it will not be just as simple as fwb sex .
+   (ID: 777e86703ab013526ea933a9a9fcc97d1fbd6a78)
+
+3. I have a daughter in my family.
+   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
+
+4. anyone who makes fun of someone  s deformity is a total faggot . try to roast back if someone makes fun of you . usually just telling on then or something like that wont usually do anything but make it worse .
+   (ID: 701f8001d10c04dcd53d9b13ab2a896b452e50f7)
+
+5. ive watched the whole video and i am not sure if you read my post . my main argument is not autism . it is other minor damages caused from vaccines
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+6. I own a game.
+   (ID: 01d091dafa86b9d15d91404a1a02a0fc98011e8c)
+
+7. do you have a cat ? you have so many scars on your arm ! yes innocent people like that still exist
+   (ID: c5e877ff3be5d3571f5fe899f55887a6f608ee98)
+
+8. One of my favorite things is minecraft.
+   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
+
+9. i ' m going to say the same thing i say in every thread  the driving test is , by definition , a test . to prepare for it , do the thing you do for any test and study only the material you are going to be tested on . that info should come with a little booklet you got from the dmv when you got your learners permit , and outlines everything you need to know on it . if you get any one of the things outlined in the booklet wrong , its probably a demerit towards you passing . good luck !
+   (ID: c23be0b501278176a288ed6b3ab6669ac6b9896a)
+
+10. you need to be more hydrated , after you sweat that much you must be thirsty
+   (ID: 870d9d198f856764296262192823c935f1daf781)
+
+11. create and maintain a podcast
+   (ID: d785eda10245445843c3355a0710d262b0d65bb9)
+
+12. I own a american cock.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+13. fun  this is the best thing i ever made ! my self and my two sons love it . my wife isn ' t the big meat eater . it ' s great for making cheep cuts tender and juicy .
+   (ID: 6f3d93754035383ba31c7eb4503265c62893fa84)
+
+14. I'm interested in tattoos.
+   (ID: b5511d022d9aa43868b3f1a7ca2e4368d861570c)
+
+15. got it . in that case i believe ml could help and agree with the post from woodsja2 . i ' ve taken the andrew ng course they mention , and came away with a pretty good understanding of the different techniques . that said , to do this right probably requires prior experience . good luck , should be a fun problem to work on !
+   (ID: b61e1d4de0e5d22ad937104e46a2657b01e7cca9)
+
+16. ha ! i ' m like you  i find all that stuff just massively fascinating . not sure how i ' d feel paralysed and not able to communicate , though .
+   (ID: bb79791c3753a1fc8ece696b3835b0f59ddccc90)
+
+17. maybe you should ask france and germany if you ' re allowed to spend money on your " free " health care before you make this joke .
+   (ID: 114f7cbc1e95e422548314f66f04854e144a7a35)
+
+18. the thing your typing on would of been made by people on low pay and long hours or is their suffering ok as you don  t see it ?
+   (ID: bdf7e254fb732651bb0373067c57200731f7ca55)
+
+19. I own a manager.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+20. One of my favorite things is correct answers.
+   (ID: 1cf567904675ac1ca7b5a90612e5479a5b6c9bef)
+
+
+--- PersonaChat ---
+Total from this dataset: 1115
+
+1. i'm still living at home at age 30 .
+   (ID: conversation_109)
+
+2. i am in college now and want to be a teacher .
+   (ID: conversation_22)
+
+3. i work as an electrician .
+   (ID: conversation_244)
+
+4. i just accepted a job at the elementary school in my hometown .
+   (ID: conversation_216)
+
+5. i like to go fishing on the lake .
+   (ID: conversation_104)
+
+6. i'm enrolled in several college credit courses .
+   (ID: conversation_87)
+
+7. i working in a publishing building .
+   (ID: conversation_41)
+
+8. i work as a barista .
+   (ID: conversation_151)
+
+9. i make and me by waiting tables .
+   (ID: conversation_21)
+
+10. my family is very important to me .
+   (ID: conversation_189)
+
+11. yellow is my favorite color .
+   (ID: conversation_64)
+
+12. i work many hours .
+   (ID: conversation_8)
+
+13. i'm overall happy with life .
+   (ID: conversation_128)
+
+14. i hate evil .
+   (ID: conversation_130)
+
+15. i've a lot of friends .
+   (ID: conversation_97)
+
+16. i can t get enough gummy worms to satisfy my sweet tooth .
+   (ID: conversation_25)
+
+17. my father was a famous actor .
+   (ID: conversation_154)
+
+18. i drive a jag .
+   (ID: conversation_169)
+
+19. i do not like beer .
+   (ID: conversation_198)
+
+20. i am an middle school teacher for 8th grade .
+   (ID: conversation_213)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2232
+
+1. I am a vegan.
+   (ID: conversation_216_user_1)
+
+2. I like to travel.
+   (ID: conversation_110_user_1)
+
+3. I like the guitar.
+   (ID: conversation_213_user_1)
+
+4. I have 3 cats.
+   (ID: conversation_110_user_2)
+
+5. I am currently single but i am ready to mingle.
+   (ID: conversation_148_user_1)
+
+6. 1984 is my favorite book.
+   (ID: conversation_127_user_1)
+
+7. I have a poodle named nanette.
+   (ID: conversation_148_user_2)
+
+8. My sister is becoming my mother and often asks me when i m getting married.
+   (ID: conversation_167_user_2)
+
+9. My mother is a ballerina.
+   (ID: conversation_143_user_2)
+
+10. I have a sleeve of tattoos.
+   (ID: conversation_149_user_1)
+
+11. I am a writer.
+   (ID: conversation_243_user_1)
+
+12. I can t stand pizza.
+   (ID: conversation_243_user_2)
+
+13. I m not very tall.
+   (ID: conversation_71_user_1)
+
+14. I live in colorado.
+   (ID: conversation_236_user_1)
+
+15. I love mac and cheese.
+   (ID: conversation_31_user_2)
+
+16. I have a dog that has behavioral issues.
+   (ID: conversation_124_user_1)
+
+17. I paint with watercolors.
+   (ID: conversation_173_user_2)
+
+18. Favorite color is green.
+   (ID: conversation_110_user_1)
+
+19. I prefer iphone over samsung.
+   (ID: conversation_69_user_1)
+
+20. My name is mary and i m from colorado.
+   (ID: conversation_88_user_2)
+
+
+============================================================

@@ -1,0 +1,413 @@
+CLUSTER 30
+============================================================
+Total statements in cluster: 894
+
+Dataset distribution in this cluster:
+  FoCus: 53 (5.9%)
+  MPChat: 2 (0.2%)
+  MSC: 126 (14.1%)
+  PEC: 81 (9.1%)
+  PER-CHAT: 399 (44.6%)
+  PersonaChat: 90 (10.1%)
+  SyntheticPersonaChat: 143 (16.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 53
+
+1. I am planning to apply to a university.
+   (ID: OYTF1VSA3B6S_11)
+
+2. I'm looking for a university.
+   (ID: J5M5FXFIS10V_11)
+
+3. I am interested in architecture.
+   (ID: EDLPKHWH3K5B_11)
+
+4. I want a higher education.
+   (ID: L2FEEPD1V8BQ_11)
+
+5. I am interested in good education.
+   (ID: IKQ9QU6QOUT4_11)
+
+6. I am interested in mining.
+   (ID: BVS6H6G1BVW6_11)
+
+7. I am a student.
+   (ID: ASEVTIZW4Z03_11)
+
+8. I am interested in architecture.
+   (ID: DYCZHTF8867I_11)
+
+9. I am doing my research studies in Washington.
+   (ID: E6FC9U7LUUT3_11)
+
+10. I am interested in golf course.
+   (ID: N6PQUNGWIN2C_11)
+
+11. I'm interested in architecture.
+   (ID: OYVLAB02CT4O_11)
+
+12. I am interested in studying and legislating laws.
+   (ID: IJ61LGMTNN5M_11)
+
+13. I am a geologist.
+   (ID: J01LGGCHBYTE_11)
+
+14. I am interested in tourism.
+   (ID: HY8G2PNPA8VA_11)
+
+15. I wish to attend a theological college.
+   (ID: U1BWA2YRTQ7B_11)
+
+16. I am interested in studying construction and making a blueprint of my own house.
+   (ID: XW6WLBIV74VV_11)
+
+17. I am a university graduate.
+   (ID: CPJ95KR758ZY_11)
+
+18. I am interested in architecture.
+   (ID: MRD9ZG9O57GA_11)
+
+19. I am interested in urban planning.
+   (ID: RULPAHV9K06Y_11)
+
+20. I am interested in electric light.
+   (ID: JO1EIDJ1Y4KJ_11)
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. one year ago today i started my job that i got through a reddit post of mine.
+   (ID: BeastaBubbles)
+
+2. i quit my job and started my own business.
+   (ID: rileyracks)
+
+
+--- MSC ---
+Total from this dataset: 126
+
+1. I get good grades in school.
+   (ID: dialog_169_speaker_1)
+
+2. I study to be a businessman.
+   (ID: dialog_7_speaker_2)
+
+3. I use apps to manage my finances. It took three months to save up enough to take classes.
+   (ID: dialog_139_speaker_1)
+
+4. I am in university majoring in business. I am studying finance.
+   (ID: dialog_7_speaker_2)
+
+5. I'm employed at a college.
+   (ID: dialog_146_speaker_1)
+
+6. I have a part time job.
+   (ID: dialog_184_speaker_2)
+
+7. I am taking courses online.
+   (ID: dialog_139_speaker_1)
+
+8. I will be attending college in a state south of west virgina.
+   (ID: dialog_159_speaker_1)
+
+9. I'm studying to be an entrepreneur.
+   (ID: dialog_113_speaker_1)
+
+10. I am interested in electronics.
+   (ID: dialog_155_speaker_2)
+
+11. I'm an elementary school teacher.
+   (ID: dialog_91_speaker_2)
+
+12. I am studying a degree in linguistics. I started back to school last week. I live on campus.
+   (ID: dialog_191_speaker_2)
+
+13. I go to school over the internet.
+   (ID: dialog_162_speaker_1)
+
+14. I am single. I'm a mother. I have a son. I'm unemployed. I like reading
+   (ID: dialog_65_speaker_2)
+
+15. I'll graduate next year.
+   (ID: dialog_94_speaker_1)
+
+16. I am home schooled and don't leave the house much.
+   (ID: dialog_97_speaker_2)
+
+17. I study computer engineering. I will start an internship soon.
+   (ID: dialog_50_speaker_2)
+
+18. I complete school this year.
+   (ID: dialog_22_speaker_2)
+
+19. I'm in college to receive my diploma.
+   (ID: dialog_191_speaker_2)
+
+20. I'm tired of being a couch potato.
+   (ID: dialog_120_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 81
+
+1. i am a stay at home dad !
+   (ID: DickRubnuts)
+
+2. i got my tuition right now but no income so i 'm always broke
+   (ID: swaggy_butthole)
+
+3. i 'm engineering , 4th year .
+   (ID: thenanoage)
+
+4. i got three promotions in less than three years .
+   (ID: gigatroness)
+
+5. i got my master 's in library studies .
+   (ID: Always_Ask_4_Sources)
+
+6. i 'm in my senior year .
+   (ID: pyro2927)
+
+7. i 'd avoid payday loans as well
+   (ID: AzHighways)
+
+8. i just went from minimum wage to 47k a year .
+   (ID: AgedTwenties)
+
+9. i may have to drop out of college because of money .
+   (ID: Nolanoscopy)
+
+10. i 'm an incoming transfer student starting classes in the summer .
+   (ID: mdk15)
+
+11. i did n't realize how much i was doing while i was unemployed .
+   (ID: KhalidPhoenix)
+
+12. i m in los angeles and applying to local and online programs .
+   (ID: notlikethat1)
+
+13. i really want too , i ’m also a full time college student
+   (ID: iam1r7)
+
+14. i make $ 80,000 .
+   (ID: lilykin)
+
+15. i ’m always looking for someone to bunnysit .
+   (ID: RobotHappiness)
+
+16. i 'm a single working mom
+   (ID: sourpatchkidj)
+
+17. i 40 / f have always worked in retail since i was 17 years old .
+   (ID: 11_29_77)
+
+18. i found a few large universities with relavent programs for the fall of 2019 .
+   (ID: creedisagoodband)
+
+19. i would really like to study in glorious germany for my 2nd level degree .
+   (ID: apnudd)
+
+20. i was able to afford braces and get my teeth fixed when i was 33 years old .
+   (ID: deputydan_scubaman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 399
+
+1. I'm interested in cooking.
+   (ID: a428ebec68dc8bb1dccfb778bb32844c5677e265)
+
+2. I'm interested in personal finance.
+   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+
+3. I'm interested in personal finance.
+   (ID: ac1ceb388a2e170941cb682c48398cacc87c5019)
+
+4. I'm interested in jobs and careers.
+   (ID: 1ebb4643f7e1e4d41ee2503d9b5d94ed0224c96b)
+
+5. I'm interested in math.
+   (ID: b61e1d4de0e5d22ad937104e46a2657b01e7cca9)
+
+6. I'm interested in economics.
+   (ID: 744a61859eb21e8e7ed805da69133b0d07c3e965)
+
+7. I own a class.
+   (ID: 465a8b7c9604514a10670d3813f18485575cfa5c)
+
+8. I'm interested in finance.
+   (ID: 65e18a8843fe1a6d644e4fe6a3b227426a6b9103)
+
+9. I live in roman catholic.
+   (ID: ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9)
+
+10. I'm interested in cooking.
+   (ID: c7b03500469d01fff7d63dc804418c265ca4c838)
+
+11. I'm interested in medicine.
+   (ID: ae523af408f5ede28b0592f69a7488ab41bb519a)
+
+12. I'm interested in finance.
+   (ID: 7c7d6a809e77ab08fc65ee63a1ab44c11bd6ab7f)
+
+13. producing an average digit episode anime costs around  digit million , and if you want to provide animators with a liveable wage , especially in america , that ' s going to increase quite significantly . and that ' s when the studios are already established . so i ' d say start by building up some capital .
+   (ID: fdf9c56e21cf61fb3b2852da66f6506ce908651c)
+
+14. I'm interested in fashion and beauty.
+   (ID: dcb1bc1d0feb2af72f09ec35633379706e2b36f0)
+
+15. invest , and mine but coins when the time came
+   (ID: feb4a6aeed8e7e14b0592329bd91d7933a93217e)
+
+16. I'm interested in cooking.
+   (ID: b85d09c5bfb3611a720f11287b9483cc0802908d)
+
+17. I'm interested in real estate.
+   (ID: 088497bce89e4823631f87585634427788f1c44f)
+
+18. I own a class.
+   (ID: a0849f7d6d0829c8bb5f820aa9bf63584c7471df)
+
+19. I'm interested in chemistry.
+   (ID: 09635643777fe30eb3750faad0e2ea7a607f855c)
+
+20. I'm interested in cooking.
+   (ID: e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3)
+
+
+--- PersonaChat ---
+Total from this dataset: 90
+
+1. i'm going to school to get a degree now .
+   (ID: conversation_191)
+
+2. i just graduated high school with honors .
+   (ID: conversation_351)
+
+3. i am a mother of two daughters .
+   (ID: conversation_340)
+
+4. i graduated college last week .
+   (ID: conversation_258)
+
+5. i m a babysitter .
+   (ID: conversation_261)
+
+6. i am an middle school teacher for 8th grade .
+   (ID: conversation_213)
+
+7. i am a high school teacher .
+   (ID: conversation_252)
+
+8. i m a college student .
+   (ID: conversation_488)
+
+9. i teach first grade .
+   (ID: conversation_206)
+
+10. i teach at a large school .
+   (ID: conversation_217)
+
+11. i m a children s librarian .
+   (ID: conversation_263)
+
+12. i am a mother of 5 .
+   (ID: conversation_325)
+
+13. i work full time .
+   (ID: conversation_445)
+
+14. i had to get a job early as a child .
+   (ID: conversation_116)
+
+15. i am highly educated .
+   (ID: conversation_463)
+
+16. i m a children s librarian .
+   (ID: conversation_330)
+
+17. i teach kindergarten .
+   (ID: conversation_217)
+
+18. i just graduated from high school .
+   (ID: conversation_108)
+
+19. i dropped out of college .
+   (ID: conversation_67)
+
+20. i'm very good at math and science .
+   (ID: conversation_122)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 143
+
+1. I am a mother.
+   (ID: conversation_482_user_2)
+
+2. I am a mother.
+   (ID: conversation_376_user_1)
+
+3. I work at the gas station as a part time job.
+   (ID: conversation_368_user_2)
+
+4. I am in college.
+   (ID: conversation_77_user_2)
+
+5. I am a mother of three.
+   (ID: conversation_230_user_1)
+
+6. I am a kindergarten teacher.
+   (ID: conversation_450_user_2)
+
+7. I am college student.
+   (ID: conversation_78_user_2)
+
+8. I am a high school student.
+   (ID: conversation_431_user_1)
+
+9. I am a sixth grade teacher.
+   (ID: conversation_367_user_2)
+
+10. I am a student.
+   (ID: conversation_219_user_1)
+
+11. I am a mother.
+   (ID: conversation_456_user_2)
+
+12. I work two jobs as a cashier.
+   (ID: conversation_197_user_2)
+
+13. I go to school for business.
+   (ID: conversation_7_user_2)
+
+14. I am a freshman in college.
+   (ID: conversation_409_user_1)
+
+15. I am in college.
+   (ID: conversation_127_user_1)
+
+16. I work 60 hours a week.
+   (ID: conversation_138_user_2)
+
+17. I am a high school student.
+   (ID: conversation_433_user_1)
+
+18. I am a student.
+   (ID: conversation_74_user_2)
+
+19. I worked 3 jobs at the same time for more than 5 years.
+   (ID: conversation_251_user_2)
+
+20. I am a kindergarten teacher.
+   (ID: conversation_153_user_1)
+
+
+============================================================

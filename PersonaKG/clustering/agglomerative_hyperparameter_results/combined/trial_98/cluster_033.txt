@@ -1,0 +1,179 @@
+CLUSTER 33
+============================================================
+Total statements in cluster: 788
+
+Dataset distribution in this cluster:
+  MSC: 6 (0.8%)
+  PER-CHAT: 759 (96.3%)
+  PersonaChat: 10 (1.3%)
+  SyntheticPersonaChat: 13 (1.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I have a nephew.
+   (ID: dialog_100_speaker_1)
+
+2. I have brothers.
+   (ID: dialog_189_speaker_2)
+
+3. I have two younger brothers.
+   (ID: dialog_59_speaker_1)
+
+4. I have one son.
+   (ID: dialog_55_speaker_2)
+
+5. I have two nephews.
+   (ID: dialog_99_speaker_2)
+
+6. I have sons.
+   (ID: dialog_9_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 759
+
+1. I have a father in my family.
+   (ID: d239102bc184479462fc1422e316856d8bca37ba)
+
+2. I have a father in my family.
+   (ID: f3f34b7b903c833de2625265da4585abdc86ab7c)
+
+3. I have a brother in my family.
+   (ID: 88c35221745da41b29ff5b9f921026de5ccbb6c0)
+
+4. I have a father in my family.
+   (ID: 6938adfadf158e773c1a81f3c3b4f7ef1aed3881)
+
+5. I have a father in my family.
+   (ID: 80bb9445ee518d7503eeef1b2c418d38a6e936e9)
+
+6. I have a father in my family.
+   (ID: a5abb0fc49ef940b208bd33b46b6b669a13fc83f)
+
+7. I have a father in my family.
+   (ID: ad911088c8434d08c7a96c969a57a09b00f02e99)
+
+8. I have a father in my family.
+   (ID: 20e44d996799f8bb3fe89546818050bf021f4be9)
+
+9. I have a brother in my family.
+   (ID: 26831d6557d17492ae3b0b54585b32e08055f834)
+
+10. I have a father in my family.
+   (ID: 298dd327349771a27c9a14437b3b5a53d0bd9e35)
+
+11. I have a brother in my family.
+   (ID: b29114e3d39ee1086f5eb2abbe6cbec33bc7749f)
+
+12. I have a brother in my family.
+   (ID: 5be7ef463c3ba0c7a9c255bd9769c5f638d2b805)
+
+13. I have a father in my family.
+   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+
+14. I have a father in my family.
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+
+15. I have a brother in my family.
+   (ID: 4ea608a8fbdec83863f8ba3f502bfd6966794702)
+
+16. I have a father in my family.
+   (ID: db1ffea2a957f19bfc0fffdbd89a6d65be91fd5c)
+
+17. I have a father in my family.
+   (ID: 78a7be65b9d2e7cebf18280c07d4f44e6f2b3417)
+
+18. I have a father in my family.
+   (ID: fe5860fea6be29c69501e1a97b1240375d594aa9)
+
+19. I have a father in my family.
+   (ID: 5d0b750bf77c2c6e8b41ebf03caf4038a907b876)
+
+20. I have a brothers in my family.
+   (ID: af0c660bb723d5afb410ddb2f8b9e5f271ae2703)
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i have two brothers .
+   (ID: conversation_460)
+
+2. i have one son .
+   (ID: conversation_442)
+
+3. i've one son .
+   (ID: conversation_55)
+
+4. i'm close to both of my brothers .
+   (ID: conversation_458)
+
+5. i have 8 brothers and we are close .
+   (ID: conversation_444)
+
+6. i have an older brother .
+   (ID: conversation_81)
+
+7. i've two nephews .
+   (ID: conversation_99)
+
+8. i've a twin brother .
+   (ID: conversation_57)
+
+9. i have 8 brothers and we are close .
+   (ID: conversation_274)
+
+10. i have two brothers .
+   (ID: conversation_242)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 13
+
+1. I have an older brother.
+   (ID: conversation_406_user_2)
+
+2. I have a son.
+   (ID: conversation_275_user_1)
+
+3. I have a son.
+   (ID: conversation_454_user_2)
+
+4. I have two nephews.
+   (ID: conversation_349_user_2)
+
+5. I have a son.
+   (ID: conversation_274_user_1)
+
+6. I have two nephews.
+   (ID: conversation_130_user_2)
+
+7. I have a son.
+   (ID: conversation_155_user_2)
+
+8. I have one son.
+   (ID: conversation_372_user_2)
+
+9. I am close to both of my brothers.
+   (ID: conversation_329_user_2)
+
+10. I have a twin brother.
+   (ID: conversation_19_user_2)
+
+11. I have two brothers.
+   (ID: conversation_388_user_2)
+
+12. I have a son.
+   (ID: conversation_304_user_2)
+
+13. I have a son.
+   (ID: conversation_351_user_2)
+
+
+============================================================

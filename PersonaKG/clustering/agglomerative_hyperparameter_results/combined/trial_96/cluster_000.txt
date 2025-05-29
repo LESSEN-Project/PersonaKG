@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43983
+
+Dataset distribution in this cluster:
+  FoCus: 1250 (2.8%)
+  MPChat: 2885 (6.6%)
+  MSC: 1916 (4.4%)
+  PEC: 17208 (39.1%)
+  PER-CHAT: 17376 (39.5%)
+  PersonaChat: 1116 (2.5%)
+  SyntheticPersonaChat: 2232 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1250
+
+1. I wish I could live near a lake.
+   (ID: KVV5IPK54RRU_11)
+
+2. I would like to visit historic bridges.
+   (ID: CRWZDJUVM3WL_11)
+
+3. I am interested in national collection.
+   (ID: O32SMRJRNDHW_11)
+
+4. I wish I could take a trip on a cruise across the Adriatic Sea.
+   (ID: 91IHZ45NQ48A_11)
+
+5. I love New York City.
+   (ID: O5F8MAFDNJB4_11)
+
+6. I like to go to a park.
+   (ID: LYKL0NXYUSDG_11)
+
+7. I have been to the state of Illinois.
+   (ID: VPRC44FNGVA6_11)
+
+8. I have the hobby of hiking.
+   (ID: BPCV4KG0PEMD_7)
+
+9. I would like to visit a castle.
+   (ID: 8PCBSP0T0VTY_11)
+
+10. I wish to be close to villages.
+   (ID: XVCYQ74XC28W_11)
+
+11. I like Geography.
+   (ID: V0DLNYLN813E_11)
+
+12. I would like to go to college.
+   (ID: NOJ4G30KI3T7_11)
+
+13. I would like to see military artefacts.
+   (ID: LCFMQMTGBUJO_7)
+
+14. I would like to go to a stadium.
+   (ID: VP3189E0Z1O2_11)
+
+15. I would like study about ancient monuments.
+   (ID: XDIIZK7KZ12G_11)
+
+16. I am curious about jails.
+   (ID: BWZ0H3E6AIGB_11)
+
+17. I am from England.
+   (ID: T9JPYSSWD7NW_11)
+
+18. I like making food.
+   (ID: NR67D1SY5ZKB_11)
+
+19. I have visited Austria many times.
+   (ID: YLLQOXHD6MZC_7)
+
+20. I hope to spend a night in a castle.
+   (ID: J3FELD3FPXVQ_11)
+
+
+--- MPChat ---
+Total from this dataset: 2885
+
+1. [fo] i made this outlook.
+   (ID: gelimausi)
+
+2. i made a souffle for my husband.
+   (ID: gelimausi)
+
+3. french dipping my banh mi in pho broth
+   (ID: onemantwohands)
+
+4. i've embroidered the vim logo as a keyring.
+   (ID: gelimausi)
+
+5. i've never done this before and i got inspired by the granny square stained glass.
+   (ID: Soapy_Von_Soaps)
+
+6. finished a present for my friends gf.
+   (ID: River_Lethe)
+
+7. i am a lion!
+   (ID: mattsulli)
+
+8. i know most people hate homespun but i rewound some ugly skeins i had and found these beautiful colors
+   (ID: ddizzle23)
+
+9. i knit a cup holder out of leftover yarn
+   (ID: Novel_Fox)
+
+10. i like to put cute animals in my coffee!
+   (ID: av929)
+
+11. i want to try different kind of cheesecake.
+   (ID: justcook_byangel)
+
+12. christmas tree cake [i made] for my aunts christmas party.
+   (ID: amandabakes)
+
+13. i participated in the reddit gifts holiday card exchange.
+   (ID: FoxInKneeSocks)
+
+14. i made wicket potter, the ewok hogwarts student
+   (ID: zenbuffy)
+
+15. "excuse me... i'd like to squeeze myself under this chair"
+   (ID: HobbitLass)
+
+16. it’s been a while since i’ve done my nails.
+   (ID: gxnelson)
+
+17. i made candy corn for my daughter's first-grade class.
+   (ID: guessdragon)
+
+18. hey, i was a novice then!
+   (ID: DeanIsHotter)
+
+19. this bunny cake i made
+   (ID: kimbowee)
+
+20. there are little blips where i decreased.
+   (ID: FoxInKneeSocks)
+
+
+--- MSC ---
+Total from this dataset: 1916
+
+1. My parents had 5 kids.
+   (ID: dialog_1_speaker_2)
+
+2. I am single. I live in a suburb in Boston. I know many hiking trails in Boston.
+   (ID: dialog_41_speaker_1)
+
+3. I want to own a repair shop.
+   (ID: dialog_32_speaker_2)
+
+4. I like beer. My mother is my best friend.
+   (ID: dialog_61_speaker_2)
+
+5. I prefer the book version of Sherlock Holmes. I enjoy a lot of Agatha Christie's work.
+   (ID: dialog_5_speaker_1)
+
+6. I love being with freezing water.
+   (ID: dialog_51_speaker_1)
+
+7. I am apart of a different work environment.
+   (ID: dialog_62_speaker_2)
+
+8. I want to sing professionally.
+   (ID: dialog_47_speaker_2)
+
+9. My mom likes rock music. I love her cooking.
+   (ID: dialog_61_speaker_2)
+
+10. I have a kid. I have a horse name Beauty.
+   (ID: dialog_40_speaker_2)
+
+11. I like spicy foods.
+   (ID: dialog_82_speaker_2)
+
+12. I'm vegan. I like the vegan food at Whole Foods.
+   (ID: dialog_65_speaker_2)
+
+13. My dog won won is a golden retriever.
+   (ID: dialog_93_speaker_1)
+
+14. I am from Philadelphia.
+   (ID: dialog_12_speaker_1)
+
+15. I love body art.
+   (ID: dialog_90_speaker_2)
+
+16. My favorite food is spagetti and meatballs
+   (ID: dialog_37_speaker_2)
+
+17. I am working on a charity app matching volunteers to financial donations.
+   (ID: dialog_79_speaker_1)
+
+18. I am better at listening than discussing.
+   (ID: dialog_54_speaker_2)
+
+19. I'm from the midwest. I'm a college student.
+   (ID: dialog_89_speaker_2)
+
+20. My dog's breed is Siberian Husky.I had a dog named Sally. I want a cat soon.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 17208
+
+1. i love this feature and i have made some great new music finds !
+   (ID: notlikethat1)
+
+2. i wish i could help .
+   (ID: wooq)
+
+3. i agree , the multiplayer blows cod out of the water , soundwise
+   (ID: BoonTobias)
+
+4. i 'm white and my brother 's paki .
+   (ID: Shrub74)
+
+5. i was disappointed at the lack of harmony on the * whoa yeah yeah * .
+   (ID: wooq)
+
+6. i was implying that the singer sounds like stevie from malcom in the middle
+   (ID: thebastion)
+
+7. i look for them everywhere .
+   (ID: error785)
+
+8. i have only recently read of this .
+   (ID: Waterrat)
+
+9. i am thinking of dressing up as a “ not like other girls ” girl for halloween .
+   (ID: justgirlypasta)
+
+10. i ’ll have one drug please
+   (ID: ChallengeTaken99)
+
+11. i sleep in on christmas , i hate christmas .
+   (ID: SeasonedLemur)
+
+12. i did nt see any glitter .
+   (ID: Aloha-Potato)
+
+13. i ’m glad to hear he has much more room
+   (ID: nate6051)
+
+14. i understand they want to promote chrome , but really ?
+   (ID: bluesatin)
+
+15. i player red dead redemption 2 . that was good .... but it was over before it began .
+   (ID: Aloha-Potato)
+
+16. i like our mods , they 've been nothing but kind to me :)
+   (ID: leo9g)
+
+17. i suppose i need to convert l / s to kilowatts ....
+   (ID: Aloha-Potato)
+
+18. i still very much want to know the real story .
+   (ID: LCPhotowerx)
+
+19. i like how people in this subreddit seem to think they know something about what shape nathan is in .
+   (ID: mylescloutier)
+
+20. i believe they are out of republicans .
+   (ID: vikkivinegar)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17376
+
+1. One of my favorite things is hiking.
+   (ID: 052f00c7edd271c075c12682b25bc1bd94228324)
+
+2. naw , it ' s doubtful . his wife also works there , and she is both gorgeous , and keeps a close eye on those he hires as his secretaries . in fact i am pretty sure it did the hiring . besides , if he was going to cheat on her , why would he pick someone who looks so similar ? i just wonder how a guy who has digit kids doesn ' t know what it sounds like for the woman to give birth . like during the call for example , towards the end , he was amazed that she knew what she was doing , and she laughed and told him it wasn ' t her first time  he knows full well we have digit children at home . he ' s here for supper at least every few weeks so they can go over work while i take them out for some quality time .
+   (ID: 720bf2762acb0f756492e6e40ae840126dae87ce)
+
+3. bread contest idea poweredbyprimus . i  ve already commented . just curious as to how long you  ll have the entries open
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+4. I'm interested in dating.
+   (ID: 541b4cbc0fbf09faead4d7954b3a984391890627)
+
+5. I live in town.
+   (ID: 8784cd4227a610d9cbb51480d635b44be1d31e8c)
+
+6. i get what you  re saying  i was named after an american girl doll molly as well as my grandmother may so i suppose i could just keep may . margaret or something else might be a better first name , lol . thanks for the response .
+   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+
+7. maximum carnage  this is no different , as i play this game every single week . it ' s my favorite game on the console . it ' s usually at least a once a week game for me , or as a filler or pickup game if i have some time to kill after work or before supper .
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+8. I'm interested in cats.
+   (ID: c391065478603a686531cbdd50568136a5e14508)
+
+9. i view religion as a evolutionary barrier that humanity have to eventually overcome in order to march towards a bright and rational future . religion did indeed once have a purpose in human society , but i believe that purpose now no longer exists .
+   (ID: c766fd259305ab2b0cd283ae4331fb90fc52e356)
+
+10. gifv linkhttps      i  am  a  bot .  faqhttps        codehttps
+   (ID: 8a3698ce1bb32ad286b9d5063f6279b8c23a8f14)
+
+11. hm actually no , i see it now , think you might be right
+   (ID: 7ba2f45f62c701a508f1895df828d4da2f3f446d)
+
+12. I am a male.
+   (ID: e982e025c0604997a6e2072eb87b9bb01bed38ae)
+
+13. One of my favorite things is sci fi.
+   (ID: 46ebabd043d7d3e7a17fff03489569373a3fe5d4)
+
+14. I am a male.
+   (ID: 5033a9b064a9790931d6db4cc634e02af206bbb1)
+
+15. I'm interested in lgbt.
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+16. I have a father in my family.
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+17. my girlfriend and i drive about digit or digit hours every weekend . we both play pretty casually i ' ve been playing since release and am just now getting close to i . rex . still great fun to just drive and get dna . even if college demands that we can ' t do it often .
+   (ID: 3158d7c63f10e871a80f147fb47725c8714163c7)
+
+18. I am adult actress.
+   (ID: 564c5b4efd54586fbf212727e2071f5ddadabb82)
+
+19. I have a sisters in my family.
+   (ID: 8d5aac58a9c3a7e883f9e90df39dc5ab7c36de53)
+
+20. for me to help i would need to know  digit . what you want as your emblem  digit . your information to log in . i personally wouldn ' t trust anyone with that info . other than that you can visit and search for what you want , to apply it to the socialclub emblem creator here is a digit minute tutorial
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+
+
+--- PersonaChat ---
+Total from this dataset: 1116
+
+1. i went to school for fashion design and did nothing with it .
+   (ID: conversation_142)
+
+2. i've been divorced for 2 years .
+   (ID: conversation_73)
+
+3. i'm gong to adopt a dog very soon .
+   (ID: conversation_100)
+
+4. i'm a vegetarian .
+   (ID: conversation_88)
+
+5. i like baths .
+   (ID: conversation_6)
+
+6. i do not like kids .
+   (ID: conversation_154)
+
+7. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+8. i enjoy dating women .
+   (ID: conversation_237)
+
+9. i think i need botos soon .
+   (ID: conversation_142)
+
+10. i like to play tennis .
+   (ID: conversation_161)
+
+11. i've perfect pitch .
+   (ID: conversation_181)
+
+12. i am committed to the environment .
+   (ID: conversation_117)
+
+13. i love children .
+   (ID: conversation_216)
+
+14. my father is a preacher .
+   (ID: conversation_40)
+
+15. i eat junk food .
+   (ID: conversation_120)
+
+16. i m from texas .
+   (ID: conversation_8)
+
+17. i have a horse named beauty .
+   (ID: conversation_98)
+
+18. my family is very important to me .
+   (ID: conversation_189)
+
+19. i drive a ford taurus .
+   (ID: conversation_123)
+
+20. i enjoy playing retro video games on my 386 .
+   (ID: conversation_31)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2232
+
+1. I like to fish.
+   (ID: conversation_139_user_1)
+
+2. I work as an accountant.
+   (ID: conversation_154_user_2)
+
+3. I work at a doctors office.
+   (ID: conversation_145_user_1)
+
+4. I am working on a biology degree.
+   (ID: conversation_150_user_2)
+
+5. I enjoy going to museums.
+   (ID: conversation_242_user_1)
+
+6. I love animals.
+   (ID: conversation_190_user_1)
+
+7. I like to fish.
+   (ID: conversation_45_user_2)
+
+8. I love eating out.
+   (ID: conversation_65_user_2)
+
+9. I always seem to be losing things , most recently , my mind.
+   (ID: conversation_218_user_2)
+
+10. I work at the grocery store.
+   (ID: conversation_48_user_1)
+
+11. I have 5 children , though 2 have passed away.
+   (ID: conversation_49_user_2)
+
+12. I can knit.
+   (ID: conversation_56_user_1)
+
+13. I need a soda with me at all times.
+   (ID: conversation_105_user_2)
+
+14. I hate winter.
+   (ID: conversation_111_user_2)
+
+15. I eat meat.
+   (ID: conversation_62_user_1)
+
+16. I play the bass.
+   (ID: conversation_160_user_2)
+
+17. We have a dog.
+   (ID: conversation_57_user_2)
+
+18. I read a lot of used books.
+   (ID: conversation_117_user_1)
+
+19. I am 7 foot tall.
+   (ID: conversation_149_user_2)
+
+20. My mother has her own fashion brand.
+   (ID: conversation_218_user_1)
+
+
+============================================================

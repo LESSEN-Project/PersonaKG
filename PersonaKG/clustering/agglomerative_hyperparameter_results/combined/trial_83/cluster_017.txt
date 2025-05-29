@@ -1,0 +1,337 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 1926
+
+Dataset distribution in this cluster:
+  MSC: 51 (2.6%)
+  PEC: 87 (4.5%)
+  PER-CHAT: 1654 (85.9%)
+  PersonaChat: 42 (2.2%)
+  SyntheticPersonaChat: 92 (4.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 51
+
+1. I am above average height. I like to make three pointers in basketball.
+   (ID: dialog_8_speaker_2)
+
+2. I'm a male.
+   (ID: dialog_42_speaker_2)
+
+3. I am an older person.
+   (ID: dialog_127_speaker_1)
+
+4. I am 40+ years old. I don't live with anyone.
+   (ID: dialog_95_speaker_2)
+
+5. I am taller than average.
+   (ID: dialog_40_speaker_1)
+
+6. I like to exercise before work.
+   (ID: dialog_152_speaker_1)
+
+7. I don't eat junk food. I'm tired of being a couch potato.
+   (ID: dialog_120_speaker_2)
+
+8. I am planning on running my first marathon. I have a personal goal to run a marathon in under 4 hours.
+   (ID: dialog_0_speaker_1)
+
+9. I eat a lot of seafood. I like shrimp. I'm not good at cooking. I've tried cooking seafood Spanish paella and spaghetti before, not success. I want to cook more often.
+   (ID: dialog_105_speaker_1)
+
+10. I am athletic. I don't eat junk food.
+   (ID: dialog_120_speaker_1)
+
+11. I'm female.
+   (ID: dialog_108_speaker_1)
+
+12. I do not make the healthiest dietary choices.
+   (ID: dialog_120_speaker_2)
+
+13. I am lactose intolerant.
+   (ID: dialog_105_speaker_2)
+
+14. I have always wanted to grow my own vegetables. I am planning on starting a garden.
+   (ID: dialog_167_speaker_2)
+
+15. I am 6 ft. tall.
+   (ID: dialog_40_speaker_1)
+
+16. I am married. I am pregnant with my first child and showing.
+   (ID: dialog_98_speaker_2)
+
+17. I'm above the standard height of a us male.
+   (ID: dialog_21_speaker_1)
+
+18. I take an exercise class on Saturday mornings.
+   (ID: dialog_166_speaker_1)
+
+19. I am 5'7" tall.
+   (ID: dialog_133_speaker_2)
+
+20. I have a peanut allergy.
+   (ID: dialog_48_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 87
+
+1. i also am trying to get into a normal workout routine , but again , reasonably .
+   (ID: pipette_on)
+
+2. i want the seeds to grow my own melons
+   (ID: RobotHappiness)
+
+3. i am a 67 year old male .
+   (ID: ddshroom)
+
+4. i am 28 weeks .
+   (ID: COCOnizzle)
+
+5. i am a woman .
+   (ID: mbw1960)
+
+6. i 'm an 18 year old woman .
+   (ID: Mende)
+
+7. i ’m not saggy and do n’t need much lift .
+   (ID: Justadropinthesea)
+
+8. i ’m 40 , never been pregnant , and will not be having kids .
+   (ID: 11_29_77)
+
+9. i am a thin woman and have always been on the skinny / underweight side as a kid .
+   (ID: justgirlypasta)
+
+10. i 'm having trouble with eating enough and trying to gain weight .
+   (ID: Takumi-Fujiwara)
+
+11. i am also curious as my shoulder joints pop when exercising .
+   (ID: almajanemi)
+
+12. i lift heavy and sweat a ton is what i 'm getting at .
+   (ID: SanJOahu84)
+
+13. i 've struggled with some controlling food habits when i was younger .
+   (ID: pipette_on)
+
+14. i 'm a 6'7 " m with a cw of 204.5 lb .
+   (ID: kipprock)
+
+15. i 've added eggs to my diet but i definitely have n't found my groove with this one yet .
+   (ID: redraindropped)
+
+16. i hike and do all kinds of physical work often .
+   (ID: catskhiker)
+
+17. i am 28 and my health has goine to the adult version of rickets .
+   (ID: jwshapir)
+
+18. i weigh 207 !
+   (ID: cassieeh)
+
+19. i 'm allergic to casein :(
+   (ID: Occams_Spork)
+
+20. i ’m immune - compromised so i want to know where not to go .
+   (ID: bugaloo2u2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1654
+
+1. I am a male.
+   (ID: b61e1d4de0e5d22ad937104e46a2657b01e7cca9)
+
+2. I am a male.
+   (ID: c41e4affc406bbc71e6c12aabf095d759b6dbec2)
+
+3. I am underweight.
+   (ID: 569832646eef001c1724d2ecdb8abedbbfd927ab)
+
+4. I am a male.
+   (ID: 32520dc340c18ed101e3d5ea02b3a7bca25dcc29)
+
+5. I am a male.
+   (ID: 93e92e6a7d8e94b12bcd450fad136ec14436f359)
+
+6. I am a female.
+   (ID: f82f3baec2974026f7aecc84e871be136212e237)
+
+7. I am a male.
+   (ID: 617a45b75601128e5c804bd8ca6b8e525a4aa02d)
+
+8. I am a male.
+   (ID: 7e58269155b84bc057025d5066e661ba2eb934ba)
+
+9. I am a male.
+   (ID: 81aef4a1b477688be90d95bcd1c4cce42438c660)
+
+10. I am a male.
+   (ID: 4a03851d25b2526583af78261bff2af13796094e)
+
+11. I am a male.
+   (ID: d34dab0dded997c6aa6e6d2792ea9d8a26881a2b)
+
+12. I am a male.
+   (ID: 850866a9e8dd0a9014f428e54e74f54649737a60)
+
+13. I am a male.
+   (ID: 0ffbddfe94023d7c5849c377e3fd6faac3ddc83c)
+
+14. I am a male.
+   (ID: 68d36e5b5d26327bbb5de8de16430cc93353cbf0)
+
+15. I am a male.
+   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
+
+16. I am a male.
+   (ID: b30983a02e6c6ad80a50a521eee441b9f454a5e9)
+
+17. I am a female.
+   (ID: 85ada8069a64aa3ed39736f565e8a9ceed369acd)
+
+18. I am a female.
+   (ID: 2e2a44cdfc726423ec202a2fe420543af441d1ad)
+
+19. I am a male.
+   (ID: 9a96ba583f43f670f5797ea5031052161bf613cf)
+
+20. I am a male.
+   (ID: 35c328d4a335c5fd9ddfe5f40bbfd2580065561c)
+
+
+--- PersonaChat ---
+Total from this dataset: 42
+
+1. i work out every other day .
+   (ID: conversation_349)
+
+2. i'm 29 years old .
+   (ID: conversation_164)
+
+3. i m allergic to shellfish .
+   (ID: conversation_28)
+
+4. i am chubby .
+   (ID: conversation_74)
+
+5. i am under 6 feet tall .
+   (ID: conversation_105)
+
+6. i'm a middle aged woman .
+   (ID: conversation_278)
+
+7. i am thin .
+   (ID: conversation_93)
+
+8. i exercise everyday .
+   (ID: conversation_16)
+
+9. i am only 5 foot tall .
+   (ID: conversation_444)
+
+10. i'm only 5 foot tall .
+   (ID: conversation_274)
+
+11. i am pregnant with my first child .
+   (ID: conversation_98)
+
+12. i am a very tall woman .
+   (ID: conversation_461)
+
+13. i've a very tone body .
+   (ID: conversation_315)
+
+14. i'm allergic to cats .
+   (ID: conversation_222)
+
+15. i'm a woman .
+   (ID: conversation_425)
+
+16. i am 5 7 tall .
+   (ID: conversation_160)
+
+17. i work out daily .
+   (ID: conversation_219)
+
+18. i m allergic to milk .
+   (ID: conversation_94)
+
+19. i work as a personal trainer , 5 days a week .
+   (ID: conversation_314)
+
+20. i'm a older woman .
+   (ID: conversation_303)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 92
+
+1. I am a woman.
+   (ID: conversation_132_user_1)
+
+2. I am not thin.
+   (ID: conversation_419_user_1)
+
+3. I am younger then 46.
+   (ID: conversation_397_user_2)
+
+4. I am currently pregnant with my second child.
+   (ID: conversation_65_user_1)
+
+5. I am male.
+   (ID: conversation_412_user_2)
+
+6. I am an older guy.
+   (ID: conversation_15_user_2)
+
+7. I am male.
+   (ID: conversation_8_user_1)
+
+8. I go running a lot.
+   (ID: conversation_430_user_2)
+
+9. I m not very tall.
+   (ID: conversation_70_user_1)
+
+10. My feet are size six women s.
+   (ID: conversation_169_user_1)
+
+11. I am a 70 year old man.
+   (ID: conversation_328_user_1)
+
+12. I am a 70 year old man.
+   (ID: conversation_331_user_1)
+
+13. I am seventy one years old.
+   (ID: conversation_220_user_2)
+
+14. I am a woman.
+   (ID: conversation_57_user_2)
+
+15. I am a woman.
+   (ID: conversation_357_user_2)
+
+16. I am slightly overweight , but my doctors say i m healthy.
+   (ID: conversation_136_user_1)
+
+17. I am male.
+   (ID: conversation_9_user_1)
+
+18. I am 7 foot tall.
+   (ID: conversation_149_user_2)
+
+19. I am an old woman.
+   (ID: conversation_405_user_2)
+
+20. I am allergic to shellfish and cats.
+   (ID: conversation_485_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 2675
+
+Dataset distribution in this cluster:
+  FoCus: 28 (1.0%)
+  MPChat: 721 (27.0%)
+  MSC: 77 (2.9%)
+  PEC: 1168 (43.7%)
+  PER-CHAT: 602 (22.5%)
+  PersonaChat: 57 (2.1%)
+  SyntheticPersonaChat: 22 (0.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 28
+
+1. I love bats.
+   (ID: X3WVWF5IVCYD_11)
+
+2. I have a little son who is very excited whenever we drive through a tunnel.
+   (ID: ARRKG598SD8A_11)
+
+3. I like bells, I think they're pretty.
+   (ID: CBOI96AOZRK6_11)
+
+4. I love RAF Cleave.
+   (ID: DNUH5LJGPOZC_11)
+
+5. I love Reidar Andersen.
+   (ID: TB8HHXAP822G_11)
+
+6. I think dragons are cool.
+   (ID: PSBPL4USIKMB_11)
+
+7. I love Canadian National No. 89.
+   (ID: M6QLMFHJ3CAF_11)
+
+8. I love park.
+   (ID: U6NEN4YX4OT6_9)
+
+9. I have a brother who is passionate about birds and ornithology.
+   (ID: A06HPOO7OWPE_11)
+
+10. I love Nikolaevsky.
+   (ID: 9VN3FMWR0NNR_11)
+
+11. I love Hanumappa Nayaka.
+   (ID: UN54IACHSTX5_11)
+
+12. I love Stephen Olin.
+   (ID: NXTH1QSPOJFF_11)
+
+13. I like Thomas Douglas Stimson.
+   (ID: WYFFBVR6YR06_11)
+
+14. I like Sir John Rennie.
+   (ID: UIC15IVGSRBN_11)
+
+15. I like Rhinoceros.
+   (ID: B4623TSE2PJX_7)
+
+16. I like John Williams.
+   (ID: NXTH1QSPOJFF_11)
+
+17. I don't like bulldogs.
+   (ID: FGIEUW9ABAQU_11)
+
+18. My favourite composer is Bach.
+   (ID: X45C380V98U8_9)
+
+19. I am not on a team.
+   (ID: NRWCDZW051T6_11)
+
+20. I enjoy Richard Russo.
+   (ID: NR9LNBMYKSX6_9)
+
+
+--- MPChat ---
+Total from this dataset: 721
+
+1. new hybrid tea rose in my garden
+   (ID: chirp16)
+
+2. my first try at colorwork is this kindle sweater!
+   (ID: zonumnire)
+
+3. this dude was chilling on my sea lavender!
+   (ID: insertnamehere02)
+
+4. my friend ordered these to give as gifts to her son's teachers.
+   (ID: DeanIsHotter)
+
+5. [fo] finished my first piece thanks to everyone who gave advice, my wife loves her bday present
+   (ID: XandXor)
+
+6. the knit mice i made were a hit with both cats.
+   (ID: PatitaBlanca)
+
+7. i wrote this using my bortoletti dip pen
+   (ID: IggyDaDog)
+
+8. cafe print i’m really happy how this turned out
+   (ID: pocket_kira)
+
+9. seen a lot of pretty vintages pieces, thought i'd add one of mine.
+   (ID: evrlstingbogstopper)
+
+10. my beardie wears her food like a hat as well
+   (ID: AlbinoMetroid)
+
+11. just harvested this nice little cluster of blue oysters from my 5 gallon bucket.
+   (ID: sundstrom193)
+
+12. this little good girl is 10 and needs a friend and i have been thinking about getting a golden.
+   (ID: Rosiebelleann)
+
+13. my cuckoo leghorn chicken sage laid her first egg last week.
+   (ID: Soapy_Von_Soaps)
+
+14. my girlfriend called these "dino-eggs": deviled eggs with an avocado spread.
+   (ID: mattsulli)
+
+15. i have almost completed my seal dissection amigurumi.
+   (ID: pokegirl93a)
+
+16. i *think* i have my first sprout!
+   (ID: arrowheadfibers)
+
+17. this is the most recent watercolor landscape that i've made
+   (ID: salt_watercolors)
+
+18. sold my first couple of pots today!
+   (ID: tinytinatuna2)
+
+19. my lab/german shorthair/greyhound out training
+   (ID: iowajaycee)
+
+20. porcelain :) i can’t wait for my hydrangea to bloom!
+   (ID: Meow_19)
+
+
+--- MSC ---
+Total from this dataset: 77
+
+1. I want to climb with you together.
+   (ID: dialog_43_speaker_2)
+
+2. I do not like ferrets.
+   (ID: dialog_97_speaker_1)
+
+3. My name is Mark.
+   (ID: dialog_151_speaker_1)
+
+4. I find the Baby Yoda very cute. I do not watch many shows but I really like the New Mandalorian.
+   (ID: dialog_106_speaker_1)
+
+5. I have two greyhounds: Tom and Jerry.
+   (ID: dialog_13_speaker_1)
+
+6. I'm bespectacled.
+   (ID: dialog_143_speaker_2)
+
+7. I have seen the Clue movie. My kids like movies based on games. I go fishing and my kids come with me and watch movies on a travel DVD player.
+   (ID: dialog_124_speaker_2)
+
+8. I love Crookshanks.
+   (ID: dialog_48_speaker_1)
+
+9. I like Indian food. I am looking for a dog to adopt.
+   (ID: dialog_100_speaker_2)
+
+10. I jam on the skins.
+   (ID: dialog_59_speaker_1)
+
+11. My name is Jessica. I have a cat named Jasper.
+   (ID: dialog_151_speaker_2)
+
+12. I am an amateur entomologist.
+   (ID: dialog_113_speaker_2)
+
+13. I am a spider monkey. I climb trees.
+   (ID: dialog_43_speaker_1)
+
+14. I love Sirius Black.
+   (ID: dialog_48_speaker_2)
+
+15. The hue I most admire is plum.
+   (ID: dialog_137_speaker_1)
+
+16. My favorite comic book character is The Hulk.
+   (ID: dialog_120_speaker_2)
+
+17. I am making a scarf for my daughter.
+   (ID: dialog_152_speaker_2)
+
+18. Jasper is an indoor female cat.
+   (ID: dialog_151_speaker_2)
+
+19. Me and my sibling, both have crimson locks.
+   (ID: dialog_91_speaker_1)
+
+20. I have a dog named Sam. My dog is a German Shepherd.
+   (ID: dialog_160_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1168
+
+1. i am just trying to find food to eat ! "
+   (ID: IgnoranceIsAVirus)
+
+2. i ’m terribly sorry i fell asleep on my phone � � .
+   (ID: DinoButtsy)
+
+3. i ask who would you be writing that letter to again ?
+   (ID: apcreddit)
+
+4. i gib him kermit permit :)
+   (ID: Heydawgg)
+
+5. i believe that once you get any animal they 're yours for life .
+   (ID: Tjgl)
+
+6. i 'm 67 and in good health , but i believe strongly in euthanasia
+   (ID: catskhiker)
+
+7. i would love to start an animal sanctuary someday :) i think it would be just grand
+   (ID: JacksChocolateCake)
+
+8. i 'm someone who celebrates the " mad men " or rockabilly style regularly .
+   (ID: napalmkitten)
+
+9. i think it is important to note the orientation of dog ross ' pants .
+   (ID: IncredibleBulk2)
+
+10. i 've just bought my friends new born that exact charmander !
+   (ID: SeasonedLemur)
+
+11. i have seen a pomeranian dog chase a moose once .. wish i had a video !
+   (ID: exotics)
+
+12. i think some dawn dish soap in water- sprayed on- if i recall correctly .
+   (ID: almajanemi)
+
+13. i cringe every time i see those mirrored walls where dogs are groomed
+   (ID: alicepalmbeach)
+
+14. i do n’t think that dog could possibly wag his tail any harder
+   (ID: lovestheautumn)
+
+15. i like the guy holding up the wall in the top middle :)
+   (ID: LooksAtClouds)
+
+16. i was ready to call you ta until i saw the names he picked .
+   (ID: eye-brows)
+
+17. i 've got an ornamental kiwi that looks like that in the winter .
+   (ID: sbsb27)
+
+18. i love banana trees .
+   (ID: monday_madrigal)
+
+19. i 'm melvin . " )
+   (ID: CheapyPipe)
+
+20. i 'll make it look like an accident .
+   (ID: harumpf)
+
+
+--- PER-CHAT ---
+Total from this dataset: 602
+
+1. wow , nice sweep ! i haven ' t seen much of mega houndoom , good to know what it ' s capable of .
+   (ID: 42d0bab08dc67ecb5ab1c5fdc07cbe6a31015990)
+
+2. One of my favorite things is kurt.
+   (ID: 5366d3e890f8a540d03733631ae8f32ef2335c31)
+
+3. i imagine my dog as charlie from it  s always sunny , i often refer to him as dirt grub because he loves to get dirty and rolls in anything that smells bad .
+   (ID: 69878cc2cc3e4fe974feb7f6bf5a69bf75cd4951)
+
+4. One of my favorite things is eli vanto.
+   (ID: 7e67f2109db2f138225338a090de78cfd116cfca)
+
+5. One of my favorite things is big josh.
+   (ID: 4dc8611321f8939824b42f21260d7a2adbf4a5d1)
+
+6. One of my favorite things is curran.
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+7. my first run with de bulbs is actually right now . i prefer to use 1000w digital ballast with magnum hoods a light spreader and hortilux super hps bulb in flower . i keep my lights between digit  digit " away from my plants . and i pull them off around day digit of digit  digit to digit  digit " away . i lollipop before flower but i do not lollipop in flower . the whole point is you don ' t want to lollipop during flower . you don ' t want to defoliate because fan leaves carry vital nutrients that the plant will need for it ' s long term health . the reason you can defoliate late in flower is because you want those nutrients gone anyways after you flush , and you are trying to get your plant to use up all the nutrients it has stored in it ' s roots and leaves . prior to flush , you are trying to promote the greatest growth possible . when you train plants in veg , you are increasing the amount of tops you have which increases yields because the biggest determining factor is the amount of surface area that the light hits without dissipating too fast . which is why you just bend the fan leaf down if it is in the way of the light i really don ' t think i should have to pull sources to prove my point when this should all be common sense from a growing standpoint by year digit of growing . to say my grow was low maintenance is true , but that is also because i know how to manipulate plantslight stress . my battle was yield per square foot , plant counti tried to keep it below digit per house , amperagei only had one house at digit amps the rest had digit and space available for growing . before you knock me on a multiple house grow , they would actually be considered mansions and the rent was about  digit a month per house5 houses . the reason i didn ' t go commercial building is because it was an illegal grow and i thought the cops would only be smart enough to bust one house at a time . i now give them the benefit of the doubt instead of thinking they are dumb . i didn ' t spend any time trimming . i had a trimming machine which was the greatest investment i ever made growing . btw i would be more than happy to pull sources for you , if you can show me a single knowledgeable grow book that says you should lollipop in the middle of flower . all you have to do is google simple things and the answer is right there ! just try to stick to . gov , . org or . edu sites for more accurate information . so if i have a plant that i didn ' t top , and tried to scrog it into a 4x4 tent  space you are telling me it would only take digit  7days more to fill out the same space with a topped plant ? i tried it a few years ago because i still wanted that fat digit oz cola , but decided the difference in yield because of canopy structure and the amount of extra time in veg was not worth the main cola . instead i stick to 7g tops and digit  8x 20g colas .
+   (ID: e978c4c5dd931b8985b65369abe1ef855c833aa3)
+
+8. i hate when people do this . just because you love and trust your dog does not mean everyone else does . the reality is that a loose dog running toward you or your children is frightening .
+   (ID: 4a7a47c2e5a0426b71a637dd821ac57f06afeedf)
+
+9. One of my favorite things is santner.
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+10. the reason the different categories exist is because some pets they don ' t have the time or interest in making the necessary animations for them to overrides , every pet that they don ' t make the animations for become followers instead . i do wish they ' d stop releasing new pets as followers because they ' re universally ignored if they can ' t be used for overrides , but hey they ' re a lot cheaper to produce and pad out the content so jagex likes them .
+   (ID: 818321ef6a71106a1a86010b5df8bc2991279431)
+
+11. i think the idea of furries existing alongside domesticated animals is kind of the go to explanation that most fiction writers use . it ' s the one that seems to make the most sense . but yeah , when fiction writers diverge from the formula , it ' s often annoying when they don ' t fill in the new gaps they ' ve created in their world . although with a world full of anthropomorphic creatures , i suppose there ' s lots that just has to remain unexplained and assumed . using another example from a series  we still don ' t have any freakin ' idea how the hell pokeballs work .
+   (ID: ecce6e894db30f245f1073ca0e270a3bb87eaa71)
+
+12. his greatest song is let it be . i don  t know how you could think that it would be rocky raccoon . whenever that song comes on , i run across my room and throw my record player out of my window .
+   (ID: a8d677a357cabd8cb6d9bfa06e041b5b173582d8)
+
+13. welp , bonobo  love just broke the internet for the day ! if you will excuse me , i will be over here drooling  fapping to all the thoughts of what i want to do with that beautiful brown eye !
+   (ID: f709eec52cd0c0cff5afc1f9f3e0caa4a2797782)
+
+14. I am accident.
+   (ID: 1543db1d6055e53e89f8cf01ac7250da8f876c95)
+
+15. ok , now i can go on land , but i have to go back into the water to have babies
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+16. ok then . i bet your name is something stupid . like jack . or scott . one of those two . i bet it  s not something sexy like steve or cole .
+   (ID: a8d677a357cabd8cb6d9bfa06e041b5b173582d8)
+
+17. One of my favorite things is ben stokes.
+   (ID: 5186a4f234c22a2668969b75a1a54616526c2ee4)
+
+18. One of my favorite things is rodrigo   actor   time.
+   (ID: 765135d22ccec6feceb4fa47636d721a4530a57c)
+
+19. may i ask you a favor ? could you post or upload somewhere the pages refering to the meowlotov cocktail ? i have been using it a lot laterly with palico rally and seems very effective , but i have no idea of what kind of damage is dealing and what would buff it .
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+20. please karen just one weekend with the kids . hey wait there ' s someone at the door . wait , you sent the cops over here ? why , you know im clean ? you ' re trying to get me arrested ? why , so you can keep the kids ? why karen , why ?
+   (ID: b62d2865206257ab4ea65a5e489f9d4e1c8d5e9b)
+
+
+--- PersonaChat ---
+Total from this dataset: 57
+
+1. i love pandas .
+   (ID: conversation_88)
+
+2. i just got a new sweater .
+   (ID: conversation_290)
+
+3. i have a dog named socks .
+   (ID: conversation_172)
+
+4. i had two cats growing up .
+   (ID: conversation_19)
+
+5. i have a small beagle dog who i call droopy .
+   (ID: conversation_174)
+
+6. i'm more of a cat person than a dog person .
+   (ID: conversation_49)
+
+7. i love animals .
+   (ID: conversation_11)
+
+8. i like baths .
+   (ID: conversation_6)
+
+9. my favorite artist was prince .
+   (ID: conversation_439)
+
+10. my wardrobe is all band tees .
+   (ID: conversation_114)
+
+11. my favorite beer is coors .
+   (ID: conversation_321)
+
+12. i wish i knew where i belonged .
+   (ID: conversation_66)
+
+13. i breed maine coon cats and show them .
+   (ID: conversation_46)
+
+14. i'm an angry person .
+   (ID: conversation_169)
+
+15. the name of my team is the baltimore ravens .
+   (ID: conversation_473)
+
+16. my favorite musician in charlie daniels .
+   (ID: conversation_250)
+
+17. i am a casual dresser .
+   (ID: conversation_128)
+
+18. i just bought a new pair of sneakers and they feel great .
+   (ID: conversation_385)
+
+19. and , my best friend is calden .
+   (ID: conversation_53)
+
+20. i've one little boy named owen .
+   (ID: conversation_300)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 22
+
+1. I like barbies.
+   (ID: conversation_58_user_2)
+
+2. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+3. Since young i have loved fashion.
+   (ID: conversation_191_user_2)
+
+4. I enjoy clothing with exotic prints.
+   (ID: conversation_415_user_2)
+
+5. I am not a nice person.
+   (ID: conversation_265_user_2)
+
+6. I love the colors yellow and teal.
+   (ID: conversation_489_user_2)
+
+7. I have a pond at home with a pet koi named spot.
+   (ID: conversation_200_user_2)
+
+8. I actually like wearing suits and ties.
+   (ID: conversation_148_user_2)
+
+9. I am trying to write an ebook on animals.
+   (ID: conversation_366_user_2)
+
+10. My inspirations are alexander mcqueen and coco chanel.
+   (ID: conversation_191_user_2)
+
+11. I leave the dogs home when i visit my parents.
+   (ID: conversation_215_user_2)
+
+12. I m fabulous from my on trend haircut to my louis vuittons.
+   (ID: conversation_98_user_2)
+
+13. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+14. I wear dingy clothes.
+   (ID: conversation_395_user_1)
+
+15. My dog is the ring bearer.
+   (ID: conversation_179_user_2)
+
+16. I use to be a huge superman fan as a child.
+   (ID: conversation_468_user_2)
+
+17. I fell in love this summer.
+   (ID: conversation_434_user_1)
+
+18. Magic mike is my favorite movie.
+   (ID: conversation_294_user_2)
+
+19. My idol is theirry henry.
+   (ID: conversation_73_user_2)
+
+20. I have a lizard named nagini.
+   (ID: conversation_305_user_2)
+
+
+============================================================

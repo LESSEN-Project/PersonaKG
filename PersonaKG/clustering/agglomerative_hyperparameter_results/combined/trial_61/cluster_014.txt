@@ -1,0 +1,467 @@
+CLUSTER 14
+============================================================
+Total statements in cluster: 3097
+
+Dataset distribution in this cluster:
+  FoCus: 21 (0.7%)
+  MPChat: 86 (2.8%)
+  MSC: 73 (2.4%)
+  PEC: 1707 (55.1%)
+  PER-CHAT: 1103 (35.6%)
+  PersonaChat: 34 (1.1%)
+  SyntheticPersonaChat: 73 (2.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 21
+
+1. I am not from New York.
+   (ID: 82C5DC88Z9VL_11)
+
+2. I am not from England.
+   (ID: KCX511DQ2QVM_9)
+
+3. I am proficient in Spanish.
+   (ID: FNURQ2XMQVJF_11)
+
+4. I don't have an observatory near me.
+   (ID: IBY6RB2J4SRM_7)
+
+5. I have never been much interested in science.
+   (ID: FXSLHPIIV91K_11)
+
+6. I have knowledge about the Vikings.
+   (ID: VOQV863ZK27L_11)
+
+7. I have climbed a mountain.
+   (ID: QTNNKQN2EVU5_11)
+
+8. I am not British.
+   (ID: 6U0LNJ7OMGBB_11)
+
+9. I am not Spanish.
+   (ID: X5NX5GAWOEW2_11)
+
+10. I am not from Tokyo.
+   (ID: OI93ZLZKWF52_7)
+
+11. I love Spanish.
+   (ID: LEUWGO47I5DG_11)
+
+12. I am not from Manchester.
+   (ID: U1BWA2YRTQ7B_11)
+
+13. I am someone who has been to Anglican services.
+   (ID: JFAHL3MTTLAX_11)
+
+14. I am English.
+   (ID: XXU24CBOXMRE_7)
+
+15. I am not from Indonesia.
+   (ID: GOA1VSVK1TBD_11)
+
+16. I wish I knew Russian.
+   (ID: CBOI96AOZRK6_11)
+
+17. I am not chinese.
+   (ID: BZRZ8OU6V0KE_11)
+
+18. I am not from France.
+   (ID: ATXXTPOD4WEI_11)
+
+19. I am not a Serbian king.
+   (ID: C7B7NH0Q1KEE_11)
+
+20. I am not Greek.
+   (ID: VB4LDHWFQAVH_11)
+
+
+--- MPChat ---
+Total from this dataset: 86
+
+1. i'm a hypocrite.
+   (ID: Beardedlantern)
+
+2. the coffee grinder at my work has its name spelled 2 different ways.
+   (ID: The69LTD)
+
+3. i gave this one to my mom
+   (ID: Brazdoh)
+
+4. i needle felted a baby cthulhu.
+   (ID: CuriosityK)
+
+5. i had a hotpocket and petrie wanted it
+   (ID: kentobean123)
+
+6. decided to wait it out and im glad i did.
+   (ID: dudeinthepnw)
+
+7. i got the hamster her own futon, no boys allowed
+   (ID: krichmondRPH)
+
+8. i got up to make tea and lost my seat to the two goofballs
+   (ID: PatitaBlanca)
+
+9. i work at a coffee house and we caught this guy eating our halloween pumpkins and corn.
+   (ID: Caserole)
+
+10. new light, new world wish i could have taken the rim off.
+   (ID: lizdavis17)
+
+11. i once got fired from the now closed gm proving grounds in arizona for having a camera.
+   (ID: dudeinthepnw)
+
+12. i look over to see this little piggleton smiling at me
+   (ID: kentobean123)
+
+13. we had hail last night so i brought my babies inside.
+   (ID: gxnelson)
+
+14. i've been improving
+   (ID: the-otherme)
+
+15. oh i see you are using this, i must sit.
+   (ID: APacman)
+
+16. this bro kept me hiding in my car...for 25 minutes.
+   (ID: baccgirl)
+
+17. i love hearing "16oz latte for here".
+   (ID: BeastaBubbles)
+
+18. i wonder if the dung is fresh here.
+   (ID: patm28)
+
+19. my ball of fuzz getting some sun before it goes away again
+   (ID: MafHoney)
+
+20. i might have a problem
+   (ID: green-egg-and-ham)
+
+
+--- MSC ---
+Total from this dataset: 73
+
+1. I am dependent on pills to stay alive.
+   (ID: dialog_171_speaker_2)
+
+2. I studied english in college.
+   (ID: dialog_48_speaker_2)
+
+3. I'm a solipsist and you are all fictitious.
+   (ID: dialog_106_speaker_2)
+
+4. I am in a wheel chair.
+   (ID: dialog_32_speaker_2)
+
+5. I am fairly good with English and grammar skills in general. I have a very good recipe for corn and bean salad.
+   (ID: dialog_86_speaker_1)
+
+6. I have some problems with pronunciation.
+   (ID: dialog_93_speaker_1)
+
+7. I have a peanut allergy.
+   (ID: dialog_48_speaker_2)
+
+8. I am easily distracted and forget easily.
+   (ID: dialog_131_speaker_2)
+
+9. I do not focus well.
+   (ID: dialog_131_speaker_2)
+
+10. I keep up with current events.
+   (ID: dialog_54_speaker_1)
+
+11. I don't like reading scientific information.
+   (ID: dialog_137_speaker_1)
+
+12. I was recently fired.
+   (ID: dialog_147_speaker_2)
+
+13. I need certain medications to live.
+   (ID: dialog_171_speaker_2)
+
+14. I lie pop.
+   (ID: dialog_163_speaker_2)
+
+15. I've a disability.
+   (ID: dialog_179_speaker_1)
+
+16. I hate translating. I dream to be a writer.
+   (ID: dialog_165_speaker_2)
+
+17. I have climbed trees before.
+   (ID: dialog_43_speaker_2)
+
+18. I'm a polyglot.
+   (ID: dialog_63_speaker_2)
+
+19. I'm bespectacled.
+   (ID: dialog_143_speaker_2)
+
+20. I am a journalist.
+   (ID: dialog_7_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1707
+
+1. i think robot chickens influence on modern internet humor is underestimated or ignored
+   (ID: BoobieBoobieButtButt)
+
+2. i was in line at porto ’s for 30 minutes for a tuna sandwich today .
+   (ID: glowinthedark)
+
+3. i like doing by hand .
+   (ID: metalbark)
+
+4. i should have added - you ’re very clever
+   (ID: fabs1171)
+
+5. i was moved because i asked to after my roommate slept with my bf .
+   (ID: Kangfight)
+
+6. i 've made a huge mistake hahaha .
+   (ID: sean__christian)
+
+7. i grabbed a patient to prevent them from falling over and they called me a bitch .
+   (ID: spoonsrugby)
+
+8. i ’m sure you ’re smarter .
+   (ID: KPer123)
+
+9. i 'm an idiot ?
+   (ID: squaresaltine32314)
+
+10. i can confirm , i am a recipient of said email .
+   (ID: supmraj)
+
+11. i kept the bed .
+   (ID: pinkpowerranger8)
+
+12. i did that today !
+   (ID: Chicoconut)
+
+13. i 've been hit for telling this joke .
+   (ID: Shrub74)
+
+14. i have so many questions . do people usually have sex when they shower together ?
+   (ID: swaggy_butthole)
+
+15. i had no desire or gumption to check damn boxes .
+   (ID: USAFIDMT)
+
+16. i ’d be livid
+   (ID: Bob_Majerle)
+
+17. i do not think that word means what you think it means .
+   (ID: sweatervest)
+
+18. i know if i did that to my ex girlfriend , she would press charges on me .
+   (ID: redandblack555)
+
+19. i do n’t give a shit .
+   (ID: error785)
+
+20. i just do nt care that much .
+   (ID: jukkujak)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1103
+
+1. yes , for sure . i couldn  t do that either , but it was a thought i had .
+   (ID: 256407c5e6c8d9342d8aabf5c9c392fc179ba9f3)
+
+2. i have a fear of of death more accurately the pain i  ll feel when i die
+   (ID: e789abcb610f0a5f370e66d59303168a7ff3308b)
+
+3. its hilarous that this guy got downvoted for pointing out the truth . but , when you ' re drinking the bungie kool  aid . i guess you don ' t want to hear that .
+   (ID: 804f1bee8d4950d83d7626539cb86d46b2848fd3)
+
+4. somebody once stole an eraser from my desk
+   (ID: b5e15026c378d181e66e2b38bfc245705510a727)
+
+5. well yeah do you see anything wrong with the usernames " zestycheese . apparently it was offensive . my question is who would have been offensive too ? doritos ?
+   (ID: 5be7ef463c3ba0c7a9c255bd9769c5f638d2b805)
+
+6. yes when i quiz you about it you and all other ancaps simply ignore the questions , because you have to protect your precious dillusions at any cost .
+   (ID: 744a61859eb21e8e7ed805da69133b0d07c3e965)
+
+7. anonymous has to be a troll . there ' s no fucking way anyone can post that seriously .
+   (ID: f67daf28a38187108da9b380f2e2f9336016c584)
+
+8. pick it up . stand around the area for an hour and so to wait if somebody would come looking . will return if somebody does . if none , then i just earned 1k for standing for an hour , not bad .
+   (ID: a3bc874aed8bb8421b25930723a7210bcd9b2aec)
+
+9. this is the conversation i usually have with myself in my head . man its quiet . i ' m not tired just close your eyes and try to fall asleep anyway , you know when that alarm goes off digit hours from now it ' s gonna suck and you aren ' t going to want to wake up . i wish i had a girlfriend to hold right now . you have a body pillow just cuddle with that . but the feathers stick out and poke me ! stop being a bitch . why do i itch all over ? is it time to buy new sheets ? do i need silk sheets or something to not itch this much ? i must have really sensitive skin . i hate having sensitive skin did my phone just make a notification noise ? it ' s probably a candy crush request or something stupid just check it in the morning you need to sleep . yeah but what if it ' s something entertaining or someone trying to talk to me ? you know it ' s not . rolls over . that fucking notification , what is it ? fuck it . gets out of bed and walks to phone somebody commented on a post that you commented on . see i told you it wasn ' t important . nobody is thinking about you right now enough to make your phone make noise . checks time . shit ok digit hours until i have to wake up . we ' re still good i can handle that . i can ' t sleep . take some unisom . if i take it now i ' ll be extra tired in the morning tho . anyway i continue to think about stupid shit and it only usually gets depressing , until i fall asleep knowing i have to wake up in like digit hours
+   (ID: 0ffbddfe94023d7c5849c377e3fd6faac3ddc83c)
+
+10. i believe this is incorrect . whenever you memorize something you slowly degrade that memory as you are remembered the last time you remembered that . so i believe that if you were reliving it huge chunks of everything would be missing . you ' d only most likely be experiencing the good and and of your life no neutral in  between . also apparently it is true that when you die you do have a dream like sequence running through the final moments of your brain where it ' s trying to remember and review your life .
+   (ID: 93e3d10c1d0bffae76c0adb5d9a96d6abf1aade9)
+
+11. " the snack that smiles back " not unless i turn it upsidedown !
+   (ID: f9d3bf7ce779e854aa865f12a7dfaaee14a65cfa)
+
+12. so you think op would have given that same  digit tip or even a bigger one had he not been trying to persuade the server to vote for bernie ? i mean i guess it ' s possible . i ' m probably just paranoid but if it were me i wouldn ' t be advertising it with my signature there for all to see .
+   (ID: b17b749ab40d1d24eba7d45337d86aeb3c5b28df)
+
+13. ok then . downvote for you too i guess .
+   (ID: 4126a6a9d5a548a6bed5e0c4992792b1c10f2b92)
+
+14. lol , yeah you make me feel awful . now i ' m really just wracked with regret , and i feel . just . so damn bad about this  i ' m so guilty .
+   (ID: 67d52400bddd68c40eba2a37485eecb683846877)
+
+15. what world do you live in ? doesn ' t matter what the facts are . reality will become whatever narrative the media wants . if he is a lone wolf muslim terrorist who swore loyalty to isis before he died , that ' s what he is . period . it ' s a conspiracy theory to think differently than what the media tells you the facts are .
+   (ID: 8784cd4227a610d9cbb51480d635b44be1d31e8c)
+
+16. nice to see people asking something a bit different for once
+   (ID: fada832baa55975057f6409e8926deefae094f1f)
+
+17. funny how you don ' t have a sense of humor . you know what subreddit your on right ?
+   (ID: 4a7a47c2e5a0426b71a637dd821ac57f06afeedf)
+
+18. what do you mean , you don ' t know ?
+   (ID: 7cece6bbdf487f99b6d494ab790bde8e66ce8966)
+
+19. you can make all the excuses you like .
+   (ID: 2ce191fd1043183c73daf2ab41afee9b122fd42b)
+
+20. you don ' t have to kill anyone to be a good dm as long as they and you are enjoying yourselves then you ' re doing great . however that being said if you have players that want to change characters an epic death could be warrented .
+   (ID: ca6f75f7c2f9d1175fa6abae36369351bda1afb8)
+
+
+--- PersonaChat ---
+Total from this dataset: 34
+
+1. i got a new job .
+   (ID: conversation_291)
+
+2. i m easily agitated .
+   (ID: conversation_462)
+
+3. i'm disabled and cannot walk .
+   (ID: conversation_322)
+
+4. i am a profesional translator .
+   (ID: conversation_165)
+
+5. i speak english and spanish fluently .
+   (ID: conversation_439)
+
+6. i speak english and spanish fluently .
+   (ID: conversation_494)
+
+7. i can speak arabic , english , and french .
+   (ID: conversation_403)
+
+8. i need certain medications to live .
+   (ID: conversation_171)
+
+9. as a child , i won a national spelling bee .
+   (ID: conversation_181)
+
+10. i can speak three languages english , french and spanish .
+   (ID: conversation_479)
+
+11. i flirted with the dmv officer in order to pass my driving exam .
+   (ID: conversation_257)
+
+12. i'm stuck in a wheel chair .
+   (ID: conversation_32)
+
+13. i've a new job .
+   (ID: conversation_348)
+
+14. i despise my boss .
+   (ID: conversation_229)
+
+15. i'm disabled and cannot walk .
+   (ID: conversation_183)
+
+16. i am lactose intolerant .
+   (ID: conversation_447)
+
+17. i cannot do math .
+   (ID: conversation_290)
+
+18. i'm afraid to leave the house .
+   (ID: conversation_336)
+
+19. i escaped and later became a carpenter .
+   (ID: conversation_127)
+
+20. i'm terrible at math .
+   (ID: conversation_172)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 73
+
+1. I can speak three languages.
+   (ID: conversation_71_user_2)
+
+2. I need to take 4 pills a day to live.
+   (ID: conversation_397_user_2)
+
+3. I talk in my sleep.
+   (ID: conversation_163_user_1)
+
+4. I have never broken a bone.
+   (ID: conversation_407_user_1)
+
+5. I got a new job.
+   (ID: conversation_113_user_1)
+
+6. I got a new job.
+   (ID: conversation_115_user_1)
+
+7. I am angry at my coworker.
+   (ID: conversation_369_user_2)
+
+8. I need a wheel chair to get around.
+   (ID: conversation_363_user_1)
+
+9. I am disabled and cannot walk.
+   (ID: conversation_353_user_2)
+
+10. I use a cane to help me get around.
+   (ID: conversation_27_user_1)
+
+11. I once drove a car ! my friend told me what to do while i drove.
+   (ID: conversation_28_user_1)
+
+12. I still have a thick accent so words like hippopotamus are difficult.
+   (ID: conversation_328_user_2)
+
+13. I once drove a car ! my friend told me what to do while i drove.
+   (ID: conversation_26_user_1)
+
+14. I got a new job.
+   (ID: conversation_112_user_1)
+
+15. I am a profesional translator.
+   (ID: conversation_229_user_2)
+
+16. I have asthma.
+   (ID: conversation_466_user_1)
+
+17. I talk in my sleep.
+   (ID: conversation_165_user_1)
+
+18. I m allergic to milk.
+   (ID: conversation_340_user_2)
+
+19. I m easily agitated.
+   (ID: conversation_106_user_2)
+
+20. I once drove a car ! my friend told me what to do while i drove.
+   (ID: conversation_27_user_1)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43297
+
+Dataset distribution in this cluster:
+  FoCus: 1245 (2.9%)
+  MPChat: 2863 (6.6%)
+  MSC: 1885 (4.4%)
+  PEC: 16918 (39.1%)
+  PER-CHAT: 17133 (39.6%)
+  PersonaChat: 1103 (2.5%)
+  SyntheticPersonaChat: 2150 (5.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1245
+
+1. I am going to take a trip to Puerto Rico.
+   (ID: Y7WSG3Z184EX_9)
+
+2. I like Toronto.
+   (ID: TF4SZWIWHJO4_11)
+
+3. I want to visit Scotland.
+   (ID: RYVLIPTXZRXJ_11)
+
+4. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+5. I like Kent.
+   (ID: T9JPYSSWD7NW_11)
+
+6. I am a fan of Lake Michigan.
+   (ID: VPRC44FNGVA6_11)
+
+7. I want to visit Punjab.
+   (ID: RJJWVAVC2B40_9)
+
+8. I have never been to Alaska.
+   (ID: 82ZP2M9AL6U0_11)
+
+9. I like Worcestershire Canal.
+   (ID: 72MY00U8UEGB_11)
+
+10. I live in Kansas City.
+   (ID: HO684VMC687Z_11)
+
+11. I have heard about Hooghly River.
+   (ID: WKS47SP8CYLV_11)
+
+12. I have been to Ireland.
+   (ID: DDUH6892W2P9_7)
+
+13. I would like to visit Auckland.
+   (ID: FOZE4Q84M3RX_11)
+
+14. I have never been to Europe before.
+   (ID: RUXEW8EYORSZ_11)
+
+15. I like taking pictures of famous landmark and uploading on my social media account.
+   (ID: YH6KAJ3V2KQ8_11)
+
+16. I like the organ.
+   (ID: 9IFEU12EAOWB_11)
+
+17. I live in a Village.
+   (ID: W1ARCAV1RHTZ_11)
+
+18. I am interested in old stadiums.
+   (ID: PK2U426B57KL_9)
+
+19. I live in Oxford.
+   (ID: PCA6OG1NNC5D_9)
+
+20. I am interested in the Industrial Revolution.
+   (ID: IS9KP8O0CE1M_11)
+
+
+--- MPChat ---
+Total from this dataset: 2863
+
+1. guy at work wanted his own so i used the rest of the bright thread.
+   (ID: ddizzle23)
+
+2. lv supreme duffle bag cake i just finished it
+   (ID: Sunshine_2425)
+
+3. quick scarf i made
+   (ID: Soapy_Von_Soaps)
+
+4. gotta make a few more of these for my pet loving friends for christmas
+   (ID: Chris55730)
+
+5. got to make my favorite x-men as a custom order for someone, thought you guys would dig it
+   (ID: Louiesloops)
+
+6. created this little lady for my second cousins 85th birthday!
+   (ID: amandabakes)
+
+7. i made an oktoberfest cake!
+   (ID: yolanda_gampp)
+
+8. i made mini cookies (quarter size) for my sons advent calendar.
+   (ID: amandabakes)
+
+9. cake i decorated today for a wedding.. tried some new glitter
+   (ID: tremelir)
+
+10. perry the platycorgi has claimed the pillows as his own and by law i cannot move him.
+   (ID: kentobean123)
+
+11. my buddy loves to lay belly-up!
+   (ID: chirp16)
+
+12. i keep telling myself to work through my stash but i ordered more yarn yesterday
+   (ID: smsikking)
+
+13. i never knew what i was missing.
+   (ID: ddizzle23)
+
+14. all the cakes i made in high school and college!
+   (ID: hmbmelly)
+
+15. i'm making a pillow and baby blanket set for my cousins baby shower in a couple weeks.
+   (ID: NervousToast)
+
+16. my first finished object for this week is another shopping bag with pouch.
+   (ID: Moriarty58)
+
+17. our chiuahuah rides in my dad's backpack when he gets tired on walks.
+   (ID: green-egg-and-ham)
+
+18. made my friends 21st cake, 7inch 7layered vanilla cake with strawberry spread
+   (ID: Notnotnotbryan)
+
+19. experiment: tried out two amazon no brand hooks (plus my trusty clover)
+   (ID: Lookingforearrings2)
+
+20. new ooak colorway i'm calling waves
+   (ID: SuperfineYarnCo)
+
+
+--- MSC ---
+Total from this dataset: 1885
+
+1. I have hit alot of attractions.
+   (ID: dialog_83_speaker_2)
+
+2. I don't take my dog with me when I play ultimate.
+   (ID: dialog_43_speaker_2)
+
+3. My dad is a priest.
+   (ID: dialog_40_speaker_2)
+
+4. I love art metal bands.
+   (ID: dialog_35_speaker_2)
+
+5. I used to work for a cable company. I now work for Verizon.
+   (ID: dialog_76_speaker_2)
+
+6. I enjoy pop music.
+   (ID: dialog_26_speaker_2)
+
+7. I like memoirs and autobiographies.
+   (ID: dialog_55_speaker_2)
+
+8. I took my cure for the common cold to the lab.
+   (ID: dialog_91_speaker_1)
+
+9. I love the idea of travel.
+   (ID: dialog_13_speaker_1)
+
+10. I am a pilot.
+   (ID: dialog_35_speaker_2)
+
+11. I eat somali food.
+   (ID: dialog_16_speaker_2)
+
+12. My boyfriend works at NASA
+   (ID: dialog_37_speaker_2)
+
+13. I am a charitable person
+   (ID: dialog_79_speaker_1)
+
+14. I am wildly optimistic.
+   (ID: dialog_72_speaker_1)
+
+15. I was a cheerleader in high school.
+   (ID: dialog_76_speaker_1)
+
+16. I am an avid jogger.
+   (ID: dialog_40_speaker_1)
+
+17. My mother was born in ireland. My father was born in australia. I live in California.
+   (ID: dialog_38_speaker_2)
+
+18. I really like technology.
+   (ID: dialog_85_speaker_2)
+
+19. I'm in a university.
+   (ID: dialog_70_speaker_2)
+
+20. I like ghosts.
+   (ID: dialog_58_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 16918
+
+1. i have a friend with 5 % vision in one eye .
+   (ID: thebastion)
+
+2. i watched this whole match .
+   (ID: aydinsevimli)
+
+3. i think you 're married to charlie day ...
+   (ID: MrBovineJoni)
+
+4. i was n't asking you .
+   (ID: Nobody-Likes-Change)
+
+5. i dunno what he got .
+   (ID: iToaditSo)
+
+6. i think their google wallet systems were the ones failing .
+   (ID: dohko_xar)
+
+7. i just ca n’t listen to anything he is on anymore .
+   (ID: Montag3636)
+
+8. i 've tried drinking while sitting on a rock ; it 's pretty cool !
+   (ID: SerendipitousCat)
+
+9. i 'd love to have tips like these ob loading screens on april 1st next year !
+   (ID: Atemu12)
+
+10. i think the venom must have killed it
+   (ID: FrankOfTheDank)
+
+11. i wish you were wrong but you 're not .
+   (ID: HugePurpleNipples)
+
+12. i can not get out of bed in the morning .
+   (ID: justgirlypasta)
+
+13. i ve had her for a week and finally gave her the wash she deserves .
+   (ID: mmaswadeh)
+
+14. i just discovered that sub .
+   (ID: KikAtWorkFL)
+
+15. i ca n't believe this only has 3,648 downvotes
+   (ID: RonaldFuckingPaul)
+
+16. i heard captain america deadass invades wakanda for vibranium
+   (ID: ChallengeTaken99)
+
+17. i thought wheel locks were useless .
+   (ID: dohko_xar)
+
+18. i have both the icdn1 and icdn2 books from odum .
+   (ID: AgedTwenties)
+
+19. i 'm not sure how much of this i can share that will be relevant , but yeah .
+   (ID: shortgiraffe9000)
+
+20. i mean how many of you thought sayori was depressed before it was made obvious ?
+   (ID: tylock)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17133
+
+1. suffocation . i  d be happy to demonstrate for you ?
+   (ID: b5511d022d9aa43868b3f1a7ca2e4368d861570c)
+
+2. One of my favorite things is science.
+   (ID: 96b1ed1f8b952d8d999a49615ef255ff337e17ab)
+
+3. One of my favorite things is reading.
+   (ID: 5366d3e890f8a540d03733631ae8f32ef2335c31)
+
+4. maybe ? i mean most of say you want to feel loved , you want a relationship that includes sex , this would just make it meaningless .
+   (ID: 6259aa52bc6c6edc83b90b70ae922dcaba51cac8)
+
+5. One of my favorite things is big butts.
+   (ID: 9e8a44f7c55ebce4785906436a033b33a1ccb949)
+
+6. One of my favorite things is reading stories.
+   (ID: 46a39b1131e50f9cc061bbaf88e15686e5c9359d)
+
+7. wow is a game that i know i will always be interested in playing . even when it ' s bad , i can still find joy somewhere in the world of azeroth .
+   (ID: 2e464b2732570f16afced14ab79d30fa92622627)
+
+8. oh thanks but how do i know what week i  m on and which area i go to ?
+   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
+
+9. i was gonna tell you something but just forget it .
+   (ID: 2bef35da312e37edc8bab504f87f6973d3b8481a)
+
+10. not really . not in any way that it impacts my day  to  day life . i don ' t think they ' re outside the realm of possibility . one of my friends from college does . they have a popular podcast on the subject , actually . if anyone ' s interested  hasn ' t already checked out and that ' s why we drink , i ' d recommend it .
+   (ID: b3ce8c3aa09031bfd6d4fa7836489539a481a3f4)
+
+11. One of my favorite things is english humour.
+   (ID: 02cf76dae1fda8da1d2e5bbbaeb0da5a77cb6e3e)
+
+12. I'm interested in relationships.
+   (ID: 82227bc3f73e4753802bc6bc025e3544c0c76857)
+
+13. I have a dog as a pet.
+   (ID: a90f01f580b7cc08038958d5c1f659fd492b1f2c)
+
+14. I am a male.
+   (ID: b18c6165a76bf34665eb406698860d1ddc5e2cbf)
+
+15. do all you ' re friends know it ?
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+16. oh wait i get what you mean . would that not be weirding them out though ?
+   (ID: 920ba0628cbea5588ecca4c8ba7f80b411ff70ef)
+
+17. One of my favorite things is lucio.
+   (ID: 50e37e2011f73f739f76098c3c746e27b8422fd7)
+
+18. I am a male.
+   (ID: eb701dce6e6a2a5da4a0d10410214d821dc525a2)
+
+19. let me ask you something do you collect comics because while i don ' t i understand that leaving pen marks and damage on those comics is a serious thing and the kid still damaged  destroyed op ' s personnel property and should suffer the consequences .
+   (ID: 1df1bd07e28c0df73bd865f8cb447d7c8f1bd4d3)
+
+20. my fiancee and i will be at universal for digit days of our honeymoon in november , we ' re excited to check out the wwohp ! what do you recommend should be at the top of our to do lists when checking out the park ?
+   (ID: 65e18a8843fe1a6d644e4fe6a3b227426a6b9103)
+
+
+--- PersonaChat ---
+Total from this dataset: 1103
+
+1. i'm more of a cat person than a dog person .
+   (ID: conversation_49)
+
+2. i was a slave for 10 years .
+   (ID: conversation_127)
+
+3. my heart hurts from a broken relationship .
+   (ID: conversation_130)
+
+4. i enjoy working out and learning new things .
+   (ID: conversation_230)
+
+5. i draw comics .
+   (ID: conversation_168)
+
+6. my parents don't know i am gay .
+   (ID: conversation_4)
+
+7. halloween is my favorite holiday .
+   (ID: conversation_5)
+
+8. my boyfriend works for nasa .
+   (ID: conversation_37)
+
+9. i live in an apartment .
+   (ID: conversation_135)
+
+10. i like to party .
+   (ID: conversation_112)
+
+11. i have a harsh inner critic .
+   (ID: conversation_147)
+
+12. i love dogs and cats .
+   (ID: conversation_97)
+
+13. i read sci fi space adventures with a passion .
+   (ID: conversation_25)
+
+14. i was the first born child .
+   (ID: conversation_127)
+
+15. i'm very good at math and science .
+   (ID: conversation_122)
+
+16. i wake early to watch the sun rise every day .
+   (ID: conversation_148)
+
+17. i wait tables .
+   (ID: conversation_129)
+
+18. my mom teaches kindergarten and my dad is a tax assessor .
+   (ID: conversation_79)
+
+19. i enjoy reading .
+   (ID: conversation_155)
+
+20. i am a veteran .
+   (ID: conversation_89)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2150
+
+1. I love the smell of beans.
+   (ID: conversation_190_user_2)
+
+2. I am smart too.
+   (ID: conversation_34_user_1)
+
+3. I am working on a biology degree.
+   (ID: conversation_126_user_1)
+
+4. I love watching superheroes shows.
+   (ID: conversation_66_user_1)
+
+5. My favorite color is orange.
+   (ID: conversation_198_user_1)
+
+6. My favorite color is grey.
+   (ID: conversation_99_user_1)
+
+7. I talk in my sleep.
+   (ID: conversation_166_user_1)
+
+8. I grew up with 6 siblings.
+   (ID: conversation_222_user_1)
+
+9. Yellow is my favorite color.
+   (ID: conversation_234_user_2)
+
+10. I went to school for fashion design and did nothing with it.
+   (ID: conversation_98_user_2)
+
+11. I have a french bulldog.
+   (ID: conversation_198_user_2)
+
+12. I m funny.
+   (ID: conversation_20_user_1)
+
+13. I wake early to watch the sun rise every day.
+   (ID: conversation_138_user_2)
+
+14. I enjoy walking around the park.
+   (ID: conversation_21_user_2)
+
+15. I have a gun collection at home.
+   (ID: conversation_164_user_2)
+
+16. I love cats.
+   (ID: conversation_132_user_1)
+
+17. I love to read.
+   (ID: conversation_156_user_2)
+
+18. I work at home , editing.
+   (ID: conversation_97_user_2)
+
+19. I have visited 12 national parks in the us.
+   (ID: conversation_20_user_2)
+
+20. I can draw.
+   (ID: conversation_31_user_1)
+
+
+============================================================

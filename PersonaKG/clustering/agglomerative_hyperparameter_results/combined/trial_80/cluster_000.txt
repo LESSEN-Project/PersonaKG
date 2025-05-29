@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 83396
+
+Dataset distribution in this cluster:
+  FoCus: 2454 (2.9%)
+  MPChat: 5012 (6.0%)
+  MSC: 3814 (4.6%)
+  PEC: 32709 (39.2%)
+  PER-CHAT: 32829 (39.4%)
+  PersonaChat: 2207 (2.6%)
+  SyntheticPersonaChat: 4371 (5.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2454
+
+1. I am going to Australia in the spring.
+   (ID: MA2EPDC7QHS5_11)
+
+2. I love Stourbridge.
+   (ID: 72MY00U8UEGB_11)
+
+3. I have visited the BC Place.
+   (ID: UHVFDJII2GF5_11)
+
+4. I love peaks.
+   (ID: BPCV4KG0PEMD_7)
+
+5. I am interested in architecutre.
+   (ID: USE7XGAZYB6P_11)
+
+6. I hope to work in engineering.
+   (ID: YRJ6RB6JCWMA_11)
+
+7. I am traveling around England.
+   (ID: XPO6CJX81MYK_9)
+
+8. I would like to cave dive.
+   (ID: 8GQ0F315ZAPD_9)
+
+9. I am an animal lover.
+   (ID: QLDCXP7YJP9Q_11)
+
+10. I went to France on my vacation last year.
+   (ID: OVAVQ6KQ4YWN_11)
+
+11. I love bridge overpass.
+   (ID: E3UZAGT5DTE5_11)
+
+12. I live in urban part of the city.
+   (ID: QK9TQHXYFFJ9_11)
+
+13. I am interested in wild animals.
+   (ID: L96351DIHFAR_7)
+
+14. I would like to visit New Zealand.
+   (ID: FOZE4Q84M3RX_11)
+
+15. I hope to visit Chile soon.
+   (ID: V83LRI44QW1S_11)
+
+16. I hope to attend a football game.
+   (ID: EFTS0UG7NK5K_9)
+
+17. I am interested in the Iran.
+   (ID: XU1657VV4AMG_11)
+
+18. I like Pietro Antonio Solari.
+   (ID: 9VN3FMWR0NNR_11)
+
+19. I have a fantasy about cemetery.
+   (ID: O160CLPSNJOK_7)
+
+20. I'm planning a trip to London.
+   (ID: Y2QT7AAK6CLK_11)
+
+
+--- MPChat ---
+Total from this dataset: 5012
+
+1. my rainbow granny square blanket is finally finished!
+   (ID: FoxInKneeSocks)
+
+2. i embroidered these butterflies in plastic canvas with twist.
+   (ID: gelimausi)
+
+3. i hear we are posting snoot boops
+   (ID: Deeshizznit)
+
+4. my first try at hand dying silk hankies for knitting.
+   (ID: cherushii868)
+
+5. idk why i got this color contrast on this oat latte, but i like it.
+   (ID: BeastaBubbles)
+
+6. my sweet peggy passed tonight.
+   (ID: krichmondRPH)
+
+7. got my first succulents potted, hopefully they're happy in their new homes!
+   (ID: zonumnire)
+
+8. finished my crochet wooloo and eldegoss from pokemon sword and shield.
+   (ID: pokegirl93a)
+
+9. the one plant that likes this dark corner, lurking in my favorite vintage hanger
+   (ID: switchbladesally)
+
+10. left these guys in my windowsill and just noticed all three are splitting at once!
+   (ID: heatsensitive)
+
+11. i snagged myself variegated string of pearls!
+   (ID: gxnelson)
+
+12. took my ole ferd to joshua tree this weekend.
+   (ID: rileyracks)
+
+13. not perfect, but an interesting look, i think.
+   (ID: fredbutt)
+
+14. i've already got my next pair planned out
+   (ID: Novel_Fox)
+
+15. this spoon flower was my first little welding project.
+   (ID: SweetSassyClassy)
+
+16. posting a camping picture every day until i can go camping again day 10: surveying his domain nw ga
+   (ID: Pearl_krabs)
+
+17. i made this danish butter cookies for my boyfriend.
+   (ID: justcook_byangel)
+
+18. tried for cool head plumage but instead i gave him a toupee.
+   (ID: jlb4est)
+
+19. cake [i made] for my boss’s birthday.
+   (ID: amandabakes)
+
+20. since macarons are kind of a right of passage-- here is my first attempt info in comments
+   (ID: kns89)
+
+
+--- MSC ---
+Total from this dataset: 3814
+
+1. I take school for points.
+   (ID: dialog_87_speaker_2)
+
+2. One of my first jobs was at a recycling center.
+   (ID: dialog_131_speaker_2)
+
+3. I wish to be a rock star.
+   (ID: dialog_44_speaker_2)
+
+4. I am just a kid.
+   (ID: dialog_118_speaker_2)
+
+5. I'm rude to my significant other.
+   (ID: dialog_107_speaker_1)
+
+6. I rely a lot on technology.
+   (ID: dialog_155_speaker_2)
+
+7. I don't have many friends. I am looking for new friends
+   (ID: dialog_88_speaker_1)
+
+8. I love being able to stay in pajamas all day.
+   (ID: dialog_93_speaker_1)
+
+9. I'm reading Twilight.
+   (ID: dialog_175_speaker_1)
+
+10. I am free on the weekends.
+   (ID: dialog_119_speaker_2)
+
+11. I have been married to my husband for almost 5 years.
+   (ID: dialog_147_speaker_1)
+
+12. I've a sweet tooth.
+   (ID: dialog_176_speaker_2)
+
+13. I like the sand on my feet.
+   (ID: dialog_76_speaker_2)
+
+14. I love to cook.
+   (ID: dialog_119_speaker_2)
+
+15. I like mystery.
+   (ID: dialog_5_speaker_2)
+
+16. I like to blow.
+   (ID: dialog_148_speaker_1)
+
+17. My mother used to play piano and sing.
+   (ID: dialog_10_speaker_1)
+
+18. I was once held hostage in a store robbery. That incident has caused me to become recluse.
+   (ID: dialog_176_speaker_1)
+
+19. Working in outer space would be awesome!.
+   (ID: dialog_90_speaker_1)
+
+20. I am taking a class and am working at night. We have open mic poetry nights at work every week. I have never performed poetry. I am shy.
+   (ID: dialog_144_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 32709
+
+1. i 've seen him interview people on a business tv show .
+   (ID: 512165381)
+
+2. i 'd love to see someone experiment with this .
+   (ID: dkinmn)
+
+3. i saw some of the rare cask recently for $ 450 .
+   (ID: JaZepi)
+
+4. i will definitely pick some up then haha
+   (ID: pipette_on)
+
+5. i think california is doing a good enough job at self - destructing .
+   (ID: jesuschrysler)
+
+6. i wanna slay !
+   (ID: Bathysphere710)
+
+7. i love these .
+   (ID: DoctorRichardNygard)
+
+8. i 'm sorry , but that looks awful .
+   (ID: hussy_trash)
+
+9. i feel almost like i an getting every opened gift i see .
+   (ID: supmraj)
+
+10. i just do n’t know what to say to my dr ...
+   (ID: opalskys)
+
+11. i 'm still asking for more
+   (ID: deryyaa)
+
+12. i was wondering if you know how to fix this issue .
+   (ID: Etifaq)
+
+13. i do n't know about the cashier but buying that tube of preparation h was n't fun .
+   (ID: sbsb27)
+
+14. i know that feel :)
+   (ID: whyunogivemegoodname)
+
+15. i thought he died when i swallowed :(
+   (ID: JustHereForCum)
+
+16. i wish i laughed at the joke .. no need to be ashamed my dear friend .
+   (ID: Ian_Str8)
+
+17. i do nt feel connected to anybody .
+   (ID: 98VoteForPedro)
+
+18. i 'll buy cheap anything tbh
+   (ID: greensandgables)
+
+19. i do n't see what 's " nice guy " about this .
+   (ID: Nobody-Likes-Change)
+
+20. i still do nt know where all his money goes .
+   (ID: mathieu2em)
+
+
+--- PER-CHAT ---
+Total from this dataset: 32829
+
+1. One of my favorite things is rey mysterio.
+   (ID: c6b2000b95ec54c8393c3ab07cc2c5acd2563345)
+
+2. I own a enemy.
+   (ID: 46cde0a7d09b0d21cec2da281fda676d6950da60)
+
+3. One of my favorite things is vulcan in assault.
+   (ID: 52998b8f3de02e095d5ef2887f1b1c9122825175)
+
+4. One of my favorite things is comp.
+   (ID: f8a8648f114c1dd8984a809bd49816978d9970c0)
+
+5. i do that , but i need to remove like half of the image lol
+   (ID: 9c91f42953bc8f6d2f718503a1924734b9da6acc)
+
+6. if a vendor did something like this to me , i ' d just walk away . i ' ll spend my money somewhere else , thank you . life has enough ahole trolls in it to begin with . the last thing i need , is to deal with that sht when all i want is a fckin ' ice cream .
+   (ID: 8e22144947225f2bd7d950ea1b4044909a8653ae)
+
+7. whoah . does this ever work for you ? like after you meet the girl ? what happens ? she ' s just like , oh you are awesome i dont care that you photoshopped your photos ? or do you fess up , or just lie and say they are old ?   x200b   remind myself to never trust mens photos again  up until now , all i ' ve heard is my male friends or matches bitch about women who don ' t look like their profile pictures . what ' d you do if a girl showed up who looked nothing like what you pictured ? are you interested still ? people have a problem with that because it ' s being dishonest from the get go . it has nothing to do with what magazines do to make money , we are never going to meet them . or more people would know models don ' t look like that !
+   (ID: 96b1ed1f8b952d8d999a49615ef255ff337e17ab)
+
+8. you ' re demisexual . look it up ! you ' re not weird , just different . i ' m the same way .
+   (ID: 5a15ed606a86674cb48abaf9fee4375ff6bbff09)
+
+9. One of my favorite things is rainbow road.
+   (ID: 39ad1ed2bdf42527fd153f3d4be927df170fc195)
+
+10. I live in new zealand.
+   (ID: 8712de543372bc5f398d43ea5b918c85efc5dda7)
+
+11. I am a male.
+   (ID: 1f61921525978b0c5bcae6c0ab9c184a4d4c86a6)
+
+12. I live in New York City.
+   (ID: 46ad8b21d42eca2f7a4a4acacd8d9683aa9cf47a)
+
+13. wow , i don  t know what to say . is there anymore of this on yt ?
+   (ID: aa10be53ada3d17528c17c60feb64d0669aed98f)
+
+14. One of my favorite things is camping.
+   (ID: ea5cdb41822e9eac6a4230514be598981cadabcb)
+
+15. I am a male.
+   (ID: 782311f0352356940fd2c1e77bc3cfa9f74b06fa)
+
+16. I'm interested in fitness and nutrition.
+   (ID: dceaf5128ce079240dc5048df74d704163edc3a5)
+
+17. I am a male.
+   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+
+18. you miss the joke ?
+   (ID: b6f013c0bdbca04282e87d0e013063517d33e93b)
+
+19. I'm interested in dogs.
+   (ID: b2a2cd889183833ca9a753b2d28f6d89d867e1f9)
+
+20. I live in ayala makati.
+   (ID: 0163212450bac6366408ac8e1e025d32048839ec)
+
+
+--- PersonaChat ---
+Total from this dataset: 2207
+
+1. i don't like to clean house .
+   (ID: conversation_306)
+
+2. my eyes are green .
+   (ID: conversation_481)
+
+3. i will be graduating in september and hope to get a teaching job soon .
+   (ID: conversation_22)
+
+4. my husband died a few years ago , so i am raising them alone .
+   (ID: conversation_340)
+
+5. i make videos about makeup .
+   (ID: conversation_58)
+
+6. i like to go hiking on the weekends .
+   (ID: conversation_63)
+
+7. i work at an accounting firm .
+   (ID: conversation_190)
+
+8. i just started dating someone new .
+   (ID: conversation_367)
+
+9. i'm a dancer .
+   (ID: conversation_10)
+
+10. i'm a student at michigan state university .
+   (ID: conversation_144)
+
+11. i love to cook .
+   (ID: conversation_454)
+
+12. i feel overweight .
+   (ID: conversation_288)
+
+13. i have a college degree in marketing .
+   (ID: conversation_109)
+
+14. i could move out , but she doesn t want me to .
+   (ID: conversation_175)
+
+15. ke ha is my favorite singer of all time .
+   (ID: conversation_26)
+
+16. i also give blood monthly in honor of my sister who died .
+   (ID: conversation_77)
+
+17. i hate the taste of cheese .
+   (ID: conversation_105)
+
+18. i ve an iphone .
+   (ID: conversation_490)
+
+19. my favorite flower is a rose .
+   (ID: conversation_129)
+
+20. i have a pet snake .
+   (ID: conversation_50)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4371
+
+1. I am married.
+   (ID: conversation_252_user_1)
+
+2. I recently started working online.
+   (ID: conversation_64_user_1)
+
+3. I love youtube.
+   (ID: conversation_272_user_2)
+
+4. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_198_user_2)
+
+5. My feet smell.
+   (ID: conversation_308_user_1)
+
+6. I want to visit the uk.
+   (ID: conversation_201_user_2)
+
+7. I like to swim.
+   (ID: conversation_259_user_1)
+
+8. I do not like coffee.
+   (ID: conversation_12_user_2)
+
+9. I watch a movie sundays evenings.
+   (ID: conversation_249_user_2)
+
+10. I enjoy eating italian food.
+   (ID: conversation_203_user_2)
+
+11. I have been a vegan since i was 5.
+   (ID: conversation_388_user_2)
+
+12. I love dogs.
+   (ID: conversation_45_user_2)
+
+13. I love pasta.
+   (ID: conversation_311_user_1)
+
+14. I like snowboarding.
+   (ID: conversation_180_user_2)
+
+15. I am currently pregnant with my second child.
+   (ID: conversation_65_user_1)
+
+16. I like potatoes.
+   (ID: conversation_412_user_2)
+
+17. My father was a member of the communist party.
+   (ID: conversation_382_user_2)
+
+18. I love country music.
+   (ID: conversation_17_user_2)
+
+19. I have epilepsy.
+   (ID: conversation_372_user_2)
+
+20. Halloween is my favorite holiday.
+   (ID: conversation_313_user_2)
+
+
+============================================================

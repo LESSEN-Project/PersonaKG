@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 60781
+
+Dataset distribution in this cluster:
+  FoCus: 1744 (2.9%)
+  MPChat: 3713 (6.1%)
+  MSC: 2692 (4.4%)
+  PEC: 23924 (39.4%)
+  PER-CHAT: 24052 (39.6%)
+  PersonaChat: 1555 (2.6%)
+  SyntheticPersonaChat: 3101 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1744
+
+1. I love history.
+   (ID: QFCC4W8VUHOO_11)
+
+2. I am reseraching glacial meltwater.
+   (ID: SDW19RWSP3ZX_11)
+
+3. I would like to see the production of copper.
+   (ID: V83LRI44QW1S_11)
+
+4. I love soup.
+   (ID: 744H5J0MPE9C_9)
+
+5. I love to go swimming.
+   (ID: MP1ZK22Q90C9_11)
+
+6. I would like to visit Russia.
+   (ID: ADLF9YCC3J49_11)
+
+7. I am interested in national collection.
+   (ID: O32SMRJRNDHW_11)
+
+8. I love traveling by rail.
+   (ID: 82C5DC88Z9VL_11)
+
+9. I love visiting historic places.
+   (ID: F6T8IBBEHM4P_11)
+
+10. I hope to see more Research Institute.
+   (ID: 7NISCLZRSK4E_7)
+
+11. I am worried about any inappropriate use of natural resources.
+   (ID: 91IHZ45NQ48A_11)
+
+12. I love learning.
+   (ID: ASEVTIZW4Z03_11)
+
+13. I have a British accent.
+   (ID: UUN7SKTZQ38T_7)
+
+14. I love United states.
+   (ID: SKF7IKD9SC0U_9)
+
+15. I love looking a coral.
+   (ID: OI93ZLZKWF52_7)
+
+16. I would like to visit a natural park.
+   (ID: LERVJ9I223JG_7)
+
+17. I am planning to go to New York.
+   (ID: RN7ZT44D6QK1_11)
+
+18. I like Dublin.
+   (ID: DDUH6892W2P9_7)
+
+19. I am interested in history.
+   (ID: UTGOZ64NRQCB_11)
+
+20. I like to know about the fauna of different places.
+   (ID: RQW9YJT6PSHE_7)
+
+
+--- MPChat ---
+Total from this dataset: 3713
+
+1. my expirment cake in : teh tahrik (milk tea) flavour cake with chrysanthemum buttercream
+   (ID: Notnotnotbryan)
+
+2. my morning wake up view: camping at lois lake, powell river, bc, canada
+   (ID: Sassy_Curmudgeon)
+
+3. have sewn my own handbag made of genuine leather.
+   (ID: gelimausi)
+
+4. this fool gets himself stuck in the hamper every day, and then whines until i take him out
+   (ID: MafHoney)
+
+5. i really enjoyed this new machine today.
+   (ID: BeastaBubbles)
+
+6. i found the best trail in arkansas!
+   (ID: VapeThisBro)
+
+7. a cake i baked for a raffle
+   (ID: Cantwa1t)
+
+8. [i ate] pistachio baklava
+   (ID: DeanIsHotter)
+
+9. these white matsutakes i found today
+   (ID: sundstrom193)
+
+10. i love my job.
+   (ID: skrivitor)
+
+11. i want to try different kind of cheesecake.
+   (ID: justcook_byangel)
+
+12. i may have a bit of a problem.... scheepjes whirl stash
+   (ID: Winter246)
+
+13. stayed up later than i meant to but got the body done.
+   (ID: Sophie74656)
+
+14. i think he's doing his best sleeping human impression.
+   (ID: mattsulli)
+
+15. i am guilty of eating more than i should...
+   (ID: justcook_byangel)
+
+16. this car i found on a beach in o’ahu.
+   (ID: sundstrom193)
+
+17. finished my first build a few months ago.
+   (ID: GamblinGambit)
+
+18. i like bunny butts and i cannot lie!
+   (ID: drfrank1982)
+
+19. i crocheted a tiny brain slug from futurama!
+   (ID: Louiesloops)
+
+20. you were delicious and your bottle has a spot on my mantle.
+   (ID: crunch816)
+
+
+--- MSC ---
+Total from this dataset: 2692
+
+1. I'm scared of high places.
+   (ID: dialog_66_speaker_1)
+
+2. My dad is judgemental.
+   (ID: dialog_98_speaker_2)
+
+3. I work on the line with machines.
+   (ID: dialog_44_speaker_2)
+
+4. I have pet dogs. I like to spend time with my family and dogs.
+   (ID: dialog_109_speaker_1)
+
+5. I love to see things grow.
+   (ID: dialog_112_speaker_1)
+
+6. The bucks are the best team on earth.
+   (ID: dialog_8_speaker_2)
+
+7. I love to cook. I like dinner parties. I like organic fruits and vegtables. I like Espresso. I can make French and German food.
+   (ID: dialog_119_speaker_2)
+
+8. I work as a infant assistant teacher at a daycare.
+   (ID: dialog_119_speaker_2)
+
+9. I am apart of a different work environment.
+   (ID: dialog_62_speaker_2)
+
+10. I work in a bank.
+   (ID: dialog_125_speaker_1)
+
+11. I like to help out in the community.
+   (ID: dialog_20_speaker_2)
+
+12. I'm studying for a bachelors degree.
+   (ID: dialog_89_speaker_2)
+
+13. I enjoy watching The Cable Guy.
+   (ID: dialog_15_speaker_2)
+
+14. I eat a lot of seafood. I like shrimp. I'm not good at cooking. I've tried cooking seafood Spanish paella and spaghetti before, not success. I want to cook more often.
+   (ID: dialog_105_speaker_1)
+
+15. I did not do well in school. I attend school virtually.
+   (ID: dialog_53_speaker_2)
+
+16. I like trying new food. I'm going to the UK.
+   (ID: dialog_82_speaker_1)
+
+17. I want to jump out of a plane.
+   (ID: dialog_104_speaker_1)
+
+18. I hate being poor.
+   (ID: dialog_52_speaker_1)
+
+19. I am curious to know about the age suitability for the children's book.
+   (ID: dialog_132_speaker_2)
+
+20. I'm distrustful of people.
+   (ID: dialog_30_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 23924
+
+1. i never have to leave the house again .
+   (ID: chirpyboyandbartjr)
+
+2. i wish it was that easy .
+   (ID: bugaloo2u2)
+
+3. i use my garage as a fridge in winter .
+   (ID: silentpower)
+
+4. i had to hear it from a complete stranger that you were with " your boyfriend " .
+   (ID: redandblack555)
+
+5. i would nt mind having fefe for a tutor
+   (ID: LCPhotowerx)
+
+6. i 'm hoping someone can look at a couple of my pictures to help me out .
+   (ID: worried_panda)
+
+7. i hope so as well :)
+   (ID: conservative_poly)
+
+8. i hope that i am bold enough to call out your mils when they pull this shit .
+   (ID: IncredibleBulk2)
+
+9. i think she could safely parry calling donald lardus viagrus .
+   (ID: sbsb27)
+
+10. i guess it must depend on where you are based - i 'm in sydney , aus .
+   (ID: DarkMoon99)
+
+11. i ’m confused as fuck too .
+   (ID: Heydawgg)
+
+12. i can not get any in stonewood even for wargames .
+   (ID: TheRealAshren)
+
+13. i just had to fight back a guffaw in order to not wake my husband !
+   (ID: hardt0f0rget)
+
+14. i would read a series of posts that ended with that last line .
+   (ID: misplaced_my_pants)
+
+15. i wish her and you all the best of luck .
+   (ID: kitcatpaints)
+
+16. i see a lot of them trading hands recently .
+   (ID: pyro2927)
+
+17. i 'm not hot for goth chicks either but i 'd certainly rattle this one !
+   (ID: SeasonedLemur)
+
+18. i would say that once you are in your late 70 's you are getting a little old .
+   (ID: deputydan_scubaman)
+
+19. i assumed it was his deformed twin brother that finally escaped from the attic .
+   (ID: throwaway073847)
+
+20. i think he 's adorable !
+   (ID: notthruyet)
+
+
+--- PER-CHAT ---
+Total from this dataset: 24052
+
+1. that ' s what i wonder . it seems that so many people in power are bad people , and i wonder if that was their end game from the beginning or if they started with good intentions
+   (ID: d23bd8fb57b99544637110d5b376dba68b3e2d0f)
+
+2. oh , and it happens to be my bday which is funny .
+   (ID: 15909870ffa903ea3b3962d8d81fd1701dd68aea)
+
+3. I am a male.
+   (ID: 1d39daed654c59dbe2076d0171bf5d18da510d72)
+
+4. apparently i am the one who needs to grow a backbone , when everyone here can ' t cope with someone not giving them what they want . honestly , some people .
+   (ID: fe56409176d2a6089f323227d5b07061f851d63b)
+
+5. maybe his friends are just used to mockicking him and they do it rather jokingly . that ' s kind of insult  based friendship  relationship , commonly occur in real life . hiccup allows that because he is fine with it . if it comes to the villain , why wouldn ' t he try to insult him ? his aim was tomake hiccup lose his nerves , start acting impulsively and be easier to defeat . of course the more accurate and touchy the insult is , the better are the results but maybe grimmel couldn ' t come out with anything better as he never met hiccup in his live so he just reffered to his appearance . after all he ' s tights aren ' t very thicc .
+   (ID: 337350fc54133b327ce0d6d9f385f82a2a6738cf)
+
+6. well , i don ' t hate pugs , they are not responsible for it . but i do hate that humans made something like that .
+   (ID: 9006d58872586db3bb808208616fdc9c3dff694b)
+
+7. i see it and i see people in the comments like " omg there ' s no way your dads so cray cray " and it ' s just sad to see some people are that gullible .
+   (ID: a73b0dda35d389b4f74e47db6574e0f71738b683)
+
+8. i appreciate the ingenuity and new take . there ' s a lot of games out there that just try to repeat what ' s being sold . i hate it
+   (ID: 199704b2ab3344a95185dd1a9c09023379518eb0)
+
+9. I'm interested in geography.
+   (ID: c378ee827fb7d26c7ea685ec1dc451bf264b0151)
+
+10. like what i did there ?
+   (ID: 5481b7a3276de2b79473c4a65d5bb2506e36d79d)
+
+11. I am a male.
+   (ID: 1aa2a9bdfead7897363f32a7bc9e416ca9098b9f)
+
+12. guys , it ' s digit now . let ' s not start putting things in a gender bucket . we accept this post because we are open and progressive and totally understand that some things can be gender flexible . such items include wolervine digit mile boot . it ' s digit . digit
+   (ID: 4721143ecfe877298792b1d44e635051f5f2c84e)
+
+13. I'm interested in pets and animals.
+   (ID: 359f9ab2b3224a06fb2eeef0a72bf286f2fe9fa5)
+
+14. I own a base.
+   (ID: b5f9b695867ef3b560a4fe7610f75e43b62809f6)
+
+15. One of my favorite things is writing.
+   (ID: bd0712716940e41d4901cd77632c868dc43fa8f0)
+
+16. basically , if he  s a changed man , why is he bringing this up now ? if he  s moved past this , why does he feel the need to express this ? being love and validated aren  t synonymous . you can love your pops , but think his actions are wrong . furthermore , people are in love with what they think liam is . who outside of his close friends and family really knows him . how many people loved kevin spacey before he was ousted ? i dont think you understand what i mean when i say he  s seeking validation . he wants people to say  yeah , i understand how you could have those thoughts  . that  s why it  s selfish , it  s self serving . he could have said ,  i was a racist who unjustly went around hunting people i knew nothing about hoping to kill them to satisfied my twisted definition of justice . instead he churched up the story to try and justify is actions . like i  ve said , if a white person raped his friend , would he have acted the same way ? i  m willing to wager he wouldn  t . we can be empathetic , we aren  t monsters , but we don  t have to validate it . these are the thoughts of a fucking racist .
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+17. i ' m all for setting up factories in other parts of the world to sell u . s . cars in those countries not to import what we should be employing people to make here .
+   (ID: 4751dd6f6e1bc0e55d1193f8d9e0a104d87e9e98)
+
+18. woah this hit home . i was in a very similar situation for digit  digit years with two friends who put me through the same shit you were put through . and i understand why you are scared because so am i . the thought of them makes my blood boil . do you live in another city to him or ?
+   (ID: e46baea29cbc117a037f63fbc38055b7e034a038)
+
+19. at the park . i was having a picnic with my daughter who was digit at the time . we went and had coffee the next day and the rest is history . here we are digit years later .
+   (ID: 877420760b51bd6d6215f29b022f67d56f77a7a8)
+
+20. I have a mother in my family.
+   (ID: be642743472cdef9445edc6dd55beb3c2a8a1258)
+
+
+--- PersonaChat ---
+Total from this dataset: 1555
+
+1. i enjoy making 3d models for video games and animations .
+   (ID: conversation_320)
+
+2. we own our home .
+   (ID: conversation_68)
+
+3. i'm an aspiring fiction writer .
+   (ID: conversation_86)
+
+4. drawing in traditional style is my pasion .
+   (ID: conversation_202)
+
+5. i like the internet .
+   (ID: conversation_348)
+
+6. i work in a factory .
+   (ID: conversation_125)
+
+7. i own my home .
+   (ID: conversation_52)
+
+8. my favorite movie is django unchained .
+   (ID: conversation_240)
+
+9. i'm from seattle .
+   (ID: conversation_281)
+
+10. i escaped and later became a carpenter .
+   (ID: conversation_127)
+
+11. my ultimate dream , however , is to be a writer .
+   (ID: conversation_340)
+
+12. my favorite musician in charlie daniels .
+   (ID: conversation_250)
+
+13. i like to hunt .
+   (ID: conversation_93)
+
+14. i like to play sports and get fresh air .
+   (ID: conversation_191)
+
+15. i am a woman .
+   (ID: conversation_152)
+
+16. i graduated college last week .
+   (ID: conversation_258)
+
+17. i work over 60 hours a week as a restaurant manager .
+   (ID: conversation_229)
+
+18. i just accepted a job at the elementary school in my hometown .
+   (ID: conversation_216)
+
+19. my favorite hobby is chess .
+   (ID: conversation_149)
+
+20. i love my family .
+   (ID: conversation_278)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3101
+
+1. I am a girl.
+   (ID: conversation_315_user_1)
+
+2. I am blind.
+   (ID: conversation_25_user_1)
+
+3. I love to drink whiskey.
+   (ID: conversation_268_user_2)
+
+4. I work at a bookstore.
+   (ID: conversation_146_user_2)
+
+5. I live in a small apartment in new york.
+   (ID: conversation_267_user_2)
+
+6. My mother has 500 pairs of shoes.
+   (ID: conversation_126_user_2)
+
+7. I love music.
+   (ID: conversation_309_user_1)
+
+8. I have three tattoos.
+   (ID: conversation_146_user_2)
+
+9. I wear glasses.
+   (ID: conversation_320_user_1)
+
+10. I ve started creating my own comics and presenting them to publishers.
+   (ID: conversation_35_user_2)
+
+11. I own 4 cats.
+   (ID: conversation_85_user_2)
+
+12. I live in a retirement home.
+   (ID: conversation_193_user_2)
+
+13. I work at an accounting firm.
+   (ID: conversation_229_user_1)
+
+14. I work out daily.
+   (ID: conversation_142_user_2)
+
+15. I owe 2 monitors for work.
+   (ID: conversation_69_user_1)
+
+16. My husband works for the government.
+   (ID: conversation_275_user_1)
+
+17. I have many friends.
+   (ID: conversation_25_user_1)
+
+18. I am vegan.
+   (ID: conversation_47_user_1)
+
+19. I draw comics.
+   (ID: conversation_299_user_1)
+
+20. I watch a movie sundays evenings.
+   (ID: conversation_163_user_1)
+
+
+============================================================

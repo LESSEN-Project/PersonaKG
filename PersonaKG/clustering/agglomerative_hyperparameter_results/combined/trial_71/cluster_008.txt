@@ -1,0 +1,94 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 19
+
+Dataset distribution in this cluster:
+  MSC: 4 (21.1%)
+  PEC: 9 (47.4%)
+  PER-CHAT: 2 (10.5%)
+  PersonaChat: 3 (15.8%)
+  SyntheticPersonaChat: 1 (5.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I have a car. I have a boyfriend. My boyfriend is learning acting.
+   (ID: dialog_87_speaker_1)
+
+2. My boyfriend is learning acting.  My boyfriend works during the week. I have a lot of time during the week.
+   (ID: dialog_87_speaker_1)
+
+3. My boyfriend is learning acting.  My boyfriend works during the week.
+   (ID: dialog_87_speaker_1)
+
+4. I take singing lessons. I have a boyfriend.
+   (ID: dialog_37_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 9
+
+1. i hope you can find him a happy home .
+   (ID: notthruyet)
+
+2. i hope you are giving him a home .
+   (ID: notthruyet)
+
+3. i 'm watching lots of disney stuff while he 's gone .
+   (ID: Chicoconut)
+
+4. i noticed when he ’s home , he listens to music through speakers .
+   (ID: jenni268)
+
+5. i am kinda jealous ... he ’s living like all of us would like to and by his own rules
+   (ID: mrhenk9)
+
+6. i do n't begrudge him his success , but yeah , i 'm jealous of that house .
+   (ID: nastylittleman)
+
+7. i ’m excited for him to move in with me soon
+   (ID: mooonjellies)
+
+8. i am planning on taking him over there for his birthday which is later this year .
+   (ID: lolala34)
+
+9. i love him a lot and will definitely be returning to live with him in september of this year .
+   (ID: travelingkiwi)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. uno , video games , movies , walk our dogs , share memes . apparently he thinks it ' s fun to poop while i ' m in the shower . i think it ' s fun randomly scaring him . especially with loud noises . in the dark .
+   (ID: 9e1be6964f5835f58b6cdaac71f8b557f0b4a42f)
+
+2. any chance you guys marry ? you can sponsor your spouse that way too .
+   (ID: 3cc393500aaac3a2ee1cd96955cee486bb062a46)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. my brother is currently couch surfing at my house .
+   (ID: conversation_46)
+
+2. my boyfriend is in acting school .
+   (ID: conversation_245)
+
+3. my brother is in a metal band and travels the world .
+   (ID: conversation_22)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. We plan to travel after he retires.
+   (ID: conversation_107_user_2)
+
+
+============================================================

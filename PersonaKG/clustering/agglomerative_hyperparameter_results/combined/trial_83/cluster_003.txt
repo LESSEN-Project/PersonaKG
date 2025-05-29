@@ -1,0 +1,467 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 4452
+
+Dataset distribution in this cluster:
+  FoCus: 151 (3.4%)
+  MPChat: 41 (0.9%)
+  MSC: 900 (20.2%)
+  PEC: 753 (16.9%)
+  PER-CHAT: 1068 (24.0%)
+  PersonaChat: 531 (11.9%)
+  SyntheticPersonaChat: 1008 (22.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 151
+
+1. I have worked in France.
+   (ID: LFGIG1TODPKB_11)
+
+2. I want to be an architect.
+   (ID: HGV5HAZVG959_11)
+
+3. I am Christian.
+   (ID: O2J7AJP3JLY3_11)
+
+4. I work with ancient art.
+   (ID: C64P8U3HDDHY_9)
+
+5. I am not a part of the military.
+   (ID: TVODYFLNWGUJ_11)
+
+6. I have membership in a sports club.
+   (ID: VZ1O6OE23O98_11)
+
+7. I am a follower of Islam.
+   (ID: D0KVGN5X78BU_11)
+
+8. I have a British accent.
+   (ID: UUN7SKTZQ38T_7)
+
+9. I am an artist.
+   (ID: NNHLL70QFA6I_11)
+
+10. I am an admirer of Muhammad.
+   (ID: D0KVGN5X78BU_11)
+
+11. I am Episcopal.
+   (ID: LXA6AWUAMHUX_11)
+
+12. I am planning to go to college.
+   (ID: O2J7AJP3JLY3_11)
+
+13. I serve the army.
+   (ID: 6J40PNLBFR2V_11)
+
+14. I am not Methodist.
+   (ID: QQA1IXI7US3V_11)
+
+15. I am in the parliament.
+   (ID: LOLQOIY09AO4_11)
+
+16. I study flooding.
+   (ID: FLY9O8E8QPK3_11)
+
+17. I have an Irish heritage.
+   (ID: D0BKN1W8KWG6_7)
+
+18. I am a Presbyterian.
+   (ID: RG814RP6D2F6_11)
+
+19. I wouldn't like to be a Military Officer.
+   (ID: KW9HNA6XJ79B_11)
+
+20. I wouldn't like to work at a factory.
+   (ID: IS9KP8O0CE1M_11)
+
+
+--- MPChat ---
+Total from this dataset: 41
+
+1. i invented, designed and produced the game 'the slide game'.
+   (ID: gelimausi)
+
+2. i'm not even close to being at the level where i call myself a barista yet.
+   (ID: Soggypaper_)
+
+3. i do volunteer work at a fire watch tower in the national forest in northern colorado
+   (ID: de_argh)
+
+4. i'm an amateur barista on less than $200 in equipment, how'd i do?
+   (ID: The69LTD)
+
+5. my mom makes some awwesome ceramics
+   (ID: Im_The_Government)
+
+6. my cake handwriting is much better than my actual penmanship.
+   (ID: fredbutt)
+
+7. that one guy has office lunch taken care of, so i'm here for your office breakfast!
+   (ID: Finntastic)
+
+8. always told i have nice handwriting; here's a sample.
+   (ID: chirp16)
+
+9. my battlestation that can make contacts around the world.
+   (ID: ItsBail)
+
+10. can't tell if i have laying workers or not...
+   (ID: travelingisdumb)
+
+11. i crochet and i'm a nerd
+   (ID: Sophie74656)
+
+12. the biggest craft fair i was ever accepted to sell at just got canceled due to the covid-19 outbreak.
+   (ID: FoxInKneeSocks)
+
+13. i'm efficiently lazy.
+   (ID: ddizzle23)
+
+14. i had a very productive conference call this morning!
+   (ID: FoxInKneeSocks)
+
+15. i finally started running my out-of-home cottage bakery full time, this is what my second week looked like.
+   (ID: SugarHighBakedGoods)
+
+16. i love my job
+   (ID: Nerdyredeyejedi)
+
+17. i started volunteering at the local animal shelter today... how are you supposed to say no this face?
+   (ID: MafHoney)
+
+18. every day i go to work covered in hair - not by choice.
+   (ID: VodkaWithSnowflakes)
+
+19. i love my job :)
+   (ID: mashedtatoes88)
+
+20. i currently work at a watch store.
+   (ID: evrlstingbogstopper)
+
+
+--- MSC ---
+Total from this dataset: 900
+
+1. I like to stay busy
+   (ID: dialog_145_speaker_1)
+
+2. I graduated. I worked in a coffehouse.
+   (ID: dialog_159_speaker_2)
+
+3. I like to give to a worthy cause.
+   (ID: dialog_124_speaker_1)
+
+4. My job is in real estate.
+   (ID: dialog_37_speaker_1)
+
+5. I'm still in school.
+   (ID: dialog_43_speaker_2)
+
+6. I do well speaking to others.
+   (ID: dialog_153_speaker_2)
+
+7. I am single.
+   (ID: dialog_179_speaker_2)
+
+8. I have been to a Tool concert.
+   (ID: dialog_156_speaker_1)
+
+9. I want to work on broadway.
+   (ID: dialog_94_speaker_2)
+
+10. I major in biology. I am a scientist.
+   (ID: dialog_144_speaker_2)
+
+11. I am a programmer.
+   (ID: dialog_124_speaker_1)
+
+12. I am a waitress.
+   (ID: dialog_162_speaker_1)
+
+13. My job is proofreading for Hallmark
+   (ID: dialog_9_speaker_1)
+
+14. I play for the Minnesota wolves. I practice sports 3 times a week. I workout every day.
+   (ID: dialog_120_speaker_1)
+
+15. I have a busy job in an office.
+   (ID: dialog_8_speaker_2)
+
+16. I work hard.
+   (ID: dialog_4_speaker_2)
+
+17. I did not graduate from university.
+   (ID: dialog_35_speaker_2)
+
+18. I don't like working.
+   (ID: dialog_52_speaker_1)
+
+19. I studied at school during my childhood.
+   (ID: dialog_167_speaker_1)
+
+20. I'm studying art.
+   (ID: dialog_172_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 753
+
+1. i seem to be very good at protecting everyone elses ego
+   (ID: RelaxedSociety)
+
+2. i am a good person who works hard .
+   (ID: gigatroness)
+
+3. i will have more patients with more red tape and less time to spend with them .
+   (ID: bbakks)
+
+4. i was taught a tiny bit about ukemi .
+   (ID: Lifes6Midnight)
+
+5. i learned the other day that when a prostitute says she does greek it means she does anal .
+   (ID: billclay55raiders)
+
+6. i really wanted to start something with a bigger scope .
+   (ID: carebearstare93)
+
+7. i got a wife and 3 kids nd anon standard job .
+   (ID: AzHighways)
+
+8. i see your 35,000 year old painting technique and raise you my 8 year old technique � �
+   (ID: Unknown_nam3)
+
+9. i 'm gon na be taller than you pretty soon . "
+   (ID: redandblack555)
+
+10. i wanted to ask guys what would be a fun , beginner 's job ?
+   (ID: LabeledAsALunatic)
+
+11. i work at a start up that lists seattle kids activities :)
+   (ID: juliacakes)
+
+12. i wish i had a homie to choreograph a dance with me
+   (ID: RelaxedSociety)
+
+13. i still have about 6 months left , so i legally ca n’t be called doctor until then .
+   (ID: AP7497)
+
+14. i 'm talking about how fucking stupid your comeback was .
+   (ID: Malachite_Wrath)
+
+15. i think i struggle with it because i lack the foundational knowledge :/
+   (ID: windowcircle)
+
+16. i never said different !
+   (ID: conservative_poly)
+
+17. i 'd like to become an international bounty hunter .
+   (ID: msiekkinen)
+
+18. i 'm a student trying to make some extra money on the side .
+   (ID: pandachestpress)
+
+19. i help people legally keep more of the money they make .
+   (ID: deputydan_scubaman)
+
+20. i need to expand my horizons !
+   (ID: Lifes6Midnight)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1068
+
+1. i ' m curious as to what exactly the drama was ? your mentor seemed like an asset to the company . it ' s messed up how things like that happen .
+   (ID: 199ca187d50b43aebb52968a5525289cb65a1520)
+
+2. I own a school.
+   (ID: 657111ddaa0e710ba768a3b9132b927482be7955)
+
+3. I'm interested in neurology.
+   (ID: db585f1dbaa42a5cff4c6b3dbc242bf7ea45bd9a)
+
+4. I am weekend hobbyist.
+   (ID: c6e9d7bec5bbee67d384191c91101e443de5ac3c)
+
+5. I own a school.
+   (ID: 97a098bef8517b2080cad8aa73f738b95e795b18)
+
+6. I own a hair.
+   (ID: 1921dc07cd609c210cb71a0176afa3dfa4fa3772)
+
+7. I own a design.
+   (ID: 7bd4f8e2f55f684df651b44f2faa8769031fc782)
+
+8. I play minecraft.
+   (ID: 20704d953f0b1774a4782d2f049f69736ac4eea2)
+
+9. I own a hair.
+   (ID: 7c444bdb5e40b14c80aedd1bf794f5902bb7133e)
+
+10. i ' m adequate at computer maintenance  repair . it ' s mostly just googling a problem or undoing a thing someone did like installing something they shouldn ' t have , but i also know how to put together a pc from parts , install os including how to do it without optical drive and so on . i stopped telling people because at first i just became everyone ' s free it guy and it started to annoy me . but the straw that broke the camels back was when i helped a friend of a friend clean up his pc and install an antivirus , and then digit months later he calls me up in the middle of the night yelling , sluring words demanding i drive up to him and fix his pc because it was working fine before , and then i " fixed it " and now digit months later it doesn ' t turn on . yeah , no thanks .
+   (ID: 6227692d2c261d0ca079ff0b4b03c8c2a6933b88)
+
+11. I own a god.
+   (ID: c0f309bee7152ab458da8ec03fbb1e17fa2876cd)
+
+12. I am average plain doodh enjoyer.
+   (ID: 1aeb7d227bb9f7bdec3e7350c5522353fdb74354)
+
+13. I own a face.
+   (ID: 20e44d996799f8bb3fe89546818050bf021f4be9)
+
+14. I am adult.
+   (ID: 30506e41c4121e1e7573a25d4985de191de679c9)
+
+15. I am years old.
+   (ID: 589a27cacaffb5126785db9f91c141a3cea2daae)
+
+16. I am kid.
+   (ID: a23935a11b1de288af939de6809066afab50fe71)
+
+17. I am average voter.
+   (ID: 2d0024ed521b501bfb33f63c06eccfecc2a92cb3)
+
+18. I am german.
+   (ID: cf870aa7c8e0dd833ce984fd462b0f47ad7a6ace)
+
+19. you are not american ?
+   (ID: 88279b92dca36b3b3c236d960135a2afe2e68b33)
+
+20. I play overwatch.
+   (ID: 6710bef520e10a3963d2983d4b36ef411e442f22)
+
+
+--- PersonaChat ---
+Total from this dataset: 531
+
+1. my mother was a teacher .
+   (ID: conversation_487)
+
+2. i have a wife and two kids .
+   (ID: conversation_343)
+
+3. my mother is a social worker for the school system .
+   (ID: conversation_360)
+
+4. my husband is an author and we have twins together .
+   (ID: conversation_132)
+
+5. i work in a factory .
+   (ID: conversation_476)
+
+6. i m single .
+   (ID: conversation_95)
+
+7. i work at home on my computer .
+   (ID: conversation_236)
+
+8. i play the piano .
+   (ID: conversation_471)
+
+9. i am excellent at playing pool .
+   (ID: conversation_390)
+
+10. i work for a marketing agency .
+   (ID: conversation_289)
+
+11. my mother is a teacher .
+   (ID: conversation_135)
+
+12. i never learned how to swim .
+   (ID: conversation_209)
+
+13. i make robots for a living .
+   (ID: conversation_271)
+
+14. i worked 3 jobs at the same time for more than 5 years .
+   (ID: conversation_394)
+
+15. i will be graduating in september and hope to get a teaching job soon .
+   (ID: conversation_22)
+
+16. i am very inquisitive and enjoy learning new things .
+   (ID: conversation_193)
+
+17. i work over 60 hours a week as a restaurant manager .
+   (ID: conversation_229)
+
+18. i'm going to majoring in business .
+   (ID: conversation_351)
+
+19. my brother is in a metal band and travels the world .
+   (ID: conversation_484)
+
+20. i work on cars for a living .
+   (ID: conversation_18)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1008
+
+1. I am currently unemployed.
+   (ID: conversation_269_user_1)
+
+2. I am in college.
+   (ID: conversation_126_user_1)
+
+3. I am a national guard officer.
+   (ID: conversation_376_user_2)
+
+4. My name is jovannie and i m 19.
+   (ID: conversation_363_user_2)
+
+5. I have a marketing job.
+   (ID: conversation_201_user_1)
+
+6. I take forever to get tasks done so i start early and clock out late.
+   (ID: conversation_396_user_2)
+
+7. I sing in a punk band.
+   (ID: conversation_201_user_2)
+
+8. I own a custom upholstery shop.
+   (ID: conversation_85_user_1)
+
+9. I work as a lifeguard.
+   (ID: conversation_299_user_2)
+
+10. I am very popular and have a lot of friends.
+   (ID: conversation_29_user_2)
+
+11. I build my own computers.
+   (ID: conversation_273_user_2)
+
+12. I work as a secretary at an insurance agency.
+   (ID: conversation_329_user_2)
+
+13. I m a children s librarian.
+   (ID: conversation_320_user_1)
+
+14. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_168_user_1)
+
+15. I use to compete in beauty pageants.
+   (ID: conversation_256_user_2)
+
+16. I have been acting since i was ten years old.
+   (ID: conversation_406_user_1)
+
+17. The only autographs i ve ever wanted are from authors.
+   (ID: conversation_437_user_2)
+
+18. My mother is a dentist.
+   (ID: conversation_176_user_1)
+
+19. I work at a bar.
+   (ID: conversation_429_user_2)
+
+20. I am a geology major at alabama university.
+   (ID: conversation_72_user_2)
+
+
+============================================================

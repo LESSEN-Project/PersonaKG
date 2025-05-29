@@ -1,16 +1,16 @@
 CLUSTER 37
 ============================================================
-Total statements in cluster: 130
-Cluster persistence (stability): 0.733
+Total statements in cluster: 248
+Cluster persistence (stability): 0.450
 
 Dataset distribution in this cluster:
-  FoCus: 1 (0.8%)
-  MPChat: 4 (3.1%)
-  MSC: 8 (6.2%)
-  PEC: 73 (56.2%)
-  PER-CHAT: 33 (25.4%)
-  PersonaChat: 8 (6.2%)
-  SyntheticPersonaChat: 3 (2.3%)
+  FoCus: 7 (2.8%)
+  MPChat: 32 (12.9%)
+  MSC: 28 (11.3%)
+  PEC: 105 (42.3%)
+  PER-CHAT: 52 (21.0%)
+  PersonaChat: 20 (8.1%)
+  SyntheticPersonaChat: 4 (1.6%)
 
 ============================================================
 
@@ -18,223 +18,364 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 1
+Total from this dataset: 7
 
-1. I have a lot of respect for St. Demetrius.
-   (ID: V0DLNYLN813E_11)
+1. I am willing to work in Isles of Scilly Wildlife Trust.
+   (ID: VBRKEB3J9BVV_7)
+
+2. I am willing to work in Metropolitan Water Sewerage and Drainage Board.
+   (ID: KHRYE9OFUIMW_9)
+
+3. My sister crosses the English Channel several times a year because of her work.
+   (ID: ODWWG1XAUHD6_11)
+
+4. I like the engineering work of the designer Ralph Modjeski.
+   (ID: MG0HEWUEN2AZ_9)
+
+5. I work in a cotton plantation.
+   (ID: SF062658I1IO_7)
+
+6. I am afraid to do refurbishment work in my house.
+   (ID: QHSLQKPUYCXD_11)
+
+7. I like Paul Andreu work.
+   (ID: 9LPSSRYT28ZD_11)
 
 
 --- MPChat ---
-Total from this dataset: 4
+Total from this dataset: 32
 
-1. my apple tree is drooping a lot - is this the result of improper pruning?
-   (ID: opie2)
+1. this is what i do during my lunch break at work
+   (ID: Sophie74656)
 
-2. i made a lot of cakes in 2016, here are some of my favourites.
-   (ID: zenbuffy)
+2. here’s some of my work.
+   (ID: Lookingforearrings2)
 
-3. i had a lot of fun with the roots!
+3. the coffee company i work for is staying open through this pandemic.
+   (ID: Deeshizznit)
+
+4. the ladies supervising me as i work from home.
+   (ID: joyyyyce)
+
+5. petrie being taught to drive the city shuttle while visiting my husband at work
+   (ID: kentobean123)
+
+6. i was unable to get a kitchen aid stand mixer on black friday because i had to work.
+   (ID: mathwifey)
+
+7. my reef nano which sits on my desk at work.
+   (ID: Airspeed35)
+
+8. leaving for work vs when i come home.
+   (ID: SweetSassyClassy)
+
+9. i took them to work and they were gone in 30 minutes.
+   (ID: justcook_byangel)
+
+10. i work at a bar & grill, and this gem printed out last night during busy friday dinner.
    (ID: lolveets)
 
-4. i heart you guys a lot
-   (ID: jlb4est)
+11. i tried to get some work done on the spiderblanket, but she won't let me.
+   (ID: fishgoose)
+
+12. my supurrvisor, waffles, is keeping a close eye on me while i work from home
+   (ID: FoxInKneeSocks)
+
+13. after 27 days of work, i finally finished the space marine for my husband.
+   (ID: Lookingforearrings2)
+
+14. these are the types of photos i get while at work of my sleeping tater tot
+   (ID: pocket_kira)
+
+15. the coffee grinder at my work has its name spelled 2 different ways.
+   (ID: The69LTD)
+
+16. i worked with florentine embroidery on this big paper tonne and put in all my manual work.
+   (ID: gelimausi)
+
+17. showing off my work in progress in more detail
+   (ID: ablubberducky)
+
+18. holds my hardware and supplies for work
+   (ID: switchbladesally)
+
+19. figured you guy would like to see my prep work today.
+   (ID: NinjaSupplyCompany)
+
+20. went for a rip so i could go for a rip before work this morning
+   (ID: drewchie)
 
 
 --- MSC ---
-Total from this dataset: 8
+Total from this dataset: 28
 
-1. I am a pre-law student. I study a lot.
-   (ID: dialog_43_speaker_2)
+1. I am taking a class and am working at night. We have open mic poetry nights at work every week. I have never performed poetry. I am shy.
+   (ID: dialog_144_speaker_2)
 
-2. I wear a lot of hats.
-   (ID: dialog_222_speaker_2)
+2. I work as an affairs liaison.
+   (ID: dialog_197_speaker_1)
 
-3. I am a writer for a music website. I write a lot on Fall Out Boy.
-   (ID: dialog_220_speaker_2)
+3. I work at subway.  I had to stay overtime many times in the past month.
+   (ID: dialog_46_speaker_1)
 
-4. I had a dog named Nutmeg who was very sick and it was put down 6 months ago. I have a lot of animals.
-   (ID: dialog_118_speaker_2)
+4. I'm currently doing gig work.
+   (ID: dialog_153_speaker_1)
 
-5. My father has a lot of knowledge about household repair.
-   (ID: dialog_86_speaker_2)
+5. I work Monday through Friday evenings 5 to 9 and 8am to 9pm on Saturdays.
+   (ID: dialog_218_speaker_1)
 
-6. I travel a lot
-   (ID: dialog_9_speaker_2)
+6. My moms pulls teeth at work.
+   (ID: dialog_161_speaker_2)
 
-7. I have lived in a lot of different places.
-   (ID: dialog_102_speaker_2)
+7. I work from home and stay in my pajamas.
+   (ID: dialog_93_speaker_2)
 
-8. I possess a lot of patience.
-   (ID: dialog_55_speaker_2)
+8. I will do any job. I would like to work in a bakery.
+   (ID: dialog_147_speaker_2)
+
+9. I prefer to play and not work.
+   (ID: dialog_132_speaker_1)
+
+10. The boat I work on is a fishing boat. I report to work early in the morning.
+   (ID: dialog_226_speaker_1)
+
+11. I get paid by the piece. I have friends that work at various publications.
+   (ID: dialog_7_speaker_1)
+
+12. I left my small town to work in construction trades.
+   (ID: dialog_127_speaker_2)
+
+13. I would rather work smarter not harder.
+   (ID: dialog_54_speaker_1)
+
+14. I like to exercise before work.
+   (ID: dialog_29_speaker_2)
+
+15. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+16. I work for an online seller.
+   (ID: dialog_211_speaker_2)
+
+17. I work as a barista 50 hours per week at a coffee shop  called Fair Beans located on High Street near Westside Market. I know the owner of the coffee shop I work at.
+   (ID: dialog_151_speaker_2)
+
+18. I work hard at my job, but am more of a dauber than anything.
+   (ID: dialog_111_speaker_1)
+
+19. I'm employed to work with power.
+   (ID: dialog_130_speaker_1)
+
+20. I work in TV show business. I am taking a four week break from my job at a studio. I have had trouble finding a job in the past.
+   (ID: dialog_2_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 73
+Total from this dataset: 105
 
-1. i catch hell from a lot of other star wars fans when i bring it up .
-   (ID: Samoht2113)
+1. i 'm at work , but have a laptop i can turn so nobody else can see the screen .
+   (ID: AttackTribble)
 
-2. i talked a lot , possibly even a bit too much lol .
-   (ID: FlexForJesus)
+2. i do n't have a portfolio because my writing work is usually highly confidential .
+   (ID: Sometimes_Why)
 
-3. i can confirm , it improved the pads a lot !
-   (ID: bestform)
+3. i can just block you-- would that work for you ?
+   (ID: PaperSkinMan)
 
-4. i hold back from reddit a lot these days .
-   (ID: ddshroom)
+4. i do n't work there but can recommend .
+   (ID: hoveringlurker)
 
-5. i wanted to be an archaeologist then i realized they have to camp a lot .
-   (ID: notjawn)
+5. i work in an all female company , and it ’s great .
+   (ID: bugaloo2u2)
 
-6. i stared a lot too .
-   (ID: Bananafoofoofwee)
+6. i smoke weed , and i suck at sports and i wo n't work in the mines .
+   (ID: swaggy_butthole)
 
-7. i 'd imagine the tuba gives a lot more opportunity and flexibility , performance wise .
-   (ID: JacredCat)
+7. i ’m excited bc i work at jewel in summer and then get employee discount on top
+   (ID: QueenPea13)
 
-8. i bet a lot of kids bodies have been thrown in the ocean .
-   (ID: MoncoLovesYanno)
+8. i will be online later this afternoon after work as well , thank you for your response
+   (ID: Lagnaktor)
 
-9. i also play a lot of dead by daylight if you 're into that game !
-   (ID: OliveGames)
+9. i like the theme of my butt is a work of art
+   (ID: whirlpoohl)
 
-10. i cried a lot working in the food industry
-   (ID: iam1r7)
+10. i work with the metal pouring club .
+   (ID: thenanoage)
 
-11. i watch a lot of parks and rec- that 's where i stole it from .
-   (ID: whyunogivemegoodname)
+11. i logged on to my work laptop to downvote you for saying ' gem ' in title
+   (ID: ProJokeExplainer)
 
-12. i 'm kidding , a lot of science is based on feelings .
-   (ID: smash_pass)
+12. i ’m bookmarking this one as my list to work through .
+   (ID: Simplisticjoy)
 
-13. i have been avoiding that a lot lately .
-   (ID: Calvin_)
+13. i adore the wasabi peas , but despite loving sriracha , the peas just do n't work for me .
+   (ID: CheapyPipe)
 
-14. i am enjoying the reactions your getting a lot
-   (ID: Unknown_nam3)
+14. i should n't be responsible for this bitch 's work .
+   (ID: Weed_n_Wisdom)
 
-15. i am stuck at home a lot !
-   (ID: gofiguree)
+15. i appreciate your work and willingness to share .
+   (ID: Batman_MD)
 
-16. i spent a lot of my childhood in rochester .
-   (ID: Chicoconut)
+16. i too work in this industry , and particularily with moodle .
+   (ID: foldor)
 
-17. i enjoy his content a lot .
-   (ID: therealmannequin)
+17. i can barely work the camera .
+   (ID: Heavenandhell50)
 
-18. i am now called mischief , which a lot of my customers call me anyway .
-   (ID: chosenamewhendrunk)
+18. i 'm at work so i put the captions on .
+   (ID: SamuelStephenBono)
 
-19. i go to a lot of shows and festivals , and they ’re definitely making a comeback
-   (ID: Justakiss15)
+19. i left work at 7 pm and saw the signs on the cables had changed !
+   (ID: themarajade1)
 
-20. i see it posted a lot and i ’m super curious !
-   (ID: jennbunny08)
+20. i 'd pick up a shovel and go to work .
+   (ID: Beachsurfer)
 
 
 --- PER-CHAT ---
-Total from this dataset: 33
+Total from this dataset: 52
 
-1. i was once the other man . she was a lot more married rhan she claimed . she told me that she couldn ' t stand his touch , that he was an abusive drunk and cheating on her . all lies . she was the problem .
-   (ID: 6b941223c20a9903b9878d0454cc676e8d7db91b)
+1. do you work on commission ? we will buy all the things .
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
 
-2. tbh . you could genuinely do a lot worse than crafting whizbang
-   (ID: a97bb0d0211a340588db770f6b8b5fd394d26db9)
+2. thank you . you  re doing gods work .
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
 
-3. do we have internet connectivity ? if not then a lot of my games go out the proverbial window .
-   (ID: 75ca79d6c5cfc50533ff56cde25edfb593ae8568)
+3. so what kind of work are you trying to get ?
+   (ID: 68a37b4c89af8d8ee0c30efc708deacc3c4ed1aa)
 
-4. awesome . thank you so much ! your help has put a lot of my concerns to rest
-   (ID: b2c623940e1acb4e269cab1c8f1920e03da9e429)
+4. the best solution we could find was for my husband to start his own business . we work together , and it ' s been great .
+   (ID: e1d1404c2d4f1c884debe976d40ee13df3959fcf)
 
-5. this would be a lot funnier if you were alive
-   (ID: e129c266eeb21d4eb629324bbd10e7247660660b)
+5. why doesn ' t the second one work out ?
+   (ID: 9dc145263dd1a50db0f9af555000e486f0939a54)
 
-6. " transforming into a reditt user with a lot of karma " naaaah . not today
-   (ID: cf9499cf39c709d05b079c89f8989b25949c9a13)
-
-7. it ' s not only russians . there are a lot of groups like albanians , servians etc . that are portrayed as villains and that is because it is known that there are mafia groups in those countries .
-   (ID: e059f82a0624202d909920e56dd76f76efa711d2)
-
-8. my two hated words are  character  as in the house has a lot of character .  and facebook . because fuck facebook .
-   (ID: 70b19763b4597d93e9d9e1e7dca07379fdb19dfa)
-
-9. thank you , it really means a lot because it was a decision that i struggle with a lot of the time and have struggled with a lot since now that my mom is aging .
-   (ID: 699bf0afe2f1405d2208320e80156a99e90d356e)
-
-10. yes , you are paying her wage in the form of a tip out . it is common practice in many restaurants . especially now with minimum wage increases in a lot of areas . it is legal .
-   (ID: 30572ac5982532854b2ead41285ed9bbaba6d654)
-
-11. i dropped the spirit stick . automatic , straight ticket to hades . allright hell , you talk a lot . let ' s see what you ' re made of .
-   (ID: d8333858181db719e67785c4ac2aa01282861e93)
-
-12. hey man , i owe you a lot . thanks for everything . we ' re defenitely grabbing some doner together when i come over , my treat .
-   (ID: 7ba2f45f62c701a508f1895df828d4da2f3f446d)
-
-13. there  s a voice in my head saying there  s a lot of girls i haven  t met yet and maybe i  m still to meet the hollywood version of the one she thinks i  m the one and i  m so fucking not . it is a shitty situation
-   (ID: 467dbed573790a54a921a28f66e0e68f81106906)
-
-14. i was irritating my mom a lot . i can ' t forget that .
-   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
-
-15. i always wanted to get in trouble a lot in class but i am scared daddy will pound me again with the belt
-   (ID: 5a3e8e88d49f860e3900fd4cf09d0d9843420639)
-
-16. you are enjoying a lot . nice one .
-   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
-
-17. seems to be a lot more whiners everywhere . that ' s about it .
+6. it ' s decent , but it ' s not what most americans expect it to be . everyone thinks we have universal healthcare for free , meanwhile we pay up the butt in taxes , and it ' s only " free " if you have a health plan through your work that you also pay into . . and even then you cap at a certain amount per year . absolutely nothing about it is free . if you ' re a healthy indivdual , it aint all it ' s cracked up to be .
    (ID: 059c976738098229106db9c4736116cbb2f47eb8)
 
-18. i see those mousepads a lot in competitive fps , what is it ?
-   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+7. oh thanks , can i ask about collections ? what do they do  how do they work ?
+   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
 
-19. yes . there are a lot of us over in childfree .
-   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
+8. taking my morning poo before work and laughed so much at this sub i woke my son . he ' s digit and will enjoy this too after i do some paperwork .
+   (ID: 37dcb77e38bb95527b0376694dc5852e5c3012eb)
 
-20. my mom and i watch all in the family a lot . and so i have to explain to her what group certain slurs are directed towards .
-   (ID: 22f14b68675078048f36403bb14291f2d10864a3)
+9. do more work to avoid the work they are given .
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+10. insurance companies have tremendous depts like this . cust service , hrd , accounting depts , it all do their work on computers in these settings . i hated it .
+   (ID: e3a7bbfa5fde0a706f721c3dc5055b3a8963f79f)
+
+11. not necessarily , i  ve noticed that as long as there  s communication the manager is willing to work with you . however , since we have so many people on our team holidays is usually the  you have to work your scheduled shift  type of schedule .
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
+
+12. i pretend to work as long as company pretend to pay a decent salary . i think we are on the same page there .
+   (ID: 3c4a38138d39bd51556bd7f8a05ba48bf283c7e6)
+
+13. why not ? but if you could would it work ? and what is the price to summon such a divine being ?
+   (ID: b2a2cd889183833ca9a753b2d28f6d89d867e1f9)
+
+14. doesn ' t come without stress or hard work , something is needed to cement it in their mind
+   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
+
+15. nah , you can put it on offer up or craigslist or any other website . when you found someone who  s willing to take over payments both of you go in to the dealership and work it out . idk the details on that
+   (ID: a77a8bcaa391d8b6584d32e6ad243e71297d7258)
+
+16. i work in the industry and what your saying here is absolute bullshit .
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+17. anyone answering this question seriously probably shouldn ' t be in that line of work .
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+18. great to know that it doesn ' t affect too much ! gotta work on my longer efforts now
+   (ID: af5ee378b1abffcc7a909dba267af824a56225d0)
+
+19. may they never have properly working headphones . one side will never work , no matter how many they buy .
+   (ID: f5639f88927d467b89189ab179bb30d8a5705552)
+
+20. you can technically pretend one is the other and it will work just the same
+   (ID: 138c148421ce6f102f2513f40ee9cf14f914e358)
 
 
 --- PersonaChat ---
-Total from this dataset: 8
+Total from this dataset: 20
 
-1. i help them win a lot of money .
-   (ID: conversation_201)
+1. i work as a stand up comedian .
+   (ID: conversation_2)
 
-2. i drink a lot of apple martinis when i get a girls night out .
-   (ID: conversation_75)
+2. i work at home on my computer .
+   (ID: conversation_236)
 
-3. i also meditate a lot .
-   (ID: conversation_267)
+3. i work at a smoothie shop .
+   (ID: conversation_12)
 
-4. i do not have a lot of friends .
-   (ID: conversation_32)
+4. i owe 2 monitors for work .
+   (ID: conversation_95)
 
-5. i watch a lot of tv .
+5. i work many hours rehearsing for my show .
+   (ID: conversation_422)
+
+6. i would like to work for the smithsonian .
+   (ID: conversation_516)
+
+7. i work for a large law firm .
+   (ID: conversation_30)
+
+8. my brothers work with me .
+   (ID: conversation_189)
+
+9. i always have a beer after work .
+   (ID: conversation_550)
+
+10. i currently work at target .
+   (ID: conversation_160)
+
+11. i work on cars for a living .
    (ID: conversation_18)
 
-6. i have been in a lot of romantic relationships that have ended up poorly .
-   (ID: conversation_131)
+12. i work at a museum .
+   (ID: conversation_32)
 
-7. i watch a lot of spongebob .
-   (ID: conversation_417)
+13. i work a dead end 9 to 5 job as a snakeskin oil salesman .
+   (ID: conversation_204)
 
-8. i wear a lot of leather .
-   (ID: conversation_187)
+14. i work as a dental assistant in a ritzy part of town .
+   (ID: conversation_106)
+
+15. everyday after work i buy my dog a dog biscuit .
+   (ID: conversation_160)
+
+16. i wear a uniform to work .
+   (ID: conversation_448)
+
+17. i ride my red bike to work everyday .
+   (ID: conversation_29)
+
+18. i work as a vet .
+   (ID: conversation_282)
+
+19. i drive 300 mile a week for work .
+   (ID: conversation_536)
+
+20. i work many hours .
+   (ID: conversation_8)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 3
+Total from this dataset: 4
 
-1. I whine a lot.
-   (ID: conversation_565_user_1)
+1. I am a nurse and work in an emergency room at a busy hospital.
+   (ID: conversation_93_user_1)
 
-2. I have a lot of trophies from my childhood.
-   (ID: conversation_175_user_2)
+2. I work as a construction worker during the summers.
+   (ID: conversation_168_user_2)
 
-3. I talk a lot in irc.
-   (ID: conversation_283_user_1)
+3. I do volunteer work for human rights organizations.
+   (ID: conversation_2_user_2)
+
+4. I work on wall street.
+   (ID: conversation_148_user_2)
 
 
 ============================================================

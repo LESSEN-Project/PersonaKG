@@ -1,145 +1,213 @@
 CLUSTER 70
 ============================================================
-Total statements in cluster: 68
-Cluster persistence (stability): 0.981
+Total statements in cluster: 167
+Cluster persistence (stability): 0.675
 
 Dataset distribution in this cluster:
-  MPChat: 1 (1.5%)
-  PEC: 49 (72.1%)
-  PER-CHAT: 18 (26.5%)
+  FoCus: 5 (3.0%)
+  MPChat: 7 (4.2%)
+  MSC: 11 (6.6%)
+  PEC: 4 (2.4%)
+  PER-CHAT: 132 (79.0%)
+  PersonaChat: 6 (3.6%)
+  SyntheticPersonaChat: 2 (1.2%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- MPChat ---
-Total from this dataset: 1
+--- FoCus ---
+Total from this dataset: 5
 
-1. stunted her a bit at first but i think she looks like a stinky christmas tree
-   (ID: thebarberstylist)
+1. I don't know Cheshire.
+   (ID: 6JXMJ0KGXDGI_11)
+
+2. I don't have an entry pass of mud island fort.
+   (ID: OOA3VSMVQ4YE_11)
+
+3. I don't have a wall or fence in my yard.
+   (ID: CBOI96AOZRK6_11)
+
+4. I don't have an observatory near me.
+   (ID: IBY6RB2J4SRM_7)
+
+5. I don't care for chapels.
+   (ID: 6JXMJ0KGXDGI_11)
+
+
+--- MPChat ---
+Total from this dataset: 7
+
+1. choosing random colors from my stash and hoping they don't clash too much
+   (ID: mle12189)
+
+2. i get it, don’t chew on power cords!
+   (ID: insthotchkiss)
+
+3. i don't know why it took me so long to put on this bar...
+   (ID: i_like_it_raw_)
+
+4. i don’t normally do amigurumi but he’s so darn cute!
+   (ID: smsikking)
+
+5. don't have any berries growing in my garden so we went ahead and borrowed from natures' garden!
+   (ID: ChroniclyDope)
+
+6. don't take my stick!
+   (ID: DeanIsHotter)
+
+7. don't mind if i do.
+   (ID: insertnamehere02)
+
+
+--- MSC ---
+Total from this dataset: 11
+
+1. I don't have a passport.
+   (ID: dialog_89_speaker_1)
+
+2. I don't know much about Scientology.
+   (ID: dialog_213_speaker_1)
+
+3. I don't eat sugar.
+   (ID: dialog_71_speaker_1)
+
+4. I am home schooled and don't leave the house much.
+   (ID: dialog_97_speaker_2)
+
+5. I don't have lexus.
+   (ID: dialog_172_speaker_1)
+
+6. I don't know if it is hard to get started.
+   (ID: dialog_148_speaker_2)
+
+7. I don't have a will.
+   (ID: dialog_172_speaker_2)
+
+8. I have space to grow beans. I don't have a table at the farmer's market. I don't raise cattle.
+   (ID: dialog_117_speaker_2)
+
+9. I don't have any online training experience.
+   (ID: dialog_77_speaker_2)
+
+10. I prefer big dogs. I don't have dogs.
+   (ID: dialog_80_speaker_1)
+
+11. I don't have any pets.
+   (ID: dialog_55_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 49
+Total from this dataset: 4
 
-1. i like to think protector cat absorbs the mice and birdy souls like dragonborn
-   (ID: canitasteyourjuice)
+1. i had bite - wing x - rays ... don't have copies though .
+   (ID: NyxPeregrinus)
 
-2. i think there ’s a standard ms word stylesheet that looks like that
-   (ID: throwaway073847)
+2. i would much rather have the clown that pence is , than traitor don .
+   (ID: BlueSuedeBag)
 
-3. i think this would be what heaven looks like .
-   (ID: NaBacLeis)
+3. i came here to ensure don lafontaine was mentioned .
+   (ID: carwynllew)
 
-4. i think it looks more like some random company 's board meeting room .
-   (ID: zsnajorrah)
-
-5. i like to think of it as the gay age
-   (ID: waterspork)
-
-6. i like to think he never 70'd .
-   (ID: chrisisfunny)
-
-7. i think it 's more for adults and science nerds like me .
-   (ID: rspewth)
-
-8. i think it ’s because he looks more like a real clown that has turned on you
-   (ID: Captain_-H)
-
-9. i go through lists on the site and pick books i think i will like .
-   (ID: AgentElman)
-
-10. i would think that exercises like turkish get ups would help him strengthen his shoulders .
-   (ID: misplaced_my_pants)
-
-11. i like to think op 's conception of california begins and ends with this museum .
-   (ID: Evref)
-
-12. i think you ’d have to be ill to have a testicle that looks like that though .
-   (ID: Nobody-Likes-Change)
-
-13. i think it 's funny how he treats the south like some kind of alien world .
-   (ID: cometparty)
-
-14. i think i like it when you show her off too
-   (ID: 2inthehands)
-
-15. i like to think he 's waving hello but with his back foot instead .
-   (ID: bluesatin)
-
-16. i think i should leave this one like this .
-   (ID: serverpilot)
-
-17. i do n't think she 'd like any specific attention , though .
-   (ID: nastylittleman)
-
-18. i think something like it would be great for a lesbian wedding .
-   (ID: MILeft)
-
-19. i 'd think they 'd like it =)
-   (ID: PartyPisser)
-
-20. i think alot of guys would like a compliment on their physique from the opposite sex .
-   (ID: Takumi-Fujiwara)
+4. i don see swingers .
+   (ID: glowinthedark)
 
 
 --- PER-CHAT ---
-Total from this dataset: 18
+Total from this dataset: 132
 
-1. i think hot manifests crazy , and i like hot . so by the power of association , i like crazy
-   (ID: 19a9190bb25fd002a6b979a3f72494c6523d8880)
+1. he ' s already destroyed three lives me , my sister and my mom . don ' t let him destroy yours too . i appreciate the sentiment though .
+   (ID: 0e56d8a3bf928d2e85ff5b7a5a98f913d2826b00)
 
-2. there was an asian kid with tourette ' s in my school who kept making barking sounds like a dog , and all i could think was " you are what you eat "
-   (ID: d36987531b50696cc5ce9c9479fdb6d4b00b3ffa)
+2. same but i don ' t mind being picked out its a friendly hello that let ' s you know the streamer is paying attention
+   (ID: e46c4597dda4f39a1122f37ba9383f7441387cf9)
 
-3. while that is true , do you think if we were still kids , we would be so much involved in topics like politics or terrorism for example ?
-   (ID: 7f6694fd3a0ac22f64517c7789d1ce29240c5082)
+3. but don  t listen to all of them , that  s how you become ops neighbor .
+   (ID: e1cfe7e3bd4f78988caf9c6fd043691888e401c8)
 
-4. i think the question is asking what industries you ' d like to kill off , i think you ' re taking it as an insult
-   (ID: 125ddbf9c8c84552065bdd657a82dd3f392bf5c1)
+4. i don ' t know , but here ' s the iron that would go with it .
+   (ID: 8e22144947225f2bd7d950ea1b4044909a8653ae)
 
-5. isn ' t that a power move ? for someone to pick a much younger partner ? they can do whatever they like and have full emotional and sexual control . that ' s what i think is happening .
-   (ID: f042043ff04e1f2bd28d7c34b7937eb8bf31c76e)
+5. i don ' t even know what these are . someone enlighten me please ?
+   (ID: 73e90e443642babe17d8b9523bc123bb79b21e79)
 
-6. i think everyone pronounces their ts like ds if its in the middle of a word
-   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+6. as long as you dont start talking in the middle of the movie , i don ' t care
+   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
 
-7. i like that . i think the origin of " god bless you " was the belief that when you sneeze some of your soul escapes .
-   (ID: 259e025807a2eee6eaf38242805e7dfc46aaa91f)
+7. personally , i don ' t see one . then again , it will never be a problem for me , as a partner is required .
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
 
-8. i dont think it works like that but ok
-   (ID: 801c30bb9f7fe270789d76054d77c547f65e41eb)
+8. why is this jack  s fault ? it  s also not an original joke , it  s very forced and overused , don  t get mad if someone uses it . you didn  t create the joke .
+   (ID: b177960895b66ea445ae05f18003f2520b9a2992)
 
-9. guys his past posts are all like this , i think he is a creep
-   (ID: d34dab0dded997c6aa6e6d2792ea9d8a26881a2b)
+9. thanks for answering . my question was kind of directed towards all the prophecies that don ' t seem to pen out at all except valonqar well can ' t wait for your last part maybe still coming ?
+   (ID: 5ea29f01c8cdade4f178fd446d00647edc5fc70e)
 
-10. do you think they would still be missing parts of the brain ? it looked like the nodes would cover an inch diameter so there would definitely be blind spots .
-   (ID: 7f5ac4f6e5058de85fb427076fffe8f6aa7ba618)
+10. hehehe , whatever you do , don ' t be yourself
+   (ID: 795c678726f71492166b6677c955ce0a48a9b294)
 
-11. i think its ok if it advances the plot along . like if a character is sleeping with someone to get information or something . otherwise yeah it seems kinda dumb .
-   (ID: f903d9b4ab2ed2813eb60579aa407d7730187596)
+11. i don ' t see how this belongs here , he ' s asking for a thank you , nothing wrong with that
+   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
 
-12. yeah true living in the moment sounds like it would do the trick since i think my issue is that i worry about the future . thank you
-   (ID: 9721da66d978b8a2541ec60ba070b6fa9121482d)
+12. you don ' t know your history ! there were no slaves in latin america ? btw your " atty " answers your question !
+   (ID: 128346fc1e56ccadd25a4b200ecae44637d48f5f)
 
-13. i think it ' s like disco domination where it ' s release is delayed but alot more worse
-   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+13. any drunk in a club swinging at the bouncer . those guys don ' t fuck around .
+   (ID: 753cc8efa6a4e5a45b7bb54306a91c966058f24e)
 
-14. " dear death rows of reddit , what was your last meal ? " i think the question was like that
-   (ID: 4b127841179d58078b4fbc1377158cb136f3156f)
+14. happened to me as well . same exact players . was wondering what would happen if i moved them around . i have not touched him , so i don  t know if you can move him back .
+   (ID: d5ff87b3b0a008d93a655ee4d43e9da3b5db7984)
 
-15. hopefully given a break . like , a few lifetimes waived or something . i think about this often .
-   (ID: 49a34e99b8a6ee0f246ab6ee16bec8f40a856dcd)
+15. i see what your saying . i don  t see what you posting .
+   (ID: 6ab15493c00b6b6223b3fca29e367366c44d8578)
 
-16. that  s wild , she  s either a sweaty girl or that bra hasn  t been washed in like literal months . op should be like  hey i  m gonna do a load of laundry , wanna toss your clothes in ?  . on that note i still think this is shp .
-   (ID: 5b21cc135fb593212a5256d44f50dc5eda5d9947)
+16. i don ' t know and it scares me .
+   (ID: 2abaf8413c23e36fd4e8a1e879a2875dea6dbf69)
 
-17. i think it ' s more like when you go to pick up your kid from school but you forgot his name .
-   (ID: bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809)
+17. i don ' t know why they even bother when everyone knows that in reality grant robertson is second in command .
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
 
-18. counselor troi on star trek next generation . her function was to state the obvious  " captain , i think this alien is feeling apprehensive that we are pointing our phasers at him " " i sense you are feeling unhappy and that you would like to talk to someone about it " " you are feeling confused and anxious about our dangerous mission "
-   (ID: 523373521c35d1ab7b6f0045d4586896b61d0d3d)
+18. why do you always have a big splotch of dirt on your face ? don  t you shower ?  i have a birthmark on my face but they  re kids . oh well .
+   (ID: 2ab410cb3dc233b072c65fa9acc3c6323d05914e)
+
+19. i don ' t take anything anyone who doesn ' t know me to heart . fuck you , you don ' t know how , what i am and what i stand for and if you start as a biggot , i ' m not even gonna discuss anything with you .
+   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
+
+20. damn i don  t know what that means but it  s probably past your bedtime .
+   (ID: 5481b7a3276de2b79473c4a65d5bb2506e36d79d)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i don t know if i enjoy programming , or if it s my only choice .
+   (ID: conversation_179)
+
+2. i don't eat bread .
+   (ID: conversation_183)
+
+3. i don't celebrate any holidays .
+   (ID: conversation_292)
+
+4. i don t have a relationship with my deadbeat dad .
+   (ID: conversation_257)
+
+5. my parents don't know i am gay .
+   (ID: conversation_4)
+
+6. i don't own a television .
+   (ID: conversation_400)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. My friends don t call my by my real name.
+   (ID: conversation_61_user_1)
+
+2. I don t treat my girlfriend very well.
+   (ID: conversation_347_user_1)
 
 
 ============================================================

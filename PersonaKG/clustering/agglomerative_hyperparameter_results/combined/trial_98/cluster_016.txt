@@ -1,0 +1,416 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 873
+
+Dataset distribution in this cluster:
+  FoCus: 35 (4.0%)
+  MPChat: 3 (0.3%)
+  MSC: 124 (14.2%)
+  PEC: 79 (9.0%)
+  PER-CHAT: 409 (46.8%)
+  PersonaChat: 77 (8.8%)
+  SyntheticPersonaChat: 146 (16.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 35
+
+1. I enjoy sports events.
+   (ID: TF4SZWIWHJO4_11)
+
+2. I love soccer.
+   (ID: NHUPSGRQZ56M_11)
+
+3. I have membership in a sports club.
+   (ID: VZ1O6OE23O98_11)
+
+4. I love watching football.
+   (ID: NRWCDZW051T6_11)
+
+5. I know many sports teams.
+   (ID: PHE863C7IQKS_11)
+
+6. I like soccer.
+   (ID: EEZIRIVGB0TG_9)
+
+7. I like football.
+   (ID: NHUPSGRQZ56M_11)
+
+8. I love to dance.
+   (ID: B4Z7LALR7H1Q_11)
+
+9. I like soccer.
+   (ID: UDHQWIU28N65_11)
+
+10. I like soccer game.
+   (ID: QRRS2THODNM3_11)
+
+11. I am a sports fan.
+   (ID: MX05X059ETMG_11)
+
+12. I'm a sports fan.
+   (ID: X7MOE4GZ4HOG_11)
+
+13. I'm a football fan.
+   (ID: X7MOE4GZ4HOG_11)
+
+14. I like football.
+   (ID: VZ1O6OE23O98_11)
+
+15. I am a baseball fan.
+   (ID: PK2U426B57KL_9)
+
+16. I am a sports fan.
+   (ID: IKQ9QU6QOUT4_11)
+
+17. I like basketball.
+   (ID: MFM64Q4LWSZF_9)
+
+18. I like athletics.
+   (ID: FGIEUW9ABAQU_11)
+
+19. I like horse racing.
+   (ID: EQX5OJUYB1VY_11)
+
+20. I love football.
+   (ID: I2O2N3N48S3T_11)
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. i just started learning how to throw.
+   (ID: blboppie)
+
+2. i've been improving
+   (ID: the-otherme)
+
+3. on the one hand, i'm a vizsla.
+   (ID: BananaPeelSlippers)
+
+
+--- MSC ---
+Total from this dataset: 124
+
+1. I play football.
+   (ID: dialog_62_speaker_2)
+
+2. I play tennis.
+   (ID: dialog_47_speaker_2)
+
+3. I enjoy football and other games.
+   (ID: dialog_86_speaker_1)
+
+4. I am a singer.  I have grandchildren. I am giving my granddaughter singing lessons. I like to teach music.
+   (ID: dialog_44_speaker_1)
+
+5. I play basketball.
+   (ID: dialog_148_speaker_1)
+
+6. I play league of legends.
+   (ID: dialog_139_speaker_2)
+
+7. I have written many romance novels.
+   (ID: dialog_119_speaker_1)
+
+8. I play video games.
+   (ID: dialog_115_speaker_2)
+
+9. I'm a soldier.
+   (ID: dialog_156_speaker_1)
+
+10. I'm good at blowing bubbles!
+   (ID: dialog_91_speaker_1)
+
+11. I play the drums.
+   (ID: dialog_59_speaker_2)
+
+12. I like hockey.
+   (ID: dialog_86_speaker_1)
+
+13. I really enjoy doing vocals with the band.
+   (ID: dialog_37_speaker_1)
+
+14. I don't like anime. I study dance.
+   (ID: dialog_172_speaker_2)
+
+15. I am a nerd.
+   (ID: dialog_25_speaker_2)
+
+16. I play basketball.
+   (ID: dialog_120_speaker_1)
+
+17. I'm a key player in a miles davis group.
+   (ID: dialog_63_speaker_2)
+
+18. I play bowling.
+   (ID: dialog_176_speaker_1)
+
+19. I'm a bad driver. I have been in a few car crashes.
+   (ID: dialog_106_speaker_1)
+
+20. I play the drums.
+   (ID: dialog_59_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 79
+
+1. i 'm experienced .
+   (ID: thenanoage)
+
+2. i have built a career due to klose 's dominance in this respect .
+   (ID: mulletprooftiger)
+
+3. i ’m nowhere near that many .
+   (ID: DrVerdandi)
+
+4. i 'm also caldari .
+   (ID: coocha)
+
+5. i 'd love to meet my fellow trojans on reddit .
+   (ID: sweatervest)
+
+6. i play hearthstone if you play that ?
+   (ID: OliveGames)
+
+7. i 'm a natural .
+   (ID: GanjaSmoker420HaloXX)
+
+8. i 've chosen to accompany me in many battles .
+   (ID: dohko_xar)
+
+9. i make 200 million isk in 2.5 - 3 hours of heavy grinding .
+   (ID: coocha)
+
+10. i ’m a simple guardian .
+   (ID: WiseScratch)
+
+11. i ’m really good at trail bike pro .
+   (ID: DickRubnuts)
+
+12. i 'm an l plater .
+   (ID: BearCanoe)
+
+13. i wrote the first verse to my first ever song .
+   (ID: helensis_)
+
+14. i think you ’re one of the few on this sub who ’s actually really fucking good .
+   (ID: Bob_Majerle)
+
+15. i think we 're both in the lvl .
+   (ID: nastylittleman)
+
+16. i 'm a cowboys fan playing against elliott in the finals .
+   (ID: JayDub30)
+
+17. i m considering leaving the field too .
+   (ID: travelingkiwi)
+
+18. i actually watch football
+   (ID: Montag3636)
+
+19. i 'm a dyed - in - the - wool member of the frozen chosen .
+   (ID: Machinax)
+
+20. i play small .
+   (ID: microliteoven)
+
+
+--- PER-CHAT ---
+Total from this dataset: 409
+
+1. I enjoy hockey.
+   (ID: 627809b826e1a364fb65664e0749e9e9eb90081d)
+
+2. I enjoy soccer.
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+3. I am witch of life.
+   (ID: a590a48cc57b678d7925ce142e639876d9df69d6)
+
+4. I enjoy football.
+   (ID: 1fb7025aaa0b620e024c8abbaecd72d34f8418b0)
+
+5. I enjoy soccer.
+   (ID: 03bd0b4bb3465eba83e1c9a00af15f7b35f1ec6d)
+
+6. I enjoy baseball.
+   (ID: 695ad7129ad4566e5fbe988279cd914c2bff0ce9)
+
+7. I play video games.
+   (ID: 416e9f37cc98cd44d4ebdbd8b3c7d1ec2909d982)
+
+8. I play video games.
+   (ID: 44544d02ee07c96b8d593f9252059c899c993d61)
+
+9. I enjoy baseball.
+   (ID: 3e906e06d59fb5c2993270f0b4efed5b9ab122f7)
+
+10. I enjoy baseball.
+   (ID: 7a396588993d687f5528f10b200dc9d6db769270)
+
+11. I play black ops.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+12. I play video games.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+13. I am nerd.
+   (ID: 1497e82ba6e08f938dadf0885a6fd8051c0758d1)
+
+14. so you ' re saying i am just have the world ' s lamest super power ? huh , maybe i can join a league with aqua man .
+   (ID: 98f9b074f3fba12c7403be7000f77b6a560c5a02)
+
+15. I play video games.
+   (ID: 88c65ad9c962da115240776d5aa110748286db73)
+
+16. I enjoy bundesliga.
+   (ID: 9425493e0ea7469367495f8e5947330e536cafa9)
+
+17. I am top sniper.
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+18. I enjoy soccer.
+   (ID: 4dc8611321f8939824b42f21260d7a2adbf4a5d1)
+
+19. I enjoy basketball.
+   (ID: 7bbefe3c73b49467552610b8dad9354ce8c09cde)
+
+20. I enjoy soccer.
+   (ID: 74b39a57f22c2783cb59064a6f33cd8db3d8f787)
+
+
+--- PersonaChat ---
+Total from this dataset: 77
+
+1. i love going to concerts and dancing hard .
+   (ID: conversation_28)
+
+2. i sing in the shower .
+   (ID: conversation_177)
+
+3. i like watching ufc fights .
+   (ID: conversation_476)
+
+4. i play guitar in the local band .
+   (ID: conversation_42)
+
+5. i love to sing .
+   (ID: conversation_10)
+
+6. i am excellent at playing pool .
+   (ID: conversation_390)
+
+7. i play guitar .
+   (ID: conversation_80)
+
+8. i am a violinist .
+   (ID: conversation_100)
+
+9. i'm a weightlifter .
+   (ID: conversation_304)
+
+10. i play for the baltimore orioles .
+   (ID: conversation_428)
+
+11. i like to sing broadway show tunes .
+   (ID: conversation_144)
+
+12. i play a lot of video games .
+   (ID: conversation_383)
+
+13. i play jazz piano in a band .
+   (ID: conversation_403)
+
+14. i'm an army ranger .
+   (ID: conversation_273)
+
+15. i'm very athletic .
+   (ID: conversation_131)
+
+16. i am a baseball player .
+   (ID: conversation_428)
+
+17. i prefer reading to sports .
+   (ID: conversation_427)
+
+18. there i m a general of an orcish army .
+   (ID: conversation_84)
+
+19. i play the piano .
+   (ID: conversation_471)
+
+20. i'm a civil war reenactment participant .
+   (ID: conversation_280)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 146
+
+1. I sing in a punk band.
+   (ID: conversation_201_user_2)
+
+2. I play a lot of video games.
+   (ID: conversation_247_user_2)
+
+3. I like basketball.
+   (ID: conversation_356_user_1)
+
+4. I love to sing.
+   (ID: conversation_175_user_2)
+
+5. I love to sing.
+   (ID: conversation_351_user_1)
+
+6. I play the bass.
+   (ID: conversation_160_user_2)
+
+7. I play the guitair.
+   (ID: conversation_257_user_2)
+
+8. I am a runner.
+   (ID: conversation_385_user_1)
+
+9. I play football.
+   (ID: conversation_323_user_2)
+
+10. My position is linebacker.
+   (ID: conversation_323_user_2)
+
+11. I like to dance.
+   (ID: conversation_79_user_1)
+
+12. I play video games all day.
+   (ID: conversation_2_user_1)
+
+13. I like basketball.
+   (ID: conversation_357_user_1)
+
+14. I am an army ranger.
+   (ID: conversation_387_user_2)
+
+15. I am an athlete.
+   (ID: conversation_323_user_2)
+
+16. I like soccer.
+   (ID: conversation_482_user_1)
+
+17. I love to dance.
+   (ID: conversation_407_user_2)
+
+18. I love dancing.
+   (ID: conversation_446_user_1)
+
+19. I am a professional gamer.
+   (ID: conversation_148_user_1)
+
+20. I am a guitar player.
+   (ID: conversation_139_user_2)
+
+
+============================================================

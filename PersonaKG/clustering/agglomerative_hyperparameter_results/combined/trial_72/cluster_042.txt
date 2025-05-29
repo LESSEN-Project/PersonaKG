@@ -1,0 +1,440 @@
+CLUSTER 42
+============================================================
+Total statements in cluster: 670
+
+Dataset distribution in this cluster:
+  FoCus: 39 (5.8%)
+  MPChat: 40 (6.0%)
+  MSC: 21 (3.1%)
+  PEC: 511 (76.3%)
+  PER-CHAT: 14 (2.1%)
+  PersonaChat: 17 (2.5%)
+  SyntheticPersonaChat: 28 (4.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 39
+
+1. I love peaks.
+   (ID: BPCV4KG0PEMD_7)
+
+2. I love Brooklyn.
+   (ID: KXPW7BD5TW0Q_11)
+
+3. I love Canadian National No. 89.
+   (ID: M6QLMFHJ3CAF_11)
+
+4. I love Vancouver.
+   (ID: DKGV9E2PZUPH_11)
+
+5. I love Pasterze glacier.
+   (ID: YLLQOXHD6MZC_7)
+
+6. I love locomotives.
+   (ID: GABQG82ZVJCM_7)
+
+7. I love Glenn Miller Orchestra.
+   (ID: OBPQ1J7Y62Q6_11)
+
+8. I love dolphins.
+   (ID: F8WHQ8QX5MHB_7)
+
+9. I love Hanumappa Nayaka.
+   (ID: UN54IACHSTX5_11)
+
+10. I love horses.
+   (ID: KG8AEOFQLTO4_11)
+
+11. I love horses.
+   (ID: LJYX36WCRYDM_9)
+
+12. I love Llangynog for its cleanliness.
+   (ID: QD76MDAZKTVK_11)
+
+13. I love elephants.
+   (ID: CJWI83QV42AK_11)
+
+14. I love the smell of Lotus.
+   (ID: KGYT5MMVNDSG_11)
+
+15. I love bats.
+   (ID: X3WVWF5IVCYD_11)
+
+16. I love Manhattan.
+   (ID: XA7M896U3YIQ_11)
+
+17. I love Queensland.
+   (ID: S7EFLIB5IQDV_11)
+
+18. I love Tormentil.
+   (ID: VOQV863ZK27L_11)
+
+19. I love the show.
+   (ID: 7KWHXU9MOJRA_11)
+
+20. I love canal.
+   (ID: P1H8TAIRTLFZ_9)
+
+
+--- MPChat ---
+Total from this dataset: 40
+
+1. this is why i love clay.
+   (ID: oddartist)
+
+2. she's my first hedgehog and i love her dearly.
+   (ID: krichmondRPH)
+
+3. gotta say, i'm in love with it!
+   (ID: MrsTheJones)
+
+4. i love horse feet!
+   (ID: postmodernequestrian)
+
+5. i love hearing "16oz latte for here".
+   (ID: BeastaBubbles)
+
+6. i'm in love with pompoms and braided ear flaps <3
+   (ID: ddizzle23)
+
+7. this is why i love bottomless portafilters.
+   (ID: Ry_)
+
+8. i love the foliage of my voodoo lily!
+   (ID: kns89)
+
+9. i love beetles and so i made this stamp!
+   (ID: pocket_kira)
+
+10. clearly i love purples
+   (ID: meghanlovessunshine)
+
+11. i love her so much
+   (ID: lizdavis17)
+
+12. i'm in love with spooky and glitter.
+   (ID: skorletun)
+
+13. i'm in love with this cabled cowl!
+   (ID: ddizzle23)
+
+14. i'm in love!
+   (ID: batman1227)
+
+15. i love how this is coming out.
+   (ID: Sophie74656)
+
+16. i'm in love.
+   (ID: Metalocachick)
+
+17. i love a good stripe
+   (ID: zonumnire)
+
+18. she may not have the prettiest look, but i still love her.
+   (ID: River_Lethe)
+
+19. i'm in love.
+   (ID: Soapy_Von_Soaps)
+
+20. love my cypress hideaway!
+   (ID: pope237)
+
+
+--- MSC ---
+Total from this dataset: 21
+
+1. I love striped mammals.
+   (ID: dialog_94_speaker_2)
+
+2. I love the beastie boys.
+   (ID: dialog_133_speaker_2)
+
+3. I love my clan.
+   (ID: dialog_140_speaker_2)
+
+4. I love shoes.
+   (ID: dialog_38_speaker_2)
+
+5. I love kids.
+   (ID: dialog_91_speaker_2)
+
+6. I love my girlfriend.
+   (ID: dialog_89_speaker_2)
+
+7. I love my kids.
+   (ID: dialog_43_speaker_1)
+
+8. With arms wide open is my favorite song.
+   (ID: dialog_146_speaker_2)
+
+9. I love being a parent.
+   (ID: dialog_56_speaker_1)
+
+10. I love roses.
+   (ID: dialog_151_speaker_2)
+
+11. I love my two siblings.
+   (ID: dialog_161_speaker_2)
+
+12. I love my kids.
+   (ID: dialog_188_speaker_1)
+
+13. I love babies.
+   (ID: dialog_133_speaker_2)
+
+14. I love my puppies.
+   (ID: dialog_13_speaker_1)
+
+15. I love my nieces and nephews.
+   (ID: dialog_83_speaker_1)
+
+16. I love cuddling with my babies.
+   (ID: dialog_102_speaker_1)
+
+17. I love my kids.
+   (ID: dialog_181_speaker_1)
+
+18. I love Ella Fitzgerald.
+   (ID: dialog_122_speaker_1)
+
+19. I love horses.
+   (ID: dialog_59_speaker_1)
+
+20. I love felines.
+   (ID: dialog_73_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 511
+
+1. i love their friendship
+   (ID: amandahm4916)
+
+2. i love this so much !
+   (ID: iam1r7)
+
+3. i love blair ’s .
+   (ID: howfuckedareyou)
+
+4. i love it !
+   (ID: teriaki)
+
+5. i love how the other one is like “ whaaaa ? ”
+   (ID: chowyungfatso)
+
+6. i love you .
+   (ID: Sometimes_Why)
+
+7. i just love this !
+   (ID: kitcatpaints)
+
+8. i love politics ... * fap fap fap *
+   (ID: warname)
+
+9. i love them .
+   (ID: Bathysphere710)
+
+10. i love them when they ’re babies
+   (ID: jonmyo11)
+
+11. i love the moth but it makes me cry not infrequently .
+   (ID: DoctorRichardNygard)
+
+12. i 'm in love that stuff !
+   (ID: osmosisparrot)
+
+13. i love it !
+   (ID: hussy_trash)
+
+14. i will follow our mutual love of emma and belle anywhere my love .
+   (ID: vivagypsy)
+
+15. i love this so much !
+   (ID: deryyaa)
+
+16. i love that ! !
+   (ID: parkleswife)
+
+17. i love it !
+   (ID: foldor)
+
+18. i love them little tacos ... i love them gooood
+   (ID: chickenpants80)
+
+19. i love it !
+   (ID: silentpower)
+
+20. i love askreddit !
+   (ID: combover)
+
+
+--- PER-CHAT ---
+Total from this dataset: 14
+
+1. i can  t explain why i like it , but i love it !
+   (ID: 64cd7a2c07766ef2725fa67e6025759ae1f56c2b)
+
+2. fucking love nikki .
+   (ID: 81aef4a1b477688be90d95bcd1c4cce42438c660)
+
+3. me too . it ' s something i ' m going to say to one of my kids in particular .
+   (ID: 204bc9dfdfd5ae40abfe0643025c3f61abea8ee1)
+
+4. you don  t know how much i love you for this . hahahaha this is the best !
+   (ID: 6ab15493c00b6b6223b3fca29e367366c44d8578)
+
+5. it ' s just so good .
+   (ID: 52f4e645771d12babe63c93a43451316a5fb0980)
+
+6. awesome . i have no idea what it is , but i love it .
+   (ID: 94a09b177657107f89104f80152cc459c4dca0ea)
+
+7. spi  der lots of emphasis on the der . see it ' s more of a verbal joke , because of how you say it but i love it every time .
+   (ID: 767dc546311237345e846f55cd4d6b549fa0cb71)
+
+8. i love them so much that i am one .
+   (ID: 3ba6725e8f1b7a123febfe8a266ec0dc4d054b65)
+
+9. hahahaha i love that one ! too bad it  s not really translatable to my language . might use it on the next english speaking person i fancy
+   (ID: 6ab15493c00b6b6223b3fca29e367366c44d8578)
+
+10. i love you the most , dave .
+   (ID: cae6d1fb1a818280e66de4a71148560d2d217d70)
+
+11. i love you .
+   (ID: bd0712716940e41d4901cd77632c868dc43fa8f0)
+
+12. i love people like that .
+   (ID: 2d0024ed521b501bfb33f63c06eccfecc2a92cb3)
+
+13. every time that we  oooh  . i ' m more in love with you . minnie ripperton  lovin ' you is easy coz you ' re beautiful .
+   (ID: 2d0024ed521b501bfb33f63c06eccfecc2a92cb3)
+
+14. that ' s something that makes me love them even more
+   (ID: 4cd63391f1644eb1dde02717bf6a72fc6c22acc7)
+
+
+--- PersonaChat ---
+Total from this dataset: 17
+
+1. i love the beatles .
+   (ID: conversation_247)
+
+2. i love ergonomic keyboards and chairs .
+   (ID: conversation_385)
+
+3. i love my girlfriend .
+   (ID: conversation_89)
+
+4. i love children .
+   (ID: conversation_216)
+
+5. i love children .
+   (ID: conversation_91)
+
+6. i love my girlfriend .
+   (ID: conversation_81)
+
+7. i love robotics .
+   (ID: conversation_382)
+
+8. i love the all american rejects .
+   (ID: conversation_304)
+
+9. sometimes , i like to relieve myself when on roses .
+   (ID: conversation_420)
+
+10. i love sharks .
+   (ID: conversation_65)
+
+11. i love pandas .
+   (ID: conversation_88)
+
+12. i'm great with babies .
+   (ID: conversation_434)
+
+13. i love people with a sense of humor .
+   (ID: conversation_457)
+
+14. i love my girlfriend .
+   (ID: conversation_453)
+
+15. i love the all american rejects .
+   (ID: conversation_440)
+
+16. i love wearing flip flops .
+   (ID: conversation_496)
+
+17. i love ergonomic keyboards and chairs .
+   (ID: conversation_385)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 28
+
+1. I love flowers.
+   (ID: conversation_443_user_1)
+
+2. I love honey.
+   (ID: conversation_305_user_1)
+
+3. I love kids and dogs.
+   (ID: conversation_364_user_1)
+
+4. I love horses.
+   (ID: conversation_351_user_2)
+
+5. I love horses.
+   (ID: conversation_274_user_1)
+
+6. I love the chainsmokers.
+   (ID: conversation_299_user_2)
+
+7. I love kids and dogs.
+   (ID: conversation_40_user_2)
+
+8. I love honey.
+   (ID: conversation_304_user_1)
+
+9. I am great with babies.
+   (ID: conversation_461_user_1)
+
+10. I love flowers.
+   (ID: conversation_491_user_2)
+
+11. I love shoes.
+   (ID: conversation_285_user_1)
+
+12. I love honey.
+   (ID: conversation_306_user_1)
+
+13. I love shoes.
+   (ID: conversation_314_user_1)
+
+14. I am great with babies.
+   (ID: conversation_459_user_1)
+
+15. I love my grandchildren.
+   (ID: conversation_373_user_1)
+
+16. I am great with babies.
+   (ID: conversation_458_user_1)
+
+17. I love my girlfriend.
+   (ID: conversation_406_user_2)
+
+18. I love kids.
+   (ID: conversation_153_user_1)
+
+19. I love my impala.
+   (ID: conversation_451_user_2)
+
+20. I love her though.
+   (ID: conversation_162_user_2)
+
+
+============================================================

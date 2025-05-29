@@ -1,0 +1,467 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 1437
+
+Dataset distribution in this cluster:
+  FoCus: 316 (22.0%)
+  MPChat: 34 (2.4%)
+  MSC: 236 (16.4%)
+  PEC: 375 (26.1%)
+  PER-CHAT: 176 (12.2%)
+  PersonaChat: 85 (5.9%)
+  SyntheticPersonaChat: 215 (15.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 316
+
+1. I would like to visit a museum.
+   (ID: ZXCRSZ4D5PMK_11)
+
+2. I would like to go to college.
+   (ID: NOJ4G30KI3T7_11)
+
+3. I like government.
+   (ID: HO5IT5J1RXE4_11)
+
+4. I would like to watch athletics.
+   (ID: DDUH6892W2P9_7)
+
+5. I'd like to join National Woman's Party if its similar version exists in Korea.
+   (ID: DK9VMLV1IASM_11)
+
+6. I like history.
+   (ID: EDLPKHWH3K5B_11)
+
+7. I would like to fish at Little Butte Creek in the summer again.
+   (ID: AN8LSF1PEYK2_11)
+
+8. I like engineering.
+   (ID: J3FELD3FPXVQ_11)
+
+9. I would like to visit Queensland.
+   (ID: 9DGY1RAZGYLM_9)
+
+10. I would like to visit Wellington.
+   (ID: 81HQ6CXFBQYH_11)
+
+11. I like Eastchester Road.
+   (ID: EI53JQVYRP0R_11)
+
+12. I like to visit united states.
+   (ID: U6NEN4YX4OT6_9)
+
+13. I would like to visit Pennsylvania.
+   (ID: VHMWBMQSDD2I_9)
+
+14. I like hiking.
+   (ID: QUHIQZPYU7H1_11)
+
+15. I like to research about historic buildings.
+   (ID: H6GTJFTZ8LJI_11)
+
+16. I like Geography.
+   (ID: V0DLNYLN813E_11)
+
+17. I like Science.
+   (ID: STW2OR1N34AR_11)
+
+18. I like gardens.
+   (ID: 8PCBSP0T0VTY_11)
+
+19. I like the TV series Homeland very much.
+   (ID: GPJYUNUXPVWI_11)
+
+20. I would like to learn more about Gothic architecture.
+   (ID: TDUTQ7NCYJ1S_11)
+
+
+--- MPChat ---
+Total from this dataset: 34
+
+1. i hear you have pets?
+   (ID: HMoney214)
+
+2. i would like one boop please.
+   (ID: kentobean123)
+
+3. this is what it looks like when i try to create a pattern
+   (ID: Sophie74656)
+
+4. for those that like my sheep, here is one full set.
+   (ID: Moriarty58)
+
+5. my daughter's betta started sitting in the bottom of his tank like this a few days ago.
+   (ID: ReturnOfTheFox)
+
+6. i give my mom a set like this for every occasion.
+   (ID: Louiesloops)
+
+7. i like to put cute animals in my coffee!
+   (ID: av929)
+
+8. yes, hello, i would like one attention thank you
+   (ID: kentobean123)
+
+9. [wip] my first ever crocheted scarf and it actually looks like a scarf
+   (ID: ours_de_sucre)
+
+10. i didn’t like it so i scraped it off and started again.
+   (ID: amandabakes)
+
+11. my xero looks like she's in motion
+   (ID: fredbutt)
+
+12. r/aww didn't like my little boy.
+   (ID: ddizzle23)
+
+13. found a random print of a composition i didn't quite like.
+   (ID: pocket_kira)
+
+14. why are my rosetta's twisting like this?
+   (ID: ext23)
+
+15. i like to bake in rainbow colors.
+   (ID: Soliloquy119)
+
+16. i like bunny butts and i cannot lie!
+   (ID: drfrank1982)
+
+17. yes, hello, i would like one attention.
+   (ID: kentobean123)
+
+18. i like to fold papers too!
+   (ID: gxnelson)
+
+19. "i would like to engage in recreation, sir."
+   (ID: ambora)
+
+20. not perfect, but i like em
+   (ID: batman1227)
+
+
+--- MSC ---
+Total from this dataset: 236
+
+1. I like to hunt.
+   (ID: dialog_0_speaker_2)
+
+2. I like fried chicken and fish.
+   (ID: dialog_82_speaker_1)
+
+3. I like rock music.
+   (ID: dialog_69_speaker_2)
+
+4. I like sweet potatoes and cliff jumping.
+   (ID: dialog_86_speaker_1)
+
+5. I like hitting the town.
+   (ID: dialog_64_speaker_1)
+
+6. I like my picture.
+   (ID: dialog_36_speaker_1)
+
+7. I like call of duty.
+   (ID: dialog_67_speaker_1)
+
+8. I like to travel to Ireland and Australia.
+   (ID: dialog_9_speaker_2)
+
+9. I like country music.
+   (ID: dialog_86_speaker_2)
+
+10. I like to go to the ocean.
+   (ID: dialog_83_speaker_1)
+
+11. I like catching sharks.
+   (ID: dialog_82_speaker_1)
+
+12. I like christmas.
+   (ID: dialog_66_speaker_2)
+
+13. I also like to go biking.
+   (ID: dialog_76_speaker_1)
+
+14. I like mystery novels. I like Sherlock Holmes. I like the Jonathan Creek books. I like the Benedict Cumberbatch Sherlock TV Series.
+   (ID: dialog_5_speaker_2)
+
+15. I like to keep a routine and do the same thing everyday.
+   (ID: dialog_30_speaker_1)
+
+16. I like hip hop. I am married. I own dogs.
+   (ID: dialog_42_speaker_2)
+
+17. I like rap music. I like Michael Jackson.
+   (ID: dialog_59_speaker_1)
+
+18. I like driving fast and dangerously.
+   (ID: dialog_87_speaker_2)
+
+19. I like mystery.
+   (ID: dialog_5_speaker_1)
+
+20. I like to bake. I rarely bake. I am on a diet.
+   (ID: dialog_16_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 375
+
+1. i like yours more
+   (ID: Evref)
+
+2. i was hoping for something more like
+   (ID: RonaldFuckingPaul)
+
+3. i get she tastes like heaven .
+   (ID: 2inthehands)
+
+4. i like where this is heading .
+   (ID: KikAtWorkFL)
+
+5. i sound like a dumb parent huh ?
+   (ID: exotics)
+
+6. i 'm not in to you now , but i 'd like to be � �
+   (ID: 2inthehands)
+
+7. i 'm hardly even mad that the us lost to bubbleman when he was playing like that
+   (ID: sircucumbers)
+
+8. i wave like a moron
+   (ID: Aloha-Potato)
+
+9. i 'd like to become an international bounty hunter .
+   (ID: msiekkinen)
+
+10. i vote for instantly blocking folks like this , and not engaging with their energy suck .
+   (ID: redraindropped)
+
+11. i am thinking of dressing up as a “ not like other girls ” girl for halloween .
+   (ID: justgirlypasta)
+
+12. i like that lip color on you !
+   (ID: latestartksmama)
+
+13. i do like and admire your positive attitude !
+   (ID: mrhenk9)
+
+14. i would like to be a mod
+   (ID: Nick84572)
+
+15. i like him .
+   (ID: snapsnaptomtom)
+
+16. i 'd like to hear the kkk member 's idea on not being racist .
+   (ID: CarlofTime)
+
+17. i actually drink earl grey flavoured rooibos tea because it 's the only non - caffeine tea i like .
+   (ID: ChoppingOnionsForYou)
+
+18. i like brooks ghost .
+   (ID: LCPhotowerx)
+
+19. i like that she 's into fluffy guys .
+   (ID: IgnoranceIsAVirus)
+
+20. i like trying to draw in different styles .
+   (ID: freddlaren)
+
+
+--- PER-CHAT ---
+Total from this dataset: 176
+
+1. ralsei with a gun is like a big pupper cute but could kill you
+   (ID: ce5016a49c41770ec711f4758a362203587f841e)
+
+2. nah . i wonder if you would be willing to compromise though , like maybe you could take the floor and turn it into art so you still have those memories around ? here are some possible ideashttps
+   (ID: b40d1d3ae1e77bcbdcb98e62deea24396d4b4d40)
+
+3. yeah this sounds like a filming thing . it ' s awesome you guys are so on the lookout though , wow .
+   (ID: 1d327d2812dfee71bf8ef77d36ffd5eb70efd55b)
+
+4. it seems like in the beginning of the series her face was narrow , but as it went on it grew wider and wider like she had some sort of plastic surgery .
+   (ID: 2988ee1cd7a2bcf8e2d215c795ee2d06a985665a)
+
+5. nah . i like what i watch , but spoilers for the shows would be a problem .
+   (ID: 13429813198f2aaef97e18644aa776da323f48a1)
+
+6. i can yell pretty damn loud so you ' re likely to hear me whether you like it or not .
+   (ID: f39e591889b6331bd255039773030c1b50c7e201)
+
+7. well you are one of a kind , public speaking is like most feared than death itself . strange isn ' t it ?
+   (ID: 3171687207fd659f146afaa305fc2ad7b92ea52b)
+
+8. uhhhh . it ' s like 23degrees ?
+   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+
+9. why is this the first thing they talk about ? like how about you tell us about him as a player ?
+   (ID: d7ab0e5728c419d1e50c8ba827489e51566c046b)
+
+10. imagine if you could have like a  do not disturb  kind of function you could put above your head too , that would be amazing
+   (ID: 91fce15f80cee843edc2c92559e78e027c94f5d0)
+
+11. now that  s what i like to hear .
+   (ID: 841a375b464a5650f1c027d1c7ae73415228c6ab)
+
+12. where  s the setting to get the durability and stuff like you have one
+   (ID: 5c9dd67e95ee5403b2bd9a6848c017674d46396b)
+
+13. anyone like to hazard a guess as to what sort of state the game is in now ? playable but a bit rough around the edges ?
+   (ID: 4420123abde71e42df266171d2bcb8a90afeed93)
+
+14. how do i get in ? i never used kahoot before . when i enter the pin and the nickname it says something like please wait we are reconnecting you and it is loading with no result
+   (ID: 0cfe15b45fa033fe460b061d1625e4bb67bab696)
+
+15. is it possible to confuse dreams with reality like it happens in the movie inception ?
+   (ID: d048a45810866f7b853972f50c2c2746bc339a21)
+
+16. booboo ? was that like ubu ' s evil doppelganger or something ?
+   (ID: af0db6dfe4be67a6b6915437597ea564bbb33830)
+
+17. maxon was not conservative , he took an entirely different approach that what the brotherhood is supposed to do , conquest and genocide are not brotherhood ideals the railroad is somewhat like the french resistance in ww2 institute is your classic technocracy minitemen are your classical liberals its not like they forced it in your face , but you have to be looking at it from a political mindset to get something political out of fallout other than communism is bad
+   (ID: 41a67e67cad6d49fc85ef1ed0bf4549a04d9e027)
+
+18. i used the duncan hills coffee theme as a cadence in basic . my ds was like ' what the fuck was that , private ! '
+   (ID: 20b71c431f98b1f88ec1b3e7ada79d31df65a8c2)
+
+19. that ' s what it feels like ? wow .
+   (ID: c50abefedeeb0c19f834b1ebb28634054bccee26)
+
+20. the only part i didn ' t like was when it ended . as someone who knows nothing about music , my advice to you is to stick with it , you are very talented .
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+
+--- PersonaChat ---
+Total from this dataset: 85
+
+1. i like to go shopping with my daughters .
+   (ID: conversation_195)
+
+2. i like long walks on the beach .
+   (ID: conversation_240)
+
+3. i like to remodel homes .
+   (ID: conversation_0)
+
+4. i like skateboarding .
+   (ID: conversation_121)
+
+5. i like to paint .
+   (ID: conversation_60)
+
+6. my parents were like this as well .
+   (ID: conversation_110)
+
+7. i like meat too much .
+   (ID: conversation_137)
+
+8. i like to go swimming .
+   (ID: conversation_55)
+
+9. i like my job .
+   (ID: conversation_111)
+
+10. i like to skateboard .
+   (ID: conversation_205)
+
+11. i like to write poetry .
+   (ID: conversation_36)
+
+12. i like anime shows .
+   (ID: conversation_116)
+
+13. i like to shoot a bow .
+   (ID: conversation_243)
+
+14. i like to listen to music .
+   (ID: conversation_6)
+
+15. i like to exercise .
+   (ID: conversation_182)
+
+16. i like the tv show the walking dead .
+   (ID: conversation_93)
+
+17. i like the guitar .
+   (ID: conversation_205)
+
+18. i like to ride horses .
+   (ID: conversation_59)
+
+19. i like to go hunting .
+   (ID: conversation_243)
+
+20. i like cooking healthy meals .
+   (ID: conversation_237)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 215
+
+1. I like to watch tv.
+   (ID: conversation_5_user_2)
+
+2. I like tacos.
+   (ID: conversation_163_user_1)
+
+3. I like cats.
+   (ID: conversation_114_user_1)
+
+4. I like to bake pies.
+   (ID: conversation_72_user_1)
+
+5. I like to hike.
+   (ID: conversation_141_user_2)
+
+6. I like to draw.
+   (ID: conversation_208_user_1)
+
+7. I also like ford trucks.
+   (ID: conversation_11_user_2)
+
+8. I like tacos.
+   (ID: conversation_164_user_1)
+
+9. I like dogs.
+   (ID: conversation_121_user_1)
+
+10. I like sprite soda.
+   (ID: conversation_20_user_1)
+
+11. I like sprite soda.
+   (ID: conversation_54_user_1)
+
+12. I like to bike.
+   (ID: conversation_107_user_1)
+
+13. I like tacos.
+   (ID: conversation_165_user_1)
+
+14. I like to watch anime.
+   (ID: conversation_119_user_1)
+
+15. I like cats.
+   (ID: conversation_117_user_1)
+
+16. I like to travel.
+   (ID: conversation_12_user_1)
+
+17. I like to go shopping with my daughters.
+   (ID: conversation_40_user_2)
+
+18. I like to swim.
+   (ID: conversation_181_user_2)
+
+19. I like snowboarding.
+   (ID: conversation_180_user_2)
+
+20. I like cats.
+   (ID: conversation_110_user_1)
+
+
+============================================================

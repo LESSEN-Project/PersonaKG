@@ -1,0 +1,467 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 1962
+
+Dataset distribution in this cluster:
+  FoCus: 163 (8.3%)
+  MPChat: 110 (5.6%)
+  MSC: 168 (8.6%)
+  PEC: 902 (46.0%)
+  PER-CHAT: 229 (11.7%)
+  PersonaChat: 108 (5.5%)
+  SyntheticPersonaChat: 282 (14.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 163
+
+1. I love to read.
+   (ID: A2FLEF1TRRHW_11)
+
+2. I love doing different activities.
+   (ID: LYKL0NXYUSDG_11)
+
+3. I love horses.
+   (ID: KG8AEOFQLTO4_11)
+
+4. I love History.
+   (ID: V0DLNYLN813E_11)
+
+5. I love England.
+   (ID: JFAHL3MTTLAX_11)
+
+6. I love the country of England.
+   (ID: I0CVV46WKEKI_11)
+
+7. I love to explore.
+   (ID: BW2JVSJEMYHL_11)
+
+8. I love hiking.
+   (ID: MYQ0792Q7S1E_11)
+
+9. I love History.
+   (ID: HSQSOF3LX08H_7)
+
+10. I love being in the middle of the many skyscrapers.
+   (ID: YH6KAJ3V2KQ8_11)
+
+11. I love the United States.
+   (ID: Z8RPC24EURS4_7)
+
+12. I love school.
+   (ID: QISL6J366OY6_11)
+
+13. I love David Attenborough documentaries since I was a kid.
+   (ID: A06HPOO7OWPE_11)
+
+14. I love art.
+   (ID: 81HQ6CXFBQYH_11)
+
+15. I love to visit museum.
+   (ID: C64P8U3HDDHY_9)
+
+16. I love the beach.
+   (ID: QK9TQHXYFFJ9_11)
+
+17. I love Church of Sinai.
+   (ID: TF24QL7QZSG2_11)
+
+18. I really love visiting art museum with my friends.
+   (ID: MGEY7QK79154_11)
+
+19. I love the royal family.
+   (ID: LJYX36WCRYDM_9)
+
+20. I love nature.
+   (ID: B623Z1BXC8IT_11)
+
+
+--- MPChat ---
+Total from this dataset: 110
+
+1. i'm in love with pompoms and braided ear flaps <3
+   (ID: ddizzle23)
+
+2. just wanted to share because i love this ball of fluff so much
+   (ID: MafHoney)
+
+3. i love having fresh bread in the house!
+   (ID: DeanIsHotter)
+
+4. i love super deep cut top hearts
+   (ID: jlb4est)
+
+5. this is my newest fungaloid, clarence the wise, and i love him
+   (ID: Louiesloops)
+
+6. i'm in love with cream cheese icing :)
+   (ID: zenbuffy)
+
+7. i love the leathery texture these get as they sit.
+   (ID: jlb4est)
+
+8. got a new kitten tonight no name yet, but i already love him
+   (ID: danilane)
+
+9. i really love the big ears!
+   (ID: ablubberducky)
+
+10. my pinky had an unfortunate run-in with some polish remover but so far i love them
+   (ID: batman1227)
+
+11. finally got around to finishing my first rag quilt :) love how it turned out :)
+   (ID: ddizzle23)
+
+12. i love the aesthetics of a wooden bowl
+   (ID: coffeehawaii)
+
+13. i love drawing on cakes.
+   (ID: Learning2Grow)
+
+14. this is the true face of absolute evil and i love him so much.
+   (ID: kentobean123)
+
+15. gizmo is such a fat happy puppy and i love him!
+   (ID: kentobean123)
+
+16. needless to say i love cheese
+   (ID: MonstaEatsItAll)
+
+17. i love their label artwork so much
+   (ID: Metalocachick)
+
+18. i love these guys!
+   (ID: cuppcatt)
+
+19. i really love the look of oat milk
+   (ID: BeastaBubbles)
+
+20. i love winter, but will miss warm summer nights under the stars [oc] [1600x1146]
+   (ID: garret_weintrob)
+
+
+--- MSC ---
+Total from this dataset: 168
+
+1. I love to be under water.
+   (ID: dialog_16_speaker_2)
+
+2. I like trying new versions of familiar food. I love experimenting with food.
+   (ID: dialog_107_speaker_2)
+
+3. I love sushi and eat it when I study.
+   (ID: dialog_23_speaker_1)
+
+4. I love body art.
+   (ID: dialog_90_speaker_2)
+
+5. I love shoes.
+   (ID: dialog_38_speaker_2)
+
+6. I love bright clothing.
+   (ID: dialog_64_speaker_2)
+
+7. I would love to be a professional.
+   (ID: dialog_15_speaker_1)
+
+8. I love all my pets.
+   (ID: dialog_63_speaker_1)
+
+9. I love Mexican food. Burritos are my favorite food.
+   (ID: dialog_27_speaker_1)
+
+10. My hair is purple. I am a stylist. I love my job. I am saving money in hopes of opening my own salon by the end of the year.
+   (ID: dialog_14_speaker_2)
+
+11. I love spending my free time in the sun with a good novel.
+   (ID: dialog_88_speaker_2)
+
+12. I love John Surteees.
+   (ID: dialog_117_speaker_2)
+
+13. I love dogs.
+   (ID: dialog_89_speaker_1)
+
+14. I love the color red.  I like to jog.
+   (ID: dialog_77_speaker_2)
+
+15. I love art metal bands.
+   (ID: dialog_35_speaker_2)
+
+16. I love to go dancing. I love eating out.
+   (ID: dialog_27_speaker_1)
+
+17. I love the water.
+   (ID: dialog_20_speaker_1)
+
+18. I dream about moving to Los Angeles. I would love to have a movie premiere.
+   (ID: dialog_87_speaker_1)
+
+19. I love to fish.
+   (ID: dialog_27_speaker_2)
+
+20. I love summer.
+   (ID: dialog_130_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 902
+
+1. i love flowers !
+   (ID: samward7)
+
+2. i would love to see pictures of * that * !
+   (ID: SerendipitousCat)
+
+3. i love the " hold for years " part .
+   (ID: gigatroness)
+
+4. i love how the sunlight hits him .
+   (ID: notthruyet)
+
+5. i have an honor 5c and i love emui roms !
+   (ID: Breethepig)
+
+6. i love camping , but i have no desire to go while pregnant .
+   (ID: COCOnizzle)
+
+7. i 'd love to open one .
+   (ID: mylescloutier)
+
+8. i love reading such insightful comments on a porn subreddit
+   (ID: Nick84572)
+
+9. i love lays wavy hickory bbq chips with french onion dip .
+   (ID: BabblingBunny)
+
+10. i love this lmao
+   (ID: bleepblorp9878)
+
+11. i would really love the ability to change the max size of imgur links .
+   (ID: Ashex)
+
+12. i love love love our photos :)
+   (ID: genpell)
+
+13. i love the mercer band , and will happily await this delayed album .
+   (ID: Evref)
+
+14. i think they deserve some more love , air max plus 1 year rotation
+   (ID: Breethepig)
+
+15. i love everything about that room .
+   (ID: WhereRtheTacos)
+
+16. i just love the animation in this scene .
+   (ID: Megan_Bee)
+
+17. i love this sim , but god i hate the dark skin tones by maxis � �
+   (ID: jukkujak)
+
+18. i would love to see that beautiful boi !
+   (ID: mrhenk9)
+
+19. i love new discoveries .
+   (ID: notlikethat1)
+
+20. i love her because so much , ahhh the words all girls dream of
+   (ID: bleepblorp9878)
+
+
+--- PER-CHAT ---
+Total from this dataset: 229
+
+1. don ' t fuck him unless you trust him . cause once they cum you ' re trash . and they usually don ' t even text back . so if you ' re looking for more than a fuck , get to know the dude . also ? cum tastes like shit . i don ' t care what anyone says . it tastes like medicine or some salty thick mucus shit . but for whatever reason they love it when you swallow . go figure
+   (ID: 590fa4d9757be797407857020a0aa2aa0f4ad290)
+
+2. you shouldn ' t be bothered about your weight in your wedding pictures because it ' s validation that your husband loves you no matter what size you are . since he ' s supporting you through your weight loss , it ' s only reinforced . lucky you ! you look great btw . love the jeans and , like another poster , i giggled at you standing on the chair . k4l !
+   (ID: fe374743dd856c29f2117723cef01c1fdc3b3b5b)
+
+3. i am content . i am not " book smart " but i am good with my hands . academically , i was not the brightest person , but i can set steel beams , pour concrete , and put finish trim up . i love what i do , even though i beat the fuck out of my body .
+   (ID: c11592c54f6061d979d11af92c6289790a5bec93)
+
+4. shut the fuck up . you ' re a con  artist selling pseudo  science books about how vaccines are bad . love this new spiritual angle you ' re trying to spin now too , when your post historically constantly shows you shitting on the very idea of religion , god and spirituality . fuck off .
+   (ID: 5fa74a7d6a70c6f2f8a149864f494ac72eefd3e4)
+
+5. love  how it sounds hate  driving through it
+   (ID: abbe051c76bbb939d8594349cac549cb5435920d)
+
+6. this is pretty cool . i love the expression on the things face . it would be perfect for a hemorrhoid commercial .
+   (ID: 93aef5ab9bcfb13e4085ecbd6b6948845a9ec03b)
+
+7. i would love to be your coworker .
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+8. looks good ! i love the front lip , i need to get one for my digit .
+   (ID: 69878cc2cc3e4fe974feb7f6bf5a69bf75cd4951)
+
+9. i agree but my love for tom brady trumps my hatred for the orange jackass
+   (ID: 8a914d1b332f7e39fd1f0cbb2c4b483e19f43fd7)
+
+10. this thing we call life is one big mystery . i dont know if this help but one poem really like is the  man in the glass  youtube  google it . for me , i think its about importance of your own love for yourself . once you have it nothing else matters . even if you are with abeautiful wife etc . it doesntmatter if you dont love  stay true to yourself . discover yourself first man . good things will come your way .
+   (ID: 3c4a38138d39bd51556bd7f8a05ba48bf283c7e6)
+
+11. there  s an irish crime drama  love  hate  . it doesn  t air now . i had trouble getting the seasons . i heard about it through imdb lists . the show was quite popular in ireland . i didn  t watch it but i can suggest only because it  s on my list .
+   (ID: 5186a4f234c22a2668969b75a1a54616526c2ee4)
+
+12. spi  der lots of emphasis on the der . see it ' s more of a verbal joke , because of how you say it but i love it every time .
+   (ID: 767dc546311237345e846f55cd4d6b549fa0cb71)
+
+13. the repairs on the car sound reasonable , once the transmission starts to go , my guess is a faulty fuse or a wire grounding out somewhere , i ' d say pay the to fix it and save more money for a car , i love my honda civic she still like new though not for long ha ha
+   (ID: da770212ea31887c4be30925213eff0dc5d8687b)
+
+14. this is pretty much it . the whole  you know i learned something today  phase of south park is so cringey . fuckin love the show though .
+   (ID: 76442d997e7f64c10223aeac0f4ff8af70ff9dde)
+
+15. i think it  s more about my love of pickles , but whatever
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+
+16. love you too as the worst song off this album ? really people ? i know this album is great , and every song on it is solid , but in no way shape or form is love you too the worst song on this album . it is great .
+   (ID: a8d677a357cabd8cb6d9bfa06e041b5b173582d8)
+
+17. that ' s unnecessarily harsh . if falling in love is " what someone wants to do " who are you to tell them they ' re wrong ?
+   (ID: 9447b1479bba35e43476f822ef86882e0d4d70d7)
+
+18. don ' t let it get to you . warm up , find love , don ' t dwell and for god ' s sake save whats left of you it ' d scare me into some direction in life . any direction that ' s forward .
+   (ID: 5f43a3019d69696064ac659bf6dd25b51f1e5bb6)
+
+19. how often do you tell your water you love it tho ? like , is there a trick ? hasn  t worked for me
+   (ID: 827584bdc66e3c4749f22f0ad0a9420dc64ac2b5)
+
+20. says  i loved stanced cars  followed by  it hurts to see a gt86 like that  . so do you hate this car or love it ?
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+
+--- PersonaChat ---
+Total from this dataset: 108
+
+1. i hate my parents , but i love my job .
+   (ID: conversation_66)
+
+2. i love dogs .
+   (ID: conversation_139)
+
+3. i love coffee with cream .
+   (ID: conversation_133)
+
+4. i recently discovered a new love for indian food .
+   (ID: conversation_45)
+
+5. i love the beach .
+   (ID: conversation_326)
+
+6. i love to sing .
+   (ID: conversation_10)
+
+7. i love scary movies .
+   (ID: conversation_222)
+
+8. i love collecting teapots .
+   (ID: conversation_73)
+
+9. i love cooking .
+   (ID: conversation_107)
+
+10. i love my girlfriend .
+   (ID: conversation_81)
+
+11. i love video games .
+   (ID: conversation_143)
+
+12. i love country music .
+   (ID: conversation_86)
+
+13. i love to ride my bike .
+   (ID: conversation_111)
+
+14. i love to cut down trees .
+   (ID: conversation_51)
+
+15. i love children .
+   (ID: conversation_216)
+
+16. i love hiking and staying fit .
+   (ID: conversation_314)
+
+17. i love family time .
+   (ID: conversation_310)
+
+18. i love dogs and cats .
+   (ID: conversation_97)
+
+19. i love to eat pita bread with hummus .
+   (ID: conversation_277)
+
+20. i hate seafood but love mexican food .
+   (ID: conversation_302)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 282
+
+1. I love meat.
+   (ID: conversation_156_user_1)
+
+2. I love dogs.
+   (ID: conversation_139_user_1)
+
+3. I love ham and cheese sandwiches.
+   (ID: conversation_5_user_2)
+
+4. I love to run fast.
+   (ID: conversation_317_user_2)
+
+5. I love candy.
+   (ID: conversation_228_user_2)
+
+6. I love pizza.
+   (ID: conversation_312_user_1)
+
+7. I love all sorts of fresh vegetables.
+   (ID: conversation_220_user_2)
+
+8. I love youtube.
+   (ID: conversation_272_user_2)
+
+9. I love to cook.
+   (ID: conversation_45_user_2)
+
+10. I love country music.
+   (ID: conversation_314_user_2)
+
+11. I love role play.
+   (ID: conversation_299_user_1)
+
+12. I love to bake cakes.
+   (ID: conversation_19_user_2)
+
+13. I love anime.
+   (ID: conversation_340_user_1)
+
+14. I love book.
+   (ID: conversation_128_user_1)
+
+15. I love to paint pictures.
+   (ID: conversation_155_user_1)
+
+16. I love working out.
+   (ID: conversation_310_user_2)
+
+17. I love reading.
+   (ID: conversation_315_user_2)
+
+18. I love to surf.
+   (ID: conversation_288_user_2)
+
+19. I love cold weather.
+   (ID: conversation_197_user_2)
+
+20. I love cars.
+   (ID: conversation_131_user_1)
+
+
+============================================================

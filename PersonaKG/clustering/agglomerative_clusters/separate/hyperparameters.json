@@ -1,0 +1,12 @@
+{
+  "sample_size": 500,
+  "split": "train",
+  "vectorization": "dense",
+  "mode": "separate",
+  "pca_components": 48,
+  "tfidf_weight": 0.5,
+  "n_clusters": 50,
+  "linkage": "complete",
+  "metric": "euclidean",
+  "timestamp": "2025-05-29 11:43:09"
+}

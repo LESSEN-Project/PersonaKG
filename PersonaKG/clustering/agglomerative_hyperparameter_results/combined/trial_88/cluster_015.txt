@@ -1,0 +1,360 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 1100
+
+Dataset distribution in this cluster:
+  FoCus: 6 (0.5%)
+  MSC: 31 (2.8%)
+  PEC: 65 (5.9%)
+  PER-CHAT: 873 (79.4%)
+  PersonaChat: 39 (3.5%)
+  SyntheticPersonaChat: 86 (7.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 6
+
+1. I would like to do some weight lifting.
+   (ID: EFTS0UG7NK5K_9)
+
+2. I am interested in the military.
+   (ID: J3FELD3FPXVQ_11)
+
+3. I have a friend who has participated in special Olympics.
+   (ID: QRRS2THODNM3_11)
+
+4. I would like to compete in a ski competition.
+   (ID: QTNNKQN2EVU5_11)
+
+5. I am interested in world records.
+   (ID: FHCSCC2MB2X0_7)
+
+6. I have kids.
+   (ID: UXR4EKSRCULN_11)
+
+
+--- MSC ---
+Total from this dataset: 31
+
+1. I am taller than average.
+   (ID: dialog_40_speaker_1)
+
+2. I am 6 ft. tall.
+   (ID: dialog_40_speaker_1)
+
+3. I have a wife. I'm in my early 40s.
+   (ID: dialog_93_speaker_2)
+
+4. I am above average height. I like to make three pointers in basketball.
+   (ID: dialog_8_speaker_2)
+
+5. I have children.
+   (ID: dialog_82_speaker_2)
+
+6. I do not have kids. I do not know if I want kids. I need to find the right woman first.
+   (ID: dialog_58_speaker_2)
+
+7. I am mature lady.
+   (ID: dialog_44_speaker_1)
+
+8. I have a couple kids.
+   (ID: dialog_19_speaker_2)
+
+9. I am in third grade.
+   (ID: dialog_53_speaker_2)
+
+10. I'm in my thirties without a partner.
+   (ID: dialog_93_speaker_1)
+
+11. I am 30 years old.
+   (ID: dialog_65_speaker_1)
+
+12. I am going out with my manager.
+   (ID: dialog_37_speaker_1)
+
+13. I am single. I'm a single mother. I have a son. I'm unemployed. I like reading. I'm 28.
+   (ID: dialog_65_speaker_2)
+
+14. I am 29 years old.
+   (ID: dialog_41_speaker_1)
+
+15. I want to start running. I want to start a training programme.
+   (ID: dialog_40_speaker_2)
+
+16. I'm a male.
+   (ID: dialog_42_speaker_2)
+
+17. I'm above the standard height of a us male.
+   (ID: dialog_21_speaker_1)
+
+18. I am 30.
+   (ID: dialog_65_speaker_1)
+
+19. I do not have kids.
+   (ID: dialog_58_speaker_2)
+
+20. I have kids.
+   (ID: dialog_82_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 65
+
+1. i 've ridden a few times and would like to buy a motorcycle .
+   (ID: Captain_-H)
+
+2. i say you 're 19 now .
+   (ID: Weed_n_Wisdom)
+
+3. i am but i ’m a university student and single mom .
+   (ID: kitcatpaints)
+
+4. i 'm 16 lol .
+   (ID: Takumi-Fujiwara)
+
+5. i ’m 42 .
+   (ID: latestartksmama)
+
+6. i identify as a 16 year old .
+   (ID: serverpilot)
+
+7. i m dark skin , nw48 for reference .
+   (ID: jukkujak)
+
+8. i am a 23 year old male who likes to be active and be outdoors .
+   (ID: AgedTwenties)
+
+9. i 'm just looking for some insight or some advice on what i should do .
+   (ID: bennystache)
+
+10. i am a 23 year old male .
+   (ID: AgedTwenties)
+
+11. i 'm 29 .
+   (ID: Machinax)
+
+12. i 'm looking to make a responsible purchase .
+   (ID: NietzschesUbermensch)
+
+13. i 'd like to be confident in what my wants and needs are ... and could use your help .
+   (ID: clueless3867)
+
+14. i am a girl ...
+   (ID: exotics)
+
+15. i am a woman , a mom ..
+   (ID: exotics)
+
+16. i 'm 26 .
+   (ID: clueless3867)
+
+17. i 'm a size 8.5
+   (ID: NietzschesUbermensch)
+
+18. i ’m 21 years old .
+   (ID: freddlaren)
+
+19. i 'm a high school senior looking to buy his first car .
+   (ID: NietzschesUbermensch)
+
+20. i 'm 30 .
+   (ID: cometparty)
+
+
+--- PER-CHAT ---
+Total from this dataset: 873
+
+1. I am a male.
+   (ID: 9c91f42953bc8f6d2f718503a1924734b9da6acc)
+
+2. I am a male.
+   (ID: f2cec4af782c7d455288420e90648dc9c6d12538)
+
+3. I am a male.
+   (ID: 7fdfc2063b89c8be6521566a61aeb5bf9497d47e)
+
+4. I am a male.
+   (ID: 1cf567904675ac1ca7b5a90612e5479a5b6c9bef)
+
+5. I am a male.
+   (ID: dc000fb877b86a0bbd3d65fe6040b512b4f5b042)
+
+6. I am a male.
+   (ID: a283688fea41e1110e58705ec74d4e325e46d87e)
+
+7. I am a male.
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+8. I am a male.
+   (ID: 029f5b503d15f7a11f4a0300f77d88f29e5c7ed5)
+
+9. I am a male.
+   (ID: b25bdf3935142c93d642393810cba283ec3b801f)
+
+10. I am a male.
+   (ID: 812f0130222ed7d2f4768ba9e9d81f1c42857723)
+
+11. I am a male.
+   (ID: c22fbcc3fbb3286d348387d73888b66c1c9e09ba)
+
+12. I am a male.
+   (ID: 47697a08dc01689d8119bf9bd578194eb66d157c)
+
+13. I am a male.
+   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
+
+14. I am a male.
+   (ID: c63be1429c6442ee9219ae1573b45fc7a40d22f2)
+
+15. I am a male.
+   (ID: ac53f9ce173965984299f3686335a39bc2a5810f)
+
+16. I am a male.
+   (ID: 32520dc340c18ed101e3d5ea02b3a7bca25dcc29)
+
+17. I am a male.
+   (ID: 6fa65e005cc7ba05dc62c263af1ea289902ce6d1)
+
+18. I am a female.
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+19. I am horny teenager.
+   (ID: 9ec97fcc6f16d54d7e24ba1cdb5ebe5785854536)
+
+20. I am a male.
+   (ID: 18e685ff1edd3998857c41d19f982fa88f95cec8)
+
+
+--- PersonaChat ---
+Total from this dataset: 39
+
+1. i am 19 years old .
+   (ID: conversation_103)
+
+2. i'm seven years old .
+   (ID: conversation_53)
+
+3. i'm twenty two years old .
+   (ID: conversation_216)
+
+4. i'm young .
+   (ID: conversation_96)
+
+5. i am in high school .
+   (ID: conversation_121)
+
+6. i am trying to become a male model in hollywood .
+   (ID: conversation_227)
+
+7. i am currently trying to open my own grocery store .
+   (ID: conversation_109)
+
+8. i can benchpress 345 pounds .
+   (ID: conversation_241)
+
+9. i am six feet tall .
+   (ID: conversation_156)
+
+10. i can also squat 400 pounds .
+   (ID: conversation_224)
+
+11. i have two children .
+   (ID: conversation_19)
+
+12. i've three kids .
+   (ID: conversation_82)
+
+13. i'm twenty two years old .
+   (ID: conversation_91)
+
+14. i am chubby .
+   (ID: conversation_74)
+
+15. i am a woman .
+   (ID: conversation_233)
+
+16. i am a woman .
+   (ID: conversation_152)
+
+17. i am ten years old .
+   (ID: conversation_97)
+
+18. i am getting married in six months .
+   (ID: conversation_101)
+
+19. i am 5 7 tall .
+   (ID: conversation_160)
+
+20. i'm looking to start a business .
+   (ID: conversation_214)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 86
+
+1. I am 10 years old.
+   (ID: conversation_61_user_2)
+
+2. I am thin.
+   (ID: conversation_17_user_1)
+
+3. I am a girl.
+   (ID: conversation_80_user_1)
+
+4. I am a girl.
+   (ID: conversation_77_user_1)
+
+5. I am a 30 year old female.
+   (ID: conversation_197_user_1)
+
+6. I am a older gentlemen.
+   (ID: conversation_246_user_1)
+
+7. I am chubby.
+   (ID: conversation_86_user_1)
+
+8. I am a girl.
+   (ID: conversation_79_user_1)
+
+9. I am a older gentlemen.
+   (ID: conversation_241_user_1)
+
+10. I m really short.
+   (ID: conversation_19_user_2)
+
+11. I am male.
+   (ID: conversation_7_user_1)
+
+12. I am engaged.
+   (ID: conversation_233_user_1)
+
+13. I am twenty five years old.
+   (ID: conversation_22_user_1)
+
+14. I am 7 foot tall.
+   (ID: conversation_149_user_2)
+
+15. I am an old woman.
+   (ID: conversation_193_user_2)
+
+16. I am a girl.
+   (ID: conversation_81_user_1)
+
+17. I am male.
+   (ID: conversation_8_user_1)
+
+18. I am short.
+   (ID: conversation_33_user_1)
+
+19. I am in 3rd grade.
+   (ID: conversation_100_user_2)
+
+20. My feet are size six womens.
+   (ID: conversation_168_user_1)
+
+
+============================================================

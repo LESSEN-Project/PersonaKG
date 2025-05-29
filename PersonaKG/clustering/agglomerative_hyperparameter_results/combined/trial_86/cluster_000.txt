@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 20731
+
+Dataset distribution in this cluster:
+  FoCus: 481 (2.3%)
+  MPChat: 2469 (11.9%)
+  MSC: 1206 (5.8%)
+  PEC: 10181 (49.1%)
+  PER-CHAT: 3700 (17.8%)
+  PersonaChat: 854 (4.1%)
+  SyntheticPersonaChat: 1840 (8.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 481
+
+1. I have visited the Guindy National Park.
+   (ID: V3LNPA1FT8D2_11)
+
+2. I have a picture of the Lancaster Canal.
+   (ID: PDQ9Z8XXYUMC_11)
+
+3. I am a big fan of academics.
+   (ID: F6T8IBBEHM4P_11)
+
+4. My uncle lives in Australia.
+   (ID: L6X3D5VDORJH_11)
+
+5. I hate the idea of experimentation on prisoners.
+   (ID: H697EKUHA9EW_11)
+
+6. I have never been to Cumbria.
+   (ID: SRO8K4E2N5N5_7)
+
+7. I am from India.
+   (ID: KG8AEOFQLTO4_11)
+
+8. I attend The Church of Jesus Christ of Latter-day Saints.
+   (ID: G9I9RZZLCC1P_11)
+
+9. I am planning to visit United States soon.
+   (ID: 8LTOMMR1K4L5_11)
+
+10. I am English.
+   (ID: XXU24CBOXMRE_7)
+
+11. I am Greek.
+   (ID: EA2ZVDRVQ40F_11)
+
+12. I dislike churches.
+   (ID: DAZUOQ6PPGPD_9)
+
+13. I will stay in Fulham.
+   (ID: DJ4IA2ZGTGQW_11)
+
+14. I am a masochist.
+   (ID: MMFXPQYSEBUW_11)
+
+15. I have been a victim of civil war.
+   (ID: KW9HNA6XJ79B_11)
+
+16. I have studied about Turrbal nation in my college.
+   (ID: N14O6VGOOR7E_11)
+
+17. I will visit Piazzale San Paolo.
+   (ID: MRD9ZG9O57GA_11)
+
+18. I have a trip to Olympia booked.
+   (ID: YRJ6RB6JCWMA_11)
+
+19. I am fascinated by caves.
+   (ID: X3WVWF5IVCYD_11)
+
+20. I am a horticulturist.
+   (ID: KMISZIRFKCAC_11)
+
+
+--- MPChat ---
+Total from this dataset: 2469
+
+1. i recently dug up waffles’ adoption paperwork.
+   (ID: FoxInKneeSocks)
+
+2. i may have gone a little overboard by quadrupling this vegan cheese sauce recipe...
+   (ID: ReturnOfTheFox)
+
+3. some mushrooms i found on a recent foraging trip.
+   (ID: sundstrom193)
+
+4. some themed cookies i made for my niece's 3rd birthday
+   (ID: kimbowee)
+
+5. my first attempt at baking a flan pâtissier
+   (ID: justcook_byangel)
+
+6. i am waiting for my stew.
+   (ID: Rosiebelleann)
+
+7. this is my neighbor, sammich.
+   (ID: Flattishsassy)
+
+8. some crocheted pacman ghosts i made!
+   (ID: Louiesloops)
+
+9. a nice plate i had in htown yesterday
+   (ID: BananaPeelSlippers)
+
+10. playing with a totally cool baking thing i found
+   (ID: zenbuffy)
+
+11. finished my mom’s birthday present first mandala yarn, first vest
+   (ID: smsikking)
+
+12. covid camping over the weekend - pulled out all the shelters - i may have a problem.
+   (ID: reecee)
+
+13. who thinks my husband should open a food truck?
+   (ID: FormalSwimming)
+
+14. some more of my easter cupcakes, the kids loved them
+   (ID: Lady_FriendOfSpiders)
+
+15. made some cookies for my dad's birthday
+   (ID: itsamayazing)
+
+16. my 2 year build finished at last!
+   (ID: overlandervanman)
+
+17. this was the droid i was looking for :)
+   (ID: zenbuffy)
+
+18. a bit sized vampire you can b+ i loved crocheting
+   (ID: Louiesloops)
+
+19. [i ate] a deep fried sushi roll
+   (ID: crunch816)
+
+20. one of the very first cakes i made when i started cake decorating!
+   (ID: Sunshine_2425)
+
+
+--- MSC ---
+Total from this dataset: 1206
+
+1. I used to have a poodle named char. I used to have 6 cats, now I have 4.
+   (ID: dialog_34_speaker_2)
+
+2. I am a fisherman.
+   (ID: dialog_82_speaker_1)
+
+3. I dislike orange vegetables from the ground.
+   (ID: dialog_3_speaker_2)
+
+4. I have a job. I go to school.
+   (ID: dialog_29_speaker_1)
+
+5. I travel to canada on the weekends.
+   (ID: dialog_15_speaker_1)
+
+6. I have a job.
+   (ID: dialog_121_speaker_2)
+
+7. I am a veteran.
+   (ID: dialog_35_speaker_2)
+
+8. I drive a long black hearse.
+   (ID: dialog_5_speaker_2)
+
+9. I have sons.
+   (ID: dialog_9_speaker_2)
+
+10. I am in college.
+   (ID: dialog_131_speaker_2)
+
+11. I am a runner.
+   (ID: dialog_40_speaker_1)
+
+12. I'm an airplane pilot  in the army. I can give you some pilot training advice or tips.
+   (ID: dialog_35_speaker_2)
+
+13. I sell houses and buildings for a living.
+   (ID: dialog_37_speaker_1)
+
+14. I'm a star on screen.
+   (ID: dialog_107_speaker_1)
+
+15. I have a lot of ink.
+   (ID: dialog_71_speaker_2)
+
+16. My mom is in poor health.
+   (ID: dialog_118_speaker_1)
+
+17. Being a grandma is my greatest accomplishment.
+   (ID: dialog_104_speaker_2)
+
+18. I am strong.
+   (ID: dialog_124_speaker_2)
+
+19. My favorite food is chicken.
+   (ID: dialog_27_speaker_2)
+
+20. I made it to printed words.
+   (ID: dialog_3_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 10181
+
+1. i am the one who knocks boots
+   (ID: Bob_Majerle)
+
+2. i do n't have antiquated atm .
+   (ID: SpartanWarNinja)
+
+3. i 'm " you should see facebook rn " years old .
+   (ID: ifatree)
+
+4. i ’m looking too .
+   (ID: Justadropinthesea)
+
+5. i ... ca n't stop upvoting now .
+   (ID: juls2587)
+
+6. i use donnie at autolife .
+   (ID: deputydan_scubaman)
+
+7. i had no idea this was legal .
+   (ID: notlikethat1)
+
+8. i can eat raw dough without fear of raw egg killing me .
+   (ID: FruitBatFanatic)
+
+9. i saw him at wembly in the 80s , and damn !
+   (ID: ChoppingOnionsForYou)
+
+10. i get it .
+   (ID: hussy_trash)
+
+11. i was trying to show that it was r / science and the deleted comment ...
+   (ID: Aloha-Potato)
+
+12. i 'm a zombie .
+   (ID: mbw1960)
+
+13. i ran into this earlier in the week .
+   (ID: mulletprooftiger)
+
+14. i mourn for the picts :(
+   (ID: Shrub74)
+
+15. i completely agree with you !
+   (ID: Sometimes_Why)
+
+16. i had to dip my hotdog bread in apple sauce once because it 's all i had to eat .
+   (ID: Bananafoofoofwee)
+
+17. i bet he knows how to defeat thanos .
+   (ID: baconnaire)
+
+18. i was disappointed .
+   (ID: CheapyPipe)
+
+19. i spent multiple hours grinding up my reading skill .
+   (ID: JacredCat)
+
+20. i 'm 7 or so issues into their podcast .
+   (ID: JimmyMcShiv)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3700
+
+1. " would you do me ? i would do me "
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+2. I am kid.
+   (ID: 74253a87130d79f3a85bfb20807ead84f4a4612d)
+
+3. I have a girlfriend.
+   (ID: d06e7949138d7c04b968c15f3dd6f37d07c5a670)
+
+4. I am drowning in cummies 💦💦💦💦💦😲💦💦💦 holy shit.
+   (ID: 77a6bff8693a174b55d34fc32fdd8a87710fecb7)
+
+5. I have a girlfriend.
+   (ID: dc000fb877b86a0bbd3d65fe6040b512b4f5b042)
+
+6. my bad . i ended up comparing it to a fleshlight and . well .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+7. I play black ops.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+8. I have a girlfriend.
+   (ID: 77a6bff8693a174b55d34fc32fdd8a87710fecb7)
+
+9. from my experience the crazier they are outside the bedroom the freakiest they are in there . or any where else the mood might strike .
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+10. you wasted your potential by asking this question , guys can we get an amen ?
+   (ID: 23df46bdba3eb265d08b02c9ec5f365cf45ae5fd)
+
+11. this is an obvious joke
+   (ID: c418fa452eafbca022ce1c49b521d4574aa77cd1)
+
+12. then tell her that . in a nice way . it could start as simply as ,  do you mind asking me before you plan to invite your mom to stay over ?  she may also benefit from getting a more substantial friend group in your new area .
+   (ID: 5d0b750bf77c2c6e8b41ebf03caf4038a907b876)
+
+13. that  s sperm , not life . honestly how do you come to that conclusion about pro life ?
+   (ID: c0f309bee7152ab458da8ec03fbb1e17fa2876cd)
+
+14. i see , so when there are tons of coins , the inflation will be quite minimal , but unless the community grows quickly enough , the mining value could drop to the point where it ins ' t worth mining except for the charity aspect of it . bitcoin has struggled with this at times where the electricity cost of some computers that are less efficient is higher than the value they can earn by mining .
+   (ID: b650c9c531ec58d468c7c1fc9b7083efc4cbca9c)
+
+15. someone once told me " familiarity breeds contempt " and since then , the idea of marriage is nothing more than a tax thing .
+   (ID: 8b9c4341d896783998a7c3485fa949b3c63cbd73)
+
+16. bruh , why you do it right in front of your mom ? you from alabama or something ?
+   (ID: de62a0a330b0a7ca76d55a6702dcae5baf1c3cae)
+
+17. what would you do if you were the opposite sex for the day ?
+   (ID: 5a15ed606a86674cb48abaf9fee4375ff6bbff09)
+
+18. that  s a great record breaker in my books
+   (ID: e0420899ce262e6eda9d0771cc722037c8f327b8)
+
+19. glad you realize how cringeworthy that was  kudos to both of you for growing together and laughing about it !
+   (ID: 634dae5dcf04e8e8d5bfd5e71c1fa8ec9713f222)
+
+20. what !
+   (ID: 3418702de52d65ee261943b207996da3e2569fd2)
+
+
+--- PersonaChat ---
+Total from this dataset: 854
+
+1. i have created my own personal religion .
+   (ID: conversation_292)
+
+2. i am a casual dresser .
+   (ID: conversation_128)
+
+3. i am a soccer player .
+   (ID: conversation_62)
+
+4. i sleep in late during the day .
+   (ID: conversation_223)
+
+5. i m a student living at home while pursuing my music industry degree .
+   (ID: conversation_328)
+
+6. i'm a middle aged woman .
+   (ID: conversation_278)
+
+7. my favorite band is pink floyd .
+   (ID: conversation_272)
+
+8. i am a mother of two daughters .
+   (ID: conversation_340)
+
+9. i practice yoga daily .
+   (ID: conversation_267)
+
+10. i'm a babysitter .
+   (ID: conversation_101)
+
+11. i take pride in my job managing the restaurant .
+   (ID: conversation_316)
+
+12. my parents taught me to find inspiration in the world .
+   (ID: conversation_344)
+
+13. i'm adopted .
+   (ID: conversation_190)
+
+14. i am a high school teacher .
+   (ID: conversation_252)
+
+15. my favorite author is stephen king .
+   (ID: conversation_132)
+
+16. i am tall .
+   (ID: conversation_235)
+
+17. i'm disabled and cannot walk .
+   (ID: conversation_322)
+
+18. i'm a software engineer .
+   (ID: conversation_346)
+
+19. my father is dead .
+   (ID: conversation_186)
+
+20. my favorite food is pizza .
+   (ID: conversation_121)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1840
+
+1. I drive a honda car.
+   (ID: conversation_324_user_1)
+
+2. I am a girl.
+   (ID: conversation_80_user_1)
+
+3. I only eat at restaurants.
+   (ID: conversation_126_user_2)
+
+4. My favorite food is strawberries.
+   (ID: conversation_43_user_1)
+
+5. I am single.
+   (ID: conversation_97_user_1)
+
+6. I am a woman.
+   (ID: conversation_228_user_1)
+
+7. My favorite movie is pretty woman.
+   (ID: conversation_193_user_1)
+
+8. I have a ten year old son.
+   (ID: conversation_334_user_1)
+
+9. My favorite food is strawberries.
+   (ID: conversation_46_user_1)
+
+10. I have a poodle named nanette.
+   (ID: conversation_148_user_2)
+
+11. I am a jack of all , master of none.
+   (ID: conversation_9_user_1)
+
+12. I am a professional gamer.
+   (ID: conversation_147_user_1)
+
+13. I am a very funny woman.
+   (ID: conversation_228_user_2)
+
+14. My favorite music is country.
+   (ID: conversation_216_user_1)
+
+15. I am a woman.
+   (ID: conversation_132_user_1)
+
+16. I graduated from college.
+   (ID: conversation_141_user_2)
+
+17. I play the violin.
+   (ID: conversation_54_user_2)
+
+18. My dad works in the automotive industry.
+   (ID: conversation_319_user_2)
+
+19. I earn passive income that no one knows about.
+   (ID: conversation_307_user_2)
+
+20. 1984 is my favorite book.
+   (ID: conversation_129_user_1)
+
+
+============================================================

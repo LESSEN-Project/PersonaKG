@@ -1,0 +1,467 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 2213
+
+Dataset distribution in this cluster:
+  FoCus: 725 (32.8%)
+  MPChat: 119 (5.4%)
+  MSC: 148 (6.7%)
+  PEC: 841 (38.0%)
+  PER-CHAT: 250 (11.3%)
+  PersonaChat: 50 (2.3%)
+  SyntheticPersonaChat: 80 (3.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 725
+
+1. I would like to visit New York someday.
+   (ID: IKQ9QU6QOUT4_11)
+
+2. I would like to go to a haunted place.
+   (ID: GYX0OU7PEQ7Q_11)
+
+3. I have seen rail bridge.
+   (ID: BK0F3JSD41JJ_11)
+
+4. I would like to see different attractions.
+   (ID: LYKL0NXYUSDG_11)
+
+5. I would like to visit the Stimson House.
+   (ID: WYFFBVR6YR06_11)
+
+6. I would like to go to Switzerland.
+   (ID: ATJSFYS2K6FK_11)
+
+7. I have never been to a Town Hall.
+   (ID: JGNFHPJEPO6H_9)
+
+8. I have never been to a temple.
+   (ID: KXPW7BD5TW0Q_11)
+
+9. I am willing to visit Tappan Zee Bridge.
+   (ID: SN7PB5ME98AZ_9)
+
+10. I wish to build a dam in Australia.
+   (ID: KHRYE9OFUIMW_9)
+
+11. I would like to go hiking.
+   (ID: UC6WD3SK3PG8_11)
+
+12. I wish to visit the state of Alaska one day.
+   (ID: 8UN3RBB53NGU_11)
+
+13. I want to go on a trip.
+   (ID: OYVLAB02CT4O_11)
+
+14. I would like to visit Germany.
+   (ID: EEZIRIVGB0TG_9)
+
+15. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+16. I hope to visit a famous building.
+   (ID: V9H9262H3NLV_11)
+
+17. I've always wanted to visit Australia.
+   (ID: XJHUSUPBYFL1_11)
+
+18. I want to go on a trip.
+   (ID: IM69XV5WEIAK_11)
+
+19. I want to go to Jerusalem.
+   (ID: Q483WUI54SGB_11)
+
+20. I would like to visit China.
+   (ID: V87MW1A1QA33_11)
+
+
+--- MPChat ---
+Total from this dataset: 119
+
+1. took my son camping at salt springs in the ocala national forest and hiking on the florida trail.
+   (ID: insurancefun)
+
+2. i went camping - packed into the pasayten wilderness and helped rebuild a bridge
+   (ID: reecee)
+
+3. it rained almost the whole time when i visited death valley national park, usa
+   (ID: ChristophZee)
+
+4. i happened to come across an air cooled vw show
+   (ID: bryanw0104)
+
+5. i went on my first ever backpacking trip solo!
+   (ID: catsinpockets)
+
+6. i have canoed this section twice and camped along this river twice in a different spot.
+   (ID: Jmoe2004)
+
+7. the cozy loft i stayed in while in paris
+   (ID: chirp16)
+
+8. took my girlfriend to joshua tree for her first camping trip, had a great time!
+   (ID: 1Maple)
+
+9. i had a wonderful time kayaking with my wife across morro bay.
+   (ID: tssouthwest)
+
+10. my little brother observing the vietnam vet memorial in washinon d.c.
+   (ID: Caserole)
+
+11. started the morning off with some awesome fog for my kids first time on the river
+   (ID: CallMeBigBobbyB)
+
+12. camping with my best buddy in remote canada for 5 days
+   (ID: drewchie)
+
+13. it was smokey in the pnw but i miss summer!
+   (ID: dudeinthepnw)
+
+14. daytona is calling, wish i was there again.
+   (ID: insthotchkiss)
+
+15. hiked my first slot canyon yesterday.
+   (ID: garret_weintrob)
+
+16. started my week at jack's river in the cohutta wilderness.
+   (ID: evrlstingbogstopper)
+
+17. here's a very unique view of my favorite mountain: mount dana.
+   (ID: tssouthwest)
+
+18. i found wile e. coyote in death valley
+   (ID: tssouthwest)
+
+19. explored my first slot canyon yesterday.
+   (ID: garret_weintrob)
+
+20. my brother cooked us some steaks while out on the manistee river trail!
+   (ID: snaps_pro)
+
+
+--- MSC ---
+Total from this dataset: 148
+
+1. I travel to Russia regularly.
+   (ID: dialog_113_speaker_1)
+
+2. I travel a lot for work and for leisure.
+   (ID: dialog_145_speaker_1)
+
+3. I met a vampire in a cave during halloween last year.
+   (ID: dialog_58_speaker_1)
+
+4. My wedding is set for april 11.
+   (ID: dialog_101_speaker_2)
+
+5. I want to go canoeing in the Amazon rainforest.
+   (ID: dialog_172_speaker_2)
+
+6. I wish to build a home on the sand.
+   (ID: dialog_155_speaker_1)
+
+7. I would like to travel to Florida.
+   (ID: dialog_46_speaker_1)
+
+8. I want to live the beach life.
+   (ID: dialog_155_speaker_1)
+
+9. I proposed at a movie. I'm getting married. I'm looking for a venue.
+   (ID: dialog_179_speaker_1)
+
+10. My boyfriend lives in Japan. We visit each other. I love Japanese cuisine and culture. I like to visit Japan. I visited 12 months ago.
+   (ID: dialog_170_speaker_2)
+
+11. I also like to take pictures while on vacation, of nature and sea life.
+   (ID: dialog_112_speaker_2)
+
+12. I don't travel.
+   (ID: dialog_8_speaker_1)
+
+13. I've never been to Peru. I am not into hiking. I think exploring is fun.
+   (ID: dialog_9_speaker_2)
+
+14. I am moving to australia. I am married to my boyfriend
+   (ID: dialog_136_speaker_1)
+
+15. I've ben to Canada before with my father.
+   (ID: dialog_33_speaker_2)
+
+16. I like to travel to Ireland and Australia.
+   (ID: dialog_9_speaker_2)
+
+17. I have 2 sons in college. I can travel during the school terms.
+   (ID: dialog_9_speaker_1)
+
+18. I have hit alot of attractions.
+   (ID: dialog_83_speaker_2)
+
+19. I visited the park on Main and 4th recently.
+   (ID: dialog_11_speaker_2)
+
+20. I travelled to tahiti 2 times.
+   (ID: dialog_145_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 841
+
+1. i 've never been , and have always wanted to go .
+   (ID: Bathysphere710)
+
+2. i think the listing realtor is nuts .
+   (ID: dammitOtto)
+
+3. i was in fl visiting some friends and saw lockers outside for the first time .
+   (ID: FridaysChild219)
+
+4. i 've been over most of chicago and felt safe in most of chicago .
+   (ID: SanJOahu84)
+
+5. i was there for an hour and did n't find anyone .
+   (ID: pyro2927)
+
+6. i totally forgot about that parking lot !
+   (ID: pipette_on)
+
+7. i 've been there !
+   (ID: chrisisfunny)
+
+8. i ’m on vacation in prague , but my feet hurt from sightseeing in such a beautiful city .
+   (ID: StinkinFinger)
+
+9. i want to go to there
+   (ID: Chicoconut)
+
+10. i 'm in southern az , i 've never heard that phrase before .
+   (ID: I_am_not_a_Taco)
+
+11. i 'm walking from 1st september starting at st jean , really hope i do n't encounter this problem =/
+   (ID: travelingkiwi)
+
+12. i 'm going in september and i ca n't wait !
+   (ID: travelingkiwi)
+
+13. i want some of that sweet sweet healthcare .
+   (ID: bugaloo2u2)
+
+14. i would ask at the rocky mountain house tourist information center honestly .
+   (ID: exotics)
+
+15. i d love to own a christmas tree farm
+   (ID: mr_venus)
+
+16. i know that they girls are friends with the new blonde
+   (ID: jennbunny08)
+
+17. i have n't given a thought to logistics so car pooling would be superb , if possible .
+   (ID: bondo84)
+
+18. i 'm going to see m on saturday !
+   (ID: MrBovineJoni)
+
+19. i ’m not finding guidance for growing outdoors here ... with our climate .
+   (ID: bugaloo2u2)
+
+20. i miss that about traveling abroad .
+   (ID: metalbark)
+
+
+--- PER-CHAT ---
+Total from this dataset: 250
+
+1. true it ' s a stereotype there are so many accents in a whole continent haha
+   (ID: a74790331386859adbbd886bd045a7391e95948c)
+
+2. let me guess , you going to orlando ?
+   (ID: f4588f2a476206e602fe5b84647a1e777eaae604)
+
+3. shit is this true ? when i was growing up is aussie we just called it rotto and that  s where you went for schoolies . glad i got out of the country .
+   (ID: ac2c03aee57c4505cf414c55446ec313e1307ee1)
+
+4. i think that ' s the idea . if so , i ' m excited for when i go to sd in a few weeks . lots of matches !
+   (ID: 3790e844e04694d48c253f7aee4d3b61f116d4d6)
+
+5. to go live with a cult to see how they were treating my grandma .
+   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
+
+6. it will probably be in potato quality if they let it live
+   (ID: bdbdc7c12fe37172b721ff3ae186b84ad646d582)
+
+7. cool , thanks man ! how sure is that it ' s this one ? because i would consider getting a room for the previous day , so i don ' t have to check in check out in different hotels
+   (ID: a7d8ba86187ae0cea463dd4ff85d67fa2b786dc7)
+
+8. i found a good price on alaska  singapore airlines , which wins " best airline " every year . route is jfk to lax to nrt so it ' s not direct . jal or ana direct would definitely be the best , but they will all have hot towels and good cabin crew .
+   (ID: eace5bb8fae91afe15af3966cf6b9189772fe2cc)
+
+9. whereabouts do you live ? how cold is it likely to get ?
+   (ID: d3491a90d756046acac8c3053e9e99c3e6c231f9)
+
+10. most refrigerators i know are pretty cool , so them .
+   (ID: 4be05459ff3da31d5b55f10665fcc3b88a7fa74b)
+
+11. i got to go into the dry dock and put my hands on the keel of the uss constitution . i also got a special tour of the ship  one of the greatest experiences ever .
+   (ID: c3739aee1cfa0a286d1056b5d9225e9d6e4f6547)
+
+12. definitely bang sarah peffercorn after junior prom .
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+13. what are the odds the first thing i read on reddit today has comments from my home town . i must admit the story on the original post smacks heavily of mid michigan . women are something else here . men too to be honest . also dominos by edgewood ?
+   (ID: 570664fde0bec86b7f35fdcea9073ef88e78798d)
+
+14. you ' re a ghost dude . you can haunt wherever , in whatever way you want .
+   (ID: bfc2e9a6e5f84327293fa1a1fd0287066782bcec)
+
+15. my husband and i just moved here last year . we unfortunately aren ' t as close to the congregation as we ' d like to be yet . but we ' re getting there . it ' s just that my health issues and his have gotten in the way , as well as us being able to find jobs that allow us time to go to meetings . but from what we ' ve seen , the congregation is very nice !
+   (ID: 2d26439362b22d8737b6d2a810c70fc3b9a3ddaa)
+
+16. i stayed in chicago for a week in the middle of winter , with my grandma whom refuses to use the ac . does that count ?
+   (ID: 0217046a1ad9b1e567109f7f7a4bb8b9f4b4fc05)
+
+17. i remember there was a kid that got in trouble a couple of times for pooping behind the trailers during recess . i wonder what happened to him .
+   (ID: 0861712f8592c280471770109eb434101eb06dca)
+
+18. just a mix of all the different us cities . my knowledge of us geography is too terrible to tell them apart .
+   (ID: a98df1d16d4e1204ace7856449444a3afbb80743)
+
+19. one where i find love
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+20. take me home country roads . it ' ll be the ' greensleeves ' of the 22nd century .
+   (ID: b7464d681f64ad88cda3f6014fd0dd3a8bebed33)
+
+
+--- PersonaChat ---
+Total from this dataset: 50
+
+1. before i die , i want to skydive .
+   (ID: conversation_50)
+
+2. my father lives in china .
+   (ID: conversation_182)
+
+3. my best friend is from tanzania .
+   (ID: conversation_496)
+
+4. i would love to visit the pyramids .
+   (ID: conversation_390)
+
+5. i want to learn self defense .
+   (ID: conversation_409)
+
+6. i ve been to canada two times my entire life .
+   (ID: conversation_418)
+
+7. i think food trucks are awesome .
+   (ID: conversation_232)
+
+8. my best friend is from tanzania .
+   (ID: conversation_379)
+
+9. i travel a lot .
+   (ID: conversation_140)
+
+10. my best friend lives in japan .
+   (ID: conversation_170)
+
+11. my father lives in china .
+   (ID: conversation_6)
+
+12. i went to new york city once .
+   (ID: conversation_238)
+
+13. i ve never been to the beach .
+   (ID: conversation_469)
+
+14. my best friend lives in a big city .
+   (ID: conversation_360)
+
+15. i had a gig at local theater last night .
+   (ID: conversation_2)
+
+16. my brother lives in england .
+   (ID: conversation_413)
+
+17. i am going on a cruise next month .
+   (ID: conversation_380)
+
+18. i just took a trip to london .
+   (ID: conversation_462)
+
+19. i travel often .
+   (ID: conversation_490)
+
+20. i ve never been to the city .
+   (ID: conversation_42)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 80
+
+1. I am hoping to move to australia soon to marry my boyfriend.
+   (ID: conversation_404_user_2)
+
+2. We will be traveling to niagra falls for our honeymoon.
+   (ID: conversation_469_user_2)
+
+3. I hope to move out soon.
+   (ID: conversation_267_user_1)
+
+4. I recently moved to sweden.
+   (ID: conversation_218_user_2)
+
+5. I do not have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_414_user_2)
+
+6. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+7. I traveled around the world in a boat.
+   (ID: conversation_195_user_1)
+
+8. I have traveled to europe and mexico.
+   (ID: conversation_202_user_2)
+
+9. I don t have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_119_user_2)
+
+10. I want to live at the beach.
+   (ID: conversation_304_user_1)
+
+11. I traveled around the world in a boat.
+   (ID: conversation_194_user_1)
+
+12. I have never traveled outside of the united states.
+   (ID: conversation_152_user_2)
+
+13. I want to visit rome , but i cannot make myself go alone.
+   (ID: conversation_233_user_2)
+
+14. I have always wanted to travel to ireland or puerto rico.
+   (ID: conversation_48_user_2)
+
+15. Every fall i visit my sister in canada.
+   (ID: conversation_359_user_2)
+
+16. I have flown out of the country.
+   (ID: conversation_428_user_2)
+
+17. I am hoping to move to australia soon to marry my boyfriend.
+   (ID: conversation_189_user_2)
+
+18. I just took a trip to london.
+   (ID: conversation_106_user_2)
+
+19. I recently moved to sweden.
+   (ID: conversation_18_user_2)
+
+20. One day i would really like to skydive.
+   (ID: conversation_221_user_2)
+
+
+============================================================

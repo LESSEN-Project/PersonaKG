@@ -1,0 +1,461 @@
+CLUSTER 18
+============================================================
+Total statements in cluster: 1027
+
+Dataset distribution in this cluster:
+  FoCus: 60 (5.8%)
+  MPChat: 20 (1.9%)
+  MSC: 68 (6.6%)
+  PEC: 565 (55.0%)
+  PER-CHAT: 259 (25.2%)
+  PersonaChat: 18 (1.8%)
+  SyntheticPersonaChat: 37 (3.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 60
+
+1. I want to visit Kentucky.
+   (ID: N3BKTMTKN6PG_11)
+
+2. I want to read in english.
+   (ID: NR9LNBMYKSX6_9)
+
+3. I want to visit a popular landmark.
+   (ID: B623Z1BXC8IT_11)
+
+4. I want to live in an official residence.
+   (ID: WPN43Y3S2N4D_11)
+
+5. I want to visit San Francisco.
+   (ID: O76ENSZ0ZFAX_11)
+
+6. I want to visit Hawai.
+   (ID: Y037WWL4AZRY_11)
+
+7. I want to visit Clermont.
+   (ID: T9680U7NZ97F_11)
+
+8. I want to go on a trip.
+   (ID: IM69XV5WEIAK_11)
+
+9. I want to visit the U.S. Virgin Islands.
+   (ID: LH031RZU9PAS_11)
+
+10. I want to visit Mexico.
+   (ID: U2VHOEDA278F_11)
+
+11. I want to go to LA and eat hamburger there.
+   (ID: DELJKM21SQ3E_9)
+
+12. I want to go to the Bay of Bengal.
+   (ID: QK9TQHXYFFJ9_11)
+
+13. I want to visit West Midlands.
+   (ID: AHA35P484Z5B_11)
+
+14. I want to visit New York.
+   (ID: MV4DPBGX0OB5_11)
+
+15. I want to visit New South Wales.
+   (ID: L6X3D5VDORJH_11)
+
+16. I want to go to Ontario.
+   (ID: SDW19RWSP3ZX_11)
+
+17. I want to go to Washington DC.
+   (ID: QFCC4W8VUHOO_11)
+
+18. I want to visit Ukraine.
+   (ID: MMFXPQYSEBUW_11)
+
+19. I want to visit Ontario.
+   (ID: PSBPL4USIKMB_11)
+
+20. I want to go back to India.
+   (ID: KGUNB0DFP7UP_11)
+
+
+--- MPChat ---
+Total from this dataset: 20
+
+1. judge me if you want, but i love white castle!
+   (ID: onemantwohands)
+
+2. really happy with how it turned out but want to make my own pattern as well.
+   (ID: pokegirl93a)
+
+3. seems like i waste too much wood if i want a campfire meal...
+   (ID: JMHorsemanship)
+
+4. my first amigurumi almost don't want to give it away
+   (ID: AlbinoMetroid)
+
+5. my attempt at acid wash/distressed/however you want to call them nails.
+   (ID: hottiecakes)
+
+6. getting closer to where i want to be...
+   (ID: ext23)
+
+7. my niece and nephews want scarves.
+   (ID: Sophie74656)
+
+8. i have broken it down step by step for absolute beginners if you want to have a look!
+   (ID: letsallcrochetYT)
+
+9. i always want to try to make a honeycomb cheesecake
+   (ID: justcook_byangel)
+
+10. i sorta want one of these plungers.
+   (ID: patm28)
+
+11. i want to try a c2c graphghan this year so just starting my first c2c piece.
+   (ID: Chris55730)
+
+12. i so desperately want to buy this yarn but can't decide what to make with it.
+   (ID: River_Lethe)
+
+13. i don't want to brag but i'm cashing this baby today
+   (ID: crunch816)
+
+14. gets me everywhere i want to go.
+   (ID: SweetSassyClassy)
+
+15. crochet has given me the chance to create the kinds of creatures i would want as pets.
+   (ID: VisitingCivet)
+
+16. i want to try different kind of cheesecake.
+   (ID: justcook_byangel)
+
+17. i know you guys want some
+   (ID: FormalSwimming)
+
+18. i'm making a blanket with these color but now i'm thinking i want to add more colors.
+   (ID: Sophie74656)
+
+19. "i want my name to be spaghetti."
+   (ID: hmbmelly)
+
+20. i been always want to try this.
+   (ID: justcook_byangel)
+
+
+--- MSC ---
+Total from this dataset: 68
+
+1. I want t o travel and make things.
+   (ID: dialog_75_speaker_2)
+
+2. I want to be like diego maradona.
+   (ID: dialog_53_speaker_2)
+
+3. I want candy.
+   (ID: dialog_4_speaker_1)
+
+4. I used to read Black Stallion. I want to read Twilight.
+   (ID: dialog_31_speaker_2)
+
+5. I want to be your friend. I love surfing the internet.
+   (ID: dialog_88_speaker_2)
+
+6. I want to get back into graphic design, but I do not have the time.
+   (ID: dialog_33_speaker_2)
+
+7. I want to start watching The Walking Dead.
+   (ID: dialog_93_speaker_1)
+
+8. I like hiking more than skiing. I want find out more about photography. I will take pictures on my vacation.
+   (ID: dialog_13_speaker_2)
+
+9. I ran for office in 2004. I am a politician. I have traveled around the United States and Mexico. I want to make changes in our society.
+   (ID: dialog_113_speaker_2)
+
+10. I want to adopt a rescue dog from a shelter.
+   (ID: dialog_100_speaker_2)
+
+11. I live in a dorm. I want to get a pet when I  move into my own home.
+   (ID: dialog_97_speaker_1)
+
+12. I want to be in a band someday.
+   (ID: dialog_44_speaker_2)
+
+13. My dog's breed is Siberian Husky.I had a dog named Sally. I want a cat soon.
+   (ID: dialog_34_speaker_1)
+
+14. I want to be a forest ranger.  I like the outdoors.  I like animals.
+   (ID: dialog_53_speaker_2)
+
+15. I want to climb with you together.
+   (ID: dialog_43_speaker_2)
+
+16. I live with my parents and they wont let me play horror games. I am looking for video games that will want me to read more. I like games like Minecraft.
+   (ID: dialog_132_speaker_1)
+
+17. I want to sing professionally.
+   (ID: dialog_11_speaker_2)
+
+18. I want to get my own places.
+   (ID: dialog_24_speaker_2)
+
+19. I don't have many friends. I want to make new friends.
+   (ID: dialog_88_speaker_1)
+
+20. I want to be an artist.
+   (ID: dialog_42_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 565
+
+1. i want one !
+   (ID: redandblack555)
+
+2. i want to receive this text .
+   (ID: NietzschesUbermensch)
+
+3. i know people put that on posts when they want advice , but what is the acronym ?
+   (ID: Megan_Bee)
+
+4. i want to find a tedx buddy ... just go on the site and call them up ?
+   (ID: bondo84)
+
+5. i definitely do n't want more than 2 !
+   (ID: Sabiola)
+
+6. i want to be under the underdog
+   (ID: doctor_parcival)
+
+7. i want to go out and have fun too .
+   (ID: _gansmadchen)
+
+8. i want one of these !
+   (ID: middlegeek)
+
+9. i want to keep reading this !
+   (ID: travelingkiwi)
+
+10. i still want a master - thread of all spotted shield vehicles .
+   (ID: LCPhotowerx)
+
+11. i want a cockpit and a frontal version of this cosmetic !
+   (ID: Atemu12)
+
+12. i want to know if it 's possible .
+   (ID: Piraticalstyle)
+
+13. i want to help as well
+   (ID: newyork2012)
+
+14. i really want a banana in this picture .
+   (ID: Evolatic)
+
+15. i want to be the tree in dusty .
+   (ID: TheRealAshren)
+
+16. i just want to swim in kim - chi and have a cheap cellphone plan .
+   (ID: amirman)
+
+17. i want to play .
+   (ID: Aloha-Potato)
+
+18. i want to point a body part in your direction ...
+   (ID: dawgreddit2014)
+
+19. i want one .
+   (ID: Occulus)
+
+20. i would consider them what they want to be considered as .
+   (ID: genpell)
+
+
+--- PER-CHAT ---
+Total from this dataset: 259
+
+1. you obviously don ' t really want to do it . stop worrying about everyone else and take the time to get yourself together
+   (ID: e762afbb043380ba48c73fe9d10d74d8daeb8b17)
+
+2. you want a friend ? you ' re looking in the wrong place .
+   (ID: ee6fdc3d42cb3e2a3321054cfa11a7a337437f94)
+
+3. i can actually do it right now if you want ?
+   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
+
+4. that ' s nice to hear ! i love elf ' s face powders . bronzers , blushes , finishing powders , etc . i want to try them all . some are too shimmery for me , but the good ones are so good .
+   (ID: b386bb7f54bebf7edfe66a27e8d881a61bd1d6df)
+
+5. i want a sammich on white with this kinda meat maybe some cheese etc etc etc . how difficult is that . you honestly need instructions ! lol herp er deeerrrrpppp !
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+6. adrian  there ' s one thing i want you to do for me . rocky balboa  what ' s that ? adrian  win . adrian  win !
+   (ID: 94ab13260f2b345a7ddb68c03b6fbc2a70424b41)
+
+7. plus why would i want to create someone to go through all the shit that is life possibly blaming me for giving birth to them ?
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+8. there are a few people i don ' t want to know i have cancer . not everyone has to know .
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+9. lol why exactly do you desperately want her to do porn ?
+   (ID: eb0cdac3cc0d373669b221df2a54b8040cfa1dde)
+
+10. if you have genuine evidence , like . it ' s not what you know , it ' s what you can prove in court " then i ' d say open fire and expose him . what would you want to wait for ?
+   (ID: 3191fce935a433eb5bf640dcdf40d71c47c3a93a)
+
+11. are you a fan of papervinnie ? are you dying to see another jordtim recorded round perspective ? do you want to know what it feels like to compete in the well established recorded round , story uhc , along with competitors like treyasaurus , 0tony0  daredevildawson ? well , today ' s your very lucky day ! ty frigid
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+12. i want to make it . so pretty ok  hand
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
+
+13. because if you ' re booking it that close to the date you probably really want or need to go , so you kind of bend over and they fuck you . if they tried to fuck you sooner you might be able to travel another way .
+   (ID: e0a46a0dc8fa303b4f52545ef88afe4d8f63943b)
+
+14. i mean if that  s what you want to do .
+   (ID: eb0cdac3cc0d373669b221df2a54b8040cfa1dde)
+
+15. do you really want to know ?
+   (ID: cfd691d6aeaf46cc644b0e21187d10dfc62b0bc8)
+
+16. being a whore is great when youre young and legal . you can charge whatever you want and you can do it twice a day and be set for a week .
+   (ID: b7507045470edf901fe3b39ecbb382c66ea3405a)
+
+17. do you want her to just sit on your face or do you want to eat her pussy while she sits on your face ? if its the second option just say " hey baby why dont you sit on my face and let me lick your hoo hoo dilly "
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+18. it ' s like the worst elements of being a psychopath and being a paranoiac at the same time . why would you want to imagine that ?
+   (ID: 54097549786e78808b0d9772bb36b401b5761588)
+
+19. when you are at grandma ' s and she ' s asking you if you want more food .
+   (ID: c7e5f1c7a94109955f94d7acd2417ffad0ba60db)
+
+20. bum oh bum that is kind please release your contents of mine i want to hear it drop from behind and see the little poo so clear as it is projected from my rear
+   (ID: e0420899ce262e6eda9d0771cc722037c8f327b8)
+
+
+--- PersonaChat ---
+Total from this dataset: 18
+
+1. before i die , i want to skydive .
+   (ID: conversation_92)
+
+2. i want to grow up to be a superhero one day .
+   (ID: conversation_119)
+
+3. i am in college now and want to be a teacher .
+   (ID: conversation_22)
+
+4. i could move out , but she doesn t want me to .
+   (ID: conversation_175)
+
+5. i want to teach kids in elementary school .
+   (ID: conversation_48)
+
+6. before i die , i want to skydive .
+   (ID: conversation_50)
+
+7. i want to become an author .
+   (ID: conversation_165)
+
+8. my dad owns a appliance store that i don t want to inherit .
+   (ID: conversation_253)
+
+9. i want to move .
+   (ID: conversation_147)
+
+10. i want to be a museum curator .
+   (ID: conversation_133)
+
+11. i want to visit rome , but i can t make myself go alone .
+   (ID: conversation_257)
+
+12. i want to move .
+   (ID: conversation_334)
+
+13. i want to be in a band someday .
+   (ID: conversation_44)
+
+14. i want to be desired .
+   (ID: conversation_288)
+
+15. i want to have two kids .
+   (ID: conversation_298)
+
+16. i want to be a vegetarian .
+   (ID: conversation_137)
+
+17. i'm weak and selfish , but i want to change .
+   (ID: conversation_130)
+
+18. i want to be a museum curator .
+   (ID: conversation_238)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 37
+
+1. I want to move.
+   (ID: conversation_187_user_2)
+
+2. I want to be an astronaut when i grow up.
+   (ID: conversation_298_user_2)
+
+3. I want to travel the world taking photographs of my travels.
+   (ID: conversation_226_user_1)
+
+4. I do not want a job.
+   (ID: conversation_1_user_1)
+
+5. I want to live at the beach.
+   (ID: conversation_305_user_1)
+
+6. I want people to notice me.
+   (ID: conversation_66_user_2)
+
+7. I want to become an author.
+   (ID: conversation_229_user_2)
+
+8. I want to climb mount everest.
+   (ID: conversation_205_user_2)
+
+9. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_95_user_2)
+
+10. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_169_user_1)
+
+11. I do not want a job.
+   (ID: conversation_0_user_1)
+
+12. I want to put my photos to a music video staring adam levin.
+   (ID: conversation_224_user_1)
+
+13. I want to be a famous photographer.
+   (ID: conversation_224_user_1)
+
+14. When i retire i want to open a bakery.
+   (ID: conversation_28_user_2)
+
+15. I went on welfare last month , which makes me want to run into traffic in front of big trucks.
+   (ID: conversation_297_user_2)
+
+16. I want to be a vegetarian.
+   (ID: conversation_245_user_2)
+
+17. I want to be a famous photographer.
+   (ID: conversation_225_user_1)
+
+18. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_168_user_1)
+
+19. I do not want a job.
+   (ID: conversation_2_user_1)
+
+20. I want to travel the world taking photographs of my travels.
+   (ID: conversation_224_user_1)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 1081
+
+Dataset distribution in this cluster:
+  FoCus: 291 (26.9%)
+  MPChat: 72 (6.7%)
+  MSC: 71 (6.6%)
+  PEC: 448 (41.4%)
+  PER-CHAT: 152 (14.1%)
+  PersonaChat: 24 (2.2%)
+  SyntheticPersonaChat: 23 (2.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 291
+
+1. I would like to camp in Masai Mara.
+   (ID: PH0R41F6TO0M_7)
+
+2. I would like to visit the Stimson House.
+   (ID: WYFFBVR6YR06_11)
+
+3. I have visited White Plains Road earlier.
+   (ID: NXTH1QSPOJFF_11)
+
+4. I would love to vist Divljana Monastery again.
+   (ID: V0DLNYLN813E_11)
+
+5. I have heard about Hudson River.
+   (ID: RN7ZT44D6QK1_11)
+
+6. I have never been to a temple.
+   (ID: KXPW7BD5TW0Q_11)
+
+7. I have visited Bergisches Land lonback.
+   (ID: EUD8WT84YX0Q_11)
+
+8. I am interested in seeing old burial grounds.
+   (ID: 9V46GTIPWJV1_11)
+
+9. I have not visited a zoo in a long time.
+   (ID: LFGIG1TODPKB_11)
+
+10. I have never been to a mosque.
+   (ID: OKU8UQBPUSMV_11)
+
+11. I have traveled by boats.
+   (ID: BK0F3JSD41JJ_11)
+
+12. I hope to travel to Los Angeles in the summer.
+   (ID: WYFFBVR6YR06_11)
+
+13. I have stayed in resorts.
+   (ID: FZ7IE8MUIWRS_9)
+
+14. I have been to United States.
+   (ID: PYCYFS54O1C8_11)
+
+15. I am visiting india soon.
+   (ID: CA1IZ57C8644_11)
+
+16. I am going to London later this year.
+   (ID: NR67D1SY5ZKB_11)
+
+17. I have never seen Guanajuato.
+   (ID: ZWQO9OQ8DX45_11)
+
+18. I hope I can visit Vancouver and other Canadian cities in the future.
+   (ID: SR08275C30X7_11)
+
+19. I have never been to New York City.
+   (ID: NNHLL70QFA6I_11)
+
+20. I am planning to visit taiwan.
+   (ID: XM5C3KLAWDZP_9)
+
+
+--- MPChat ---
+Total from this dataset: 72
+
+1. it's a jurassic kind of world - oahu, hawai'i
+   (ID: River_Lethe)
+
+2. where the cat and i are spending our weekend
+   (ID: heatsensitive)
+
+3. went on my first kayak camping trip.
+   (ID: GamblinGambit)
+
+4. my first adult living space.
+   (ID: Sassy_Curmudgeon)
+
+5. favorite picture i took yesterday in the meadows at longwood gardens
+   (ID: ReturnOfTheFox)
+
+6. i have canoed this section twice and camped along this river twice in a different spot.
+   (ID: Jmoe2004)
+
+7. went into some rando liquor store on my way back from work.
+   (ID: Metalocachick)
+
+8. gets me everywhere i want to go.
+   (ID: SweetSassyClassy)
+
+9. i feel so at ease from looking in through this corner of my tank
+   (ID: ijohno)
+
+10. guess i'm camping tonight.
+   (ID: ChroniclyDope)
+
+11. one of my favorite views: approaching the adirondack high peaks from tupper lake ny.
+   (ID: always_creative)
+
+12. i had this great view above the clouds in norway!
+   (ID: ChristophZee)
+
+13. they're all over my neighborhood.
+   (ID: fredbutt)
+
+14. i went kayaking in the south bay.
+   (ID: tssouthwest)
+
+15. i've pitched my tent in worse locations.
+   (ID: ed2base)
+
+16. i witnessed a great sunrise there!
+   (ID: ChristophZee)
+
+17. went camping with my roommates this weekend in southern oregon and saw the comet!
+   (ID: garret_weintrob)
+
+18. started my week at jack's river in the cohutta wilderness.
+   (ID: evrlstingbogstopper)
+
+19. i don't think the trail into the grand canyon is all that narrow
+   (ID: tssouthwest)
+
+20. daytona is calling, wish i was there again.
+   (ID: insthotchkiss)
+
+
+--- MSC ---
+Total from this dataset: 71
+
+1. I have only traveled to America and Mexico.
+   (ID: dialog_113_speaker_2)
+
+2. I am planning to visit Hawaii on March.
+   (ID: dialog_155_speaker_1)
+
+3. I am also going on vacation. I will be going to the mountains.
+   (ID: dialog_112_speaker_1)
+
+4. I rode my bike to the last Comic-con that was in town. I like riding my bike
+   (ID: dialog_29_speaker_2)
+
+5. I want to travel to nyc.
+   (ID: dialog_192_speaker_1)
+
+6. I plan to stay with my fiance and his family. I will then move to a house on one of the coasts.
+   (ID: dialog_77_speaker_2)
+
+7. I'm moving soon. I hate moving. I just got engaged. I am having a wedding in Paris in the Spring or in June. I am anxious about my wedding.
+   (ID: dialog_135_speaker_1)
+
+8. I plan on travelling to Japan
+   (ID: dialog_9_speaker_1)
+
+9. My wedding is set for april 11.
+   (ID: dialog_4_speaker_1)
+
+10. I thought of joining the military when I was younger.
+   (ID: dialog_113_speaker_2)
+
+11. I travelled to tahiti 2 times.
+   (ID: dialog_145_speaker_1)
+
+12. I have never been out of the US either.
+   (ID: dialog_8_speaker_2)
+
+13. I've never been outside the US.
+   (ID: dialog_89_speaker_1)
+
+14. I am moving to australia. I have a boyfriend.
+   (ID: dialog_136_speaker_1)
+
+15. I've only visited NY twice.
+   (ID: dialog_170_speaker_1)
+
+16. I have hit alot of attractions.
+   (ID: dialog_83_speaker_2)
+
+17. I will be going on vacation.
+   (ID: dialog_112_speaker_2)
+
+18. I have a big house with a swing set and a slide in my backyard. I got a playground 2 years ago.
+   (ID: dialog_118_speaker_2)
+
+19. I live in New York City. My boyfriend lives in Japan. We visit each other. I love Japanese cuisine and culture.
+   (ID: dialog_170_speaker_2)
+
+20. My wedding is set for april 11.
+   (ID: dialog_101_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 448
+
+1. i 'm going in september and i ca n't wait !
+   (ID: travelingkiwi)
+
+2. i ’ll go , but i ’m not taking my helmet off .
+   (ID: USAFIDMT)
+
+3. i m visiting on the 26th and would love some advice .
+   (ID: bigfuckingdiamond)
+
+4. i 'm planning my first bm trip for 2010 .
+   (ID: ifatree)
+
+5. i 'm pretty sure she was just visiting dallas .
+   (ID: Captain_-H)
+
+6. i used to think that there was too much walking in that zone .
+   (ID: dohko_xar)
+
+7. i 'm jealous of that beautiful lake .
+   (ID: pyro2927)
+
+8. i was there for an hour and did n't find anyone .
+   (ID: pyro2927)
+
+9. i totally know where you ’ve been .
+   (ID: 11_29_77)
+
+10. i remember rove downtown having a really nice conf room about that size .
+   (ID: bondo84)
+
+11. i leave redmond and go to the dispensary and head straight to the beach !
+   (ID: jonmyo11)
+
+12. i 've been wanting to go there again since i heard they have a superhero exhibit !
+   (ID: JacksChocolateCake)
+
+13. i had one of those when i was oregon !
+   (ID: mduarte821)
+
+14. i 've wanted to try the place out for a while !
+   (ID: hardt0f0rget)
+
+15. i m not sure which hood , other than not a white people one lol .
+   (ID: randominternetdood)
+
+16. i already did add iceland haha .
+   (ID: AP7497)
+
+17. i keep mine under the house .
+   (ID: IgnoranceIsAVirus)
+
+18. i was going to say white water rafting in cardiff bay but you said chilled ...
+   (ID: IAMEvanss)
+
+19. i was lucky the day i visited .
+   (ID: NaBacLeis)
+
+20. i prefer to go early in the morning .
+   (ID: Takumi-Fujiwara)
+
+
+--- PER-CHAT ---
+Total from this dataset: 152
+
+1. well it  s actually not exactly safe to go there right now with all the protests that  s going on . but my friend actually stayed there for digit  digit months last year and he  s been telling me and my other friends to just go and live there . i truly would want to and could literally change a community .
+   (ID: f8dc0ff928f07f3c544894b03ad92f5944e13321)
+
+2. but what about rebuilding the world ? why do you think they introduced so many new communities ? " your world is about to get a whole lot bigger "
+   (ID: 9986ae9dc79e871f6701d6323d4b631234b6ef8c)
+
+3. it ' s a place you can visit , but you don ' t actually go there .
+   (ID: 9a4083ece31f241c8374b733a1ef26a760deb17a)
+
+4. thanks for the info ! yes i ' ve heard it ' s very beautiful and i can ' t wait to see it . do you recall which tour you chose ?
+   (ID: 0cd5284a49d41ed5d0b33c24b5c7a84017aa9737)
+
+5. you should make it more clear what region you ' re looking for .
+   (ID: 0092767d04168a05a983237480637793d5458cba)
+
+6. by the time time traveling was invented people might not care enough to change it , it would probably be ancient history to them and not worth rewriting history as they know it .
+   (ID: 630b45a8d3ef360a8a8a9626adbff80750d745a7)
+
+7. ever fucked a canadian ?
+   (ID: 661cbd631caa9db4ab702976879371243802e35e)
+
+8. it  s probably best that you  re digit  sure which country cork is in before you do anything else .
+   (ID: ed9fd9ff218602605c7fbdf8f02f658604680c61)
+
+9. i lived there as a kid  looking at this meadow , i ' m like , " i think i ' ve actually been there ! "  then i get sad because i never appreciated being there as a kid  now that i ' m grown , i can ' t just pick up  move back .
+   (ID: 649605988d72e34fdcf0c170b6b9fa959a7d483e)
+
+10. i ' m half  joking with alaska lol . when i saw the movie into the wild , i would always joke with my friends that going to alaska was the only way to " escape society " lol
+   (ID: 248dfc064467a4d774ed5853571f5757bace1bf3)
+
+11. i ' ve been to your town !
+   (ID: b85d09c5bfb3611a720f11287b9483cc0802908d)
+
+12. if you want good advice be willing to spend upwards of  digit each . depending on the size of your group that should be enough of get you a hotel on the strip , entry into a day club , entry into two night clubs with bottle service , and enough for some rippers after each night club night , and of course food and pre alcohol too for each day . some say bottle service is not worth it but it really depends how big your group is , if you got a group bigger than digit i think it ' s totally worth it . girls are way easier to meet at the clubs this way and they almost always will stick with your group when the party is over and you move to the rippers at the end of the day . rippers also are more reluctant to a push private dances on you when girls are in your group which is good cause you will get fleeced with private dances . having a hotel on the strip will save you money on transportation and also if a girl asks you what hotel you are staying at you will be judged if you say strat or the other cheap hotels away from the strip . stick with mgm , new york , ph , aria , even monte carlo . go for a range of clubs , xs has a pretty sweet day club , omnia is pretty upscale night club , and pic and go to a more washed out night club as well such as tao . this ensures you will meet a good range of girls to spend the night with .
+   (ID: 9ec4f8c81572a0a43c8d624fb459f565cd019aad)
+
+13. went to north korea because i was an idiot . while i did survive the trip , i would not recommend anyone to visit a place where secret police agents follows you everywhere .
+   (ID: 943cc5e526975c71d69ca1804666ab2f83b06a27)
+
+14. i used to so many many years ago . i never had a bad experience but i wouldn ' t do it now . i ' m glad it ' s been a positive thing for you . i hope you find yourself tomorrow healthy and safe . what had you done beforehand to prepare , if anything ?
+   (ID: 8797828a745ecd521e3b219ff004d26777b4f4f7)
+
+15. i think london would be too urbanised if that makes sense ? american cities , at least the massive ones work on a grid structure , making them a bit easier . london is , comparatively , a fucking mess , not to mention huge . so unless they dropped a nuke incredibly close , it would be a nightmare to build a game world . maybe with the power of future consoles but i don ' t think it would be that feasible
+   (ID: 6ab97df6bacac740d323c579b509de1838c5d332)
+
+16. good . can ' t really be that arsed about them finding another group of people who want to kill them . can we instead have , say , a pretty damn mean snowstorm descend on the area and they have to survive that in their communities , with loads of walkers in the area ? possibly even having to still make trips between the communities ?
+   (ID: 2ac4d2cea574e655d7fdb1ab9b4886989929ca96)
+
+17. i  d like to know more about your old town . if you can remember more , update us
+   (ID: 8f17a8aa41d6f9ae6bf4690376763808f9363f80)
+
+18. i feel like the  julia  guy would  ve gone to this extent to find her haha
+   (ID: 80bb9445ee518d7503eeef1b2c418d38a6e936e9)
+
+19. weirdest  bungalow cutest  bubbles most frightening  murder
+   (ID: 239eded9e37fe1b7388561d1e82993d15dd4fc15)
+
+20. with soccefootball there are so many players around the world , plus the transfeloan system , it makes it easy for the wealthy clubs to acquire good players . in the nba it ' s a lot more difficult , sometimes there is nothing they can do . teams like the lakers and knicks would have been relegated a few years ago , despite how big of fan bases and wealth they have .
+   (ID: 0264eec5f9f9a43d83f3a82c46341e90961fa3b8)
+
+
+--- PersonaChat ---
+Total from this dataset: 24
+
+1. i went to new york city once .
+   (ID: conversation_133)
+
+2. driving in the country side is a pastime .
+   (ID: conversation_401)
+
+3. i've traveled to both ireland and australia .
+   (ID: conversation_38)
+
+4. i went to new york city once .
+   (ID: conversation_238)
+
+5. driving in the country side is a pastime .
+   (ID: conversation_397)
+
+6. i'm going on a cruise next month .
+   (ID: conversation_46)
+
+7. i want to visit rome , but i can t make myself go alone .
+   (ID: conversation_257)
+
+8. i always travel alone .
+   (ID: conversation_254)
+
+9. i've visited 12 national parks in the us .
+   (ID: conversation_83)
+
+10. i am going on a cruise next month .
+   (ID: conversation_380)
+
+11. i traveled around the world in a boat .
+   (ID: conversation_60)
+
+12. i had a gig at local theater last night .
+   (ID: conversation_406)
+
+13. i ve never been to the city .
+   (ID: conversation_42)
+
+14. i ve been to canada two times my entire life .
+   (ID: conversation_418)
+
+15. i have never traveled outside of the united states .
+   (ID: conversation_170)
+
+16. i go visit them sometimes .
+   (ID: conversation_360)
+
+17. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+18. i went to new york city once .
+   (ID: conversation_433)
+
+19. i ve never been to the beach .
+   (ID: conversation_469)
+
+20. i have one close friend i grew up with .
+   (ID: conversation_270)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 23
+
+1. I am hoping to move to australia soon to marry my boyfriend.
+   (ID: conversation_189_user_2)
+
+2. Every fall i visit my sister in canada.
+   (ID: conversation_359_user_2)
+
+3. I am touring with frank ocean.
+   (ID: conversation_383_user_1)
+
+4. Many of my former students like to visit me.
+   (ID: conversation_107_user_2)
+
+5. I want to visit rome , but i cannot make myself go alone.
+   (ID: conversation_425_user_2)
+
+6. I have visited 12 national parks in the us.
+   (ID: conversation_463_user_2)
+
+7. I traveled around the world in a boat.
+   (ID: conversation_209_user_1)
+
+8. I traveled around the world in a boat.
+   (ID: conversation_195_user_1)
+
+9. I ve been to canada two times my entire life.
+   (ID: conversation_427_user_2)
+
+10. I am hoping to move to australia soon to marry my boyfriend.
+   (ID: conversation_404_user_2)
+
+11. I have traveled to europe and mexico.
+   (ID: conversation_202_user_2)
+
+12. I thought of joining the military when i was younger.
+   (ID: conversation_273_user_2)
+
+13. I traveled around the world in a boat.
+   (ID: conversation_202_user_1)
+
+14. I want to visit rome , but i cannot make myself go alone.
+   (ID: conversation_233_user_2)
+
+15. I am living at home but hope to live in the dorms next year.
+   (ID: conversation_348_user_2)
+
+16. I have visited 12 national parks in the us.
+   (ID: conversation_20_user_2)
+
+17. I have went to mexico 4 times this year.
+   (ID: conversation_496_user_1)
+
+18. I have never traveled outside of the united states.
+   (ID: conversation_152_user_2)
+
+19. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+20. I always travel alone.
+   (ID: conversation_9_user_2)
+
+
+============================================================

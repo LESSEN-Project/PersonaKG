@@ -1,0 +1,467 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 1728
+
+Dataset distribution in this cluster:
+  FoCus: 514 (29.7%)
+  MPChat: 141 (8.2%)
+  MSC: 110 (6.4%)
+  PEC: 633 (36.6%)
+  PER-CHAT: 217 (12.6%)
+  PersonaChat: 34 (2.0%)
+  SyntheticPersonaChat: 79 (4.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 514
+
+1. I want to visit West Midlands.
+   (ID: AHA35P484Z5B_11)
+
+2. I hope to visit New York.
+   (ID: LYKL0NXYUSDG_11)
+
+3. I would like to visit an aquarium.
+   (ID: NQNDXIDJUAUC_7)
+
+4. I have never been in an open air museum.
+   (ID: 71M9UKWZ9JT9_11)
+
+5. I would like to see the generation of hydroelectric power.
+   (ID: G1UZK23AWVKW_7)
+
+6. I would like to visit Brisbane.
+   (ID: MJ8L7IHV13N8_11)
+
+7. I want to visit Utah.
+   (ID: 942CCWXHPUZT_11)
+
+8. I like to stay in resort.
+   (ID: 931HBHO4JP2E_11)
+
+9. I want to go to the Bay of Bengal.
+   (ID: QK9TQHXYFFJ9_11)
+
+10. I wish to go to a Stadium.
+   (ID: D449W0YW7LNU_11)
+
+11. I would like to camp at Đerdap national park.
+   (ID: HY8G2PNPA8VA_11)
+
+12. I have not been to Cornwall.
+   (ID: W67GZU3ZXI46_9)
+
+13. I like going to rivers around the world.
+   (ID: 8LTOMMR1K4L5_11)
+
+14. I have been to Brisbane.
+   (ID: WPN43Y3S2N4D_11)
+
+15. I like to live in the City of London.
+   (ID: XY9R2ORN3XBQ_7)
+
+16. I wish I could visit Carolina one day.
+   (ID: DELJKM21SQ3E_9)
+
+17. I like to visit united states.
+   (ID: U6NEN4YX4OT6_9)
+
+18. I want to visit Hawai.
+   (ID: Y037WWL4AZRY_11)
+
+19. I have a picture of San Miguel de Allende Valley.
+   (ID: ZWQO9OQ8DX45_11)
+
+20. I have not been to Brighton and Hove.
+   (ID: HMSHQ9H7RA76_7)
+
+
+--- MPChat ---
+Total from this dataset: 141
+
+1. it's my first day in naples and i'm already loving it
+   (ID: RaeADropOfGoldenSun)
+
+2. my hippo and i took a little trip to a waterfall recently
+   (ID: Thomson-Woods)
+
+3. stuck out of town away from my gear.
+   (ID: billwhiz)
+
+4. this is my backyard, a bit of a slope.
+   (ID: SweetSassyClassy)
+
+5. i can't wait to go camping again!
+   (ID: jaynone)
+
+6. got to go and try out my new tent recently!
+   (ID: Thomson-Woods)
+
+7. one of the most colorful skies i have ever seen!
+   (ID: garret_weintrob)
+
+8. i'd say the majority of the videos are done using a yoder ys640 pellet grill.
+   (ID: MonstaEatsItAll)
+
+9. my best friend and i made our annual current river trip.
+   (ID: CallMeBigBobbyB)
+
+10. a quick snap on my way to work this morning - seattle, wa
+   (ID: MafHoney)
+
+11. my campsite high up in kings canyon national park.
+   (ID: garret_weintrob)
+
+12. brady street bridge i got my bike fixed after 2 years!
+   (ID: Nolon)
+
+13. ruger and i exploring some pot hole lakes in eastern washington state.
+   (ID: reecee)
+
+14. it rained almost the whole time when i visited death valley national park, usa
+   (ID: ChristophZee)
+
+15. this is the most beautiful place i have ever been to.
+   (ID: LunaMcLovin)
+
+16. i went to a51 and came back with this alien cat and his friend!
+   (ID: skorletun)
+
+17. van down by the river- pic taken in cape town south africa of my diy camper
+   (ID: overlandervanman)
+
+18. traveled for 12 days around switzerland back in september... figured i'd share some pictures!
+   (ID: MafHoney)
+
+19. one of my favorite views: approaching the adirondack high peaks from tupper lake ny.
+   (ID: always_creative)
+
+20. took my ole ferd to joshua tree this weekend.
+   (ID: rileyracks)
+
+
+--- MSC ---
+Total from this dataset: 110
+
+1. I love the idea of travel.
+   (ID: dialog_13_speaker_2)
+
+2. Big plates of with h20 make my existence possible.
+   (ID: dialog_106_speaker_1)
+
+3. I like to travel.
+   (ID: dialog_113_speaker_1)
+
+4. I'm single. I want to go to Japan.
+   (ID: dialog_89_speaker_1)
+
+5. I want to get my own place.
+   (ID: dialog_132_speaker_1)
+
+6. I love travelling and have been to america and mexico.
+   (ID: dialog_113_speaker_2)
+
+7. I also like to take pictures while on vacation, of nature and sea life.
+   (ID: dialog_112_speaker_2)
+
+8. I want to see the world.
+   (ID: dialog_113_speaker_1)
+
+9. I enjoying hiking in the mountains.
+   (ID: dialog_91_speaker_2)
+
+10. I routinely travel to Europe and South America. I plan on travelling to Japan. I would like to explore the mountain areas and see the world heritage sites.
+   (ID: dialog_9_speaker_1)
+
+11. I have been to Brazil.
+   (ID: dialog_2_speaker_2)
+
+12. I love travelling.
+   (ID: dialog_113_speaker_2)
+
+13. I live in California. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+14. Seeing the globe is on my bucket list.
+   (ID: dialog_13_speaker_1)
+
+15. I have hit alot of attractions.
+   (ID: dialog_83_speaker_2)
+
+16. I like to visit the border.
+   (ID: dialog_15_speaker_1)
+
+17. I have only visited places in the us.
+   (ID: dialog_89_speaker_1)
+
+18. I dream about moving to Los Angeles. I would love to have a movie premiere.
+   (ID: dialog_87_speaker_1)
+
+19. I am getting married and moving to australia with my fiance soon. I'm planning a wedding. I have just bought a wedding cake. I have hired a wedding planner for my wedding.
+   (ID: dialog_77_speaker_2)
+
+20. I loke to go shopping.
+   (ID: dialog_6_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 633
+
+1. i could smell smoke up at cambie and king ed .
+   (ID: parkleswife)
+
+2. i 'd say if you 've got a group of people that you can go with , definitely
+   (ID: sircucumbers)
+
+3. i ’m not a wichita native so this went over my head .
+   (ID: latestartksmama)
+
+4. i 'm in nassau if that helps for suggestions .
+   (ID: vivagypsy)
+
+5. i 'm about to rent a parking spot in queens .
+   (ID: newyork2012)
+
+6. i am in alberta but see if there is a subreddit for ontario ?
+   (ID: exotics)
+
+7. i 'll be in new york this weekend staying in mid town .
+   (ID: Captain_-H)
+
+8. i have n't , but i will now .
+   (ID: WeirdAvocado)
+
+9. i ’ve never been to olive garden , and i never plan to .
+   (ID: Justakiss15)
+
+10. i shall go on a brave adventure to ...... my garage !
+   (ID: COCOnizzle)
+
+11. i scuba dive so bonaire is a good choice .
+   (ID: deputydan_scubaman)
+
+12. i have psoriasis there .
+   (ID: GetItTogether)
+
+13. i 'd like to play but am very inexperienced and live on the southeast side of town .
+   (ID: Samoht2113)
+
+14. i found it recently at eko in cushing but do n’t know about their current menu .
+   (ID: bugaloo2u2)
+
+15. i regret not buying a trip the fuck out of here for xmas .
+   (ID: parkleswife)
+
+16. i do n't know anything about missouri but it sounds incredibly dynamic
+   (ID: Lifes6Midnight)
+
+17. i might go to the states in the summer for a concert from the pixies and weezer together
+   (ID: mrhenk9)
+
+18. i 'm talking about the areas between la and sf !
+   (ID: meteoriteminer)
+
+19. i ’m going today !
+   (ID: 11_29_77)
+
+20. i ’m super curious about where this doggy festival happens and how i can get there .
+   (ID: jenni268)
+
+
+--- PER-CHAT ---
+Total from this dataset: 217
+
+1. does anybody know where this is lpcated or what it ' s called ?
+   (ID: 448fa72755c2d77f67b820a9620d09e9d4573816)
+
+2. still boring . all they did was bring it outside .
+   (ID: d239102bc184479462fc1422e316856d8bca37ba)
+
+3. hell yes ! that is the only thing i miss about living in california .
+   (ID: 388a9b7cd52305ad65297c63f4c50272c2661e4c)
+
+4. what ' s going on tomorrow ? something great i ' m assuming ?
+   (ID: 555615a7b22f65cadd2e223e2e891e540623f3a4)
+
+5. that sounds incredible . fuck this , i ' ll go do the same thing right now .
+   (ID: 164327be87300906de16932661437c5b2b671c9d)
+
+6. the best suggestion i ' ve heard on the subject is , ask your pizza delivery guy . start with cheap chain places like dominos , because their drivers are more likely to not give a fuck . a driver for some local shop might be the son of the owner or something . so you order a small pizza in case you have to try this more than once in a night , and tell the pizza dude your situation . you are new to the area , and could use help finding bud .
+   (ID: a0295151ec48c51be6978c891260159d3526ed86)
+
+7. well you defo need to go . great festival . but i live in tilburg you can always hit me up . don ' t know if i will go .
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+8. hey i ' m really sorry to hear about the time you ' ve got . buy your wish is yours alone . don ' t look for others wishes . you have got a pretty good list there . orangutans are generally very happy creatures . go for that one of you ' re looking for something peaceful and memorable . disneyland too is a great choice . lots of love .
+   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+
+9. cool , thanks man ! how sure is that it ' s this one ? because i would consider getting a room for the previous day , so i don ' t have to check in check out in different hotels
+   (ID: a7d8ba86187ae0cea463dd4ff85d67fa2b786dc7)
+
+10. if i ' m not mistaken , dakotaz once used planes to get from lazy links to the zone . and if i ' m not mistaken dakotaz is a pro builder . i ' m not sure what ' s you ' re logic here
+   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+
+11. well it  s actually not exactly safe to go there right now with all the protests that  s going on . but my friend actually stayed there for digit  digit months last year and he  s been telling me and my other friends to just go and live there . i truly would want to and could literally change a community .
+   (ID: f8dc0ff928f07f3c544894b03ad92f5944e13321)
+
+12. nh is " live free or die " and surrounded by states that have legalized weed and yet .
+   (ID: ff51288ca8adbfbd763f8c0e670e39dfa27cb681)
+
+13. you ' ll never know if you don ' t go
+   (ID: b62d2865206257ab4ea65a5e489f9d4e1c8d5e9b)
+
+14. i think it says house something so looking at the map that  s where the broken down houses maybe are ? or where
+   (ID: b7515713c74346e74e6961342ed7324a056c09e6)
+
+15. never been there thank god but fridgebro
+   (ID: 13429813198f2aaef97e18644aa776da323f48a1)
+
+16. we ' ve been focusing on talking about prepping with friends , family and loved ones , especially because we ' re all going to be together in the run up to the festive season ! plus my partner wrote this awesome post on the sensible about how she used to grow food in just her dorm room . we ' ve now thankfully got a bit more space for our homestead than that .
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+
+17. what do you mean you ' ve never seen blade runner ? oh , maybe i was a little too wild in the 70s back down to earth with a lounge singer shimmer
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+18. buildings going up in the urban areas , but some still stalled that were started when you were last here . fancy hotel district in saigon is being gutted as they actually begin digging for the rail  subway project . kids left and right have digital devices and are online , and dropping international pop  culture references and awareness of the world beyond the borders not much , but a positive move . , the government is in the middle of a strange immigration crack down , making visas and work permits a pain even for those who ' ve been here , contractually employed for years , anti  china sentiment still exists from the oil rig fiasco , and finally , the fucking phenomenon of the " beer club . a " beer club " is pretty much a hybrid of a bar and a disco , and they are really popular now , springing up every other day , it seems . it seems to be more socially acceptable to go to a " beer club " than a bar or club , though it is pretty much the exact same thing . but people are going , dancing , drinking , etc . despite my confusion with regards to the nomenclature , i ' ll take any embrace of nightlife as a good move in these parts . source  have been here since the last time you were , living in a few different cities .
+   (ID: 5b02e2fd29e743c4c80de2b0919a03d95400c23a)
+
+19. too many times to count majority deal with heights , vehicles , and explosives
+   (ID: 4422c1db26c9be5bec35694a448a490c2761d985)
+
+20. colombia was hella hot
+   (ID: db1ffea2a957f19bfc0fffdbd89a6d65be91fd5c)
+
+
+--- PersonaChat ---
+Total from this dataset: 34
+
+1. i'm going on a cruise next month .
+   (ID: conversation_46)
+
+2. i went to new york city once .
+   (ID: conversation_238)
+
+3. i wish i could live forever .
+   (ID: conversation_85)
+
+4. i'm hoping to move to australia soon to marry my boyfriend .
+   (ID: conversation_77)
+
+5. i like to travel .
+   (ID: conversation_9)
+
+6. before i die , i want to skydive .
+   (ID: conversation_92)
+
+7. i want to move .
+   (ID: conversation_147)
+
+8. i traveled around the world in a boat .
+   (ID: conversation_60)
+
+9. before i die , i want to skydive .
+   (ID: conversation_50)
+
+10. i've traveled to both ireland and australia .
+   (ID: conversation_38)
+
+11. i ride my red bike to work everyday .
+   (ID: conversation_29)
+
+12. since i have fibromyalgia , the harsher winters here in pa will be rough on me .
+   (ID: conversation_167)
+
+13. i want to visit rome , but i can t make myself go alone .
+   (ID: conversation_257)
+
+14. i love to travel .
+   (ID: conversation_246)
+
+15. i love travelling and discovering new cultures .
+   (ID: conversation_145)
+
+16. i'm getting married in six months .
+   (ID: conversation_286)
+
+17. i have never traveled outside of the united states .
+   (ID: conversation_170)
+
+18. i like to travel .
+   (ID: conversation_166)
+
+19. i always travel alone .
+   (ID: conversation_254)
+
+20. i want to move .
+   (ID: conversation_334)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 79
+
+1. Once a year , i take a week off and head to florida.
+   (ID: conversation_144_user_2)
+
+2. I love to travel.
+   (ID: conversation_290_user_2)
+
+3. I am engaged.
+   (ID: conversation_233_user_1)
+
+4. I want to travel the world taking photographs of my travels.
+   (ID: conversation_225_user_1)
+
+5. I love traveling.
+   (ID: conversation_73_user_1)
+
+6. I like to travel.
+   (ID: conversation_282_user_2)
+
+7. I want to live at the beach.
+   (ID: conversation_306_user_1)
+
+8. I am getting married next week.
+   (ID: conversation_347_user_2)
+
+9. I spend the weekends travelling up to canada to relax and enjoy the view.
+   (ID: conversation_223_user_2)
+
+10. I hope to move out soon.
+   (ID: conversation_16_user_2)
+
+11. I vacation along lake michigan every summer.
+   (ID: conversation_87_user_2)
+
+12. I traveled around the world in a boat.
+   (ID: conversation_202_user_1)
+
+13. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+14. I vacation along lake michigan every summer.
+   (ID: conversation_0_user_2)
+
+15. I m going riding on my boat today.
+   (ID: conversation_157_user_1)
+
+16. I like to travel.
+   (ID: conversation_111_user_1)
+
+17. I traveled around the world in a boat.
+   (ID: conversation_209_user_1)
+
+18. I love traveling.
+   (ID: conversation_72_user_1)
+
+19. My dream is to move to the middle of the desert.
+   (ID: conversation_82_user_2)
+
+20. I travel every year to disney world.
+   (ID: conversation_329_user_2)
+
+
+============================================================

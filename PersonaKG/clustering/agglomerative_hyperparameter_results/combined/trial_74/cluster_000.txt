@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43691
+
+Dataset distribution in this cluster:
+  FoCus: 1245 (2.8%)
+  MPChat: 2886 (6.6%)
+  MSC: 1916 (4.4%)
+  PEC: 17199 (39.4%)
+  PER-CHAT: 17097 (39.1%)
+  PersonaChat: 1116 (2.6%)
+  SyntheticPersonaChat: 2232 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1245
+
+1. I want to visit San Francisco.
+   (ID: O76ENSZ0ZFAX_11)
+
+2. I like scenic views.
+   (ID: LCFMQMTGBUJO_7)
+
+3. I love lakes in Kashimr especially Dal lake which arises from Jhelum river.
+   (ID: NK6WLDJ7W255_7)
+
+4. I once hid in a hollow log during hide and seek as a child.
+   (ID: NETYMHGQTGLI_9)
+
+5. I live in England.
+   (ID: POTYY4E7PSQF_11)
+
+6. I would like to be a pianist.
+   (ID: D0BKN1W8KWG6_7)
+
+7. I would like to watch fireworks.
+   (ID: GHAH3LR3KR67_11)
+
+8. I would like to visit Scotland.
+   (ID: QISL6J366OY6_11)
+
+9. I have seen many times a hydroelectric dam near the city where I live.
+   (ID: 91IHZ45NQ48A_11)
+
+10. I prefer looking inside the well-known building to just exterior of the building.
+   (ID: XW6WLBIV74VV_11)
+
+11. I am a member of the Democratic party.
+   (ID: IKQ9QU6QOUT4_11)
+
+12. I hope to visit a famous building.
+   (ID: V9H9262H3NLV_11)
+
+13. I don't like railroad in the vicinity of the city.
+   (ID: NK6WLDJ7W255_7)
+
+14. I love charming towns.
+   (ID: VQN3MX06CHI1_11)
+
+15. I wish to go to Ludgate Hill.
+   (ID: LRGBCD6RT2HQ_11)
+
+16. I like making food.
+   (ID: NR67D1SY5ZKB_11)
+
+17. I love England.
+   (ID: HWMW6AUW4UTK_11)
+
+18. I have never seen Medieval Art.
+   (ID: C64P8U3HDDHY_9)
+
+19. I like cycling.
+   (ID: 8WL4II03WTP0_7)
+
+20. I am going to Australia in the spring.
+   (ID: MA2EPDC7QHS5_11)
+
+
+--- MPChat ---
+Total from this dataset: 2886
+
+1. for easter this year i have painted chicken eggs again.
+   (ID: gelimausi)
+
+2. wedding cake i made for a friend yesterday
+   (ID: mashedtatoes88)
+
+3. stayed up later than i meant to but got the body done.
+   (ID: Sophie74656)
+
+4. i crocheted link's shield into a pin for my girlfriend!
+   (ID: Louiesloops)
+
+5. with my first daughter the way, i decided to try a new trick for my famous blueberry pancakes
+   (ID: fordr015)
+
+6. i think i'm getting the reverse sear process down.
+   (ID: Flattishsassy)
+
+7. dropped my cake in the freezer... fear not let's patch it up
+   (ID: Notnotnotbryan)
+
+8. the chiller it gets, the more pho i consume - pho hung - morgantown, wv
+   (ID: onemantwohands)
+
+9. purple and gray half sheet i made for a church function
+   (ID: Kvsirakis)
+
+10. not too long till halloween so i crocheted a new walt the green monster.
+   (ID: theringbeller)
+
+11. i only have one finished object for this week.
+   (ID: Moriarty58)
+
+12. my cat waffles gets jealous when i take pictures of my crochet creations and it's precious
+   (ID: FoxInKneeSocks)
+
+13. was gifted a jar of biscoff spread for christmas, so i made some biscoff blondies.
+   (ID: DeanIsHotter)
+
+14. my first pair of sneakers in years; japanese reebok classic nylon
+   (ID: ext23)
+
+15. made a hanging hammock for all my yarn today
+   (ID: why_the_babies_wet)
+
+16. my parents just got a set of kittens.
+   (ID: SliverCobain)
+
+17. i made some ornaments.
+   (ID: smsikking)
+
+18. itap of my dog looking adorable as usual
+   (ID: The69LTD)
+
+19. my partner and i made a nine tier wedding cake for kingfisher oceanside resort & spa
+   (ID: skrivitor)
+
+20. i think this is my favourite thing i’ve ever made
+   (ID: FoxInKneeSocks)
+
+
+--- MSC ---
+Total from this dataset: 1916
+
+1. I think Great danes or french bulldog are good choices for pet dogs.
+   (ID: dialog_47_speaker_2)
+
+2. I love to work on my garden.
+   (ID: dialog_37_speaker_1)
+
+3. I hate being poor.
+   (ID: dialog_52_speaker_1)
+
+4. My spouse is a member of the military.
+   (ID: dialog_40_speaker_2)
+
+5. I am a charitable person
+   (ID: dialog_79_speaker_1)
+
+6. I am recognized for being neat.
+   (ID: dialog_72_speaker_1)
+
+7. My mother is my best friend.
+   (ID: dialog_1_speaker_2)
+
+8. Rich treats after a meal are one of my downfalls.
+   (ID: dialog_57_speaker_1)
+
+9. I like rock music.
+   (ID: dialog_69_speaker_2)
+
+10. I love my cat.
+   (ID: dialog_49_speaker_2)
+
+11. I watch GOT.
+   (ID: dialog_66_speaker_2)
+
+12. I am not good at math. I am taking a math class. I don't like algebra. I am good at science and english.
+   (ID: dialog_7_speaker_2)
+
+13. I live in a retirement home, there aren't many visitors. I have kids who don't live with me. My grandson likes chocolate the most.
+   (ID: dialog_44_speaker_1)
+
+14. I think mothers are cool.
+   (ID: dialog_1_speaker_1)
+
+15. I drive and own a long black hearse. I do not work at a funeral home.
+   (ID: dialog_5_speaker_2)
+
+16. I don't own or drive a car.
+   (ID: dialog_90_speaker_2)
+
+17. I love anything dairy!.
+   (ID: dialog_28_speaker_2)
+
+18. I like fairy tales.
+   (ID: dialog_14_speaker_1)
+
+19. I have  six children.
+   (ID: dialog_68_speaker_2)
+
+20. My favorite movie is Silence of the Lambs. I love comedy movies. I like new movies. I love dark humor. I like dark movies and shows. I have the subscription to HBO or HBO max. I like zombie movies.
+   (ID: dialog_15_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 17199
+
+1. i 'd reward her as a normal actress , if you know what i mean .
+   (ID: ProJokeExplainer)
+
+2. i love konjac sponges !
+   (ID: lovestheautumn)
+
+3. i 'll show him this .
+   (ID: silentpower)
+
+4. i think your shoes are awesome .
+   (ID: parkleswife)
+
+5. i really like conan the barbarian but all my dumbass friends think its too dated and crap .
+   (ID: BearCanoe)
+
+6. i 've added something to the original artwork , it 's not just a replica .
+   (ID: deryyaa)
+
+7. i was just saying it in case they were just going to provide a direct link to the site .
+   (ID: BabblingBunny)
+
+8. i 'll pm you !
+   (ID: JacksChocolateCake)
+
+9. i have a 20/25 year old tv , display says brt2 .
+   (ID: harumpf)
+
+10. i 'd rather pump one up my ass and go to the fuckin moon .
+   (ID: Weed_n_Wisdom)
+
+11. i 've been struggling with chronic suicidality for almost as long as i 've known my partner .
+   (ID: FruitBatFanatic)
+
+12. i 'll be streaming a ng as a spellcaster in an hour , . which to pick ?
+   (ID: bluesatin)
+
+13. i just want to see freddie sing with queen .
+   (ID: ItGetsAwkward)
+
+14. i 've eaten alligator once , in a restaurant in london .
+   (ID: Sabiola)
+
+15. i 'm interested in the reasons for needing the second lot .
+   (ID: dammitOtto)
+
+16. i 'm talking about election fraud !
+   (ID: chasemyers)
+
+17. i sometimes mess it up , though i do n't see where i went wrong .
+   (ID: Nheea)
+
+18. i love how your left lip curls out .
+   (ID: 2inthehands)
+
+19. i nominate mrtwinkles to organize the march meth party .
+   (ID: jay456)
+
+20. i 've just been ambling along and suddenly realize i 've lost the horse i just found .
+   (ID: Waterrat)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17097
+
+1. I am field archaeologist.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+2. One of my favorite things is life.
+   (ID: ddbcd7b957a26c37891ce72069afaf688ba19977)
+
+3. I own a view.
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+
+4. i ' d have to say more agnostic then anything . if there is or are gods however , they aren ' t the kind i ' d consider worth any appreciation .
+   (ID: e74c4268e9e1c5f9cadf933981b55c5a5aa0d1f2)
+
+5. I play overwatch.
+   (ID: e1864e983bbfa93f317cdda5086f1df7721adab8)
+
+6. probably like digit percent cause no one will really notice and it ' s a decent amount of money
+   (ID: 818422b560c80f37eedf14f771cd2fcd3657589a)
+
+7. the planet or just life on it ? i think it would be cool if we explored to other planets and earth became obsolete .
+   (ID: 630b45a8d3ef360a8a8a9626adbff80750d745a7)
+
+8. you want a friend ? you ' re looking in the wrong place .
+   (ID: ee6fdc3d42cb3e2a3321054cfa11a7a337437f94)
+
+9. One of my favorite things is your fish.
+   (ID: 64cd7a2c07766ef2725fa67e6025759ae1f56c2b)
+
+10. i like that . i think the origin of " god bless you " was the belief that when you sneeze some of your soul escapes .
+   (ID: 259e025807a2eee6eaf38242805e7dfc46aaa91f)
+
+11. middle school , when it stopped being fun and became annoying .
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+12. watchmen on hbo .
+   (ID: a18adc4ad3b28b34dfa3063a1c77566b8681a79d)
+
+13. One of my favorite things is solitude cops.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+14. One of my favorite things is blond hair.
+   (ID: 229018d265fee53903659270acea70a8c7f46caa)
+
+15. every time he snaps his fingers danny devito switches genders
+   (ID: e9e31949fb9369b722c0967c2e5f8ec095f0b329)
+
+16. that ' s one of the things i realised i hate about aging . i actually was born in digit . when i sign into one of those sites with the list of years back to about digit , it ' s sad how far back i have to scroll the dates to get to digit . it ' s like a horrible time machine that says , " all the way back there ? wow , you are fucking old " sigh .
+   (ID: b7464d681f64ad88cda3f6014fd0dd3a8bebed33)
+
+17. I am a male.
+   (ID: 3418702de52d65ee261943b207996da3e2569fd2)
+
+18. lol . i am brown and not even an amercian . edit  you calling me a white person just shows your ignorance
+   (ID: 4f3fd3511e55513b94a4aa6c4ac9441a6ba9f86f)
+
+19. I have a father in my family.
+   (ID: 725e5a3de682f359cfb87481ec457a2f78867ef3)
+
+20. I'm interested in self-help and motivation.
+   (ID: 74cc8b596c27cbe385709690baaf3b68f39b3915)
+
+
+--- PersonaChat ---
+Total from this dataset: 1116
+
+1. i enjoy playing tennis .
+   (ID: conversation_196)
+
+2. i wish i knew where i belonged .
+   (ID: conversation_66)
+
+3. i like to make my own coffee .
+   (ID: conversation_234)
+
+4. i like to shoot a bow .
+   (ID: conversation_243)
+
+5. i'm a registered nurse .
+   (ID: conversation_155)
+
+6. i live on a boat .
+   (ID: conversation_14)
+
+7. i work for a large law firm .
+   (ID: conversation_68)
+
+8. i teach kindergarten .
+   (ID: conversation_217)
+
+9. i like playing ultimate in the park with my guys sometimes .
+   (ID: conversation_43)
+
+10. i've 3 kids .
+   (ID: conversation_158)
+
+11. i volunteer in my spare time .
+   (ID: conversation_125)
+
+12. i love iced tea .
+   (ID: conversation_1)
+
+13. i love to go to the symphony orchestra .
+   (ID: conversation_213)
+
+14. i hate cooking .
+   (ID: conversation_150)
+
+15. i got married 10 years later .
+   (ID: conversation_127)
+
+16. i've a cat named leela .
+   (ID: conversation_58)
+
+17. i listen to metal music .
+   (ID: conversation_223)
+
+18. i work in retail .
+   (ID: conversation_13)
+
+19. i never knew my dad .
+   (ID: conversation_90)
+
+20. i'm stuck in a wheel chair .
+   (ID: conversation_32)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2232
+
+1. I am a vegan.
+   (ID: conversation_188_user_1)
+
+2. I own a cat.
+   (ID: conversation_164_user_1)
+
+3. I am always late.
+   (ID: conversation_86_user_2)
+
+4. I like cats.
+   (ID: conversation_117_user_1)
+
+5. I like the tv show the walking dead.
+   (ID: conversation_17_user_1)
+
+6. I flirted with the dmv officer in order to pass my driving exam.
+   (ID: conversation_233_user_2)
+
+7. I live in my parent s basement.
+   (ID: conversation_114_user_1)
+
+8. I love to have my nails done.
+   (ID: conversation_118_user_2)
+
+9. My car is blue.
+   (ID: conversation_236_user_1)
+
+10. I play bingo every wednesday with my husband.
+   (ID: conversation_24_user_2)
+
+11. I enjoy reading.
+   (ID: conversation_189_user_1)
+
+12. I run track.
+   (ID: conversation_172_user_1)
+
+13. I eat breakfast then go right back to bed.
+   (ID: conversation_138_user_2)
+
+14. My dad was a cop.
+   (ID: conversation_15_user_1)
+
+15. I live close to the coast.
+   (ID: conversation_45_user_1)
+
+16. I love rock music.
+   (ID: conversation_233_user_1)
+
+17. My favorite food is meatloaf.
+   (ID: conversation_44_user_2)
+
+18. I like crocheting.
+   (ID: conversation_227_user_1)
+
+19. I grew up with 6 siblings.
+   (ID: conversation_223_user_1)
+
+20. My favorite color is red orange.
+   (ID: conversation_54_user_2)
+
+
+============================================================

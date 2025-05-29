@@ -1,0 +1,66 @@
+CLUSTER 45
+============================================================
+Total statements in cluster: 13
+
+Dataset distribution in this cluster:
+  MSC: 5 (38.5%)
+  PEC: 7 (53.8%)
+  SyntheticPersonaChat: 1 (7.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I live in Providence. I work in a Publishing building, downtown.
+   (ID: dialog_41_speaker_2)
+
+2. I work at a club. I live in houston.
+   (ID: dialog_136_speaker_1)
+
+3. I live by myself. I work on cars.
+   (ID: dialog_33_speaker_2)
+
+4. I live alone. I work at NASA. I live in florida.
+   (ID: dialog_136_speaker_2)
+
+5. I live and work in Michigan as a state trooper.
+   (ID: dialog_80_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 7
+
+1. i live there but i have to work tomorrow .
+   (ID: amirman)
+
+2. i work to live .
+   (ID: JaZepi)
+
+3. i live in wv and catch a bunch of crap at work cause i live there haha .
+   (ID: iToaditSo)
+
+4. i used to live at 10k and work at 11k , not bags ever popped for me :(
+   (ID: buttercup_mauler)
+
+5. i live downtown and work in old town .
+   (ID: jmontoya5280)
+
+6. i work in the city but live in nj
+   (ID: apcreddit)
+
+7. i was in elkhart yesterday for work but i live in michigan .
+   (ID: isitbrokenorsomethin)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I live walking distance from work.
+   (ID: conversation_12_user_2)
+
+
+============================================================

@@ -1,0 +1,440 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 1082
+
+Dataset distribution in this cluster:
+  FoCus: 49 (4.5%)
+  MPChat: 37 (3.4%)
+  MSC: 95 (8.8%)
+  PEC: 11 (1.0%)
+  PER-CHAT: 834 (77.1%)
+  PersonaChat: 29 (2.7%)
+  SyntheticPersonaChat: 27 (2.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 49
+
+1. I don't want large market franchise to replace all small private stores.
+   (ID: 8QHMKV7JII6J_11)
+
+2. I don't like railroad in the vicinity of the city.
+   (ID: NK6WLDJ7W255_7)
+
+3. I don't like WaterNSW.
+   (ID: KHRYE9OFUIMW_9)
+
+4. I don't like Canadian National No. 7312.
+   (ID: M6QLMFHJ3CAF_11)
+
+5. I don’t like church.
+   (ID: JFAHL3MTTLAX_11)
+
+6. I don't like casinos.
+   (ID: 9KDV6LSLWNAX_11)
+
+7. I don't like rush places.
+   (ID: B1IW6V1ZXJ8R_7)
+
+8. I don't like hurricanes.
+   (ID: NOJ4G30KI3T7_11)
+
+9. I don't like canals.
+   (ID: DMD9S9COJOIA_7)
+
+10. I don’t like church.
+   (ID: QQA1IXI7US3V_11)
+
+11. I don't like Pollution.
+   (ID: AN8LSF1PEYK2_11)
+
+12. I don't have a wall or fence in my yard.
+   (ID: CBOI96AOZRK6_11)
+
+13. I don't like the high temperatures associated with pyroclastic flows.
+   (ID: G4JZMW0OPV0G_11)
+
+14. I don't like Sackett Avenue.
+   (ID: EI53JQVYRP0R_11)
+
+15. I don't know Cheshire.
+   (ID: 6JXMJ0KGXDGI_11)
+
+16. I don't like hijacking.
+   (ID: F91BK688K9G1_11)
+
+17. I don't have attended many fairs in my life.
+   (ID: R2DBMEQOL0NY_9)
+
+18. I don't like the Georgian style.
+   (ID: SF062658I1IO_7)
+
+19. I don't like incidents.
+   (ID: UV1VIOV2PCFH_11)
+
+20. I don’t like War.
+   (ID: NR9LNBMYKSX6_9)
+
+
+--- MPChat ---
+Total from this dataset: 37
+
+1. i don't think he grasps the idea of puppy training pads...
+   (ID: youngdad33)
+
+2. i don't think he likes this camping thing we are doing
+   (ID: zombie4269)
+
+3. don't mind me, i'm just wrapping up my dinner over here.
+   (ID: opie2)
+
+4. don't love the prices but i love the product.
+   (ID: MonstaEatsItAll)
+
+5. first time attempting some nighttime photography... i don't think i did too terrible
+   (ID: MafHoney)
+
+6. i don't know what it is i just love the colours!
+   (ID: River_Lethe)
+
+7. my first amigurumi almost don't want to give it away
+   (ID: AlbinoMetroid)
+
+8. i don't like pumpkin spice, but i like putting pumpkins on my pots.
+   (ID: audballofclay)
+
+9. i don't know why it took me so long to put on this bar...
+   (ID: i_like_it_raw_)
+
+10. i don't normally shoot landscapes, is this an interesting enough shot, or is it just boring ?
+   (ID: 1Maple)
+
+11. i get it, don’t chew on power cords!
+   (ID: insthotchkiss)
+
+12. i love this yarn but don't know if it was the best choice.
+   (ID: Sophie74656)
+
+13. don't take my stick!
+   (ID: DeanIsHotter)
+
+14. i don't usually make sweets, but i thought i'd try something today.
+   (ID: mattsulli)
+
+15. i don't feel so cake...
+   (ID: RaeADropOfGoldenSun)
+
+16. i don't have a baby, but i made a baby cardigan.
+   (ID: zonumnire)
+
+17. i've tried c2c before but i don't like how the blanket stretches when it is finished.
+   (ID: Soapy_Von_Soaps)
+
+18. i don't know how to thread this thing and i can't find a video!
+   (ID: switchbladesally)
+
+19. i don't think she was a fan of the little pebbles, or not airing it up.
+   (ID: Nolon)
+
+20. i don't have children, so i take a lot of pictures of my pup.
+   (ID: myowndevo)
+
+
+--- MSC ---
+Total from this dataset: 95
+
+1. I don't have kids.
+   (ID: dialog_148_speaker_2)
+
+2. I don't know how to make lasagna.
+   (ID: dialog_44_speaker_2)
+
+3. My kids are pretty young and I don't want to expose them to computer games.
+   (ID: dialog_132_speaker_2)
+
+4. I don't know if it is hard to get started.
+   (ID: dialog_148_speaker_2)
+
+5. I am a veteran. I don't currently have a job.
+   (ID: dialog_11_speaker_1)
+
+6. I don't go out that much.
+   (ID: dialog_138_speaker_2)
+
+7. I don't own a car.
+   (ID: dialog_90_speaker_2)
+
+8. I don't know my real parents.
+   (ID: dialog_165_speaker_1)
+
+9. I am athletic. I don't eat junk food.
+   (ID: dialog_120_speaker_1)
+
+10. I don't have a boyfriend.
+   (ID: dialog_136_speaker_2)
+
+11. I don't eat junk food. I'm tired of being a couch potato.
+   (ID: dialog_120_speaker_2)
+
+12. I don't like vegetables.
+   (ID: dialog_116_speaker_2)
+
+13. I don't like carrots.
+   (ID: dialog_149_speaker_1)
+
+14. I don't like the way animals are treated on farms.
+   (ID: dialog_151_speaker_2)
+
+15. I don't like carrots.
+   (ID: dialog_96_speaker_2)
+
+16. I don't have dolls.
+   (ID: dialog_122_speaker_2)
+
+17. I like to sing throughout the day. I don't like chocolate that's too sweet. I have recently tried dark chocolate.
+   (ID: dialog_44_speaker_2)
+
+18. I don't know my family.
+   (ID: dialog_68_speaker_1)
+
+19. I don't have kid. I'm married.
+   (ID: dialog_55_speaker_1)
+
+20. I don't watch much soccer but I'm still interested in it.
+   (ID: dialog_171_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 11
+
+1. i don see swingers .
+   (ID: glowinthedark)
+
+2. i came here to ensure don lafontaine was mentioned .
+   (ID: carwynllew)
+
+3. i .... don’t ..... understand ... , , ,
+   (ID: crestview76)
+
+4. i had bite - wing x - rays ... don't have copies though .
+   (ID: NyxPeregrinus)
+
+5. i remember seeing an old vice do ’s and don’ts about this .
+   (ID: Dan3099)
+
+6. i don´t know .
+   (ID: hoveringlurker)
+
+7. i would much rather have the clown that pence is , than traitor don .
+   (ID: BlueSuedeBag)
+
+8. i 've been doing all the don'ts !
+   (ID: silentpower)
+
+9. i don´t think so .
+   (ID: hoveringlurker)
+
+10. i don;t fly anymore since tsa screenings
+   (ID: catskhiker)
+
+11. i 'm looking iffy at the wine .. don't know about the soda , but the rest looks great .
+   (ID: Waterrat)
+
+
+--- PER-CHAT ---
+Total from this dataset: 834
+
+1. if my husband murders me . i don ' t have facebook or any other social media but reddit . but its not very social we are all recluses . but anyways so yeah if he murders me then good luck to him trying to make everyone believe i ' m alive ! because digit . i don ' t have any people in my life and digit . he ' d starve so i ' d get my revenge .
+   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
+
+2. in other news , apparently i don ' t know how imgur works and my picture has almost digit views and a bunch of dislikes , lmao . i thought it was like a private link , whoops .
+   (ID: c9b1e924c86788c982ec59df3d5704354a2a4ae1)
+
+3. i sometimes imagine telling someone off , who has done something i consider rude , so i don ' t have to actually do it . i don ' t like actual confrontations but in my head i sometimes think about potential ones .
+   (ID: e6c4a2b8e8c999b54ade342babc3d7b48868cc6d)
+
+4. no problem . out of curiosity , what gave you the idea if you don ' t mind me asking ?
+   (ID: 3de4b885645ecd39fdcb6a1daf410341eb118d2c)
+
+5. if you don  t know what it is , then you  re not a girl
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+6. don  t get your pussy where you get your paycheck . also , don  t cheat on your wife . it will not be just as simple as fwb sex .
+   (ID: 777e86703ab013526ea933a9a9fcc97d1fbd6a78)
+
+7. i don ' t know if this applies to you but i ' m gonna throw it out there anyway . i work night shifts and day offs are on monday and tuesday . i don ' t get to hang out with people because of my work schedule . what i do cope up with the loneliness is i play mmos like guild wars digit . i get to be with people , albeit virtually , but at least i still get to talk with people which somehow lessens the feeling .
+   (ID: 261413214c13676b8aee2ce20a47107c4ccfe6b8)
+
+8. hmm . i don ' t think it can see its own reflection from there .
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
+
+9. without ever being clued in that i was any smarter than any of my siblings and with the way they handled it , you might not be , lol . you just don ' t know . btw i do think they handled it appropriately  i don ' t want this to come off like an insult .
+   (ID: 70dae4f10700534d78c70b4931932d38e3fa7df5)
+
+10. dude , if you are serios , don ' t do it , there are plenty of reasons to live , even if you have difficulties . if not , then i will just leave an f
+   (ID: 0cfe15b45fa033fe460b061d1625e4bb67bab696)
+
+11. i want to do something but i don ' t know what something i want . it ' s a beautiful day and beautiful days should be used for something .
+   (ID: fa4c371fe8b38af948c041b548e9bad7869c7b69)
+
+12. i don  t think you know how the subreddit works .
+   (ID: 4136a1b6da64b3c5f49dfe23761d1a0ec8925dba)
+
+13. this car  they don ' t make ' em like this anymore .
+   (ID: 8e22144947225f2bd7d950ea1b4044909a8653ae)
+
+14. i don ' t see how it could be implemented . short of sterilising people who ' failed ' whatever the test was , which would cost far too much money , i don ' t think anything of the sort would work .
+   (ID: 5d032deb25ff976c97c846d4d1073b0e71b447a3)
+
+15. yes i just read that document someone posted above . i don ' t know what to say . this hurts to see his condition  what cgc is doing with him . they are drugging him to curb his impulsiveness  probably using corporal punishment on him . aspergers isn ' t handled with brimming the kid with heavy drugs . he should be given social skills because a person suffering from this condition doesn ' t get societal rules automatically . he needs to be taught social skills explicitly . when an organization which is supposed to look after the kids well  being is doing such things then it hurts . i know we ' re not just witnessing one case here . god knows how many welfare organizations out there do promotional campaigns on the social media to raise some funds but don ' t do any groundwork which should be their job . in the power struggle between his father  cgc , they ' re ruining his life . you were right . reiryu ' s condition isn ' t uncommon .
+   (ID: 5ec957438fa111872baaa0871df8459459cc2519)
+
+16. i have a question to you . you said yo are a father , are you talking about nofap with your childs ? my dad is such an angry person so i don ' t think i will be able to tell him about nofap .
+   (ID: c41e4affc406bbc71e6c12aabf095d759b6dbec2)
+
+17. i don ' t know that i would . this seems like a free lie detector test to me . i ' m sure this is going to be unpopular opinion but if you know this you and they don ' t know you know then why not leverage that to your advantage and get obscure information out of them .
+   (ID: aac8075b69856b11cb4307ac267b902010d66e3a)
+
+18. i have been exploring him a lot looking for things i may have missed and seeing what i can do with him , but he still feels like trash . unless someone finds some move or tech that i ' m not using or don ' t know or something , i think he will just be garbage again .
+   (ID: 7cf18036f93dc6fc68e7a501c52e0ff5501b36e5)
+
+19. from what i  ve heard , they  re still exercising at least once a month which is the same as before . they were all pretty excited when the  no more war games  thing was announced , but we don  t call any of our exercises  war games  so we just assumed it was a way to seem like we were giving up something without ever doing so . if anyone was to bring up the fact that we haven  t stopped exercising we could be like  we gave up the war games , but we didn  t stop our training exercises  . hell , i  m in japan and even we were hoping that maybe we  d luck out and they  d let us quit exercising as well . no such luck .
+   (ID: 2cc106beadb9cde22175338488da9efb20933748)
+
+20. yeah i understand this . one of the things i  m going through now is seeing high school friends on facebook make posts about being home owners , and i want to buy a house soon . so it is easy to feel jealous but i don  t want to . you know ? i want to mature and just be patient and not envy others . but it is a conscious decision that we have to make sometimes .
+   (ID: d28c94c02761dbceb7bd64e3288f28eeef3a75cf)
+
+
+--- PersonaChat ---
+Total from this dataset: 29
+
+1. my dad owns a appliance store that i don t want to inherit .
+   (ID: conversation_253)
+
+2. i don t own a television .
+   (ID: conversation_451)
+
+3. i don t like kids .
+   (ID: conversation_456)
+
+4. i don't own a television .
+   (ID: conversation_400)
+
+5. i don t have a relationship with my deadbeat dad .
+   (ID: conversation_257)
+
+6. i don t like acting .
+   (ID: conversation_456)
+
+7. i don t eat meat .
+   (ID: conversation_65)
+
+8. i don t get along with my family .
+   (ID: conversation_356)
+
+9. i don't like acting .
+   (ID: conversation_154)
+
+10. i've several siblings i don t know .
+   (ID: conversation_180)
+
+11. i don't like to clean house .
+   (ID: conversation_306)
+
+12. my parents don't know i am gay .
+   (ID: conversation_4)
+
+13. i don't eat bread .
+   (ID: conversation_183)
+
+14. i don't celebrate any holidays .
+   (ID: conversation_292)
+
+15. i don t have children .
+   (ID: conversation_262)
+
+16. i don't like feeling controlled .
+   (ID: conversation_147)
+
+17. i don't fully understand my own feelings .
+   (ID: conversation_369)
+
+18. i don't eat bread .
+   (ID: conversation_322)
+
+19. i don t like the beach .
+   (ID: conversation_94)
+
+20. i don't eat asparagus .
+   (ID: conversation_236)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 27
+
+1. I don t get along with my family.
+   (ID: conversation_360_user_2)
+
+2. I don t like feeling controlled.
+   (ID: conversation_3_user_2)
+
+3. I don t like the beach.
+   (ID: conversation_403_user_1)
+
+4. I don t own a television.
+   (ID: conversation_243_user_2)
+
+5. I don t drive.
+   (ID: conversation_146_user_2)
+
+6. I don t think my girlfriend understands.
+   (ID: conversation_162_user_2)
+
+7. I don t know why my sister in law dislikes me.
+   (ID: conversation_98_user_2)
+
+8. I don t like the beach.
+   (ID: conversation_361_user_2)
+
+9. I don t know how to swim.
+   (ID: conversation_370_user_2)
+
+10. My friends don t call my by my real name.
+   (ID: conversation_61_user_1)
+
+11. I don t drive.
+   (ID: conversation_240_user_2)
+
+12. I don t have a lot of family members that i like.
+   (ID: conversation_430_user_1)
+
+13. I don t like the beach.
+   (ID: conversation_399_user_1)
+
+14. My dad owns a appliance store that i don t want to inherit.
+   (ID: conversation_481_user_2)
+
+15. I don t treat my girlfriend very well.
+   (ID: conversation_350_user_1)
+
+16. Not a day goes by that i don t drink four mountain dews.
+   (ID: conversation_312_user_2)
+
+17. I don t like broccoli.
+   (ID: conversation_264_user_2)
+
+18. I don t like acting.
+   (ID: conversation_461_user_2)
+
+19. I don t like my reputation.
+   (ID: conversation_3_user_2)
+
+20. I don t much like tv.
+   (ID: conversation_67_user_2)
+
+
+============================================================

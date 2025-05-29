@@ -1,0 +1,419 @@
+CLUSTER 36
+============================================================
+Total statements in cluster: 860
+
+Dataset distribution in this cluster:
+  FoCus: 87 (10.1%)
+  MPChat: 4 (0.5%)
+  MSC: 83 (9.7%)
+  PEC: 174 (20.2%)
+  PER-CHAT: 433 (50.3%)
+  PersonaChat: 35 (4.1%)
+  SyntheticPersonaChat: 44 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 87
+
+1. I am very used to travel around cities on metro.
+   (ID: GPJYUNUXPVWI_11)
+
+2. I am Italian-born.
+   (ID: CE0AK99XDA0R_9)
+
+3. I'm from England.
+   (ID: PCA6OG1NNC5D_9)
+
+4. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+5. I live in England.
+   (ID: SRO8K4E2N5N5_7)
+
+6. I have been to United States.
+   (ID: L6JH57TIZGRW_11)
+
+7. I am Greek.
+   (ID: EA2ZVDRVQ40F_11)
+
+8. My family lives in Warsaw.
+   (ID: C64P8U3HDDHY_9)
+
+9. I am German.
+   (ID: NKLIZUTIPPP1_11)
+
+10. I have been to Wales.
+   (ID: J3FELD3FPXVQ_11)
+
+11. I am from the United States.
+   (ID: DAZUOQ6PPGPD_9)
+
+12. I have been to United States.
+   (ID: PYCYFS54O1C8_11)
+
+13. I have relatives in Wales.
+   (ID: QC5LXWBDY6EM_11)
+
+14. I am not Greek.
+   (ID: VB4LDHWFQAVH_11)
+
+15. I have visited the Guindy National Park.
+   (ID: V3LNPA1FT8D2_11)
+
+16. I have a friend from Tornoto.
+   (ID: NMEFJE64KZ1F_11)
+
+17. I am from Montreal.
+   (ID: D0BKN1W8KWG6_7)
+
+18. I am from Colorado.
+   (ID: T815O8KC30IG_9)
+
+19. I don't have a wall or fence in my yard.
+   (ID: CBOI96AOZRK6_11)
+
+20. I have been to England.
+   (ID: XDIIZK7KZ12G_11)
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. my first picture post ...who says iowa is all flat and corn fields?
+   (ID: iowajaycee)
+
+2. all of my friends think nevada is ugly...
+   (ID: evantide)
+
+3. the coffee grinder at my work has its name spelled 2 different ways.
+   (ID: The69LTD)
+
+4. the coffee company i work for is staying open through this pandemic.
+   (ID: Deeshizznit)
+
+
+--- MSC ---
+Total from this dataset: 83
+
+1. My best friend lives in Tokyo.
+   (ID: dialog_89_speaker_1)
+
+2. I reside on a zoo in a awesome state.
+   (ID: dialog_42_speaker_2)
+
+3. I am a proud us sailor.
+   (ID: dialog_24_speaker_1)
+
+4. I live on a farm in Ohio.
+   (ID: dialog_42_speaker_2)
+
+5. I live in the sky.
+   (ID: dialog_17_speaker_2)
+
+6. I live on a farm in Ohio. I have never left the countryside. We raise Angus cows on my farm for beef. I take orders for Angus.
+   (ID: dialog_42_speaker_2)
+
+7. My family used to live in sydney.
+   (ID: dialog_38_speaker_2)
+
+8. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+9. I am a southern.
+   (ID: dialog_26_speaker_2)
+
+10. My house in in the bronx.
+   (ID: dialog_89_speaker_1)
+
+11. I have 2 sons in college. I can travel during the school terms.
+   (ID: dialog_9_speaker_1)
+
+12. I am an urban dweller.
+   (ID: dialog_81_speaker_2)
+
+13. I live in California. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+14. I have never been out of the US either.
+   (ID: dialog_8_speaker_2)
+
+15. My home is on key west.
+   (ID: dialog_27_speaker_2)
+
+16. I live on an island in Hawaii.
+   (ID: dialog_27_speaker_2)
+
+17. I do not know many people.
+   (ID: dialog_2_speaker_2)
+
+18. I do not travel. I have never been out of the US.
+   (ID: dialog_8_speaker_1)
+
+19. I'm an american.
+   (ID: dialog_23_speaker_2)
+
+20. I'm from the midwest. I'm a college student. I'm a retired veteran.
+   (ID: dialog_89_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 174
+
+1. i have the impression that voting does n't matter and all politicians are fucked .
+   (ID: SamuelStephenBono)
+
+2. i hate where i live .
+   (ID: iToaditSo)
+
+3. i thought this said * attitude * , and wondered if people in colorado were naturally more sassy .
+   (ID: Shrub74)
+
+4. i think this is in reference to the convention in philly .
+   (ID: notlikethat1)
+
+5. i live in the uk and had no idea who ann coulter was until about 2 hours ago .
+   (ID: carwynllew)
+
+6. i believe in pa it is 11 years of continous uninterupted upkeep ... that 's pretty tight
+   (ID: RonaldFuckingPaul)
+
+7. i 'm in southern az , i 've never heard that phrase before .
+   (ID: I_am_not_a_Taco)
+
+8. i ’m from thr netherlands !
+   (ID: mrhenk9)
+
+9. i feel bloated and the humidity made my hair look like a cheap wig all day .
+   (ID: hussy_trash)
+
+10. i am from the usa .
+   (ID: HugePurpleNipples)
+
+11. i have been to st kitts .
+   (ID: deputydan_scubaman)
+
+12. i grew up quite sheltered , i think : d or maybe i am just a bit dumb
+   (ID: conservative_poly)
+
+13. i ’m not in california .
+   (ID: Captain_-H)
+
+14. i hope i 'll be able to move soon
+   (ID: blue_thingy)
+
+15. i do n't recognize it , but most places i 've lived in numbers do n't matter anyway .
+   (ID: redraindropped)
+
+16. i only get 30 - 40 % usage no matter where i am .
+   (ID: Atemu12)
+
+17. i wonder what country has the most women like this in it .
+   (ID: Dustin_Bromain)
+
+18. i 've got bad knees and live up on the 15th floor .
+   (ID: bbrandann)
+
+19. i have n't translated anything , i can only speak english , unfortunately .
+   (ID: DarkMoon99)
+
+20. i assume he / she means " united states of america "
+   (ID: exotics)
+
+
+--- PER-CHAT ---
+Total from this dataset: 433
+
+1. i feel you on this one . i avoid malls on weekends like the plague .
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+2. I live in sweden.
+   (ID: c6e395c03fa0151554baed67a84968066bfa9cf3)
+
+3. I am german.
+   (ID: 4a03851d25b2526583af78261bff2af13796094e)
+
+4. I live in near jerusalem.
+   (ID: 5ad91cf15026f9d604e90af77be91ab4f6b7289a)
+
+5. I live in holland.
+   (ID: bfc2e9a6e5f84327293fa1a1fd0287066782bcec)
+
+6. I live in world.
+   (ID: 720bf2762acb0f756492e6e40ae840126dae87ce)
+
+7. I live in scotland.
+   (ID: 6fa64e2a9482c3b6f542e4f8f6ab0e5076d808e9)
+
+8. I live in reading comics.
+   (ID: 74058c90ada3aae7a59703064acbf3ced38f3681)
+
+9. I live in place.
+   (ID: 7c5209c3b827e0de0cd436466f80ce09b615606b)
+
+10. I live in edge.
+   (ID: 589a27cacaffb5126785db9f91c141a3cea2daae)
+
+11. I live in canada.
+   (ID: 4d17a8a4d7907bba6d158e8a0b9c3504d69be003)
+
+12. I live in central usa.
+   (ID: 9186c179fe844e912b1dc4e064693a023e668de3)
+
+13. I am american man.
+   (ID: 472084017072e7ced5fed0827bae57ba801d9b7d)
+
+14. well . obviously ? it doesn ' t change that most of the crimes are carried out by people with illegal guns , most probably stolen from somewhere i meah , hell , most of knives people get stabbed by start out as kitchen knives , is it time to ban kitchen knives ?
+   (ID: 0c68cfdaec11ee0673f6c5aec23193d412bf30ba)
+
+15. ask me . i will answer all questions about asians .
+   (ID: 23b74d30984aae116954fc82863fe4bd913ba329)
+
+16. I live in end.
+   (ID: 37f1dd54cc7fbf9961db909e5dce33ca94dc5b82)
+
+17. I live in america.
+   (ID: 0e1406b3a5b6031911de9279cf70144f8f1d9136)
+
+18. I live in canada.
+   (ID: f0bbaad5859eeb6263167cb895c64b86a48638ee)
+
+19. everything you just listed off can be said about alot of other places outside of the united states included i guess it ' s " influential " in pop culture , but not much else .
+   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+
+20. I live in mountains.
+   (ID: ea3b9395602c702397d514c6da7049b089458032)
+
+
+--- PersonaChat ---
+Total from this dataset: 35
+
+1. i live on a small farm in ohio .
+   (ID: conversation_42)
+
+2. my family migrated to america when i was five .
+   (ID: conversation_22)
+
+3. my father was born in australia .
+   (ID: conversation_9)
+
+4. i live in the city .
+   (ID: conversation_81)
+
+5. i live on a boat .
+   (ID: conversation_228)
+
+6. i grew up in alabama .
+   (ID: conversation_221)
+
+7. my country is russia .
+   (ID: conversation_224)
+
+8. i grew up on a large farm .
+   (ID: conversation_167)
+
+9. i went to new york city once .
+   (ID: conversation_238)
+
+10. my mother was born in ireland .
+   (ID: conversation_166)
+
+11. my mother was born in ireland .
+   (ID: conversation_38)
+
+12. i m from texas .
+   (ID: conversation_8)
+
+13. i went to new york city once .
+   (ID: conversation_133)
+
+14. my country is russia .
+   (ID: conversation_241)
+
+15. i was born in baton rouge .
+   (ID: conversation_138)
+
+16. my father was born in australia .
+   (ID: conversation_166)
+
+17. my father lives in china .
+   (ID: conversation_182)
+
+18. i just moved from va to pa .
+   (ID: conversation_167)
+
+19. i've traveled to both ireland and australia .
+   (ID: conversation_38)
+
+20. i am argentinian .
+   (ID: conversation_59)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 44
+
+1. I grew up on a farm.
+   (ID: conversation_130_user_2)
+
+2. I am from california.
+   (ID: conversation_34_user_2)
+
+3. I was born outside the us.
+   (ID: conversation_152_user_1)
+
+4. I am from california.
+   (ID: conversation_74_user_2)
+
+5. I am east asian.
+   (ID: conversation_161_user_2)
+
+6. I am originally from london , england.
+   (ID: conversation_140_user_2)
+
+7. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+8. I live close to the coast.
+   (ID: conversation_41_user_1)
+
+9. I live on a beet farm.
+   (ID: conversation_55_user_2)
+
+10. I grew up in nevada.
+   (ID: conversation_120_user_1)
+
+11. I am from russia.
+   (ID: conversation_174_user_2)
+
+12. I travel a lot.
+   (ID: conversation_225_user_2)
+
+13. I was born outside the us.
+   (ID: conversation_151_user_1)
+
+14. I grew up in kentucky.
+   (ID: conversation_53_user_2)
+
+15. I live by a lake.
+   (ID: conversation_84_user_1)
+
+16. I travel often.
+   (ID: conversation_14_user_2)
+
+17. I am from russia.
+   (ID: conversation_7_user_2)
+
+18. I live on a pig farm.
+   (ID: conversation_90_user_2)
+
+19. I now live in new mexico.
+   (ID: conversation_120_user_1)
+
+20. I live on a farm.
+   (ID: conversation_63_user_2)
+
+
+============================================================

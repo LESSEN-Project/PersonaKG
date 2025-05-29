@@ -1,0 +1,455 @@
+CLUSTER 29
+============================================================
+Total statements in cluster: 1321
+
+Dataset distribution in this cluster:
+  FoCus: 71 (5.4%)
+  MPChat: 16 (1.2%)
+  MSC: 60 (4.5%)
+  PEC: 641 (48.5%)
+  PER-CHAT: 464 (35.1%)
+  PersonaChat: 21 (1.6%)
+  SyntheticPersonaChat: 48 (3.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 71
+
+1. I want to go to Sydney.
+   (ID: N7HZ86GP00T0_11)
+
+2. I want to visit Mexico.
+   (ID: U2VHOEDA278F_11)
+
+3. I want to visit Italy.
+   (ID: DIQU5A0EAGWM_11)
+
+4. I want to visit Clermont.
+   (ID: T9680U7NZ97F_11)
+
+5. I want to go to Ontario.
+   (ID: SDW19RWSP3ZX_11)
+
+6. I want to go to Broadway shopping centre.
+   (ID: L6X3D5VDORJH_11)
+
+7. I want to visit London.
+   (ID: XCOBCMEHB8IV_11)
+
+8. I want to visit a popular landmark.
+   (ID: B623Z1BXC8IT_11)
+
+9. I want to visit Chicago.
+   (ID: EDLPKHWH3K5B_11)
+
+10. I want to visit Ontario.
+   (ID: PSBPL4USIKMB_11)
+
+11. I am studying Geology and want to become an Archeologist.
+   (ID: F10IB9885VKB_11)
+
+12. I want to go to Washington DC.
+   (ID: HO5IT5J1RXE4_11)
+
+13. I want to go to Disneyland.
+   (ID: KN1GX2IHVESI_11)
+
+14. I want to visit Ukraine.
+   (ID: MMFXPQYSEBUW_11)
+
+15. I want to visit Colchester.
+   (ID: QLDCXP7YJP9Q_11)
+
+16. I want to visit Punjab.
+   (ID: RJJWVAVC2B40_9)
+
+17. I want to go to Washington DC.
+   (ID: QFCC4W8VUHOO_11)
+
+18. I want to go to college.
+   (ID: JTUKE03HZYSY_11)
+
+19. I want to go to Missouri.
+   (ID: N0V1DGKWV7SW_11)
+
+20. I want to go to the Music Festival this year.
+   (ID: RUXEW8EYORSZ_11)
+
+
+--- MPChat ---
+Total from this dataset: 16
+
+1. "i want my name to be spaghetti."
+   (ID: hmbmelly)
+
+2. crochet has given me the chance to create the kinds of creatures i would want as pets.
+   (ID: VisitingCivet)
+
+3. [wip] winging up a bag and it's turning out exactly how i want it to.
+   (ID: fishgoose)
+
+4. my niece and nephews want scarves.
+   (ID: Sophie74656)
+
+5. i want to move this bush, how should i do it?
+   (ID: Pearl_krabs)
+
+6. i want but has no room
+   (ID: insertnamehere02)
+
+7. i have broken it down step by step for absolute beginners if you want to have a look!
+   (ID: letsallcrochetYT)
+
+8. getting closer to where i want to be...
+   (ID: ext23)
+
+9. i sorta want one of these plungers.
+   (ID: patm28)
+
+10. i want to get juniper somewhere to lounge.
+   (ID: krichmondRPH)
+
+11. i'm making a blanket with these color but now i'm thinking i want to add more colors.
+   (ID: Sophie74656)
+
+12. i want to call her gidget.....
+   (ID: lizdavis17)
+
+13. seems like i waste too much wood if i want a campfire meal...
+   (ID: JMHorsemanship)
+
+14. gets me everywhere i want to go.
+   (ID: SweetSassyClassy)
+
+15. my attempt at acid wash/distressed/however you want to call them nails.
+   (ID: hottiecakes)
+
+16. i really want to get this blanket done, but not enough to wake him up.
+   (ID: blboppie)
+
+
+--- MSC ---
+Total from this dataset: 60
+
+1. My dog's breed is Siberian Husky.I had a dog named Sally. I want a cat soon.
+   (ID: dialog_34_speaker_1)
+
+2. I want to start running. I want to start a training programme.
+   (ID: dialog_40_speaker_2)
+
+3. I am a charitable person. I am working on a charity app matching volunteers to financial donations. I want to launch the app before the holiday season.
+   (ID: dialog_79_speaker_1)
+
+4. I want to be in a band someday.
+   (ID: dialog_44_speaker_2)
+
+5. I want to go canoeing in the Amazon rainforest.
+   (ID: dialog_172_speaker_2)
+
+6. In the future I want to drive a large vehicle.
+   (ID: dialog_28_speaker_1)
+
+7. I have been looking for a more interesting job. My family is annoying me. I want to get away from family during the day.
+   (ID: dialog_2_speaker_1)
+
+8. I want to be an actress.
+   (ID: dialog_167_speaker_1)
+
+9. I'm single. I want to go to Japan.
+   (ID: dialog_89_speaker_1)
+
+10. I want to video my jumps and show off the video on my social media.
+   (ID: dialog_53_speaker_2)
+
+11. I want to get my own place.
+   (ID: dialog_132_speaker_1)
+
+12. I want to own a repair shop.
+   (ID: dialog_32_speaker_2)
+
+13. I want to be a teacher.
+   (ID: dialog_48_speaker_2)
+
+14. I want to win a lot of money.
+   (ID: dialog_123_speaker_1)
+
+15. I want an iphone.
+   (ID: dialog_77_speaker_2)
+
+16. I want to climb with you together.
+   (ID: dialog_43_speaker_2)
+
+17. I ran for office in 2004. I am a politician. I have traveled around the United States and Mexico. I want to make changes in our society.
+   (ID: dialog_113_speaker_2)
+
+18. I want to get my own places.
+   (ID: dialog_24_speaker_2)
+
+19. I had two big dogs, a lab Waylon and a golden retriever Bear.I want more big dogs.
+   (ID: dialog_107_speaker_1)
+
+20. My dream locations, one of them, id Russia. I want to visit Volgograd in Russia. I want to visit the rural areas of Russia. I could spend a month visiting Russia.
+   (ID: dialog_113_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 641
+
+1. i want to have that person now too .
+   (ID: bleepblorp9878)
+
+2. i want to be a reader as a profession !
+   (ID: Simplisticjoy)
+
+3. i want to call for a second opinion .
+   (ID: ExcessiveAggro)
+
+4. i want your housemate to be my housemate .
+   (ID: hussy_trash)
+
+5. i want to eat it !
+   (ID: supmraj)
+
+6. i want to join them .
+   (ID: juls2587)
+
+7. i really want him to meet my friends and show him around where i grew up etc .
+   (ID: travelingkiwi)
+
+8. i ’m not sure on your device , but you may want to charge your phone .
+   (ID: WeirdAvocado)
+
+9. i just want to be left tf alone ... ,with a big bag of cheetos .
+   (ID: bugaloo2u2)
+
+10. i really want a wr250x / r for my first bike but there is none used in my area :(
+   (ID: pandachestpress)
+
+11. i think i might want to draw something similar just for fun :) thank you !
+   (ID: JacksChocolateCake)
+
+12. i want an expansion or an update
+   (ID: GitFloowSnaake)
+
+13. i said every * idiot , * if we want to get technical .
+   (ID: WiseScratch)
+
+14. i think i want to join but i am not sure what it is all about .
+   (ID: ddshroom)
+
+15. i want to hear negative farpoint impressions too !
+   (ID: shockrush)
+
+16. i do n't want to confirm the stereotype but yes , she is naturally blonde .
+   (ID: cherrytonguetie)
+
+17. i want a job with more physical aspects to it .
+   (ID: hussy_trash)
+
+18. i would not want to go back into the water .
+   (ID: nastylittleman)
+
+19. i want to walk in this wonderland !
+   (ID: supmraj)
+
+20. i suspect our mothers did n't want us to suffer this way .
+   (ID: NaBacLeis)
+
+
+--- PER-CHAT ---
+Total from this dataset: 464
+
+1. it ' s very simple , if i say i want to be a vegan because all i eat is fruits and veggies but like me i ' m also a bow hunter i will be denied entry . why ? because i ' ll be breaking a tenet of the cult .
+   (ID: 4a7a47c2e5a0426b71a637dd821ac57f06afeedf)
+
+2. no doubt lol . so what do you want to do for a career ?
+   (ID: f0cc6658fb97955562b5f1b7845c6141dd2eefdf)
+
+3. do you want upvotes ? because this is how you get upvotes !
+   (ID: 7e67f2109db2f138225338a090de78cfd116cfca)
+
+4. i want to die now
+   (ID: 1306973da0fba9f8c4b839b9163f3f01aacfe98a)
+
+5. sit down and talk . if she doesn ' t want to then just watch some tv and hold her
+   (ID: 8777ebe00a7403385686cc8962653ff5accb28f0)
+
+6. yes , it ' s a website ! if you want to find your purpose then that ' s the best site tbh .
+   (ID: eca32d278abf2524af02edbb3cc3041ed8b0b880)
+
+7. son , the game is not to care either way . s ' fer the best . s ' what she ' s s ' after . goddernit . look . she wants . s ' wants th ' best . okay ? takeit from me . i ' m . good wif th ' ladez . they just want . they just want t ' be eaten . eaten out . lol . you know what i ' m sezin . right ? they jus ' wanna be . eaten out . listen . look . c ' mere . they want a nice face down there , okay ? bet ' ween me and you , you and me . pussy . ha  ha . i mean , y ' figure , if the eatin out ' ll be good , because yous handsome nuff is , well . sad life . i know . but stick with me . it ' s not just rick and morty , lmao . if you have some kind of dignity . they wanna see that dignity be put to the pussy . okay ? females are human . and humans are pieces of fckin shit , okay ? ha  ha . yeah . hey . lol hey . come on , you now you want to eat .
+   (ID: 2401680976bbdfe87278659ff11173d22161b22d)
+
+8. i was just answering op  s question . sorry if my response offended you . if you don  t want to have in depth discussions about the show and waste your time , why even browse this subreddit ? that  s kind of the point . i love the show how it is i was just giving my opinion of what i would do if i could change it . no need to get upset .
+   (ID: 9d6763f3caa1ca2559f1a3c525c70ffea81a61c2)
+
+9. yeah i understand this . one of the things i  m going through now is seeing high school friends on facebook make posts about being home owners , and i want to buy a house soon . so it is easy to feel jealous but i don  t want to . you know ? i want to mature and just be patient and not envy others . but it is a conscious decision that we have to make sometimes .
+   (ID: d28c94c02761dbceb7bd64e3288f28eeef3a75cf)
+
+10. many subreddits have rules about what can be posted . you just have to follow these rules and find the appropriate subreddit for what you are wanting to post . some subreddits even have certain times that they allow certain things to be posted , it can be rather confusing . once you figure out which subreddits  communities that you like and want to be a part of it will be easier . one more thing , most subreddits have a minimum account age  karma requirement before you are able to post anything at all . so , just begin commenting on posts and gaining karma , eventually you will be able to post like everyone else . just dont ask the mods what the minimums are , this will likely result in a ban .
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
+
+11. now it makes sense i guess , like who wouldn  t want to subscribe to this lad
+   (ID: 1306973da0fba9f8c4b839b9163f3f01aacfe98a)
+
+12. no , it ' s quite normal to be sedated for it . you generally have to ask for them to keep you awake . it sounds like a failure of the anesthesiologist if they were unable to keep you sedated , and it ' s battery unless you told them you want to be awake plus you described it as what sounds like battery to me .
+   (ID: 390a1aaf064a34c57ef69579a32d85ce7df95253)
+
+13. i agree . once the achievement hunters get their aps , everything will be back to somewhat normal .  the only real bad thing about leagues so far are the pve commanders . yeah , there ' s a ton of them  but on the flipside , they probably really want to help . it just so happens they get overwhelmed with all the things they need to do . they may have been used to running with their guild then decided to try it out on the server . i once commanded our guild run in wvw and it ' s really different when you ' re working with your guild and when you have pugs with you . with your guild , you know what they are capable of so you always know what to tell them . with pugs , there are a lot of probabilities with them  are they upleveled ? because they might not survive the first clash . are they here just for the karma  xp  loot ? then they won ' t follow instructions if you tell them to " stack " , " blast statics  might " , and so on and so forth because they would be like , " whatever man let ' s get this over with "
+   (ID: 261413214c13676b8aee2ce20a47107c4ccfe6b8)
+
+14. i have never stated that disobeying an officer means you deserve to die . i don  t think that at all , i think that anyone when encountering the police should obey an officers orders because it gives you the best chance of getting through the situation with a a better outcomelesser charges and b reduces risk of bodily harm . please don  t put hateful intentions onto me as i wouldn  t apply them to you . i  ll i want is for people to be more informed on police work , by doing so we make lives easier for everyone
+   (ID: 350ebf5f22b005c6fa011b8241361bb7184ec8d5)
+
+15. why would i want to talk about when i buried my shit as deep as i could ? oh wait that ' s not what you meant .
+   (ID: 0577b566bc01c7d79464f522c720317d81923a8c)
+
+16. what else would be cool is if we could pick the types of missions we want to join into with others
+   (ID: 52e0e376c09b4862d8eea84ae547c3466a2aac4b)
+
+17. it ' s not easy at all . it depends on if you can truly handle not only being a friend , but seeing her live her life with someone else that she ' ll eventually choose . i get jealous easily and it seeing a girl i want to be romantic with , do things with another guy is like waiting forever for your food and the waiter simply giving it to someone else and having to watch them eat it .
+   (ID: e217e0e78b3d167105d634f49246c934025ff72b)
+
+18. what do you want ? answer that first even just to yourself and then it will be clearer what you should do . i want hugh jackman to come over to my house and rub me with oil and roger me senseless . i can want all i want  nothing wrong with wanting . it is just that what we want is not always going to happen .
+   (ID: 787b93a7786c68b0f31fb63e18ccf3551bafae1b)
+
+19. pf is like ip tables except its made by openbsd which is what pf sense uses and yes is included in my rabbit hole but i want to learn the inner workings of pf and openbsd gonna land my self in some sort of trouble by the end
+   (ID: da770212ea31887c4be30925213eff0dc5d8687b)
+
+20. my dude , with respect , you ' ll know if you have a problem . when it hurts indiscribably but you dont say anything . when you desperately want to talk to someone but cant even imagine anyone understanding or caring enough to listen . feeling like you should cry but cant when you ' re alone or otherwise relaxed . thats when you know . if the feeling you have now keeps getting worse and worse or you feel any of the other things i said , go see a psychologist and talk to them about it . its often expensive but its the only thing that will ever really help you . best of luck to you though , its not a bottomless pit , get help and you can heal . the sooner the better .
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+
+--- PersonaChat ---
+Total from this dataset: 21
+
+1. i'm in college now and want to be a teacher .
+   (ID: conversation_374)
+
+2. i want to be in a band someday .
+   (ID: conversation_44)
+
+3. i want to move .
+   (ID: conversation_147)
+
+4. i'm in college now and want to be a teacher .
+   (ID: conversation_484)
+
+5. i want to have two kids .
+   (ID: conversation_298)
+
+6. i want to be desired .
+   (ID: conversation_288)
+
+7. i want to be a vegetarian .
+   (ID: conversation_474)
+
+8. i want to be a museum curator .
+   (ID: conversation_433)
+
+9. i want to be a vegetarian .
+   (ID: conversation_137)
+
+10. i want to move to las vegas .
+   (ID: conversation_409)
+
+11. i am in college now and want to be a teacher .
+   (ID: conversation_22)
+
+12. i'm weak and selfish , but i want to change .
+   (ID: conversation_130)
+
+13. before i die , i want to skydive .
+   (ID: conversation_92)
+
+14. i want to move .
+   (ID: conversation_334)
+
+15. i want to write a book before i die .
+   (ID: conversation_390)
+
+16. i could move out , but she doesn t want me to .
+   (ID: conversation_175)
+
+17. i want to become an author .
+   (ID: conversation_165)
+
+18. i want to be a museum curator .
+   (ID: conversation_133)
+
+19. i want to be a museum curator .
+   (ID: conversation_238)
+
+20. before i die , i want to skydive .
+   (ID: conversation_50)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 48
+
+1. I want to be an astronaut when i grow up.
+   (ID: conversation_298_user_2)
+
+2. I want to move.
+   (ID: conversation_3_user_2)
+
+3. I want people to notice me.
+   (ID: conversation_66_user_2)
+
+4. I want to be desired.
+   (ID: conversation_482_user_2)
+
+5. I want to write a book before i die.
+   (ID: conversation_462_user_2)
+
+6. I want to become an author.
+   (ID: conversation_229_user_2)
+
+7. I want to travel the world taking photographs of my travels.
+   (ID: conversation_225_user_1)
+
+8. I do not want a job.
+   (ID: conversation_354_user_2)
+
+9. I want to be a famous photographer.
+   (ID: conversation_224_user_1)
+
+10. Before i die , i want to skydive.
+   (ID: conversation_82_user_2)
+
+11. I want to be a vegetarian.
+   (ID: conversation_245_user_2)
+
+12. Many people want to be my friend.
+   (ID: conversation_265_user_2)
+
+13. I want to go to mars.
+   (ID: conversation_451_user_1)
+
+14. I want to be desired.
+   (ID: conversation_490_user_1)
+
+15. I want to learn how to fly an airplane.
+   (ID: conversation_232_user_2)
+
+16. I want to be a music teacher.
+   (ID: conversation_54_user_2)
+
+17. I want to go to mars.
+   (ID: conversation_471_user_1)
+
+18. I want to move.
+   (ID: conversation_284_user_2)
+
+19. I want to learn how to fly an airplane.
+   (ID: conversation_489_user_2)
+
+20. I do not want a job.
+   (ID: conversation_0_user_1)
+
+
+============================================================

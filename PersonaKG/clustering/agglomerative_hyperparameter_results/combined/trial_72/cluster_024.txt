@@ -1,0 +1,440 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 895
+
+Dataset distribution in this cluster:
+  FoCus: 156 (17.4%)
+  MPChat: 84 (9.4%)
+  MSC: 40 (4.5%)
+  PEC: 511 (57.1%)
+  PER-CHAT: 73 (8.2%)
+  PersonaChat: 16 (1.8%)
+  SyntheticPersonaChat: 15 (1.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 156
+
+1. I have been to Illinois.
+   (ID: FBUZJNVHT0N2_9)
+
+2. I have seen Kumbara Gudda once.
+   (ID: UN54IACHSTX5_11)
+
+3. I have never been to Kentucky.
+   (ID: 6J40PNLBFR2V_11)
+
+4. I have visited Austria many times.
+   (ID: YLLQOXHD6MZC_7)
+
+5. I have never been to Oslo.
+   (ID: NRWCDZW051T6_11)
+
+6. I have never been to Maharashtra.
+   (ID: A0Z3UWA0T3EK_9)
+
+7. I have visited Neill Avenue many times.
+   (ID: EI53JQVYRP0R_11)
+
+8. I have never been to Lombok.
+   (ID: GOA1VSVK1TBD_11)
+
+9. I've never been to the Opera.
+   (ID: 9LPSSRYT28ZD_11)
+
+10. I have been to England.
+   (ID: G4G0O51GJSQQ_11)
+
+11. I have been to the River Hudson.
+   (ID: XXU24CBOXMRE_7)
+
+12. I have never seen a blackbuck.
+   (ID: V3LNPA1FT8D2_11)
+
+13. I have travelled to England two times in my life.
+   (ID: ODWWG1XAUHD6_11)
+
+14. I have been to California.
+   (ID: LEUWGO47I5DG_11)
+
+15. I have never been to Florida.
+   (ID: STW2OR1N34AR_11)
+
+16. I have visited Dreamland Margate amusement park.
+   (ID: PFYAAS1XG3D8_11)
+
+17. I have never been to Europe before.
+   (ID: RUXEW8EYORSZ_11)
+
+18. I am interested in the history of theme parks.
+   (ID: KN1GX2IHVESI_11)
+
+19. I have never been to New York.
+   (ID: B21DU5B4FQQH_11)
+
+20. I've always wanted to go pedal boating.
+   (ID: E0BEYP6NJPS6_11)
+
+
+--- MPChat ---
+Total from this dataset: 84
+
+1. one of the best camping spots i've ever had.
+   (ID: BarrogaPoga)
+
+2. i went to the dells in wisconsin last weekend.
+   (ID: Nolon)
+
+3. walkinf through my local grocery store and saw these!
+   (ID: billwhiz)
+
+4. i had a lot of fun with the roots!
+   (ID: lolveets)
+
+5. i'm in tucson and visited a local cactus nursery, amazing!
+   (ID: CuriosityK)
+
+6. jotunheimen mountain range in norway at sunset, my campspot was just about 200 meters away from this spot!
+   (ID: ChristophZee)
+
+7. i think i found a crested barrel cactus.
+   (ID: tucsonyeti)
+
+8. i found the best trail in arkansas!
+   (ID: VapeThisBro)
+
+9. first wild oyster mushroom i’ve ever found in washinon though!
+   (ID: sundstrom193)
+
+10. first two teapots i've ever made!
+   (ID: PuffTheMagicLumbrJak)
+
+11. i've pitched my tent in worse locations.
+   (ID: ed2base)
+
+12. a scenic overlook on route 1 in big sur, california, where i proposed to my partner.
+   (ID: Chinchillasaurus)
+
+13. finally took my girl to the creek
+   (ID: crunch816)
+
+14. oldest coleman stove i've ever seen.
+   (ID: reecee)
+
+15. i had a wonderful time kayaking with my wife across morro bay.
+   (ID: tssouthwest)
+
+16. one of many i caught today in my new kayak (more in comments)
+   (ID: Taengoosundies)
+
+17. some of the craziest light i've ever seen [oc]
+   (ID: garret_weintrob)
+
+18. i went camping - packed into the pasayten wilderness and helped rebuild a bridge
+   (ID: reecee)
+
+19. i ran into a cascades red fox while snow shoeing on mt.
+   (ID: dudeinthepnw)
+
+20. took my girl rona with me for a ride up to the pharmacy to get her treat.
+   (ID: CallMeBigBobbyB)
+
+
+--- MSC ---
+Total from this dataset: 40
+
+1. I've a gluten allergy.
+   (ID: dialog_183_speaker_2)
+
+2. I have never left the countryside.
+   (ID: dialog_42_speaker_2)
+
+3. I might also travel to Japan soon. I've been to Japan in military. I love sushi and green tea ice cream. I know a lot about Japanese sushi. I like pufferfish pizza. I know a great restaurant in Japan.
+   (ID: dialog_89_speaker_2)
+
+4. I have never been out of the US either.
+   (ID: dialog_8_speaker_2)
+
+5. I moved away when I was 20. I have been travelling since I was 20.
+   (ID: dialog_109_speaker_1)
+
+6. I live in California. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+7. I've never been to Peru. I am not into hiking. I think exploring is fun.
+   (ID: dialog_9_speaker_2)
+
+8. I walked through the mountains from georgia to tennessee.
+   (ID: dialog_119_speaker_1)
+
+9. I travelled to tahiti 2 times.
+   (ID: dialog_145_speaker_1)
+
+10. I've never made a movie.
+   (ID: dialog_175_speaker_2)
+
+11. I have been in the country all my life.
+   (ID: dialog_161_speaker_1)
+
+12. I have only traveled to America and Mexico.
+   (ID: dialog_113_speaker_2)
+
+13. I have hit alot of attractions.
+   (ID: dialog_83_speaker_2)
+
+14. I have never visited Japan.
+   (ID: dialog_9_speaker_2)
+
+15. I've only visited NY twice.
+   (ID: dialog_170_speaker_1)
+
+16. I have travelled the world.
+   (ID: dialog_178_speaker_1)
+
+17. I've not been lit.
+   (ID: dialog_103_speaker_1)
+
+18. I've lived in washington all my life.
+   (ID: dialog_144_speaker_1)
+
+19. I have been to Brittany in France.
+   (ID: dialog_147_speaker_2)
+
+20. I do not travel. I have never been out of the US.
+   (ID: dialog_8_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 511
+
+1. i 've been bingeing on it and almost done ...
+   (ID: Beachsurfer)
+
+2. i might 've meant this one .
+   (ID: leo9g)
+
+3. i 've never seen anything this bad .
+   (ID: LabeledAsALunatic)
+
+4. i would like to say that , but i totally would 've laughed .
+   (ID: carebearstare93)
+
+5. i 've never seen so many s in a wiki entry .
+   (ID: carwynllew)
+
+6. i ve never seen it
+   (ID: Aloha-Potato)
+
+7. i 've seen a pic of a zebra finch with this .
+   (ID: Waterrat)
+
+8. i was refused entry , specifically because i was carrying an interchangeable - lens camera .
+   (ID: zsnajorrah)
+
+9. i was in wa for a month and i loved it
+   (ID: juliacakes)
+
+10. i 've built one before , but i 've never priced it .
+   (ID: squaresaltine32314)
+
+11. i 've seen this before !
+   (ID: iam1r7)
+
+12. i actually went to a camp near a small island nicknamed " spider island . "
+   (ID: cookiexcmonster)
+
+13. i ’ve seen it a hundred times just because its awesome .
+   (ID: WhereRtheTacos)
+
+14. i 've been salivating at this picture for about half an hour now
+   (ID: pandachestpress)
+
+15. i 've seen that chapel - like building out there .
+   (ID: dammitOtto)
+
+16. i went there two weekends ago , such a beautiful and serene garden ! !
+   (ID: Justakiss15)
+
+17. i find it all over here in georgia
+   (ID: Test_Profile)
+
+18. i ’ve never seen something like this happen
+   (ID: LabeledAsALunatic)
+
+19. i worked at the brigham for 20 years , i know this area well .. nice work .
+   (ID: warname)
+
+20. i 've never heard of a golf cart friendly camp ground .
+   (ID: sbsb27)
+
+
+--- PER-CHAT ---
+Total from this dataset: 73
+
+1. went to north korea because i was an idiot . while i did survive the trip , i would not recommend anyone to visit a place where secret police agents follows you everywhere .
+   (ID: 943cc5e526975c71d69ca1804666ab2f83b06a27)
+
+2. the joke of the original , for reference , is that because gay people do anal the baby is poop . it ' s a really old and barely  glued  together joke i ' ve heard before .
+   (ID: 77e0b8c51dfb89ff57bd838b86ee4d78a9fe856f)
+
+3. i ' m actually curios about the events , if you don ' t mind could you briefly shared what happened ?
+   (ID: 20e44d996799f8bb3fe89546818050bf021f4be9)
+
+4. someones hasnt been to rule34 i guess .
+   (ID: 9425493e0ea7469367495f8e5947330e536cafa9)
+
+5. i think that the island was featured on the bachelor and now it ' s become a whole thing to go to pig island . all of the regular charters were booked and when she tried with the help of the hotel to get another boat over there , they failed every day to find her a spot , so i don ' t know that it ' s super touristy because she never got there , just letting you know that if you go at a popular time , you should book your excursion before you go .
+   (ID: a18adc4ad3b28b34dfa3063a1c77566b8681a79d)
+
+6. what the hell am i looking at ? i ' ve never seen something like this
+   (ID: c19de27d6b88c47d51e561a657dd0cf0e665fa48)
+
+7. this is the most majestic thing i  ve ever seen
+   (ID: 1b99508b414040c0a77716b8287dc8d53ceeed67)
+
+8. i  ve seen it on digit subs now . it  s not even that funny
+   (ID: 48327dfb7185a727925115986b0d0501d2999a36)
+
+9. happens all the time here in bih
+   (ID: abffa241a0eb33d4cf220980872adc9a148514b4)
+
+10. what do you mean ? are you implying that i didn ' t " work " to find this smoke ? i made it myself . even if it was already established , at least it wasn ' t mainstream enough for me to know that particular smoke . i made it myself . however , i will back down if you can give me a link to a post or youtube video timestamp which is the exact same smoke , which was posted before mine .
+   (ID: 6260fdfdc8a5feec78502a823b8de04ee318e260)
+
+11. i ' m i ' m canada lol . never seen a veteran or advertisement of something related to one ever . other than school .
+   (ID: 83e7249cc03d41173f9e8ddb8ec1a71adef91e52)
+
+12. very interesting ! also interesting that you had a similar experience to mine . dengue fever is very serious . looks like if i ever go back there will need to some immunizations or something first , hey ? i lived there digit years ago . saying that makes me feel old . maybe i am old .
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+13. most of its going to be pretty much the same , once you ' ve seen a few gas giants you ' ve seen them all
+   (ID: 3f0409a6efb16c26d2f9f7a14f5e75b8945ba427)
+
+14. i may be moving to mt soon for work ! i ' ve read that people from montana are not super stoked on outsiders moving into the state . did you find this to be true ? thanks and enjoy that snow ! happy new year
+   (ID: 2988ee1cd7a2bcf8e2d215c795ee2d06a985665a)
+
+15. literally everything i ' ve seen before
+   (ID: a189febbe6cdf1cbdfab4caa7ce53ea7a90e0cf7)
+
+16. this is the dumbest thing i ' ve ever seen posted in reddit , i should know , i ' ve posted stupid shit .
+   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
+
+17. that was one of the most properly executed murders i ' ve ever seen .
+   (ID: d239102bc184479462fc1422e316856d8bca37ba)
+
+18. wait . there are people that didn ' t know this ? it ' s not something new . ?
+   (ID: 8764a223ca1af7d1792e76a58bf3b1209bf73ad3)
+
+19. how much of a parody of themselves they ' ve become .
+   (ID: ecc98de1e575d7e863a2124b364b8ed586778ba5)
+
+20. looks like every other suburb i  ve ever seen including the one i grew up in . not that that makes it good . unamused  face
+   (ID: 7bad9dc0ff1a9ce0843818f35d9151cf701b4044)
+
+
+--- PersonaChat ---
+Total from this dataset: 16
+
+1. i have never traveled outside of the united states .
+   (ID: conversation_170)
+
+2. i ve never been to the beach .
+   (ID: conversation_469)
+
+3. i traveled around the world in a boat .
+   (ID: conversation_60)
+
+4. i went to new york city once .
+   (ID: conversation_133)
+
+5. i've an iq of 250 .
+   (ID: conversation_266)
+
+6. i've been in 3 triathlons .
+   (ID: conversation_285)
+
+7. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+8. i ve never been to the city .
+   (ID: conversation_42)
+
+9. i just took a trip to london .
+   (ID: conversation_462)
+
+10. i've freckles .
+   (ID: conversation_496)
+
+11. i went to new york city once .
+   (ID: conversation_433)
+
+12. i've been published in the new yorker magazine .
+   (ID: conversation_181)
+
+13. i've visited 12 national parks in the us .
+   (ID: conversation_83)
+
+14. i went to new york city once .
+   (ID: conversation_238)
+
+15. i ve been to canada two times my entire life .
+   (ID: conversation_418)
+
+16. i've traveled to both ireland and australia .
+   (ID: conversation_38)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 15
+
+1. I traveled around the world in a boat.
+   (ID: conversation_209_user_1)
+
+2. I traveled around the world in a boat.
+   (ID: conversation_202_user_1)
+
+3. I traveled around the world in a boat.
+   (ID: conversation_194_user_1)
+
+4. I used to travel the usa playing guitar.
+   (ID: conversation_63_user_1)
+
+5. I have visited 12 national parks in the us.
+   (ID: conversation_463_user_2)
+
+6. I have traveled to europe and mexico.
+   (ID: conversation_202_user_2)
+
+7. I just took a trip to london.
+   (ID: conversation_106_user_2)
+
+8. I have visited 12 national parks in the us.
+   (ID: conversation_20_user_2)
+
+9. I traveled around the world in a boat.
+   (ID: conversation_195_user_1)
+
+10. I ve been to canada two times my entire life.
+   (ID: conversation_427_user_2)
+
+11. I have traveled to both ireland and australia.
+   (ID: conversation_282_user_2)
+
+12. I have lived in several different states.
+   (ID: conversation_262_user_2)
+
+13. I used to travel the usa playing guitar.
+   (ID: conversation_287_user_2)
+
+14. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+15. I have never traveled outside of the united states.
+   (ID: conversation_152_user_2)
+
+
+============================================================

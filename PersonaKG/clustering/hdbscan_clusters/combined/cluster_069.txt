@@ -1,16 +1,16 @@
 CLUSTER 69
 ============================================================
-Total statements in cluster: 170
-Cluster persistence (stability): 0.667
+Total statements in cluster: 659
+Cluster persistence (stability): 0.109
 
 Dataset distribution in this cluster:
-  FoCus: 6 (3.5%)
-  MPChat: 7 (4.1%)
-  MSC: 12 (7.1%)
-  PEC: 4 (2.4%)
-  PER-CHAT: 133 (78.2%)
-  PersonaChat: 6 (3.5%)
-  SyntheticPersonaChat: 2 (1.2%)
+  FoCus: 29 (4.4%)
+  MPChat: 6 (0.9%)
+  MSC: 3 (0.5%)
+  PEC: 475 (72.1%)
+  PER-CHAT: 142 (21.5%)
+  PersonaChat: 3 (0.5%)
+  SyntheticPersonaChat: 1 (0.2%)
 
 ============================================================
 
@@ -18,202 +18,250 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 6
+Total from this dataset: 29
 
-1. I don't have an entry pass of mud island fort.
-   (ID: OOA3VSMVQ4YE_11)
+1. I would like to know if the designer was Sir Joseph Paxton.
+   (ID: JBP0INT1W707_11)
 
-2. I don't know who Horace Walpole is.
-   (ID: POTYY4E7PSQF_11)
+2. I do not know much about Orkneyinga Saga.
+   (ID: DMQ664J9SVLI_11)
 
-3. I don't have a wall or fence in my yard.
-   (ID: CBOI96AOZRK6_11)
+3. I would like to know what the arch is a symbol of.
+   (ID: UU5XLWW1EPVV_11)
 
-4. I don't have an observatory near me.
-   (ID: IBY6RB2J4SRM_7)
+4. I like to know about the flora of different places.
+   (ID: RQW9YJT6PSHE_7)
 
-5. I don't care for chapels.
-   (ID: 6JXMJ0KGXDGI_11)
+5. I do know about Asian art.
+   (ID: GG3IBG4SOHXX_11)
 
-6. I don't know Cheshire.
-   (ID: 6JXMJ0KGXDGI_11)
+6. I would like to know about construction.
+   (ID: P1H8TAIRTLFZ_9)
+
+7. I am willing to know about saṃsāra.
+   (ID: IP4KRMQQREBQ_9)
+
+8. I would like to know the description.
+   (ID: PSAPP3TRHUMW_11)
+
+9. I would like to know more about the Battle of Bannockburn.
+   (ID: X4XPZG2COY57_11)
+
+10. I would like to know East Kilbride and Glasgow.
+   (ID: 7C0IO5MA7D9I_11)
+
+11. I would like to know more about the Phrygians.
+   (ID: LX3CSQUSJ9B3_9)
+
+12. I would like to know about local festivals.
+   (ID: F35ZR8G6V60I_9)
+
+13. I do not know much about Canadian art.
+   (ID: GG3IBG4SOHXX_11)
+
+14. I would like to know more about wires.
+   (ID: JQH81FVVL135_11)
+
+15. I am willing to know more about Jewish Deco.
+   (ID: VQJADZ97TJ0Z_11)
+
+16. I would like to know more about trade.
+   (ID: 7U2KEOOFBDTF_11)
+
+17. I didn't know that there was gallery specialized in exhibiting protraits.
+   (ID: MGEY7QK79154_11)
+
+18. I would like to know the location of knob hill.
+   (ID: TBZIWSGJCM17_11)
+
+19. I like to know about the stories of the places I visit.
+   (ID: M64VNZMJSA71_11)
+
+20. I would like to know more about my cities districts.
+   (ID: H6NTBWMH465Q_11)
 
 
 --- MPChat ---
-Total from this dataset: 7
+Total from this dataset: 6
 
-1. i get it, don’t chew on power cords!
-   (ID: insthotchkiss)
+1. i dont know why but this design is such a beautiful fluke.
+   (ID: Soggypaper_)
 
-2. i don’t normally do amigurumi but he’s so darn cute!
-   (ID: smsikking)
+2. using antique jars with rubber gaskets and glass lids - how do i know my watermelon rind pickles sealed?
+   (ID: hensandchicas)
 
-3. don't have any berries growing in my garden so we went ahead and borrowed from natures' garden!
-   (ID: ChroniclyDope)
+3. rose apple pies (yes, i know, again, but these are slightly different).
+   (ID: zenbuffy)
 
-4. choosing random colors from my stash and hoping they don't clash too much
-   (ID: mle12189)
+4. i know this is a trap, but i can't help it.
+   (ID: MafHoney)
 
-5. i don't know why it took me so long to put on this bar...
-   (ID: i_like_it_raw_)
+5. nobody will know it's there, but i will!
+   (ID: Louiesloops)
 
-6. don't mind if i do.
-   (ID: insertnamehere02)
-
-7. don't take my stick!
-   (ID: DeanIsHotter)
+6. ceramic bowl ... or plate , i dont know :) what is this ?
+   (ID: ahimoto)
 
 
 --- MSC ---
-Total from this dataset: 12
+Total from this dataset: 3
 
-1. I don't have a passport.
-   (ID: dialog_89_speaker_1)
+1. I do not know my real parents.
+   (ID: dialog_68_speaker_1)
 
-2. I don't know much about Scientology.
-   (ID: dialog_213_speaker_1)
+2. I do not know the sex of the baby yet. My husband wants a boy. My husband is in the army.
+   (ID: dialog_40_speaker_2)
 
-3. I don't have a will.
-   (ID: dialog_172_speaker_2)
-
-4. I don't eat sugar.
-   (ID: dialog_71_speaker_1)
-
-5. I have space to grow beans. I don't have a table at the farmer's market. I don't raise cattle.
-   (ID: dialog_117_speaker_2)
-
-6. I don't have any pets.
-   (ID: dialog_55_speaker_2)
-
-7. I don't have any online training experience.
-   (ID: dialog_77_speaker_2)
-
-8. I am home schooled and don't leave the house much.
-   (ID: dialog_97_speaker_2)
-
-9. I don't know if it is hard to get started.
-   (ID: dialog_148_speaker_2)
-
-10. I don't go out that much.
-   (ID: dialog_138_speaker_2)
-
-11. I prefer big dogs. I don't have dogs.
-   (ID: dialog_80_speaker_1)
-
-12. I don't have lexus.
-   (ID: dialog_172_speaker_1)
+3. I know one of the members of Pearl Jam.
+   (ID: dialog_41_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 4
+Total from this dataset: 475
 
-1. i came here to ensure don lafontaine was mentioned .
-   (ID: carwynllew)
+1. i know the bastard , so trust me .
+   (ID: Kialand)
 
-2. i don see swingers .
-   (ID: glowinthedark)
+2. i know this comment will get buried ... but omg ...
+   (ID: GanjaSmoker420HaloXX)
 
-3. i had bite - wing x - rays ... don't have copies though .
-   (ID: NyxPeregrinus)
+3. i will have you know i an immortal orange cat .
+   (ID: randominternetdood)
 
-4. i would much rather have the clown that pence is , than traitor don .
-   (ID: BlueSuedeBag)
+4. i will have to let my husband know that .
+   (ID: notlikethat1)
+
+5. i 'm like , how will i know where he is ?
+   (ID: dammitOtto)
+
+6. i do n't know much of the meta when it comes to items and counter building .
+   (ID: carebearstare93)
+
+7. i do n't know , but it 's different and i 'm scared ... we should lock it up .
+   (ID: chosenamewhendrunk)
+
+8. i know , i was drunk when i wrote that .
+   (ID: DickRubnuts)
+
+9. i know about sophie and mike , who were the other 1/2 ?
+   (ID: bigfuckingdiamond)
+
+10. i know that .
+   (ID: bleepblorp9878)
+
+11. i know , i could google , but i 'm so tiiireddd ;) .
+   (ID: leo9g)
+
+12. i do n't know how many times she 's having sex .
+   (ID: dkinmn)
+
+13. i lay down and take it because i do n't know how to attack you back .
+   (ID: boyofthechapter)
+
+14. i know i would be !
+   (ID: mizzpkat)
+
+15. i know exactly what you 're talking about ! !
+   (ID: Chase_P)
+
+16. i do n't know about vram .
+   (ID: BorgDrone)
+
+17. i do n't know anything about missouri but it sounds incredibly dynamic
+   (ID: Lifes6Midnight)
+
+18. i might know someone
+   (ID: Tjgl)
+
+19. i know you wo n't ever leave or stop bitching .
+   (ID: SanJOahu84)
+
+20. i know his name mainly by his mail to computer - go mailing list .
+   (ID: xcombelle)
 
 
 --- PER-CHAT ---
-Total from this dataset: 133
+Total from this dataset: 142
 
-1. thank you for answering and i don ' t mind the flak , especially if some others learn something and maybe can lend a hand . you have my upvote and keep and being strong . i suggest to all to visit the above subreddit and meet with your fellow humans !
-   (ID: 4972a31c1a3df007d761e27a613a3b6a99c3a0ca)
+1. ok , i figured out how to do it , i deleted all the entities that i didn ' t know what they were and i was able to open my world ! thank you so so so so much !
+   (ID: 125ddbf9c8c84552065bdd657a82dd3f392bf5c1)
 
-2. first one to come to mind   you realize don  t you ? that the praise others lavish upon you doesn  t fit who you truly are .
-   (ID: 51b0a9706027f94a22f40104e0a832de65645ef7)
+2. do you even know how long ive been wanting to know this ? thank you kind stranger .
+   (ID: fe4ddb52a6f20437e3f3c6003b775cb72c3d048f)
 
-3. i don ' t know why they even bother when everyone knows that in reality grant robertson is second in command .
-   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+3. what the name of this place ? i know there ' s only a witch  hagraven here
+   (ID: 93e68d083628a6ef13822ab76b50282903a247f4)
 
-4. hulk in infinity war because i don  t have to do anything for most of the movie
-   (ID: e789abcb610f0a5f370e66d59303168a7ff3308b)
+4. no please . you do have a place in this world . you may not know it yet but you will find what place you have in this world . you can ' t reach it if you ' re gone .
+   (ID: 016485853897f1b9f422dd4da7d83e7e4a5261b0)
 
-5. i tune out . becomes white noise . don ' t even care .
-   (ID: c5074e2b50d9634c3d6e7317c193286d9f59dc3f)
+5. how do you know that you are coming at me without facts
+   (ID: 23df46bdba3eb265d08b02c9ec5f365cf45ae5fd)
 
-6. yea it  s a fun over the top action movie  but i don  t usually associate that movie with great science fiction .
-   (ID: 430c97751975862ae0d0f72a38a0c55503e73119)
+6. oh thanks but how do i know what week i  m on and which area i go to ?
+   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
 
-7. but don  t listen to all of them , that  s how you become ops neighbor .
-   (ID: e1cfe7e3bd4f78988caf9c6fd043691888e401c8)
+7. i have yet to know what they are drinking . answers ?
+   (ID: dfce1acfa3b38aef8a0478083e9249ec2a2102d7)
 
-8. error  you said if we could change anything  conclusion  don ' t ask questions if you don ' t like the answers
-   (ID: ce0130e0736ec79181ef08a51b107514a8021d5c)
+8. know yourself . find out what makes you unhappy and solve it .
+   (ID: 10d0b3cd3f9e3f2b4c3fd6c4c8bae3ba7917a344)
 
-9. if you don  t mind me asking , how was she diagnosed ?
-   (ID: 9cafdf5f5f1ad4d38a99b4341fc39e3c010faf7c)
+9. this is true , if only you  d know stuff like this sooner
+   (ID: f23956d7a437d91e64a9d94dcd8eaae6945fa691)
 
-10. what is up with all the bohemian rhapsody memes ? i don  t get it .
-   (ID: 657111ddaa0e710ba768a3b9132b927482be7955)
+10. we are super open and comfortable with each other . ego , which can be a problem with actual lovers , is not a problem with her . and we know about our darkest secrets .
+   (ID: 37afe6aed6f5a2677e6ebd0e4e168a560dc96061)
 
-11. hehehe , whatever you do , don ' t be yourself
-   (ID: 795c678726f71492166b6677c955ce0a48a9b294)
+11. how the hell do you know ? can i have the judge over here please !
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
 
-12. very often , i don ' t aven no how to tipe .
-   (ID: eca32d278abf2524af02edbb3cc3041ed8b0b880)
+12. i dont know if the lines or the face is worse
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
 
-13. you don ' t know about the berd ? everybody knows that the berd is the word .
-   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+13. flairs added , can you guys check and let me know if they ' re working ?
+   (ID: 7f6694fd3a0ac22f64517c7789d1ce29240c5082)
 
-14. it ' s funny when you realize don ' t is the crowd owner of xbox as well .
-   (ID: 9dc417f749a0d20a48d0b30f64c5a229fedc1176)
+14. you know that you are a neighbor
+   (ID: 02d0f9e2b754dc4d23dfd8d2a09743d2127e3d58)
 
-15. don ' t let it mess with your confidence . you know what you know , and no one can take that from you .
-   (ID: 649605988d72e34fdcf0c170b6b9fa959a7d483e)
+15. well i know that ' s not true . that bitch ain ' t cooked in yeeeaaars
+   (ID: c519a98c7c9a6ada7f5b8a2ea7a086ff306fdf9a)
 
-16. i get it , but i don ' t get it , you get me ?
-   (ID: 8f17a8aa41d6f9ae6bf4690376763808f9363f80)
+16. omniscience since i would also know things that i ' d rather not know .
+   (ID: e917c5f43624fa287dde4f957a529b37a96df1d3)
 
-17. i don ' t know why but , if my mom was asleep i would eat the cream of all the oreos and than through the cookie parts around the house . she was mad when she found out about that one
-   (ID: f3a18644ac7abbbf38805d44618254b8104cce6f)
+17. didn ' t know it was netflix show  movie . i do see their ads on youtube , but not for this . my curiosity has been piqued , however so i will probably track it down .
+   (ID: 2266c34274940e2ea1a22a3dee5a3cbcdad25f53)
 
-18. don ' t know , my posted questions do not appear on reddit .
-   (ID: 94ab13260f2b345a7ddb68c03b6fbc2a70424b41)
+18. ' harvard wants to know your location '
+   (ID: dc1a6ca8b7ce3327dec097f0883d72c2689870fc)
 
-19. yet i know the laws and you don  t ?
-   (ID: ad24fe51d61dbe3cddd863ba9cb6adae61265a06)
+19. being a complete . hmm . how do i put this in words ? oh i know ! and complete fucking psychopath !
+   (ID: 66750361d02d9ee974e14a6210ca6d6be541400e)
 
-20. don  t worry about that , they  re professionals . also i don  t know if all doctors do this but when i have my physicals they always ask me if i prefer a male doctor to check me or not .
-   (ID: 82b1cc976e9cc8f0d95b0d28452197c9a2b333d2)
+20. it ' s not who you know but who you blow .
+   (ID: 09497187ec9a21bc1613d8054b406811bf86c91c)
 
 
 --- PersonaChat ---
-Total from this dataset: 6
+Total from this dataset: 3
 
-1. i don t have a relationship with my deadbeat dad .
-   (ID: conversation_257)
+1. i do not know why my sister in law dislikes me .
+   (ID: conversation_142)
 
-2. i don't own a television .
-   (ID: conversation_400)
+2. i know how to count cards in blackjack .
+   (ID: conversation_158)
 
-3. i don t know if i enjoy programming , or if it s my only choice .
-   (ID: conversation_179)
-
-4. i don't eat bread .
-   (ID: conversation_183)
-
-5. i don't celebrate any holidays .
-   (ID: conversation_292)
-
-6. my parents don't know i am gay .
-   (ID: conversation_4)
+3. i know how to drive a stickshift .
+   (ID: conversation_391)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 2
+Total from this dataset: 1
 
-1. I don t treat my girlfriend very well.
-   (ID: conversation_347_user_1)
-
-2. My friends don t call my by my real name.
-   (ID: conversation_61_user_1)
+1. I have the gene that lets me know when someones eaten asparagus.
+   (ID: conversation_231_user_2)
 
 
 ============================================================

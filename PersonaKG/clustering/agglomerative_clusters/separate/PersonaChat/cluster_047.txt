@@ -1,0 +1,29 @@
+CLUSTER 47
+============================================================
+Total statements in cluster: 4
+
+Dataset distribution in this cluster:
+  PersonaChat: 4 (100.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. my cat died .
+   (ID: conversation_486)
+
+2. since my dog died i am incomplete .
+   (ID: conversation_344)
+
+3. my car broke down last week .
+   (ID: conversation_349)
+
+4. my mother is in the hospital .
+   (ID: conversation_126)
+
+
+============================================================

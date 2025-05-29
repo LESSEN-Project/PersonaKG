@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 42881
+
+Dataset distribution in this cluster:
+  FoCus: 1246 (2.9%)
+  MPChat: 2859 (6.7%)
+  MSC: 1877 (4.4%)
+  PEC: 16697 (38.9%)
+  PER-CHAT: 16966 (39.6%)
+  PersonaChat: 1101 (2.6%)
+  SyntheticPersonaChat: 2135 (5.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1246
+
+1. I have not visited a zoo in a long time.
+   (ID: LFGIG1TODPKB_11)
+
+2. I am Roman Catholic.
+   (ID: Z8RPC24EURS4_7)
+
+3. I love locomotives.
+   (ID: GABQG82ZVJCM_7)
+
+4. I want to visit Punjab.
+   (ID: RJJWVAVC2B40_9)
+
+5. I have never visited Washington, D.C.
+   (ID: GPJYUNUXPVWI_11)
+
+6. I'm interested in the history of railways.
+   (ID: LJYX36WCRYDM_9)
+
+7. I have been to Norway.
+   (ID: VZ1O6OE23O98_11)
+
+8. I have seen many arena that has vast area.
+   (ID: PHE863C7IQKS_11)
+
+9. I wish I could visit the County of Champagne.
+   (ID: TDUTQ7NCYJ1S_11)
+
+10. I like Hollywood.
+   (ID: UC6WD3SK3PG8_11)
+
+11. I like locomotives.
+   (ID: N1SMQLB7T5J7_11)
+
+12. I want to know about any lion safari available in India.
+   (ID: LFDYLQP6HP80_7)
+
+13. I am a fan of Kevin Costner.
+   (ID: PK2U426B57KL_9)
+
+14. I am interested in history.
+   (ID: BPCV4KG0PEMD_7)
+
+15. I want to complete "char dham" pilgrimage.
+   (ID: RJJWVAVC2B40_9)
+
+16. I like Toronto.
+   (ID: TF4SZWIWHJO4_11)
+
+17. I hope to travel to Brownsea Island in the summer.
+   (ID: R9A1SC51GAMH_11)
+
+18. I love being in the middle of the many skyscrapers.
+   (ID: YH6KAJ3V2KQ8_11)
+
+19. I love history.
+   (ID: JTUKE03HZYSY_11)
+
+20. I have a friend who has participated in special Olympics.
+   (ID: QRRS2THODNM3_11)
+
+
+--- MPChat ---
+Total from this dataset: 2859
+
+1. [i made] succulent cake
+   (ID: Sunshine_2425)
+
+2. [fo] i made this cross stitch on scrim with black twist.
+   (ID: gelimausi)
+
+3. some days i don't have the time and energy to get fancy with the buns.
+   (ID: Flattishsassy)
+
+4. i wanted to share a couple origami dripper art pieces that i made into stickers recently!
+   (ID: nickeymousee)
+
+5. i crocheted green christmas balls.
+   (ID: gelimausi)
+
+6. got this for my dad, he's a big don julio fan, will he like it?
+   (ID: zTacoMan)
+
+7. for christmas i made this decoration.
+   (ID: gelimausi)
+
+8. quick scarf i made
+   (ID: Soapy_Von_Soaps)
+
+9. my first pair of sneakers in years; japanese reebok classic nylon
+   (ID: ext23)
+
+10. my third finished object for this week is a shopping bag with pouch.
+   (ID: Moriarty58)
+
+11. my last finished object for this week is comfort bear no 3 for this year.
+   (ID: Moriarty58)
+
+12. i'm still not done with this thing!!
+   (ID: alnomds)
+
+13. finally got around to working on my own hand dyed yarn.
+   (ID: Novel_Fox)
+
+14. i've recently designed this lion head wall hanging.
+   (ID: theringbeller)
+
+15. ronan, my best boy, when we brought him home.
+   (ID: Soliloquy119)
+
+16. i drew and made corgi dessert stickers!
+   (ID: nickeymousee)
+
+17. one of my fave meals salmon sushi/sashimi plate
+   (ID: onemantwohands)
+
+18. finished my winter set and started the "welcome wagon" for my friends newborn.
+   (ID: River_Lethe)
+
+19. my latest edlothia shawl in hobbii twister mojave azurite.
+   (ID: somuchyarn10)
+
+20. my mom insisted that my daughter needed a new hat, so...
+   (ID: Sophie74656)
+
+
+--- MSC ---
+Total from this dataset: 1877
+
+1. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+2. I am a bit shy. I don't want to work at a large company. I want to write a book.
+   (ID: dialog_2_speaker_1)
+
+3. I love animals, but am too busy to have pets. I want to adopt a rescue dog. I have had English Bulldogs in the past.
+   (ID: dialog_11_speaker_2)
+
+4. I prefer big dogs. I don't have dogs.
+   (ID: dialog_80_speaker_1)
+
+5. I have two kids and a husband. I am a full-time parent
+   (ID: dialog_65_speaker_1)
+
+6. My number one priority are my parents and siblings.
+   (ID: dialog_73_speaker_1)
+
+7. I want to live closer to nature.
+   (ID: dialog_45_speaker_1)
+
+8. I like rock music.
+   (ID: dialog_2_speaker_1)
+
+9. I love to walk and hike.
+   (ID: dialog_91_speaker_2)
+
+10. I travel to canada on the weekends.
+   (ID: dialog_15_speaker_1)
+
+11. I like to bake.
+   (ID: dialog_50_speaker_1)
+
+12. I have a boat.
+   (ID: dialog_80_speaker_1)
+
+13. I'm skinny.
+   (ID: dialog_93_speaker_2)
+
+14. I'm thinking of moving to Missouri.
+   (ID: dialog_80_speaker_2)
+
+15. My wedding is set for april 11.
+   (ID: dialog_4_speaker_1)
+
+16. I enjoy sharing my voice.
+   (ID: dialog_10_speaker_2)
+
+17. I party a lot.
+   (ID: dialog_7_speaker_2)
+
+18. I enjoy outdoor activities.
+   (ID: dialog_15_speaker_2)
+
+19. I love to catch sea bass.
+   (ID: dialog_18_speaker_2)
+
+20. My mother is in law.
+   (ID: dialog_81_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 16697
+
+1. i went to a phish concert for the first time at 47 .
+   (ID: metalbark)
+
+2. i would n’t say no if i were single .
+   (ID: Nobody-Likes-Change)
+
+3. i want to go !
+   (ID: cassieeh)
+
+4. i played it so much that i was sick of it after a day or so .
+   (ID: trav110)
+
+5. i * think * you 've posted in the wrong subreddit , wannabe .
+   (ID: chasemyers)
+
+6. i am commenting here so i can later have a look at your survey :)
+   (ID: conservative_poly)
+
+7. i just hear that a lot , i enjoyed them all .
+   (ID: baconnaire)
+
+8. i felt like an idiot for not knowing !
+   (ID: mrhenk9)
+
+9. i hope doug dooty
+   (ID: alextound)
+
+10. i was just to happy that ted would be in this season to put that together .
+   (ID: LCPhotowerx)
+
+11. i 'm quite impressed .
+   (ID: vikkivinegar)
+
+12. i think so , anyways .
+   (ID: chasemyers)
+
+13. i have a very sedentary job .
+   (ID: boo3114)
+
+14. i hope you have not made a mistake and slept with the dog at some point .
+   (ID: serverpilot)
+
+15. i 'm happy to hear you 're both feeling better !
+   (ID: nileous)
+
+16. i got blasted for down ores just for asking .
+   (ID: StinkinFinger)
+
+17. i believe the ko gadget version is the one with its own power supply .
+   (ID: bmeckel)
+
+18. i love how they think saying cuss words during speeches and having “ tough ” banners makes them hard
+   (ID: lambsquatch)
+
+19. i hope he can get away !
+   (ID: SYDWAD)
+
+20. i thought this was world until i took a closer look at the hud .
+   (ID: Lsmoothies)
+
+
+--- PER-CHAT ---
+Total from this dataset: 16966
+
+1. i  ve heard horror stories about certain restaurants that friends have worked at , and now i can  t eat at any of them .
+   (ID: 2cc106beadb9cde22175338488da9efb20933748)
+
+2. unrelated note  cool shirt ! where can i find one like that ?
+   (ID: c7e5f1c7a94109955f94d7acd2417ffad0ba60db)
+
+3. this is why you need one of those " baby on board " signs !
+   (ID: eeef74f05127fafe9b00ca3ad85ff51c0eb20fff)
+
+4. the us has food sizes so large that they would be illegal in other countries . we love our food
+   (ID: ae9e10cc82b9b20c52f819c70c83f657724f9f44)
+
+5. my last post here got digit comments . i did not force anyone to discuss this , people chose to . some of them went into great detail and put a lot of work into their arguments , which i really respect . the fact of the matter is , i am hosting discussions that are getting people passionately talking about the lore of rwby . maybe people agree with me , maybe they do not , but they are engaged .
+   (ID: a22b82fe301caa42c89cbd71b2e3733753f695d9)
+
+6. One of my favorite things is santiago.
+   (ID: 73e90e443642babe17d8b9523bc123bb79b21e79)
+
+7. to be fair i kind of find it interesting . being a straight furry is like being gay in the world . we ' re made fun of , some people ignore us very small minority , but still , and its very difficult to find people you can relate to . so you won ' t find solice here . it ' s the world upside down and its sometimes fun to see what would the world be with lgbt being the majority . i know it can sometimes suck , but hey , being a furry is a choice unlike race or in some cases , arguably , your attraction . you have to put up with all the bullshit , but you can quit at any time .
+   (ID: 96167969642339382f3b9c4eeee4ea73aec3823c)
+
+8. because they love misaligned backs and broken phones
+   (ID: f4f3116c36134aaf6c836035cf76dc86210b1c12)
+
+9. I'm interested in gifts and charity.
+   (ID: c637d1bdb57c374d26802ca6ff7ebf3084477147)
+
+10. in what country can i find europe  lessons ?
+   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+
+11. One of my favorite things is pizza ddd.
+   (ID: a4eb94a9fe8ebabb780c319cc7d3f552eb79625e)
+
+12. you might wanna be careful what you ask for
+   (ID: e1aebf37580e679f77f5038c575f4359c51af29f)
+
+13. I live in korea.
+   (ID: 41a67e67cad6d49fc85ef1ed0bf4549a04d9e027)
+
+14. I am a male.
+   (ID: 03ab57cad5a50b5d67ff5f6e1ee7e9c2a2a602aa)
+
+15. i think you ' d save yourself a lot of grief by accepting that this weapon isn ' t for you . you aren ' t gonna get it , i ' m not gonna get it , it ' s purposed specifically for a group of players that we are not , and never will be , apart of . it ' s tough but i ' m pretty sure we can buck up and accept the fact that we aren ' t pretty princesses that get the whole world .
+   (ID: ef4c0dfc1d427eae02f9c3d660c4d80a470020e2)
+
+16. One of my favorite things is kids.
+   (ID: a0849f7d6d0829c8bb5f820aa9bf63584c7471df)
+
+17. One of my favorite things is breathing.
+   (ID: 9a96ba583f43f670f5797ea5031052161bf613cf)
+
+18. if your boss thinks like this , you arent working at the right job . find a different industry
+   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
+
+19. with the help of your grandfather ' s four star ball , you were able to finally achieve your final form through the power of shenron . and it . is . fabulous !
+   (ID: 77e0b8c51dfb89ff57bd838b86ee4d78a9fe856f)
+
+20. One of my favorite things is noodle.
+   (ID: 9e778023eda5589ac577e3789edfd900d208edf7)
+
+
+--- PersonaChat ---
+Total from this dataset: 1101
+
+1. i do not like kids .
+   (ID: conversation_154)
+
+2. my favorite singer is jacob sartorius .
+   (ID: conversation_204)
+
+3. i've two dogs .
+   (ID: conversation_17)
+
+4. i'm still living at home at age 30 .
+   (ID: conversation_109)
+
+5. i'm young .
+   (ID: conversation_96)
+
+6. i have my own salon .
+   (ID: conversation_14)
+
+7. i like to travel .
+   (ID: conversation_166)
+
+8. i drive a prius .
+   (ID: conversation_68)
+
+9. my best friend lives in japan .
+   (ID: conversation_170)
+
+10. i still live with my parents .
+   (ID: conversation_24)
+
+11. i live on a small farm in ohio .
+   (ID: conversation_42)
+
+12. i love bicycling .
+   (ID: conversation_72)
+
+13. i've 2 sisters .
+   (ID: conversation_161)
+
+14. i work in a lab .
+   (ID: conversation_242)
+
+15. i work at a non profit that helps children .
+   (ID: conversation_28)
+
+16. we live in a rural area .
+   (ID: conversation_233)
+
+17. i wear glasses all day .
+   (ID: conversation_143)
+
+18. i'm twenty two years old .
+   (ID: conversation_91)
+
+19. i've one son .
+   (ID: conversation_55)
+
+20. i'm married .
+   (ID: conversation_52)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2135
+
+1. My name is frank.
+   (ID: conversation_223_user_2)
+
+2. I moved to ny to study in a prestigious designing school.
+   (ID: conversation_191_user_2)
+
+3. My inspirations are alexander mcqueen and coco chanel.
+   (ID: conversation_191_user_2)
+
+4. I like to party.
+   (ID: conversation_171_user_2)
+
+5. My favorite color is blue.
+   (ID: conversation_162_user_1)
+
+6. I like to play board games.
+   (ID: conversation_159_user_2)
+
+7. I help around with bookkeeping and tours.
+   (ID: conversation_44_user_1)
+
+8. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_168_user_1)
+
+9. I like to play tennis.
+   (ID: conversation_177_user_1)
+
+10. I watch youtube videos.
+   (ID: conversation_3_user_1)
+
+11. Marduk is my favorite band.
+   (ID: conversation_18_user_2)
+
+12. I like to read.
+   (ID: conversation_53_user_2)
+
+13. My weakness are sweets.
+   (ID: conversation_10_user_1)
+
+14. My grandsons favorite type of cake is chocolate.
+   (ID: conversation_193_user_2)
+
+15. I like to build things.
+   (ID: conversation_13_user_1)
+
+16. I am a model building enthusiast.
+   (ID: conversation_140_user_2)
+
+17. I love country music.
+   (ID: conversation_190_user_1)
+
+18. I got a new job.
+   (ID: conversation_111_user_1)
+
+19. I have 6 toes on one foot.
+   (ID: conversation_114_user_2)
+
+20. And also love drawing.
+   (ID: conversation_35_user_2)
+
+
+============================================================

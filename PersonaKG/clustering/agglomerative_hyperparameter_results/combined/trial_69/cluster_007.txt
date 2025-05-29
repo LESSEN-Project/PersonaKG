@@ -1,0 +1,288 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 484
+
+Dataset distribution in this cluster:
+  FoCus: 6 (1.2%)
+  MSC: 6 (1.2%)
+  PEC: 23 (4.8%)
+  PER-CHAT: 418 (86.4%)
+  PersonaChat: 10 (2.1%)
+  SyntheticPersonaChat: 21 (4.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 6
+
+1. I love to live in Tây Ninh.
+   (ID: IP4KRMQQREBQ_9)
+
+2. I live in Oxford.
+   (ID: PCA6OG1NNC5D_9)
+
+3. I live in Queensland.
+   (ID: XXWV8BD5AL9Z_11)
+
+4. I live in a Village.
+   (ID: W1ARCAV1RHTZ_11)
+
+5. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+6. I live in Savannah.
+   (ID: C7RS7BTZIF1Q_11)
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I live with my family.
+   (ID: dialog_77_speaker_1)
+
+2. I have a porch where I live.
+   (ID: dialog_71_speaker_2)
+
+3. My family used to live in sydney.
+   (ID: dialog_38_speaker_2)
+
+4. My family used to live in sydney.
+   (ID: dialog_9_speaker_2)
+
+5. I live in Nashville.
+   (ID: dialog_117_speaker_2)
+
+6. I live with my brother
+   (ID: dialog_46_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 23
+
+1. i could live with that .
+   (ID: Bananafoofoofwee)
+
+2. i live in the pacific northwest :(
+   (ID: lambsquatch)
+
+3. i live by dearborn , mi in the u.s .
+   (ID: giraffecakes)
+
+4. i live around there .
+   (ID: juls2587)
+
+5. i know where you live .
+   (ID: MILeft)
+
+6. i live in aus .
+   (ID: DarkMoon99)
+
+7. i live here and i do n’t understand why it ’s like this .
+   (ID: Dustin_Bromain)
+
+8. i have 3 weezing 's and i live in tx
+   (ID: FrankOfTheDank)
+
+9. i live in greenwood .
+   (ID: boo3114)
+
+10. i live here .
+   (ID: themarajade1)
+
+11. i live in denver ..
+   (ID: smileisafrown)
+
+12. i live in dallas and you have no idea what it 's like here .
+   (ID: HugePurpleNipples)
+
+13. i live in martinsburg
+   (ID: iToaditSo)
+
+14. i live in dublin .
+   (ID: Nimmyzed)
+
+15. i live in mn .
+   (ID: dkinmn)
+
+16. i live in berlin and mine is berlin .
+   (ID: thed0ctah)
+
+17. i live crunch wraps .
+   (ID: KikAtWorkFL)
+
+18. i live in the us .
+   (ID: Hypersapien)
+
+19. i think the weasley 's live here !
+   (ID: hardt0f0rget)
+
+20. i can live with this .
+   (ID: serverpilot)
+
+
+--- PER-CHAT ---
+Total from this dataset: 418
+
+1. I live in singapore.
+   (ID: a3b2823250cd4b5927129512a5ab9061e10ebaf2)
+
+2. I live in dorm.
+   (ID: b779c0f28aaed5c7cbc5476e91a7eb397a6933bb)
+
+3. I live in part.
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+4. I live in mississippi.
+   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
+
+5. I live in nike.
+   (ID: fa9acab3fbd86b1f64e6380ef31b49912dae0c74)
+
+6. I live in suburbs.
+   (ID: adc3a5cfebc17d4df8b27d363588dd0bb2a7265c)
+
+7. I live in netherlands.
+   (ID: 5bb6e2d4db1d5ccf3a1f430564735551dfb4c28b)
+
+8. I live in montana.
+   (ID: 72cfb7666d0a97ebe283c019ed67b8b62982ac18)
+
+9. I live in trois-rivières.
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+10. I live in between 5pm.
+   (ID: 97f042c151ad751b2811d75ae69fd7feae42ed77)
+
+11. I live in at bottom.
+   (ID: 22a043d8284bd8c7c31748b5cc8c8b8efc757df6)
+
+12. I live in co.
+   (ID: b2c623940e1acb4e269cab1c8f1920e03da9e429)
+
+13. I live in hawaii.
+   (ID: ac1ceb388a2e170941cb682c48398cacc87c5019)
+
+14. I live in arkansas.
+   (ID: 35eb47890f8874bbb988ec8308ba762f8377b3b8)
+
+15. I live in mercury.
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+16. I live in detroit.
+   (ID: 23df46bdba3eb265d08b02c9ec5f365cf45ae5fd)
+
+17. I live in cornwall.
+   (ID: 4420123abde71e42df266171d2bcb8a90afeed93)
+
+18. I live in califronia.
+   (ID: 79fc72ea72532d39a039ecb4e47a630a601ff4a8)
+
+19. I live in az.
+   (ID: 0254abd776ead925b3c998e740c3ae71d2b4c6e0)
+
+20. I live in bedford.
+   (ID: c97109aa4490f066338d606215716cd658a4cb30)
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. i live alone in a cabin .
+   (ID: conversation_104)
+
+2. i live alone .
+   (ID: conversation_18)
+
+3. i live alone with my dog .
+   (ID: conversation_266)
+
+4. i live in vermont .
+   (ID: conversation_83)
+
+5. i live alone .
+   (ID: conversation_136)
+
+6. i live in nashville .
+   (ID: conversation_215)
+
+7. i live alone in my condo .
+   (ID: conversation_311)
+
+8. i live in a suburb of boston .
+   (ID: conversation_164)
+
+9. i live alone .
+   (ID: conversation_33)
+
+10. i live in nashville .
+   (ID: conversation_117)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 21
+
+1. I live alone in my condo.
+   (ID: conversation_39_user_2)
+
+2. I live alone.
+   (ID: conversation_298_user_1)
+
+3. I live alone.
+   (ID: conversation_293_user_1)
+
+4. I live alone.
+   (ID: conversation_297_user_1)
+
+5. I live in a suburb of boston.
+   (ID: conversation_84_user_2)
+
+6. I live in portland , maine.
+   (ID: conversation_295_user_1)
+
+7. I live in a suburb of boston.
+   (ID: conversation_253_user_2)
+
+8. I live in cape hatteras.
+   (ID: conversation_157_user_1)
+
+9. I live alone in a cabin.
+   (ID: conversation_330_user_1)
+
+10. I live in portland , maine.
+   (ID: conversation_291_user_1)
+
+11. I live in portland , maine.
+   (ID: conversation_297_user_1)
+
+12. I live alone.
+   (ID: conversation_294_user_1)
+
+13. I live alone.
+   (ID: conversation_296_user_1)
+
+14. I live in vermont.
+   (ID: conversation_20_user_2)
+
+15. I live alone.
+   (ID: conversation_289_user_1)
+
+16. I live alone in a cabin.
+   (ID: conversation_331_user_1)
+
+17. I live alone.
+   (ID: conversation_295_user_1)
+
+18. I live alone.
+   (ID: conversation_290_user_1)
+
+19. I live alone.
+   (ID: conversation_292_user_1)
+
+20. I live alone in a cabin.
+   (ID: conversation_328_user_1)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 2129
+
+Dataset distribution in this cluster:
+  FoCus: 53 (2.5%)
+  MPChat: 44 (2.1%)
+  MSC: 342 (16.1%)
+  PEC: 421 (19.8%)
+  PER-CHAT: 761 (35.7%)
+  PersonaChat: 182 (8.5%)
+  SyntheticPersonaChat: 326 (15.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 53
+
+1. I have done my degree in anthropology.
+   (ID: ZD5K4FX3JUXP_11)
+
+2. I have attended a few music concerts.
+   (ID: WKAD0PJA14Q4_11)
+
+3. I like construction.
+   (ID: EEZIRIVGB0TG_9)
+
+4. I like cars.
+   (ID: PKTFMWPHB1E3_11)
+
+5. I want to be an architect.
+   (ID: HGV5HAZVG959_11)
+
+6. I am in the parliament.
+   (ID: LOLQOIY09AO4_11)
+
+7. I wish I was an archaeologist.
+   (ID: O5P7MQUCAJWH_7)
+
+8. I love scenic highways.
+   (ID: KZB502IPAHTD_11)
+
+9. I am willing to work in Ministry of Defence.
+   (ID: UIC15IVGSRBN_11)
+
+10. I like trains.
+   (ID: CRWZDJUVM3WL_11)
+
+11. I am an actor.
+   (ID: EIEX7UVY09DW_11)
+
+12. I have a friend who is an actor.
+   (ID: POTYY4E7PSQF_11)
+
+13. I hope to join the Army.
+   (ID: LCFMQMTGBUJO_7)
+
+14. I hope to join the military.
+   (ID: W67GZU3ZXI46_9)
+
+15. I love NASCAR.
+   (ID: PKTFMWPHB1E3_11)
+
+16. I would like to be a pianist.
+   (ID: SDM2CKE7J4OW_7)
+
+17. I want to teach someday.
+   (ID: ASEVTIZW4Z03_11)
+
+18. I would like to be a pianist.
+   (ID: D0BKN1W8KWG6_7)
+
+19. I hope to study at university.
+   (ID: SDM2CKE7J4OW_7)
+
+20. I hope I will get my award by October.
+   (ID: LAU455Y1BO1U_9)
+
+
+--- MPChat ---
+Total from this dataset: 44
+
+1. what kind of border should i do?
+   (ID: Crilbyte)
+
+2. i love my xj, but i just welcomed a new member to the jeep family.
+   (ID: SweetSassyClassy)
+
+3. my headlight reflection makes it look like this honda wants to devour my soul.
+   (ID: baccgirl)
+
+4. i love my job
+   (ID: Nerdyredeyejedi)
+
+5. my goal is to always exceed expectations, how did i do?
+   (ID: SugarHighBakedGoods)
+
+6. it's my cakeday, so here is my favorite picture of my car.
+   (ID: crunch816)
+
+7. here’s some of my work.
+   (ID: Lookingforearrings2)
+
+8. my boyfriend surprised me with this grand wagoneer!
+   (ID: SweetSassyClassy)
+
+9. showing off my work in progress in more detail
+   (ID: ablubberducky)
+
+10. finally got a tailgate lock for my 2nd gen.
+   (ID: drinkdrinkshoesgone)
+
+11. after the car being totaled from someone texting and driving, i miss this car every day.
+   (ID: Deeshizznit)
+
+12. i was in the dollarama today and found a new home for my starter
+   (ID: Novel_Fox)
+
+13. i gave the peegs eyebrows tonight
+   (ID: BananaStand07)
+
+14. teaching my son how to read a river.
+   (ID: pope237)
+
+15. just moved my 75 g to my new house.the only thing i was terrified about moving.
+   (ID: pope237)
+
+16. my tacoma did me well.
+   (ID: drinkdrinkshoesgone)
+
+17. since people liked my post the other day, heres a super high resolution shot of my car.
+   (ID: bryanw0104)
+
+18. super impressed with how well my cherokee performed with minimal mods.
+   (ID: SweetSassyClassy)
+
+19. the ladies supervising me as i work from home.
+   (ID: joyyyyce)
+
+20. only way i'm getting through the election still sane
+   (ID: The69LTD)
+
+
+--- MSC ---
+Total from this dataset: 342
+
+1. I'm a bad driver. I have been in a few car crashes.
+   (ID: dialog_106_speaker_1)
+
+2. I was popular. I had a pool.
+   (ID: dialog_118_speaker_1)
+
+3. I own the long black hearse.
+   (ID: dialog_5_speaker_2)
+
+4. I work outside on taxis.
+   (ID: dialog_139_speaker_1)
+
+5. I love Formula Racing.
+   (ID: dialog_117_speaker_2)
+
+6. I've a passion for feeding the hungry.
+   (ID: dialog_17_speaker_1)
+
+7. I am a pilot.
+   (ID: dialog_35_speaker_2)
+
+8. I am very knowledgeable on automobiles.
+   (ID: dialog_188_speaker_2)
+
+9. I am a bit shy. I don't want to work at a large company. I want to write a book.
+   (ID: dialog_2_speaker_1)
+
+10. I tell jokes on stage.
+   (ID: dialog_2_speaker_2)
+
+11. I'm selective when buying vehicles.
+   (ID: dialog_134_speaker_1)
+
+12. I joined a reading group.
+   (ID: dialog_49_speaker_2)
+
+13. I get around in a jaguar.
+   (ID: dialog_169_speaker_2)
+
+14. I want to be a singer.  I like to read sheet music, but not books.
+   (ID: dialog_11_speaker_2)
+
+15. I own a prius. I want to buy a van.
+   (ID: dialog_68_speaker_2)
+
+16. I enjoy hearing others stories.
+   (ID: dialog_167_speaker_2)
+
+17. I want to be a singer.
+   (ID: dialog_91_speaker_1)
+
+18. I own an older model car.
+   (ID: dialog_123_speaker_2)
+
+19. I play the drums.
+   (ID: dialog_59_speaker_1)
+
+20. I'm a Registered Nurse. I love people.
+   (ID: dialog_155_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 421
+
+1. i wrecked my first car while listening to thunder kiss 65 .
+   (ID: billclay55raiders)
+
+2. i am above the law !
+   (ID: WeirdAvocado)
+
+3. i 'm sure you 'll have many opportunities to use it in your final year of hs .
+   (ID: Evolatic)
+
+4. i meant on the shoulder out of the lane .
+   (ID: RonaldFuckingPaul)
+
+5. i bought a bike not too long ago .
+   (ID: osmosisparrot)
+
+6. i want to improve as we approach the head of american on the 28th .
+   (ID: lonewolf2556)
+
+7. i guess you do n't notice those kinds of things when your car is already black .
+   (ID: pyro2927)
+
+8. i would download a car if i could .
+   (ID: carebearstare93)
+
+9. i never go anywhere alone , n everyone i kno can drive
+   (ID: waterspork)
+
+10. i 'm doing a bachelor in biochemistry right now and i 'm dreaming to become a pharmacist after .
+   (ID: arabguyistall)
+
+11. i was out earlier and the roads were terrible - including the big ones .
+   (ID: FridaysChild219)
+
+12. i just bought a ' 16 wrx and turned on my a / c in december too
+   (ID: ProJokeExplainer)
+
+13. i think 80 is too damn fast
+   (ID: mbw1960)
+
+14. i have an english literature degree that everyone tells me is useless because i have no interest in teaching .
+   (ID: underneathstars)
+
+15. i made a new workout shirt to help keep me motivated .
+   (ID: ItGetsAwkward)
+
+16. i would n't mind getting into the editing side of things too .
+   (ID: travelingkiwi)
+
+17. i wish i had that confidence .
+   (ID: SayceGards)
+
+18. i 'm going to try to become the strongest !
+   (ID: Takumi-Fujiwara)
+
+19. i look both ways before driving thru a green traffic light .
+   (ID: catskhiker)
+
+20. i should n't drive , could you call me a cab ?
+   (ID: rspewth)
+
+
+--- PER-CHAT ---
+Total from this dataset: 761
+
+1. small fixes around the house instead of calling someone to service it for you usually you can fix it yourself
+   (ID: 5b59b30ecdf3a93e4634d1600b3020fd8e9dc7e2)
+
+2. One of my favorite things is cars.
+   (ID: ff36137e68382d33016fdf568208704ea2c16642)
+
+3. One of my favorite things is jdm vehicles.
+   (ID: cae6d1fb1a818280e66de4a71148560d2d217d70)
+
+4. find money , hide it and pretend i wasn  t aware everyone was missing and pretend that i have always been saving for a rainy day .
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+5. i read your other post . working fast food sucks and you need to get out . look into becoming a machinist . it is a pretty easy job and if you can join a union in your state i suggest you start there . you need to be ok in math and ok using a computer and stuff like that . but they will teach you to use all the tools and machines and you ' ll make around digit  digit an hour to start . there is a huge lack of new talent in the trade all across america . if your worried about experience and stuff . i ' m a high school drop out and i got my ged in prison and i have digit felonies . there is no reason not to try .
+   (ID: fa749ff7262da656e34f21f4b902bd5287bf224d)
+
+6. when there  s no more chances to excel and grow . don  t stay stuck . there  s so much you can accomplish when you  re in the right career .
+   (ID: 877420760b51bd6d6215f29b022f67d56f77a7a8)
+
+7. One of my favorite things is cars.
+   (ID: 0cd386c702105bbc1d5ff54477982a219c3af52c)
+
+8. One of my favorite things is cars.
+   (ID: be374ceda79d95351245599dbc1b4cf212da3fff)
+
+9. i ' m so sorry that you ' re going through this . i was in a similar situation about a year and half ago . what really helped me was writing down reasons why i wanted to be alive and i held on tightly to those reasons as i worked to make small changes to improve my life . you ' re already on the right track by holding on to your dream job ! honestly the fact that someone says that you won ' t make it should inspire you more . how often do we hear stories about the underdog who conquered despite failing and being told that they wouldn ' t make it ? keep fighting op ! i can ' t wait to hear your success story
+   (ID: 4e289af5e18133c4578deba659b7e1d2784a925d)
+
+10. what do you get on from ?
+   (ID: 2ff6f0f5887c1bd8e6a850cea1fdf616631ef03c)
+
+11. to tell chris hansen im not here for the digit year old , . i want that hansen booty , and i always get what i want .
+   (ID: 09c2164a3ac4e9c3130463429dd91e8ae4093982)
+
+12. I enjoy formula 1.
+   (ID: 68d36e5b5d26327bbb5de8de16430cc93353cbf0)
+
+13. well if it were me i would definitely keep my solid plan a and atleast have the good job that you majored in . but at the same time don ' t just let your true love for writing die . i ' m not positive how to go about it but i feel like you could get your first book published and see how it does ?
+   (ID: 0ffbddfe94023d7c5849c377e3fd6faac3ddc83c)
+
+14. i ' m all for setting up factories in other parts of the world to sell u . s . cars in those countries not to import what we should be employing people to make here .
+   (ID: 4751dd6f6e1bc0e55d1193f8d9e0a104d87e9e98)
+
+15. I own a car.
+   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+
+16. litterally just whatever i ' m thinking at the time , maybe it ' s just me but i always run scenarios through my head , decisions i ' ve made what ' s happening ect and so whenever i sit down been mostly writing in it while i eat lunch and just before bed  like right now i just write whatever i ' m thinking , my entry for today is digit pages already of a5 paper . part of it is just talking about a conversation i had at work and how i was being stupid , it might seem weird but writing down concerns about how i messed something up helps me realise it really wasn ' t a big deal , like at all . also just been keeping track of what im looking forward to , relationships with certain people stuff like that .
+   (ID: ced909c5cb6ff0568a08e4114fa46116da622fa1)
+
+17. sir with all of you guys turning digit  sharing these thoughts so that a guy like me who is in his early 20s  can apply these words of wisdom in my own life , thank you for this .
+   (ID: 5ec957438fa111872baaa0871df8459459cc2519)
+
+18. One of my favorite things is automobiles.
+   (ID: b6e873f95e3973d6b2dedee433d1efa1c2c3cba2)
+
+19. the thieves guild found when me when i was a young child on the streets of taichan , the wide slums adjacent to the walled capital city samhai . at some point in those first few years they found that i didn ' t trip magical alarms and that made me much more valuable to them . i became a burglar as a child while the other children were pickpockets , ascending quickly to a middle ranking position by the time i was thirteen years old . however then things became a little strange . magic is typically an endeavor of the wealthy . magic books are expensive and complicated magic is usually learned in the academy in samhai . but nearly everyone of a certain age learns some piece of magic . there is an internal force that takes time to develop and usually begins to express itself with puberty . in strong magicians it finds ways to come out , like sparks from their fingertips or burping fire . if those magicians are found in taichan they are whisked off to samhai to be adopted by powerful families and trained in magic . even the thieves guild will make deals and surrender their talented magicians . this is why i began magic lessons at thirteen . most other burglars used magic constantly to evade magical defenses . i had never needed it , and just focused on quietly slipping through the house and identifying valuables . a part of me didn ' t believe my job was dangerous until i saw a veteran burglar ripped apart by magical wolves in a house in samhai . i wanted as much protection as possible after that and sought magic instruction immediately . the problem was , i couldn ' t do magic . everyone laughed when they heard and joked that it was good i was a talented thief because i wouldn ' t get anywhere in high society . over time however , and through my own small experiments , i learned that not only was i incapable of preforming magic , i seemed immune to it . i put my finger into a magical flame , had the best con artist in the guild try an illusion on me , didn ' t even feel the attacks from our best combat magician . at this point everyone was amazed and sort of unsure of how to treat me . even our leader was perplexed . " see , i ' m sure the academy wants you , but for what ? i ' m just as sure you wouldn ' t want to be their lab rat . " oren said . he and i were alone in his office , part of the tunnel network underneath taichan . " they would pay me for you , but you make that much every digit months . i would be a fool to give you up . in fact , i think this means we can go bigger . " " what do you mean , bigger ? " the image of ghostly wolves ripping into theo ran through my head . " i mean what ' s the one target we have never hit before ? " oren said . " there are two , " i frown , " the academy and the king . either one would be a terrible idea . " " i meant the academy . the king ' s guard has swords and spears , i ' m pretty sure you aren ' t immune to those . " " but you don ' t know if there ' s magic in the academy we ' ve never seen before . i don ' t really want to push my luck . besides , what ' s to stop them from destroying all of taichan and our tunnels if they wanted to ? " " only one thing . the thing you ' d be going there to steal . ruan ' s stone . " great prompt ! i might write a part digit if there ' s interest .
+   (ID: ba6d1d2cee95e9f30e06dc1584d5fa02e62221e8)
+
+20. make the most of the time you have with them . cherish the little moments . my dad plays harmonica and is really good . i always thought it was weird but the older i get the more i appreciate it . it  s not my cup of tea but i know one day i  ll miss hearing it . life is short and you only get one chance at it so make the most of every day .
+   (ID: 541b4cbc0fbf09faead4d7954b3a984391890627)
+
+
+--- PersonaChat ---
+Total from this dataset: 182
+
+1. i play music in my spare time .
+   (ID: conversation_117)
+
+2. i sing in the church choir .
+   (ID: conversation_82)
+
+3. i am a member of the ymca .
+   (ID: conversation_222)
+
+4. my brother is in a metal band and travels the world .
+   (ID: conversation_484)
+
+5. i don t know if i enjoy programming , or if it s my only choice .
+   (ID: conversation_179)
+
+6. i am an aspiring singer .
+   (ID: conversation_47)
+
+7. i like my job .
+   (ID: conversation_76)
+
+8. driving in the country side is a pastime .
+   (ID: conversation_397)
+
+9. i'm next in line to become queen of england .
+   (ID: conversation_408)
+
+10. i dance ballet .
+   (ID: conversation_200)
+
+11. my car is pink .
+   (ID: conversation_58)
+
+12. i work on cars for a living .
+   (ID: conversation_33)
+
+13. i got a job as a coach at a local highschool .
+   (ID: conversation_258)
+
+14. i should beverage been born a prince .
+   (ID: conversation_54)
+
+15. i teach cheerleading in my spare time .
+   (ID: conversation_310)
+
+16. i play guitar in the local band .
+   (ID: conversation_42)
+
+17. i drive a ford truck .
+   (ID: conversation_405)
+
+18. i like cars .
+   (ID: conversation_291)
+
+19. i drive a honda that is seen better days .
+   (ID: conversation_220)
+
+20. i'm currently going back to school to try and become a casino manager .
+   (ID: conversation_158)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 326
+
+1. I sometimes drive fast.
+   (ID: conversation_279_user_2)
+
+2. I own a ford truck.
+   (ID: conversation_11_user_2)
+
+3. I am currently going back to school to try and become a casino manager.
+   (ID: conversation_456_user_1)
+
+4. I need a corvette to complete my life.
+   (ID: conversation_204_user_2)
+
+5. I am good at throwing parties.
+   (ID: conversation_306_user_1)
+
+6. I drive a red car.
+   (ID: conversation_440_user_1)
+
+7. I have a large cd collection.
+   (ID: conversation_160_user_2)
+
+8. I am a pilot.
+   (ID: conversation_186_user_1)
+
+9. Ferrari is my favorite car company.
+   (ID: conversation_142_user_2)
+
+10. I like to take drives in the country.
+   (ID: conversation_135_user_2)
+
+11. I play the violin.
+   (ID: conversation_424_user_2)
+
+12. My car is blue.
+   (ID: conversation_238_user_1)
+
+13. I play bass.
+   (ID: conversation_168_user_1)
+
+14. I drive a honda car.
+   (ID: conversation_324_user_1)
+
+15. I want to be an astronaut when i grow up.
+   (ID: conversation_136_user_2)
+
+16. I use to compete in beauty pageants.
+   (ID: conversation_256_user_2)
+
+17. I am an aspiring singer.
+   (ID: conversation_384_user_2)
+
+18. I was an army brat.
+   (ID: conversation_179_user_1)
+
+19. I love cars.
+   (ID: conversation_131_user_1)
+
+20. I work in tv.
+   (ID: conversation_351_user_1)
+
+
+============================================================

@@ -1,0 +1,109 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 24
+
+Dataset distribution in this cluster:
+  MSC: 1 (4.2%)
+  PEC: 10 (41.7%)
+  PER-CHAT: 3 (12.5%)
+  PersonaChat: 1 (4.2%)
+  SyntheticPersonaChat: 9 (37.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I read a lot.
+   (ID: dialog_49_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 10
+
+1. i should read it again :p
+   (ID: cookiexcmonster)
+
+2. i wish i 'd read this before i tried it .
+   (ID: adertal)
+
+3. i read it like that too .
+   (ID: Mende)
+
+4. i gasped when i read this
+   (ID: jukkujak)
+
+5. i had read they were doing this already .
+   (ID: Waterrat)
+
+6. i have only recently read of this .
+   (ID: Waterrat)
+
+7. i have read 6 .
+   (ID: cookiexcmonster)
+
+8. i thought i read somewhere you made it , oops !
+   (ID: baconnaire)
+
+9. i will read through a few paragraphs there .
+   (ID: Lilliaan)
+
+10. i wish i had read this last week , thank you so much .
+   (ID: dohko_xar)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. wish i could read this without blinding myself .
+   (ID: 8a0d7d262d95d9c10d914ff3b70f342e066aee23)
+
+2. do you know where i can read it ?
+   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
+
+3. what is it about and why would i read it ?
+   (ID: 782311f0352356940fd2c1e77bc3cfa9f74b06fa)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i read a lot .
+   (ID: conversation_168)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 9
+
+1. I read ebooks more than hardcopies.
+   (ID: conversation_66_user_1)
+
+2. I read a lot of used books.
+   (ID: conversation_117_user_1)
+
+3. I read a lot of used books.
+   (ID: conversation_114_user_1)
+
+4. I read ebooks more than hardcopies.
+   (ID: conversation_68_user_1)
+
+5. I read ebooks more than hardcopies.
+   (ID: conversation_67_user_1)
+
+6. I read a lot of used books.
+   (ID: conversation_116_user_1)
+
+7. I read a lot of used books.
+   (ID: conversation_118_user_1)
+
+8. I read ebooks more than hardcopies.
+   (ID: conversation_97_user_1)
+
+9. I read ebooks more than hardcopies.
+   (ID: conversation_69_user_1)
+
+
+============================================================

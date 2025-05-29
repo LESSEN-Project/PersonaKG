@@ -1,14 +1,12 @@
 CLUSTER 61
 ============================================================
-Total statements in cluster: 129
-Cluster persistence (stability): 0.686
+Total statements in cluster: 320
+Cluster persistence (stability): 0.409
 
 Dataset distribution in this cluster:
-  MPChat: 5 (3.9%)
-  MSC: 3 (2.3%)
-  PEC: 108 (83.7%)
-  PER-CHAT: 12 (9.3%)
-  PersonaChat: 1 (0.8%)
+  MPChat: 3 (0.9%)
+  PEC: 316 (98.8%)
+  SyntheticPersonaChat: 1 (0.3%)
 
 ============================================================
 
@@ -16,146 +14,87 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- MPChat ---
-Total from this dataset: 5
-
-1. i'm thinking of warm weather rides!
-   (ID: reecee)
-
-2. i was thinking about trying to find a put-in near oak/berkeley
-   (ID: tssouthwest)
-
-3. now i'm thinking about alternating daisys.
-   (ID: Sophie74656)
-
-4. and here i was thinking i'd be upgrading to a 32" soon...
-   (ID: ambora)
-
-5. i made the mistake of thinking i could start a knitting ig without an ig model
-   (ID: Tossahoooo)
-
-
---- MSC ---
 Total from this dataset: 3
 
-1. I'm thinking of holding a mystery dinner party and serving horse meat at the party.
-   (ID: dialog_119_speaker_1)
+1. i cant wait to get spooky!
+   (ID: alliekattarts)
 
-2. My daughter Bonnie is 3 and she has nightmares. I am thinking of bringing her to the doctor for her nightmares.
-   (ID: dialog_58_speaker_1)
+2. i can’t wait
+   (ID: lizdavis17)
 
-3. I should start thinking about which colleges to apply to soon.
-   (ID: dialog_169_speaker_1)
+3. porcelain :) i can’t wait for my hydrangea to bloom!
+   (ID: Meow_19)
 
 
 --- PEC ---
-Total from this dataset: 108
+Total from this dataset: 316
 
-1. i grew up thinking women only had sex to put up with men constantly begging for it .
-   (ID: Machinax)
+1. i wo n't order games from amazon.ca again .
+   (ID: JaZepi)
 
-2. i 'm thinking lou thesz , but i could be wrong .
-   (ID: Machinax)
+2. i ca n't see anything in glow with that damn light on !
+   (ID: DanGarion)
 
-3. i ’m thinking 30k ?
-   (ID: mass08)
+3. i ca n't stop laughing at this , ca n't unsee it .
+   (ID: BoonTobias)
 
-4. i was thinking “ greedy ”
-   (ID: throwaway073847)
+4. i ca n't imagine .... can that possibly end well ?
+   (ID: monday_madrigal)
 
-5. i was thinking more like a mid - section dissection .
-   (ID: WorldBFree)
-
-6. i keep thinking how i can screw things up with the chemicals we 're working with .
-   (ID: Froaxx)
-
-7. i ’m thinking about getting a smallish piece by him done how was your experience working with ringo ?
-   (ID: Theturtlefiend)
-
-8. i was thinking it could blink ?
-   (ID: exotics)
-
-9. i was thinking the same line .
-   (ID: Mathias_Mouse)
-
-10. i 'm thinking the " part - skim " moz .
-   (ID: Addbutter)
-
-11. i 'm thinking walmart will be a perfect place to take a walk around the sidewalk on friday .
-   (ID: sbsb27)
-
-12. i was thinking about a different kind of predator .
-   (ID: howfuckedareyou)
-
-13. i have a boner just thinking about it .
-   (ID: NietzschesUbermensch)
-
-14. i was thinking maybe a fire emblem one ?
-   (ID: eye-brows)
-
-15. i was just thinking about the science fiction logic .
+5. i just ca n't handle this
    (ID: Megan_Bee)
 
-16. i was thinking a summit epa , but that 's kind of boring .
-   (ID: Megan_Bee)
+6. i ca n't think of a single place ...
+   (ID: USAFIDMT)
 
-17. i 'm thinking of getting some for my nc1
+7. i ca n’t access .
+   (ID: Justadropinthesea)
+
+8. i ca n’t see my kids ....
+   (ID: KPer123)
+
+9. i ca n't stand this fat privilege !
+   (ID: PartyPisser)
+
+10. i ca n't wait to see how he backs up his statement .
+   (ID: mimbo757)
+
+11. i ca n’t decide who is happier in that photo !
+   (ID: Atlmama)
+
+12. i ca n't see any fin rot but it 's so chunky .
+   (ID: kailan123456)
+
+13. i ca n't wait to get my own dslr
+   (ID: Bananafoofoofwee)
+
+14. i wear my heart on my sleeve , but ca n't quite access the vulnerability on cue ?
+   (ID: sourpatchkidj)
+
+15. i ca n't wait for that to be over !
+   (ID: teriaki)
+
+16. i ca n't wait to see the on - stage contest for this .
+   (ID: LooksAtClouds)
+
+17. i know its older but i ca n't handle the racism .
+   (ID: namastemeanshello)
+
+18. i ca n't see how teal would improve the situation at all .
+   (ID: IncredibleBulk2)
+
+19. i ca n't do a better job than duglass adams , it 's within the first chapter or two .
+   (ID: LightofNew)
+
+20. i literally just cracked this kit open on my desk , ca n't wait to get started !
    (ID: sean__christian)
 
-18. i like your thinking , remove the risk and walk away with the profits .
-   (ID: Ooer)
 
-19. i 'm thinking of making a playlist on yt citing tai chi resources .
-   (ID: JOOOOOOOOOOngo)
-
-20. i was thinking of either bolivar or partagas , i watched reviews of them .
-   (ID: ifixurchit)
-
-
---- PER-CHAT ---
-Total from this dataset: 12
-
-1. how you wear it . thinking you are hot shit is exhausting to deal with .
-   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
-
-2. that  s the one i go to thinking  face
-   (ID: 12803a9aad224d0537b68ab83a6cdc6a45d3160f)
-
-3. not a trick question . just some quilts have feathers in them . thinking  face
-   (ID: b74c6f378f67934bed1f9dd4c591152d002827ec)
-
-4. i can  t see this shirt anymore without thinking about the slump god and x
-   (ID: 701f8001d10c04dcd53d9b13ab2a896b452e50f7)
-
-5. you ' re probably thinking of this one
-   (ID: 18590dfbec2847acf310726c8e0182e2def1d744)
-
-6. im constantly thinking on how id kill that guy staring at me but i dont do it because the guy is probably cool
-   (ID: 29da3ae82f5df6acc737eaec66448bc88d169187)
-
-7. is that not hebephelia ? i always get confused as to where the line is drawn . thinking  face
-   (ID: 1ef80f0cd1a51487ac416f9fabc71571cf7add26)
-
-8. that ' s exactly what i was thinking . cool
-   (ID: 7e977d8c833923afad8d62330f570dfb4308db8b)
-
-9. yikes . it would be surprising to wake up to one of those . thinking  face
-   (ID: b74c6f378f67934bed1f9dd4c591152d002827ec)
-
-10. i was just thinking that . politicians are all the same . struggling to stay in the spotlight .
-   (ID: 570664fde0bec86b7f35fdcea9073ef88e78798d)
-
-11. isn ' t meditate the same as not thinking about anything ?
-   (ID: aec4f34bdc910ca8edae5da6bdefcbbd5de40f6e)
-
-12. basically he thinks he ' s a pangolin . it ' s more complicated than that but that ' s the basics . i . e . a kangaroo kin would be a person thinking they ' re a kangaroo
-   (ID: 752bae2818e8a99ea6b8b00277a3811570a73708)
-
-
---- PersonaChat ---
+--- SyntheticPersonaChat ---
 Total from this dataset: 1
 
-1. if i am not drinking , i am thinking , which makes me uncomfortable .
-   (ID: conversation_197)
+1. I ca sim very fast.
+   (ID: conversation_175_user_2)
 
 
 ============================================================

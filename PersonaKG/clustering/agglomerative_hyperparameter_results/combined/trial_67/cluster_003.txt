@@ -1,0 +1,467 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 2887
+
+Dataset distribution in this cluster:
+  FoCus: 484 (16.8%)
+  MPChat: 61 (2.1%)
+  MSC: 443 (15.3%)
+  PEC: 738 (25.6%)
+  PER-CHAT: 669 (23.2%)
+  PersonaChat: 151 (5.2%)
+  SyntheticPersonaChat: 341 (11.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 484
+
+1. I like to go to parks.
+   (ID: QCE0MRFN8S9J_9)
+
+2. I like the Metro.
+   (ID: D0BKN1W8KWG6_7)
+
+3. I don't like Earthquakes.
+   (ID: WYFFBVR6YR06_11)
+
+4. I like architecture.
+   (ID: QFCC4W8VUHOO_11)
+
+5. I don't like fat people.
+   (ID: D4619DV1O1OP_11)
+
+6. I like architecture.
+   (ID: O5F8MAFDNJB4_11)
+
+7. I would like to visit El Escorial.
+   (ID: QEDR6NULRI9U_7)
+
+8. I like to visit Ontario.
+   (ID: L6R2H1LVDRER_7)
+
+9. I like mountains.
+   (ID: 9U5TT3QTAIKB_11)
+
+10. I would like to camp at Đerdap national park.
+   (ID: HY8G2PNPA8VA_11)
+
+11. I like visiting a garden.
+   (ID: 9VXK9YXEDKCO_11)
+
+12. I like camping.
+   (ID: KN10OGBG14Y2_11)
+
+13. I would like to go to Africa.
+   (ID: CEBDDVDUY2MU_11)
+
+14. I like African-American congregations.
+   (ID: SSWJZGJZ66UK_11)
+
+15. I like hiking.
+   (ID: QUHIQZPYU7H1_11)
+
+16. I would like to visit New York someday.
+   (ID: IKQ9QU6QOUT4_11)
+
+17. I like Native Americans.
+   (ID: 9U5TT3QTAIKB_11)
+
+18. I like forts.
+   (ID: F8WIALS35WHE_11)
+
+19. I like resorts in the snow.
+   (ID: W3Q01YQ109EE_9)
+
+20. I like reading books about history.
+   (ID: DELJKM21SQ3E_9)
+
+
+--- MPChat ---
+Total from this dataset: 61
+
+1. r/aww didn't like my little boy.
+   (ID: ddizzle23)
+
+2. i like bunny butts and i cannot lie!
+   (ID: drfrank1982)
+
+3. i heard you guys like slammed hippie mobiles.
+   (ID: rileyracks)
+
+4. felt like i was being watched from the couch.
+   (ID: j3iglesia)
+
+5. feels like a good day to post this, my elmore leonard collection.
+   (ID: JEZTURNER)
+
+6. finally been able to create a tea-like color that suits my taste!
+   (ID: ijohno)
+
+7. this plant i saw looks like it's scratching its butt
+   (ID: RaeADropOfGoldenSun)
+
+8. yes, hello, i would like one attention.
+   (ID: kentobean123)
+
+9. i hear you have pets?
+   (ID: HMoney214)
+
+10. my apple looks like a tomato, but here's my sons back to school cake for his class.
+   (ID: amandabakes)
+
+11. "excuse me... i'd like to squeeze myself under this chair"
+   (ID: HobbitLass)
+
+12. do you like my deer?
+   (ID: cuppcatt)
+
+13. came out tender, texture was almost like corned beef not what i wanted but was good eatin
+   (ID: MonstaEatsItAll)
+
+14. my headlight reflection makes it look like this honda wants to devour my soul.
+   (ID: baccgirl)
+
+15. i didn’t like it so i scraped it off and started again.
+   (ID: amandabakes)
+
+16. i like to make stamps, so i made one of my favorite house plant.
+   (ID: pocket_kira)
+
+17. my daughter's betta started sitting in the bottom of his tank like this a few days ago.
+   (ID: ReturnOfTheFox)
+
+18. my xero looks like she's in motion
+   (ID: fredbutt)
+
+19. sometimes, my sense of humor is like that of a 12-year-old.
+   (ID: hottiecakes)
+
+20. then there are my pets...
+   (ID: MafHoney)
+
+
+--- MSC ---
+Total from this dataset: 443
+
+1. I hate pets.
+   (ID: dialog_99_speaker_1)
+
+2. I like French and German food.
+   (ID: dialog_119_speaker_2)
+
+3. I like to bake pies.
+   (ID: dialog_49_speaker_1)
+
+4. I like to create.
+   (ID: dialog_86_speaker_2)
+
+5. I am shy. I like the Beatles.
+   (ID: dialog_2_speaker_1)
+
+6. I like bigger canines.
+   (ID: dialog_6_speaker_2)
+
+7. I like sweets and dessert.
+   (ID: dialog_89_speaker_1)
+
+8. I like to visit the border.
+   (ID: dialog_15_speaker_1)
+
+9. I like to go fishing
+   (ID: dialog_61_speaker_1)
+
+10. I like the Beatles.
+   (ID: dialog_2_speaker_1)
+
+11. I like to read old books.
+   (ID: dialog_79_speaker_2)
+
+12. I like to make cookies.
+   (ID: dialog_44_speaker_1)
+
+13. I like mystery books.
+   (ID: dialog_17_speaker_1)
+
+14. I like older music.
+   (ID: dialog_108_speaker_1)
+
+15. I cook with fresh vegetables, though not the ones from my garden. I cook for my family. I like simple food.
+   (ID: dialog_112_speaker_1)
+
+16. I like to exercise.
+   (ID: dialog_111_speaker_2)
+
+17. I like to lie.
+   (ID: dialog_104_speaker_1)
+
+18. I like the sand on my feet.
+   (ID: dialog_76_speaker_2)
+
+19. I play video games. I like new music.
+   (ID: dialog_85_speaker_1)
+
+20. I really like cafe latte like they serve in france.
+   (ID: dialog_126_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 738
+
+1. i saw these two events and they look like they could be fun for him .
+   (ID: chirpyboyandbartjr)
+
+2. i like reddit for the reddit , not for the not - digg .
+   (ID: brickcheney)
+
+3. i like sugarfish but their rice is so damn hot which fucks with my sushi .
+   (ID: glowinthedark)
+
+4. i was like shiiiiiiieeet
+   (ID: BoonTobias)
+
+5. i can blow a day or a weekend like it 's nothing .
+   (ID: AgedTwenties)
+
+6. i like the way you put that .
+   (ID: Shrub74)
+
+7. i ’d look it up but with a name like that , it seems a little risky
+   (ID: Justakiss15)
+
+8. i was gon na say , beautiful , but it looks like it grows like a weed !
+   (ID: meteoriteminer)
+
+9. i 'm in this post and i do n't like it !
+   (ID: bleepblorp9878)
+
+10. i googled it and it looks like hallmark makes it .
+   (ID: latestartksmama)
+
+11. i can see why those brothas like her - she ’s loose af .
+   (ID: billclay55raiders)
+
+12. i have relatives who can only manage logic like this .
+   (ID: Sugarpeas)
+
+13. i like computers and especially programming , so i made it my job .
+   (ID: BorgDrone)
+
+14. i like ccccoocaine !
+   (ID: ItGetsAwkward)
+
+15. i 'd like to have seen more effort on the title , honestly .
+   (ID: ifatree)
+
+16. i was thinking , “ that does n’t look like a heart . ”
+   (ID: latestartksmama)
+
+17. i 'd like to add this was seen in mississauga , on , canada
+   (ID: Weed_n_Wisdom)
+
+18. i can now say that i like matt hardy again .
+   (ID: aydinsevimli)
+
+19. i am at a point where i would like to deal with my ocd .
+   (ID: opalskys)
+
+20. i ’m imagining someone walking around the country like johnny appleseed , but with porn mags .
+   (ID: lovestheautumn)
+
+
+--- PER-CHAT ---
+Total from this dataset: 669
+
+1. i have no idea why they are saying naruto and sasuke , i don ' t even watch naruto , wait why am i on reddit i don ' t like reddit . why am i alive ?
+   (ID: 455d2820736b8e82503d5eeacd6d1a8fa4682a68)
+
+2. congratulations ! i am interested in their program and applying later this year , if you don  t mind me asking what we  re you scores  gpa like ?
+   (ID: f296ca909e75f5e7a28f054f4937f3c6eccb6a56)
+
+3. esperanto . its derived from a bunch of romance languages , so i could glean the meaning of whatever i read quite easily . it was like i already knew digit  of the language . since i grew up exposed to a lot of french and german along with a smattering of italian , i found the grammar pretty easy to learn too .
+   (ID: dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e)
+
+4. you were the one who commented to the togepig post ? about how the platypus lays eggs ? you , i like you
+   (ID: 35c328d4a335c5fd9ddfe5f40bbfd2580065561c)
+
+5. i have both insta is better for friends , but i like reddit more because i learn more here
+   (ID: 87173aaf55980a77c94bd30c851c39fb0b52ff2e)
+
+6. i hate when i hear about girls who say guys suck in bed so they have to fake an orgasm . its so hypocritical . they are literally the reason he  s bad . like if u fake an orgasm , theyre basically telling him  good job . keep doing that . its great
+   (ID: 0c93ab3ec35cab16ded3445fcca7b6045c1dd147)
+
+7. i mean people sometimes name their kids after traits or values , like charity and patience , so it ' s not totally implausible that someone might use celibate . i personally wouldn ' t . a couple of google searches seem to suggest that this is not a thing .
+   (ID: 101eeb53846c81b36d32c33e2b4260cb3e4ac576)
+
+8. gays aren ' t picky enough to be frustrated like incels are .
+   (ID: 9986ae9dc79e871f6701d6323d4b631234b6ef8c)
+
+9. that sounds like you have some really tense fingers , no idea what would help with that . my best guess would be to pay attention to your hand while you play and see if it gets super tense , and if so relax a bit . otherwise visiting your doctor might help
+   (ID: c4dd014917cb9f6657eb79179ac09bf821575d80)
+
+10. digit would like to point out that any decent trolls would trolll you with the answers . absolutely no one who is responding to this is trustworthy , you should probably do the exact opposite of what everyone says .
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+11. i was skeptical of this post . however , it was the comment you highlighted that really struck a chord with me . what digit y . o . man would say this ? sounds like the writing of a younger woman
+   (ID: 40e9f2306751118eda95174d093680e74831a34d)
+
+12. there ' s one kid in class and we all choose variations of his name like if his name was jake , we would use something like jakesoph stalin
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+13. the judeo  christian god is an absolute of everything we consider desirable , to the extent that it is unattainable and conflicting , all powerful , all knowing , and all loving sound good on paper , but conflict with the presence of evil polytheistic religions tend to have gods that celebrate human characteristics and imperfections . unfortunately , gods that celebrate human characteristics like partying , drinking , war , and sex aren ' t good for " controlling people " everything good is attributed to one god , everything bad attributed to our humanity .
+   (ID: 4751dd6f6e1bc0e55d1193f8d9e0a104d87e9e98)
+
+14. i ' d be curious to see what a remake of spiderman is like . why has that not been done yet ?
+   (ID: 1ebb4643f7e1e4d41ee2503d9b5d94ed0224c96b)
+
+15. well i like you . as a friend
+   (ID: c787052a42459acc9cd2034c7531250ccd441795)
+
+16. it  s scary how fast people change like that .
+   (ID: cc3d4f2be41112acacb92d09090db0e1f8d7e387)
+
+17. no no i meant like messaging and being in party is down on xbox
+   (ID: 51417b57f4b2dc72dd07ac6a8ebfc978fa9d0661)
+
+18. one of these things are not like the others .
+   (ID: 5a485308ca6e36eb17d7b0fc321fcf7695f3af53)
+
+19. sir with all of you guys turning digit  sharing these thoughts so that a guy like me who is in his early 20s  can apply these words of wisdom in my own life , thank you for this .
+   (ID: 5ec957438fa111872baaa0871df8459459cc2519)
+
+20. i understand , i was being facetious . it sounds like he genuinely trusts you and you him . if getting this off your chest will relieve the stress it is causing , i say go for it . obviously include how much this has weighed on you even though nothing happened . if things between you and your boyfriend are as you describe it seems it would be a nonissue .
+   (ID: 6f13975ce6a8747ec3d0e2207b9ef86d80a28713)
+
+
+--- PersonaChat ---
+Total from this dataset: 151
+
+1. i like to drink green tea .
+   (ID: conversation_337)
+
+2. i am obsessed with animals .
+   (ID: conversation_318)
+
+3. i like to play video games .
+   (ID: conversation_136)
+
+4. i like cartoons more than movies .
+   (ID: conversation_102)
+
+5. i like to listen to music .
+   (ID: conversation_6)
+
+6. i like to shoot a bow .
+   (ID: conversation_338)
+
+7. i like to make bagels .
+   (ID: conversation_335)
+
+8. i like to draw .
+   (ID: conversation_135)
+
+9. i like to snowboard .
+   (ID: conversation_15)
+
+10. i like my job .
+   (ID: conversation_76)
+
+11. i like to only eat fish .
+   (ID: conversation_331)
+
+12. i like baths .
+   (ID: conversation_182)
+
+13. i like to play soccer .
+   (ID: conversation_53)
+
+14. i like to play soccer .
+   (ID: conversation_294)
+
+15. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+16. i like to cook .
+   (ID: conversation_17)
+
+17. i like to use a lot of exclamation marks when i type .
+   (ID: conversation_211)
+
+18. i like ice cream .
+   (ID: conversation_176)
+
+19. i like toyota cars .
+   (ID: conversation_327)
+
+20. i like playing ultimate in the park with my guys sometimes .
+   (ID: conversation_43)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 341
+
+1. I like to attend wine tours.
+   (ID: conversation_113_user_2)
+
+2. I don t like my reputation.
+   (ID: conversation_3_user_2)
+
+3. I like reading mystery novels.
+   (ID: conversation_312_user_1)
+
+4. I like the tv show the walking dead.
+   (ID: conversation_18_user_1)
+
+5. I like to play tennis.
+   (ID: conversation_177_user_1)
+
+6. I like reading mystery novels.
+   (ID: conversation_313_user_1)
+
+7. I like to dance.
+   (ID: conversation_314_user_1)
+
+8. I like to go out to the bars.
+   (ID: conversation_258_user_1)
+
+9. I like pepsi.
+   (ID: conversation_284_user_1)
+
+10. I like to paint.
+   (ID: conversation_113_user_2)
+
+11. I like to garden.
+   (ID: conversation_72_user_1)
+
+12. I like sprite soda.
+   (ID: conversation_161_user_1)
+
+13. I like to read books that are in a series.
+   (ID: conversation_135_user_2)
+
+14. I like to go for bike rides.
+   (ID: conversation_278_user_1)
+
+15. I still have a thick accent so words like hippopotamus are difficult.
+   (ID: conversation_328_user_2)
+
+16. I like to go fishing on the lake.
+   (ID: conversation_328_user_1)
+
+17. I like pepsi.
+   (ID: conversation_291_user_2)
+
+18. I like tacos.
+   (ID: conversation_164_user_1)
+
+19. I like reading.
+   (ID: conversation_36_user_1)
+
+20. I like to go fishing.
+   (ID: conversation_50_user_2)
+
+
+============================================================

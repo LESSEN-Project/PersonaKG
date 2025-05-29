@@ -1,0 +1,467 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 5947
+
+Dataset distribution in this cluster:
+  FoCus: 97 (1.6%)
+  MPChat: 65 (1.1%)
+  MSC: 1038 (17.5%)
+  PEC: 1324 (22.3%)
+  PER-CHAT: 1570 (26.4%)
+  PersonaChat: 661 (11.1%)
+  SyntheticPersonaChat: 1192 (20.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 97
+
+1. I would like to join the army.
+   (ID: B2DX1Q5DBN3J_11)
+
+2. I hope I can build an architecturally sophisticated home someday.
+   (ID: 9YNT3NN8EKNX_11)
+
+3. I have a boat.
+   (ID: WOFC7GYRD403_7)
+
+4. I am a architect.
+   (ID: POTYY4E7PSQF_11)
+
+5. I hope to join the Army.
+   (ID: LCFMQMTGBUJO_7)
+
+6. I am currently serving in the US military.
+   (ID: JW0BLP5O75BW_11)
+
+7. I have a brother who is passionate about birds and ornithology.
+   (ID: A06HPOO7OWPE_11)
+
+8. I am a geologist.
+   (ID: J01LGGCHBYTE_11)
+
+9. I would like to be a pianist.
+   (ID: SDM2CKE7J4OW_7)
+
+10. I hope I can acquire deep insight of laws.
+   (ID: IJ61LGMTNN5M_11)
+
+11. I am studying coal mines.
+   (ID: N1SMQLB7T5J7_11)
+
+12. I hope to learn more about Lincoln.
+   (ID: UXQZUTQ247LH_11)
+
+13. I work in a non-profit organization.
+   (ID: 8065KWB9BLWJ_11)
+
+14. I grew up in a military family.
+   (ID: GHGLD29537QW_11)
+
+15. I am an employee of Dunkin’ Donuts.
+   (ID: MGR759JYZZLP_7)
+
+16. I am working in united states air force since 1976.
+   (ID: TBZIWSGJCM17_11)
+
+17. I would like to do some weight lifting.
+   (ID: EFTS0UG7NK5K_9)
+
+18. I care about the preservation of fauna and flora.
+   (ID: Y7WSG3Z184EX_9)
+
+19. I hope to learn more about war.
+   (ID: T9JPYSSWD7NW_11)
+
+20. I know many sports teams.
+   (ID: PHE863C7IQKS_11)
+
+
+--- MPChat ---
+Total from this dataset: 65
+
+1. it has been four weeks since i started following my dreams as a baker.
+   (ID: justcook_byangel)
+
+2. i love my job :)
+   (ID: mashedtatoes88)
+
+3. out of the industry for three years, haven't turned my machine on in two.
+   (ID: mattsulli)
+
+4. my moms workshop is just the coziest place!
+   (ID: Im_The_Government)
+
+5. you might have seen my small crane before, a smaller crane
+   (ID: IggyDaDog)
+
+6. i started a cafe job again!
+   (ID: pocket_kira)
+
+7. my hubby makes me so happy
+   (ID: FormalSwimming)
+
+8. getting closer to where i want to be...
+   (ID: ext23)
+
+9. getting my practice in.
+   (ID: VodkaWithSnowflakes)
+
+10. first i beach, then i sleep
+   (ID: BananaPeelSlippers)
+
+11. i told seamus he has to get a job and start paying rent.
+   (ID: ambora)
+
+12. i have a hot pocket
+   (ID: kentobean123)
+
+13. seems like the only time i get projects completed is when they’re sick lol
+   (ID: lizdavis17)
+
+14. i had a very productive conference call this morning!
+   (ID: FoxInKneeSocks)
+
+15. working on my drip skillz
+   (ID: paintingpajamaspink)
+
+16. am i cool yet?
+   (ID: drinkdrinkshoesgone)
+
+17. stoked for my (fat) bikepacking trip this weekend!
+   (ID: i_like_it_raw_)
+
+18. one year ago today i started my job that i got through a reddit post of mine.
+   (ID: BeastaBubbles)
+
+19. just put in my notice at a retail job, thought i would treat myself!
+   (ID: gxnelson)
+
+20. hey, i was a novice then!
+   (ID: DeanIsHotter)
+
+
+--- MSC ---
+Total from this dataset: 1038
+
+1. My dad is a priest.
+   (ID: dialog_40_speaker_2)
+
+2. I work for the government.
+   (ID: dialog_80_speaker_2)
+
+3. I cut down trees.
+   (ID: dialog_51_speaker_2)
+
+4. I live on a farm in Ohio.
+   (ID: dialog_42_speaker_2)
+
+5. I am an athletic man. I am looking for a romantic relationship.
+   (ID: dialog_131_speaker_2)
+
+6. I play the drums.
+   (ID: dialog_59_speaker_1)
+
+7. I have an easy job and I like the customers.
+   (ID: dialog_112_speaker_2)
+
+8. I went to college for art.
+   (ID: dialog_132_speaker_2)
+
+9. I am hoping to become an advocate for motorcycle safety. Motorcycles are my passion. I look up to Keanu Reeves.
+   (ID: dialog_87_speaker_2)
+
+10. I work as a waitress in a houston club.
+   (ID: dialog_77_speaker_2)
+
+11. I have a job during the week. I like animals. I volunteer at the animal shelter.
+   (ID: dialog_189_speaker_1)
+
+12. My mother used to play piano and sing. I don't like to sing.
+   (ID: dialog_10_speaker_1)
+
+13. I bought a house.
+   (ID: dialog_68_speaker_2)
+
+14. I thought of joining the military when I was younger.
+   (ID: dialog_113_speaker_2)
+
+15. I am a veteran.
+   (ID: dialog_35_speaker_2)
+
+16. I have a wife and two kids.
+   (ID: dialog_44_speaker_2)
+
+17. I have a part time job.
+   (ID: dialog_184_speaker_2)
+
+18. I am 19 years old. My name is Jo.
+   (ID: dialog_184_speaker_2)
+
+19. I enjoy working on cars.
+   (ID: dialog_99_speaker_1)
+
+20. I think ballroom dancing is too old-fashioned.
+   (ID: dialog_40_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1324
+
+1. i 'm afraid that this would happen to me after training at the gym
+   (ID: arabguyistall)
+
+2. i 'd rather be the dude stuck behind the filing cabinet .
+   (ID: StinkinFinger)
+
+3. i 'm glad someone like you has this job .
+   (ID: NietzschesUbermensch)
+
+4. i graduated in may with my bachelors and it took me 7 months to find a job .
+   (ID: AgedTwenties)
+
+5. i have an english literature degree that everyone tells me is useless because i have no interest in teaching .
+   (ID: underneathstars)
+
+6. i set my goal to be healthier and fitter by graduation .
+   (ID: pipette_on)
+
+7. i was a master musician / master tailor .
+   (ID: maullove)
+
+8. i have a wife , so no .
+   (ID: USAFIDMT)
+
+9. i found out i ’m hypoglycemic a month ago and have changed my diet .
+   (ID: justgirlypasta)
+
+10. i am a 22 year old woman who is 5'5 " and almost 190 lbs .
+   (ID: pipette_on)
+
+11. i work 12 hour shifts at night .
+   (ID: amirman)
+
+12. i have my ba in anthropology / sociology and i graduated college 6 yrs ago .
+   (ID: juliacakes)
+
+13. i wear all black for my job and actually love it !
+   (ID: vivagypsy)
+
+14. i just started a job about 3 weeks ago and it 's not good .
+   (ID: opalskys)
+
+15. i really wanted to start something with a bigger scope .
+   (ID: carebearstare93)
+
+16. i see your alliancemate 's car , and raise you my
+   (ID: coocha)
+
+17. i ’ve been eating around 80 grams of protein , but have n’t been tracking my fat intake .
+   (ID: FruitBatFanatic)
+
+18. i have the clear chopper too .
+   (ID: error785)
+
+19. i want to look like michael phelps and get girls like ryan lochte does .
+   (ID: 512165381)
+
+20. i joined the us marine corps as an officer .
+   (ID: boogerfarts111)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1570
+
+1. how can you grind without breaking ?
+   (ID: cfd691d6aeaf46cc644b0e21187d10dfc62b0bc8)
+
+2. I own a dream.
+   (ID: dc0783c6951122c6edfc85430901cf133c146b32)
+
+3. you seem like a gem ! i personally would love to hear your music ! project the confidence that you have onstage outwards . you are a gem . forget about everything else and just go with it . you ' ll do fine  you just have to trust me .
+   (ID: ddd770a31dc9c8fa4ad153c94b4c0debc20cf026)
+
+4. what does discomfort have to do with productivity ?
+   (ID: 93fee667f85cc0ee55e2451cc1a83efc0b764ef4)
+
+5. I am cleaning.
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
+
+6. I have a wife.
+   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+
+7. I am selfer.
+   (ID: f67daf28a38187108da9b380f2e2f9336016c584)
+
+8. I have a girlfriend.
+   (ID: fd112b0116b574aa5911af63529dca9683e5f6eb)
+
+9. I own a face.
+   (ID: db49a30ced23a0e386b799d5f970489f11a53f7a)
+
+10. I own a 5820k.
+   (ID: 32520dc340c18ed101e3d5ea02b3a7bca25dcc29)
+
+11. if you try and eat a little something at meal times even if you  re not that hungry then that might prevent you going all out after you  ve gone a long time without food . you  re probably a lot more hungry that you realise
+   (ID: 4345d92dae99b45255ddd6b7f7c88a7ad331da93)
+
+12. I have a girlfriend.
+   (ID: 11d16c1ced94665eed03bc34f590f8fafeed40d2)
+
+13. I own a jawas.
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+14. is english not your first language ? you don ' t need a degree , any degree helps . but you can show up to some smaller towns and look up lesson plans online and just start teaching . build your clientele , develop a reputation , and grow your business
+   (ID: 85ac769b0cb349e567cb91e8109645bd1ac28b9f)
+
+15. i have a baito as a housekeeper in houses in kyoto how , how do they want me to clean windows effectively with sponge towels and water ? what the flying hell also , i get that were paid by the hour but sato  san , can you stop spending an hour making a freaking bed while i clean half the house and then say      not it  s not me who is   it  s you who is bloody
+   (ID: 272bbd1e0746915faf3405ae9c33485b5967ca9f)
+
+16. I own a screen.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+17. if you know anything about ceo ' s we have plenty of time to kill and this is more fun than playing golf . i don ' t care about helping your numbers . any complaints you get are your fault for hiding the merchandise while it devalues so you can buy it below cost and resell it on ebay . you are the reseller . i am just the advisor .
+   (ID: a61db1f2f0a3d15376fd168a1637c028f25100e1)
+
+18. I have a girlfriend.
+   (ID: 1e92f1e007a1c147f8200d50f473d5433028bffc)
+
+19. I have a wife.
+   (ID: 2c1d97aa622f6ad7ec3a9aad9285dd4ec1e1f28d)
+
+20. I have a wife.
+   (ID: 888fecec3c361bbe3db00f64ff7cf51950d332df)
+
+
+--- PersonaChat ---
+Total from this dataset: 661
+
+1. i like to think about what it would be like to be an artist .
+   (ID: conversation_483)
+
+2. both my parents were teachers .
+   (ID: conversation_19)
+
+3. i've 3 ex wives .
+   (ID: conversation_154)
+
+4. i have an older brother that has gotten into trouble .
+   (ID: conversation_419)
+
+5. i am a babysitter .
+   (ID: conversation_286)
+
+6. i work many hours .
+   (ID: conversation_8)
+
+7. i plan to retire in 6 months .
+   (ID: conversation_478)
+
+8. i'm currently single but i'm ready to mingle .
+   (ID: conversation_139)
+
+9. i am going to be the starting shortstop .
+   (ID: conversation_103)
+
+10. i'm a personal chef .
+   (ID: conversation_249)
+
+11. i work for a online company from home .
+   (ID: conversation_310)
+
+12. i'm young .
+   (ID: conversation_96)
+
+13. i play the piano .
+   (ID: conversation_471)
+
+14. i used to work for a cable company .
+   (ID: conversation_76)
+
+15. i am a guitar player .
+   (ID: conversation_4)
+
+16. i did a few small roles in tv series .
+   (ID: conversation_406)
+
+17. i work for a marketing agency .
+   (ID: conversation_289)
+
+18. i don't like to clean house .
+   (ID: conversation_306)
+
+19. my parents are in there 80 s .
+   (ID: conversation_444)
+
+20. i'm an aspiring singer .
+   (ID: conversation_11)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1192
+
+1. My feet are size six womens.
+   (ID: conversation_168_user_1)
+
+2. I have an mba degree.
+   (ID: conversation_398_user_2)
+
+3. I weight 300 pounds.
+   (ID: conversation_21_user_1)
+
+4. I own a boat.
+   (ID: conversation_330_user_1)
+
+5. I am single.
+   (ID: conversation_101_user_1)
+
+6. I own an iphone.
+   (ID: conversation_13_user_2)
+
+7. I just lost my job and i m looking for something new.
+   (ID: conversation_317_user_1)
+
+8. I am married.
+   (ID: conversation_400_user_1)
+
+9. I play bass.
+   (ID: conversation_167_user_1)
+
+10. I am engaged.
+   (ID: conversation_233_user_1)
+
+11. I am in the band.
+   (ID: conversation_109_user_2)
+
+12. I work as an interior designer.
+   (ID: conversation_87_user_1)
+
+13. I run track.
+   (ID: conversation_170_user_1)
+
+14. I am a stay at home mom.
+   (ID: conversation_246_user_2)
+
+15. I am a high school teacher.
+   (ID: conversation_108_user_2)
+
+16. I love animals and like working with them.
+   (ID: conversation_413_user_2)
+
+17. My feet are size six women s.
+   (ID: conversation_95_user_2)
+
+18. I am a waitress at a popular houston club.
+   (ID: conversation_189_user_2)
+
+19. I am 6 foot tall.
+   (ID: conversation_466_user_1)
+
+20. Since young i have loved fashion.
+   (ID: conversation_191_user_2)
+
+
+============================================================

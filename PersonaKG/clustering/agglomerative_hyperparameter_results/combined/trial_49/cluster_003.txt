@@ -1,0 +1,338 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 827
+
+Dataset distribution in this cluster:
+  FoCus: 1 (0.1%)
+  MPChat: 4 (0.5%)
+  MSC: 20 (2.4%)
+  PEC: 14 (1.7%)
+  PER-CHAT: 747 (90.3%)
+  PersonaChat: 18 (2.2%)
+  SyntheticPersonaChat: 23 (2.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. My sister lives near Oregon.
+   (ID: 8LTOMMR1K4L5_11)
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. murray is a gift for my sister.
+   (ID: pokegirl93a)
+
+2. itap of my son taking a picture
+   (ID: dudeinthepnw)
+
+3. made this to match my son's skateboard.
+   (ID: PrissyCakes)
+
+4. i made this dog for my son.
+   (ID: gelimausi)
+
+
+--- MSC ---
+Total from this dataset: 20
+
+1. I have one son.
+   (ID: dialog_55_speaker_2)
+
+2. I have two younger brothers.
+   (ID: dialog_59_speaker_1)
+
+3. My sister is a social worker.
+   (ID: dialog_23_speaker_2)
+
+4. I have no sisters or brothers.
+   (ID: dialog_108_speaker_1)
+
+5. I've no siblings.
+   (ID: dialog_68_speaker_1)
+
+6. I have 4 sisters named Anne, Lauren, Alexis, and Sam.
+   (ID: dialog_1_speaker_2)
+
+7. I have a nephew.
+   (ID: dialog_100_speaker_1)
+
+8. I am one of two boys in my family.
+   (ID: dialog_57_speaker_2)
+
+9. I have two nephews.
+   (ID: dialog_99_speaker_2)
+
+10. I have tons of relatives.
+   (ID: dialog_78_speaker_1)
+
+11. My sister has children.
+   (ID: dialog_99_speaker_2)
+
+12. My sister has lots of kids.
+   (ID: dialog_7_speaker_1)
+
+13. I have four sisters.
+   (ID: dialog_14_speaker_1)
+
+14. I have a dead sibling.
+   (ID: dialog_77_speaker_2)
+
+15. I have 4 siblings.
+   (ID: dialog_42_speaker_1)
+
+16. I have 4 siblings: brothers and sisters. My brother got engaged and plans to marry next year.
+   (ID: dialog_42_speaker_1)
+
+17. I  do not  have  any siblings.
+   (ID: dialog_68_speaker_1)
+
+18. I have 4 sisters.
+   (ID: dialog_1_speaker_2)
+
+19. I've 3 brothers and sisters.
+   (ID: dialog_42_speaker_1)
+
+20. I am the oldest of 3 children.
+   (ID: dialog_127_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 14
+
+1. i wish my sister listened to vaporwave .
+   (ID: Heydawgg)
+
+2. i have her blocked , but my sister forwarded me a winner today .
+   (ID: rycheme)
+
+3. i gave my son your name .
+   (ID: gigatroness)
+
+4. i love your sister for giving that toy to you � �
+   (ID: kailan123456)
+
+5. i have three pet lions and know every single person ~~on the continent~~ in the country .
+   (ID: DarkMoon99)
+
+6. i ’d fucking forward it to julia , jesus christ
+   (ID: eye-brows)
+
+7. i do nt have an uncle .
+   (ID: Froaxx)
+
+8. i 'm blood related to a ton of people i never see .
+   (ID: IncredibleBulk2)
+
+9. i party assist my sister because she ’s at tier 25 ish .
+   (ID: TheRealAshren)
+
+10. i 'm your sister !
+   (ID: hardt0f0rget)
+
+11. i love my sister , but no , thanks .
+   (ID: Sabiola)
+
+12. i could be wrong — was it not her sister in the reflection ?
+   (ID: doctor_parcival)
+
+13. i think you should help your sister start a business .
+   (ID: Noimnotsally)
+
+14. i need one of those for my sister !
+   (ID: Szymjk)
+
+
+--- PER-CHAT ---
+Total from this dataset: 747
+
+1. I have a father in my family.
+   (ID: 4167b7bc7d40ac86ca6b492ac0bbaefa992711f6)
+
+2. I have a brother in my family.
+   (ID: f7356e924b370675e942b29b9c2184dc895ea5b7)
+
+3. I have a sister in my family.
+   (ID: 6b941223c20a9903b9878d0454cc676e8d7db91b)
+
+4. I have a father in my family.
+   (ID: 01d4ddab8cb9e73e5e85941c592482da1b3c6bcd)
+
+5. I have a father in my family.
+   (ID: a80b8bc356414690d849369456d68876c95d5518)
+
+6. I have a daughter in my family.
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
+
+7. I have a daughter in my family.
+   (ID: 1ebb4643f7e1e4d41ee2503d9b5d94ed0224c96b)
+
+8. I have a father in my family.
+   (ID: 6b2e7201275c9aa1dcb6d1b24840765a41796c3d)
+
+9. I have a father in my family.
+   (ID: 88279b92dca36b3b3c236d960135a2afe2e68b33)
+
+10. I have a father in my family.
+   (ID: 9b6ee533e853c768cc140f122ed313d4d7550b5a)
+
+11. I have a brothers in my family.
+   (ID: 9e1be6964f5835f58b6cdaac71f8b557f0b4a42f)
+
+12. I have a father in my family.
+   (ID: 8e425f2be5b1012969ff4827fa2372423ba47972)
+
+13. I have a father in my family.
+   (ID: fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1)
+
+14. I have a father in my family.
+   (ID: 3e510494aac4d4cfd98d8ee4e7b04dffd5534bee)
+
+15. I have a father in my family.
+   (ID: 90eb51492399cbfe8bbde2fd7d291e5e115a59db)
+
+16. I have a father in my family.
+   (ID: 2f03a8d589defb9434044b9ef9bfffc676e2b49a)
+
+17. I have a daughter in my family.
+   (ID: 91dc65ba6eef536f17becface16989de7f988dce)
+
+18. I have a father in my family.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+19. I have a sister in my family.
+   (ID: 3bd27d669b5f394ae490c4e17c08aca524c47546)
+
+20. I have a brothers in my family.
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+
+--- PersonaChat ---
+Total from this dataset: 18
+
+1. i have two brothers .
+   (ID: conversation_242)
+
+2. i am the middle child of 3 siblings .
+   (ID: conversation_101)
+
+3. i have four sisters .
+   (ID: conversation_1)
+
+4. i am the youngest sibling in my family .
+   (ID: conversation_193)
+
+5. i m the middle child of 3 siblings .
+   (ID: conversation_261)
+
+6. i have a twin sister .
+   (ID: conversation_256)
+
+7. i'm one of four siblings .
+   (ID: conversation_135)
+
+8. my youngest sister is in first grade .
+   (ID: conversation_293)
+
+9. i've several siblings i don t know .
+   (ID: conversation_180)
+
+10. i am the oldest sibling .
+   (ID: conversation_293)
+
+11. i have 8 brothers and we are close .
+   (ID: conversation_274)
+
+12. i am the middle child of 3 siblings .
+   (ID: conversation_286)
+
+13. i've two nephews .
+   (ID: conversation_99)
+
+14. i've one son .
+   (ID: conversation_55)
+
+15. i've four siblings .
+   (ID: conversation_264)
+
+16. i've 2 sisters .
+   (ID: conversation_161)
+
+17. i'm the youngest of 4 children .
+   (ID: conversation_157)
+
+18. i have four siblings .
+   (ID: conversation_293)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 23
+
+1. I ve two siblings.
+   (ID: conversation_71_user_1)
+
+2. I ve two siblings.
+   (ID: conversation_70_user_1)
+
+3. My sister is a guitarist.
+   (ID: conversation_59_user_1)
+
+4. I have two nephews.
+   (ID: conversation_349_user_2)
+
+5. I have ten nieces and nephews.
+   (ID: conversation_243_user_1)
+
+6. I have a son.
+   (ID: conversation_155_user_2)
+
+7. My sister is a guitarist.
+   (ID: conversation_58_user_1)
+
+8. I have a little sister.
+   (ID: conversation_324_user_2)
+
+9. I have ten nieces and nephews.
+   (ID: conversation_249_user_1)
+
+10. I grew up with 6 siblings.
+   (ID: conversation_223_user_1)
+
+11. I have a son.
+   (ID: conversation_304_user_2)
+
+12. My sister is a guitarist.
+   (ID: conversation_60_user_1)
+
+13. I have a son.
+   (ID: conversation_274_user_1)
+
+14. I have two nephews.
+   (ID: conversation_130_user_2)
+
+15. I have 2 sisters.
+   (ID: conversation_175_user_1)
+
+16. I have 2 sisters.
+   (ID: conversation_177_user_1)
+
+17. I have 5 brothers and sisters.
+   (ID: conversation_8_user_2)
+
+18. I have 2 sisters.
+   (ID: conversation_176_user_1)
+
+19. I am close to both of my brothers.
+   (ID: conversation_329_user_2)
+
+20. I grew up with 6 siblings.
+   (ID: conversation_222_user_1)
+
+
+============================================================

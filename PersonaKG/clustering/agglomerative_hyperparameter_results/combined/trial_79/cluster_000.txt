@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43789
+
+Dataset distribution in this cluster:
+  FoCus: 1247 (2.8%)
+  MPChat: 2885 (6.6%)
+  MSC: 1914 (4.4%)
+  PEC: 17191 (39.3%)
+  PER-CHAT: 17204 (39.3%)
+  PersonaChat: 1116 (2.5%)
+  SyntheticPersonaChat: 2232 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1247
+
+1. I would like to visit England.
+   (ID: IS9KP8O0CE1M_11)
+
+2. I want to visit New York.
+   (ID: MV4DPBGX0OB5_11)
+
+3. I love history.
+   (ID: JTUKE03HZYSY_11)
+
+4. I love River Thames.
+   (ID: XY9R2ORN3XBQ_7)
+
+5. I have 61500 likes in my instagram page.
+   (ID: QRRS2THODNM3_11)
+
+6. I like permanent collection.
+   (ID: GG3IBG4SOHXX_11)
+
+7. I find Freemasonry really interesting.
+   (ID: UHZ1K434LZ46_11)
+
+8. I wish to learn Greek history.
+   (ID: F10IB9885VKB_11)
+
+9. I have German relatives.
+   (ID: 6Y1JUDZSPANM_9)
+
+10. I like eagles.
+   (ID: IBKUIXV3M06F_7)
+
+11. I like art gallery.
+   (ID: GG3IBG4SOHXX_11)
+
+12. I am living in New Hampshire.
+   (ID: 9QE8MQM0B8P7_11)
+
+13. I like church.
+   (ID: GE7KWP503PGI_7)
+
+14. I want to learn more about history.
+   (ID: X45C380V98U8_9)
+
+15. I once hid in a hollow log during hide and seek as a child.
+   (ID: NETYMHGQTGLI_9)
+
+16. I love hiking.
+   (ID: 9U5TT3QTAIKB_11)
+
+17. I love History.
+   (ID: HSQSOF3LX08H_7)
+
+18. I don't know who Horace Walpole is.
+   (ID: POTYY4E7PSQF_11)
+
+19. I am studying to be an Structural engineer.
+   (ID: HO684VMC687Z_11)
+
+20. I am curious about isolated places.
+   (ID: Y037WWL4AZRY_11)
+
+
+--- MPChat ---
+Total from this dataset: 2885
+
+1. the most delicious burger i ever made, recipe in comments
+   (ID: iSliz187)
+
+2. the tote bag i made in time for valentine's day !
+   (ID: letsallcrochetYT)
+
+3. i made a really, really big rabbit.
+   (ID: skorletun)
+
+4. [i made] cheer cake for my nieces birthday!
+   (ID: Sunshine_2425)
+
+5. i needed a new rug, so i made one!
+   (ID: lolveets)
+
+6. this is my favorite 3 top so far.
+   (ID: jlb4est)
+
+7. i crocheted "rose quartz" from steven universe!
+   (ID: skorletun)
+
+8. i made some more sea creature keychains
+   (ID: FoxInKneeSocks)
+
+9. really loving this style of 1 slow ripple before fast in my wings.
+   (ID: jlb4est)
+
+10. he loves the colour blue and makes his best out of any blue yarn i leave lying around.
+   (ID: pokegirl93a)
+
+11. my pretty mama spiderbro and her babies hanging out on the porch.
+   (ID: drfrank1982)
+
+12. valley falls state park, wv - really tested my brakes coming down
+   (ID: onemantwohands)
+
+13. what do you think of my first strawberry shortcake?
+   (ID: justcook_byangel)
+
+14. this is peesh, probably my most perfectly crocheted orc mini so far
+   (ID: Louiesloops)
+
+15. made a birthday cake for my dad.
+   (ID: LunaMcLovin)
+
+16. i crocheted this hat with my own pattern
+   (ID: letsallcrochetYT)
+
+17. my base keeps washing out.
+   (ID: BeastaBubbles)
+
+18. i like to drink tea out of glass canning jars so i made myself a jar cozy.
+   (ID: ddizzle23)
+
+19. comfort bear no 17 for this year is my one and only finished object for this week.
+   (ID: Moriarty58)
+
+20. it's my cake day enjoy this baby sloth
+   (ID: ThatPurpleDrank)
+
+
+--- MSC ---
+Total from this dataset: 1914
+
+1. I like rock music.
+   (ID: dialog_69_speaker_1)
+
+2. I haven't finish school. I am enlisted in the army.
+   (ID: dialog_67_speaker_2)
+
+3. I want to be your friend. I love surfing the internet.
+   (ID: dialog_88_speaker_2)
+
+4. I live in Laguna beach. I take a lot of pictures of the ocean on my cell phone. I have a cat. I take pictures of my cat on my cell phone.
+   (ID: dialog_49_speaker_2)
+
+5. I have not told my family that I'm interested in the same sex.
+   (ID: dialog_35_speaker_1)
+
+6. I'm from El Paso, texas
+   (ID: dialog_66_speaker_1)
+
+7. I love reading books.
+   (ID: dialog_30_speaker_1)
+
+8. I am from Orlando. I live with my girlfriend. I like girls taller than I am. I am 6 ft. My girlfriend is 6'2.
+   (ID: dialog_85_speaker_2)
+
+9. Me and my sibling, both have crimson locks.
+   (ID: dialog_91_speaker_1)
+
+10. I love to go boating when I've a spare moment.
+   (ID: dialog_70_speaker_2)
+
+11. I want to open the juicy bar at the beach. I love reading books at the beach.
+   (ID: dialog_88_speaker_2)
+
+12. I love it when it is cold outside.
+   (ID: dialog_66_speaker_1)
+
+13. I collect a lot of sports memorabilia.
+   (ID: dialog_48_speaker_1)
+
+14. My boyfriend is learning acting.  My boyfriend works during the week. I have a lot of time during the week.
+   (ID: dialog_87_speaker_1)
+
+15. I don't collect comic books. I like Green Lantern comics.
+   (ID: dialog_48_speaker_2)
+
+16. The kitchen is my domain.
+   (ID: dialog_17_speaker_2)
+
+17. I enjoy her company.
+   (ID: dialog_64_speaker_1)
+
+18. I read a lot.
+   (ID: dialog_49_speaker_2)
+
+19. I've a high voice.
+   (ID: dialog_3_speaker_1)
+
+20. I take singing lessons. I have a boyfriend.
+   (ID: dialog_37_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 17191
+
+1. i saw this years ago .
+   (ID: Hypersapien)
+
+2. i also speak telugu and have never heard this .
+   (ID: AP7497)
+
+3. i swear to god domino 's is waging the largest viral marketing campaign to have ever existed .
+   (ID: mylescloutier)
+
+4. i 'm proud of you
+   (ID: Noimnotsally)
+
+5. i am so proud of you .
+   (ID: gigatroness)
+
+6. i had to repair my car twice the past 6 months .
+   (ID: WeldyLady)
+
+7. i 'll be there ! ! !
+   (ID: ludaa)
+
+8. i do n't have hausratversicherung .
+   (ID: blue_thingy)
+
+9. i know that 60 lbs does not come easy !
+   (ID: notlikethat1)
+
+10. i prefer paypal friends and family , but can invoice you if you pay the fee .
+   (ID: rycheme)
+
+11. i get this a lot
+   (ID: beautifulw0man)
+
+12. i think i 'll get a taxi 😃
+   (ID: IAMACiderDrinker)
+
+13. i 've got my own father .
+   (ID: RonaldFuckingPaul)
+
+14. i just cringed so hard
+   (ID: jukkujak)
+
+15. i recommend adding to r / girlsmirin !
+   (ID: EvieAugust)
+
+16. i ’m not sure that ’s enough punishment .
+   (ID: Atlmama)
+
+17. i think that would be much worse - my brain would be hostage for much longer loops .
+   (ID: DarkMoon99)
+
+18. i was looking forward to coming home and playing all day :(
+   (ID: underneathstars)
+
+19. i use these guys .
+   (ID: ludaa)
+
+20. i 'm going to omaha and minneapolis !
+   (ID: Naughtyformoms)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17204
+
+1. One of my favorite things is aurora   reason.
+   (ID: ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9)
+
+2. I'm interested in alcohol.
+   (ID: 5c9dd67e95ee5403b2bd9a6848c017674d46396b)
+
+3. pretty much every dog . i don ' t know if there ' s an exception , but it ' s an actual thing having to do with science
+   (ID: bb88411b165294ddd01835e6389a8e93e9d796d3)
+
+4. it ' d explain a lot of things . like the reason i only have one eye .
+   (ID: 4167b7bc7d40ac86ca6b492ac0bbaefa992711f6)
+
+5. a lot of people complain about this episode because they think it  s specifically geared to appeal mmj fans . truth is , you don  t have to know about it at all to find the episode entertaining . i thought is was pretty damn funny
+   (ID: cbba33bde970dd57ea65378793409285d5501f7d)
+
+6. learndota2 though this is very old , some of them are still relevant purgegamers youtube , he has digit playlists dedicated to teaching dota digit and a series where he teaches day9 everything about dota digit . just ignore all the idiots who go out of their way to shittalk lol , most people from dota days are still butthurt that pendragon took a few ideas . drow is similar to ashe and pudge is similar to blitzcrank , frost marksman and fat hooker respectively . teemo is apparently similar to techies ? at least in the sense that they plant mines and you get reported for playing them if i ' m remembering teemo correctly . there ' s loads of thematic similarities between heroes as well if your keen on some of those . e . g . shyvana reminds me strongly of dragon knight .
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+7. One of my favorite things is wash.
+   (ID: 6fa65e005cc7ba05dc62c263af1ea289902ce6d1)
+
+8. I have a mother in my family.
+   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
+
+9. only a hand full of times , i feel like the only thing it trains is core
+   (ID: 6faff6ad4f2fa64f202b2b60f154aba162159b2f)
+
+10. i wouldn ' t call myself a producer i just dabble in it when i want to be creative , massive would be my favorite
+   (ID: db585f1dbaa42a5cff4c6b3dbc242bf7ea45bd9a)
+
+11. i mentioned that anything can happen to anyone regardless of gender . it ' s true  your and my having a vagina won ' t change that .
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+12. i thought i knew it all  megadeth cause at certain points in life ou do think you know it all only to have a curve ball come on down the line and i had no clue what was going on .
+   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
+
+13. One of my favorite things is snakes.
+   (ID: 649605988d72e34fdcf0c170b6b9fa959a7d483e)
+
+14. I am a male.
+   (ID: 9284af9896fed617d56596c55fb3ff4e8a4c8dde)
+
+15. as a retired teacher i ask . are you doing too much of your kids ' work ? the ideas should come from them . you are a very cool dad though !
+   (ID: 128346fc1e56ccadd25a4b200ecae44637d48f5f)
+
+16. i hate this baseball team sometimes not really i actually love them but they piss me off
+   (ID: 3e906e06d59fb5c2993270f0b4efed5b9ab122f7)
+
+17. right , i can see why you would make that decision . i was thinking about the dark base too but i wasn ' t really sure about it . is it any good ? what can i expect from a case like that ?
+   (ID: 2971f819c4d7400b9fa7806434e9037b6af4dfae)
+
+18. I am huge fan of big government.
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+
+19. be warned they are masterful escape artists . they can climb things you don ' t think they can climb . they can dig and tunnel deeper than you think . the ant with the rubber tree has nothing on a determined tort . if it wants out and there is a way it will find it . even a small one . in short what i ' m trying to tell you is yes your garden is probably a great place for it as long as it has a walls like alcatraz ! i ' d strongly recommend investing in a good table vs . letting him roam unsupervised . you can find a pretty good one on amazon for around  digit these days . we use the zoo med wood tortoise house and for our russian fifi it works great . she stays in it all day and we let her roam the back yard each evening while we enjoy a glass of wine . good luck and enjoy your new little friend !
+   (ID: 7928bd3c3e727c94ff476240a27ed7199d92d666)
+
+20. One of my favorite things is reading bettet.
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+
+--- PersonaChat ---
+Total from this dataset: 1116
+
+1. i have ink stains on all my shirts .
+   (ID: conversation_31)
+
+2. my favorite drink is cuba libre .
+   (ID: conversation_2)
+
+3. i love to workout .
+   (ID: conversation_64)
+
+4. i escaped and later became a carpenter .
+   (ID: conversation_127)
+
+5. i don t like the beach .
+   (ID: conversation_94)
+
+6. i'm gong to adopt a dog very soon .
+   (ID: conversation_45)
+
+7. i listen to classic rock .
+   (ID: conversation_12)
+
+8. i started working at google last week on self driving car research .
+   (ID: conversation_122)
+
+9. i am colorblind .
+   (ID: conversation_109)
+
+10. i love iced tea .
+   (ID: conversation_1)
+
+11. i'm the youngest of 4 children .
+   (ID: conversation_157)
+
+12. i have a missing pinky toe .
+   (ID: conversation_107)
+
+13. i have an older brother .
+   (ID: conversation_81)
+
+14. i had a gig at local theater last night .
+   (ID: conversation_2)
+
+15. i'm currently single but i'm ready to mingle .
+   (ID: conversation_139)
+
+16. i used to work for a cable company .
+   (ID: conversation_111)
+
+17. i have 4 dogs .
+   (ID: conversation_199)
+
+18. my father is a preacher .
+   (ID: conversation_40)
+
+19. i eat large meals .
+   (ID: conversation_16)
+
+20. my favorite food is pizza .
+   (ID: conversation_188)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2232
+
+1. I donate old clothes to the homeless.
+   (ID: conversation_83_user_1)
+
+2. I am bloated.
+   (ID: conversation_55_user_1)
+
+3. I have a marketing job.
+   (ID: conversation_201_user_1)
+
+4. I love art.
+   (ID: conversation_65_user_1)
+
+5. I am funny.
+   (ID: conversation_30_user_1)
+
+6. I run track.
+   (ID: conversation_172_user_1)
+
+7. I run a small bakery.
+   (ID: conversation_155_user_2)
+
+8. I go to college part time.
+   (ID: conversation_42_user_2)
+
+9. I am trying to build my online business.
+   (ID: conversation_200_user_1)
+
+10. I play a lot of video games.
+   (ID: conversation_247_user_2)
+
+11. Both my moms tell me they love me when i call them.
+   (ID: conversation_122_user_2)
+
+12. My favorite flower is a rose.
+   (ID: conversation_198_user_1)
+
+13. My favorite animal is a zebra.
+   (ID: conversation_79_user_1)
+
+14. My cat died.
+   (ID: conversation_173_user_1)
+
+15. I m lazy and pork tastes good.
+   (ID: conversation_245_user_2)
+
+16. My favorite movie is goodfellas.
+   (ID: conversation_237_user_2)
+
+17. I love to read.
+   (ID: conversation_239_user_1)
+
+18. I do the shopping in my house.
+   (ID: conversation_245_user_2)
+
+19. I am young.
+   (ID: conversation_52_user_1)
+
+20. My wife use to be a teacher.
+   (ID: conversation_155_user_1)
+
+
+============================================================

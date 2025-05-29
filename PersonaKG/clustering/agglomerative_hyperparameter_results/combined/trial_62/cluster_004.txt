@@ -1,0 +1,204 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 267
+
+Dataset distribution in this cluster:
+  MPChat: 3 (1.1%)
+  MSC: 4 (1.5%)
+  PEC: 26 (9.7%)
+  PER-CHAT: 227 (85.0%)
+  PersonaChat: 3 (1.1%)
+  SyntheticPersonaChat: 4 (1.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 3
+
+1. i'm going loopy
+   (ID: Lady_FriendOfSpiders)
+
+2. it's my cakeday; here's my dog.
+   (ID: hmbmelly)
+
+3. i'm going to do eeyore next.
+   (ID: Nikyma)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. My little dingo dog is friendly. My wife and I adopted a stray dog. My pet dogs have always been mutts. My parents used to have a dalmation that bit strangers.
+   (ID: dialog_11_speaker_1)
+
+2. I have a dog and a cat.
+   (ID: dialog_85_speaker_2)
+
+3. I have a cat and a dog.
+   (ID: dialog_65_speaker_1)
+
+4. I have a dog.
+   (ID: dialog_71_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 26
+
+1. i 'm going .
+   (ID: BabblingBunny)
+
+2. i see you are going to hiroshima !
+   (ID: snapsnaptomtom)
+
+3. i had one as a pet as a child .
+   (ID: Waterrat)
+
+4. i 'm going for lucifer .
+   (ID: adertal)
+
+5. i ’m going in .
+   (ID: vikkivinegar)
+
+6. i must be going to the wrong beaches .
+   (ID: KikAtWorkFL)
+
+7. i 'm not going to tell you what to do .
+   (ID: NietzschesUbermensch)
+
+8. i 'm going to school in kitchener .
+   (ID: mylescloutier)
+
+9. i 'm going to do that once i 'm out of warranty .
+   (ID: I_am_not_a_Taco)
+
+10. i 'm going to have to look again .
+   (ID: mbw1960)
+
+11. i 'm going to omaha and minneapolis !
+   (ID: Naughtyformoms)
+
+12. i was going for djokovic .
+   (ID: cometparty)
+
+13. i guess i was alluding to you going by yourself .
+   (ID: IncredibleBulk2)
+
+14. i 'm going to call this " fauxthark "
+   (ID: ifatree)
+
+15. i 'm thinking about going back to okcupid .
+   (ID: Piraticalstyle)
+
+16. i 'm going to use this .
+   (ID: SeasonedLemur)
+
+17. i 'm going to columbine for this
+   (ID: SamuelStephenBono)
+
+18. i 've had a few and i 'm never going to ever again
+   (ID: Osiris0123)
+
+19. i m going to vote . so you 're not going to do anything then
+   (ID: Etifaq)
+
+20. i 'm going to go do this now .
+   (ID: CarlofTime)
+
+
+--- PER-CHAT ---
+Total from this dataset: 227
+
+1. I have a dog as a pet.
+   (ID: 01d4ddab8cb9e73e5e85941c592482da1b3c6bcd)
+
+2. I have a cat as a pet.
+   (ID: 873d7cdd437cc48c69447d68b6cd96b54580dae7)
+
+3. I have a cat as a pet.
+   (ID: 067b7441373b7dfebd4b068272381804c26fe6dc)
+
+4. I have a dog as a pet.
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
+
+5. I have a dog as a pet.
+   (ID: 4a5a9ac8eab027b38804427b3c8c5e19c8991de3)
+
+6. I have a dog as a pet.
+   (ID: e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3)
+
+7. I have a dog as a pet.
+   (ID: 0d77404b10744947bcd2c91d8c926021d4b8650f)
+
+8. I have a cat as a pet.
+   (ID: e0a46a0dc8fa303b4f52545ef88afe4d8f63943b)
+
+9. I have a cat as a pet.
+   (ID: de62a0a330b0a7ca76d55a6702dcae5baf1c3cae)
+
+10. I have a dog as a pet.
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+11. I have a cat as a pet.
+   (ID: a8b3c82ca36eb4e48fd6b6674a642f96d401743e)
+
+12. I have a cat as a pet.
+   (ID: 88c65ad9c962da115240776d5aa110748286db73)
+
+13. I have a cat as a pet.
+   (ID: 1aa2a9bdfead7897363f32a7bc9e416ca9098b9f)
+
+14. I have a dog as a pet.
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+15. I have a cat as a pet.
+   (ID: 02e4b90101e07338b4251209256c01652a022c5d)
+
+16. I have a dog as a pet.
+   (ID: 9e1be6964f5835f58b6cdaac71f8b557f0b4a42f)
+
+17. I have a dog as a pet.
+   (ID: 89e76efb1868896fe46bffbc2c10d965b53857d1)
+
+18. I have a dog as a pet.
+   (ID: e1cfe7e3bd4f78988caf9c6fd043691888e401c8)
+
+19. I have a dog as a pet.
+   (ID: 2cc106beadb9cde22175338488da9efb20933748)
+
+20. I have a cat as a pet.
+   (ID: ae9e10cc82b9b20c52f819c70c83f657724f9f44)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i own a pug , and he is the most loyal pet you will ever have .
+   (ID: conversation_43)
+
+2. i have a boxer dog .
+   (ID: conversation_182)
+
+3. i have a boxer dog .
+   (ID: conversation_6)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I am going back to school.
+   (ID: conversation_189_user_1)
+
+2. I am going back to school.
+   (ID: conversation_192_user_1)
+
+3. I am going back to school.
+   (ID: conversation_170_user_2)
+
+4. We have a dog.
+   (ID: conversation_57_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 4007
+
+Dataset distribution in this cluster:
+  FoCus: 267 (6.7%)
+  MPChat: 32 (0.8%)
+  MSC: 275 (6.9%)
+  PEC: 751 (18.7%)
+  PER-CHAT: 2287 (57.1%)
+  PersonaChat: 149 (3.7%)
+  SyntheticPersonaChat: 246 (6.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 267
+
+1. I wish to live in Poland.
+   (ID: PW1SULL1SY01_11)
+
+2. I am Greek.
+   (ID: EA2ZVDRVQ40F_11)
+
+3. I was born in Germany.
+   (ID: W1ARCAV1RHTZ_11)
+
+4. I have been to California.
+   (ID: LEUWGO47I5DG_11)
+
+5. I like Texas.
+   (ID: NOJ4G30KI3T7_11)
+
+6. I have my own office building in Central Norway.
+   (ID: TB8HHXAP822G_11)
+
+7. I would like to join the army.
+   (ID: B2DX1Q5DBN3J_11)
+
+8. I have a friend who works in Tennessee.
+   (ID: PYCYFS54O1C8_11)
+
+9. I am staying in Manhattan.
+   (ID: RG814RP6D2F6_11)
+
+10. I am from California.
+   (ID: KZB502IPAHTD_11)
+
+11. I'm from Denmark.
+   (ID: 8065KWB9BLWJ_11)
+
+12. My uncle lives in Australia.
+   (ID: L6X3D5VDORJH_11)
+
+13. I live in London.
+   (ID: DSK4ZP7S862W_11)
+
+14. I am from Oxford.
+   (ID: QQ40JZO5I064_11)
+
+15. I am from England.
+   (ID: MX05X059ETMG_11)
+
+16. I love the weather in United Kingdom.
+   (ID: MLUZD1LRALV9_11)
+
+17. I live in a house.
+   (ID: SRO8K4E2N5N5_7)
+
+18. I am from the United States.
+   (ID: BZRZ8OU6V0KE_11)
+
+19. I am interested in shipping.
+   (ID: JO1EIDJ1Y4KJ_11)
+
+20. I am interested in Richard Westmacott.
+   (ID: G3027JCTO8X5_11)
+
+
+--- MPChat ---
+Total from this dataset: 32
+
+1. it was smokey in the pnw but i miss summer!
+   (ID: dudeinthepnw)
+
+2. my parents are tiling their it?
+   (ID: crunch816)
+
+3. looking for ideas for new occupants for my 5g.
+   (ID: APacman)
+
+4. i was thinking about trying to find a put-in near oak/berkeley
+   (ID: tssouthwest)
+
+5. would appreciate some help with my new room (imgur album and specifics in comments)
+   (ID: LiftingNurse)
+
+6. it rained almost the whole time when i visited death valley national park, usa
+   (ID: ChristophZee)
+
+7. it badly needed to be cleaned 4 years ago when i moved in.
+   (ID: blboppie)
+
+8. "i think you'll find that the couch is available"
+   (ID: kentobean123)
+
+9. i love winter, but will miss warm summer nights under the stars [oc] [1600x1146]
+   (ID: garret_weintrob)
+
+10. my bookshelf is an illusion
+   (ID: Nolon)
+
+11. "i think you'll find that the couch is free"- president petrie
+   (ID: kentobean123)
+
+12. i have to travel 3.5 hours for decent dim sum...
+   (ID: onemantwohands)
+
+13. my first picture post ...who says iowa is all flat and corn fields?
+   (ID: iowajaycee)
+
+14. i'm ready for autumn!
+   (ID: blboppie)
+
+15. french dipping my banh mi in pho broth
+   (ID: onemantwohands)
+
+16. i want to get juniper somewhere to lounge.
+   (ID: krichmondRPH)
+
+17. for my man cave
+   (ID: Nerdyredeyejedi)
+
+18. oregon is my favorite
+   (ID: Nerdyredeyejedi)
+
+19. ozarks here i come!
+   (ID: pope237)
+
+20. is it still a "philly cheesesteak" if i got it in fl?
+   (ID: MonstaEatsItAll)
+
+
+--- MSC ---
+Total from this dataset: 275
+
+1. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+2. I want to start running. I want to start a training programme.
+   (ID: dialog_40_speaker_2)
+
+3. I am from the United States. I live in Jersey.
+   (ID: dialog_59_speaker_1)
+
+4. I live in a bad neighborhood.
+   (ID: dialog_13_speaker_2)
+
+5. I am a proud us sailor.
+   (ID: dialog_24_speaker_1)
+
+6. I live in Portland, Oregon.
+   (ID: dialog_159_speaker_2)
+
+7. I live near a barn.
+   (ID: dialog_117_speaker_1)
+
+8. I don't have a passport.
+   (ID: dialog_89_speaker_1)
+
+9. I travel to canada on the weekends.
+   (ID: dialog_15_speaker_1)
+
+10. I like distance from society.
+   (ID: dialog_129_speaker_1)
+
+11. I am still living with my parents at age 30.
+   (ID: dialog_109_speaker_2)
+
+12. I live PA.
+   (ID: dialog_167_speaker_2)
+
+13. I live in the state by colorado.
+   (ID: dialog_10_speaker_1)
+
+14. I live in the city in texas.
+   (ID: dialog_133_speaker_1)
+
+15. I like tacos. I am getting ready to move.
+   (ID: dialog_12_speaker_1)
+
+16. I live in a studio.
+   (ID: dialog_42_speaker_1)
+
+17. I fly around the country for work.
+   (ID: dialog_140_speaker_2)
+
+18. I live in Virginia. I am not married.
+   (ID: dialog_34_speaker_1)
+
+19. I am ten years old.
+   (ID: dialog_97_speaker_2)
+
+20. I live in the country.
+   (ID: dialog_15_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 751
+
+1. i know where you live .
+   (ID: MILeft)
+
+2. i 'd bet that the rest of the us has similar stats .
+   (ID: WorldBFree)
+
+3. i wanna move .
+   (ID: CarlofTime)
+
+4. i live in central vancouver island so could commute to either during the week .
+   (ID: travelingkiwi)
+
+5. i am too broke .
+   (ID: IgnoranceIsAVirus)
+
+6. i always go in southern az but i m interested to hear what people have to say for around here
+   (ID: AzHighways)
+
+7. i 'm starting a fb group right now .
+   (ID: gigatroness)
+
+8. i 'm in ireland
+   (ID: Nimmyzed)
+
+9. i ’m from thr netherlands !
+   (ID: mrhenk9)
+
+10. i live in mn .
+   (ID: dkinmn)
+
+11. i 'm from montreal .
+   (ID: arabguyistall)
+
+12. i keep mine under the house .
+   (ID: IgnoranceIsAVirus)
+
+13. i 'd be interested in working out a deal with you , potentially .
+   (ID: CarlofTime)
+
+14. i 'm a sahd and i was able to find a group of dads in mckinney on meetup.com .
+   (ID: Captain_-H)
+
+15. i could always become more proficient and will be ramping up my language learning in the coming years .
+   (ID: Sugarpeas)
+
+16. i would really like to drop my weight and get as fit as possible .
+   (ID: COCOnizzle)
+
+17. i ’d move house and tell the new occupants to shred any incoming mail !
+   (ID: SeasonedLemur)
+
+18. i have : . 1/ paid off my graduate loan in full .
+   (ID: spoonsrugby)
+
+19. i 'm looking ...
+   (ID: ludaa)
+
+20. i know the owner and he ’s a great guy .
+   (ID: osmosisparrot)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2287
+
+1. I live in st. louis.
+   (ID: 98f9b074f3fba12c7403be7000f77b6a560c5a02)
+
+2. I live in melbourne.
+   (ID: 89fd53ef642d85d9a24d63f88469480646354104)
+
+3. I live in off of sandwiches.
+   (ID: d785eda10245445843c3355a0710d262b0d65bb9)
+
+4. I live in place.
+   (ID: 05bc4f6f6f6bb573d85181292f88efbd50c59547)
+
+5. I live in arizona.
+   (ID: 3dfcdf92c717ed4c117768210afcbbaf9a2ca8a9)
+
+6. I live in mnesota usa.
+   (ID: e7516540d2045135f43a4a7c61f0bd88856c8ff4)
+
+7. I live in colorado.
+   (ID: 6646dc228dccad2f1b450fb533b5a42d85536450)
+
+8. I live in on second story.
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+9. I live in flt michigan.
+   (ID: ddd770a31dc9c8fa4ad153c94b4c0debc20cf026)
+
+10. change all you accounts so they cant do anything . take your stuff and go no talk necessary . you can talk to them once you are moved in . if they try and stop you call the cops so you can get your stuff with them there and go . you are an adult now and need no ones permission .
+   (ID: f24af2fec683eb8f7c778684c641d964456c0341)
+
+11. I live in place.
+   (ID: 40ad6d409c1f0888bdb3dbd8d7bab47d00f3a6f0)
+
+12. I am german.
+   (ID: cf870aa7c8e0dd833ce984fd462b0f47ad7a6ace)
+
+13. I live in brazil.
+   (ID: cd7d2576afdbdebbe88d5b40a7b4f436af37c202)
+
+14. I live in near perth.
+   (ID: 2d1b758f410687b90c33a1260646954b4c1301f7)
+
+15. I live in kalihi.
+   (ID: 74253a87130d79f3a85bfb20807ead84f4a4612d)
+
+16. I live in kansas city.
+   (ID: 1885b01dd0970230fea2a9c9ae9c4eaeaceb59a3)
+
+17. I live in united kingdom.
+   (ID: a911ed792d3b26b115aedaee6218a4a944c38521)
+
+18. I live in lisburn.
+   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+
+19. I live in chile.
+   (ID: 650ba9cdaca39ad1c1fe5e6348b11afb4d8e7a0f)
+
+20. apology accepted , sorry for being mean to you earlier . arguing in general is really not my style especially with someone who  s almost digit decades older then me . since you revealed yourself probably so should i . i  m student for eastern europe , and yes , eastern europe sucks pretty hard . not a redhead but i enjoy smoking as well . i just can  t help bit ask you how did you draw a line between me and americans since english is not my native language lol
+   (ID: abffa241a0eb33d4cf220980872adc9a148514b4)
+
+
+--- PersonaChat ---
+Total from this dataset: 149
+
+1. i come from a small town .
+   (ID: conversation_2)
+
+2. i am 8 years old .
+   (ID: conversation_119)
+
+3. we live in a rural area .
+   (ID: conversation_425)
+
+4. i live in seattle .
+   (ID: conversation_346)
+
+5. i'm mixed with puerto rica and chinese .
+   (ID: conversation_494)
+
+6. i come from a small town .
+   (ID: conversation_406)
+
+7. i have a wife and two kids .
+   (ID: conversation_44)
+
+8. i'm from seattle .
+   (ID: conversation_281)
+
+9. my mom lives with me .
+   (ID: conversation_150)
+
+10. i'm still living at home at age 30 .
+   (ID: conversation_109)
+
+11. i travel a lot .
+   (ID: conversation_467)
+
+12. i live down the street from miley cyrus and pnb rock .
+   (ID: conversation_184)
+
+13. i've a wife and two kids back in the states .
+   (ID: conversation_273)
+
+14. my country is russia .
+   (ID: conversation_224)
+
+15. i live in the city .
+   (ID: conversation_81)
+
+16. i grew up in the deep south .
+   (ID: conversation_302)
+
+17. i moved out when i was 14 .
+   (ID: conversation_102)
+
+18. we have two kids .
+   (ID: conversation_134)
+
+19. i thought of joining the military when i was younger .
+   (ID: conversation_113)
+
+20. i still live at home .
+   (ID: conversation_358)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 246
+
+1. I live in seattle.
+   (ID: conversation_373_user_2)
+
+2. I am married with 5 kids.
+   (ID: conversation_342_user_2)
+
+3. Currently , i m saving up to get some procedures done.
+   (ID: conversation_162_user_2)
+
+4. I have a ten year old son.
+   (ID: conversation_486_user_2)
+
+5. I live in nashville.
+   (ID: conversation_390_user_2)
+
+6. I am from california.
+   (ID: conversation_34_user_2)
+
+7. I am unemployed and living off a trust fund.
+   (ID: conversation_499_user_2)
+
+8. I live with my parents and my little brother.
+   (ID: conversation_119_user_2)
+
+9. I live in my parents basement.
+   (ID: conversation_116_user_1)
+
+10. I am from mexico.
+   (ID: conversation_438_user_1)
+
+11. I am from sterling heights , michigan.
+   (ID: conversation_43_user_2)
+
+12. I still live at home with my parents.
+   (ID: conversation_354_user_2)
+
+13. I live near the ocean.
+   (ID: conversation_327_user_1)
+
+14. I have a wife and children.
+   (ID: conversation_204_user_2)
+
+15. I live at home with my dad and brother.
+   (ID: conversation_266_user_1)
+
+16. My parents are still married.
+   (ID: conversation_357_user_2)
+
+17. My parents were divorced.
+   (ID: conversation_223_user_1)
+
+18. I am from texas.
+   (ID: conversation_356_user_1)
+
+19. I grew up in nevada.
+   (ID: conversation_121_user_1)
+
+20. I live at home with my dad and brother.
+   (ID: conversation_97_user_2)
+
+
+============================================================

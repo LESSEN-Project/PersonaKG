@@ -1,0 +1,467 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 1456
+
+Dataset distribution in this cluster:
+  FoCus: 155 (10.6%)
+  MPChat: 68 (4.7%)
+  MSC: 109 (7.5%)
+  PEC: 765 (52.5%)
+  PER-CHAT: 86 (5.9%)
+  PersonaChat: 75 (5.2%)
+  SyntheticPersonaChat: 198 (13.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 155
+
+1. I love United states.
+   (ID: SKF7IKD9SC0U_9)
+
+2. I love the monastery.
+   (ID: KG8AEOFQLTO4_11)
+
+3. I love folklore tales.
+   (ID: DAT5H5H80JCW_7)
+
+4. I love museums.
+   (ID: N1SMQLB7T5J7_11)
+
+5. I love the weather in United Kingdom.
+   (ID: MLUZD1LRALV9_11)
+
+6. I love to visit amusement parks.
+   (ID: PFYAAS1XG3D8_11)
+
+7. I love gardens.
+   (ID: B623Z1BXC8IT_11)
+
+8. I love lake.
+   (ID: L6R2H1LVDRER_7)
+
+9. I love to swing.
+   (ID: NETYMHGQTGLI_9)
+
+10. I love to visit the rocky mountains.
+   (ID: T815O8KC30IG_9)
+
+11. I love River Thames.
+   (ID: XY9R2ORN3XBQ_7)
+
+12. I love England.
+   (ID: VP3189E0Z1O2_11)
+
+13. I love to go swimming.
+   (ID: MP1ZK22Q90C9_11)
+
+14. I love research.
+   (ID: FGIEUW9ABAQU_11)
+
+15. I love horses.
+   (ID: KG8AEOFQLTO4_11)
+
+16. I love to walk in forests.
+   (ID: Y7WSG3Z184EX_9)
+
+17. I love National Parks.
+   (ID: B4623TSE2PJX_7)
+
+18. I love gardens.
+   (ID: SRO8K4E2N5N5_7)
+
+19. I always love mountains.
+   (ID: C19OKX49XN0G_7)
+
+20. I would love for everyone to not be so crazy when they are being religious.
+   (ID: VUQVHZP0LUAH_11)
+
+
+--- MPChat ---
+Total from this dataset: 68
+
+1. i am in love with this frosting.
+   (ID: ThePurpleBaker)
+
+2. i love indian buffets - saffron - morgantown, wv
+   (ID: onemantwohands)
+
+3. i love the leathery texture these get as they sit.
+   (ID: jlb4est)
+
+4. i love this yarn but don't know if it was the best choice.
+   (ID: Sophie74656)
+
+5. i'd love to know what you think about her.
+   (ID: theringbeller)
+
+6. every year our friend sends out xmas cards of her corgi and i love them.
+   (ID: kentobean123)
+
+7. i'm in love.
+   (ID: Soapy_Von_Soaps)
+
+8. i love my job :)
+   (ID: mashedtatoes88)
+
+9. i love drawing on cakes.
+   (ID: Learning2Grow)
+
+10. i love being a barista
+   (ID: Nutellism)
+
+11. i love him so much
+   (ID: kentobean123)
+
+12. i love him so much.
+   (ID: kentobean123)
+
+13. "i would like some love please"
+   (ID: kentobean123)
+
+14. the collection is growing... i love making hoop mandalas!
+   (ID: FoxInKneeSocks)
+
+15. i love how the colors came out
+   (ID: Novel_Fox)
+
+16. i love how this is coming out.
+   (ID: Sophie74656)
+
+17. i love my job.
+   (ID: skrivitor)
+
+18. this is my newest fungaloid, clarence the wise, and i love him
+   (ID: Louiesloops)
+
+19. i love this succulent i picked up at the grocery store last night.
+   (ID: ReturnOfTheFox)
+
+20. i love my fat little babies
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 109
+
+1. I love to go dancing. I love eating out.
+   (ID: dialog_27_speaker_1)
+
+2. I love baseball. I am a die hard tigers fan.
+   (ID: dialog_93_speaker_2)
+
+3. I love body art.
+   (ID: dialog_56_speaker_2)
+
+4. I love to party.
+   (ID: dialog_7_speaker_2)
+
+5. I love the idea of travel.
+   (ID: dialog_13_speaker_1)
+
+6. I love my nieces and nephews.
+   (ID: dialog_83_speaker_1)
+
+7. I have three tattoos. I am getting a tattoo soon. I have a antique bookshelf tattoo on my back shoulder. I love books with strong female characters. I love Hobbit. I have two Lord of the Rings tattoos.
+   (ID: dialog_90_speaker_2)
+
+8. I love the outdoors.
+   (ID: dialog_12_speaker_1)
+
+9. I love gummy worms.
+   (ID: dialog_25_speaker_2)
+
+10. I love being with freezing water.
+   (ID: dialog_51_speaker_1)
+
+11. I love big dogs. I have one black labrador and one golden retriever.
+   (ID: dialog_90_speaker_1)
+
+12. My hair is purple. I am a stylist. I love my job. I am saving money in hopes of opening my own salon by the end of the year.
+   (ID: dialog_14_speaker_2)
+
+13. I love kids.
+   (ID: dialog_91_speaker_2)
+
+14. I love science.
+   (ID: dialog_90_speaker_1)
+
+15. I love the idea of travel.
+   (ID: dialog_13_speaker_2)
+
+16. I love simple things.
+   (ID: dialog_61_speaker_1)
+
+17. I love Harry Potter. I love Crookshanks. I saw the Goblet of Fire.
+   (ID: dialog_48_speaker_1)
+
+18. I love to garden.
+   (ID: dialog_49_speaker_1)
+
+19. I love to walk and hike.
+   (ID: dialog_91_speaker_2)
+
+20. I'd love to visit Michigan. I am taking vacation for two weeks to Michigan.
+   (ID: dialog_80_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 765
+
+1. i love it as well .
+   (ID: Dustin_Bromain)
+
+2. i love how she ’s squeezing the cubs belly
+   (ID: godspeedone)
+
+3. i 'd never think of getting that tattoo but damn i love it sooo much !
+   (ID: ludaa)
+
+4. i love it .
+   (ID: 2inthehands)
+
+5. i love you spiderbro : : : : (
+   (ID: Shrub74)
+
+6. i love shooting 3/4 of my chaos reach at the sky : smile :
+   (ID: sircucumbers)
+
+7. i love the white fur just as much if not more .
+   (ID: mbw1960)
+
+8. i love me some nyx though :)
+   (ID: rycheme)
+
+9. i love the internet !
+   (ID: mylescloutier)
+
+10. i love this song .
+   (ID: SamuelStephenBono)
+
+11. i love those damn hotdog tights and wear them ironically .
+   (ID: Atlmama)
+
+12. i love mycelium .
+   (ID: hoveringlurker)
+
+13. i love cookies .
+   (ID: cookiexcmonster)
+
+14. i love that you actually had to explain this , pretty funny comment chain .
+   (ID: playertd)
+
+15. i love working out high , it feels like i have so much more motivation .
+   (ID: kuh_boom)
+
+16. i love you too .
+   (ID: monday_madrigal)
+
+17. i love those national park post - cards !
+   (ID: Lilliaan)
+
+18. i love your pride in his hobby and skill .
+   (ID: kitcatpaints)
+
+19. i 'd also love a pm'd link to your shop :) thank you !
+   (ID: Chicoconut)
+
+20. i love his musics!~ ! !
+   (ID: amirman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 86
+
+1. you deserved all this for fucking your way into a country . there ' s plenty solutions for papers and you left the love of your life for them . you don ' t love him .
+   (ID: e0c81b4b90b0c79cd330827a7fe15c4ac2958b48)
+
+2. ben shapiro rocks ! he ' s intelligent , well  informed and cool  headed . love that man .
+   (ID: 3de4b885645ecd39fdcb6a1daf410341eb118d2c)
+
+3. huh . i never romanced tali but i figured he would say it at some point , maybe you missed it ? i don ' t think shepard ever says it first though , i remember him answering " i love you too " to most of them , but not the other way around . i guess it ' s usually the love interests who confess their undying love and stuff , shep tends to show more with actions than words .
+   (ID: 9986ae9dc79e871f6701d6323d4b631234b6ef8c)
+
+4. am i missing something here ? you love your boyfriend but hard hanging out alone in your room with a drunk guy who tried to kiss you . you stop him and clarify that this is a no go and you love your bf . perfect . but then you have him spoon with you all night as a comfort to you ? that makes no sense . but whatever . if it is eating you up inside and you really truly did not do anything , you should tell him . i mean why not  particularly since there is no longer contact with the mf .
+   (ID: 6f13975ce6a8747ec3d0e2207b9ef86d80a28713)
+
+5. i honestly love the dc now that i ' m not in a trailer anore . it ' s just a bunch of digit year olds training eachother on power equipment . what could possibly go wrong ?
+   (ID: 1885b01dd0970230fea2a9c9ae9c4eaeaceb59a3)
+
+6. the fly is getting a remake . oh god , why do they have to ruin the things i love
+   (ID: 84b2c69cbe8c44b78569e5e8b9af935f703ee480)
+
+7. i can  t explain why i like it , but i love it !
+   (ID: 64cd7a2c07766ef2725fa67e6025759ae1f56c2b)
+
+8. ok love . how about the cathedral in naples which holds a vial of blood from an early christian martyr , st . januarius . reportedly , the blood is dry most of the year , but mysteriously liquefies three times throughout the year , on days commemorating his life and impact . i think that one would be testable ?
+   (ID: 90eb51492399cbfe8bbde2fd7d291e5e115a59db)
+
+9. my cats birthday . he is so amazing and i love him .
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+10. one where i find love
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+11. i had philophobia . i don ' t know if i still have it . it ' s basically the fear of love . i have it because of my parents . i had to watch them constantly argue . their sick relationship and the fact that they hardly ever showed any signs they loved me , caused some brain damage to me and now i usually can ' t listen when somebody is talking about love , especially very traditional love . i hate family as a unit and i hope i will never have children . also i find newborn babies disgusting because they are kinda a " a fruit of love " .
+   (ID: 337350fc54133b327ce0d6d9f385f82a2a6738cf)
+
+12. yes she is very close to her stepmother . you asked about our relationship , we have been in a de facto relationship for about digit . digit years now . i have been doing what i can to comfort her and be there for her . i took her out to lunch today i actually wrote this post on the drive home to take her mind off of things and get out of the house . at the moment she is ok then bursts into tears at random times so all i can do is hug her , tell her i love her and let her cry it out . when she was told she cried and then asked to be left alone for a while so if she needs some space i think she will tell me . thank you for the advice , there is a lot there to take in so i will have to read it a few times . her stepmother still might pull through and beat it , but all we can do at this stage is hope for the best . thank you again for helping me understand and giving me pointers on how to approach this .
+   (ID: 93102e17c1a3f6136bb2fad08c587ad924185f76)
+
+13. happens a lot here in nc , gotta love it when people don ' t even look over their shoulder . you know they can hear your car , you know they are doing it intentionally
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+14. i love singapore so much i lived there for digit years
+   (ID: 10f3c4c68efa9cd11f34f4a88f492c7d7e693418)
+
+15. yep . taught me what love is .
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+16. you may be able to settle out of court with popeye ' s if you don ' t love that chicken from popeye ' s
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+17. i love them so much that i am one .
+   (ID: 3ba6725e8f1b7a123febfe8a266ec0dc4d054b65)
+
+18. love the handle , is that so when you suck the d they can hold on to it ?
+   (ID: b3497f72ed4462f0414951db6d9ee7aa4004b515)
+
+19. most of your critiques  praises are based off the film ticking  not ticking your agenda . bisexual warrior queen ? lol mmkay . people love valkyrie because shes an awesome character , period . not because of her briefly hinted sexuality from a deleted scene .
+   (ID: 5fa74a7d6a70c6f2f8a149864f494ac72eefd3e4)
+
+20. john carpenter . i ' d love to ask him questions about the thing and big trouble in little china .
+   (ID: 6fa65e005cc7ba05dc62c263af1ea289902ce6d1)
+
+
+--- PersonaChat ---
+Total from this dataset: 75
+
+1. i love to tell jokes .
+   (ID: conversation_226)
+
+2. i love owning nice office supplies .
+   (ID: conversation_79)
+
+3. i love bicycling .
+   (ID: conversation_3)
+
+4. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+5. i love riding roller coasters .
+   (ID: conversation_178)
+
+6. i love animals .
+   (ID: conversation_47)
+
+7. i love to hike .
+   (ID: conversation_83)
+
+8. i love bicycling .
+   (ID: conversation_72)
+
+9. i love to cut down trees .
+   (ID: conversation_51)
+
+10. i love eating barbeque sandwiches and pizza puffs .
+   (ID: conversation_184)
+
+11. i love to cook .
+   (ID: conversation_46)
+
+12. i love sharks .
+   (ID: conversation_65)
+
+13. i love to crochet .
+   (ID: conversation_5)
+
+14. i love to run fast .
+   (ID: conversation_96)
+
+15. i love nighttime .
+   (ID: conversation_218)
+
+16. i love coffee with cream .
+   (ID: conversation_133)
+
+17. i love anime .
+   (ID: conversation_168)
+
+18. i love dogs and cats .
+   (ID: conversation_118)
+
+19. i love cars .
+   (ID: conversation_188)
+
+20. i love cooking .
+   (ID: conversation_199)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 198
+
+1. I love meat.
+   (ID: conversation_156_user_1)
+
+2. I also love orange juice.
+   (ID: conversation_61_user_2)
+
+3. I love dogs.
+   (ID: conversation_139_user_1)
+
+4. I love folk metal.
+   (ID: conversation_163_user_1)
+
+5. I love to larp.
+   (ID: conversation_87_user_1)
+
+6. I love to travel.
+   (ID: conversation_246_user_1)
+
+7. I love the outdoors.
+   (ID: conversation_12_user_1)
+
+8. I love to watch ted talks.
+   (ID: conversation_67_user_2)
+
+9. I love dancing.
+   (ID: conversation_221_user_1)
+
+10. I love cooking.
+   (ID: conversation_132_user_2)
+
+11. I love traveling.
+   (ID: conversation_73_user_1)
+
+12. I love the tigers baseball team.
+   (ID: conversation_16_user_1)
+
+13. I love country music.
+   (ID: conversation_190_user_1)
+
+14. I love animals.
+   (ID: conversation_191_user_1)
+
+15. I love meat.
+   (ID: conversation_154_user_1)
+
+16. I love smooth jazz.
+   (ID: conversation_148_user_2)
+
+17. I love to put a smile on peoples faces.
+   (ID: conversation_186_user_2)
+
+18. I love watching superheroes shows.
+   (ID: conversation_66_user_1)
+
+19. I love dogs.
+   (ID: conversation_141_user_1)
+
+20. I love dogs.
+   (ID: conversation_104_user_2)
+
+
+============================================================

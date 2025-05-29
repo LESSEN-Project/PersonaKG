@@ -1,0 +1,467 @@
+CLUSTER 64
+============================================================
+Total statements in cluster: 1161
+
+Dataset distribution in this cluster:
+  FoCus: 68 (5.9%)
+  MPChat: 25 (2.2%)
+  MSC: 77 (6.6%)
+  PEC: 266 (22.9%)
+  PER-CHAT: 645 (55.6%)
+  PersonaChat: 26 (2.2%)
+  SyntheticPersonaChat: 54 (4.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 68
+
+1. I would like to live in Hong Kong.
+   (ID: FHCSCC2MB2X0_7)
+
+2. I lived in Indianapolis.
+   (ID: X0N9IFSJSH26_11)
+
+3. I wish to live in a house.
+   (ID: KCX511DQ2QVM_9)
+
+4. I love the weather in United Kingdom.
+   (ID: MLUZD1LRALV9_11)
+
+5. I like Tennessee.
+   (ID: 9U5TT3QTAIKB_11)
+
+6. I have my own office building in Central Norway.
+   (ID: TB8HHXAP822G_11)
+
+7. I am from a small town.
+   (ID: KCX511DQ2QVM_9)
+
+8. I like Montana.
+   (ID: A4HYLQI5894E_11)
+
+9. I have been to California.
+   (ID: UC6WD3SK3PG8_11)
+
+10. I wish to live in New York City for its nature.
+   (ID: EI53JQVYRP0R_11)
+
+11. I wish to own a house in Toronto.
+   (ID: NMEFJE64KZ1F_11)
+
+12. I like living in a city.
+   (ID: STDMXJC7HTUG_11)
+
+13. I like California.
+   (ID: EQX5OJUYB1VY_11)
+
+14. I live in Liverpool.
+   (ID: WOFC7GYRD403_7)
+
+15. I lived in Indiana.
+   (ID: X0N9IFSJSH26_11)
+
+16. I have only been to Maryland on one occasion.
+   (ID: GDTY31F3LH5L_11)
+
+17. I like living in a city.
+   (ID: 9KDV6LSLWNAX_11)
+
+18. I love Texas.
+   (ID: H3DB8Z9BTXSE_11)
+
+19. I wish to live in Poland.
+   (ID: PW1SULL1SY01_11)
+
+20. I like agricultural land.
+   (ID: QCGNF3BW4P3K_11)
+
+
+--- MPChat ---
+Total from this dataset: 25
+
+1. i want to get juniper somewhere to lounge.
+   (ID: krichmondRPH)
+
+2. my parents are tiling their it?
+   (ID: crunch816)
+
+3. is it still a "philly cheesesteak" if i got it in fl?
+   (ID: MonstaEatsItAll)
+
+4. i put my bookshelf on my bookshelf.
+   (ID: Nolon)
+
+5. it was smokey in the pnw but i miss summer!
+   (ID: dudeinthepnw)
+
+6. "i think you'll find that the couch is free"- president petrie
+   (ID: kentobean123)
+
+7. it's the smallest room in my house, but i spend most of my time in here
+   (ID: crunch816)
+
+8. i love winter, but will miss warm summer nights under the stars [oc] [1600x1146]
+   (ID: garret_weintrob)
+
+9. would appreciate some help with my new room (imgur album and specifics in comments)
+   (ID: LiftingNurse)
+
+10. i'm ready for autumn!
+   (ID: blboppie)
+
+11. it rained almost the whole time when i visited death valley national park, usa
+   (ID: ChristophZee)
+
+12. for my man cave
+   (ID: Nerdyredeyejedi)
+
+13. "i think you'll find that the couch is available"
+   (ID: kentobean123)
+
+14. i've pitched my tent in worse locations.
+   (ID: ed2base)
+
+15. oregon is my favorite
+   (ID: Nerdyredeyejedi)
+
+16. i’m all set for fall!
+   (ID: FoxInKneeSocks)
+
+17. "i think you'll find the couch is available"
+   (ID: kentobean123)
+
+18. my first picture post ...who says iowa is all flat and corn fields?
+   (ID: iowajaycee)
+
+19. it badly needed to be cleaned 4 years ago when i moved in.
+   (ID: blboppie)
+
+20. all of my friends think nevada is ugly...
+   (ID: evantide)
+
+
+--- MSC ---
+Total from this dataset: 77
+
+1. I have never been to Maryland. I am a chef.
+   (ID: dialog_138_speaker_2)
+
+2. I live in California. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+3. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+4. I've only visited NY twice.
+   (ID: dialog_170_speaker_1)
+
+5. I like distance from society.
+   (ID: dialog_129_speaker_1)
+
+6. I used to live in florida.
+   (ID: dialog_109_speaker_1)
+
+7. My home is on key west.
+   (ID: dialog_27_speaker_2)
+
+8. I live with my mom. My mom is sick.
+   (ID: dialog_118_speaker_1)
+
+9. My neighborhood can get loud late.
+   (ID: dialog_118_speaker_1)
+
+10. My house is very big.
+   (ID: dialog_80_speaker_1)
+
+11. I live on an island in Hawaii..
+   (ID: dialog_27_speaker_2)
+
+12. I lived on teh west coast.
+   (ID: dialog_131_speaker_1)
+
+13. My neighborhood can get loud late.
+   (ID: dialog_36_speaker_1)
+
+14. I have a broken leg. It snows where I live. I go to physical therapy often,  I am married.
+   (ID: dialog_112_speaker_2)
+
+15. Iam in the sticks.
+   (ID: dialog_184_speaker_1)
+
+16. I have a wife and a house. I am planning to start having kids and want to get to visit Paris before settling down.
+   (ID: dialog_135_speaker_1)
+
+17. I call the ghetto home.
+   (ID: dialog_36_speaker_1)
+
+18. I live on a private island.
+   (ID: dialog_69_speaker_2)
+
+19. I live in Nashville.
+   (ID: dialog_117_speaker_2)
+
+20. I live in Portland, Oregon.
+   (ID: dialog_159_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 266
+
+1. i live here .
+   (ID: SanJOahu84)
+
+2. i live in denver ..
+   (ID: smileisafrown)
+
+3. i wonder if it has an outhouse ?
+   (ID: PepperPixie09)
+
+4. i 'm at st hildas :)
+   (ID: cherrytonguetie)
+
+5. i could smell smoke up at cambie and king ed .
+   (ID: parkleswife)
+
+6. i love ikea , but that cable manager is a chihuahua trap .
+   (ID: IgnoranceIsAVirus)
+
+7. i 'd almost die for a rainy day at this point .
+   (ID: zsnajorrah)
+
+8. i hope it ’s a tasty summer !
+   (ID: kitcatpaints)
+
+9. i live here .
+   (ID: themarajade1)
+
+10. i ask because i live in texas .
+   (ID: Sarahthelizard)
+
+11. i 'm not too far from pasadena !
+   (ID: notlikethat1)
+
+12. i wanna move .
+   (ID: CarlofTime)
+
+13. i would never live here though i have to be in the suburbs
+   (ID: mass08)
+
+14. i am definitely going to have security cameras when i move to a house .
+   (ID: Sugarpeas)
+
+15. i am wondering if what the op thinks is the city is actually a hoa .
+   (ID: dammitOtto)
+
+16. i am suddenly glad to live very far away from texas .
+   (ID: adertal)
+
+17. i have no way to reach moderate voters in contested states .
+   (ID: Dustin_Bromain)
+
+18. i 'm sory nervous to see what my place looks like .
+   (ID: BLONDEBITCHH)
+
+19. i do n't know man , florida usually gets all the attention for being weird as shit .
+   (ID: sweatervest)
+
+20. i live in australia and am trying to give advice on driving in the snow .
+   (ID: Nigelwethers)
+
+
+--- PER-CHAT ---
+Total from this dataset: 645
+
+1. i ' m single , why would i need my own flat ? once i meet some girl and we decide to live together i will think about getting our place , till then why pay for rent and all of the taxes and have to cook ? just so my friends would have another place to have parties at ?
+   (ID: 34e16cd86d5bc21047f9df5b5328f8eabdebff2a)
+
+2. I live in chicago.
+   (ID: f031a6829326f9097d63f90ad77c7cac6d8319bb)
+
+3. I live in san antonio.
+   (ID: 533870e07f5d5bb315a9e1e8278df4d123d8a887)
+
+4. I live in maximus.
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+5. i  d like to know more about your old town . if you can remember more , update us
+   (ID: 8f17a8aa41d6f9ae6bf4690376763808f9363f80)
+
+6. I live in hilliard.
+   (ID: 40e9f2306751118eda95174d093680e74831a34d)
+
+7. I live in at time.
+   (ID: 81aef4a1b477688be90d95bcd1c4cce42438c660)
+
+8. I live in pp stories.
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+9. dude hate to tell you but don  t be so ignorant , maybe you  re from a different part of the us . also i said many , not all . there is still plenty who would love to . also i  m from a huge red state which sees itself as it  s own country almost . i don  t go out asking strangers , just my good friends . there  s various people who have had the same experience on me ask asking . open your mind or atleast use it a bit
+   (ID: ab7b04c861ea53216d337be29676deb59279c791)
+
+10. I live in town.
+   (ID: b30983a02e6c6ad80a50a521eee441b9f454a5e9)
+
+11. well , generally to change roommate arrangements you don ' t need to appeal to any official policy . my university ' s housing department pretty freely acknowledges that roommate relationships can be tense and at times getting out of the situation is the best solution . imaginably if you had any evidence of him stealing your silverware he could face some sort of negative consequences . a lot of people are surprisingly passive  aggressive and horrible at asserting their concerns in a productive way . dorm living is supposed to help remedy that type of thing , but it doesn ' t seem to . what he ' s doing in regards to your girlfriend is incredibly out of line , i commend you for not kicking his ass . since it ' s between semesters now is your perfect opportunity to move to a different dorm or have him removed from your dorm . i would not hesitate to contact whatever office at your university deals with student housing concerns .
+   (ID: 46ad8b21d42eca2f7a4a4acacd8d9683aa9cf47a)
+
+12. I live in philadelphia.
+   (ID: b6e873f95e3973d6b2dedee433d1efa1c2c3cba2)
+
+13. i ' ve personally witnessed over digit baofengs being tested by fcc specs , the only ones that fail were the fake models sold by amcrest  foscam , and one seriously abused legit model . that means the legit models have a digit . digit  pass rate . it doesn ' t fail because your ignorant opinion says so . oh some doucenozzle completely screwed up the testing in his " lab " with equipment not certified to spec , no commercial verification , a quarter mile from a tower with commercial repeaters , and somehow the radio is what fails ? sorry i ' ve seen all those so called " spurious emission " pictures and videos , every single one that " fails " these baofengs do so because the tester is a complete moron running the test in a way to make them purposely fail , or only tests the worst of the fake models they bought for  digit from foscam  amcrest or some unknown model uv  5xyz from a no name seller . go troll somewhere else kiddo .
+   (ID: ef02e812d417ba40d4b3e2f97601e54e4a68c5c5)
+
+14. I live in center.
+   (ID: 79e5228419de270c01297915dbce56be0063c52b)
+
+15. I live in hick town.
+   (ID: 32eb93e4ef8c75a245c5af1b97d5b7b883c0def4)
+
+16. I live in mornington shire.
+   (ID: 5df8f31d7e0521d2306b8c923ad3cbb6e96e8d04)
+
+17. I live in border.
+   (ID: c8c5c965e2188b52c51dd0dd8715dabd412209f5)
+
+18. I live in on tip.
+   (ID: 5078613a782f11088cff05f4503056b040cea999)
+
+19. make sure you get a real inspection from a licensed inspector . who knows what this place will go for as is .
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+20. I live in star wars.
+   (ID: 0cfe15b45fa033fe460b061d1625e4bb67bab696)
+
+
+--- PersonaChat ---
+Total from this dataset: 26
+
+1. i live in seattle .
+   (ID: conversation_346)
+
+2. i grew up in alabama .
+   (ID: conversation_221)
+
+3. i live in nashville .
+   (ID: conversation_215)
+
+4. my dream is to move to the middle of the desert .
+   (ID: conversation_92)
+
+5. i live in a suburb of boston .
+   (ID: conversation_164)
+
+6. i am from sterling heights , michigan .
+   (ID: conversation_472)
+
+7. i live in nashville .
+   (ID: conversation_117)
+
+8. we own our home .
+   (ID: conversation_30)
+
+9. we lived in virginia while i was growing up .
+   (ID: conversation_391)
+
+10. i ve been to canada two times my entire life .
+   (ID: conversation_418)
+
+11. i've a vacation home in the mountains .
+   (ID: conversation_477)
+
+12. i love living in texas .
+   (ID: conversation_26)
+
+13. i come from a small town .
+   (ID: conversation_406)
+
+14. since i have fibromyalgia , the harsher winters here in pa will be rough on me .
+   (ID: conversation_167)
+
+15. i want to move .
+   (ID: conversation_334)
+
+16. we own our home .
+   (ID: conversation_68)
+
+17. i live on an island .
+   (ID: conversation_27)
+
+18. i come from a small town .
+   (ID: conversation_2)
+
+19. i just moved from va to pa .
+   (ID: conversation_167)
+
+20. i want to move .
+   (ID: conversation_147)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 54
+
+1. I now live in new mexico.
+   (ID: conversation_120_user_1)
+
+2. I just moved from va to pa.
+   (ID: conversation_341_user_2)
+
+3. I live in nashville.
+   (ID: conversation_390_user_2)
+
+4. I live in a suburb of boston.
+   (ID: conversation_84_user_2)
+
+5. I live near the ocean.
+   (ID: conversation_300_user_2)
+
+6. I live close to the coast.
+   (ID: conversation_45_user_1)
+
+7. I grew up in nevada.
+   (ID: conversation_120_user_1)
+
+8. I love living in texas.
+   (ID: conversation_325_user_2)
+
+9. I want to move.
+   (ID: conversation_284_user_2)
+
+10. I have went to mexico 4 times this year.
+   (ID: conversation_497_user_1)
+
+11. I live near the ocean.
+   (ID: conversation_327_user_1)
+
+12. I live on a lake.
+   (ID: conversation_435_user_1)
+
+13. I hope to move out soon.
+   (ID: conversation_267_user_1)
+
+14. My dream is to move to the middle of the desert.
+   (ID: conversation_82_user_2)
+
+15. I live by a lake.
+   (ID: conversation_374_user_1)
+
+16. I live near the ocean.
+   (ID: conversation_332_user_1)
+
+17. I have lived in several different states.
+   (ID: conversation_262_user_2)
+
+18. I am from seattle.
+   (ID: conversation_423_user_2)
+
+19. I live by a lake.
+   (ID: conversation_373_user_1)
+
+20. Since i have fibromyalgia , the harsher winters here in pa will be rough on me.
+   (ID: conversation_341_user_2)
+
+
+============================================================

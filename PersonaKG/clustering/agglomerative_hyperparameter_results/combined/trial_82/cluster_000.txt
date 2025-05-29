@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 33176
+
+Dataset distribution in this cluster:
+  FoCus: 645 (1.9%)
+  MPChat: 2739 (8.3%)
+  MSC: 1478 (4.5%)
+  PEC: 15170 (45.7%)
+  PER-CHAT: 10484 (31.6%)
+  PersonaChat: 909 (2.7%)
+  SyntheticPersonaChat: 1751 (5.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 645
+
+1. I am willing to read Codex Sinaiticus.
+   (ID: TF24QL7QZSG2_11)
+
+2. I am a fan of architecture.
+   (ID: JFAHL3MTTLAX_11)
+
+3. I have studied about Catuvellauni in my subject.
+   (ID: XY9R2ORN3XBQ_7)
+
+4. I often buy beauty products.
+   (ID: NR67D1SY5ZKB_11)
+
+5. I have grown up in London.
+   (ID: 8WL4II03WTP0_7)
+
+6. I like to read about tourism.
+   (ID: LYYSTNQ9MBLY_11)
+
+7. I am writing about Stratovolcano.
+   (ID: LERVJ9I223JG_7)
+
+8. I hate people and companies damaging the wildlife and environment of national parks.
+   (ID: LEW58VG9I78X_11)
+
+9. I will travel through Meridian.
+   (ID: AGVUC45C9W9X_7)
+
+10. I am not episcopal.
+   (ID: DAZUOQ6PPGPD_9)
+
+11. I want to visit Chicago.
+   (ID: EDLPKHWH3K5B_11)
+
+12. I am going to England.
+   (ID: LRGBCD6RT2HQ_11)
+
+13. I am a fan of Doctor Who.
+   (ID: 8WL4II03WTP0_7)
+
+14. I have several family members who suffered an accident.
+   (ID: 9KDV6LSLWNAX_11)
+
+15. I have a friend in England.
+   (ID: DMD9S9COJOIA_7)
+
+16. I am going to Blaenau Ffestiniog to visit family.
+   (ID: BVS6H6G1BVW6_11)
+
+17. I wish I could visit the City of Brisbane one day.
+   (ID: 8QHMKV7JII6J_11)
+
+18. I hope to see more Research Institute.
+   (ID: 7NISCLZRSK4E_7)
+
+19. I wouldn't want to be caught in a fire.
+   (ID: CBOI96AOZRK6_11)
+
+20. I wish to own a house in Toronto.
+   (ID: NMEFJE64KZ1F_11)
+
+
+--- MPChat ---
+Total from this dataset: 2739
+
+1. pan pan my friends
+   (ID: FormalSwimming)
+
+2. perry the platycorgi is my husband's 1 cuddle buddy
+   (ID: kentobean123)
+
+3. so i tried to do a tie dye swirl cake.. pretty happy with the outcome
+   (ID: SugarHighBakedGoods)
+
+4. i work at a coffee house and we caught this guy eating our halloween pumpkins and corn.
+   (ID: Caserole)
+
+5. i'm okay with posting two homemade pizzas in a day.
+   (ID: mattsulli)
+
+6. i got my first gel kit and had some fun!
+   (ID: gxnelson)
+
+7. bored, so i baked a cake.
+   (ID: DeanIsHotter)
+
+8. idk how they drink all of this, but i'm glad i get to make it for them.
+   (ID: BeastaBubbles)
+
+9. i made a knight helm too!
+   (ID: ddizzle23)
+
+10. noticed this on my cc..help!
+   (ID: BananaStand07)
+
+11. so not as good as my chicks and carrots but still just as terrified looking
+   (ID: Cantwa1t)
+
+12. [i made] spider-man cake for a co workers sons birthday.
+   (ID: amandabakes)
+
+13. hooman i need more food!
+   (ID: Learning2Grow)
+
+14. [i smoked] korean style ribs
+   (ID: MonstaEatsItAll)
+
+15. pj masks cake i made for my sons 3rd birthday
+   (ID: Sunshine_2425)
+
+16. i always make treats for my office.
+   (ID: ddizzle23)
+
+17. i made mittens that describe my feelings for winter
+   (ID: Novel_Fox)
+
+18. alright, i guess i'm into tea now!
+   (ID: SilentRansom)
+
+19. my thanksgiving pie!
+   (ID: RaeADropOfGoldenSun)
+
+20. i made this coffee brownie cheesecake
+   (ID: justcook_byangel)
+
+
+--- MSC ---
+Total from this dataset: 1478
+
+1. I am a pre-law student. I study a lot.
+   (ID: dialog_43_speaker_2)
+
+2. I've been feeling depressed.
+   (ID: dialog_64_speaker_1)
+
+3. My girlfriends and I often go out to enjoy alcoholic beverages with fruit.
+   (ID: dialog_75_speaker_2)
+
+4. In the future I want to drive a large vehicle.
+   (ID: dialog_28_speaker_1)
+
+5. I have a houseboat.
+   (ID: dialog_14_speaker_2)
+
+6. I work long hours at Amazon and am too old to work. The pay is $15 an hour. I work in the Amazon warehourse.
+   (ID: dialog_23_speaker_2)
+
+7. I am single and tired of the bar scene. I was promoted to salon manager.
+   (ID: dialog_14_speaker_1)
+
+8. I love mexican food.
+   (ID: dialog_27_speaker_1)
+
+9. I am from sweden.
+   (ID: dialog_74_speaker_2)
+
+10. I am also from the US. My favorite color is pink.
+   (ID: dialog_23_speaker_1)
+
+11. I am an English teacher.
+   (ID: dialog_38_speaker_2)
+
+12. I want to be in a band someday.
+   (ID: dialog_44_speaker_2)
+
+13. I used to read Black Stallion. I want to read Twilight.
+   (ID: dialog_31_speaker_2)
+
+14. My parents had 5 kids.
+   (ID: dialog_1_speaker_2)
+
+15. I'm a woman and enjoy the company of men.
+   (ID: dialog_41_speaker_2)
+
+16. I listen to George Strait.
+   (ID: dialog_66_speaker_2)
+
+17. Sometimes I have trouble breathing.
+   (ID: dialog_40_speaker_1)
+
+18. I work in a restaurant.
+   (ID: dialog_59_speaker_1)
+
+19. I love dancing and would hate to give it up.
+   (ID: dialog_40_speaker_1)
+
+20. I've a disability.
+   (ID: dialog_34_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 15170
+
+1. i was being unfair to myself , caught in a delusion .
+   (ID: bennystache)
+
+2. i just wanna give moose a hug
+   (ID: Aloha-Potato)
+
+3. i 'm glad you have someone you can talk to .
+   (ID: IncredibleBulk2)
+
+4. i 'm new at this .
+   (ID: StinkinFinger)
+
+5. i came back and re - read this ...
+   (ID: leo9g)
+
+6. i do n't know much about this
+   (ID: buttercup_mauler)
+
+7. i 'm missing a bunch of shirtless solitary men smoke their hookahs together ... you guys are fucking retarded
+   (ID: Kellen1337)
+
+8. i almost feel bad !
+   (ID: Ooer)
+
+9. i do n’t want another one since i would never wear that .
+   (ID: Justadropinthesea)
+
+10. i can empathize .
+   (ID: LooksAtClouds)
+
+11. i ’d wear the fuck out of that reese ’s shirt
+   (ID: ChallengeTaken99)
+
+12. i concur , i 'd spoil that dog to no end
+   (ID: Evref)
+
+13. i have nothing against drugs ; we need to legalize and regulate to stop this type of shit halpening .
+   (ID: RelaxedSociety)
+
+14. i 've seen it before , this is perfectly applied .
+   (ID: HugePurpleNipples)
+
+15. i guess you missed the part where women who participate lose credibility and those who do n't are blackballed .
+   (ID: Nobody-Likes-Change)
+
+16. i 'm guessing i was somewhere in between .
+   (ID: zsnajorrah)
+
+17. i ’m doing better .
+   (ID: tylock)
+
+18. i also liked the umd state pride unis .
+   (ID: wooq)
+
+19. i 've never seen that miracle in use .
+   (ID: nastylittleman)
+
+20. i ’m stuck .
+   (ID: exotics)
+
+
+--- PER-CHAT ---
+Total from this dataset: 10484
+
+1. all the star wars
+   (ID: 2e2a44cdfc726423ec202a2fe420543af441d1ad)
+
+2. equality . like , c ' mon , don ' t we have enough of that already ?
+   (ID: 9b6ee533e853c768cc140f122ed313d4d7550b5a)
+
+3. intellectualized , damn straight . their music is top notch , but you don ' t need to be smart to like them . i hate their fanbase more than their music .
+   (ID: 9a96ba583f43f670f5797ea5031052161bf613cf)
+
+4. i just know i will apologise tomorrow anyway . or maybe i ' ll just ignore her and see if she ' ll apologise but then i would feel really bad .
+   (ID: 2ce191fd1043183c73daf2ab41afee9b122fd42b)
+
+5. yeah if the case cover is off i would suspect bad contact of the cooler to the cpu . with a good aftermarket cooler you shouldn  t be seeing temps like that .
+   (ID: e7516540d2045135f43a4a7c61f0bd88856c8ff4)
+
+6. I own a american cock.
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+
+7. okay first for fucks sake please dont i get it i was there maybe not that far not to suicide but i was there okay i was depressed as fuck i get everything you ' re going through . she could have broke up with you bc she was having the same problems and also didn ' t want to tell you . dont kill yourself over a girl remember that feeling of being pulled out ? it will happen again trust me it will and maybe that time it will be perminant if not that time maybe the time after . giving life up even though tomorrow could lead to happiness forever is a horrible idea okay . please dont see a school councilor call the suicide hotline something man just dont kill yourself . belive it or not you are loved and appreciated and pushing your friends away will only make it worse on them . they will think that they should have saw the signs things like that just please for the love of god tell someone . dont . kill . your . self . its not worth it since tomorrow could be amazing and you could meet someone better or she comes back .
+   (ID: 0501bf1e5cd313190bb4590a1c677057b15a6e47)
+
+8. i think that over night bottles are a small part of parenting as a whole . i didn ' t actually ask if father ' s should parent their children or not , specifically .
+   (ID: 7a3a98777bf2cebb6bd14409075a19b82035e535)
+
+9. this happens to me with my long distance friend . i ' ve been friends with her for years but whenever she doesn ' t reply for a day or more i assume i said something wrong and she hates me . i ' m always wrong . i know it ' s a shitty way to think but thats how my mind works . i think part of it is because i ' ve been betrayed by many people i thought were my friends before
+   (ID: 7026695d5469f9ac5987bd602ce0be29968523db)
+
+10. i understand but it seemed that your question didn ' t make any sense . a cop will give you a ticket if you break the law even if what you ' re doing makes sense as is safer than following the law . a cop will give you a ticket if he doesn ' t know the law or is having a bad day . your question doesn ' t matter , hypothetically or not . you do the best you can and try not to break any laws . sorry if i became outraged because i really wanted to understand and answer the question and really thought that i had , and it frustrated me that i didn ' t .
+   (ID: c22fbcc3fbb3286d348387d73888b66c1c9e09ba)
+
+11. i ' m not sure how you can ' t find rez scrolls , essentially every vendor has them . in regards to improving , you haven ' t given any detail as to what exactly you ' re doing now . what level is your party ? what ' s your party makeup ? what skills are you using ? what ' s going wrong ?
+   (ID: ef4c0dfc1d427eae02f9c3d660c4d80a470020e2)
+
+12. seems like you got a pretty good routine already dude which is great . what wax are you using ? you may have to use something stronger to get styling your hair a bit easier and act more effective , you have thicker hairwhich is a positive .
+   (ID: 89e76efb1868896fe46bffbc2c10d965b53857d1)
+
+13. your lie my dude . tell it how you want . over here in reality though this game needs a story to compliment the season or we  re just left with grinding weapons that will eventually get infused into something else .
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+14. i quit in mid september with chantix , after smoking for a little over digit years . i stumbled once in november and lit one . it tasted like crap , and i threw it out . chantix made it easy for me . i lost interest in smoking . the cravings became fewer and didn ' t last long unless you dwell on them . the nightmares were really vivid at times , but after a while , i actually enjoyed them . i heard it was like watching a 3d movie on acid , but i ' ve never taken acid so i don ' t really know . one very important thing to remember is to eat something when you take it , and follow it up with a full glass of whatever you want to drink . don ' t just drink enough to swallow the pill or you will get horrible cramps or nauseated . make sure you take it for at least three months , to completely break the habit . also , taper off of it to digit pill a day , and then digit  digit pill a day for the last two weeks to avoid headaches . it helps . one last thing . get allen carr ' s stop smoking book and read it . i didn ' t get any earth shattering information out of it , but it did help . between the chantix and the book , i quit and i don ' t miss it at all . wish i would have done it years ago . if i can do it , so can you . good luck !
+   (ID: 5603c8fcb517a4b5745afb8c3f46248974edebe3)
+
+15. it passed in digit . i don ' t know what to tell you . just keep them inside .
+   (ID: ab9a3fa39c7ebd1066697c2d7027afe2422d5ac7)
+
+16. what kind of a salary are you looking at ? the interviewer wants to know how well you can assess yourself , and whether you ' re going to a legitimate asset to the company or a drain .
+   (ID: f3192aa413ed905a2d6bc7e74ae65b23517e05a0)
+
+17. takei ' s exact quote was  " i take no solace or joy in this man ' s passing . we will not dance upon his grave , nor stand vigil at his funeral holding " god hates freds " signs , tempting as it may be . he was a tormented soul , who tormented so many . hate never wins out in the end . it instead goes always to its lonely , dusty end . " source  gaystarnewshttp
+   (ID: e3524b3478c664f2c6e8b00a4341ff0a26995fbc)
+
+18. I enjoy soccer.
+   (ID: eeef74f05127fafe9b00ca3ad85ff51c0eb20fff)
+
+19. I am whore.
+   (ID: 392895b8f4f938fb4e2bfae6551b901dccf33ac2)
+
+20. i actually wonder , if someone launches the nuke at the area , where player camp is located , do they become  wanted  too afterward ?
+   (ID: 77770aa98878bbc6909e1c6f872ebb6803362fc5)
+
+
+--- PersonaChat ---
+Total from this dataset: 909
+
+1. my favorite food is pizza .
+   (ID: conversation_218)
+
+2. i just moved into an apartment within the vicinity of my new job .
+   (ID: conversation_91)
+
+3. i cannot hold down a job for very long .
+   (ID: conversation_197)
+
+4. i breed maine coon cats and show them .
+   (ID: conversation_46)
+
+5. i've problems chewing my food .
+   (ID: conversation_126)
+
+6. i wish i had a real dragon i could train .
+   (ID: conversation_31)
+
+7. i help around with bookkeeping and tours .
+   (ID: conversation_20)
+
+8. i am lazy and pork tastes good .
+   (ID: conversation_137)
+
+9. my father used to be a cop .
+   (ID: conversation_203)
+
+10. i am a volunteer firefighter .
+   (ID: conversation_109)
+
+11. my favorite color is green .
+   (ID: conversation_207)
+
+12. i enjoy watching videos on youtube .
+   (ID: conversation_174)
+
+13. welding is my career field .
+   (ID: conversation_4)
+
+14. i used to be a chef , but i am a teacher now .
+   (ID: conversation_141)
+
+15. i work at a bookstore .
+   (ID: conversation_56)
+
+16. i am a dog walker .
+   (ID: conversation_170)
+
+17. i have a strange obsession with pens .
+   (ID: conversation_212)
+
+18. i'm thirty years old .
+   (ID: conversation_173)
+
+19. i used to be in the marines .
+   (ID: conversation_36)
+
+20. i recently made the college baseball team .
+   (ID: conversation_103)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1751
+
+1. I used to be a chef , but i am a teacher now.
+   (ID: conversation_188_user_2)
+
+2. I am tall.
+   (ID: conversation_13_user_1)
+
+3. I m going riding on my boat today.
+   (ID: conversation_157_user_1)
+
+4. I am working in finance.
+   (ID: conversation_123_user_1)
+
+5. I am buying a house.
+   (ID: conversation_93_user_1)
+
+6. I am currently a stay at home mom while my husband is the sole provider.
+   (ID: conversation_199_user_2)
+
+7. This season , i will become a playoff quarterback.
+   (ID: conversation_219_user_2)
+
+8. I am working on a biology degree.
+   (ID: conversation_126_user_1)
+
+9. I have a tattoo of an angel on my hip.
+   (ID: conversation_158_user_1)
+
+10. I spend most of my days working at my churchs food pantry.
+   (ID: conversation_49_user_2)
+
+11. I have a wife and a 4 year old son.
+   (ID: conversation_73_user_2)
+
+12. I enjoy playing guitar and video games.
+   (ID: conversation_124_user_1)
+
+13. I am going back to school.
+   (ID: conversation_170_user_2)
+
+14. I have long fingers.
+   (ID: conversation_19_user_1)
+
+15. I have an mba degree.
+   (ID: conversation_240_user_1)
+
+16. I play a lot of video games.
+   (ID: conversation_136_user_1)
+
+17. I m not very tall.
+   (ID: conversation_71_user_1)
+
+18. My favorite movie is titanic.
+   (ID: conversation_43_user_2)
+
+19. I am funny.
+   (ID: conversation_30_user_1)
+
+20. I am a police officer.
+   (ID: conversation_164_user_2)
+
+
+============================================================

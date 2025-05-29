@@ -1,0 +1,467 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 2379
+
+Dataset distribution in this cluster:
+  FoCus: 500 (21.0%)
+  MPChat: 38 (1.6%)
+  MSC: 337 (14.2%)
+  PEC: 157 (6.6%)
+  PER-CHAT: 647 (27.2%)
+  PersonaChat: 231 (9.7%)
+  SyntheticPersonaChat: 469 (19.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 500
+
+1. I like old places.
+   (ID: EI6Q3XUVHZRV_9)
+
+2. I like public utilities.
+   (ID: VHMWBMQSDD2I_9)
+
+3. I like Kongsvoll Alpine Garden.
+   (ID: TB8HHXAP822G_11)
+
+4. I love shopping malls.
+   (ID: X0N9IFSJSH26_11)
+
+5. I like to participate in athletic sports.
+   (ID: G0MQSJ1XOT71_11)
+
+6. I am a huge fan of traveling the world.
+   (ID: VUQVHZP0LUAH_11)
+
+7. I like Montana.
+   (ID: A4HYLQI5894E_11)
+
+8. I love playing football.
+   (ID: UHVFDJII2GF5_11)
+
+9. I love Manhattan.
+   (ID: XA7M896U3YIQ_11)
+
+10. I love visiting canada.
+   (ID: NETYMHGQTGLI_9)
+
+11. I like playing raquet ball.
+   (ID: 6OHDZSOV3OZF_11)
+
+12. I like museums.
+   (ID: AQN3EJ76NIKJ_11)
+
+13. I like living in a very sunny country.
+   (ID: 77E5QV6TW4WU_11)
+
+14. I like California.
+   (ID: EQX5OJUYB1VY_11)
+
+15. I like public Park.
+   (ID: RN7ZT44D6QK1_11)
+
+16. I love the country of England.
+   (ID: I0CVV46WKEKI_11)
+
+17. I like travel.
+   (ID: PGIZXWTCX77K_7)
+
+18. I love to visit parks.
+   (ID: N4W8V4TZG4XD_11)
+
+19. I mostly prefer visiting heritage listed places.
+   (ID: CA1IZ57C8644_11)
+
+20. I like going to the zoo.
+   (ID: QLDCXP7YJP9Q_11)
+
+
+--- MPChat ---
+Total from this dataset: 38
+
+1. my cozy place to relax at night
+   (ID: FormalSwimming)
+
+2. wherever i sit on the front porch...
+   (ID: PatitaBlanca)
+
+3. i always haul a few pots with me on nature walks to photograph.
+   (ID: kilnmenow)
+
+4. i can make butch cakes, too!
+   (ID: hottiecakes)
+
+5. man i love the sonoran desert!
+   (ID: tucsonyeti)
+
+6. this is why i go camping
+   (ID: FMbutterpants)
+
+7. this is why i love the american southwest
+   (ID: tssouthwest)
+
+8. safety pin basting day... otherwise know in my house as floor sweeping and mopping day lol
+   (ID: XandXor)
+
+9. the sky from my camping spot!
+   (ID: gammonjoshua)
+
+10. i love it here!
+   (ID: krichmondRPH)
+
+11. my home for the night overlooking crummock water in england's lake district national park.
+   (ID: ed2base)
+
+12. this is the most beautiful place i have ever been to.
+   (ID: LunaMcLovin)
+
+13. i agree, buddy, that's the best spot in the house.
+   (ID: m3lodym4ker)
+
+14. i love camping!
+   (ID: insthotchkiss)
+
+15. i buy beautiful yarn everywhere i travel and am compiling quite a collection.
+   (ID: meghanlovessunshine)
+
+16. oregon is my favorite
+   (ID: Nerdyredeyejedi)
+
+17. my backyard smells soooo good right now!
+   (ID: XandXor)
+
+18. i love google maps.
+   (ID: pope237)
+
+19. where the cat and i are spending our weekend
+   (ID: heatsensitive)
+
+20. listening to june bugs hit the bug zapper while i wait for my charcoal to be ready.
+   (ID: billwhiz)
+
+
+--- MSC ---
+Total from this dataset: 337
+
+1. I do yoga.
+   (ID: dialog_154_speaker_1)
+
+2. My sibling enjoys music and going to different places.
+   (ID: dialog_22_speaker_2)
+
+3. I like fluid from out of country.
+   (ID: dialog_33_speaker_1)
+
+4. I'm a shopaholic.
+   (ID: dialog_38_speaker_1)
+
+5. I like shopping for clothes  at Macy's.
+   (ID: dialog_191_speaker_1)
+
+6. Believe It Or Not museum is my favorite.
+   (ID: dialog_150_speaker_1)
+
+7. I live near the outdoors so I can go for walks.
+   (ID: dialog_183_speaker_1)
+
+8. I like to participate in sports that require speed and agility.
+   (ID: dialog_143_speaker_2)
+
+9. I love to do yoga.
+   (ID: dialog_86_speaker_1)
+
+10. I love to visit thrift stores and find items from the late 1800s.
+   (ID: dialog_122_speaker_1)
+
+11. Winter is my favorite time of year.
+   (ID: dialog_183_speaker_2)
+
+12. I enjoy books and resting by inland bodies of water on saturdays and sundays.
+   (ID: dialog_163_speaker_1)
+
+13. I keep myself physically fit.
+   (ID: dialog_75_speaker_1)
+
+14. I love to be under water.
+   (ID: dialog_16_speaker_2)
+
+15. I love playing t.
+   (ID: dialog_105_speaker_1)
+
+16. I enjoy going for a short run.
+   (ID: dialog_136_speaker_1)
+
+17. I like outdoor activities.
+   (ID: dialog_72_speaker_2)
+
+18. I love nature.
+   (ID: dialog_117_speaker_2)
+
+19. Warm weather is my favorite time of year.
+   (ID: dialog_12_speaker_1)
+
+20. I enjoy spending time with my toes in the sand.
+   (ID: dialog_7_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 157
+
+1. i love the palace .
+   (ID: whyunogivemegoodname)
+
+2. i do it for the groupies !
+   (ID: SerendipitousCat)
+
+3. i take it you ’re a fan of the who ?
+   (ID: ListenandLove100)
+
+4. i listen to it while i 'm charting at work .
+   (ID: DrVerdandi)
+
+5. i prefer working in willow creek , but newcrest always feels familiar !
+   (ID: _gansmadchen)
+
+6. i love pot shops
+   (ID: PECOSbravo)
+
+7. i love that other people go on night walks !
+   (ID: NyxPeregrinus)
+
+8. i like hot brits playing superheroes .
+   (ID: Sarahthelizard)
+
+9. i scuba dive .
+   (ID: deputydan_scubaman)
+
+10. i love being in the wilderness and hearing the wolves howling
+   (ID: mr_venus)
+
+11. i like to be the middle spoon :3
+   (ID: conservative_poly)
+
+12. i like to send my father - in law cute pics of his grandson .
+   (ID: chirpyboyandbartjr)
+
+13. i like sleep cuz it gives me a rest from this place
+   (ID: RelaxedSociety)
+
+14. i do squats !
+   (ID: Heavenandhell50)
+
+15. i love water .
+   (ID: BrianV91)
+
+16. i 'm the funnest .
+   (ID: GanjaSmoker420HaloXX)
+
+17. i 'm supposed to have fun .
+   (ID: Kialand)
+
+18. i find the moon romantic .
+   (ID: OliveGames)
+
+19. i like going to sleep because it 's the only time i 'm not depressed and get some relief .
+   (ID: kailan123456)
+
+20. i 'm bored .
+   (ID: KPer123)
+
+
+--- PER-CHAT ---
+Total from this dataset: 647
+
+1. One of my favorite things is shooting hoops.
+   (ID: cbba33bde970dd57ea65378793409285d5501f7d)
+
+2. One of my favorite things is anarchy acres.
+   (ID: 455d2820736b8e82503d5eeacd6d1a8fa4682a68)
+
+3. One of my favorite things is michigan ’.
+   (ID: a2ac729ecf8bc4b4e5e9971a848e76d3b574e65a)
+
+4. One of my favorite things is el niño.
+   (ID: e3a37ef234435ebde735894f98de2b3f90e3bbe9)
+
+5. One of my favorite things is loopholes.
+   (ID: de62a0a330b0a7ca76d55a6702dcae5baf1c3cae)
+
+6. One of my favorite things is travel.
+   (ID: 699bf0afe2f1405d2208320e80156a99e90d356e)
+
+7. One of my favorite things is panera.
+   (ID: 7f37f47fcf6439c13308caa3da8118ac14f861f6)
+
+8. One of my favorite things is rainbow road.
+   (ID: 39ad1ed2bdf42527fd153f3d4be927df170fc195)
+
+9. One of my favorite things is lancaster.
+   (ID: 0eb78cb406a9dd9e14938eca8822e3bb1e1ad60a)
+
+10. One of my favorite things is german.
+   (ID: 37afe6aed6f5a2677e6ebd0e4e168a560dc96061)
+
+11. One of my favorite things is California.
+   (ID: 2e421a43ff0a40b0f74bde81bde81db485fb136c)
+
+12. One of my favorite things is australia.
+   (ID: 657111ddaa0e710ba768a3b9132b927482be7955)
+
+13. One of my favorite things is thanksgiving more than christmas.
+   (ID: 7c5209c3b827e0de0cd436466f80ce09b615606b)
+
+14. One of my favorite things is pacific shroom.
+   (ID: 917dfa16e92ce1db67ec3f88bc07b87b70a36c95)
+
+15. One of my favorite things is british people.
+   (ID: 272bbd1e0746915faf3405ae9c33485b5967ca9f)
+
+16. One of my favorite things is winter.
+   (ID: 2fd27f1218d4f8b9cf90988522a560a50a304dfc)
+
+17. One of my favorite things is skateboarding.
+   (ID: 87173aaf55980a77c94bd30c851c39fb0b52ff2e)
+
+18. One of my favorite things is gardening.
+   (ID: 82227bc3f73e4753802bc6bc025e3544c0c76857)
+
+19. One of my favorite things is football team.
+   (ID: 31d924f098e0871341a799d7a5777fb635f53b34)
+
+20. One of my favorite things is backpacking.
+   (ID: 2ad50e702ea7ef4cc62a34ca116f658d564c0474)
+
+
+--- PersonaChat ---
+Total from this dataset: 231
+
+1. i like to hike .
+   (ID: conversation_332)
+
+2. i like to go fishing .
+   (ID: conversation_124)
+
+3. i enjoy nature .
+   (ID: conversation_487)
+
+4. i like to go shopping .
+   (ID: conversation_397)
+
+5. i go to at least 10 concerts a year .
+   (ID: conversation_13)
+
+6. i like playing basketball .
+   (ID: conversation_278)
+
+7. i like to run so that i can clear my head .
+   (ID: conversation_337)
+
+8. i love bicycling .
+   (ID: conversation_72)
+
+9. i love to gossip .
+   (ID: conversation_435)
+
+10. my friends like watching it to .
+   (ID: conversation_399)
+
+11. i like jogging in my spare time .
+   (ID: conversation_77)
+
+12. i like to stay fit .
+   (ID: conversation_359)
+
+13. i like to go to the farmer s market every weekend .
+   (ID: conversation_117)
+
+14. i enjoy horseback riding .
+   (ID: conversation_248)
+
+15. i love hiking and staying fit .
+   (ID: conversation_314)
+
+16. i like to go hunting .
+   (ID: conversation_392)
+
+17. i love bicycling .
+   (ID: conversation_3)
+
+18. halloween is my favorite holiday .
+   (ID: conversation_5)
+
+19. i like to hike .
+   (ID: conversation_404)
+
+20. i enjoy fishing .
+   (ID: conversation_18)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 469
+
+1. I like to go to the lake.
+   (ID: conversation_447_user_1)
+
+2. My favorite thing to do is to go to museums.
+   (ID: conversation_445_user_2)
+
+3. I often play the clown to get attention.
+   (ID: conversation_66_user_2)
+
+4. I like to go for bike rides.
+   (ID: conversation_278_user_1)
+
+5. I like going on walks.
+   (ID: conversation_454_user_2)
+
+6. I like to play outside.
+   (ID: conversation_80_user_1)
+
+7. I like to run.
+   (ID: conversation_492_user_1)
+
+8. I enjoy walking around the park.
+   (ID: conversation_474_user_1)
+
+9. I love to travel.
+   (ID: conversation_245_user_1)
+
+10. I love to chat with my friends.
+   (ID: conversation_40_user_2)
+
+11. I like to go on walks.
+   (ID: conversation_437_user_1)
+
+12. I love traveling.
+   (ID: conversation_73_user_1)
+
+13. I go surfing any chance i get.
+   (ID: conversation_307_user_2)
+
+14. I love to shop.
+   (ID: conversation_427_user_1)
+
+15. I like to hunt.
+   (ID: conversation_16_user_1)
+
+16. I like to garden.
+   (ID: conversation_74_user_1)
+
+17. I try to take a break and see a movie in theaters every other month.
+   (ID: conversation_488_user_2)
+
+18. My favorite city is new york.
+   (ID: conversation_370_user_1)
+
+19. I like camping and the outdoors in general.
+   (ID: conversation_140_user_2)
+
+20. I like to go fishing on the lake.
+   (ID: conversation_329_user_1)
+
+
+============================================================

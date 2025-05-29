@@ -1,0 +1,467 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 34436
+
+Dataset distribution in this cluster:
+  FoCus: 520 (1.5%)
+  MPChat: 1448 (4.2%)
+  MSC: 1058 (3.1%)
+  PEC: 17782 (51.6%)
+  PER-CHAT: 11802 (34.3%)
+  PersonaChat: 644 (1.9%)
+  SyntheticPersonaChat: 1182 (3.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 520
+
+1. I don't know who Horace Walpole is.
+   (ID: POTYY4E7PSQF_11)
+
+2. I love Pittsburgh.
+   (ID: GE7KWP503PGI_7)
+
+3. I am proficient in Spanish.
+   (ID: FNURQ2XMQVJF_11)
+
+4. I wish to live in New York City forever.
+   (ID: VQJADZ97TJ0Z_11)
+
+5. I wish to know more about Trinovantes.
+   (ID: XY9R2ORN3XBQ_7)
+
+6. I love to dance.
+   (ID: B4Z7LALR7H1Q_11)
+
+7. I want to stay in a hotel.
+   (ID: OYVLAB02CT4O_11)
+
+8. I am going to stay in Ontario.
+   (ID: UXR4EKSRCULN_11)
+
+9. I love staying in hotels.
+   (ID: R9A1SC51GAMH_11)
+
+10. I wish to stay in the camping.
+   (ID: U6NEN4YX4OT6_9)
+
+11. I would like to travel by railroad.
+   (ID: DTX89JENNS0P_11)
+
+12. I will go to Devon.
+   (ID: VUU19OURBLRK_11)
+
+13. I like roller coasters.
+   (ID: PSBPL4USIKMB_11)
+
+14. I am going to London for business.
+   (ID: DJ4IA2ZGTGQW_11)
+
+15. I am fond of indiginous cultures.
+   (ID: QUHIQZPYU7H1_11)
+
+16. I have the fantasy about dams.
+   (ID: G1UZK23AWVKW_7)
+
+17. I am curious about local folklore.
+   (ID: WXYJ15QP91WP_7)
+
+18. I would like to enjoy matches in flood lighting.
+   (ID: VZ1O6OE23O98_11)
+
+19. I love bridges.
+   (ID: YWRU353H4NFF_11)
+
+20. I love horses.
+   (ID: KG8AEOFQLTO4_11)
+
+
+--- MPChat ---
+Total from this dataset: 1448
+
+1. i'm a bit stuck and wondered if any of you can help me please?
+   (ID: Soapy_Von_Soaps)
+
+2. finished my peacock ami.
+   (ID: Lookingforearrings2)
+
+3. sunflower design is my new favourite :)
+   (ID: Kartenshi)
+
+4. i'm having trouble with round 9 of this pattern.
+   (ID: FoxInKneeSocks)
+
+5. gets me everywhere i want to go.
+   (ID: SweetSassyClassy)
+
+6. sometimes i feel like dexter when i'm about to start a new project....
+   (ID: ddizzle23)
+
+7. one of my favorite things to make at home: vietnamese coffee.
+   (ID: BeastaBubbles)
+
+8. am i cool yet?
+   (ID: drinkdrinkshoesgone)
+
+9. miso ramen at a new shop that opened up by my place.
+   (ID: VodkaWithSnowflakes)
+
+10. i've been dabbling in chocolate bark, here are a few more toffee nut and raspberry
+   (ID: TattsMcGee)
+
+11. pinning it out since i’m done for the day.
+   (ID: Chris55730)
+
+12. i love these guys!
+   (ID: cuppcatt)
+
+13. i think this may be the perfect home for a 4 feets curl
+   (ID: j3iglesia)
+
+14. it was my first time working on a project so large!
+   (ID: fredbutt)
+
+15. i e been using up scraps this week.
+   (ID: smsikking)
+
+16. my boss mentioned that her son loves i made one for him
+   (ID: Sophie74656)
+
+17. first wild oyster mushroom i’ve ever found in washinon though!
+   (ID: sundstrom193)
+
+18. slowsetta cappuccino and i am loving all the wonderful latte art on here
+   (ID: littlebrownpackage)
+
+19. my canada day desk beaver is back
+   (ID: FoxInKneeSocks)
+
+20. i’m still not getting the hang of attaching the trunk.
+   (ID: NervousToast)
+
+
+--- MSC ---
+Total from this dataset: 1058
+
+1. I enjoy skateboarding and going skiing.
+   (ID: dialog_38_speaker_1)
+
+2. I love iced tea.
+   (ID: dialog_14_speaker_1)
+
+3. I'm one year older than 28.
+   (ID: dialog_41_speaker_1)
+
+4. I have a busy job in an office.
+   (ID: dialog_8_speaker_2)
+
+5. I don't know how to make lasagna.
+   (ID: dialog_44_speaker_2)
+
+6. I am from Vancouver, British Colombia.
+   (ID: dialog_33_speaker_1)
+
+7. I hope I get to go skydiving while I still can.
+   (ID: dialog_50_speaker_2)
+
+8. I am a proud us sailor.
+   (ID: dialog_24_speaker_1)
+
+9. I like the open road.
+   (ID: dialog_112_speaker_1)
+
+10. I almost always run into arguments.
+   (ID: dialog_104_speaker_1)
+
+11. I'm a woman and enjoy the company of men.
+   (ID: dialog_41_speaker_2)
+
+12. I have a busy job.
+   (ID: dialog_8_speaker_2)
+
+13. I am a slave. I was born in 1860.
+   (ID: dialog_127_speaker_2)
+
+14. I love to dance.
+   (ID: dialog_65_speaker_2)
+
+15. I am fond of indigo.
+   (ID: dialog_23_speaker_2)
+
+16. Halloween is my favorite holiday.
+   (ID: dialog_5_speaker_2)
+
+17. I have a big house with a swing set and a slide in my backyard. I got a playground 2 years ago.
+   (ID: dialog_118_speaker_2)
+
+18. I have two kids and a husband. I am a full-time parent. I am 30 years old.
+   (ID: dialog_65_speaker_1)
+
+19. I don't have many friends. I am looking for new friends
+   (ID: dialog_88_speaker_1)
+
+20. I am very excited.
+   (ID: dialog_110_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 17782
+
+1. i have enjoyed .
+   (ID: snapsnaptomtom)
+
+2. i dunno i feel like flash is on its way out anyway .
+   (ID: notjawn)
+
+3. i 'm used ?
+   (ID: LordQuorad)
+
+4. i love this idea !
+   (ID: genpell)
+
+5. i love wrestling .
+   (ID: aydinsevimli)
+
+6. i do n't pass on a golden chance like that .
+   (ID: glowinthedark)
+
+7. i find you to be incredibly sexy ...... the conservative look but underneath , deceptively sexy
+   (ID: dawgreddit2014)
+
+8. i set my goal to be healthier and fitter by graduation .
+   (ID: pipette_on)
+
+9. i 'll delete my comment though seen as people are getting so hurt by it .
+   (ID: DarkMoon99)
+
+10. i swear on me mum !
+   (ID: CuriousBlueAbra)
+
+11. i did n't realised how dumb microsoft is .
+   (ID: arabguyistall)
+
+12. i said " i do n't give a fuck about the money !
+   (ID: eye-brows)
+
+13. i do n't want to be reminded !
+   (ID: vikkivinegar)
+
+14. i think it 's cute .
+   (ID: kailan123456)
+
+15. i can only imagine what she must be telling the jones '
+   (ID: RelaxedSociety)
+
+16. i hear that .
+   (ID: NietzschesUbermensch)
+
+17. i know it hurts now but keep on going .
+   (ID: Evolatic)
+
+18. i ca n't wait !
+   (ID: BabblingBunny)
+
+19. i 'm only concered coz i 've been told i wo n't make good size gains if i 'm weak
+   (ID: Panda_Annie)
+
+20. i wish i could buy a beer for half the people in this thread .
+   (ID: Dustin_Bromain)
+
+
+--- PER-CHAT ---
+Total from this dataset: 11802
+
+1. you ' ve posted with the letter i in the title before .
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+2. does it fucking matter to you ? are you a professional ? are you even a parent ? why dont you keep your " opinions " to yourself since you obviously know jack shit about what ' s going on .
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+3. well again , not to take away from your problems , but everyone has them . even those that seem to have all their shit together are dealing with something . hang in there my friend .
+   (ID: 7c5209c3b827e0de0cd436466f80ce09b615606b)
+
+4. i  m not a very . consoling person , but you know what ? fuck  em . i know it  s really hurtful to have strangers comment on your appearance , but they  re the sad fucks who  re mocking passerby  s . but you ? you  re working hard to turn it around , and that  s commendable . so keep it up
+   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
+
+5. declining invites is i think a bit too far unless you have reason to expect an immediate disaster , such as a hurricane or snowstorm . here ' s what i would do . digit  keep some basics in your car , primarily water , food , meds and blankets . if you ' re travelling without a car , keep basics in your luggage if at all possible . digit  introduce others to prepping , but be diplomatic about it  start with the absolute basics , and mention for instance how you ' ve been reading about hurricanes  floods  any other fairly common disaster , and you think a few day ' s worth of supplies is a really great idea digit  don ' t start off by saying ' the end is nigh and i will not come stay unless you have guns , ammo and twelve years of mres ' sounds far  fetched but i ' ve met very intense preppers . they ' ll almost certainly just think you ' re both impolite and crazy , which is unhelpful . digit  you have an advantage now that it has happened once . next time you go stay with these friends , you can say ' remembering what happened last time , would it be helpful if i bring some spare water and things along ? no big deal , just though it might help keep all of our minds at rest , what with the kids and all ! ' they ' ll almost certainly take the hint and stock up on a few basic supplies if they can do so .
+   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
+
+6. constantly creating problems to push things in their direction . it ' s even worse when they have some greedy goal in mind like buying a second house and need you to do some shit for them .
+   (ID: 50043497a219924fd275a92e5dadb6e04bac5936)
+
+7. imagine dying on the battlefield and your ghost just sees your commander load your ashes into a flippin tank , it would be hilarious but i guess it would work
+   (ID: dc1fd340b3e0a603d715d06c129c512b8197c37b)
+
+8. you try you will get a good shape . what about chapati you asked ?
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
+
+9. i can honestly say , what i only encountered very nice folks , while exploring the wasteland ! did couple of very fair trades and after each one , i also was dropping a little  gift  like food , drinks , ammo i don  t need etc . for the person , and always had some gifts in return ! it  s amazing and i  m pleasantly surprised , how friendly people are !
+   (ID: 77770aa98878bbc6909e1c6f872ebb6803362fc5)
+
+10. the alt  left are sjws , antifa , politics posters , etc . the left are the normies who don ' t care much about politics , and only hear from cnn and   fake news sites like that .
+   (ID: 3bd27d669b5f394ae490c4e17c08aca524c47546)
+
+11. One of my favorite things is languages.
+   (ID: 380598f491e44cdd92f2ec6105505f0f439372e2)
+
+12. One of my favorite things is fantasy.
+   (ID: 40ad6d409c1f0888bdb3dbd8d7bab47d00f3a6f0)
+
+13. i ' m glad that they moved away from that . i think the floating words thing is used way too much in tv now . the first two examples that come to mind are sherlock and the good doctor .
+   (ID: 2bd0d072bfd734410249f20da9a2602d61eaaa05)
+
+14. i can  t be the only one who wants to know who the hell they ate and also does anybody actually like this crap or is this just a huge troll
+   (ID: 6b1a5069121a216d43b11b6d5c61b018eb668aaa)
+
+15. i ' m gonna throw this out there because you didn ' t specify  birth control . still cheaper than children .
+   (ID: 3191fce935a433eb5bf640dcdf40d71c47c3a93a)
+
+16. this may be the thing i didn ' t know i was waiting my whole life for
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+17. there ' s more to life than what it is for you now . there ' s a whole fucking lot , little guy . you live , learn , experiment and feel a lot of things along the way , and you never even know what it ' ll bring you , which is the most fun part ! just like good ol ' retarded tom hanks once said
+   (ID: de078b4353965122ac7bf05afe8d580d01d4a928)
+
+18. there is a guy i know who is fully prepared , my plan is to take what he has by any means .
+   (ID: 9e8a44f7c55ebce4785906436a033b33a1ccb949)
+
+19. I have a wife.
+   (ID: c7e5f1c7a94109955f94d7acd2417ffad0ba60db)
+
+20. ok take screenshot while you doin cinebench , then we talk
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
+
+
+--- PersonaChat ---
+Total from this dataset: 644
+
+1. yellow is my favorite color .
+   (ID: conversation_64)
+
+2. i recently made the college baseball team .
+   (ID: conversation_103)
+
+3. i ride horses in my spare time .
+   (ID: conversation_190)
+
+4. my father lives in china .
+   (ID: conversation_182)
+
+5. i am still in love with my ex boyfriend .
+   (ID: conversation_41)
+
+6. i can be quite forgetful .
+   (ID: conversation_37)
+
+7. i am lazy and pork tastes good .
+   (ID: conversation_137)
+
+8. i sleep in late during the day .
+   (ID: conversation_223)
+
+9. i have created my own personal religion .
+   (ID: conversation_292)
+
+10. my favorite color is orange .
+   (ID: conversation_307)
+
+11. i m a student living at home while pursuing my music industry degree .
+   (ID: conversation_328)
+
+12. i am 19 years old .
+   (ID: conversation_103)
+
+13. i overcame urinary cancer at age 18 .
+   (ID: conversation_227)
+
+14. i love scary movies .
+   (ID: conversation_222)
+
+15. both my parents are creative .
+   (ID: conversation_328)
+
+16. i sell clothing on facebook .
+   (ID: conversation_306)
+
+17. i like to go shopping with my daughters .
+   (ID: conversation_338)
+
+18. i want to move .
+   (ID: conversation_334)
+
+19. i am a night owl .
+   (ID: conversation_10)
+
+20. i am a mother of two daughters .
+   (ID: conversation_340)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1182
+
+1. I like to make bagels.
+   (ID: conversation_302_user_2)
+
+2. I am a older gentlemen.
+   (ID: conversation_241_user_1)
+
+3. I like to go for bike rides.
+   (ID: conversation_213_user_1)
+
+4. I am a very funny woman.
+   (ID: conversation_323_user_1)
+
+5. I am east asian.
+   (ID: conversation_203_user_2)
+
+6. I am an orphan.
+   (ID: conversation_121_user_1)
+
+7. My husband is a lawyer.
+   (ID: conversation_260_user_1)
+
+8. My favorite drink is dr pepper.
+   (ID: conversation_183_user_1)
+
+9. I am tall and blonde.
+   (ID: conversation_88_user_1)
+
+10. I am going to be the starting shortstop.
+   (ID: conversation_255_user_2)
+
+11. I teach a yoga class.
+   (ID: conversation_96_user_1)
+
+12. I am a woman.
+   (ID: conversation_132_user_1)
+
+13. I take medication.
+   (ID: conversation_171_user_1)
+
+14. I m bloated.
+   (ID: conversation_53_user_1)
+
+15. I love ballet.
+   (ID: conversation_236_user_2)
+
+16. I am angry at my coworker.
+   (ID: conversation_289_user_2)
+
+17. I don t know why my sister in law dislikes me.
+   (ID: conversation_98_user_2)
+
+18. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_168_user_1)
+
+19. I have a lot of trophies from my childhood.
+   (ID: conversation_175_user_2)
+
+20. I am married and have five children.
+   (ID: conversation_192_user_2)
+
+
+============================================================

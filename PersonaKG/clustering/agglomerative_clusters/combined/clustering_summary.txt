@@ -1,0 +1,57 @@
+Agglomerative Clustering Analysis Summary
+============================================================
+Total statements: 46734
+Vectorization method: dense
+Number of clusters: 35
+Analysis type: all_datasets
+Diversity score: 0.5621 (higher is better)
+Silhouette score: -0.0147 (higher is better)
+Timestamp: 2025-05-29 11:49:54
+
+Dataset Distribution:
+  FoCus: 706 statements
+  MPChat: 2678 statements
+  MSC: 891 statements
+  PEC: 23706 statements
+  PER-CHAT: 17608 statements
+  PersonaChat: 786 statements
+  SyntheticPersonaChat: 359 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 11: 3717 statements
+  Cluster 29: 3159 statements
+  Cluster 15: 2675 statements
+  Cluster 0: 2337 statements
+  Cluster 1: 2187 statements
+  Cluster 4: 2141 statements
+  Cluster 23: 2015 statements
+  Cluster 34: 1881 statements
+  Cluster 13: 1692 statements
+  Cluster 5: 1594 statements
+  Cluster 19: 1521 statements
+  Cluster 7: 1512 statements
+  Cluster 2: 1429 statements
+  Cluster 24: 1273 statements
+  Cluster 6: 1242 statements
+  Cluster 16: 1133 statements
+  Cluster 10: 1117 statements
+  Cluster 14: 1096 statements
+  Cluster 21: 1063 statements
+  Cluster 3: 1061 statements
+  Cluster 9: 1056 statements
+  Cluster 22: 997 statements
+  Cluster 8: 995 statements
+  Cluster 27: 963 statements
+  Cluster 17: 871 statements
+  Cluster 30: 860 statements
+  Cluster 18: 704 statements
+  Cluster 25: 651 statements
+  Cluster 12: 615 statements
+  Cluster 28: 601 statements
+  Cluster 32: 601 statements
+  Cluster 31: 575 statements
+  Cluster 26: 542 statements
+  Cluster 33: 471 statements
+  Cluster 20: 387 statements

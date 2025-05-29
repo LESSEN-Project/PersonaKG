@@ -1,0 +1,467 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 1765
+
+Dataset distribution in this cluster:
+  FoCus: 84 (4.8%)
+  MPChat: 91 (5.2%)
+  MSC: 55 (3.1%)
+  PEC: 975 (55.2%)
+  PER-CHAT: 480 (27.2%)
+  PersonaChat: 35 (2.0%)
+  SyntheticPersonaChat: 45 (2.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 84
+
+1. I don't like to cemetery.
+   (ID: WWAECJJUBNMB_7)
+
+2. I don't hope to ever see my work exhibited in a museum.
+   (ID: JJN7XJSS0B4W_11)
+
+3. I don’t like church.
+   (ID: QQA1IXI7US3V_11)
+
+4. I am not afraid of heights.
+   (ID: UU5XLWW1EPVV_11)
+
+5. I wouldn't like to live in a Castle.
+   (ID: YB6ZF4SJI3P1_11)
+
+6. I am not a fan of church.
+   (ID: OKU8UQBPUSMV_11)
+
+7. I don't like German Democratic Republic.
+   (ID: 9A5KQW7ZJ9KZ_11)
+
+8. I don't like South West Regional Development Agency.
+   (ID: UIC15IVGSRBN_11)
+
+9. I wouldn't like to be in a flood.
+   (ID: 9QE8MQM0B8P7_11)
+
+10. I don't like the high temperatures associated with pyroclastic flows.
+   (ID: G4JZMW0OPV0G_11)
+
+11. I think spacesuits are cool.
+   (ID: 942CCWXHPUZT_11)
+
+12. I am not a fan of Manchester city.
+   (ID: UVWYNJ9N0J17_11)
+
+13. I don't like mountains.
+   (ID: KGUNB0DFP7UP_11)
+
+14. I am not a fan of disasters.
+   (ID: 6GY4B8I8WQBW_7)
+
+15. I don't like canals.
+   (ID: DMD9S9COJOIA_7)
+
+16. I dislike Russia.
+   (ID: EZGYRI0YA8OX_9)
+
+17. I don't like neo-Gothic style.
+   (ID: 9VN3FMWR0NNR_11)
+
+18. I hate coal.
+   (ID: YWRU353H4NFF_11)
+
+19. I wouldn't like to be in a prison.
+   (ID: OJ5U23I3FV0N_11)
+
+20. I do not like French Gothic.
+   (ID: 9IFEU12EAOWB_11)
+
+
+--- MPChat ---
+Total from this dataset: 91
+
+1. i think she secretly likes wearing silly clothes
+   (ID: MafHoney)
+
+2. i'm an amateur home barista, how's my cartado pour?
+   (ID: The69LTD)
+
+3. san antonio burrito wrapper art i spotted tonight
+   (ID: evantide)
+
+4. here are some southwestern inspired wall hangings i made
+   (ID: heatsensitive)
+
+5. i stepped away for a minute and he’s all the way on my wip.
+   (ID: smsikking)
+
+6. blew it's back out when i tried to flip it..
+   (ID: MonstaEatsItAll)
+
+7. you can tell where i started the decreases for the waist on this tank top in the making
+   (ID: fishgoose)
+
+8. i just love my little bejeweled heart sprakly nails so much right now.
+   (ID: hottiecakes)
+
+9. i’m still not getting the hang of attaching the trunk.
+   (ID: NervousToast)
+
+10. (i am not good at taking pictures lol)
+   (ID: Idgy98)
+
+11. made this to match my son's skateboard.
+   (ID: PrissyCakes)
+
+12. just looking for thoughts on what to do with my wisteria in the future.
+   (ID: CallMeBigBobbyB)
+
+13. it’s really bright but i think it’ll turn out ok.
+   (ID: smsikking)
+
+14. lily mouse is my favourite.
+   (ID: Soapy_Von_Soaps)
+
+15. i'm getting the feeling that luna does not care for her halloween costume.
+   (ID: MafHoney)
+
+16. not perfect, but i like em
+   (ID: batman1227)
+
+17. amigurumi i use an 8mm hook for this yarn?
+   (ID: Steven1027)
+
+18. this corner came out so sharp and i can't get over it!
+   (ID: Sophie74656)
+
+19. i used crochet hook 4mm.
+   (ID: cuppcatt)
+
+20. couldn't decide on a color, so i went with "all of the above."
+   (ID: hottiecakes)
+
+
+--- MSC ---
+Total from this dataset: 55
+
+1. I don't like burritos.
+   (ID: dialog_174_speaker_1)
+
+2. I am not a fan of heights.
+   (ID: dialog_9_speaker_2)
+
+3. I've never ridden a horse.
+   (ID: dialog_117_speaker_2)
+
+4. I dress in a suit.
+   (ID: dialog_157_speaker_1)
+
+5. I possess a lot of patience.
+   (ID: dialog_55_speaker_2)
+
+6. I don't like carrots.
+   (ID: dialog_149_speaker_1)
+
+7. I'm scared of heights. I don't ride horses.
+   (ID: dialog_66_speaker_1)
+
+8. I don't like scary things.
+   (ID: dialog_58_speaker_2)
+
+9. I don't know how to swim.
+   (ID: dialog_172_speaker_2)
+
+10. I'm distrustful of people.
+   (ID: dialog_30_speaker_1)
+
+11. I do not like chocolate.
+   (ID: dialog_44_speaker_2)
+
+12. I hate Mexican food.
+   (ID: dialog_174_speaker_1)
+
+13. I dislike orange vegetables from the ground.
+   (ID: dialog_72_speaker_2)
+
+14. My closet is full of t shirts.
+   (ID: dialog_114_speaker_2)
+
+15. I like small hairstyles.
+   (ID: dialog_186_speaker_2)
+
+16. I don't go to school. I wear a uniform at my job as a museum guard.
+   (ID: dialog_157_speaker_1)
+
+17. I'm huge and colorful.
+   (ID: dialog_24_speaker_1)
+
+18. I wear skirts.
+   (ID: dialog_121_speaker_2)
+
+19. Me and my sibling, both have crimson locks.
+   (ID: dialog_91_speaker_1)
+
+20. I dislike orange vegetables from the ground.
+   (ID: dialog_3_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 975
+
+1. i was wearing my seagull belt last night , which may now be a new ritual for home games .
+   (ID: maullove)
+
+2. i 'd look grouchy too if you made me wear that .
+   (ID: NaBacLeis)
+
+3. i 'm ' mirin both these stunning ladies !
+   (ID: hardt0f0rget)
+
+4. i 'd upgrade this to very interesting
+   (ID: mr_venus)
+
+5. i actually do wash my nurse uniform ...
+   (ID: spoonsrugby)
+
+6. i swear on me mum !
+   (ID: CuriousBlueAbra)
+
+7. i never want to be shot with an air cannon .
+   (ID: closetotheedge48)
+
+8. i graduated with a girl who had a kid and named him anakin .
+   (ID: redandblack555)
+
+9. i ’m still waiting for the court case to settle and for the spinal fusion .
+   (ID: kiki73)
+
+10. i 'm surprised their arms are n't all dislocated from patting themselves on the backs that hard .
+   (ID: LordQuorad)
+
+11. i ca n't stand to share the same religion as these idiots who give us a bad name .
+   (ID: ImAnArab)
+
+12. i thought that accurately described it , altho mine was on a 65 incher
+   (ID: alextound)
+
+13. i 'll put my sign down with the pass tux .
+   (ID: Heydawgg)
+
+14. i do n't want to upvote this because it 's just so horrible .
+   (ID: Mende)
+
+15. i 'll wait ....
+   (ID: Szos)
+
+16. i know you all think he 's ugly , channing tatum .
+   (ID: Sarahthelizard)
+
+17. i ’m convinced that nobody ’s better looking than the doc
+   (ID: sircucumbers)
+
+18. i m a keep it real with you chief , this ai nt it
+   (ID: Lifes6Midnight)
+
+19. i love the fact you do n't get a choice .
+   (ID: carebearstare93)
+
+20. i think " lauren " is a magic word .
+   (ID: nastylittleman)
+
+
+--- PER-CHAT ---
+Total from this dataset: 480
+
+1. it ' s not sexist  its fucking stupid . would you go hiking in heels ? i don ' t think so .
+   (ID: 28a9cec25b2f9686d0c2b30949611c429a9e5085)
+
+2. seems like you got a pretty good routine already dude which is great . what wax are you using ? you may have to use something stronger to get styling your hair a bit easier and act more effective , you have thicker hairwhich is a positive .
+   (ID: 89e76efb1868896fe46bffbc2c10d965b53857d1)
+
+3. you can use what you like but just an fyi , using more than lgbt is just to add more  genders  and other fake rules you must know . in california it is illegal to misgender somebody , so you have to know their gender without asking because that is offense to them . i doubt you  d want to do research on it .
+   (ID: bcaa247be9d3b5a702098c9ffea4721d09504809)
+
+4. i just know i will apologise tomorrow anyway . or maybe i ' ll just ignore her and see if she ' ll apologise but then i would feel really bad .
+   (ID: 2ce191fd1043183c73daf2ab41afee9b122fd42b)
+
+5. they are similar but imo fiora is much better and stronger . how ever i do agree that they kinda counter each other . i suppose it is a skill match up
+   (ID: 99f23e8b04a17c44a1585809230dd7c68fefab16)
+
+6. my favorite of your videos was how to be a csgo youtuber in digit . this , is because it had the best editing and music choice . i have one suggestion . try adding commentary , it adds life to your videos whether it ' s comedy game advice or explanations of what you do i think it would add a lot to your channel .
+   (ID: 990ad26ccc25b114c7f512fc1c83b02e54b79e2a)
+
+7. I am bit.
+   (ID: fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1)
+
+8. all first want to say this is just an idea for going forward this is not something i am telling you to do . this was put together during chat after the show . fast forward world digit years ryan plays baby , geoff plays vic  lea baby , gen plays lea elf so still young jp plays smee dwarf so still young sorry jp no better idea came up . again do what ever the fuck you want to , but thought it was interesting to pass on . thoughts ?
+   (ID: b5f9b695867ef3b560a4fe7610f75e43b62809f6)
+
+9. melissa benoist because she reminds me of a girl i know
+   (ID: bb403667518ffc82f0508e3aee8741ea63cec050)
+
+10. generally they don ' t notice . i stopped completely shaving because of the amount of ingrown hair so now i trim . i ' ve even been known to not bother for a while and go natural and again no problems with partners .
+   (ID: 5d5b1d6dc4106ea3828986093f78b562f2a75587)
+
+11. show your emotions to me for once .
+   (ID: 164327be87300906de16932661437c5b2b671c9d)
+
+12. i can see what yours is .
+   (ID: 1d0857cacfa7c7e2b440c1a4e82e78a07351edb0)
+
+13. i do not like this
+   (ID: c5e877ff3be5d3571f5fe899f55887a6f608ee98)
+
+14. why the hell not ?
+   (ID: 79bb0063e4d93ebf3f272c94124194ae51d04a55)
+
+15. i know i understand it . don  t get why i got downvoted . i was just telling the truth .
+   (ID: eb0cdac3cc0d373669b221df2a54b8040cfa1dde)
+
+16. i doubt you ' d look like a potato and even if you did who cares ? life is too short to worry about it , wear what you like !
+   (ID: 183a5eea32f2c73a87c734920d3188862433e411)
+
+17. it sucks . we have created a sick system where it is inappropriate to have personal relationships in places where we spend most of our time and are most likely to meet new people . you could just take a chance . worst case scenario is a scandal and you quit . best case scenario you live happy ever after .
+   (ID: 2266c34274940e2ea1a22a3dee5a3cbcdad25f53)
+
+18. confusing question , and , if you mean what i think you mean , a highly contestant premise .
+   (ID: 43582d67310e995ea85c152bb256b0596144bf82)
+
+19. i ' m not mad that i got called out . it ' s just that we need better verify . yeah smugglers run sucked bit it changed a lot of things , so did gunrunning . i wanted this dlc to change the norm . yes it would be a cash cow but we would at least get something new and interesting water . but you don ' t want that . you want the same old dlc over and over again with different skins .
+   (ID: b136c35b12e5cf30c5001b25d88b97380f9209e3)
+
+20. hell no it isn ' t ! that stuff is terrifying . i kinda wanna try it . thinking  face
+   (ID: 354f69f9c6cf00a975f2f112bc11eaa79f843f63)
+
+
+--- PersonaChat ---
+Total from this dataset: 35
+
+1. i despise sweet potatoes .
+   (ID: conversation_304)
+
+2. i despise sweet potatoes .
+   (ID: conversation_440)
+
+3. i can t stand pizza .
+   (ID: conversation_451)
+
+4. i do not like green eggs and ham .
+   (ID: conversation_199)
+
+5. i wear a red purse .
+   (ID: conversation_313)
+
+6. i am going to be the starting shortstop .
+   (ID: conversation_103)
+
+7. i wear a lot of leather .
+   (ID: conversation_223)
+
+8. i've never kissed a woman .
+   (ID: conversation_435)
+
+9. i don't eat bread .
+   (ID: conversation_183)
+
+10. i don't celebrate any holidays .
+   (ID: conversation_292)
+
+11. i never learned how to swim .
+   (ID: conversation_116)
+
+12. i wear a uniform to work .
+   (ID: conversation_448)
+
+13. i don't eat bread .
+   (ID: conversation_322)
+
+14. i hate mexican food .
+   (ID: conversation_415)
+
+15. i like to wear red .
+   (ID: conversation_313)
+
+16. i am a casual dresser .
+   (ID: conversation_128)
+
+17. i don't much like tv .
+   (ID: conversation_424)
+
+18. i don t like the beach .
+   (ID: conversation_94)
+
+19. i do not like beer .
+   (ID: conversation_198)
+
+20. i don't like to clean house .
+   (ID: conversation_306)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 45
+
+1. I don t like the beach.
+   (ID: conversation_340_user_2)
+
+2. I wear dingy clothes.
+   (ID: conversation_395_user_1)
+
+3. I actually like wearing suits and ties.
+   (ID: conversation_148_user_2)
+
+4. I don t much like tv.
+   (ID: conversation_67_user_2)
+
+5. I don t know how to swim.
+   (ID: conversation_370_user_2)
+
+6. I have never had alcohol.
+   (ID: conversation_421_user_1)
+
+7. I hate tomatoes.
+   (ID: conversation_363_user_1)
+
+8. I hate tacos.
+   (ID: conversation_425_user_1)
+
+9. I hate cleaning.
+   (ID: conversation_173_user_2)
+
+10. I hate tacos.
+   (ID: conversation_271_user_2)
+
+11. I do not eat bread.
+   (ID: conversation_365_user_2)
+
+12. I like to wear black.
+   (ID: conversation_70_user_2)
+
+13. I do not like coffee.
+   (ID: conversation_12_user_2)
+
+14. I cannot stand beets.
+   (ID: conversation_423_user_1)
+
+15. I have never kissed a woman.
+   (ID: conversation_214_user_2)
+
+16. I do not like green eggs and ham.
+   (ID: conversation_457_user_1)
+
+17. I do not eat bread.
+   (ID: conversation_353_user_2)
+
+18. I don t like the beach.
+   (ID: conversation_361_user_2)
+
+19. I own five pairs of the same pants.
+   (ID: conversation_167_user_2)
+
+20. I wear a uniform to work.
+   (ID: conversation_409_user_2)
+
+
+============================================================

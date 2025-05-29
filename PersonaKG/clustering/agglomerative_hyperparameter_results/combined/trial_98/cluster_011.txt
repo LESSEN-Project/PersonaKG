@@ -1,0 +1,458 @@
+CLUSTER 11
+============================================================
+Total statements in cluster: 7687
+
+Dataset distribution in this cluster:
+  FoCus: 26 (0.3%)
+  MPChat: 129 (1.7%)
+  MSC: 53 (0.7%)
+  PEC: 5649 (73.5%)
+  PER-CHAT: 1793 (23.3%)
+  PersonaChat: 18 (0.2%)
+  SyntheticPersonaChat: 19 (0.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 26
+
+1. I personally think that the death of somebody in the middle of construction is tragic than any other tragedies that happened at the site.
+   (ID: XW6WLBIV74VV_11)
+
+2. I have seen Tarn.
+   (ID: Q997WWV6FO9L_11)
+
+3. I have never been much interested in science.
+   (ID: FXSLHPIIV91K_11)
+
+4. I have curiosity about the Activities.
+   (ID: PW1SULL1SY01_11)
+
+5. I'm interested in pseudosciences.
+   (ID: OOU8UC23AVLV_11)
+
+6. I am not sure what an estuary is.
+   (ID: ODWWG1XAUHD6_11)
+
+7. I would like to know the origins.
+   (ID: SSWJZGJZ66UK_11)
+
+8. I have read the Indianapolis Star.
+   (ID: X0N9IFSJSH26_11)
+
+9. I have curiosity about the studio.
+   (ID: DKOCHLLVDPYC_11)
+
+10. I am curious about the Origin of the name.
+   (ID: V0DLNYLN813E_11)
+
+11. I have not seen the Plainridge Park Casino.
+   (ID: DCX9CLWBX4L6_11)
+
+12. I have to know its operation.
+   (ID: P1H8TAIRTLFZ_9)
+
+13. I don't know Cheshire.
+   (ID: 6JXMJ0KGXDGI_11)
+
+14. I have heard of many shipwrecks.
+   (ID: DAT5H5H80JCW_7)
+
+15. I prefer looking inside the well-known building to just exterior of the building.
+   (ID: XW6WLBIV74VV_11)
+
+16. I didn't know that there was gallery specialized in exhibiting protraits.
+   (ID: MGEY7QK79154_11)
+
+17. I have seen athletic parks.
+   (ID: PYCYFS54O1C8_11)
+
+18. I would like to know the description.
+   (ID: PSAPP3TRHUMW_11)
+
+19. I have been a victim of civil war.
+   (ID: KW9HNA6XJ79B_11)
+
+20. I have seen Kumbara Gudda once.
+   (ID: UN54IACHSTX5_11)
+
+
+--- MPChat ---
+Total from this dataset: 129
+
+1. i just attempted.
+   (ID: Nutellism)
+
+2. i guess i've never seen this word used in its original context.
+   (ID: snaps_pro)
+
+3. sorry for late wip wednesday but i work overnights and it messes with what day it is.
+   (ID: Ichishiro)
+
+4. i was a fool to believe otherwise.
+   (ID: ChroniclyDope)
+
+5. noticed this on my cc..help!
+   (ID: BananaStand07)
+
+6. perry just lays there and stares at me while i read
+   (ID: kentobean123)
+
+7. just bought this plant and noticed this when i got home.
+   (ID: zonumnire)
+
+8. i think these should be adopted as the new international symbols for restrooms
+   (ID: evantide)
+
+9. no idea why i even tried but here's a shloppy winged 4-1
+   (ID: Deeshizznit)
+
+10. i think you took a wrong turn.”, says gizmo.
+   (ID: insthotchkiss)
+
+11. the coffee grinder at my work has its name spelled 2 different ways.
+   (ID: The69LTD)
+
+12. so i came across this when i got to work this morning.
+   (ID: ThatPurpleDrank)
+
+13. my wife insisted on a clip.
+   (ID: mattsulli)
+
+14. some of the craziest light i’ve ever seen [oc]
+   (ID: garret_weintrob)
+
+15. my sign was put up.
+   (ID: meghanlovessunshine)
+
+16. i found this at the package store.
+   (ID: TenuredHickory)
+
+17. think i've read this a dozen times front to back already..
+   (ID: ChroniclyDope)
+
+18. don't mind if i do.
+   (ID: insertnamehere02)
+
+19. my friends can’t decide if this is cute or creepy.
+   (ID: meepmeepcuriouscat)
+
+20. old find, but figured i'd share since i just came across this.
+   (ID: insertnamehere02)
+
+
+--- MSC ---
+Total from this dataset: 53
+
+1. I've made some bad choices in the past.
+   (ID: dialog_154_speaker_2)
+
+2. I'm a little crazy.
+   (ID: dialog_181_speaker_1)
+
+3. I've a hard time seeing.
+   (ID: dialog_34_speaker_2)
+
+4. I have brain trouble. I can only see 200 feet in front of me.
+   (ID: dialog_179_speaker_1)
+
+5. I was on the silver screen.
+   (ID: dialog_33_speaker_1)
+
+6. I was on the silver screen.
+   (ID: dialog_2_speaker_2)
+
+7. I didn't read the book Twilight.
+   (ID: dialog_175_speaker_2)
+
+8. I cannot play music.
+   (ID: dialog_80_speaker_1)
+
+9. I am curious about the world.
+   (ID: dialog_189_speaker_1)
+
+10. I am not as smart as I thought.
+   (ID: dialog_53_speaker_2)
+
+11. I remember movie plots.
+   (ID: dialog_15_speaker_2)
+
+12. I haven't finish school. I am online learning this term.
+   (ID: dialog_67_speaker_2)
+
+13. I like my picture.
+   (ID: dialog_36_speaker_1)
+
+14. I don't like reading scientific information.
+   (ID: dialog_137_speaker_1)
+
+15. I don't know how to swim.
+   (ID: dialog_172_speaker_1)
+
+16. I have seen the first Twilight movie. I didn't read the book Twilight. I like to watch Twilight films once a day. I am team Jacob.
+   (ID: dialog_175_speaker_2)
+
+17. I don't know how to ride a horse.
+   (ID: dialog_117_speaker_2)
+
+18. I have brain trouble.
+   (ID: dialog_179_speaker_1)
+
+19. I am confused.
+   (ID: dialog_159_speaker_2)
+
+20. My existence is a tardy one.
+   (ID: dialog_128_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5649
+
+1. i do n't understand .
+   (ID: PaperSkinMan)
+
+2. i only found out about this because i 've been getting messages from random strangers on facebook .
+   (ID: BLONDEBITCHH)
+
+3. i did n’t notice until i read your comment .
+   (ID: DickRubnuts)
+
+4. i hope you are * * not * * joking ;)
+   (ID: cookiexcmonster)
+
+5. i wanna scratch those ears !
+   (ID: Bananafoofoofwee)
+
+6. i laughed hysterically throughout this episode !
+   (ID: BlueSuedeBag)
+
+7. i saw the movie , i just feel like this diagram of it is n't really useful .
+   (ID: jesuschrysler)
+
+8. i ’ve only ever seen it once .
+   (ID: bugaloo2u2)
+
+9. i laughed way too much after seeing this .
+   (ID: mmaswadeh)
+
+10. i came a little
+   (ID: Megan_Bee)
+
+11. i hear people talking about it
+   (ID: LabeledAsALunatic)
+
+12. i did n't even know you could win or lose .
+   (ID: PartyPisser)
+
+13. i did n't know this one .
+   (ID: harumpf)
+
+14. i think this just happened to me on ebay ~
+   (ID: DarkMoon99)
+
+15. i know it can be a struggle when it comes naming .
+   (ID: Ian_Str8)
+
+16. i had viking stuck in my head .
+   (ID: Atlmama)
+
+17. i want to shove the whole thing in my mouth
+   (ID: bennystache)
+
+18. i wondered if this also included those nifty chinese throwing stars .
+   (ID: ddshroom)
+
+19. i wish i could have told you no .
+   (ID: Kangfight)
+
+20. i 'm sorry for the error .
+   (ID: JimmyMcShiv)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1793
+
+1. tetris on the original game boy .
+   (ID: 238107f17ccd21a5cb87efbd00d55a861389ba26)
+
+2. if the person that took this picture tells is where it is , someone can stand on the exact same place and if we then take a picture from te same angle , we can figure out how tall he is
+   (ID: e059f82a0624202d909920e56dd76f76efa711d2)
+
+3. yes you do .
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+4. no problem . it ' s not too big of a deal , but i feel the need to correct it
+   (ID: 6043d89c15dee029743b4ae46c3043e760e0fedb)
+
+5. i dunno why but i feel like when it came to naming these animals the people who did it had gotten bored and just went for the first suggestion .
+   (ID: 4eddf833981a5600b4abc53d564950e97ee755c4)
+
+6. come on now , you and i both know what ufo means in this context
+   (ID: 5147e830e7cfa538d6990a8699ad6462b57cfb52)
+
+7. hey pat , bwl from cheeseburgervacation here , what do you need help with ?
+   (ID: ddbcd7b957a26c37891ce72069afaf688ba19977)
+
+8. what ' s the game ?
+   (ID: 04b12cbc989702ae4909382de2ac53409fddbbf4)
+
+9. you know it
+   (ID: 3bc536069edd6aa052ced5b6ea5f69eefae07cb7)
+
+10. i don ' t get it .
+   (ID: 795c678726f71492166b6677c955ce0a48a9b294)
+
+11. i think it was french . that name does ring a bell
+   (ID: 0cd386c702105bbc1d5ff54477982a219c3af52c)
+
+12. same . i see the error in the title now that  s it  s been pointed out so much lol
+   (ID: 1b99508b414040c0a77716b8287dc8d53ceeed67)
+
+13. eh , not really since they relaid the square , now it ' s just the same as any other ground in nz . which is a shame really , i like a bit of variety .
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+14. ytf is this not upvoted ?
+   (ID: 84fcf7fe73da3fe1849c81f9adb5f3cc411427d2)
+
+15. i mean digit times in a row ? is your auto correct a caveman or what ? it can ' t recognize the word nothing  what . i meannnn i ' m getting some thathappened vibes . sorry mate . don ' t mean to disappoint you
+   (ID: db1ffea2a957f19bfc0fffdbd89a6d65be91fd5c)
+
+16. nocontextpics downvote to remove . sorry , my first bot . have a great day
+   (ID: e24ed5c3caffaf18d8a2097a35f6cf37eff0117b)
+
+17. whistle  and the funny thing is that i did not understand any of the lyrics .
+   (ID: 11d16c1ced94665eed03bc34f590f8fafeed40d2)
+
+18. don ' t forget the cannolis .
+   (ID: 94ab13260f2b345a7ddb68c03b6fbc2a70424b41)
+
+19. ok sorry , i might not have been clear enough about that point . i ' ve edited the post now .
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+20. some people prefer written porn , so there ' s that . if available in braille or audiobook .
+   (ID: 6aca29520994a85891e32b7ad6030791dfa1cbe2)
+
+
+--- PersonaChat ---
+Total from this dataset: 18
+
+1. i'm terrible at math .
+   (ID: conversation_172)
+
+2. i believe that mermaids are real .
+   (ID: conversation_464)
+
+3. i never learned how to swim .
+   (ID: conversation_116)
+
+4. i believe that mermaids are real .
+   (ID: conversation_357)
+
+5. it was too small .
+   (ID: conversation_342)
+
+6. i believe in ghosts and have seen them on several occasions .
+   (ID: conversation_292)
+
+7. it was too small .
+   (ID: conversation_290)
+
+8. i never learned how to swim .
+   (ID: conversation_209)
+
+9. i believe that mermaids are real .
+   (ID: conversation_1)
+
+10. i cannot do math .
+   (ID: conversation_342)
+
+11. i cannot do math .
+   (ID: conversation_290)
+
+12. i can only see 200 feet in front of me .
+   (ID: conversation_34)
+
+13. i believe dragons are real .
+   (ID: conversation_54)
+
+14. i never learned how to write .
+   (ID: conversation_34)
+
+15. i wish i knew where i belonged .
+   (ID: conversation_66)
+
+16. i believe that mermaids are real .
+   (ID: conversation_284)
+
+17. i don't know how to swim .
+   (ID: conversation_407)
+
+18. i think i might need help .
+   (ID: conversation_159)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 19
+
+1. I am stuck in the past due to remoteness.
+   (ID: conversation_388_user_1)
+
+2. My friends do not call my by my real name.
+   (ID: conversation_64_user_1)
+
+3. I still have a thick accent so words like hippopotamus are difficult.
+   (ID: conversation_328_user_2)
+
+4. I think i might need help.
+   (ID: conversation_411_user_1)
+
+5. I am stuck in the past due to remotness.
+   (ID: conversation_390_user_1)
+
+6. My friends do not call my by my real name.
+   (ID: conversation_62_user_1)
+
+7. I never learned how to drive.
+   (ID: conversation_416_user_2)
+
+8. I am a terrible speller.
+   (ID: conversation_6_user_2)
+
+9. I believe in ghosts and have seen them on several occasions.
+   (ID: conversation_212_user_2)
+
+10. I think the moon landing was faked.
+   (ID: conversation_250_user_2)
+
+11. Some jokes go too far.
+   (ID: conversation_224_user_2)
+
+12. I am a terrible speller.
+   (ID: conversation_79_user_2)
+
+13. I am stuck in the past due to remotness.
+   (ID: conversation_391_user_1)
+
+14. I think i might need help.
+   (ID: conversation_317_user_1)
+
+15. My friends don t call my by my real name.
+   (ID: conversation_61_user_1)
+
+16. I believe that mermaids are real.
+   (ID: conversation_496_user_2)
+
+17. I am stuck in the past due to remotness.
+   (ID: conversation_389_user_1)
+
+18. I never learned how to swim.
+   (ID: conversation_117_user_2)
+
+19. I don t know how to swim.
+   (ID: conversation_370_user_2)
+
+
+============================================================

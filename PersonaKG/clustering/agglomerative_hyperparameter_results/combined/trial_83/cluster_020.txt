@@ -1,0 +1,419 @@
+CLUSTER 20
+============================================================
+Total statements in cluster: 1634
+
+Dataset distribution in this cluster:
+  FoCus: 32 (2.0%)
+  MPChat: 53 (3.2%)
+  MSC: 20 (1.2%)
+  PEC: 1039 (63.6%)
+  PER-CHAT: 466 (28.5%)
+  PersonaChat: 9 (0.6%)
+  SyntheticPersonaChat: 15 (0.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 32
+
+1. I have a friend who has participated in special Olympics.
+   (ID: QRRS2THODNM3_11)
+
+2. I am willing to know more about Jewish Deco.
+   (ID: VQJADZ97TJ0Z_11)
+
+3. I am very interested in Formula One races.
+   (ID: FNURQ2XMQVJF_11)
+
+4. I do not own a TV.
+   (ID: OOFLNCG3KOXN_11)
+
+5. I am interested in supercross.
+   (ID: 80JMGD9LW80Y_11)
+
+6. I am interested in world records.
+   (ID: FHCSCC2MB2X0_7)
+
+7. I like Site of Special Scientific Interest.
+   (ID: VBRKEB3J9BVV_7)
+
+8. I do not own a TV.
+   (ID: J01LGGCHBYTE_11)
+
+9. I have studied about Ngô Văn Chiêu in my college.
+   (ID: IP4KRMQQREBQ_9)
+
+10. I am interested in Reference section.
+   (ID: O32SMRJRNDHW_11)
+
+11. I am interested in ecozone.
+   (ID: H6GTJFTZ8LJI_11)
+
+12. I am wiling to follow Robert Whitworth.
+   (ID: 72MY00U8UEGB_11)
+
+13. I do not know much about Orkneyinga Saga.
+   (ID: DMQ664J9SVLI_11)
+
+14. I am interested in the Iran.
+   (ID: XU1657VV4AMG_11)
+
+15. I have a lot of friends who are in the Air Force.
+   (ID: JW0BLP5O75BW_11)
+
+16. I have never played golf.
+   (ID: MP1ZK22Q90C9_11)
+
+17. I am interested in the architecture.
+   (ID: O67HB3TIPVVF_11)
+
+18. I have interest in the Founding.
+   (ID: J4C8YDZ0WJBW_7)
+
+19. I would like to know more about the Battle of Bannockburn.
+   (ID: X4XPZG2COY57_11)
+
+20. I am interested in Ecosystem.
+   (ID: SKF7IKD9SC0U_9)
+
+
+--- MPChat ---
+Total from this dataset: 53
+
+1. i love my mk6 gli
+   (ID: bryanw0104)
+
+2. i used twist for this.
+   (ID: gelimausi)
+
+3. why is this part of my philodendron turning pink?
+   (ID: zonumnire)
+
+4. my first pair of sneakers in years; japanese reebok classic nylon
+   (ID: ext23)
+
+5. growing far taller than the cooch grass of my lawn and unsure how to kill it.
+   (ID: Perthboi92)
+
+6. are these roots and could i plant them to get another plant
+   (ID: why_the_babies_wet)
+
+7. should i be concerned by the healing of this incision?
+   (ID: BananaStand07)
+
+8. i promised to show the back side of my c2c, so here is a comparison.
+   (ID: ablubberducky)
+
+9. idk what to use it for, i made it to try out c2c.
+   (ID: thegentlestbutterfly)
+
+10. don't replace it, i need the $$ to fix my bumper.
+   (ID: baccgirl)
+
+11. oh no it's fine i folded them just so you could drag them too your recliner
+   (ID: kentobean123)
+
+12. noticed this on my cc..help!
+   (ID: BananaStand07)
+
+13. i used broil king smokemasters blend pellets which are a equal mix of cherry, hickory and maple.
+   (ID: cookinwithclint)
+
+14. can i fix?
+   (ID: zonumnire)
+
+15. been a minute since i shared my setup...
+   (ID: i_like_it_raw_)
+
+16. this is how i fixed my broken remote control thank you dear crochet
+   (ID: iamPauPaul)
+
+17. tistel helping me display my latest wip
+   (ID: fishgoose)
+
+18. just found these today at my local shop.
+   (ID: mattsulli)
+
+19. i just love ricoh 500 gx!
+   (ID: czbaterka)
+
+20. what’s going on with my cactus?
+   (ID: Grooventooven)
+
+
+--- MSC ---
+Total from this dataset: 20
+
+1. I cannot play music.
+   (ID: dialog_80_speaker_1)
+
+2. I won the game and I made about 18 or maybe 19 moves. I have only played the in person chess. I am interested in playing the chess online.
+   (ID: dialog_149_speaker_1)
+
+3. My car has been running well with no issue.
+   (ID: dialog_191_speaker_1)
+
+4. I need to get a tune up.
+   (ID: dialog_145_speaker_1)
+
+5. I want to launch the app before the holiday season.
+   (ID: dialog_79_speaker_1)
+
+6. I have never done any sword fighting.
+   (ID: dialog_149_speaker_1)
+
+7. I have a computer and a printer.
+   (ID: dialog_32_speaker_1)
+
+8. I have a camera.
+   (ID: dialog_49_speaker_1)
+
+9. I don't need to set my alarm to wake up.
+   (ID: dialog_188_speaker_2)
+
+10. I don't have an expensive camera so I use my phone as a camera.
+   (ID: dialog_112_speaker_1)
+
+11. I have only played the in person chess. I am interested in playing the chess online.
+   (ID: dialog_149_speaker_1)
+
+12. I've never played chess.
+   (ID: dialog_108_speaker_1)
+
+13. I have two computer monitors.
+   (ID: dialog_95_speaker_2)
+
+14. My vehicle is a dark color.
+   (ID: dialog_69_speaker_1)
+
+15. I use Disney Plus.
+   (ID: dialog_153_speaker_2)
+
+16. I am color blind.
+   (ID: dialog_109_speaker_2)
+
+17. I don't need to set my alarm to wake up.
+   (ID: dialog_99_speaker_1)
+
+18. My vehicle is a dark color.
+   (ID: dialog_6_speaker_1)
+
+19. I cannot see very well.
+   (ID: dialog_31_speaker_1)
+
+20. I am not well versed in computers.
+   (ID: dialog_174_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1039
+
+1. i am not super tech savvy .
+   (ID: RobotHappiness)
+
+2. i get no results for recent home sales in ottawa .
+   (ID: SPQR1212)
+
+3. i got some really cheap ones from ali express .
+   (ID: Nheea)
+
+4. i want to buy more as gift for friends but not trying to get cancelled :/
+   (ID: bummang)
+
+5. i switched from the messaging app to the message+ one because the messaging app stopped working for some reason .
+   (ID: lonewolf2556)
+
+6. i think this is the best answer
+   (ID: shortgiraffe9000)
+
+7. i have used them since 2010
+   (ID: breakingashleylynne)
+
+8. i only export top range , so i only get top range
+   (ID: ProJokeExplainer)
+
+9. i 'd check for wire tension .
+   (ID: LordQuorad)
+
+10. i have an issue with using ssh in my environment .
+   (ID: Evolatic)
+
+11. i ’m going to call solved for now .
+   (ID: DickRubnuts)
+
+12. i can not " diagnose "
+   (ID: AgedTwenties)
+
+13. i know that , but how do they differ ?
+   (ID: Froaxx)
+
+14. i 'm on console so i guess i 'll just have to wait .
+   (ID: Malachite_Wrath)
+
+15. i ’ve ran through three of these in the past 6 months .
+   (ID: jukkujak)
+
+16. i 've been using serve with my fidelity amex for months with no problem .
+   (ID: clueless3867)
+
+17. i always end up just ironing them out , but it 's a pain in the ass .
+   (ID: vivagypsy)
+
+18. i want to make a wheelchair joke .
+   (ID: SayceGards)
+
+19. i just want to disable trophies and other ' social ' features altogether .
+   (ID: BorgDrone)
+
+20. i have not , but now i 'll look for them - thanks !
+   (ID: monday_madrigal)
+
+
+--- PER-CHAT ---
+Total from this dataset: 466
+
+1. are you sure you want leather ? something like the tourmaster is a way sensible . i have the black one , btw , it ' s about as anti  logoey as they get . it ' s a three season jacket all in one . the liners fit easily into a tank bag so i can head out early while it ' s still chilly , strip them out and stow ' em for the hot afternoon riding . there ' s three parts  the mesh outer jacket , a rain liner and a quilted liner . the liners can be used in any combination . i ' ve had more than a few tourmaster over my digit digit  digit decades of riding  this particular jacket is of typically good quality . lists for about  digit but i think i paid closer to  digit .
+   (ID: 49c1f9b73ecf635bdf7d4c4715d79caa4c296579)
+
+2. but they both literally do the same thing .  .
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+3. if i tell you the answer , you will have have learned nothing .
+   (ID: a7cc693c08ec25a5aeb346572b504a32001418a5)
+
+4. if treated correctly you can get more than digit hours . the constant heat increases resistance , which is why you get digit hours .
+   (ID: 6eec77fe98b9dc85ec1e5e7edc37cdb415794719)
+
+5. rtuk ' e internetten sallamak varken baskin falan ne gerek var kardesim  s
+   (ID: c41e4affc406bbc71e6c12aabf095d759b6dbec2)
+
+6. you mean you want to use a simple splitter cable , like the type you ' d use to plug two sets of headphones into a single headphone jack ? i personally wouldn ' t do that . i ' d get a proper mixer although for what you paid for the scarlett and the cost of a cheap mixer , you ' re probably into the cost of a better interface that has multiple inputs and would allow you to use it as the mixer kind of like what i do .
+   (ID: 364e60394a4f5ca22ac4f75dfb86f39a4969dda7)
+
+7. it  s not really about hiding runes tbh you can just get to see those using the sw exporter anyways . i like having my island empty and it makes the game lag less ! mostly do it for the organization purpose tbh
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+8. i have a tablet but i just use it for youtube or netflix sometimes .
+   (ID: 3fb5cf32d13620677a9e3d9bd2657b8432abf31f)
+
+9. give me half of what you found and i ' ll tell you .
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+10. this is probably impractical , but i thought it might be cool if it was like the raid equivalent of ditto , since they both know transform . like you defeat a common raid boss like magikarp or something , and one out of every digit times it transforms into mew probably before the catch , so it ' s still a tough throw and you don ' t accidentally waste golden razz on a magikarp .
+   (ID: fc70415de2435c629ec792dbd90c954786c0bd16)
+
+11. because of streaming platforms like netflix and hulu . also last night
+   (ID: ad898f238b3dc29e08e2e0d1ae1f284c2c13604e)
+
+12. can you explain ? you have me interested
+   (ID: 7542c8a6be5a118bef67d9539deb69c131fb4fbc)
+
+13. were you well bonded ? i  d say just give a little funeral to the last horse and grab a new one .
+   (ID: 23394798067974e95a922a95c6609d16ca1b11dd)
+
+14. the is is a good answer . the words really just very broadly define what they do . when it comes to implementing these things , it  s a huge variety that  s hard to really categorize .
+   (ID: 76442d997e7f64c10223aeac0f4ff8af70ff9dde)
+
+15. if you ever find that  feel good  character let me know . i would like to try them for myself
+   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
+
+16. i ' ve never experienced this with my antidepressants before . what are you taking ?
+   (ID: deb51648159c9d9d915a701d8f77ac885a29b9b4)
+
+17. by no means an expert just from my experience lvl digit at this time . digit  from my experience incense only works for you my wife has the game too , beside me on the couch will not see the same pokes or any i see when i have incense activated . incense seems to attract pokemon that are " native " to the area , but not necessarily the pokemon on your nearby list . i use incense when i ' m sitting at home being lazy because when i ' m walking around they pop up regularly but hardly at all when stationary . incense seems to create pokemon rather than attract nearby ones . thats all i got , hopefully someone else can help with your other questions .
+   (ID: 837b9a4e21703cdb7da723a44b91b0582031c386)
+
+18. honestly , i feel like the fits are more " solid " if i can put it in a word . when i use your traditional flight they always seen a bit flimsy and inconsistent . i know a lot of it is mental , but it ' s just what i have come to know and trust . also , fit flights spin , and i have noticed that it really helps when you are grouping your darts close together . less chance for one dart to prevent another from hitting your target . an additional benefit is they seem to last much longer for me . they are more expensive , but i think the value is there , especially for the shafts . i use the same shafts for almost digit months . i have never broken one and only change mine when they get too dirty i use white always . as for flights , i would say you have about a month or two months before you require changing . when i used regular flights , they were getting torn to bits every week .
+   (ID: 5452c32db6928ce9b53e7ed5109c3b875648debd)
+
+19. yeah like op said there are two other people here possibly one who are shadow banned so check that out . anyway i ordered some 350s off ali about a week ago and the tracking number begins with ls . they just got processed through the sorting facility , and they haven ' t done anything else . it just takes a really long time for it to get out of the country . give it some time .
+   (ID: 89c3606d2dfc5d2a2da97fb49ddc1894f8bf330f)
+
+20. i have had a couple of them , but i do use mods and some of them have not been updated for digit . digit . are you using any mods ? what are your system specs ?
+   (ID: 9a96ba583f43f670f5797ea5031052161bf613cf)
+
+
+--- PersonaChat ---
+Total from this dataset: 9
+
+1. i owe 2 monitors for work .
+   (ID: conversation_423)
+
+2. i'm colorblind .
+   (ID: conversation_372)
+
+3. i don t own a television .
+   (ID: conversation_451)
+
+4. i don't own a television .
+   (ID: conversation_400)
+
+5. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+6. i use third party programs to read portable documents instead of adobe .
+   (ID: conversation_174)
+
+7. i'm colour blind .
+   (ID: conversation_479)
+
+8. i ve an iphone .
+   (ID: conversation_490)
+
+9. i am colorblind .
+   (ID: conversation_109)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 15
+
+1. My newly bought laptop has a bum battery.
+   (ID: conversation_403_user_2)
+
+2. I am blind.
+   (ID: conversation_28_user_1)
+
+3. I owe 2 monitors for work.
+   (ID: conversation_69_user_1)
+
+4. I am colorblind.
+   (ID: conversation_389_user_2)
+
+5. I ve an iphone.
+   (ID: conversation_14_user_2)
+
+6. I owe 2 monitors for work.
+   (ID: conversation_68_user_1)
+
+7. I don t own a television.
+   (ID: conversation_243_user_2)
+
+8. I owe 2 monitors for work.
+   (ID: conversation_66_user_1)
+
+9. I am blind.
+   (ID: conversation_26_user_1)
+
+10. I am blind.
+   (ID: conversation_25_user_1)
+
+11. I owe 2 monitors for work.
+   (ID: conversation_417_user_2)
+
+12. I owe 2 monitors for work.
+   (ID: conversation_97_user_1)
+
+13. I am blind.
+   (ID: conversation_27_user_1)
+
+14. I am partially blind.
+   (ID: conversation_2_user_2)
+
+15. My newly bought laptop has a bum battery.
+   (ID: conversation_444_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 2496
+
+Dataset distribution in this cluster:
+  FoCus: 733 (29.4%)
+  MPChat: 133 (5.3%)
+  MSC: 232 (9.3%)
+  PEC: 432 (17.3%)
+  PER-CHAT: 657 (26.3%)
+  PersonaChat: 95 (3.8%)
+  SyntheticPersonaChat: 214 (8.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 733
+
+1. I would like to visit South Africa.
+   (ID: ISZ5P96SGAA5_11)
+
+2. I would like to visit USA.
+   (ID: UTGOZ64NRQCB_11)
+
+3. I love walking in shopping malls.
+   (ID: PNIMGSDW8PY2_9)
+
+4. I love church buildings.
+   (ID: N14O6VGOOR7E_11)
+
+5. I would like to visit England.
+   (ID: G3027JCTO8X5_11)
+
+6. I like California.
+   (ID: EQX5OJUYB1VY_11)
+
+7. I want to visit Hawai.
+   (ID: Y037WWL4AZRY_11)
+
+8. I like big stadiums.
+   (ID: EEZIRIVGB0TG_9)
+
+9. I am going to Canada for work.
+   (ID: BW2JVSJEMYHL_11)
+
+10. I've always wanted to go to Indiana,
+   (ID: M5TRQBHYTC5Z_11)
+
+11. I like lake.
+   (ID: DTX89JENNS0P_11)
+
+12. I wish to attend some events.
+   (ID: ZXCRSZ4D5PMK_11)
+
+13. I want to visit Tokyo.
+   (ID: KN1GX2IHVESI_11)
+
+14. I love the monastery.
+   (ID: KG8AEOFQLTO4_11)
+
+15. I want to go to Jerusalem.
+   (ID: Q483WUI54SGB_11)
+
+16. I like forts.
+   (ID: F8WIALS35WHE_11)
+
+17. I would like to visit Turkey.
+   (ID: JOUKPJIZMRMN_11)
+
+18. I hope to worship in a church.
+   (ID: HMSHQ9H7RA76_7)
+
+19. I love Brooklyn.
+   (ID: KXPW7BD5TW0Q_11)
+
+20. I have been to Wales.
+   (ID: J3FELD3FPXVQ_11)
+
+
+--- MPChat ---
+Total from this dataset: 133
+
+1. took my girlfriend to joshua tree for her first camping trip, had a great time!
+   (ID: 1Maple)
+
+2. i can't stop staring after i got my new tires today.
+   (ID: drinkdrinkshoesgone)
+
+3. oregon is my favorite
+   (ID: Nerdyredeyejedi)
+
+4. took my ole ferd to joshua tree this weekend.
+   (ID: rileyracks)
+
+5. my headlight reflection makes it look like this honda wants to devour my soul.
+   (ID: baccgirl)
+
+6. my morning wake up view: camping at lois lake, powell river, bc, canada
+   (ID: Sassy_Curmudgeon)
+
+7. i just returned from 69 days in antarctica.
+   (ID: BlueIce64)
+
+8. jotunheimen mountain range in norway at sunset, my campspot was just about 200 meters away from this spot!
+   (ID: ChristophZee)
+
+9. i love it here!
+   (ID: krichmondRPH)
+
+10. posting a picture every day until i can go camping again, day 4: jacks river campsite- cohutta wilderness
+   (ID: Pearl_krabs)
+
+11. went out rabbit hunting, ended up with my first squirrel.
+   (ID: nme_)
+
+12. one of the first star trails i ever took.
+   (ID: markoshino)
+
+13. i've been going through my wilderness shots from this season.
+   (ID: tssouthwest)
+
+14. now i can split shift and select gear range in american truck sim.
+   (ID: ItsBail)
+
+15. i hiked along the nagelfluhkette-ridge in the german alps with awesome views like this!
+   (ID: ChristophZee)
+
+16. posting a camping picture every day until i can go camping again day 10: surveying his domain nw ga
+   (ID: Pearl_krabs)
+
+17. i found the best trail in arkansas!
+   (ID: VapeThisBro)
+
+18. i love camping!
+   (ID: insthotchkiss)
+
+19. first time camping and i got to see this before we set up.
+   (ID: crunch816)
+
+20. i found the perfect mountain lake
+   (ID: tssouthwest)
+
+
+--- MSC ---
+Total from this dataset: 232
+
+1. I walk to get from here to there.
+   (ID: dialog_90_speaker_2)
+
+2. I like to ski. I want to ski in Europe.
+   (ID: dialog_33_speaker_1)
+
+3. I've always liked nice cars.
+   (ID: dialog_4_speaker_1)
+
+4. I like travelling for leisure.
+   (ID: dialog_82_speaker_1)
+
+5. I like the beach and I like to drink.
+   (ID: dialog_179_speaker_1)
+
+6. I bike in NYC. I like NYC.
+   (ID: dialog_170_speaker_2)
+
+7. I like to read on the beach. I feel shy at the beach.
+   (ID: dialog_88_speaker_1)
+
+8. I will buy a new care next. I am amazed at fancy cars and pickups. I cannot afford fancy cars.
+   (ID: dialog_25_speaker_2)
+
+9. I travel to canada on the weekends
+   (ID: dialog_15_speaker_1)
+
+10. I do not own a car. I drive a motorcycle.
+   (ID: dialog_87_speaker_2)
+
+11. I have never been out of the US either.
+   (ID: dialog_8_speaker_2)
+
+12. I like to race cars. I have a race car track. I have never raced a driverless car.
+   (ID: dialog_124_speaker_2)
+
+13. I jump out of airplanes.
+   (ID: dialog_171_speaker_2)
+
+14. I travel a lot. I like to travel to Ireland and Australia.
+   (ID: dialog_9_speaker_2)
+
+15. I like historical colonial books and non-fiction books.
+   (ID: dialog_55_speaker_1)
+
+16. Jumping out of an airplane would be a thrill.
+   (ID: dialog_1_speaker_1)
+
+17. I am married. We like to swim.
+   (ID: dialog_16_speaker_2)
+
+18. I love to travel and read. I have traveled to Ireland and Australia.
+   (ID: dialog_38_speaker_2)
+
+19. I just crashed my car. My car is in the shop.
+   (ID: dialog_191_speaker_2)
+
+20. I live in Laguna beach. I take a lot of pictures of the ocean on my cell phone. I have a cat. I take pictures of my cat on my cell phone.
+   (ID: dialog_49_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 432
+
+1. i have a bumbo seat on my registry , and i totally want to add a roomba now !
+   (ID: teriaki)
+
+2. i definitely think it 's something that many travelers fantasize about .
+   (ID: travelingkiwi)
+
+3. i 'm assuming you 've booked the first flight out .
+   (ID: AgedTwenties)
+
+4. i would like to come back to earth if i was an astronaut though .
+   (ID: ChallengeTaken99)
+
+5. i love convertibles but i 'm in illinois .
+   (ID: AgedTwenties)
+
+6. i want to drive with college marshall and ted .
+   (ID: redandblack555)
+
+7. i 'll post a link to the style bike i really like .
+   (ID: SamuelStephenBono)
+
+8. i 'm gon na be in slc tonight and tomorrow .
+   (ID: carebearstare93)
+
+9. i love lancaster !
+   (ID: FridaysChild219)
+
+10. i 'd debadge too , i hope to get the same truck .
+   (ID: coocha)
+
+11. i wish it was as much like speed as people try to say it is .
+   (ID: hussy_trash)
+
+12. i wanted to see what my ticketmaster vouchers were good for in houston
+   (ID: chirpyboyandbartjr)
+
+13. i ’m thinking of spending roughly 20 days in thailand in dec 2018 / jan 2019 .
+   (ID: SPQR1212)
+
+14. i have a jeep and i often refer to it as a car , truck , and jeep lmao
+   (ID: Heydawgg)
+
+15. i am glad you have another summer to enjoy .
+   (ID: gigatroness)
+
+16. i 'm looking for a subreddit that will help me find some good date ideas for the girlfriend .
+   (ID: techdude21)
+
+17. i need a good rev to downshift .
+   (ID: sean__christian)
+
+18. i 'm climbing mt .
+   (ID: carwynllew)
+
+19. i 'm already bored of automatic cars .
+   (ID: serverpilot)
+
+20. i was outside at peak times , 1 - 2 pm .
+   (ID: giraffecakes)
+
+
+--- PER-CHAT ---
+Total from this dataset: 657
+
+1. One of my favorite things is automobiles.
+   (ID: 37dcb77e38bb95527b0376694dc5852e5c3012eb)
+
+2. I'm interested in snakes.
+   (ID: ba19f1817c5dfde741b0e3387f4c8902b125e2c5)
+
+3. One of my favorite things is automobiles.
+   (ID: a8b3c82ca36eb4e48fd6b6674a642f96d401743e)
+
+4. One of my favorite things is cars.
+   (ID: f24af2fec683eb8f7c778684c641d964456c0341)
+
+5. a lady done this for me one time flying to london and i couldn ' t thank her enough . i hate flying but i know it ' s something that just has to be done to get places .
+   (ID: 4b73794fb9ff909d5c5d47996cbeccc6fe92ae93)
+
+6. i ' ll give the car to the person that saved my life so my " love interest " and the lady can go . i ' ll let him explain the fake papers and the body in the trunk
+   (ID: be642743472cdef9445edc6dd55beb3c2a8a1258)
+
+7. i used to do something similar . back when they had film camera , tourist would ask you to help them take group photos . i would line the photo up cutting off everyone  s heads the take the photo . man  shrugging  light  skin  tone
+   (ID: b74c6f378f67934bed1f9dd4c591152d002827ec)
+
+8. One of my favorite things is cars.
+   (ID: 0f3da013abe745c83b2d4eb042abb7fd28f5e872)
+
+9. One of my favorite things is automobiles.
+   (ID: 22a043d8284bd8c7c31748b5cc8c8b8efc757df6)
+
+10. One of my favorite things is shopping   places.
+   (ID: 5042e4f4cf4f00f86836211d30b97922c92f0b46)
+
+11. to give up on resolutions . i think i have a real shot at sticking to it this year .
+   (ID: 7a9e9aefc410e8b5acd9c3517008c5fafa71b994)
+
+12. i don ' t normally do this but i imagine it ' s because my stop is nearing and i don ' t want to move in , only to have to move out again shortly . it may also be for the legroom .
+   (ID: f3192aa413ed905a2d6bc7e74ae65b23517e05a0)
+
+13. One of my favorite things is automobiles.
+   (ID: 017a8c4974c09e91d919e4dc7993cf152f406ae7)
+
+14. i ' m single again , my grandfather is dying and suffering , i ' m broke and my car needs repairs
+   (ID: 6227692d2c261d0ca079ff0b4b03c8c2a6933b88)
+
+15. One of my favorite things is cars.
+   (ID: 5a15ba0aaa5a6e6f9e3a2db25befda6ec40a9b88)
+
+16. i wanna day superspeed but the toggle part makes me think you mean i  ll be super fast at all times and can  t move normally to interact with people anymore
+   (ID: a189febbe6cdf1cbdfab4caa7ce53ea7a90e0cf7)
+
+17. i had philophobia . i don ' t know if i still have it . it ' s basically the fear of love . i have it because of my parents . i had to watch them constantly argue . their sick relationship and the fact that they hardly ever showed any signs they loved me , caused some brain damage to me and now i usually can ' t listen when somebody is talking about love , especially very traditional love . i hate family as a unit and i hope i will never have children . also i find newborn babies disgusting because they are kinda a " a fruit of love " .
+   (ID: 337350fc54133b327ce0d6d9f385f82a2a6738cf)
+
+18. One of my favorite things is cars.
+   (ID: 86aa9f4e4439cfc2f93b784da95581053937806c)
+
+19. One of my favorite things is travel.
+   (ID: 699bf0afe2f1405d2208320e80156a99e90d356e)
+
+20. I own a car.
+   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+
+
+--- PersonaChat ---
+Total from this dataset: 95
+
+1. i drive a silver lexus .
+   (ID: conversation_172)
+
+2. i race cars for a living .
+   (ID: conversation_124)
+
+3. someday i would like a truck .
+   (ID: conversation_327)
+
+4. i love the country but enjoy visiting the city life .
+   (ID: conversation_350)
+
+5. i travel a lot .
+   (ID: conversation_140)
+
+6. i am going on a cruise next month .
+   (ID: conversation_380)
+
+7. i drive a restored mustang .
+   (ID: conversation_488)
+
+8. my dream is to move to the middle of the desert .
+   (ID: conversation_92)
+
+9. i like toyota cars .
+   (ID: conversation_327)
+
+10. i like cars .
+   (ID: conversation_291)
+
+11. i love travelling and discovering new cultures .
+   (ID: conversation_145)
+
+12. i've always wanted to travel to ireland or puerto rico .
+   (ID: conversation_350)
+
+13. i would love to visit the pyramids .
+   (ID: conversation_390)
+
+14. i drive a prius .
+   (ID: conversation_402)
+
+15. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+16. driving in the country side is a pastime .
+   (ID: conversation_397)
+
+17. i drive a ford truck .
+   (ID: conversation_405)
+
+18. i have 3 ferrari cars in my garage .
+   (ID: conversation_456)
+
+19. i skydive frequently .
+   (ID: conversation_171)
+
+20. i drive a nice car .
+   (ID: conversation_316)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 214
+
+1. I love to travel.
+   (ID: conversation_246_user_1)
+
+2. I have 3 ferrari cars in my garage.
+   (ID: conversation_461_user_2)
+
+3. I drive a bmw.
+   (ID: conversation_428_user_1)
+
+4. I want to live at the beach.
+   (ID: conversation_306_user_1)
+
+5. I own a corvette.
+   (ID: conversation_479_user_2)
+
+6. We will be traveling to niagra falls for our honeymoon.
+   (ID: conversation_347_user_2)
+
+7. I need a corvette to complete my life.
+   (ID: conversation_204_user_2)
+
+8. I like to travel.
+   (ID: conversation_113_user_1)
+
+9. I travel every year to disney world.
+   (ID: conversation_329_user_2)
+
+10. Every day i drive an hour to work in this horrible traffic.
+   (ID: conversation_423_user_1)
+
+11. I love to travel.
+   (ID: conversation_241_user_1)
+
+12. Starbucks is my favorite hang out spot.
+   (ID: conversation_270_user_1)
+
+13. I like to travel.
+   (ID: conversation_115_user_1)
+
+14. I want to climb mount everest.
+   (ID: conversation_205_user_2)
+
+15. I drive a yellow convertible in the rain.
+   (ID: conversation_22_user_2)
+
+16. I love huge paintings.
+   (ID: conversation_499_user_1)
+
+17. My car is blue.
+   (ID: conversation_238_user_1)
+
+18. I work on trucks.
+   (ID: conversation_24_user_1)
+
+19. Starbucks is my favorite hang out spot.
+   (ID: conversation_271_user_1)
+
+20. I love to travel.
+   (ID: conversation_237_user_1)
+
+
+============================================================

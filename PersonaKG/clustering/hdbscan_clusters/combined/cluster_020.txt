@@ -1,13 +1,14 @@
 CLUSTER 20
 ============================================================
-Total statements in cluster: 107
-Cluster persistence (stability): 0.863
+Total statements in cluster: 431
+Cluster persistence (stability): 0.413
 
 Dataset distribution in this cluster:
-  FoCus: 12 (11.2%)
-  MPChat: 2 (1.9%)
-  PEC: 83 (77.6%)
-  PER-CHAT: 10 (9.3%)
+  FoCus: 26 (6.0%)
+  MPChat: 6 (1.4%)
+  PEC: 369 (85.6%)
+  PER-CHAT: 27 (6.3%)
+  PersonaChat: 3 (0.7%)
 
 ============================================================
 
@@ -15,151 +16,230 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 12
+Total from this dataset: 26
 
-1. I have never heard of Swansea.
-   (ID: EKA46AEQGK5D_9)
+1. I hope to visit Zoar Valley someday.
+   (ID: B21DU5B4FQQH_11)
 
-2. I have heard about Thrissur pooram.
-   (ID: CJWI83QV42AK_11)
+2. I hope to see more Research Institute.
+   (ID: 7NISCLZRSK4E_7)
 
-3. I have heard of the Otomi.
-   (ID: ZWQO9OQ8DX45_11)
+3. I hope I can buy a telescope for my father on his birthday.
+   (ID: 77E5QV6TW4WU_11)
 
-4. I have heard about Hooghly River.
-   (ID: WKS47SP8CYLV_11)
+4. I hope to visit the Ashmore Estates someday.
+   (ID: OBU1K3FQTZ14_11)
 
-5. I have never heard of The Hazards.
-   (ID: EKA46AEQGK5D_9)
+5. I hope to travel to Brownsea Island in the summer.
+   (ID: R9A1SC51GAMH_11)
 
-6. I have heard about Marshall Field & Co.
-   (ID: FBUZJNVHT0N2_9)
+6. I hope to marry a lady from Canada.
+   (ID: G4JZMW0OPV0G_11)
 
-7. I have heard about Bern.
-   (ID: ATJSFYS2K6FK_11)
+7. I hope to see a mass at the Bethel A.M.E. Church.
+   (ID: SSWJZGJZ66UK_11)
 
-8. I have heard of the Saint John of Capistrano.
-   (ID: LEUWGO47I5DG_11)
+8. I hope to see a Mountain in Idaho.
+   (ID: D449W0YW7LNU_11)
 
-9. I have heard of many shipwrecks.
-   (ID: DAT5H5H80JCW_7)
+9. I hope there is a Children's Library.
+   (ID: NR9LNBMYKSX6_9)
 
-10. I have heard about the company, Wilson and Herrald.
-   (ID: X8D77JFL2NLG_11)
+10. I hope I can sit in a nice cafeteria.
+   (ID: LWELDWSUZK5Z_11)
 
-11. I have heard about CargoNet.
-   (ID: LAJWET9XR7CD_11)
+11. I hope to see an old nursery.
+   (ID: ZXCRSZ4D5PMK_11)
 
-12. I have heard of John W. McKernan.
-   (ID: X8D77JFL2NLG_11)
+12. I hope to visit Huntingdon County someday.
+   (ID: JJVJO5DV75YG_11)
+
+13. I hope to learn more about Lincoln.
+   (ID: UXQZUTQ247LH_11)
+
+14. I hope scientists can find more exoplanets.
+   (ID: TPBXFFXVKECZ_11)
+
+15. I hope to visit the University of Nebraska State Museum someday.
+   (ID: FF36QQ08S28H_11)
+
+16. I hope to visit Myanmar someday.
+   (ID: 9ZUQKMGM6HTD_11)
+
+17. I hope to see eagles.
+   (ID: QIE8ZYPSRUW4_9)
+
+18. I hope to spend a night in a castle.
+   (ID: J3FELD3FPXVQ_11)
+
+19. I hope to visit Grimsby.
+   (ID: F91BK688K9G1_11)
+
+20. I hope to see a Building in Beijing.
+   (ID: UDGAGMKQ9TQ1_11)
 
 
 --- MPChat ---
-Total from this dataset: 2
+Total from this dataset: 6
 
-1. i heard this is valuable for the thc content and is saught after for wax production.
-   (ID: thebarberstylist)
+1. i hope some here can appreciate my toad cup and drawing!
+   (ID: tinytinatuna2)
 
-2. i heard r/aww likes older dogs too.
-   (ID: The69LTD)
+2. well i hope it no longer looks like a nipple haha
+   (ID: Sophie74656)
+
+3. hope i get to keep this color!
+   (ID: Potato_Quesodilla)
+
+4. let's hope i don't f@ up the natural rind.
+   (ID: HanibalLickedHer)
+
+5. i hope the maroon on his fins keeps spreading
+   (ID: zonumnire)
+
+6. my newest project: carrot rhubarb melomel, i hope even half the color sticks around!
+   (ID: IceEye)
 
 
 --- PEC ---
-Total from this dataset: 83
+Total from this dataset: 369
 
-1. i also speak telugu and have never heard this .
-   (ID: AP7497)
-
-2. i have never heard of a beta reader charging money .
-   (ID: therealmannequin)
-
-3. i had n't heard of that one .
-   (ID: Megan_Bee)
-
-4. i heard the chariots of fire theme
-   (ID: LCPhotowerx)
-
-5. i have heard they have the nastiest grow
-   (ID: Bathysphere710)
-
-6. i have heard after ..
-   (ID: exotics)
-
-7. i was at the capitol complex and heard it and felt it .
-   (ID: thurberfan)
-
-8. i forget where i heard that .
-   (ID: IgnoranceIsAVirus)
-
-9. i heard the same boom in the maple / ash neighborhood !
-   (ID: clueless3867)
-
-10. i almost had to turn it off when i heard that .
-   (ID: immobilyzed)
-
-11. i version i heard was " ... and joker took ballet " .
-   (ID: namastemeanshello)
-
-12. i have been diagnosed with depression , and never heard of melatonin making it worse .
-   (ID: exotics)
-
-13. i heard it was a woman that looked a bit chinese , unless that was a separate incident .
-   (ID: throwaway073847)
-
-14. i heard she puts on an awful show
-   (ID: themarajade1)
-
-15. i heard the familliar beeping of microwaves from the kitchen .
-   (ID: 512165381)
-
-16. i heard the same rumors when the turtle divers came out but nothing since , so probably ?
-   (ID: Captain_-H)
-
-17. i had never heard of them before .
-   (ID: CheapyPipe)
-
-18. i was ready to be so angry with ginobli until i heard the bat survived .
-   (ID: Question-everythings)
-
-19. i totally heard that in ross 's voice .
-   (ID: COCOnizzle)
-
-20. i heard flood salvage is a strong stay away .
+1. i hope this catches on .
    (ID: glowinthedark)
+
+2. i hope the llama gets banned for glitching .
+   (ID: TheRealAshren)
+
+3. i hope i do n’t replace old freemy though .
+   (ID: Kialand)
+
+4. i hope this journey has more ups than downs .
+   (ID: bostown03)
+
+5. i hope this keeps goin .
+   (ID: KPer123)
+
+6. i hope there is a video of this .
+   (ID: apcreddit)
+
+7. i hope it was an elaborate prank and i will someday know this story .
+   (ID: redraindropped)
+
+8. i can only hope california still wants him for a murder there .....
+   (ID: catskhiker)
+
+9. i hope that your family has a calm and toasty christmas man .
+   (ID: JOOOOOOOOOOngo)
+
+10. i hope you walk to this mexican food place .
+   (ID: sillylionface)
+
+11. i hope you 're having a nice week /u / youcanttunafish .
+   (ID: bluesatin)
+
+12. i hope momma is there too .
+   (ID: notthruyet)
+
+13. i hope no one else cares .
+   (ID: AgentElman)
+
+14. i hope op knows what country he 's in .
+   (ID: DickieJohnson)
+
+15. i hope tomorrow brings you some peace ❤ ️
+   (ID: happyfamilygogo)
+
+16. i hope you all enjoy the fun memes and other pictures that are posted here .
+   (ID: Nick84572)
+
+17. i hope she ends up playing eliza at some point , she is such a legenddddd
+   (ID: vivagypsy)
+
+18. i hope he starts a puppy grooming business lol
+   (ID: jennbunny08)
+
+19. i hope this is only a matter of overwork , i hope ... :)
+   (ID: Ml7500)
+
+20. i hope this is a reference to true crime garage !
+   (ID: mdk15)
 
 
 --- PER-CHAT ---
-Total from this dataset: 10
+Total from this dataset: 27
 
-1. when i heard the sirens and , as a stereotypical dad though i am not a dad would do , pretended to run saying " haha they found me "
-   (ID: 51b0a9706027f94a22f40104e0a832de65645ef7)
+1. i took this from mayaxs on wholesomememes because i couldn ' t crosspost it . i hope he ' s fine with it . if not , let me know and i will take it down .
+   (ID: 02e801249875692d61023bbfbc79d7ff34c9eddf)
 
-2. happy ? haven ' t heard of it
-   (ID: e807b18e05d35f02282740d90e8c63546558b267)
+2. oh i hope so . i have so much to inform advertisers about .
+   (ID: 457d7d37e1181cc932693cd4220e6fbfd564a75d)
 
-3. one of my favorites . have you heard the anthology version ?
-   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+3. if you ' re a girl i hope you get stabbed in the vagina
+   (ID: 2ea109772fcc0738f65030d7584f4ec864e785dd)
 
-4. once i have enough coins to replace bonaventura he ' s probably who i was gonna get . haven ' t heard of anyone using him so i appreciate the comment !
-   (ID: 230ce64c825c9de0874b588b6d715819e39e5610)
+4. my parents are abusive shits . i hope they die already be .
+   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
 
-5. how have you ' s never heard of the term chook  s ?
-   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
+5. i know what it is . it aligns with that by which i put my hope and faith into , humanity . that and i hold no reservation for superstition or a " higher " power .
+   (ID: b5153b16e61f6bc5e4bf4d8db479b7093df1ae26)
 
-6. i may well give it a watch in that case . i ' d heard that the spoiler made or broke it ?
-   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+6. well today , i hope to see some of my friends so i can get a few things off my chest .
+   (ID: 2af8a0ff2295d21473f0e6ff67565738eb8f4df1)
 
-7. specialist batsmen ? i heard he was playing as an all  rounder .
-   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+7. i hope your username is ironic .
+   (ID: af0db6dfe4be67a6b6915437597ea564bbb33830)
 
-8. hijacking this thread to tell you about an amazing opportunity . have you heard about invigaron ?
-   (ID: e8294c4800e890349637a75b3ecba5d1f7b2a97d)
+8. because they hope to pop a vessel
+   (ID: a91bab5f0acf1c56a567010f74b21b6e17dea907)
 
-9. have you heard one ? that ' s why .
-   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+9. i hope there is a man cave in with my name on it , but i ' m afraid that may not be the case .
+   (ID: 4917a362688355621979e016028f58dbf7f3ac7e)
 
-10. ooo ! a maze food bowl ! never heard of that . would you be able to suggest or link me to one ? thnk you !
-   (ID: c45b0aae0255418b40be5727c7c7e05cfdaf3ea9)
+10. this is what im talking about ! i hope we get a nice show today !
+   (ID: 29da3ae82f5df6acc737eaec66448bc88d169187)
+
+11. hey vegans ! i have a question that i hope you can answer . can you hide a subreddit from ever showing up in your feed ever again ?
+   (ID: 37aa751f14bbf132fc2f76d2c2c79142318c3e31)
+
+12. it is paradox . you gotta push action button to pick it up . then go beat the past of your character . hope it helps .
+   (ID: f35d74d4d36905b144a4851bae7ac6c2014ebdbd)
+
+13. my advice if there is a change to get caugth with pants on your ankles hope it ' s your dad
+   (ID: 4dc8611321f8939824b42f21260d7a2adbf4a5d1)
+
+14. aw , that ' s the same pattern as my region . i was hoping for something exotic haha . in that case , how about your luxury bulbasaur instead ? i hope you can find something of equal value for it .
+   (ID: 9b58219d8f43f5aa6e34770c7b9c7896c88c8fe7)
+
+15. let ' s hope not , i was super tired when i posted that .
+   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
+
+16. cool , i hope you do it
+   (ID: df1ced988175856d5a5b468166271e5d777e4a3e)
+
+17. i hope you are able to get it ! all my experiences with yale and him specifically were great . who is your insurer ?
+   (ID: 08122a9a2a4681e85c950e276210d33c3d0a8f96)
+
+18. i hope someone shoryuken ' s some sense into this kid
+   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
+
+19. hope it ' s me hope it ' s me hope it ' s me
+   (ID: 1f3e82e13d88ba22fce8ba80102ccc24b3880ae9)
+
+20. i noticed that , too , but spoilers      that movies ends with the couple splitting after a horrendous fight , so i hope that ' s not potential foreshadowing .
+   (ID: 1daf414799a71e9da93424af4505068a3a02f6ce)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i will be graduating in september and hope to get a teaching job soon .
+   (ID: conversation_22)
+
+2. i hope to someday compete professionally or atleast qualify for an event .
+   (ID: conversation_596)
+
+3. i hope to change the world .
+   (ID: conversation_125)
 
 
 ============================================================

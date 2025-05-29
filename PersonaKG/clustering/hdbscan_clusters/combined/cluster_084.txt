@@ -1,270 +1,166 @@
 CLUSTER 84
 ============================================================
-Total statements in cluster: 134
-Cluster persistence (stability): 0.984
+Total statements in cluster: 138
+Cluster persistence (stability): 0.734
 
 Dataset distribution in this cluster:
-  FoCus: 42 (31.3%)
-  MPChat: 3 (2.2%)
-  MSC: 14 (10.4%)
-  PEC: 58 (43.3%)
-  PER-CHAT: 9 (6.7%)
-  PersonaChat: 5 (3.7%)
-  SyntheticPersonaChat: 3 (2.2%)
+  MPChat: 6 (4.3%)
+  MSC: 1 (0.7%)
+  PEC: 117 (84.8%)
+  PER-CHAT: 12 (8.7%)
+  PersonaChat: 1 (0.7%)
+  SyntheticPersonaChat: 1 (0.7%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- FoCus ---
-Total from this dataset: 42
-
-1. I like 4D.
-   (ID: PSBPL4USIKMB_11)
-
-2. I like Ballari Gudda.
-   (ID: UN54IACHSTX5_11)
-
-3. I like Edmund Blacket for his designs.
-   (ID: F1LZJR9NS51Z_11)
-
-4. I like Saudi Arabia.
-   (ID: UJCB2CGECLQ9_11)
-
-5. I like Hong Kong.
-   (ID: DKGV9E2PZUPH_11)
-
-6. I like mounts.
-   (ID: TQCNCMKK1WW5_11)
-
-7. I do not like crimes.
-   (ID: U7PM0IZ93Q1W_11)
-
-8. I like marble.
-   (ID: CE0AK99XDA0R_9)
-
-9. I like Serbia.
-   (ID: C7B7NH0Q1KEE_11)
-
-10. I like Thomas Douglas Stimson.
-   (ID: WYFFBVR6YR06_11)
-
-11. I like fairs.
-   (ID: TVODYFLNWGUJ_11)
-
-12. I like koalas.
-   (ID: PI3TE121KEOF_11)
-
-13. I like marshes.
-   (ID: SJS6GHEH7ZIW_11)
-
-14. I like Garfield Temple.
-   (ID: VQJADZ97TJ0Z_11)
-
-15. I like angels.
-   (ID: P2Q3RJOD9M13_11)
-
-16. I would like to go to Suntō
-   (ID: DG7PPYKKTZ0H_11)
-
-17. I like mining.
-   (ID: V83LRI44QW1S_11)
-
-18. I like shimla.
-   (ID: CA1IZ57C8644_11)
-
-19. I like Rhinoceros.
-   (ID: B4623TSE2PJX_7)
-
-20. I like footbal.
-   (ID: VP3189E0Z1O2_11)
-
-
 --- MPChat ---
-Total from this dataset: 3
+Total from this dataset: 6
 
-1. i would like one boop please.
-   (ID: kentobean123)
+1. my sister wanted potholders after she saw what i made for my mum.
+   (ID: spinni81)
 
-2. i like to fold papers too!
-   (ID: gxnelson)
+2. i saw this goat at a fair, he had such a sweet face!
+   (ID: TenuredHickory)
 
-3. why are my rosetta's twisting like this?
-   (ID: ext23)
+3. this unit i saw at lfs today.
+   (ID: lizdavis17)
+
+4. couldn’t help myself when i saw the picture on aww labeled “i named him hamburger”
+   (ID: switchbladesally)
+
+5. i saw that reddit likes stuff that has been laser cut
+   (ID: ItsBail)
+
+6. (inspired by something i saw on tumblr.)
+   (ID: hottiecakes)
 
 
 --- MSC ---
-Total from this dataset: 14
+Total from this dataset: 1
 
-1. I like nirvana.
-   (ID: dialog_145_speaker_2)
-
-2. I like Charlie Parker.
-   (ID: dialog_122_speaker_2)
-
-3. I like crawdads.
-   (ID: dialog_58_speaker_1)
-
-4. I like my boo.
-   (ID: dialog_89_speaker_2)
-
-5. I like naruto.
-   (ID: dialog_168_speaker_2)
-
-6. I like organic fruits and vegtables. I like Espresso.
-   (ID: dialog_119_speaker_2)
-
-7. I like the pigskin.
-   (ID: dialog_145_speaker_2)
-
-8. I like hospitals.
-   (ID: dialog_191_speaker_1)
-
-9. I like to do it once.
-   (ID: dialog_228_speaker_1)
-
-10. I do not like ferrets.
-   (ID: dialog_97_speaker_1)
-
-11. I like Sherlock Holmes.
-   (ID: dialog_5_speaker_2)
-
-12. I like popping fireworks.
-   (ID: dialog_106_speaker_2)
-
-13. I like westerns.
-   (ID: dialog_160_speaker_1)
-
-14. I would like to see Wicked show.
-   (ID: dialog_144_speaker_1)
+1. I was on a rower and saw many places.
+   (ID: dialog_60_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 58
+Total from this dataset: 117
 
-1. i like ska! ... i like the mighty mighty bosstones
-   (ID: LCPhotowerx)
+1. i saw it in chemistry class in college and it always stuck with me how cool it was !
+   (ID: Always_Ask_4_Sources)
 
-2. i like vfrs :)
-   (ID: pyro2927)
+2. i saw it on imgur
+   (ID: GitFloowSnaake)
 
-3. i like ben .
-   (ID: greensandgables)
+3. i saw you at a shop with handcrafted journals .
+   (ID: ifreckling)
 
-4. i would n’t classify it like that at all .
+4. i always saw it as a polite gesture , the same as him holding open a door for her .
+   (ID: baconnaire)
+
+5. i saw some of the rare cask recently for $ 450 .
    (ID: JaZepi)
 
-5. i like the donatello and ezio :) i can never find them
-   (ID: bummang)
+6. i saw a guy sitting at the water 's edge , overlooking the sunset over the city .
+   (ID: zsnajorrah)
 
-6. i like 1 and 3 .
-   (ID: kailan123456)
+7. i swear i saw the kit at the adidas store today .
+   (ID: Ashex)
 
-7. i like irises .
-   (ID: wooq)
+8. i saw three salt trucks .
+   (ID: FridaysChild219)
 
-8. i like bobs an vageen
-   (ID: canitasteyourjuice)
+9. i saw bray wyatt last night at nxt .
+   (ID: aydinsevimli)
 
-9. i like sylvester .
-   (ID: bugaloo2u2)
+10. i saw a woodworking vid with these small makitas .
+   (ID: 512165381)
 
-10. i do n't like arcades .
-   (ID: canitasteyourjuice)
+11. i saw a offer for 50 heat earlier
+   (ID: Unknown_nam3)
 
-11. i like ccccoocaine !
-   (ID: ItGetsAwkward)
+12. i saw your wip before this one now that it ’s complete ... damn , it ’s awesome ! !
+   (ID: I5r66)
 
-12. i 'd still like to see them .
-   (ID: Piraticalstyle)
+13. i smiled as soon as i saw his smile � �
+   (ID: J23_1)
 
-13. i like how the thumbnail suggests that the pope was in the orgy too
-   (ID: TWS85)
+14. i saw this too .... she was walking thru the crowd !
+   (ID: ludaa)
 
-14. i like being circumsized
-   (ID: TylerC_D)
+15. i saw it , a bus on fire in the gas station .
+   (ID: Zarqume)
 
-15. i 'd like my natsuki now please
-   (ID: tylock)
+16. i saw this guy by santa monica a few days ago .
+   (ID: ranieve)
 
-16. i 'd like to have some spellcasting .
-   (ID: kro_celeborn)
+17. i saw an alt chick that was manager of a grocery store .
+   (ID: cheesehuahuas)
 
-17. i like elise .
-   (ID: chowyungfatso)
+18. i saw it on tastefully offensive years ago and have been searching for it ever since .
+   (ID: elninokidd)
 
-18. i � � that his edges are rag like !
-   (ID: 11_29_77)
+19. i saw smashing pumpkins in 97 .
+   (ID: chirpyboyandbartjr)
 
-19. i like trials !
-   (ID: kanonnade)
-
-20. i like hshg .
-   (ID: iToaditSo)
+20. i enjoyed what i saw , but my boss may not have .
+   (ID: laura_lee_meh)
 
 
 --- PER-CHAT ---
-Total from this dataset: 9
+Total from this dataset: 12
 
-1. same here what  s it like ?
-   (ID: b2a2cd889183833ca9a753b2d28f6d89d867e1f9)
+1. my daughter saw two , i ' d didn ' t see any . lack of effort on my part .
+   (ID: 58245e8d537b9e7b6d76cc6a9919ea776e4ef6f0)
 
-2. because we like you .
-   (ID: 1476398f6c778fb461539e3f78b07720d4ceee83)
+2. the wailing is worth checking out and so is a tale of two sisters . i would add  i saw the murderer  to the list .
+   (ID: bcdf27afc4458eff850310d64f595278a31271be)
 
-3. i do not like this
-   (ID: c5e877ff3be5d3571f5fe899f55887a6f608ee98)
+3. but he specifically assured us during the primaries that there was nothing wrong with his penis . how could dick pics possibly have saw over him ?
+   (ID: 4ef88292bcb63ee32b3f587610b610322cea098e)
 
-4. uhhhh . it ' s like 23degrees ?
-   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+4. i saw some stuff in your yard , are you gonna give it to us ?
+   (ID: 3a16ba639560d155caf77e9cfc21f6a1df031d4f)
 
-5. do you like vegemite ?
-   (ID: 44c471e913882250a65c614b2b48077b3b5fb819)
+5. me you saw me on thursday considering i made this yesterday ? must have been someone else lol
+   (ID: bd7f5a5bcb0de9e8d414438eda5b70cdd80229e2)
 
-6. swatting . like at all .
-   (ID: c19de27d6b88c47d51e561a657dd0cf0e665fa48)
+6. dove into the bushes when i saw my high school volleyball team approaching . also hid under the table in a separate incident . social anxiety is a bitch .
+   (ID: 903829fb4aefc18f9ba3e0dc7d2f3267adf2bcc8)
 
-7. like this ?
-   (ID: 94ab13260f2b345a7ddb68c03b6fbc2a70424b41)
+7. i saw what we do to each other when at war
+   (ID: c863a7172df41853f354be7adff4b3f9a0cb9736)
 
-8. what was it like being a  pump  ?
-   (ID: 000804102a722a64dab51502693ae73a9773ff5c)
+8. yeah . i saw that . let ' s see what they do about it .
+   (ID: b672d3088130c76c4609eeae6479f61514f7aa1c)
 
-9. is it like the show that was on discovery ? because if it is i  m so down .
-   (ID: 5de68eb3d420a733dd6a233eb2cf045d1b5a54d7)
+9. at first i saw nothing and was confused . then i saw robin williams and was blown away . amaze .
+   (ID: 634dae5dcf04e8e8d5bfd5e71c1fa8ec9713f222)
+
+10. ayy same here . i also saw your into board games . wanna pm ?
+   (ID: 87de5f35fc22eee61d5604731c56538f7cb7341e)
+
+11. bird saw that coming a mile away .
+   (ID: 5478a2ef678a7e392c66d8d23bf16821b01c19ad)
+
+12. if she only saw through the eyes of a kid
+   (ID: acb6dce60de1d2da277851a5cbd8f56a32de0cd5)
 
 
 --- PersonaChat ---
-Total from this dataset: 5
+Total from this dataset: 1
 
-1. i like baths .
-   (ID: conversation_6)
-
-2. sometimes , i like to relieve myself when on roses .
-   (ID: conversation_420)
-
-3. i like to snowboard .
-   (ID: conversation_15)
-
-4. i like cartoons .
-   (ID: conversation_39)
-
-5. like a skeleton .
-   (ID: conversation_553)
+1. i once saw the easter bunny hiding behind my closet door .
+   (ID: conversation_221)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 3
+Total from this dataset: 1
 
-1. I like to keep my stockpile organised.
-   (ID: conversation_434_user_2)
-
-2. I like barbies.
-   (ID: conversation_58_user_2)
-
-3. I like potatoes.
-   (ID: conversation_5_user_1)
+1. I once saw peyton manning at the grocery store.
+   (ID: conversation_368_user_2)
 
 
 ============================================================

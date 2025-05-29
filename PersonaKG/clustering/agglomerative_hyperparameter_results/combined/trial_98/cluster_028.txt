@@ -1,0 +1,458 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 1557
+
+Dataset distribution in this cluster:
+  FoCus: 127 (8.2%)
+  MPChat: 17 (1.1%)
+  MSC: 194 (12.5%)
+  PEC: 28 (1.8%)
+  PER-CHAT: 884 (56.8%)
+  PersonaChat: 97 (6.2%)
+  SyntheticPersonaChat: 210 (13.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 127
+
+1. I like history.
+   (ID: BVS6H6G1BVW6_11)
+
+2. I am an artist.
+   (ID: N2I9Q2JRNGLS_11)
+
+3. I like education.
+   (ID: QFCC4W8VUHOO_11)
+
+4. I love history.
+   (ID: JTUKE03HZYSY_11)
+
+5. I am fond of collecting rocks.
+   (ID: QUHIQZPYU7H1_11)
+
+6. I like reading books about history.
+   (ID: DELJKM21SQ3E_9)
+
+7. I like Geography.
+   (ID: HSQSOF3LX08H_7)
+
+8. I like history.
+   (ID: O76ENSZ0ZFAX_11)
+
+9. I am a huge fan of architecture.
+   (ID: EQX5OJUYB1VY_11)
+
+10. I like to learn about geography.
+   (ID: HY8G2PNPA8VA_11)
+
+11. I like paintings.
+   (ID: HMSHQ9H7RA76_7)
+
+12. I like Southeast Asian art.
+   (ID: DYCZHTF8867I_11)
+
+13. I like Science.
+   (ID: STW2OR1N34AR_11)
+
+14. I like to learn about history.
+   (ID: FF36QQ08S28H_11)
+
+15. I like history.
+   (ID: GE7KWP503PGI_7)
+
+16. I like art.
+   (ID: YRJ6RB6JCWMA_11)
+
+17. I like architecture.
+   (ID: QFCC4W8VUHOO_11)
+
+18. I like going to public library.
+   (ID: U6BF1QZ941QN_11)
+
+19. I like art gallery.
+   (ID: GG3IBG4SOHXX_11)
+
+20. I like sculptures.
+   (ID: E90Q3KNN7V8I_11)
+
+
+--- MPChat ---
+Total from this dataset: 17
+
+1. i'm a sculptor by trade but also enjoy toying around with pottery
+   (ID: SailingArtist)
+
+2. i love creating ceramics.
+   (ID: SusanneHW)
+
+3. i make candles with hand picked and pressed flowers on the inside.
+   (ID: SweetSassyClassy)
+
+4. i make customizable handmade hand-bound journals, various sizes
+   (ID: doodlesinthedark)
+
+5. combined two of my hobbies.
+   (ID: ItsBail)
+
+6. i make ceramic mushroom pipes!
+   (ID: phantomfellow)
+
+7. i make mushroom pipes!
+   (ID: phantomfellow)
+
+8. check out these mushroom pipes i make!
+   (ID: phantomfellow)
+
+9. i like to fold papers too!
+   (ID: gxnelson)
+
+10. i create sweet handmade little journals!
+   (ID: doodlesinthedark)
+
+11. i make narwhals and octopuses!
+   (ID: skorletun)
+
+12. i'm an illustrator that fell in love with ceramics.
+   (ID: cryptidcat)
+
+13. i make earth-inspired ceramic pipes!
+   (ID: phantomfellow)
+
+14. i make earth-inspired ceramic smokeware and accessories!
+   (ID: phantomfellow)
+
+15. i like to make stamps, mostly of my pets and plants!
+   (ID: pocket_kira)
+
+16. i knit these christmas ornaments
+   (ID: Novel_Fox)
+
+17. i crochet and i'm a nerd
+   (ID: Sophie74656)
+
+
+--- MSC ---
+Total from this dataset: 194
+
+1. Education is a passion of mine.
+   (ID: dialog_163_speaker_1)
+
+2. I'm into virtual reality stuff.
+   (ID: dialog_61_speaker_2)
+
+3. I like art and animals.
+   (ID: dialog_138_speaker_1)
+
+4. I like to watch tv.
+   (ID: dialog_116_speaker_2)
+
+5. I shoot short films. I film documentaries.
+   (ID: dialog_87_speaker_1)
+
+6. I draw animated pictures for cartoons.
+   (ID: dialog_135_speaker_2)
+
+7. I like cameras.
+   (ID: dialog_143_speaker_1)
+
+8. I make youtube videos.
+   (ID: dialog_58_speaker_2)
+
+9. I like video games. My favorite game is fallout 4. I don't like Call of Duty.
+   (ID: dialog_67_speaker_2)
+
+10. I enjoy a good book.
+   (ID: dialog_78_speaker_2)
+
+11. I am an artist and part-time tutor.
+   (ID: dialog_10_speaker_1)
+
+12. I like to make miniatures.
+   (ID: dialog_26_speaker_1)
+
+13. I enjoy cosplay.
+   (ID: dialog_99_speaker_1)
+
+14. I love arts and crafts.
+   (ID: dialog_167_speaker_2)
+
+15. I make digital illustrations.
+   (ID: dialog_132_speaker_2)
+
+16. I enjoy learning.
+   (ID: dialog_136_speaker_2)
+
+17. I like shooter games.
+   (ID: dialog_51_speaker_1)
+
+18. I like to read old books.
+   (ID: dialog_79_speaker_2)
+
+19. I enjoy sitting in front of the tv.
+   (ID: dialog_132_speaker_1)
+
+20. I like reading.
+   (ID: dialog_5_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 28
+
+1. i enjoy editing and copywriting .
+   (ID: Sometimes_Why)
+
+2. i like computers and especially programming , so i made it my job .
+   (ID: BorgDrone)
+
+3. i read books .
+   (ID: mostlikelyto___)
+
+4. i usually read a bit in bed .
+   (ID: Beachsurfer)
+
+5. i prefer making portraits but i love looking at abstract paintings :)
+   (ID: JacksChocolateCake)
+
+6. i make sure that grown up teachers do a good job of teaching grown up students .
+   (ID: crestview76)
+
+7. i love science because you always learn something new
+   (ID: Batman_MD)
+
+8. i also play board games , i enjoy dancing , and hanging out with friends .
+   (ID: RobotHappiness)
+
+9. i like trying to draw in different styles .
+   (ID: freddlaren)
+
+10. i like making things and i love it doing it with local friends .
+   (ID: CarlofTime)
+
+11. i ’m an avid oddity collector and i collect cruelty - free bones and animal skeletons .
+   (ID: FruitBatFanatic)
+
+12. i always thought what we did best was coming up with fucking brilliant ideas and procrastinating .
+   (ID: Mahatma_Panda)
+
+13. i 'm a performance artist who defaces real art with spraypaint to make people confront loss .
+   (ID: RonaldFuckingPaul)
+
+14. i work 9 - 5:30 and like board games , netflix and sleeping in on weekends .
+   (ID: RobotHappiness)
+
+15. i like to read more than anything else .
+   (ID: underneathstars)
+
+16. i love learning new things and you guys have shared some great stuff before .
+   (ID: Sniperman)
+
+17. i write books .
+   (ID: Beachsurfer)
+
+18. i need to expand my horizons !
+   (ID: Lifes6Midnight)
+
+19. i 'm drawing these days too .
+   (ID: Darth_Waiter)
+
+20. i 'm a stem guy myself .
+   (ID: apnudd)
+
+
+--- PER-CHAT ---
+Total from this dataset: 884
+
+1. One of my favorite things is reading about people.
+   (ID: 752bae2818e8a99ea6b8b00277a3811570a73708)
+
+2. One of my favorite things is anime.
+   (ID: 6692d386ab188df76448f18f0e9d59c1e6d88c50)
+
+3. One of my favorite things is woodworking.
+   (ID: 5c9dd67e95ee5403b2bd9a6848c017674d46396b)
+
+4. One of my favorite things is woodworking.
+   (ID: e7516540d2045135f43a4a7c61f0bd88856c8ff4)
+
+5. One of my favorite things is gaming.
+   (ID: 26eaf1fafb916f4238e66dfba6deb9da540be2f6)
+
+6. One of my favorite things is reddit.
+   (ID: 4c696d3f1d19d74a8b9e25c3dddb75deefc97a4b)
+
+7. One of my favorite things is diy.
+   (ID: 000804102a722a64dab51502693ae73a9773ff5c)
+
+8. One of my favorite things is languages.
+   (ID: 1b4a970a63450e21b56e1d38502b30aca032cd3f)
+
+9. One of my favorite things is comic books.
+   (ID: bb403667518ffc82f0508e3aee8741ea63cec050)
+
+10. One of my favorite things is writing.
+   (ID: 98f9b074f3fba12c7403be7000f77b6a560c5a02)
+
+11. One of my favorite things is home improvement.
+   (ID: 564c5b4efd54586fbf212727e2071f5ddadabb82)
+
+12. One of my favorite things is people.
+   (ID: f67f4ffc3afd37a9ece4ede606682407c9b920b1)
+
+13. One of my favorite things is woodworking.
+   (ID: 1b536a1a785be8a375bc7a04c0ffc9457562d78c)
+
+14. One of my favorite things is kids.
+   (ID: 5df8f31d7e0521d2306b8c923ad3cbb6e96e8d04)
+
+15. One of my favorite things is woodworking.
+   (ID: 457d7d37e1181cc932693cd4220e6fbfd564a75d)
+
+16. One of my favorite things is people.
+   (ID: cedcbee1b270d7b3c90109c069d452a800ba09a7)
+
+17. One of my favorite things is local people.
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+18. One of my favorite things is good movies.
+   (ID: b0923890820e13f470b1e45e09cc5a08d7683035)
+
+19. One of my favorite things is books.
+   (ID: 7c3eb339580d281fcb54cb04dbb55f6921fceec5)
+
+20. One of my favorite things is diy.
+   (ID: b4d61ff0c23f7ce5512ee9f64d1bea0f938f262a)
+
+
+--- PersonaChat ---
+Total from this dataset: 97
+
+1. my parents taught me to find inspiration in the world .
+   (ID: conversation_344)
+
+2. i sell clothing on facebook .
+   (ID: conversation_306)
+
+3. i enjoy playing guitar and video games .
+   (ID: conversation_429)
+
+4. teaching is my passion .
+   (ID: conversation_78)
+
+5. i like to make boats on the weekends .
+   (ID: conversation_27)
+
+6. i am an artist and create with my mind and my hands .
+   (ID: conversation_344)
+
+7. i'm a painter .
+   (ID: conversation_238)
+
+8. i am a girl who loves sports cars and video games .
+   (ID: conversation_466)
+
+9. my favorite thing to do is sleep .
+   (ID: conversation_385)
+
+10. my favorite hobby is knitting .
+   (ID: conversation_71)
+
+11. i like to sew .
+   (ID: conversation_275)
+
+12. i write fiction for fun .
+   (ID: conversation_404)
+
+13. i enjoy writing for long periods of time .
+   (ID: conversation_212)
+
+14. i am a youtuber .
+   (ID: conversation_58)
+
+15. i enjoy building computers .
+   (ID: conversation_67)
+
+16. i like crocheting .
+   (ID: conversation_152)
+
+17. i draw comics .
+   (ID: conversation_168)
+
+18. i collect bugs in jars .
+   (ID: conversation_113)
+
+19. i teach middle school art .
+   (ID: conversation_390)
+
+20. i like to read .
+   (ID: conversation_55)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 210
+
+1. I enjoy reading.
+   (ID: conversation_138_user_1)
+
+2. My passion is writing.
+   (ID: conversation_99_user_1)
+
+3. I can knit.
+   (ID: conversation_59_user_1)
+
+4. I draw comics.
+   (ID: conversation_339_user_1)
+
+5. I can knit.
+   (ID: conversation_58_user_1)
+
+6. Since young i have loved fashion.
+   (ID: conversation_191_user_2)
+
+7. I like things in organized.
+   (ID: conversation_418_user_2)
+
+8. I like to recycle my thrift shop finds and make new items.
+   (ID: conversation_415_user_2)
+
+9. I like to sew.
+   (ID: conversation_419_user_1)
+
+10. My hobbies include pillaging and fine dining.
+   (ID: conversation_392_user_1)
+
+11. I like to play with clay models.
+   (ID: conversation_205_user_2)
+
+12. I like to watch tv.
+   (ID: conversation_31_user_2)
+
+13. I play guitar on my free time.
+   (ID: conversation_293_user_1)
+
+14. I love video games.
+   (ID: conversation_172_user_1)
+
+15. I collect seashells.
+   (ID: conversation_274_user_1)
+
+16. I like makeup.
+   (ID: conversation_476_user_1)
+
+17. I like to play soccer , draw and read asterix.
+   (ID: conversation_100_user_2)
+
+18. I love to recycle.
+   (ID: conversation_369_user_1)
+
+19. I like to play board games.
+   (ID: conversation_159_user_2)
+
+20. I can draw.
+   (ID: conversation_232_user_1)
+
+
+============================================================

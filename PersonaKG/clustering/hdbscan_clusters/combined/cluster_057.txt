@@ -1,13 +1,14 @@
 CLUSTER 57
 ============================================================
-Total statements in cluster: 112
-Cluster persistence (stability): 0.727
+Total statements in cluster: 144
+Cluster persistence (stability): 0.763
 
 Dataset distribution in this cluster:
-  MPChat: 4 (3.6%)
-  MSC: 1 (0.9%)
-  PEC: 42 (37.5%)
-  PER-CHAT: 65 (58.0%)
+  MPChat: 3 (2.1%)
+  MSC: 1 (0.7%)
+  PEC: 125 (86.8%)
+  PER-CHAT: 14 (9.7%)
+  SyntheticPersonaChat: 1 (0.7%)
 
 ============================================================
 
@@ -15,154 +16,140 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- MPChat ---
-Total from this dataset: 4
+Total from this dataset: 3
 
-1. my cat does not approve of my blocking...
-   (ID: CuriosityK)
+1. i wanted to share this for those who feel inadequate seeing the perfection you often get here.
+   (ID: ThePurpleBaker)
 
-2. i'm getting the feeling that luna does not care for her halloween costume.
-   (ID: MafHoney)
+2. virus shawl in what i feel are easter egg colours.
+   (ID: Soapy_Von_Soaps)
 
-3. does anyone miss espresso as much as i do?
-   (ID: Deeshizznit)
-
-4. he also lets me carry him and he does this over my shoulder.
-   (ID: smsikking)
+3. i made a sleeve for my drinkin jar :) super summery beachy feel to it
+   (ID: ddizzle23)
 
 
 --- MSC ---
 Total from this dataset: 1
 
-1. I run a busy restaurant. My theme of restaurant does not fit with Greek recipes.
-   (ID: dialog_189_speaker_2)
+1. I cannot wait for it to feel icy out again in a few months.
+   (ID: dialog_197_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 42
+Total from this dataset: 125
 
-1. i fully expect every one who does not like " alot " to all ways apply that rule .
-   (ID: wooq)
+1. i can feel these balls in my hand .
+   (ID: DickRubnuts)
 
-2. i 'm guessing he does have a girlfriend .
-   (ID: Samoht2113)
+2. i feel personally attacked
+   (ID: tommythestone420)
 
-3. i understand the strategy but it does n't suck less .
-   (ID: Nheea)
+3. i feel completely disrespected .
+   (ID: conservative_poly)
 
-4. i ’m curious as to why what language it is does n’t matter ?
-   (ID: throwaway073847)
+4. i feel for him , definitely been that high before
+   (ID: Bob_Majerle)
 
-5. i do n't because no one else in my gym does it .
-   (ID: Takumi-Fujiwara)
+5. i feel the shame .
+   (ID: ItGetsAwkward)
 
-6. i 'm sad this does n't fire anything 😩
-   (ID: Ashex)
+6. i feel this on a spiritual level .
+   (ID: monday_madrigal)
 
-7. i can hear it in walt ’s voice from when he sometimes does that weary delivery
-   (ID: Dan3099)
+7. i feel so inadequate now
+   (ID: bbakks)
 
-8. i have the impression that voting does n't matter and all politicians are fucked .
-   (ID: SamuelStephenBono)
+8. i feel so bad for them !
+   (ID: redraindropped)
 
-9. i only watched half of it , where does he talk about the _ | clip ?
-   (ID: Chase_P)
+9. i feel every job has that already .
+   (ID: alicepalmbeach)
 
-10. i have a bra that 's a 46d , but it gaps everywhere and does nothing for me .
-   (ID: Mahatma_Panda)
+10. i feel your pain .
+   (ID: SerendipitousCat)
 
-11. i call it " alton brown does bullshit . "
-   (ID: scoutsadie)
+11. i feel humbled and honored in reading about your dearest elly .
+   (ID: tinyirishgirl)
 
-12. i 'm on the edge of my seat here ... *does * it ?
-   (ID: GanjaSmoker420HaloXX)
+12. i can feel the insecurity in your language .
+   (ID: lightlord)
 
-13. i talked about a lab power supply , which does that- constant voltage where you control maximum current .
-   (ID: 512165381)
+13. i 'm also a bit worried that bioshock will feel a bit too last - gen for me .
+   (ID: BorgDrone)
 
-14. i 'd assume it is but maybe it does n't balance some blocks that would get scrubbed .
-   (ID: Atemu12)
+14. i feel fine -the beatles . or . take me to the mardi gras- bob james
+   (ID: Vaenessa)
 
-15. i could never get past the fact that dylan shakes the mic constantly when he does standup .
-   (ID: Nimmyzed)
+15. i feel a warm spot
+   (ID: Megan_Bee)
 
-16. i moved here from milwaukee / chicago , and 48 does n't seem that cold .
-   (ID: pyro2927)
+16. i moved into her apartment 2 months ago and already feel strange using her utensils and such .
+   (ID: justgirlypasta)
 
-17. i was drunk and auto correct does n't care ....
-   (ID: lonewolf2556)
+17. i feel bad for anyone who expects normal coop to return this episode .
+   (ID: BoobieBoobieButtButt)
 
-18. i prefer the uniquely terrifying scenario in which the kid * does * fly .
-   (ID: tylock)
+18. i kinda feel that there is major potential for ai to support doctors .
+   (ID: Aloha-Potato)
 
-19. i infer said gentleman does not kiss you .
-   (ID: ChallengeTaken99)
+19. i feel bad for the kids living in that shithole
+   (ID: Bananafoofoofwee)
 
-20. i had trouble breathing when i noticed he does nt have a tank .
-   (ID: Sniperman)
+20. i feel so discouraged
+   (ID: justgirlypasta)
 
 
 --- PER-CHAT ---
-Total from this dataset: 65
+Total from this dataset: 14
 
-1. the guy  gal who does the executions for the pound
-   (ID: 4d1c53b18fd4290c31e857fc9f9572542fef4fd5)
+1. how do they feel about him ?
+   (ID: e6c4a2b8e8c999b54ade342babc3d7b48868cc6d)
 
-2. do you have any evidence that the murder was ordered by the dnc ? why does one get the benefit of the doubt and not the other ? because one fits your political narrative of harming your opponents . and the other doesn ' t .
-   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+2. i wouldn ' t feel anything , ' cause then i ' d be dead .
+   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
 
-3. who does this ?
-   (ID: ba6e71577de908a22c0e12bb76ecba264f52d94e)
+3. shave one side of your head . do it now . how do you feel ?
+   (ID: ac1ceb388a2e170941cb682c48398cacc87c5019)
 
-4. everything dwight schrute does lmao
-   (ID: e81ca1234a368c583e7534e96af055654150cdb9)
+4. i feel so terrible for being a former christian .
+   (ID: c766fd259305ab2b0cd283ae4331fb90fc52e356)
 
-5. does he talk about those too ?
-   (ID: f4588f2a476206e602fe5b84647a1e777eaae604)
+5. offensive jokes , i feel terrible because i ' m essentially laughing at someone worse off than me . it ' s something i ' m not proud of , but sometimes . you have to feed your inner demons sense of humour haha
+   (ID: 84b2c69cbe8c44b78569e5e8b9af935f703ee480)
 
-6. that just seems so goddamn weird , honestly . why does she want this mommy title so bad ? does grandma , or some other equivalent , truly not meet her criteria or something ? does your wife have any opinions on the matter ?
-   (ID: 129ef8c0c15772442f28ff253ba4d16a19caef46)
+6. i left a full basket of groceries on the floor of a shop because it was too crowded and i could feel a panic attack coming on , i had to get out of there .
+   (ID: 23d8dae7213e264b515a84a02f18e02f44dbe192)
 
-7. his tweet starts with " can anyone even imagine having spies placed in a competing campaign " does he think he ran a presidential election against the fbi ? against the whole us government ? he is implying that whichever political party has control of the whitehouse has complete and utter control of everything the fbi does . then why is he running such a huge campaign against the fbi now when he ' s in power ? and why is the fbi investigating him and his people ? it ' s almost as if he doesn ' t have unlimited power over his fbi .
-   (ID: 04e13131ee0b31e4af8e34facf582fad832b1aea)
+7. being clean and minimalistic . i feel suffocated in cluttered places .
+   (ID: 9a79b05d9254cd2c33add44b7119f844802b48d9)
 
-8. so what does he do ? what he does best  run !
-   (ID: b721d508c3e10f143c9836626787b26136faa266)
+8. the moose attack is what taught me to fear any and all large animals . probably explains why i feel so unnerved near horses  no antlers , but they could still wreck my innards in an instant .
+   (ID: e74c4268e9e1c5f9cadf933981b55c5a5aa0d1f2)
 
-9. what does that have to do with refreshing ?
-   (ID: 800762ac8d54632109094a4e9132fe0aed711561)
+9. you would feel differently if you were a teacher .
+   (ID: c3e006fd89797fac08140faf6d1cc3e278d62d2f)
 
-10. my high school sophomore daughter can write a paper that makes more sense than this does . wtf ?
-   (ID: 7928bd3c3e727c94ff476240a27ed7199d92d666)
+10. why do i feel that that should be a spidy girl and not a spiderman ?
+   (ID: c78041b21fac11507cc597ef286b534255fdd250)
 
-11. well i do cause one of the boss men likes me , no one else at my store does though . and officially no one does .
-   (ID: ced909c5cb6ff0568a08e4114fa46116da622fa1)
+11. this is basically depicting exactly how i feel about those guys . they scared the bejeesus out of me ever since i was a kid . still do !
+   (ID: 23d8dae7213e264b515a84a02f18e02f44dbe192)
 
-12. the president does indeed have an impact on the markets , both positive and negative . anyone who says otherwise is not basing their words on fact .
-   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+12. how would you feel if muslims would flood your country ?
+   (ID: 53aa6c267ff5eccf891e178786d41ca5df80a5de)
 
-13. how about them destroying our country ? does that warrant a lack of remorse ?
-   (ID: 3dfcdf92c717ed4c117768210afcbbaf9a2ca8a9)
+13. you ' re colombian , i ' m guessing , yeah ? i feel you will finish first in your group .
+   (ID: 3fb1292a0bd26711d797fe1a61e6229794c21b68)
 
-14. does this bother you now ?
-   (ID: b6e873f95e3973d6b2dedee433d1efa1c2c3cba2)
+14. they have stand your ground laws which means the moment you feel threatened , even out in public you can shoot somebody . you have no duty to retreat .
+   (ID: 080f9c13731c22b3fdaccc4ff9cd4e4e27810ae0)
 
-15. what does that have to do with his mother , though ?
-   (ID: 23a788cf7874353f54f4163f0e2c16e6043d04a1)
 
-16. our rule of logic is that literally everything in the universe came from a source . you keep saying this . what " rule of logic " are you talking about ? what is the rule ? how does it apply to your claim ? can you explain it to me , and how you determined it means " everything came from a source ?
-   (ID: 00b878c3a1ec656c05e2872b35fdccfcfda3baac)
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
 
-17. women have hair everywhere a man does . even the face .
-   (ID: d8014467041b98317d9f1dec2b0dae4ff9405b91)
-
-18. attack his social media acc if hes so annoying to you , but leave the personal stuff out of all this . this shit is what big rob does .
-   (ID: 74b39a57f22c2783cb59064a6f33cd8db3d8f787)
-
-19. i told her  now , this does sound rude out of context  and i quote " get fucked . "
-   (ID: 7c444bdb5e40b14c80aedd1bf794f5902bb7133e)
-
-20. the " i ' m never " guy who always does .
-   (ID: 74cc8b596c27cbe385709690baaf3b68f39b3915)
+1. But , i feel lost and far away from who i truly am.
+   (ID: conversation_127_user_2)
 
 
 ============================================================

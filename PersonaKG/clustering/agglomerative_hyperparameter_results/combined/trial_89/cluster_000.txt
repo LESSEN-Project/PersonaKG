@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 40288
+
+Dataset distribution in this cluster:
+  FoCus: 1092 (2.7%)
+  MPChat: 2842 (7.1%)
+  MSC: 1850 (4.6%)
+  PEC: 16193 (40.2%)
+  PER-CHAT: 15104 (37.5%)
+  PersonaChat: 1064 (2.6%)
+  SyntheticPersonaChat: 2143 (5.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1092
+
+1. I would like to walk along a public footpath.
+   (ID: CH4FIE1LU3RG_11)
+
+2. I like stained glass.
+   (ID: E90Q3KNN7V8I_11)
+
+3. I have visited the Guindy National Park.
+   (ID: V3LNPA1FT8D2_11)
+
+4. I live in the North of England.
+   (ID: UHZ1K434LZ46_11)
+
+5. I haver never been to a tower.
+   (ID: 9ZUQKMGM6HTD_11)
+
+6. I want to go to the Bay of Bengal.
+   (ID: QK9TQHXYFFJ9_11)
+
+7. I have never been to stadiums.
+   (ID: VZ1O6OE23O98_11)
+
+8. I hope to visit more historic places.
+   (ID: XXU24CBOXMRE_7)
+
+9. I hate people and companies damaging the wildlife and environment of national parks.
+   (ID: LEW58VG9I78X_11)
+
+10. I have been to United States.
+   (ID: L6JH57TIZGRW_11)
+
+11. I like to know about architecture.
+   (ID: V9H9262H3NLV_11)
+
+12. I would like to see different attractions.
+   (ID: LYKL0NXYUSDG_11)
+
+13. I like parks.
+   (ID: RQW9YJT6PSHE_7)
+
+14. I wouldn't like to leave my town and settle somewhere else.
+   (ID: NK6WLDJ7W255_7)
+
+15. I want to study the Middle Ages.
+   (ID: C64P8U3HDDHY_9)
+
+16. I like history.
+   (ID: GE7KWP503PGI_7)
+
+17. I have a farm house.
+   (ID: Q997WWV6FO9L_11)
+
+18. I have been to Manchester before.
+   (ID: WKAD0PJA14Q4_11)
+
+19. I have never been to Wisconsin.
+   (ID: F6T8IBBEHM4P_11)
+
+20. I like heritage sites.
+   (ID: N1SMQLB7T5J7_11)
+
+
+--- MPChat ---
+Total from this dataset: 2842
+
+1. i can't decide.
+   (ID: thegentlestbutterfly)
+
+2. gizmo is such a fat happy puppy and i love him!
+   (ID: kentobean123)
+
+3. one of the very first cakes i made when i started cake decorating!
+   (ID: Sunshine_2425)
+
+4. fries...are my krytonite...
+   (ID: onemantwohands)
+
+5. i embroidered these butterflies in plastic canvas with twist.
+   (ID: gelimausi)
+
+6. something i have worked on this week is a hungarian crochet square.
+   (ID: Moriarty58)
+
+7. i just finished this wanted to share !
+   (ID: letsallcrochetYT)
+
+8. my second finished object for this week is another shopping bag with pouch.
+   (ID: Moriarty58)
+
+9. they're a k-pop band i'm in love with
+   (ID: batman1227)
+
+10. i baked a cake for berlanti productions to say thanks for the internship!
+   (ID: ThatPurpleDrank)
+
+11. it's my cakeday, so here is my favorite picture of my car.
+   (ID: crunch816)
+
+12. i created this buttercream rendition of cow wreck island on a chocolate cake with oreo buttercream filling
+   (ID: SugarHighBakedGoods)
+
+13. my succulents cake i made for a friend.
+   (ID: amandabakes)
+
+14. i figured out a cute solution to my stuffie eye problems.
+   (ID: rollypollypuppy)
+
+15. husband and i had a craft night.
+   (ID: Lookingforearrings2)
+
+16. idk why i got this color contrast on this oat latte, but i like it.
+   (ID: BeastaBubbles)
+
+17. i bought these spikes months ago, wasn't sure what for.
+   (ID: Nikyma)
+
+18. recently went on my first hunt.
+   (ID: Flattishsassy)
+
+19. i'm a hypocrite.
+   (ID: Beardedlantern)
+
+20. my so likes poogies (from monster hunter) so i tried to make one.
+   (ID: Lookingforearrings2)
+
+
+--- MSC ---
+Total from this dataset: 1850
+
+1. I want to be in a band someday.
+   (ID: dialog_44_speaker_2)
+
+2. I'm enrolled in a exclusive education system.
+   (ID: dialog_87_speaker_2)
+
+3. I'm getting a puppy in the near future.
+   (ID: dialog_45_speaker_2)
+
+4. I have a pet snake
+   (ID: dialog_50_speaker_2)
+
+5. I do not like people very much.
+   (ID: dialog_67_speaker_1)
+
+6. I have a professional job.
+   (ID: dialog_41_speaker_2)
+
+7. My parent educates others.
+   (ID: dialog_42_speaker_1)
+
+8. I cok a lot of italian dishes.
+   (ID: dialog_37_speaker_2)
+
+9. My house in in the bronx.
+   (ID: dialog_84_speaker_1)
+
+10. I got boots from a Boot Barn.
+   (ID: dialog_27_speaker_1)
+
+11. I'm currently unemployed and in college for social sciences. I used to  work at a processing center for long hours. I want to become a social worker. I went back to school so I can change jobs.
+   (ID: dialog_23_speaker_1)
+
+12. My mom is my good friend.
+   (ID: dialog_14_speaker_2)
+
+13. I like to go to the ocean.
+   (ID: dialog_83_speaker_1)
+
+14. I am an animal lover.
+   (ID: dialog_17_speaker_2)
+
+15. I love to be under water.
+   (ID: dialog_16_speaker_2)
+
+16. I am one of two boys in my family.
+   (ID: dialog_57_speaker_2)
+
+17. I am planning on running my first marathon. I have a personal goal to run a marathon in under 4 hours. I broke my ankle 5 days ago.
+   (ID: dialog_0_speaker_1)
+
+18. I am 14.
+   (ID: dialog_67_speaker_1)
+
+19. A soldier is what I'm.
+   (ID: dialog_67_speaker_2)
+
+20. Sports are fun.
+   (ID: dialog_11_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 16193
+
+1. i could n't find it , assuming the poster had removed it .
+   (ID: harumpf)
+
+2. i also vaguely recall it having bones or something around the border of the album .
+   (ID: Heydawgg)
+
+3. i do n’t think it ’s possible to platinum that game without walkthroughs .
+   (ID: nastylittleman)
+
+4. i 'd call that a view .
+   (ID: Weed_n_Wisdom)
+
+5. i figure i might as well just fire it up for the gogo stage !
+   (ID: Beachsurfer)
+
+6. i 'm grateful that you took the time to do some research !
+   (ID: notlikethat1)
+
+7. i think it 's the other way around , though .
+   (ID: zsnajorrah)
+
+8. i encourage you to get counseling .
+   (ID: kirbrcd1)
+
+9. i have the gui wallet and the 12 words that make up its private key .
+   (ID: hoveringlurker)
+
+10. i saw bray wyatt last night at nxt .
+   (ID: aydinsevimli)
+
+11. i never thought i 'd say this but .... i kind of am
+   (ID: CuriousBlueAbra)
+
+12. i 'm drowning in lipsticks .
+   (ID: BabblingBunny)
+
+13. i would really like to know the answer to this question , too .
+   (ID: zsnajorrah)
+
+14. i knew it , not even cleaner than my work boots
+   (ID: BoonTobias)
+
+15. i live in ohio !
+   (ID: GetItTogether)
+
+16. i 'm a little skeptical of your username and $ but i 'll take your word on it
+   (ID: alextound)
+
+17. i guess my lack of experience will hurt the job search .
+   (ID: cookiexcmonster)
+
+18. i ca nt wait for summer to be over so i can wear them again .
+   (ID: bleepblorp9878)
+
+19. i do n't use social media much so i was missing the joke .
+   (ID: VanGoJourney)
+
+20. i was 13 and it only happened once .
+   (ID: 11_29_77)
+
+
+--- PER-CHAT ---
+Total from this dataset: 15104
+
+1. One of my favorite things is stats.
+   (ID: 96167969642339382f3b9c4eeee4ea73aec3823c)
+
+2. One of my favorite things is animals.
+   (ID: 420a86ecfb9d645349db591746d0cdeba4b68f37)
+
+3. do you think it means something ? did you live in a digit story ranch house ?
+   (ID: 5ad91cf15026f9d604e90af77be91ab4f6b7289a)
+
+4. ok , please inform me about this joke . i have seen it and haven ' t get it , if it ' s a video or something i will watch it rn because i ' m at a loss . fell free to whoosh me or something .
+   (ID: fe118d67d3de6f10ede2239bbfe55c4eff297d7a)
+
+5. One of my favorite things is shane lots.
+   (ID: 0eb78cb406a9dd9e14938eca8822e3bb1e1ad60a)
+
+6. on average , yes i did go downhill 9000ft to 5500ft . but my max elevation was digit , 300ft , so lots of ups and downs . i had to resist the urge many times to bury my foot in the throttle . edit  as it turns out you can make an elevation profile in google earth . can anyone guess the route ?
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+7. One of my favorite things is amlo.
+   (ID: 77d0324af3e030bb9fb9365a16e870bd522fd275)
+
+8. what are you playing ? find the dutch guy in the crowd ? i would defo not buy a spyker . so much better and beautifull cars to get for that money .
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+9. One of my favorite things is lifeline.
+   (ID: 77770aa98878bbc6909e1c6f872ebb6803362fc5)
+
+10. nope , i like being able to walk off whenever i feel like it and i appreciate the freedom it gives employers .
+   (ID: f39e591889b6331bd255039773030c1b50c7e201)
+
+11. when i meet people i ' m always thinking of a smartass nickname for them while they ' re talking !
+   (ID: 128346fc1e56ccadd25a4b200ecae44637d48f5f)
+
+12. hanging out , talking , and kissing . you are dating .
+   (ID: 225291489bc1a4ddf3d197a3062fa9ff935f3029)
+
+13. yeah , nice try policeman .
+   (ID: ff1587b69bf26c7b8e4def31e1d9036863ae4be3)
+
+14. One of my favorite things is fantasy.
+   (ID: 79fc72ea72532d39a039ecb4e47a630a601ff4a8)
+
+15. don  t let other people  s perceptions effect you . why do they work digit  hours a week or whatever ? seems like an absolute waste of time as well if you  re viewing things that way . what  s important is that you fill your time with things you enjoy . life is that simple , but people love to make it complicated and project that onto people living differently than they are . jealousy plays a part in that often . do you and worry about you and anyone who has negative words  thoughts about it can screw off . i  m unemployed as well as my partner works enough for us and we are thrilled with the set up but get a ton of hate from others outside our relationship . we know what matters so we ignore their negativity and the negativity that creeps up in my own mind sometimes too .
+   (ID: 4f1b65a581332b9d19507ccf0e921d0967e013e7)
+
+16. I am middle child.
+   (ID: 3191fce935a433eb5bf640dcdf40d71c47c3a93a)
+
+17. hmm . so you  re bad at the game and you like something cause it  s an easy way out ? maybe you should quit .
+   (ID: 870d9d198f856764296262192823c935f1daf781)
+
+18. well , i hope that you ' re still here . those friends that your referring to , those aren ' t the type you want to have . if they don ' t like you or your interests , that ' s their lost , not yours . if you don ' t mind me asking , why does your mom want you to move back in ? you may call her narcissist , but aren ' t all parents , in a way ? i would suggest you call her . if you kill yourself , it could destroy her . i wouldn ' t know , but maybe she wants you to move back in because she likes having around . maybe she needs some help , that is if she lives alone .
+   (ID: 159a1a696667b6871cb8de2b957ac5dd05b77427)
+
+19. there is usually a reason why i haven ' t immediately passed the person on the right , and if you are about to put my car in danger i ' m gonna laugh as i block you in until i need to pass .
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+20. I'm interested in health.
+   (ID: 8b7590cb8502d6abd38b320b842aa7642186b6d8)
+
+
+--- PersonaChat ---
+Total from this dataset: 1064
+
+1. i am chubby .
+   (ID: conversation_74)
+
+2. i live on an island .
+   (ID: conversation_27)
+
+3. i wish i did not have to work .
+   (ID: conversation_212)
+
+4. i'm a baker .
+   (ID: conversation_161)
+
+5. i work 60 hours a week .
+   (ID: conversation_148)
+
+6. i am a violinist .
+   (ID: conversation_100)
+
+7. i recently discovered a new love for indian food .
+   (ID: conversation_100)
+
+8. i start an internship in engineering later this year .
+   (ID: conversation_50)
+
+9. i like to go out to the bars .
+   (ID: conversation_237)
+
+10. i don t like the song sweet home alabama .
+   (ID: conversation_221)
+
+11. my mother doesn t ! ove me .
+   (ID: conversation_138)
+
+12. i am a member of the ymca .
+   (ID: conversation_222)
+
+13. i am a gourmet cook .
+   (ID: conversation_181)
+
+14. my father is a preacher .
+   (ID: conversation_40)
+
+15. i eat lots of pancakes and syrup .
+   (ID: conversation_51)
+
+16. i hate that i got my brain from the dad i never met .
+   (ID: conversation_179)
+
+17. i like to shoot a bow .
+   (ID: conversation_195)
+
+18. my dogs name is toto .
+   (ID: conversation_162)
+
+19. i was adopted .
+   (ID: conversation_180)
+
+20. and , my best friend is calden .
+   (ID: conversation_53)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2143
+
+1. I like simple jokes.
+   (ID: conversation_224_user_2)
+
+2. My favorite color is orange.
+   (ID: conversation_198_user_1)
+
+3. I don t think my girlfriend understands.
+   (ID: conversation_162_user_2)
+
+4. I am thirty years old.
+   (ID: conversation_75_user_2)
+
+5. I married my high school sweetheart.
+   (ID: conversation_105_user_2)
+
+6. Pizza is my favorite.
+   (ID: conversation_161_user_2)
+
+7. I like cats.
+   (ID: conversation_117_user_1)
+
+8. I own a german shepard.
+   (ID: conversation_115_user_2)
+
+9. I have two smartphones.
+   (ID: conversation_193_user_1)
+
+10. I am a fisherman.
+   (ID: conversation_157_user_1)
+
+11. My husband owns a small auto repair shop.
+   (ID: conversation_43_user_2)
+
+12. I volunteer walking dogs twice a week.
+   (ID: conversation_220_user_1)
+
+13. I am an orphan.
+   (ID: conversation_121_user_1)
+
+14. I like to watch tv.
+   (ID: conversation_61_user_2)
+
+15. I am a terrible speller.
+   (ID: conversation_79_user_2)
+
+16. I like cats.
+   (ID: conversation_111_user_1)
+
+17. I wear glasses all day.
+   (ID: conversation_171_user_1)
+
+18. I eat meat.
+   (ID: conversation_62_user_1)
+
+19. I love animals.
+   (ID: conversation_67_user_2)
+
+20. I eat meat.
+   (ID: conversation_64_user_1)
+
+
+============================================================

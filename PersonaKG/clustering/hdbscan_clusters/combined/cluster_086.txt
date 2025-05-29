@@ -1,190 +1,148 @@
 CLUSTER 86
 ============================================================
-Total statements in cluster: 61
-Cluster persistence (stability): 0.999
+Total statements in cluster: 189
+Cluster persistence (stability): 0.719
 
 Dataset distribution in this cluster:
-  FoCus: 1 (1.6%)
-  MSC: 8 (13.1%)
-  PEC: 32 (52.5%)
-  PER-CHAT: 8 (13.1%)
-  PersonaChat: 10 (16.4%)
-  SyntheticPersonaChat: 2 (3.3%)
+  MPChat: 4 (2.1%)
+  MSC: 1 (0.5%)
+  PEC: 174 (92.1%)
+  PER-CHAT: 7 (3.7%)
+  PersonaChat: 2 (1.1%)
+  SyntheticPersonaChat: 1 (0.5%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- FoCus ---
-Total from this dataset: 1
+--- MPChat ---
+Total from this dataset: 4
 
-1. I play the carillon.
-   (ID: XSRVMY2FFAD5_9)
+1. i think samson is dying?
+   (ID: zonumnire)
+
+2. i think i found a crested barrel cactus.
+   (ID: tucsonyeti)
+
+3. i think she ate too much spinach...
+   (ID: River_Lethe)
+
+4. i think he likes it
+   (ID: CollegeSleezeball)
 
 
 --- MSC ---
-Total from this dataset: 8
+Total from this dataset: 1
 
-1. I play piano and violin. My violin has a broken spring.
-   (ID: dialog_53_speaker_1)
-
-2. I play Prince of Persia.
-   (ID: dialog_31_speaker_2)
-
-3. I'm a Dallas Mavericks fan. I play basketball regulary. I am knowledgable about basketball.
-   (ID: dialog_207_speaker_2)
-
-4. I play european football.
-   (ID: dialog_62_speaker_2)
-
-5. I cannot play music.
-   (ID: dialog_80_speaker_1)
-
-6. Dolls are fun to play with.
-   (ID: dialog_108_speaker_1)
-
-7. I enjoy playing tennis. I play tennis in the park on Main Street and 4th.
-   (ID: dialog_11_speaker_2)
-
-8. I play many games on my iPhone 7.
-   (ID: dialog_199_speaker_1)
+1. I think most scary monsters are serious.
+   (ID: dialog_54_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 32
+Total from this dataset: 174
 
-1. i 'm currently using an icepack plus paper towels to play borderlands 2 .
-   (ID: bmeckel)
+1. i think they both smell the same
+   (ID: iToaditSo)
 
-2. i had to play that back .
-   (ID: doctor_parcival)
+2. i think i 'm in the majority here .
+   (ID: Szos)
 
-3. i have this problem attempting to play racquetball irl .
-   (ID: ifatree)
+3. i think /thathappened is more appropriate
+   (ID: Szos)
 
-4. i can play backs though .
-   (ID: spoonsrugby)
+4. i do n't think that is in order .
+   (ID: DanGarion)
 
-5. i 'd play patty cake with that !
-   (ID: ProJokeExplainer)
+5. i do n't think that 's his bedroom , or robe .
+   (ID: sbsb27)
 
-6. i have always wished that any kid who wanted to learn to play had the opportunity .
-   (ID: bbrandann)
+6. i think you accidentally a few .
+   (ID: chasemyers)
 
-7. i 'm confused , so they asked you to play at their private party after the restaurant ?
-   (ID: whirlpoohl)
+7. i think chimpanzees are ridiculously obnoxiously strong .
+   (ID: JaZepi)
 
-8. i play via emulator on my pc with 2x scaling .
-   (ID: JohnnyPappis)
+8. i can think of two ways
+   (ID: lonewolf2556)
 
-9. i have sudden urge to play shadowrun .
-   (ID: CuriousBlueAbra)
+9. i think because the whole brewery behind them is poorly shopped in
+   (ID: Captain_-H)
 
-10. i play small .
-   (ID: microliteoven)
+10. i think we found a roddy mark .
+   (ID: MUZAI)
 
-11. i play to win gord !
-   (ID: KPer123)
+11. i think it stands for " muddy hemaroids "
+   (ID: aydinsevimli)
 
-12. i would definitely have them both in my teepee to play with my peepee .
-   (ID: billclay55raiders)
+12. i .. i think it 's satire mate
+   (ID: LabeledAsALunatic)
 
-13. i 'm in ny and play halo 5 coach pappis m/ 30 hit me up .
-   (ID: JohnnyPappis)
+13. i think it spontaneously appeared as the diametrically opposed force to " yoink . "
+   (ID: monday_madrigal)
 
-14. i check ipleak and it says uk , but still wo n’t play bbc :/
-   (ID: alicepalmbeach)
+14. i think it ’s the male counterpart for ghoul trooper .
+   (ID: TheRealAshren)
 
-15. i ’d play spin the dreidel with that and seven seconds in heaven .
-   (ID: sherry2012)
+15. i think we have a winner , folks .
+   (ID: StinkinFinger)
 
-16. i back that up with an m4 and i can play very aggressive
-   (ID: DickRubnuts)
+16. i doubt - i think 270 or so .
+   (ID: Machinax)
 
-17. i loved the play action on 4th and inches .
-   (ID: JacredCat)
+17. i think i might pass on that one .
+   (ID: Darth_Waiter)
 
-18. i play hearthstone if you play that ?
-   (ID: OliveGames)
+18. i think shorten has more discipline than the current coalition circus .
+   (ID: 512165381)
 
-19. i hosted parties with the themes " hawaii -- of the future " and " zillionaires at play " .
-   (ID: combover)
+19. i think its broken , too .
+   (ID: Star_KillA)
 
-20. i play " date or daughter " at restaurants frequently .
-   (ID: napalmkitten)
+20. i think it should be , _ turkey
+   (ID: harumpf)
 
 
 --- PER-CHAT ---
-Total from this dataset: 8
+Total from this dataset: 7
 
-1. you will always lose when dealing with the devil , the only winning move is not to play
-   (ID: 4776f36398122cafa421393accf6939d82603a44)
+1. i think it  s one of the first clips
+   (ID: a69486a9dd78d1ba9533599ba57eac9079ca3c8d)
 
-2. I play warframe.
-   (ID: 0328413fb9fd5eff68cef63593bfc5537e85c2e8)
+2. any more details on why you think this ?
+   (ID: e62a0b4f33f101f286a75d53b63d0fe92d5dc717)
 
-3. play it cool .
-   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+3. do you think there is the possibility to do the same with rx6 ?
+   (ID: bdec7fdc10121458649dd9ddc939c48d829eb7ce)
 
-4. I play rust.
-   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+4. you think so ? i think it ' s part of the concept .
+   (ID: 4e7357574b1b24c540d9d8335b8cdb46f0dd3d78)
 
-5. I play source filmmaker.
-   (ID: 23394798067974e95a922a95c6609d16ca1b11dd)
+5. i think you made a mistake there
+   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
 
-6. drink whiskey and play video games .
-   (ID: 5bf69e8a91457991a99f2cc3f9248ca16f27a0d5)
+6. " him " , we think its a bot
+   (ID: 504068c33194e1261903c2e0b19c42fc1d06b0a2)
 
-7. my mom puts that on my food when i play fortnite
-   (ID: 34ec1eee47d9e01bd9a5b29f2d3b8f2098f875d3)
-
-8. that ought to do it ! we are truly disappointed they didn ' t play it .
-   (ID: 60d49a425809d6f450335028a75a5202d3b84678)
+7. you think about the kardashian ' s in the shower ?
+   (ID: af7909c19fea28cadcabd2f3b93c831e3c684dad)
 
 
 --- PersonaChat ---
-Total from this dataset: 10
+Total from this dataset: 2
 
-1. i play for the baltimore orioles .
-   (ID: conversation_428)
+1. i am not afraid of what others think .
+   (ID: conversation_37)
 
-2. i can play the violin .
-   (ID: conversation_298)
-
-3. i play bingo every wednesday with my husband .
-   (ID: conversation_395)
-
-4. i am learning to play the piano .
-   (ID: conversation_222)
-
-5. i often play the clown to get attention .
-   (ID: conversation_558)
-
-6. i play the guitair .
-   (ID: conversation_230)
-
-7. my mom taught me how to play the cello .
-   (ID: conversation_283)
-
-8. my poppa has a train set that i play with .
-   (ID: conversation_486)
-
-9. i play d and d .
-   (ID: conversation_54)
-
-10. in the evenings i watch the door at a club where they play punkrock .
-   (ID: conversation_591)
+2. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 2
+Total from this dataset: 1
 
-1. I am hoping to play.
-   (ID: conversation_149_user_2)
-
-2. I am hoping to play basketball overseas.
-   (ID: conversation_149_user_2)
+1. I think the moon landing was faked.
+   (ID: conversation_250_user_2)
 
 
 ============================================================

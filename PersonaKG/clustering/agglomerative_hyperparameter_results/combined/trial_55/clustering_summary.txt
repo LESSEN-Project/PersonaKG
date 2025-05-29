@@ -1,0 +1,72 @@
+Agglomerative Clustering Analysis Summary
+============================================================
+Total statements: 86137
+Vectorization method: tfidf
+Number of clusters: 50
+Analysis type: combined
+Diversity score: 0.0230 (higher is better)
+Silhouette score: 0.2983 (higher is better)
+Timestamp: 2025-05-28 17:29:31
+
+Dataset Distribution:
+  FoCus: 2500 statements
+  MPChat: 5048 statements
+  MSC: 3868 statements
+  PEC: 33497 statements
+  PER-CHAT: 34537 statements
+  PersonaChat: 2236 statements
+  SyntheticPersonaChat: 4451 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 1: 46746 statements
+  Cluster 41: 6366 statements
+  Cluster 36: 2535 statements
+  Cluster 3: 1743 statements
+  Cluster 11: 1443 statements
+  Cluster 31: 1439 statements
+  Cluster 35: 1421 statements
+  Cluster 7: 1328 statements
+  Cluster 29: 1321 statements
+  Cluster 15: 1129 statements
+  Cluster 20: 1094 statements
+  Cluster 4: 1041 statements
+  Cluster 5: 1006 statements
+  Cluster 10: 961 statements
+  Cluster 24: 835 statements
+  Cluster 19: 818 statements
+  Cluster 6: 816 statements
+  Cluster 21: 775 statements
+  Cluster 26: 738 statements
+  Cluster 17: 736 statements
+  Cluster 30: 721 statements
+  Cluster 9: 697 statements
+  Cluster 13: 690 statements
+  Cluster 16: 681 statements
+  Cluster 12: 656 statements
+  Cluster 28: 643 statements
+  Cluster 8: 637 statements
+  Cluster 2: 622 statements
+  Cluster 34: 616 statements
+  Cluster 44: 586 statements
+  Cluster 38: 522 statements
+  Cluster 14: 500 statements
+  Cluster 43: 495 statements
+  Cluster 27: 444 statements
+  Cluster 48: 417 statements
+  Cluster 22: 396 statements
+  Cluster 18: 384 statements
+  Cluster 42: 350 statements
+  Cluster 25: 316 statements
+  Cluster 47: 308 statements
+  Cluster 23: 283 statements
+  Cluster 0: 226 statements
+  Cluster 32: 118 statements
+  Cluster 33: 107 statements
+  Cluster 49: 96 statements
+  Cluster 45: 95 statements
+  Cluster 46: 89 statements
+  Cluster 37: 81 statements
+  Cluster 39: 58 statements
+  Cluster 40: 12 statements

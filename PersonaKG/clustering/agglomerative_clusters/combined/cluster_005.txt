@@ -1,0 +1,467 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 1594
+
+Dataset distribution in this cluster:
+  FoCus: 44 (2.8%)
+  MPChat: 40 (2.5%)
+  MSC: 110 (6.9%)
+  PEC: 623 (39.1%)
+  PER-CHAT: 626 (39.3%)
+  PersonaChat: 107 (6.7%)
+  SyntheticPersonaChat: 44 (2.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 44
+
+1. I worship Hindu deity.
+   (ID: RJJWVAVC2B40_9)
+
+2. I have membership in a sports club.
+   (ID: VZ1O6OE23O98_11)
+
+3. I wish to travel to the Philippines.
+   (ID: LERVJ9I223JG_7)
+
+4. I wish I knew Russian.
+   (ID: CBOI96AOZRK6_11)
+
+5. I don't hope to ever see my work exhibited in a museum.
+   (ID: JJN7XJSS0B4W_11)
+
+6. I hope to marry a lady from Canada.
+   (ID: G4JZMW0OPV0G_11)
+
+7. I'm a cistercian.
+   (ID: EGOP94LCW2PF_11)
+
+8. I study flooding.
+   (ID: FLY9O8E8QPK3_11)
+
+9. I wish to live in Poland.
+   (ID: PW1SULL1SY01_11)
+
+10. I research death row across the country.
+   (ID: W0A218B5NGQT_7)
+
+11. I don't like railroad in the vicinity of the city.
+   (ID: NK6WLDJ7W255_7)
+
+12. I want to go back to India.
+   (ID: KGUNB0DFP7UP_11)
+
+13. I am interested in the Iran.
+   (ID: XU1657VV4AMG_11)
+
+14. I am planning to go to Ukraine.
+   (ID: KE1YHY4I7DLW_11)
+
+15. I have a friend from Tornoto.
+   (ID: NMEFJE64KZ1F_11)
+
+16. I do not like modern scenery.
+   (ID: G0MQSJ1XOT71_11)
+
+17. I do not wish to live in Pennsylvania.
+   (ID: M6QLMFHJ3CAF_11)
+
+18. I am going to run for mayor.
+   (ID: JGNFHPJEPO6H_9)
+
+19. I am from Malta.
+   (ID: OJ5U23I3FV0N_11)
+
+20. I would like to visit my cousin in Chile.
+   (ID: LEW58VG9I78X_11)
+
+
+--- MPChat ---
+Total from this dataset: 40
+
+1. i am the master of both cheese and cake!
+   (ID: Snoodles1)
+
+2. goate-esque jam tarts (because apparently i'm not good at doing nice things)
+   (ID: LittleBitOdd)
+
+3. post-turkey coffee so i dont fall asleep.
+   (ID: coffeehawaii)
+
+4. i started using my dutch oven as a lid for my grill
+   (ID: tstandiford)
+
+5. i live in thailand and me and my girlfriend go to this island from time to time.
+   (ID: PaidJewishTroll)
+
+6. can i do it??
+   (ID: krichmondRPH)
+
+7. working 5 jobs... but i love baking.
+   (ID: BabyCakesBakeryyy)
+
+8. competed in my first triangulation.
+   (ID: Beardedlantern)
+
+9. it's been 6 months that i have been away from home!
+   (ID: billwhiz)
+
+10. got some decaf beans, figured i'd make an evening latte :)
+   (ID: Nutellism)
+
+11. any advice on african cichlid tanks welcome, this is my first.
+   (ID: lizdavis17)
+
+12. a (slightly clueless) friend just asked me if i can make it.
+   (ID: mle12189)
+
+13. did well with what i had.
+   (ID: Flattishsassy)
+
+14. so, i made “dinner rolls” and when they were hot i painted them with honey butter.
+   (ID: lizdavis17)
+
+15. projects i started last night.
+   (ID: krichmondRPH)
+
+16. (i'm the model)
+   (ID: CuriosityK)
+
+17. scotch eggs to break in my new deep fryer.
+   (ID: cigarjack)
+
+18. after a weekend this is always my go to.
+   (ID: onemantwohands)
+
+19. first thing i do when i get off work!
+   (ID: i_like_it_raw_)
+
+20. my moms workshop is just the coziest place!
+   (ID: Im_The_Government)
+
+
+--- MSC ---
+Total from this dataset: 110
+
+1. I have been volunteering at a shelter. I hope to find a new place to volunteer when I move.
+   (ID: dialog_145_speaker_1)
+
+2. I have a part time job at a burger place that is 25 years old.
+   (ID: dialog_184_speaker_2)
+
+3. I work long hours at Amazon and am too old to work. The pay is $15 an hour. I work in the Amazon warehourse.
+   (ID: dialog_23_speaker_2)
+
+4. I walk to get from here to there.
+   (ID: dialog_56_speaker_2)
+
+5. I hope one day I will be good at stocks.
+   (ID: dialog_54_speaker_1)
+
+6. I am an urban dweller.
+   (ID: dialog_81_speaker_2)
+
+7. I travel a lot for work and for leisure. I have to move again for more job. I will be leaving in 2 weeks. I won't be able to volunteer anymore. My move might not be permanent.
+   (ID: dialog_145_speaker_1)
+
+8. I don't like to be out with nothing around me.
+   (ID: dialog_22_speaker_1)
+
+9. I am employed at waffle house restaurant.
+   (ID: dialog_128_speaker_1)
+
+10. Sometimes I have trouble breathing.
+   (ID: dialog_40_speaker_1)
+
+11. I plan to stay with my fiance and his family. I will then move to a house on one of the coasts.
+   (ID: dialog_77_speaker_2)
+
+12. I want to get back into graphic design, but I do not have the time.
+   (ID: dialog_33_speaker_2)
+
+13. I am a student and currently I am on a break. I am studying health science and it is very stressful.  I am currently doing my Bachelors and will do my Masters soon.
+   (ID: dialog_106_speaker_1)
+
+14. I am involved in several rooms.
+   (ID: dialog_93_speaker_1)
+
+15. I'm going to be the next mozart!.
+   (ID: dialog_186_speaker_2)
+
+16. I'm a parent.
+   (ID: dialog_81_speaker_1)
+
+17. My job is on the line in a kitchen.
+   (ID: dialog_186_speaker_1)
+
+18. I am going to film a game show. I love my job. I've met a few famous actors. I've been at my job for 20 years. I like to help my friends.
+   (ID: dialog_2_speaker_2)
+
+19. I love comic books. I would like to owner a comic book store.
+   (ID: dialog_120_speaker_2)
+
+20. I sometimes forget to take my medication to help stabilize my mood. I sometimes forget to bring my medication with me when I go out.
+   (ID: dialog_43_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 623
+
+1. i would be willing to do this with bs equalizers as a add .
+   (ID: Unknown_nam3)
+
+2. i can shop because i 've told a few pixels in my time .
+   (ID: Nolanoscopy)
+
+3. i guess that might be the deal breaker .
+   (ID: drmarvin2k5)
+
+4. i was drunk and auto correct does n't care ....
+   (ID: lonewolf2556)
+
+5. i do n’t mind the money but the pick is crazy
+   (ID: Montag3636)
+
+6. i love that i can leave mine anywhere .
+   (ID: alextound)
+
+7. i ’d say mid level pricing for super high quality work .
+   (ID: latestartksmama)
+
+8. i do nt do concerts but i 'd give it away or sell it cheap ...
+   (ID: Noimnotsally)
+
+9. i want some of that sweet sweet healthcare .
+   (ID: bugaloo2u2)
+
+10. i never really get to share it lol .
+   (ID: bleepblorp9878)
+
+11. i 'm sorry , what do you mean by native ?
+   (ID: PartyPisser)
+
+12. i 've lived in solomon county the last 40 + years .
+   (ID: catskhiker)
+
+13. i 'm all about deals and repeat business .
+   (ID: squaresaltine32314)
+
+14. i am amazing .
+   (ID: WorldBFree)
+
+15. i think people forget how happy cash can make them feel .
+   (ID: glowinthedark)
+
+16. i def do n't consider 10 m low budget .
+   (ID: John7oliver)
+
+17. i do at home .
+   (ID: squaresaltine32314)
+
+18. i this was the dark ages you would definitely be burned as a witch .
+   (ID: chirpyboyandbartjr)
+
+19. i want the mooch back .
+   (ID: Dustin_Bromain)
+
+20. i fully expected to read subtitles and was really surprised when i heard white - english .
+   (ID: Weed_n_Wisdom)
+
+
+--- PER-CHAT ---
+Total from this dataset: 626
+
+1. I live in black woman.
+   (ID: fa749ff7262da656e34f21f4b902bd5287bf224d)
+
+2. but i can say ' je ne sais quoi ' without feeling that way . damn loan words . edit  i just realized i only use that phrase satirically . i guess we should just leave other languages alone .
+   (ID: a4eb94a9fe8ebabb780c319cc7d3f552eb79625e)
+
+3. i couldn ' t care less what you " would bet your last dollar " on .
+   (ID: e5fd25110413c69853218bbcbb0169f73c8f06e1)
+
+4. I own a cash app tag.
+   (ID: 23a788cf7874353f54f4163f0e2c16e6043d04a1)
+
+5. should not be a problem even if you get by yourself , just be confident . you do know how to ride and drive then it shouldn ' t be problem passing the test . as for not having a bike , i suggest you borrow a bike from any friend or relative because they don ' t provide the bike . last resort would be asking one of the people who have got their bikes for the test . for car lisence test they gave me the rto car maruti digit which was horrible but manageable to pass if you know your driving . go through an agency only if you don ' t want to fill applications and are very unsure about the procedure . i got mine done through an agency because i learnt driving through their school . if you know driving and riding i see no problem for you to get it done yourself .
+   (ID: f37c6d73f88ae9488245dcae1da46589d182fa9b)
+
+6. letting people go home early always works
+   (ID: fe5860fea6be29c69501e1a97b1240375d594aa9)
+
+7. nta your cousin fails to realize you will be changing lives . yours . your life matters and you have to do what you have to do . and just because you use it now doesn ' t mean you can ' t donate some later .
+   (ID: de9f62a8114c08877e3a53460027d9810f5f3912)
+
+8. i don ' t . i just have nothing to say anymore
+   (ID: c65a473965fbe88679c85b0d206d90b8c65789fe)
+
+9. so how  s the afterlife ?
+   (ID: 8ea8e4a00c3f2a64096e00bdbba0247e580cdb17)
+
+10. sorry , it ' s a digit , and i was thinking it mightve been the tps but i wanted to get a better opinion from yall before i start taking my bike apart .
+   (ID: aaaecf7e1ff261f2a41ad2f7d0229a3f043cb546)
+
+11. you would win the biggest lottery in your area but you ' ll also get brain cancer , would you do it ? why or why not ?
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+12. I own a regulator.
+   (ID: e87275c4c3cfea671e40cbeff9a12d5fc1372f97)
+
+13. no i don ' t think you really need it but it makes things more easy . i don ' t have fun but work as an seo at a online company . my infome is not lower than others with a college certificat
+   (ID: ad6e2a4253e2d855d34a09445a12e49327ba824e)
+
+14. i juke out my furniture when i ' m running through the house sometimes
+   (ID: d1e6050d6d7638f6662249831925c3a9185f210b)
+
+15. any chance you guys marry ? you can sponsor your spouse that way too .
+   (ID: 3cc393500aaac3a2ee1cd96955cee486bb062a46)
+
+16. yea i know a guy from back home in the us who went to poland because i counted it as my favorite country . he was there for a week and got a expedited wife there and won  t shut up about random polish shit , and is speaking in a weird  polish layout of english  that polish people speak because the language is so different and it literally sets up how you form sentences in a different way he  s hanging on poland  s d it  s weird edit add  he also says uni now because that  s what polish people say when talking about college in english
+   (ID: ab7b04c861ea53216d337be29676deb59279c791)
+
+17. I am tentacle monster.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+18. I live in better country.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+19. it takes over literally every aspect of your life . everything . it gets to a point where you literally have to put yourself before anything else . it can seem narcissistic to people who don  t know what you  re going through , but when it comes between wanting to blow your brains out and everything else , it  s an easy choice . hopefully
+   (ID: 52998b8f3de02e095d5ef2887f1b1c9122825175)
+
+20. depends on the day of the week . i do both .
+   (ID: 7aa559a048e16f5e07993ececfa9eb494e72a8fc)
+
+
+--- PersonaChat ---
+Total from this dataset: 107
+
+1. i did a few small roles in tv series .
+   (ID: conversation_2)
+
+2. my grandma is from denmark .
+   (ID: conversation_162)
+
+3. i'd be honored to give my life for my country .
+   (ID: conversation_273)
+
+4. i speak fluent german .
+   (ID: conversation_156)
+
+5. i'm next in line to become queen of england .
+   (ID: conversation_408)
+
+6. i am argentinian .
+   (ID: conversation_59)
+
+7. my father was born in australia .
+   (ID: conversation_9)
+
+8. i am a member of the ymca .
+   (ID: conversation_222)
+
+9. i am a soccer mom .
+   (ID: conversation_310)
+
+10. i like to get involved in politics .
+   (ID: conversation_214)
+
+11. i think i will be famous one day .
+   (ID: conversation_317)
+
+12. i have two children .
+   (ID: conversation_19)
+
+13. i worked 3 jobs at the same time for more than 5 years .
+   (ID: conversation_185)
+
+14. i hope it to become a doctor one day .
+   (ID: conversation_21)
+
+15. i just moved into an apartment within the vicinity of my new job .
+   (ID: conversation_91)
+
+16. my brother lives in england .
+   (ID: conversation_413)
+
+17. my best friend lives in japan .
+   (ID: conversation_170)
+
+18. i blame myself for all of my problems .
+   (ID: conversation_197)
+
+19. i'm starting a new juicing bar .
+   (ID: conversation_88)
+
+20. i've borderline personality disorder .
+   (ID: conversation_106)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 44
+
+1. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_95_user_2)
+
+2. My days are filled with cross country try outs and basketball practice.
+   (ID: conversation_127_user_2)
+
+3. I sometimes scratch my nose for fun.
+   (ID: conversation_416_user_2)
+
+4. I enjoy hitchhiking.
+   (ID: conversation_298_user_1)
+
+5. This season , i will become a playoff quarterback.
+   (ID: conversation_219_user_2)
+
+6. I went to an elite ivy league school.
+   (ID: conversation_182_user_2)
+
+7. My befriend is from out of town.
+   (ID: conversation_428_user_2)
+
+8. I was born outside the us.
+   (ID: conversation_150_user_1)
+
+9. I am currently looking for a job in baltimore.
+   (ID: conversation_258_user_2)
+
+10. I make my own soap.
+   (ID: conversation_123_user_2)
+
+11. I stay active.
+   (ID: conversation_254_user_1)
+
+12. I am a romantic.
+   (ID: conversation_122_user_1)
+
+13. I am a geology major at alabama university.
+   (ID: conversation_72_user_2)
+
+14. I make 30k a year.
+   (ID: conversation_31_user_2)
+
+15. I really wanted to be an actor.
+   (ID: conversation_260_user_2)
+
+16. I recently moved to sweden.
+   (ID: conversation_18_user_2)
+
+17. I wish that i lived in the city.
+   (ID: conversation_90_user_2)
+
+18. I still have a thick accent so words like hippopotamus are difficult.
+   (ID: conversation_328_user_2)
+
+19. I am a nurse and work in an emergency room at a busy hospital.
+   (ID: conversation_93_user_1)
+
+20. I am east asian.
+   (ID: conversation_161_user_2)
+
+
+============================================================

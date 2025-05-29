@@ -1,321 +1,226 @@
 CLUSTER 36
 ============================================================
-Total statements in cluster: 328
-Cluster persistence (stability): 0.426
+Total statements in cluster: 220
+Cluster persistence (stability): 0.519
 
 Dataset distribution in this cluster:
-  FoCus: 8 (2.4%)
-  MPChat: 3 (0.9%)
-  MSC: 23 (7.0%)
-  PEC: 82 (25.0%)
-  PER-CHAT: 192 (58.5%)
-  PersonaChat: 14 (4.3%)
-  SyntheticPersonaChat: 6 (1.8%)
+  MPChat: 7 (3.2%)
+  MSC: 11 (5.0%)
+  PEC: 95 (43.2%)
+  PER-CHAT: 104 (47.3%)
+  PersonaChat: 2 (0.9%)
+  SyntheticPersonaChat: 1 (0.5%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- FoCus ---
-Total from this dataset: 8
-
-1. I always envied my friends who have been to a real live concert.
-   (ID: MSLBTP1KZY1B_11)
-
-2. I live in Sichuan.
-   (ID: AQKHAKIE056G_7)
-
-3. I wouldn't like to live in a Castle.
-   (ID: YB6ZF4SJI3P1_11)
-
-4. I would like to live in Palladian house.
-   (ID: QCGNF3BW4P3K_11)
-
-5. I live in the Shetland area.
-   (ID: FXSLHPIIV91K_11)
-
-6. I live in Munich.
-   (ID: XSRVMY2FFAD5_9)
-
-7. I live in urban part of the city.
-   (ID: QK9TQHXYFFJ9_11)
-
-8. I would like to live in Fort Worth.
-   (ID: W7U20Y2811DO_9)
-
-
 --- MPChat ---
-Total from this dataset: 3
+Total from this dataset: 7
 
-1. dyer friends and i moving our fiber festivals online with a live fb show!
-   (ID: SuperfineYarnCo)
+1. i called him a good boy.
+   (ID: kentobean123)
 
-2. just the handsome pitbull i rescued from a high kill shelter to come live in the woods with me.
-   (ID: NinjaSupplyCompany)
+2. i made a asthma shell for his inhaler for a good friend who has severe asthma.
+   (ID: gelimausi)
 
-3. i finally live in a place where i can walk out my back door and hunt.
-   (ID: ChroniclyDope)
+3. my local tesco has a surprisingly good range of cheese
+   (ID: Flyberius)
+
+4. transformers cookies i went through 4 or 5 cookies to get a good transformers logo.
+   (ID: amandabakes)
+
+5. my star jasmine is in full bloom and my backyard smells so good!
+   (ID: XandXor)
+
+6. all done with my good vibes shawl!
+   (ID: meghanlovessunshine)
+
+7. swiss style, the first i have made that looked any good.
+   (ID: 5ittingduck)
 
 
 --- MSC ---
-Total from this dataset: 23
+Total from this dataset: 11
 
-1. I don't live far from Speaker 1.
-   (ID: dialog_231_speaker_2)
+1. I draw animated pictures for cartoons. I am considering one about a ballet dancer.I am not a good dancer.
+   (ID: dialog_135_speaker_2)
 
-2. I live in Florida. I have contacts in Alabama.
-   (ID: dialog_85_speaker_2)
+2. I am good at surfing.
+   (ID: dialog_16_speaker_2)
 
-3. I am from Orlando. I live with my girlfriend. I like girls taller than I am. I am 6 ft. My girlfriend is 6'2.
-   (ID: dialog_85_speaker_2)
+3. I have a good mac and cheese recipe.
+   (ID: dialog_0_speaker_2)
 
-4. I am a woman. I breed mine coons. I live with my brother
-   (ID: dialog_46_speaker_2)
+4. Acoustic sounds so good.
+   (ID: dialog_205_speaker_2)
 
-5. I live on a private island where things can take a bit to be delivered.
-   (ID: dialog_69_speaker_2)
-
-6. I live in a fantasy world.
-   (ID: dialog_50_speaker_2)
-
-7. I live in Seattle and it is snowing and cold.
-   (ID: dialog_14_speaker_2)
-
-8. I haven't been on live shows.
-   (ID: dialog_232_speaker_2)
-
-9. My dad is a preacher and is judgemental. We live in the old country.
-   (ID: dialog_98_speaker_2)
-
-10. I live on my boat. I own a salon. my business is stable. I'm busy recently.
-   (ID: dialog_228_speaker_2)
-
-11. I have red hair, like my parents. I live in my parents' house in Germany. I speak German very well. I cannot afford to rent my own apartment.
-   (ID: dialog_156_speaker_2)
-
-12. I live in a bad neighborhood.
-   (ID: dialog_13_speaker_2)
-
-13. I live with my kids and my husband. I cook breakfast for them and am always in a hurry. my kids are always running late. The father drops them to school.
+5. I like good views.
    (ID: dialog_105_speaker_1)
 
-14. I like stand-up comedy. There are no stand-up comedy clubs around where I live.
-   (ID: dialog_33_speaker_2)
+6. I am fairly good with English and grammar skills in general. I have a very good recipe for corn and bean salad.
+   (ID: dialog_86_speaker_1)
 
-15. I live near Boston. I have a wife. I have friendly neigbors.
-   (ID: dialog_31_speaker_2)
+7. I'm good at blowing bubbles!
+   (ID: dialog_91_speaker_1)
 
-16. I take cooking classes at the home I live in.
-   (ID: dialog_44_speaker_1)
+8. I am not good with dogs.
+   (ID: dialog_171_speaker_2)
 
-17. I live in a small town in Russia, a few hours north of Moscow by car.
-   (ID: dialog_224_speaker_2)
+9. I am not very good at playing basketball.
+   (ID: dialog_8_speaker_1)
 
-18. I have a porch where I live.
-   (ID: dialog_71_speaker_2)
+10. I am good with computers. I have a computer and a printer.
+   (ID: dialog_32_speaker_1)
 
-19. I live near a barn near Saratoga..
-   (ID: dialog_117_speaker_1)
-
-20. I live in the desert.
-   (ID: dialog_222_speaker_1)
+11. I am surprised how good pictures taken with iPhone came out.
+   (ID: dialog_49_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 82
+Total from this dataset: 95
 
-1. i live amongst the saguaros in the second most populous city in my state .
+1. i 'd get fluctuations until i invested in a good scale .
    (ID: I_am_not_a_Taco)
 
-2. i would never live here though i have to be in the suburbs
-   (ID: mass08)
+2. i wanted to go back and not be good at it
+   (ID: idkforsure)
 
-3. i wanna live .
-   (ID: notTHATwriter)
+3. i 'm a guy and it took a good kick to the groin for me to get a cup .
+   (ID: I_am_not_a_Taco)
 
-4. i live in an apartment and some of them do shake my windows :/
-   (ID: happyfamilygogo)
+4. i savor those moments now when i get to eat a good burger or pizza .
+   (ID: I_am_not_a_Taco)
 
-5. i live in a southeast asian country where english is considered a language for the educated .
-   (ID: beautifulw0man)
+5. i have yet to run into any of my friends who watched it but it was so good .
+   (ID: Evolatic)
 
-6. i 'd live in that .
-   (ID: Occams_Spork)
-
-7. i just live in the movies .
-   (ID: Beachsurfer)
-
-8. i live in waikiki .
-   (ID: civex)
-
-9. i live in germany and my s8 + has bixby .
-   (ID: thed0ctah)
-
-10. i live here , the name is in common usage .
-   (ID: Legal_Adviser)
-
-11. i live in central vancouver island so could commute to either during the week .
-   (ID: travelingkiwi)
-
-12. i could n't live with that guilt .
-   (ID: GetItTogether)
-
-13. i live about 30 miles from the beautiful beer town of golden .
-   (ID: AzHighways)
-
-14. i do n’t even live that far from this town !
-   (ID: Dustin_Bromain)
-
-15. i know where you live .
+6. i 'm good .
    (ID: MILeft)
 
-16. i figured i 'd let everyone on here know that the sale is live .
-   (ID: BabblingBunny)
+7. i figured he 'd be a good person to.ask coz of its a throwaway , he would not mind xd
+   (ID: leo9g)
 
-17. i live in nyc and live near " the mosque " .
-   (ID: ddshroom)
+8. i knew a couple that perfect was too good to be true
+   (ID: rachie-bobby)
 
-18. i live at the waterfront in plymouth .
-   (ID: mass08)
+9. i found some good ones here : , but there is no d20 .
+   (ID: kro_celeborn)
 
-19. i live in dublin .
-   (ID: Nimmyzed)
+10. i gave a few dates that would be good for me .
+   (ID: Sugarpeas)
 
-20. i live in apartment building , and i have a window a / c unit .
-   (ID: Othello)
+11. i would recommend the chapter titles were so good
+   (ID: Froaxx)
+
+12. i do appreciate a good soundtrack and a good art style , so that sounds good !
+   (ID: KneelDeGrassTieSon)
+
+13. i ’m good on it til tomorrow night .
+   (ID: amandahm4916)
+
+14. i always start my valentines ads with “ good with children ”
+   (ID: Lifes6Midnight)
+
+15. i definitely was feeling intimidated by the numbers , so this is good to hear .
+   (ID: redraindropped)
+
+16. i found good homes for them :)
+   (ID: Megan_Bee)
+
+17. i prefer good good dildo good . hahahaahahahahahhahahaha
+   (ID: BoobieBoobieButtButt)
+
+18. i assume i have it on , but i should check that - good reminder
+   (ID: AgentElman)
+
+19. i 'd pay good money to have that image erased from my mind .
+   (ID: Ricketysyntax)
+
+20. i 'm not good at following directions .
+   (ID: Justakiss15)
 
 
 --- PER-CHAT ---
-Total from this dataset: 192
+Total from this dataset: 104
 
-1. I live in black woman.
-   (ID: fa749ff7262da656e34f21f4b902bd5287bf224d)
-
-2. it will probably be in potato quality if they let it live
-   (ID: bdbdc7c12fe37172b721ff3ae186b84ad646d582)
-
-3. if you live in a state where you can buy beer and wine at a gas station , or alcohol in private stores , you can always find a place to buy . even as a minor . i was served at digit , at an outback restaurant , with my parents there .
-   (ID: 30572ac5982532854b2ead41285ed9bbaba6d654)
-
-4. I live in shaq era.
-   (ID: 4654e3a9a75835f9ff28170ddf31d5d3cf296ea2)
-
-5. I live in high tax state total.
+1. that ' s good you seem to be pretty open and receptive to your players and it never hurts to throw a challenge at them they can ' t overcome just to show them they are mortal . good luck !
    (ID: ca6f75f7c2f9d1175fa6abae36369351bda1afb8)
 
-6. I live in with results.
-   (ID: 444659eb8690d0e651e1d4c99817e229ebb65a89)
+2. you  re the hero your gym needs . good on you .
+   (ID: 70b19763b4597d93e9d9e1e7dca07379fdb19dfa)
 
-7. I live in off of sandwiches.
-   (ID: d785eda10245445843c3355a0710d262b0d65bb9)
+3. sounds like a good plan . which pokemon are you playing ? is it any good ? how is it different from the last digit pokemon games ?
+   (ID: 93aef5ab9bcfb13e4085ecbd6b6948845a9ec03b)
 
-8. it ' s not ? since when ? where do you live ? every fast food restaurant i ' ve ever been to , you take your tray over to the bin , toss the trash , and leave the tray on top .
-   (ID: 8f7369c6ebb47df350fec663be46dfd8481ee2db)
+4. good job ! is today your birthday ?
+   (ID: 2ab410cb3dc233b072c65fa9acc3c6323d05914e)
 
-9. I live in part.
-   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+5. when anyone says  good morning  i always respond  not bad , yourself ?
+   (ID: 19a9190bb25fd002a6b979a3f72494c6523d8880)
 
-10. I live in grizzly.
-   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+6. it ' s still a good habit in bf1 .
+   (ID: ed8c4bb1975edb0f627baa6dac44e74cbc7237c6)
 
-11. what a great world we live in , where you can get assaulted just for turning someone down
-   (ID: a50471e2e88a582d7b78a3eee4aaf882ed0652cb)
+7. all good , manicstoner . so what about you ? you said you ' re having trouble answering the question ?
+   (ID: 7fdfc2063b89c8be6521566a61aeb5bf9497d47e)
 
-12. I live in off grid.
-   (ID: b315186ce8337ceb3b156267ade8222ced5499ef)
+8. yeah if the case cover is off i would suspect bad contact of the cooler to the cpu . with a good aftermarket cooler you shouldn  t be seeing temps like that .
+   (ID: e7516540d2045135f43a4a7c61f0bd88856c8ff4)
 
-13. I live in outside medium.
-   (ID: a98df1d16d4e1204ace7856449444a3afbb80743)
+9. put the good deathrattle minion in your deck i found the problem in the good word . there are no really good deathrattle minions right now .
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
 
-14. I live in off of carbs.
-   (ID: d298609ba6b9516031b9d0b9bc9217d85ce28f05)
+10. so win  win is what you  re saying . you  re a good friend .
+   (ID: 32de5e90f9b453daab13fd1b4cff20b995cc5120)
 
-15. I live in violent childhood.
-   (ID: 29942a78b7e39eb2e5795ee4999fbec533533cd5)
+11. if you haven  t filed it yet , i would recommend getting an attorney first . lottery might deny you claim but a good attorney would argue it  s their error and get you your money
+   (ID: 6362531e71cf0653b3119ebe05583f7bbc6fb178)
 
-16. I live in world.
-   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+12. too bad she ' s a lesbo . unless you ' re a girl . good for you
+   (ID: dd0e84182036131d3b7cbc9bcb07384502b3c1a8)
 
-17. I live in with fear.
-   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
+13. you only experienced that " good " because it ' s in reference to a previously experienced " bad " . the cycle will always repeat itself . bad things dont last either , keep pushing .
+   (ID: 230ce64c825c9de0874b588b6d715819e39e5610)
 
-18. I live in with scar.
-   (ID: ea1aba6f5a01e142602653a1b9987c70e3862a45)
+14. this isn ' t a good one . it ' s not a bhj at all
+   (ID: eeef74f05127fafe9b00ca3ad85ff51c0eb20fff)
 
-19. I live in f  pizza.
-   (ID: a76c6dcf1c50896c141e83f47bc82d2256c9265a)
+15. out of curiosity , what was it you didn ' t like about his lantern ? good job on the conversation .
+   (ID: e0b2bbb4356ddf39fcc470890c2e5a2473be34ff)
 
-20. I live in super american culture.
-   (ID: 8ea8e4a00c3f2a64096e00bdbba0247e580cdb17)
+16. yeah it  s not for everyone , i probably won  t have a money dance myself either , but there are some beautiful examples of money trees on pinterest . good luck , and congratulations !
+   (ID: 5b21cc135fb593212a5256d44f50dc5eda5d9947)
+
+17. we all have shit we ain ' t proud of , what good can come from telling her this ?
+   (ID: bc8c44b6bdc162869dcaaa34272a8b4784f44b9f)
+
+18. you should have no problem then . good luck and keep trying . you can go wrong with quantity .
+   (ID: 90492fed4b9d785ee43d655875f81a82e68a1263)
+
+19. who ? what ? why ?   . good luck with all that though .
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+
+20. good art . who  s the artist ?
+   (ID: 612395c0d3790091ab05d00f0975141c5b67397b)
 
 
 --- PersonaChat ---
-Total from this dataset: 14
+Total from this dataset: 2
 
-1. i own a mansion that i do not live in .
-   (ID: conversation_475)
+1. i'm very good at math and science .
+   (ID: conversation_122)
 
-2. i live in nashville .
-   (ID: conversation_117)
-
-3. i couldn t live without my cell phone .
-   (ID: conversation_49)
-
-4. i live in rural wisconsin .
-   (ID: conversation_15)
-
-5. i still live with my parents .
-   (ID: conversation_24)
-
-6. i live in the usa .
-   (ID: conversation_23)
-
-7. i live down the street from miley cyrus and pnb rock .
-   (ID: conversation_184)
-
-8. i like to live off of the land .
-   (ID: conversation_110)
-
-9. i am 49 , male and live in dublin , ireland .
-   (ID: conversation_526)
-
-10. i live on a boat .
-   (ID: conversation_14)
-
-11. i live on the third floor in an apartment .
-   (ID: conversation_17)
-
-12. i live in las vegas , nevada .
-   (ID: conversation_314)
-
-13. i live with my sisters and they provide me with all my needs .
-   (ID: conversation_336)
-
-14. i live alone .
-   (ID: conversation_18)
+2. i am lazy and pork tastes good .
+   (ID: conversation_137)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 6
+Total from this dataset: 1
 
-1. My parents live in kentucky.
-   (ID: conversation_310_user_2)
-
-2. I live on a beet farm.
-   (ID: conversation_55_user_2)
-
-3. My doctor told me i have six months to live.
-   (ID: conversation_252_user_2)
-
-4. I live close to the coast.
-   (ID: conversation_39_user_1)
-
-5. I live to not disappoint my loved ones.
-   (ID: conversation_8_user_1)
-
-6. I live a lie.
-   (ID: conversation_288_user_1)
+1. I am not a good artist.
+   (ID: conversation_205_user_2)
 
 
 ============================================================

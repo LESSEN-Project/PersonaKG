@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 15127
+
+Dataset distribution in this cluster:
+  FoCus: 421 (2.8%)
+  MPChat: 731 (4.8%)
+  MSC: 174 (1.2%)
+  PEC: 9548 (63.1%)
+  PER-CHAT: 4123 (27.3%)
+  PersonaChat: 49 (0.3%)
+  SyntheticPersonaChat: 81 (0.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 421
+
+1. I have visited Dreamland Margate amusement park.
+   (ID: PFYAAS1XG3D8_11)
+
+2. I have not visited a museum in a long time.
+   (ID: C7RS7BTZIF1Q_11)
+
+3. I would like to go to Bavaria.
+   (ID: YB6ZF4SJI3P1_11)
+
+4. I would like to visit the Brownsea Castle.
+   (ID: R9A1SC51GAMH_11)
+
+5. I'd like to visit a historic place.
+   (ID: MV4DPBGX0OB5_11)
+
+6. I would like to go to Texas.
+   (ID: Z8RPC24EURS4_7)
+
+7. I would like to see an active volcano.
+   (ID: LEW58VG9I78X_11)
+
+8. I would like to go to Africa.
+   (ID: CEBDDVDUY2MU_11)
+
+9. I'm recently reading a book about Alva Belmont.
+   (ID: DK9VMLV1IASM_11)
+
+10. I would like to attend a concert.
+   (ID: VV6OHC4AWH3L_11)
+
+11. I went to France on my vacation last year.
+   (ID: OVAVQ6KQ4YWN_11)
+
+12. I am going to stay in Ontario.
+   (ID: UXR4EKSRCULN_11)
+
+13. I want to visit Pennsylvania.
+   (ID: IBKUIXV3M06F_7)
+
+14. I believe courthouse judgments are fair.
+   (ID: OJ5U23I3FV0N_11)
+
+15. I have seen Tarn.
+   (ID: Q997WWV6FO9L_11)
+
+16. I want to go to Washington DC.
+   (ID: QFCC4W8VUHOO_11)
+
+17. I have never been the Botswana.
+   (ID: CEBDDVDUY2MU_11)
+
+18. I wish to build a monastery in Sinai Peninsula.
+   (ID: TF24QL7QZSG2_11)
+
+19. I wish to live in Germany forever.
+   (ID: EUD8WT84YX0Q_11)
+
+20. I like to stay in resort.
+   (ID: 931HBHO4JP2E_11)
+
+
+--- MPChat ---
+Total from this dataset: 731
+
+1. i underestimated how wide this throw blanket would be.
+   (ID: NervousToast)
+
+2. i'd love to hear your thoughts about him (c)
+   (ID: theringbeller)
+
+3. i may be blind now.
+   (ID: Sophie74656)
+
+4. my 'black pearl' peppers finally sprouted!
+   (ID: coffeehawaii)
+
+5. i just love him so much
+   (ID: kentobean123)
+
+6. first rosetta i've been happy with!
+   (ID: SilentRansom)
+
+7. i took the plunge!
+   (ID: XandXor)
+
+8. my get rid of the keurig now to build a badass coffee station.
+   (ID: Gothblessyou)
+
+9. i'm in love with this cabled cowl!
+   (ID: ddizzle23)
+
+10. i'm in love right now
+   (ID: FormalSwimming)
+
+11. luckily i made this for a coworker and not a customer...
+   (ID: rocketfin)
+
+12. i bought these spikes months ago, wasn't sure what for.
+   (ID: Nikyma)
+
+13. found this pretty little mutant in my mums
+   (ID: ddizzle23)
+
+14. vegan friends, what is this green veggie in my tamarind soup on the bottom left?
+   (ID: Chris55730)
+
+15. did some of my best thinking here in lake como, italy
+   (ID: chirp16)
+
+16. its ok... i wasnt planning on using that bag anyways :)
+   (ID: ddizzle23)
+
+17. found this in some of my papers from 3rd grade!
+   (ID: HobbitLass)
+
+18. well i hope it no longer looks like a nipple haha
+   (ID: Sophie74656)
+
+19. thought i would do a close up
+   (ID: FormalSwimming)
+
+20. my allergy clinic has black soap in their bathroom.
+   (ID: Chris55730)
+
+
+--- MSC ---
+Total from this dataset: 174
+
+1. I have never been out of the US either.
+   (ID: dialog_8_speaker_2)
+
+2. The bucks are the best team on earth.
+   (ID: dialog_8_speaker_2)
+
+3. I do not travel. I have never been out of the US.
+   (ID: dialog_8_speaker_1)
+
+4. I would rather work smarter not harder.
+   (ID: dialog_54_speaker_1)
+
+5. I watched The Walking Dead.
+   (ID: dialog_93_speaker_2)
+
+6. I'd love to visit Michigan.
+   (ID: dialog_80_speaker_1)
+
+7. I do research into mermaids. I think mermaids are real.
+   (ID: dialog_1_speaker_2)
+
+8. I like to ski. I want to ski in Europe.
+   (ID: dialog_33_speaker_1)
+
+9. I am a fan if the great white.
+   (ID: dialog_65_speaker_2)
+
+10. My best friend lives in Tokyo. I've never been outside the US.
+   (ID: dialog_89_speaker_1)
+
+11. I have never left the countryside.
+   (ID: dialog_42_speaker_2)
+
+12. I like the magic act where one can't talk.
+   (ID: dialog_90_speaker_1)
+
+13. I love phones made by apple they are worth the money.
+   (ID: dialog_8_speaker_1)
+
+14. I'm scared of heights. I don't ride horses.
+   (ID: dialog_66_speaker_1)
+
+15. I am afraid of heighs.
+   (ID: dialog_67_speaker_1)
+
+16. I am in a wheel chair.
+   (ID: dialog_32_speaker_2)
+
+17. My neighborhood can get loud late.
+   (ID: dialog_36_speaker_1)
+
+18. Las vegas was my stomping ground when I was young.
+   (ID: dialog_10_speaker_1)
+
+19. My best friend lives in Tokyo.
+   (ID: dialog_89_speaker_1)
+
+20. I want to launch the app before the holiday season.
+   (ID: dialog_79_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 9548
+
+1. i doubt - i think 270 or so .
+   (ID: Machinax)
+
+2. i do n't see why not .
+   (ID: FrankOfTheDank)
+
+3. i rolled a worgen and ca n't wait to change to a ne .
+   (ID: dohko_xar)
+
+4. i guess i missed the crappy ones !
+   (ID: ChoppingOnionsForYou)
+
+5. i added you on mfp and fitbit .
+   (ID: I_am_not_a_Taco)
+
+6. i just added two variation that might interest you
+   (ID: xcombelle)
+
+7. i will make sure the staff of /r / redditoroftheday are firmly beaten for making such a heinous mistake .
+   (ID: Ooer)
+
+8. i love it !
+   (ID: MoncoLovesYanno)
+
+9. i think you look pretty cool , though i am not cool , so take that with a pinch !
+   (ID: SeasonedLemur)
+
+10. i would stay in that hotel ... and never leave .
+   (ID: Chicoconut)
+
+11. i used to think that too .
+   (ID: RonaldFuckingPaul)
+
+12. i did n't have any issues with it , fit perfectly .
+   (ID: Chicoconut)
+
+13. i shall be making that suggestion this very evening .
+   (ID: teriaki)
+
+14. i do n't think it was ever fully written , but i 'm not sure .
+   (ID: bmeckel)
+
+15. i remember installing themes to my windows 95 to make it look like windows xp .. oh the nostalgia
+   (ID: dohko_xar)
+
+16. i hope you find it !
+   (ID: mooonjellies)
+
+17. i watched this movie a few weeks back .
+   (ID: Piraticalstyle)
+
+18. i lay a tissue over the top .
+   (ID: Justadropinthesea)
+
+19. i would love one !
+   (ID: JacksChocolateCake)
+
+20. i recommend eldewrito for pc users
+   (ID: freddlaren)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4123
+
+1. being able to see through water clearly , so when you stick your head in the ocean , you can see everything on the ocean floor and everything around you . you could find a lot of lost wallets that way , and also not be as spooked by sharks
+   (ID: 2069df24de0e78e4765ca507edb903ca074ac2d8)
+
+2. how does this even make sense !
+   (ID: 975493e3b4b2ad9cba1b98554159be45f8affdd3)
+
+3. i don ' t get it , i ' m pretty sure that is a plastic bag
+   (ID: eb701dce6e6a2a5da4a0d10410214d821dc525a2)
+
+4. thor digit because i really liked ragnarok and i  m interested to see where they take thor after well you know  and doctor strange digit because i loved the action in the first one and am interested in how the build upon it . which is not to say i  m not interested in everything else , because i am !
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+5. no , i wouldn ' t accept that , i ' m the type of person that streams their porn , not download unless i got some friends to get the same deal . i ' d invite them over so we can game over lan .
+   (ID: 5173a1d5475490650d7365b2c2b2f2c579d33099)
+
+6. exactly my thoughts , regardless of whether you believe in god or not , this stands to be true .
+   (ID: 8a0d7d262d95d9c10d914ff3b70f342e066aee23)
+
+7. aww that ' s not lame . i looked at aerogardens at one point but i live in a small apartment . how ' s your husband doing ? is he still mysteriously ill ?
+   (ID: abbe051c76bbb939d8594349cac549cb5435920d)
+
+8. right ? i was so glad they played maud gone at that show , though i preferred their version at shaky knees the most . what did you think of the new stuff ?
+   (ID: 248dfc064467a4d774ed5853571f5757bace1bf3)
+
+9. may i ask what exactly do you believe in so i can procces how different it is from my speculations or any other of religious people . what exactly do you believe or care to believe as an agnostic atheist ?
+   (ID: 10d0b3cd3f9e3f2b4c3fd6c4c8bae3ba7917a344)
+
+10. no it ' s better for pc players not for the entire market . stop crying where was all the crying with all the ps4 exclusives ? only seems like this games gets cried over don ' t pretend to be some beacon for the industry when you ' re just a child throwing a tantrum .
+   (ID: e82ed26542949c55066d4b6510733c7a5f847704)
+
+11. robinhood , to start with at least , commission free trades .
+   (ID: 555e0a759f14862796f4bd93bf9906c2cd011ab7)
+
+12. moreover , why the hell should he treat her any differently from anyone else in his day  to  day ? she is just a person who happens to have had a famous father .
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+13. i can  t explain why i like it , but i love it !
+   (ID: 64cd7a2c07766ef2725fa67e6025759ae1f56c2b)
+
+14. when i do post it this weekend do i need to tag it something special ?
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+15. they wouldn  t pay you that much if what you  re doing isn  t more valuable than what they  re paying you
+   (ID: ad24fe51d61dbe3cddd863ba9cb6adae61265a06)
+
+16. by the rules of the internet he must commit seppuku when the next big social networking site takes over . why do you think we haven ' t heard from myspace tom in such a long time
+   (ID: 7c3eb339580d281fcb54cb04dbb55f6921fceec5)
+
+17. it  s doing exactly what it  s supposed to . wear you out
+   (ID: 198c7cf8170708799eec80da464639ba2be896b4)
+
+18. they give me a reality better than my own . i get to feel like i matter . or like i ' m a badass . or hell , just plain feeling relaxed . it ' s just something for you to look at like hey , life can suck , but at least i ' m a hero to hyrule .
+   (ID: 590fa4d9757be797407857020a0aa2aa0f4ad290)
+
+19. george washington ' s horse allegedly drank water here .
+   (ID: 0254dc2f43007419c5c3fd1e155e6bf15fce137d)
+
+20. juliananalu   i am a bot that helps link to subreddits . please downvote me if i ' ve linked the wrong subreddit .
+   (ID: 63a01bcbc0844858aae3db187005728f6c6af2cb)
+
+
+--- PersonaChat ---
+Total from this dataset: 49
+
+1. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+2. i like cartoons more than movies .
+   (ID: conversation_102)
+
+3. playing quake on slackware linux makes me happy .
+   (ID: conversation_211)
+
+4. i have never traveled outside of the united states .
+   (ID: conversation_170)
+
+5. i want to move .
+   (ID: conversation_147)
+
+6. i like to live off of the land .
+   (ID: conversation_110)
+
+7. it is my universe , and everyone else is just a character in it .
+   (ID: conversation_106)
+
+8. i'm stuck in a wheel chair .
+   (ID: conversation_32)
+
+9. i joined a new team last month .
+   (ID: conversation_62)
+
+10. i need certain medications to live .
+   (ID: conversation_171)
+
+11. i just bought new hoop earrings .
+   (ID: conversation_218)
+
+12. i trust in god .
+   (ID: conversation_130)
+
+13. i have played since i was 4 years old .
+   (ID: conversation_45)
+
+14. i have a boyfriend who lives in italy .
+   (ID: conversation_150)
+
+15. i just moved into an apartment within the vicinity of my new job .
+   (ID: conversation_216)
+
+16. i am looking forward to reading the latest political thriller .
+   (ID: conversation_220)
+
+17. i went to new york city once .
+   (ID: conversation_133)
+
+18. i'm going on a cruise next month .
+   (ID: conversation_46)
+
+19. my dream is to move to the middle of the desert .
+   (ID: conversation_92)
+
+20. i went to new york city once .
+   (ID: conversation_238)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 81
+
+1. I prefer iphone over samsung.
+   (ID: conversation_66_user_1)
+
+2. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+3. I want to visit the uk.
+   (ID: conversation_201_user_2)
+
+4. I just bought new hoop earrings.
+   (ID: conversation_166_user_2)
+
+5. I just bought new hoop earrings.
+   (ID: conversation_52_user_2)
+
+6. I love her though.
+   (ID: conversation_162_user_2)
+
+7. I want to travel the world taking photographs of my travels.
+   (ID: conversation_226_user_1)
+
+8. I own five pairs of the same pants.
+   (ID: conversation_167_user_2)
+
+9. My dream is to move to the middle of the desert.
+   (ID: conversation_82_user_2)
+
+10. My friend likes cartoons like south park.
+   (ID: conversation_224_user_2)
+
+11. I am too short to reach the top shelf.
+   (ID: conversation_231_user_2)
+
+12. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+13. I hate to lose.
+   (ID: conversation_64_user_2)
+
+14. I prefer the simpler times.
+   (ID: conversation_224_user_2)
+
+15. I wish that i lived in the city.
+   (ID: conversation_90_user_2)
+
+16. I believe in ghosts and have seen them on several occasions.
+   (ID: conversation_212_user_2)
+
+17. Like a skeleton.
+   (ID: conversation_29_user_1)
+
+18. I trust in god.
+   (ID: conversation_109_user_1)
+
+19. Playing quake on slackware linux makes me happy.
+   (ID: conversation_122_user_2)
+
+20. I have the gene that lets me know when someones eaten asparagus.
+   (ID: conversation_231_user_2)
+
+
+============================================================

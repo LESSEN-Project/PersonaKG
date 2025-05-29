@@ -1,0 +1,128 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 1172
+
+Dataset distribution in this cluster:
+  MSC: 3 (0.3%)
+  PER-CHAT: 1160 (99.0%)
+  PersonaChat: 1 (0.1%)
+  SyntheticPersonaChat: 8 (0.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I'm female.
+   (ID: dialog_108_speaker_1)
+
+2. I am a female.
+   (ID: dialog_108_speaker_1)
+
+3. I'm a male.
+   (ID: dialog_42_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1160
+
+1. I am a male.
+   (ID: fddeeaa11799939dfe96bc7fae74a22b474aaf20)
+
+2. I am a male.
+   (ID: b7507045470edf901fe3b39ecbb382c66ea3405a)
+
+3. I am a male.
+   (ID: 390a1aaf064a34c57ef69579a32d85ce7df95253)
+
+4. I am a female.
+   (ID: 0ddaeffad510fe540496c0e0b97a1a85b13282eb)
+
+5. I am a male.
+   (ID: e57ef54aa6b4e23fcfbf5b034403be21a86f9700)
+
+6. I am a female.
+   (ID: d23bd8fb57b99544637110d5b376dba68b3e2d0f)
+
+7. I am a male.
+   (ID: 9e1be6964f5835f58b6cdaac71f8b557f0b4a42f)
+
+8. I am a female.
+   (ID: de5db66359e6314e9bac24fd9a10ec1d49584c4f)
+
+9. I am a male.
+   (ID: e82ed26542949c55066d4b6510733c7a5f847704)
+
+10. I am a male.
+   (ID: a5976f282a96c036f5e4d14957305323c9a5776d)
+
+11. I am a male.
+   (ID: c418fa452eafbca022ce1c49b521d4574aa77cd1)
+
+12. I am a male.
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+13. I am a male.
+   (ID: 3e906e06d59fb5c2993270f0b4efed5b9ab122f7)
+
+14. I am a male.
+   (ID: 2e34fbd58bc49726f7e8c74b8ea82513ca226ab4)
+
+15. I am a male.
+   (ID: ad911088c8434d08c7a96c969a57a09b00f02e99)
+
+16. I am a male.
+   (ID: a1ba9b657b043ce2934cc0ae7b42c0a0bf3ba2fa)
+
+17. I am a male.
+   (ID: fb5e95e954b3ee83c39276138f0fa3b854970db4)
+
+18. I am a male.
+   (ID: ba6d1d2cee95e9f30e06dc1584d5fa02e62221e8)
+
+19. I am a male.
+   (ID: e74c4268e9e1c5f9cadf933981b55c5a5aa0d1f2)
+
+20. I am a male.
+   (ID: f3657f57aa348caf1c32ec21ef139ea41a45dc29)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'm a female .
+   (ID: conversation_121)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I am male.
+   (ID: conversation_9_user_1)
+
+2. I am male.
+   (ID: conversation_11_user_1)
+
+3. I am male.
+   (ID: conversation_8_user_1)
+
+4. I am male.
+   (ID: conversation_7_user_1)
+
+5. I am male.
+   (ID: conversation_10_user_1)
+
+6. I am male.
+   (ID: conversation_6_user_1)
+
+7. I am male.
+   (ID: conversation_274_user_2)
+
+8. I am male.
+   (ID: conversation_5_user_1)
+
+
+============================================================

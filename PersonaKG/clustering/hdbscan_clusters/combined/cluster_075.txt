@@ -1,169 +1,237 @@
 CLUSTER 75
 ============================================================
-Total statements in cluster: 143
-Cluster persistence (stability): 0.700
+Total statements in cluster: 122
+Cluster persistence (stability): 0.769
 
 Dataset distribution in this cluster:
-  MPChat: 6 (4.2%)
-  MSC: 1 (0.7%)
-  PEC: 121 (84.6%)
-  PER-CHAT: 13 (9.1%)
-  PersonaChat: 1 (0.7%)
-  SyntheticPersonaChat: 1 (0.7%)
+  FoCus: 1 (0.8%)
+  MPChat: 4 (3.3%)
+  MSC: 7 (5.7%)
+  PEC: 72 (59.0%)
+  PER-CHAT: 27 (22.1%)
+  PersonaChat: 8 (6.6%)
+  SyntheticPersonaChat: 3 (2.5%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 1
+
+1. I have a lot of respect for St. Demetrius.
+   (ID: V0DLNYLN813E_11)
+
+
 --- MPChat ---
-Total from this dataset: 6
+Total from this dataset: 4
 
-1. my sister wanted potholders after she saw what i made for my mum.
-   (ID: spinni81)
+1. i had a lot of fun with the roots!
+   (ID: lolveets)
 
-2. this unit i saw at lfs today.
-   (ID: lizdavis17)
+2. i made a lot of cakes in 2016, here are some of my favourites.
+   (ID: zenbuffy)
 
-3. couldn’t help myself when i saw the picture on aww labeled “i named him hamburger”
-   (ID: switchbladesally)
+3. i heart you guys a lot
+   (ID: jlb4est)
 
-4. i saw that reddit likes stuff that has been laser cut
-   (ID: ItsBail)
-
-5. (inspired by something i saw on tumblr.)
-   (ID: hottiecakes)
-
-6. i saw this goat at a fair, he had such a sweet face!
-   (ID: TenuredHickory)
+4. my apple tree is drooping a lot - is this the result of improper pruning?
+   (ID: opie2)
 
 
 --- MSC ---
-Total from this dataset: 1
+Total from this dataset: 7
 
-1. I was on a rower and saw many places.
-   (ID: dialog_60_speaker_2)
+1. I travel a lot
+   (ID: dialog_9_speaker_2)
+
+2. I possess a lot of patience.
+   (ID: dialog_55_speaker_2)
+
+3. I have lived in a lot of different places.
+   (ID: dialog_102_speaker_2)
+
+4. I am a pre-law student. I study a lot.
+   (ID: dialog_43_speaker_2)
+
+5. I wear a lot of hats.
+   (ID: dialog_222_speaker_2)
+
+6. I am a writer for a music website. I write a lot on Fall Out Boy.
+   (ID: dialog_220_speaker_2)
+
+7. My father has a lot of knowledge about household repair.
+   (ID: dialog_86_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 121
+Total from this dataset: 72
 
-1. i was in awe of that beard when i saw it .
-   (ID: CheapyPipe)
+1. i have a lot more sympathy for her then than for this guy .
+   (ID: windowcircle)
 
-2. i saw it and i pooped normally .
-   (ID: serverpilot)
+2. i have been avoiding that a lot lately .
+   (ID: Calvin_)
 
-3. i saw a musculoskeletal doctor today who told me that it ’s definitely not musculoskeletal .
-   (ID: FruitBatFanatic)
+3. i imagine that a lot of them have to walk on eggshells around religious parents as well .
+   (ID: Hypersapien)
 
-4. i saw this photo frame in my local garden centre today ...
-   (ID: IAMACiderDrinker)
+4. i am using mailhog a lot and it has never let me down .
+   (ID: bestform)
 
-5. i saw em first !
-   (ID: WillemDafoesAlterEgo)
+5. i am also a lot less picky .
+   (ID: aydinsevimli)
 
-6. i saw it for sale today at the mfah gift store .
-   (ID: LooksAtClouds)
+6. i 'm kidding , a lot of science is based on feelings .
+   (ID: smash_pass)
 
-7. i was soooo rooting for him until i saw what a complete ass he makes of himself
+7. i enjoy his content a lot .
+   (ID: therealmannequin)
+
+8. i saw a fusion energi on our lot yesterday .
+   (ID: BoonTobias)
+
+9. i cried a lot working in the food industry
+   (ID: iam1r7)
+
+10. i must have a lot of doppelgängers .
+   (ID: garlicbreadismyboyf)
+
+11. i wanted to be an archaeologist then i realized they have to camp a lot .
+   (ID: notjawn)
+
+12. i dunno i expect there to be a lot of roaring 20s themed parties and shit in the 2020s
+   (ID: BoobieBoobieButtButt)
+
+13. i dig your ideas a lot man !
+   (ID: JimmyMcShiv)
+
+14. i stroked it a lot .
+   (ID: Bananafoofoofwee)
+
+15. i was selling meth in the parking lot , and not shit triplets with a tired father walked in .
+   (ID: Lifes6Midnight)
+
+16. i am stuck at home a lot !
+   (ID: gofiguree)
+
+17. i was alone when i fell in a hole in the parking lot .
+   (ID: chirpyboyandbartjr)
+
+18. i see it posted a lot and i ’m super curious !
    (ID: jennbunny08)
 
-8. i saw and usedvit .
-   (ID: hoveringlurker)
+19. i have been pvping in the burg tonight , , and i have been noticing a lot of cosplays .
+   (ID: worried_panda)
 
-9. i saw this guy by santa monica a few days ago .
-   (ID: ranieve)
-
-10. i saw a link to someone 's collection of over 900 polishes ...
-   (ID: xxlittlemissxx)
-
-11. i saw it marching in last months pride parade
-   (ID: msiekkinen)
-
-12. i saw the same documentary ...
-   (ID: mulletprooftiger)
-
-13. i saw my first white bellied nuthatch last fall .
-   (ID: Waterrat)
-
-14. i saw them at my grocery last week .
-   (ID: LooksAtClouds)
-
-15. i saw a thread a few days ago about how every match on the card was foreigners vs. americans .
-   (ID: LabeledAsALunatic)
-
-16. i saw roxanna at the hardware store on monday
-   (ID: bleepblorp9878)
-
-17. i saw a discovery channel special on it .
-   (ID: jmontoya5280)
-
-18. i gave up after i saw 4 wannabe lounge lizards slaughter ' light my fire ' .
-   (ID: kiki73)
-
-19. i saw some samples at one point of a simplified version .
-   (ID: CheapyPipe)
-
-20. i saw so many of these in the pawn shop where i worked .
-   (ID: USAFIDMT)
+20. i wanna do both , but 1500 times is a fucking lot .
+   (ID: chasemyers)
 
 
 --- PER-CHAT ---
-Total from this dataset: 13
+Total from this dataset: 27
 
-1. the wailing is worth checking out and so is a tale of two sisters . i would add  i saw the murderer  to the list .
-   (ID: bcdf27afc4458eff850310d64f595278a31271be)
+1. this would be a lot funnier if you were alive
+   (ID: e129c266eeb21d4eb629324bbd10e7247660660b)
 
-2. me you saw me on thursday considering i made this yesterday ? must have been someone else lol
-   (ID: bd7f5a5bcb0de9e8d414438eda5b70cdd80229e2)
+2. i think watching diy videos would help a lot . they will help a lot
+   (ID: 4a904b3db5017f5069f27886874bdeee777d5c06)
 
-3. bird saw that coming a mile away .
-   (ID: 5478a2ef678a7e392c66d8d23bf16821b01c19ad)
+3. i see those mousepads a lot in competitive fps , what is it ?
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
 
-4. ayy same here . i also saw your into board games . wanna pm ?
-   (ID: 87de5f35fc22eee61d5604731c56538f7cb7341e)
+4. my two hated words are  character  as in the house has a lot of character .  and facebook . because fuck facebook .
+   (ID: 70b19763b4597d93e9d9e1e7dca07379fdb19dfa)
 
-5. dove into the bushes when i saw my high school volleyball team approaching . also hid under the table in a separate incident . social anxiety is a bitch .
-   (ID: 903829fb4aefc18f9ba3e0dc7d2f3267adf2bcc8)
+5. i dropped the spirit stick . automatic , straight ticket to hades . allright hell , you talk a lot . let ' s see what you ' re made of .
+   (ID: d8333858181db719e67785c4ac2aa01282861e93)
 
-6. my daughter saw two , i ' d didn ' t see any . lack of effort on my part .
-   (ID: 58245e8d537b9e7b6d76cc6a9919ea776e4ef6f0)
+6. a lot of americans
+   (ID: 0ee053db27d57ee2347f7cad65eabf774a189b30)
 
-7. but he specifically assured us during the primaries that there was nothing wrong with his penis . how could dick pics possibly have saw over him ?
-   (ID: 4ef88292bcb63ee32b3f587610b610322cea098e)
+7. probably gonna be a lot of downvoted stuff .
+   (ID: 39ad1ed2bdf42527fd153f3d4be927df170fc195)
 
-8. i saw some stuff in your yard , are you gonna give it to us ?
-   (ID: 3a16ba639560d155caf77e9cfc21f6a1df031d4f)
+8. awesome . thank you so much ! your help has put a lot of my concerns to rest
+   (ID: b2c623940e1acb4e269cab1c8f1920e03da9e429)
 
-9. congratulations on your terrible horrible pathetic joke you should be happy no one saw this but me .
-   (ID: 3e906e06d59fb5c2993270f0b4efed5b9ab122f7)
+9. i asked what ' s the worst part . as in there ' s a lot of bad parts .
+   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
 
-10. if she only saw through the eyes of a kid
-   (ID: acb6dce60de1d2da277851a5cbd8f56a32de0cd5)
+10. hey man , i owe you a lot . thanks for everything . we ' re defenitely grabbing some doner together when i come over , my treat .
+   (ID: 7ba2f45f62c701a508f1895df828d4da2f3f446d)
 
-11. i saw what we do to each other when at war
-   (ID: c863a7172df41853f354be7adff4b3f9a0cb9736)
+11. i always wanted to get in trouble a lot in class but i am scared daddy will pound me again with the belt
+   (ID: 5a3e8e88d49f860e3900fd4cf09d0d9843420639)
 
-12. yeah . i saw that . let ' s see what they do about it .
-   (ID: b672d3088130c76c4609eeae6479f61514f7aa1c)
+12. yes . there are a lot of us over in childfree .
+   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
 
-13. at first i saw nothing and was confused . then i saw robin williams and was blown away . amaze .
-   (ID: 634dae5dcf04e8e8d5bfd5e71c1fa8ec9713f222)
+13. there  s a voice in my head saying there  s a lot of girls i haven  t met yet and maybe i  m still to meet the hollywood version of the one she thinks i  m the one and i  m so fucking not . it is a shitty situation
+   (ID: 467dbed573790a54a921a28f66e0e68f81106906)
+
+14. other is a lot of , well , other . it  s a bunch of cached crap . backing up a resetting might do the trick
+   (ID: 0f6c6c4bd3531c7f028b4bf901123522dd67c300)
+
+15. " transforming into a reditt user with a lot of karma " naaaah . not today
+   (ID: cf9499cf39c709d05b079c89f8989b25949c9a13)
+
+16. there would be a lot more peeping tom ' s in the world
+   (ID: ce0130e0736ec79181ef08a51b107514a8021d5c)
+
+17. i was once the other man . she was a lot more married rhan she claimed . she told me that she couldn ' t stand his touch , that he was an abusive drunk and cheating on her . all lies . she was the problem .
+   (ID: 6b941223c20a9903b9878d0454cc676e8d7db91b)
+
+18. i was irritating my mom a lot . i can ' t forget that .
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
+
+19. the game has a lot of counters nobushi counters a lot of heroes cus of her hidden stance ! highlander is one of them
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+20. yes , you are paying her wage in the form of a tip out . it is common practice in many restaurants . especially now with minimum wage increases in a lot of areas . it is legal .
+   (ID: 30572ac5982532854b2ead41285ed9bbaba6d654)
 
 
 --- PersonaChat ---
-Total from this dataset: 1
+Total from this dataset: 8
 
-1. i once saw the easter bunny hiding behind my closet door .
-   (ID: conversation_221)
+1. i watch a lot of tv .
+   (ID: conversation_18)
+
+2. i watch a lot of spongebob .
+   (ID: conversation_417)
+
+3. i help them win a lot of money .
+   (ID: conversation_201)
+
+4. i also meditate a lot .
+   (ID: conversation_267)
+
+5. i drink a lot of apple martinis when i get a girls night out .
+   (ID: conversation_75)
+
+6. i have been in a lot of romantic relationships that have ended up poorly .
+   (ID: conversation_131)
+
+7. i wear a lot of leather .
+   (ID: conversation_187)
+
+8. i do not have a lot of friends .
+   (ID: conversation_32)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 1
+Total from this dataset: 3
 
-1. I once saw peyton manning at the grocery store.
-   (ID: conversation_368_user_2)
+1. I whine a lot.
+   (ID: conversation_565_user_1)
+
+2. I talk a lot in irc.
+   (ID: conversation_283_user_1)
+
+3. I have a lot of trophies from my childhood.
+   (ID: conversation_175_user_2)
 
 
 ============================================================

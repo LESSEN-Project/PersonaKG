@@ -1,0 +1,368 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 1443
+
+Dataset distribution in this cluster:
+  FoCus: 3 (0.2%)
+  MPChat: 4 (0.3%)
+  MSC: 124 (8.6%)
+  PEC: 60 (4.2%)
+  PER-CHAT: 995 (69.0%)
+  PersonaChat: 96 (6.7%)
+  SyntheticPersonaChat: 161 (11.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I have several family members who suffered an accident.
+   (ID: 9KDV6LSLWNAX_11)
+
+2. I have kids.
+   (ID: UXR4EKSRCULN_11)
+
+3. I hope to marry a lady from Canada.
+   (ID: G4JZMW0OPV0G_11)
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. i have the best hubby
+   (ID: FormalSwimming)
+
+2. my hubby is the best
+   (ID: FormalSwimming)
+
+3. i’m gonna be an auntie and i cannot wait
+   (ID: smsikking)
+
+4. my hubby makes me so happy
+   (ID: FormalSwimming)
+
+
+--- MSC ---
+Total from this dataset: 124
+
+1. I have children.
+   (ID: dialog_82_speaker_2)
+
+2. I am married.
+   (ID: dialog_16_speaker_1)
+
+3. I have kids.
+   (ID: dialog_82_speaker_2)
+
+4. I have two kids. I have a husband. I am a full-time parent
+   (ID: dialog_65_speaker_1)
+
+5. I've a family.
+   (ID: dialog_44_speaker_2)
+
+6. I have sons.
+   (ID: dialog_9_speaker_2)
+
+7. I live with my parents
+   (ID: dialog_66_speaker_2)
+
+8. I don't know my family.
+   (ID: dialog_68_speaker_1)
+
+9. My mother is my best friend.
+   (ID: dialog_1_speaker_2)
+
+10. I live with my parents.
+   (ID: dialog_77_speaker_1)
+
+11. My sister has lots of kids.
+   (ID: dialog_7_speaker_1)
+
+12. I had open heart surgery close to my home.
+   (ID: dialog_64_speaker_2)
+
+13. My significant other is my best friend.
+   (ID: dialog_81_speaker_2)
+
+14. I am going out with my manager.
+   (ID: dialog_37_speaker_1)
+
+15. I'm single.
+   (ID: dialog_89_speaker_1)
+
+16. I'm a teen that lives with all my family.
+   (ID: dialog_67_speaker_1)
+
+17. I live on a private island where things can take a bit to be delivered.
+   (ID: dialog_69_speaker_2)
+
+18. I have a wife and two kids.I have a daughter.
+   (ID: dialog_44_speaker_2)
+
+19. My mother is the closest person to me.
+   (ID: dialog_1_speaker_2)
+
+20. I live with my brother
+   (ID: dialog_46_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 60
+
+1. i 'm sure it takes a lot of pressures off of your relationship .
+   (ID: napalmkitten)
+
+2. i just talked to my dad on the phone .
+   (ID: kitcatpaints)
+
+3. i 'd so be down for a semi - formal .
+   (ID: Machinax)
+
+4. i ca n't leave the house because no one wants to help look after her .
+   (ID: _gansmadchen)
+
+5. i use my garage as a fridge in winter .
+   (ID: silentpower)
+
+6. i wish i could truly say this for my wife .
+   (ID: conservative_poly)
+
+7. i 'm sure your grandma is a wonderful woman .
+   (ID: Nolanoscopy)
+
+8. i needed someone like your dad my first time out .
+   (ID: redraindropped)
+
+9. i know this family .
+   (ID: BlueSuedeBag)
+
+10. i 'm getting a lawyer .
+   (ID: smash_pass)
+
+11. i want to be like your brother .
+   (ID: Takumi-Fujiwara)
+
+12. i 'm almost 60 now , but i still miss my grannies .
+   (ID: Sabiola)
+
+13. i so look up to my parents that even in divorce how wonderful they are to each other .
+   (ID: samward7)
+
+14. i feel the same with my boyfriend , he is my home
+   (ID: iam1r7)
+
+15. i ’m a mom also !
+   (ID: latestartksmama)
+
+16. i love fi , you spend time alone with her all the time .
+   (ID: ItGetsAwkward)
+
+17. i mean it 's sweet , but i hope my husband is n't saying this stuff to single women .
+   (ID: Nobody-Likes-Change)
+
+18. i am a birth mother reunited with my son .
+   (ID: onederful2018)
+
+19. i am a woman , a mom ..
+   (ID: exotics)
+
+20. i 've got my own father .
+   (ID: RonaldFuckingPaul)
+
+
+--- PER-CHAT ---
+Total from this dataset: 995
+
+1. I have a girlfriend.
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+2. I have a sisters in my family.
+   (ID: 213f629dfbc5d6e1a065cffce0f81b825e4467de)
+
+3. I have a mother in my family.
+   (ID: ef4c0dfc1d427eae02f9c3d660c4d80a470020e2)
+
+4. I have a mother in my family.
+   (ID: 5bb6e2d4db1d5ccf3a1f430564735551dfb4c28b)
+
+5. I have a father in my family.
+   (ID: 18e18998471794de2ee0ded08a5f57a45a336e24)
+
+6. I have a sister in my family.
+   (ID: 7a3a98777bf2cebb6bd14409075a19b82035e535)
+
+7. I own a kid.
+   (ID: 02cf76dae1fda8da1d2e5bbbaeb0da5a77cb6e3e)
+
+8. I have a mother in my family.
+   (ID: 85ac769b0cb349e567cb91e8109645bd1ac28b9f)
+
+9. I own a sibling.
+   (ID: a61db1f2f0a3d15376fd168a1637c028f25100e1)
+
+10. I have a mother in my family.
+   (ID: a283688fea41e1110e58705ec74d4e325e46d87e)
+
+11. I have a father in my family.
+   (ID: 1e92f1e007a1c147f8200d50f473d5433028bffc)
+
+12. I have a father in my family.
+   (ID: 2e2a44cdfc726423ec202a2fe420543af441d1ad)
+
+13. I own a homies.
+   (ID: d72952657a3571deff985040e565d95d8206db60)
+
+14. I have a father in my family.
+   (ID: 7a3a98777bf2cebb6bd14409075a19b82035e535)
+
+15. I have a father in my family.
+   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+
+16. I have a father in my family.
+   (ID: 870d9d198f856764296262192823c935f1daf781)
+
+17. I have a mother in my family.
+   (ID: 7026695d5469f9ac5987bd602ce0be29968523db)
+
+18. I have a girlfriend.
+   (ID: dc000fb877b86a0bbd3d65fe6040b512b4f5b042)
+
+19. I have a mother in my family.
+   (ID: 23df46bdba3eb265d08b02c9ec5f365cf45ae5fd)
+
+20. I have a daughter in my family.
+   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
+
+
+--- PersonaChat ---
+Total from this dataset: 96
+
+1. i am an orphan who was in the foster care system .
+   (ID: conversation_153)
+
+2. i do the shopping in my house .
+   (ID: conversation_137)
+
+3. i'm currently single but i'm ready to mingle .
+   (ID: conversation_139)
+
+4. i never knew my dad .
+   (ID: conversation_90)
+
+5. i have two children .
+   (ID: conversation_19)
+
+6. i live alone .
+   (ID: conversation_33)
+
+7. i'm currently a stay at home mom while my husband is the sole provider .
+   (ID: conversation_173)
+
+8. my mom is my best friend .
+   (ID: conversation_49)
+
+9. i'm married to a man .
+   (ID: conversation_152)
+
+10. i have several children .
+   (ID: conversation_233)
+
+11. we help each other out in my family .
+   (ID: conversation_229)
+
+12. i've been married for 20 years .
+   (ID: conversation_145)
+
+13. i have 4 daughters .
+   (ID: conversation_124)
+
+14. my father is in prison .
+   (ID: conversation_146)
+
+15. in reality i m 32 and live at home with my mother .
+   (ID: conversation_175)
+
+16. i love my girlfriend .
+   (ID: conversation_81)
+
+17. i'm the youngest of 4 children .
+   (ID: conversation_157)
+
+18. i live with a roommate .
+   (ID: conversation_198)
+
+19. i'm adopted .
+   (ID: conversation_190)
+
+20. i got married last year .
+   (ID: conversation_228)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 161
+
+1. My mother looks after my grandmother.
+   (ID: conversation_211_user_2)
+
+2. I have an 18 year old son.
+   (ID: conversation_220_user_1)
+
+3. I ve two siblings.
+   (ID: conversation_71_user_1)
+
+4. I am married.
+   (ID: conversation_247_user_1)
+
+5. I am a stay at home mom.
+   (ID: conversation_65_user_1)
+
+6. My mother looks after my grandmother.
+   (ID: conversation_41_user_2)
+
+7. I have 2 sisters.
+   (ID: conversation_177_user_1)
+
+8. I have been married 3 times.
+   (ID: conversation_164_user_2)
+
+9. I coexist well with my husband.
+   (ID: conversation_127_user_2)
+
+10. I am a widow.
+   (ID: conversation_223_user_1)
+
+11. I am married.
+   (ID: conversation_248_user_1)
+
+12. My parents are divorced.
+   (ID: conversation_29_user_2)
+
+13. I am a stay at home mom.
+   (ID: conversation_246_user_2)
+
+14. I still live at home with my parents.
+   (ID: conversation_2_user_1)
+
+15. I am married.
+   (ID: conversation_236_user_1)
+
+16. I have 4 daughters.
+   (ID: conversation_159_user_2)
+
+17. I grew up as an orphan.
+   (ID: conversation_66_user_2)
+
+18. I talk to my mom on the phone every day.
+   (ID: conversation_103_user_1)
+
+19. My parents live across the street from me.
+   (ID: conversation_96_user_2)
+
+20. My mother has 500 pairs of shoes.
+   (ID: conversation_126_user_2)
+
+
+============================================================

@@ -1,0 +1,271 @@
+CLUSTER 27
+============================================================
+Total statements in cluster: 764
+
+Dataset distribution in this cluster:
+  MSC: 18 (2.4%)
+  PEC: 3 (0.4%)
+  PER-CHAT: 701 (91.8%)
+  PersonaChat: 25 (3.3%)
+  SyntheticPersonaChat: 17 (2.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 18
+
+1. My mom is my best friends.
+   (ID: dialog_14_speaker_1)
+
+2. My mom is a lesbian.
+   (ID: dialog_110_speaker_1)
+
+3. I've a female child.
+   (ID: dialog_129_speaker_2)
+
+4. I have 4 sisters.
+   (ID: dialog_1_speaker_2)
+
+5. My mom is my good friend.
+   (ID: dialog_14_speaker_2)
+
+6. I have four sisters.
+   (ID: dialog_14_speaker_1)
+
+7. My mom takes care of my grandma.
+   (ID: dialog_62_speaker_1)
+
+8. My mother is my best friend.
+   (ID: dialog_1_speaker_2)
+
+9. I don't know my real mother.
+   (ID: dialog_180_speaker_2)
+
+10. My sister has lots of kids.
+   (ID: dialog_7_speaker_1)
+
+11. My mother is in law.
+   (ID: dialog_81_speaker_1)
+
+12. My sister has children.
+   (ID: dialog_99_speaker_2)
+
+13. I have a girl.
+   (ID: dialog_85_speaker_2)
+
+14. I have a sister.
+   (ID: dialog_178_speaker_1)
+
+15. I have a female child.
+   (ID: dialog_162_speaker_1)
+
+16. My mom helped me with my children.
+   (ID: dialog_98_speaker_1)
+
+17. I have four daughters.
+   (ID: dialog_124_speaker_2)
+
+18. I have 2 mothers
+   (ID: dialog_37_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i love my mom .
+   (ID: chasemyers)
+
+2. i do n’t actually know her mom � � ‍ ♀ ️
+   (ID: Sarahthelizard)
+
+3. i hope you have her genes .
+   (ID: Justadropinthesea)
+
+
+--- PER-CHAT ---
+Total from this dataset: 701
+
+1. I have a mother in my family.
+   (ID: 1aa2a9bdfead7897363f32a7bc9e416ca9098b9f)
+
+2. I have a sister in my family.
+   (ID: 88c35221745da41b29ff5b9f921026de5ccbb6c0)
+
+3. I have a mother in my family.
+   (ID: 6b04f3448a053338b902c242d1883da1e90dc7bb)
+
+4. I have a mother in my family.
+   (ID: 841a375b464a5650f1c027d1c7ae73415228c6ab)
+
+5. I have a mother in my family.
+   (ID: 49da7f507a8170f4c701a5006dfb956700a67bfc)
+
+6. I have a mother in my family.
+   (ID: f8f6a1dd8b47dc3239c55ec87aa3bbd108a04a43)
+
+7. I have a mother in my family.
+   (ID: f024c8cde5b36a880df271cca31792d32264df2c)
+
+8. I have a mother in my family.
+   (ID: bc8c44b6bdc162869dcaaa34272a8b4784f44b9f)
+
+9. I have a mother in my family.
+   (ID: 292b765cb2e74ea6eb438a054f334da466dda75e)
+
+10. I have a daughter in my family.
+   (ID: 3e906e06d59fb5c2993270f0b4efed5b9ab122f7)
+
+11. I have a mother in my family.
+   (ID: 65e18a8843fe1a6d644e4fe6a3b227426a6b9103)
+
+12. I have a mother in my family.
+   (ID: b17b749ab40d1d24eba7d45337d86aeb3c5b28df)
+
+13. I have a mother in my family.
+   (ID: 258f707f4d4ef2a235c76e1a3f46df976a2e0270)
+
+14. I have a mother in my family.
+   (ID: 455d2820736b8e82503d5eeacd6d1a8fa4682a68)
+
+15. I have a daughters in my family.
+   (ID: 9286ff57fb4290178a79b38d20f6a95da9d2267f)
+
+16. I have a mother in my family.
+   (ID: 7da53707a39963b12b6e7c5fea7a54f263d0cf17)
+
+17. I have a sister in my family.
+   (ID: 1497e82ba6e08f938dadf0885a6fd8051c0758d1)
+
+18. I have a mother in my family.
+   (ID: e8fea87ced4a86b7ba9c50ae33cf5b3dda99af88)
+
+19. I have a sister in my family.
+   (ID: 3158d7c63f10e871a80f147fb47725c8714163c7)
+
+20. I have a mother in my family.
+   (ID: 73298992cdad815c5bab6ce9bfb5d9a5ad3b9729)
+
+
+--- PersonaChat ---
+Total from this dataset: 25
+
+1. my mother doesn t ! ove me .
+   (ID: conversation_138)
+
+2. i have four sisters .
+   (ID: conversation_1)
+
+3. my mom lives with me .
+   (ID: conversation_411)
+
+4. i've 2 sisters .
+   (ID: conversation_161)
+
+5. my mom stays at home .
+   (ID: conversation_324)
+
+6. i've four sisters .
+   (ID: conversation_357)
+
+7. my sister is my best friend .
+   (ID: conversation_409)
+
+8. my mom is my best friend .
+   (ID: conversation_284)
+
+9. i've a daughter .
+   (ID: conversation_105)
+
+10. i've three daughters .
+   (ID: conversation_297)
+
+11. i have 4 daughters .
+   (ID: conversation_124)
+
+12. my mom is my best friend .
+   (ID: conversation_49)
+
+13. i have a twin sister .
+   (ID: conversation_256)
+
+14. my mom is my best friend .
+   (ID: conversation_357)
+
+15. my mom is my best friend .
+   (ID: conversation_1)
+
+16. i've four sisters .
+   (ID: conversation_464)
+
+17. i talk to my mom on the phone every day .
+   (ID: conversation_260)
+
+18. both my moms tell me they love me when i call them .
+   (ID: conversation_211)
+
+19. both my moms tell me they love me when i call them .
+   (ID: conversation_251)
+
+20. my mom is my best friend .
+   (ID: conversation_61)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 17
+
+1. I have a little sister.
+   (ID: conversation_324_user_2)
+
+2. I talk to my mom on the phone every day.
+   (ID: conversation_103_user_1)
+
+3. My mother looks after my grandmother.
+   (ID: conversation_211_user_2)
+
+4. I live with my sisters and they provide me with all my needs.
+   (ID: conversation_350_user_2)
+
+5. I have four sisters.
+   (ID: conversation_496_user_2)
+
+6. My mother looks after my grandmother.
+   (ID: conversation_41_user_2)
+
+7. I live with my sisters and they provide me with all my needs.
+   (ID: conversation_68_user_2)
+
+8. My mother doesn t ! ove me.
+   (ID: conversation_69_user_2)
+
+9. I have one little girl.
+   (ID: conversation_446_user_2)
+
+10. My mom is my best friend.
+   (ID: conversation_496_user_2)
+
+11. I have 4 daughters.
+   (ID: conversation_50_user_2)
+
+12. I have 2 sisters.
+   (ID: conversation_176_user_1)
+
+13. I have 2 sisters.
+   (ID: conversation_177_user_1)
+
+14. My mother doesn t ! ove me.
+   (ID: conversation_358_user_2)
+
+15. I have 4 daughters.
+   (ID: conversation_159_user_2)
+
+16. I have 2 sisters.
+   (ID: conversation_175_user_1)
+
+17. Both my moms tell me they love me when i call them.
+   (ID: conversation_122_user_2)
+
+
+============================================================

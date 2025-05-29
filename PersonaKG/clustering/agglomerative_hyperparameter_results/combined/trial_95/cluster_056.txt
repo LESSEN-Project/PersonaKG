@@ -1,0 +1,345 @@
+CLUSTER 56
+============================================================
+Total statements in cluster: 1807
+
+Dataset distribution in this cluster:
+  MPChat: 1 (0.1%)
+  MSC: 29 (1.6%)
+  PEC: 31 (1.7%)
+  PER-CHAT: 1639 (90.7%)
+  PersonaChat: 29 (1.6%)
+  SyntheticPersonaChat: 78 (4.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. i am 31 year old bachelor how did i do?
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 29
+
+1. I am single and tired of the bar scene. I was promoted to salon manager.
+   (ID: dialog_14_speaker_1)
+
+2. I've been dating my significant other for a long time.
+   (ID: dialog_103_speaker_1)
+
+3. I am not married.
+   (ID: dialog_99_speaker_2)
+
+4. I have a wife. I'm in my early 40s.
+   (ID: dialog_93_speaker_2)
+
+5. I am 14.
+   (ID: dialog_67_speaker_1)
+
+6. I'm female.
+   (ID: dialog_108_speaker_1)
+
+7. I'm a man in my sixties.
+   (ID: dialog_142_speaker_1)
+
+8. I just got a divorce.
+   (ID: dialog_21_speaker_2)
+
+9. I am an older person.
+   (ID: dialog_127_speaker_1)
+
+10. I am a woman.
+   (ID: dialog_95_speaker_1)
+
+11. I think I'm getting engaged soon.
+   (ID: dialog_126_speaker_1)
+
+12. I am mature lady.
+   (ID: dialog_44_speaker_1)
+
+13. I'm in my thirties without a partner.
+   (ID: dialog_93_speaker_1)
+
+14. I  have been married 10 years.
+   (ID: dialog_184_speaker_1)
+
+15. I am 35 years old. I am single.
+   (ID: dialog_93_speaker_1)
+
+16. I'm a male.
+   (ID: dialog_42_speaker_2)
+
+17. I just got a divorce.
+   (ID: dialog_187_speaker_1)
+
+18. My wedding is set for april 11.
+   (ID: dialog_101_speaker_2)
+
+19. I have been married 10 years.
+   (ID: dialog_184_speaker_1)
+
+20. I am a female.
+   (ID: dialog_108_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 31
+
+1. i would like some advice .
+   (ID: Takumi-Fujiwara)
+
+2. i 'm single male 58 .
+   (ID: Beachsurfer)
+
+3. i would just love some words of advice ...
+   (ID: pipette_on)
+
+4. i 'm a 23 year old female .
+   (ID: MirandaTulip)
+
+5. i 'm just looking for some insight or some advice on what i should do .
+   (ID: bennystache)
+
+6. i just got married
+   (ID: Tjgl)
+
+7. i m 22 now .
+   (ID: garlicbreadismyboyf)
+
+8. i am a woman .
+   (ID: mbw1960)
+
+9. i m 38 , i m fully grown .
+   (ID: randominternetdood)
+
+10. i just need some advice or some answers .
+   (ID: Custurd009)
+
+11. i basically have anxiety whenever we are together .
+   (ID: crestview76)
+
+12. i 'm 20 years old .
+   (ID: swaggy_butthole)
+
+13. i got engaged today .
+   (ID: kitcatpaints)
+
+14. i am 61 .
+   (ID: ddshroom)
+
+15. i 'm 17 years old .
+   (ID: Takumi-Fujiwara)
+
+16. i 'm almost 32 and i really want to get married .
+   (ID: Mahatma_Panda)
+
+17. i 'm a 31 year old male .
+   (ID: JustHereForCum)
+
+18. i 'm 60 years old .
+   (ID: catskhiker)
+
+19. i am 26 .
+   (ID: Samoht2113)
+
+20. i am not married .
+   (ID: Heavenandhell50)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1639
+
+1. I am a female.
+   (ID: 9981a65782780477b53d712e936b6997a4092240)
+
+2. I am a female.
+   (ID: 3eef66654202ad187ad73806fb9c9788d0119cbf)
+
+3. I am a male.
+   (ID: d6e89a045ccd97a556ff87527d8a08a8e3c89fc1)
+
+4. I am a male.
+   (ID: 3b00a7fe72d71c6162850ad66e6322e5d78fb79d)
+
+5. I am a male.
+   (ID: 7da53707a39963b12b6e7c5fea7a54f263d0cf17)
+
+6. I am a female.
+   (ID: 0fbaeef283f7b2090f763028c227ed73724f3e6c)
+
+7. I am a female.
+   (ID: 5a01af4f9721facf5be110d8e134d4c4da020088)
+
+8. I am a male.
+   (ID: 6710bef520e10a3963d2983d4b36ef411e442f22)
+
+9. I am a male.
+   (ID: 0b3478daa0c3ecb398dde7764084e605d476d0ad)
+
+10. I am a male.
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+11. I am a male.
+   (ID: 0217046a1ad9b1e567109f7f7a4bb8b9f4b4fc05)
+
+12. I am a male.
+   (ID: db2795e3479f3abf3fd16c22a2bea9450ad82357)
+
+13. I am a male.
+   (ID: b6567f005c34603036e6119544386ff4f12ec3a9)
+
+14. I am a male.
+   (ID: 2a43fd1ba18ed201f563f660a853be569ebb3917)
+
+15. I am a male.
+   (ID: 9c91f42953bc8f6d2f718503a1924734b9da6acc)
+
+16. I am a male.
+   (ID: c69ba20c8286f807f6219a451e4448f951938f31)
+
+17. I am a male.
+   (ID: 13429813198f2aaef97e18644aa776da323f48a1)
+
+18. I am a male.
+   (ID: f3192aa413ed905a2d6bc7e74ae65b23517e05a0)
+
+19. I am a female.
+   (ID: 0dd32da9f7e822909c258818ed313736b958a15a)
+
+20. I am a male.
+   (ID: 199704b2ab3344a95185dd1a9c09023379518eb0)
+
+
+--- PersonaChat ---
+Total from this dataset: 29
+
+1. i am a woman .
+   (ID: conversation_152)
+
+2. i m married and have three kids .
+   (ID: conversation_428)
+
+3. i am getting married in six months .
+   (ID: conversation_101)
+
+4. i'm in a very intimate and loving relationship .
+   (ID: conversation_480)
+
+5. i've been divorced for 2 years .
+   (ID: conversation_73)
+
+6. i m recently divorced .
+   (ID: conversation_263)
+
+7. i'm twenty two years old .
+   (ID: conversation_216)
+
+8. i am a older gentlemen .
+   (ID: conversation_498)
+
+9. i'm a older woman .
+   (ID: conversation_303)
+
+10. i'm a middle aged woman .
+   (ID: conversation_278)
+
+11. i am engaged to be married .
+   (ID: conversation_269)
+
+12. i'm a female .
+   (ID: conversation_121)
+
+13. i am a older gentlemen .
+   (ID: conversation_246)
+
+14. i'm a woman .
+   (ID: conversation_425)
+
+15. i'm engaged .
+   (ID: conversation_176)
+
+16. i am a woman .
+   (ID: conversation_233)
+
+17. i'm getting married in six months .
+   (ID: conversation_286)
+
+18. i am in a very intimate and loving relationship .
+   (ID: conversation_429)
+
+19. i just started dating someone new .
+   (ID: conversation_367)
+
+20. i am 19 years old .
+   (ID: conversation_103)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 78
+
+1. I am male.
+   (ID: conversation_11_user_1)
+
+2. I am thirty years old.
+   (ID: conversation_199_user_2)
+
+3. I am a older gentlemen.
+   (ID: conversation_237_user_1)
+
+4. I am a female.
+   (ID: conversation_363_user_1)
+
+5. I am a 70 year old man.
+   (ID: conversation_328_user_1)
+
+6. I am thirty years old.
+   (ID: conversation_75_user_2)
+
+7. I am a 30 year old female.
+   (ID: conversation_196_user_1)
+
+8. I am a 70 year old man.
+   (ID: conversation_331_user_1)
+
+9. I have a girlfriend of 7 years.
+   (ID: conversation_72_user_2)
+
+10. I am thirty two years old.
+   (ID: conversation_422_user_1)
+
+11. I am an older guy.
+   (ID: conversation_15_user_2)
+
+12. I just started dating someone new.
+   (ID: conversation_219_user_1)
+
+13. I am engaged.
+   (ID: conversation_391_user_2)
+
+14. I am recently divorced.
+   (ID: conversation_366_user_2)
+
+15. I am 32.
+   (ID: conversation_1_user_1)
+
+16. I am a older woman.
+   (ID: conversation_402_user_2)
+
+17. I am twenty one years old.
+   (ID: conversation_267_user_2)
+
+18. I am engaged to be married.
+   (ID: conversation_25_user_2)
+
+19. I am seventy one years old.
+   (ID: conversation_220_user_2)
+
+20. I am male.
+   (ID: conversation_9_user_1)
+
+
+============================================================

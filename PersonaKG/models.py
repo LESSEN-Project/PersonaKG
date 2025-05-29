@@ -318,6 +318,11 @@ class LLM:
                 pipe = pipeline("text-generation", model=self.model, tokenizer=self.tokenizer, **gen_params)
                 output = pipe(prompt)[0]["generated_text"][-1]["content"]
 
+            if self.cfg.get("reason") and not include_reasoning:
+                think_idx = output.find("</think>")
+                if think_idx != -1:
+                    output = output[think_idx+8:].strip()
+
         if json_output:
             output = self.parse_json(output)
 

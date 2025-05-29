@@ -1,0 +1,467 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 27667
+
+Dataset distribution in this cluster:
+  FoCus: 782 (2.8%)
+  MPChat: 2518 (9.1%)
+  MSC: 1396 (5.0%)
+  PEC: 11654 (42.1%)
+  PER-CHAT: 8853 (32.0%)
+  PersonaChat: 807 (2.9%)
+  SyntheticPersonaChat: 1657 (6.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 782
+
+1. I have never played golf.
+   (ID: MP1ZK22Q90C9_11)
+
+2. I have an Irish heritage.
+   (ID: D0BKN1W8KWG6_7)
+
+3. I hate the Vietnam War.
+   (ID: TGZJNX488SLV_11)
+
+4. I am interested in world records.
+   (ID: FHCSCC2MB2X0_7)
+
+5. I have visited the Narnala Fort.
+   (ID: KGYT5MMVNDSG_11)
+
+6. I would like to go to college.
+   (ID: NOJ4G30KI3T7_11)
+
+7. I'm interested in music.
+   (ID: X45C380V98U8_9)
+
+8. I like heritage railways.
+   (ID: QC5LXWBDY6EM_11)
+
+9. I am interested in history.
+   (ID: MA2EPDC7QHS5_11)
+
+10. I like Gothic architecture.
+   (ID: PGIZXWTCX77K_7)
+
+11. I like education.
+   (ID: QFCC4W8VUHOO_11)
+
+12. I like nature.
+   (ID: T9680U7NZ97F_11)
+
+13. I like shopping.
+   (ID: STDMXJC7HTUG_11)
+
+14. I would like to go to Museums as many as I can.
+   (ID: F10IB9885VKB_11)
+
+15. I am from England.
+   (ID: T9JPYSSWD7NW_11)
+
+16. I like to read about tourism.
+   (ID: LYYSTNQ9MBLY_11)
+
+17. I exercise in the park every weekend.
+   (ID: D4619DV1O1OP_11)
+
+18. I would like leisure activities in the snow.
+   (ID: W3Q01YQ109EE_9)
+
+19. I am interested in Italian history.
+   (ID: DIQU5A0EAGWM_11)
+
+20. I like Hollywood.
+   (ID: UC6WD3SK3PG8_11)
+
+
+--- MPChat ---
+Total from this dataset: 2518
+
+1. but applying the proper technique and some tips i've picked up over the yrs helped me achieve hanime.
+   (ID: MonstaEatsItAll)
+
+2. (also i botched this swans head)
+   (ID: jlb4est)
+
+3. i tried to make "hurricane" swiss roll cake
+   (ID: justcook_byangel)
+
+4. they taste just like the ice cream sandwiches i loved growing up.
+   (ID: Soliloquy119)
+
+5. happy with my submission for slowpour supply's rose challenge
+   (ID: jlb4est)
+
+6. how am i doing?
+   (ID: youngdad33)
+
+7. i have never been to a brunch wedding, but i am a fan!
+   (ID: onemantwohands)
+
+8. i was told you guys might like these: handpainted succulent doodle cookies!
+   (ID: yk28chan)
+
+9. welp i guess i'm not going anywhere today.... or using my left hand.
+   (ID: Soapy_Von_Soaps)
+
+10. i have broken it down step by step for absolute beginners if you want to have a look!
+   (ID: letsallcrochetYT)
+
+11. birthday cake i made for my dad today
+   (ID: castaneda2912)
+
+12. my baby boy is such an adorable sleepyhead
+   (ID: kentobean123)
+
+13. working on my drip skillz
+   (ID: paintingpajamaspink)
+
+14. hoth: 1st birthday present for my goddaughter who's our cheeky little fox :d
+   (ID: River_Lethe)
+
+15. blackberry lavender honeycomb cake i made this weekend!
+   (ID: chirp16)
+
+16. i don't always wash my hands, but when i do it's to use this
+   (ID: crunch816)
+
+17. i was really excited.
+   (ID: BeastaBubbles)
+
+18. so not as good as my chicks and carrots but still just as terrified looking
+   (ID: Cantwa1t)
+
+19. i crocheted a little cat stuck in a pumpkin!
+   (ID: Louiesloops)
+
+20. is there a way to lighten yarn for the future or am i better off just buying new rolls.
+   (ID: NervousToast)
+
+
+--- MSC ---
+Total from this dataset: 1396
+
+1. I practice yoga.
+   (ID: dialog_86_speaker_1)
+
+2. I got boots from a Boot Barn.
+   (ID: dialog_27_speaker_1)
+
+3. I am continuing my education.
+   (ID: dialog_16_speaker_2)
+
+4. I always chew gum.
+   (ID: dialog_91_speaker_1)
+
+5. I am from Alabama.
+   (ID: dialog_33_speaker_2)
+
+6. I earn hourly pay.
+   (ID: dialog_21_speaker_2)
+
+7. I do not like to watch tv.
+   (ID: dialog_73_speaker_1)
+
+8. I go free dive. I went diving yesterday and scored a lobster.
+   (ID: dialog_85_speaker_2)
+
+9. I have a professional job.
+   (ID: dialog_41_speaker_2)
+
+10. My name is Sally. I'm a baker
+   (ID: dialog_50_speaker_1)
+
+11. I have been looking for a more interesting job. My family is annoying me. I want to get away from family during the day.
+   (ID: dialog_2_speaker_1)
+
+12. My brothers wife has tanked.
+   (ID: dialog_18_speaker_1)
+
+13. I'm a shopaholic.
+   (ID: dialog_38_speaker_1)
+
+14. I like snow sports.
+   (ID: dialog_15_speaker_2)
+
+15. I applied for a job at Whole Foods.
+   (ID: dialog_65_speaker_2)
+
+16. I discovered a way to recover from an illness.
+   (ID: dialog_91_speaker_1)
+
+17. I enjoy college basketball. I hike. I like classic rock music.
+   (ID: dialog_12_speaker_2)
+
+18. We own several dogs.
+   (ID: dialog_65_speaker_1)
+
+19. I studied clothing designs but never used it.
+   (ID: dialog_18_speaker_1)
+
+20. My name is Frank
+   (ID: dialog_15_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 11654
+
+1. i would definitely buy this for my dog .
+   (ID: Heydawgg)
+
+2. i have found nothing to help so far .
+   (ID: justgirlypasta)
+
+3. i can tell she spoiled me , really .
+   (ID: Ml7500)
+
+4. i have responsibility to tell you there is no candy in this office .
+   (ID: error785)
+
+5. i 'm in paris for elton john next year and this will help massively .
+   (ID: bigfuckingdiamond)
+
+6. i just started a new job last week too !
+   (ID: silentpower)
+
+7. i took him everywhere with me .
+   (ID: Bathysphere710)
+
+8. i 'm easy .
+   (ID: bigfuckingdiamond)
+
+9. i just composed this , terrible sound quality .
+   (ID: Bananafoofoofwee)
+
+10. i felt a wave of peace just looking at this .
+   (ID: redraindropped)
+
+11. i absolutely loved naito v. ibushi , so far , the best in the g1 for me .
+   (ID: LabeledAsALunatic)
+
+12. i will spend $ 500 and go on a rampage through all the political subreddits .
+   (ID: WiseScratch)
+
+13. i would like you to come with me the next time i go to a bar , please .
+   (ID: redraindropped)
+
+14. i never mentioned performance , though that is part of what makes it less enjoyable .
+   (ID: Atemu12)
+
+15. i 'd like it a lot better if it was raspberry flavoured .
+   (ID: underneathstars)
+
+16. i greeted him in an upbeat manner and i asked him if he wanted to hear our specials .
+   (ID: chirpyboyandbartjr)
+
+17. i got you fam .
+   (ID: NyxPeregrinus)
+
+18. i never realized why my mom would give me such a worried look .
+   (ID: adertal)
+
+19. i had bite - wing x - rays ... don't have copies though .
+   (ID: NyxPeregrinus)
+
+20. i forget where i read this .
+   (ID: Waterrat)
+
+
+--- PER-CHAT ---
+Total from this dataset: 8853
+
+1. i will feel a great wave of sadness over the level of stupidity in this country . then i will go about my day as normal unless something directely affects me or someone i know . the only good thing will be the great material that all the comics will come up with while he is in office .
+   (ID: 388a9b7cd52305ad65297c63f4c50272c2661e4c)
+
+2. even reading about that scene tears me up and thank you it ' s not that polished if you look closer lmao
+   (ID: 2834b254700cedfb96641229b712899b4d697418)
+
+3. where are you from ? kansas city , mo how old are you ? digit when did you start collecting criterion ? july digit do you collect dvd  s or blu  ray  s blu  ray  s only what is your favorite criterion release ? in terms of the release itself then the tree of life what is your least favorite criterion release ? cat people who is your favorite director in the collection ? judging only by their films in the collection , kurosawa who is your favorite director outside the collection ? spielberg what criterion release would you like the most ? notorious , the umbrellas of cherbourg , the thin blue line , and z what film would you most like to see get the criterion treatment ? digit days of summer i just think it  d fit well how do you organize your titles ? spine number what else ? shameless letterboxd self  promotion
+   (ID: a62b69d15e6c81a1a1acb2d0dd4bf9119038ff09)
+
+4. i ' ve never been in a coma but i know someone who was , they said it was like they never slept and immediately woke up but remembered some things people had said to them
+   (ID: b5e15026c378d181e66e2b38bfc245705510a727)
+
+5. i haven ' t heard of that book . i wonder if even if they read it if they would realize what they ' re in for . they are such amazing , hard  working people that are in it so deep that to admit defeat . well . i just don ' t think they could do it . wouldn ' t it be so embarrassing to say you tried and gulp failed . it really really makes me so sad for them . and i agree , it sounds like a book that could be quite dry , but i bet it would actually be quite interesting if you know someone personally involved . i would probably cry for them .
+   (ID: aa8abed66c32a0519ab922c1a606563d97de28fc)
+
+6. all you can eat buffets can get you depending on how much you eat . all you can eat at a pizza place may be  digit and you may not finish a whole pizza , whereas you could spend  digit and get all you can eat plus left overs
+   (ID: 9a6c8092baa903ed1df9f0bfae4b28070e199c8c)
+
+7. you there . have you ever wielded a sword digit times longer than your torso ?
+   (ID: 6b89f03adeaf831281bcca46ec5a469e09e400c0)
+
+8. they move a bit . like when you blow on a cat ' s ear . it moves they can do that on their own .
+   (ID: 79fc72ea72532d39a039ecb4e47a630a601ff4a8)
+
+9. i remember like digit years ago i went for a jog and there was this guy lying on the ground not moving and i just ran past him thinking someone else will call help and when i came back an hour later he was still there
+   (ID: 564c5b4efd54586fbf212727e2071f5ddadabb82)
+
+10. all of you guys are assholes for telling me this is fake . i sooo wanted to believe that you could not only own a kangaroo as a pet . but take it to the fucking store !
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+11. I follow libertarianism.
+   (ID: 5033a9b064a9790931d6db4cc634e02af206bbb1)
+
+12. you can get them much cheaper than that . kid near me killed a woman for digit about  digit last year . in mexico you could probably find someone who would do it for a burger .
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+13. where can i find it ?
+   (ID: bfc2e9a6e5f84327293fa1a1fd0287066782bcec)
+
+14. I am soooo.
+   (ID: a5976f282a96c036f5e4d14957305323c9a5776d)
+
+15. well yeah of course , but most if not all guys are clueless then misinterpret reactions to mean a completely different thing than what she wants including myself . could you be a bit more specific with examples perhaps ?
+   (ID: cfabcbc785db80706dcc28a81eb7851d8c7bd3ce)
+
+16. I have a girlfriend.
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+17. should i tell her ?
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+18. I am speed.
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+19. i draw the line up to where someone tells another person to harm another . example   go out and cause x harm  or  go harass x  and the logical call to actions like saying there  s a fire in a movie theater when there really isn  t . other than that it  s fair game no matter how hateful the words are .
+   (ID: 4198a967d1b0765e3fc996754ce9a3e6c7f24c8c)
+
+20. ask something like ' so i heard you ' ve wanted to know whether i ' m single ? well i am , so what ' s your next move ? '
+   (ID: e9d9b9400a09031a7e1021173867d784ebb9cf94)
+
+
+--- PersonaChat ---
+Total from this dataset: 807
+
+1. welding is my career field .
+   (ID: conversation_4)
+
+2. i'm currently single but i'm ready to mingle .
+   (ID: conversation_139)
+
+3. i eat breakfast then go right back to bed .
+   (ID: conversation_148)
+
+4. i used to be able to run really fast .
+   (ID: conversation_126)
+
+5. i am a vegan .
+   (ID: conversation_60)
+
+6. i've three tattoos .
+   (ID: conversation_56)
+
+7. we have two pets as well .
+   (ID: conversation_173)
+
+8. i am a veteran .
+   (ID: conversation_89)
+
+9. i am colorblind .
+   (ID: conversation_109)
+
+10. i never knew my dad .
+   (ID: conversation_90)
+
+11. i am a professional gamer .
+   (ID: conversation_139)
+
+12. i have a boyfriend who lives in italy .
+   (ID: conversation_150)
+
+13. my hair is colored purple .
+   (ID: conversation_228)
+
+14. i enjoy watching videos on youtube .
+   (ID: conversation_174)
+
+15. i never learned how to swim .
+   (ID: conversation_209)
+
+16. i like to go on walks .
+   (ID: conversation_141)
+
+17. i am a cat person .
+   (ID: conversation_73)
+
+18. i drive a honda that is seen better days .
+   (ID: conversation_220)
+
+19. i m currently in nursing school .
+   (ID: conversation_200)
+
+20. i walk more than 2 miles a day .
+   (ID: conversation_185)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1657
+
+1. My feet are size six womens.
+   (ID: conversation_168_user_1)
+
+2. I have red hair.
+   (ID: conversation_41_user_1)
+
+3. I am a vegan.
+   (ID: conversation_187_user_1)
+
+4. I use a cane to help me get around.
+   (ID: conversation_27_user_1)
+
+5. My favorite food is salad.
+   (ID: conversation_94_user_1)
+
+6. I have big face cheeks.
+   (ID: conversation_183_user_2)
+
+7. My feet are size six women s.
+   (ID: conversation_169_user_1)
+
+8. I graduated college a few years ago.
+   (ID: conversation_152_user_1)
+
+9. I like to garden.
+   (ID: conversation_72_user_1)
+
+10. I can knit.
+   (ID: conversation_57_user_1)
+
+11. I enjoy my steaks cooked medium rare.
+   (ID: conversation_231_user_2)
+
+12. I drive a honda car.
+   (ID: conversation_228_user_2)
+
+13. I have a french bulldog.
+   (ID: conversation_168_user_1)
+
+14. I like to draw.
+   (ID: conversation_208_user_1)
+
+15. My favorite music is hip hop.
+   (ID: conversation_192_user_2)
+
+16. I am vegan.
+   (ID: conversation_37_user_1)
+
+17. My favorite food is pizza.
+   (ID: conversation_131_user_1)
+
+18. My favorite flower is a lily.
+   (ID: conversation_91_user_1)
+
+19. I am east asian.
+   (ID: conversation_203_user_2)
+
+20. I sing in a punk band.
+   (ID: conversation_201_user_2)
+
+
+============================================================

@@ -1,0 +1,244 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 427
+
+Dataset distribution in this cluster:
+  MSC: 8 (1.9%)
+  PEC: 5 (1.2%)
+  PER-CHAT: 376 (88.1%)
+  PersonaChat: 16 (3.7%)
+  SyntheticPersonaChat: 22 (5.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 8
+
+1. My father flies for delta.
+   (ID: dialog_58_speaker_2)
+
+2. My father handles packages for a living.
+   (ID: dialog_137_speaker_1)
+
+3. I've ben to Canada before with my father.
+   (ID: dialog_33_speaker_2)
+
+4. My father is a minister.
+   (ID: dialog_40_speaker_2)
+
+5. My father has Covid-19.
+   (ID: dialog_77_speaker_1)
+
+6. My father flies for delta.
+   (ID: dialog_29_speaker_1)
+
+7. I have no clue who my father is.
+   (ID: dialog_90_speaker_2)
+
+8. I am a father to four sons.
+   (ID: dialog_127_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i believe she is controlling them as much as my father .
+   (ID: RelaxedSociety)
+
+2. i ’m glad you ’re still friends and the father made amends .
+   (ID: Boop-D-Boop)
+
+3. i am your father
+   (ID: RonaldFuckingPaul)
+
+4. i was told a pomeranian was the father .
+   (ID: opalskys)
+
+5. i wonder what you do n't remember about your father ....
+   (ID: LightofNew)
+
+
+--- PER-CHAT ---
+Total from this dataset: 376
+
+1. I have a father in my family.
+   (ID: 9ee9d24ef531902c3436e80a94ec700625d655c6)
+
+2. I have a father in my family.
+   (ID: 9d1b3fafafa63d6ec9712c98a0c16b4cc697d112)
+
+3. I have a father in my family.
+   (ID: 541b4cbc0fbf09faead4d7954b3a984391890627)
+
+4. I have a father in my family.
+   (ID: be642743472cdef9445edc6dd55beb3c2a8a1258)
+
+5. I have a father in my family.
+   (ID: e7e9152339efadec69dc4bf98db0e9f2aeae3cf6)
+
+6. I have a father in my family.
+   (ID: d78765bdf49a3df577dd2523ce864393d4d0d2c9)
+
+7. I have a father in my family.
+   (ID: b29114e3d39ee1086f5eb2abbe6cbec33bc7749f)
+
+8. I have a father in my family.
+   (ID: 465a8b7c9604514a10670d3813f18485575cfa5c)
+
+9. I have a father in my family.
+   (ID: 09c182da66e9fb276d5bb24506e24997b2c988b0)
+
+10. I have a father in my family.
+   (ID: 4126a6a9d5a548a6bed5e0c4992792b1c10f2b92)
+
+11. I have a father in my family.
+   (ID: f6b8978c4b660719e17dff38ba86c988b9bf86f5)
+
+12. I have a father in my family.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+13. I have a father in my family.
+   (ID: 2c5816cbbee60e3c348eb04900ea7453604cff82)
+
+14. I have a father in my family.
+   (ID: 268efb139763eba39bf6c3c85d53f9e70824c23b)
+
+15. I have a father in my family.
+   (ID: 1fb7025aaa0b620e024c8abbaecd72d34f8418b0)
+
+16. I have a father in my family.
+   (ID: 06f1a2f5d32f7dd1949254b41bf285307f38a718)
+
+17. I have a father in my family.
+   (ID: 8ee36b7de5870d8a018edda36a1e88aee55b98f9)
+
+18. I have a father in my family.
+   (ID: c5e877ff3be5d3571f5fe899f55887a6f608ee98)
+
+19. I have a father in my family.
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+20. I have a father in my family.
+   (ID: 71de6d78a2a9fe7dfc17e6667ec92f75a8d4c302)
+
+
+--- PersonaChat ---
+Total from this dataset: 16
+
+1. my father used to be a butcher .
+   (ID: conversation_463)
+
+2. my father was an author .
+   (ID: conversation_166)
+
+3. my father use to drive a taxi cab in the 1970 s .
+   (ID: conversation_418)
+
+4. my father was an author .
+   (ID: conversation_9)
+
+5. my father is in prison .
+   (ID: conversation_146)
+
+6. my father works in advertising agency .
+   (ID: conversation_341)
+
+7. my father worked for ge .
+   (ID: conversation_11)
+
+8. my father was a cop .
+   (ID: conversation_391)
+
+9. my father is a preacher .
+   (ID: conversation_40)
+
+10. my father was also in the military .
+   (ID: conversation_453)
+
+11. my father is a doctor .
+   (ID: conversation_488)
+
+12. my father worked for ge .
+   (ID: conversation_47)
+
+13. my father was an author .
+   (ID: conversation_38)
+
+14. my father is dead .
+   (ID: conversation_186)
+
+15. my father was also in the military .
+   (ID: conversation_89)
+
+16. my father is a preacher .
+   (ID: conversation_98)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 22
+
+1. My father has a very prestigious job.
+   (ID: conversation_438_user_2)
+
+2. My father is a preacher.
+   (ID: conversation_455_user_2)
+
+3. My father is a mechanic.
+   (ID: conversation_37_user_1)
+
+4. My father is a mechanic.
+   (ID: conversation_49_user_1)
+
+5. My father is in prison.
+   (ID: conversation_297_user_2)
+
+6. My father is a mechanic.
+   (ID: conversation_301_user_2)
+
+7. My father is a preacher.
+   (ID: conversation_465_user_2)
+
+8. My father worked for ge.
+   (ID: conversation_384_user_2)
+
+9. My father use to drive a taxi cab in the 1970 s.
+   (ID: conversation_427_user_2)
+
+10. My father is dead.
+   (ID: conversation_333_user_1)
+
+11. I am a father.
+   (ID: conversation_358_user_1)
+
+12. I am a father.
+   (ID: conversation_356_user_1)
+
+13. My father is dead.
+   (ID: conversation_336_user_1)
+
+14. My father is a preacher.
+   (ID: conversation_326_user_2)
+
+15. My father is a preacher.
+   (ID: conversation_235_user_2)
+
+16. My father is a doctor.
+   (ID: conversation_295_user_2)
+
+17. My father is a mechanic.
+   (ID: conversation_40_user_1)
+
+18. I have never met my father.
+   (ID: conversation_377_user_2)
+
+19. My father was an author.
+   (ID: conversation_282_user_2)
+
+20. I am a father.
+   (ID: conversation_359_user_1)
+
+
+============================================================

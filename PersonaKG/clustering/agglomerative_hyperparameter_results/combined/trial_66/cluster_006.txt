@@ -1,0 +1,410 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 1326
+
+Dataset distribution in this cluster:
+  FoCus: 31 (2.3%)
+  MPChat: 1 (0.1%)
+  MSC: 84 (6.3%)
+  PEC: 83 (6.3%)
+  PER-CHAT: 1021 (77.0%)
+  PersonaChat: 46 (3.5%)
+  SyntheticPersonaChat: 60 (4.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 31
+
+1. I live in Kentucky.
+   (ID: T9680U7NZ97F_11)
+
+2. I have lived in a city all my life.
+   (ID: EA2ZVDRVQ40F_11)
+
+3. I have a farm house.
+   (ID: Q997WWV6FO9L_11)
+
+4. I live in the United States.
+   (ID: 82ZP2M9AL6U0_11)
+
+5. I am in the United Kingdom for work.
+   (ID: VUU19OURBLRK_11)
+
+6. I live in Kansas City.
+   (ID: HO684VMC687Z_11)
+
+7. I live in urban part of the city.
+   (ID: QK9TQHXYFFJ9_11)
+
+8. I live in a house.
+   (ID: SRO8K4E2N5N5_7)
+
+9. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+10. I live in Sonoma County.
+   (ID: EZGYRI0YA8OX_9)
+
+11. I live in a city.
+   (ID: NKLIZUTIPPP1_11)
+
+12. I live in England.
+   (ID: SRO8K4E2N5N5_7)
+
+13. I live in NYC.
+   (ID: E3UZAGT5DTE5_11)
+
+14. I have my own office building in Central Norway.
+   (ID: TB8HHXAP822G_11)
+
+15. I have a friend who works in Tennessee.
+   (ID: PYCYFS54O1C8_11)
+
+16. I am staying in a municipality.
+   (ID: ATJSFYS2K6FK_11)
+
+17. I live in the North of England.
+   (ID: UHZ1K434LZ46_11)
+
+18. I live in England.
+   (ID: AOQJE7BBYFVM_11)
+
+19. I live in Queensland.
+   (ID: XXWV8BD5AL9Z_11)
+
+20. I live in Pennsylvania.
+   (ID: GYX0OU7PEQ7Q_11)
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. my friend from wisconsin hooked me up!
+   (ID: crunch816)
+
+
+--- MSC ---
+Total from this dataset: 84
+
+1. I live in a quiet neighborhood.
+   (ID: dialog_40_speaker_2)
+
+2. I live in Virginia with my dad who is a cop.
+   (ID: dialog_34_speaker_1)
+
+3. I recently relocated for a position.
+   (ID: dialog_91_speaker_2)
+
+4. I live in Providence. I work in a Publishing building, downtown.
+   (ID: dialog_41_speaker_2)
+
+5. I live on the East Coast of the US.
+   (ID: dialog_50_speaker_1)
+
+6. I live on a farm in Ohio.
+   (ID: dialog_42_speaker_2)
+
+7. I live on the east coast.
+   (ID: dialog_76_speaker_1)
+
+8. I'm from El Paso, texas, far west Texas. I've never been to Amarillo. I'd like to visit Nashville.
+   (ID: dialog_66_speaker_1)
+
+9. I live in Florida. I have contacts in Alabama. I have never been to Alabama.
+   (ID: dialog_85_speaker_2)
+
+10. I live in Florida. I have contacts in Alabama.
+   (ID: dialog_85_speaker_2)
+
+11. I live with my parents
+   (ID: dialog_66_speaker_2)
+
+12. I reside on the outskirts of a city know as beantown.
+   (ID: dialog_41_speaker_1)
+
+13. I don't get to see my parents very often.
+   (ID: dialog_6_speaker_2)
+
+14. I live with my family.
+   (ID: dialog_77_speaker_1)
+
+15. I live in Seattle. I have a houseboat.
+   (ID: dialog_14_speaker_2)
+
+16. I live on a private island where things can take a bit to be delivered.
+   (ID: dialog_69_speaker_2)
+
+17. I've a home in the suburbs.
+   (ID: dialog_95_speaker_1)
+
+18. I live on a farm.
+   (ID: dialog_13_speaker_1)
+
+19. I live in a rural area in Alabama, outside Birmingham.
+   (ID: dialog_85_speaker_1)
+
+20. We have relocated a ton.
+   (ID: dialog_21_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 83
+
+1. i live in the uk and just got back from texas last week .
+   (ID: Ooer)
+
+2. i live in ohio !
+   (ID: GetItTogether)
+
+3. i am not in europe
+   (ID: Aloha-Potato)
+
+4. i live in sw fl .
+   (ID: 11_29_77)
+
+5. i know a couple drummers in that area , some who might be interested .
+   (ID: closetotheedge48)
+
+6. i live nearby .
+   (ID: metalbark)
+
+7. i 'm in oregon , usa .
+   (ID: redraindropped)
+
+8. i 'm at the mosaic building in downtown .
+   (ID: Captain_-H)
+
+9. i just moved up here and i 'm not sure were to look for work in the area .
+   (ID: CarlofTime)
+
+10. i m so metal but also scared of the rain
+   (ID: shortgiraffe9000)
+
+11. i live in the pacific northwest :(
+   (ID: lambsquatch)
+
+12. i am in the southeast .
+   (ID: deputydan_scubaman)
+
+13. i 'm in dallas too , where they 're located .
+   (ID: LabeledAsALunatic)
+
+14. i 'm looking for a percussionist or two to play with as opposed to having a kit .
+   (ID: closetotheedge48)
+
+15. i ’m in the united states , by the way .
+   (ID: Dustin_Bromain)
+
+16. i did nt live in the us back then .
+   (ID: serverpilot)
+
+17. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+18. i 've got free housing .
+   (ID: bbrandann)
+
+19. i 've lived here for 14 years .
+   (ID: rycheme)
+
+20. i am in alberta but see if there is a subreddit for ontario ?
+   (ID: exotics)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1021
+
+1. I live in through old d..
+   (ID: f4588f2a476206e602fe5b84647a1e777eaae604)
+
+2. I live in town.
+   (ID: 12b33309ed44732201ee2caf9b6ce9ce17552a26)
+
+3. I live in utrecht.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+4. I live in friends.
+   (ID: ac1ceb388a2e170941cb682c48398cacc87c5019)
+
+5. I live in america.
+   (ID: 0e1406b3a5b6031911de9279cf70144f8f1d9136)
+
+6. I live in place.
+   (ID: 05bc4f6f6f6bb573d85181292f88efbd50c59547)
+
+7. I live in adachiku.
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+8. I live in ontario.
+   (ID: b32e61b9c04e2d8927d5e2ded327d2379ec3a1a6)
+
+9. I live in india.
+   (ID: 498ec9e13eaa203d64a9b79260e2285867993564)
+
+10. I live in holland.
+   (ID: bfc2e9a6e5f84327293fa1a1fd0287066782bcec)
+
+11. I live in london.
+   (ID: c391065478603a686531cbdd50568136a5e14508)
+
+12. I live in at windyridge.
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+13. I live in ma.
+   (ID: ba0e9130abfdb05aa7eedd989650338802035edd)
+
+14. I live in late 80s.
+   (ID: c637d1bdb57c374d26802ca6ff7ebf3084477147)
+
+15. I live in holy mackerel.
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+16. I live in massachusetts.
+   (ID: b61e1d4de0e5d22ad937104e46a2657b01e7cca9)
+
+17. I live in suburbs.
+   (ID: 2ad50e702ea7ef4cc62a34ca116f658d564c0474)
+
+18. I live in denmark.
+   (ID: 95acb2ca6e2c4b0e43ae1565f6eb3f529105e156)
+
+19. I live in west virgia.
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
+
+20. I live in illegal state.
+   (ID: 5c9dd67e95ee5403b2bd9a6848c017674d46396b)
+
+
+--- PersonaChat ---
+Total from this dataset: 46
+
+1. i live in a house .
+   (ID: conversation_97)
+
+2. i m a truck driver in the south .
+   (ID: conversation_82)
+
+3. i live in a house in california .
+   (ID: conversation_160)
+
+4. i still live at home .
+   (ID: conversation_39)
+
+5. my mom lives with me .
+   (ID: conversation_150)
+
+6. i live with my parents .
+   (ID: conversation_159)
+
+7. i live in nashville .
+   (ID: conversation_215)
+
+8. i live on a boat .
+   (ID: conversation_14)
+
+9. my wife stays home with our kids .
+   (ID: conversation_68)
+
+10. i live with my best friend .
+   (ID: conversation_177)
+
+11. i live in nashville .
+   (ID: conversation_117)
+
+12. we own our home .
+   (ID: conversation_30)
+
+13. i have two roomates .
+   (ID: conversation_17)
+
+14. i live in a house in the country .
+   (ID: conversation_98)
+
+15. i live with a roommate .
+   (ID: conversation_198)
+
+16. my wife stays home with our kids .
+   (ID: conversation_30)
+
+17. i come from a small town .
+   (ID: conversation_2)
+
+18. i live in rural wisconsin .
+   (ID: conversation_15)
+
+19. i live on a small farm in ohio .
+   (ID: conversation_42)
+
+20. i live on a boat .
+   (ID: conversation_228)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 60
+
+1. I live in the suburbs of a major city.
+   (ID: conversation_26_user_2)
+
+2. I live in california.
+   (ID: conversation_103_user_2)
+
+3. I live in chicago.
+   (ID: conversation_108_user_2)
+
+4. I live in chicago.
+   (ID: conversation_122_user_2)
+
+5. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+6. I live in an apartment.
+   (ID: conversation_46_user_2)
+
+7. I live in my parent s basement.
+   (ID: conversation_117_user_1)
+
+8. I live in cape hatteras.
+   (ID: conversation_157_user_1)
+
+9. I live in chicago.
+   (ID: conversation_131_user_2)
+
+10. I still live at home with my parents.
+   (ID: conversation_1_user_1)
+
+11. I live close to the coast.
+   (ID: conversation_41_user_1)
+
+12. I live in new york city.
+   (ID: conversation_249_user_1)
+
+13. I live in colorado.
+   (ID: conversation_238_user_1)
+
+14. I live in my parents basement.
+   (ID: conversation_118_user_1)
+
+15. My girlfriend lives in salt lake city.
+   (ID: conversation_184_user_1)
+
+16. I have 3 roommates.
+   (ID: conversation_101_user_2)
+
+17. I live in an apartment.
+   (ID: conversation_230_user_2)
+
+18. I live with my parents and my little brother.
+   (ID: conversation_62_user_2)
+
+19. I still live at home with my parents.
+   (ID: conversation_2_user_1)
+
+20. I live in my parents basement.
+   (ID: conversation_116_user_1)
+
+
+============================================================

@@ -1,0 +1,402 @@
+CLUSTER 26
+============================================================
+Total statements in cluster: 999
+
+Dataset distribution in this cluster:
+  FoCus: 26 (2.6%)
+  MSC: 65 (6.5%)
+  PEC: 70 (7.0%)
+  PER-CHAT: 731 (73.2%)
+  PersonaChat: 38 (3.8%)
+  SyntheticPersonaChat: 69 (6.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 26
+
+1. I am going to Pennsylvania for business.
+   (ID: BY611XJQ5BVM_11)
+
+2. I live in San Diego.
+   (ID: SJS6GHEH7ZIW_11)
+
+3. I am going to stay in Ontario.
+   (ID: UXR4EKSRCULN_11)
+
+4. I am on vacation in Canada.
+   (ID: UXR4EKSRCULN_11)
+
+5. I am going to California for vacation.
+   (ID: O76ENSZ0ZFAX_11)
+
+6. I live in Savannah.
+   (ID: C7RS7BTZIF1Q_11)
+
+7. I live in Sonoma County.
+   (ID: EZGYRI0YA8OX_9)
+
+8. I am staying in a municipality.
+   (ID: ATJSFYS2K6FK_11)
+
+9. I am going to travel to Florida.
+   (ID: V9H9262H3NLV_11)
+
+10. I wouldn't like to leave my town and settle somewhere else.
+   (ID: NK6WLDJ7W255_7)
+
+11. I am Mississippi on business.
+   (ID: AGVUC45C9W9X_7)
+
+12. I live in Kentucky.
+   (ID: T9680U7NZ97F_11)
+
+13. I am living in New Hampshire.
+   (ID: 9QE8MQM0B8P7_11)
+
+14. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+15. I live in NYC.
+   (ID: E3UZAGT5DTE5_11)
+
+16. I live in Oxford.
+   (ID: PCA6OG1NNC5D_9)
+
+17. I am going to Illinois for work.
+   (ID: EDLPKHWH3K5B_11)
+
+18. I live in Oregon.
+   (ID: X3WVWF5IVCYD_11)
+
+19. I live in urban part of the city.
+   (ID: QK9TQHXYFFJ9_11)
+
+20. I live in a house.
+   (ID: SRO8K4E2N5N5_7)
+
+
+--- MSC ---
+Total from this dataset: 65
+
+1. I have two kids. I have a husband. I am a full-time parent
+   (ID: dialog_65_speaker_1)
+
+2. I have no money or friends.
+   (ID: dialog_32_speaker_2)
+
+3. I live out in the country.
+   (ID: dialog_40_speaker_2)
+
+4. I want to open the juicy bar at the beach. I need help. I love reading books at the beach.
+   (ID: dialog_88_speaker_2)
+
+5. I am married to a man who serves the public as a police officer.
+   (ID: dialog_78_speaker_2)
+
+6. I've a home in the suburbs.
+   (ID: dialog_95_speaker_1)
+
+7. I live with my parents
+   (ID: dialog_66_speaker_2)
+
+8. My parents own there own compnay.
+   (ID: dialog_85_speaker_1)
+
+9. I've a disability.
+   (ID: dialog_34_speaker_2)
+
+10. I have a ps4.
+   (ID: dialog_35_speaker_1)
+
+11. My spouse is a member of the military.
+   (ID: dialog_40_speaker_2)
+
+12. I live in Alaska
+   (ID: dialog_34_speaker_2)
+
+13. I want to get my own places.
+   (ID: dialog_24_speaker_2)
+
+14. I live in Florida. I have contacts in Alabama. I have never been to Alabama.
+   (ID: dialog_85_speaker_2)
+
+15. I live in a bad neighborhood.
+   (ID: dialog_13_speaker_2)
+
+16. I live in Alaska.
+   (ID: dialog_34_speaker_2)
+
+17. I live in a retirement home. I am a singer. I have kids who don't live with me.
+   (ID: dialog_44_speaker_1)
+
+18. I am from a very small town.
+   (ID: dialog_2_speaker_1)
+
+19. I have two kids and a husband. I am a full-time parent. I am 30 years old.
+   (ID: dialog_65_speaker_1)
+
+20. I am married with two children.
+   (ID: dialog_76_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 70
+
+1. i live nearby .
+   (ID: metalbark)
+
+2. i 'm too broke to move right now , or i definitely would .
+   (ID: chasemyers)
+
+3. i live in canada very near the canadian rockies ..
+   (ID: exotics)
+
+4. i 'm actually in houston .
+   (ID: LooksAtClouds)
+
+5. i live in a resort area .
+   (ID: StinkinFinger)
+
+6. i 'm sorry i live in asia
+   (ID: beautifulw0man)
+
+7. i have an lg g4 .
+   (ID: thebastion)
+
+8. i 'm in the hollywood area .
+   (ID: glowinthedark)
+
+9. i live in the north seattle area .
+   (ID: Machinax)
+
+10. i 'm in vancouver , no fb .
+   (ID: parkleswife)
+
+11. i am not in europe
+   (ID: Aloha-Potato)
+
+12. i wanna move .
+   (ID: CarlofTime)
+
+13. i pay 80 dollars a month for that plus basic telephone service .
+   (ID: amirman)
+
+14. i am on government disability due to it .
+   (ID: CuriousBlueAbra)
+
+15. i do n't have a drivers license yet so this is a bit too far for me .
+   (ID: Takumi-Fujiwara)
+
+16. i ’m in a deed restricted condo .
+   (ID: 11_29_77)
+
+17. i live in colorado .
+   (ID: Piraticalstyle)
+
+18. i 'm alcoholic but do n't want aa .
+   (ID: SamuelStephenBono)
+
+19. i have a web cam , but that 's the only way i could record myself on the 3ds .
+   (ID: CheapyPipe)
+
+20. i live in greenwood .
+   (ID: boo3114)
+
+
+--- PER-CHAT ---
+Total from this dataset: 731
+
+1. I live in texas.
+   (ID: 7ed1ff576cc7dc77750ed5f15461eb3ccdb52a7a)
+
+2. I live in uk.
+   (ID: 8b409a812bfe5e21e6e8924b5c822fc50d0d2c9a)
+
+3. I live in brazilian florida.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+4. I live in college town.
+   (ID: e564e7a04c6cafd6927ead32dbaf13efc4322c04)
+
+5. I live in phoenix.
+   (ID: 4a5a9ac8eab027b38804427b3c8c5e19c8991de3)
+
+6. I live in house.
+   (ID: 2971f819c4d7400b9fa7806434e9037b6af4dfae)
+
+7. I live in ft lauderdale florida.
+   (ID: afb309c0f8d875957ab1e2c406a762b6127668b6)
+
+8. I live in on other side.
+   (ID: df5213e759ef279850d575577da3967d8f71679c)
+
+9. I live in montana.
+   (ID: 380598f491e44cdd92f2ec6105505f0f439372e2)
+
+10. I live in ohio pls.
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+11. I live in ma.
+   (ID: ba0e9130abfdb05aa7eedd989650338802035edd)
+
+12. I live in china.
+   (ID: 795c678726f71492166b6677c955ce0a48a9b294)
+
+13. I live in melbourne.
+   (ID: 359f9ab2b3224a06fb2eeef0a72bf286f2fe9fa5)
+
+14. I live in japan.
+   (ID: 9d6cadbef277b68098e82945a77678dbb2a079c6)
+
+15. I use mobile.
+   (ID: 3e3ba4fedc605802fcfce7c50b515d9b8d4a7af9)
+
+16. I live in apartment.
+   (ID: 6778aa4e3cf401044823c475db231fc0b1d0ff4b)
+
+17. I live in with bad psoriasis.
+   (ID: 79b35c8caff79f47f37bb4856cc6b57bcd49e5bf)
+
+18. I live in wrong town.
+   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+
+19. I live in vancouver bc.
+   (ID: f0cc6658fb97955562b5f1b7845c6141dd2eefdf)
+
+20. I live in center.
+   (ID: 79e5228419de270c01297915dbce56be0063c52b)
+
+
+--- PersonaChat ---
+Total from this dataset: 38
+
+1. i live in an apartment .
+   (ID: conversation_135)
+
+2. i'm disabled and cannot walk .
+   (ID: conversation_183)
+
+3. i own my home .
+   (ID: conversation_52)
+
+4. my wife stays home with our kids .
+   (ID: conversation_68)
+
+5. i live in rural wisconsin .
+   (ID: conversation_15)
+
+6. we own our home .
+   (ID: conversation_68)
+
+7. i live alone .
+   (ID: conversation_136)
+
+8. we own our home .
+   (ID: conversation_30)
+
+9. i live in nashville .
+   (ID: conversation_215)
+
+10. i live in a suburb of boston .
+   (ID: conversation_164)
+
+11. i live with my parents .
+   (ID: conversation_159)
+
+12. i am a college student who is a full time working mom .
+   (ID: conversation_21)
+
+13. i live with my best friend .
+   (ID: conversation_177)
+
+14. we live in a rural area .
+   (ID: conversation_233)
+
+15. i live alone .
+   (ID: conversation_18)
+
+16. i live in a house .
+   (ID: conversation_118)
+
+17. i live in a house in the country .
+   (ID: conversation_40)
+
+18. i'm a full time mom .
+   (ID: conversation_248)
+
+19. i live in a house .
+   (ID: conversation_97)
+
+20. i have a wife and two kids .
+   (ID: conversation_44)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 69
+
+1. I want to move.
+   (ID: conversation_3_user_2)
+
+2. I rent an apartment.
+   (ID: conversation_12_user_2)
+
+3. My parents pay my rent.
+   (ID: conversation_51_user_2)
+
+4. I am a stay at home mom.
+   (ID: conversation_65_user_1)
+
+5. I live in new york city.
+   (ID: conversation_148_user_2)
+
+6. I live in my parent s basement.
+   (ID: conversation_117_user_1)
+
+7. My twin brother and i share an apartment.
+   (ID: conversation_221_user_2)
+
+8. I live in new york city.
+   (ID: conversation_249_user_1)
+
+9. I lease my car.
+   (ID: conversation_5_user_1)
+
+10. I live in colorado.
+   (ID: conversation_145_user_2)
+
+11. I live in a retirement home.
+   (ID: conversation_193_user_2)
+
+12. I have a wife and children.
+   (ID: conversation_204_user_2)
+
+13. I wish that i lived in the city.
+   (ID: conversation_90_user_2)
+
+14. I am married with 2 kids.
+   (ID: conversation_108_user_2)
+
+15. I have two kids , ages 2 and 6.
+   (ID: conversation_43_user_2)
+
+16. I live in my parents basement.
+   (ID: conversation_116_user_1)
+
+17. I live in california.
+   (ID: conversation_115_user_2)
+
+18. I live in chicago.
+   (ID: conversation_122_user_2)
+
+19. I live with a roommate.
+   (ID: conversation_80_user_2)
+
+20. I live in colorado.
+   (ID: conversation_236_user_1)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 3593
+
+Dataset distribution in this cluster:
+  FoCus: 265 (7.4%)
+  MPChat: 804 (22.4%)
+  MSC: 240 (6.7%)
+  PEC: 986 (27.4%)
+  PER-CHAT: 871 (24.2%)
+  PersonaChat: 143 (4.0%)
+  SyntheticPersonaChat: 284 (7.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 265
+
+1. I enjoy architecture.
+   (ID: V87MW1A1QA33_11)
+
+2. I am a fan of the Roman empire.
+   (ID: VB4LDHWFQAVH_11)
+
+3. I like heritage site.
+   (ID: LERVJ9I223JG_7)
+
+4. I hate the Vietnam War.
+   (ID: TGZJNX488SLV_11)
+
+5. I am a fan of architecture.
+   (ID: VHZMEJDEHGGQ_11)
+
+6. I would like to buy some silk clothes.
+   (ID: RFPVSNBT5GPS_11)
+
+7. I majored in history.
+   (ID: INVNLHZVN3VM_9)
+
+8. I like architecture.
+   (ID: AGVUC45C9W9X_7)
+
+9. I am a fan of architecture.
+   (ID: JFAHL3MTTLAX_11)
+
+10. I love to read.
+   (ID: A2FLEF1TRRHW_11)
+
+11. I am interested in the heritage.
+   (ID: W4CQPY8R6C4Q_11)
+
+12. I am an architect.
+   (ID: 9IFEU12EAOWB_11)
+
+13. I love cathedrals.
+   (ID: E90Q3KNN7V8I_11)
+
+14. I love history.
+   (ID: JTUKE03HZYSY_11)
+
+15. I wish I get the opportunity to read the classic of Writer Washington Irving,
+   (ID: NK6WLDJ7W255_7)
+
+16. I hate people and companies damaging the wildlife and environment of national parks.
+   (ID: LEW58VG9I78X_11)
+
+17. I am interested in site's landmarks.
+   (ID: HGV5HAZVG959_11)
+
+18. I like English Heritage.
+   (ID: W67GZU3ZXI46_9)
+
+19. I would like to learn more about the Nazis.
+   (ID: H697EKUHA9EW_11)
+
+20. I like paintings.
+   (ID: HMSHQ9H7RA76_7)
+
+
+--- MPChat ---
+Total from this dataset: 804
+
+1. i've just started painting with gouache and i love it!
+   (ID: salt_watercolors)
+
+2. i made some socks!
+   (ID: Novel_Fox)
+
+3. my students complain they can't read my handwriting!
+   (ID: meepmeepcuriouscat)
+
+4. my baby is 1 year old today!
+   (ID: FindingTheAdventure)
+
+5. i embroidered a sweat bag.
+   (ID: gelimausi)
+
+6. i crocheted link's shield into a pin for my girlfriend!
+   (ID: Louiesloops)
+
+7. star baby blanket i crocheted
+   (ID: FoxInKneeSocks)
+
+8. i embroidered this easter blanket in the instep.
+   (ID: gelimausi)
+
+9. i found the blanket loophole, make a lovey so it doesn’t take forever!
+   (ID: FoxInKneeSocks)
+
+10. my second finished object for this week is a brown bear.
+   (ID: Moriarty58)
+
+11. i crocheted a dormouse from alice in wonderland and i'm so proud of it!
+   (ID: Louiesloops)
+
+12. my 1st quilt project that isn't a pot holder!
+   (ID: XandXor)
+
+13. [fo]for christmas i made this decoration.
+   (ID: gelimausi)
+
+14. gf got me this because she thought i'd like it.
+   (ID: youngdad33)
+
+15. finished my first blanket!
+   (ID: chirp16)
+
+16. starting a blanket for my girl due in september.
+   (ID: Sophie74656)
+
+17. the shrug i crocheted and mom claimed as her own
+   (ID: letsallcrochetYT)
+
+18. i crochet and i'm a nerd
+   (ID: Sophie74656)
+
+19. painted my nails to match my favorite shirt!
+   (ID: batman1227)
+
+20. second pillow done for my son for christmas
+   (ID: Winter246)
+
+
+--- MSC ---
+Total from this dataset: 240
+
+1. I like learning about history.
+   (ID: dialog_122_speaker_2)
+
+2. I like to read on the beach.
+   (ID: dialog_88_speaker_1)
+
+3. I study at a business school.
+   (ID: dialog_113_speaker_1)
+
+4. I did not go to college. I am considering starting college in a month. I am going to attend a local junior college. I don't know what I want to major in. I think psychology is interesting but I don't know if I want to spend as many years in school as a psychology career requires. I'm taking GE classes. I liked the basic psychology class I took in high school.
+   (ID: dialog_125_speaker_1)
+
+5. Sarah is upstairs.
+   (ID: dialog_128_speaker_1)
+
+6. I'm a journalist.
+   (ID: dialog_64_speaker_2)
+
+7. I've a masters of business.
+   (ID: dialog_52_speaker_2)
+
+8. I want to get back into graphic design, but I do not have the time.
+   (ID: dialog_33_speaker_2)
+
+9. I was a cheerleader in high school. I am a middle school cheerleading coach.
+   (ID: dialog_76_speaker_1)
+
+10. I'm in high school. I want to be an astronaut
+   (ID: dialog_90_speaker_1)
+
+11. I haven't finish school. I am online learning this term.
+   (ID: dialog_67_speaker_2)
+
+12. I did not do well in school. I attend school virtually.
+   (ID: dialog_53_speaker_2)
+
+13. I am not good at math.
+   (ID: dialog_7_speaker_2)
+
+14. I love reading books.
+   (ID: dialog_30_speaker_1)
+
+15. I did not do well in school.
+   (ID: dialog_53_speaker_2)
+
+16. I like the Jonathan Creek books.
+   (ID: dialog_5_speaker_2)
+
+17. I like the book version of a story better than the movie.
+   (ID: dialog_5_speaker_1)
+
+18. I'm studying to be an entrepreneur.
+   (ID: dialog_113_speaker_1)
+
+19. I went to an university.
+   (ID: dialog_7_speaker_1)
+
+20. The kitchen is my domain.
+   (ID: dialog_17_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 986
+
+1. i hate op . i hate r / teenager mods . i hate this whole sub
+   (ID: Wowliam)
+
+2. i hate you .
+   (ID: arabguyistall)
+
+3. i swear i just read that recently , too .
+   (ID: StinkinFinger)
+
+4. i 'm glad that you know your worth and keep yourself healthy too :)
+   (ID: kitcatpaints)
+
+5. i am completely regretting reading the comments .
+   (ID: AP7497)
+
+6. i was a sociology major for a semester before realizing how difficult the employment landscape is :/
+   (ID: NyxPeregrinus)
+
+7. i needed to read this .. thank you .
+   (ID: vivagypsy)
+
+8. i read this as secretariat and got concerned
+   (ID: mduarte821)
+
+9. i am but i ’m a university student and single mom .
+   (ID: kitcatpaints)
+
+10. i ’ve been turned down 3 jobs only because of the class schedule
+   (ID: iToaditSo)
+
+11. i went through a scratch - off phase , dark times .
+   (ID: hussy_trash)
+
+12. i get that , but what does it actually look like to sew ?
+   (ID: buttercup_mauler)
+
+13. i write books .
+   (ID: Beachsurfer)
+
+14. i read that like 3 times and i 'm probably not done , source ?
+   (ID: HugePurpleNipples)
+
+15. i do n’t even see my professors outside of class .
+   (ID: Dustin_Bromain)
+
+16. i mean yeah , we hate them , because they say stupid shit ... e.g - their parenting nonsense .
+   (ID: WorldBFree)
+
+17. i 'm sad that my friends are n't nearly that intelligent .
+   (ID: thed0ctah)
+
+18. i quickly realised that this whole situation is not the school 's fault .
+   (ID: Nimmyzed)
+
+19. i 'm glad i could help
+   (ID: Waterrat)
+
+20. i had someone dye these hydra and shield disc golf discs for me !
+   (ID: DanGarion)
+
+
+--- PER-CHAT ---
+Total from this dataset: 871
+
+1. i agree . i don ' t see why kids should compete with anyone but themselves . sporting events , talentshows , spelling bees . i never really got that . there ' s still time for that later . as a teacher i tend to focus on process and not so much on product . children are individuals .
+   (ID: 067b7441373b7dfebd4b068272381804c26fe6dc)
+
+2. One of my favorite things is ass  school snacks.
+   (ID: 1e92f1e007a1c147f8200d50f473d5433028bffc)
+
+3. can i ask how you are funding your education currently ? i want to get back into post  grad stuff but can ' t fathom a financial method in order to do so .
+   (ID: e78c9eb3b69138ff8337dd896bc5bb1e02fc6559)
+
+4. One of my favorite things is photography.
+   (ID: b67c2fd697e30c5d26fcd88baa61d8bbcce5ec1c)
+
+5. One of my favorite things is diy.
+   (ID: 45bf5c8227b94451beff1dce1059d0d2c683c40c)
+
+6. One of my favorite things is diy.
+   (ID: 4d17a8a4d7907bba6d158e8a0b9c3504d69be003)
+
+7. hey it looks pretty neat , i guess she wanted a already built computer , but you did your best and stop worrying , it ' s all right !
+   (ID: 8487a8406f04273c554e2e578c3a667648916790)
+
+8. nah bro . they hate me but i understand , it ' s all good
+   (ID: 472084017072e7ced5fed0827bae57ba801d9b7d)
+
+9. the messenger by markus zusak , everyone raves about the book thief , and rightly so i think it ' s fantastic , but imo the messenger is a phenomenal piece of literature . the content it explores are real , hard hitting issues , and the narrative styles he uses are unlike many other authors i ' ve ever read . the just utter cleverness of zusak , the twist he throws in at the end is just unique . after reading this book i had one of those hand  over  mouth  rethinking  every  life  choice  what  the  fuck  did  i  just  read  wow moments . seriously read this book , it ' s fantastic and deconstructing it didn ' t ruin it for me , it helped digit year old me understand it better , and have more of the aforementioned moments .
+   (ID: d4912bd11a6aaa98c91794eda03e9fafdfcf5c43)
+
+10. glad you realize how cringeworthy that was  kudos to both of you for growing together and laughing about it !
+   (ID: 634dae5dcf04e8e8d5bfd5e71c1fa8ec9713f222)
+
+11. clothing from my relatives . i would take any other sort of gift and keep with pride but i do take pride in my wardrobe . i have the best family but i have my own style and i  m not wearing that t  shirt with a sassy quote on it that aunt jodie thought was so me . it  s not . not even close
+   (ID: 18e18998471794de2ee0ded08a5f57a45a336e24)
+
+12. One of my favorite things is hats.
+   (ID: e3561bdda3e6ea0d1b0ca099b5f947cf7e037b3a)
+
+13. One of my favorite things is design and decor.
+   (ID: 79b7d42cddd601decb70d75b54d7b51f91360e2d)
+
+14. " hot tits " is a winner in most girls books . men don ' t understand that women want to be sexually spoken to and touched like a whore , but respected like their mother all in one . most of what we complain about would fall into one of these categories . guaranteed . in some way it will be either a you dont find me attractive or b you don ' t respect me enough summary  fuck like whore , respect like mother . p . s . clean dick is a must .
+   (ID: 7a3a98777bf2cebb6bd14409075a19b82035e535)
+
+15. One of my favorite things is home improvement.
+   (ID: 063122b93a40a719244d27587193e154f2fed59d)
+
+16. One of my favorite things is class.
+   (ID: 7e06b6173caa339822499761ab78ee796513d9aa)
+
+17. One of my favorite things is crafts.
+   (ID: 4345d92dae99b45255ddd6b7f7c88a7ad331da93)
+
+18. One of my favorite things is diy.
+   (ID: 35eb47890f8874bbb988ec8308ba762f8377b3b8)
+
+19. that series is the worst thing i have ever read , and i wrote smut many years ago . i shake my head at that , but even my inexperienced arse writing was nowhere near constant ' rape ' , at least i made sure consent was in it , despite being new to writing .
+   (ID: 5d032deb25ff976c97c846d4d1073b0e71b447a3)
+
+20. I own a hobby.
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+
+--- PersonaChat ---
+Total from this dataset: 143
+
+1. i am in college .
+   (ID: conversation_16)
+
+2. i hate broccoli .
+   (ID: conversation_61)
+
+3. i'm a teacher .
+   (ID: conversation_256)
+
+4. i am looking forward to reading the latest political thriller .
+   (ID: conversation_220)
+
+5. i draw comics .
+   (ID: conversation_168)
+
+6. i graduated college in 2016 .
+   (ID: conversation_70)
+
+7. i like to draw .
+   (ID: conversation_325)
+
+8. i read sci fi space adventures with a passion .
+   (ID: conversation_25)
+
+9. i am in college .
+   (ID: conversation_39)
+
+10. i read tons of books .
+   (ID: conversation_65)
+
+11. i like to paint .
+   (ID: conversation_60)
+
+12. i m a children s librarian .
+   (ID: conversation_330)
+
+13. i'm taking online classes .
+   (ID: conversation_129)
+
+14. my favorite author is stephen king .
+   (ID: conversation_132)
+
+15. i graduated with a statistics degree .
+   (ID: conversation_158)
+
+16. i will study computer science .
+   (ID: conversation_108)
+
+17. i just graduated from high school .
+   (ID: conversation_108)
+
+18. i hate that i got my brain from the dad i never met .
+   (ID: conversation_179)
+
+19. i read fantasy fiction novels .
+   (ID: conversation_345)
+
+20. whittling is my favorite hobby .
+   (ID: conversation_153)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 284
+
+1. I enjoy reading.
+   (ID: conversation_203_user_1)
+
+2. I like reading.
+   (ID: conversation_33_user_1)
+
+3. I go to school for business.
+   (ID: conversation_174_user_2)
+
+4. My favorite subject in school is math.
+   (ID: conversation_324_user_2)
+
+5. I love to read.
+   (ID: conversation_239_user_1)
+
+6. I love to crochet.
+   (ID: conversation_313_user_2)
+
+7. I am working on a biology degree.
+   (ID: conversation_150_user_2)
+
+8. I love to sew.
+   (ID: conversation_93_user_2)
+
+9. I m in grad school.
+   (ID: conversation_96_user_2)
+
+10. I moved to ny to study in a prestigious designing school.
+   (ID: conversation_191_user_2)
+
+11. My masters degree is in italian literature.
+   (ID: conversation_309_user_2)
+
+12. I enjoy reading.
+   (ID: conversation_182_user_1)
+
+13. I am an aspiring fiction writer.
+   (ID: conversation_314_user_2)
+
+14. I just graduated college.
+   (ID: conversation_149_user_2)
+
+15. I am an artist.
+   (ID: conversation_275_user_2)
+
+16. I ve started creating my own comics and presenting them to publishers.
+   (ID: conversation_35_user_2)
+
+17. I am in college.
+   (ID: conversation_126_user_1)
+
+18. I like reading.
+   (ID: conversation_36_user_1)
+
+19. I have 3 science classes.
+   (ID: conversation_348_user_2)
+
+20. My favorite book is the bible.
+   (ID: conversation_237_user_1)
+
+
+============================================================

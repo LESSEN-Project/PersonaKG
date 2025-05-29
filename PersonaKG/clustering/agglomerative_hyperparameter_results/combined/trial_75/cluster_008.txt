@@ -1,0 +1,467 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 4805
+
+Dataset distribution in this cluster:
+  FoCus: 22 (0.5%)
+  MPChat: 311 (6.5%)
+  MSC: 60 (1.2%)
+  PEC: 2982 (62.1%)
+  PER-CHAT: 1342 (27.9%)
+  PersonaChat: 29 (0.6%)
+  SyntheticPersonaChat: 59 (1.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 22
+
+1. I do not know much about Canadian art.
+   (ID: GG3IBG4SOHXX_11)
+
+2. I have taken a course on Asian art.
+   (ID: JJN7XJSS0B4W_11)
+
+3. I would like to make a replica of The Thinker sculpture in wood.
+   (ID: JJN7XJSS0B4W_11)
+
+4. I have a number plate numbered 1924.
+   (ID: QRRS2THODNM3_11)
+
+5. I have seen many arena that has vast area.
+   (ID: PHE863C7IQKS_11)
+
+6. I am willing to see Kleinglockner pinacle.
+   (ID: YLLQOXHD6MZC_7)
+
+7. I think spacesuits are cool.
+   (ID: 942CCWXHPUZT_11)
+
+8. I would like to enjoy matches in flood lighting.
+   (ID: VZ1O6OE23O98_11)
+
+9. I am not that huge when it comes to environment issues.
+   (ID: JW0BLP5O75BW_11)
+
+10. I do know about Asian art.
+   (ID: GG3IBG4SOHXX_11)
+
+11. I want to know about any lion safari available in India.
+   (ID: LFDYLQP6HP80_7)
+
+12. I am worried about any inappropriate use of natural resources.
+   (ID: 91IHZ45NQ48A_11)
+
+13. I do not know much about Orkneyinga Saga.
+   (ID: DMQ664J9SVLI_11)
+
+14. I love the smell of Lotus.
+   (ID: KGYT5MMVNDSG_11)
+
+15. I have never seen a T-antenna before.
+   (ID: GNIFMHXKEMKB_11)
+
+16. I think building at least one big store in a town is really important. It will be an outlet of employment and commercial.
+   (ID: 8QHMKV7JII6J_11)
+
+17. I would like to know if the designer was Sir Joseph Paxton.
+   (ID: JBP0INT1W707_11)
+
+18. I wish I knew more about the homless in Victorian times.
+   (ID: 744H5J0MPE9C_9)
+
+19. I wish to find some new print books to check out.
+   (ID: 9QE8MQM0B8P7_11)
+
+20. I don't want large market franchise to replace all small private stores.
+   (ID: 8QHMKV7JII6J_11)
+
+
+--- MPChat ---
+Total from this dataset: 311
+
+1. how can i fix my tulips?
+   (ID: mattsulli)
+
+2. why do my zigzag stitches look like this?
+   (ID: hmbmelly)
+
+3. one day, i'll buy a machine.
+   (ID: Soggypaper_)
+
+4. do i need to trim this?
+   (ID: Taengoosundies)
+
+5. i'm making a blanket with these color but now i'm thinking i want to add more colors.
+   (ID: Sophie74656)
+
+6. been a minute since i shared my setup...
+   (ID: i_like_it_raw_)
+
+7. how do i start this so it doesn’t get unmanageable to work with on a plane?
+   (ID: Chris55730)
+
+8. this single water droplet on my indoor plant’s leaf
+   (ID: ijohno)
+
+9. i would trade it in a heartbeat for the fires to be out though.
+   (ID: dudeinthepnw)
+
+10. wasd cherry mx blue takes me right back to the '90's and my ibm model m.
+   (ID: de_argh)
+
+11. my cake handwriting is much better than my actual penmanship.
+   (ID: fredbutt)
+
+12. i am terrible at drawing, so i decided to try painting my macarons
+   (ID: MafHoney)
+
+13. i've got 2 that i'm trying to get rid of.
+   (ID: ddizzle23)
+
+14. they said my last smash was too thicc
+   (ID: crunch816)
+
+15. thought y’all might like my old ‘86 mb-3
+   (ID: i_like_it_raw_)
+
+16. just got my wish order!
+   (ID: Sophie74656)
+
+17. does this commie helmet make my ar look fat?
+   (ID: VapeThisBro)
+
+18. every day i go to work covered in hair - not by choice.
+   (ID: VodkaWithSnowflakes)
+
+19. first wild oyster mushroom i’ve ever found in washinon though!
+   (ID: sundstrom193)
+
+20. old river grain loader i found last week
+   (ID: GamblinGambit)
+
+
+--- MSC ---
+Total from this dataset: 60
+
+1. I have a Canon camera that I am thinking of selling. I want to upgrade my camera. I like more advanced equipment than just phone cameras.
+   (ID: dialog_49_speaker_1)
+
+2. I always recycle.
+   (ID: dialog_131_speaker_1)
+
+3. I like historical colonial books and non-fiction books.
+   (ID: dialog_55_speaker_1)
+
+4. I wear skirts.
+   (ID: dialog_94_speaker_1)
+
+5. I have two computer monitors.
+   (ID: dialog_95_speaker_2)
+
+6. I prefer wearing a belt.
+   (ID: dialog_31_speaker_2)
+
+7. My wedding is set for april 11.
+   (ID: dialog_101_speaker_2)
+
+8. I'm so over pageantry.
+   (ID: dialog_85_speaker_1)
+
+9. I am getting married and moving to australia with my fiance soon. I'm planning a wedding. I have just bought a wedding cake. I have hired a wedding planner for my wedding.
+   (ID: dialog_77_speaker_2)
+
+10. I cannot play music.
+   (ID: dialog_80_speaker_1)
+
+11. My wedding is set for april 11.
+   (ID: dialog_4_speaker_1)
+
+12. My clothes are usually dark colors.
+   (ID: dialog_6_speaker_1)
+
+13. I have a neighbour who has a 386 custom tower.
+   (ID: dialog_31_speaker_1)
+
+14. I don't like headphones that are in ear.
+   (ID: dialog_77_speaker_1)
+
+15. I am picky when it comes to smart phones.
+   (ID: dialog_95_speaker_2)
+
+16. I have three tattoos. I am getting a tattoo soon. I have a antique bookshelf tattoo on my back shoulder. I love books with strong female characters. I love Hobbit. I have two Lord of the Rings tattoos.
+   (ID: dialog_90_speaker_2)
+
+17. Glasses give me a headache.
+   (ID: dialog_72_speaker_2)
+
+18. I enjoy wearing costumes so you can guess what my favorite day of the year is.
+   (ID: dialog_29_speaker_2)
+
+19. I have a friend who buys and sells cameras on Ebay.
+   (ID: dialog_49_speaker_2)
+
+20. I have totaled two cars.
+   (ID: dialog_106_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2982
+
+1. i use the cleanser and love it ! !
+   (ID: rycheme)
+
+2. i just thank god for making brilliant engineers
+   (ID: bbakks)
+
+3. i ’m tempted to put a shaving mirror on my parcel shelf , has anyone ever tried this ?
+   (ID: throwaway073847)
+
+4. i used one in the 90 's .
+   (ID: rspewth)
+
+5. i lay a tissue over the top .
+   (ID: Justadropinthesea)
+
+6. i always thought that if it was a salt had to have sodium in the compound
+   (ID: chirpyboyandbartjr)
+
+7. i think it 's in settings .
+   (ID: harumpf)
+
+8. i 'm about ready to give up on my vibrant due to the abysmal gps and lack of 2.2 .
+   (ID: Ashex)
+
+9. i do have the app , so i should be able to access most of the videos .
+   (ID: jenni268)
+
+10. i stii do ... and it works perfectly , too .
+   (ID: BlueSuedeBag)
+
+11. i 've had to use it a few times .
+   (ID: Hypersapien)
+
+12. i am thinking dropping both eternal and futures end .
+   (ID: JimmyMcShiv)
+
+13. i saw it in reald 3d , but would like to also see it in imax 3d .
+   (ID: mylescloutier)
+
+14. i have a ... a blue one !
+   (ID: helensis_)
+
+15. i 'm studying it !
+   (ID: helensis_)
+
+16. i ’ve heard this before but hearing you say this i think i ’ll try it ! !
+   (ID: justgirlypasta)
+
+17. i should look into this .
+   (ID: mylescloutier)
+
+18. i had luck at tj maxx in the states .
+   (ID: WhereRtheTacos)
+
+19. i 've done it on moira .
+   (ID: Othello)
+
+20. i want mine to be a bit more active .
+   (ID: cometparty)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1342
+
+1. it looks like a generation digit spyderco clipit endura according to this not entirely sure the validity of this wiki , but it seems to line up with other info i  ve found in other forums .
+   (ID: e7516540d2045135f43a4a7c61f0bd88856c8ff4)
+
+2. I am advocate of bitcoin.
+   (ID: d45001f1fdd37cda488cfddffabec23e83ee7b7e)
+
+3. if you do shell mid air you can do an air blast . the jab also has a lot of mount damage , like digit . you can mount most monsters once with just one jab solo .
+   (ID: f2ddf323cbf1466909e7e09f048b5e781f523d4a)
+
+4. i guess i just wasn ' t . mint for you .
+   (ID: 162574c7cc4882122c2781c596a51e5023f21691)
+
+5. aren  t you taking it away though ? by illegal obtainment of some file you are robbing someone of royalty fees perhaps . you have not have directly removed a 25cent from a writers hand for example , but you did not give it when you were supposed to .
+   (ID: 392895b8f4f938fb4e2bfae6551b901dccf33ac2)
+
+6. why get done today what you can put off until tomorrow ?
+   (ID: 7df89b558f49c9f710c5f928f61dae67f52229c7)
+
+7. honest question . what is going on here that i am missing ? looked to me like a normal pantheon ult with a qwe immediately after .
+   (ID: e3524b3478c664f2c6e8b00a4341ff0a26995fbc)
+
+8. i should of known that the prices for these pokemon ones were too good to be true . they are quite hard to get hold of here in the uk , so fraudsters have filled the gap in the market by flogging these fake ones . ebay will be on your side to and help you and get you a refund if you receive a fake , it is just a lot of hassle that is probably best avoided !
+   (ID: 03bd0b4bb3465eba83e1c9a00af15f7b35f1ec6d)
+
+9. digit  . everyone has different things going on in their lives and different priorities . i ' ve been off work sick for a lot of time this month , so had a lot of time to read which is probably the biggest explanation for this . but also , i just really don ' t go out and prefer to spend my time reading , rather than watching netflix etc . even reading digit book a year is more than a lot of people so we ' re all doing well !
+   (ID: 5f75c9b696f1ea78d1a7d21e5a6d5dd1c9391b14)
+
+10. thank you so much for answering my questions ! i have some follow up questions . regarding the shower situation , in the navy , are you allowed to wake up earlier than your peers to shower or does everyone have to shower at the same time ? like , can you wake up earlier , quickly shower and get dressed ? so while most are asleep , i ' ll avoid having many people surrounding me ? open showers aside in boot camp , will i go through any other situations where i ' d be openly nude among my peers ? or is everything regarding medical  etc . you will have privacy ? i don ' t mind being " known " if it ' s one or two other professional doctors  etc . but i ' m worried about that when it comes to other cadets .   x200b  when you say steady supply of t , do you mean at home or physically with me ? thank you again ! i truly appreciate it !
+   (ID: 3510b342268f3bc4c3f1e402201d7c565dfb7648)
+
+11. i don ' t , but when you add the ! it ' s annoying
+   (ID: 8eba9c7d48a60bfbded2227dacd3275ae756fcce)
+
+12. cool ! that ' s a lot of info , i ' ll have to wait until i get home tonight to dig into it . i ' ll have to give voya a good look to see what their fees are like . i might just dump my schwab ira into voya , if the numbers are right . i could also shop around some more , since i ' m not tied to voya anymore due to employment . thanks for the link .
+   (ID: 063122b93a40a719244d27587193e154f2fed59d)
+
+13. it seems like you  ve got most of your bases covered . you  ll need a water type , so i may suggest starmie . snorlax is always a good pick too .
+   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
+
+14. explain ? i have the dumb .
+   (ID: 61d850113b440da97216a14cfd8a5509352c72b2)
+
+15. see a doctor but it could be harmless . my dad has ones that look like that and it nothing .
+   (ID: fa9acab3fbd86b1f64e6380ef31b49912dae0c74)
+
+16. totally new to vita . how do i know what games i can download and play on the vita ? can i download or buy physical copies of the new releases ? say fifa digit just as an example or is there a certain year in which the vita was no longer compatible ? thanks and sorry for the newb questions .
+   (ID: b8a837337ecbafd4a4c170d8fad76bd3de102f09)
+
+17. sorry my bad , thanks for letting me know how it works , i enjoy the game but im more of a causal that enjoys driving around and taking photos so i  ve never really had experience with that sort of thing
+   (ID: b7515713c74346e74e6961342ed7324a056c09e6)
+
+18. I own a oneplus.
+   (ID: 43361d3d352286328dcb058ec017ca0e2d364601)
+
+19. starbucks coffee at home  extra delicious . starbucks coffee at starbucks  not so much unless you really like coffee
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+20. i think a lot of people have fov all wrong . i ' ve been playing a couple weeks on digit fov . but now i ' m thinking that digit fov is the way to go . with digit fov enemy ' s hitboxes are much larger . i tested that out in training mode with the bloodhound . sure you can ' t see on your sides as well but on console i use a headset and feel like it doesn ' t bring that much benefit since usually enemies aren ' t on my sides . another downside is that you don ' t look like you ' re sprinting as fast but i reconcile this by thinking that you run at the same pace no matter what .
+   (ID: b30983a02e6c6ad80a50a521eee441b9f454a5e9)
+
+
+--- PersonaChat ---
+Total from this dataset: 29
+
+1. i wear a lot of leather .
+   (ID: conversation_187)
+
+2. i only use apple products because i feel everything else is inferior .
+   (ID: conversation_69)
+
+3. my car broke down last week .
+   (ID: conversation_349)
+
+4. i've never done drugs because i do not know where to buy them .
+   (ID: conversation_26)
+
+5. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+6. i have three tattoos .
+   (ID: conversation_90)
+
+7. i'm getting married in six months .
+   (ID: conversation_286)
+
+8. i wear a red purse .
+   (ID: conversation_313)
+
+9. i have two tattoos .
+   (ID: conversation_71)
+
+10. i prefer vinyl records to any other music recording format .
+   (ID: conversation_265)
+
+11. i like to wear red .
+   (ID: conversation_313)
+
+12. i use red lipstick .
+   (ID: conversation_313)
+
+13. i've three tattoos .
+   (ID: conversation_56)
+
+14. i like to wear boots .
+   (ID: conversation_59)
+
+15. i hit for over forty million dollars .
+   (ID: conversation_208)
+
+16. i've boots i always wear .
+   (ID: conversation_223)
+
+17. i couldn t live without my cell phone .
+   (ID: conversation_49)
+
+18. i'm engaged .
+   (ID: conversation_176)
+
+19. i prefer iphone over samsung .
+   (ID: conversation_95)
+
+20. i am a casual dresser .
+   (ID: conversation_128)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 59
+
+1. I like to wear black.
+   (ID: conversation_70_user_2)
+
+2. I almost always wear a t shirt and jeans.
+   (ID: conversation_302_user_1)
+
+3. I like going barefoot.
+   (ID: conversation_58_user_1)
+
+4. I have made over 90 , 000 on trifecta bets alone this year.
+   (ID: conversation_248_user_2)
+
+5. I am buying a house.
+   (ID: conversation_93_user_1)
+
+6. I have a tattoo of an angel on my hip.
+   (ID: conversation_158_user_1)
+
+7. I am engaged.
+   (ID: conversation_233_user_1)
+
+8. I prefer vinyl records to any other music recording format.
+   (ID: conversation_128_user_2)
+
+9. I like going barefoot.
+   (ID: conversation_57_user_1)
+
+10. I am buying a house.
+   (ID: conversation_184_user_2)
+
+11. I m fabulous from my on trend haircut to my louis vuittons.
+   (ID: conversation_98_user_2)
+
+12. I like going barefoot.
+   (ID: conversation_59_user_1)
+
+13. I owe 2 monitors for work.
+   (ID: conversation_69_user_1)
+
+14. I have a sleeve of tattoos.
+   (ID: conversation_149_user_1)
+
+15. I still like combat boots with babydoll dresses.
+   (ID: conversation_233_user_2)
+
+16. I want to get married again.
+   (ID: conversation_289_user_2)
+
+17. I prefer iphone over samsung.
+   (ID: conversation_68_user_1)
+
+18. I have a black purse.
+   (ID: conversation_70_user_2)
+
+19. I have three tattoos.
+   (ID: conversation_240_user_2)
+
+20. I owe 2 monitors for work.
+   (ID: conversation_68_user_1)
+
+
+============================================================

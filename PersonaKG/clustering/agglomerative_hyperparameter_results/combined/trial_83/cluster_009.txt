@@ -1,0 +1,443 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 2808
+
+Dataset distribution in this cluster:
+  FoCus: 12 (0.4%)
+  MPChat: 353 (12.6%)
+  MSC: 142 (5.1%)
+  PEC: 1315 (46.8%)
+  PER-CHAT: 662 (23.6%)
+  PersonaChat: 101 (3.6%)
+  SyntheticPersonaChat: 223 (7.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 12
+
+1. I love the smell of Lotus.
+   (ID: KGYT5MMVNDSG_11)
+
+2. I don't like golf.
+   (ID: CXUYRK4MA1NB_11)
+
+3. I don't like snowboarding.
+   (ID: LOLQOIY09AO4_11)
+
+4. I exercise in the park every weekend.
+   (ID: D4619DV1O1OP_11)
+
+5. I want to go to LA and eat hamburger there.
+   (ID: DELJKM21SQ3E_9)
+
+6. I wish I could taste the local cuisine.
+   (ID: RFPVSNBT5GPS_11)
+
+7. I like Ballari Gudda.
+   (ID: UN54IACHSTX5_11)
+
+8. I only eat organic produce.
+   (ID: XCOBCMEHB8IV_11)
+
+9. I am Coca-Cola addicted.
+   (ID: TF4SZWIWHJO4_11)
+
+10. I am usually active at night.
+   (ID: N7HZ86GP00T0_11)
+
+11. I am staying in a room numbered 1920.
+   (ID: LAU455Y1BO1U_9)
+
+12. I like earthenwares.
+   (ID: AQN3EJ76NIKJ_11)
+
+
+--- MPChat ---
+Total from this dataset: 353
+
+1. the package said "roast" buuut i grilled it.
+   (ID: Flattishsassy)
+
+2. i made hungry jacks angriest whopper with carolina reaper baked in the bub and sauce.
+   (ID: dadcooksstufs)
+
+3. my gf and i just got into needle felting.
+   (ID: TranerGarvis)
+
+4. since macarons are kind of a right of passage-- here is my first attempt info in comments
+   (ID: kns89)
+
+5. i have a ton of spearmint.
+   (ID: Gothblessyou)
+
+6. the best basashi i've ever tasted - kumamoto, japan
+   (ID: VodkaWithSnowflakes)
+
+7. brisket is finally under $3.00/lb in my area.
+   (ID: MonstaEatsItAll)
+
+8. my go to lazy pour.
+   (ID: SilentRansom)
+
+9. vegan friends, what is this green veggie in my tamarind soup on the bottom left?
+   (ID: Chris55730)
+
+10. [i ate] 1/2 lb wagyu burger with bacon, maine lobster, brie and a truffle aioli.
+   (ID: patm28)
+
+11. yesterday i made quinoa sweet potato stuffed portobellos
+   (ID: ReturnOfTheFox)
+
+12. everyone's got a different name for it, but i call them "everything bars."
+   (ID: fredbutt)
+
+13. my four strips of bacon got stuck together while cooking.
+   (ID: Dirk-Killington)
+
+14. my hubby makes the best
+   (ID: FormalSwimming)
+
+15. chick cookies i made a few years ago
+   (ID: yk28chan)
+
+16. the blackberries grow like weeds in my backyard, so i taught myself how to make jam!
+   (ID: Riley_Coyote)
+
+17. i had about half the necessary ingredients for cinnamon rolls
+   (ID: RaeADropOfGoldenSun)
+
+18. learning to knit backwards because the cat is napping on my wip
+   (ID: krichmondRPH)
+
+19. homemade pb&j chicken burger or sandwich for the americans who always get upset ehen i dont say sandwich
+   (ID: dadcooksstufs)
+
+20. my view whenever i eat a cheese stick
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 142
+
+1. I use a wheelchair.
+   (ID: dialog_183_speaker_2)
+
+2. I hate cheese.
+   (ID: dialog_105_speaker_2)
+
+3. I used to eat honeysuckle when I visited my Dad.
+   (ID: dialog_167_speaker_1)
+
+4. I use pens to write a lot.
+   (ID: dialog_31_speaker_2)
+
+5. Prawns are yummy, especially dropped in spicy ketchup.
+   (ID: dialog_174_speaker_2)
+
+6. I quit the olympics.
+   (ID: dialog_171_speaker_2)
+
+7. I walk to get from here to there.
+   (ID: dialog_90_speaker_2)
+
+8. I shooting my meals.
+   (ID: dialog_19_speaker_2)
+
+9. I don't eat junk food.
+   (ID: dialog_120_speaker_1)
+
+10. I admire lipton beverages.
+   (ID: dialog_1_speaker_2)
+
+11. I drink alcohol.
+   (ID: dialog_106_speaker_2)
+
+12. I walk to get from here to there.
+   (ID: dialog_56_speaker_2)
+
+13. I do not like skiing.
+   (ID: dialog_31_speaker_1)
+
+14. I like bee juice.
+   (ID: dialog_155_speaker_1)
+
+15. I don't like vegetables.
+   (ID: dialog_172_speaker_1)
+
+16. I want to try bubblegum flavored cupcakes.
+   (ID: dialog_128_speaker_2)
+
+17. I don't eat junk food.
+   (ID: dialog_120_speaker_2)
+
+18. Taste the rainbow!.
+   (ID: dialog_71_speaker_1)
+
+19. I love cola products.
+   (ID: dialog_98_speaker_1)
+
+20. I do not eat meat.
+   (ID: dialog_155_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1315
+
+1. i usually just eat the donuts i have .
+   (ID: Thenewfoundlanders)
+
+2. i fuse some vodka and tequila ... spicy buzz
+   (ID: lambsquatch)
+
+3. i ate poutine today .
+   (ID: chirpyboyandbartjr)
+
+4. i imagine being a cyclist is even worse
+   (ID: tylock)
+
+5. i got them shrimp on the barbie for ya
+   (ID: BoonTobias)
+
+6. i ca n't communicate with the french but yet it 's illegal to eat them .
+   (ID: serverpilot)
+
+7. i do n’t know a good recipe for meth
+   (ID: fabs1171)
+
+8. i ’m a married man , this happens more often than you ’d think .
+   (ID: DickRubnuts)
+
+9. i 'd be very worried about slamming my coconut into somebodys noggin .
+   (ID: mr_venus)
+
+10. i say once or twice a year , you 're fine , every weekend and you 're an alcoholic .
+   (ID: redandblack555)
+
+11. i sometimes forget what any part of it tasted like because i inhaled it so fast .
+   (ID: buttercup_mauler)
+
+12. i personally hate all the custom shit on rap caviar .
+   (ID: BoobieBoobieButtButt)
+
+13. i hear that they call gravy " a lift " over there or something like that .
+   (ID: dkinmn)
+
+14. i have never bought them food either .
+   (ID: serverpilot)
+
+15. i usually out panties on my face .
+   (ID: DickRubnuts)
+
+16. i absolutely love chocobos .
+   (ID: McDapperson)
+
+17. i 'm not familiar with this practice .
+   (ID: notTHATwriter)
+
+18. i 'd like it a lot better if it was raspberry flavoured .
+   (ID: underneathstars)
+
+19. i also get energy after .
+   (ID: FridaysChild219)
+
+20. i 've been making my 5 year old do this as punishment .
+   (ID: pinkpowerranger8)
+
+
+--- PER-CHAT ---
+Total from this dataset: 662
+
+1. orange , lemon , and lime peels make me feel some type of way . oh , and pine sol . it ' s really embarrassing to admit , to be honest .
+   (ID: 1b90fe7ac45d325859956bedb446558d1a1d6bfd)
+
+2. i put an empty ice  cream cone in a whirlpool in my sink after pulling out the plug .
+   (ID: 93102e17c1a3f6136bb2fad08c587ad924185f76)
+
+3. now that seems a little harsh . why should i murder my wife when she ' s of the same mindset as you ? she hates all varieties of olives . and why should i commit suicide ? i actually save people like you and she by eating all those unwanted black olives . seems pretty shortsighted of you .
+   (ID: 0e56d8a3bf928d2e85ff5b7a5a98f913d2826b00)
+
+4. i stuck a cucumber inside my pussy and timed how long it took to reach body temperature
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+5. that makes it even better . people who can laugh at themselves are great !
+   (ID: 7ee28e75f6892a783098b002e4b064fa768322bc)
+
+6. a long time . as long as it can last without making me want to scratch my eyes out .
+   (ID: f5639f88927d467b89189ab179bb30d8a5705552)
+
+7. honestly there  s nothing wrong about not doing any drugs , i haven  t done any
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+8. gastrointestinal virusnot sure i spelt it right . i went swimming in a lake for a school feild trip then later figured out there was e . coli in the lake . so i had e . coli and the virus at the same time . it felt like someone was hitting me with a hammer from the inside . i was super pale and curled up in a ball on the floor . i puked digit times in digit hours and couldn ' t eat or drink anything .
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+9. oh i had no idea you like the taste of your own penis and oil , american
+   (ID: afdf67bb8f008481f179013844deeffa5b1b9a03)
+
+10. One of my favorite things is plenty  veggies.
+   (ID: 55510b17a4f0d7b5820e6f21287525ef6cd60994)
+
+11. you talking about all that soot ? or before i even start welding ?
+   (ID: 46a39b1131e50f9cc061bbaf88e15686e5c9359d)
+
+12. i think that ' s on propose . ever bus i ' ve been on the seatsc
+   (ID: 3a4d651e80b977ca979a1b3aa39b61ac142bbd3c)
+
+13. that ' s one thing i could never understand , how some people can stay in their bath for hours , i find it uncomfortable
+   (ID: a80b8bc356414690d849369456d68876c95d5518)
+
+14. there  s this one teacher at my school who sometimes give out house points if he sees you using it ecosia
+   (ID: 194714d1fdaeadcdfa8c031ea9ba02536763b6bf)
+
+15. yeast . i ' m pretty sure i could do up a solid diet of beer and bread  based foods like sandwiches ! ha !
+   (ID: f3657f57aa348caf1c32ec21ef139ea41a45dc29)
+
+16. acts digit  digit  digit  digit the next day , as they were on their journey and coming near the city , peter went up on the housetop to pray , about the sixth hour . digit and he became hungry and desired something to eat  but while they were preparing it , he fell into a trance digit and saw the heaven opened , and something descending , like a great sheet , let down by four corners upon the earth . digit in it were all kinds of animals and reptiles and birds of the air . digit and there came a voice to him ,  rise , peter  kill and eat .  digit but peter said ,  no , lord  for i have never eaten anything that is common or unclean .  digit and the voice came to him again a second time ,  what god has cleansed , you must not call common .  digit this happened three times , and the thing was taken up at once to heaven . matthew digit  digit  digit , digit  digit  digit and he called the people to him and said to them ,  hear and understand  digit not what goes into the mouth defiles a man , but what comes out of the mouth , this defiles a man .  digit and he said ,  are you also still without understanding ? digit do you not see that whatever goes into the mouth passes into the stomach , and so passes on ? digit but what comes out of the mouth proceeds from the heart , and this defiles a man . digit for out of the heart come evil thoughts , murder , adultery , fornication , theft , false witness , slander . digit these are what defile a man  but to eat with unwashed hands does not defile a man .
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+17. cannmart shouldn ' t condone those prices and just not sell their product then . i know it ' s not that simple but damn those poor patients at agro greens .
+   (ID: 315ad21e3ce098f09bec23f9b7509d07540912c7)
+
+18. toilet paper . you can grab an enormous pinch of napkins from chipotle .
+   (ID: 237175707a16a7382ac8130de85ed85b63dc9442)
+
+19. go back to when abraham lincoln was assassinated and yell out for him to turn around . thrust being known as the person who save the president . or who got him shot in the face .
+   (ID: 2168250be01c43791f88e7c8ad875c0396307047)
+
+20. digit weeks monday here , idk if it  s just me but instead of craving the taste of foods i crave the texture of foodface  with  tears  of  joy i  m trying to make as much sense as possible here , so for clarity , a lot of times i  ll really crave gummy bears , not the taste of the actual gummy bear but the way it feels to chew on a gummy bear .
+   (ID: b481339e58c54d903a5bef6ed58d704163f4f9f3)
+
+
+--- PersonaChat ---
+Total from this dataset: 101
+
+1. i eat large meals .
+   (ID: conversation_16)
+
+2. i hate carrots .
+   (ID: conversation_3)
+
+3. i'm vegan .
+   (ID: conversation_20)
+
+4. i love coffee with cream .
+   (ID: conversation_133)
+
+5. i only sleep 3 hours a day .
+   (ID: conversation_309)
+
+6. i don't eat bread .
+   (ID: conversation_183)
+
+7. i drink diet coke .
+   (ID: conversation_123)
+
+8. i do not like green eggs and ham .
+   (ID: conversation_199)
+
+9. i am a vegetarian .
+   (ID: conversation_492)
+
+10. i love coffee with cream .
+   (ID: conversation_433)
+
+11. i don t drink alcohol .
+   (ID: conversation_289)
+
+12. sometimes , i sit by strangers on the subway and strike up a conversation .
+   (ID: conversation_220)
+
+13. i hate carrots .
+   (ID: conversation_72)
+
+14. i do yoga on tuesdays .
+   (ID: conversation_262)
+
+15. i'm a morning person .
+   (ID: conversation_188)
+
+16. i'm a vegan .
+   (ID: conversation_151)
+
+17. i never eat veggies .
+   (ID: conversation_235)
+
+18. i'm a vegan .
+   (ID: conversation_267)
+
+19. i like to drink tea .
+   (ID: conversation_457)
+
+20. i do not like beer .
+   (ID: conversation_198)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 223
+
+1. I m lazy and pork tastes good.
+   (ID: conversation_245_user_2)
+
+2. I take vitamin c when i have a cold.
+   (ID: conversation_365_user_2)
+
+3. I hate the taste of fish.
+   (ID: conversation_195_user_1)
+
+4. I can t stand pizza.
+   (ID: conversation_243_user_2)
+
+5. I often play the clown to get attention.
+   (ID: conversation_66_user_2)
+
+6. I hate the taste of fish.
+   (ID: conversation_202_user_1)
+
+7. I am a vegan.
+   (ID: conversation_221_user_1)
+
+8. I do not like vegetables.
+   (ID: conversation_4_user_2)
+
+9. I am vegan.
+   (ID: conversation_43_user_1)
+
+10. I practice yoga daily.
+   (ID: conversation_238_user_2)
+
+11. I don t like broccoli.
+   (ID: conversation_264_user_2)
+
+12. I like to try different beers from various countries.
+   (ID: conversation_311_user_2)
+
+13. I almost always wear a t shirt and jeans.
+   (ID: conversation_42_user_2)
+
+14. I am a vegan.
+   (ID: conversation_193_user_1)
+
+15. I am a vegetarian.
+   (ID: conversation_408_user_2)
+
+16. I make my own soap.
+   (ID: conversation_123_user_2)
+
+17. I am a morning person.
+   (ID: conversation_131_user_1)
+
+18. I am vegan.
+   (ID: conversation_44_user_1)
+
+19. I listen to katie perry while in the shower.
+   (ID: conversation_22_user_2)
+
+20. I don t like beer.
+   (ID: conversation_80_user_2)
+
+
+============================================================

@@ -359,9 +359,8 @@ class PersonaClusterAnalysis:
                 for dataset in sorted(noise_by_dataset.keys()):
                     dataset_noise = noise_by_dataset[dataset]
                     f.write(f"\n--- {dataset} ({len(dataset_noise)} points) ---\n\n")
-                    sample_size = min(n_samples, len(dataset_noise))
-                    sampled = random.sample(dataset_noise, sample_size)
-                    for i, stmt in enumerate(sampled, 1):
+                    # Save all noise points instead of sampling
+                    for i, stmt in enumerate(dataset_noise, 1):
                         f.write(f"{i}. {stmt['statement']}\n")
                         f.write(f"   (ID: {stmt['dataset_id']})\n\n")
 

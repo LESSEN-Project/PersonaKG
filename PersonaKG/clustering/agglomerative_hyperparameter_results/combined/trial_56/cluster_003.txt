@@ -1,0 +1,467 @@
+CLUSTER 3
+============================================================
+Total statements in cluster: 2388
+
+Dataset distribution in this cluster:
+  FoCus: 352 (14.7%)
+  MPChat: 66 (2.8%)
+  MSC: 313 (13.1%)
+  PEC: 788 (33.0%)
+  PER-CHAT: 516 (21.6%)
+  PersonaChat: 108 (4.5%)
+  SyntheticPersonaChat: 245 (10.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 352
+
+1. I wouldn't like to fly in a helicopter.
+   (ID: G4JZMW0OPV0G_11)
+
+2. I would like to visit Banja of Peja at the end of the year.
+   (ID: LYYSTNQ9MBLY_11)
+
+3. I like park.
+   (ID: L6JH57TIZGRW_11)
+
+4. I would like to visit USA.
+   (ID: LQEMVPLBWMFW_11)
+
+5. I like Catherine of Alexandria.
+   (ID: TF24QL7QZSG2_11)
+
+6. I like geography.
+   (ID: LX3CSQUSJ9B3_9)
+
+7. I would like to visit Turkey.
+   (ID: EA2ZVDRVQ40F_11)
+
+8. I like sand.
+   (ID: CXUYRK4MA1NB_11)
+
+9. I like to have fun with my kayak.
+   (ID: L96351DIHFAR_7)
+
+10. I like nonviolence.
+   (ID: IP4KRMQQREBQ_9)
+
+11. I prefer a sand beach to a rock beach. I like the soft texture of sand.
+   (ID: ZDIM8K78EM2D_11)
+
+12. I like jaguars.
+   (ID: U2VHOEDA278F_11)
+
+13. I would like to worship in a church.
+   (ID: G1IQ2JHFB47F_11)
+
+14. I like llamas very much.
+   (ID: LEW58VG9I78X_11)
+
+15. I'd like to visit a national park.
+   (ID: 8BSRL0F5WC2L_11)
+
+16. I would like to go to India.
+   (ID: WKS47SP8CYLV_11)
+
+17. I like drawing pictures.
+   (ID: RUXEW8EYORSZ_11)
+
+18. I would like to visit Scotland.
+   (ID: QISL6J366OY6_11)
+
+19. I like to go mountain climbing.
+   (ID: CFYWBHPKPOHZ_7)
+
+20. I would like to do different activities.
+   (ID: MP1ZK22Q90C9_11)
+
+
+--- MPChat ---
+Total from this dataset: 66
+
+1. yes, hello, i would like one attention thank you
+   (ID: kentobean123)
+
+2. i give my mom a set like this for every occasion.
+   (ID: Louiesloops)
+
+3. i like to put cute animals in my coffee!
+   (ID: av929)
+
+4. "excuse me... i'd like to squeeze myself under this chair"
+   (ID: HobbitLass)
+
+5. why do my zigzag stitches look like this?
+   (ID: hmbmelly)
+
+6. i like to make stamps, mostly of my pets and plants!
+   (ID: pocket_kira)
+
+7. my husband's a little sick so penny proud is making him feel better with her love.
+   (ID: kentobean123)
+
+8. cake i made looks a bit like those wax paper cups from the 90s
+   (ID: fredbutt)
+
+9. i didn’t like it so i scraped it off and started again.
+   (ID: amandabakes)
+
+10. i cant tell if it looks much like a heart.
+   (ID: Nutellism)
+
+11. i finally started running my out-of-home cottage bakery full time, this is what my second week looked like.
+   (ID: SugarHighBakedGoods)
+
+12. i like bunny butts and i cannot lie!
+   (ID: drfrank1982)
+
+13. well... looks like i can't move my hand now.
+   (ID: ambora)
+
+14. i would like one boop please.
+   (ID: kentobean123)
+
+15. feels like a good day to post this, my elmore leonard collection.
+   (ID: JEZTURNER)
+
+16. i still feel like this pudgy turkey after gorging so much yesterday.
+   (ID: jlb4est)
+
+17. this is what it looks like when i try to create a pattern
+   (ID: Sophie74656)
+
+18. i like photoshopping my crocheted characters into movie stills, can you tell the movie?
+   (ID: Louiesloops)
+
+19. i like to bake in rainbow colors.
+   (ID: Soliloquy119)
+
+20. my cake from birds eye view kinda looks like pacman
+   (ID: Notnotnotbryan)
+
+
+--- MSC ---
+Total from this dataset: 313
+
+1. I like old 386 video games. I used to read Michener.
+   (ID: dialog_31_speaker_2)
+
+2. I like rock alternative music.
+   (ID: dialog_5_speaker_2)
+
+3. I do not like to watch tv.
+   (ID: dialog_73_speaker_1)
+
+4. I like fried chicken and fish.
+   (ID: dialog_82_speaker_1)
+
+5. I like to move it to music.
+   (ID: dialog_28_speaker_2)
+
+6. I like rock music.
+   (ID: dialog_69_speaker_1)
+
+7. I like to walk pets.
+   (ID: dialog_84_speaker_1)
+
+8. I like to raise animals.
+   (ID: dialog_40_speaker_2)
+
+9. My uncle is a doctor. I like biology.
+   (ID: dialog_12_speaker_1)
+
+10. I like to stay up.
+   (ID: dialog_43_speaker_2)
+
+11. I like to try new foods.
+   (ID: dialog_23_speaker_1)
+
+12. I like animals.
+   (ID: dialog_24_speaker_2)
+
+13. I like suspense.
+   (ID: dialog_5_speaker_1)
+
+14. I like the magic act where one can't talk.
+   (ID: dialog_90_speaker_1)
+
+15. I like to make miniatures.
+   (ID: dialog_26_speaker_1)
+
+16. I like the Benedict Cumberbatch Sherlock TV Series.
+   (ID: dialog_5_speaker_2)
+
+17. I like shopping.
+   (ID: dialog_27_speaker_1)
+
+18. I like fishing, role-playing games.
+   (ID: dialog_61_speaker_1)
+
+19. I routinely travel to Europe and South America. I plan on travelling to Japan. I would like to explore the mountain areas and see the world heritage sites.
+   (ID: dialog_9_speaker_1)
+
+20. I have a mountain bike and like to be alone.
+   (ID: dialog_76_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 788
+
+1. i do n't normally use greatswords , but i like the fashion on that one .
+   (ID: nastylittleman)
+
+2. i wonder how they 'd look like with a black outline , because that 'd make them very visible
+   (ID: Atemu12)
+
+3. i can feel you are much more confident .
+   (ID: Ml7500)
+
+4. i feel so discouraged .
+   (ID: justgirlypasta)
+
+5. i feel like the tip would be hot for a while
+   (ID: John7oliver)
+
+6. i like to participate in reefer madness !
+   (ID: jay456)
+
+7. i feel the same with my boyfriend , he is my home
+   (ID: iam1r7)
+
+8. i am using it for my current project and it works like a charm
+   (ID: bestform)
+
+9. i feel like that 's a gimme .
+   (ID: ifatree)
+
+10. i mean , it looks pretty much like he threw a gun over the bridge .
+   (ID: DarkMoon99)
+
+11. i do n't feel that eternal hell is unique to christian book .
+   (ID: xcombelle)
+
+12. i 'd like to take this opportunity to formally apologize for the 80 's .
+   (ID: bbakks)
+
+13. i like to go for them on the surface .
+   (ID: error785)
+
+14. i like boiling denim , and bangin hoors .
+   (ID: vikkivinegar)
+
+15. i get she tastes like heaven .
+   (ID: 2inthehands)
+
+16. i found another magazine that would probably take the piece , and would like to submit it there .
+   (ID: genpell)
+
+17. i would like to hear what some more experienced star gazers have to say .
+   (ID: dohko_xar)
+
+18. i feel like a free person !
+   (ID: Lilliaan)
+
+19. i like how your hair and eyes compliment one another
+   (ID: ListenandLove100)
+
+20. i like drawing .
+   (ID: Captain_-H)
+
+
+--- PER-CHAT ---
+Total from this dataset: 516
+
+1. ok then . i bet your name is something stupid . like jack . or scott . one of those two . i bet it  s not something sexy like steve or cole .
+   (ID: a8d677a357cabd8cb6d9bfa06e041b5b173582d8)
+
+2. thanks ! i will probably try it with a few different rums until i find one i like the most .
+   (ID: 2e464b2732570f16afced14ab79d30fa92622627)
+
+3. i like everything but rap . the feeling depends on the song and what it reminds me of buy it ' s usually good
+   (ID: 9e778023eda5589ac577e3789edfd900d208edf7)
+
+4. is it possible to confuse dreams with reality like it happens in the movie inception ?
+   (ID: d048a45810866f7b853972f50c2c2746bc339a21)
+
+5. if your boss thinks like this , you arent working at the right job . find a different industry
+   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
+
+6. canadian stereotypes , i  m canadian and a lot of them are false , but i like to laugh at it knowing that people can seriously get this country wrong
+   (ID: 93c3b3d523de0afd404d3bcb4acdf023866f9281)
+
+7. omg u guys are so dumb obviously no one has ever said this to you so stop making  memes  and go get a real job like go on tumblr or something that  s a good website guys it  s obviously a joke . edit
+   (ID: 4136a1b6da64b3c5f49dfe23761d1a0ec8925dba)
+
+8. the only way to get people ' s attention was to act like it was a doomsday , but we always knew it would be insidious and slow .
+   (ID: df28c2a39b633ca418192316a199668289382292)
+
+9. you can make all the excuses you like .
+   (ID: 2ce191fd1043183c73daf2ab41afee9b122fd42b)
+
+10. digit would like to point out that any decent trolls would trolll you with the answers . absolutely no one who is responding to this is trustworthy , you should probably do the exact opposite of what everyone says .
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+11. we have a sleep number bed with adjustable base . i like being able to adjust the firmness if i have any back or neck pain . my husband prefers a firmer mattress than i do so we can both have the settings we prefer .
+   (ID: bfe383e709c2236b3ebe70cb079877dd420ac82b)
+
+12. didn ' t you comment that on an other comment to ? that ' s like using the same bad yo ' mama joke twice in a row on two ppl right beside eachother
+   (ID: f3a18644ac7abbbf38805d44618254b8104cce6f)
+
+13. does she feel even close to how i do ?
+   (ID: e1aebf37580e679f77f5038c575f4359c51af29f)
+
+14. everything is bullshit if you don ' t have an answer to it . personally you pick it if you can get bursted down a bit quickly , and there ' s probably digit key heroes that are pretty tanky and do quite some damage . other than that the attack range is so much better , you ' re illusions get it too and you can take t3 and barracks in like digit seconds
+   (ID: 2dcd820eac167adf18c6706f1c0a26a39eb945be)
+
+15. sounds like a good plan . which pokemon are you playing ? is it any good ? how is it different from the last digit pokemon games ?
+   (ID: 93aef5ab9bcfb13e4085ecbd6b6948845a9ec03b)
+
+16. what that ' s real ? i was expecting the comments to be like " lol this is funny " but no , people are like " i use this every day "
+   (ID: eeef74f05127fafe9b00ca3ad85ff51c0eb20fff)
+
+17. after personally experiencing dmt , i am very convinced that there is an afterlife . when you are at this place , you have memories of before you were a human . try to take back those memories with you is like forgetting a dream .
+   (ID: 4a5a9ac8eab027b38804427b3c8c5e19c8991de3)
+
+18. a picture in lingerie does not equal asking for it . why is this such a hard concept for people like you to understand ?
+   (ID: a8b3c82ca36eb4e48fd6b6674a642f96d401743e)
+
+19. this this and this . do your best to change it for her . make her feel like it  s not a bad thing and there  s no reason to feel bad . try your best to erase that part of her past . purple  heart
+   (ID: 3590b3fd811042b17c3ff7f8b851664408a349ef)
+
+20. because they like to tell me i ' m not doing enough with myself , even though nobody asked them .
+   (ID: 8b9c4341d896783998a7c3485fa949b3c63cbd73)
+
+
+--- PersonaChat ---
+Total from this dataset: 108
+
+1. i like to go to bars and people watch .
+   (ID: conversation_169)
+
+2. i like to go fishing on the lake .
+   (ID: conversation_104)
+
+3. i like to read .
+   (ID: conversation_55)
+
+4. i like to go to the farmers market every weekend .
+   (ID: conversation_215)
+
+5. i like to snowboard .
+   (ID: conversation_15)
+
+6. i like to listen to music .
+   (ID: conversation_6)
+
+7. i like music .
+   (ID: conversation_205)
+
+8. i like to listen to music .
+   (ID: conversation_182)
+
+9. i like to ride horses .
+   (ID: conversation_15)
+
+10. i like gardening .
+   (ID: conversation_239)
+
+11. i like to hike .
+   (ID: conversation_157)
+
+12. i like to go to the farmer s market every weekend .
+   (ID: conversation_117)
+
+13. i like to go to the movies .
+   (ID: conversation_185)
+
+14. i like the tv show the walking dead .
+   (ID: conversation_93)
+
+15. i like to write poetry .
+   (ID: conversation_36)
+
+16. i like to exercise .
+   (ID: conversation_182)
+
+17. i like to party .
+   (ID: conversation_112)
+
+18. i like cooking healthy meals .
+   (ID: conversation_237)
+
+19. i like watching action adventure movies and eating popcorn .
+   (ID: conversation_178)
+
+20. i like to go hunting .
+   (ID: conversation_0)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 245
+
+1. I do not like green eggs and ham.
+   (ID: conversation_132_user_2)
+
+2. I like to hunt.
+   (ID: conversation_18_user_1)
+
+3. I like the guitar.
+   (ID: conversation_212_user_1)
+
+4. I like to bake.
+   (ID: conversation_188_user_2)
+
+5. I like gardening.
+   (ID: conversation_169_user_2)
+
+6. I like cats.
+   (ID: conversation_110_user_1)
+
+7. I like to play board games.
+   (ID: conversation_159_user_2)
+
+8. I like to read.
+   (ID: conversation_234_user_2)
+
+9. I like to shop at goodwill.
+   (ID: conversation_74_user_2)
+
+10. I like tacos.
+   (ID: conversation_165_user_1)
+
+11. I like to bake pies.
+   (ID: conversation_72_user_1)
+
+12. I like to bike.
+   (ID: conversation_106_user_1)
+
+13. I like to travel.
+   (ID: conversation_111_user_1)
+
+14. I like the tv show the walking dead.
+   (ID: conversation_18_user_1)
+
+15. I like to play board games.
+   (ID: conversation_50_user_2)
+
+16. I like ice cream.
+   (ID: conversation_233_user_1)
+
+17. I do not like my reputation.
+   (ID: conversation_187_user_2)
+
+18. I like cars.
+   (ID: conversation_111_user_1)
+
+19. I also like ford trucks.
+   (ID: conversation_1_user_2)
+
+20. I like to garden.
+   (ID: conversation_74_user_1)
+
+
+============================================================

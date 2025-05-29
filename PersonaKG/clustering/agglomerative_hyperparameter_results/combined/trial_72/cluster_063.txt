@@ -1,0 +1,467 @@
+CLUSTER 63
+============================================================
+Total statements in cluster: 933
+
+Dataset distribution in this cluster:
+  FoCus: 54 (5.8%)
+  MPChat: 23 (2.5%)
+  MSC: 208 (22.3%)
+  PEC: 98 (10.5%)
+  PER-CHAT: 115 (12.3%)
+  PersonaChat: 137 (14.7%)
+  SyntheticPersonaChat: 298 (31.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 54
+
+1. I like art gallery.
+   (ID: GG3IBG4SOHXX_11)
+
+2. I love art.
+   (ID: O5F8MAFDNJB4_11)
+
+3. I like stained glass windows.
+   (ID: PGIZXWTCX77K_7)
+
+4. I love shopping.
+   (ID: NNHLL70QFA6I_11)
+
+5. I am fond of old furniture.
+   (ID: ZXCRSZ4D5PMK_11)
+
+6. I love arts.
+   (ID: 9LPSSRYT28ZD_11)
+
+7. I love art.
+   (ID: 81HQ6CXFBQYH_11)
+
+8. I love department stores.
+   (ID: OH2YXB0PNO4O_11)
+
+9. I would like to be a pianist.
+   (ID: D0BKN1W8KWG6_7)
+
+10. At school, I wrote an essay on World Heritage Sites.
+   (ID: 9XU1TTS7R7XN_11)
+
+11. I love being in the middle of the many skyscrapers.
+   (ID: YH6KAJ3V2KQ8_11)
+
+12. I love art.
+   (ID: HO5IT5J1RXE4_11)
+
+13. I like Southeast Asian art.
+   (ID: DYCZHTF8867I_11)
+
+14. I have an interest in Art Deco.
+   (ID: XA7M896U3YIQ_11)
+
+15. I like to collect antiques.
+   (ID: F10IB9885VKB_11)
+
+16. I like visiting many different kinds of stores.
+   (ID: 8QHMKV7JII6J_11)
+
+17. I want to teach someday.
+   (ID: ASEVTIZW4Z03_11)
+
+18. I love art.
+   (ID: QISL6J366OY6_11)
+
+19. I love street markets.
+   (ID: Y2QT7AAK6CLK_11)
+
+20. I like Lego.
+   (ID: 7IBCPXY2UPQA_11)
+
+
+--- MPChat ---
+Total from this dataset: 23
+
+1. i'm an illustrator that fell in love with ceramics.
+   (ID: cryptidcat)
+
+2. i make earth-inspired ceramic smokeware and accessories!
+   (ID: phantomfellow)
+
+3. this is now my collection.
+   (ID: CallMeBigBobbyB)
+
+4. i knit these christmas ornaments
+   (ID: Novel_Fox)
+
+5. i love creating ceramics.
+   (ID: SusanneHW)
+
+6. i've just started painting with gouache and i love it!
+   (ID: salt_watercolors)
+
+7. sometimes i get really bored when marking scripts at home.
+   (ID: meepmeepcuriouscat)
+
+8. finishing up the documenting of my mfa show.
+   (ID: Mdoxxx)
+
+9. i make earth-inspired ceramic pipes!
+   (ID: phantomfellow)
+
+10. check out these mushroom pipes i make!
+   (ID: phantomfellow)
+
+11. a few people pmd me about my doctor who scarf pattern.
+   (ID: ddizzle23)
+
+12. i've never done this before and i got inspired by the granny square stained glass.
+   (ID: Soapy_Von_Soaps)
+
+13. i make ceramic mushroom pipes!
+   (ID: phantomfellow)
+
+14. i make customizable handmade hand-bound journals, various sizes
+   (ID: doodlesinthedark)
+
+15. i make mushroom pipes!
+   (ID: phantomfellow)
+
+16. i make narwhals and octopuses!
+   (ID: skorletun)
+
+17. i'm a sucker for fossil watches.
+   (ID: insertnamehere02)
+
+18. i like to fold papers too!
+   (ID: gxnelson)
+
+19. i create sweet handmade little journals!
+   (ID: doodlesinthedark)
+
+20. combined two of my hobbies.
+   (ID: ItsBail)
+
+
+--- MSC ---
+Total from this dataset: 208
+
+1. I like to read. I have been working at a bookstore for three years.
+   (ID: dialog_90_speaker_2)
+
+2. I want to be an artist.
+   (ID: dialog_42_speaker_1)
+
+3. I can make wooden rocking chairs.
+   (ID: dialog_176_speaker_1)
+
+4. I'm musical.
+   (ID: dialog_163_speaker_2)
+
+5. I like music, especially hard rock. I like drawing sketches.
+   (ID: dialog_42_speaker_1)
+
+6. I want a big change in my life.
+   (ID: dialog_159_speaker_2)
+
+7. I write romance novels
+   (ID: dialog_119_speaker_1)
+
+8. I'm a rock star on the strings.
+   (ID: dialog_161_speaker_1)
+
+9. I play sports. I don't party.
+   (ID: dialog_106_speaker_1)
+
+10. I like to help out in the community.
+   (ID: dialog_20_speaker_2)
+
+11. I would am interested in being a composer for TV and film.
+   (ID: dialog_53_speaker_1)
+
+12. I want to open the juicy bar at the beach. I love reading books at the beach.
+   (ID: dialog_88_speaker_2)
+
+13. I like to buy things.
+   (ID: dialog_191_speaker_1)
+
+14. I make digital illustrations.
+   (ID: dialog_132_speaker_2)
+
+15. I like art and animals.
+   (ID: dialog_138_speaker_1)
+
+16. I don't like to sing. I am a software engineer.
+   (ID: dialog_144_speaker_1)
+
+17. I used to be interested in graphics design. I went to college.
+   (ID: dialog_33_speaker_2)
+
+18. I am an app designer. I took a free course on codecademy to learn to make apps. I took the free course and did not like it.
+   (ID: dialog_79_speaker_1)
+
+19. I tell jokes on stage.
+   (ID: dialog_2_speaker_2)
+
+20. I play the violin.
+   (ID: dialog_45_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 98
+
+1. i 've got bass and drums already .
+   (ID: closetotheedge48)
+
+2. i just repost stuff myself
+   (ID: exotics)
+
+3. i like making things and i love it doing it with local friends .
+   (ID: CarlofTime)
+
+4. i mostly play the blues and some melodic stuff .
+   (ID: Zarqume)
+
+5. i teach people how to impersonate willem dafoe
+   (ID: WillemDafoesAlterEgo)
+
+6. i like computers and especially programming , so i made it my job .
+   (ID: BorgDrone)
+
+7. i would say that ’s a skill !
+   (ID: gofiguree)
+
+8. i want to use bitcoin as a currency .
+   (ID: WorldBFree)
+
+9. i prefer making portraits but i love looking at abstract paintings :)
+   (ID: JacksChocolateCake)
+
+10. i 'm artsy as fuck .
+   (ID: Mahatma_Panda)
+
+11. i guess i figured the idea of improvisation was pretty neat .
+   (ID: Heydawgg)
+
+12. i like doing by hand .
+   (ID: metalbark)
+
+13. i have other shoes , but my heart has lost his most cherished and adored chucks .
+   (ID: napalmkitten)
+
+14. i 'm in the process of setting up an etsy shop .
+   (ID: ShamPow20)
+
+15. i enjoy making max and ruby stuffed animals talk to my special needs student .
+   (ID: mbw1960)
+
+16. i ’ve just created one now . js-learners.slack.com
+   (ID: godspeedone)
+
+17. i am in the process of setting up an etsy shop :)
+   (ID: ShamPow20)
+
+18. i like detail of caulking bottom of the crack and painting foot over .
+   (ID: Evref)
+
+19. i will watch your career with great interest
+   (ID: ArtOverdrive01)
+
+20. i 'm not even a fake flower person .
+   (ID: genpell)
+
+
+--- PER-CHAT ---
+Total from this dataset: 115
+
+1. you can be whatever you want to be when you grow up .
+   (ID: aac8075b69856b11cb4307ac267b902010d66e3a)
+
+2. I am art.
+   (ID: 498ec9e13eaa203d64a9b79260e2285867993564)
+
+3. for me , i ' m a ghostwriter for rappers , nobody but a select few friends and my mom know , but i wanna see what other side hustles people have
+   (ID: ab5524e568131ce7cb4db227daae4d0f489838e1)
+
+4. ok but the reason i want pewdiepie as number one is because he is a creator and t  series is a company .
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+5. I own a record.
+   (ID: 071de8843a9f6c2baf4f1a9eccd0700b9c6589a6)
+
+6. One of my favorite things is sewing.
+   (ID: 7e58269155b84bc057025d5066e661ba2eb934ba)
+
+7. My music is metal.
+   (ID: 9447b1479bba35e43476f822ef86882e0d4d70d7)
+
+8. My other is art.
+   (ID: c7e5f1c7a94109955f94d7acd2417ffad0ba60db)
+
+9. it is fun when you know how your own government works . one could wish our own president did .
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+10. I am liking hobby.
+   (ID: 2e34fbd58bc49726f7e8c74b8ea82513ca226ab4)
+
+11. i do it for my aunt , uncle  and knowing they enjoy the time they spend here . but i appreciate your acknowledgement .
+   (ID: e1aebf37580e679f77f5038c575f4359c51af29f)
+
+12. I own a hobby.
+   (ID: 3b13182e9a13b392bb9f89990f71d9043459e21f)
+
+13. i really don ' t know why people look so much into stories and anime . do you really care ?
+   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
+
+14. where can i see more from you ?
+   (ID: 8f5b0c902ce9c2bf19ecdb9205cb3d9f2a7c14fa)
+
+15. I am art teacher.
+   (ID: 067b7441373b7dfebd4b068272381804c26fe6dc)
+
+16. story time ! i used to be a hardcore minecraft fan back in , i dunno , digit or something . spent hours on that game . i remember playing the demo version of mcpe from my cousin ' s ipad . i fell in love instantly . i ' m a huge nerd for books , so after i found out about this website called " wattpad " , i decided to combine my two favorite things and read minecraft fanfics . looking back now , most of them were pretty bad , but for a digit year old , it was the shit . everyday i got off from school , i would log in and read till i grow bored . then , i met this guy named " radishologist " who wrote minecraft books , and surprisingly , his story wasn ' t terrible . so yeah , i decided to give it a shot and before i knew it , i couldn ' t stop reading . he made three books in total , and i read them all . on his third book , he asked his followers if any of them would like to be part of it . i was thrilled , and i quickly pm ' d him and gave him my character . it was pretty terrible . cliche name , cliche backstory , etc etc . but for a kid , it was the best thing ever . he agreed , and i became part of the book . i remember smiling like a doofus everytime i would read chapters with my character ' s pov . made me a little a proud about myself . after a few months , he posted another chapter . he said he was making a kik group chat for people to discuss about minecraft and stuff about his books . i didn ' t know what kik was at that time , but i found out . told him i wanted to join and he added me to the gc after that . we called it the " radish community " there , i met a lot of people . many of them were from america i live in the philippines , so it was pretty hard to fit in . eventually , the community grew and grew , and i started to feel more comfortable around people . i remember bragging to some of my classmates how i got " friends from all over the globe " and shit . they never really believed me though hahaha . i became close friends with a bunch of them . especially that radish guy . it was in that community where i had my first online gf . it didn ' t worked out , of course . had digit more online relationships after that , but ye they ended up badly . but we had fun . we talked a lot everyday . i also remember him hosting a bunch of " kik comps " where we do challenges and shit and the winner gets a follow from him on wattpad . i was a moron , so i usually just goofed around and never really won anything , but we didn ' t care . we were having fun . that was digit years ago . our chat ' s still alive , but a lot of guys left . radish dude and me still talk , but not as much . he doesn ' t write books anymore too . his wattpad account ' s still functioning , but barely . he stills logs in from to time , usually to give announcements , and the occasional updates , but that ' s about it . i follow him on insta though , and he ' s pretty busy with life . he ' s gonna go to college in a couple of years so he ' s trying to enjoy his senior years . we used to be huge . like digit  people gathering around and talking about minecraft and shit . now , we only have like digit people left . i left the chat once or twice , but i kept returning . couldn ' t left them behind . ya ' ll could argue that " online friends aren ' t real friends " , but this guys , i grew up with them . well , not technically , but they ' re a huge part of my childhood . i just hope that we can actually see each other in real life someday . haha , actually , one of us suggested that we should do that after we graduated college . ironic since she ghosted away after that and never really showed up anymore . i still talk to her on instagram , but it wasn ' t the same . todd , ana , salix , jazzy , glitch , leo , rebel , thomas , karim , aj , collin , andrew , basically anyone who were part of this , especially todd aka radish guy , if any of you are reading this , i just wanted to say thanks . thanks for everything . i know , i say that a lot but i really mean it . yeah , i act like a douche sometimes , and you guys probably think i ' m nothing but a heartless memer who shit on other people , but deep inside , i ' m really thankful . those comps , those memories we made , it was awesome . i really hope we ' ll still keep in touch , even if there are only like digit or digit of us left . wherever life takes us , i hope we ' ll still remember each other . thanks for being part of my life . i will really cherish our friendship forever .
+   (ID: ab38d3f31156c0cca1babe826c83025e8694eca2)
+
+17. I am artist.
+   (ID: 18646d15d68ab83770145d71fd4dece99a51e839)
+
+18. the writer of an over wrought sadsack of a depressing shit show has been hired by disney ? so they have decided to go after depressed money now too .
+   (ID: 570664fde0bec86b7f35fdcea9073ef88e78798d)
+
+19. go back to your yehova and i ll go back to lucifer tv show . at least he is funny can  t put my finger on it but there is something here .
+   (ID: 203253ab73b19e5cd1d950c82537271605475cea)
+
+20. i admire people who like poetry . maybe im just really stupid but i have a hard time comprehending poetry cuz the language is so different than what im used to
+   (ID: 23787c4fae3b342db05df0a4a1f689825f600fe3)
+
+
+--- PersonaChat ---
+Total from this dataset: 137
+
+1. i play guitar .
+   (ID: conversation_80)
+
+2. i like to draw other people .
+   (ID: conversation_457)
+
+3. i like to make boats on the weekends .
+   (ID: conversation_27)
+
+4. i'm in a local theater company .
+   (ID: conversation_269)
+
+5. i think i've talent for it .
+   (ID: conversation_373)
+
+6. i love helping people .
+   (ID: conversation_303)
+
+7. i love to crochet .
+   (ID: conversation_5)
+
+8. i teach cheerleading in my spare time .
+   (ID: conversation_310)
+
+9. i like to paint outdoors .
+   (ID: conversation_335)
+
+10. i'm a dancer .
+   (ID: conversation_10)
+
+11. i sing in the church choir every sunday .
+   (ID: conversation_213)
+
+12. i sing in the church choir .
+   (ID: conversation_82)
+
+13. i like to paint .
+   (ID: conversation_60)
+
+14. i spend my weekends browsing antique stores .
+   (ID: conversation_455)
+
+15. i like to dress up for other people .
+   (ID: conversation_317)
+
+16. i brew my own beer .
+   (ID: conversation_234)
+
+17. my hobbies are sleeping and playing the guitar .
+   (ID: conversation_343)
+
+18. i post on reddit often .
+   (ID: conversation_311)
+
+19. i'm an aspiring fiction writer .
+   (ID: conversation_86)
+
+20. i like to go shopping .
+   (ID: conversation_401)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 298
+
+1. I play piano.
+   (ID: conversation_335_user_1)
+
+2. I like to paint outdoors.
+   (ID: conversation_302_user_2)
+
+3. I donate old clothes to the homeless.
+   (ID: conversation_82_user_1)
+
+4. I can play the piano.
+   (ID: conversation_120_user_2)
+
+5. I am a writer.
+   (ID: conversation_401_user_1)
+
+6. I m in a rock band.
+   (ID: conversation_432_user_2)
+
+7. I write short films.
+   (ID: conversation_137_user_2)
+
+8. I like makeup.
+   (ID: conversation_265_user_2)
+
+9. My passion is writing.
+   (ID: conversation_92_user_1)
+
+10. I like the guitar.
+   (ID: conversation_278_user_1)
+
+11. I am an artist.
+   (ID: conversation_52_user_2)
+
+12. I make pottery.
+   (ID: conversation_375_user_2)
+
+13. I hope to become a music teacher after retirement.
+   (ID: conversation_335_user_1)
+
+14. I want to be an astronaut when i grow up.
+   (ID: conversation_136_user_2)
+
+15. I make my own soap.
+   (ID: conversation_123_user_2)
+
+16. I can knit.
+   (ID: conversation_56_user_1)
+
+17. I am a digital artist.
+   (ID: conversation_83_user_2)
+
+18. I make my own compost.
+   (ID: conversation_153_user_2)
+
+19. I draw comic books.
+   (ID: conversation_483_user_2)
+
+20. I draw comics.
+   (ID: conversation_340_user_1)
+
+
+============================================================

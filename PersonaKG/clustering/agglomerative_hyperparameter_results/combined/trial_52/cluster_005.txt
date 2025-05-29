@@ -1,0 +1,79 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 14
+
+Dataset distribution in this cluster:
+  MSC: 4 (28.6%)
+  PEC: 2 (14.3%)
+  PER-CHAT: 3 (21.4%)
+  PersonaChat: 2 (14.3%)
+  SyntheticPersonaChat: 3 (21.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. My hobbies are hiking and biking.
+   (ID: dialog_41_speaker_1)
+
+2. I am home schooled and don't leave the house much.
+   (ID: dialog_97_speaker_2)
+
+3. My hobbies are hiking and biking. I own a bicycle.
+   (ID: dialog_41_speaker_1)
+
+4. I have a busy lifestyle. I don't have time for hobbies. I usually spend time tinkering with 2 smartphones.
+   (ID: dialog_155_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i work 9 - 5:30 and like board games , netflix and sleeping in on weekends .
+   (ID: RobotHappiness)
+
+2. i have no real hobbies .
+   (ID: underneathstars)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. find a new hobby
+   (ID: 34ec1eee47d9e01bd9a5b29f2d3b8f2098f875d3)
+
+2. i  ve seen the good doctor , but not the others , i  ll check them out ! i feel like i  ve gotten away from all my old hobbies since becoming pregnant . i used to love doing my makeup but i don  t have the energy for it anymore . i also used to sew a lot but a piece to my sewing machine got lost when we moved and i haven  t order a new one yet .
+   (ID: b481339e58c54d903a5bef6ed58d704163f4f9f3)
+
+3. you just have to randomly try new things and see if you like any of them . i honestly can ' t remember how i found my hobbies , i guess i just saw someone else doing them and decided to join in .
+   (ID: f0d30d31e879077978622dde48ddd9e0f254b33d)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i enjoy playing recreational games like cards , darts or billiards .
+   (ID: conversation_438)
+
+2. i am a girl who loves sports cars and video games .
+   (ID: conversation_466)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. My hobbies include photography and hiking.
+   (ID: conversation_355_user_1)
+
+2. My hobbies include reading and cycling.
+   (ID: conversation_223_user_2)
+
+3. I enjoy playing recreational games like cards , darts or billiards.
+   (ID: conversation_311_user_2)
+
+
+============================================================

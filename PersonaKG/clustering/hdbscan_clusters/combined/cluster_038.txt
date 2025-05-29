@@ -1,16 +1,16 @@
 CLUSTER 38
 ============================================================
-Total statements in cluster: 693
-Cluster persistence (stability): 0.342
+Total statements in cluster: 199
+Cluster persistence (stability): 0.502
 
 Dataset distribution in this cluster:
-  FoCus: 3 (0.4%)
-  MPChat: 53 (7.6%)
-  MSC: 23 (3.3%)
-  PEC: 526 (75.9%)
-  PER-CHAT: 48 (6.9%)
-  PersonaChat: 38 (5.5%)
-  SyntheticPersonaChat: 2 (0.3%)
+  FoCus: 16 (8.0%)
+  MPChat: 3 (1.5%)
+  MSC: 2 (1.0%)
+  PEC: 131 (65.8%)
+  PER-CHAT: 36 (18.1%)
+  PersonaChat: 7 (3.5%)
+  SyntheticPersonaChat: 4 (2.0%)
 
 ============================================================
 
@@ -18,346 +18,247 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 3
+Total from this dataset: 16
 
-1. I've always wanted to go pedal boating.
-   (ID: E0BEYP6NJPS6_11)
+1. I hate Canadian Pacific 972.
+   (ID: M6QLMFHJ3CAF_11)
 
-2. I've worked on preservation projects before.
-   (ID: LJYX36WCRYDM_9)
+2. I hate Lord Dudley.
+   (ID: 72MY00U8UEGB_11)
 
-3. I've never been in a Fort.
-   (ID: EZGYRI0YA8OX_9)
+3. I hate kayaks.
+   (ID: KN10OGBG14Y2_11)
+
+4. I hate the idea of experimentation on prisoners.
+   (ID: H697EKUHA9EW_11)
+
+5. I hate thefts and outlaws.
+   (ID: JJN7XJSS0B4W_11)
+
+6. I hate the Vietnam War.
+   (ID: TGZJNX488SLV_11)
+
+7. I hate Côte d'Or.
+   (ID: E0UBZBWJCJX7_9)
+
+8. I hate injustices.
+   (ID: OJHFTQNCCCGP_11)
+
+9. I hate the high taxes my country exacts from inheritance processes.
+   (ID: C5HXHFGTM2VH_11)
+
+10. I hate people and companies damaging the wildlife and environment of national parks.
+   (ID: LEW58VG9I78X_11)
+
+11. I hate how tense the political situation in Kashmir is.
+   (ID: Z4X3H6WLUB9I_11)
+
+12. I hate Linkin Park music.
+   (ID: ZIBV0EGAP9HQ_7)
+
+13. I hate Luigi Rusca.
+   (ID: 9VN3FMWR0NNR_11)
+
+14. I hate marching band.
+   (ID: FGIEUW9ABAQU_11)
+
+15. I hate having to stop to pay a road toll.
+   (ID: MJ8L7IHV13N8_11)
+
+16. I hate hotels.
+   (ID: OBPQ1J7Y62Q6_11)
 
 
 --- MPChat ---
-Total from this dataset: 53
+Total from this dataset: 3
 
-1. apparently i've been in a fern mood.
-   (ID: SweetSassyClassy)
+1. i hate chocolate and togo cups, but i'm not paying for it.
+   (ID: Beardedlantern)
 
-2. i’ve taken to using my ipad after destroying hard copies.
-   (ID: frecklesarelovely)
+2. i usually kind of hate it, but today this one felt pleasing
+   (ID: switchbladesally)
 
-3. 12 indoor snowballs in 4 days, i’ve learned my lesson about etsy processing times
-   (ID: FoxInKneeSocks)
-
-4. we are quarantining in my in-laws house and i've been tending to their garden.
-   (ID: Sophie74656)
-
-5. it's been months since i've gone to goodwill didn't leave empty handed
-   (ID: LiftingNurse)
-
-6. the first block of mozzarella i've made in the last few weeks that worked properly.
-   (ID: Voyager87)
-
-7. i've been practicing this design for a while.
-   (ID: jlb4est)
-
-8. everything i’ve made in 2020 so far!
-   (ID: green-egg-and-ham)
-
-9. the lunch i’ve been enjoying everyday this week- chicken powerbowl.
-   (ID: Potato_Quesodilla)
-
-10. first wild oyster mushroom i’ve ever found in washinon though!
-   (ID: sundstrom193)
-
-11. i've hike hundreds of miles around escalante and the lands of the bears ears.
-   (ID: tssouthwest)
-
-12. i've made this beautiful pendant with golden thread.
-   (ID: Ploliveira)
-
-13. all the places i've been to since march of this year.
-   (ID: JMHorsemanship)
-
-14. to add to the coach theme here lately... i've also found several coach items this week.
-   (ID: insertnamehere02)
-
-15. they can always tell when i've been messing with my tanks...
-   (ID: blboppie)
-
-16. but applying the proper technique and some tips i've picked up over the yrs helped me achieve hanime.
-   (ID: MonstaEatsItAll)
-
-17. i've upgraded my husband's breakroom produce box
-   (ID: thebarberstylist)
-
-18. anything for my kid it’s not perfect but i’ve definitely failed harder
-   (ID: smsikking)
-
-19. i've made this tiny cross stitch piece, and am so proud of it!
-   (ID: Ploliveira)
-
-20. i've been experimenting with different ways to sculpt houses out of porcelain.
-   (ID: cryptidcat)
+3. i accidentally ordered the speckled and i think i hate it
+   (ID: zonumnire)
 
 
 --- MSC ---
-Total from this dataset: 23
+Total from this dataset: 2
 
-1. I've high ambitions for myself.
-   (ID: dialog_12_speaker_1)
+1. I hate throwing out plastic.
+   (ID: dialog_214_speaker_1)
 
-2. I've mental issues.
-   (ID: dialog_106_speaker_2)
-
-3. I've a high voice.
-   (ID: dialog_3_speaker_1)
-
-4. I've a long title and I'm a teen.
-   (ID: dialog_184_speaker_2)
-
-5. I've neon colors.
-   (ID: dialog_149_speaker_2)
-
-6. I've a home in the suburbs.
-   (ID: dialog_95_speaker_1)
-
-7. I've never eaten horse meat. I do have a few French recipes that include horse meat. I have cooked with reindeer and antelope meat before.
-   (ID: dialog_119_speaker_2)
-
-8. I've a great imagination.
-   (ID: dialog_155_speaker_2)
-
-9. I've not met my soulmate yet.
-   (ID: dialog_228_speaker_1)
-
-10. I've not loved.
-   (ID: dialog_72_speaker_1)
-
-11. I've not had any luck with acceptance and considered quitting.
-   (ID: dialog_203_speaker_1)
-
-12. I've never ridden a horse.
-   (ID: dialog_117_speaker_2)
-
-13. I've not been lit.
-   (ID: dialog_103_speaker_1)
-
-14. I've never played chess.
-   (ID: dialog_108_speaker_1)
-
-15. I've a sleep buddy.
-   (ID: dialog_198_speaker_2)
-
-16. I've a pretend friend.
-   (ID: dialog_184_speaker_2)
-
-17. I've been feeling depressed.
-   (ID: dialog_64_speaker_1)
-
-18. I've never been to a mystery dinner party before.
-   (ID: dialog_119_speaker_2)
-
-19. I've a kitten with a sci fi name.
-   (ID: dialog_144_speaker_2)
-
-20. I've been tied down in a bank hold up.
-   (ID: dialog_176_speaker_1)
+2. I hate overtime.
+   (ID: dialog_28_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 526
+Total from this dataset: 131
 
-1. i ’ve let it sit for close to ten minutes to no avail .
-   (ID: RogueCackle)
+1. i hate op . i hate r / teenager mods . i hate this whole sub
+   (ID: Wowliam)
 
-2. i 've been in a very similar situation .
-   (ID: Nick84572)
+2. i hate to kill you
+   (ID: Megan_Bee)
 
-3. i 've been in many or 's and they are filthy .
-   (ID: catskhiker)
+3. i hate you .
+   (ID: bmeckel)
 
-4. i 've followed every bit of advice i 've found .
-   (ID: creedisagoodband)
+4. i hate his friendship with a girl !
+   (ID: ItGetsAwkward)
 
-5. i ve sent a friend request , my name is jej
-   (ID: Oatless)
+5. i hate to see others perhaps get encouraged to go rogue and end up in the ditch
+   (ID: Addbutter)
 
-6. i ’ve done it after playing too much dishonored .
-   (ID: eye-brows)
+6. i do n't get the hate for invaders .
+   (ID: JimmyMcShiv)
 
-7. i could 've done * something .
-   (ID: tylock)
+7. i have pneumonia and hate everyone .
+   (ID: Bathysphere710)
 
-8. i 've never had problems with delta
-   (ID: trav110)
+8. i hate that i now have to check the profiles .
+   (ID: chowyungfatso)
 
-9. i 've had them on two of my jeeps , so nice !
-   (ID: meteoriteminer)
+9. i hate trump as much as anyone , but this bitch is a total piece of shit !
+   (ID: vikkivinegar)
 
-10. i ’ve always assumed it ’s urine , because it ’s clear .
-   (ID: 11_29_77)
+10. i hate that they made our cards white this year .
+   (ID: I_am_not_a_Taco)
 
-11. i ’ve been curious about the other scents !
-   (ID: lovestheautumn)
+11. i hate dealerships .
+   (ID: DickieJohnson)
 
-12. i ’ve always had my suspicions about these guys ...
-   (ID: billclay55raiders)
+12. i hate the tsa !
+   (ID: jay456)
 
-13. i 've been using wanikani for a while and was studying on my own before that .
-   (ID: carebearstare93)
+13. i hate being a bipolar team , it 's awesome
+   (ID: Sir_Gunner)
 
-14. i 've beaten oot and majora 's mask on project 64 v1.6
-   (ID: JohnnyPappis)
+14. i hate you . just because he has shitty dsl ?
+   (ID: BorgDrone)
 
-15. i 've stalled so many times on hills ...
-   (ID: pyro2927)
+15. i hate the bo3 nuketown
+   (ID: LabeledAsALunatic)
 
-16. i 've had it for almost two years now .
-   (ID: closetotheedge48)
+16. i swear i hate littering .
+   (ID: laura_lee_meh)
 
-17. i 've changed the extension obs records in to .mp4 i appreciate the input !
-   (ID: elevatorhijack)
+17. i hate the constant readjusting in these videos .
+   (ID: Kangfight)
 
-18. i 've sent some of these to etsy already .
-   (ID: ludaa)
+18. i * hate * having to click through these stupid lists .
+   (ID: SayceGards)
 
-19. i 've figured it out !
-   (ID: Lsmoothies)
+19. i 'd hate to see what he 's like in the final stretch
+   (ID: TWS85)
 
-20. i 've been having great luck growing edamame in pots on my patio .
-   (ID: maullove)
+20. i hate using pomade , my hair wo n’t stay styled
+   (ID: JeMangeLeButt)
 
 
 --- PER-CHAT ---
-Total from this dataset: 48
+Total from this dataset: 36
 
-1. it ' s gonna be ok . i ' ve been stuck in my zipper , too . we ' re gonna get through this .
-   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
+1. no problem i just hate when the actions of few outweight the many .
+   (ID: 34d7a41f0778ab80ac97d43bcbe30cde5ab458d8)
 
-2. could  ve been cool near the military base .
-   (ID: 5478a2ef678a7e392c66d8d23bf16821b01c19ad)
+2. or , this will blow your fucking mind , the guy drove away in a panic because there was gasps a shooting ? also my point still stands about them assuming the hate crime , what if it was a muslim and they assumed it was isis ?
+   (ID: e84ec39cf97c9609b6feb31cbaab5faf551f372d)
 
-3. thanks for everything you ' ve done , hillary !
-   (ID: ac8a82591082c2300a109b982be874d6d61d6cba)
+3. " as a non  native speaker , that ' s offensive . " what else am i supposed to gague from that ? give me the shovel . i hate seeing you dig your own grave .
+   (ID: 7b7a217eaddb7df1a9d81ec63b381094afacc280)
 
-4. i ' ve always found chernobyl so interesting . and creepy . chilling , indeed .
-   (ID: 1b90fe7ac45d325859956bedb446558d1a1d6bfd)
+4. lol well shitface  with  tears  of  joy i hate to break it to everyone but our teams kinda do , also we can  t help it that we  re the only canadian team in mlb
+   (ID: 79b7d42cddd601decb70d75b54d7b51f91360e2d)
 
-5. it ' s not that easy to get into i ' ve tried
-   (ID: 1aeb7d227bb9f7bdec3e7350c5522353fdb74354)
+5. takei ' s exact quote was  " i take no solace or joy in this man ' s passing . we will not dance upon his grave , nor stand vigil at his funeral holding " god hates freds " signs , tempting as it may be . he was a tormented soul , who tormented so many . hate never wins out in the end . it instead goes always to its lonely , dusty end . " source  gaystarnewshttp
+   (ID: e3524b3478c664f2c6e8b00a4341ff0a26995fbc)
 
-6. i ' ve never once had the flu , so no sense trying to fix something that isn ' t broken .
-   (ID: 0d3d136fd15476f8c62c2f90566b0d8af0c2caca)
+6. sadly , this is my own observation . osrs instigating . runescape ' s official streams get filled up with so much hate sometimes on eoc and other updates , it ' s really not great .
+   (ID: c3299baadf649c84fcd78990aa1e1edfccbe92ce)
 
-7. seriously ? you could  ve kept your silence and be far more appreciated , but now you  ve said something that tarnishes this dude  s beginning stages of a passion . p . s . don  t be  that dude
-   (ID: 61d850113b440da97216a14cfd8a5509352c72b2)
+7. you wont get charged with a hate crime . that ' s something he cant dictate anyway , only the prosecutors office can and i doubt this will go that far at all as long as there was no damage .
+   (ID: e91d4ec377d82dfdf21d71b4dc685a96ed60ea3d)
 
-8. me too . my sons middle name is vimes . i ' ve have uk editions of a few pratchetts books . surprisingly difficult to do in the states . had a friend smuggle them on his trip over the pond as it were .
-   (ID: 570664fde0bec86b7f35fdcea9073ef88e78798d)
+8. well , i don ' t hate pugs , they are not responsible for it . but i do hate that humans made something like that .
+   (ID: 9006d58872586db3bb808208616fdc9c3dff694b)
 
-9. you sir are a golden god . i can ' t tell you how many times i ' ve tried to pause a video at an exact moment and failed . thanks for the tip .
-   (ID: c3b51ad627b2162cac848c7fadd53da61827346a)
+9. i wouldn ' t have a clue so thanks ! i just hate bugs of any sort but took this picture to show my kids husband couldn see what i was talking about .
+   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
 
-10. i ' ve never cared for wog ball .
-   (ID: b3a8447862df1e30a18d38c5c0ad1c8595c18d4c)
+10. ok so first of all i hate you for having hot water , and two , why not the army or the corps ? or were there no recruiting offices of those branches around .
+   (ID: 2e51e203dfc0145a046e5b273a6d9f3218da2749)
 
-11. this isn ' t the actual dumbest , but i ' ve buried those things .
-   (ID: bb88411b165294ddd01835e6389a8e93e9d796d3)
+11. thank you . i was a bit nervous that i would insult someone as these terms are so loaded . i would hate to demean anyone .
+   (ID: 787b93a7786c68b0f31fb63e18ccf3551bafae1b)
 
-12. k you ' ve gone completely off the rails . give me a shout when you ' ve come back to reality .
-   (ID: dceaf5128ce079240dc5048df74d704163edc3a5)
+12. you keep telling everyone how lonley you are and how much you hate your dad just to get attention . everyone has fucked you , even the ugly ones . yet you still complain how poor you are .
+   (ID: 9425493e0ea7469367495f8e5947330e536cafa9)
 
-13. juliananalu   i am a bot that helps link to subreddits . please downvote me if i ' ve linked the wrong subreddit .
-   (ID: 63a01bcbc0844858aae3db187005728f6c6af2cb)
+13. this is why i hate hotboxing , if the pigs do roll up on you there ' s nowhere to ditch the evidence . at least outside at a smoke spot you have a chance to ditch your stash or at least see them coming .
+   (ID: 8d969746b3d4e6e130957387edb6a2fef0ec54cf)
 
-14. happy birthday ! i ' m not a big fan of birthdays either , i ' ve had too many of them .
-   (ID: 58245e8d537b9e7b6d76cc6a9919ea776e4ef6f0)
+14. i also hate when i talk about my " triggers " with someone and they think i ' m some sort of sjw .
+   (ID: f9d3bf7ce779e854aa865f12a7dfaaee14a65cfa)
 
-15. i ' ve wondered about that , too . do you have to subscribe to each subreddit separately ?
-   (ID: 6fa65e005cc7ba05dc62c263af1ea289902ce6d1)
+15. i always get downvoted when i tell apex but swingers like it is . they hate hearing the truth
+   (ID: a92e31c7bf57848bffc03edea3f897eca709861a)
 
-16. you ' ve clearly never been in a situation where you have everything to lose or everything to gain .
-   (ID: ed6e9378eba750065a4e34fc1d5fc79d072814c0)
+16. i ' ve been working at starbucks for several months and nobody ' s found out i hate coffee .
+   (ID: d54a04c3eba52404f5dd7abb0e459a949dbc7f93)
 
-17. what ' s wrong with private sales and how do you regulate it ? you can ' t . if i sold you a hammer at my garage sale and you kill your wife with it , how am i liable for what you ' ve done ?
-   (ID: 648934b37b725276c14d737331453b5050aee063)
+17. it ' s more so that i hate dealing with baby pokemon , so getting one without the hassle of needing to breed for it is a godsend .
+   (ID: 9b58219d8f43f5aa6e34770c7b9c7896c88c8fe7)
 
-18. being in a city you ' ve never been to before and knowing you have a whole week to explore it .
-   (ID: df642350023feb928f503f77c639c0475639c048)
+18. why the hell do i have a song in stuck in my head , even though i hate the song ?
+   (ID: 21bf46058f1cab200cb4b3c2a0165363bbe171a8)
 
-19. it  s true they  ve brought me in a few times
-   (ID: d9e6e1ecc09dc9affbcc8ccb0191ff241370a782)
+19. for how long time ? if for short time probably kill someone i hate
+   (ID: e129c266eeb21d4eb629324bbd10e7247660660b)
 
-20. i ' ve had my eye on am2r for a while . is it still available for download ?
-   (ID: 4ea608a8fbdec83863f8ba3f502bfd6966794702)
+20. why in the world would honesty get you anywhere ! seriously though i hate this .   x200b  people request something and then get angry when you deny their request .
+   (ID: 2eaae893aae1f80f60648fa3fbcbe961d0639556)
 
 
 --- PersonaChat ---
-Total from this dataset: 38
+Total from this dataset: 7
 
-1. i've a wife and two kids back in the states .
-   (ID: conversation_273)
+1. i hate the taste of cheese .
+   (ID: conversation_105)
 
-2. i've two smartphones .
-   (ID: conversation_155)
+2. i hate evil .
+   (ID: conversation_130)
 
-3. i've male pattern baldness .
-   (ID: conversation_138)
+3. i hate carrots .
+   (ID: conversation_3)
 
-4. i've a large cd collection .
-   (ID: conversation_355)
+4. i hate talking to people .
+   (ID: conversation_54)
 
-5. i've an iq of 250 .
-   (ID: conversation_266)
+5. i am studying to be a dental hygienist but i hate seeing patients saliva .
+   (ID: conversation_396)
 
-6. i've a horse named beauty .
-   (ID: conversation_40)
+6. i hate tofu .
+   (ID: conversation_30)
 
-7. i've two chiuahuahs .
-   (ID: conversation_529)
-
-8. i've visited 12 national parks in the us .
-   (ID: conversation_83)
-
-9. i've a cat named seven of nine .
-   (ID: conversation_144)
-
-10. sometimes , i've sword fights with strangers in the park .
-   (ID: conversation_149)
-
-11. i've never kissed a woman .
-   (ID: conversation_435)
-
-12. i've a vacation home in the mountains .
-   (ID: conversation_477)
-
-13. i've a timeshare in mexico .
-   (ID: conversation_413)
-
-14. i've a sweet tooth .
-   (ID: conversation_286)
-
-15. i've a pug named corky .
-   (ID: conversation_590)
-
-16. i've two pitt bulls .
-   (ID: conversation_376)
-
-17. i've been on the tv news six times .
-   (ID: conversation_280)
-
-18. i've borderline personality disorder .
-   (ID: conversation_106)
-
-19. i've a black purse .
-   (ID: conversation_559)
-
-20. i've often been called a slacker .
-   (ID: conversation_520)
+7. i hate winter .
+   (ID: conversation_244)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 2
+Total from this dataset: 4
 
-1. I ve started creating my own comics and presenting them to publishers.
-   (ID: conversation_35_user_2)
+1. I hate to lose.
+   (ID: conversation_64_user_2)
 
-2. I ve been cheated on by every ex girlfriend except for one.
-   (ID: conversation_468_user_2)
+2. I hate the feeling of chalk.
+   (ID: conversation_571_user_1)
+
+3. I hate school.
+   (ID: conversation_434_user_1)
+
+4. I hate paying my bills.
+   (ID: conversation_565_user_1)
 
 
 ============================================================

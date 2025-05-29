@@ -1,0 +1,467 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 3836
+
+Dataset distribution in this cluster:
+  FoCus: 29 (0.8%)
+  MPChat: 93 (2.4%)
+  MSC: 82 (2.1%)
+  PEC: 2337 (60.9%)
+  PER-CHAT: 1162 (30.3%)
+  PersonaChat: 40 (1.0%)
+  SyntheticPersonaChat: 93 (2.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 29
+
+1. I like wine.
+   (ID: 7VWG5N19V7SK_11)
+
+2. I want to attend sporting events.
+   (ID: MGR759JYZZLP_7)
+
+3. I am going to Norfolk soon.
+   (ID: HWMW6AUW4UTK_11)
+
+4. I hope to visit the University of Nebraska State Museum someday.
+   (ID: FF36QQ08S28H_11)
+
+5. I have never been to Madagascar and would love to go there.
+   (ID: FS1LJTHM1IC0_11)
+
+6. I would like to join the police.
+   (ID: 9IUBDDZBGMIC_11)
+
+7. I would like to enjoy matches in flood lighting.
+   (ID: VZ1O6OE23O98_11)
+
+8. I like Gold.
+   (ID: 6J40PNLBFR2V_11)
+
+9. I hope I could play basketball better.
+   (ID: R2DBMEQOL0NY_9)
+
+10. I love the antislavery movement.
+   (ID: SSWJZGJZ66UK_11)
+
+11. I have a friend who has participated in special Olympics.
+   (ID: QRRS2THODNM3_11)
+
+12. I would like to go to different events.
+   (ID: K73F47W36X0D_11)
+
+13. I would like to compete in a ski competition.
+   (ID: QTNNKQN2EVU5_11)
+
+14. I would like to represent my country in olympics.
+   (ID: R5EJNE152Y8L_11)
+
+15. I wouldn't like to be caught on a speed camera.
+   (ID: MJ8L7IHV13N8_11)
+
+16. I would like to join the army.
+   (ID: B2DX1Q5DBN3J_11)
+
+17. I wan to go to Minnesota.
+   (ID: JTUKE03HZYSY_11)
+
+18. I believe constructing takes lots of fund.
+   (ID: Y50B3RQ4B1OQ_11)
+
+19. I have a passion of participate in adventures sports.
+   (ID: JHW3GLKC9PME_11)
+
+20. I am interested in world records.
+   (ID: FHCSCC2MB2X0_7)
+
+
+--- MPChat ---
+Total from this dataset: 93
+
+1. (i'm the model)
+   (ID: CuriosityK)
+
+2. i never do cover pages except on the first page of a new journal.
+   (ID: spinni81)
+
+3. sometimes i think of pouring something different, but rosettas are so fun.
+   (ID: VodkaWithSnowflakes)
+
+4. i know you guys want some
+   (ID: FormalSwimming)
+
+5. i think i'm starting to get the hang of this :)
+   (ID: Nutellism)
+
+6. not a problem said i.
+   (ID: Soapy_Von_Soaps)
+
+7. why should i be the only one with a fabulous mani?
+   (ID: betterWithSprinkles)
+
+8. i always pour this in competition
+   (ID: madeasnack)
+
+9. my friends can’t decide if this is cute or creepy.
+   (ID: meepmeepcuriouscat)
+
+10. every time i change something i swear it’ll be the last time....
+   (ID: i_like_it_raw_)
+
+11. i don't use the term "grail" loosely but.....
+   (ID: i_like_it_raw_)
+
+12. my bedroom window  love seeing these guys first thing in the morning.
+   (ID: heatsensitive)
+
+13. going to test my luck today.
+   (ID: jlb4est)
+
+14. i'm amused and curious, tbh.
+   (ID: insertnamehere02)
+
+15. my gf and i just got into needle felting.
+   (ID: TranerGarvis)
+
+16. feeling like a third wheel with my fancy plant pals
+   (ID: Brightside_Bear)
+
+17. "excuse me... i'd like to squeeze myself under this chair"
+   (ID: HobbitLass)
+
+18. does anyone miss espresso as much as i do?
+   (ID: Deeshizznit)
+
+19. who says i can only use my ball winder?
+   (ID: RayRay108)
+
+20. i'm so excited to dive in.
+   (ID: mattsulli)
+
+
+--- MSC ---
+Total from this dataset: 82
+
+1. I like mystery.
+   (ID: dialog_5_speaker_2)
+
+2. I love dancing and would hate to give it up.
+   (ID: dialog_40_speaker_1)
+
+3. I like to keep a routine and do the same thing everyday.
+   (ID: dialog_30_speaker_1)
+
+4. I like roses.
+   (ID: dialog_77_speaker_1)
+
+5. I am a woman.
+   (ID: dialog_95_speaker_1)
+
+6. I'm excited to try yoga.
+   (ID: dialog_154_speaker_2)
+
+7. I love dark humor. I enjoy asking for movie recommendations.
+   (ID: dialog_15_speaker_1)
+
+8. I appreciate jazz music.
+   (ID: dialog_174_speaker_1)
+
+9. I like to be clean.
+   (ID: dialog_182_speaker_2)
+
+10. I'm not open about my sexuality.
+   (ID: dialog_159_speaker_2)
+
+11. I like living dangerously.
+   (ID: dialog_117_speaker_1)
+
+12. I'm a sucker for romance.
+   (ID: dialog_154_speaker_1)
+
+13. I wish I had more free time to play it and watch it.
+   (ID: dialog_148_speaker_2)
+
+14. I always recycle. I like to hike and pick up trash along the way.
+   (ID: dialog_131_speaker_1)
+
+15. I like to lie.
+   (ID: dialog_104_speaker_1)
+
+16. My wife and I like watching movies. I like making fun of my wife for her taste in movies. My wife has no taste in movies but she loves Scarlett Johansson.
+   (ID: dialog_15_speaker_2)
+
+17. I think ballroom dancing is too old-fashioned.
+   (ID: dialog_40_speaker_2)
+
+18. I don't like being told what to do.
+   (ID: dialog_147_speaker_2)
+
+19. I'm immature.
+   (ID: dialog_96_speaker_2)
+
+20. I'm starting to enjoy watching baseball and I become a fan of the Tigers!.
+   (ID: dialog_93_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2337
+
+1. i think it 's funny .
+   (ID: Occams_Spork)
+
+2. i 'd be happy to , hot stuff ;)
+   (ID: Chicoconut)
+
+3. i could n't imagine snorting a line of anything sober .
+   (ID: SeasonedLemur)
+
+4. i had n’t even considered doing that .
+   (ID: Simplisticjoy)
+
+5. i am right with you .
+   (ID: cookiexcmonster)
+
+6. i do n’t want my daughters listening to raucous jazz music and hanging with negros /s
+   (ID: PECOSbravo)
+
+7. i agree with - no .
+   (ID: deputydan_scubaman)
+
+8. i ’m working hard now so my future kids do n’t feel the need to start a youtube channel
+   (ID: beccaemilyhopex)
+
+9. i 'd love to see !
+   (ID: Theturtlefiend)
+
+10. i 'd do me .
+   (ID: lonewolf2556)
+
+11. i try to 99 % of the time , it feels proper n respectful to me .
+   (ID: Noimnotsally)
+
+12. i 'd love to try this .
+   (ID: baconnaire)
+
+13. i like supporting unconventional games , and i like the idea of a badger 's point of view .
+   (ID: maullove)
+
+14. i bet it would feel great on my butt .
+   (ID: JustHereForCum)
+
+15. i was just wondering what people ’s thoughts are on this strategy ?
+   (ID: mass08)
+
+16. i keep reporting every single one of those kids , but it just happens way too often .
+   (ID: bestform)
+
+17. i 100 % believe it !
+   (ID: FridaysChild219)
+
+18. i ’m going to disagree .
+   (ID: fabs1171)
+
+19. i love beer .
+   (ID: dkinmn)
+
+20. i was just joking since all my cars are blacked out .
+   (ID: sean__christian)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1162
+
+1. One of my favorite things is yoga by biola.
+   (ID: 5bae960970112f75742b080e45f735ad64949805)
+
+2. i ' m straight though .
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+3. I own a peer.
+   (ID: 409a49cde6f1f65f92cac4d33c7c769f7ba9e965)
+
+4. i mean you could , but then you ' d have to do alchemy . the most tedious and unrewarding portion of the game  more so than enchanting .
+   (ID: 6043d89c15dee029743b4ae46c3043e760e0fedb)
+
+5. thats apples  oranges dost . your heels are a part of your style . it ' s about how you choose to project yourself to the world . it ' s totally different from standing on a stool using an external prop . i ' m not suggesting that photography is or should only be about total realism . i totally get that a photographer tweaks the space  choreographs the people in the frame to get the most aesthetic bang for buck . especially in celebrity shoots . this situation here appears different . i ' m not a betting man but if i were , i ' d bet that if the woman was significantly shorter there wouldn ' t have been a stool for her .
+   (ID: 9e2852bcfafecccb1e60211326f5fc70d0bbb428)
+
+6. talking about their background check is interesting . they come up with all kinds of crazy shit . so i see you have been involved in arson before ?  oh yeah , that  s no big deal . it was a twin brother that i didn  t know i had . they never caught him so i had to do the time .
+   (ID: 5481b7a3276de2b79473c4a65d5bb2506e36d79d)
+
+7. so no . sounds like internet strangers to me . for all you know , i could be the head of the league .
+   (ID: c673eb9fda8629b3a86935092a2668010b581ab1)
+
+8. look at the long term effects . sometimes it gives you the necessary motivation .
+   (ID: a168763c82b90dc18ccbbd57533eec2e49d17dc7)
+
+9. One of my favorite things is hearing woman.
+   (ID: 37afe6aed6f5a2677e6ebd0e4e168a560dc96061)
+
+10. mirio togata would like to know your location .
+   (ID: 2cc91bb1c28e4ebb686806a36f563e5047e46ef7)
+
+11. nope , i like being able to walk off whenever i feel like it and i appreciate the freedom it gives employers .
+   (ID: f39e591889b6331bd255039773030c1b50c7e201)
+
+12. yep , and i can understand that , but just realize how little that one mess up actually matters in the universe !
+   (ID: 20704d953f0b1774a4782d2f049f69736ac4eea2)
+
+13. I own a video.
+   (ID: 544afc73e94949100186d302e382bea6fc33beb4)
+
+14. i have done this . in highschool , me and my group of friends used to hangout , party , and usually end up crashing at each others places . i am half awake one morning , and my pen tip felt strangely good . open my eyes , it ' s literally rested between my buddies cheeks . i recoil , he ' wakes up ' like two minutes later , and never says anything . a few years later , comes out of the closet to his parents while he and i are in their car driving back to their place to spend the night and get the old crew back together . awkward .
+   (ID: 720bf2762acb0f756492e6e40ae840126dae87ce)
+
+15. oh no the easy way to get kills has been removed ! that  s it i  m going to quit because i can  t git gud !
+   (ID: aadf22a91ea1305681d9e9e51890c22ca2a37577)
+
+16. I own a club.
+   (ID: 34f464edef8ed81ef72be258369179fe6e6dcb81)
+
+17. One of my favorite things is stephanie harlowe  youtube.
+   (ID: 5ea29f01c8cdade4f178fd446d00647edc5fc70e)
+
+18. how is this not interesting !
+   (ID: 1d327d2812dfee71bf8ef77d36ffd5eb70efd55b)
+
+19. oh wow that would be amazing . i absolutely love the shape of your feet . watching something being crushed under your heels would probably make me presweat  dropletssmirking  face are you doing it for free ?
+   (ID: e871625874733300de2a83384cee8c72546d3ec6)
+
+20. you should have no problem then . good luck and keep trying . you can go wrong with quantity .
+   (ID: 90492fed4b9d785ee43d655875f81a82e68a1263)
+
+
+--- PersonaChat ---
+Total from this dataset: 40
+
+1. i can benchpress 345 pounds .
+   (ID: conversation_241)
+
+2. i am a woman .
+   (ID: conversation_152)
+
+3. i like watching videos of surgery .
+   (ID: conversation_389)
+
+4. i also give blood monthly in honor of my sister who died .
+   (ID: conversation_77)
+
+5. i can benchpress 345 pounds .
+   (ID: conversation_224)
+
+6. i'm an old man .
+   (ID: conversation_169)
+
+7. i like to place blame on other people even when i know it is my fault .
+   (ID: conversation_495)
+
+8. i don't like to clean house .
+   (ID: conversation_306)
+
+9. i play bingo every wednesday with my husband .
+   (ID: conversation_395)
+
+10. i am a older gentlemen .
+   (ID: conversation_246)
+
+11. i am bisexual .
+   (ID: conversation_159)
+
+12. i have my own channel .
+   (ID: conversation_341)
+
+13. i can also squat 400 pounds .
+   (ID: conversation_241)
+
+14. i am a girl .
+   (ID: conversation_362)
+
+15. i i love logical and rational thinking .
+   (ID: conversation_122)
+
+16. i play bingo every wednesday with my husband .
+   (ID: conversation_450)
+
+17. i like watching videos of surgery .
+   (ID: conversation_287)
+
+18. i'm unsure of who i'm attracted to .
+   (ID: conversation_299)
+
+19. i don t have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall .
+   (ID: conversation_354)
+
+20. i like watching videos of surgery .
+   (ID: conversation_363)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 93
+
+1. I don t have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_100_user_2)
+
+2. I play bingo every wednesday with my husband.
+   (ID: conversation_24_user_2)
+
+3. I am a girl.
+   (ID: conversation_143_user_1)
+
+4. I loove zumba.
+   (ID: conversation_499_user_1)
+
+5. I m a lesbian.
+   (ID: conversation_350_user_1)
+
+6. My mind is set on things above.
+   (ID: conversation_109_user_1)
+
+7. I am a girl.
+   (ID: conversation_81_user_1)
+
+8. I like tall men.
+   (ID: conversation_379_user_2)
+
+9. I take things very literally.
+   (ID: conversation_247_user_2)
+
+10. I am a man.
+   (ID: conversation_33_user_2)
+
+11. I have my own channel.
+   (ID: conversation_272_user_2)
+
+12. I am a romantic.
+   (ID: conversation_122_user_1)
+
+13. I i love logical and rational thinking.
+   (ID: conversation_439_user_2)
+
+14. I am a man.
+   (ID: conversation_22_user_1)
+
+15. I am a woman.
+   (ID: conversation_227_user_1)
+
+16. I am a very funny woman.
+   (ID: conversation_323_user_1)
+
+17. I am a very funny woman.
+   (ID: conversation_324_user_1)
+
+18. I am a weirdo.
+   (ID: conversation_337_user_2)
+
+19. I don t like feeling controlled.
+   (ID: conversation_3_user_2)
+
+20. I only wear tennis shoes.
+   (ID: conversation_332_user_1)
+
+
+============================================================

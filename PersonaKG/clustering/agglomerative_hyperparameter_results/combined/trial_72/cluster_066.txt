@@ -1,0 +1,402 @@
+CLUSTER 66
+============================================================
+Total statements in cluster: 606
+
+Dataset distribution in this cluster:
+  FoCus: 71 (11.7%)
+  MSC: 97 (16.0%)
+  PEC: 43 (7.1%)
+  PER-CHAT: 135 (22.3%)
+  PersonaChat: 81 (13.4%)
+  SyntheticPersonaChat: 179 (29.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 71
+
+1. I love to dance.
+   (ID: B4Z7LALR7H1Q_11)
+
+2. I love to watch races.
+   (ID: PKTFMWPHB1E3_11)
+
+3. I love to play baseball.
+   (ID: NMEFJE64KZ1F_11)
+
+4. I love going swimming.
+   (ID: QK9TQHXYFFJ9_11)
+
+5. I like to go mountain climbing.
+   (ID: CFYWBHPKPOHZ_7)
+
+6. I love baseball.
+   (ID: HO684VMC687Z_11)
+
+7. I love watching sport games.
+   (ID: X7MOE4GZ4HOG_11)
+
+8. I would like to watch athletics.
+   (ID: DDUH6892W2P9_7)
+
+9. I am a sports fan.
+   (ID: IKQ9QU6QOUT4_11)
+
+10. I like archery.
+   (ID: NK5T92TN7840_11)
+
+11. I like soccer.
+   (ID: UDHQWIU28N65_11)
+
+12. I love soccer.
+   (ID: NHUPSGRQZ56M_11)
+
+13. I like playing baseball.
+   (ID: PYCYFS54O1C8_11)
+
+14. I love watching Premier league games on the weekends.
+   (ID: UVWYNJ9N0J17_11)
+
+15. I like football.
+   (ID: VZ1O6OE23O98_11)
+
+16. I love to play sports.
+   (ID: K73F47W36X0D_11)
+
+17. I like to have fun with my kayak.
+   (ID: L96351DIHFAR_7)
+
+18. I am a sports fan.
+   (ID: MX05X059ETMG_11)
+
+19. I like to participate in athletic sports.
+   (ID: G0MQSJ1XOT71_11)
+
+20. I love golf.
+   (ID: D9V2U3AIWTVB_7)
+
+
+--- MSC ---
+Total from this dataset: 97
+
+1. I like to participate in sports.
+   (ID: dialog_100_speaker_2)
+
+2. I like brunch, watches PL at local bar. I sometimes watch golf.
+   (ID: dialog_171_speaker_1)
+
+3. I'm a big gamer.
+   (ID: dialog_110_speaker_1)
+
+4. My wife and I like to swim.
+   (ID: dialog_16_speaker_2)
+
+5. I like to go bowling.
+   (ID: dialog_176_speaker_1)
+
+6. I play video games.
+   (ID: dialog_115_speaker_2)
+
+7. I play video games. I like new music.
+   (ID: dialog_85_speaker_1)
+
+8. I like to watch soccer on TV.
+   (ID: dialog_171_speaker_1)
+
+9. I like to play basketball.
+   (ID: dialog_8_speaker_2)
+
+10. Outside activities such as hiking are my favorites.
+   (ID: dialog_39_speaker_1)
+
+11. I am married. We like to swim.
+   (ID: dialog_16_speaker_2)
+
+12. I like video games.
+   (ID: dialog_175_speaker_2)
+
+13. I follow gymnastics during olympics, I follow  baseball.
+   (ID: dialog_171_speaker_2)
+
+14. I enjoy video games.
+   (ID: dialog_139_speaker_2)
+
+15. I like video games. My favorite game is fallout.
+   (ID: dialog_67_speaker_2)
+
+16. I love tetris.
+   (ID: dialog_86_speaker_2)
+
+17. I like hockey.
+   (ID: dialog_86_speaker_1)
+
+18. I love the nhl.
+   (ID: dialog_86_speaker_1)
+
+19. I like to participate in sports that require speed and agility.
+   (ID: dialog_143_speaker_2)
+
+20. I like to watch dressage.
+   (ID: dialog_117_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 43
+
+1. i like playing this game .
+   (ID: SpartanWarNinja)
+
+2. i do love a fat girl .
+   (ID: warname)
+
+3. i love a good pov
+   (ID: DickRubnuts)
+
+4. i love dick .....
+   (ID: shockrush)
+
+5. i bet you love your t shirt avatar to death .
+   (ID: TheRealAshren)
+
+6. i prefer call of duty
+   (ID: 98VoteForPedro)
+
+7. i love big asses
+   (ID: SanJOahu84)
+
+8. i love wrestling .
+   (ID: aydinsevimli)
+
+9. i love the pussy ! !
+   (ID: canitasteyourjuice)
+
+10. i am thoroughly sports entertained
+   (ID: WillemDafoesAlterEgo)
+
+11. i love this game .
+   (ID: Malachite_Wrath)
+
+12. i love these spoopy threads:/
+   (ID: Boop-D-Boop)
+
+13. i love my natural laugh .
+   (ID: latestartksmama)
+
+14. i love beanball .
+   (ID: jesuschrysler)
+
+15. i actually watch football
+   (ID: Montag3636)
+
+16. i love me a good swim
+   (ID: Nimmyzed)
+
+17. i love me some posty . 2 .
+   (ID: jessibabyy11)
+
+18. i love incognito !
+   (ID: pinkpowerranger8)
+
+19. i play on a playstation .
+   (ID: TheRealAshren)
+
+20. i fuckn love this game .
+   (ID: KPer123)
+
+
+--- PER-CHAT ---
+Total from this dataset: 135
+
+1. I play wow.
+   (ID: 9b58219d8f43f5aa6e34770c7b9c7896c88c8fe7)
+
+2. I play dota.
+   (ID: 2a4bb889e40b61bb1755181c2b46750d3a082604)
+
+3. I play rust.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+4. I play league of legends.
+   (ID: 0328413fb9fd5eff68cef63593bfc5537e85c2e8)
+
+5. I play video games.
+   (ID: d1e6050d6d7638f6662249831925c3a9185f210b)
+
+6. I play overwatch.
+   (ID: dcc0b8be922b572122c03b3f5e2a0f9fccb4d351)
+
+7. I play team fortress.
+   (ID: ad898f238b3dc29e08e2e0d1ae1f284c2c13604e)
+
+8. I play minecraft.
+   (ID: 61d850113b440da97216a14cfd8a5509352c72b2)
+
+9. I play destiny.
+   (ID: 507a68eb71bd6ad59b6eb966ab94fb9c2e599bc8)
+
+10. I play roguelike.
+   (ID: 54e4be73496ef57ba1185fa38044d64a8e868ba8)
+
+11. I play overwatch.
+   (ID: 7da77d27f88bf1f61217e0ac91e9049e57a7e29d)
+
+12. I play borderlands.
+   (ID: c89ddae23e08cef80eb492a534ca8ddb441aa512)
+
+13. One of my favorite things is chess.
+   (ID: b30983a02e6c6ad80a50a521eee441b9f454a5e9)
+
+14. I play runescape.
+   (ID: 416e9f37cc98cd44d4ebdbd8b3c7d1ec2909d982)
+
+15. then you know more than i do . do you like other sports ?
+   (ID: e6c4a2b8e8c999b54ade342babc3d7b48868cc6d)
+
+16. I play wow.
+   (ID: 3418702de52d65ee261943b207996da3e2569fd2)
+
+17. I play final fantasy.
+   (ID: a63ea1e6bf1e972229635648a0b3371aeddb4f3d)
+
+18. I play fallout.
+   (ID: dc1fd340b3e0a603d715d06c129c512b8197c37b)
+
+19. I play clash of clans.
+   (ID: 26831d6557d17492ae3b0b54585b32e08055f834)
+
+20. I play video games.
+   (ID: 7fcbabb8b5590a9f0879c20f0dc6ce0b503615d3)
+
+
+--- PersonaChat ---
+Total from this dataset: 81
+
+1. i like to role play .
+   (ID: conversation_188)
+
+2. i like horseback riding .
+   (ID: conversation_28)
+
+3. i like running in marathons .
+   (ID: conversation_253)
+
+4. i play the guitair .
+   (ID: conversation_230)
+
+5. i love to ride my bike .
+   (ID: conversation_76)
+
+6. i love to drive my car .
+   (ID: conversation_381)
+
+7. i like playing games online .
+   (ID: conversation_108)
+
+8. i like basketball .
+   (ID: conversation_8)
+
+9. my favorite hobby is chess .
+   (ID: conversation_149)
+
+10. i enjoy video games .
+   (ID: conversation_150)
+
+11. i love to surf .
+   (ID: conversation_88)
+
+12. i watch basketball .
+   (ID: conversation_225)
+
+13. i like to play tennis .
+   (ID: conversation_366)
+
+14. i like to play soccer .
+   (ID: conversation_53)
+
+15. i love playing tennis .
+   (ID: conversation_352)
+
+16. i love to dance .
+   (ID: conversation_402)
+
+17. i love laughing .
+   (ID: conversation_496)
+
+18. i love to play league of legends .
+   (ID: conversation_139)
+
+19. i like to skateboard .
+   (ID: conversation_205)
+
+20. i love bicycling .
+   (ID: conversation_3)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 179
+
+1. I enjoy watching tennis and golf on tv.
+   (ID: conversation_207_user_2)
+
+2. I love role play.
+   (ID: conversation_339_user_1)
+
+3. I love to laugh.
+   (ID: conversation_275_user_1)
+
+4. I like to surf.
+   (ID: conversation_115_user_2)
+
+5. I like rock climbing.
+   (ID: conversation_334_user_2)
+
+6. I like to bowl.
+   (ID: conversation_23_user_2)
+
+7. I like swimming.
+   (ID: conversation_202_user_2)
+
+8. I love to run.
+   (ID: conversation_372_user_1)
+
+9. I am a huge fan of baseball.
+   (ID: conversation_255_user_2)
+
+10. I play video games all day.
+   (ID: conversation_1_user_1)
+
+11. I like to swim.
+   (ID: conversation_271_user_2)
+
+12. I love to play tennis.
+   (ID: conversation_394_user_2)
+
+13. I like to run.
+   (ID: conversation_492_user_1)
+
+14. I like to swim.
+   (ID: conversation_181_user_2)
+
+15. I like to swim.
+   (ID: conversation_4_user_1)
+
+16. I love to ride my bike.
+   (ID: conversation_480_user_1)
+
+17. Basketball is my favorite sport to watch.
+   (ID: conversation_142_user_2)
+
+18. I love to play league of legends.
+   (ID: conversation_148_user_1)
+
+19. I like to role play.
+   (ID: conversation_131_user_1)
+
+20. I love to swim.
+   (ID: conversation_310_user_1)
+
+
+============================================================

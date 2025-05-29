@@ -1,0 +1,467 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 6395
+
+Dataset distribution in this cluster:
+  FoCus: 121 (1.9%)
+  MPChat: 179 (2.8%)
+  MSC: 92 (1.4%)
+  PEC: 4144 (64.8%)
+  PER-CHAT: 1756 (27.5%)
+  PersonaChat: 40 (0.6%)
+  SyntheticPersonaChat: 63 (1.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 121
+
+1. I dislike Russia.
+   (ID: EZGYRI0YA8OX_9)
+
+2. I am willing to see Kleinglockner pinacle.
+   (ID: YLLQOXHD6MZC_7)
+
+3. I am afraid of Cemetery.
+   (ID: RETEM7MY5SHI_11)
+
+4. I wouldn't like to be in a prison.
+   (ID: OJ5U23I3FV0N_11)
+
+5. I wouldn't like to be in a flood.
+   (ID: GC9BAJTK54F1_11)
+
+6. I hate injustices.
+   (ID: OJHFTQNCCCGP_11)
+
+7. I dont like much populated places.
+   (ID: 7VWG5N19V7SK_11)
+
+8. I don't like sharks.
+   (ID: ILXI0OBUPJ0I_11)
+
+9. I am not on a team.
+   (ID: NRWCDZW051T6_11)
+
+10. I hope to go to church.
+   (ID: DDUH6892W2P9_7)
+
+11. I like government.
+   (ID: HO5IT5J1RXE4_11)
+
+12. I am going to Blaenau Ffestiniog to visit family.
+   (ID: BVS6H6G1BVW6_11)
+
+13. I don't hope to ever visit New Zealand.
+   (ID: 9KDV6LSLWNAX_11)
+
+14. I wouldn't like to be surrounded by nuclear waste.
+   (ID: ILXI0OBUPJ0I_11)
+
+15. I am not a fan of Manchester city.
+   (ID: UVWYNJ9N0J17_11)
+
+16. I wouldn't like to live in a Castle.
+   (ID: YB6ZF4SJI3P1_11)
+
+17. I am afraid of bears.
+   (ID: IBKUIXV3M06F_7)
+
+18. I wish to see a lock.
+   (ID: GC9BAJTK54F1_11)
+
+19. I don't like going to the crowded places.
+   (ID: ZDIM8K78EM2D_11)
+
+20. I don't like reptiles.
+   (ID: X5NX5GAWOEW2_11)
+
+
+--- MPChat ---
+Total from this dataset: 179
+
+1. first bike i've owned in 7 years.
+   (ID: travelingisdumb)
+
+2. my hook is ready but my commissions aren't finished.
+   (ID: ddizzle23)
+
+3. if it fits i sits
+   (ID: pocket_kira)
+
+4. my kalanchoe has no effs to give in this chilly weather.
+   (ID: insertnamehere02)
+
+5. these guys remind me just how much of a failure my life has been.
+   (ID: Dirk-Killington)
+
+6. just got my wish order!
+   (ID: Sophie74656)
+
+7. one day i will get a photo of president petrie without his tongue out.
+   (ID: kentobean123)
+
+8. wife’s working the next few hours, so this is my xmas right now!
+   (ID: i_like_it_raw_)
+
+9. i went to a garage sale today
+   (ID: LiftingNurse)
+
+10. "gosh darn it i need those files now kent"
+   (ID: kentobean123)
+
+11. i hope my cousins new baby girl is going to love it!
+   (ID: ablubberducky)
+
+12. working on my "come at me bro" swans.
+   (ID: jlb4est)
+
+13. i’m in full christmas preparation mode!
+   (ID: FoxInKneeSocks)
+
+14. "you said i wouldnt be overdressed"
+   (ID: kentobean123)
+
+15. i know this is a trap, but i can't help it.
+   (ID: MafHoney)
+
+16. guess i'm camping tonight.
+   (ID: ChroniclyDope)
+
+17. i can't wait to come back to this area in prime wildflower/berry season!
+   (ID: MafHoney)
+
+18. i can't wait to go camping again!
+   (ID: jaynone)
+
+19. trimming june bug's bangs was super easy and i think she is pleased with the results
+   (ID: krichmondRPH)
+
+20. pattern is my own idea.
+   (ID: gelimausi)
+
+
+--- MSC ---
+Total from this dataset: 92
+
+1. I am from South California. I haven't seen snow in years.
+   (ID: dialog_14_speaker_1)
+
+2. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
+
+3. I am going to listen to rock music
+   (ID: dialog_61_speaker_2)
+
+4. I'm afraid of heights.
+   (ID: dialog_86_speaker_2)
+
+5. I am not a fan of heights.
+   (ID: dialog_9_speaker_2)
+
+6. I am not good with dogs.
+   (ID: dialog_171_speaker_2)
+
+7. I booked a boat for the summer.
+   (ID: dialog_46_speaker_2)
+
+8. I do not like ferrets.
+   (ID: dialog_97_speaker_1)
+
+9. I like other drinks over mojitos.
+   (ID: dialog_2_speaker_2)
+
+10. I've never made a movie.
+   (ID: dialog_175_speaker_2)
+
+11. Death is a great way to show respect to people.
+   (ID: dialog_160_speaker_1)
+
+12. I am older than 10. I am having a sleepover for my friends birthday.
+   (ID: dialog_118_speaker_2)
+
+13. Buying new items takes up a lot of hours.
+   (ID: dialog_123_speaker_2)
+
+14. I would like to see Wicked show.
+   (ID: dialog_144_speaker_1)
+
+15. I'm starting to enjoy watching baseball and I become a fan of the Tigers!.
+   (ID: dialog_93_speaker_1)
+
+16. I've terrible taste in music.
+   (ID: dialog_74_speaker_2)
+
+17. I live in Maryland. I am afraid of the cold.
+   (ID: dialog_138_speaker_1)
+
+18. I'm thinking about moving to warmer places.
+   (ID: dialog_80_speaker_2)
+
+19. I'm scared of heights. I don't ride horses.
+   (ID: dialog_66_speaker_1)
+
+20. I just got a new home.
+   (ID: dialog_135_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 4144
+
+1. i ’m sick and tired of the republifarts trying to hold back the future .
+   (ID: Dustin_Bromain)
+
+2. i would make it a point to exclusively pirate nhl games
+   (ID: Zarqume)
+
+3. i m going to wait to buy it .
+   (ID: GitFloowSnaake)
+
+4. i mean they teach you your robbing god so most people believe it and pay up .
+   (ID: WhereRtheTacos)
+
+5. i want you on my council .
+   (ID: sean__christian)
+
+6. i do n't know , but if we keep sucking bernie 's dick , maybe he 'll tell us .
+   (ID: dkinmn)
+
+7. i am a member of wolf - pac and goooh.org , carry on patriot !
+   (ID: HugePurpleNipples)
+
+8. i want to tear the guts out of one and put them in a telecaster .
+   (ID: dkinmn)
+
+9. i could see clg picking up one of these guys
+   (ID: Chase_P)
+
+10. i 'm jealous .
+   (ID: Piraticalstyle)
+
+11. i will expect a fall in prices in a few months nonetheless .
+   (ID: apnudd)
+
+12. i would have also accepted heisenberg
+   (ID: throwaway073847)
+
+13. i like the way you think , pal
+   (ID: Thenewfoundlanders)
+
+14. i 'm out of the loop .
+   (ID: TWS85)
+
+15. i read that as elite ’s owner
+   (ID: KPer123)
+
+16. i should be fine .... jerry might be screwed
+   (ID: Captain_-H)
+
+17. i think he 's the vereen / white this year .
+   (ID: mulletprooftiger)
+
+18. i wo n't even bother to make enquiries .
+   (ID: DarkMoon99)
+
+19. i bet this starts one too
+   (ID: isitbrokenorsomethin)
+
+20. i mean there are sooooo many better choices .
+   (ID: silentpower)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1756
+
+1. I am advocate of bitcoin.
+   (ID: d45001f1fdd37cda488cfddffabec23e83ee7b7e)
+
+2. no one is overreacting here , at least not yet . from the post   that ' s a pretty cool detail if you ask me .
+   (ID: d7b75c00237dc445cdc3ebc380fbcb79a40b1a5f)
+
+3. or maybe it ' s because if i dont see the opportunity to hatchet them then i will hit them ?
+   (ID: c1e8a543083ba89c9353a25d98386cffe1addefc)
+
+4. shipping anything to china is incredibly cheap . you know how much stuff we get from china ? milliions and millions of storage containers come to the us and aus from china . how do you think they get those crates back to china ? might as well fill up the crates before sending them back .
+   (ID: 650ba9cdaca39ad1c1fe5e6348b11afb4d8e7a0f)
+
+5. at least jordan appears to be moving to carry out their own death sentences now . i like some in  the  moment tit  for  tat .
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+6. also . what about writing her a poem ? something lovely . i don ' t know if that would work but you could try .
+   (ID: be642743472cdef9445edc6dd55beb3c2a8a1258)
+
+7. if you are still looking for a moderator i vote for zolntac he is always helping people in the sub and has done tons more research than anybody needs to about tryndamere items and such . one more mod is never a bad thing right ?
+   (ID: d9b642bbd6c09c682f252a2f49914c0d21506e6f)
+
+8. cannmart shouldn ' t condone those prices and just not sell their product then . i know it ' s not that simple but damn those poor patients at agro greens .
+   (ID: 315ad21e3ce098f09bec23f9b7509d07540912c7)
+
+9. is this sarcasm crusader kings , believe it or not , was at first all about catholic feudal rulers  all other groups that were " locked " simply never had content for them in first place . vanilla ck2 yup , without any dlc catholics have a level of depth that is absolutely unmatched by any group of nations in eu4 , and that ' s a fact . ck2 ' s model is " tall " , unlocking " areas " but each with its own self  contained avalanche of features  buy your favorite area ' s dlc and you ' re good to go . eu4 ' s model is " wide " , trying to add little random bits all over the map with each expansion  if you want a really decent experience , no matter where you play you will probably need several dlcs to make up for vanilla ' s bland arsenal of features . if i want to play other groups i can buy the corresponding dlc , knowing that i will be buying that stuff with the same level of high quality  which you can ' t say about certain eu4 dlcs , like mare nostrum or rule britannia . i am not saying it ' s the best model , or even that it ' s universally applicable , but you claiming that it ' s " anti  consumer " , especially compared to eu4 , is absurdly stupid . i mean , just go take a look at the ck2 community right now and see if there is any complaints about dlc policy . now please , go to the eu4 group and see what they think about the quality of the likes of golden century . lol  the lengths people will go to defend anti  consumer practices you are sounding like a douchebag , making random accusations , calling others " a cult " and ignoring we are simply exchanging ideas about dlc policy in a random post . no need to be agressive . though i see that you are quite activehttps    at conservative , which kinda explains your handwaving of others ' own opinions . as i have nothing to discuss with those who frequent hate speech  filled subs , i end my participation in the discussion here . you ' ll also get yourself blocked so i cannot see your further replies , but do know that i wish you a good day !
+   (ID: 67ef96fb30756c49a9ffdff2579058eb2a3c1398)
+
+10. I am support.
+   (ID: 409a49cde6f1f65f92cac4d33c7c769f7ba9e965)
+
+11. i would love to see how someone just subtly gives a nose job .
+   (ID: 661cbd631caa9db4ab702976879371243802e35e)
+
+12. no matter how hard you try , you never make it out alive .
+   (ID: 5033a9b064a9790931d6db4cc634e02af206bbb1)
+
+13. if yo i get raided the cops have a full history of your dealing and you can  t say it  s a one time thing .
+   (ID: bdf7e254fb732651bb0373067c57200731f7ca55)
+
+14. oh no . sorry about that . it used to be like that with my family too we celebrate evening of 24th and during the day on the 25th until i told them i have other people i wanna see during that time as well and now i can leave when i want
+   (ID: 9721da66d978b8a2541ec60ba070b6fa9121482d)
+
+15. this is an interesting question . my parents were watching a show the other day that actually included this exact question as far as i can tell . in it , a catholic mother in this future time was discussing with her daughter how , based on the church ' s official dogma , it would have been wrong for the deceased husband  father to have had himself digitized , as it forfeits your soul ' s place in heaven , out something like that . i didn ' t watch much of the show , but it was an interesting point . i kind of agree with others here , that just because you can copy someone ' s speech and behavior into a complicated computer program didn ' t mean you ' ve truly captured them as a person in all their fullness , which religious people think of as soul and spirit and stuff . i mean , from an empirical perspective it would probably just be an assumption either way , to say that it captured everything about the person or that it did not , because science can ' t say much about things without empirical definitions , and religion doesn ' t usually claim to define souls empirically . so an argument on whether we can manipulate souls through scientific processes is probably not sensible . idk , those are my thoughts .
+   (ID: 80ae19b9093d92fad153af508f37fcd7cd9340ec)
+
+16. can anyone explain ? how were they trying to scam him ?
+   (ID: e8fea87ced4a86b7ba9c50ae33cf5b3dda99af88)
+
+17. that im free to do whatever i want until they catch me  p
+   (ID: e3f34e146ce06ba2b5fc5a249c73494f93f56e86)
+
+18. i know this may sound ridiculous to many , but one of the most dominant memes in the wingnutsphere is that obama cannot function without a teleprompter . santorum is a poster  child for dunning  kruger . he would walk into that debate thinking " i ' m going to teach this boy something . " and that is exactly what his base dreams of .
+   (ID: 338fc695adfaaf11a58feb723c7240c6700982d8)
+
+19. is this about wanting to sniff my chair again ? for the last time , i ' m not giving up showers .
+   (ID: 3d776de779e565cac9f29e072415ad6b781eaca0)
+
+20. i agree to a point , but shiny feebas shouldn  t be easy to get . in the games , feebas was one of the rarest and hardest to get pokemon , so i feel like it would defeat the purpose of feebas if everyone in pokemon go had the shiny version .
+   (ID: 11e562551d8ce916c649db9948355e07c68fed96)
+
+
+--- PersonaChat ---
+Total from this dataset: 40
+
+1. my favorite band is up .
+   (ID: conversation_329)
+
+2. i'm allergic to cats .
+   (ID: conversation_222)
+
+3. i don't celebrate any holidays .
+   (ID: conversation_292)
+
+4. i am afraid of the dark .
+   (ID: conversation_61)
+
+5. the future scares me .
+   (ID: conversation_324)
+
+6. i just moved into an apartment within the vicinity of my new job .
+   (ID: conversation_91)
+
+7. i m scared of clowns .
+   (ID: conversation_268)
+
+8. i don t like kids .
+   (ID: conversation_456)
+
+9. i like to get involved in politics .
+   (ID: conversation_214)
+
+10. i hate evil .
+   (ID: conversation_130)
+
+11. i like to vote .
+   (ID: conversation_327)
+
+12. i hate flowers .
+   (ID: conversation_471)
+
+13. i am going bald .
+   (ID: conversation_471)
+
+14. driving in the country side is a pastime .
+   (ID: conversation_397)
+
+15. i m scared of left turns .
+   (ID: conversation_264)
+
+16. i just moved into an apartment within the vicinity of my new job .
+   (ID: conversation_216)
+
+17. i do not like kids .
+   (ID: conversation_154)
+
+18. i'm terrified of heights .
+   (ID: conversation_284)
+
+19. driving in the country side is a pastime .
+   (ID: conversation_401)
+
+20. i often worry about where to park when i go somewhere new .
+   (ID: conversation_232)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 63
+
+1. I am allergic to cats.
+   (ID: conversation_254_user_2)
+
+2. Since i have fibromyalgia , the harsher winters here in pa will be rough on me.
+   (ID: conversation_341_user_2)
+
+3. I am going to be the starting shortstop.
+   (ID: conversation_255_user_2)
+
+4. I am afraid of spiders.
+   (ID: conversation_184_user_1)
+
+5. I i love logical and rational thinking.
+   (ID: conversation_439_user_2)
+
+6. I don t like the beach.
+   (ID: conversation_399_user_1)
+
+7. Although i ski down high hills , i have a fear of heights.
+   (ID: conversation_263_user_2)
+
+8. I can do convincing bird calls.
+   (ID: conversation_2_user_2)
+
+9. I try not to think about death.
+   (ID: conversation_186_user_2)
+
+10. I hate skiing.
+   (ID: conversation_114_user_2)
+
+11. I am deathly afraid of snakes , but not bugs.
+   (ID: conversation_112_user_2)
+
+12. I don t like the beach.
+   (ID: conversation_340_user_2)
+
+13. I don t like the beach.
+   (ID: conversation_361_user_2)
+
+14. I am afraid to leave the house.
+   (ID: conversation_68_user_2)
+
+15. I have 1 pair of shoes.
+   (ID: conversation_485_user_2)
+
+16. I am hoping to play.
+   (ID: conversation_149_user_2)
+
+17. I hate to lose.
+   (ID: conversation_64_user_2)
+
+18. I would be honored to give my life for my country.
+   (ID: conversation_387_user_2)
+
+19. My mother is allergic to dogs.
+   (ID: conversation_215_user_2)
+
+20. I don t like kids.
+   (ID: conversation_461_user_2)
+
+
+============================================================

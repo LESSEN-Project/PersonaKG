@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43973
+
+Dataset distribution in this cluster:
+  FoCus: 1250 (2.8%)
+  MPChat: 2885 (6.6%)
+  MSC: 1916 (4.4%)
+  PEC: 17207 (39.1%)
+  PER-CHAT: 17367 (39.5%)
+  PersonaChat: 1116 (2.5%)
+  SyntheticPersonaChat: 2232 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1250
+
+1. I like architecture.
+   (ID: AGVUC45C9W9X_7)
+
+2. I am a fan of Lake Michigan.
+   (ID: VPRC44FNGVA6_11)
+
+3. I hope to join the Army.
+   (ID: LCFMQMTGBUJO_7)
+
+4. I love staying in hotels.
+   (ID: R9A1SC51GAMH_11)
+
+5. I love History.
+   (ID: HSQSOF3LX08H_7)
+
+6. I like boats.
+   (ID: CH4FIE1LU3RG_11)
+
+7. My favourite genre is Classical.
+   (ID: X45C380V98U8_9)
+
+8. I find steam machinery fascinating.
+   (ID: GABQG82ZVJCM_7)
+
+9. I am from the United States.
+   (ID: DAZUOQ6PPGPD_9)
+
+10. I want to go to Poland.
+   (ID: NKLIZUTIPPP1_11)
+
+11. I am Catholic.
+   (ID: DDUH6892W2P9_7)
+
+12. I love Hanumappa Nayaka.
+   (ID: UN54IACHSTX5_11)
+
+13. I would like to watch athletics.
+   (ID: DDUH6892W2P9_7)
+
+14. I like geolgoy.
+   (ID: SDW19RWSP3ZX_11)
+
+15. I'm a Anglican.
+   (ID: XXWV8BD5AL9Z_11)
+
+16. I am from England.
+   (ID: T9JPYSSWD7NW_11)
+
+17. I own a house.
+   (ID: C7RS7BTZIF1Q_11)
+
+18. I like the TV series Homeland very much.
+   (ID: GPJYUNUXPVWI_11)
+
+19. I am writing about Stratovolcano.
+   (ID: LERVJ9I223JG_7)
+
+20. I like to know about the flora of different places.
+   (ID: RQW9YJT6PSHE_7)
+
+
+--- MPChat ---
+Total from this dataset: 2885
+
+1. my cousin found out she's having a boy so of course it's blanket time.
+   (ID: Sophie74656)
+
+2. spinning a web inside my washroom in sw ontario, canada.
+   (ID: ambora)
+
+3. cardigan i made.
+   (ID: letsallcrochetYT)
+
+4. lemon berry cake (link to my baking blog recipe in comments)
+   (ID: mashedtatoes88)
+
+5. finished this for my reddit gift exchange.
+   (ID: Ichishiro)
+
+6. i made my moms dog for easter!
+   (ID: green-egg-and-ham)
+
+7. growing far taller than the cooch grass of my lawn and unsure how to kill it.
+   (ID: Perthboi92)
+
+8. my favourite swoon pattern, this one i made for myself!
+   (ID: feraljess)
+
+9. my so still refuses to learn how to make coffee.
+   (ID: av929)
+
+10. i'm still just getting used to tunisian crochet, but i'm mesmerized by how this washcloth worked up
+   (ID: SarahFree339)
+
+11. nice clean pour to start my day!
+   (ID: ext23)
+
+12. my parents just got a set of kittens.
+   (ID: SliverCobain)
+
+13. i crocheted butterfly keychains!
+   (ID: FoxInKneeSocks)
+
+14. first attempt at a "proper" crochet project (my first attempt was amigurumi ).
+   (ID: youngdad33)
+
+15. made this for my little brothers 2nd birthday today
+   (ID: castaneda2912)
+
+16. i made some thanksgiving cookies
+   (ID: kimbowee)
+
+17. "excuse me... i'd like to squeeze myself under this chair"
+   (ID: HobbitLass)
+
+18. i call it the antlered meeble walker
+   (ID: Louiesloops)
+
+19. so i got excited and messed it up and then tried again on the right.
+   (ID: Nutellism)
+
+20. [i ate] schnitzel sandwich
+   (ID: patm28)
+
+
+--- MSC ---
+Total from this dataset: 1916
+
+1. I enjoy cooking
+   (ID: dialog_46_speaker_2)
+
+2. I have 2 siberian huskies. I like playing the guitar.
+   (ID: dialog_80_speaker_2)
+
+3. My dog's breed is Siberian Husky.
+   (ID: dialog_34_speaker_1)
+
+4. I live in a rural area in Alabama, outside Birmingham.
+   (ID: dialog_85_speaker_1)
+
+5. I like playing video games.
+   (ID: dialog_35_speaker_1)
+
+6. My job is proofreading for Hallmark
+   (ID: dialog_9_speaker_1)
+
+7. I push a super car.
+   (ID: dialog_47_speaker_1)
+
+8. I have expensive glasses with progressive lenses.
+   (ID: dialog_31_speaker_1)
+
+9. I like to read.  Gardening is one of my hobbies.
+   (ID: dialog_11_speaker_1)
+
+10. I like stand-up comedy. There are no stand-up comedy clubs around where I live.
+   (ID: dialog_33_speaker_2)
+
+11. I like snow sports.
+   (ID: dialog_15_speaker_2)
+
+12. Television viewing occupies most of my time.
+   (ID: dialog_33_speaker_2)
+
+13. I like eating at new places.
+   (ID: dialog_16_speaker_2)
+
+14. My name is Sean. I'm a student
+   (ID: dialog_50_speaker_2)
+
+15. I have kids.
+   (ID: dialog_82_speaker_2)
+
+16. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+17. I've been with my significant other for a long time.
+   (ID: dialog_16_speaker_1)
+
+18. I adore cats.
+   (ID: dialog_47_speaker_2)
+
+19. I enjoy being part of the crowd.
+   (ID: dialog_16_speaker_2)
+
+20. I like call of duty.
+   (ID: dialog_67_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 17207
+
+1. i like how one woman pulls another 's finger at 1:46 .
+   (ID: SerendipitousCat)
+
+2. i did have a drink .
+   (ID: gigatroness)
+
+3. i ’ve been crying myself to bed for a while now .
+   (ID: _gansmadchen)
+
+4. i saw a video of a guy doing this at my university ... is it you ? !
+   (ID: iam1r7)
+
+5. i 'm going to watch it anyway because it 's an excuse to get shithammered at bars
+   (ID: ProJokeExplainer)
+
+6. i found a bunch of that stuff all around california city , california .
+   (ID: meteoriteminer)
+
+7. i feel so comfortable in this subreddit to say whatever i want :)
+   (ID: clueless3867)
+
+8. i feel like she is cosplaying a character   that she made up herself .
+   (ID: chirpyboyandbartjr)
+
+9. i did n't mark it nsfw .
+   (ID: Bananafoofoofwee)
+
+10. i doubt it 's as simple as that .
+   (ID: scoutsadie)
+
+11. i ’ve only given out 12 so far but it ’s going really well .
+   (ID: Justadropinthesea)
+
+12. i miss mine too 3
+   (ID: Nolanoscopy)
+
+13. i will take your username to the summit of mt .
+   (ID: carwynllew)
+
+14. i have a hard time with the age range 17/18 to 27/28 .
+   (ID: deputydan_scubaman)
+
+15. i can smell those piercings from here � �
+   (ID: baconnaire)
+
+16. i ca n't seem to find it .
+   (ID: Osiris0123)
+
+17. i 'm using strawberry watermelon right now and it 's great
+   (ID: eye-brows)
+
+18. i got way too attached to the characters an to the ideas .
+   (ID: Shrub74)
+
+19. i always like your stuff , but this is a++ .
+   (ID: monday_madrigal)
+
+20. i think it means " end of the 16th century " .
+   (ID: LooksAtClouds)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17367
+
+1. One of my favorite things is chubby girls.
+   (ID: e217e0e78b3d167105d634f49246c934025ff72b)
+
+2. One of my favorite things is lever actions.
+   (ID: c5b665e8ba18adb2125a557bd8ecbb0654907c67)
+
+3. just hear me out ! taking time to really think about what you ' re eating is connected to whether or not you ' re living a happy life . that ' s why i think it ' s really important . so , there are animals that are carnivores , right ? you know , like lions , cats , and vultures . you won ' t find meat from carnivores like that at a restaurant . why is that ? because its too smelly to eat ! it ' s disgusting ! listen up , guys ! cats are too disgusting to eat . are we on the same page so far ? on the other hand , have you heard of a fish called " sweetfish " ? sweetfish don ' t eat bugs . they only eat algae . they ' re vegetarian . usually fish guts are too bitter to eat , but sweetfish guts are delicious . it ' s because they ' re not carnivores . so with that logic in mind , all the meat we consider delicious is from herbivorous animals ! cows , pigs , and chickens ! the better their food , the better they taste ! which leads us to this conclusion . humans would taste gross because they eat meat ! well ? how do you like the conclusion i came up with ?
+   (ID: d72952657a3571deff985040e565d95d8206db60)
+
+4. I live in ontario.
+   (ID: a4eb94a9fe8ebabb780c319cc7d3f552eb79625e)
+
+5. One of my favorite things is starburst.
+   (ID: 7f9bca54da846f9c31cf145eaa5ec30d6531f5b6)
+
+6. i think i told my sisters about it , but my parents still don  t know
+   (ID: 1bb2b5ec27ad0397aea65ab5151bd4a19742f52a)
+
+7. depends on what they think i ' m gonna eat .
+   (ID: de5db66359e6314e9bac24fd9a10ec1d49584c4f)
+
+8. I have a father in my family.
+   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
+
+9. One of my favorite things is fruit.
+   (ID: 02e4b90101e07338b4251209256c01652a022c5d)
+
+10. you ' re already beginning to explain everything my comment was meant for . neurons that fire together wire together . i wish i could spend up the process of building new neurological channels in my brain so that i could get into the habit of remembering more good times , but this sometimes can be a painstaking process . i personally have had to go out of my way to create new associations , new experiences , relationships , events , feeling states , interpretations and behaviors in order to allow my brain to have a different default mode . the first step to get over trauma is to distance yourself from all malignant narcissist in your family and social circle that overtly or covertly are physically and or psychologically traumatizing you . as long as you have sociopathic , sadistic entities retriggering cortisol spikes , your amygdala will be inflated , and your sympathetic nervous system will be overactive , leaving you an a perpetual fight or flight response which is the default mode of post traumatic stress disorder . the feeling of guilt in shame is a projection that toxic people around you have tossed to you like a hot coal . they knew it would hurt if they held on to it , so in their own sick and strategic way they left it in your hands and said , " here , you have it . breaking you down psychologically is facilitated because you permit yourself to be easily discouraged . they feel more secure when they have a compliant subordinate , and since you are acquiring these feelings of shame so openly , you make a good victim to target and blow steam off of . the problem is this identity is not yours , it ' s not serving you , and you need to let it go , create a new experience , and become one of the thousand better versions of you that are possible to embody . narcissists employ sadism through psychological torture and the carrot and stick method is commonly used . as long as the standards keep moving , you will labor to satisfy , like a mouse on a wheel , even though the very nature of the person you are dealing with is pathologically insatiable . through statements like , " has made it impossible for me to move on " in the fucking garbage . don ' t say shit like that . sit down , admit and accept that hundreds of different forms of evolution , healing and enjoying are possible . you simply have to concede that those options and opportunities exist . they do exist , don ' t say they aren ' t possible because you ' re wrong . while i ' ve written so much , here is the meat of my point  you have the almost psychic power of empathy , but you have been continuously hurt by people , who granted , are in pain themselves , but don ' t have empathy and furthermore go out of their way to hurt you so that you suffer more than you know you do not deserve . what you have to do is refuse to gift your empathy to all entities as many individuals are not deserving of your kindness and compassion . i have had to cut of friends and the closest family members who frankly are suffering , but that doesn ' t make what they do to me any less cruel . you must become acquainted with your dark side and realize that it is in your best interest to completely abandon those you have betrayed you . if you respect yourself , you will slowly but surely begin to adhere to boundaries and only tolerate persons that do so with you . if you seem heartless , mean or cold it doesn ' t matter . these people know you are a good person and they are taking advantage of that very quality . because you derive your own validation from how you give , these people will suck energy out of you indefinitely until you stop them once and for all . because you ' re loving , you won ' t want to leave them behind but it is the first step in your healing . go full no contact with your abusers
+   (ID: a94c33f7a102c979d2b0d24245a9721d4136b14f)
+
+11. but that ' s not actually what ' s happening , you are writing hypothetical fiction at this point . suppose in your hatred of trump supporters you become a murdering psuedo  vigilante who kills trump supporters . you should be banned from reddit you murderer ! you should be in prison ! see , anyone can do it . and my point with that example is that you are really going to say that a good father and successful mechanical engineer is " piece of garbage " just because of who he voted for ? give me a break . to be fair , though , washington dc is just a corrupt city in general , it ' s not just trump , although he is probably among the worse . nonetheless , the whole city is owned by corporate donors , e . g . the koch brothers . at least it ' s not as corrupt as it used to be in the gilded age , boss tweed era .
+   (ID: 0264eec5f9f9a43d83f3a82c46341e90961fa3b8)
+
+12. I have a cat as a pet.
+   (ID: fc70415de2435c629ec792dbd90c954786c0bd16)
+
+13. I live in london.
+   (ID: cbba33bde970dd57ea65378793409285d5501f7d)
+
+14. One of my favorite things is crown paladin with divine soul sorcerer.
+   (ID: 6735159236fd8a4634f1974d6eba7f027dbd1aa7)
+
+15. I own a woman.
+   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
+
+16. oh no ? have you seen the video of it ?
+   (ID: 488bde170f2c1483481aa38d08906ea10be03ff1)
+
+17. why is he on a leash , what is he going to do ? run into a wall ?
+   (ID: e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3)
+
+18. obligatory not  oc . using elimination lines from cooking competition shows . " you have been chopped . " " please pack your knives and go . "
+   (ID: ee6fdc3d42cb3e2a3321054cfa11a7a337437f94)
+
+19. god and the lord are actively working in my life trying to make me better . still with me cousin ? can we be friends again ? i ' m ready to rejoin society .
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+20. I have a dog as a pet.
+   (ID: e564e7a04c6cafd6927ead32dbaf13efc4322c04)
+
+
+--- PersonaChat ---
+Total from this dataset: 1116
+
+1. i am a barista .
+   (ID: conversation_63)
+
+2. i'm a female .
+   (ID: conversation_121)
+
+3. my friend once bought me a car .
+   (ID: conversation_183)
+
+4. i sing in the shower .
+   (ID: conversation_177)
+
+5. i work at a museum .
+   (ID: conversation_32)
+
+6. i'm married to a man .
+   (ID: conversation_152)
+
+7. i like to go to bars and people watch .
+   (ID: conversation_169)
+
+8. i like to get involved in politics .
+   (ID: conversation_214)
+
+9. i know how to count cards in blackjack .
+   (ID: conversation_158)
+
+10. i love to sing .
+   (ID: conversation_10)
+
+11. i'm enrolled in several college credit courses .
+   (ID: conversation_87)
+
+12. i work at a coffee house .
+   (ID: conversation_144)
+
+13. i have my own salon .
+   (ID: conversation_228)
+
+14. i hate the taste of cheese .
+   (ID: conversation_105)
+
+15. i work part time at a pizza restaurant .
+   (ID: conversation_112)
+
+16. helping people makes me happy .
+   (ID: conversation_134)
+
+17. i live in vermont .
+   (ID: conversation_83)
+
+18. i drink lots of iced tea .
+   (ID: conversation_206)
+
+19. i m a graphic designer .
+   (ID: conversation_202)
+
+20. i used to be a chef , but i am a teacher now .
+   (ID: conversation_141)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2232
+
+1. I eat meat.
+   (ID: conversation_62_user_1)
+
+2. I enjoy spending time with family and friends.
+   (ID: conversation_248_user_1)
+
+3. I broke my nose in 5th grade.
+   (ID: conversation_114_user_2)
+
+4. I am working in finance.
+   (ID: conversation_123_user_1)
+
+5. I m in a jazz band and play the saxophone.
+   (ID: conversation_0_user_2)
+
+6. I use the computer all day.
+   (ID: conversation_41_user_2)
+
+7. I love my dog.
+   (ID: conversation_21_user_2)
+
+8. I work in a flower shop.
+   (ID: conversation_116_user_1)
+
+9. I love dogs.
+   (ID: conversation_146_user_1)
+
+10. I love to travel.
+   (ID: conversation_241_user_1)
+
+11. I live with my parents and my little brother.
+   (ID: conversation_119_user_2)
+
+12. I am a vegan.
+   (ID: conversation_221_user_1)
+
+13. I hope to one day be happy with myself.
+   (ID: conversation_162_user_2)
+
+14. I am a nurse.
+   (ID: conversation_183_user_1)
+
+15. My favorite drink is iced coffee.
+   (ID: conversation_87_user_2)
+
+16. I play a lot of video games.
+   (ID: conversation_136_user_1)
+
+17. I have only one child.
+   (ID: conversation_180_user_2)
+
+18. My favorite thing to do is read.
+   (ID: conversation_103_user_2)
+
+19. I like nature.
+   (ID: conversation_65_user_2)
+
+20. My favorite book is the bible.
+   (ID: conversation_246_user_1)
+
+
+============================================================

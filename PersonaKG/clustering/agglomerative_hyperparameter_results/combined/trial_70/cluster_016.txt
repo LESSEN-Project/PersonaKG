@@ -1,0 +1,94 @@
+CLUSTER 16
+============================================================
+Total statements in cluster: 108
+
+Dataset distribution in this cluster:
+  PER-CHAT: 104 (96.3%)
+  SyntheticPersonaChat: 4 (3.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- PER-CHAT ---
+Total from this dataset: 104
+
+1. I have a sister in my family.
+   (ID: 3bd27d669b5f394ae490c4e17c08aca524c47546)
+
+2. I have a sister in my family.
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+3. I have a sister in my family.
+   (ID: a778c9b10000a3e15377e87997ef5bea46cfe33f)
+
+4. I have a sister in my family.
+   (ID: 01d4ddab8cb9e73e5e85941c592482da1b3c6bcd)
+
+5. I have a sister in my family.
+   (ID: 2e369dc21156ed2b443bc09084e27c8acb516093)
+
+6. I have a sister in my family.
+   (ID: db49a30ced23a0e386b799d5f970489f11a53f7a)
+
+7. I have a sister in my family.
+   (ID: 8e425f2be5b1012969ff4827fa2372423ba47972)
+
+8. I have a sister in my family.
+   (ID: 9a6c8092baa903ed1df9f0bfae4b28070e199c8c)
+
+9. I have a sister in my family.
+   (ID: 39ba9a65a55c27b50eef7c5cecbc66cc866c4a4c)
+
+10. I have a sister in my family.
+   (ID: c5e877ff3be5d3571f5fe899f55887a6f608ee98)
+
+11. I have a sister in my family.
+   (ID: 2266fd8e27b1d50f2e144f7cd11716068cff21d5)
+
+12. I have a sister in my family.
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+13. I have a sister in my family.
+   (ID: e38f2a822c2a3c975648ce0d471926339b339523)
+
+14. I have a sister in my family.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+15. I have a sister in my family.
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+16. I have a sister in my family.
+   (ID: 2af8a0ff2295d21473f0e6ff67565738eb8f4df1)
+
+17. I have a sister in my family.
+   (ID: 544afc73e94949100186d302e382bea6fc33beb4)
+
+18. I have a sister in my family.
+   (ID: 1afb7597077681179430af152997f04fd73ba0ee)
+
+19. I have a sister in my family.
+   (ID: 5ab7eb494e48f5dccac549a3e018fb911f19527e)
+
+20. I have a sister in my family.
+   (ID: 292b765cb2e74ea6eb438a054f334da466dda75e)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. My sister is a guitarist.
+   (ID: conversation_59_user_1)
+
+2. My sister is a guitarist.
+   (ID: conversation_60_user_1)
+
+3. My sister is a guitarist.
+   (ID: conversation_57_user_1)
+
+4. My sister is a guitarist.
+   (ID: conversation_58_user_1)
+
+
+============================================================

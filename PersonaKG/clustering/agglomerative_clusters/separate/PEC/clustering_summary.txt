@@ -1,0 +1,66 @@
+Agglomerative Clustering Analysis Summary
+============================================================
+Total statements: 24321
+Vectorization method: dense
+Number of clusters: 50
+Analysis type: PEC
+Diversity score: 0.5381 (higher is better)
+Silhouette score: -0.0159 (higher is better)
+Timestamp: 2025-05-29 11:43:55
+
+Dataset Distribution:
+  PEC: 24321 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 0: 1580 statements
+  Cluster 8: 1051 statements
+  Cluster 9: 1018 statements
+  Cluster 20: 1018 statements
+  Cluster 14: 1017 statements
+  Cluster 1: 913 statements
+  Cluster 22: 902 statements
+  Cluster 5: 802 statements
+  Cluster 28: 769 statements
+  Cluster 48: 732 statements
+  Cluster 12: 684 statements
+  Cluster 27: 639 statements
+  Cluster 13: 619 statements
+  Cluster 11: 606 statements
+  Cluster 41: 590 statements
+  Cluster 44: 572 statements
+  Cluster 6: 558 statements
+  Cluster 15: 523 statements
+  Cluster 47: 505 statements
+  Cluster 30: 495 statements
+  Cluster 36: 450 statements
+  Cluster 23: 449 statements
+  Cluster 17: 444 statements
+  Cluster 4: 439 statements
+  Cluster 3: 416 statements
+  Cluster 10: 396 statements
+  Cluster 42: 389 statements
+  Cluster 19: 379 statements
+  Cluster 18: 367 statements
+  Cluster 49: 348 statements
+  Cluster 37: 346 statements
+  Cluster 7: 339 statements
+  Cluster 2: 331 statements
+  Cluster 38: 282 statements
+  Cluster 16: 279 statements
+  Cluster 43: 272 statements
+  Cluster 24: 267 statements
+  Cluster 31: 263 statements
+  Cluster 26: 250 statements
+  Cluster 29: 248 statements
+  Cluster 46: 242 statements
+  Cluster 21: 234 statements
+  Cluster 39: 233 statements
+  Cluster 35: 220 statements
+  Cluster 34: 197 statements
+  Cluster 45: 173 statements
+  Cluster 40: 162 statements
+  Cluster 33: 147 statements
+  Cluster 25: 84 statements
+  Cluster 32: 82 statements

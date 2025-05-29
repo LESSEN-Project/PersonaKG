@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43983
+
+Dataset distribution in this cluster:
+  FoCus: 1248 (2.8%)
+  MPChat: 2885 (6.6%)
+  MSC: 1916 (4.4%)
+  PEC: 17214 (39.1%)
+  PER-CHAT: 17372 (39.5%)
+  PersonaChat: 1116 (2.5%)
+  SyntheticPersonaChat: 2232 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1248
+
+1. I am willing to visit Dortmund in this summer.
+   (ID: EUD8WT84YX0Q_11)
+
+2. I wish to visit china.
+   (ID: 9VXK9YXEDKCO_11)
+
+3. I like mammoths.
+   (ID: N3BKTMTKN6PG_11)
+
+4. I have never seen Chichen-Itzá.
+   (ID: ZWQO9OQ8DX45_11)
+
+5. I am a fan of architecture.
+   (ID: VHZMEJDEHGGQ_11)
+
+6. I like to Digital things.
+   (ID: UDGAGMKQ9TQ1_11)
+
+7. I am not that huge when it comes to environment issues.
+   (ID: JW0BLP5O75BW_11)
+
+8. I would like to go to London.
+   (ID: LRGBCD6RT2HQ_11)
+
+9. I adore flowers,
+   (ID: LFDYLQP6HP80_7)
+
+10. I like to go to Church.
+   (ID: LRGBCD6RT2HQ_11)
+
+11. I love gardens.
+   (ID: B623Z1BXC8IT_11)
+
+12. I hate the night life of bars and places like bars.
+   (ID: GPJYUNUXPVWI_11)
+
+13. I'm interested in hip-hop culture.
+   (ID: MV4DPBGX0OB5_11)
+
+14. I am going to China.
+   (ID: UDGAGMKQ9TQ1_11)
+
+15. I am a fan of the Kansas City Royals.
+   (ID: HO684VMC687Z_11)
+
+16. I have lived in a city all my life.
+   (ID: EA2ZVDRVQ40F_11)
+
+17. I will stay in Chadds Ford.
+   (ID: BY611XJQ5BVM_11)
+
+18. I'm interested in pseudosciences.
+   (ID: OOU8UC23AVLV_11)
+
+19. I love gardens.
+   (ID: SRO8K4E2N5N5_7)
+
+20. I hope to learn more about the coal mining industry.
+   (ID: QC5LXWBDY6EM_11)
+
+
+--- MPChat ---
+Total from this dataset: 2885
+
+1. how do i start this so it doesn’t get unmanageable to work with on a plane?
+   (ID: Chris55730)
+
+2. happy valentine’s day here’s the cake i made for the occasion
+   (ID: ellielumos)
+
+3. she's a feminist musician that i designed a few years ago.
+   (ID: theringbeller)
+
+4. got my delivery from using my birthday gift card!
+   (ID: j3iglesia)
+
+5. so not as good as my chicks and carrots but still just as terrified looking
+   (ID: Cantwa1t)
+
+6. store bought rainbow sprinkles are terrible, so my wife made some herself.
+   (ID: 05twister)
+
+7. nick the pig is a pattern in my planet ringbeller series.
+   (ID: theringbeller)
+
+8. 8 months in and finally a crumb i'm proud of
+   (ID: mattsulli)
+
+9. meet my new creepy cat !
+   (ID: Tanston)
+
+10. made for my neighbor’s 2nd birthday.
+   (ID: RunAndEatCake)
+
+11. probably one of my favorite personal pieces, a mini crocheted skull!
+   (ID: Louiesloops)
+
+12. i love these colors so much!
+   (ID: green-egg-and-ham)
+
+13. [i ate] custard filled piggy buns
+   (ID: patm28)
+
+14. first time making my own cakes
+   (ID: Winter246)
+
+15. poured this for my mom!
+   (ID: The69LTD)
+
+16. cardigan i made.i wanted it to be cheerful and wanted to use leftover yarn
+   (ID: letsallcrochetYT)
+
+17. my pibble used to be terrified of the snow.
+   (ID: ddizzle23)
+
+18. one year ago today i started my job that i got through a reddit post of mine.
+   (ID: BeastaBubbles)
+
+19. cake i made looks a bit like those wax paper cups from the 90s
+   (ID: fredbutt)
+
+20. best ramen i've ever had, easily.
+   (ID: RaeADropOfGoldenSun)
+
+
+--- MSC ---
+Total from this dataset: 1916
+
+1. I am in New Orleans.
+   (ID: dialog_58_speaker_1)
+
+2. I have a nintendo.
+   (ID: dialog_46_speaker_1)
+
+3. I love my kids.
+   (ID: dialog_43_speaker_1)
+
+4. I drive and own a long black hearse. I do not work at a funeral home.
+   (ID: dialog_5_speaker_2)
+
+5. I'm a journalist.
+   (ID: dialog_64_speaker_2)
+
+6. I work in a hospital.
+   (ID: dialog_16_speaker_1)
+
+7. I possess a lot of patience.
+   (ID: dialog_55_speaker_2)
+
+8. I am a singer.
+   (ID: dialog_47_speaker_2)
+
+9. Fantasy tv shows are my favorite.
+   (ID: dialog_53_speaker_1)
+
+10. I always chew gum.
+   (ID: dialog_91_speaker_1)
+
+11. I am enlisted in the army. I am a pilot. I fly a bomber.
+   (ID: dialog_67_speaker_2)
+
+12. I am from South California. I haven't seen snow in years.
+   (ID: dialog_14_speaker_1)
+
+13. Healthy food is my favorite. My mom is a nurse.
+   (ID: dialog_90_speaker_2)
+
+14. I cannot play music.
+   (ID: dialog_80_speaker_1)
+
+15. I'm a seasoned girl.
+   (ID: dialog_95_speaker_1)
+
+16. I'm a little crazy.
+   (ID: dialog_43_speaker_1)
+
+17. I am a parent to 2 toddlers.
+   (ID: dialog_65_speaker_1)
+
+18. I play the trumpet. I want to be in a band someday.
+   (ID: dialog_44_speaker_2)
+
+19. I have a weird hobby of hunting giant reptiles in remote locations!.
+   (ID: dialog_69_speaker_2)
+
+20. Iin my previous job I was a recruiter for time warner.
+   (ID: dialog_76_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 17214
+
+1. i love the white beard crew .
+   (ID: CarlofTime)
+
+2. i just passed the coors light bar exam while browsing reddit .
+   (ID: SerendipitousCat)
+
+3. i , cheapypipe , hereby bestow upon user " kjrieg " a period for grammatical use .
+   (ID: CheapyPipe)
+
+4. i was calling it what i did call it 50 years ago when we bought it .
+   (ID: LooksAtClouds)
+
+5. i 'm just another fly fisher and gobble up any cool stories i come across .
+   (ID: error785)
+
+6. i can think of a lot of cars i 'd like to own more than a ferrari or lamborghini
+   (ID: Stan063)
+
+7. i ca n't seem to find anyone online , is it just me ?
+   (ID: BearCanoe)
+
+8. i 'll check the out , thanks !
+   (ID: genpell)
+
+9. i thought this was bread .
+   (ID: samward7)
+
+10. i see this posted every other day
+   (ID: Montag3636)
+
+11. i think that ’s basically everyone ’s origin story .
+   (ID: error785)
+
+12. i use three mc mulgore lights from amazon lol
+   (ID: mathieu2em)
+
+13. i think 13 did that .
+   (ID: nastylittleman)
+
+14. i 'm the little boy 's mom .
+   (ID: napalmkitten)
+
+15. i think he looks like he needs a high level of medical insurance , pronto .
+   (ID: bigfuckingdiamond)
+
+16. i wonder how he 's going to fund a thermonuclear war tho ...
+   (ID: IgnoranceIsAVirus)
+
+17. i get my tats done in steyning ... inkwell represent .
+   (ID: bigfuckingdiamond)
+
+18. i think that 's a false equivalence .
+   (ID: IncredibleBulk2)
+
+19. i wish i could !
+   (ID: Montag3636)
+
+20. i 'm down for anything crucible related .
+   (ID: SpartanWarNinja)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17372
+
+1. I live in by firm rule.
+   (ID: 337350fc54133b327ce0d6d9f385f82a2a6738cf)
+
+2. One of my favorite things is languages.
+   (ID: 93fee667f85cc0ee55e2451cc1a83efc0b764ef4)
+
+3. " well , ted is a werewolf , william is a vampire , eris ? a witch . " michael says straight  faced . " me ? i ' m an angel . well , half  angel . this is a school for the supernatural . " i stare at him . i had known that the school was strange when i first heard about it . i received a letter in the mail inviting me to hargrove , including a pamphlet that showed the large colonial manor . my mom had read through it and exclaimed , " you got a full scholarship ! " although i had never applied for one . so there i was on the bus from the airport , riding alongside a handsome , tall guy who introduced himself as michael . the bus was travelling through deep , dark woods . " no , it isn ' t " i replied to him . " are you crazy ? werewolves and vampires ? they don ' t exist . i ' m just a regular person . " michael looked at me with a half  smile . " i guess you have to see for yourself . " the rest of the ride i stared out the window until we arrived at the school , which was much more spooky than it had seemed on the flyer . the bus stopped and a man stepped on . " alright everybody , if you don ' t know me , my name is mr scott . we ' re coming off the bus alphabetically to make sure everyone ' s here . bill ? " bill stood up . he was a huge person and nodded at mr scott . he rose , crouching to avoid the top of the bus , shaking it as he descended . " those half  giants , am i right ? " mr scott smiled then quickly moved on , reading more names down the list . i stared and squinted at him , wondering if i heard him right . " michael ! good to see you again , i hope you had a nice summer . say hi to your dad for me ! " he clapped michael on the shoulder as he walked off the bus . " alright , let ' s see . nicholas ? you here ? " i stood up . " just nick is fine , thanks . " " great , good to meet you nick . i ' m so glad you ' re joining us as hargrove . " as i walk up to the front i notice mr scott ' s legs seem strange , as if his knees bend in the wrong direction . i look quickly up at his face to avoid staring and see tiny horns poking through his hair . in shock , i quickly step off the bus . michael is there waiting for me . " believe me yet ? " he asks . " i ' m starting to , " i shake my head in disbelief , " but if everyone here is a supernatural creature , what does that make me ? " " i ' m not sure . but i know how to find out . " michael replies . he leads me into the school and across a beautiful , expansive foyer and into an office . " mr ripley ? " michael says , poking his head through a door . " there ' s a new student here who doesn ' t know what class he ' s in . " mr ripley had strange , smooth skin like a burn victim . he was also tinted a light green and had yellow , vertically slitted eyes . he smiled , revealing two rows of small sharp teeth . " hey michael ! who ' s your new friend ? " " uhh . nick greenwood , " i answer , stepping forward . " yes alright nick , let ' s see here . " he runs a clawed finger down a list . " ok , right here  wizard class , druid subclass . does that help ? " " perfect , thanks mr ripley ! " michael smiles with perfect glowing teeth . " so you ' re a druid ! that ' ll be a fun course ! the angel course is full of ethics classes . " i think back to the way animals seem to treat me differently than other people , how i always seem to know what they ' re thinking and how our garden always has a much better crop than our neighbors , always completely untouched by pests . " yeah , i guess that makes sense . i ' ve always liked being in the woods . " " well you ' ll certainly be doing a lot of that . settle in , man ! i ' ll see you around ! " michael walks away and i ' m left alone in the foyer , wondering what i ' m supposed to do from here and what i ' ve gotten myself into . i hear a voice behind me . " nick ! our newest wizard ! let me show you where you ' ll be staying . "
+   (ID: ba6d1d2cee95e9f30e06dc1584d5fa02e62221e8)
+
+4. One of my favorite things is little strange gadgets.
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+5. it will probably be in potato quality if they let it live
+   (ID: bdbdc7c12fe37172b721ff3ae186b84ad646d582)
+
+6. I live in state.
+   (ID: 975493e3b4b2ad9cba1b98554159be45f8affdd3)
+
+7. i haven ' t told what you can and can ' t find funny , i ' ve told you what is innapropriate to say , there ' s a difference . when i said it was a joke , you said this  " no , it ' s not . jokes are meant to be funny to more people than just you . " sure you might not be saying that i didn ' t find it funny , but you were saying that no one else finds it funny . which is wrong . you are wrong .  my actions here were mostlt for the benefit of the op . you ' re words most likely bothered them in a big way , and as well as wanting to stand up to someone behaving like you did , i also wanted to show the op that someone would stand up for them and hopefully counter how you made them feel . a person on the internet who is mature enough will understand that most people will be sarcastic when given the chance . especially since he didn ' t put a " serious " tag on his post . my comment was very much clearly a joke , made obvious by the exclamation point . the fact that you got so triggered by it just highlights your immaturity and inability to recognise jokes on the internet . you might find that this flaw , this cluelessness to social cues , is one of the reasons you were bullied .  think what you want of my actions , i feel like i did the right thing . you didn ' t do anything wrong . you are just acting like a stuck up bitch . you ' re like that one person that always takes a joke seriously , gets offended because it isn ' t a " clean joke " and complains about it while other people just laugh .  and well done for admitting you made a dick move , most people don ' t have the balls to go back and admit a mistake . no need to congratulate me on something everyone like me will do , this is just showing how naive you are . there is no mistake , there never was a single mistake . i am a dick . people like me will always admit to acting like a dick . why do you think i do the things i do ? i ' m not oblivious like you .
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+8. One of my favorite things is writing.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
+
+9. I'm interested in gifts and charity.
+   (ID: 77ab4860c32a7084ca81fd91302df6690ce56731)
+
+10. One of my favorite things is blow jobs.
+   (ID: 975493e3b4b2ad9cba1b98554159be45f8affdd3)
+
+11. equality . like , c ' mon , don ' t we have enough of that already ?
+   (ID: 9b6ee533e853c768cc140f122ed313d4d7550b5a)
+
+12. I have a brother in my family.
+   (ID: cd907372aff0871825a64e977822586e3bb0ecb7)
+
+13. i think it ' s more of a celebration than a " get people back into the game " sort of deal .
+   (ID: ee6fdc3d42cb3e2a3321054cfa11a7a337437f94)
+
+14. i work in the industry and what your saying here is absolute bullshit .
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+15. One of my favorite things is marika.
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+16. I'm interested in pets and animals.
+   (ID: b18c6165a76bf34665eb406698860d1ddc5e2cbf)
+
+17. One of my favorite things is unimpressed animals.
+   (ID: 8f22657eff8a2d9aeade346926843c63f2a21e0a)
+
+18. your lie my dude . tell it how you want . over here in reality though this game needs a story to compliment the season or we  re just left with grinding weapons that will eventually get infused into something else .
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+19. are you dating my ex ? he was the same , completely unhelpful despite me laying out the best way to support me through my bad days . now i  m with a guy who actually listens to me and the difference is night and day . my mental health and productivity has skyrocketed . nta for breaking up with a guy that gets you down because he thinks he knows what you need better than you do . there  s nothing wrong with breaking up over text , either , especially when communication is an issue .
+   (ID: 46d8e69cfbec2948bee8eaeaf91010f2e7f16e4b)
+
+20. i send them text based on their interests . teacher friends get a copy of pedagogy of the oppressed . oh , you ' re interested in political economy ? you get some unsolicited dick wolf youtube videos . oh , you ' re interested in capitalism and the family unit ? here ' s some alexandra kollontai and silvia federichi . oh , you have a short attention span but you want to know more about radical feminism ? here ' s an article from the hampton institute . so on and so on , until they ' re all mls .
+   (ID: 77d0324af3e030bb9fb9365a16e870bd522fd275)
+
+
+--- PersonaChat ---
+Total from this dataset: 1116
+
+1. i working in a publishing building .
+   (ID: conversation_41)
+
+2. my mother was born in ireland .
+   (ID: conversation_38)
+
+3. i like to go hunting .
+   (ID: conversation_195)
+
+4. i am a profesional translator .
+   (ID: conversation_165)
+
+5. nachos make me happy .
+   (ID: conversation_245)
+
+6. i've a twin brother .
+   (ID: conversation_57)
+
+7. i live with my parents .
+   (ID: conversation_159)
+
+8. i never learned how to write .
+   (ID: conversation_34)
+
+9. i think food trucks are awesome .
+   (ID: conversation_232)
+
+10. i got married last year .
+   (ID: conversation_228)
+
+11. my brother raised me after our parents died .
+   (ID: conversation_232)
+
+12. my hair is colored purple .
+   (ID: conversation_228)
+
+13. i just graduated college .
+   (ID: conversation_48)
+
+14. i love eating shrimp , and i like to dip them into barbecue sauce .
+   (ID: conversation_174)
+
+15. i hate carrots .
+   (ID: conversation_3)
+
+16. i'm a classicly trained chef .
+   (ID: conversation_138)
+
+17. my father used to be a cop .
+   (ID: conversation_203)
+
+18. i dream of becoming a famous actress .
+   (ID: conversation_94)
+
+19. i was the first born child .
+   (ID: conversation_127)
+
+20. i like to eat beef .
+   (ID: conversation_59)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2232
+
+1. My father is a retired police officer.
+   (ID: conversation_177_user_2)
+
+2. I am a terrible speller.
+   (ID: conversation_6_user_2)
+
+3. My car is blue.
+   (ID: conversation_240_user_1)
+
+4. I own many cars.
+   (ID: conversation_142_user_2)
+
+5. I love ham and cheese sandwiches.
+   (ID: conversation_61_user_2)
+
+6. I like cats.
+   (ID: conversation_118_user_1)
+
+7. I am vegan.
+   (ID: conversation_42_user_1)
+
+8. I am former military.
+   (ID: conversation_27_user_2)
+
+9. I got a new job.
+   (ID: conversation_111_user_1)
+
+10. I enjoy spending time with family and friends.
+   (ID: conversation_225_user_2)
+
+11. I like sprite soda.
+   (ID: conversation_161_user_1)
+
+12. I like sprite soda.
+   (ID: conversation_55_user_1)
+
+13. My inspirations are alexander mcqueen and coco chanel.
+   (ID: conversation_191_user_2)
+
+14. My favorite food is pizza.
+   (ID: conversation_133_user_1)
+
+15. I am a chef.
+   (ID: conversation_73_user_1)
+
+16. I live close to the coast.
+   (ID: conversation_41_user_1)
+
+17. Its good to eat a lot of veggies.
+   (ID: conversation_245_user_2)
+
+18. I teach 5th grade students near oakville , ny.
+   (ID: conversation_207_user_2)
+
+19. I read a lot of used books.
+   (ID: conversation_117_user_1)
+
+20. I work in a doctor s office.
+   (ID: conversation_157_user_2)
+
+
+============================================================

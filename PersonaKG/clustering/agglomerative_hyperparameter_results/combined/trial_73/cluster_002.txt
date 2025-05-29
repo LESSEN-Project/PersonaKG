@@ -1,0 +1,467 @@
+CLUSTER 2
+============================================================
+Total statements in cluster: 2758
+
+Dataset distribution in this cluster:
+  FoCus: 463 (16.8%)
+  MPChat: 31 (1.1%)
+  MSC: 197 (7.1%)
+  PEC: 644 (23.4%)
+  PER-CHAT: 1218 (44.2%)
+  PersonaChat: 70 (2.5%)
+  SyntheticPersonaChat: 135 (4.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 463
+
+1. I would like to walk along a public footpath.
+   (ID: CH4FIE1LU3RG_11)
+
+2. I have seen Tarn.
+   (ID: Q997WWV6FO9L_11)
+
+3. I don't like Sackett Avenue.
+   (ID: EI53JQVYRP0R_11)
+
+4. I'm from California.
+   (ID: EZGYRI0YA8OX_9)
+
+5. I have never been to Alaska.
+   (ID: 82ZP2M9AL6U0_11)
+
+6. I have a friend from Vancouver.
+   (ID: UHVFDJII2GF5_11)
+
+7. I want to visit Malta.
+   (ID: WXYJ15QP91WP_7)
+
+8. I would like to experience tall buildings.
+   (ID: XA7M896U3YIQ_11)
+
+9. I would like to visit Australia.
+   (ID: PGIZXWTCX77K_7)
+
+10. I have a domestic servant at home who is from Bolivia and is an Aymara.
+   (ID: LEW58VG9I78X_11)
+
+11. I live in a house.
+   (ID: SRO8K4E2N5N5_7)
+
+12. I would like to see military artefacts.
+   (ID: LCFMQMTGBUJO_7)
+
+13. I have a friend who works in Tennessee.
+   (ID: PYCYFS54O1C8_11)
+
+14. I am in Wales for the summer.
+   (ID: BVS6H6G1BVW6_11)
+
+15. I am interested in the heritage.
+   (ID: W4CQPY8R6C4Q_11)
+
+16. I want to visit New York.
+   (ID: MV4DPBGX0OB5_11)
+
+17. I would like to visit historic bridges.
+   (ID: CRWZDJUVM3WL_11)
+
+18. I want to visit Italy.
+   (ID: DIQU5A0EAGWM_11)
+
+19. I have visited Dreamland Margate amusement park.
+   (ID: PFYAAS1XG3D8_11)
+
+20. I would like to visit Mexico.
+   (ID: X5NX5GAWOEW2_11)
+
+
+--- MPChat ---
+Total from this dataset: 31
+
+1. a shot i took at my former place a few years ago.
+   (ID: SliverCobain)
+
+2. they're all over my neighborhood.
+   (ID: fredbutt)
+
+3. this is the most beautiful place i have ever been to.
+   (ID: LunaMcLovin)
+
+4. first time camping and i got to see this before we set up.
+   (ID: crunch816)
+
+5. [oc] sweet "tweets" from my kitchen.
+   (ID: baccgirl)
+
+6. took this shot at my cafe today.
+   (ID: SilentRansom)
+
+7. all of my friends think nevada is ugly...
+   (ID: evantide)
+
+8. i'm trying to document my plants in stamp form
+   (ID: pocket_kira)
+
+9. the cozy loft i stayed in while in paris
+   (ID: chirp16)
+
+10. i live in thailand and me and my girlfriend go to this island from time to time.
+   (ID: PaidJewishTroll)
+
+11. found this pretty little mutant in my mums
+   (ID: ddizzle23)
+
+12. i had a super talented photographer visit a bit ago
+   (ID: jlb4est)
+
+13. "i would like to engage in recreation, sir."
+   (ID: ambora)
+
+14. valley falls state park, wv - really tested my brakes coming down
+   (ID: onemantwohands)
+
+15. still able to get my gyro fix togo - the greeks - morgantown, wv
+   (ID: onemantwohands)
+
+16. this is my neighbor, sammich.
+   (ID: Flattishsassy)
+
+17. it's a jurassic kind of world - oahu, hawai'i
+   (ID: River_Lethe)
+
+18. my 10 year old made this star destroyer from memory.
+   (ID: youngdad33)
+
+19. my cozy place to relax at night
+   (ID: FormalSwimming)
+
+20. stuck out of town away from my gear.
+   (ID: billwhiz)
+
+
+--- MSC ---
+Total from this dataset: 197
+
+1. I go walking with my kids outside.
+   (ID: dialog_65_speaker_1)
+
+2. I live in Seattle.
+   (ID: dialog_38_speaker_1)
+
+3. I live on the west coast.
+   (ID: dialog_92_speaker_1)
+
+4. I've a lot of student debt.
+   (ID: dialog_78_speaker_1)
+
+5. I had a small family. I am from a very small town.
+   (ID: dialog_2_speaker_2)
+
+6. I live on a private island.
+   (ID: dialog_69_speaker_2)
+
+7. I live near Boston. I have a wife. I have friendly neigbors.
+   (ID: dialog_31_speaker_2)
+
+8. I cannot go to a lot of places because of my seizures.
+   (ID: dialog_55_speaker_2)
+
+9. I like to cook and bake. I have been to San Francisco.
+   (ID: dialog_50_speaker_2)
+
+10. I live in California. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+11. I walk to get from here to there.
+   (ID: dialog_56_speaker_2)
+
+12. I live in a fantasy world.
+   (ID: dialog_50_speaker_2)
+
+13. I plan to stay with my fiance and his family. I will then move to a house on one of the coasts.
+   (ID: dialog_77_speaker_2)
+
+14. I am getting married and moving to australia soon. I'm planning a wedding.
+   (ID: dialog_77_speaker_2)
+
+15. I routinely travel to Europe and South America.
+   (ID: dialog_9_speaker_1)
+
+16. I live in a retirement home.
+   (ID: dialog_44_speaker_1)
+
+17. I've never been outside the US.
+   (ID: dialog_89_speaker_1)
+
+18. I have never left the countryside.
+   (ID: dialog_42_speaker_2)
+
+19. I travel a lot. I like to travel to Ireland and Australia. I have never visited Japan. I am planning a few family getaways during summer break. I've never been to Peru. I am not into hiking. I like visiting new cities. I like trying new foods. My travel inspires my stories.
+   (ID: dialog_9_speaker_2)
+
+20. I do not travel. I have never been out of the US.
+   (ID: dialog_8_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 644
+
+1. i ’m on vacation in prague , but my feet hurt from sightseeing in such a beautiful city .
+   (ID: StinkinFinger)
+
+2. i ’m thinking about moving in and it seems pretty decent .
+   (ID: QueenPea13)
+
+3. i 've never had any indians in my class .
+   (ID: DarkMoon99)
+
+4. i knew that top pic was tucson for some reason .
+   (ID: I_am_not_a_Taco)
+
+5. i am trying to figure out the best place for community day that is indoors .
+   (ID: chirpyboyandbartjr)
+
+6. i 'm from chicago and i do nt even know any
+   (ID: QueenPea13)
+
+7. i 'm not too far from pasadena !
+   (ID: notlikethat1)
+
+8. i live in chicago too .
+   (ID: adertal)
+
+9. i 've never even seen an afk lol .
+   (ID: playertd)
+
+10. i 'd make that south of king .
+   (ID: bbrandann)
+
+11. i live in the north seattle area .
+   (ID: Machinax)
+
+12. i live in denver .
+   (ID: Bathysphere710)
+
+13. i 'm on about them still being tourists until they stop acting like tourists .
+   (ID: ifatree)
+
+14. i do not know them , sorry .
+   (ID: Ml7500)
+
+15. i , uhh ... it was a fun night .
+   (ID: Nolanoscopy)
+
+16. i do n't know if florida residents are living in denial or what .
+   (ID: AgedTwenties)
+
+17. i 'll be moving there for the summer on may 5th .
+   (ID: mylescloutier)
+
+18. i really need to take advantage of it .
+   (ID: Nobody-Likes-Change)
+
+19. i 've ridden a few times and would like to buy a motorcycle .
+   (ID: Captain_-H)
+
+20. i ’m not in california .
+   (ID: Captain_-H)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1218
+
+1. legoland windsor , uk . avoid like the fucking plague .
+   (ID: ed9fd9ff218602605c7fbdf8f02f658604680c61)
+
+2. appalachia . it ' s a third world country in our backyard .
+   (ID: 5b8ed03bdff11aec4ed3a2ed4e122a505bf937dd)
+
+3. I live in germany.
+   (ID: e6c4a2b8e8c999b54ade342babc3d7b48868cc6d)
+
+4. I live in united kingdom.
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+5. I live in mississippi.
+   (ID: 43582d67310e995ea85c152bb256b0596144bf82)
+
+6. I live in high wycombe.
+   (ID: 2d1b758f410687b90c33a1260646954b4c1301f7)
+
+7. I live in massachusetts.
+   (ID: e7d4349520d7fd2b6b8d8e41558874e7ce55f7c3)
+
+8. I live in hearing.
+   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+
+9. I live in oakland.
+   (ID: e5fd25110413c69853218bbcbb0169f73c8f06e1)
+
+10. I live in big city.
+   (ID: bb88411b165294ddd01835e6389a8e93e9d796d3)
+
+11. I live in house.
+   (ID: 2971f819c4d7400b9fa7806434e9037b6af4dfae)
+
+12. I live in California.
+   (ID: c378ee827fb7d26c7ea685ec1dc451bf264b0151)
+
+13. i lived there as a kid  looking at this meadow , i ' m like , " i think i ' ve actually been there ! "  then i get sad because i never appreciated being there as a kid  now that i ' m grown , i can ' t just pick up  move back .
+   (ID: 649605988d72e34fdcf0c170b6b9fa959a7d483e)
+
+14. I live in different province.
+   (ID: 125ddbf9c8c84552065bdd657a82dd3f392bf5c1)
+
+15. I live in london mucus lampards shot.
+   (ID: 2ad50e702ea7ef4cc62a34ca116f658d564c0474)
+
+16. I live in dogs.
+   (ID: 4f1b65a581332b9d19507ccf0e921d0967e013e7)
+
+17. I live in part.
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+18. I live in with big group.
+   (ID: 25a3a19690cf520ebb090d792f9aab864cc59254)
+
+19. I live in hip hop stephen marley inna di red jimi hendrix  wing collie buddz movin.
+   (ID: 26eaf1fafb916f4238e66dfba6deb9da540be2f6)
+
+20. I live in rock.
+   (ID: 4a699f45d7c076d67a8d89f2c711ff27f50199fb)
+
+
+--- PersonaChat ---
+Total from this dataset: 70
+
+1. i grew up in alabama .
+   (ID: conversation_221)
+
+2. i live in a house in the country .
+   (ID: conversation_40)
+
+3. my parents recently moved to florida .
+   (ID: conversation_46)
+
+4. i live in an apartment .
+   (ID: conversation_135)
+
+5. i live in the city .
+   (ID: conversation_81)
+
+6. i like to go to the farmers market every weekend .
+   (ID: conversation_215)
+
+7. i just moved from va to pa .
+   (ID: conversation_167)
+
+8. i grew up on a farm .
+   (ID: conversation_99)
+
+9. i live in a house in the country .
+   (ID: conversation_98)
+
+10. i live on an island .
+   (ID: conversation_27)
+
+11. i have never traveled outside of the united states .
+   (ID: conversation_170)
+
+12. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+13. i live in rural wisconsin .
+   (ID: conversation_15)
+
+14. i'm stuck in a wheel chair .
+   (ID: conversation_32)
+
+15. i'm hoping to move to australia soon to marry my boyfriend .
+   (ID: conversation_77)
+
+16. i was born in baton rouge .
+   (ID: conversation_138)
+
+17. i like to go to the farmer s market every weekend .
+   (ID: conversation_117)
+
+18. my father lives in china .
+   (ID: conversation_6)
+
+19. my dream is to move to the middle of the desert .
+   (ID: conversation_92)
+
+20. i live in nashville .
+   (ID: conversation_117)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 135
+
+1. I like to attend wine tours.
+   (ID: conversation_113_user_2)
+
+2. I am hoping to move to australia soon to marry my boyfriend.
+   (ID: conversation_189_user_2)
+
+3. I love traveling.
+   (ID: conversation_72_user_1)
+
+4. I am from california.
+   (ID: conversation_34_user_2)
+
+5. I have traveled to europe and mexico.
+   (ID: conversation_202_user_2)
+
+6. I spend the weekends travelling up to canada to relax and enjoy the view.
+   (ID: conversation_223_user_2)
+
+7. I live in colorado.
+   (ID: conversation_236_user_1)
+
+8. I like to go shopping with my daughters.
+   (ID: conversation_40_user_2)
+
+9. I love to keep a small garden outside of my house.
+   (ID: conversation_220_user_2)
+
+10. I travel often.
+   (ID: conversation_14_user_2)
+
+11. I travel a lot.
+   (ID: conversation_225_user_2)
+
+12. I am buying a house.
+   (ID: conversation_184_user_2)
+
+13. I love to travel.
+   (ID: conversation_241_user_1)
+
+14. I live on a farm.
+   (ID: conversation_63_user_2)
+
+15. I recently moved to sweden.
+   (ID: conversation_218_user_2)
+
+16. I live on a beet farm.
+   (ID: conversation_116_user_2)
+
+17. I am in debt.
+   (ID: conversation_90_user_1)
+
+18. I am buying a house.
+   (ID: conversation_93_user_1)
+
+19. I don t have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_100_user_2)
+
+20. I live in my parents basement.
+   (ID: conversation_118_user_1)
+
+
+============================================================

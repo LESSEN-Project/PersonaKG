@@ -1,0 +1,171 @@
+CLUSTER 6
+============================================================
+Total statements in cluster: 108
+
+Dataset distribution in this cluster:
+  MPChat: 2 (1.9%)
+  MSC: 3 (2.8%)
+  PEC: 9 (8.3%)
+  PER-CHAT: 85 (78.7%)
+  PersonaChat: 1 (0.9%)
+  SyntheticPersonaChat: 8 (7.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i think this cat is plotting to kill me
+   (ID: hellywelly)
+
+2. this is my dilly cat
+   (ID: BareFootMumma)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. For me, one cat is enough.
+   (ID: dialog_49_speaker_1)
+
+2. I love my cat.
+   (ID: dialog_49_speaker_2)
+
+3. I love my cat.
+   (ID: dialog_49_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 9
+
+1. i think that it was a * serendipitous cat * !
+   (ID: SerendipitousCat)
+
+2. i think the neighbours cat did it .
+   (ID: harumpf)
+
+3. i d on cat ?
+   (ID: LabeledAsALunatic)
+
+4. i wish i had an obnoxious cat :(
+   (ID: polypixiegirl)
+
+5. i think your cat is broken .
+   (ID: serverpilot)
+
+6. i love bill the cat !
+   (ID: MrBovineJoni)
+
+7. i did that to my cat once !
+   (ID: mostlikelyto___)
+
+8. i have a cat
+   (ID: mathieu2em)
+
+9. i tried to un pet the cat today .
+   (ID: WiseScratch)
+
+
+--- PER-CHAT ---
+Total from this dataset: 85
+
+1. I have a cat as a pet.
+   (ID: 89e76efb1868896fe46bffbc2c10d965b53857d1)
+
+2. I have a cat as a pet.
+   (ID: de5db66359e6314e9bac24fd9a10ec1d49584c4f)
+
+3. I have a cat as a pet.
+   (ID: 36314aee005a03517f2446ec0da2834fe0f712d6)
+
+4. I have a cat as a pet.
+   (ID: 89169d635166bbc089338914b42d288ecb2593e9)
+
+5. I have a cat as a pet.
+   (ID: 47697a08dc01689d8119bf9bd578194eb66d157c)
+
+6. I have a cat as a pet.
+   (ID: 52733f5273fb099705b2a9e455932c48dae3d6b0)
+
+7. I have a cat as a pet.
+   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
+
+8. I have a cat as a pet.
+   (ID: b6567f005c34603036e6119544386ff4f12ec3a9)
+
+9. I have a cat as a pet.
+   (ID: fc70415de2435c629ec792dbd90c954786c0bd16)
+
+10. I have a cat as a pet.
+   (ID: e0a46a0dc8fa303b4f52545ef88afe4d8f63943b)
+
+11. I have a cat as a pet.
+   (ID: c9b1e924c86788c982ec59df3d5704354a2a4ae1)
+
+12. I have a cat as a pet.
+   (ID: ae9e10cc82b9b20c52f819c70c83f657724f9f44)
+
+13. I have a cat as a pet.
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
+
+14. I have a cat as a pet.
+   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
+
+15. I have a cat as a pet.
+   (ID: de62a0a330b0a7ca76d55a6702dcae5baf1c3cae)
+
+16. I have a cat as a pet.
+   (ID: e09cddf2452184c83537d2d4e8a36f0ba7c3fae9)
+
+17. I have a cat as a pet.
+   (ID: ecc98de1e575d7e863a2124b364b8ed586778ba5)
+
+18. I have a cat as a pet.
+   (ID: 96167969642339382f3b9c4eeee4ea73aec3823c)
+
+19. I have a cat as a pet.
+   (ID: a8b3c82ca36eb4e48fd6b6674a642f96d401743e)
+
+20. I have a cat as a pet.
+   (ID: eeef74f05127fafe9b00ca3ad85ff51c0eb20fff)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i've a cat .
+   (ID: conversation_24)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I have a cat.
+   (ID: conversation_16_user_2)
+
+2. I have a cat.
+   (ID: conversation_97_user_2)
+
+3. I own a cat.
+   (ID: conversation_164_user_1)
+
+4. I own a cat.
+   (ID: conversation_249_user_2)
+
+5. I own a cat.
+   (ID: conversation_163_user_1)
+
+6. I own a cat.
+   (ID: conversation_165_user_1)
+
+7. I have a cat.
+   (ID: conversation_93_user_2)
+
+8. I own a cat.
+   (ID: conversation_166_user_1)
+
+
+============================================================

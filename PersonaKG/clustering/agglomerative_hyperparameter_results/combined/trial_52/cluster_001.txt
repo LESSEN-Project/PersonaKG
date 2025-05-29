@@ -1,0 +1,467 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 11976
+
+Dataset distribution in this cluster:
+  FoCus: 817 (6.8%)
+  MPChat: 130 (1.1%)
+  MSC: 1118 (9.3%)
+  PEC: 793 (6.6%)
+  PER-CHAT: 6957 (58.1%)
+  PersonaChat: 637 (5.3%)
+  SyntheticPersonaChat: 1524 (12.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 817
+
+1. I like Elvis Presley.
+   (ID: MGR759JYZZLP_7)
+
+2. I like technology.
+   (ID: O5F8MAFDNJB4_11)
+
+3. I like valleys.
+   (ID: 82ZP2M9AL6U0_11)
+
+4. I like caves.
+   (ID: N3BKTMTKN6PG_11)
+
+5. I like doing tourist things.
+   (ID: GOA1VSVK1TBD_11)
+
+6. I love being in the middle of the many skyscrapers.
+   (ID: YH6KAJ3V2KQ8_11)
+
+7. I am not a fan of going to the movies.
+   (ID: X0N9IFSJSH26_11)
+
+8. I like to Visit tourist attraction sites.
+   (ID: 8GQ0F315ZAPD_9)
+
+9. I like English.
+   (ID: LOLQOIY09AO4_11)
+
+10. My favourite genre is Classical.
+   (ID: X45C380V98U8_9)
+
+11. I love aqueducts.
+   (ID: GC9BAJTK54F1_11)
+
+12. I like history.
+   (ID: USE7XGAZYB6P_11)
+
+13. I like reading stories about the culture of European peoples in pre-Roman times.
+   (ID: ODWWG1XAUHD6_11)
+
+14. I like penguins.
+   (ID: PI3TE121KEOF_11)
+
+15. I love learning about the heritage of things.
+   (ID: S7EFLIB5IQDV_11)
+
+16. I like cycling.
+   (ID: 8WL4II03WTP0_7)
+
+17. I like the architecture style of John Montresor.
+   (ID: OOA3VSMVQ4YE_11)
+
+18. I like nature.
+   (ID: FHCSCC2MB2X0_7)
+
+19. I like polar bears.
+   (ID: UV1VIOV2PCFH_11)
+
+20. I like Georgian style architectures because it looks so georgeous.
+   (ID: DK9VMLV1IASM_11)
+
+
+--- MPChat ---
+Total from this dataset: 130
+
+1. i love my mk6 gli
+   (ID: bryanw0104)
+
+2. i don't like pumpkin spice, but i like putting pumpkins on my pots.
+   (ID: audballofclay)
+
+3. sometimes i get really bored when marking scripts at home.
+   (ID: meepmeepcuriouscat)
+
+4. i make earth-inspired ceramic smokeware and accessories!
+   (ID: phantomfellow)
+
+5. potatoes are one of my fav veggies - ribbon fries
+   (ID: onemantwohands)
+
+6. i love colorado.
+   (ID: Foolz_Go1d)
+
+7. my version of clean eating - salmon 3 ways - volcano, morgantown, wv
+   (ID: onemantwohands)
+
+8. first try with rye i think i'm in love.
+   (ID: mattsulli)
+
+9. i am one of those pineapple on pizza people - grafton hometown pizza, wv
+   (ID: onemantwohands)
+
+10. i love plaid!
+   (ID: jinxie1266)
+
+11. my husband smoked a brisket yesterday, and it still makes an amazing sandwich even today.
+   (ID: DeanIsHotter)
+
+12. meet my favorite new prop!
+   (ID: Meow_19)
+
+13. my local walmart started carrying "premium choice" tomahawk ribeyes and strip steaks.
+   (ID: MonstaEatsItAll)
+
+14. my fave trendy chicago eat - italian beef dipped
+   (ID: onemantwohands)
+
+15. i love indian buffets - saffron - morgantown, wv
+   (ID: onemantwohands)
+
+16. i'm a sculptor by trade but also enjoy toying around with pottery
+   (ID: SailingArtist)
+
+17. i heard r/aww likes older dogs too.
+   (ID: The69LTD)
+
+18. monster cakes are my favorite!
+   (ID: Learning2Grow)
+
+19. choosing random colors from my stash and hoping they don't clash too much
+   (ID: mle12189)
+
+20. my precious piggies are so cute.
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 1118
+
+1. I love it when it is cold outside.
+   (ID: dialog_66_speaker_1)
+
+2. My favorite food is Pizza. I love sushi and eat it when I study.
+   (ID: dialog_23_speaker_1)
+
+3. I'm a big gamer.
+   (ID: dialog_110_speaker_1)
+
+4. Guns and roses is my favorite band.
+   (ID: dialog_6_speaker_1)
+
+5. I like bigger canines.
+   (ID: dialog_182_speaker_2)
+
+6. I like to workout.
+   (ID: dialog_149_speaker_1)
+
+7. I like learning about maintenance of mechanical systems. I like to read electrical manuals. I have experience with mechanical repair of household appliances.
+   (ID: dialog_176_speaker_2)
+
+8. I like fluid from out of country.
+   (ID: dialog_33_speaker_1)
+
+9. I like to be outdoors when I am not working.
+   (ID: dialog_48_speaker_2)
+
+10. I really like cafe latte like they serve in france.
+   (ID: dialog_126_speaker_1)
+
+11. I love anything dairy!.
+   (ID: dialog_28_speaker_2)
+
+12. I enjoy being fake.
+   (ID: dialog_50_speaker_1)
+
+13. I like Sherlock Holmes.
+   (ID: dialog_5_speaker_2)
+
+14. I like to move it to music.
+   (ID: dialog_28_speaker_2)
+
+15. I like shopping,  dancing, eating out.
+   (ID: dialog_27_speaker_1)
+
+16. I love baseball.
+   (ID: dialog_103_speaker_2)
+
+17. I like the vegan food at Whole Foods.
+   (ID: dialog_65_speaker_2)
+
+18. I like to make blankets.
+   (ID: dialog_71_speaker_2)
+
+19. I like pepsi.
+   (ID: dialog_98_speaker_1)
+
+20. I love it when trees are green and flowers bloom.
+   (ID: dialog_24_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 793
+
+1. i just finished listening to the podcast called " unpoiled !
+   (ID: Megan_Bee)
+
+2. i love flash pops
+   (ID: bummang)
+
+3. i 'm one of the few who does n't watch got .
+   (ID: Nobody-Likes-Change)
+
+4. i am currently reading " anne of green gables " which is a true delight .
+   (ID: ddshroom)
+
+5. i love democracy .
+   (ID: KPer123)
+
+6. i prefer waffles !
+   (ID: windowcircle)
+
+7. i hope you get a chance to enjoy them soon !
+   (ID: kitcatpaints)
+
+8. i absolutely love my job , and the children i 'm with .
+   (ID: Noimnotsally)
+
+9. i love 3d thanos !
+   (ID: BrianV91)
+
+10. i like breakfast in bed , but i love garlic and bread .
+   (ID: FrankOfTheDank)
+
+11. i know a man of culture , when i see one .
+   (ID: Ian_Str8)
+
+12. i love brownies !
+   (ID: jay456)
+
+13. i ❤ ️ doggie smiles !
+   (ID: notthruyet)
+
+14. i thought that was just my shitty cable provider
+   (ID: NietzschesUbermensch)
+
+15. i really get into the importance of not screwing up the children .
+   (ID: gofiguree)
+
+16. i had a visiting friend taste and he enjoyed it .
+   (ID: Samoht2113)
+
+17. i might have to make a post of my own about them ...
+   (ID: Mende)
+
+18. i hope the new episodes are to your liking : d
+   (ID: Kialand)
+
+19. i like the veggies thin sliced and crunchy .
+   (ID: Bathysphere710)
+
+20. i think they deserve some more love , air max plus 1 year rotation
+   (ID: Breethepig)
+
+
+--- PER-CHAT ---
+Total from this dataset: 6957
+
+1. One of my favorite things is cars.
+   (ID: ef02e812d417ba40d4b3e2f97601e54e4a68c5c5)
+
+2. One of my favorite things is sekisui house.
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+3. One of my favorite things is truckers.
+   (ID: 8285a776fd60b145ed2afc145cdf2b926b93ed8b)
+
+4. One of my favorite things is melodic metal.
+   (ID: 99339abeb32b696e2ac12139001f76ebf63d0868)
+
+5. One of my favorite things is cats bit.
+   (ID: 873d7cdd437cc48c69447d68b6cd96b54580dae7)
+
+6. One of my favorite things is rpg maker.
+   (ID: 5d032deb25ff976c97c846d4d1073b0e71b447a3)
+
+7. I use design.
+   (ID: b74c6f378f67934bed1f9dd4c591152d002827ec)
+
+8. licking envelopes . i see how many i can lick in one hour then try to beat that record .
+   (ID: 5dc1e0203cb86a245c4ede5cb73923b295b1fdc8)
+
+9. One of my favorite things is languages.
+   (ID: 1b4a970a63450e21b56e1d38502b30aca032cd3f)
+
+10. One of my favorite things is boobs.
+   (ID: 6227692d2c261d0ca079ff0b4b03c8c2a6933b88)
+
+11. One of my favorite things is james franco.
+   (ID: 74b41b40662f8290cb9efa13620a4b8ecd792ba9)
+
+12. One of my favorite things is crafts.
+   (ID: ec299e39e931c010d0d98b62058c9ccb814797dd)
+
+13. One of my favorite things is bioware games.
+   (ID: a98df1d16d4e1204ace7856449444a3afbb80743)
+
+14. One of my favorite things is bacon.
+   (ID: 65b64663fe8890c471866a25cf075ff50d852dbf)
+
+15. One of my favorite things is lea.
+   (ID: a77eb45bf2cf0979852baa624e4a728cd8c1b85b)
+
+16. One of my favorite things is frogs.
+   (ID: 54d8d3056c8f47c31e118e652b57922cf96c4876)
+
+17. One of my favorite things is clear water.
+   (ID: 354f69f9c6cf00a975f2f112bc11eaa79f843f63)
+
+18. One of my favorite things is fondant.
+   (ID: 9ec4f8c81572a0a43c8d624fb459f565cd019aad)
+
+19. One of my favorite things is ernest.
+   (ID: 613ad5d5b0144c86404a7d899ddbcd89ab6c82fb)
+
+20. One of my favorite things is pain.
+   (ID: 47697a08dc01689d8119bf9bd578194eb66d157c)
+
+
+--- PersonaChat ---
+Total from this dataset: 637
+
+1. i like the internet .
+   (ID: conversation_348)
+
+2. i watch a lot of spongebob .
+   (ID: conversation_417)
+
+3. my favorite movie is pretty woman .
+   (ID: conversation_155)
+
+4. i enjoy making 3d models for video games and animations .
+   (ID: conversation_320)
+
+5. i write fiction for fun .
+   (ID: conversation_404)
+
+6. i write fiction for fun .
+   (ID: conversation_332)
+
+7. my favorite book is the tale of genji .
+   (ID: conversation_323)
+
+8. my favorite color is blue .
+   (ID: conversation_387)
+
+9. my favorite tv show is silicon valley .
+   (ID: conversation_161)
+
+10. my favorite color is green .
+   (ID: conversation_207)
+
+11. i like eating vegetables .
+   (ID: conversation_247)
+
+12. nachos make me happy .
+   (ID: conversation_245)
+
+13. i like to run so that i can clear my head .
+   (ID: conversation_337)
+
+14. i like to play sports and get fresh air .
+   (ID: conversation_410)
+
+15. i love pizza .
+   (ID: conversation_426)
+
+16. i enjoy playing tennis .
+   (ID: conversation_47)
+
+17. i like to play soccer , draw and read asterix .
+   (ID: conversation_354)
+
+18. i love rap music .
+   (ID: conversation_260)
+
+19. my favorite food is cheeseburgers .
+   (ID: conversation_219)
+
+20. i visit comic con .
+   (ID: conversation_168)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1524
+
+1. I enjoy fishing.
+   (ID: conversation_290_user_1)
+
+2. I love the summer.
+   (ID: conversation_210_user_2)
+
+3. I like to read.
+   (ID: conversation_372_user_2)
+
+4. My favorite food is spaghetti and meatballs.
+   (ID: conversation_102_user_2)
+
+5. My favorite band is muse.
+   (ID: conversation_40_user_1)
+
+6. I love to read.
+   (ID: conversation_237_user_2)
+
+7. The weather here is very cold , but so beautiful in the spring.
+   (ID: conversation_338_user_2)
+
+8. I enjoy reading.
+   (ID: conversation_193_user_1)
+
+9. I like dr pepper and black jack gum , but not together.
+   (ID: conversation_483_user_2)
+
+10. I occasionally go for walks down by the park.
+   (ID: conversation_147_user_1)
+
+11. I love the smell of beans.
+   (ID: conversation_499_user_1)
+
+12. I love watching game of thrones.
+   (ID: conversation_275_user_2)
+
+13. My favorite food is mashed potatoes.
+   (ID: conversation_483_user_1)
+
+14. I like tacos.
+   (ID: conversation_495_user_2)
+
+15. I enjoy nature.
+   (ID: conversation_96_user_1)
+
+16. My favorite author is jane austen.
+   (ID: conversation_300_user_2)
+
+17. I surf everyday.
+   (ID: conversation_89_user_2)
+
+18. I love role play.
+   (ID: conversation_299_user_1)
+
+19. I enjoy talking to strangers.
+   (ID: conversation_304_user_1)
+
+20. I paint organic scenes with pretty trees.
+   (ID: conversation_288_user_1)
+
+
+============================================================

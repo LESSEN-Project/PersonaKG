@@ -1,0 +1,97 @@
+CLUSTER 73
+============================================================
+Total statements in cluster: 20
+
+Dataset distribution in this cluster:
+  MSC: 4 (20.0%)
+  PEC: 5 (25.0%)
+  PER-CHAT: 7 (35.0%)
+  PersonaChat: 2 (10.0%)
+  SyntheticPersonaChat: 2 (10.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I am a solo life explorer.
+   (ID: dialog_18_speaker_2)
+
+2. I'm a solo life explorer.
+   (ID: dialog_33_speaker_2)
+
+3. I play the video game character online
+   (ID: dialog_50_speaker_2)
+
+4. I am a game hunter.
+   (ID: dialog_93_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 5
+
+1. i have one of the highest kill ratios in real life .
+   (ID: randominternetdood)
+
+2. i can help you with that , i charge $ 5000 per kill .
+   (ID: randominternetdood)
+
+3. i spend a a number of hours exploring and traveling ..
+   (ID: warname)
+
+4. i am a hunter but okay
+   (ID: Kialand)
+
+5. i am the first navigator huh ?
+   (ID: Kialand)
+
+
+--- PER-CHAT ---
+Total from this dataset: 7
+
+1. ok ? what will he be doing on the pc ? is he a content creator or a gamer ? also , no disrespect just wondering , if you  re asking people on reddit for specs how do you expect to build it yourself ?
+   (ID: 6f291f3688a3a398f92cd165b10b1d3796d86840)
+
+2. I am time traveler.
+   (ID: eb338cca8f5e87e4b6e5d369997ab6dbebf241c5)
+
+3. i ' m guessing he ' s a hunter , unless you ' re adamantly anti  gaming . huh . that ' s a really good guess .
+   (ID: ce7a661d87e9157748595ef19b5ea913ea96198f)
+
+4. I am target shooter.
+   (ID: d06e7949138d7c04b968c15f3dd6f37d07c5a670)
+
+5. i don  t know , do you need killing ?
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+
+6. I am anime character.
+   (ID: b0e3f9865fac8af53cbb23ab9bb715640cab13f0)
+
+7. I am anime.
+   (ID: 58e212a6c13e22a08d2941c582a79d5479d666fd)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i am a famous video game character online .
+   (ID: conversation_50)
+
+2. i am a famous video game character online .
+   (ID: conversation_92)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am a famous video game character online.
+   (ID: conversation_82_user_2)
+
+2. I am a famous video game character online.
+   (ID: conversation_278_user_2)
+
+
+============================================================

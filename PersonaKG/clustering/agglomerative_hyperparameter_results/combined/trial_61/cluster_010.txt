@@ -1,0 +1,413 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 1344
+
+Dataset distribution in this cluster:
+  FoCus: 2 (0.1%)
+  MPChat: 33 (2.5%)
+  MSC: 35 (2.6%)
+  PEC: 818 (60.9%)
+  PER-CHAT: 410 (30.5%)
+  PersonaChat: 22 (1.6%)
+  SyntheticPersonaChat: 24 (1.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2
+
+1. I like halloween.
+   (ID: GYX0OU7PEQ7Q_11)
+
+2. My favorite holiday is Christmas.
+   (ID: G9I9RZZLCC1P_11)
+
+
+--- MPChat ---
+Total from this dataset: 33
+
+1. i sent a card to my aunt in canada back in september.
+   (ID: opie2)
+
+2. my old girl turns 10 today.
+   (ID: MafHoney)
+
+3. my running club turned 5 years old!
+   (ID: RunAndEatCake)
+
+4. yesterday was my niece's 1st birthday.
+   (ID: kimbowee)
+
+5. hanging out with matilda on my sick day
+   (ID: BananaStand07)
+
+6. i felt so small
+   (ID: Jmoe2004)
+
+7. i’m in full christmas preparation mode!
+   (ID: FoxInKneeSocks)
+
+8. i've tried c2c before but i don't like how the blanket stretches when it is finished.
+   (ID: Soapy_Von_Soaps)
+
+9. i hope my christmas gumbo will warm everyone's heart as much as it does mine :)
+   (ID: Dirk-Killington)
+
+10. the day i brought my baby bully home.
+   (ID: m3lodym4ker)
+
+11. it’s getting cold in canada so i had to bundle up waffles!
+   (ID: FoxInKneeSocks)
+
+12. my friend is waiting for the flowers.....
+   (ID: opie2)
+
+13. my favorite nursery was having a sale!
+   (ID: gxnelson)
+
+14. much to my daughters' disappointment, i'm always making amigurumi to give away.
+   (ID: blboppie)
+
+15. just rolled into my tummy!
+   (ID: baccgirl)
+
+16. had to split up the dogs for the week while my gf and i went on vacation.
+   (ID: ChroniclyDope)
+
+17. timberline purchased in 1993 by my step mom
+   (ID: LiftingNurse)
+
+18. leaving for work vs when i come home.
+   (ID: SweetSassyClassy)
+
+19. positive thoughts needed, my boy might have a bowel obstruction and hopefully doesn't need surgery.
+   (ID: TattsMcGee)
+
+20. my baby is 1 year old today!
+   (ID: FindingTheAdventure)
+
+
+--- MSC ---
+Total from this dataset: 35
+
+1. Sometimes I've trouble breathing.
+   (ID: dialog_114_speaker_1)
+
+2. I became an orphan at an early age.
+   (ID: dialog_26_speaker_1)
+
+3. I had a rocky childhood.
+   (ID: dialog_178_speaker_2)
+
+4. I am scared of surgery.
+   (ID: dialog_64_speaker_1)
+
+5. I like the last part of the year.
+   (ID: dialog_190_speaker_1)
+
+6. My marriage lasted ten calendars after.
+   (ID: dialog_127_speaker_2)
+
+7. I shaved off all of my hair.
+   (ID: dialog_147_speaker_2)
+
+8. Halloween is my favorite holiday.
+   (ID: dialog_5_speaker_2)
+
+9. I had a rough childhood.
+   (ID: dialog_138_speaker_2)
+
+10. Winter is my favorite season. I do not like hot weather. My birthday is December 25.
+   (ID: dialog_183_speaker_1)
+
+11. I'm depressed.
+   (ID: dialog_174_speaker_1)
+
+12. I had a tough childhood.
+   (ID: dialog_127_speaker_2)
+
+13. I grew up well off.
+   (ID: dialog_154_speaker_2)
+
+14. My dad got caught robbing a bank.
+   (ID: dialog_146_speaker_2)
+
+15. Sometimes I have trouble breathing.
+   (ID: dialog_40_speaker_1)
+
+16. I had to get used to moving a lot and seeing my dad once a year.
+   (ID: dialog_16_speaker_1)
+
+17. I wish my hair wouldn't fall out.
+   (ID: dialog_138_speaker_2)
+
+18. I like christmas.
+   (ID: dialog_66_speaker_2)
+
+19. I like christmas.
+   (ID: dialog_66_speaker_1)
+
+20. I'm single. I have an ex-boyfriend who I am still in love with.
+   (ID: dialog_41_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 818
+
+1. i 've been waiting to see your birth post !
+   (ID: teriaki)
+
+2. i 'm having a bit of a tough time dealing with dysthymia
+   (ID: Always_Ask_4_Sources)
+
+3. i would assume that you are already planning to leave .
+   (ID: crestview76)
+
+4. i had irregular periods at your age , pills fixed it .
+   (ID: blue_thingy)
+
+5. i do n't think my heart can take it .
+   (ID: adertal)
+
+6. i have gone five months without pain -- until a couple weeks ago .
+   (ID: bbakks)
+
+7. i wish i was n't expected to shave my entire body , including my asshole , every few days .
+   (ID: sillylionface)
+
+8. i , uhh ... it was a fun night .
+   (ID: Nolanoscopy)
+
+9. i hope you 're right though , or i 'd be even more concerned .
+   (ID: bigfuckingdiamond)
+
+10. i 'm very sorry for the loss of your young friend .
+   (ID: mizzpkat)
+
+11. i felt a huge weight on me .
+   (ID: AgedTwenties)
+
+12. i 'm so sorry you all went / are going through this .
+   (ID: lovestheautumn)
+
+13. i suggest heavy drinking and lots of weed to dull the pain
+   (ID: AzHighways)
+
+14. i decided to go with a buyback and leave my buddy behind for a new macbook air .
+   (ID: Nheea)
+
+15. i 'm sorry you had to go through that .
+   (ID: cheesehuahuas)
+
+16. i tracked my cycle and it was always 10 days before my period that my mood swings would come .
+   (ID: justgirlypasta)
+
+17. i was so nervous !
+   (ID: prettynicky10)
+
+18. i 'm very sorry for the loss of your long time pal .
+   (ID: mizzpkat)
+
+19. i 'm sorry , op .
+   (ID: parkleswife)
+
+20. i propose a miata meetup
+   (ID: glowinthedark)
+
+
+--- PER-CHAT ---
+Total from this dataset: 410
+
+1. hahahaha that ' s one date you ' ll never forget !
+   (ID: 14942db2673f05d429e3df3e81ee89b62cf80338)
+
+2. that varies from country to country but the point remains , get some distance between you and your old life and do everything you can to leave it in the past . doing your time isn ' t the end of the punishment , you ' ll keep paying for it for many years to come if you don ' t distance yourself from your past misdeeds . there ' s a lot of complex issues at play but there ' s a lot of data that shows once you ' ve been to prison once you ' re probably going to go back , and if you ' re the exception to the rule at best you ' ll probably just have really shitty jobs and constant struggles for the rest of your life .
+   (ID: b489bebca81ea07c422e4a78e54cd162edf2a814)
+
+3. just our silly gift exchange . we pick a theme for the year . it has been  something from a truck stop , something blue , something homemade , your favorite song on a cdhad to explain what those were to the kids and then a quiz to guess whose was whose . things like that . usually we all pick a gift , open them , then have a dice rolling game where everyone gets one chance to steal another ' s present ! we have a large family , so getting one present is way easier and just so much more fun and it takes the commercial aspect out of the holiday and makes it more about our family being together and doing the usual silly shit we do together .
+   (ID: a478495540bd8a55b1578497b1e3790b4038b27a)
+
+4. sending you love , fuck him . you ' ll be ok .
+   (ID: 1d327d2812dfee71bf8ef77d36ffd5eb70efd55b)
+
+5. what happens if you die of old age ? does this only work for accidents , or do you become young again ?
+   (ID: 1476398f6c778fb461539e3f78b07720d4ceee83)
+
+6. yeah , that ' s a little unfair . although there would be false positives there too , like " you must really enjoy the elliptical "
+   (ID: b779c0f28aaed5c7cbc5476e91a7eb397a6933bb)
+
+7. definitely discuss this with your doctor . and maybe consider getting a squatty potty ? it ' s supposed to ease the strain . they have them for sale i my local grocery store for  digit . so going to be getting one as well .
+   (ID: 2d26439362b22d8737b6d2a810c70fc3b9a3ddaa)
+
+8. man . if you  re suffering from dts then you already know the answer to your own question . what you should be asking is , how can i get help ?
+   (ID: 386a392e883042f376e701f5ad03fc1c67ffde36)
+
+9. you nailed it . my instructor once told me that if you think you have something wrong , identify the problem , take immediate action , and fly the plane . communicate with atc if you can , and worry about possible consequences later . he told me that it ' s far better for you to have sign an faa statement than to have your family sign a release at the morgue . i always remembered that .
+   (ID: 5603c8fcb517a4b5745afb8c3f46248974edebe3)
+
+10. i just opted out . if i want to be back in , how do ido that ?
+   (ID: 20fef7b83cf9ae51924e5491cac2f90901d833e0)
+
+11. almost suffocating myself with my bed sheets . makes for a funny story though .
+   (ID: 40f1dd99755dca159ccdbdacafea183ed0a104cd)
+
+12. that i was a fantastic father . you always wonder if you  re doing the right things .
+   (ID: ac1ceb388a2e170941cb682c48398cacc87c5019)
+
+13. christmas day with my family and my girlfriend . my sister insulted my girlfriend at the dinner table . i immediately experienced what i can only describe as pure rage .   x200b  i quite literally saw red . as in , everything became tinged red . i got up from my chair and made it around to the other side of the table where my sister was without any conscious thought of what i was doing .   x200b  when i got to her my sister i just sort of stopped and looked at here with a kind of angry bewilderment . i hadn ' t make any conscious decision to hurt her or yell at her or anything so i didn ' t know what to do . i ended up just going back to my chair and not saying anything .   x200b  i honestly don ' t know what other people at the table thought i was doing .   x200b  as an aside , i had always thought that " seeing red " was just an expression until it happened to me that one time .   x200b  in the many years since that happened , nothing has ever made me that angry .
+   (ID: be9f60605270d73ac3a4e5b587575b1f65df15f5)
+
+14. I own a base.
+   (ID: b5f9b695867ef3b560a4fe7610f75e43b62809f6)
+
+15. i ' m gonna die alone .
+   (ID: f67f4ffc3afd37a9ece4ede606682407c9b920b1)
+
+16. it ' s in the name ' self harm ' . your just hurting yourself to supposedly make yourself feel better even though it would never be enough .
+   (ID: 480e1d5457cca32a54c00398823abca7aae20b86)
+
+17. same mate ! i can get aggressive with ovd triggers sometimes , small doses of edibles through the day keep the symptoms way manageable if not gone
+   (ID: 46cf1fc2a9c8dec12fa16589117be75cf1571e1d)
+
+18. so what does " hectic " mean to you and can you cite a reference ?
+   (ID: fcec87cb8b541d87ad0eb8b52c3541c8fc49132b)
+
+19. i wish i didn  t find your account , your post history is fucking mental . it  s literally like some true detective serial killer shit . you need to get out before its too late .
+   (ID: c06f82a9d6f502a9c5707645e6b0bc869ff37975)
+
+20. i was speaking to girl once a week at martial arts and at the time there was a lump on my face . i said with a perfectly straight face that it was a brain tumour and that id be dead in digit months . i though she would have got dead pan humour but she didn ' t and i quit martial arts at a latter time so sometimes i think about what she thinks happened .
+   (ID: b3a8447862df1e30a18d38c5c0ad1c8595c18d4c)
+
+
+--- PersonaChat ---
+Total from this dataset: 22
+
+1. i got married last year .
+   (ID: conversation_228)
+
+2. i am still in love with my ex boyfriend .
+   (ID: conversation_41)
+
+3. my left knee is filled with metal .
+   (ID: conversation_450)
+
+4. my favorite holiday is halloween because i like dressing up .
+   (ID: conversation_29)
+
+5. i married my high school sweetheart .
+   (ID: conversation_206)
+
+6. my birthday is in june .
+   (ID: conversation_446)
+
+7. i got married last year .
+   (ID: conversation_14)
+
+8. my left knee is filled with metal .
+   (ID: conversation_395)
+
+9. christmas is my favorite holiday .
+   (ID: conversation_180)
+
+10. my favorite holiday is halloween .
+   (ID: conversation_195)
+
+11. i got married 10 years later .
+   (ID: conversation_127)
+
+12. my favorite holiday is halloween .
+   (ID: conversation_243)
+
+13. halloween is my favorite holiday .
+   (ID: conversation_5)
+
+14. i got married to my highschool friend .
+   (ID: conversation_34)
+
+15. when i was a child i was kidnapped by my uncle .
+   (ID: conversation_336)
+
+16. i also give blood monthly in honor of my sister who died .
+   (ID: conversation_77)
+
+17. i have an older brother that has gotten into trouble .
+   (ID: conversation_312)
+
+18. my birthday is in june .
+   (ID: conversation_24)
+
+19. my favorite holiday is halloween .
+   (ID: conversation_0)
+
+20. i have epilepsy .
+   (ID: conversation_55)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 24
+
+1. My birthday is in june.
+   (ID: conversation_269_user_1)
+
+2. I married my high school sweetheart.
+   (ID: conversation_178_user_1)
+
+3. When i was a child i was kidnapped by my uncle.
+   (ID: conversation_68_user_2)
+
+4. Halloween is my favorite holiday.
+   (ID: conversation_313_user_2)
+
+5. I grew up as an orphan.
+   (ID: conversation_66_user_2)
+
+6. I married my high school sweetheart.
+   (ID: conversation_411_user_2)
+
+7. I married my high school sweetheart.
+   (ID: conversation_181_user_1)
+
+8. I currently am engaged to my high school boyfriend.
+   (ID: conversation_310_user_2)
+
+9. I married my high school sweetheart.
+   (ID: conversation_105_user_2)
+
+10. Every fall i visit my sister in canada.
+   (ID: conversation_359_user_2)
+
+11. I got married last year.
+   (ID: conversation_176_user_2)
+
+12. I married my high school sweetheart.
+   (ID: conversation_453_user_1)
+
+13. I have epilepsy.
+   (ID: conversation_372_user_2)
+
+14. I married my high school sweetheart.
+   (ID: conversation_343_user_1)
+
+15. My left knee is filled with metal.
+   (ID: conversation_24_user_2)
+
+16. I married my high school sweetheart.
+   (ID: conversation_344_user_1)
+
+17. I met my husband when i was a freshman in college.
+   (ID: conversation_32_user_1)
+
+18. I married my high school sweetheart.
+   (ID: conversation_452_user_1)
+
+19. My birthday is in june.
+   (ID: conversation_263_user_1)
+
+20. I married my highschool sweetheart.
+   (ID: conversation_99_user_2)
+
+
+============================================================

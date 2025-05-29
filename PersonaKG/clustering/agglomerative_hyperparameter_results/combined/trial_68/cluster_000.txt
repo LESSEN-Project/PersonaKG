@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43985
+
+Dataset distribution in this cluster:
+  FoCus: 1248 (2.8%)
+  MPChat: 2885 (6.6%)
+  MSC: 1916 (4.4%)
+  PEC: 17215 (39.1%)
+  PER-CHAT: 17373 (39.5%)
+  PersonaChat: 1116 (2.5%)
+  SyntheticPersonaChat: 2232 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1248
+
+1. I am a fan of Chelsea football club.
+   (ID: UVWYNJ9N0J17_11)
+
+2. I hate people and companies damaging the wildlife and environment of national parks.
+   (ID: LEW58VG9I78X_11)
+
+3. I love research.
+   (ID: FGIEUW9ABAQU_11)
+
+4. I love Warragamba Emergency Scheme.
+   (ID: KHRYE9OFUIMW_9)
+
+5. I love horses.
+   (ID: LJYX36WCRYDM_9)
+
+6. I am curious about the Dig Tree.
+   (ID: PSAPP3TRHUMW_11)
+
+7. I want to learn more about history.
+   (ID: X45C380V98U8_9)
+
+8. I am interested in history.
+   (ID: L6R2H1LVDRER_7)
+
+9. I went to France on my vacation last year.
+   (ID: OVAVQ6KQ4YWN_11)
+
+10. I have never been to Israel but would like to go one day.
+   (ID: VUQVHZP0LUAH_11)
+
+11. I am interested in war.
+   (ID: 8PCBSP0T0VTY_11)
+
+12. I enjoy exploring cemeteries.
+   (ID: MA2EPDC7QHS5_11)
+
+13. I have been to England.
+   (ID: XDIIZK7KZ12G_11)
+
+14. I would like to compete in a ski competition.
+   (ID: QTNNKQN2EVU5_11)
+
+15. I like gold.
+   (ID: OOU8UC23AVLV_11)
+
+16. I am going to Rome on vacation.
+   (ID: MRD9ZG9O57GA_11)
+
+17. I am from India.
+   (ID: KG8AEOFQLTO4_11)
+
+18. I wish I had a palace.
+   (ID: 9ZUQKMGM6HTD_11)
+
+19. I don't like waterways.
+   (ID: DMD9S9COJOIA_7)
+
+20. I am working with architecture.
+   (ID: WKS47SP8CYLV_11)
+
+
+--- MPChat ---
+Total from this dataset: 2885
+
+1. i'm a little rusty with my decorating, but i tried a hydrangea cake tonight.
+   (ID: paintingpajamaspink)
+
+2. just uploaded my first pattern to ravelry for this voodoo doll.
+   (ID: Sophie74656)
+
+3. so i made a hat instead.
+   (ID: ablubberducky)
+
+4. in cross-stitch i embroidered this pattern on count with twist.
+   (ID: gelimausi)
+
+5. from a remainder of material i have a hardanger embroidered tablecloths.
+   (ID: gelimausi)
+
+6. "i'm the help"- american horror corgi
+   (ID: kentobean123)
+
+7. this is my favorite wedding cake i've done so far.
+   (ID: danilane)
+
+8. i got a bunch of skeins at a sale and made this collage :)
+   (ID: skorletun)
+
+9. i'm a newbie on reddit.
+   (ID: theringbeller)
+
+10. [i ate] a plate of sushi
+   (ID: Ry_)
+
+11. my one and only finished object for this week is comfort bear no 4 for this year.
+   (ID: Moriarty58)
+
+12. made this lovely cake for my parents 30th anniversary!
+   (ID: Cantwa1t)
+
+13. so i started yet another blanket for my baby!
+   (ID: Sophie74656)
+
+14. made my own hummus, and tahini.
+   (ID: onemantwohands)
+
+15. i'd love to hear your thoughts about him (c)
+   (ID: theringbeller)
+
+16. [i ate] fried catfish on red beans n rice
+   (ID: BeastaBubbles)
+
+17. i'm really proud of this one.
+   (ID: VisitingCivet)
+
+18. i ate my dream at yume wo katare!
+   (ID: RaeADropOfGoldenSun)
+
+19. recently went on my first hunt.
+   (ID: Flattishsassy)
+
+20. judge me if you want, but i love white castle!
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 1916
+
+1. I take care of people.
+   (ID: dialog_28_speaker_1)
+
+2. I'm a creative person.
+   (ID: dialog_74_speaker_2)
+
+3. I am afraid of needles.
+   (ID: dialog_90_speaker_1)
+
+4. I work in a hospital.
+   (ID: dialog_16_speaker_1)
+
+5. Music comes easy to me.
+   (ID: dialog_4_speaker_2)
+
+6. I love Crookshanks.
+   (ID: dialog_48_speaker_1)
+
+7. I like tacos. I am getting ready to move. I am going to the University of Michigan. I major in Pre-med since I like to become a doctor.
+   (ID: dialog_12_speaker_1)
+
+8. I'm the ultimate. I'm the alpha and the omega.
+   (ID: dialog_43_speaker_1)
+
+9. I love to live life to the fullest
+   (ID: dialog_46_speaker_1)
+
+10. I am often successful at ocean fishing.
+   (ID: dialog_61_speaker_1)
+
+11. My best friend is Calden.
+   (ID: dialog_53_speaker_2)
+
+12. I have feelings for a person in my past.
+   (ID: dialog_41_speaker_2)
+
+13. I stay in an assistant living facility.
+   (ID: dialog_44_speaker_1)
+
+14. I don't eat animal products.
+   (ID: dialog_60_speaker_2)
+
+15. I enjoy going through novels in my spare time.
+   (ID: dialog_36_speaker_2)
+
+16. I rode my bike to the last Comic-con that was in town. I like riding my bike
+   (ID: dialog_29_speaker_2)
+
+17. I am making a place similar to jamba juice.
+   (ID: dialog_88_speaker_2)
+
+18. I live in Virginia. I am not married.
+   (ID: dialog_34_speaker_1)
+
+19. I'm a bibliophile.
+   (ID: dialog_9_speaker_1)
+
+20. I have one labrador and one golden retriever.
+   (ID: dialog_90_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 17215
+
+1. i 'm good :) .
+   (ID: leo9g)
+
+2. i 've had some long strong rides after smoking cigs ... ramps up the adrenaline
+   (ID: RonaldFuckingPaul)
+
+3. i hoped for pictures of an adult doodlebug hugging his teddy
+   (ID: mrhenk9)
+
+4. i agree completely .
+   (ID: SeasonedLemur)
+
+5. i see someone was on gizmodo today
+   (ID: thebastion)
+
+6. i think the fog ha something to do with it .
+   (ID: chirpyboyandbartjr)
+
+7. i doubt it 's a specific story .
+   (ID: GetItTogether)
+
+8. i am on government disability due to it .
+   (ID: CuriousBlueAbra)
+
+9. i m feeling much more confident now !
+   (ID: bbrandann)
+
+10. i do n’t wanna taste that rainbow bro
+   (ID: uhslickbacknamepimp)
+
+11. i 'm sorry please i 'm so sorry do n't leave me alone
+   (ID: techdude21)
+
+12. i was away for a few days , but am back now .
+   (ID: zsnajorrah)
+
+13. i just bought this today on a whim !
+   (ID: adertal)
+
+14. i made it vanilla so people could load ' most ' mods overtop of it .
+   (ID: SYDWAD)
+
+15. i 've never had any indians in my class .
+   (ID: DarkMoon99)
+
+16. i do n't understand .
+   (ID: underneathstars)
+
+17. i just started to cry .
+   (ID: gigatroness)
+
+18. i feel that .
+   (ID: IncredibleBulk2)
+
+19. i ’m thinking of tattooing either noodle or 2d or perhaps some album cover without the band members .
+   (ID: freddlaren)
+
+20. i wonder how many top comments we read as genuine but are actually complete bullshit .
+   (ID: SamuelStephenBono)
+
+
+--- PER-CHAT ---
+Total from this dataset: 17373
+
+1. One of my favorite things is beautiful women.
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+2. I have a daughter in my family.
+   (ID: 7a0302ed354e54bfa45e1de27055f29421f91f29)
+
+3. i ' m sorry she is treating you like this . as for the  digit comforter . is that something you can afford .
+   (ID: 74cc8b596c27cbe385709690baaf3b68f39b3915)
+
+4. I have a wife.
+   (ID: 744a61859eb21e8e7ed805da69133b0d07c3e965)
+
+5. i remember like digit years ago i went for a jog and there was this guy lying on the ground not moving and i just ran past him thinking someone else will call help and when i came back an hour later he was still there
+   (ID: 564c5b4efd54586fbf212727e2071f5ddadabb82)
+
+6. I have a mother in my family.
+   (ID: 46d8e69cfbec2948bee8eaeaf91010f2e7f16e4b)
+
+7. if we are quiet in a group setting it does not mean we are having a bad time . although it ' s a nice gesture , you don ' t have to constantly check on us . it makes us feel insecure and like we ' re doing something wrong .
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+8. i literally don  t remember anything from the show besides its title . that  s how shit it was .
+   (ID: 6b55ac21377298601038ad44ea0f65b18e7c5b51)
+
+9. I'm interested in pets and animals.
+   (ID: 2266fd8e27b1d50f2e144f7cd11716068cff21d5)
+
+10. I own a world.
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+11. One of my favorite things is scrubs.
+   (ID: 0ff9b93da34f69dc075bf7e22366843c393b5bdd)
+
+12. maybe push isn ' t the right word . the whole " you can ' t push your belief on me but if you believe in god ur dumb lolol imaginary friend " thing . i guess " be an asshole about " would have been better wording
+   (ID: 9447b1479bba35e43476f822ef86882e0d4d70d7)
+
+13. I am voting.
+   (ID: fdf9c56e21cf61fb3b2852da66f6506ce908651c)
+
+14. i would think that ' s true for most of the old alfas . some have a bigger following and more support i guess . good to know
+   (ID: 90779ea1e5aa2ec3ed3a1fa6b99a8207c0d66d3e)
+
+15. One of my favorite things is corsair ll120-ll140s.
+   (ID: d9e6e1ecc09dc9affbcc8ccb0191ff241370a782)
+
+16. oh yea . you continued to harass me by posting comments like this . don ' t act like a fool dedicatedsloth . old people are not always wise . example  dedicatedsloth . i said to end the drama . you continued it . so you are harassing me kid . stop it kid  i am older than you !
+   (ID: ac53f9ce173965984299f3686335a39bc2a5810f)
+
+17. there was a free futon on the side of the curb . me and my eldest son carried it about three kilometres home for my daughters room .
+   (ID: 5e646069de46abbfe6c3a4f3f3296eafe09fc9aa)
+
+18. up the ante a bit , if you go hands free ?
+   (ID: 45768598053a5b3cdf1e6e286b99114b7acf5f3c)
+
+19. I own a house.
+   (ID: 20e44d996799f8bb3fe89546818050bf021f4be9)
+
+20. One of my favorite things is kaitlyn.
+   (ID: f179711c18514780c1b0257643d893ef1cf5a081)
+
+
+--- PersonaChat ---
+Total from this dataset: 1116
+
+1. i enjoy swimming .
+   (ID: conversation_199)
+
+2. i'm married .
+   (ID: conversation_140)
+
+3. i like basketball .
+   (ID: conversation_8)
+
+4. i volunteer in my spare time .
+   (ID: conversation_226)
+
+5. i love hamburgers .
+   (ID: conversation_244)
+
+6. i would rather stay up late than get up early .
+   (ID: conversation_193)
+
+7. i am a veterinarian .
+   (ID: conversation_99)
+
+8. i like crocheting .
+   (ID: conversation_152)
+
+9. i love anime .
+   (ID: conversation_168)
+
+10. i had to call 911 when i had a terrible headache .
+   (ID: conversation_34)
+
+11. i like going to the beach .
+   (ID: conversation_111)
+
+12. i'm a farmer .
+   (ID: conversation_157)
+
+13. i work at a museum .
+   (ID: conversation_32)
+
+14. i love riding roller coasters .
+   (ID: conversation_178)
+
+15. my favorite food is cheeseburgers .
+   (ID: conversation_219)
+
+16. i think i might need help .
+   (ID: conversation_159)
+
+17. i like to listen to music .
+   (ID: conversation_6)
+
+18. i love to run fast .
+   (ID: conversation_235)
+
+19. i'm allergic to cats .
+   (ID: conversation_222)
+
+20. i've problems chewing my food .
+   (ID: conversation_126)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2232
+
+1. I am east asian.
+   (ID: conversation_161_user_2)
+
+2. I play a lot of video games.
+   (ID: conversation_137_user_1)
+
+3. I live in vermont.
+   (ID: conversation_20_user_2)
+
+4. My family is very important to me.
+   (ID: conversation_47_user_2)
+
+5. I love traveling.
+   (ID: conversation_73_user_1)
+
+6. I love owning nice office supplies.
+   (ID: conversation_217_user_2)
+
+7. I like to play tennis.
+   (ID: conversation_177_user_1)
+
+8. I am allergic to nuts.
+   (ID: conversation_126_user_1)
+
+9. I like having my back scratched.
+   (ID: conversation_126_user_2)
+
+10. I hate the holidays.
+   (ID: conversation_164_user_2)
+
+11. I m easily agitated.
+   (ID: conversation_106_user_2)
+
+12. I am vegan.
+   (ID: conversation_45_user_1)
+
+13. I read a lot of used books.
+   (ID: conversation_117_user_1)
+
+14. I love to travel.
+   (ID: conversation_209_user_2)
+
+15. My dogs name is toto.
+   (ID: conversation_44_user_2)
+
+16. I own a car.
+   (ID: conversation_76_user_1)
+
+17. I was born in france and moved to canada.
+   (ID: conversation_83_user_2)
+
+18. I m really short.
+   (ID: conversation_19_user_2)
+
+19. I like books about trains.
+   (ID: conversation_173_user_1)
+
+20. I play a lot of video games.
+   (ID: conversation_135_user_1)
+
+
+============================================================

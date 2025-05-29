@@ -1,120 +1,103 @@
 CLUSTER 88
 ============================================================
-Total statements in cluster: 125
-Cluster persistence (stability): 0.992
+Total statements in cluster: 69
+Cluster persistence (stability): 0.961
 
 Dataset distribution in this cluster:
-  MPChat: 4 (3.2%)
-  MSC: 2 (1.6%)
-  PEC: 116 (92.8%)
-  PER-CHAT: 3 (2.4%)
+  PEC: 64 (92.8%)
+  PER-CHAT: 4 (5.8%)
+  PersonaChat: 1 (1.4%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- MPChat ---
-Total from this dataset: 4
-
-1. i think my ceramic pipes belong here!
-   (ID: phantomfellow)
-
-2. an amanita muscaria i think!
-   (ID: fredbutt)
-
-3. i *think* i have my first sprout!
-   (ID: arrowheadfibers)
-
-4. what do you think of my first strawberry shortcake?
-   (ID: justcook_byangel)
-
-
---- MSC ---
-Total from this dataset: 2
-
-1. I think lobster is rubbery.
-   (ID: dialog_144_speaker_2)
-
-2. I think that I am bipolar.
-   (ID: dialog_43_speaker_1)
-
-
 --- PEC ---
-Total from this dataset: 116
+Total from this dataset: 64
 
-1. i think i 'd suffocate otherwise .
-   (ID: eye-brows)
+1. i miss brendan fraser .
+   (ID: IgnoranceIsAVirus)
 
-2. i do n’t think they are in the us � �
-   (ID: mass08)
+2. i miss sheinelle .
+   (ID: immobilyzed)
 
-3. i think this is it .
-   (ID: LooksAtClouds)
+3. i miss climbing .
+   (ID: Mahatma_Panda)
 
-4. i think you were scouted
-   (ID: parkleswife)
+4. i wo n't miss skuld one bit :p
+   (ID: Ooer)
 
-5. i do n't think you would ever do that to me .
-   (ID: ItGetsAwkward)
+5. i miss you so damn much .
+   (ID: 11_29_77)
 
-6. i think zippity doo dah has to be a part of it
-   (ID: AgentElman)
+6. i miss my ' 99 thunderbird .
+   (ID: coocha)
 
-7. i still think there is something to it .
+7. i miss the rains down in affffrica
+   (ID: PECOSbravo)
+
+8. i miss when our guardian had a voice
+   (ID: Chase_P)
+
+9. i miss letterman .
+   (ID: Byde)
+
+10. i miss guam : (
+   (ID: ifixurchit)
+
+11. i miss that label printer .
+   (ID: error785)
+
+12. i miss mans and petra
+   (ID: therocketandstones)
+
+13. i miss my cat now , rip shirly temple
+   (ID: Question-everythings)
+
+14. i miss my gaming buddy .
+   (ID: AdamFeoras)
+
+15. i 'm betting you miss her more .
+   (ID: chasemyers)
+
+16. i miss acrobatics and athletics .
    (ID: JimmyMcShiv)
 
-8. i do n't think any of us are refs here .
-   (ID: isitbrokenorsomethin)
+17. i miss far cry 2 on mobile
+   (ID: GitFloowSnaake)
 
-9. i think canna botica as well .
-   (ID: Bathysphere710)
+18. i miss ming 's soooo much .
+   (ID: LooksAtClouds)
 
-10. i think it ’s you .
-   (ID: TheRealAshren)
+19. i miss papa franku ...
+   (ID: Taydrz)
 
-11. i think the vashta nerada ?
-   (ID: eye-brows)
-
-12. i think he 's a sssssssssslythhhherrrin .
-   (ID: chickenpants80)
-
-13. i do n't think they have
-   (ID: Malachite_Wrath)
-
-14. i think it 's an adjective , too .
-   (ID: Sabiola)
-
-15. i think w.a.s.p .
-   (ID: closetotheedge48)
-
-16. i do n't think was around until 2004 - 2005
-   (ID: msiekkinen)
-
-17. i do n't think cows are sacred in spain .
-   (ID: ChoppingOnionsForYou)
-
-18. i think it is because of all the pixelation .
-   (ID: DanGarion)
-
-19. i think it 's about both
-   (ID: ThriftStoreSweatband)
-
-20. i think she belongs here
-   (ID: karsan99)
+20. i miss blonde doctor and janitor , but the show is still decent .
+   (ID: dkinmn)
 
 
 --- PER-CHAT ---
-Total from this dataset: 3
+Total from this dataset: 4
 
-1. if that  s what you think .
-   (ID: 01d4ddab8cb9e73e5e85941c592482da1b3c6bcd)
+1. yup ! as a qa manager i second your statement . we sometimes have a miss on our vertical form and fill machine that ultimately leads to this .
+   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
 
-2. fedorcallahan what do you think of this ?
-   (ID: 409a49cde6f1f65f92cac4d33c7c769f7ba9e965)
+2. you miss the joke ?
+   (ID: b6f013c0bdbca04282e87d0e013063517d33e93b)
 
-3. what do you think ?
-   (ID: c22fbcc3fbb3286d348387d73888b66c1c9e09ba)
+3. what if you knowing the numbers somehow changes the outcome ? and you miss out anyway .
+   (ID: 4cc753880acafe19a59cd87ecc09d1637e797277)
+
+4. jairo . many an hour was spent playing minecraft with that dude . miss him greatly .
+   (ID: 248dfc064467a4d774ed5853571f5757bace1bf3)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i miss my dad .
+   (ID: conversation_84)
 
 
 ============================================================

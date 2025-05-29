@@ -1,165 +1,363 @@
 CLUSTER 40
 ============================================================
-Total statements in cluster: 85
-Cluster persistence (stability): 0.928
+Total statements in cluster: 694
+Cluster persistence (stability): 0.333
 
 Dataset distribution in this cluster:
-  MPChat: 11 (12.9%)
-  MSC: 1 (1.2%)
-  PEC: 61 (71.8%)
-  PER-CHAT: 12 (14.1%)
+  FoCus: 3 (0.4%)
+  MPChat: 53 (7.6%)
+  MSC: 23 (3.3%)
+  PEC: 528 (76.1%)
+  PER-CHAT: 47 (6.8%)
+  PersonaChat: 38 (5.5%)
+  SyntheticPersonaChat: 2 (0.3%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- MPChat ---
-Total from this dataset: 11
+--- FoCus ---
+Total from this dataset: 3
 
-1. i made a tough decision tonight and said goodbye to my matilda.
+1. I've always wanted to go pedal boating.
+   (ID: E0BEYP6NJPS6_11)
+
+2. I've never been in a Fort.
+   (ID: EZGYRI0YA8OX_9)
+
+3. I've worked on preservation projects before.
+   (ID: LJYX36WCRYDM_9)
+
+
+--- MPChat ---
+Total from this dataset: 53
+
+1. my benchmade that i’ve carried daily for over 8 years
+   (ID: i_like_it_raw_)
+
+2. i've pitched my tent in worse locations.
+   (ID: ed2base)
+
+3. anything for my kid it’s not perfect but i’ve definitely failed harder
+   (ID: smsikking)
+
+4. because i've been missing boba
+   (ID: Lookingforearrings2)
+
+5. to add to the coach theme here lately... i've also found several coach items this week.
+   (ID: insertnamehere02)
+
+6. there's this old geezer in my local and i've become his yarg dealer.
+   (ID: Flyberius)
+
+7. they can always tell when i've been messing with my tanks...
+   (ID: blboppie)
+
+8. this is the most recent watercolor landscape that i've made
+   (ID: salt_watercolors)
+
+9. i've finished these cuties and i'm so excited to show them off!
+   (ID: Ploliveira)
+
+10. i've started the witching hour swancho
+   (ID: ninjaeatingzombie)
+
+11. some hand built stuff i've worked on in the last year
+   (ID: insertnamehere02)
+
+12. first wild oyster mushroom i’ve ever found in washinon though!
+   (ID: sundstrom193)
+
+13. baker gmhas gained a healthy 15 pounds and a huge smile since i've brought him home.
    (ID: BananaStand07)
 
-2. no more plants this month, i said... until i found this crested fuzzy at the grocery store.
-   (ID: fredbutt)
+14. [fo] most complicated beanie i've [bro]cheted so far!
+   (ID: lolveets)
 
-3. my co worker said his son “is gonna freak” so proud of this one
-   (ID: mathwifey)
+15. i’ve since improved my straightness skills and consistency with letters.
+   (ID: 1cecream4breakfast)
 
-4. not a problem said i.
-   (ID: Soapy_Von_Soaps)
+16. 12 indoor snowballs in 4 days, i’ve learned my lesson about etsy processing times
+   (ID: FoxInKneeSocks)
 
-5. my brother jokingly said he wanted bacon for his birthday.
-   (ID: Metalocachick)
+17. my favorite slowsetta i've done yet.
+   (ID: jlb4est)
 
-6. "you said i wouldnt be overdressed"
-   (ID: kentobean123)
+18. everything i’ve made in 2020 so far!
+   (ID: green-egg-and-ham)
 
-7. they said my last smash was too thicc
-   (ID: crunch816)
+19. all the struggles i've had with this darn glove became worth it once i finally finished it.
+   (ID: fishgoose)
 
-8. the package said "roast" buuut i grilled it.
-   (ID: Flattishsassy)
-
-9. i said i would never knit another cardigan.
-   (ID: zonumnire)
-
-10. asked petrie to be my valentine (he said yes)
-   (ID: kentobean123)
-
-11. landlords said we couldn't have ferrets, so i created a ferret dragon!
-   (ID: VisitingCivet)
+20. the emotions i've felt after finishing it are inexpicable.
+   (ID: Ploliveira)
 
 
 --- MSC ---
-Total from this dataset: 1
+Total from this dataset: 23
 
-1. The dr said no sitting up for me.
-   (ID: dialog_102_speaker_1)
+1. I've never been to a mystery dinner party before.
+   (ID: dialog_119_speaker_2)
+
+2. I've been tied down in a bank hold up.
+   (ID: dialog_176_speaker_1)
+
+3. I've never played chess.
+   (ID: dialog_108_speaker_1)
+
+4. I've not met my soulmate yet.
+   (ID: dialog_228_speaker_1)
+
+5. I've a long title and I'm a teen.
+   (ID: dialog_184_speaker_2)
+
+6. I've not had any luck with acceptance and considered quitting.
+   (ID: dialog_203_speaker_1)
+
+7. I've neon colors.
+   (ID: dialog_149_speaker_2)
+
+8. I've a pretend friend.
+   (ID: dialog_184_speaker_2)
+
+9. I've been feeling depressed.
+   (ID: dialog_64_speaker_1)
+
+10. I've never ridden a horse.
+   (ID: dialog_117_speaker_2)
+
+11. I've never had cancer.
+   (ID: dialog_227_speaker_1)
+
+12. I've not loved.
+   (ID: dialog_72_speaker_1)
+
+13. I've made some bad choices in the past.
+   (ID: dialog_154_speaker_2)
+
+14. I've high ambitions for myself.
+   (ID: dialog_12_speaker_1)
+
+15. I've tried cooking seafood Spanish paella and spaghetti before, not success.
+   (ID: dialog_105_speaker_1)
+
+16. I've never eaten horse meat. I do have a few French recipes that include horse meat. I have cooked with reindeer and antelope meat before.
+   (ID: dialog_119_speaker_2)
+
+17. I've a home in the suburbs.
+   (ID: dialog_95_speaker_1)
+
+18. I've a kitten with a sci fi name.
+   (ID: dialog_144_speaker_2)
+
+19. I've mental issues.
+   (ID: dialog_106_speaker_2)
+
+20. I've a great imagination.
+   (ID: dialog_155_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 61
+Total from this dataset: 528
 
-1. i literally said , " oh god " out loud ....
-   (ID: COCOnizzle)
+1. i ’ve adjusted fine to wearing the mask and dealing with the hoses .
+   (ID: bugaloo2u2)
 
-2. i said i do n’t condone war if you were paying attention
-   (ID: DatBoi9726)
+2. i 've only watched the jail episode
+   (ID: BoonTobias)
 
-3. i pictured this being said by chief wiggum .
-   (ID: JohnnyPappis)
+3. i ’ve been debating if i should get a macbook or a laptop with windows 10 .
+   (ID: KneelDeGrassTieSon)
 
-4. i already said , do your own research .
-   (ID: meteoriteminer)
-
-5. i literally said the art was great as my first line .
+4. i 've gone through 4 when i 've never had problems with a controller before .
    (ID: Malachite_Wrath)
 
-6. i was in that class and i clapped when you said that
-   (ID: Lifes6Midnight)
+5. i 've noticed that too , me and other likeminded higher k / d players are always getting downvoted .
+   (ID: SpartanWarNinja)
 
-7. i said " i do n't give a fuck about the money !
-   (ID: eye-brows)
+6. i 've been to that mall .
+   (ID: chasemyers)
 
-8. i can confirm , i am a recipient of said email .
-   (ID: supmraj)
+7. i 've always watched peyton .
+   (ID: TWS85)
 
-9. i said blue spade :(
-   (ID: TopcatTomki)
+8. i 've purchased ds1 and 2 and skipped bloodborne and 3 as a result .
+   (ID: JaZepi)
 
-10. i was wondering how they said " will it reach her ? "
-   (ID: carebearstare93)
+9. i 've wondered for years ... can you pinch a whale ?
+   (ID: mulletprooftiger)
 
-11. i grudgingly said whatever i 'm pregnant this will stop .
-   (ID: happyfamilygogo)
+10. i 've gone thru a few of those hammocks with something as small sharp as a dogs nail ..
+   (ID: catskhiker)
 
-12. i never said that ..
-   (ID: exotics)
+11. i 've been playing real well lately and played over 2 - 1/2 rounds with the same ball .
+   (ID: pissin_in_the_wind)
 
-13. i have n’t said any of that
-   (ID: jmontoya5280)
+12. i ’ve been meaning to go to a chiropractor but i ’m having issues with my insurance .
+   (ID: ohmymykimm)
 
-14. i made it up , if he said something similar then ... awesome .
-   (ID: redandblack555)
+13. i 've never met a victoria who was n't a giant , stuck up , bitch .
+   (ID: pinkpowerranger8)
 
-15. i would have confidently said that this was a screenshot of modded skyrim if i was n’t told otherwise .
-   (ID: sircucumbers)
+14. i 've built one before , but i 've never priced it .
+   (ID: squaresaltine32314)
 
-16. i said indirect heat on the grill dammit
-   (ID: lambsquatch)
+15. i ’ve been curious about that saturday skin scrub
+   (ID: lovestheautumn)
 
-17. i already said , case by case .
-   (ID: AttackTribble)
+16. i 've been around the block and his experience and commentary ring true to me .
+   (ID: RonaldFuckingPaul2)
 
-18. i said booyeah !
-   (ID: ExpectDeer)
+17. i 've decided to exclusively support charities focused on population control .
+   (ID: sbsb27)
 
-19. i said absolutely nothing about the campaign you fucking weirdo .
-   (ID: Montag3636)
+18. i 've had a can of " pure cofain " on my desk for a month .
+   (ID: bondo84)
 
-20. i bought my fiancée a 150 $ ring , she said yes .
-   (ID: KPer123)
+19. i 've been there so many times that i take it for granted .
+   (ID: NaBacLeis)
+
+20. i 've been against abortion for years .
+   (ID: Samoht2113)
 
 
 --- PER-CHAT ---
-Total from this dataset: 12
+Total from this dataset: 47
 
-1. i ' d rather not copypaste . can you elaborate how me refrencing what i said prior , which you can see , is an attempt to cite something as an exception to a generally accepted rule , principle , etc . without justifying the exception .
-   (ID: 0be93b714cd5f5999c7ff30ac3a245ba907b2d81)
+1. being in a city you ' ve never been to before and knowing you have a whole week to explore it .
+   (ID: df642350023feb928f503f77c639c0475639c048)
 
-2. i see you have a big bulge through your sweatpants  idk if that  s exactly their words but it  s basically what they said
-   (ID: 88279b92dca36b3b3c236d960135a2afe2e68b33)
+2. i ' ve been following that handles trainer for a while . dude ' s ballhandling is sick .
+   (ID: 6c37c47eeb3f7fb43fa9e127711749ae5626f80a)
 
-3. is it weird that i knew exactly what this said despite not knowing a single word of swedish ?
-   (ID: 6e7cd3892c49f30c5999e4b7337f95be97df0c1b)
+3. this isn ' t the actual dumbest , but i ' ve buried those things .
+   (ID: bb88411b165294ddd01835e6389a8e93e9d796d3)
 
-4. zombie soap opera . that said . fear the walking dead is legit as fuck so far . it ' s what the walking dead could have been .
-   (ID: 08f11971c665b10afd81008344be824eee9ae6a7)
+4. you ' ve been playing no man ' s sky haven ' t you ? admit it ! lol
+   (ID: 74253a87130d79f3a85bfb20807ead84f4a4612d)
 
-5. even by the coaches , that  s what some students said but he could have hated the art class even more
-   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+5. it ' s impossible . my boss is a micromanager and i ' ve to talk to her about it but she keeps saying " this is my building . the bitch is crazy . it ' s not her building , it ' s the state ' s building . this is a god damn library .
+   (ID: ce0130e0736ec79181ef08a51b107514a8021d5c)
 
-6. is this the one you said you  d give me a spot in because of the benchmade mix up earlier ? looks full already if it is .
-   (ID: b8a837337ecbafd4a4c170d8fad76bd3de102f09)
+6. i ' ve made and sold so many dragon dildos .
+   (ID: bf371725cb05580378dda9b1fdb005417049b32b)
 
-7. i said " i lobe you " and she said , " that ' s sexy "
-   (ID: 4198a967d1b0765e3fc996754ce9a3e6c7f24c8c)
+7. if you finally get that sex change you ' ve been after , you can change your name to peg .
+   (ID: ea3b9395602c702397d514c6da7049b089458032)
 
-8. i didn ' t get past the you tube english subs when she said her name was " stephanie suck dick " according to youtube .
-   (ID: 9dc417f749a0d20a48d0b30f64c5a229fedc1176)
+8. seriously ? you could  ve kept your silence and be far more appreciated , but now you  ve said something that tarnishes this dude  s beginning stages of a passion . p . s . don  t be  that dude
+   (ID: 61d850113b440da97216a14cfd8a5509352c72b2)
 
-9. neeeever said it was unethical .  yeah , climate change literally brings up the question  is it even ethical to have kids anymore ?  it was a hypothetical question .
-   (ID: 79917d7ca06e9cf750b82c793acd3eb69f1c905f)
+9. curl up and die because it would have only been something i ' ve done stupidly embarrassing .
+   (ID: 1413da4d65544a15a55a7323945fa06ed3f67f4a)
 
-10. taxes . nuff said
-   (ID: 46a39b1131e50f9cc061bbaf88e15686e5c9359d)
+10. could  ve been cool near the military base .
+   (ID: 5478a2ef678a7e392c66d8d23bf16821b01c19ad)
 
-11. that ' s what i said . he has the same backswing as him and is not far off from the down . i ' m never a fan of inside path swings but if it works it works .
-   (ID: 33483b17911ec063ef4562ae3263fe478eba6a2c)
+11. you sir are a golden god . i can ' t tell you how many times i ' ve tried to pause a video at an exact moment and failed . thanks for the tip .
+   (ID: c3b51ad627b2162cac848c7fadd53da61827346a)
 
-12. when josh said " one condition , i get to be the boyfriend ! " in drake and josh
-   (ID: dd5faa5a5f52546a048b117b380f01fc0bb80bfe)
+12. it ' s sad how robotic we ' ve become .
+   (ID: f9d66cb7c29781b64b81947ff0e36c01dd0aa973)
+
+13. it  s true they  ve brought me in a few times
+   (ID: d9e6e1ecc09dc9affbcc8ccb0191ff241370a782)
+
+14. i ' ve reread this a code times now , you were peeing in someone ' s living room ? could you give some context ?
+   (ID: c19de27d6b88c47d51e561a657dd0cf0e665fa48)
+
+15. all of them . all meals i ' ve never eaten i will never be able to recreate .
+   (ID: c3b51ad627b2162cac848c7fadd53da61827346a)
+
+16. period pain . there ' s been a few times where its been so bad , i ' ve considered ripping it all out , even though that is utterly dumb .
+   (ID: 5d032deb25ff976c97c846d4d1073b0e71b447a3)
+
+17. yeah true ! this comment is passed mostly after a converstion related to what you ' ve mentioned .
+   (ID: 1634046145226dc01b1fa030132efd0574c38352)
+
+18. you ' ve posted with the letter i in the title before .
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+19. i ' ve had my eye on am2r for a while . is it still available for download ?
+   (ID: 4ea608a8fbdec83863f8ba3f502bfd6966794702)
+
+20. thanks for everything you ' ve done , hillary !
+   (ID: ac8a82591082c2300a109b982be874d6d61d6cba)
+
+
+--- PersonaChat ---
+Total from this dataset: 38
+
+1. i've male pattern baldness .
+   (ID: conversation_138)
+
+2. i've a parrot named parrot .
+   (ID: conversation_138)
+
+3. i've a passion for god .
+   (ID: conversation_498)
+
+4. i've a pug named corky .
+   (ID: conversation_590)
+
+5. i've perfect pitch .
+   (ID: conversation_181)
+
+6. i've an autograph collection with more than 2000 signatures .
+   (ID: conversation_210)
+
+7. i've a cat named seven of nine .
+   (ID: conversation_144)
+
+8. sometimes , i've sword fights with strangers in the park .
+   (ID: conversation_149)
+
+9. i've been on the tv news six times .
+   (ID: conversation_280)
+
+10. i've a black purse .
+   (ID: conversation_559)
+
+11. i've three tattoos .
+   (ID: conversation_56)
+
+12. i've borderline personality disorder .
+   (ID: conversation_106)
+
+13. i've a daughter .
+   (ID: conversation_105)
+
+14. i've visited 12 national parks in the us .
+   (ID: conversation_83)
+
+15. i've a thick full beard .
+   (ID: conversation_274)
+
+16. i've survived near death experiences .
+   (ID: conversation_427)
+
+17. i've problems chewing my food .
+   (ID: conversation_126)
+
+18. i've trouble getting motivated .
+   (ID: conversation_545)
+
+19. i've a timeshare in mexico .
+   (ID: conversation_413)
+
+20. i've a sweet tooth .
+   (ID: conversation_286)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I ve been cheated on by every ex girlfriend except for one.
+   (ID: conversation_468_user_2)
+
+2. I ve started creating my own comics and presenting them to publishers.
+   (ID: conversation_35_user_2)
 
 
 ============================================================

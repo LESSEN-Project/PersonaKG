@@ -1,0 +1,467 @@
+CLUSTER 11
+============================================================
+Total statements in cluster: 4328
+
+Dataset distribution in this cluster:
+  FoCus: 49 (1.1%)
+  MPChat: 104 (2.4%)
+  MSC: 74 (1.7%)
+  PEC: 1776 (41.0%)
+  PER-CHAT: 2210 (51.1%)
+  PersonaChat: 41 (0.9%)
+  SyntheticPersonaChat: 74 (1.7%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 49
+
+1. I have never seen a T-antenna before.
+   (ID: GNIFMHXKEMKB_11)
+
+2. I love rivers.
+   (ID: 6Y1JUDZSPANM_9)
+
+3. I am an admirer of Jorge Semprún.
+   (ID: H697EKUHA9EW_11)
+
+4. I would like to see toy story.
+   (ID: 7KWHXU9MOJRA_11)
+
+5. I have never seen a tributary.
+   (ID: HK4CNKBL5R5V_11)
+
+6. I have seen many parks.
+   (ID: LFDYLQP6HP80_7)
+
+7. I have seen many arena that has vast area.
+   (ID: PHE863C7IQKS_11)
+
+8. I love rivers.
+   (ID: CEBDDVDUY2MU_11)
+
+9. I like to watch movies.
+   (ID: PK2U426B57KL_9)
+
+10. I love movies.
+   (ID: GE7KWP503PGI_7)
+
+11. I love RAF Cleave.
+   (ID: DNUH5LJGPOZC_11)
+
+12. I have a boyfriend who is a rock climber.
+   (ID: D4619DV1O1OP_11)
+
+13. I have seen country houses.
+   (ID: G4G0O51GJSQQ_11)
+
+14. I have seen a seaport.
+   (ID: F91BK688K9G1_11)
+
+15. I like the movie named city of Philadelphia filmed on 1771.
+   (ID: OOA3VSMVQ4YE_11)
+
+16. I have never seen an arch type of monument.
+   (ID: UU5XLWW1EPVV_11)
+
+17. I have never seen a waterfall.
+   (ID: LYKL0NXYUSDG_11)
+
+18. I love Reidar Andersen.
+   (ID: TB8HHXAP822G_11)
+
+19. I have a friend who is an actor.
+   (ID: POTYY4E7PSQF_11)
+
+20. I have never seen a hamlet.
+   (ID: W1ARCAV1RHTZ_11)
+
+
+--- MPChat ---
+Total from this dataset: 104
+
+1. made my boys matching pjs :)
+   (ID: HobbitLass)
+
+2. i like photoshopping my crocheted characters into movie stills, can you tell the movie?
+   (ID: Louiesloops)
+
+3. he's the reason i fly up north to go camping so much!
+   (ID: drewchie)
+
+4. my husband couldn't find perry the platycorgi.
+   (ID: kentobean123)
+
+5. my ratios of watch flavor were a bit off, but nonetheless.
+   (ID: amandabakes)
+
+6. some of the craziest light i’ve ever seen [oc]
+   (ID: garret_weintrob)
+
+7. my mother-in-law dressing up koda
+   (ID: kentobean123)
+
+8. i called him a good boy.
+   (ID: kentobean123)
+
+9. i don’t normally do amigurumi but he’s so darn cute!
+   (ID: smsikking)
+
+10. one of the most beautiful rooms i've seen.
+   (ID: bryanw0104)
+
+11. well i made more grits than i thought.
+   (ID: Nolon)
+
+12. i just finished this bad boy
+   (ID: FoxInKneeSocks)
+
+13. made some cookies for my dad's birthday
+   (ID: itsamayazing)
+
+14. oldest coleman stove i've ever seen.
+   (ID: reecee)
+
+15. i'd love to hear your thoughts about him (c)
+   (ID: theringbeller)
+
+16. he wanted the pancakes i was making.
+   (ID: ellielumos)
+
+17. my buddy loves to lay belly-up!
+   (ID: chirp16)
+
+18. i love super deep cut top hearts
+   (ID: jlb4est)
+
+19. the cutest little easter bunny i've ever seen
+   (ID: kentobean123)
+
+20. i love him so much.
+   (ID: kentobean123)
+
+
+--- MSC ---
+Total from this dataset: 74
+
+1. On evenings and weekends I enjoy televised sports and cartoons.
+   (ID: dialog_71_speaker_1)
+
+2. I like game of thrones.
+   (ID: dialog_1_speaker_1)
+
+3. I like to watch TV at night.
+   (ID: dialog_106_speaker_2)
+
+4. Fantasy tv shows are my favorite.
+   (ID: dialog_53_speaker_1)
+
+5. My favorite comic book character is The Hulk.
+   (ID: dialog_120_speaker_2)
+
+6. I love John Surteees.
+   (ID: dialog_117_speaker_2)
+
+7. I watch anime.
+   (ID: dialog_71_speaker_1)
+
+8. I am caught up on all my shows.
+   (ID: dialog_106_speaker_1)
+
+9. I want to start watching The Walking Dead.
+   (ID: dialog_93_speaker_1)
+
+10. Batman is my favorite hero.
+   (ID: dialog_95_speaker_2)
+
+11. I love the show GOT.
+   (ID: dialog_66_speaker_1)
+
+12. I like comedies and action movies.
+   (ID: dialog_15_speaker_2)
+
+13. I'm employed with a tv crew making educational material.
+   (ID: dialog_39_speaker_1)
+
+14. My favorite comedy is Dr. Strangelove. I enjoy watching The Cable Guy.
+   (ID: dialog_15_speaker_2)
+
+15. I find the Baby Yoda very cute. I do not watch many shows but I really like the New Mandalorian.
+   (ID: dialog_106_speaker_1)
+
+16. I make youtube videos.
+   (ID: dialog_58_speaker_2)
+
+17. My best friend is Calden.
+   (ID: dialog_53_speaker_2)
+
+18. I love science fiction.
+   (ID: dialog_19_speaker_1)
+
+19. I like fishing, role-playing games.
+   (ID: dialog_61_speaker_1)
+
+20. I enjoy long films.
+   (ID: dialog_101_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 1776
+
+1. i love him lol at the dr pimple popper ads while i m cutting up watermelon and lunch !
+   (ID: bleepblorp9878)
+
+2. i would think that exercises like turkish get ups would help him strengthen his shoulders .
+   (ID: misplaced_my_pants)
+
+3. i love his innocence !
+   (ID: almajanemi)
+
+4. i think the mamba realized who the true alpha was in that hut .
+   (ID: Atlmama)
+
+5. i have yet to run into any of my friends who watched it but it was so good .
+   (ID: Evolatic)
+
+6. i watched it all because i think it has potential but man s1 was a dud .
+   (ID: BoobieBoobieButtButt)
+
+7. i totally forgot about him .
+   (ID: GetItTogether)
+
+8. i ’ve always thought of him as a b tier actor who somehow occasionally gets a tier roles .
+   (ID: BoobieBoobieButtButt)
+
+9. i do n’t think quinn wanted caldwell to begin with .
+   (ID: Montag3636)
+
+10. i thought you were rob , not ron .
+   (ID: BlueSuedeBag)
+
+11. i 'm in a points league and he has been absolutely amazing for me
+   (ID: BearCanoe)
+
+12. i thought they had patched that ...
+   (ID: mrhenk9)
+
+13. i have no idea what 's going on here but i enjoy watching these two women dancing .
+   (ID: dohko_xar)
+
+14. i 've seen many with marble , fireplaces , leather chairs !
+   (ID: mylescloutier)
+
+15. i made it through the whole episode because my husband would n't let me change the channel .
+   (ID: Evolatic)
+
+16. i thought i was getting good at this haha
+   (ID: bennystache)
+
+17. i forgot about joey boi
+   (ID: DickRubnuts)
+
+18. i lost my shit on that first closeup cut to his face
+   (ID: doctor_parcival)
+
+19. i knew it had to be aulanko :)
+   (ID: Mende)
+
+20. i wish they ’d kept haley around .
+   (ID: Bob_Majerle)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2210
+
+1. One of my favorite things is humour.
+   (ID: 2264050ea82d909575d6593daf8246fa8655751e)
+
+2. how do we know he  s not his brother ? already watcher the finale
+   (ID: c0f309bee7152ab458da8ec03fbb1e17fa2876cd)
+
+3. i just chose the movie i like . and i am not being racist . i dont find the race appeal for bploved it as a ' marvel ' movie as racism is not part of my upbringing . also , i am brown .
+   (ID: 4f3fd3511e55513b94a4aa6c4ac9441a6ba9f86f)
+
+4. One of my favorite things is mini ore.
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+5. One of my favorite things is landsknechts.
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+6. can we all agree that its dan ' s fault for not seeing the movies ? i mean come on
+   (ID: 37aa751f14bbf132fc2f76d2c2c79142318c3e31)
+
+7. record scratch   freeze frame  yup , that ' s me . you ' re probably wondering how i ended up in this situation .
+   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
+
+8. One of my favorite things is botania.
+   (ID: 79be9557b3d70396e049eaa975227b5e203bb8db)
+
+9. One of my favorite things is girls.
+   (ID: dadc9911849239b0d3b98ea480d7a3be43208f42)
+
+10. even some people don ' t learn from that .  that  s why  god  invented youtube !
+   (ID: 70fd28af0eb2c67ebb7ce51abc94c13f1a4f652b)
+
+11. i seen what you did there
+   (ID: 1bb2b5ec27ad0397aea65ab5151bd4a19742f52a)
+
+12. One of my favorite things is York Death.
+   (ID: 55510b17a4f0d7b5820e6f21287525ef6cd60994)
+
+13. One of my favorite things is pichu better.
+   (ID: 7cf18036f93dc6fc68e7a501c52e0ff5501b36e5)
+
+14. One of my favorite things is dicks.
+   (ID: 24d2489761902de9148fe06d43ec8d7e34c8e35b)
+
+15. One of my favorite things is dwyrin  youtube.
+   (ID: 9006d58872586db3bb808208616fdc9c3dff694b)
+
+16. have you ever been to a party ? it ' s common to film someone in those .
+   (ID: de078b4353965122ac7bf05afe8d580d01d4a928)
+
+17. keep rei and kill asuka . i never really got why that bitch backstory apeared , like , she lost her mom so shes a bitch to everyone for no reason . and they thought it would be understandable . if you want to make a backstory to some jerk , then you should make the character with a frustrating backstory involving violence towards them , so it would be easyer to understand why they want to treat the world like shit . but nooo they make the worst character the less understandable backstory . tldr  asuka  bitch with no understandable backstory . rei best girl .
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+
+18. One of my favorite things is american beauty.
+   (ID: 84b2c69cbe8c44b78569e5e8b9af935f703ee480)
+
+19. i ' d love to play escape from monkey island again . i ' ve replayed all the others recently and it was my first in the series , so it holds a special place in the deep dark abyss that is my heart .
+   (ID: 95c90f0b7430996843a42a4f365667a13e4c2eb5)
+
+20. One of my favorite things is life.
+   (ID: 4a7a47c2e5a0426b71a637dd821ac57f06afeedf)
+
+
+--- PersonaChat ---
+Total from this dataset: 41
+
+1. and , my best friend is calden .
+   (ID: conversation_53)
+
+2. my favorite show is tom and jerry .
+   (ID: conversation_184)
+
+3. i enjoy watching videos on youtube .
+   (ID: conversation_174)
+
+4. i make videos about makeup .
+   (ID: conversation_58)
+
+5. i like to make short films .
+   (ID: conversation_280)
+
+6. i like watching action adventure movies and eating popcorn .
+   (ID: conversation_178)
+
+7. i spend a lot of time watching obscure foreign film on netflix .
+   (ID: conversation_253)
+
+8. i like anime shows .
+   (ID: conversation_116)
+
+9. i collect comic books .
+   (ID: conversation_210)
+
+10. i like anime shows .
+   (ID: conversation_209)
+
+11. my favorite tv show is dancing with the stars .
+   (ID: conversation_144)
+
+12. i love youtube .
+   (ID: conversation_341)
+
+13. i like the tv show the walking dead .
+   (ID: conversation_93)
+
+14. i have my own channel .
+   (ID: conversation_341)
+
+15. i love anime .
+   (ID: conversation_168)
+
+16. i like watching tv in my free time as well .
+   (ID: conversation_191)
+
+17. i am a youtuber .
+   (ID: conversation_58)
+
+18. i like cartoons more than movies .
+   (ID: conversation_102)
+
+19. i did a few small roles in tv series .
+   (ID: conversation_2)
+
+20. i love watching game of thrones .
+   (ID: conversation_221)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 74
+
+1. My favorite tv show is game of thrones.
+   (ID: conversation_165_user_2)
+
+2. My favorite tv show is game of thrones.
+   (ID: conversation_345_user_2)
+
+3. My favorite tv show is friends.
+   (ID: conversation_81_user_2)
+
+4. My friends like watching it to.
+   (ID: conversation_239_user_2)
+
+5. My favorite movie is pretty woman.
+   (ID: conversation_203_user_1)
+
+6. Last season i was just getting started.
+   (ID: conversation_219_user_2)
+
+7. Superman s my favorite super hero.
+   (ID: conversation_283_user_1)
+
+8. I like action movies.
+   (ID: conversation_295_user_2)
+
+9. I like thomas the tank engine.
+   (ID: conversation_269_user_2)
+
+10. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+11. I like comic books and anime.
+   (ID: conversation_247_user_2)
+
+12. My favorite tv show is silicon valley.
+   (ID: conversation_177_user_1)
+
+13. My favorite movie is 16 candles.
+   (ID: conversation_266_user_2)
+
+14. I don t much like tv.
+   (ID: conversation_67_user_2)
+
+15. My favorite movie is titanic.
+   (ID: conversation_343_user_2)
+
+16. My favorite tv show is silicon valley.
+   (ID: conversation_175_user_1)
+
+17. I love to watch game shows.
+   (ID: conversation_106_user_2)
+
+18. I like anime shows.
+   (ID: conversation_117_user_2)
+
+19. I love youtube.
+   (ID: conversation_272_user_2)
+
+20. I love watching superheroes shows.
+   (ID: conversation_69_user_1)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 46746
+
+Dataset distribution in this cluster:
+  FoCus: 1573 (3.4%)
+  MPChat: 3817 (8.2%)
+  MSC: 2702 (5.8%)
+  PEC: 19112 (40.9%)
+  PER-CHAT: 14580 (31.2%)
+  PersonaChat: 1632 (3.5%)
+  SyntheticPersonaChat: 3330 (7.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1573
+
+1. I love mountains and forests.
+   (ID: 97WAFKFECFDE_9)
+
+2. I have visited England.
+   (ID: DAT5H5H80JCW_7)
+
+3. I would like to do ice fishing.
+   (ID: L6R2H1LVDRER_7)
+
+4. I hate people and companies damaging the wildlife and environment of national parks.
+   (ID: LEW58VG9I78X_11)
+
+5. I like Gothic Revival style.
+   (ID: 8C87PLCFQ0ZH_11)
+
+6. I am reading about Neolithic period.
+   (ID: CK31DN0294X0_11)
+
+7. I would like to visit chicago and chicago park district.
+   (ID: QRRS2THODNM3_11)
+
+8. I am a huge fan of the nature reserve’s around the world.
+   (ID: I0CVV46WKEKI_11)
+
+9. I am a bird watcher.
+   (ID: X3WVWF5IVCYD_11)
+
+10. I have served in the Armed Forces.
+   (ID: NK5T92TN7840_11)
+
+11. I will stay a night in Botoga.
+   (ID: TPWBWPRCHUGC_11)
+
+12. I am Jewish.
+   (ID: DSK4ZP7S862W_11)
+
+13. I am interested in Architecture.
+   (ID: PW1SULL1SY01_11)
+
+14. I like to learn about history.
+   (ID: FF36QQ08S28H_11)
+
+15. I writing a paper on PJ Krouse.
+   (ID: AGVUC45C9W9X_7)
+
+16. I would like to go hiking.
+   (ID: UC6WD3SK3PG8_11)
+
+17. I like history.
+   (ID: EDLPKHWH3K5B_11)
+
+18. I am afraid of sharks.
+   (ID: F8WHQ8QX5MHB_7)
+
+19. I like the movie named city of Philadelphia filmed on 1771.
+   (ID: OOA3VSMVQ4YE_11)
+
+20. I like mountains.
+   (ID: 9U5TT3QTAIKB_11)
+
+
+--- MPChat ---
+Total from this dataset: 3817
+
+1. what is wrong with my hydrangea and gardenia?
+   (ID: chirp16)
+
+2. i made these cupcakes for my friend's avengers-themed party.
+   (ID: LunaMcLovin)
+
+3. i prefer tendon balls over steak with my pho
+   (ID: onemantwohands)
+
+4. perry the platycorgi is my husband's 1 cuddle buddy
+   (ID: kentobean123)
+
+5. i made a nautical theme cake for my "anything goes" cast party
+   (ID: zenbuffy)
+
+6. i made this shrug but mom decided that i had made it for her
+   (ID: letsallcrochetYT)
+
+7. these guys remind me just how much of a failure my life has been.
+   (ID: Dirk-Killington)
+
+8. [i ate] cajun white fish, salmon, and shrimp tacos
+   (ID: patm28)
+
+9. i have an obsession with japanese dessert.
+   (ID: justcook_byangel)
+
+10. he may not technically be a puppy... but he's my puppy and he smiles pretty
+   (ID: HobbitLass)
+
+11. desserts i've made in my school!
+   (ID: DarkLotus1029)
+
+12. tilled under my winter cover crop today in preparation for spring planting.
+   (ID: PatitaBlanca)
+
+13. i have finished two comfort bears in the last two weeks and here they are.
+   (ID: Moriarty58)
+
+14. i want to try different kind of cheesecake.
+   (ID: justcook_byangel)
+
+15. “mourning dove” oil painting i completed recently!
+   (ID: tinytinatuna2)
+
+16. i've made this tiny cross stitch piece, and am so proud of it!
+   (ID: Ploliveira)
+
+17. finished up my fettuccini basket, it’s lumpy and the handles are long
+   (ID: zonumnire)
+
+18. i've been practicing this design for a while.
+   (ID: jlb4est)
+
+19. i tried my hand at cake pops for the first time!
+   (ID: kduluth)
+
+20. (wip) working on my first gusseted pair of socks!
+   (ID: Veretica)
+
+
+--- MSC ---
+Total from this dataset: 2702
+
+1. I own reptiles.
+   (ID: dialog_92_speaker_2)
+
+2. I'm the only child. I have two cats.
+   (ID: dialog_141_speaker_2)
+
+3. I have a computer and a printer.
+   (ID: dialog_32_speaker_1)
+
+4. My family enjoys sweets that are extra sweet.
+   (ID: dialog_44_speaker_1)
+
+5. I like to stay up late.
+   (ID: dialog_10_speaker_2)
+
+6. I love rock music, especially boy groups.
+   (ID: dialog_133_speaker_2)
+
+7. I like Liverpool for the Premiere League but Atlanta for MLS.
+   (ID: dialog_171_speaker_2)
+
+8. My mom is a website designer.
+   (ID: dialog_1_speaker_2)
+
+9. I applied for a job at Whole Foods.
+   (ID: dialog_65_speaker_2)
+
+10. I am popular in school.
+   (ID: dialog_118_speaker_2)
+
+11. I constantly have feelings of anger.
+   (ID: dialog_169_speaker_2)
+
+12. I tell jokes all the time. I can make jokes. I am a comedian. I am not a professional comedian yet. I mostly perform comedy at one club, and occasionally branch out to others.
+   (ID: dialog_125_speaker_2)
+
+13. I am in bad physical shape.
+   (ID: dialog_154_speaker_2)
+
+14. I keep up with current events.
+   (ID: dialog_54_speaker_1)
+
+15. I enjoying doing sports outside with my friends.
+   (ID: dialog_43_speaker_2)
+
+16. I am part of book reading and community service clubs.
+   (ID: dialog_90_speaker_1)
+
+17. We have 10 grandkids. They range from 7 to 30.
+   (ID: dialog_127_speaker_1)
+
+18. I am a immigrant.
+   (ID: dialog_78_speaker_1)
+
+19. My girlfriend helps me with school but she can be hard on me.
+   (ID: dialog_7_speaker_2)
+
+20. I'm an animal lover.
+   (ID: dialog_29_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 19112
+
+1. i 'm guessing you 're german or swiss ?
+   (ID: ProbablyGayingOnYou)
+
+2. i 've wondered for years ... can you pinch a whale ?
+   (ID: mulletprooftiger)
+
+3. i would be enthusiastic about him leaving , but now that white is .. we have no qbs lol
+   (ID: JacredCat)
+
+4. i 'd rather bring back neil lomax as a backup .
+   (ID: USAFIDMT)
+
+5. i recommend maesri brand massaman curry paste in the yellow can .
+   (ID: 512165381)
+
+6. i gave you a chance .
+   (ID: nate6051)
+
+7. i begged them free me of the toxicity of anxiety .
+   (ID: Samoht2113)
+
+8. i feel like nas is about to start rapping but i do n’t know how long he needs
+   (ID: FrankOfTheDank)
+
+9. i had same issue !
+   (ID: Zarqume)
+
+10. i can never eloquently explain things like that
+   (ID: Nimmyzed)
+
+11. i ’m struggling to find one that i like !
+   (ID: icewaterzelda)
+
+12. i totally get that !
+   (ID: WhereRtheTacos)
+
+13. i found one today on my car in nw wa state .
+   (ID: parkleswife)
+
+14. i was the executive secretary of my high schools french club .
+   (ID: kro_celeborn)
+
+15. i might have to give it a watch then � �
+   (ID: JacksChocolateCake)
+
+16. i look forward to getting back home and relaxing pretty much as soon as i go out .....
+   (ID: Megan_Bee)
+
+17. i ’m really damn proud of you .
+   (ID: kiki73)
+
+18. i 've never had an issue keeping temp without a water pan .
+   (ID: DanGarion)
+
+19. i ’ve struggled with depression for years .
+   (ID: ranieve)
+
+20. i ’m actually sad they ’re gone .
+   (ID: WeirdAvocado)
+
+
+--- PER-CHAT ---
+Total from this dataset: 14580
+
+1. if you want good advice be willing to spend upwards of  digit each . depending on the size of your group that should be enough of get you a hotel on the strip , entry into a day club , entry into two night clubs with bottle service , and enough for some rippers after each night club night , and of course food and pre alcohol too for each day . some say bottle service is not worth it but it really depends how big your group is , if you got a group bigger than digit i think it ' s totally worth it . girls are way easier to meet at the clubs this way and they almost always will stick with your group when the party is over and you move to the rippers at the end of the day . rippers also are more reluctant to a push private dances on you when girls are in your group which is good cause you will get fleeced with private dances . having a hotel on the strip will save you money on transportation and also if a girl asks you what hotel you are staying at you will be judged if you say strat or the other cheap hotels away from the strip . stick with mgm , new york , ph , aria , even monte carlo . go for a range of clubs , xs has a pretty sweet day club , omnia is pretty upscale night club , and pic and go to a more washed out night club as well such as tao . this ensures you will meet a good range of girls to spend the night with .
+   (ID: 9ec4f8c81572a0a43c8d624fb459f565cd019aad)
+
+2. nah , i was venting , it was my first bike i laid down more than  digit on , i had just made the first payment and he backs into it , if you ask anyone else i know they ' re really bad roommates , but my heart of gold is kinda home now .
+   (ID: aaaecf7e1ff261f2a41ad2f7d0229a3f043cb546)
+
+3. I am available tomorrow.
+   (ID: 11afef34c365bb84fac03c7ec8de5b06e6c54b1c)
+
+4. in toronto theres a company called fix it females that higher mostly women but they want ppl who are ' ' experienced ' ' even though a lot of them aren ' t , but apply anyway say you have painting experience . best way honestly is to be a helpelabor at sites , sweeping , passing tools , moving what you can etc . and you gain experience through that . tbh like digit  of construction crews your ganna experience peverted guys cause most of them are rough around the edges high school drop out type guys so you gotta find the right crew
+   (ID: 564c5b4efd54586fbf212727e2071f5ddadabb82)
+
+5. i freakin hate u urmumgiiy . i hate you , and dont u cry because it ' s too . digit year old me started traring up . i hated that feminist bitch
+   (ID: b62d2865206257ab4ea65a5e489f9d4e1c8d5e9b)
+
+6. I am underweight  birth.
+   (ID: 9d6763f3caa1ca2559f1a3c525c70ffea81a61c2)
+
+7. i get that i ' m just saying in this specific case i don ' t think he has anything to worry about legally . but yes good points . edit it would still be a good idea to get command consent though could get njp .
+   (ID: ef2d2779d22f02bc07c4cd818cf0cb36422fbdd7)
+
+8. this mothafcker knows me well
+   (ID: 84fcf7fe73da3fe1849c81f9adb5f3cc411427d2)
+
+9. is this how the timecube works ?
+   (ID: 4f1b65a581332b9d19507ccf0e921d0967e013e7)
+
+10. I am adult.
+   (ID: b3497f72ed4462f0414951db6d9ee7aa4004b515)
+
+11. I'm interested in smoking and tobacco.
+   (ID: 0c93ab3ec35cab16ded3445fcca7b6045c1dd147)
+
+12. you probably aren ' t that good at your job if you don ' t like your supervisors attitude . you seem like a person who is probably used to the modern way of being codelled to . in the real world , managers attitudes toward you are a reflection of your ability to do your job . unless you ' re like a waiter or something , in which case go deliver pizzas or something . edit  downvote if you must , but it ' s truth . if your manager has " attitude issues . it ' s most likely because you suck .
+   (ID: 0847b0a0c2f6c5c595a8cbe2207c0959b37df0c4)
+
+13. then you really like someone , it ' s like getting high . i ' ve been in a place where room literally becomes brighter and more colourful then she walks into it . it ' s normal , brains give you hormones so you would feel that way around the person . now he doesn ' t interest you , but you still interest him , you still light up the room for him and as any junkie he goes to compromises for a dose . rather friends than nothing . rather once every digit months than nothing . it sucks for you , his time without you feels like depression .
+   (ID: 34e16cd86d5bc21047f9df5b5328f8eabdebff2a)
+
+14. is this your original work ? why digit products ? can it not be done in one ? i ' m just curious , and it ' s beautiful , btw .
+   (ID: 6f3d93754035383ba31c7eb4503265c62893fa84)
+
+15. so . thats like , owning something ? oh wait ! is that when your not drunk ?
+   (ID: f4588f2a476206e602fe5b84647a1e777eaae604)
+
+16. my goals . i really , really want to rise up the company chain  of  command  hierarchy . it ' s gotten to the point , where i ' m practically obsessed with achieving this goal . i ' m ignoring everything else in pursuit of this objective . if you try to chase digit rabbits , you ' ll lose them both . i don ' t care how much my body aches and cramps , i always find a way to go 10x the distance more so than anyone else because i want to get promoted so bad .
+   (ID: f9074998a5afc016e8779c3abcabf220d4ee8eb6)
+
+17. such precision . yet i bet it can ' t even see what it ' s doing
+   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
+
+18. not playing into your hand or giving you the answers you want is not avoiding questions . i have answered each question you asked , if you don ' t like the answers stop asking the questions . once again you think you will paint me into in a corner . you cannot . you will find yourself wanting if you continue to play your social justice warrior , validation game with me .
+   (ID: 4a7a47c2e5a0426b71a637dd821ac57f06afeedf)
+
+19. all i heard was " point of privilege  i can ' t deal emotionally with anything " these people are babies
+   (ID: 0d5c70b45072ef9ffc8fb257e4775e8302391e3c)
+
+20. I own a cursor.
+   (ID: 4b127841179d58078b4fbc1377158cb136f3156f)
+
+
+--- PersonaChat ---
+Total from this dataset: 1632
+
+1. i wait tables at a cafe .
+   (ID: conversation_370)
+
+2. i see a therapist that does not really understand me .
+   (ID: conversation_419)
+
+3. my favorite hobby is chess .
+   (ID: conversation_149)
+
+4. my favorite color is blue .
+   (ID: conversation_362)
+
+5. my favorite artist was prince .
+   (ID: conversation_494)
+
+6. my favorite food is steak .
+   (ID: conversation_231)
+
+7. i like to cook .
+   (ID: conversation_17)
+
+8. i volunteer walking dogs twice a week .
+   (ID: conversation_259)
+
+9. i m going to school to get my bachelor s degree .
+   (ID: conversation_453)
+
+10. i like to go swimming .
+   (ID: conversation_55)
+
+11. i flirted with the dmv officer in order to pass my driving exam .
+   (ID: conversation_257)
+
+12. i don t eat meat .
+   (ID: conversation_65)
+
+13. i am lazy and pork tastes good .
+   (ID: conversation_474)
+
+14. i'm an army ranger .
+   (ID: conversation_273)
+
+15. i'm in college .
+   (ID: conversation_358)
+
+16. while both my parents have thick european accents , i do not .
+   (ID: conversation_87)
+
+17. i love watching funny movies .
+   (ID: conversation_366)
+
+18. i have a brown belt in karate .
+   (ID: conversation_365)
+
+19. i think if i work hard enough i can fix the world .
+   (ID: conversation_265)
+
+20. i like to think about what it would be like to be an artist .
+   (ID: conversation_483)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3330
+
+1. I used to travel the usa playing guitar.
+   (ID: conversation_287_user_2)
+
+2. I used to work for a cable company.
+   (ID: conversation_478_user_1)
+
+3. I am twenty five years old.
+   (ID: conversation_22_user_1)
+
+4. I struggle with maintaining eye contact.
+   (ID: conversation_442_user_2)
+
+5. I am a night owl.
+   (ID: conversation_84_user_2)
+
+6. I usually go to bed late.
+   (ID: conversation_489_user_1)
+
+7. I prefer texting over phone calls.
+   (ID: conversation_211_user_2)
+
+8. I am a widow.
+   (ID: conversation_225_user_1)
+
+9. I have a poodle named nanette.
+   (ID: conversation_148_user_2)
+
+10. My grandson s favorite type of cake is chocolate.
+   (ID: conversation_405_user_2)
+
+11. I like to perform stand up comedy.
+   (ID: conversation_382_user_2)
+
+12. My dad works in the automotive industry.
+   (ID: conversation_319_user_2)
+
+13. I like to draw.
+   (ID: conversation_392_user_2)
+
+14. I have a wife and a 4 year old son.
+   (ID: conversation_73_user_2)
+
+15. I am a older gentlemen.
+   (ID: conversation_246_user_1)
+
+16. I like vintage furniture.
+   (ID: conversation_352_user_2)
+
+17. I like music.
+   (ID: conversation_279_user_1)
+
+18. I sing in the church choir.
+   (ID: conversation_433_user_2)
+
+19. My favorite band is korn.
+   (ID: conversation_142_user_1)
+
+20. I work 60 hours a week.
+   (ID: conversation_138_user_2)
+
+
+============================================================

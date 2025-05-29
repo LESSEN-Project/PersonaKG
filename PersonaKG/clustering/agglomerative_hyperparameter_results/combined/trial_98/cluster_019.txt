@@ -1,0 +1,105 @@
+CLUSTER 19
+============================================================
+Total statements in cluster: 459
+
+Dataset distribution in this cluster:
+  FoCus: 5 (1.1%)
+  PER-CHAT: 453 (98.7%)
+  SyntheticPersonaChat: 1 (0.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 5
+
+1. I am interested in wild animals.
+   (ID: L96351DIHFAR_7)
+
+2. I am interested in marine mammals.
+   (ID: X8E70IZC7L3S_11)
+
+3. I am interested in primates.
+   (ID: XPO6CJX81MYK_9)
+
+4. I am interested in Wildlife Refuges.
+   (ID: Y037WWL4AZRY_11)
+
+5. I'm interested in endangered species.
+   (ID: QLDCXP7YJP9Q_11)
+
+
+--- PER-CHAT ---
+Total from this dataset: 453
+
+1. I'm interested in cats.
+   (ID: 2264050ea82d909575d6593daf8246fa8655751e)
+
+2. I'm interested in dogs.
+   (ID: dc123ff47fa4f2e85bbecd444342fe7d8fcb7db5)
+
+3. I'm interested in pets and animals.
+   (ID: 199ca187d50b43aebb52968a5525289cb65a1520)
+
+4. I'm interested in pets and animals.
+   (ID: 82227bc3f73e4753802bc6bc025e3544c0c76857)
+
+5. I'm interested in pets and animals.
+   (ID: 2cc106beadb9cde22175338488da9efb20933748)
+
+6. I'm interested in pets and animals.
+   (ID: 932561c7cc5f0c280d4b6b0c7824dbd5aed5f350)
+
+7. I'm interested in pets and animals.
+   (ID: a911ed792d3b26b115aedaee6218a4a944c38521)
+
+8. I'm interested in pets and animals.
+   (ID: 8784cd4227a610d9cbb51480d635b44be1d31e8c)
+
+9. I'm interested in pets and animals.
+   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+
+10. I'm interested in pets and animals.
+   (ID: 54d8d3056c8f47c31e118e652b57922cf96c4876)
+
+11. I'm interested in pets and animals.
+   (ID: f3a18644ac7abbbf38805d44618254b8104cce6f)
+
+12. I'm interested in dogs.
+   (ID: b67c2fd697e30c5d26fcd88baa61d8bbcce5ec1c)
+
+13. I'm interested in pets and animals.
+   (ID: 9fc60fbaff4001c6926f17d34c80b626c8cc5777)
+
+14. I'm interested in pets and animals.
+   (ID: 77ab4860c32a7084ca81fd91302df6690ce56731)
+
+15. I'm interested in dogs.
+   (ID: a50471e2e88a582d7b78a3eee4aaf882ed0652cb)
+
+16. I'm interested in pets and animals.
+   (ID: 66ee9442886cf2e0fff8240a72749b2d87a5282b)
+
+17. I'm interested in dogs.
+   (ID: 2988ee1cd7a2bcf8e2d215c795ee2d06a985665a)
+
+18. I'm interested in pets and animals.
+   (ID: 7911b1d92de80b0e1abd4e2a29e4f762a8a2908f)
+
+19. I'm interested in pets and animals.
+   (ID: 79917d7ca06e9cf750b82c793acd3eb69f1c905f)
+
+20. I'm interested in pets and animals.
+   (ID: 0254dc2f43007419c5c3fd1e155e6bf15fce137d)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. I am trying to write an ebook on animals.
+   (ID: conversation_366_user_2)
+
+
+============================================================

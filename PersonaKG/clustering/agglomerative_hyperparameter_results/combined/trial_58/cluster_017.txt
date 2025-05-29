@@ -1,0 +1,443 @@
+CLUSTER 17
+============================================================
+Total statements in cluster: 818
+
+Dataset distribution in this cluster:
+  FoCus: 12 (1.5%)
+  MPChat: 57 (7.0%)
+  MSC: 53 (6.5%)
+  PEC: 77 (9.4%)
+  PER-CHAT: 541 (66.1%)
+  PersonaChat: 38 (4.6%)
+  SyntheticPersonaChat: 40 (4.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 12
+
+1. I would like to visit the Assiniboine Park Zoo with my family.
+   (ID: UV1VIOV2PCFH_11)
+
+2. I have a little son who is very excited whenever we drive through a tunnel.
+   (ID: ARRKG598SD8A_11)
+
+3. I am aware of the Kennedy family.
+   (ID: FBUZJNVHT0N2_9)
+
+4. I grew up in a military family.
+   (ID: T2JPANYRW3WD_9)
+
+5. I love films and series about the British Royal Family.
+   (ID: C5HXHFGTM2VH_11)
+
+6. I have several family members who suffered an accident.
+   (ID: 9KDV6LSLWNAX_11)
+
+7. I grew up in a military family.
+   (ID: GHGLD29537QW_11)
+
+8. My sister lives near Oregon.
+   (ID: 8LTOMMR1K4L5_11)
+
+9. I love the royal family.
+   (ID: LJYX36WCRYDM_9)
+
+10. I have interest in the Rothschild family.
+   (ID: JBP0INT1W707_11)
+
+11. My family is from Wales.
+   (ID: LJYX36WCRYDM_9)
+
+12. My family lives in Warsaw.
+   (ID: C64P8U3HDDHY_9)
+
+
+--- MPChat ---
+Total from this dataset: 57
+
+1. made some gingerbread people with my sister today!
+   (ID: Veretica)
+
+2. my son loves transformers and he was born on march 17th.
+   (ID: amandabakes)
+
+3. also working on a mandala vest for my oldest daughter she chose the colors
+   (ID: smsikking)
+
+4. i finally finished my daughter's matching blanket!
+   (ID: Crilbyte)
+
+5. back in 2011 i started baking and decorating cakes for family.
+   (ID: BatmanRocks)
+
+6. murray is a gift for my sister.
+   (ID: pokegirl93a)
+
+7. christmas dinner with my family (and favorite skillet)
+   (ID: tstandiford)
+
+8. working on a blanket for my sister!
+   (ID: zonumnire)
+
+9. my wife made my grandmother's lemon cream cheesse pound cake, one of my favorite family desserts!
+   (ID: 05twister)
+
+10. [fo] my daughter wanted a koala, so naturally it needed to be super koala.
+   (ID: meghanlovessunshine)
+
+11. the easter bunnies i made for my daughter's 3rd grade class.
+   (ID: guessdragon)
+
+12. i taught my baby sister how to crochet a couple months ago... this is her first finished project.
+   (ID: SarahFree339)
+
+13. wide ribbed freehanded hat for my step-sister in red heart super saver i had left over :)
+   (ID: Veretica)
+
+14. to have my daughter's name over her crib when she's born
+   (ID: Sophie74656)
+
+15. my sister wanted potholders after she saw what i made for my mum.
+   (ID: spinni81)
+
+16. finished my daughter's christmas blanket
+   (ID: Sophie74656)
+
+17. [fo] three scarves i crocheted for my sister and her kids using knitpicks wool of the andes.
+   (ID: fatpinkchicken)
+
+18. took my son camping at salt springs in the ocala national forest and hiking on the florida trail.
+   (ID: insurancefun)
+
+19. my daughter calls him rocky.
+   (ID: blboppie)
+
+20. space themed quilt for my son's first birthday.
+   (ID: lizdavis17)
+
+
+--- MSC ---
+Total from this dataset: 53
+
+1. I'm from Wisconsin. I have two older brothers.
+   (ID: dialog_141_speaker_1)
+
+2. I have family serving overseas.
+   (ID: dialog_99_speaker_2)
+
+3. My family enjoys sweets that are extra sweet.
+   (ID: dialog_44_speaker_1)
+
+4. I have a large family with babies.
+   (ID: dialog_76_speaker_1)
+
+5. I have brothers.
+   (ID: dialog_189_speaker_2)
+
+6. My sister has lots of kids.
+   (ID: dialog_7_speaker_1)
+
+7. I'm from Wisconsin. I have two older brothers. I'm the youngest child in my family.
+   (ID: dialog_141_speaker_1)
+
+8. I come from a large family.
+   (ID: dialog_101_speaker_2)
+
+9. I am one of two boys in my family.
+   (ID: dialog_57_speaker_2)
+
+10. I am making a scarf for my daughter.
+   (ID: dialog_152_speaker_2)
+
+11. My name is Jim. I have three brothers.
+   (ID: dialog_135_speaker_2)
+
+12. My family used to live in sydney.
+   (ID: dialog_38_speaker_2)
+
+13. My daughter is 3 and she has nightmares.
+   (ID: dialog_58_speaker_1)
+
+14. My sister died.
+   (ID: dialog_77_speaker_2)
+
+15. I support my family by working on cars.
+   (ID: dialog_99_speaker_1)
+
+16. I have one older sister named mary.My dad is a journalist.
+   (ID: dialog_133_speaker_1)
+
+17. I live in Florida. I have family in Philadelphia.
+   (ID: dialog_138_speaker_2)
+
+18. I cook for my family, and like to take pictures while on vacation.
+   (ID: dialog_112_speaker_1)
+
+19. I like to cook for my family.
+   (ID: dialog_88_speaker_1)
+
+20. I plan to stay with my fiance and his family. I will then move to a house on one of the coasts.
+   (ID: dialog_77_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 77
+
+1. i ’m not crazy about associates in family med , so was considering .
+   (ID: Justadropinthesea)
+
+2. i 'm excited to join the family and tell you about some of our weirdness � �
+   (ID: EmRaff7)
+
+3. i wo n’t let my daughter leave the front porch !
+   (ID: FridaysChild219)
+
+4. i grew up in weymouth , my oldest sister knew him from high school .
+   (ID: warname)
+
+5. i can rick the pickle with my son and namesake
+   (ID: canitasteyourjuice)
+
+6. i think i will let his sister help .
+   (ID: ddshroom)
+
+7. i was afraid of this at first after i had my first son .
+   (ID: bbrandann)
+
+8. i 'm looking for guidance or experiences with raising funds for a family dealing with als .
+   (ID: sbsb27)
+
+9. i memorized the family a proclamation for one of my young women 's projects .
+   (ID: greensandgables)
+
+10. i 'm not jewish , but it is a family name .
+   (ID: Mahatma_Panda)
+
+11. i have family in rural ns and they get better 3 g everywhere with bell .
+   (ID: mylescloutier)
+
+12. i will teach this to my son when he 's older .
+   (ID: Bananafoofoofwee)
+
+13. i gave my son your name .
+   (ID: gigatroness)
+
+14. i get extremely frustrated with my family and close friends , s / os , and especially myself .
+   (ID: _gansmadchen)
+
+15. i blame my nmother and nfather for my brothers drug problem .
+   (ID: RelaxedSociety)
+
+16. i seriously see no other point in continuing except that it would make my family sad if i died .
+   (ID: mostlikelyto___)
+
+17. i would buy these to wear around the house and annoy my family .
+   (ID: Atlmama)
+
+18. i see them as family
+   (ID: waterspork)
+
+19. i love how each family has their own rendition of a poor man 's meal .
+   (ID: pipette_on)
+
+20. i sometimes have to watch baby einstein videos to get my daughter to fall asleep .
+   (ID: notTHATwriter)
+
+
+--- PER-CHAT ---
+Total from this dataset: 541
+
+1. I have a daughter in my family.
+   (ID: 1b99508b414040c0a77716b8287dc8d53ceeed67)
+
+2. I have a daughter in my family.
+   (ID: 0847b0a0c2f6c5c595a8cbe2207c0959b37df0c4)
+
+3. I have a brothers in my family.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+4. I have a sister in my family.
+   (ID: 514a3ecd0d04716c9225352c4a3a5d5424dd8056)
+
+5. I have a daughter in my family.
+   (ID: 5d0b750bf77c2c6e8b41ebf03caf4038a907b876)
+
+6. I have a sister in my family.
+   (ID: ba6e9b4e1f123022ebad3ecf22065f969929a346)
+
+7. I have a son in my family.
+   (ID: fb5e95e954b3ee83c39276138f0fa3b854970db4)
+
+8. i live in killam and we knew it wouldn ' t take long for that joke to hit the interwebs . seriously though , i moved from edmonton to get my family away from this stuff . everyone here was freaking out because i doubt this has ever happened before .
+   (ID: e3a37ef234435ebde735894f98de2b3f90e3bbe9)
+
+9. I have a son—who in my family.
+   (ID: 259e025807a2eee6eaf38242805e7dfc46aaa91f)
+
+10. I have a son in my family.
+   (ID: 204bc9dfdfd5ae40abfe0643025c3f61abea8ee1)
+
+11. it ' s family and i have to speak with this one .
+   (ID: 9dc417f749a0d20a48d0b30f64c5a229fedc1176)
+
+12. I have a son in my family.
+   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
+
+13. I have a sister in my family.
+   (ID: 161e54996257552df993f906d6f848a053922141)
+
+14. I have a son in my family.
+   (ID: 888fecec3c361bbe3db00f64ff7cf51950d332df)
+
+15. I have a daughter in my family.
+   (ID: 25b8235c988cb167d94968ee893707e9c358cde8)
+
+16. I have a sisters in my family.
+   (ID: e807b18e05d35f02282740d90e8c63546558b267)
+
+17. I have a sister in my family.
+   (ID: 0b40e1731a58e377af57361e27d4264ac065a5b8)
+
+18. I have a daughter in my family.
+   (ID: 1df1bd07e28c0df73bd865f8cb447d7c8f1bd4d3)
+
+19. I have a sister in my family.
+   (ID: 292b765cb2e74ea6eb438a054f334da466dda75e)
+
+20. I have a sisters in my family.
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+
+--- PersonaChat ---
+Total from this dataset: 38
+
+1. i am 5 3 and am the shortest person in my family .
+   (ID: conversation_491)
+
+2. my family means the world to me .
+   (ID: conversation_450)
+
+3. my family is poor .
+   (ID: conversation_318)
+
+4. my youngest sister is in first grade .
+   (ID: conversation_491)
+
+5. i have trouble getting along with family .
+   (ID: conversation_247)
+
+6. my family migrated to america when i was five .
+   (ID: conversation_484)
+
+7. i have one son .
+   (ID: conversation_442)
+
+8. my family is very important to me .
+   (ID: conversation_189)
+
+9. my family is from algeria .
+   (ID: conversation_403)
+
+10. i'm all about family and fun .
+   (ID: conversation_110)
+
+11. my family migrated to america when i was five .
+   (ID: conversation_374)
+
+12. i'm close to both of my brothers .
+   (ID: conversation_458)
+
+13. i do not know why my sister in law dislikes me .
+   (ID: conversation_142)
+
+14. i love to cook for my family and friends .
+   (ID: conversation_41)
+
+15. i have 8 brothers and we are close .
+   (ID: conversation_274)
+
+16. my sister is my best friend .
+   (ID: conversation_409)
+
+17. i am a family man .
+   (ID: conversation_449)
+
+18. my family comes first to me .
+   (ID: conversation_427)
+
+19. i have two brothers .
+   (ID: conversation_242)
+
+20. i'm a family man .
+   (ID: conversation_459)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 40
+
+1. My family owned a small restaurant.
+   (ID: conversation_28_user_2)
+
+2. My sister is a guitarist.
+   (ID: conversation_59_user_1)
+
+3. I have two brothers.
+   (ID: conversation_388_user_2)
+
+4. I have one son.
+   (ID: conversation_372_user_2)
+
+5. My sister is a guitarist.
+   (ID: conversation_57_user_1)
+
+6. I have a son.
+   (ID: conversation_274_user_1)
+
+7. My family hates my fiancé.
+   (ID: conversation_347_user_2)
+
+8. I have 5 brothers and sisters.
+   (ID: conversation_8_user_2)
+
+9. My family owns a grocery store.
+   (ID: conversation_490_user_2)
+
+10. My family loves me , but keeps their distance.
+   (ID: conversation_498_user_2)
+
+11. I also give blood monthly in honor of my sister who died.
+   (ID: conversation_404_user_2)
+
+12. My sister is a guitarist.
+   (ID: conversation_58_user_1)
+
+13. My family hates my fiancé.
+   (ID: conversation_179_user_2)
+
+14. I love to go out to eat with my family.
+   (ID: conversation_135_user_2)
+
+15. I have a son.
+   (ID: conversation_304_user_2)
+
+16. I have the support of my whole family.
+   (ID: conversation_143_user_2)
+
+17. My sister is becoming my mother and often asks me when i m getting married.
+   (ID: conversation_167_user_2)
+
+18. I am a family man.
+   (ID: conversation_23_user_2)
+
+19. Every fall i visit my sister in canada.
+   (ID: conversation_359_user_2)
+
+20. My family loves me , but keeps their distance.
+   (ID: conversation_206_user_2)
+
+
+============================================================

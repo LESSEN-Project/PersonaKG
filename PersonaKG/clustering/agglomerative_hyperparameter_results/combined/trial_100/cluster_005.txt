@@ -1,0 +1,467 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 35759
+
+Dataset distribution in this cluster:
+  FoCus: 1153 (3.2%)
+  MPChat: 2424 (6.8%)
+  MSC: 1672 (4.7%)
+  PEC: 13033 (36.4%)
+  PER-CHAT: 14558 (40.7%)
+  PersonaChat: 968 (2.7%)
+  SyntheticPersonaChat: 1951 (5.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1153
+
+1. I love Church of Sinai.
+   (ID: TF24QL7QZSG2_11)
+
+2. I love to go swimming.
+   (ID: MP1ZK22Q90C9_11)
+
+3. I like old castles.
+   (ID: MMFXPQYSEBUW_11)
+
+4. I would like to visit a natural park.
+   (ID: LERVJ9I223JG_7)
+
+5. I like to visit united states.
+   (ID: U6NEN4YX4OT6_9)
+
+6. I always love mountains.
+   (ID: C19OKX49XN0G_7)
+
+7. I like the Metro.
+   (ID: D0BKN1W8KWG6_7)
+
+8. I am a huge fan of going to a villa.
+   (ID: S7EFLIB5IQDV_11)
+
+9. I love music.
+   (ID: JTUKE03HZYSY_11)
+
+10. I love museums.
+   (ID: N1SMQLB7T5J7_11)
+
+11. I have a boyfriend who is a rock climber.
+   (ID: D4619DV1O1OP_11)
+
+12. I love fishing.
+   (ID: KN10OGBG14Y2_11)
+
+13. I'm interested in history.
+   (ID: SJS6GHEH7ZIW_11)
+
+14. I have studied at Utah State University.
+   (ID: EFTS0UG7NK5K_9)
+
+15. I like education.
+   (ID: QFCC4W8VUHOO_11)
+
+16. I am a fan of several professional sports.
+   (ID: R2DBMEQOL0NY_9)
+
+17. I love watching the sport of boxing.
+   (ID: WKAD0PJA14Q4_11)
+
+18. I am interested in history.
+   (ID: EYWHRALFUG0D_11)
+
+19. I would like to do different activities.
+   (ID: MP1ZK22Q90C9_11)
+
+20. I like Gothic architecture.
+   (ID: PGIZXWTCX77K_7)
+
+
+--- MPChat ---
+Total from this dataset: 2424
+
+1. my precious perry the platycorgi
+   (ID: kentobean123)
+
+2. i think it looks pretty neat!
+   (ID: FoxInKneeSocks)
+
+3. using up my schachenmayr lumio.
+   (ID: Novel_Fox)
+
+4. [pic] how i store my thread, not on bobbins.
+   (ID: gxnelson)
+
+5. just finished a little surprise for my boyfriend
+   (ID: Sophie74656)
+
+6. working on a curved shawl for my sister.
+   (ID: smsikking)
+
+7. baked my mum's 52th birthday cake, its a tiny 2layered ginger&lemon cake
+   (ID: Notnotnotbryan)
+
+8. the shrug i crocheted and mom claimed as her own
+   (ID: letsallcrochetYT)
+
+9. i made a knight helm too!
+   (ID: ddizzle23)
+
+10. stuck out of town without my grill or smoker, always wanted a weber kettle so i bought one.
+   (ID: billwhiz)
+
+11. my 10 year old made this star destroyer from memory.
+   (ID: youngdad33)
+
+12. while emptying a bottle of expired night nurse syrup, i found this!
+   (ID: Kartenshi)
+
+13. i'm slowly improving hehehehe.
+   (ID: Soggypaper_)
+
+14. another ruffle cake using all my leftover decorating bags (pic)
+   (ID: fredbutt)
+
+15. it took forever, but i finally finished my first order.
+   (ID: Nikyma)
+
+16. star baby blanket i crocheted
+   (ID: FoxInKneeSocks)
+
+17. daddy baby shower cake i made for work!
+   (ID: drfrank1982)
+
+18. i think i might have a problem
+   (ID: green-egg-and-ham)
+
+19. i've been dabbling in chocolate bark, here are a few more toffee nut and raspberry
+   (ID: TattsMcGee)
+
+20. i guess doing nails will be my version of inktober
+   (ID: batman1227)
+
+
+--- MSC ---
+Total from this dataset: 1672
+
+1. My favorite Pearl Jam song is Corduroy.
+   (ID: dialog_41_speaker_1)
+
+2. I live on a farm in Ohio.
+   (ID: dialog_42_speaker_2)
+
+3. I am an animal lover.
+   (ID: dialog_58_speaker_2)
+
+4. I have a mountain bike and like to be alone.
+   (ID: dialog_76_speaker_2)
+
+5. I think that I am bipolar.
+   (ID: dialog_43_speaker_1)
+
+6. My hair is purple. I am a stylist. I love my job. I am saving money in hopes of opening my own salon by the end of the year.
+   (ID: dialog_14_speaker_2)
+
+7. I attend a private high school.
+   (ID: dialog_87_speaker_2)
+
+8. I have not told my family that I'm interested in the same sex.
+   (ID: dialog_35_speaker_1)
+
+9. Seeing the globe is on my bucket list.
+   (ID: dialog_13_speaker_1)
+
+10. My favorite hobbies are shopping and knitting.
+   (ID: dialog_71_speaker_2)
+
+11. I drive a truck for work.
+   (ID: dialog_82_speaker_2)
+
+12. I wish I was an astronaut.
+   (ID: dialog_45_speaker_1)
+
+13. My cat mostly stays indoors. Sometimes, I take her to the beach on a leash.
+   (ID: dialog_49_speaker_2)
+
+14. I have a Switch and a playstation I would like to get a pig. I have never gone diving.
+   (ID: dialog_85_speaker_1)
+
+15. I enjoy driving.
+   (ID: dialog_1_speaker_1)
+
+16. I have a pink truck.
+   (ID: dialog_29_speaker_1)
+
+17. I don't own a car.
+   (ID: dialog_90_speaker_2)
+
+18. Sports are fun.
+   (ID: dialog_47_speaker_2)
+
+19. I travel a lot. I like to travel to Ireland and Australia.
+   (ID: dialog_9_speaker_2)
+
+20. I am single.
+   (ID: dialog_34_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 13033
+
+1. i hope you thoroughly enjoy your line of work , you deserve it .
+   (ID: EvieAugust)
+
+2. i am just playing vanila right now
+   (ID: DielEnelGuy)
+
+3. i remember the chairs at the weddings i have been too .
+   (ID: genpell)
+
+4. i hear that 43 mm is a great lens .
+   (ID: nastylittleman)
+
+5. i do nothing but talk about dogs ..
+   (ID: bigfuckingdiamond)
+
+6. i can only imagine the paperwork .
+   (ID: cookiexcmonster)
+
+7. i love that show !
+   (ID: Hypersapien)
+
+8. i do n’t either ...
+   (ID: Ml7500)
+
+9. i think it maybe a damper for a bypass on chimney or duct
+   (ID: iToaditSo)
+
+10. i 'd pick up a shovel and go to work .
+   (ID: Beachsurfer)
+
+11. i 'm reading east of eden for the first time right now .
+   (ID: MrBovineJoni)
+
+12. i find it just plain not fun .
+   (ID: metalbark)
+
+13. i hope things start to go better .
+   (ID: MILeft)
+
+14. i was ... until seeing that price .
+   (ID: Bob_Majerle)
+
+15. i think you may be right .
+   (ID: SPQR1212)
+
+16. i love your hair !
+   (ID: hussy_trash)
+
+17. i love fischer too .
+   (ID: xcombelle)
+
+18. i ’m so sorry to hear about your cat .
+   (ID: latestartksmama)
+
+19. i think i saw that video .
+   (ID: adertal)
+
+20. i see millions of youtubers using it and it looks pigmented enough
+   (ID: beautifulw0man)
+
+
+--- PER-CHAT ---
+Total from this dataset: 14558
+
+1. dig ? what do you mean ? the op asked for stories about the time your boy  girlfriend  wife  husband went too far , and you answered about kicking a fat kid in the face . i ' m stumped at how that relates to the subject of the thread .
+   (ID: 514a3ecd0d04716c9225352c4a3a5d5424dd8056)
+
+2. i hurt my back a bit helping my daughter get her bed into her apartment .
+   (ID: 58245e8d537b9e7b6d76cc6a9919ea776e4ef6f0)
+
+3. I live in japan.
+   (ID: c3739aee1cfa0a286d1056b5d9225e9d6e4f6547)
+
+4. I am a female.
+   (ID: d8014467041b98317d9f1dec2b0dae4ff9405b91)
+
+5. I have a cat as a pet.
+   (ID: 02e4b90101e07338b4251209256c01652a022c5d)
+
+6. fellow religion subscriber here . i have the same thought . my best guess is suicide leads to hell because life is worth living no matter how hard it is . some divine wisdom thing . hope you keep on pulling through , we  ve got this !
+   (ID: 6b55ac21377298601038ad44ea0f65b18e7c5b51)
+
+7. One of my favorite things is sildur ’.
+   (ID: 79be9557b3d70396e049eaa975227b5e203bb8db)
+
+8. One of my favorite things is atlas from echoes.
+   (ID: 89e5ffcdc3b9c2cbc19f7274b7643ce26a8e2bbd)
+
+9. equality . like , c ' mon , don ' t we have enough of that already ?
+   (ID: 9b6ee533e853c768cc140f122ed313d4d7550b5a)
+
+10. I am a male.
+   (ID: d8681af7ff5797fb2ffcb9a4a08f377463526e2d)
+
+11. One of my favorite things is arma.
+   (ID: da770212ea31887c4be30925213eff0dc5d8687b)
+
+12. One of my favorite things is rammstein.
+   (ID: 009af0be6850d8d1ff9d388a3c7f39f0f7727594)
+
+13. i ' m digit " digit practically everyone is taller than me , never taken much notice of a dates height unless i can ' t reach something . who they are matters
+   (ID: 5d5b1d6dc4106ea3828986093f78b562f2a75587)
+
+14. One of my favorite things is thoughtful gifts.
+   (ID: 035cdb776979e198d6824c24b5c3e7399d673eeb)
+
+15. i mean it  s certainly possible just seems super unlikely to me . really a one trick pony company as solarcity probably isn  t going to take them there , and sure some of them tend to do good but just like other car companies there will be a ton of competition and to me it also seems pretty unlikely we will see a completely electric car world unless there is massive improvement in battery life and charge time . even so there are tons of other car companies . i mean we will see just seems a bit of a pipe dream to me , suppose we will see though . i mean if tesla completely eliminates all other car companies and electric cars take over the world we could see a multi trillion dollar tesla in digit  digit value , but even still it  s not  my kids will thank me later off my tax return  kind of money .
+   (ID: 203253ab73b19e5cd1d950c82537271605475cea)
+
+16. One of my favorite things is automobiles.
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+17. One of my favorite things is sex.
+   (ID: d54a04c3eba52404f5dd7abb0e459a949dbc7f93)
+
+18. you look like a discount model or aspiring actress type , you probably post black and with photos on instagram of coffee , that is heavily edited so you can live your fake ass life , you also say things like don  t talk to me before my morning coffee . high school will probably be the best part of your life you basic person if i am right you life has been lived a thousand times and it is such a cliche
+   (ID: 87173aaf55980a77c94bd30c851c39fb0b52ff2e)
+
+19. I live in world.
+   (ID: 720bf2762acb0f756492e6e40ae840126dae87ce)
+
+20. similar , my elder got diagnoses asd when digit . digit yrs old . i was digit months pregnant with smallest . smallest is digit and just been diagnosed adhd elder is non verbal but can communicate using a tablet and pecs picture exchange communication system software . while his autism is profound and he is unlikey to live fully independently he ' s still a bundle of joy and the most placid kid ever . smallest opposite i often worry how smallest is affected by the adjustments we have to make for his brother .
+   (ID: 5d5b1d6dc4106ea3828986093f78b562f2a75587)
+
+
+--- PersonaChat ---
+Total from this dataset: 968
+
+1. i've a twin brother .
+   (ID: conversation_57)
+
+2. i also give blood monthly in honor of my sister who died .
+   (ID: conversation_77)
+
+3. i only date people taller than me .
+   (ID: conversation_85)
+
+4. i'm a hair stylist .
+   (ID: conversation_228)
+
+5. i like eating vegetables .
+   (ID: conversation_247)
+
+6. my brother raised me after our parents died .
+   (ID: conversation_232)
+
+7. i love cooking .
+   (ID: conversation_199)
+
+8. i spend a lot of time driving my kids to sports events .
+   (ID: conversation_75)
+
+9. i'm currently a stay at home mom while my husband is the sole provider .
+   (ID: conversation_173)
+
+10. running is my way to relax .
+   (ID: conversation_99)
+
+11. i enjoy building computers .
+   (ID: conversation_67)
+
+12. i like to go hunting .
+   (ID: conversation_243)
+
+13. i'm strong .
+   (ID: conversation_96)
+
+14. i run track .
+   (ID: conversation_143)
+
+15. i work in a movie theater .
+   (ID: conversation_245)
+
+16. i'm a cyclist .
+   (ID: conversation_203)
+
+17. i graduated with a nursing degree .
+   (ID: conversation_134)
+
+18. i am studying software development .
+   (ID: conversation_230)
+
+19. i do not have a job .
+   (ID: conversation_120)
+
+20. my favorite band is tool .
+   (ID: conversation_35)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1951
+
+1. I love dogs.
+   (ID: conversation_142_user_1)
+
+2. I love animals.
+   (ID: conversation_189_user_1)
+
+3. I am a stay at home mom.
+   (ID: conversation_65_user_1)
+
+4. I like going barefoot.
+   (ID: conversation_56_user_1)
+
+5. My parents are divorced.
+   (ID: conversation_29_user_2)
+
+6. I am short.
+   (ID: conversation_34_user_1)
+
+7. I am single.
+   (ID: conversation_100_user_1)
+
+8. I drive a bmw.
+   (ID: conversation_235_user_1)
+
+9. I am married with 2 kids.
+   (ID: conversation_108_user_2)
+
+10. My sister is a guitarist.
+   (ID: conversation_60_user_1)
+
+11. I love book.
+   (ID: conversation_129_user_1)
+
+12. I enjoy my steaks cooked medium rare.
+   (ID: conversation_231_user_2)
+
+13. I swim often.
+   (ID: conversation_171_user_1)
+
+14. I live in chicago.
+   (ID: conversation_131_user_2)
+
+15. I like cats.
+   (ID: conversation_114_user_1)
+
+16. I am a widow.
+   (ID: conversation_225_user_1)
+
+17. I am afraid of spiders.
+   (ID: conversation_184_user_1)
+
+18. We live in a rural area.
+   (ID: conversation_57_user_2)
+
+19. I can draw.
+   (ID: conversation_31_user_1)
+
+20. I can knit.
+   (ID: conversation_57_user_1)
+
+
+============================================================

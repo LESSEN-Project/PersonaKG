@@ -1,0 +1,157 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 102
+
+Dataset distribution in this cluster:
+  FoCus: 3 (2.9%)
+  MSC: 6 (5.9%)
+  PEC: 8 (7.8%)
+  PER-CHAT: 82 (80.4%)
+  SyntheticPersonaChat: 3 (2.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I don't enjoy rollercoaster rides.
+   (ID: PFYAAS1XG3D8_11)
+
+2. I enjoy Richard Russo.
+   (ID: NR9LNBMYKSX6_9)
+
+3. I enjoy surfing.
+   (ID: X8E70IZC7L3S_11)
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I enjoy my albums.
+   (ID: dialog_182_speaker_2)
+
+2. I enjoy my albums.
+   (ID: dialog_6_speaker_2)
+
+3. I enjoy romance.
+   (ID: dialog_122_speaker_1)
+
+4. I enjoy cosplay.
+   (ID: dialog_188_speaker_2)
+
+5. I enjoy cosplay.
+   (ID: dialog_99_speaker_1)
+
+6. I enjoy jogging.
+   (ID: dialog_56_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i for one , enjoy it
+   (ID: WillemDafoesAlterEgo)
+
+2. i 'm sorry , but that emoji caption made me enjoy this less :/
+   (ID: OliveGames)
+
+3. i enjoy 2 shotting people without revenge : d
+   (ID: playertd)
+
+4. i enjoy this so much
+   (ID: alicepalmbeach)
+
+5. i think r / accidentalrenaissance might even enjoy this .
+   (ID: WeirdAvocado)
+
+6. i would enjoy that snack every time .
+   (ID: 2inthehands)
+
+7. i also do enjoy less oxidized greener oolongs as well .
+   (ID: Lilliaan)
+
+8. i enjoy waiters .
+   (ID: newyork2012)
+
+
+--- PER-CHAT ---
+Total from this dataset: 82
+
+1. I enjoy philadelphia eagles.
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+2. I enjoy pittsburgh steelers.
+   (ID: 05dea10a374f0f09c767062f0a3d0b51b6d20b9d)
+
+3. I enjoy cricket.
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+
+4. I enjoy mma.
+   (ID: 33483b17911ec063ef4562ae3263fe478eba6a2c)
+
+5. I enjoy mma.
+   (ID: 5b8ed03bdff11aec4ed3a2ed4e122a505bf937dd)
+
+6. I enjoy boston redsox.
+   (ID: 34ec1eee47d9e01bd9a5b29f2d3b8f2098f875d3)
+
+7. I enjoy rugby.
+   (ID: 65b64663fe8890c471866a25cf075ff50d852dbf)
+
+8. I enjoy philadelphia flyers.
+   (ID: ccc20fb024de820a5ad1bfc4117d69d6b7c3a6c9)
+
+9. I enjoy motorsports.
+   (ID: c11592c54f6061d979d11af92c6289790a5bec93)
+
+10. I enjoy fifa.
+   (ID: a443986595c715cd541cd3925619cb6f1e8ada83)
+
+11. I enjoy arsenal.
+   (ID: 48904bae9572d5f97c653c59290dc9496ef8eed4)
+
+12. I enjoy mma.
+   (ID: 48904bae9572d5f97c653c59290dc9496ef8eed4)
+
+13. I enjoy poker.
+   (ID: 757e143549620faa46043c6954071c7a8dd6b484)
+
+14. I enjoy poker.
+   (ID: d45001f1fdd37cda488cfddffabec23e83ee7b7e)
+
+15. I enjoy mma.
+   (ID: 1fb7025aaa0b620e024c8abbaecd72d34f8418b0)
+
+16. I enjoy mma.
+   (ID: 850866a9e8dd0a9014f428e54e74f54649737a60)
+
+17. I enjoy minnesota vikings.
+   (ID: e84ec39cf97c9609b6feb31cbaab5faf551f372d)
+
+18. I enjoy fifa.
+   (ID: 7e06b6173caa339822499761ab78ee796513d9aa)
+
+19. I enjoy chelsea f.c..
+   (ID: 9284af9896fed617d56596c55fb3ff4e8a4c8dde)
+
+20. I enjoy rugby.
+   (ID: 8d969746b3d4e6e130957387edb6a2fef0ec54cf)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I enjoy organizing my surroundings.
+   (ID: conversation_153_user_1)
+
+2. I enjoy being alone.
+   (ID: conversation_99_user_2)
+
+3. I enjoy hitchhiking.
+   (ID: conversation_298_user_1)
+
+
+============================================================

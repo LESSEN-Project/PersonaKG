@@ -1,0 +1,107 @@
+CLUSTER 23
+============================================================
+Total statements in cluster: 188
+
+Dataset distribution in this cluster:
+  MSC: 2 (1.1%)
+  PEC: 2 (1.1%)
+  PER-CHAT: 183 (97.3%)
+  PersonaChat: 1 (0.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I'm female.
+   (ID: dialog_108_speaker_1)
+
+2. I am a female.
+   (ID: dialog_108_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i 'm female , and most of my characters in world of warcraft are female too .
+   (ID: Sabiola)
+
+2. i 'm a female so i would like to get a female fit one .
+   (ID: travelingkiwi)
+
+
+--- PER-CHAT ---
+Total from this dataset: 183
+
+1. I am a female.
+   (ID: a77eb45bf2cf0979852baa624e4a728cd8c1b85b)
+
+2. I am a female.
+   (ID: 6260fdfdc8a5feec78502a823b8de04ee318e260)
+
+3. I am a female.
+   (ID: 5ee4d4a98d2da62835d0e63abf8fe5bbfa95111b)
+
+4. I am a female.
+   (ID: 2e1439e8eb18b181a69a66cc4c1b2dc22ce774f0)
+
+5. I am a female.
+   (ID: 2069df24de0e78e4765ca507edb903ca074ac2d8)
+
+6. I am a female.
+   (ID: c0cbd0e097375f98ad98ec291f836a39d55e02c1)
+
+7. I am a female.
+   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
+
+8. I am a female.
+   (ID: d23bd8fb57b99544637110d5b376dba68b3e2d0f)
+
+9. I am a female.
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+10. I am a female.
+   (ID: 5a15ed606a86674cb48abaf9fee4375ff6bbff09)
+
+11. I am a female.
+   (ID: d8014467041b98317d9f1dec2b0dae4ff9405b91)
+
+12. I am a female.
+   (ID: 25a3a19690cf520ebb090d792f9aab864cc59254)
+
+13. I am a female.
+   (ID: d4912bd11a6aaa98c91794eda03e9fafdfcf5c43)
+
+14. I am a female.
+   (ID: b6c3e540255084641f0e148a3992d9113c560f0b)
+
+15. I am a female.
+   (ID: 975493e3b4b2ad9cba1b98554159be45f8affdd3)
+
+16. I am a female.
+   (ID: 74058c90ada3aae7a59703064acbf3ced38f3681)
+
+17. I am a female.
+   (ID: a889137e92d54250452d24f74138b0bffb6e1146)
+
+18. I am a female.
+   (ID: 128e913d04941bcfe472d443c137eda644ab7e31)
+
+19. I am a female.
+   (ID: 3ba6725e8f1b7a123febfe8a266ec0dc4d054b65)
+
+20. I am a female.
+   (ID: 61cecb8714e90365638145aa099b1fb86718270f)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i'm a female .
+   (ID: conversation_121)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 61474
+
+Dataset distribution in this cluster:
+  FoCus: 1750 (2.8%)
+  MPChat: 3720 (6.1%)
+  MSC: 2709 (4.4%)
+  PEC: 24239 (39.4%)
+  PER-CHAT: 24378 (39.7%)
+  PersonaChat: 1566 (2.5%)
+  SyntheticPersonaChat: 3112 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1750
+
+1. I wish to have agricultural field in Bellary.
+   (ID: UN54IACHSTX5_11)
+
+2. I would like to visit a castle.
+   (ID: W67GZU3ZXI46_9)
+
+3. I would like to visit Ohio.
+   (ID: GC9BAJTK54F1_11)
+
+4. I love the Library of Congress.
+   (ID: 9QE8MQM0B8P7_11)
+
+5. I wish to start hiking on nature trails.
+   (ID: 97WAFKFECFDE_9)
+
+6. I like the TV series Homeland very much.
+   (ID: GPJYUNUXPVWI_11)
+
+7. I hope to work in engineering.
+   (ID: YRJ6RB6JCWMA_11)
+
+8. I like the Metro.
+   (ID: D0BKN1W8KWG6_7)
+
+9. I want to study the Middle Ages.
+   (ID: C64P8U3HDDHY_9)
+
+10. I like cycling.
+   (ID: 8WL4II03WTP0_7)
+
+11. I majored in history.
+   (ID: INVNLHZVN3VM_9)
+
+12. I am interested in geography.
+   (ID: DMQ664J9SVLI_11)
+
+13. I work for the National Register of Historic Places.
+   (ID: EZGYRI0YA8OX_9)
+
+14. I am interested in rock works.
+   (ID: P6GC7TLC5QDI_11)
+
+15. I am a researcher.
+   (ID: T9680U7NZ97F_11)
+
+16. I like athletics.
+   (ID: FGIEUW9ABAQU_11)
+
+17. I am a wildlife photographer.
+   (ID: B4623TSE2PJX_7)
+
+18. I like attractions.
+   (ID: GYX0OU7PEQ7Q_11)
+
+19. I am curious about isolated places.
+   (ID: Y037WWL4AZRY_11)
+
+20. I want to go on a trip.
+   (ID: IM69XV5WEIAK_11)
+
+
+--- MPChat ---
+Total from this dataset: 3720
+
+1. i'm on my last handful of rows for the torso and then onto the sleeves!
+   (ID: Novel_Fox)
+
+2. i found the blanket loophole, make a lovey so it doesn’t take forever!
+   (ID: FoxInKneeSocks)
+
+3. i wasn't able to make the eyebrows, but i really liked it this way!
+   (ID: Ploliveira)
+
+4. got some bad medical news about my cat.
+   (ID: ddizzle23)
+
+5. playing with a totally cool baking thing i found
+   (ID: zenbuffy)
+
+6. i made a scarf for a reddit craft exchange :)
+   (ID: ddizzle23)
+
+7. frame to my super shelter done.
+   (ID: gammonjoshua)
+
+8. i'd say the majority of the videos are done using a yoder ys640 pellet grill.
+   (ID: MonstaEatsItAll)
+
+9. transformers cookies i went through 4 or 5 cookies to get a good transformers logo.
+   (ID: amandabakes)
+
+10. everytime i think i've gotten a good picture of him this is what i get
+   (ID: kentobean123)
+
+11. here i gave a new stool to a stool.
+   (ID: gelimausi)
+
+12. uggh at the pic being awful & giving the illusion it's 's not (i swear).
+   (ID: PrissyCakes)
+
+13. some days i don't have the time and energy to get fancy with the buns.
+   (ID: Flattishsassy)
+
+14. i really need to work on my milk texture so these quit looking like turnips.
+   (ID: jlb4est)
+
+15. tonight she requested one of my vegan cheezesteaks.
+   (ID: ReturnOfTheFox)
+
+16. the best i was going to get of my sweet old man
+   (ID: MafHoney)
+
+17. hey, i was a novice then!
+   (ID: DeanIsHotter)
+
+18. i made a tiny totoro!
+   (ID: skorletun)
+
+19. i created a monster...s'moreos cake!
+   (ID: yolanda_gampp)
+
+20. i hate chocolate and togo cups, but i'm not paying for it.
+   (ID: Beardedlantern)
+
+
+--- MSC ---
+Total from this dataset: 2709
+
+1. My mother tells fortunes.
+   (ID: dialog_58_speaker_1)
+
+2. I am a woman.
+   (ID: dialog_95_speaker_1)
+
+3. I'm in school. I don't party.
+   (ID: dialog_106_speaker_1)
+
+4. I live with my parents
+   (ID: dialog_66_speaker_2)
+
+5. My clothes are usually dark colors.
+   (ID: dialog_69_speaker_1)
+
+6. Pizza is my favorite food.
+   (ID: dialog_99_speaker_1)
+
+7. Baseball is the sport I enjoy the most.
+   (ID: dialog_103_speaker_2)
+
+8. I wear skirts.
+   (ID: dialog_94_speaker_1)
+
+9. I like snow sports.
+   (ID: dialog_15_speaker_2)
+
+10. My family used to live in sydney.
+   (ID: dialog_38_speaker_2)
+
+11. I have no money or friends.
+   (ID: dialog_32_speaker_2)
+
+12. I've ben to Canada before with my father.
+   (ID: dialog_33_speaker_2)
+
+13. We had 5 felines but one had to go since it hated both of our mutts.
+   (ID: dialog_38_speaker_1)
+
+14. I collect a lot of sports memorabilia.
+   (ID: dialog_48_speaker_1)
+
+15. I like my vehicles to have some horsepower, especially my cars.
+   (ID: dialog_38_speaker_1)
+
+16. I work as a roofer. I am not replacing roofs right now because of the cold but it gives me time to enjoy sports.
+   (ID: dialog_47_speaker_1)
+
+17. I spend time at the pool.
+   (ID: dialog_67_speaker_1)
+
+18. I play guitar.
+   (ID: dialog_117_speaker_2)
+
+19. I love it when it is cold outside.
+   (ID: dialog_66_speaker_1)
+
+20. I grew up on a ranch. My favorite thing to eat is burgers.
+   (ID: dialog_99_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 24239
+
+1. i 'm going to columbine for this
+   (ID: SamuelStephenBono)
+
+2. i sure am .
+   (ID: chasemyers)
+
+3. i always drool when their scenes come :3
+   (ID: Mende)
+
+4. i 'm sorry , paxisnack , but your submission in politics was removed by bmeckel because it was editorialised .
+   (ID: bmeckel)
+
+5. i hope she does soon , too .
+   (ID: scoutsadie)
+
+6. i m a little lost with this but they all give 400kw .
+   (ID: SYDWAD)
+
+7. i am so curious as to what this was .
+   (ID: giraffecakes)
+
+8. i dare you to ban me !
+   (ID: LabeledAsALunatic)
+
+9. i see that it should just pull off !
+   (ID: mmaswadeh)
+
+10. i miss it so much now .
+   (ID: hussy_trash)
+
+11. i had the foresight , too , because * i actually watch college football * .
+   (ID: cometparty)
+
+12. i have n't completely ruled out anything .
+   (ID: RelaxedSociety)
+
+13. i agree so much .
+   (ID: EvieAugust)
+
+14. i agree , makes my day too .
+   (ID: Noimnotsally)
+
+15. i should really get a life .
+   (ID: NietzschesUbermensch)
+
+16. i even removed it last time too .
+   (ID: LordQuorad)
+
+17. i think so .
+   (ID: snapsnaptomtom)
+
+18. i 'm a 34b / c .
+   (ID: NyxPeregrinus)
+
+19. i really appreciate your comment .
+   (ID: Dustin_Bromain)
+
+20. i have to say i ’m impressed by how well safari handles it .
+   (ID: BorgDrone)
+
+
+--- PER-CHAT ---
+Total from this dataset: 24378
+
+1. I live in cattle.
+   (ID: 3191fce935a433eb5bf640dcdf40d71c47c3a93a)
+
+2. your comment history is just full of " very epic indeed " and f
+   (ID: db1ffea2a957f19bfc0fffdbd89a6d65be91fd5c)
+
+3. i have a very simple solution , use the dark ages v20 rules , it steamlines combat , i also have a couple house rules for combat . have your turn planned ahead of time . know what you want to do , or have your questions ready . feel free to converse with other pcs in between turns to coordinate . have your dice ready and roll fast . this is the most important advice i can give you about combat stop trying to make it challenging . just stop . stop trying to challenge the combat character every time you ' re in combat . he wanted to murder things , let him murder things , if he ' s able to slaughter ghouls with relative ease , let him do it , it doesn ' t need to be challenging unless he wants it to be , in which case it ' s far more effective to use single strong enemies than multiple weaker ones . making every single combat life or death , an insane challenge , etc . is unrealistic and gets grindy very quickly . use combat as a way to tell a story , not as a ' we need a combat ' scene . i would need to know the specifics of the combat pc in question before giving you any advice tho .
+   (ID: bf7502abeb225c7451d3f63c8f8fa92d5f1e8319)
+
+4. i know they  d say ,  he does so much for me  , but weird how non  christians have the same ups and downs as christians . what a crappy friend who is all  powerful and doesn  t help his best friend more .
+   (ID: f90b0d899acf3c82adaa55fb250d0c7ea9eaeaf3)
+
+5. we saw a dark skin dude and my brothers kid digit years said  " look that man is made of chocolate "
+   (ID: fd98a0804e382a144d76dd9fdb6ff8323a9d6b21)
+
+6. I enjoy formula 1.
+   (ID: 2ad50e702ea7ef4cc62a34ca116f658d564c0474)
+
+7. well best of luck and be yourself personally i would never jump into politics tho . wanted to be a lawyer or something in the criminal justice but aye i was raised around some  illegal  shit and i just said it  s not worth my time fighting for lost cause . politics is a circle jerk  gridlock and end of the day nothing is gonna change . just remember this , get a job that can support you and your future family if you want one .
+   (ID: 4422c1db26c9be5bec35694a448a490c2761d985)
+
+8. i just realised that everyone isn ' t perfect you know ? there ' s gonna be lots of people who ' ll come in your life and try to bring you down . hey sometimes you might even allow it , but eventually you ' ll have to learn to make goals to better yourself , cut those people off , and become a better person . only you can control how your life and self worth .
+   (ID: e217e0e78b3d167105d634f49246c934025ff72b)
+
+9. well you were correct which does say something . i will say that i would hope more minorities would agree with what i ' m saying , those who have experienced the worst of discrimination are usually the most motivated to end it .
+   (ID: 90779ea1e5aa2ec3ed3a1fa6b99a8207c0d66d3e)
+
+10. i have been keeping up with the series and am mostly loving it . you ' re right about it being pretty unpleasant . great stuff , though !
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+11. i recommend bogleheads . it ' s free .
+   (ID: 3a74a7f224822b70fc5b403157367714c46b161a)
+
+12. oh my , this is really well done . i could listen to you ' re voice all day .
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+13. that meme came out in october digit , idk what your talking about sir but it  s not a usual minion meme so just look up minion or da bob do today
+   (ID: 5b1553b6a517f6dfee19019582f0bb534a60ae0a)
+
+14. look at all the terrible things that happen every day . would a loving being with infinite power let these things happen ? doesn  t make sense .
+   (ID: 47697a08dc01689d8119bf9bd578194eb66d157c)
+
+15. this just sounds to me like lazy employees . i mean its fastfood . honestly i dont even complain when fastfood chains fuck up my order . now if i were to go to portillos or some higher quality fast food type place id bitch a storm
+   (ID: f4740ce860bfe6d6f36cf67cc925b9f182ade275)
+
+16. i want to die now
+   (ID: 1306973da0fba9f8c4b839b9163f3f01aacfe98a)
+
+17. yup that  s always bad . could you read a magazine during so it won  t feel as awkward ? take someone who likes to talk with you so you don  t have to talk perhaps ? but as bad as that is a dentist that  s constantly asking you questions while you have digit things in your mouth is worst .
+   (ID: c787052a42459acc9cd2034c7531250ccd441795)
+
+18. not getting the chance to give my dad a proper goodbye .
+   (ID: 5fe12b36dc6d3370836c6683997c005efb656c99)
+
+19. part of parenting is undertaking that kids need to be taught the right things and how to act . they don ' t enter the world understanding funeral etiquette . it was their first one .
+   (ID: 5ab7eb494e48f5dccac549a3e018fb911f19527e)
+
+20. podrick . why is this even a question ?
+   (ID: fa9acab3fbd86b1f64e6380ef31b49912dae0c74)
+
+
+--- PersonaChat ---
+Total from this dataset: 1566
+
+1. i just accepted a job at the elementary school in my hometown .
+   (ID: conversation_91)
+
+2. i enjoy swimming .
+   (ID: conversation_199)
+
+3. i wish i could be more serious about school .
+   (ID: conversation_131)
+
+4. i have a sweet tooth .
+   (ID: conversation_261)
+
+5. i got married 10 years later .
+   (ID: conversation_127)
+
+6. i am a older gentlemen .
+   (ID: conversation_246)
+
+7. i've 2 dogs .
+   (ID: conversation_115)
+
+8. i do not like my reputation .
+   (ID: conversation_334)
+
+9. i thought of joining the military when i was younger .
+   (ID: conversation_113)
+
+10. i watch a lot of tv .
+   (ID: conversation_33)
+
+11. my mom is my best friend .
+   (ID: conversation_284)
+
+12. i only eat organic food .
+   (ID: conversation_210)
+
+13. my favorite music artist is isaiah rashad .
+   (ID: conversation_289)
+
+14. i enjoy doing beadwork and writing my own patterns .
+   (ID: conversation_167)
+
+15. i work at a bookstore .
+   (ID: conversation_90)
+
+16. i traveled around the world in a boat .
+   (ID: conversation_60)
+
+17. i am allergic to nuts .
+   (ID: conversation_347)
+
+18. we own our home .
+   (ID: conversation_68)
+
+19. i post on reddit often .
+   (ID: conversation_311)
+
+20. my mother is a teacher .
+   (ID: conversation_135)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3112
+
+1. I love my job.
+   (ID: conversation_216_user_1)
+
+2. I sometimes write poetry.
+   (ID: conversation_201_user_2)
+
+3. My favorite food is pizza.
+   (ID: conversation_156_user_1)
+
+4. Summer is my favorite season.
+   (ID: conversation_263_user_1)
+
+5. My favorite food is steak.
+   (ID: conversation_123_user_1)
+
+6. Pizza is my favorite.
+   (ID: conversation_203_user_2)
+
+7. I work at a retail store.
+   (ID: conversation_45_user_1)
+
+8. I m always hungry.
+   (ID: conversation_318_user_1)
+
+9. I donate old clothes to the homeless.
+   (ID: conversation_82_user_1)
+
+10. I teach 5th grade students near oakville , ny.
+   (ID: conversation_207_user_2)
+
+11. I like to garden.
+   (ID: conversation_73_user_1)
+
+12. I am currently single but i am ready to mingle.
+   (ID: conversation_147_user_1)
+
+13. I enjoy playing recreational games like cards , darts or billiards.
+   (ID: conversation_311_user_2)
+
+14. I like cooking healthy meals.
+   (ID: conversation_258_user_1)
+
+15. I love to do yoga.
+   (ID: conversation_98_user_1)
+
+16. I work two jobs as a cashier.
+   (ID: conversation_277_user_2)
+
+17. People say i can cook well.
+   (ID: conversation_89_user_2)
+
+18. My father is a mechanic.
+   (ID: conversation_49_user_1)
+
+19. I drive a fast car.
+   (ID: conversation_185_user_2)
+
+20. Superman s my favorite super hero.
+   (ID: conversation_283_user_1)
+
+
+============================================================

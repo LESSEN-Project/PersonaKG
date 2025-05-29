@@ -1,0 +1,222 @@
+CLUSTER 56
+============================================================
+Total statements in cluster: 453
+
+Dataset distribution in this cluster:
+  FoCus: 9 (2.0%)
+  MSC: 5 (1.1%)
+  PEC: 23 (5.1%)
+  PER-CHAT: 410 (90.5%)
+  PersonaChat: 2 (0.4%)
+  SyntheticPersonaChat: 4 (0.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 9
+
+1. I live in England.
+   (ID: SRO8K4E2N5N5_7)
+
+2. I live in England.
+   (ID: POTYY4E7PSQF_11)
+
+3. I live in Canada.
+   (ID: INVNLHZVN3VM_9)
+
+4. I live in India.
+   (ID: ASEVTIZW4Z03_11)
+
+5. I live in the United States.
+   (ID: 82ZP2M9AL6U0_11)
+
+6. I live in London.
+   (ID: DSK4ZP7S862W_11)
+
+7. I live in france.
+   (ID: EGOP94LCW2PF_11)
+
+8. I live in England.
+   (ID: AOQJE7BBYFVM_11)
+
+9. I am living in Cambusbarron.
+   (ID: X4XPZG2COY57_11)
+
+
+--- MSC ---
+Total from this dataset: 5
+
+1. I live in west coast.
+   (ID: dialog_170_speaker_1)
+
+2. I live on the west coast.
+   (ID: dialog_92_speaker_1)
+
+3. I live on the East Coast of the US.
+   (ID: dialog_50_speaker_1)
+
+4. I live on the east coast.
+   (ID: dialog_76_speaker_1)
+
+5. I'm form out of country.
+   (ID: dialog_22_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 23
+
+1. i 'm in ireland
+   (ID: Nimmyzed)
+
+2. i 'm in south east asia .
+   (ID: kailan123456)
+
+3. i am in canada .
+   (ID: travelingkiwi)
+
+4. i 'm in oregon , usa .
+   (ID: redraindropped)
+
+5. i ’m in the us :(
+   (ID: themarajade1)
+
+6. i live in aus .
+   (ID: DarkMoon99)
+
+7. i 'm in canada .
+   (ID: kailan123456)
+
+8. i live in berlin and my google now shows berlin .
+   (ID: thed0ctah)
+
+9. i ’m in the united states , by the way .
+   (ID: Dustin_Bromain)
+
+10. i 'm in canada .
+   (ID: JayDub30)
+
+11. i am not in europe
+   (ID: Aloha-Potato)
+
+12. i live in germany and my s8 + has bixby .
+   (ID: thed0ctah)
+
+13. i check ipleak and it says uk , but still wo n’t play bbc :/
+   (ID: alicepalmbeach)
+
+14. i 'm in japan now .
+   (ID: StinkinFinger)
+
+15. i 'm in canada if that makes a difference .
+   (ID: foldor)
+
+16. i 'm in the netherlands on gigabit fiber .
+   (ID: BorgDrone)
+
+17. i 'm in canada btw .
+   (ID: foldor)
+
+18. i live in the uk .
+   (ID: garlicbreadismyboyf)
+
+19. i guess it must depend on where you are based - i 'm in sydney , aus .
+   (ID: DarkMoon99)
+
+20. i live in europe .
+   (ID: BorgDrone)
+
+
+--- PER-CHAT ---
+Total from this dataset: 410
+
+1. I live in netherlands.
+   (ID: 0092767d04168a05a983237480637793d5458cba)
+
+2. I live in united kingdom.
+   (ID: 8f22657eff8a2d9aeade346926843c63f2a21e0a)
+
+3. I live in australia.
+   (ID: 10f3c4c68efa9cd11f34f4a88f492c7d7e693418)
+
+4. I live in australia.
+   (ID: 20d121bd3db06d7ffbef86a797a2a70ee0e9417e)
+
+5. I live in hong kong.
+   (ID: eee9dc5129787c4d2a8fda055f09565efcf9322a)
+
+6. I live in germany.
+   (ID: 268efb139763eba39bf6c3c85d53f9e70824c23b)
+
+7. I live in australia.
+   (ID: f270f54ee5a501d23ceae23084513e682d0cfd32)
+
+8. I am aest timezone.
+   (ID: 06080b0d1273cc2321b21dde5865b5c1c5180e56)
+
+9. I live in czechia.
+   (ID: 0c68cfdaec11ee0673f6c5aec23193d412bf30ba)
+
+10. I live in germany.
+   (ID: 02e801249875692d61023bbfbc79d7ff34c9eddf)
+
+11. I live in india.
+   (ID: 7fcc718a0deaa03007701b64ad8fab54212a326a)
+
+12. I live in united kingdom.
+   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+
+13. I live in fuckg germany.
+   (ID: 02373263cff49259e87b0a96214a8ea7f4fbfc93)
+
+14. I live in norway.
+   (ID: 1306973da0fba9f8c4b839b9163f3f01aacfe98a)
+
+15. I live in india.
+   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+
+16. I live in brazil.
+   (ID: ad95cb68c3ea444630fedc23f3d4596fafc60464)
+
+17. I live in hong kong.
+   (ID: 89bda4e1242c8f5567558138509db8b02cf94cd6)
+
+18. I live in australia.
+   (ID: 920ba0628cbea5588ecca4c8ba7f80b411ff70ef)
+
+19. I live in uk rules.
+   (ID: 101eeb53846c81b36d32c33e2b4260cb3e4ac576)
+
+20. I live in scotland.
+   (ID: 4b73794fb9ff909d5c5d47996cbeccc6fe92ae93)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i live in the usa .
+   (ID: conversation_426)
+
+2. i live in the usa .
+   (ID: conversation_23)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I live in america in the state of florida.
+   (ID: conversation_467_user_1)
+
+2. I live in america in the state of florida.
+   (ID: conversation_468_user_1)
+
+3. I live in america in the state of florida.
+   (ID: conversation_474_user_2)
+
+4. I live in america in the state of florida.
+   (ID: conversation_469_user_1)
+
+
+============================================================

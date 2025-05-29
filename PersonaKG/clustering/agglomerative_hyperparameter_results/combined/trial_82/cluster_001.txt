@@ -1,0 +1,216 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 603
+
+Dataset distribution in this cluster:
+  FoCus: 3 (0.5%)
+  MSC: 11 (1.8%)
+  PEC: 10 (1.7%)
+  PER-CHAT: 565 (93.7%)
+  PersonaChat: 6 (1.0%)
+  SyntheticPersonaChat: 8 (1.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 3
+
+1. I have interest in the Rothschild family.
+   (ID: JBP0INT1W707_11)
+
+2. My family lives in Warsaw.
+   (ID: C64P8U3HDDHY_9)
+
+3. My family is from Wales.
+   (ID: LJYX36WCRYDM_9)
+
+
+--- MSC ---
+Total from this dataset: 11
+
+1. I am one of two boys in my family.
+   (ID: dialog_57_speaker_2)
+
+2. My family is in the military.
+   (ID: dialog_16_speaker_1)
+
+3. I do not like my family.
+   (ID: dialog_2_speaker_1)
+
+4. I'm part of a modern family.
+   (ID: dialog_37_speaker_2)
+
+5. I have been looking for a more interesting job. My family is annoying me. I want to get away from family during the day.
+   (ID: dialog_2_speaker_1)
+
+6. I come from a large family.
+   (ID: dialog_4_speaker_1)
+
+7. I am very close to my adopted family.
+   (ID: dialog_68_speaker_1)
+
+8. I've a family.
+   (ID: dialog_44_speaker_2)
+
+9. I have a large family with babies.
+   (ID: dialog_76_speaker_1)
+
+10. I'm a teen that lives with all my family.
+   (ID: dialog_67_speaker_1)
+
+11. I like to cook for my family.
+   (ID: dialog_88_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 10
+
+1. i 'm not jewish , but it is a family name .
+   (ID: Mahatma_Panda)
+
+2. i 'm holding a very special family reunion that i 'd like to be documented .
+   (ID: Evref)
+
+3. i ’m not crazy about associates in family med , so was considering .
+   (ID: Justadropinthesea)
+
+4. i am thinking of you and your family , csnarf .
+   (ID: parkleswife)
+
+5. i guess we were an oreo family .
+   (ID: vikkivinegar)
+
+6. i have the same worry and family history .
+   (ID: glowinthedark)
+
+7. i like it cause no one else in my family does , so they do n’t eat my candy !
+   (ID: onederful2018)
+
+8. i do n't want to be a part of the family anymore .
+   (ID: Lifes6Midnight)
+
+9. i know this family .
+   (ID: BlueSuedeBag)
+
+10. i 'm straight but my entire family is like your parents .
+   (ID: SamuelStephenBono)
+
+
+--- PER-CHAT ---
+Total from this dataset: 565
+
+1. I have a brother in my family.
+   (ID: 870d9d198f856764296262192823c935f1daf781)
+
+2. I have a father in my family.
+   (ID: 2e2a44cdfc726423ec202a2fe420543af441d1ad)
+
+3. I have a son in my family.
+   (ID: b779c0f28aaed5c7cbc5476e91a7eb397a6933bb)
+
+4. I have a brother in my family.
+   (ID: 465a8b7c9604514a10670d3813f18485575cfa5c)
+
+5. I have a sister in my family.
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+6. I have a daughter in my family.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+7. I have a brother in my family.
+   (ID: 7d84a169d4ddae2aee36640f218ff2b5b534792d)
+
+8. I have a sister in my family.
+   (ID: 3e1762624e55cdfb0929da3e1a1c438675e0c217)
+
+9. I have a sons in my family.
+   (ID: c1af2a10f968ba6f52d825dbf8fc9b8210db72ba)
+
+10. I have a son in my family.
+   (ID: 65e18a8843fe1a6d644e4fe6a3b227426a6b9103)
+
+11. I have a son in my family.
+   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
+
+12. I have a father in my family.
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+13. I have a brother in my family.
+   (ID: b650c9c531ec58d468c7c1fc9b7083efc4cbca9c)
+
+14. I have a father in my family.
+   (ID: de5db66359e6314e9bac24fd9a10ec1d49584c4f)
+
+15. I have a father in my family.
+   (ID: ee6fdc3d42cb3e2a3321054cfa11a7a337437f94)
+
+16. I have a father in my family.
+   (ID: b29114e3d39ee1086f5eb2abbe6cbec33bc7749f)
+
+17. I have a father in my family.
+   (ID: 05dea10a374f0f09c767062f0a3d0b51b6d20b9d)
+
+18. I have a brothers in my family.
+   (ID: 6735159236fd8a4634f1974d6eba7f027dbd1aa7)
+
+19. I have a brother in my family.
+   (ID: f72a72c8ffe94061edd962dd3f8293ca75595021)
+
+20. I have a daughter in my family.
+   (ID: 841a375b464a5650f1c027d1c7ae73415228c6ab)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. my family migrated to america when i was five .
+   (ID: conversation_22)
+
+2. we help each other out in my family .
+   (ID: conversation_229)
+
+3. i am the youngest sibling in my family .
+   (ID: conversation_193)
+
+4. my family is very important to me .
+   (ID: conversation_189)
+
+5. i have trouble getting along with family .
+   (ID: conversation_247)
+
+6. i'm all about family and fun .
+   (ID: conversation_110)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. I ve a big family.
+   (ID: conversation_150_user_1)
+
+2. I have a big family.
+   (ID: conversation_151_user_1)
+
+3. I am a family man.
+   (ID: conversation_23_user_2)
+
+4. I have the support of my whole family.
+   (ID: conversation_143_user_2)
+
+5. My family is very important to me.
+   (ID: conversation_47_user_2)
+
+6. My family hates my fiancé.
+   (ID: conversation_179_user_2)
+
+7. I ve a big family.
+   (ID: conversation_152_user_1)
+
+8. My family means the world to me.
+   (ID: conversation_24_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 43115
+
+Dataset distribution in this cluster:
+  FoCus: 820 (1.9%)
+  MPChat: 3407 (7.9%)
+  MSC: 2020 (4.7%)
+  PEC: 19618 (45.5%)
+  PER-CHAT: 13672 (31.7%)
+  PersonaChat: 1203 (2.8%)
+  SyntheticPersonaChat: 2375 (5.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 820
+
+1. I wish I could live near a lake.
+   (ID: KVV5IPK54RRU_11)
+
+2. I hope to visit New York.
+   (ID: LYKL0NXYUSDG_11)
+
+3. I have never been to any amusement park outside of England.
+   (ID: PFYAAS1XG3D8_11)
+
+4. I would like to know about name.
+   (ID: BPCV4KG0PEMD_7)
+
+5. I wish to go to El Paso.
+   (ID: Z8RPC24EURS4_7)
+
+6. I have a trip to Olympia booked.
+   (ID: YRJ6RB6JCWMA_11)
+
+7. I adore temples.
+   (ID: XM5C3KLAWDZP_9)
+
+8. I wish to be close to villages.
+   (ID: XVCYQ74XC28W_11)
+
+9. I did not get to visit the Singapore Art Museum.
+   (ID: DRM1SE0OKXLR_9)
+
+10. I wish to visit Ukraine.
+   (ID: L2FEEPD1V8BQ_11)
+
+11. I find Freemasonry really interesting.
+   (ID: UHZ1K434LZ46_11)
+
+12. I love going to bridges.
+   (ID: NETYMHGQTGLI_9)
+
+13. I am curious about isolated places.
+   (ID: Y037WWL4AZRY_11)
+
+14. I live in New Jersey.
+   (ID: HK4CNKBL5R5V_11)
+
+15. I want to go to the Bay of Bengal.
+   (ID: QK9TQHXYFFJ9_11)
+
+16. I have a brother who is passionate about birds and ornithology.
+   (ID: A06HPOO7OWPE_11)
+
+17. I want to visit Hawai.
+   (ID: Y037WWL4AZRY_11)
+
+18. I wish I could see a deep mine.
+   (ID: V83LRI44QW1S_11)
+
+19. I am curious about Mars.
+   (ID: 942CCWXHPUZT_11)
+
+20. I have been to Brisbane.
+   (ID: WPN43Y3S2N4D_11)
+
+
+--- MPChat ---
+Total from this dataset: 3407
+
+1. i took a modeling chocolate class this weekend.
+   (ID: chakita86)
+
+2. i think i did ok :)
+   (ID: ddizzle23)
+
+3. i got 3 more of those great crochet hooks, she even included a stitch marker.
+   (ID: somuchyarn10)
+
+4. [i ate] baked cheesecake with bailey's chocolate ball inside and topped with chocolate ganache and berries
+   (ID: NomNumNyum)
+
+5. a handbag cake i made, featuring its inspiration
+   (ID: LittleBitOdd)
+
+6. my one and only finished object for this week is comfort bear no.
+   (ID: Moriarty58)
+
+7. i have been practicing all day trying to roll this beast!
+   (ID: pope237)
+
+8. i had to work christmas day so i made my coworkers a dessert bar.
+   (ID: Soliloquy119)
+
+9. what do i do??
+   (ID: baccgirl)
+
+10. i loved this trip.
+   (ID: Foolz_Go1d)
+
+11. i embroidered a white hardanger tablecloth.
+   (ID: gelimausi)
+
+12. my thanksgiving apple pie.
+   (ID: DeanIsHotter)
+
+13. i made mini cookies (quarter size) for my sons advent calendar.
+   (ID: amandabakes)
+
+14. [i made] a frozen birthday cake for a friends daughter.
+   (ID: amandabakes)
+
+15. i made this danish butter cookies for my boyfriend
+   (ID: justcook_byangel)
+
+16. baby backs over mesquite, i fell asleep and thought i burned them.
+   (ID: billwhiz)
+
+17. jotunheimen mountain range in norway at sunset, my campspot was just about 200 meters away from this spot!
+   (ID: ChristophZee)
+
+18. a (slightly clueless) friend just asked me if i can make it.
+   (ID: mle12189)
+
+19. birthday cake for a friend i've been doing cakes for years now but this is my first unicorn cake
+   (ID: ellielumos)
+
+20. in response to the other person who had a 69kcal deficit the other day... i'm with ya.
+   (ID: skorletun)
+
+
+--- MSC ---
+Total from this dataset: 2020
+
+1. I love to cook. I like dinner parties. I like organic fruits and vegtables. I like Espresso. I can make French and German food.
+   (ID: dialog_119_speaker_2)
+
+2. Colored breakfast foods are not my favorite.
+   (ID: dialog_107_speaker_2)
+
+3. I work in a hospital.
+   (ID: dialog_16_speaker_1)
+
+4. I play for the Minnesota wolves. I practice sports 3 times a week. I workout every day.
+   (ID: dialog_120_speaker_1)
+
+5. Sometimes I can be quite lazy.
+   (ID: dialog_120_speaker_2)
+
+6. I have a horse named Beauty. I ride horses. I have a farm.
+   (ID: dialog_40_speaker_2)
+
+7. My sibling enjoys music and going to different places.
+   (ID: dialog_22_speaker_2)
+
+8. I enjoy being fake.
+   (ID: dialog_50_speaker_1)
+
+9. Technology and programming will train me for my future career.
+   (ID: dialog_81_speaker_1)
+
+10. My dream is to compete professionally or qualify for an event one day.
+   (ID: dialog_15_speaker_1)
+
+11. I want to get back into graphic design, but I do not have the time.
+   (ID: dialog_33_speaker_2)
+
+12. Big plates of with h20 make my existence possible.
+   (ID: dialog_106_speaker_1)
+
+13. My home town is Celebration, Florida.
+   (ID: dialog_76_speaker_1)
+
+14. I think NWA and Biggie Smalls are good hip hop artists. I prefer hard rock bands from the 70's. 80's and 90';s.
+   (ID: dialog_42_speaker_1)
+
+15. I like caffeinated beverages.
+   (ID: dialog_105_speaker_1)
+
+16. I enjoy a good book.
+   (ID: dialog_78_speaker_2)
+
+17. I have a bachelors degree in psychology.
+   (ID: dialog_109_speaker_1)
+
+18. I like A wrinkle in time book.
+   (ID: dialog_90_speaker_1)
+
+19. I am fairly good with English and grammar skills in general. I have a very good recipe for corn and bean salad.
+   (ID: dialog_86_speaker_1)
+
+20. I'm a retired veteran.
+   (ID: dialog_89_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 19618
+
+1. i would argue for t_d .
+   (ID: Sugarpeas)
+
+2. i wish you the best of luck as you forge forward into the future !
+   (ID: ListenandLove100)
+
+3. i would assist anyway i can .... the legs are gorgeous ...
+   (ID: dawgreddit2014)
+
+4. i 'll be eating them from now on , too !
+   (ID: Sabiola)
+
+5. i remember the .
+   (ID: wooq)
+
+6. i guess you could say the japanese ..... .... got screwed .
+   (ID: Machinax)
+
+7. i need to get this nailed down in a week or so ..
+   (ID: JacredCat)
+
+8. i would love to recreate this but my undereyes are so dark it would make me look dead .
+   (ID: beautifulw0man)
+
+9. i can not remember your faces .
+   (ID: gigatroness)
+
+10. i do everything right with my fish .
+   (ID: FruitBatFanatic)
+
+11. i see from the wikipedia article that it can be invasive in certain areas .
+   (ID: LooksAtClouds)
+
+12. i work at an office and people at my office do this .
+   (ID: hussy_trash)
+
+13. i do n't even notice you when you are here . "
+   (ID: msiekkinen)
+
+14. i tip my hat to you .
+   (ID: Piraticalstyle)
+
+15. i monster.com commercial could change my ... uh ... oh .
+   (ID: middlegeek)
+
+16. i kill one .
+   (ID: Kialand)
+
+17. i am sincerely sorry you went through this .
+   (ID: AP7497)
+
+18. i do n't know if you can legally adopt a 27 year old .... edit : i stand corrected .
+   (ID: mulletprooftiger)
+
+19. i can do it for ya .
+   (ID: jay456)
+
+20. i ca nt wait for summer to be over so i can wear them again .
+   (ID: bleepblorp9878)
+
+
+--- PER-CHAT ---
+Total from this dataset: 13672
+
+1. considering not a bad idea dude . i have a 1080p pen display . i could put some consideration into what you said . thanks !
+   (ID: d298609ba6b9516031b9d0b9bc9217d85ce28f05)
+
+2. plan . make sure you have enough money . be willing to take time off . be ready to not get much sleep .
+   (ID: 718ff22055f41bd70e24ec98f0898a1526112965)
+
+3. its nice to here all those things . i could give you one advice for creating memes dough . have you heard of meme generator before ? its a mobile app for free with all sorts of meme templates and lots of customizability . the great thing is if you are not home you still can make a meme on the go ! that is atleast what i always do and i can ' t recommend it enough . still thanks for all the support dough , it has been kinda hard making memes lately because i have a sorta writers block . you may have noticed that i upload daily which i dont recommend . so its always nice to hear nice things like that
+   (ID: d650356549ff32c6bfb797b13c80b5a0d715da36)
+
+4. honestly , asmr is a go to for me . when real life invades , this stuff can take you away to dream land . if you you need to destress this is the medicine .
+   (ID: 96ea4e7f6c3452a58ef71fc7276006fdbf2ccb01)
+
+5. well , you did what you had to do .
+   (ID: f031a6829326f9097d63f90ad77c7cac6d8319bb)
+
+6. I am nice person.
+   (ID: e7189ea885d9f7e9cdbd71ff2f2035f07ebaf6db)
+
+7. i freakin hate u urmumgiiy . i hate you , and dont u cry because it ' s too . digit year old me started traring up . i hated that feminist bitch
+   (ID: b62d2865206257ab4ea65a5e489f9d4e1c8d5e9b)
+
+8. im doing this on citra so it might be different , but what ' s luma ?
+   (ID: 8a4ed3ff6aeac985870de52972da8599efd48ae2)
+
+9. it ' s easier to compare notes on four sheets of paper than to flip between digit ' pages ' on a screen .
+   (ID: 6aca29520994a85891e32b7ad6030791dfa1cbe2)
+
+10. I own a knight move.
+   (ID: fdf9c56e21cf61fb3b2852da66f6506ce908651c)
+
+11. yeah that ' s even worse than what i thought
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+12. not all parents do this . i have two kids and when anyone asked i would just tell them in years . " he ' s digit . she ' s digit etc " truth is , most people couldn ' t really give a shit about your kid ' s age down to the exact month . the nearest year is good enough in daily conversation .
+   (ID: d02dbb1cf70aa95df2b9f1bbd0a0c5bf0a966933)
+
+13. what  s so shameful about a 750li that you have to go and gay it up ?
+   (ID: 841a375b464a5650f1c027d1c7ae73415228c6ab)
+
+14. I own a forehead.
+   (ID: 1e92f1e007a1c147f8200d50f473d5433028bffc)
+
+15. we did , we were basically brothers . it is so strange because its been digit months and now i feel as if he never really existed . i have all these memories , but i just can ' t describe how it feels . when i see pictures , it is almost as if he only existed in those pictures and not in real life . i know that sounds like i didn ' t care about him , but his death took a piece of me . it is just a weird feeling .
+   (ID: c374848a7cde05ee9d6d14f7ab991b3b11f71a87)
+
+16. digit happy cake day digit gaining weight
+   (ID: 82bb111e2180a2ffb997b74ab504aa538034feab)
+
+17. I own a answer.
+   (ID: 76442d997e7f64c10223aeac0f4ff8af70ff9dde)
+
+18. i was just going to say , that design must have looked so futuristic at the time . americans saw the war ending , and then saw these leaps in technology and design . i ' m sure they thought that by the year digit we ' d all be living proper george jetson style .
+   (ID: e036cce09e42b447bacae037ef33243f155fd2bf)
+
+19. i just don ' t understand why anyone would want that instead of physical keys
+   (ID: 0d327ae57c80ece5fa0f8a4a3e4ff8e9380af192)
+
+20. once people on reddit can tell that you are a shill you know you hit rock bottom .
+   (ID: 53aa6c267ff5eccf891e178786d41ca5df80a5de)
+
+
+--- PersonaChat ---
+Total from this dataset: 1203
+
+1. i like jogging in my spare time .
+   (ID: conversation_77)
+
+2. i'm young .
+   (ID: conversation_96)
+
+3. i cannot hold down a job for very long .
+   (ID: conversation_197)
+
+4. my mother is a dentist .
+   (ID: conversation_161)
+
+5. i believe that mermaids are real .
+   (ID: conversation_284)
+
+6. i work at a museum .
+   (ID: conversation_32)
+
+7. my mom taught me how to play the cello .
+   (ID: conversation_283)
+
+8. my youngest sister is in first grade .
+   (ID: conversation_293)
+
+9. i'm a night owl .
+   (ID: conversation_271)
+
+10. i am rich beyond my dreams .
+   (ID: conversation_208)
+
+11. i m allergic to cats .
+   (ID: conversation_300)
+
+12. i dream of playing music for a living .
+   (ID: conversation_328)
+
+13. i have brown hair .
+   (ID: conversation_72)
+
+14. i'm getting married in six months .
+   (ID: conversation_286)
+
+15. i m allergic to milk .
+   (ID: conversation_94)
+
+16. welding is my career field .
+   (ID: conversation_4)
+
+17. i'm only 5 foot tall .
+   (ID: conversation_274)
+
+18. my favorite color is orange .
+   (ID: conversation_151)
+
+19. i just moved into an apartment within the vicinity of my new job .
+   (ID: conversation_216)
+
+20. i am gay .
+   (ID: conversation_234)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2375
+
+1. I have a beard.
+   (ID: conversation_63_user_2)
+
+2. I am a dog walker.
+   (ID: conversation_152_user_2)
+
+3. I wear glasses all day.
+   (ID: conversation_170_user_1)
+
+4. I have a black lab.
+   (ID: conversation_253_user_1)
+
+5. My favorite band is imagine dragons.
+   (ID: conversation_200_user_2)
+
+6. I drive a black car.
+   (ID: conversation_123_user_1)
+
+7. I lease my car.
+   (ID: conversation_6_user_1)
+
+8. My favorite color is blue.
+   (ID: conversation_321_user_2)
+
+9. I have a girlfriend named luis , and she goes to my college.
+   (ID: conversation_78_user_2)
+
+10. I hate red meat.
+   (ID: conversation_288_user_2)
+
+11. My favorite color is red orange.
+   (ID: conversation_54_user_2)
+
+12. My brothers work with me.
+   (ID: conversation_47_user_2)
+
+13. My husband is a corporate attorney.
+   (ID: conversation_256_user_2)
+
+14. I enjoy magic the gathering , it is a card game.
+   (ID: conversation_46_user_2)
+
+15. I enjoy nature.
+   (ID: conversation_94_user_1)
+
+16. I am single.
+   (ID: conversation_138_user_1)
+
+17. Formal situations make me uncomfortable.
+   (ID: conversation_298_user_1)
+
+18. I want to live at the beach.
+   (ID: conversation_305_user_1)
+
+19. I am married.
+   (ID: conversation_242_user_1)
+
+20. I am a happy person.
+   (ID: conversation_37_user_2)
+
+
+============================================================

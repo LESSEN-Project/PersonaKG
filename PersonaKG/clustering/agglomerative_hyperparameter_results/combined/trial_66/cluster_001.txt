@@ -1,0 +1,467 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 10525
+
+Dataset distribution in this cluster:
+  FoCus: 47 (0.4%)
+  MPChat: 271 (2.6%)
+  MSC: 206 (2.0%)
+  PEC: 5100 (48.5%)
+  PER-CHAT: 4494 (42.7%)
+  PersonaChat: 156 (1.5%)
+  SyntheticPersonaChat: 251 (2.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 47
+
+1. I hate marching band.
+   (ID: FGIEUW9ABAQU_11)
+
+2. I am willing to follow Eric Ford.
+   (ID: N14O6VGOOR7E_11)
+
+3. I don't like WaterNSW.
+   (ID: KHRYE9OFUIMW_9)
+
+4. I wish I knew Russian.
+   (ID: CBOI96AOZRK6_11)
+
+5. I don't like to intersection road.
+   (ID: UDGAGMKQ9TQ1_11)
+
+6. I don't like golf.
+   (ID: CXUYRK4MA1NB_11)
+
+7. I don't like fat people.
+   (ID: D4619DV1O1OP_11)
+
+8. I don't enjoy rollercoaster rides.
+   (ID: PFYAAS1XG3D8_11)
+
+9. I don't like casinos.
+   (ID: 9KDV6LSLWNAX_11)
+
+10. I have studied at Utah State University.
+   (ID: EFTS0UG7NK5K_9)
+
+11. I hate having to stop to pay a road toll.
+   (ID: MJ8L7IHV13N8_11)
+
+12. I don't like forest.
+   (ID: T815O8KC30IG_9)
+
+13. I wish I could listen to organ music.
+   (ID: 81HQ6CXFBQYH_11)
+
+14. I don't like Walpole.
+   (ID: 8C87PLCFQ0ZH_11)
+
+15. I don't like hijacking.
+   (ID: F91BK688K9G1_11)
+
+16. I don't like Earthquakes.
+   (ID: WYFFBVR6YR06_11)
+
+17. I am not a fan of church.
+   (ID: OKU8UQBPUSMV_11)
+
+18. I don't like waterways.
+   (ID: DMD9S9COJOIA_7)
+
+19. I dislike Russia.
+   (ID: EZGYRI0YA8OX_9)
+
+20. I am not that huge when it comes to environment issues.
+   (ID: JW0BLP5O75BW_11)
+
+
+--- MPChat ---
+Total from this dataset: 271
+
+1. listening to june bugs hit the bug zapper while i wait for my charcoal to be ready.
+   (ID: billwhiz)
+
+2. i wanted to share this for those who feel inadequate seeing the perfection you often get here.
+   (ID: ThePurpleBaker)
+
+3. alright, what did i do wrong this time?
+   (ID: kimbowee)
+
+4. in response to the other person who had a 69kcal deficit the other day... i'm with ya.
+   (ID: skorletun)
+
+5. i got two fortune cookies instead of one!
+   (ID: Tweenkie38)
+
+6. i was so excited from how this pour was going that i shook and ruined the last heart
+   (ID: jlb4est)
+
+7. always told i have nice handwriting; here's a sample.
+   (ID: chirp16)
+
+8. "attention: i need attention"
+   (ID: kentobean123)
+
+9. i'm going loopy
+   (ID: Lady_FriendOfSpiders)
+
+10. my wife insisted on a clip.
+   (ID: mattsulli)
+
+11. hey, i was a novice then!
+   (ID: DeanIsHotter)
+
+12. i hear the pitter patter of a reindeer on the roof!
+   (ID: FoxInKneeSocks)
+
+13. don't take my stick!
+   (ID: DeanIsHotter)
+
+14. haha i did it!
+   (ID: Nutellism)
+
+15. i mended my own dr martens boots when no one else would.
+   (ID: skorletun)
+
+16. you guys have uranium glass, i have melted glass
+   (ID: zenbuffy)
+
+17. you were delicious and your bottle has a spot on my mantle.
+   (ID: crunch816)
+
+18. i ate my dream at yume wo katare!
+   (ID: RaeADropOfGoldenSun)
+
+19. guys i did a clean heart finally!
+   (ID: Nutellism)
+
+20. getting closer to where i want to be...
+   (ID: ext23)
+
+
+--- MSC ---
+Total from this dataset: 206
+
+1. I'm enrolled in a exclusive education system.
+   (ID: dialog_87_speaker_2)
+
+2. I am very talkative which can get me in trouble.
+   (ID: dialog_72_speaker_1)
+
+3. People call me weird names.
+   (ID: dialog_91_speaker_1)
+
+4. I don't like going out very much.
+   (ID: dialog_43_speaker_2)
+
+5. I am spending my life with my favorite person.
+   (ID: dialog_34_speaker_2)
+
+6. I do not think I could have romantic feelings for a person smaller than myself.
+   (ID: dialog_85_speaker_2)
+
+7. I am exhausted by work everyday.
+   (ID: dialog_44_speaker_2)
+
+8. I was Maid of Honor at my best friend's wedding.
+   (ID: dialog_77_speaker_1)
+
+9. I am guilty alot of times.
+   (ID: dialog_92_speaker_1)
+
+10. I wasn't on the cover of wired.
+   (ID: dialog_50_speaker_2)
+
+11. I'm very sensitive.
+   (ID: dialog_73_speaker_1)
+
+12. I have tons of relatives.
+   (ID: dialog_78_speaker_1)
+
+13. I am 6 ft. My girlfriend is 6'2.
+   (ID: dialog_85_speaker_2)
+
+14. I've been feeling depressed.
+   (ID: dialog_64_speaker_1)
+
+15. I hope I get to go skydiving while I still can.
+   (ID: dialog_50_speaker_2)
+
+16. I like to test my voice while I clean off.
+   (ID: dialog_51_speaker_1)
+
+17. I stay asleep all night.
+   (ID: dialog_62_speaker_1)
+
+18. My brothers wife has tanked.
+   (ID: dialog_18_speaker_1)
+
+19. I ride the waves every chance I get.
+   (ID: dialog_16_speaker_1)
+
+20. I tend to be cold hearted when it comes to affection.
+   (ID: dialog_68_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 5100
+
+1. i 'm curious if you know of people who supported chavez , and now realize that they fucked up .
+   (ID: BlueSuedeBag)
+
+2. i am so exhausted .
+   (ID: Lifes6Midnight)
+
+3. i wish i had friends like you lmao , this was great
+   (ID: techdude21)
+
+4. i have less time for other things now
+   (ID: Captain_-H)
+
+5. i 'm proud of you , stay positive my dear !
+   (ID: Noimnotsally)
+
+6. i think that people who call that " therapy " are not only ignorant , but spiteful .
+   (ID: MILeft)
+
+7. i know that feeling all too well !
+   (ID: Kialand)
+
+8. i meant that we ate babies .
+   (ID: bluesatin)
+
+9. i see power stone !
+   (ID: JohnnyPappis)
+
+10. i ’m in awe .
+   (ID: Atlmama)
+
+11. i saw someone doing this is a hospital once .... a damn hospital
+   (ID: bennystache)
+
+12. i tip my hat to you sir .
+   (ID: dohko_xar)
+
+13. i lol'd so hard .
+   (ID: Lsmoothies)
+
+14. i sympathize with you .
+   (ID: kirbrcd1)
+
+15. i did fast him first few days , did nothing .
+   (ID: kailan123456)
+
+16. i feel so comfortable in this subreddit to say whatever i want :)
+   (ID: clueless3867)
+
+17. i have been feeling really really down lately .
+   (ID: bennystache)
+
+18. i 'm sorry girl !
+   (ID: bennystache)
+
+19. i think it 's best you keep posting .. � �
+   (ID: ChoppingOnionsForYou)
+
+20. i did and go white knight somewhere else .
+   (ID: aydinsevimli)
+
+
+--- PER-CHAT ---
+Total from this dataset: 4494
+
+1. what is something you  ve done that you would never tell anyone ? anything along the line of that i hate , i see it often enough and usually see the same responses
+   (ID: 89a759866debf6704efa0f603c1b9c4476abd731)
+
+2. on your third date , hump him awkwardly at a phish show . it ' s the only way .   x200b  raves are a special thing . i wouldn ' t bring someone around who made me feel awkward a third time . and there ' s nothing wrong with keeping looking for someone who has long term potential or at the very least is more compatible now !
+   (ID: eace5bb8fae91afe15af3966cf6b9189772fe2cc)
+
+3. you will be different to me . typically if you still can cry its good , its a way of getting shit out and dealing with it . for me it got really bad when i couldnt anymore , felt like a black hole spawned in my chest . if you think you might have a problem see a psych , digit or digit sessions should give both you and them enough info to work out if you just need to chill a bit or if you need helpnworking through things . remember that it could also be somthing you dont even see now thats impacting you . it was the greatest decision of my life and i highly reccomend it . a good way to start would be to say how you feel , someone reccomended therapy and you thought it might help . they ' ll point the conversation the right way after that .
+   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
+
+4. thanks for telling about binaural noises it did really help for the first time in weeks i was able to sleep peacefully .
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+5. it ' s not ok , and yet men being violent to women because they do things like ask to be spoken to respectfully or decline to have sexual intercourse with a man is so common that pretty much every woman can tell you about a time it happened to her , it ' s often dismissed with " boys will be boys " or " she was asking for it . violence isn ' t ok , but when women are violent to men , it ' s usually to protect themselves and when men are violent to women it ' s so often because men have been taught that they aren ' t supposed to control themselves . like i said , every time i ' ve seen a girl kick a guy in the nuts , the guy was being a shit . meanwhile , every time i ' ve seen a guy physically assault a girl , it was because the guy was a violent asshole who didn ' t like being told " no " so , until we come to a time when every single man has a story about being kicked in the nuts by a girl for no reason while very few women are every assaulted , it ' s a meaningless equivalency . guys being kicked in the nuts for no good reason simply isn ' t the epidemic that girls getting assault for no good reason is . if you ' re getting kicked in the nuts that often , you should consider that either you ' re behavior is awful or your friends are , and make changes accordingly .
+   (ID: 54097549786e78808b0d9772bb36b401b5761588)
+
+6. i mean hey , different people , different opinions . i ' m not taking that away from you . i don ' t wanna force my opinions and ideas down on people that do not show signs of wanting to .
+   (ID: 0c68cfdaec11ee0673f6c5aec23193d412bf30ba)
+
+7. same at the other movies with superheroes , nothing against it , just not my thing
+   (ID: 750329d9f0f06f064c23bff94a5536b6068811e8)
+
+8. late to the party , but i always feel i set myself up for failure from easily fixable issues like lack of effort because i don ' t want someone like myself to be successful .
+   (ID: c4dd014917cb9f6657eb79179ac09bf821575d80)
+
+9. you don  t know how unbelievably happy i am that someone thought of it like that exactly as i did
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+10. wow , i have literally never done that .
+   (ID: 79be9557b3d70396e049eaa975227b5e203bb8db)
+
+11. due to a motorcycle accident , i have a huge scar across my head i was wearing a helmet . i was really self conscious about it and it stopped me from interacting with others . you have to just say fuck it and put yourself out there and let the person you ' re interested in make their decision . don ' t try to cover it up and just let the world see it . there is no way you will be concerned with it digit  of the day every day and pretty soon you will come home and realize you didn ' t even think about it all day . that will be the end of it .
+   (ID: 3319add5fded9e9b6e45fcb1340aaf52d39da50e)
+
+12. it ' s not only russians . there are a lot of groups like albanians , servians etc . that are portrayed as villains and that is because it is known that there are mafia groups in those countries .
+   (ID: e059f82a0624202d909920e56dd76f76efa711d2)
+
+13. it ' s not like you get to start over if you choose no . you don ' t really have a choice .
+   (ID: e7189ea885d9f7e9cdbd71ff2f2035f07ebaf6db)
+
+14. i myself am gay and i agree somewhat . most other people i encounter who are gay always let you know it within first meeting them , and with the men , usually act very flamboyant . i don  t want to be seen as the  gay best friend  so that  s why i  m very quiet about my sexuality . i don  t want that to be the only thing i  m known for , and it  s annoying when i try to get a date and everything about them is stereotypically  gay  . pride parade is something a little different , though . the lgbt community has been judged up for so long . this is their way of breaking free . let pride be , i say . i like it .
+   (ID: 6c99329e90a867248b7cd3a376f1a2fd57ae3994)
+
+15. my mother was an only child , she said it was very lonely growing up as an only child and she always wanted a big family . i have digit siblings , after seeing how expensive it is raising a child and all the other drama that goes with having digit kids , i think it is insane ! i personally would like to have two kids . maybe three .
+   (ID: 93102e17c1a3f6136bb2fad08c587ad924185f76)
+
+16. one of those inflatable bum doughnuts to sit on for the first couple weeks .
+   (ID: 392895b8f4f938fb4e2bfae6551b901dccf33ac2)
+
+17. no hate towards bigger people do you just say whatever fits your agenda ? just ignore things you just don ' t want to see ?
+   (ID: ba841e2486d1df5b5baefde5ead0636c7c03c79c)
+
+18. i know what the worries are but where i am confused is how i go about all this with her . do i try messaging her ? let her come to me and if she doesn ' t , just move on ? i feel like not saying anything to her after we finally go out would be rude .
+   (ID: da8d242a2ef9e6771a4964064d74aba8c4e89aa0)
+
+19. i ' m not always happy but i ' m really trying . i always tell myself " if you can ' t change the situation then change your perspective "
+   (ID: 68b48505d5f7a16cf14847c82fff612e6bd59090)
+
+20. this this and this . do your best to change it for her . make her feel like it  s not a bad thing and there  s no reason to feel bad . try your best to erase that part of her past . purple  heart
+   (ID: 3590b3fd811042b17c3ff7f8b851664408a349ef)
+
+
+--- PersonaChat ---
+Total from this dataset: 156
+
+1. i sleep 10 hours every day because my work is tiring .
+   (ID: conversation_44)
+
+2. i'm a night owl .
+   (ID: conversation_164)
+
+3. i'm a weight lifter .
+   (ID: conversation_224)
+
+4. running is my way to relax .
+   (ID: conversation_99)
+
+5. i swim often .
+   (ID: conversation_143)
+
+6. i miss my dad .
+   (ID: conversation_175)
+
+7. i graduated from college .
+   (ID: conversation_157)
+
+8. i think i need botos soon .
+   (ID: conversation_142)
+
+9. i got married 10 years later .
+   (ID: conversation_127)
+
+10. if i am not drinking , i am thinking , which makes me uncomfortable .
+   (ID: conversation_197)
+
+11. my boyfriend is in acting school .
+   (ID: conversation_245)
+
+12. i just graduated college with my bachelor s degree in education .
+   (ID: conversation_216)
+
+13. i'm a happy person .
+   (ID: conversation_163)
+
+14. i lost my arm in a car accident .
+   (ID: conversation_157)
+
+15. i have epilepsy .
+   (ID: conversation_55)
+
+16. i graduated with a nursing degree .
+   (ID: conversation_134)
+
+17. i never learned how to swim .
+   (ID: conversation_209)
+
+18. i get distracted easily .
+   (ID: conversation_131)
+
+19. i dyed my hair pink .
+   (ID: conversation_81)
+
+20. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 251
+
+1. I have many friends.
+   (ID: conversation_28_user_1)
+
+2. I have a girlfriend of 7 years.
+   (ID: conversation_72_user_2)
+
+3. I graduated college a few years ago.
+   (ID: conversation_151_user_1)
+
+4. I ve broken my arm twice.
+   (ID: conversation_223_user_1)
+
+5. I am divorced.
+   (ID: conversation_183_user_1)
+
+6. Country music makes me cringe.
+   (ID: conversation_79_user_2)
+
+7. Both of my parents are in the military.
+   (ID: conversation_185_user_1)
+
+8. I have a girlfriend named luis , and she goes to my college.
+   (ID: conversation_78_user_2)
+
+9. I do not like my reputation.
+   (ID: conversation_187_user_2)
+
+10. I don t like beer.
+   (ID: conversation_80_user_2)
+
+11. My sister is becoming my mother and often asks me when i m getting married.
+   (ID: conversation_167_user_2)
+
+12. My father recently had a heart attack.
+   (ID: conversation_137_user_2)
+
+13. I never have had alcohol in my life.
+   (ID: conversation_72_user_2)
+
+14. I wake early to watch the sun rise every day.
+   (ID: conversation_138_user_2)
+
+15. I talk in my sleep.
+   (ID: conversation_164_user_1)
+
+16. I am not a big fan of waiting in line.
+   (ID: conversation_167_user_2)
+
+17. My father died when i was 2.
+   (ID: conversation_64_user_2)
+
+18. I traveled around the world in a boat.
+   (ID: conversation_209_user_1)
+
+19. I am obsessed with filming.
+   (ID: conversation_186_user_2)
+
+20. I am a geology major at alabama university.
+   (ID: conversation_72_user_2)
+
+
+============================================================

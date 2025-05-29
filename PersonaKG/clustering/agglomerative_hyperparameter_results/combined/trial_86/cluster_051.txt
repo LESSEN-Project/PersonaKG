@@ -1,0 +1,127 @@
+CLUSTER 51
+============================================================
+Total statements in cluster: 70
+
+Dataset distribution in this cluster:
+  FoCus: 1 (1.4%)
+  MSC: 4 (5.7%)
+  PEC: 2 (2.9%)
+  PER-CHAT: 60 (85.7%)
+  SyntheticPersonaChat: 3 (4.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. I enjoy Richard Russo.
+   (ID: NR9LNBMYKSX6_9)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I enjoy my albums.
+   (ID: dialog_6_speaker_2)
+
+2. I enjoy jogging.
+   (ID: dialog_56_speaker_1)
+
+3. I enjoy romance.
+   (ID: dialog_122_speaker_1)
+
+4. I enjoy cosplay.
+   (ID: dialog_99_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 2
+
+1. i also do enjoy less oxidized greener oolongs as well .
+   (ID: Lilliaan)
+
+2. i enjoy waiters .
+   (ID: newyork2012)
+
+
+--- PER-CHAT ---
+Total from this dataset: 60
+
+1. I enjoy philadelphia eagles.
+   (ID: 36314aee005a03517f2446ec0da2834fe0f712d6)
+
+2. I enjoy baltimore ravens.
+   (ID: e8daa61bfd9bf81549666ebd0bdf393156b492de)
+
+3. I enjoy boxing.
+   (ID: 2ad50e702ea7ef4cc62a34ca116f658d564c0474)
+
+4. I enjoy denver broncos.
+   (ID: 4654e3a9a75835f9ff28170ddf31d5d3cf296ea2)
+
+5. I enjoy pittsburgh steelers.
+   (ID: 05dea10a374f0f09c767062f0a3d0b51b6d20b9d)
+
+6. I enjoy Los Angeles Lakers.
+   (ID: 7bad9dc0ff1a9ce0843818f35d9151cf701b4044)
+
+7. I enjoy cricket.
+   (ID: b62d2865206257ab4ea65a5e489f9d4e1c8d5e9b)
+
+8. I enjoy mma.
+   (ID: e5fd25110413c69853218bbcbb0169f73c8f06e1)
+
+9. I enjoy tottenham hotspur f.c..
+   (ID: 2fa786bde9d7f9b2d3a93476f3298d77041fdb1e)
+
+10. I enjoy liverpool.
+   (ID: 03bd0b4bb3465eba83e1c9a00af15f7b35f1ec6d)
+
+11. I enjoy chelsea f.c..
+   (ID: eeef74f05127fafe9b00ca3ad85ff51c0eb20fff)
+
+12. I enjoy motorsports.
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+13. I enjoy liverpool.
+   (ID: 6b55ac21377298601038ad44ea0f65b18e7c5b51)
+
+14. I enjoy mma.
+   (ID: 5b8ed03bdff11aec4ed3a2ed4e122a505bf937dd)
+
+15. I enjoy cricket.
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+16. I enjoy denver broncos.
+   (ID: 4e289af5e18133c4578deba659b7e1d2784a925d)
+
+17. I enjoy motorsports.
+   (ID: c11592c54f6061d979d11af92c6289790a5bec93)
+
+18. I enjoy fifa.
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+19. I enjoy philadelphia eagles.
+   (ID: e84ec39cf97c9609b6feb31cbaab5faf551f372d)
+
+20. I enjoy fifa.
+   (ID: 2ea109772fcc0738f65030d7584f4ec864e785dd)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I enjoy being alone.
+   (ID: conversation_99_user_2)
+
+2. I enjoy organizing my surroundings.
+   (ID: conversation_153_user_1)
+
+3. I enjoy hitchhiking.
+   (ID: conversation_298_user_1)
+
+
+============================================================

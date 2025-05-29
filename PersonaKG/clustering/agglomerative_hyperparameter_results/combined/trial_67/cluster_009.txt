@@ -1,0 +1,197 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 2922
+
+Dataset distribution in this cluster:
+  FoCus: 1 (0.0%)
+  MPChat: 5 (0.2%)
+  MSC: 4 (0.1%)
+  PEC: 8 (0.3%)
+  PER-CHAT: 2892 (99.0%)
+  PersonaChat: 4 (0.1%)
+  SyntheticPersonaChat: 8 (0.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. Ferry rides are my favorite.
+   (ID: NETYMHGQTGLI_9)
+
+
+--- MPChat ---
+Total from this dataset: 5
+
+1. mittens are one my favorite things to make!
+   (ID: Novel_Fox)
+
+2. these are my other favorite mittens
+   (ID: Novel_Fox)
+
+3. here are some of my favorite creations from last year.
+   (ID: Louiesloops)
+
+4. one of my favorite things to make at home: vietnamese coffee.
+   (ID: BeastaBubbles)
+
+5. my favorite potted succulent is in bloom!
+   (ID: Chinchillasaurus)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. My favorite cuisine is thai.
+   (ID: dialog_23_speaker_2)
+
+2. I obsess over things
+   (ID: dialog_79_speaker_1)
+
+3. Pepperoni is my favorite topping.
+   (ID: dialog_23_speaker_1)
+
+4. I obsess over things.
+   (ID: dialog_79_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i hate these things .
+   (ID: CarlofTime)
+
+2. i would n't do any of these things .
+   (ID: GetItTogether)
+
+3. i saved your * favorite * things . "
+   (ID: Sugarpeas)
+
+4. i just see animals as more than " things " .
+   (ID: NyxPeregrinus)
+
+5. i 'd probably get some things done
+   (ID: trav110)
+
+6. i have less time for other things now
+   (ID: Captain_-H)
+
+7. i do neither of these things .
+   (ID: mbw1960)
+
+8. i can see a guy doing that with most things , but not with their favorite appendage !
+   (ID: jay456)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2892
+
+1. One of my favorite things is meow mix.
+   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
+
+2. One of my favorite things is game of thrones from s1.
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+3. One of my favorite things is cycling.
+   (ID: ae0b5b35ef79984eec810d26abc05e9a757ae0ca)
+
+4. One of my favorite things is women.
+   (ID: 787b93a7786c68b0f31fb63e18ccf3551bafae1b)
+
+5. One of my favorite things is waffles.
+   (ID: b721d508c3e10f143c9836626787b26136faa266)
+
+6. One of my favorite things is pop punk music.
+   (ID: 533870e07f5d5bb315a9e1e8278df4d123d8a887)
+
+7. One of my favorite things is diy.
+   (ID: 8583c2f8118c4b3f3d00c452df3ca410a605ac45)
+
+8. One of my favorite things is automobiles.
+   (ID: 37dcb77e38bb95527b0376694dc5852e5c3012eb)
+
+9. One of my favorite things is automobiles.
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+10. One of my favorite things is guns.
+   (ID: 8e2981abd669b044bf2b787c04095c3ebe52e273)
+
+11. One of my favorite things is magma dragons.
+   (ID: 4972a31c1a3df007d761e27a613a3b6a99c3a0ca)
+
+12. One of my favorite things is number.
+   (ID: dc513faaa334954cbf68db2825ec42a31e42fac2)
+
+13. One of my favorite things is tons  rock genres.
+   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+
+14. One of my favorite things is cars.
+   (ID: db585f1dbaa42a5cff4c6b3dbc242bf7ea45bd9a)
+
+15. One of my favorite things is boobs.
+   (ID: 58245e8d537b9e7b6d76cc6a9919ea776e4ef6f0)
+
+16. One of my favorite things is chess.
+   (ID: 93aef5ab9bcfb13e4085ecbd6b6948845a9ec03b)
+
+17. One of my favorite things is paranormal.
+   (ID: a3b2823250cd4b5927129512a5ab9061e10ebaf2)
+
+18. One of my favorite things is fun facts.
+   (ID: 0eb78cb406a9dd9e14938eca8822e3bb1e1ad60a)
+
+19. One of my favorite things is kids.
+   (ID: 533870e07f5d5bb315a9e1e8278df4d123d8a887)
+
+20. One of my favorite things is beautiful women.
+   (ID: a91bab5f0acf1c56a567010f74b21b6e17dea907)
+
+
+--- PersonaChat ---
+Total from this dataset: 4
+
+1. madonna is my all time favorite .
+   (ID: conversation_13)
+
+2. zebras are my favorite animals .
+   (ID: conversation_94)
+
+3. my favorite animals are dolphins .
+   (ID: conversation_341)
+
+4. nike cleats are my favorite .
+   (ID: conversation_62)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 8
+
+1. My favorite animals are dolphins.
+   (ID: conversation_272_user_2)
+
+2. Madonna is my all time favorite.
+   (ID: conversation_309_user_1)
+
+3. My favorite show is scobby doo.
+   (ID: conversation_172_user_2)
+
+4. My favorite show is battlestar galactica.
+   (ID: conversation_116_user_2)
+
+5. Zebras are my favorite animals.
+   (ID: conversation_340_user_2)
+
+6. My favorite show is battlestar galactica.
+   (ID: conversation_55_user_2)
+
+7. Madonna is my all time favorite.
+   (ID: conversation_344_user_2)
+
+8. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+
+============================================================

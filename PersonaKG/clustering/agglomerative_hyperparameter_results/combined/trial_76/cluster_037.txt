@@ -1,0 +1,467 @@
+CLUSTER 37
+============================================================
+Total statements in cluster: 1558
+
+Dataset distribution in this cluster:
+  FoCus: 70 (4.5%)
+  MPChat: 24 (1.5%)
+  MSC: 85 (5.5%)
+  PEC: 680 (43.6%)
+  PER-CHAT: 624 (40.1%)
+  PersonaChat: 24 (1.5%)
+  SyntheticPersonaChat: 51 (3.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 70
+
+1. I want to visit Pittsburgh.
+   (ID: GYX0OU7PEQ7Q_11)
+
+2. I want to go to Washington DC.
+   (ID: QFCC4W8VUHOO_11)
+
+3. I want to see Manhattan's famous residences.
+   (ID: KLWOSNBHG320_11)
+
+4. I want to go to Washington DC.
+   (ID: HO5IT5J1RXE4_11)
+
+5. I want to go on a trip.
+   (ID: IM69XV5WEIAK_11)
+
+6. I want a higher education.
+   (ID: L2FEEPD1V8BQ_11)
+
+7. I want to go to LA and eat hamburger there.
+   (ID: DELJKM21SQ3E_9)
+
+8. I want to teach someday.
+   (ID: ASEVTIZW4Z03_11)
+
+9. I want to visit Chicago.
+   (ID: EDLPKHWH3K5B_11)
+
+10. I want to visit San Francisco.
+   (ID: O76ENSZ0ZFAX_11)
+
+11. I want to study in Oxford.
+   (ID: J5M5FXFIS10V_11)
+
+12. I want to go to Ontario.
+   (ID: SDW19RWSP3ZX_11)
+
+13. I want to visit Ontario.
+   (ID: PSBPL4USIKMB_11)
+
+14. I am studying Geology and want to become an Archeologist.
+   (ID: F10IB9885VKB_11)
+
+15. I want to visit Tokyo.
+   (ID: KN1GX2IHVESI_11)
+
+16. I want to go to United States someday.
+   (ID: RULPAHV9K06Y_11)
+
+17. I want to go on a trip.
+   (ID: OYVLAB02CT4O_11)
+
+18. I want to attend sporting events.
+   (ID: MGR759JYZZLP_7)
+
+19. I want to watch films.
+   (ID: JBP0INT1W707_11)
+
+20. I want to go to Mexico.
+   (ID: O08ZSV8GSIK9_11)
+
+
+--- MPChat ---
+Total from this dataset: 24
+
+1. really happy with how it turned out but want to make my own pattern as well.
+   (ID: pokegirl93a)
+
+2. my attempt at acid wash/distressed/however you want to call them nails.
+   (ID: hottiecakes)
+
+3. "i want my name to be spaghetti."
+   (ID: hmbmelly)
+
+4. gets me everywhere i want to go.
+   (ID: SweetSassyClassy)
+
+5. i have broken it down step by step for absolute beginners if you want to have a look!
+   (ID: letsallcrochetYT)
+
+6. i don't want to brag but i'm cashing this baby today
+   (ID: crunch816)
+
+7. i always want to try to make a honeycomb cheesecake
+   (ID: justcook_byangel)
+
+8. my niece and nephews want scarves.
+   (ID: Sophie74656)
+
+9. i been always want to try this.
+   (ID: justcook_byangel)
+
+10. i want to try different kind of cheesecake.
+   (ID: justcook_byangel)
+
+11. i want to buy my first succulent but i don't know much about it and need help.
+   (ID: why_the_babies_wet)
+
+12. i really want to get this blanket done, but not enough to wake him up.
+   (ID: blboppie)
+
+13. crochet has given me the chance to create the kinds of creatures i would want as pets.
+   (ID: VisitingCivet)
+
+14. i want to move this bush, how should i do it?
+   (ID: Pearl_krabs)
+
+15. getting closer to where i want to be...
+   (ID: ext23)
+
+16. i want but has no room
+   (ID: insertnamehere02)
+
+17. she's so fluffy now, i just want to spend all day petting them
+   (ID: krichmondRPH)
+
+18. my first amigurumi almost don't want to give it away
+   (ID: AlbinoMetroid)
+
+19. i'm making a blanket with these color but now i'm thinking i want to add more colors.
+   (ID: Sophie74656)
+
+20. seems like i waste too much wood if i want a campfire meal...
+   (ID: JMHorsemanship)
+
+
+--- MSC ---
+Total from this dataset: 85
+
+1. I want candy.
+   (ID: dialog_4_speaker_1)
+
+2. My friends wouldn't help me in law school. I work as a entry-level court clerk. I want to hold a higher level job.
+   (ID: dialog_183_speaker_1)
+
+3. I want to have a baby.
+   (ID: dialog_188_speaker_1)
+
+4. I'm In high school. I want to be an astronaut
+   (ID: dialog_90_speaker_1)
+
+5. I play the trumpet. I am too busy to practice trumpet sometimes. I want to be in a band someday.
+   (ID: dialog_44_speaker_2)
+
+6. I want to start running. I want to start a training programme.
+   (ID: dialog_40_speaker_2)
+
+7. I have been looking for a more interesting job. My family is annoying me. I want to get away from family during the day.
+   (ID: dialog_2_speaker_1)
+
+8. I like American sushi. I want to try authentic Japanese sushi, especially pufferfish.
+   (ID: dialog_89_speaker_1)
+
+9. I live in a dorm. I want to get a pet when I  move into my own home.
+   (ID: dialog_97_speaker_1)
+
+10. I want to have a baby.
+   (ID: dialog_43_speaker_1)
+
+11. I am a charitable person. I am working on a charity app matching volunteers to financial donations. I want to launch the app before the holiday season.
+   (ID: dialog_79_speaker_1)
+
+12. I want to own a repair shop.
+   (ID: dialog_32_speaker_2)
+
+13. I want to adopt a rescue dog from a shelter.
+   (ID: dialog_100_speaker_2)
+
+14. I have a wife and a house. I am planning to start having kids and want to get to visit Paris before settling down.
+   (ID: dialog_135_speaker_1)
+
+15. I have never been to Paris. I want to go to the wedding. I want to try French cuisine.
+   (ID: dialog_135_speaker_2)
+
+16. I don't have many friends. I want to make new friends.
+   (ID: dialog_88_speaker_1)
+
+17. I'm in high school. I want to be an astronaut.
+   (ID: dialog_90_speaker_1)
+
+18. I did not go to college. I am considering starting college in a month. I am going to attend a local junior college. I don't know what I want to major in. I think psychology is interesting but I don't know if I want to spend as many years in school as a psychology career requires. I'm taking GE classes. I liked the basic psychology class I took in high school.
+   (ID: dialog_125_speaker_1)
+
+19. I want to be an artist.
+   (ID: dialog_135_speaker_2)
+
+20. I want to learn about gardening.
+   (ID: dialog_11_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 680
+
+1. i dunno , adam does n't seem like the kind of guy i 'd want to hang around .
+   (ID: CuriousBlueAbra)
+
+2. i want to be the tree in dusty .
+   (ID: TheRealAshren)
+
+3. i do n't want to brag but i played 1 rift game and i 'm on 54 % .
+   (ID: SpartanWarNinja)
+
+4. i want to see the actual study .
+   (ID: newyork2012)
+
+5. i want a natsuki t shirt
+   (ID: tylock)
+
+6. i wallow in self - pity and want to die
+   (ID: trav110)
+
+7. i just want her to be offered other options instead of all pink girly stuff .
+   (ID: RelaxedSociety)
+
+8. i want to learn how to tap with my cock ! !
+   (ID: bbrandann)
+
+9. i want to play .
+   (ID: Aloha-Potato)
+
+10. i know the biggest cock on this sub is yours and i want it in my mouth
+   (ID: MirandaTulip)
+
+11. i have a bumbo seat on my registry , and i totally want to add a roomba now !
+   (ID: teriaki)
+
+12. i want them to be lead again though .
+   (ID: JimmyMcShiv)
+
+13. i just do n't want to emotionally isolate myself from him by the time i get back .
+   (ID: travelingkiwi)
+
+14. i want to eat it so cute
+   (ID: iam1r7)
+
+15. i want me some round and brown !
+   (ID: chasemyers)
+
+16. i do nt want votes or sympathy , i could use an ear .
+   (ID: jwshapir)
+
+17. i want to hear him talk about his ' bling bling ' .
+   (ID: sweatervest)
+
+18. i just want to cuddle him !
+   (ID: AP7497)
+
+19. i want to punch myself in the head .
+   (ID: Shrub74)
+
+20. i want to stop this , kids should n't die .
+   (ID: redandblack555)
+
+
+--- PER-CHAT ---
+Total from this dataset: 624
+
+1. you can masturbate  have sex  etc but it  s extremely dangerous if you still want to do the challenge .
+   (ID: d8492ac2e05f869f3bd79bafc9f32c603a615e59)
+
+2. you are such a dream . i want you in my bed
+   (ID: 298dd327349771a27c9a14437b3b5a53d0bd9e35)
+
+3. probably because you have a shit personality and you don  t realize it , or that girls see through your half  assed attempts at being genuine and know that you only want one thing from them . don  t take it personally , i don  t actually know you . those are just my first two guesses .
+   (ID: ba19f1817c5dfde741b0e3387f4c8902b125e2c5)
+
+4. i was born in this world and i was like a fool but you don  t want it anymore because you have to do it so you can get it to be done
+   (ID: 411b23f3d2a1f254c1c92c17670bb02c191a1301)
+
+5. what the fuck do you want me to do instead ? go outside and talk to actual people ? pfft .
+   (ID: 164327be87300906de16932661437c5b2b671c9d)
+
+6. because being with someone shows that you ' re desirable . people see that somebody else wants you , so they want you .
+   (ID: f39e591889b6331bd255039773030c1b50c7e201)
+
+7. are you a fan of papervinnie ? are you dying to see another jordtim recorded round perspective ? do you want to know what it feels like to compete in the well established recorded round , story uhc , along with competitors like treyasaurus , 0tony0  daredevildawson ? well , today ' s your very lucky day ! ty frigid
+   (ID: 5b16dae030b645e34d7761b41c614a0625c2e1c2)
+
+8. i only downvote the " wholesome " content dealing with children . you can say it all you want to , but there is nothing endearing or entertaining about children .
+   (ID: fbed02b3d7caf00e8d1533f452f8951cf390df73)
+
+9. if you want crime , you want digit  digit  digit . if you want thriller , you want the stand or desperation . if you want aliens , you want the tommyknockers or dreamcatcher . if you want a story that tugs the heart strings . you want hearts in atlantis . if you want vampires , you want salem ' s lot . if you want dystopian , you want the long walk . but in no situation ever , do you want the dark tower .
+   (ID: 1cb49ecc2e4fdb9752d9ca12d02f3cfc2f6659c9)
+
+10. i was sitting on the kitchen floor with a half  empty box of sugar cubes , crying and complaining that i didn ' t want to eat any more . and my parents telling me i had to eat them all .
+   (ID: a31ab3f3ccb2d987e0948a7a8ed52f5d74b72960)
+
+11. bulldogs are my favorite . i find them relatable because they ' re lazy , slow , and want to snuggle all the time .
+   (ID: 22f14b68675078048f36403bb14291f2d10864a3)
+
+12. regardless , for me it is a very simple moral logic . saving innocent life  saving bodily autonomy . i want to choose lesser of two evils . and that is why i am pro  life .
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+13. not the middle and not the handicap . i dont want to be in between two dumps and i dont want to take the handicap stall from someone who might need it
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+
+14. killing yourself is really hard to do . not only working up the nerve to attempt it but actually doing enough damage to die . my first attempt was at digit and i ' m continuously getting closer to death but fuck why does it have to be such a challenge ? why cant i just be done already ? i used to think if i suffered enough something would kill me out of universal pity or something like that but reality is if i really want to check out i and i alone have to do it . nobody is gonna hold my hand through it . in fact people will do the opposite no matter your reasoning .
+   (ID: f46d1bfdfed7fc05bbe39789c092019944471e9d)
+
+15. i have signs above my chests but i still be like i want one thing from here and another from there
+   (ID: 10f3c4c68efa9cd11f34f4a88f492c7d7e693418)
+
+16. i qas born in ' digit and i think it was a good thing to grow up not having the electronic distractions . i think as adults when we say i want to give my kids what i never had they don ' t build that character trait you value in yourself .
+   (ID: 37dcb77e38bb95527b0376694dc5852e5c3012eb)
+
+17. because fashion is irrelevant and you can wear what ever you want .
+   (ID: 3e510494aac4d4cfd98d8ee4e7b04dffd5534bee)
+
+18. how big . how many ? it ' s kind of a crap shoot that we don ' t really want to test to figure out . let ' s treat it like meth .
+   (ID: 30506e41c4121e1e7573a25d4985de191de679c9)
+
+19. did you ever think that your wife might want to join in with that casual fun ?
+   (ID: 5033a9b064a9790931d6db4cc634e02af206bbb1)
+
+20. could you imagine saving an orgasm for later like a " pick  me  up " you can just activate when you want it ? that would be cool
+   (ID: a93c4b4e04523abdf134a40204e81619d6e659ef)
+
+
+--- PersonaChat ---
+Total from this dataset: 24
+
+1. i want to teach kids in elementary school .
+   (ID: conversation_48)
+
+2. i want to become an author .
+   (ID: conversation_165)
+
+3. i'm weak and selfish , but i want to change .
+   (ID: conversation_130)
+
+4. i want to move to las vegas .
+   (ID: conversation_409)
+
+5. my dad owns a appliance store that i don t want to inherit .
+   (ID: conversation_253)
+
+6. i want to be desired .
+   (ID: conversation_288)
+
+7. i want to be in a band someday .
+   (ID: conversation_44)
+
+8. before i die , i want to skydive .
+   (ID: conversation_50)
+
+9. i want to have two kids .
+   (ID: conversation_298)
+
+10. i want to be a vegetarian .
+   (ID: conversation_474)
+
+11. i want to be a museum curator .
+   (ID: conversation_433)
+
+12. i want to learn self defense .
+   (ID: conversation_409)
+
+13. i want to be a museum curator .
+   (ID: conversation_238)
+
+14. i want to be a vegetarian .
+   (ID: conversation_137)
+
+15. i want to visit rome , but i can t make myself go alone .
+   (ID: conversation_257)
+
+16. i want to grow up to be a superhero one day .
+   (ID: conversation_119)
+
+17. before i die , i want to skydive .
+   (ID: conversation_92)
+
+18. i want to be a museum curator .
+   (ID: conversation_133)
+
+19. i'm in college now and want to be a teacher .
+   (ID: conversation_484)
+
+20. i am in college now and want to be a teacher .
+   (ID: conversation_22)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 51
+
+1. If i were to be reincarnated , i d want to come back as a hippopotamus.
+   (ID: conversation_421_user_2)
+
+2. I want to be desired.
+   (ID: conversation_490_user_1)
+
+3. I am weak and selfish , but i want to change.
+   (ID: conversation_109_user_1)
+
+4. I want to be desired.
+   (ID: conversation_491_user_1)
+
+5. I want to travel the world taking photographs of my travels.
+   (ID: conversation_224_user_1)
+
+6. I want to be an astronaut when i grow up.
+   (ID: conversation_298_user_2)
+
+7. I want to get married again.
+   (ID: conversation_369_user_2)
+
+8. I want to be a famous photographer.
+   (ID: conversation_226_user_1)
+
+9. I want to visit rome , but i cannot make myself go alone.
+   (ID: conversation_425_user_2)
+
+10. I want to visit rome , but i cannot make myself go alone.
+   (ID: conversation_233_user_2)
+
+11. I want to learn how to fly an airplane.
+   (ID: conversation_489_user_2)
+
+12. I want to be a vegetarian.
+   (ID: conversation_245_user_2)
+
+13. I want to write a book before i die.
+   (ID: conversation_462_user_2)
+
+14. I want to travel the world taking photographs of my travels.
+   (ID: conversation_225_user_1)
+
+15. I want to go to mars.
+   (ID: conversation_451_user_1)
+
+16. I want to be a music teacher.
+   (ID: conversation_54_user_2)
+
+17. I want to put my photos to a music video staring adam levin.
+   (ID: conversation_226_user_1)
+
+18. I want to go to mars.
+   (ID: conversation_450_user_1)
+
+19. I want to be an astronaut when i grow up.
+   (ID: conversation_136_user_2)
+
+20. I want to be a journalist but instead i sell washers at sears.
+   (ID: conversation_169_user_1)
+
+
+============================================================

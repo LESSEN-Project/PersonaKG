@@ -1,0 +1,23 @@
+==================================================
+AGGLOMERATIVE CLUSTERING TRIAL SUMMARY
+==================================================
+
+Trial Directory: clustering/agglomerative_hyperparameter_results/combined/trial_82
+Timestamp: 2025-05-28 18:39:18
+
+HYPERPARAMETERS:
+Clustering Mode: combined
+Vectorization Method: tfidf
+Sample Size: 250
+Number of Clusters: 12
+Linkage: ward
+Distance Metric: euclidean
+PCA Components: 64
+
+RESULTS:
+
+Combined:
+  - Total Statements: 43997
+  - Number of Clusters: 12
+  - Diversity Score: 0.0880
+  - Silhouette Score: 0.1865

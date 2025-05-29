@@ -1,0 +1,467 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 2259
+
+Dataset distribution in this cluster:
+  FoCus: 39 (1.7%)
+  MPChat: 264 (11.7%)
+  MSC: 197 (8.7%)
+  PEC: 548 (24.3%)
+  PER-CHAT: 846 (37.5%)
+  PersonaChat: 102 (4.5%)
+  SyntheticPersonaChat: 263 (11.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 39
+
+1. I think dragons are cool.
+   (ID: PSBPL4USIKMB_11)
+
+2. I like Rhinoceros.
+   (ID: B4623TSE2PJX_7)
+
+3. I like jaguars.
+   (ID: U2VHOEDA278F_11)
+
+4. I like animals from America.
+   (ID: 77B9J8TADYDF_7)
+
+5. I love bells.
+   (ID: 9IFEU12EAOWB_11)
+
+6. I love Zebra.
+   (ID: PH0R41F6TO0M_7)
+
+7. I like reptiles.
+   (ID: F8WHQ8QX5MHB_7)
+
+8. I love animals.
+   (ID: H6NTDNBSBI42_11)
+
+9. I like dolphins.
+   (ID: PI3TE121KEOF_11)
+
+10. I love lions.
+   (ID: ATXXTPOD4WEI_11)
+
+11. I don't like kangaroos.
+   (ID: ATXXTPOD4WEI_11)
+
+12. I like dolphins.
+   (ID: LH031RZU9PAS_11)
+
+13. I love animals.
+   (ID: HY8G2PNPA8VA_11)
+
+14. I love dolphins.
+   (ID: F8WHQ8QX5MHB_7)
+
+15. I love bats.
+   (ID: X3WVWF5IVCYD_11)
+
+16. I like birds.
+   (ID: Y037WWL4AZRY_11)
+
+17. I love animals.
+   (ID: SR7IVZSR3LV5_11)
+
+18. I love birds.
+   (ID: 9DGY1RAZGYLM_9)
+
+19. I adore mermaids.
+   (ID: DAT5H5H80JCW_7)
+
+20. I like koalas.
+   (ID: PI3TE121KEOF_11)
+
+
+--- MPChat ---
+Total from this dataset: 264
+
+1. captured the chaotic and lazy essence of my cat
+   (ID: pocket_kira)
+
+2. i adopted the "dog that will never be adopted."
+   (ID: crunch816)
+
+3. everton elephant ready to join the liverpool one i made last week.
+   (ID: Soapy_Von_Soaps)
+
+4. then there are my pets...
+   (ID: MafHoney)
+
+5. just a few months ago, my gf's farm cats would scatter when i showed up.
+   (ID: Nerdyredeyejedi)
+
+6. my professor's cat just had laser therapy.
+   (ID: Caserole)
+
+7. yesterday was the day my dog gave up
+   (ID: MafHoney)
+
+8. i love the little folded paws
+   (ID: lizdavis17)
+
+9. my husband got one of our corgis a new shirt today.
+   (ID: kentobean123)
+
+10. plant here needs an upgraded home, and i've recently adopted a cat.
+   (ID: krichmondRPH)
+
+11. she's my favourite little lion.
+   (ID: VodkaWithSnowflakes)
+
+12. this is my dilly cat
+   (ID: BareFootMumma)
+
+13. i feel bad for this next sloth.
+   (ID: pocket_kira)
+
+14. my cat noodle has got that puss in boots thing going on.
+   (ID: VodkaWithSnowflakes)
+
+15. my dog likes to gently carry around a shoe whenever people come over, he never chews them either!
+   (ID: Veretica)
+
+16. brought my new foster puppy home today.
+   (ID: BananaStand07)
+
+17. i see your golden retriever covered in mud and raise you my golden retriever flat out sleeping
+   (ID: BareFootMumma)
+
+18. brought home a new foster pup tonight safe to say he and my dog (black) hit it off
+   (ID: BananaStand07)
+
+19. my yarn is soggy because of this cute demon chewing on it
+   (ID: krichmondRPH)
+
+20. in celebration of my cakeday, have a picture of solomon, my american bulldog.
+   (ID: Riley_Coyote)
+
+
+--- MSC ---
+Total from this dataset: 197
+
+1. I have a parrot named Hugh.  My parrot is 4-years-old.
+   (ID: dialog_138_speaker_2)
+
+2. I have a parrot.
+   (ID: dialog_138_speaker_2)
+
+3. I have a pet snake
+   (ID: dialog_50_speaker_2)
+
+4. I love cats.
+   (ID: dialog_71_speaker_2)
+
+5. I like animals.
+   (ID: dialog_24_speaker_2)
+
+6. I have way too many kittens.
+   (ID: dialog_60_speaker_2)
+
+7. I like bigger canines.
+   (ID: dialog_182_speaker_2)
+
+8. I own reptiles.
+   (ID: dialog_50_speaker_2)
+
+9. I have no dogs.
+   (ID: dialog_192_speaker_2)
+
+10. I am interested in contemporary dance. I have a cat named Socks. I love cats.
+   (ID: dialog_172_speaker_2)
+
+11. I cannot have a cat because fido hates them.
+   (ID: dialog_184_speaker_1)
+
+12. My horses names are Max, Rodney and Finn.
+   (ID: dialog_59_speaker_2)
+
+13. I have a dog named Milo and a cat name Oreo who are my best friends.
+   (ID: dialog_118_speaker_2)
+
+14. I am getting a puppy in the near future.
+   (ID: dialog_100_speaker_2)
+
+15. I really love dogs.
+   (ID: dialog_121_speaker_1)
+
+16. I do not have any pets. I would like to have a German Shapherd.
+   (ID: dialog_141_speaker_1)
+
+17. I have one labrador and one golden retriever.
+   (ID: dialog_90_speaker_1)
+
+18. I have 4 cats.
+   (ID: dialog_192_speaker_2)
+
+19. I have a pug named Biscuit.
+   (ID: dialog_43_speaker_2)
+
+20. I have 5 dogs.
+   (ID: dialog_139_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 548
+
+1. i adopted a gsd mix recently .
+   (ID: Sugarpeas)
+
+2. i love cats so much .
+   (ID: greensandgables)
+
+3. i would n’t have left the last cat either .
+   (ID: mizzpkat)
+
+4. i can fight off one , but never both at the same time ... unfair !
+   (ID: conservative_poly)
+
+5. i 'm taking my huskies to their first snow day - do they also need paw protection ?
+   (ID: OliveGames)
+
+6. i always enjoy seeing birds doing this .
+   (ID: Waterrat)
+
+7. i guess crocodiles are an apex carnivore , but they 're actually quite tasty .
+   (ID: futurespice)
+
+8. i can smell the puppy smell .
+   (ID: Purrcapita)
+
+9. i can just imagine the look you gave the owner of the dachshund ...
+   (ID: exotics)
+
+10. i d trade lives with the dog .
+   (ID: Chase_P)
+
+11. i love how the cat hops along the counter to follow him .
+   (ID: Bathysphere710)
+
+12. i had a chocolate lab for 10 years .
+   (ID: Julianna83)
+
+13. i do n’t have a cat .
+   (ID: throwaway073847)
+
+14. i have found the appropriate name for my first born .
+   (ID: greensandgables)
+
+15. i 'm sure your dog deeply appreciates it � �
+   (ID: Autummleaves)
+
+16. i think most of them do n't actually have any milk because it makes some dogs sick .
+   (ID: adertal)
+
+17. i would get a vet check .
+   (ID: bigfuckingdiamond)
+
+18. i 've noticed that pouring water on my cat makes her very active .
+   (ID: CheapyPipe)
+
+19. i ’m so sorry you lost your kitty !
+   (ID: jenni268)
+
+20. i 'm contacting rat rescues , so now we need a good cage .
+   (ID: chickenpants80)
+
+
+--- PER-CHAT ---
+Total from this dataset: 846
+
+1. I have a cat as a pet.
+   (ID: 89a0689162d7d341f5389b93a7b5fc391663c68d)
+
+2. I have a cat as a pet.
+   (ID: 7542c8a6be5a118bef67d9539deb69c131fb4fbc)
+
+3. One of my favorite things is cats.
+   (ID: ee2906681b3174a80cefe2bcfb40bd3a110c1b29)
+
+4. One of my favorite things is horses.
+   (ID: ab38d3f31156c0cca1babe826c83025e8694eca2)
+
+5. I have a cat as a pet.
+   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+
+6. I have a dog as a pet.
+   (ID: faf8e2f0b237550f2553944dd4c08846f7505988)
+
+7. One of my favorite things is dogs.
+   (ID: 9186c179fe844e912b1dc4e064693a023e668de3)
+
+8. I have a dog as a pet.
+   (ID: 87921f4850625bbc1ea70e7a3027781ab887303e)
+
+9. One of my favorite things is beagles.
+   (ID: 0d77404b10744947bcd2c91d8c926021d4b8650f)
+
+10. I have a cat as a pet.
+   (ID: 46d8e69cfbec2948bee8eaeaf91010f2e7f16e4b)
+
+11. I have a dog as a pet.
+   (ID: cf8f8a2557f2bf6694dda14a6d2664e1ea6e36b7)
+
+12. I have a cat as a pet.
+   (ID: 52f4e645771d12babe63c93a43451316a5fb0980)
+
+13. I have a dog as a pet.
+   (ID: 4bddcbadec311f472e8b62614b7394e14eb1d7ac)
+
+14. One of my favorite things is dogs.
+   (ID: b073b7138186ccb7fa807af1158cb23d6b7c113f)
+
+15. I have a cat as a pet.
+   (ID: 9a13b21f54717da1499379b5cb0e991e82d4c90f)
+
+16. I have a cat as a pet.
+   (ID: 725e5a3de682f359cfb87481ec457a2f78867ef3)
+
+17. I have a dog as a pet.
+   (ID: 8e2981abd669b044bf2b787c04095c3ebe52e273)
+
+18. I have a cat as a pet.
+   (ID: 47697a08dc01689d8119bf9bd578194eb66d157c)
+
+19. by that logic , we shouldn  t allow driving at all because it increases the risks of harm to people and people  s pets . it is already being worked on self driving cars to minimise the potential of crashes . here is a article about that  dough i do understand what you are trying to say , i would still just do rules like that because still , it puts the animals in danger . earlier you said that weed lessens the aggression , but sooner or later other drugs will be legalized where they do make people more aggressive . that is the problem . by just having rules like that it would atleast prevent a few drug users to buy pets , which is better then nothing wouldn ' t you say ? sure it maybe just prevents digit drug users from buying pets , but thats better then nothing in my opinion .
+   (ID: d650356549ff32c6bfb797b13c80b5a0d715da36)
+
+20. One of my favorite things is bernese mountain dogs.
+   (ID: a815d9b5c98aef3203b8f4f74528072fb989f0b1)
+
+
+--- PersonaChat ---
+Total from this dataset: 102
+
+1. i have a cat .
+   (ID: conversation_455)
+
+2. i love animals .
+   (ID: conversation_359)
+
+3. my favorite animal is the koala .
+   (ID: conversation_198)
+
+4. i've a pet snake .
+   (ID: conversation_92)
+
+5. i own two snakes .
+   (ID: conversation_210)
+
+6. i am a cat owner .
+   (ID: conversation_386)
+
+7. i own two snakes .
+   (ID: conversation_416)
+
+8. i have 4 dogs .
+   (ID: conversation_199)
+
+9. my dog s name is toto .
+   (ID: conversation_339)
+
+10. everyday after work i buy my dog a dog biscuit .
+   (ID: conversation_160)
+
+11. i have 2 beagles named chance and boomer .
+   (ID: conversation_489)
+
+12. i love animals .
+   (ID: conversation_424)
+
+13. we have two pets as well .
+   (ID: conversation_470)
+
+14. i m allergic to cats .
+   (ID: conversation_300)
+
+15. i have one cat .
+   (ID: conversation_275)
+
+16. we have two pets as well .
+   (ID: conversation_173)
+
+17. i've a parrot named parrot .
+   (ID: conversation_138)
+
+18. i've 3 small dogs .
+   (ID: conversation_437)
+
+19. i have a cat .
+   (ID: conversation_446)
+
+20. i recently got a cat .
+   (ID: conversation_497)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 263
+
+1. We have two pets as well.
+   (ID: conversation_199_user_2)
+
+2. I have 3 dog.
+   (ID: conversation_260_user_1)
+
+3. I have 4 pets.
+   (ID: conversation_46_user_2)
+
+4. I own a cat.
+   (ID: conversation_163_user_1)
+
+5. I have a pit bull and a chihuahua.
+   (ID: conversation_251_user_2)
+
+6. My two dogs are the best friends a girl could have.
+   (ID: conversation_298_user_2)
+
+7. I have 2 cats.
+   (ID: conversation_438_user_1)
+
+8. I love dogs.
+   (ID: conversation_139_user_1)
+
+9. I have 2 cats.
+   (ID: conversation_188_user_2)
+
+10. I have a dog.
+   (ID: conversation_398_user_1)
+
+11. My mother is allergic to dogs.
+   (ID: conversation_215_user_2)
+
+12. I have 3 dogs and 2 cats.
+   (ID: conversation_196_user_1)
+
+13. I have 23 cats at home.
+   (ID: conversation_209_user_1)
+
+14. My mother is allergic to dogs.
+   (ID: conversation_146_user_1)
+
+15. My favorite animal is a bear.
+   (ID: conversation_55_user_2)
+
+16. Everyday after work i buy my dog a dog biscuit.
+   (ID: conversation_488_user_2)
+
+17. My favorite animal is a monkey.
+   (ID: conversation_304_user_1)
+
+18. I do not like animals.
+   (ID: conversation_131_user_1)
+
+19. I like to take my dog for long walks.
+   (ID: conversation_305_user_2)
+
+20. I am gong to adopt a dog very soon.
+   (ID: conversation_94_user_2)
+
+
+============================================================

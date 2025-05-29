@@ -1,0 +1,467 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 3201
+
+Dataset distribution in this cluster:
+  FoCus: 180 (5.6%)
+  MPChat: 20 (0.6%)
+  MSC: 265 (8.3%)
+  PEC: 355 (11.1%)
+  PER-CHAT: 1827 (57.1%)
+  PersonaChat: 175 (5.5%)
+  SyntheticPersonaChat: 379 (11.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 180
+
+1. I love England.
+   (ID: VP3189E0Z1O2_11)
+
+2. I love Nikolaevsky.
+   (ID: 9VN3FMWR0NNR_11)
+
+3. I like rivers.
+   (ID: G6QWKZ4CTWVW_11)
+
+4. I love Theatres.
+   (ID: L2FEEPD1V8BQ_11)
+
+5. I love Congregation Baith Israel.
+   (ID: VQJADZ97TJ0Z_11)
+
+6. I love the United States.
+   (ID: Z8RPC24EURS4_7)
+
+7. I love New York.
+   (ID: KXPW7BD5TW0Q_11)
+
+8. My favourite composer is Bach.
+   (ID: X45C380V98U8_9)
+
+9. I love rivers.
+   (ID: CEBDDVDUY2MU_11)
+
+10. I like zombies.
+   (ID: PSBPL4USIKMB_11)
+
+11. I like Marvel movies.
+   (ID: ZBEUKF93F617_11)
+
+12. I like James Bond.
+   (ID: DKOCHLLVDPYC_11)
+
+13. I like ancient Romans.
+   (ID: 6Y1JUDZSPANM_9)
+
+14. I like eagles.
+   (ID: IBKUIXV3M06F_7)
+
+15. I like Native Americans.
+   (ID: JTUKE03HZYSY_11)
+
+16. I like the Bronx.
+   (ID: 6TU9FPP8YD8M_11)
+
+17. I like England.
+   (ID: Y50B3RQ4B1OQ_11)
+
+18. I like Elvis Presley.
+   (ID: MGR759JYZZLP_7)
+
+19. I enjoy winter.
+   (ID: CFYWBHPKPOHZ_7)
+
+20. I love Madison Square Garden.
+   (ID: VHZMEJDEHGGQ_11)
+
+
+--- MPChat ---
+Total from this dataset: 20
+
+1. my hubby makes me so happy
+   (ID: FormalSwimming)
+
+2. i'm starting to love sgraffito
+   (ID: KittyButt42)
+
+3. so far, i love them.
+   (ID: sundstrom193)
+
+4. i love horse feet!
+   (ID: postmodernequestrian)
+
+5. clearly i love purples
+   (ID: meghanlovessunshine)
+
+6. sophie or how i learned to love the popcorn stitch
+   (ID: spinni81)
+
+7. i love a good stripe
+   (ID: zonumnire)
+
+8. do you like my deer?
+   (ID: cuppcatt)
+
+9. i love a good boy in plaid
+   (ID: kentobean123)
+
+10. canada is my favorite.
+   (ID: dudeinthepnw)
+
+11. as someone who just switched over from saltwater, i still find great joy in landing these fish.
+   (ID: GoodBull1748)
+
+12. i love colorado.
+   (ID: Foolz_Go1d)
+
+13. this is why i love clay.
+   (ID: oddartist)
+
+14. i like bunny butts and i cannot lie!
+   (ID: drfrank1982)
+
+15. i love plaid!
+   (ID: jinxie1266)
+
+16. i'm in love with spooky and glitter.
+   (ID: skorletun)
+
+17. i'm a bit of a fan of shino.
+   (ID: PuffTheMagicLumbrJak)
+
+18. i love classic knits
+   (ID: zonumnire)
+
+19. i love them!
+   (ID: czbaterka)
+
+20. finally crossed desert rose off my wishlist a few months ago.
+   (ID: catsinpockets)
+
+
+--- MSC ---
+Total from this dataset: 265
+
+1. I enjoy listening to grunge bands.
+   (ID: dialog_41_speaker_1)
+
+2. I love summer.
+   (ID: dialog_130_speaker_1)
+
+3. I like animated movies. I like the movie Lion King. I've never made a movie.
+   (ID: dialog_175_speaker_2)
+
+4. I like the pigskin.
+   (ID: dialog_189_speaker_1)
+
+5. I like rock music.
+   (ID: dialog_5_speaker_1)
+
+6. I like nirvana.
+   (ID: dialog_145_speaker_2)
+
+7. I collect comic books.
+   (ID: dialog_48_speaker_1)
+
+8. My favorite Pearl Jam song is Corduroy.
+   (ID: dialog_41_speaker_1)
+
+9. I like anime. I watch Naruto, Avatar the Last Airbender.
+   (ID: dialog_172_speaker_1)
+
+10. I love the series of books about vampires.
+   (ID: dialog_31_speaker_1)
+
+11. I like dancing and anime shows.
+   (ID: dialog_172_speaker_1)
+
+12. I love my kids.
+   (ID: dialog_188_speaker_1)
+
+13. My favorite sports group is from detroit.
+   (ID: dialog_93_speaker_2)
+
+14. I watch a lot of movies and shows. I like dark and creepy content. I like thrillers, comedy, action movies. I like the mixture of comedy and dark movies too.
+   (ID: dialog_15_speaker_2)
+
+15. I enjoy watching animated films.
+   (ID: dialog_39_speaker_2)
+
+16. I love all types of music.
+   (ID: dialog_174_speaker_2)
+
+17. I read comic books. Batman is a my favorite comic book character.
+   (ID: dialog_120_speaker_1)
+
+18. I love John Surteees.
+   (ID: dialog_117_speaker_2)
+
+19. I like rock music.
+   (ID: dialog_2_speaker_1)
+
+20. I like beats.
+   (ID: dialog_114_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 355
+
+1. i 'm a such a sucker for shots like these .
+   (ID: notTHATwriter)
+
+2. i 'm all about that bass
+   (ID: alextound)
+
+3. i 'm absolutely in love with all three shows .
+   (ID: EmRaff7)
+
+4. i think holes is brilliant too !
+   (ID: hardt0f0rget)
+
+5. i 'm one of the few who does n't watch got .
+   (ID: Nobody-Likes-Change)
+
+6. i get off on marathon bombings and manhunts in the greater boston area .
+   (ID: mass08)
+
+7. i like mimi , but i also like the name jasmine .
+   (ID: exotics)
+
+8. i take it you ’re a fan of the who ?
+   (ID: ListenandLove100)
+
+9. i listen to podcasts and books .
+   (ID: LightofNew)
+
+10. i also watched monkey king and the first fighter i look up to is also bruce lee .
+   (ID: Lsmoothies)
+
+11. i guess we know who likes assholes .
+   (ID: Nheea)
+
+12. i was a fan of the dead poets society .
+   (ID: closetotheedge48)
+
+13. i love this band .
+   (ID: Ricketysyntax)
+
+14. i love lamp .
+   (ID: chasemyers)
+
+15. i love that is the only defense .
+   (ID: Montag3636)
+
+16. i have that " nama - stay in bed " shirt .
+   (ID: chickenpants80)
+
+17. i love them all .
+   (ID: thebastion)
+
+18. i love theater !
+   (ID: sbsb27)
+
+19. i love the hand flail thing he does when shit goes poorly .
+   (ID: DoctorRichardNygard)
+
+20. i friggin love it
+   (ID: GanjaSmoker420HaloXX)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1827
+
+1. One of my favorite things is f.
+   (ID: b6c3e540255084641f0e148a3992d9113c560f0b)
+
+2. One of my favorite things is drums.
+   (ID: 2af8a0ff2295d21473f0e6ff67565738eb8f4df1)
+
+3. One of my favorite things is dad bods.
+   (ID: a73b0dda35d389b4f74e47db6574e0f71738b683)
+
+4. One of my favorite things is indiana jones.
+   (ID: 9057da1059e9ffba54ce02d4a15e2aac2b3ceabb)
+
+5. One of my favorite things is grudge.
+   (ID: a7aa6341e1b57ce267a054932c0fecc933562532)
+
+6. One of my favorite things is rondo.
+   (ID: 52630a8de60c1fa7b1adc6ce63b9b05563b7b9f2)
+
+7. One of my favorite things is zack snyder.
+   (ID: 25b8235c988cb167d94968ee893707e9c358cde8)
+
+8. One of my favorite things is petite men more.
+   (ID: a77eb45bf2cf0979852baa624e4a728cd8c1b85b)
+
+9. One of my favorite things is russ.
+   (ID: 31d924f098e0871341a799d7a5777fb635f53b34)
+
+10. One of my favorite things is titties.
+   (ID: 80bb9445ee518d7503eeef1b2c418d38a6e936e9)
+
+11. One of my favorite things is nice men.
+   (ID: 009af0be6850d8d1ff9d388a3c7f39f0f7727594)
+
+12. One of my favorite things is girls.
+   (ID: a73b0dda35d389b4f74e47db6574e0f71738b683)
+
+13. One of my favorite things is dan.
+   (ID: f82f3baec2974026f7aecc84e871be136212e237)
+
+14. One of my favorite things is women  irish accents.
+   (ID: ea1aba6f5a01e142602653a1b9987c70e3862a45)
+
+15. One of my favorite things is acts  rebellion.
+   (ID: 42d20fb8523115a55130d58a232603b846ad13a0)
+
+16. One of my favorite things is electric swing.
+   (ID: 46cf1fc2a9c8dec12fa16589117be75cf1571e1d)
+
+17. One of my favorite things is christians.
+   (ID: 54271e4114265f638c8e4c59d7a3b35b6caa55bf)
+
+18. One of my favorite things is guitar.
+   (ID: ba6d1d2cee95e9f30e06dc1584d5fa02e62221e8)
+
+19. One of my favorite things is taylor.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+
+20. fuck yeah , i love my friends and family but there  s a whole universe out there
+   (ID: f9e9b1e6c59393102159142841e750ea90023928)
+
+
+--- PersonaChat ---
+Total from this dataset: 175
+
+1. i love to listen to frank sinatra .
+   (ID: conversation_417)
+
+2. i love watching superheroes shows .
+   (ID: conversation_95)
+
+3. i like the beatles .
+   (ID: conversation_279)
+
+4. i read a lot .
+   (ID: conversation_168)
+
+5. i love anime .
+   (ID: conversation_168)
+
+6. i listen to rock music .
+   (ID: conversation_361)
+
+7. my favorite genre of music is rock .
+   (ID: conversation_407)
+
+8. my favorite color is hunter green .
+   (ID: conversation_249)
+
+9. i like to watch shows on netflix .
+   (ID: conversation_409)
+
+10. my favorite music artist is isaiah rashad .
+   (ID: conversation_289)
+
+11. i like anime shows .
+   (ID: conversation_209)
+
+12. my favorite music is country .
+   (ID: conversation_348)
+
+13. my favorite color is blue .
+   (ID: conversation_302)
+
+14. my favorite movie is pretty woman .
+   (ID: conversation_155)
+
+15. my favorite color is blue .
+   (ID: conversation_326)
+
+16. i love living in texas .
+   (ID: conversation_26)
+
+17. my favorite flower is a rose .
+   (ID: conversation_129)
+
+18. my favorite movie is titanic .
+   (ID: conversation_472)
+
+19. i love watching superheroes shows .
+   (ID: conversation_423)
+
+20. i listen to folk music .
+   (ID: conversation_153)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 379
+
+1. My favorite color is grey.
+   (ID: conversation_99_user_1)
+
+2. Both my moms tell me they love me when i call them.
+   (ID: conversation_122_user_2)
+
+3. My idol is theirry henry.
+   (ID: conversation_73_user_2)
+
+4. My favorite color is purple.
+   (ID: conversation_236_user_2)
+
+5. I like comic books and anime.
+   (ID: conversation_473_user_2)
+
+6. My favorite flower is a lily.
+   (ID: conversation_144_user_1)
+
+7. I like to go to comic con.
+   (ID: conversation_137_user_2)
+
+8. My favorite music is hip hop.
+   (ID: conversation_192_user_2)
+
+9. I love smooth jazz.
+   (ID: conversation_148_user_2)
+
+10. My favorite band is the avett brother.
+   (ID: conversation_290_user_2)
+
+11. I love game of thrones.
+   (ID: conversation_204_user_1)
+
+12. I watch a movie sundays evenings.
+   (ID: conversation_166_user_1)
+
+13. One of my favorite shows is face off on say.
+   (ID: conversation_418_user_2)
+
+14. I love dark clothes.
+   (ID: conversation_277_user_2)
+
+15. My favorite movie is 16 candles.
+   (ID: conversation_492_user_1)
+
+16. My favorite flower is a lily.
+   (ID: conversation_138_user_1)
+
+17. I love the band red hot chili peppers.
+   (ID: conversation_168_user_1)
+
+18. I love the summer.
+   (ID: conversation_210_user_2)
+
+19. My favorite color is green.
+   (ID: conversation_493_user_2)
+
+20. My favorite band is one direction.
+   (ID: conversation_102_user_2)
+
+
+============================================================

@@ -1,0 +1,130 @@
+CLUSTER 9
+============================================================
+Total statements in cluster: 31
+
+Dataset distribution in this cluster:
+  MSC: 3 (9.7%)
+  PEC: 13 (41.9%)
+  PER-CHAT: 8 (25.8%)
+  PersonaChat: 2 (6.5%)
+  SyntheticPersonaChat: 5 (16.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I play the violin.
+   (ID: dialog_45_speaker_2)
+
+2. I play the drums.
+   (ID: dialog_59_speaker_1)
+
+3. I play the drums.
+   (ID: dialog_59_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 13
+
+1. i play thief .
+   (ID: bestform)
+
+2. i 'll play him .
+   (ID: harumpf)
+
+3. i try not to play things that i do not want .
+   (ID: kailan123456)
+
+4. i had to play that back .
+   (ID: doctor_parcival)
+
+5. i do n't like summoner 's rift , should i not play ?
+   (ID: metalbark)
+
+6. i wish i could play it again for the first time .
+   (ID: I_am_not_a_Taco)
+
+7. i once got a usb keypad , just so i could play nethack .
+   (ID: CheapyPipe)
+
+8. i had a x play before , and i think the 2015 x serie was terrific .
+   (ID: apnudd)
+
+9. i got to see bo jackson play when i was a kid .
+   (ID: latestartksmama)
+
+10. i 'd play patty cake with that !
+   (ID: ProJokeExplainer)
+
+11. i would les and play
+   (ID: lambsquatch)
+
+12. i agree , this is n't really an opposite , but nice try for word play .
+   (ID: mostlikelyto___)
+
+13. i 'll play a little more with it !
+   (ID: ChoppingOnionsForYou)
+
+
+--- PER-CHAT ---
+Total from this dataset: 8
+
+1. I play runescape.
+   (ID: 818321ef6a71106a1a86010b5df8bc2991279431)
+
+2. I play dota.
+   (ID: 2a4bb889e40b61bb1755181c2b46750d3a082604)
+
+3. I play terraria.
+   (ID: dcc0b8be922b572122c03b3f5e2a0f9fccb4d351)
+
+4. I play fire emblem.
+   (ID: c418fa452eafbca022ce1c49b521d4574aa77cd1)
+
+5. I play wii.
+   (ID: a63ea1e6bf1e972229635648a0b3371aeddb4f3d)
+
+6. I play rust.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
+
+7. I play planetside.
+   (ID: 61d850113b440da97216a14cfd8a5509352c72b2)
+
+8. I play runescape.
+   (ID: e1864e983bbfa93f317cdda5086f1df7721adab8)
+
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i play the guitair .
+   (ID: conversation_230)
+
+2. i play d and d .
+   (ID: conversation_54)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 5
+
+1. I play the guitair.
+   (ID: conversation_121_user_2)
+
+2. I play quarterback.
+   (ID: conversation_219_user_2)
+
+3. I play the violin.
+   (ID: conversation_32_user_1)
+
+4. I play the violin.
+   (ID: conversation_54_user_2)
+
+5. I play for the philadelphia eagles.
+   (ID: conversation_219_user_2)
+
+
+============================================================

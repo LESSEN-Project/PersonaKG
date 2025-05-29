@@ -1,0 +1,467 @@
+CLUSTER 32
+============================================================
+Total statements in cluster: 2612
+
+Dataset distribution in this cluster:
+  FoCus: 62 (2.4%)
+  MPChat: 27 (1.0%)
+  MSC: 81 (3.1%)
+  PEC: 375 (14.4%)
+  PER-CHAT: 1860 (71.2%)
+  PersonaChat: 53 (2.0%)
+  SyntheticPersonaChat: 154 (5.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 62
+
+1. I find steam machinery fascinating.
+   (ID: GABQG82ZVJCM_7)
+
+2. I like Gothic Revival style.
+   (ID: 8C87PLCFQ0ZH_11)
+
+3. I love geological findings conducted by volcanologists.
+   (ID: G4JZMW0OPV0G_11)
+
+4. I like when restorations happen.
+   (ID: AN8LSF1PEYK2_11)
+
+5. I like learning about the 12 apostles.
+   (ID: OKU8UQBPUSMV_11)
+
+6. I like to hear a lot about doombar.
+   (ID: DAT5H5H80JCW_7)
+
+7. I love the royal family.
+   (ID: LJYX36WCRYDM_9)
+
+8. I like ancient Romans.
+   (ID: 6Y1JUDZSPANM_9)
+
+9. I love Pasterze glacier.
+   (ID: YLLQOXHD6MZC_7)
+
+10. I like nonviolence.
+   (ID: IP4KRMQQREBQ_9)
+
+11. I like English Heritage.
+   (ID: W67GZU3ZXI46_9)
+
+12. I like the name Alexandra.
+   (ID: F91BK688K9G1_11)
+
+13. I like heritage railways.
+   (ID: QC5LXWBDY6EM_11)
+
+14. I find Freemasonry really interesting.
+   (ID: UHZ1K434LZ46_11)
+
+15. I am a fan of the Roman empire.
+   (ID: OKU8UQBPUSMV_11)
+
+16. I love canals.
+   (ID: AOQJE7BBYFVM_11)
+
+17. I like cars.
+   (ID: PKTFMWPHB1E3_11)
+
+18. I love folklore tales.
+   (ID: DAT5H5H80JCW_7)
+
+19. I love the Library of Congress.
+   (ID: 9QE8MQM0B8P7_11)
+
+20. I am fascinated by limestone buildings.
+   (ID: XA7M896U3YIQ_11)
+
+
+--- MPChat ---
+Total from this dataset: 27
+
+1. had to send this to my husband when he asked how my day was going.
+   (ID: ddizzle23)
+
+2. this is my favorite 3 top so far.
+   (ID: jlb4est)
+
+3. lily mouse is my favourite.
+   (ID: Soapy_Von_Soaps)
+
+4. i love a good sale
+   (ID: SarahFree339)
+
+5. i always make treats for my office.
+   (ID: ddizzle23)
+
+6. i received this for christmas.
+   (ID: Sophie74656)
+
+7. i love a mug that lets you know when it's time for a refill
+   (ID: coffeehawaii)
+
+8. only way i'm getting through the election still sane
+   (ID: The69LTD)
+
+9. i couldn't pass up something called donkey on crack
+   (ID: crunch816)
+
+10. sometimes i get really bored when marking scripts at home.
+   (ID: meepmeepcuriouscat)
+
+11. i love this red heart roll with it.
+   (ID: Novel_Fox)
+
+12. i hear the pitter patter of a reindeer on the roof!
+   (ID: FoxInKneeSocks)
+
+13. i'm in love with spooky and glitter.
+   (ID: skorletun)
+
+14. my canada day desk beaver is back
+   (ID: FoxInKneeSocks)
+
+15. don't tell my other 3 cats but lily mouse is my favourite
+   (ID: Soapy_Von_Soaps)
+
+16. i like to fold papers too!
+   (ID: gxnelson)
+
+17. my milk frothing and wiggles are getting better hahaha.
+   (ID: Soggypaper_)
+
+18. i love getting a layer in that 2 stack to creep up.
+   (ID: jlb4est)
+
+19. my husband's a little sick so penny proud is making him feel better with her love.
+   (ID: kentobean123)
+
+20. i love hearing "16oz latte for here".
+   (ID: BeastaBubbles)
+
+
+--- MSC ---
+Total from this dataset: 81
+
+1. I sometimes forget to take my medication to help stabilize my mood. I sometimes forget to bring my medication with me when I go out.
+   (ID: dialog_43_speaker_1)
+
+2. My favorite comedy is Dr. Strangelove. I enjoy watching The Cable Guy.
+   (ID: dialog_15_speaker_2)
+
+3. I like 80s and 90s rock music. I like listening to music at the beach. I like upbeat music you can sing to.
+   (ID: dialog_88_speaker_2)
+
+4. I like fairy tales.
+   (ID: dialog_1_speaker_2)
+
+5. I still have a flip phone.
+   (ID: dialog_39_speaker_1)
+
+6. I play around with candies a lot.
+   (ID: dialog_71_speaker_1)
+
+7. My favorite band is Pearl Jam. I went to a party with Pearl Jam.
+   (ID: dialog_41_speaker_2)
+
+8. I like the sand on my feet.
+   (ID: dialog_76_speaker_2)
+
+9. I can read a book in one day.
+   (ID: dialog_5_speaker_1)
+
+10. I like purples.
+   (ID: dialog_14_speaker_2)
+
+11. I've a long commute.
+   (ID: dialog_56_speaker_1)
+
+12. I pick up the drinks.
+   (ID: dialog_92_speaker_1)
+
+13. I love the series of books about vampires.
+   (ID: dialog_31_speaker_1)
+
+14. I am a charitable person.
+   (ID: dialog_79_speaker_1)
+
+15. Madonna is my favorite music.
+   (ID: dialog_13_speaker_2)
+
+16. I love foreign vehicles.
+   (ID: dialog_28_speaker_1)
+
+17. I am a charitable person
+   (ID: dialog_79_speaker_1)
+
+18. I often enter a room only to stop and wonder why I came there.
+   (ID: dialog_37_speaker_2)
+
+19. I work on boats. I have a silly dog named Bob. My dog chewed my last pair of boots. I'll wait for a sale to purchase boots.
+   (ID: dialog_27_speaker_2)
+
+20. Music comes easy to me.
+   (ID: dialog_4_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 375
+
+1. i have a roku tv that came with a shitty basic remote .
+   (ID: Evref)
+
+2. i envy the people who get up in the middle of the night just to hydrate themselves .
+   (ID: samward7)
+
+3. i fucking loooove the airblade !
+   (ID: thebastion)
+
+4. i feel like a free person !
+   (ID: Lilliaan)
+
+5. i think this cured that .
+   (ID: aydinsevimli)
+
+6. i would say : mission accomplished ....
+   (ID: Aloha-Potato)
+
+7. i always start my valentines ads with “ good with children ”
+   (ID: Lifes6Midnight)
+
+8. i 'm 60 , and i still do it sometimes .
+   (ID: Sabiola)
+
+9. i love lamp .
+   (ID: chasemyers)
+
+10. i 'll up vote anything having to do with rick and morty .
+   (ID: Heydawgg)
+
+11. i the reddit love community !
+   (ID: Lsmoothies)
+
+12. i wonder if this is why some people do n’t like reading
+   (ID: lovestheautumn)
+
+13. i ’d call that success !
+   (ID: latestartksmama)
+
+14. i may need to use this saying .
+   (ID: BlueSuedeBag)
+
+15. i love chameleon circuit !
+   (ID: mylescloutier)
+
+16. i am generally a lazy individual , but if pushed , can devote more time to play .
+   (ID: mmaswadeh)
+
+17. i know you saw my tears today , but they were joyful tears .
+   (ID: gigatroness)
+
+18. i love this comment thread !
+   (ID: Mende)
+
+19. i am so with you .
+   (ID: bestform)
+
+20. i love rustic overtones too !
+   (ID: MrBovineJoni)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1860
+
+1. One of my favorite things is lots  bands   rock.
+   (ID: f4588f2a476206e602fe5b84647a1e777eaae604)
+
+2. One of my favorite things is women.
+   (ID: 787b93a7786c68b0f31fb63e18ccf3551bafae1b)
+
+3. One of my favorite things is ya.
+   (ID: 79fc72ea72532d39a039ecb4e47a630a601ff4a8)
+
+4. One of my favorite things is yooo.
+   (ID: c374848a7cde05ee9d6d14f7ab991b3b11f71a87)
+
+5. One of my favorite things is transmute.
+   (ID: 261413214c13676b8aee2ce20a47107c4ccfe6b8)
+
+6. One of my favorite things is nintendo.
+   (ID: 4ea608a8fbdec83863f8ba3f502bfd6966794702)
+
+7. One of my favorite things is chorus.
+   (ID: f4588f2a476206e602fe5b84647a1e777eaae604)
+
+8. One of my favorite things is open world.
+   (ID: ed7b237fb6485952b3dcc1d753d52f12dfff995a)
+
+9. One of my favorite things is psalm.
+   (ID: 388a9b7cd52305ad65297c63f4c50272c2661e4c)
+
+10. One of my favorite things is lisa.
+   (ID: 8ea8e4a00c3f2a64096e00bdbba0247e580cdb17)
+
+11. One of my favorite things is people.
+   (ID: b386bb7f54bebf7edfe66a27e8d881a61bd1d6df)
+
+12. One of my favorite things is coven.
+   (ID: 6c99329e90a867248b7cd3a376f1a2fd57ae3994)
+
+13. One of my favorite things is michael myers.
+   (ID: 067b7441373b7dfebd4b068272381804c26fe6dc)
+
+14. One of my favorite things is drinking.
+   (ID: 42d0bab08dc67ecb5ab1c5fdc07cbe6a31015990)
+
+15. One of my favorite things is soup life.
+   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
+
+16. One of my favorite things is bruce campbell.
+   (ID: c6e395c03fa0151554baed67a84968066bfa9cf3)
+
+17. One of my favorite things is cock.
+   (ID: 661cbd631caa9db4ab702976879371243802e35e)
+
+18. One of my favorite things is races.
+   (ID: 1aa2a9bdfead7897363f32a7bc9e416ca9098b9f)
+
+19. One of my favorite things is pot.
+   (ID: 70dae4f10700534d78c70b4931932d38e3fa7df5)
+
+20. One of my favorite things is party rap.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+
+--- PersonaChat ---
+Total from this dataset: 53
+
+1. i love cars .
+   (ID: conversation_188)
+
+2. i love owning nice office supplies .
+   (ID: conversation_79)
+
+3. i love watching sitcoms on television .
+   (ID: conversation_220)
+
+4. my favorite holiday is halloween .
+   (ID: conversation_243)
+
+5. playing quake on slackware linux makes me happy .
+   (ID: conversation_211)
+
+6. i listen to classic rock .
+   (ID: conversation_12)
+
+7. my favorite color is orange .
+   (ID: conversation_151)
+
+8. my favorite color is yellow .
+   (ID: conversation_186)
+
+9. my favorite band is insane clown posse .
+   (ID: conversation_74)
+
+10. i wear contacts .
+   (ID: conversation_3)
+
+11. i wear contacts .
+   (ID: conversation_194)
+
+12. i've two smartphones .
+   (ID: conversation_155)
+
+13. everyday after work i buy my dog a dog biscuit .
+   (ID: conversation_160)
+
+14. lady gaga is my current favorite singer .
+   (ID: conversation_13)
+
+15. my favorite color is blue .
+   (ID: conversation_23)
+
+16. my favorite band is nirvana .
+   (ID: conversation_128)
+
+17. my favorite tv show is dancing with the stars .
+   (ID: conversation_144)
+
+18. my favorite car is the ford mustang .
+   (ID: conversation_185)
+
+19. i love collecting teapots .
+   (ID: conversation_73)
+
+20. my favorite color is hunter green .
+   (ID: conversation_249)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 154
+
+1. My favorite band is the avert brother.
+   (ID: conversation_209_user_2)
+
+2. 1984 is my favorite book.
+   (ID: conversation_126_user_1)
+
+3. Favorite color is green.
+   (ID: conversation_113_user_1)
+
+4. I often play the clown to get attention.
+   (ID: conversation_66_user_2)
+
+5. I like cars.
+   (ID: conversation_111_user_1)
+
+6. My favorite color is blue.
+   (ID: conversation_77_user_1)
+
+7. My favorite flower is a lily.
+   (ID: conversation_91_user_1)
+
+8. Favorite color is green.
+   (ID: conversation_110_user_1)
+
+9. Ferrari is my favorite car company.
+   (ID: conversation_142_user_2)
+
+10. My favorite song is barbie girl.
+   (ID: conversation_81_user_1)
+
+11. My favorite music genre is pop.
+   (ID: conversation_165_user_2)
+
+12. My favorite band is the story so far.
+   (ID: conversation_61_user_1)
+
+13. My favorite artist is bob ross.
+   (ID: conversation_218_user_1)
+
+14. My favorite color is blue.
+   (ID: conversation_196_user_2)
+
+15. I talk in my sleep.
+   (ID: conversation_163_user_1)
+
+16. My favorite color is blue.
+   (ID: conversation_78_user_1)
+
+17. I love the band red hot chili peppers.
+   (ID: conversation_168_user_1)
+
+18. I like ford cars.
+   (ID: conversation_1_user_2)
+
+19. My favorite band is the story so far.
+   (ID: conversation_63_user_1)
+
+20. My favorite flower is a lily.
+   (ID: conversation_138_user_1)
+
+
+============================================================

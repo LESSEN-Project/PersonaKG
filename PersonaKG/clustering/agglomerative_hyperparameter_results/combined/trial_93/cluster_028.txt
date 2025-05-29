@@ -1,0 +1,107 @@
+CLUSTER 28
+============================================================
+Total statements in cluster: 117
+
+Dataset distribution in this cluster:
+  MSC: 1 (0.9%)
+  PEC: 3 (2.6%)
+  PER-CHAT: 112 (95.7%)
+  SyntheticPersonaChat: 1 (0.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I live with my brother
+   (ID: dialog_46_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 3
+
+1. i was debating over that one or the nfl brother !
+   (ID: LabeledAsALunatic)
+
+2. i 'm with you brother .
+   (ID: apnudd)
+
+3. i want to be like your brother .
+   (ID: Takumi-Fujiwara)
+
+
+--- PER-CHAT ---
+Total from this dataset: 112
+
+1. I have a brother in my family.
+   (ID: 9c91f42953bc8f6d2f718503a1924734b9da6acc)
+
+2. I have a brother in my family.
+   (ID: e87275c4c3cfea671e40cbeff9a12d5fc1372f97)
+
+3. I have a brother in my family.
+   (ID: b29114e3d39ee1086f5eb2abbe6cbec33bc7749f)
+
+4. I have a brother in my family.
+   (ID: 8031d2235c5c79aed4436e575113c1efb8fbe777)
+
+5. I have a brother in my family.
+   (ID: 6b1a5069121a216d43b11b6d5c61b018eb668aaa)
+
+6. I have a brother in my family.
+   (ID: 01d091dafa86b9d15d91404a1a02a0fc98011e8c)
+
+7. I have a brother in my family.
+   (ID: 34d7a41f0778ab80ac97d43bcbe30cde5ab458d8)
+
+8. I have a brother in my family.
+   (ID: 5bb6e2d4db1d5ccf3a1f430564735551dfb4c28b)
+
+9. I have a brother in my family.
+   (ID: cfd691d6aeaf46cc644b0e21187d10dfc62b0bc8)
+
+10. I have a brother in my family.
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+11. I have a brother in my family.
+   (ID: 74b41b40662f8290cb9efa13620a4b8ecd792ba9)
+
+12. I have a brother in my family.
+   (ID: 36314aee005a03517f2446ec0da2834fe0f712d6)
+
+13. how do we know he  s not his brother ? already watcher the finale
+   (ID: c0f309bee7152ab458da8ec03fbb1e17fa2876cd)
+
+14. I have a brother in my family.
+   (ID: 4198a967d1b0765e3fc996754ce9a3e6c7f24c8c)
+
+15. I have a brother in my family.
+   (ID: 61d850113b440da97216a14cfd8a5509352c72b2)
+
+16. I have a brother in my family.
+   (ID: 544afc73e94949100186d302e382bea6fc33beb4)
+
+17. I have a brother in my family.
+   (ID: ce5016a49c41770ec711f4758a362203587f841e)
+
+18. I have a brother in my family.
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+
+19. I have a brother in my family.
+   (ID: 630b45a8d3ef360a8a8a9626adbff80750d745a7)
+
+20. I have a brother in my family.
+   (ID: a4eb94a9fe8ebabb780c319cc7d3f552eb79625e)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. My brother is an archaeologist.
+   (ID: conversation_59_user_2)
+
+
+============================================================

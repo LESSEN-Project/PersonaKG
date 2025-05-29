@@ -1,0 +1,467 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 1455
+
+Dataset distribution in this cluster:
+  FoCus: 21 (1.4%)
+  MPChat: 129 (8.9%)
+  MSC: 120 (8.2%)
+  PEC: 235 (16.2%)
+  PER-CHAT: 717 (49.3%)
+  PersonaChat: 64 (4.4%)
+  SyntheticPersonaChat: 169 (11.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 21
+
+1. I love birds.
+   (ID: 9DGY1RAZGYLM_9)
+
+2. I care about the preservation of fauna and flora.
+   (ID: Y7WSG3Z184EX_9)
+
+3. I love horses.
+   (ID: KG8AEOFQLTO4_11)
+
+4. I love animals.
+   (ID: SR7IVZSR3LV5_11)
+
+5. I like animals from Africa.
+   (ID: 77B9J8TADYDF_7)
+
+6. I am interested in wild animals.
+   (ID: L96351DIHFAR_7)
+
+7. I adore mermaids.
+   (ID: DAT5H5H80JCW_7)
+
+8. I like birds.
+   (ID: Y037WWL4AZRY_11)
+
+9. I like llamas very much.
+   (ID: LEW58VG9I78X_11)
+
+10. I love turtles.
+   (ID: CXUYRK4MA1NB_11)
+
+11. I like learning about a variety of animals.
+   (ID: LFGIG1TODPKB_11)
+
+12. I am interested in Wildlife Refuges.
+   (ID: Y037WWL4AZRY_11)
+
+13. I love horses.
+   (ID: LJYX36WCRYDM_9)
+
+14. I like dolphins.
+   (ID: LH031RZU9PAS_11)
+
+15. I like jaguars.
+   (ID: U2VHOEDA278F_11)
+
+16. I am a wildlife photographer.
+   (ID: B4623TSE2PJX_7)
+
+17. I love bats.
+   (ID: X3WVWF5IVCYD_11)
+
+18. I love animals.
+   (ID: 77B9J8TADYDF_7)
+
+19. I like animals from America.
+   (ID: 77B9J8TADYDF_7)
+
+20. I like mammoths.
+   (ID: N3BKTMTKN6PG_11)
+
+
+--- MPChat ---
+Total from this dataset: 129
+
+1. my 5 day old ducklings having a cuddle while i work
+   (ID: captainindigo123)
+
+2. my 12 yr old chihuahua, george, fell asleep on my nephew's dinosaur
+   (ID: MrsTheJones)
+
+3. i like to put cute animals in my coffee!
+   (ID: av929)
+
+4. i'm puppy sitting these two this weekend!
+   (ID: evantide)
+
+5. putting a herd grill guard/bumper on my truck.
+   (ID: cigarjack)
+
+6. the various sleeping positions of my old man kitty
+   (ID: chirp16)
+
+7. brought my new foster puppy home today.
+   (ID: BananaStand07)
+
+8. absolutely smitten with my new kitten!
+   (ID: bakedNdelicious)
+
+9. some doodles of my cat who is both very adorable sometimes and very not adorable sometimes
+   (ID: pocket_kira)
+
+10. i met this cutie patootie today at petsmart
+   (ID: kentobean123)
+
+11. my pup ellen ripley.
+   (ID: SuperfineYarnCo)
+
+12. meow i'm cuterer!
+   (ID: baccgirl)
+
+13. my lab/german shorthair/greyhound out training
+   (ID: iowajaycee)
+
+14. just found a poster about laika the dog i hand-lettered for a project in hs
+   (ID: RaeADropOfGoldenSun)
+
+15. my zombie cats pattern by me
+   (ID: Tanston)
+
+16. why do i feel like my pupper is about to send me on a quest?
+   (ID: pocket_kira)
+
+17. i don't think he grasps the idea of puppy training pads...
+   (ID: youngdad33)
+
+18. i think waffles likes the blanket i made
+   (ID: FoxInKneeSocks)
+
+19. my pibble used to be terrified of the snow.
+   (ID: ddizzle23)
+
+20. i made this lucky cat about a year ago.
+   (ID: theringbeller)
+
+
+--- MSC ---
+Total from this dataset: 120
+
+1. My dogs are both 2 months old.
+   (ID: dialog_13_speaker_1)
+
+2. I have two dogs and a cat. My cat's name is Rastus and dogs are names Thurber and Thatcher, named after famous people. My dogs are both boxer mixed breeds from the shelter.
+   (ID: dialog_47_speaker_2)
+
+3. I used to have six cats.
+   (ID: dialog_34_speaker_2)
+
+4. I have a black lab dog named George. I do not have any children.
+   (ID: dialog_76_speaker_2)
+
+5. My dog loves the beach.
+   (ID: dialog_76_speaker_2)
+
+6. I don't have any pets.
+   (ID: dialog_55_speaker_2)
+
+7. My dog died last year. I used to have six cats. I have cats.
+   (ID: dialog_34_speaker_2)
+
+8. I don't have any pets. I would love to have a cat or maybe even a hedgehog. I want dog who is loyal and willing to rest with me.
+   (ID: dialog_47_speaker_1)
+
+9. We own several dogs.
+   (ID: dialog_65_speaker_1)
+
+10. I am an animal lover.
+   (ID: dialog_58_speaker_2)
+
+11. I have a horse named Beauty. I ride horses. I have a farm.
+   (ID: dialog_40_speaker_2)
+
+12. I chase cheetahs to stay in shape.
+   (ID: dialog_0_speaker_1)
+
+13. I like animals.
+   (ID: dialog_65_speaker_2)
+
+14. Farms have cool animals.
+   (ID: dialog_85_speaker_1)
+
+15. I have a black lab cat. I like go fishing.
+   (ID: dialog_55_speaker_1)
+
+16. I want to be a forest ranger.  I like the outdoors.  I like animals.
+   (ID: dialog_53_speaker_2)
+
+17. My little dingo dog is friendly. My wife and I adopted a stray dog. My pet dogs have always been mutts. My parents used to have a dalmation that bit strangers.
+   (ID: dialog_11_speaker_1)
+
+18. I want to adopt a male German Shepherd from a shelter. I am trying to prepare my house to get a dog. My neighbor is going to look after my dog when I am away.
+   (ID: dialog_47_speaker_1)
+
+19. My dog's breed is Siberian Husky.I had a dog named Sally. I want a cat soon.
+   (ID: dialog_34_speaker_1)
+
+20. A long time ago, I had a lot of pets.
+   (ID: dialog_34_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 235
+
+1. i have quite a soft spot for the lovely little guys .
+   (ID: FruitBatFanatic)
+
+2. i 'd say : . [ tail on head : dog .
+   (ID: conservative_poly)
+
+3. i 've always wondered if the spooning animal pics are real .
+   (ID: VanGoJourney)
+
+4. i love the white fur just as much if not more .
+   (ID: mbw1960)
+
+5. i really hope kitty does n't dissipate into the ether .
+   (ID: silentpower)
+
+6. i just wanna know why you have so many damn cats
+   (ID: Osiris0123)
+
+7. i 'm looking for something creepy cute .
+   (ID: RelaxedSociety)
+
+8. i wish i was able to give them a good home .
+   (ID: silentpower)
+
+9. i hope you ’re able to find homes for them !
+   (ID: FruitBatFanatic)
+
+10. i 've never heard that before , seems so fun to talk to a cat haha :)
+   (ID: KattenMeisje)
+
+11. i had a cat who really looked like yours but it was a turkish van :)
+   (ID: Ml7500)
+
+12. i ca n't help feel like that cat in the background is going to end up eating his corpse .
+   (ID: SpartanWarNinja)
+
+13. i love seeing random people care about random animals they will never meet .
+   (ID: lambsquatch)
+
+14. i 'm struggling to find where it says she 's now spayed ?
+   (ID: bigfuckingdiamond)
+
+15. i had to help put a dead , but still warm , german shepherd into a freezer .
+   (ID: bigfuckingdiamond)
+
+16. i hope kitty comes back soon !
+   (ID: mbw1960)
+
+17. i love how gentle they are with each other .
+   (ID: VanGoJourney)
+
+18. i 've have a few labs .... the best dogs ever .
+   (ID: BlueSuedeBag)
+
+19. i was amazed that your husband could pick up a baby cow !
+   (ID: FruitBatFanatic)
+
+20. i have pet ducks
+   (ID: exotics)
+
+
+--- PER-CHAT ---
+Total from this dataset: 717
+
+1. I have a cat as a pet.
+   (ID: 50bf4ae221ba385dca8216fc136721fbe54b1b31)
+
+2. One of my favorite things is snakes.
+   (ID: d650356549ff32c6bfb797b13c80b5a0d715da36)
+
+3. I have a cat as a pet.
+   (ID: 88c65ad9c962da115240776d5aa110748286db73)
+
+4. i was going to make a comment about how at some point , maybe you should let the dog go , but i can  t believe how well he healed . i should have more faith .
+   (ID: 4345d92dae99b45255ddd6b7f7c88a7ad331da93)
+
+5. I'm interested in spiders.
+   (ID: 6938adfadf158e773c1a81f3c3b4f7ef1aed3881)
+
+6. I'm interested in pets and animals.
+   (ID: 68b48505d5f7a16cf14847c82fff612e6bd59090)
+
+7. are you suggesting euthanizing all the animals that belong to the unemployed ? what would happen in reality to those animals if the panhandler gave them up ? do you really think they ' ll be adopted by a rich and loving family ?
+   (ID: 79be9557b3d70396e049eaa975227b5e203bb8db)
+
+8. I'm interested in dogs.
+   (ID: 9e1be6964f5835f58b6cdaac71f8b557f0b4a42f)
+
+9. One of my favorite things is cats.
+   (ID: 42d0bab08dc67ecb5ab1c5fdc07cbe6a31015990)
+
+10. I'm interested in pets and animals.
+   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+
+11. I have a rat as a pet.
+   (ID: cda2027ff011b74a04f79a766c8e8da339eb1f0b)
+
+12. One of my favorite things is cats.
+   (ID: 920ba0628cbea5588ecca4c8ba7f80b411ff70ef)
+
+13. I'm interested in pets and animals.
+   (ID: 02e4b90101e07338b4251209256c01652a022c5d)
+
+14. One of my favorite things is dogs.
+   (ID: f8771fc63bc4c52bb04b2e71d4aefe7bf406c65c)
+
+15. I'm interested in pets and animals.
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+16. I'm interested in pets and animals.
+   (ID: 61d850113b440da97216a14cfd8a5509352c72b2)
+
+17. I'm interested in cats.
+   (ID: a1ba9b657b043ce2934cc0ae7b42c0a0bf3ba2fa)
+
+18. I have a cat as a pet.
+   (ID: ce5016a49c41770ec711f4758a362203587f841e)
+
+19. I'm interested in pets and animals.
+   (ID: 2266fd8e27b1d50f2e144f7cd11716068cff21d5)
+
+20. I'm interested in birds.
+   (ID: 7c96bac704435347f721cc9a3056b8d7be16cc06)
+
+
+--- PersonaChat ---
+Total from this dataset: 64
+
+1. i love animals .
+   (ID: conversation_11)
+
+2. i have a horse named beauty .
+   (ID: conversation_98)
+
+3. i love dogs and cats .
+   (ID: conversation_118)
+
+4. i love pandas .
+   (ID: conversation_88)
+
+5. i'm gong to adopt a dog very soon .
+   (ID: conversation_100)
+
+6. i volunteer in my spare time .
+   (ID: conversation_125)
+
+7. i love animals .
+   (ID: conversation_196)
+
+8. i've a cat .
+   (ID: conversation_24)
+
+9. i train horses for a living .
+   (ID: conversation_66)
+
+10. i own 4 cats .
+   (ID: conversation_192)
+
+11. i've a cat named felix and a small terrer names emmy .
+   (ID: conversation_239)
+
+12. i have a boxer dog .
+   (ID: conversation_6)
+
+13. i am committed to the environment .
+   (ID: conversation_117)
+
+14. i volunteer at my local animal shelter .
+   (ID: conversation_145)
+
+15. i've a horse named beauty .
+   (ID: conversation_40)
+
+16. my dog is smaller than my cat .
+   (ID: conversation_85)
+
+17. i volunteer in my spare time .
+   (ID: conversation_226)
+
+18. i am committed to the environment .
+   (ID: conversation_215)
+
+19. i am a veterinarian .
+   (ID: conversation_99)
+
+20. i am a dog walker .
+   (ID: conversation_170)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 169
+
+1. I love kids and dogs.
+   (ID: conversation_40_user_2)
+
+2. I spend my free time volunteering at nursing homes.
+   (ID: conversation_14_user_1)
+
+3. I am gong to adopt a dog very soon.
+   (ID: conversation_94_user_2)
+
+4. I have two dogs , one pitbull and old english bulldog.
+   (ID: conversation_48_user_2)
+
+5. I own four german shepherds.
+   (ID: conversation_212_user_2)
+
+6. I love dogs.
+   (ID: conversation_45_user_2)
+
+7. I am a cat owner.
+   (ID: conversation_59_user_2)
+
+8. I love my dog.
+   (ID: conversation_21_user_2)
+
+9. I work in a veterinary office.
+   (ID: conversation_47_user_1)
+
+10. I have 3 dogs and a parrot.
+   (ID: conversation_24_user_2)
+
+11. I love animals.
+   (ID: conversation_17_user_2)
+
+12. I work in a veterinary office.
+   (ID: conversation_43_user_1)
+
+13. I have 2 beagles named chance and boomer.
+   (ID: conversation_185_user_1)
+
+14. I have a parakeet.
+   (ID: conversation_101_user_2)
+
+15. I ve a dog.
+   (ID: conversation_71_user_1)
+
+16. I love animals.
+   (ID: conversation_221_user_1)
+
+17. I love cats.
+   (ID: conversation_133_user_1)
+
+18. I own a cat.
+   (ID: conversation_249_user_2)
+
+19. I love dogs.
+   (ID: conversation_37_user_2)
+
+20. Sometimes i volunteer at an urban farm.
+   (ID: conversation_50_user_1)
+
+
+============================================================

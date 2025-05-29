@@ -1,0 +1,125 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 795
+
+Dataset distribution in this cluster:
+  MSC: 3 (0.4%)
+  PER-CHAT: 784 (98.6%)
+  PersonaChat: 5 (0.6%)
+  SyntheticPersonaChat: 3 (0.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I have one son.
+   (ID: dialog_55_speaker_2)
+
+2. I have two younger brothers.
+   (ID: dialog_59_speaker_1)
+
+3. I have sons.
+   (ID: dialog_9_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 784
+
+1. I have a mother in my family.
+   (ID: 2623e4996f6df0e5814dbede4fbc9c1f13de4382)
+
+2. I have a son… in my family.
+   (ID: 40ad6d409c1f0888bdb3dbd8d7bab47d00f3a6f0)
+
+3. I have a brothers in my family.
+   (ID: 73cbf17c3a84102fdc5b18efc6bc4cacd841961c)
+
+4. I have a brother in my family.
+   (ID: de62a0a330b0a7ca76d55a6702dcae5baf1c3cae)
+
+5. I have a sisters in my family.
+   (ID: e5fd25110413c69853218bbcbb0169f73c8f06e1)
+
+6. I have a sons in my family.
+   (ID: a61db1f2f0a3d15376fd168a1637c028f25100e1)
+
+7. I have a mother in my family.
+   (ID: ae9e10cc82b9b20c52f819c70c83f657724f9f44)
+
+8. I have a mother in my family.
+   (ID: 6b2e7201275c9aa1dcb6d1b24840765a41796c3d)
+
+9. I have a father in my family.
+   (ID: 4917a362688355621979e016028f58dbf7f3ac7e)
+
+10. I have a mother in my family.
+   (ID: 7c0a90108389e898ab80f1c7af44e170b85c6d76)
+
+11. I have a father in my family.
+   (ID: a0430b9e9d663be002c794e513ad3a0135307e6c)
+
+12. I have a sister in my family.
+   (ID: 3158d7c63f10e871a80f147fb47725c8714163c7)
+
+13. I have a son in my family.
+   (ID: 0d5c70b45072ef9ffc8fb257e4775e8302391e3c)
+
+14. I have a sister in my family.
+   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
+
+15. I have a mother in my family.
+   (ID: 8b409a812bfe5e21e6e8924b5c822fc50d0d2c9a)
+
+16. I have a brothers in my family.
+   (ID: 51417b57f4b2dc72dd07ac6a8ebfc978fa9d0661)
+
+17. I have a brother in my family.
+   (ID: c1af2a10f968ba6f52d825dbf8fc9b8210db72ba)
+
+18. I have a mother in my family.
+   (ID: 7a3a98777bf2cebb6bd14409075a19b82035e535)
+
+19. I have a brother in my family.
+   (ID: 7fdfc2063b89c8be6521566a61aeb5bf9497d47e)
+
+20. I have a mother in my family.
+   (ID: 95acb2ca6e2c4b0e43ae1565f6eb3f529105e156)
+
+
+--- PersonaChat ---
+Total from this dataset: 5
+
+1. i have an older brother .
+   (ID: conversation_81)
+
+2. i have two brothers .
+   (ID: conversation_242)
+
+3. i've two nephews .
+   (ID: conversation_99)
+
+4. i've a twin brother .
+   (ID: conversation_57)
+
+5. i've one son .
+   (ID: conversation_55)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I have two nephews.
+   (ID: conversation_130_user_2)
+
+2. I have a twin brother.
+   (ID: conversation_19_user_2)
+
+3. I have a son.
+   (ID: conversation_155_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 3108
+
+Dataset distribution in this cluster:
+  FoCus: 97 (3.1%)
+  MPChat: 864 (27.8%)
+  MSC: 256 (8.2%)
+  PEC: 623 (20.0%)
+  PER-CHAT: 829 (26.7%)
+  PersonaChat: 121 (3.9%)
+  SyntheticPersonaChat: 318 (10.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 97
+
+1. I don't like the high temperatures associated with pyroclastic flows.
+   (ID: G4JZMW0OPV0G_11)
+
+2. I don’t like church.
+   (ID: JFAHL3MTTLAX_11)
+
+3. I like agricultural land.
+   (ID: QCGNF3BW4P3K_11)
+
+4. I am not a fan of Manchester city.
+   (ID: UVWYNJ9N0J17_11)
+
+5. I love Italian food.
+   (ID: DIQU5A0EAGWM_11)
+
+6. I like dolphins.
+   (ID: LH031RZU9PAS_11)
+
+7. I don't like mountains.
+   (ID: KGUNB0DFP7UP_11)
+
+8. I like street.
+   (ID: FOZE4Q84M3RX_11)
+
+9. I don't like reptiles.
+   (ID: X5NX5GAWOEW2_11)
+
+10. I wish I could taste the local cuisine.
+   (ID: RFPVSNBT5GPS_11)
+
+11. I don't like canals.
+   (ID: DMD9S9COJOIA_7)
+
+12. I am curious about the Titanic.
+   (ID: AHA35P484Z5B_11)
+
+13. I like caves.
+   (ID: N3BKTMTKN6PG_11)
+
+14. I like earthenwares.
+   (ID: AQN3EJ76NIKJ_11)
+
+15. I like rivers.
+   (ID: AOQJE7BBYFVM_11)
+
+16. I like the name Alexandra.
+   (ID: F91BK688K9G1_11)
+
+17. I like Lakes.
+   (ID: Q997WWV6FO9L_11)
+
+18. I would like to discover the typical food of Australia.
+   (ID: JJN7XJSS0B4W_11)
+
+19. I don't like Sackett Avenue.
+   (ID: EI53JQVYRP0R_11)
+
+20. I like Pac Man.
+   (ID: SMBXGLB08A4C_11)
+
+
+--- MPChat ---
+Total from this dataset: 864
+
+1. [i ate] avocado toast
+   (ID: patm28)
+
+2. mango cake i made last weekend
+   (ID: justcook_byangel)
+
+3. made a witch unicorn cake for my moms birthday today
+   (ID: castaneda2912)
+
+4. 40th birthday cake i made.
+   (ID: DeanIsHotter)
+
+5. store bought rainbow sprinkles are terrible, so my wife made some herself.
+   (ID: 05twister)
+
+6. i enjoy making novelty cakes, i know it's nothing near professional standard but what do you think?
+   (ID: APacman)
+
+7. i made my friend a schnauzer cake for her birthday!
+   (ID: 1cecream4breakfast)
+
+8. my grandson wanted a shark, beach, sea, dolphin, boat cake for his birthday... delivered
+   (ID: Lady_FriendOfSpiders)
+
+9. i made this chocolate cake with blueberry
+   (ID: ik_95)
+
+10. here's my going away cake- all buttercream!
+   (ID: BananaStand07)
+
+11. i smoke brisket just to make sandwiches
+   (ID: MonstaEatsItAll)
+
+12. just made my very first ice cream cake
+   (ID: SugarHighBakedGoods)
+
+13. i made doritos dinamita chicken wings
+   (ID: cookinwithclint)
+
+14. i made a buffalo chicken sandwich
+   (ID: cookinwithclint)
+
+15. [i ate] lobster over chinese sticky rice
+   (ID: patm28)
+
+16. i baked a raisins bread for sunday.
+   (ID: gelimausi)
+
+17. after years seen my friend doing macarons.
+   (ID: justcook_byangel)
+
+18. just made this cake for my nephew.
+   (ID: castaneda2912)
+
+19. i made little slider boys for lunch
+   (ID: Flattishsassy)
+
+20. been busy creating recipes for the food truck i am starting.
+   (ID: ReturnOfTheFox)
+
+
+--- MSC ---
+Total from this dataset: 256
+
+1. I love eating chips and cheese.
+   (ID: dialog_54_speaker_2)
+
+2. I am a vegetarian. I have many friends who also are vegetarians.
+   (ID: dialog_88_speaker_2)
+
+3. I like to be clean.
+   (ID: dialog_6_speaker_2)
+
+4. I like fried chicken and fish.
+   (ID: dialog_82_speaker_1)
+
+5. I'm a meat eater. I dropped out of college.
+   (ID: dialog_35_speaker_2)
+
+6. I enjoy Somali food. I love foods with unusual ingredients.
+   (ID: dialog_16_speaker_1)
+
+7. I've never eaten horse meat. I do have a few French recipes that include horse meat. I have cooked with reindeer and antelope meat before.
+   (ID: dialog_119_speaker_2)
+
+8. I eat fish all the time.
+   (ID: dialog_104_speaker_2)
+
+9. I eat a lot of seafood. I like shrimp. I'm not good at cooking.
+   (ID: dialog_105_speaker_1)
+
+10. I do not like horror novels.
+   (ID: dialog_98_speaker_2)
+
+11. I love sushi and eat it when I study.
+   (ID: dialog_23_speaker_1)
+
+12. I have allergies.
+   (ID: dialog_48_speaker_2)
+
+13. I like junk food. Meat and pizza are my favorite.
+   (ID: dialog_25_speaker_1)
+
+14. I am a vegetarian. I have many friends who also are vegetarians. I like cooking vegetarian dishes for my friends.
+   (ID: dialog_88_speaker_2)
+
+15. I can jam. My wife likes to cook.
+   (ID: dialog_0_speaker_1)
+
+16. I don't eat meat.
+   (ID: dialog_88_speaker_2)
+
+17. I like to bake. I rarely bake. I am on a diet.
+   (ID: dialog_16_speaker_1)
+
+18. I do not like skiing.
+   (ID: dialog_31_speaker_1)
+
+19. I spend a lot of time in the kitchen.
+   (ID: dialog_109_speaker_1)
+
+20. I am a vegan.
+   (ID: dialog_86_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 623
+
+1. i had real cake today cos it 's my bday .
+   (ID: scoutsadie)
+
+2. i do n't like soy milk :( i feel like a bad vegetarian .
+   (ID: monday_madrigal)
+
+3. i think my split pea soup is too pungent , any tips ?
+   (ID: bbakks)
+
+4. i 've made this with green tomatoes and used different herbs .
+   (ID: Waterrat)
+
+5. i loved the liver omelette for the mother - in - law .
+   (ID: StinkinFinger)
+
+6. i love home made cider !
+   (ID: whyunogivemegoodname)
+
+7. i love chinese food too .
+   (ID: IgnoranceIsAVirus)
+
+8. i 'm not a fan of dc .
+   (ID: CarlofTime)
+
+9. i like ‘ starships ’
+   (ID: ChallengeTaken99)
+
+10. i am partial to a good malted milk
+   (ID: bigfuckingdiamond)
+
+11. i 'll still drink them , they just suck in comparison .
+   (ID: closetotheedge48)
+
+12. i just went with my " candyland " mood .
+   (ID: Nheea)
+
+13. i work at chop a few times a week so that ’s great to know .
+   (ID: vivagypsy)
+
+14. i was so impressed with wave .
+   (ID: JimmyMcShiv)
+
+15. i was silent for the majority of the lunch and the car ride home .
+   (ID: _gansmadchen)
+
+16. i 'm making bitters for the first time and i 've got a question for ya !
+   (ID: closetotheedge48)
+
+17. i would toss in a couple hot dogs and call in my dogs and cats .
+   (ID: bbakks)
+
+18. i 'm not a dog eater but i got hungry as fuck .
+   (ID: Ian_Str8)
+
+19. i made " fried " pickles and avacado / chickpea ranch .
+   (ID: ItGetsAwkward)
+
+20. i like midwestern / minnesotan accents .
+   (ID: themarajade1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 829
+
+1. One of my favorite things is egg salad.
+   (ID: fe374743dd856c29f2117723cef01c1fdc3b3b5b)
+
+2. One of my favorite things is icecream.
+   (ID: 8285a776fd60b145ed2afc145cdf2b926b93ed8b)
+
+3. One of my favorite things is peppers.
+   (ID: c418fa452eafbca022ce1c49b521d4574aa77cd1)
+
+4. One of my favorite things is fried chicken.
+   (ID: afb309c0f8d875957ab1e2c406a762b6127668b6)
+
+5. yea , i mean op gas a point , the food will digit  likely be fine at those time scales , but it would be really easy to forget to put the food away and accidentally leave it out for hours . it ' s better to take care of leftovers as soon as possible .
+   (ID: 8f7369c6ebb47df350fec663be46dfd8481ee2db)
+
+6. One of my favorite things is bacon.
+   (ID: 4d69affb6415148eda5d5103b282ce15476169d5)
+
+7. I'm interested in vegan and vegetarian.
+   (ID: 5ad91cf15026f9d604e90af77be91ab4f6b7289a)
+
+8. One of my favorite things is garlic powder.
+   (ID: 77e0b8c51dfb89ff57bd838b86ee4d78a9fe856f)
+
+9. the smell of those purple gluesticks
+   (ID: 2834b254700cedfb96641229b712899b4d697418)
+
+10. you need to eat meat to survive and vegans are dumbasses . digit years later i ' m a vegan . huh .
+   (ID: 3fff1b9f2826f67730a90b0826e2ae56278e5d92)
+
+11. One of my favorite things is kfc.
+   (ID: 1b15fd08311192b471933a314f66dc758a923c02)
+
+12. One of my favorite things is peaches.
+   (ID: a1ba9b657b043ce2934cc0ae7b42c0a0bf3ba2fa)
+
+13. One of my favorite things is oreo milkshakes.
+   (ID: 8260f82c24d2a4a134e92bf2fdcfc09a8eecf8fa)
+
+14. One of my favorite things is soup.
+   (ID: 3f03e19f839d6382fd2b368797fa9feed1073b58)
+
+15. One of my favorite things is pineapple  pizza.
+   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+
+16. One of my favorite things is home cooking.
+   (ID: 7ebdc00c75f6f836557e13d39a9efb279ed2ef7a)
+
+17. advantage  allowing more space for living accomodation disadvantage  condensing huge mass into a tiny volume , creating black holes
+   (ID: a04ffec23ab9c2af8d4ac433e06db2b5d1b4bf9b)
+
+18. One of my favorite things is ginger.
+   (ID: 9b41f9c0d7bce732d9af75c3b13bd58e9ce2a1e1)
+
+19. One of my favorite things is rice milk.
+   (ID: 1e6ea64fb15fb5b12b1d82a3a5bdced4e3a6559a)
+
+20. wait , starbucks cups weren  t recyclable already ?  wtaf ! who thought this was a good idea and why wasn  t this against some kind of law . good lord . how many wasted cups are we talking about ? what year is this anyway ? i may need a coffee and a lay down , wow .
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+
+
+--- PersonaChat ---
+Total from this dataset: 121
+
+1. i love gummy bears .
+   (ID: conversation_307)
+
+2. i despise sweet potatoes .
+   (ID: conversation_304)
+
+3. i'm a vegetarian .
+   (ID: conversation_88)
+
+4. i am a vegan .
+   (ID: conversation_282)
+
+5. i am a vegan .
+   (ID: conversation_155)
+
+6. i can t get enough gummy worms to satisfy my sweet tooth .
+   (ID: conversation_25)
+
+7. i only eat organic food .
+   (ID: conversation_210)
+
+8. i take pride in my job managing the restaurant .
+   (ID: conversation_316)
+
+9. my favorite food is sushi .
+   (ID: conversation_134)
+
+10. my favorite meal is steak .
+   (ID: conversation_309)
+
+11. i like to cook .
+   (ID: conversation_268)
+
+12. i'm vegan .
+   (ID: conversation_20)
+
+13. i love to cook .
+   (ID: conversation_46)
+
+14. i like baths .
+   (ID: conversation_6)
+
+15. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+16. i'm allergic to cats .
+   (ID: conversation_222)
+
+17. i love cooking .
+   (ID: conversation_199)
+
+18. my favorite jello is the blue one .
+   (ID: conversation_236)
+
+19. i like to bake .
+   (ID: conversation_141)
+
+20. my favorite food is pizza .
+   (ID: conversation_188)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 318
+
+1. I cook well.
+   (ID: conversation_107_user_1)
+
+2. I am a vegan.
+   (ID: conversation_206_user_1)
+
+3. I like barbies.
+   (ID: conversation_58_user_2)
+
+4. I decided to become vegan a year ago.
+   (ID: conversation_51_user_1)
+
+5. My weakness are sweets.
+   (ID: conversation_7_user_1)
+
+6. I am vegan.
+   (ID: conversation_42_user_1)
+
+7. I am a vegan.
+   (ID: conversation_192_user_1)
+
+8. My favorite food is pizza.
+   (ID: conversation_133_user_1)
+
+9. Wedding cakes are my specialty.
+   (ID: conversation_21_user_2)
+
+10. I love pizza.
+   (ID: conversation_312_user_1)
+
+11. I love eating out.
+   (ID: conversation_65_user_2)
+
+12. I am a baker.
+   (ID: conversation_177_user_1)
+
+13. I cook well.
+   (ID: conversation_106_user_1)
+
+14. My favorite food is pizza.
+   (ID: conversation_336_user_2)
+
+15. I cannot eat shrimp.
+   (ID: conversation_56_user_2)
+
+16. Subway is my favorite fast food restaurant.
+   (ID: conversation_271_user_1)
+
+17. People say i can cook well.
+   (ID: conversation_89_user_2)
+
+18. I don t like the beach.
+   (ID: conversation_340_user_2)
+
+19. I am always hungry.
+   (ID: conversation_204_user_2)
+
+20. My weakness are sweets.
+   (ID: conversation_10_user_1)
+
+
+============================================================

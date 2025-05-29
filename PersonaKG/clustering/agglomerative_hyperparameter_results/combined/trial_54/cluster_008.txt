@@ -1,0 +1,446 @@
+CLUSTER 8
+============================================================
+Total statements in cluster: 2325
+
+Dataset distribution in this cluster:
+  FoCus: 13 (0.6%)
+  MPChat: 378 (16.3%)
+  MSC: 174 (7.5%)
+  PEC: 708 (30.5%)
+  PER-CHAT: 677 (29.1%)
+  PersonaChat: 105 (4.5%)
+  SyntheticPersonaChat: 270 (11.6%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 13
+
+1. I like sand.
+   (ID: CXUYRK4MA1NB_11)
+
+2. I would like to discover the typical food of Australia.
+   (ID: JJN7XJSS0B4W_11)
+
+3. I love Italian food.
+   (ID: DIQU5A0EAGWM_11)
+
+4. I especially like eating hamburgers lying on the hill.
+   (ID: ZDIM8K78EM2D_11)
+
+5. I have heard of the Otomi.
+   (ID: ZWQO9OQ8DX45_11)
+
+6. I like Ballari Gudda.
+   (ID: UN54IACHSTX5_11)
+
+7. I like making food.
+   (ID: NR67D1SY5ZKB_11)
+
+8. I am Coca-Cola addicted.
+   (ID: TF4SZWIWHJO4_11)
+
+9. I like gold.
+   (ID: OOU8UC23AVLV_11)
+
+10. I like vegetarian food.
+   (ID: TF4SZWIWHJO4_11)
+
+11. I like the organ.
+   (ID: 9IFEU12EAOWB_11)
+
+12. I love the smell of Lotus.
+   (ID: KGYT5MMVNDSG_11)
+
+13. I like marble.
+   (ID: CE0AK99XDA0R_9)
+
+
+--- MPChat ---
+Total from this dataset: 378
+
+1. [i ate] 1/2 lb wagyu burger with bacon, maine lobster, brie and a truffle aioli.
+   (ID: patm28)
+
+2. i tried for the first time castella pancake.
+   (ID: justcook_byangel)
+
+3. my husband makes the best burgers
+   (ID: FormalSwimming)
+
+4. i have never been to a brunch wedding, but i am a fan!
+   (ID: onemantwohands)
+
+5. went to the krishna temple in utah to eat and i got to feed the llamas
+   (ID: kentobean123)
+
+6. goey rueben my fave sandwich
+   (ID: onemantwohands)
+
+7. rate my burger - thin patty, shredded lettuce, tomato, special sauce
+   (ID: elocdylan)
+
+8. lost some molars on a mountain bike accident, luckily i can still eat salmon!
+   (ID: onemantwohands)
+
+9. [i ate] custard filled piggy buns
+   (ID: patm28)
+
+10. pork belly burnt ends i did on my broil king pellet xl
+   (ID: cookinwithclint)
+
+11. my first time making lagasna w/ spicy sausage & spinach.
+   (ID: onemantwohands)
+
+12. [i ate] egg while frittata with arugula cucumbers avocado and tomatoes.
+   (ID: patm28)
+
+13. gizmo trying to steal the food out of my mouth like the little gremlin he is
+   (ID: kentobean123)
+
+14. my hubby makes the best
+   (ID: FormalSwimming)
+
+15. i like to bake in rainbow colors.
+   (ID: Soliloquy119)
+
+16. the colorful start to my turkey bone broth[oc]
+   (ID: onemantwohands)
+
+17. post-turkey coffee so i dont fall asleep.
+   (ID: coffeehawaii)
+
+18. i always make treats for my office.
+   (ID: ddizzle23)
+
+19. [i ate] cheeseburger
+   (ID: patm28)
+
+20. got some decaf beans, figured i'd make an evening latte :)
+   (ID: Nutellism)
+
+
+--- MSC ---
+Total from this dataset: 174
+
+1. My favorite food is italian.
+   (ID: dialog_5_speaker_1)
+
+2. I've slightly different taste in things than most people.
+   (ID: dialog_25_speaker_2)
+
+3. I don't know how to make lasagna.
+   (ID: dialog_44_speaker_2)
+
+4. I prefer meat products of the cow variety.
+   (ID: dialog_59_speaker_2)
+
+5. I've no self control when it comes to candy.
+   (ID: dialog_25_speaker_2)
+
+6. I shooting my meals.
+   (ID: dialog_19_speaker_2)
+
+7. I haven't made dumplings from scratch. I have cooked frozen dumplings.
+   (ID: dialog_46_speaker_1)
+
+8. I enjoy Somali food. I love foods with unusual ingredients.
+   (ID: dialog_16_speaker_1)
+
+9. I like to bake pies.
+   (ID: dialog_49_speaker_1)
+
+10. I need to make healthier choices when I go out to eat.
+   (ID: dialog_33_speaker_2)
+
+11. I love to eat pizza with my friends. I love deep dish pepperoni pizza. I work art time at a pizza restaurant.
+   (ID: dialog_7_speaker_2)
+
+12. I enjoy burgers. I go fishing.
+   (ID: dialog_33_speaker_2)
+
+13. Prime rib is my favorite meat.
+   (ID: dialog_0_speaker_1)
+
+14. I try to eat less meat.
+   (ID: dialog_10_speaker_1)
+
+15. I have allergies.
+   (ID: dialog_48_speaker_1)
+
+16. I am a foodie.
+   (ID: dialog_46_speaker_2)
+
+17. Meat and pizza are my favorite.
+   (ID: dialog_25_speaker_1)
+
+18. I always volunteer to bring the dessert to a birthday party.
+   (ID: dialog_57_speaker_2)
+
+19. I enjoy baking.
+   (ID: dialog_60_speaker_1)
+
+20. I enjoy Chinese food. I haven't made dumplings from scratch. I have cooked frozen dumplings. I enjoy different types of oriental food like thai or chinese. I have never tried the Gold standard of egg friend rice.
+   (ID: dialog_46_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 708
+
+1. i kill sweet cravings by eating something sour -- pickles , sauerkraut , vinaigrette dressing -- whatever it takes .
+   (ID: MILeft)
+
+2. i 'll trade you this cancer for some money .
+   (ID: I_am_not_a_Taco)
+
+3. i understand and i 'm the same with tea / tisane / where 's the zing .
+   (ID: parkleswife)
+
+4. i 'm glad the stove is off .
+   (ID: KikAtWorkFL)
+
+5. i bet he asks about their spaghetti policy every night .
+   (ID: Lagnaktor)
+
+6. i live just a few miles away and will definitely give them a try !
+   (ID: mmaswadeh)
+
+7. i am lucky enough to live within walking distance of a japanese grocery store .
+   (ID: chirpyboyandbartjr)
+
+8. i use the cleanser and love it ! !
+   (ID: rycheme)
+
+9. i too was thinking bean sheller .
+   (ID: LooksAtClouds)
+
+10. i 've been eating salted macadamia nuts lately .
+   (ID: VanGoJourney)
+
+11. i 'm the same way about in - in - out .
+   (ID: KikAtWorkFL)
+
+12. i know the guy that makes the hamsters ... classic !
+   (ID: notlikethat1)
+
+13. i wanna order a pizza and go through each video .
+   (ID: underneathstars)
+
+14. i 'd never even question it , you look great .
+   (ID: bigfuckingdiamond)
+
+15. i was literally just wondering if they had a non dairy option , this is great
+   (ID: buttercup_mauler)
+
+16. i called my mom for the gravy and she talked me through it .
+   (ID: chirpyboyandbartjr)
+
+17. i 'm making bitters for the first time and i 've got a question for ya !
+   (ID: closetotheedge48)
+
+18. i think eating fresh plants / veggies helps a lot to prevent illnesses :)
+   (ID: conservative_poly)
+
+19. i eat about 1500 calories a day- up to 1800 some days .
+   (ID: almajanemi)
+
+20. i would n’t eat it .
+   (ID: AP7497)
+
+
+--- PER-CHAT ---
+Total from this dataset: 677
+
+1. One of my favorite things is peppers.
+   (ID: c418fa452eafbca022ce1c49b521d4574aa77cd1)
+
+2. One of my favorite things is pot.
+   (ID: 70dae4f10700534d78c70b4931932d38e3fa7df5)
+
+3. One of my favorite things is sitcom jokes.
+   (ID: b386bb7f54bebf7edfe66a27e8d881a61bd1d6df)
+
+4. One of my favorite things is pickled herring.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+5. are you going to eat that ?
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+6. One of my favorite things is japanese pickles.
+   (ID: af0db6dfe4be67a6b6915437597ea564bbb33830)
+
+7. i  m eyeing the black leather dionysus it  s exactly my style ! i  ve been lurking for a while and this might be my first purchase . does anyone have any experience with purchasing this bag from heidi ? i couldn  t find much through the search bar
+   (ID: 8d5aac58a9c3a7e883f9e90df39dc5ab7c36de53)
+
+8. One of my favorite things is dough.
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
+
+9. One of my favorite things is sushi.
+   (ID: d34c3e58ec43e53b7d6bfdd857ddcfa727257f80)
+
+10. who said anything about cutting calories ? i said eating . once . a . day . eating once a day doesn  t necessarily mean you  re cutting calories . it depends on what you eat and how physical you are . i assumed the op eats something high in calories and fat for that one meal which if you eat a meal with those characteristics you will hinder any weight loss efforts but the op said they  re not trying to lose weight so it  s irrelevant .
+   (ID: 60a31a4071ae4962f2a308822d53a634a3760fa1)
+
+11. all of them . all meals i ' ve never eaten i will never be able to recreate .
+   (ID: c3b51ad627b2162cac848c7fadd53da61827346a)
+
+12. One of my favorite things is pretzels.
+   (ID: 4ae54d4dcad6354406284af9bc07ffc708ce92a2)
+
+13. One of my favorite things is subwayhentai.
+   (ID: 818422b560c80f37eedf14f771cd2fcd3657589a)
+
+14. One of my favorite things is soup life.
+   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
+
+15. omg there ' s a food that sounds like it ? maybe das why
+   (ID: 18cbf1c145fcc3d10b99255dd1de8fb616ecb38f)
+
+16. One of my favorite things is bbq.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+17. One of my favorite things is junk food.
+   (ID: 68b48505d5f7a16cf14847c82fff612e6bd59090)
+
+18. One of my favorite things is butter naan.
+   (ID: 4422c1db26c9be5bec35694a448a490c2761d985)
+
+19. only when i am craving something in particular like mudpie , which isn ' t very often .
+   (ID: 664b365f80ff1d51db95866fada8009f14d8e9b1)
+
+20. One of my favorite things is tie flavor.
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+
+--- PersonaChat ---
+Total from this dataset: 105
+
+1. i make and me by waiting tables .
+   (ID: conversation_21)
+
+2. i eat large meals .
+   (ID: conversation_16)
+
+3. i am a meat eater .
+   (ID: conversation_209)
+
+4. i hate tofu .
+   (ID: conversation_30)
+
+5. i enjoy eating pumpkins .
+   (ID: conversation_174)
+
+6. i drink diet coke .
+   (ID: conversation_123)
+
+7. my favorite food is spaghetti and meatballs .
+   (ID: conversation_37)
+
+8. i hate popcorn .
+   (ID: conversation_245)
+
+9. i don t eat meat .
+   (ID: conversation_65)
+
+10. my favorite food is steak .
+   (ID: conversation_231)
+
+11. i am primarily a meat eater .
+   (ID: conversation_4)
+
+12. i love to bake cakes .
+   (ID: conversation_57)
+
+13. i love to cook for my family and friends .
+   (ID: conversation_41)
+
+14. my favorite food is pizza .
+   (ID: conversation_188)
+
+15. i allergic to peanuts .
+   (ID: conversation_247)
+
+16. i eat ice cream when i am sad .
+   (ID: conversation_170)
+
+17. i drink a lot of apple martinis when i get a girls night out .
+   (ID: conversation_75)
+
+18. i'm a carnivore .
+   (ID: conversation_146)
+
+19. my favorite jello is the blue one .
+   (ID: conversation_236)
+
+20. my favorite foods are fried chicken and chocolate cake .
+   (ID: conversation_193)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 270
+
+1. I like candy and soda.
+   (ID: conversation_33_user_2)
+
+2. I like to eat spaghetti.
+   (ID: conversation_103_user_2)
+
+3. My weakness are sweets.
+   (ID: conversation_9_user_1)
+
+4. We drink beer and eat food.
+   (ID: conversation_239_user_2)
+
+5. I decided to become vegan a year ago.
+   (ID: conversation_133_user_2)
+
+6. My favorite food is macaroni and cheese.
+   (ID: conversation_236_user_2)
+
+7. I am slightly overweight , but my doctors say i m healthy.
+   (ID: conversation_134_user_1)
+
+8. I m a vegetarian but i eat fish , especially sushi.
+   (ID: conversation_51_user_2)
+
+9. I like dr pepper and black jack gum , but not together.
+   (ID: conversation_172_user_2)
+
+10. I am a vegan.
+   (ID: conversation_217_user_1)
+
+11. I am a vegan.
+   (ID: conversation_203_user_1)
+
+12. I am a vegan.
+   (ID: conversation_221_user_1)
+
+13. I hate the taste of fish.
+   (ID: conversation_195_user_1)
+
+14. I am bloated.
+   (ID: conversation_232_user_1)
+
+15. I am a vegan.
+   (ID: conversation_190_user_1)
+
+16. I make my own soap.
+   (ID: conversation_153_user_2)
+
+17. I am a vegan.
+   (ID: conversation_195_user_1)
+
+18. My favorite food is strawberries.
+   (ID: conversation_46_user_1)
+
+19. I am chubby.
+   (ID: conversation_88_user_1)
+
+20. I m bloated.
+   (ID: conversation_53_user_1)
+
+
+============================================================

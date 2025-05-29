@@ -1,16 +1,15 @@
 CLUSTER 74
 ============================================================
-Total statements in cluster: 240
-Cluster persistence (stability): 0.988
+Total statements in cluster: 297
+Cluster persistence (stability): 0.488
 
 Dataset distribution in this cluster:
-  FoCus: 24 (10.0%)
-  MPChat: 11 (4.6%)
-  MSC: 10 (4.2%)
-  PEC: 177 (73.8%)
-  PER-CHAT: 2 (0.8%)
-  PersonaChat: 12 (5.0%)
-  SyntheticPersonaChat: 4 (1.7%)
+  FoCus: 2 (0.7%)
+  MPChat: 37 (12.5%)
+  MSC: 2 (0.7%)
+  PEC: 157 (52.9%)
+  PER-CHAT: 93 (31.3%)
+  PersonaChat: 6 (2.0%)
 
 ============================================================
 
@@ -18,268 +17,237 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 24
+Total from this dataset: 2
 
-1. I love the name Kielplaats.
-   (ID: WT0FL97IGHLW_11)
+1. I have not visited a zoo in a long time.
+   (ID: LFGIG1TODPKB_11)
 
-2. I love cathedrals.
-   (ID: TDUTQ7NCYJ1S_11)
-
-3. I love Reidar Andersen.
-   (ID: TB8HHXAP822G_11)
-
-4. I love Pasterze glacier.
-   (ID: YLLQOXHD6MZC_7)
-
-5. I love Mardi Gras.
-   (ID: TF4SZWIWHJO4_11)
-
-6. I love Llangynog for its cleanliness.
-   (ID: QD76MDAZKTVK_11)
-
-7. I love Hanumappa Nayaka.
-   (ID: UN54IACHSTX5_11)
-
-8. I love the Cirque Du Soleil.
-   (ID: HBB4I3JKIRP5_9)
-
-9. I love peaks.
-   (ID: BPCV4KG0PEMD_7)
-
-10. I love geological findings conducted by volcanologists.
-   (ID: G4JZMW0OPV0G_11)
-
-11. I love Nikolaevsky.
-   (ID: 9VN3FMWR0NNR_11)
-
-12. I love Congregation Baith Israel.
-   (ID: VQJADZ97TJ0Z_11)
-
-13. I love Nieuwediep.
-   (ID: WT0FL97IGHLW_11)
-
-14. I love aqueducts.
-   (ID: GC9BAJTK54F1_11)
-
-15. I love RAF Cleave.
-   (ID: DNUH5LJGPOZC_11)
-
-16. I love Buckinghamshire.
-   (ID: JBP0INT1W707_11)
-
-17. I love Stephen Olin.
-   (ID: NXTH1QSPOJFF_11)
-
-18. I would love to vist Divljana Monastery again.
-   (ID: V0DLNYLN813E_11)
-
-19. I love bats.
-   (ID: X3WVWF5IVCYD_11)
-
-20. I love the village.
-   (ID: YFMEKH9C9CFO_11)
+2. I am very comfortable spending time on airports.
+   (ID: MOQ91EYP2W9X_11)
 
 
 --- MPChat ---
-Total from this dataset: 11
+Total from this dataset: 37
 
-1. skellinon - i love this shawl
-   (ID: RayRay108)
+1. first time making camembert, so i made two in case something went wrong.
+   (ID: Potato_Quesodilla)
 
-2. this is why i love bottomless portafilters.
-   (ID: Ry_)
+2. supporting my fav local sushi joint 2 rolls @ a time during this covid struggle
+   (ID: MonstaEatsItAll)
 
-3. i love your derp.
-   (ID: lizdavis17)
+3. i typically bake sweets but this morning i made egg bagels for the first time!
+   (ID: chirp16)
 
-4. i love my donabe.
-   (ID: neonlouvre)
+4. what's wrong with my two at a time socks set up?
+   (ID: kns89)
 
-5. i love beetles and so i made this stamp!
-   (ID: pocket_kira)
+5. my second time ever pouring a proper v60 hand brew.
+   (ID: Soggypaper_)
 
-6. swatched up halloweentown and i'm in love.
-   (ID: ninjaeatingzombie)
+6. first time trying strawberries - should i be cutting anything?
+   (ID: MafHoney)
 
-7. love my cypress hideaway!
-   (ID: pope237)
+7. this bro was having a swell time on my door
+   (ID: xxHikari)
 
-8. why i love this thermometer.
-   (ID: scottstephenson)
+8. it rained almost the whole time when i visited death valley national park, usa
+   (ID: ChristophZee)
 
-9. i'm in love with spooky and glitter.
-   (ID: skorletun)
+9. it's the smallest room in my house, but i spend most of my time in here
+   (ID: crunch816)
 
-10. i love my mk6 gli
-   (ID: bryanw0104)
+10. started the morning off with some awesome fog for my kids first time on the river
+   (ID: CallMeBigBobbyB)
 
-11. i'm in love with this cabled cowl!
-   (ID: ddizzle23)
+11. my stock of apple butter is being added to one crock pot at a time
+   (ID: kaimkre1)
+
+12. my first time backpacking in yosemite national park.
+   (ID: garret_weintrob)
+
+13. i am not feeding you every time i open the fridge!
+   (ID: krichmondRPH)
+
+14. it was my first time working on a project so large!
+   (ID: fredbutt)
+
+15. my first time sewing a slipcover/sewing a zipper/reupholstering!
+   (ID: hmbmelly)
+
+16. quite proud for my first time making this cookies.
+   (ID: justcook_byangel)
+
+17. my first time making lagasna w/ spicy sausage & spinach.
+   (ID: onemantwohands)
+
+18. this is the 3rd time i'm attempting this heel.
+   (ID: MaximumLoaf)
+
+19. it's ornament making season, and my first time making them after 5 years of practicing the craft.
+   (ID: audballofclay)
+
+20. i rv full-time, and my disc golf basket comes along with us.
+   (ID: tstandiford)
 
 
 --- MSC ---
-Total from this dataset: 10
+Total from this dataset: 2
 
-1. I love Crookshanks.
-   (ID: dialog_48_speaker_1)
+1. I have a busy lifestyle. I don't have time for hobbies. I usually spend time tinkering with 2 smartphones.
+   (ID: dialog_155_speaker_2)
 
-2. I love peace and love.
-   (ID: dialog_214_speaker_1)
-
-3. I love mosh pits.
-   (ID: dialog_13_speaker_2)
-
-4. I love jager.
-   (ID: dialog_207_speaker_1)
-
-5. I love Zupoo's cheeseburgers.
-   (ID: dialog_219_speaker_2)
-
-6. I love my clan.
-   (ID: dialog_140_speaker_2)
-
-7. I love the nhl.
-   (ID: dialog_86_speaker_1)
-
-8. I love tetris.
-   (ID: dialog_86_speaker_2)
-
-9. I love me some brisket.
-   (ID: dialog_184_speaker_2)
-
-10. I love my knee highs.
-   (ID: dialog_59_speaker_2)
+2. Both of my parents get along most of the time.
+   (ID: dialog_165_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 177
+Total from this dataset: 157
 
-1. i love your flexibility .
-   (ID: kimru3344)
+1. i do n't have time for this shit
+   (ID: Osiris0123)
 
-2. i love kam .
-   (ID: EvieAugust)
+2. i was sick at the time and was using the tissue for my nose only .
+   (ID: Naughty_Bimbo)
 
-3. i love dimples !
-   (ID: latestartksmama)
+3. i do that every time .
+   (ID: Boop-D-Boop)
 
-4. i love ducklings !
-   (ID: noworriestoday)
+4. i get this all time
+   (ID: mooonjellies)
 
-5. i 'd love to see the magnitude .
-   (ID: no_quarter_4_commies)
+5. i ’m scheduling some chair time now .
+   (ID: error785)
 
-6. i 'd love a bayern munich crest
-   (ID: thed0ctah)
+6. i 'm done waiting , it 's time for me to pursue my dream
+   (ID: shockrush)
 
-7. i love stella .
-   (ID: amirman)
+7. i could watch that or david cross 's " let america laugh " most of the time .
+   (ID: jesuschrysler)
 
-8. i love this weirdo ❤ ️
-   (ID: mrhenk9)
+8. i 'm having a bit of a tough time dealing with dysthymia
+   (ID: Always_Ask_4_Sources)
 
-9. i love the dialog .
-   (ID: Hypersapien)
+9. i realized that he needed more time .
+   (ID: FruitBatFanatic)
 
-10. i love that show !
-   (ID: Hypersapien)
+10. i limit myself to 2 - 3 things each time and that ’s a splurge already .
+   (ID: howfuckedareyou)
 
-11. i love being my kitties ' momma .
-   (ID: scoutsadie)
+11. i told her no and we needed to set another time .
+   (ID: Simplisticjoy)
 
-12. i love ucb !
-   (ID: mushpuppy)
+12. i dun goofed for the second time
+   (ID: whirlpoohl)
 
-13. i 'd love a postcard with rick and morty stickers ❤ ️ pming now
-   (ID: JacksChocolateCake)
+13. i grilled my pizzas last night for the first time too .
+   (ID: metalbark)
 
-14. i love his joie de vivre !
-   (ID: hardt0f0rget)
+14. i listen to this album on amazon prime all the time !
+   (ID: jennabunnykins)
 
-15. i love all of this !
-   (ID: Ooer)
+15. i have 13 million sp and pvp all the time .
+   (ID: coocha)
 
-16. i love wakka but ...
+16. i 'm consistently impressed by how unintelligent he sounds every time he speaks .
+   (ID: BoobieBoobieButtButt)
+
+17. i could stop any time
+   (ID: trav110)
+
+18. i bought it for $ 3 last time it went on sale .
    (ID: Bananafoofoofwee)
 
-17. i love the side speckles .
-   (ID: monday_madrigal)
+19. i have the worst time finding fig soaps though it 's my favorite smell .
+   (ID: sillylionface)
 
-18. i also love carbs .
-   (ID: noworriestoday)
-
-19. i love ether as a name .
-   (ID: NyxPeregrinus)
-
-20. i love theon .
-   (ID: gofiguree)
+20. i knew i should n’t be cutting onions at this time .
+   (ID: YouDirtyDogg)
 
 
 --- PER-CHAT ---
-Total from this dataset: 2
+Total from this dataset: 93
 
-1. one where i find love
-   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+1. one time , a walks in , my restaurant has a order first , pay second policy , so he ordered , he took the food and didnt pay . he never came back
+   (ID: 1b5b08f1246e450c7da09e40c81570fba378da84)
 
-2. i love you the most , dave .
-   (ID: cae6d1fb1a818280e66de4a71148560d2d217d70)
+2. the correct name for this deck is psycho swap ! i played something similar along time ago , but your variation looks much more viable . with all the targets in the line up , maybe you could throw in ! one for one ?
+   (ID: 46f455b780faca36116964131a4d0622c465bf7f)
+
+3. i watched out the window as a horse pooped for the second time today . weird .
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+4. hello , thank you . my father is adding costantly citations in the pages . th eproblem is the site is huge , and this operation will take some time .
+   (ID: c534f6be7832b0516275dfbcc6bcb972fef0978f)
+
+5. nope . it was always one at a time , and one of us would get tired of each other or tired of the sex or get into a relationship .
+   (ID: a7a96dd1037cd21712ad1667faa1223e44090d78)
+
+6. so do you find enough time to go multiple times a week  month ? how often will you go to the cinema ? i also wanted an unlimited card but im afraid i won ' t find enough time lol
+   (ID: 8031d2235c5c79aed4436e575113c1efb8fbe777)
+
+7. " you gotta earn those pentas " me every time i deny a penta .
+   (ID: c7bab55c9bb88c12c5d5679ac03cfc90eeee3232)
+
+8. ughh i despise that so much . adds precisely nothing to the conversation and yet most of the time will be upvoted .
+   (ID: 4be05459ff3da31d5b55f10665fcc3b88a7fa74b)
+
+9. my friends txt tone was ,  that  s a huge twinkie  from ghostbusters . it would go off randomly throughout the night while we were all chatting , and it was perfect timing almost every time .
+   (ID: a154763d4a1c7d2d412ab13eeed4849772817d9a)
+
+10. first time you get a notice in this mail . second time depends on the jurisdiction .
+   (ID: a61db1f2f0a3d15376fd168a1637c028f25100e1)
+
+11. i do this all the time .   x200b  call me the master of " fucking cunts " .
+   (ID: 89cc4133ef401e9e66592b36f27d2307a715e330)
+
+12. is this about wanting to sniff my chair again ? for the last time , i ' m not giving up showers .
+   (ID: 3d776de779e565cac9f29e072415ad6b781eaca0)
+
+13. so is this an accurate representation of my first time ?
+   (ID: 78fa69a4331b899ecec8df4eaae8da353e44c1d5)
+
+14. lazy coworker who eats garbage all the time , and wonders why he feels like shit all the time .
+   (ID: 4a5a9ac8eab027b38804427b3c8c5e19c8991de3)
+
+15. i bet no one will be rooting for leviosa kid when it ' s revealed that he ' s been kaiser soze  ing us this whole time and he ' s the true hooded figure .
+   (ID: 74f2f2c5103268d7730bd50532f6a51c0126ab75)
+
+16. university , living by yourself for the first time is a big eye opener . you have to learn how to take care of yourself , your stuff and your finances . also that shit doesn ' t get itself done and no one but you has to pick up the slack .
+   (ID: 1ab4a61fa2bafda0a2f05eb20a92c419c1c93284)
+
+17. idk it ' s first time this guy ' s captaining let ' s see how much he can control his temper
+   (ID: 1aeb7d227bb9f7bdec3e7350c5522353fdb74354)
+
+18. just time my friend . time heals all wounds .
+   (ID: faebbe18abd4d1c69e3bb9106178f797255444c5)
+
+19. i have no problems with focus or attention and when i take speed adderall , dexidrine , etc well it ' s a euphoric stimulation . it makes me somewhat manic . it makes time fly too .
+   (ID: aeeeb72f8fa4535141823a3cf83acb5f60bbaff4)
+
+20. always when i see a text " pizza time " that scene where peter puts the pile of pizzas on the table and says " pizza time " comes automatically in my mind
+   (ID: 7e4d6ecc7fe0cd7c9463da302f069c65af2af3f7)
 
 
 --- PersonaChat ---
-Total from this dataset: 12
+Total from this dataset: 6
 
-1. i love to recycle .
-   (ID: conversation_530)
+1. i spend as much time as i can with my family .
+   (ID: conversation_449)
 
-2. i love sharks .
-   (ID: conversation_65)
+2. my neighbor comes over all the time to watch rugby with me .
+   (ID: conversation_349)
 
-3. i love sunsets .
-   (ID: conversation_148)
+3. i teach cheerleading in my spare time .
+   (ID: conversation_310)
 
-4. i love pandas .
-   (ID: conversation_88)
+4. i write in my spare time .
+   (ID: conversation_66)
 
-5. i love ergonomic keyboards and chairs .
-   (ID: conversation_385)
+5. i worked 3 jobs at the same time for more than 5 years .
+   (ID: conversation_185)
 
-6. i love to do yoga .
-   (ID: conversation_371)
-
-7. i love bicycling .
-   (ID: conversation_3)
-
-8. i love to go to the symphony orchestra .
-   (ID: conversation_213)
-
-9. i love to gossip .
-   (ID: conversation_435)
-
-10. i love hamburgers .
-   (ID: conversation_244)
-
-11. i love the beatles .
-   (ID: conversation_247)
-
-12. i love to larp .
-   (ID: conversation_74)
-
-
---- SyntheticPersonaChat ---
-Total from this dataset: 4
-
-1. I love my impala.
-   (ID: conversation_451_user_2)
-
-2. I love her though.
-   (ID: conversation_162_user_2)
-
-3. I love zumba.
-   (ID: conversation_190_user_2)
-
-4. I love the chainsmokers.
-   (ID: conversation_299_user_2)
+6. i am a college student who is a full time working mom .
+   (ID: conversation_21)
 
 
 ============================================================

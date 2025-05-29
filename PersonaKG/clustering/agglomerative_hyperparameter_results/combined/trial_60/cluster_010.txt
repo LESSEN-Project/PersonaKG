@@ -1,0 +1,76 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 13
+
+Dataset distribution in this cluster:
+  MPChat: 2 (15.4%)
+  MSC: 2 (15.4%)
+  PEC: 4 (30.8%)
+  PER-CHAT: 3 (23.1%)
+  SyntheticPersonaChat: 2 (15.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 2
+
+1. i make narwhals and octopuses!
+   (ID: skorletun)
+
+2. had to make my b.l.t.
+   (ID: cookinwithclint)
+
+
+--- MSC ---
+Total from this dataset: 2
+
+1. I make blogs.
+   (ID: dialog_76_speaker_1)
+
+2. I like to whittle. I make figurines.
+   (ID: dialog_0_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4
+
+1. i make this out of love not malice .
+   (ID: SYDWAD)
+
+2. i would be happy to make recipes and photograph them .
+   (ID: mylescloutier)
+
+3. i will if i ever make another one .
+   (ID: Ml7500)
+
+4. i make dh do the laundry .
+   (ID: teriaki)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3
+
+1. do you have any tutorials on how to do what you do ? could you make one ?
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+
+2. what make is that weedeater ?
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+3. and they still can ' t make a fire .
+   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I make my own compost.
+   (ID: conversation_153_user_2)
+
+2. I make my own compost.
+   (ID: conversation_123_user_2)
+
+
+============================================================

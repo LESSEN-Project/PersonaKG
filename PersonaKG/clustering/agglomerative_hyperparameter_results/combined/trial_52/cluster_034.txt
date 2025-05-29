@@ -1,0 +1,416 @@
+CLUSTER 34
+============================================================
+Total statements in cluster: 1309
+
+Dataset distribution in this cluster:
+  FoCus: 11 (0.8%)
+  MPChat: 12 (0.9%)
+  MSC: 173 (13.2%)
+  PEC: 542 (41.4%)
+  PER-CHAT: 231 (17.6%)
+  PersonaChat: 131 (10.0%)
+  SyntheticPersonaChat: 209 (16.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 11
+
+1. I play football.
+   (ID: NAJC0A4P5P7S_11)
+
+2. I have membership in a sports club.
+   (ID: VZ1O6OE23O98_11)
+
+3. I have studied in Germany.
+   (ID: R5EJNE152Y8L_11)
+
+4. I am not on a team.
+   (ID: NRWCDZW051T6_11)
+
+5. I am a figure skater.
+   (ID: D4619DV1O1OP_11)
+
+6. I have studied at Utah State University.
+   (ID: EFTS0UG7NK5K_9)
+
+7. I would like to do some weight lifting.
+   (ID: EFTS0UG7NK5K_9)
+
+8. I have the hobby of swimming.
+   (ID: U6NEN4YX4OT6_9)
+
+9. I know many sports teams.
+   (ID: PHE863C7IQKS_11)
+
+10. I am usually active at night.
+   (ID: N7HZ86GP00T0_11)
+
+11. I have studied in New Delhi.
+   (ID: EMXI5E4LUV20_11)
+
+
+--- MPChat ---
+Total from this dataset: 12
+
+1. next up is my task and habit trackers.
+   (ID: green-egg-and-ham)
+
+2. hey, i was a novice then!
+   (ID: DeanIsHotter)
+
+3. i'm starting a new exercise program, and spent longer than i intended on the tracker.
+   (ID: BlueIce64)
+
+4. stoked for my (fat) bikepacking trip this weekend!
+   (ID: i_like_it_raw_)
+
+5. i am 31 year old bachelor how did i do?
+   (ID: onemantwohands)
+
+6. shown beside my healthy one for comparison.
+   (ID: ext23)
+
+7. exercise spread - i'm trying to do 300 in the next year to earn a new wood lathe!
+   (ID: BlueIce64)
+
+8. a couple weeks ago i had a half a teaspoon of milk kefir grains.
+   (ID: IncubusHexx)
+
+9. am i cool yet?
+   (ID: drinkdrinkshoesgone)
+
+10. every day i go to work covered in hair - not by choice.
+   (ID: VodkaWithSnowflakes)
+
+11. i just started learning how to throw.
+   (ID: blboppie)
+
+12. working on my drip skillz
+   (ID: paintingpajamaspink)
+
+
+--- MSC ---
+Total from this dataset: 173
+
+1. I have an olympic medal.
+   (ID: dialog_171_speaker_2)
+
+2. I used to play football.
+   (ID: dialog_47_speaker_1)
+
+3. I am an avid jogger.
+   (ID: dialog_40_speaker_1)
+
+4. I work out a lot.
+   (ID: dialog_16_speaker_2)
+
+5. I work as a roofer. I am not replacing roofs right now because of the cold but it gives me time to enjoy sports.
+   (ID: dialog_47_speaker_1)
+
+6. I did not graduate from university.
+   (ID: dialog_156_speaker_1)
+
+7. I volunteer at a basketball non-profit that works with kids.
+   (ID: dialog_131_speaker_1)
+
+8. I like soccer but don't know how to play.
+   (ID: dialog_171_speaker_2)
+
+9. I am just a kid.
+   (ID: dialog_118_speaker_2)
+
+10. I wear a uniform at work.
+   (ID: dialog_157_speaker_1)
+
+11. I don't go to school. I wear a uniform at my job as a museum guard.
+   (ID: dialog_157_speaker_1)
+
+12. I'm taller than average.
+   (ID: dialog_114_speaker_1)
+
+13. I need to get a tune up.
+   (ID: dialog_145_speaker_1)
+
+14. I was on the pom pon squad as a teen.
+   (ID: dialog_76_speaker_1)
+
+15. I'm in great shape.
+   (ID: dialog_3_speaker_2)
+
+16. I was in the military.
+   (ID: dialog_156_speaker_1)
+
+17. I'm an avid jogger.
+   (ID: dialog_114_speaker_1)
+
+18. I'm 30.
+   (ID: dialog_173_speaker_2)
+
+19. I like to keep a routine and do the same thing everyday.
+   (ID: dialog_30_speaker_1)
+
+20. I'm still in school.
+   (ID: dialog_43_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 542
+
+1. i 'm just saying , for a lot of goals , there are better exercises .
+   (ID: misplaced_my_pants)
+
+2. i randomly grew a bit more in my 20s so you never know !
+   (ID: WhereRtheTacos)
+
+3. i was n't that bright of a kid though .
+   (ID: Sarahthelizard)
+
+4. i am 32 , and just got so jealous of that kids swinging ability .
+   (ID: genpell)
+
+5. i was born on the year it came out .
+   (ID: ChallengeTaken99)
+
+6. i agree with what everyone else said , the legs and upper chest need a little work .
+   (ID: mdk15)
+
+7. i assume your times improved when you fixed your diet and hit the weights ?
+   (ID: misplaced_my_pants)
+
+8. i still run 6 - 10 miles several times a week .
+   (ID: teriaki)
+
+9. i got ta leave my front door open more often !
+   (ID: exotics)
+
+10. i 'm 27 .
+   (ID: isitbrokenorsomethin)
+
+11. i 'm able bodied and i 've never run a full lap in my life .
+   (ID: cheesehuahuas)
+
+12. i wear shirts and pants multiple times .
+   (ID: StinkinFinger)
+
+13. i would like to start going again to really get strong .
+   (ID: COCOnizzle)
+
+14. i am trying to run every other day , in order to keep myself more accountable .
+   (ID: jenni268)
+
+15. i 'm in cycle 2 of bbb and the 5x10 sets of squats and deadlifts really exhaust me .
+   (ID: buttercup_mauler)
+
+16. i 'm 67 and have succeeded several times .
+   (ID: catskhiker)
+
+17. i just want to do everything i can to look more mature .
+   (ID: beautifulw0man)
+
+18. i do feel so much better mentally when i ’m active .
+   (ID: 11_29_77)
+
+19. i am at 91 kg ..... so close . will probably hit 90 thisweek
+   (ID: Aloha-Potato)
+
+20. i 'm a scale of one to ten .
+   (ID: NaBacLeis)
+
+
+--- PER-CHAT ---
+Total from this dataset: 231
+
+1. I am adult ’.
+   (ID: 4345d92dae99b45255ddd6b7f7c88a7ad331da93)
+
+2. I am 3m max.
+   (ID: dd5faa5a5f52546a048b117b380f01fc0bb80bfe)
+
+3. hey ! you have a to  do list to start on ! you know what you need to do . it sucks that you were sick . it sucks that you got a shitty lottery number for housing . drink some water , eat some carbs , go for a walk , then start kicking ass and meeting your goals . you can do it .
+   (ID: a2ac729ecf8bc4b4e5e9971a848e76d3b574e65a)
+
+4. for me , trying to change isn ' t enough . no one that is overweight isn ' t trying to change . they could spend their lives trying to change . the reason fit people are generally more desirable then the overweight is that they ' ve done it . our bodies are often a snapshot of the mind . overweight people often have overweight minds . someone who is already fit likely has the mind for it . discipline , confidence , self efficacy . these things are important in relationships and in life . that ' s why we find overweight people unattractive . ready for my downvote .
+   (ID: ae2dbc0f768c4bbf71f7452c59522c05c2ccc74e)
+
+5. digit year old me  " shit . you ' re a girl . i ' m a girl . this is awesome . this is what i ' ve always wanted . "
+   (ID: 0dd32da9f7e822909c258818ed313736b958a15a)
+
+6. I own a team.
+   (ID: 89a0689162d7d341f5389b93a7b5fc391663c68d)
+
+7. yta imagine if you starved for a week and someone said " boy you look great keep it up starving was the best thing to ever happen to you " would you see that as a compliment ?
+   (ID: 1df1bd07e28c0df73bd865f8cb447d7c8f1bd4d3)
+
+8. part of it for me was actually losing some weight . i realized that even after i lost like digit pounds , i was still able to find parts of me that i hated and i didn ' t really see myself as more attractive or beautiful . it ' s kind of like you think this one thing is going to solve your problems , then you get it , and you realize that your thoughts about your body aren ' t really about your body so much as how you choose to see it . there are still things i want to change about my body , but i ' ve learned to be more gracious and accepting of what i look like either way .
+   (ID: 573effd77bc41b375b82f92f6f34840f2f4dbff4)
+
+9. do you mind if i ask what your degree is in and what you are studying now ?
+   (ID: 19d727be6c2cbac7b528c7c522e3aa512e48025f)
+
+10. how much do you take ?
+   (ID: 229018d265fee53903659270acea70a8c7f46caa)
+
+11. i heard bananas are great to avoid feel sore . but yes if you want to see changes commitment is key . if you promised your self to go every other day keep it like that , and maintain it . there are days that i feel tired , to the point that i want to sleep and not go to the gym , but it was the day i go so still went all tired , took a shower before working out and still tired but did easy stuff , the feeling of accomplishment is great , and you don  t feel bad that you broke a promise .
+   (ID: aef75366751547249854f8779e821b7d0b9b070d)
+
+12. but we shouldn  t say that being obese is okay as a society , but if you want to stay fat thats your choice but you shouldn  t spread fake ideals
+   (ID: 23df46bdba3eb265d08b02c9ec5f365cf45ae5fd)
+
+13. I am kid.
+   (ID: 37aa751f14bbf132fc2f76d2c2c79142318c3e31)
+
+14. I am adult.
+   (ID: b3497f72ed4462f0414951db6d9ee7aa4004b515)
+
+15. you can switch . i did digit months of keto , no breaks , but right now it ' s too inconvenient , though should my situation go back to where it was i ' ll go back to it . i learned a lot from keto , how to eye  ball calories , portion control , not seeing hunger as the enemy . if you can keto then use the self control you had to not eat carbs to stick to a good calorie amount then you should be fine i ' m still losing at a nice rate anyways .
+   (ID: e0a46a0dc8fa303b4f52545ef88afe4d8f63943b)
+
+16. how awesome for you ! congrats on the initial weight loss and your new baby boy . you ' ll get back down in no time . keto is amazing !
+   (ID: fe374743dd856c29f2117723cef01c1fdc3b3b5b)
+
+17. now that i ' m getting older and my kids are as well they stay up later as they get older . my 14yo will stay up way too late on the weekends so i now get up super early and get some quiet time and watvh the sun come up . i enjoy it more too not telling myself from digit  3am i should go to bed .
+   (ID: 37dcb77e38bb95527b0376694dc5852e5c3012eb)
+
+18. this kinda hit me home . im digit and i eat like shit , i usually always have been . recently , i ' ve been thinking about going gym , getting a part  time job and beginning to eat healthier . however , like majority of the people with a problem , i use an excuse as to why i shouldnt  such as , " it ' s not affecting me now , is it ? " . i ' ve realised now , that im being incredibly ignorant to those around me , telling me that i should begin to take care of my body more because i wont have problems in the future . i ' m going to start doing it now  no more excuses .
+   (ID: 58e212a6c13e22a08d2941c582a79d5479d666fd)
+
+19. I am higher cb.
+   (ID: e1864e983bbfa93f317cdda5086f1df7721adab8)
+
+20. says the person victimizing fat people .
+   (ID: fe56409176d2a6089f323227d5b07061f851d63b)
+
+
+--- PersonaChat ---
+Total from this dataset: 131
+
+1. i graduated with a nursing degree .
+   (ID: conversation_134)
+
+2. i am chubby .
+   (ID: conversation_74)
+
+3. i was a wrestler in high school .
+   (ID: conversation_442)
+
+4. i run marathons .
+   (ID: conversation_304)
+
+5. i am not thin .
+   (ID: conversation_275)
+
+6. i am a member of the ymca .
+   (ID: conversation_222)
+
+7. food and water are essential to me in life .
+   (ID: conversation_410)
+
+8. sometimes i think i should get out and exercise more .
+   (ID: conversation_148)
+
+9. i spend a lot of time driving my kids to sports events .
+   (ID: conversation_75)
+
+10. i walk more than 2 miles a day .
+   (ID: conversation_185)
+
+11. running is a hobby .
+   (ID: conversation_272)
+
+12. i was born 20 years ago .
+   (ID: conversation_23)
+
+13. i run more then 2 miles a day even though i hate it .
+   (ID: conversation_285)
+
+14. i've a very tone body .
+   (ID: conversation_315)
+
+15. i work out every other day .
+   (ID: conversation_349)
+
+16. i play football .
+   (ID: conversation_488)
+
+17. i am only 5 foot tall .
+   (ID: conversation_444)
+
+18. i am a soccer mom .
+   (ID: conversation_310)
+
+19. i'm very athletic .
+   (ID: conversation_131)
+
+20. i am an athlete .
+   (ID: conversation_473)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 209
+
+1. I am short.
+   (ID: conversation_33_user_1)
+
+2. I am also round.
+   (ID: conversation_183_user_2)
+
+3. I graduated high school in 1986.
+   (ID: conversation_486_user_2)
+
+4. I weight 300 pounds.
+   (ID: conversation_21_user_1)
+
+5. I exercise everyday.
+   (ID: conversation_181_user_2)
+
+6. I am slightly overweight , but my doctors say i m healthy.
+   (ID: conversation_134_user_1)
+
+7. I graduated from college.
+   (ID: conversation_354_user_1)
+
+8. I do yoga three times a week.
+   (ID: conversation_108_user_2)
+
+9. I practice yoga daily.
+   (ID: conversation_200_user_1)
+
+10. I was an army brat.
+   (ID: conversation_179_user_1)
+
+11. I play soccer professionally.
+   (ID: conversation_73_user_2)
+
+12. I run more then 2 miles a day even though i hate it.
+   (ID: conversation_180_user_2)
+
+13. I used to be a nurse.
+   (ID: conversation_259_user_2)
+
+14. I am athletic.
+   (ID: conversation_472_user_2)
+
+15. I actually like wearing suits and ties.
+   (ID: conversation_148_user_2)
+
+16. I was an army brat.
+   (ID: conversation_178_user_1)
+
+17. I graduated high school in 1986.
+   (ID: conversation_337_user_1)
+
+18. I run track.
+   (ID: conversation_171_user_1)
+
+19. I graduated college and immediately went to graduate school.
+   (ID: conversation_51_user_2)
+
+20. I am chubby.
+   (ID: conversation_88_user_1)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 5
+============================================================
+Total statements in cluster: 8363
+
+Dataset distribution in this cluster:
+  FoCus: 33 (0.4%)
+  MPChat: 353 (4.2%)
+  MSC: 63 (0.8%)
+  PEC: 4789 (57.3%)
+  PER-CHAT: 3067 (36.7%)
+  PersonaChat: 22 (0.3%)
+  SyntheticPersonaChat: 36 (0.4%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 33
+
+1. I have the fantasy of rivers.
+   (ID: FZ7IE8MUIWRS_9)
+
+2. I would like to see toy story.
+   (ID: 7KWHXU9MOJRA_11)
+
+3. I am willing to read Codex Sinaiticus.
+   (ID: TF24QL7QZSG2_11)
+
+4. I wish I will see a rainforest.
+   (ID: X5NX5GAWOEW2_11)
+
+5. I wish to see a lock.
+   (ID: GC9BAJTK54F1_11)
+
+6. I wish I could learn more about Anglicanism.
+   (ID: 7KD1MTP5A7ZD_11)
+
+7. I am interested in Arasbaran.
+   (ID: XU1657VV4AMG_11)
+
+8. I am not on a team.
+   (ID: NRWCDZW051T6_11)
+
+9. I am willing to follow Harry Hawthorn.
+   (ID: ZD5K4FX3JUXP_11)
+
+10. I wish to see Wildebeest migration.
+   (ID: PH0R41F6TO0M_7)
+
+11. I would like to visit the Adam Mickiewicz Theatre again.
+   (ID: PW1SULL1SY01_11)
+
+12. I have 61500 likes in my instagram page.
+   (ID: QRRS2THODNM3_11)
+
+13. I am aware of Elizabethan style.
+   (ID: RN7ZT44D6QK1_11)
+
+14. I have never watched state high school football championships before.
+   (ID: FCHHL9I1PIW0_11)
+
+15. I have taken a course on Asian art.
+   (ID: JJN7XJSS0B4W_11)
+
+16. I would like to watch a Disney film.
+   (ID: DKOCHLLVDPYC_11)
+
+17. I wish I was a prominent member of the society.
+   (ID: 9YNT3NN8EKNX_11)
+
+18. I would like to make a replica of The Thinker sculpture in wood.
+   (ID: JJN7XJSS0B4W_11)
+
+19. I have fantasy about rivers.
+   (ID: U7PM0IZ93Q1W_11)
+
+20. I hope scientists can find more exoplanets.
+   (ID: TPBXFFXVKECZ_11)
+
+
+--- MPChat ---
+Total from this dataset: 353
+
+1. i'm gushing over these slip trail pieces!
+   (ID: narjis84)
+
+2. i have 135 squares to block
+   (ID: FoxInKneeSocks)
+
+3. meet the new addition to my home, bane.
+   (ID: bakedNdelicious)
+
+4. i get it, don’t chew on power cords!
+   (ID: insthotchkiss)
+
+5. i can almost imagine gandalf and the hobbits running across this california meadow
+   (ID: tssouthwest)
+
+6. a few of my favorite shapes i've thrown recently on my handmade treadle wheel
+   (ID: PuffTheMagicLumbrJak)
+
+7. couldn’t help myself when i saw the picture on aww labeled “i named him hamburger”
+   (ID: switchbladesally)
+
+8. uh oh... is my rehab cactus rotting?
+   (ID: zonumnire)
+
+9. i'm so excited for how these sunflower coasters are working up!
+   (ID: SarahFree339)
+
+10. to have my daughter's name over her crib when she's born
+   (ID: Sophie74656)
+
+11. can i sit with you guys now....?
+   (ID: i_like_it_raw_)
+
+12. "i want my name to be spaghetti."
+   (ID: hmbmelly)
+
+13. let me take you on my 7 hour pho adventure
+   (ID: onemantwohands)
+
+14. i'm in love!
+   (ID: batman1227)
+
+15. here’s what i came up with!
+   (ID: DeanIsHotter)
+
+16. what should i call this little weapon
+   (ID: why_the_babies_wet)
+
+17. my students complain they can't read my handwriting!
+   (ID: meepmeepcuriouscat)
+
+18. a luminary/lamp i'm working on atm
+   (ID: insertnamehere02)
+
+19. excuse you i am trying to read...
+   (ID: kentobean123)
+
+20. i found wile e. coyote in death valley
+   (ID: tssouthwest)
+
+
+--- MSC ---
+Total from this dataset: 63
+
+1. I periodically engage in fantasy battles with people I do not know in public places.
+   (ID: dialog_149_speaker_2)
+
+2. I am from Orlando. I live with my girlfriend. I like girls taller than I am.
+   (ID: dialog_85_speaker_2)
+
+3. I am taking singing lessons.
+   (ID: dialog_37_speaker_1)
+
+4. I am a woman. I breed mine coons. I live with my brother
+   (ID: dialog_46_speaker_2)
+
+5. My brothers wife has tanked.
+   (ID: dialog_18_speaker_1)
+
+6. I obsess over things.
+   (ID: dialog_79_speaker_1)
+
+7. I am thinking about getting a new dog. I think it would be fun to play fetch in zero gravity.
+   (ID: dialog_90_speaker_2)
+
+8. I am boring.
+   (ID: dialog_163_speaker_1)
+
+9. I am going out with my manager.
+   (ID: dialog_37_speaker_1)
+
+10. I have never been on the ice and I would be too scared to try it.
+   (ID: dialog_148_speaker_1)
+
+11. I enjoy doing DIY projects. I build my own furniture. I believe DIY saves money. I have built a coffee table and I plan to build a chair.
+   (ID: dialog_176_speaker_1)
+
+12. I build my own furniture. I believe DIY saves money.
+   (ID: dialog_176_speaker_1)
+
+13. I named my vehicle pig since it is that color.
+   (ID: dialog_29_speaker_1)
+
+14. I don't need to set my alarm to wake up.
+   (ID: dialog_188_speaker_2)
+
+15. I ran for office in 2004.
+   (ID: dialog_113_speaker_2)
+
+16. I wish I were more creative.
+   (ID: dialog_52_speaker_1)
+
+17. I love comic books. I would like to workout with the other speaker to start a a comic book store. My favorite comic book character is The Hulk.
+   (ID: dialog_120_speaker_2)
+
+18. I obsess over things
+   (ID: dialog_79_speaker_1)
+
+19. I am from Orlando. I live with my girlfriend. I like girls taller than I am. I am 6 ft. My girlfriend is 6'2.
+   (ID: dialog_85_speaker_2)
+
+20. If my lover dies before me, I'll be with him in death.
+   (ID: dialog_17_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 4789
+
+1. i got chills too .
+   (ID: baconnaire)
+
+2. i would n't click on it if you want to keep your job
+   (ID: Ooer)
+
+3. i did n't say it was but thank you for your input .
+   (ID: I_am_not_a_Taco)
+
+4. i want them !
+   (ID: GetItTogether)
+
+5. i like it when you ca n't feel your mouth anymore
+   (ID: Ooer)
+
+6. i 'd prefer he quit women ...
+   (ID: napalmkitten)
+
+7. i think this one is actually useful
+   (ID: chirpyboyandbartjr)
+
+8. i do n't understand society 's obsession with sex either ...
+   (ID: NyxPeregrinus)
+
+9. i 'll cover my eyes and point though .
+   (ID: Samoht2113)
+
+10. i think that 's even more disturbing than the comic itself .
+   (ID: LordQuorad)
+
+11. i 'm expecting a pupdate for this
+   (ID: _gansmadchen)
+
+12. i 'm sure they 'd be very popular
+   (ID: thebastion)
+
+13. i need creative ideas , reddit !
+   (ID: beautifulw0man)
+
+14. i 'm not gon na lie .
+   (ID: vikkivinegar)
+
+15. i 'll be your hero !
+   (ID: oussamarer)
+
+16. i second this .
+   (ID: genpell)
+
+17. i already want to hit this dude in his face .
+   (ID: creedisagoodband)
+
+18. i 'd love breath of the wild ! !
+   (ID: Justakiss15)
+
+19. i am loving this meme .
+   (ID: cookiexcmonster)
+
+20. i like how the picture on the monitor is a picture of the mess lol
+   (ID: BrianV91)
+
+
+--- PER-CHAT ---
+Total from this dataset: 3067
+
+1. the top post on tifu is a wild one
+   (ID: 52630a8de60c1fa7b1adc6ce63b9b05563b7b9f2)
+
+2. yeah to be honest once you have run through the game a few time the early part of the game is easy . hell until you get to the dlc it  s pretty easy . not to say the game is easy cause it  s not ! i  m guessing you summoned a hunter who knows what he is doing . i personally like to make builds and hang out around the first digit bosses just cause it  s fun ! good luck and happy hooting !
+   (ID: d5ff87b3b0a008d93a655ee4d43e9da3b5db7984)
+
+3. i think what he ' s getting at is the idea that if someone is mentally unhinged example , a psychopath they don ' t really have control over what they do . the brain is the control center of everything we do . if its fucked up , then the person is basically screwed .
+   (ID: f903d9b4ab2ed2813eb60579aa407d7730187596)
+
+4. if u want to get rich , try flipping . it ' s mad boring but you can get your orbs piling up really quick . what i like to do is put my chaos recipe items in a public tab because you occasionally get people who offer decent prices for them
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
+
+5. doesn ' t the money you pay for the clothes go to charity anyway ? so it ' s not like you did anything wrong shopping there when you could afford some other place .
+   (ID: a0295151ec48c51be6978c891260159d3526ed86)
+
+6. no , you can only make money by getting the people with money to give it to you . a service is useful , and i don ' t care how many new jersey housewives you poll , a dog fingernail painter does not do anything useful . you can only create wealth by performing labor .
+   (ID: 9b6ee533e853c768cc140f122ed313d4d7550b5a)
+
+7. what the hell does ' the weak ' have anything to do with it ?
+   (ID: ab5c47b9d71750a64b0af468fe9d99ecea9868a9)
+
+8. i ' ve never tried to bust it as quick as i can tbh . there are times where i ' ve lost concentration and bust it earlier than i wanted , but as no orgasm was had i can just wipe off and keep going .
+   (ID: 75ca79d6c5cfc50533ff56cde25edfb593ae8568)
+
+9. cool , dude . you seem stable . yeah , so far you ' ve called me stupid , an idiot , a piece of shit , and a dick  man , all i did was post a comment , that in no way attacked you . but thanks to your anger problem , which i ' m guessing you got from your dad , you ' ve made this into a much bigger thing than it needed to be . but yes , how dare i be concerned about the seeming trend of cop  related civilian deaths in the country that i live in . so , you ' re right , i ' ll start packing for brazil right away . i was wrong to question police authority for the job they literally signed up for . so , we ' re done , right ? can we please be done ? ok ? thanks for wasting my time
+   (ID: cca2db8a0bcb7aff323abdba1f381d7388c9f713)
+
+10. but then there was that fucking girl who ruined the whole video for me  i just don  t get what his message is
+   (ID: b96c88b2d5cfdbde4b305fd9da23bc684edbb6a0)
+
+11. ad hominem  so boring . you know you  ve lost so you resort to insults . by what other rationale does israel gain its legitimacy , according to you ? don  t bother answering  i got better thing to do .
+   (ID: 25b8235c988cb167d94968ee893707e9c358cde8)
+
+12. I am 40m.
+   (ID: 818321ef6a71106a1a86010b5df8bc2991279431)
+
+13. i would like to join a raiding guild for legion but what if the spec i want to play is not the top spec for that class ? are you going for world first ? no ? then no one will care . play what ' s fun . edit  typo
+   (ID: 2e464b2732570f16afced14ab79d30fa92622627)
+
+14. hahhahaa . i ' m not angry . you are just pretending to be better educated or more knowledgeable , still you haunt this sub . it ' s a bit sad . and i hope you realize that every religious crazy thinks that . instead , maybe you should consider that giving your life to an anonimous entity that has no prove , nor ground . is really just that  crazy . good luck with that , but don ' t try to force it down our throat . the fact that you choose this place for your personal jihad yes i know jihad can be done positively  theoretically shows how sneaky you are . like all religious people , you are searching out lost people to show them a way that will not really help them , but will give you a sense of achievement . just the fact that your religion needs to be " spread " show inferiority to just going your own way . if you truly cared about us , you wouldn ' t post such a blatant , shaming message .
+   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
+
+15. your views on this stuff will mostly come from the media that you consume . if like my you spend most of your time watching very vulgar things after a short time things won ' t faze you very much , but if you only consume safe or tame media you will probably take more offence to things . i also just take everything that people say to me as a joke unless it is obvious that they are being serious , so far it has worked more than it hasn ' t .
+   (ID: e81e156f1716864a56cc694239300f979e8a5412)
+
+16. you fucking did a discrimination ! and wait , kid ? say it to yourself motherfucker , do you think you ' re mature when you said something like that ? and better get life rather than visiting subs you ' re not subscribing to , just to spread the hateful soul in you . better find your life , unemployed jerk !
+   (ID: e4e6a770eda3d8a5505365978baee4568affe531)
+
+17. hey mr . paul ! digit what are your plans for the military if you become chief of state ? from what i ' m hearing , you take the isolationist approach , so will you be downsizing it or something ? for some reason , my sources are kind of vague . digit if so . will you be withdrawing major u . s . embassies and bases all over europe , asia , and the middle east ?
+   (ID: d298609ba6b9516031b9d0b9bc9217d85ce28f05)
+
+18. super delegates you realise that  s the problem right ? i can read fine thanks , it  s my comprehension of you as a person that i  m struggling with . you actually defend this nonsense . your country is about as democratic as north korea
+   (ID: 467dbed573790a54a921a28f66e0e68f81106906)
+
+19. dam that ' s really cool i authenticate for this type of stuff . what country do you live in , what ' s your house address , when does your dad fall asleep , are there any pets in his house , how many people are normally in his house . if you answer all of them questions i will authenticate them comics for you
+   (ID: 4bddcbadec311f472e8b62614b7394e14eb1d7ac)
+
+20. you get back here and make love to my wife ! do you hear me ? we can take this outside right now and see who  s man enough to bang my wife . because we know it  s you !
+   (ID: f9074998a5afc016e8779c3abcabf220d4ee8eb6)
+
+
+--- PersonaChat ---
+Total from this dataset: 22
+
+1. i don't like to clean house .
+   (ID: conversation_306)
+
+2. drawing in traditional style is my pasion .
+   (ID: conversation_202)
+
+3. i am going to be the starting shortstop .
+   (ID: conversation_103)
+
+4. i should beverage been born a prince .
+   (ID: conversation_54)
+
+5. i prefer vinyl records to any other music recording format .
+   (ID: conversation_265)
+
+6. i thought of joining the military when i was younger .
+   (ID: conversation_113)
+
+7. i'm a petsitter .
+   (ID: conversation_323)
+
+8. i am an aspiring singer .
+   (ID: conversation_47)
+
+9. sometimes , i've sword fights with strangers in the park .
+   (ID: conversation_149)
+
+10. paps likes to go mushroom hunting .
+   (ID: conversation_365)
+
+11. i've never kissed a woman .
+   (ID: conversation_435)
+
+12. i'm an aspiring singer .
+   (ID: conversation_11)
+
+13. my girl friend lives in the condo next door .
+   (ID: conversation_493)
+
+14. i'm an aspiring singer .
+   (ID: conversation_196)
+
+15. both my parents are creative .
+   (ID: conversation_328)
+
+16. grandma makes jewelry .
+   (ID: conversation_365)
+
+17. it was too small .
+   (ID: conversation_342)
+
+18. i ran for political office in 2004 .
+   (ID: conversation_113)
+
+19. it was too small .
+   (ID: conversation_290)
+
+20. i will never punch a clock again .
+   (ID: conversation_208)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 36
+
+1. I have a crush on my co worker.
+   (ID: conversation_302_user_1)
+
+2. I take things very literally.
+   (ID: conversation_473_user_2)
+
+3. This is my second year in the league.
+   (ID: conversation_219_user_2)
+
+4. I have never kissed a woman.
+   (ID: conversation_214_user_2)
+
+5. I have a crush on my co worker.
+   (ID: conversation_42_user_2)
+
+6. I am not a big fan of waiting in line.
+   (ID: conversation_167_user_2)
+
+7. I am trying to play in a local band.
+   (ID: conversation_210_user_1)
+
+8. I am not going to go the extra mile anymore.
+   (ID: conversation_369_user_2)
+
+9. I will never punch a clock again.
+   (ID: conversation_453_user_2)
+
+10. I have never broken a bone.
+   (ID: conversation_472_user_2)
+
+11. My husband and i have a suicide pact.
+   (ID: conversation_49_user_2)
+
+12. I am going to be the starting shortstop.
+   (ID: conversation_255_user_2)
+
+13. I thought of joining the military when i was younger.
+   (ID: conversation_273_user_2)
+
+14. I think i need a vacation.
+   (ID: conversation_396_user_2)
+
+15. I ran for political office in 2004.
+   (ID: conversation_273_user_2)
+
+16. If i were to be reincarnated , i d want to come back as a hippopotamus.
+   (ID: conversation_421_user_2)
+
+17. I am a couponed.
+   (ID: conversation_434_user_2)
+
+18. I have never broken a bone.
+   (ID: conversation_407_user_1)
+
+19. I like to come up with new hairstyles.
+   (ID: conversation_401_user_2)
+
+20. I take things very literally.
+   (ID: conversation_247_user_2)
+
+
+============================================================

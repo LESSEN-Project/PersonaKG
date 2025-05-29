@@ -685,14 +685,14 @@ class PersonaAgglomerativeClusterAnalysis:
 def main():
     parser = argparse.ArgumentParser(description="Persona Clustering Analysis using Agglomerative Clustering")
     add = parser.add_argument
-    add("-s", "--sample_size", type=int, default=1000, help="Sample size for each dataset (default: 1000)")
+    add("-s", "--sample_size", type=int, default=500, help="Sample size for each dataset (default: 500)")
     add("-t", "--split", type=str, default="train", choices=["train", "validation", "test"], help="Dataset split to use (default: train)")
-    add("-m", "--mode", type=str, default="separate", choices=["combined", "separate"], help="Clustering mode: combined (all datasets together), or separate (per dataset)")
+    add("-m", "--mode", type=str, default="combined", choices=["combined", "separate"], help="Clustering mode: combined (all datasets together), or separate (per dataset)")
     add("-v", "--vectorization", type=str, default="dense", choices=["tfidf", "dense", "hybrid"], help="Vectorization method: tfidf, dense (sentence embeddings), or hybrid (both)")
-    add("-p", "--pca_components", type=int, default=50, help="Number of PCA components to use (default: 50)")
+    add("-p", "--pca_components", type=int, default=48, help="Number of PCA components to use (default: 48)")
     add("-w", "--tfidf_weight", type=float, default=0.5, help="Weight for TF-IDF vectors in hybrid vectorization (default: 0.5)")
-    add("-n", "--n_clusters", type=int, default=20, help="Number of clusters for Agglomerative clustering (default: 10)")
-    add("-l", "--linkage", type=str, default="ward", choices=["ward", "complete", "average", "single"], help="Linkage criterion for Agglomerative clustering (default: ward)")
+    add("-n", "--n_clusters", type=int, default=35, help="Number of clusters for Agglomerative clustering (default: 50)")
+    add("-l", "--linkage", type=str, default="complete", choices=["ward", "complete", "average", "single"], help="Linkage criterion for Agglomerative clustering (default: ward)")
     
     args = parser.parse_args()
     

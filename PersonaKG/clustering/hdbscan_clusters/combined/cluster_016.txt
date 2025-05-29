@@ -1,209 +1,297 @@
 CLUSTER 16
 ============================================================
-Total statements in cluster: 228
-Cluster persistence (stability): 0.461
+Total statements in cluster: 346
+Cluster persistence (stability): 0.402
 
 Dataset distribution in this cluster:
-  MPChat: 14 (6.1%)
-  PEC: 129 (56.6%)
-  PER-CHAT: 82 (36.0%)
-  PersonaChat: 1 (0.4%)
-  SyntheticPersonaChat: 2 (0.9%)
+  FoCus: 60 (17.3%)
+  MPChat: 5 (1.4%)
+  MSC: 11 (3.2%)
+  PEC: 239 (69.1%)
+  PER-CHAT: 24 (6.9%)
+  PersonaChat: 6 (1.7%)
+  SyntheticPersonaChat: 1 (0.3%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 60
+
+1. I wish to see a lock.
+   (ID: GC9BAJTK54F1_11)
+
+2. I wish I could visit the County of Champagne.
+   (ID: TDUTQ7NCYJ1S_11)
+
+3. I wish to go to Oyama.
+   (ID: DG7PPYKKTZ0H_11)
+
+4. I wish to see Halley's Comet before I die.
+   (ID: TPBXFFXVKECZ_11)
+
+5. I wish to go to El Paso.
+   (ID: Z8RPC24EURS4_7)
+
+6. I wish I could rule an Empire like Alexander the Great.
+   (ID: EEYI3KCI2G50_11)
+
+7. I wish to buy a flat in Trondheim.
+   (ID: TB8HHXAP822G_11)
+
+8. I wish to stay in resort.
+   (ID: L6R2H1LVDRER_7)
+
+9. I wish I could buy a lapis lazuli gift for my mother.
+   (ID: EEYI3KCI2G50_11)
+
+10. I wish to travel to the Philippines.
+   (ID: LERVJ9I223JG_7)
+
+11. I wish I could see a deep mine.
+   (ID: V83LRI44QW1S_11)
+
+12. I wish to build a tower in Moscow Kremlin.
+   (ID: 9VN3FMWR0NNR_11)
+
+13. I wish I could ride a funicular.
+   (ID: QEDR6NULRI9U_7)
+
+14. I wish to know the reason for naming.
+   (ID: WX4RFEWAW86A_11)
+
+15. I wish to know when this place was established.
+   (ID: HY8G2PNPA8VA_11)
+
+16. I wish to stay in the camping.
+   (ID: U6NEN4YX4OT6_9)
+
+17. I wish all places were accessible by ramps.
+   (ID: LWELDWSUZK5Z_11)
+
+18. I wish to know Karnataka.
+   (ID: CPJ95KR758ZY_11)
+
+19. I wish to see Wiradjuri people.
+   (ID: F1LZJR9NS51Z_11)
+
+20. I wish to learn more about the biology of our country.
+   (ID: RYVPV8LY2W65_11)
+
+
 --- MPChat ---
-Total from this dataset: 14
+Total from this dataset: 5
 
-1. smashed my toe right before thanksgiving.
-   (ID: lizdavis17)
+1. i wish my wrapping was always this full
+   (ID: Ry_)
 
-2. my 100% homemade pizza, right before i cremated it.
-   (ID: Flyberius)
+2. i went to the great sand dunes in colorado and i wish i stayed longer!
+   (ID: FindingTheAdventure)
 
-3. my house is freezing right now because the heat isn't working downstairs.
-   (ID: MaximumLoaf)
+3. daytona is calling, wish i was there again.
+   (ID: insthotchkiss)
 
-4. my monday is starting off right
-   (ID: drewchie)
+4. come rub my belly and recieve a wish
+   (ID: Septicrogue)
 
-5. picked some mamaki tea from right outside my door.
-   (ID: coffeehawaii)
+5. i wish i had a decent tripod!
+   (ID: tstandiford)
 
-6. wasd cherry mx blue takes me right back to the '90's and my ibm model m.
-   (ID: de_argh)
 
-7. if i do two round granny squares i could just double crochet around right?
-   (ID: Chris55730)
+--- MSC ---
+Total from this dataset: 11
 
-8. i wasn't a big fan of duclaw until right now.
-   (ID: Metalocachick)
+1. I wish I were taller.
+   (ID: dialog_57_speaker_2)
 
-9. am i right?
-   (ID: opie2)
+2. I wish to join education.
+   (ID: dialog_22_speaker_2)
 
-10. i'm not the only one who thinks everything tastes better when you're camping, right?
-   (ID: ChroniclyDope)
+3. I wish my folks were here.
+   (ID: dialog_84_speaker_2)
 
-11. this spider set up camp right in front of my door [x-/r/creepy]
-   (ID: snaps_pro)
+4. I wish I had been able to meet my father because I am smart like him.
+   (ID: dialog_179_speaker_2)
 
-12. 3 dozen sunflower cupcakes later, my right arm was killing me.
-   (ID: 1cecream4breakfast)
+5. I wish to build a home on the sand.
+   (ID: dialog_155_speaker_1)
 
-13. wife’s working the next few hours, so this is my xmas right now!
-   (ID: i_like_it_raw_)
+6. I wish my hair wouldn't fall out.
+   (ID: dialog_138_speaker_2)
 
-14. my boyfriend makes oddish planters from clay; left one is ditto oddish , right one is a normal oddish
-   (ID: chiaroscureauxxii)
+7. I wish I were more creative.
+   (ID: dialog_52_speaker_1)
+
+8. I do stand-up comedy gigs. I wish to perform stand-up for larger crowds.
+   (ID: dialog_33_speaker_1)
+
+9. I wish I was an astronaut.
+   (ID: dialog_45_speaker_1)
+
+10. I wish my kids behaved better.
+   (ID: dialog_57_speaker_1)
+
+11. I wish I could help those that are less fortunate more.
+   (ID: dialog_79_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 129
+Total from this dataset: 239
 
-1. i have some sick programs on apartment buildings right now . this is an interesting statement .
-   (ID: dammitOtto)
+1. i wish these over done make up trends would go away
+   (ID: Boop-D-Boop)
 
-2. i never do anything right .
-   (ID: iam1r7)
+2. i wish it could be more but at lesat we ’re awake and trying
+   (ID: Justadropinthesea)
 
-3. i would send this right on over to r / crappymusic
-   (ID: Kellen1337)
+3. i wish your comment was at the top .
+   (ID: DickieJohnson)
 
-4. i went right to nvm .
-   (ID: WorldBFree)
+4. i wish this was simple :(
+   (ID: Ashex)
 
-5. i could form diamonds with my asshole right now .
-   (ID: DoctorRichardNygard)
+5. i really wish someone would call him out for flying private .
+   (ID: Montag3636)
 
-6. i think that you _ are _ creative and should get on this project right away .
-   (ID: MILeft)
+6. i wish we had ray ferraro
+   (ID: JayDub30)
 
-7. i 'd shoot him right in his blabbermouth
-   (ID: GanjaSmoker420HaloXX)
+7. i wish once and for all there would be some closure in this case ! !
+   (ID: mandogirl)
 
-8. i like # 2 although i would probably get bored right away .
-   (ID: SerendipitousCat)
+8. i m not your parent , please do as you wish .
+   (ID: Sniperman)
 
-9. i bet is right .
-   (ID: maullove)
+9. i wish i could !
+   (ID: Montag3636)
 
-10. i am right .
-   (ID: PaperSkinMan)
+10. i wish i had that confidence .
+   (ID: SayceGards)
 
-11. i 'm freaking astounded right now .
-   (ID: Evolatic)
+11. i wish i were as as you !
+   (ID: lovestheautumn)
 
-12. i think he 's one of the most underrated lead guitarists right now .
-   (ID: coocha)
+12. i wish the pedals were level lol
+   (ID: TylerC_D)
 
-13. i ’m inspired right now
-   (ID: ChallengeTaken99)
+13. i wish to hell someone had done it for me .
+   (ID: parkleswife)
 
-14. i 'm not talking about the left , nor the right .
-   (ID: Malachite_Wrath)
+14. i wish it was the case in canada , they steal our water ....
+   (ID: shockrush)
 
-15. i freak out on him screaming " that is all you can fucking think right now ? ! "
-   (ID: JimmyMcShiv)
+15. i wish you peace .
+   (ID: LoganTwo)
 
-16. i 'm literally do n't this quest right now and i could be using a horse what the fuck
-   (ID: TWS85)
+16. i wish the range was greater on a uke .
+   (ID: bbrandann)
 
-17. i 'm letting out an audible " nope " every few seconds right now ....
-   (ID: lonewolf2556)
+17. i wish they ’d kept haley around .
+   (ID: Bob_Majerle)
 
-18. i ’m right behind you , finished the keeper and just have megasatan for the lost .
-   (ID: Wowliam)
+18. i wish they could of done a cleaner job with her beauty and the beast
+   (ID: jennbunny08)
 
-19. i 'm at chick - fil - a * right now * .
-   (ID: combover)
+19. i wish they were n't fake though because of how accurate they are !
+   (ID: Etifaq)
 
-20. i assume you contacted their lost and found department right ?
-   (ID: glowinthedark)
+20. i wish i had this luck with charity shops .
+   (ID: tommythestone420)
 
 
 --- PER-CHAT ---
-Total from this dataset: 82
+Total from this dataset: 24
 
-1. it  s never off , i always re  apply right before it goes away . and why do you care ?
-   (ID: 06f1a2f5d32f7dd1949254b41bf285307f38a718)
+1. if i were her boyfriend and she was adamant about visiting an ex on another continent i would wish her a great trip and i would break up with her . this is terrible . she ' s not only visiting him , but sleeping in the same room as him ? and what if she gets cold ? can they cuddle " just as friends " too ? i couldn ' t handle this .
+   (ID: 8f33db98a9fa29c8f9e44012d79de72291a29519)
 
-2. you ' re right . it ' s hilarious !
-   (ID: b85d09c5bfb3611a720f11287b9483cc0802908d)
+2. i wish for 1billion digit  bills in us currency in my bedroom in one second
+   (ID: cd907372aff0871825a64e977822586e3bb0ecb7)
 
-3. you ' re right , my mistake .
-   (ID: 0f5f4ae2f732c4d560c3afd0c34f23584cf13ba9)
+3. well , i never wish misery on anyone . but the world is far too complicated to get into all that .
+   (ID: 7bad9dc0ff1a9ce0843818f35d9151cf701b4044)
 
-4. i think that chefranden just means everyone thinks the religion they were raised with is the right one . he ' s not saying everyone ' s religion is the right one . in the context of the original post , he ' s saying faith is a prepositional belief . you left prepositional beliefs out of your list of how to choose the right religion in the op .
-   (ID: e0798c12461ac5613da92581f6008329682d23a7)
-
-5. this was a letter to one of those advice magazines , right ? usually the responses are funny , do you have a screenshot of the response ?
-   (ID: 44eba9a0cf089ec615a77db5d42a2c01b63cb259)
-
-6. a person has the right to pay as little in taxes , but not to pursue as much as possible in benefits ? this makes no sense . if i have a right to hire three accountants to nickle and dime the tax code , and this is laudable , american behavior , how is the welfare recipient doing anything different ?
-   (ID: 9b6ee533e853c768cc140f122ed313d4d7550b5a)
-
-7. right before even worse shit happened .
-   (ID: 523373521c35d1ab7b6f0045d4586896b61d0d3d)
-
-8. what about ips or something ? police or something can track that , right ?
+4. i wish , that would be cool if you only did it in some spots .
    (ID: 9f31985e70e208f2dc692e2c378f1707cedd3bc9)
 
-9. definitely not sexy right now
-   (ID: f8f6a1dd8b47dc3239c55ec87aa3bbd108a04a43)
+5. gender , what ' s something you wish other gender knew about gender ?
+   (ID: 17b8a304069d7530607e28f8e04d840e28be0d3e)
 
-10. no . just joined this sub . not the right place either ?
-   (ID: 73c241755308e15ea272f3060f9c0a430c541f1a)
+6. i wish the girls would go out with me
+   (ID: 76b9606d2d21bcdc24810e0215e37a6a9d45b771)
 
-11. when i called the entire plot of captain marvel in the first digit minutes and ended up being right on everything . i normally call things and get it right but my friend and never watched a movie with me before and was hella shook .
-   (ID: 43eb93a2829d2d27f18e23e94602a8caf9832d4c)
+7. we can  t do that . i wish that we could , but nukes would cause too much destruction . we can  t risk innocent lives .
+   (ID: 2cc91bb1c28e4ebb686806a36f563e5047e46ef7)
 
-12. you start by fucking posting on the right sub
-   (ID: a443986595c715cd541cd3925619cb6f1e8ada83)
+8. that ' s amazing ! i wish i could afford this ! very fairly priced for the detail you put in !
+   (ID: 7a0302ed354e54bfa45e1de27055f29421f91f29)
 
-13. so example  school days that right ?
-   (ID: 79ea578262ee4d76e158ca13bf5d712d5bc120de)
+9. as much as i wish this didn  t happen , i am owning up to it .
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
 
-14. what ' s the one on the right do ?
-   (ID: d4ec694724c864c73016bdd05a404d56ed997902)
+10. depends what for . clothes ? no i wish someone would just do it for me .
+   (ID: bfbfd4c4caa6b137f79275a24c99808ba3d2305b)
 
-15. that makes it a blackberry right ?
-   (ID: b919217481874a60428694881d0750869bd723eb)
+11. that ' s too bad . i just wish it worked for everybody .
+   (ID: 9d9222851792c0966d644b25f98a14486f3509b3)
 
-16. i ' m waiting for the part where it affects you , because right now you are being offended for someone else . and the reason it was in the title was because it was clearly a joke , something that isn ' t serious at all .
-   (ID: 52733f5273fb099705b2a9e455932c48dae3d6b0)
+12. i wish to apply for a job as your mirror .
+   (ID: eb338cca8f5e87e4b6e5d369997ab6dbebf241c5)
 
-17. fair enough , and you ' re right . maybe its the volume of coverage its gotten is whats bothering me .
-   (ID: 6c37c47eeb3f7fb43fa9e127711749ae5626f80a)
+13. i wish we had the choice . i ' m buying my gen digit g22 but we can ' t carry them anymore .
+   (ID: 7a0302ed354e54bfa45e1de27055f29421f91f29)
 
-18. oh my god i can ' t even tell you how badly i needed to see something this pure and sweet right now .
-   (ID: 23d8dae7213e264b515a84a02f18e02f44dbe192)
+14. don ' t have extra weapon  wish i could give you one upvotes are all i have to give . so god dammit , i ' m gonna give ' em
+   (ID: ac618aeb476ed052ed284ebbdeb432dde55c6931)
 
-19. why is sex such a big deal i ' m guessing you ' re not doing it right
-   (ID: e9d73d2eb8490cec3e668bda1db9e716a061d73d)
+15. wow that suck wish i knew the answer for you
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
 
-20. i knew for ages my ex would end up liking someone else and it would be the end of us . she  s my ex so i was riiiiiight . ahh isn  t pessimism the best ? you  re either right or pleasantly suprised
-   (ID: 0e323710faccc9821d1ef265a6f9c574e3f4edde)
+16. great , that ' s how it works . two girls are rich and famous and all i had to do was be related to them by proxy and wish that their lives were better .
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+17. the devil pepper ! i wouldn  t even wish it on the devil himself .
+   (ID: c09c952d150b6ed8b3c43e58f807d7d80ff2d945)
+
+18. i wish i could eat my feelings . i might go on an albertacos run .
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+19. i wish my crush opened my room ' s door , rushed on me hugged me , and said  " its free real state " and kissed me dont you dare lie saying you never wanted that too .
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+
+20. i wish i was lucky can you , buy it ?
+   (ID: 1732732272a7425a209c594999d10d1063bf7a93)
 
 
 --- PersonaChat ---
-Total from this dataset: 1
+Total from this dataset: 6
 
-1. i eat breakfast then go right back to bed .
-   (ID: conversation_148)
+1. i wish i was a tiger .
+   (ID: conversation_156)
+
+2. i wish i could take back a mistake .
+   (ID: conversation_147)
+
+3. i wish i could speak another language .
+   (ID: conversation_546)
+
+4. i wish i knew where i belonged .
+   (ID: conversation_66)
+
+5. i wish i had a real dragon i could train .
+   (ID: conversation_31)
+
+6. i wish i could be more serious about school .
+   (ID: conversation_131)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 2
+Total from this dataset: 1
 
-1. He taught me right from wrong.
-   (ID: conversation_568_user_1)
-
-2. If things are not done right i will redo them again and again.
-   (ID: conversation_396_user_2)
+1. I wish that i lived in the city.
+   (ID: conversation_90_user_2)
 
 
 ============================================================

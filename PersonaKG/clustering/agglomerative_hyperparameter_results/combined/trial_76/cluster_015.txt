@@ -1,0 +1,386 @@
+CLUSTER 15
+============================================================
+Total statements in cluster: 1289
+
+Dataset distribution in this cluster:
+  FoCus: 32 (2.5%)
+  MPChat: 23 (1.8%)
+  MSC: 25 (1.9%)
+  PEC: 762 (59.1%)
+  PER-CHAT: 434 (33.7%)
+  PersonaChat: 6 (0.5%)
+  SyntheticPersonaChat: 7 (0.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 32
+
+1. I would like to know more about the old native villages of my state.
+   (ID: 97WAFKFECFDE_9)
+
+2. I have to know about lake.
+   (ID: 931HBHO4JP2E_11)
+
+3. I would like to know more about trade.
+   (ID: 7U2KEOOFBDTF_11)
+
+4. I like to know the climate of the places I visit.
+   (ID: XFB5FMNQN1Q8_9)
+
+5. I do know about Asian art.
+   (ID: GG3IBG4SOHXX_11)
+
+6. I want to know more about various forests.
+   (ID: FS1LJTHM1IC0_11)
+
+7. I like to know about the fauna of different places.
+   (ID: RQW9YJT6PSHE_7)
+
+8. I would like to know the location of knob hill.
+   (ID: TBZIWSGJCM17_11)
+
+9. I like to know the history of the places.
+   (ID: PNIMGSDW8PY2_9)
+
+10. I would like to know how this place opened.
+   (ID: TWVRMG2B6X6L_11)
+
+11. I didn't know that there was gallery specialized in exhibiting protraits.
+   (ID: MGEY7QK79154_11)
+
+12. I would like to know the inside the silos.
+   (ID: H5K7YCZSB2CT_11)
+
+13. I would like to know if the designer was Sir Joseph Paxton.
+   (ID: JBP0INT1W707_11)
+
+14. I like to know about the stories of the places I visit.
+   (ID: M64VNZMJSA71_11)
+
+15. I do not know much about Canadian art.
+   (ID: GG3IBG4SOHXX_11)
+
+16. I have curiosity to know about the Phrygian kings.
+   (ID: LX3CSQUSJ9B3_9)
+
+17. I would like to know more about old structures.
+   (ID: AOQJE7BBYFVM_11)
+
+18. I like to know about the flora of different places.
+   (ID: RQW9YJT6PSHE_7)
+
+19. I know many sports teams.
+   (ID: PHE863C7IQKS_11)
+
+20. I don't know who Horace Walpole is.
+   (ID: POTYY4E7PSQF_11)
+
+
+--- MPChat ---
+Total from this dataset: 23
+
+1. i don't even know.
+   (ID: fredbutt)
+
+2. i know i'm a little late... but i loved this cake!
+   (ID: BabyCakesBakeryyy)
+
+3. i finally know what you all mean about sleeve island.
+   (ID: RayRay108)
+
+4. sometimes you just gotta crochet a rainbow of triceratops, yah know what i mean?
+   (ID: Louiesloops)
+
+5. i know this is a trap, but i can't help it.
+   (ID: MafHoney)
+
+6. my habs aren't looking like the habs that i know
+   (ID: crunch816)
+
+7. well at least i know how to make a cupcake now.
+   (ID: Soapy_Von_Soaps)
+
+8. i love this yarn but don't know if it was the best choice.
+   (ID: Sophie74656)
+
+9. i love a mug that lets you know when it's time for a refill
+   (ID: coffeehawaii)
+
+10. i don't know why it took me so long to put on this bar...
+   (ID: i_like_it_raw_)
+
+11. i just finished 2 giant projects and don’t know what to make next!
+   (ID: green-egg-and-ham)
+
+12. i don't know what to do with this yarn.
+   (ID: Crilbyte)
+
+13. i don't know what it is i just love the colours!
+   (ID: River_Lethe)
+
+14. does anyone know what just sprouted in my planter?
+   (ID: ChroniclyDope)
+
+15. i didn't know that i lived near this.
+   (ID: ItsBail)
+
+16. roo-roo in a best buy bag for my you know what day
+   (ID: Taengoosundies)
+
+17. i don't know how to thread this thing and i can't find a video!
+   (ID: switchbladesally)
+
+18. i don't remember what i planted and i don't know if this is actually a weed!
+   (ID: CuriosityK)
+
+19. they don't know...i'd never do you any good...
+   (ID: i_like_it_raw_)
+
+20. i don’t know what these are, but i was really excited to find them.
+   (ID: kilnmenow)
+
+
+--- MSC ---
+Total from this dataset: 25
+
+1. I know how to ride a horse.
+   (ID: dialog_133_speaker_1)
+
+2. I like soccer but don't know how to play.
+   (ID: dialog_171_speaker_2)
+
+3. I don't know how to swim.
+   (ID: dialog_172_speaker_2)
+
+4. I know a lot about machinery.
+   (ID: dialog_113_speaker_2)
+
+5. I don't know how to make lasagna.
+   (ID: dialog_44_speaker_2)
+
+6. I reside on the outskirts of a city know as beantown.
+   (ID: dialog_164_speaker_2)
+
+7. I don't know my real parents.
+   (ID: dialog_165_speaker_1)
+
+8. I don't know a lot about antiques.
+   (ID: dialog_122_speaker_2)
+
+9. I know how to cook. I like reading cookbooks and recipes.
+   (ID: dialog_88_speaker_1)
+
+10. I do not know many people.
+   (ID: dialog_2_speaker_2)
+
+11. I don't know many people.
+   (ID: dialog_33_speaker_1)
+
+12. I don't know my family.
+   (ID: dialog_68_speaker_1)
+
+13. I am curious to know about the age suitability for the children's book.
+   (ID: dialog_132_speaker_2)
+
+14. I don't know who my biological parents are.
+   (ID: dialog_153_speaker_2)
+
+15. I know how to cook.
+   (ID: dialog_88_speaker_1)
+
+16. I know how to use a chainsaw, large axe, and bucksaw.
+   (ID: dialog_51_speaker_2)
+
+17. I don't know how to ride a horse.
+   (ID: dialog_117_speaker_2)
+
+18. I do not know my real parents.
+   (ID: dialog_190_speaker_2)
+
+19. I do not know my real parents.
+   (ID: dialog_68_speaker_1)
+
+20. I would like to enroll in nutrition classes and know more about the vegetarian way of eating.
+   (ID: dialog_10_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 762
+
+1. i need to know !
+   (ID: snapsnaptomtom)
+
+2. i genuinely do n’t know
+   (ID: mass08)
+
+3. i really do n’t know the prices .
+   (ID: mass08)
+
+4. i just do n’t know what to say to my dr ...
+   (ID: opalskys)
+
+5. i was wondering if you know how to fix this issue .
+   (ID: Etifaq)
+
+6. i 'd imagine i know where 80 % of where the states are located .
+   (ID: mr_venus)
+
+7. i do n’t know why but yes i think this .. again i do n’t know why
+   (ID: justgirlypasta)
+
+8. i do n't know how to introduce the subject .
+   (ID: arabguyistall)
+
+9. i do n't know if they would travel but it 's worth a shot .
+   (ID: monday_madrigal)
+
+10. i do n't know why this is under /r / funny ..
+   (ID: Osiris0123)
+
+11. i do n't know how to break this cycle .
+   (ID: underneathstars)
+
+12. i know he has herpies and would cheat on me .
+   (ID: LightofNew)
+
+13. i never actually read the story , but i know some of the bits .
+   (ID: Hypersapien)
+
+14. i know someone out there has solved this so help .
+   (ID: BoonTobias)
+
+15. i want to know how you protected yourself !
+   (ID: Atlmama)
+
+16. i have one of these as well , do n't know what it 's called though
+   (ID: petekachu_608)
+
+17. i know i girl who looks just like that , wtf ? ?
+   (ID: freddlaren)
+
+18. i read somewhere that you know you 're an adult when you start rooting for tom instead of jerry .
+   (ID: Megan_Bee)
+
+19. i do n't know-- i get a kick out of these .
+   (ID: doctor_parcival)
+
+20. i know you would n't pay to get crabs anyways .
+   (ID: ItGetsAwkward)
+
+
+--- PER-CHAT ---
+Total from this dataset: 434
+
+1. have you ever tried shawarma ? there ' s a shawarma joint about two blocks from here . i don ' t know what it is , but i wanna try it .
+   (ID: ac16118040bd30364df28924a08320a2668f71ae)
+
+2. i can  t even fucking believe this . that  s hilarious but like so oddly specific y  know ?
+   (ID: 903829fb4aefc18f9ba3e0dc7d2f3267adf2bcc8)
+
+3. when the bra is on the floor than you know it is relaxing time
+   (ID: b5faabfabaf04e645cf54c0d84e18989944a6d4c)
+
+4. i know this , but this is heredity with me . thank you
+   (ID: fa4c371fe8b38af948c041b548e9bad7869c7b69)
+
+5. his greatest song is let it be . i don  t know how you could think that it would be rocky raccoon . whenever that song comes on , i run across my room and throw my record player out of my window .
+   (ID: a8d677a357cabd8cb6d9bfa06e041b5b173582d8)
+
+6. is it weird that i have no idea what spotify is ? i mean i know it ' s a music thing but that ' s it . i don ' t know what it actually does . is it a social networking thing or do you just buy stuff from it ?
+   (ID: 5147e830e7cfa538d6990a8699ad6462b57cfb52)
+
+7. ultimately , we know where his story ends we know where his story goes , not quite how it ends .
+   (ID: 9986ae9dc79e871f6701d6323d4b631234b6ef8c)
+
+8. having my underarms touched . i don  t know why , but whenever i think someone is going to touch them or come close to them i freak out and hyperventilate .
+   (ID: 64cd7a2c07766ef2725fa67e6025759ae1f56c2b)
+
+9. do you know what song it is
+   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
+
+10. fucken cool as shit . you know with a bit of creativity and placment you could start a fire .
+   (ID: 34d7a41f0778ab80ac97d43bcbe30cde5ab458d8)
+
+11. no he  s really good if you know how to sneak
+   (ID: 9c91f42953bc8f6d2f718503a1924734b9da6acc)
+
+12. what do you mean , you don ' t know ?
+   (ID: 7cece6bbdf487f99b6d494ab790bde8e66ce8966)
+
+13. i don ' t know if i ' m ready for the next chapter . i don ' t think my heart can handle it .
+   (ID: 8764a223ca1af7d1792e76a58bf3b1209bf73ad3)
+
+14. i don ' t know if is a mental ilness but many people sustain that i am bipolar and i think it is true indeed . it is not well received by my girlfriend but i dont have any other problems with it
+   (ID: c65a473965fbe88679c85b0d206d90b8c65789fe)
+
+15. do you know where she is from ? i would send a message or a few if we could narrow it down
+   (ID: dc0783c6951122c6edfc85430901cf133c146b32)
+
+16. it ' s the end of the world as we know it .
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+17. maybe its their way of letting you know how ridiculous you ' re acting ?
+   (ID: 702ae3441c84a130e3b2867584502ce16fd5c09f)
+
+18. that  s beautiful ! do you know what kind of flower it is ?
+   (ID: 160325a949e5dbc41bc99b9243f0df0953ef7bd4)
+
+19. yes i know that much
+   (ID: 2264050ea82d909575d6593daf8246fa8655751e)
+
+20. well you defo need to go . great festival . but i live in tilburg you can always hit me up . don ' t know if i will go .
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i don't know how to swim .
+   (ID: conversation_407)
+
+2. i know how to drive a stickshift .
+   (ID: conversation_391)
+
+3. i do not know why my sister in law dislikes me .
+   (ID: conversation_142)
+
+4. i know how to count cards in blackjack .
+   (ID: conversation_158)
+
+5. my parents don't know i am gay .
+   (ID: conversation_4)
+
+6. i know how to pilot a plane .
+   (ID: conversation_400)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I know how to count cards in blackjack.
+   (ID: conversation_456_user_1)
+
+2. I don t know how to swim.
+   (ID: conversation_370_user_2)
+
+3. My parents do not know i am gay.
+   (ID: conversation_443_user_2)
+
+4. My parents do not know i am gay.
+   (ID: conversation_139_user_2)
+
+5. I don t know why my sister in law dislikes me.
+   (ID: conversation_98_user_2)
+
+6. I know how to count cards in blackjack.
+   (ID: conversation_455_user_1)
+
+7. I have the gene that lets me know when someones eaten asparagus.
+   (ID: conversation_231_user_2)
+
+
+============================================================

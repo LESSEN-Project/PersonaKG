@@ -1,0 +1,467 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 1168
+
+Dataset distribution in this cluster:
+  FoCus: 213 (18.2%)
+  MPChat: 144 (12.3%)
+  MSC: 63 (5.4%)
+  PEC: 493 (42.2%)
+  PER-CHAT: 201 (17.2%)
+  PersonaChat: 27 (2.3%)
+  SyntheticPersonaChat: 27 (2.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 213
+
+1. I have never been to a Town Hall.
+   (ID: JGNFHPJEPO6H_9)
+
+2. I have not visited a zoo in a long time.
+   (ID: LFGIG1TODPKB_11)
+
+3. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+4. I have visited Soap Lake last year.
+   (ID: E6FC9U7LUUT3_11)
+
+5. I wish to start hiking on nature trails.
+   (ID: 97WAFKFECFDE_9)
+
+6. I have never been to Florida.
+   (ID: STW2OR1N34AR_11)
+
+7. I went to France on my vacation last year.
+   (ID: OVAVQ6KQ4YWN_11)
+
+8. I like to visit a arena.
+   (ID: PHE863C7IQKS_11)
+
+9. I have heard of the Saint John of Capistrano.
+   (ID: LEUWGO47I5DG_11)
+
+10. I have never been to Europe before.
+   (ID: RUXEW8EYORSZ_11)
+
+11. I have been to Turkey.
+   (ID: WZJKGOPTI7K6_11)
+
+12. I have visited Japan before.
+   (ID: OOFLNCG3KOXN_11)
+
+13. I have not seen the Plainridge Park Casino.
+   (ID: DCX9CLWBX4L6_11)
+
+14. I have never been to Alaska.
+   (ID: 82ZP2M9AL6U0_11)
+
+15. I have never been to Lancashire.
+   (ID: PDQ9Z8XXYUMC_11)
+
+16. I have been to England.
+   (ID: Q997WWV6FO9L_11)
+
+17. I have never been to Oslo.
+   (ID: NRWCDZW051T6_11)
+
+18. I have never been to Australia.
+   (ID: A06HPOO7OWPE_11)
+
+19. I've never been to Brisbane.
+   (ID: XXWV8BD5AL9Z_11)
+
+20. I wish I had opportunity to live in New York one day.
+   (ID: YH6KAJ3V2KQ8_11)
+
+
+--- MPChat ---
+Total from this dataset: 144
+
+1. i couldn't hike in peru without stopping at machu picchu
+   (ID: markoshino)
+
+2. went on my first kayak camping trip.
+   (ID: GamblinGambit)
+
+3. welcome to disneyland california........i mean zion national park
+   (ID: tssouthwest)
+
+4. hiked my first slot canyon yesterday.
+   (ID: garret_weintrob)
+
+5. after two years of diy building , my 4x4 camper is finished at last .
+   (ID: overlandervanman)
+
+6. the sky from my camping spot!
+   (ID: gammonjoshua)
+
+7. i went on my first ever backpacking trip solo!
+   (ID: catsinpockets)
+
+8. my first winter camping experience.
+   (ID: garret_weintrob)
+
+9. i went camping last weekend.
+   (ID: tssouthwest)
+
+10. went to the krishna temple in utah to eat and i got to feed the llamas
+   (ID: kentobean123)
+
+11. took my hedgehog camping in the ozark mountains
+   (ID: FindingTheAdventure)
+
+12. i witnessed a great sunrise there!
+   (ID: ChristophZee)
+
+13. covid camping over the weekend - pulled out all the shelters - i may have a problem.
+   (ID: reecee)
+
+14. explored my first slot canyon yesterday.
+   (ID: garret_weintrob)
+
+15. a scenic overlook on route 1 in big sur, california, where i proposed to my partner.
+   (ID: Chinchillasaurus)
+
+16. i had a wonderful time kayaking with my wife across morro bay.
+   (ID: tssouthwest)
+
+17. how my hometown in nevada normally looks compared to how it currently looks due to the california rim fire.
+   (ID: evantide)
+
+18. i purchased a trailer so i can take my family camping
+   (ID: ItsBail)
+
+19. day 1 of 3 of my road trip to colorado.
+   (ID: iamjesus888)
+
+20. i went horse camping - washington - pasayten wilderness - work party rebuilding a bridge
+   (ID: reecee)
+
+
+--- MSC ---
+Total from this dataset: 63
+
+1. My best friend lives in Tokyo.
+   (ID: dialog_89_speaker_1)
+
+2. I do not get to see my parents very often.
+   (ID: dialog_182_speaker_2)
+
+3. I have never left the countryside.
+   (ID: dialog_42_speaker_2)
+
+4. I have not seen a broadway show. I would like to see Wicked show.
+   (ID: dialog_144_speaker_1)
+
+5. I am planning a few family getaways during summer break.
+   (ID: dialog_9_speaker_2)
+
+6. I've been to Japan in military.
+   (ID: dialog_89_speaker_2)
+
+7. My house in in the bronx.
+   (ID: dialog_84_speaker_1)
+
+8. My boyfriend is in Japan.
+   (ID: dialog_170_speaker_2)
+
+9. I have not seen a broadway show.
+   (ID: dialog_144_speaker_1)
+
+10. I've never been to Peru. I am not into hiking. I think exploring is fun.
+   (ID: dialog_9_speaker_2)
+
+11. I was on a rower and saw many places.
+   (ID: dialog_60_speaker_2)
+
+12. I have not seen a broadway show. I like to sing tunes from broadway shows.
+   (ID: dialog_144_speaker_2)
+
+13. I have been to Mexico City.
+   (ID: dialog_113_speaker_2)
+
+14. I travelled to tahiti 2 times.
+   (ID: dialog_145_speaker_1)
+
+15. I don't get to see my parents very often.
+   (ID: dialog_6_speaker_2)
+
+16. I travel frequently for work. I have a wife.
+   (ID: dialog_174_speaker_1)
+
+17. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+18. My boyfriend lives in Japan. We visit each other. I love Japanese cuisine and culture. I like to visit Japan. I visited 12 months ago.
+   (ID: dialog_170_speaker_2)
+
+19. I have only traveled to America and Mexico.
+   (ID: dialog_113_speaker_2)
+
+20. I travel to russia a lot.
+   (ID: dialog_113_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 493
+
+1. i 'm flying in with my wife , my friend and his wife for the game too .
+   (ID: TWS85)
+
+2. i ’m a bit intimidated , which is why i ask .
+   (ID: themarajade1)
+
+3. i say the same thing about twin lakes dog park
+   (ID: AzHighways)
+
+4. i 'm thinking walmart will be a perfect place to take a walk around the sidewalk on friday .
+   (ID: sbsb27)
+
+5. i could n't think of a more scenic place to blow one 's head off .
+   (ID: AzHighways)
+
+6. i bet if you factor out airplanes there would be way more places .
+   (ID: jesuschrysler)
+
+7. i would absolutely still be a stalwart tbm if i 'd never moved to provo .
+   (ID: greensandgables)
+
+8. i actually did the same today myself.it does get stressful .
+   (ID: NurseMisty313)
+
+9. i assume this was taken at the 2000 olympic games in sydney ?
+   (ID: WorldBFree)
+
+10. i ’m out of beer :(
+   (ID: Test_Profile)
+
+11. i 'd come home and have a glass of wine or a beer .
+   (ID: teriaki)
+
+12. i 've never seen star buzz in dubai .
+   (ID: Darth_Waiter)
+
+13. i was there last tuesday and the back door was open and i saw this room � �
+   (ID: bummang)
+
+14. i assume : each time you get on a plane .
+   (ID: ScientificallyYours)
+
+15. i would ask at the rocky mountain house tourist information center honestly .
+   (ID: exotics)
+
+16. i flew over the everglades and had terrible heebie geebies thinking about what was down there .
+   (ID: bugaloo2u2)
+
+17. i want to go back .
+   (ID: mbw1960)
+
+18. i do n't think i 've ever been so excited for an exhibition .
+   (ID: 8459268)
+
+19. i ’m sorry you have .
+   (ID: crestview76)
+
+20. i ’m definitely going since i ’m from ca
+   (ID: YouDirtyDogg)
+
+
+--- PER-CHAT ---
+Total from this dataset: 201
+
+1. maybe invite her to the park ? other than that i have nothing .
+   (ID: cc3d4f2be41112acacb92d09090db0e1f8d7e387)
+
+2. that ' s a beautiful sight and you guys aren ' t that far away from me . so i may see it in person in the near future .
+   (ID: ca6f75f7c2f9d1175fa6abae36369351bda1afb8)
+
+3. how is he liking it so far ? i ' m not as north as you guys . have you seen snow yet this season ?
+   (ID: 354f69f9c6cf00a975f2f112bc11eaa79f843f63)
+
+4. talk to people without caring what you say . you ' ll have a lot of fun and be glad you had the balls to do it . even if you get totally shot down , it ' ll be worth it .
+   (ID: 441f42a774bfb13dc694fc8515be8a2da22decb1)
+
+5. thank you ! i really want to arrange something but my schedule gets so packed a lot of the time
+   (ID: c50479206ad2428ecdc02592a82261c4f2ae30a5)
+
+6. okay , seriously , my direction sense is so bad i ' d be lost in my own city . also , i haven ' t been out , so i don ' t know much anyway .
+   (ID: 2c5816cbbee60e3c348eb04900ea7453604cff82)
+
+7. don ' t know . just make sure you do it on like the last day of class . when you get rejected , you don ' t want to have to see that person everyday .
+   (ID: 7f3ed7262bf05d9d101b2b917869b90e43710a7a)
+
+8. it shouldn ' t be an issue . i honestly don ' t care if someone is gay or not , if they give me a compliment their cool factor just went up by digit points and it makes me wanna be there friend .
+   (ID: c11592c54f6061d979d11af92c6289790a5bec93)
+
+9. huh ! i had just gotten done thinking that i ' d seen every type of bridge possible ! now this !
+   (ID: 60767c0b3f4fbb31bad0bee921528b0976287f68)
+
+10. i play to many strategy games to not know instinctively where each country is and some basic background history about it . don ' t usually show it off because it makes me look like a ponce but it ' s fun to whip out my geography dick every now and then and absolutely demolish the world map section of trivia quizzes
+   (ID: f9f34c53011c38bf18b297061e7ed0a73cfc6eb5)
+
+11. i would stuff someone in there with you . no one should be alone on valentine ' s day .
+   (ID: d6e89a045ccd97a556ff87527d8a08a8e3c89fc1)
+
+12. i love singapore so much i lived there for digit years
+   (ID: 10f3c4c68efa9cd11f34f4a88f492c7d7e693418)
+
+13. i ' d hate to say one thing and it ' ll be the other lol would my chances be looking good ? haha
+   (ID: ff36137e68382d33016fdf568208704ea2c16642)
+
+14. i bloody love barcelona  my favourite european city by a mile . i never , ever get bored of going there . the first thing i do when i get home is book my flight back again . it takes a special city to be equally amazing on a wet tuesday morning in february as a friday night in july  barcelona is the one that does it for me . never have got my head around catalan though !
+   (ID: 4420123abde71e42df266171d2bcb8a90afeed93)
+
+15. One of my favorite things is dr. rice at miller animal hospital in north greenbush/troy/defreestville.
+   (ID: eace5bb8fae91afe15af3966cf6b9189772fe2cc)
+
+16. the stuffed poblanos are amazing there . off of 15th and broadway . there  s an independent movie theater around the back of it as well in case you  re interested in a show afterwards .
+   (ID: 9b58219d8f43f5aa6e34770c7b9c7896c88c8fe7)
+
+17. my fiancee and i will be at universal for digit days of our honeymoon in november , we ' re excited to check out the wwohp ! what do you recommend should be at the top of our to do lists when checking out the park ?
+   (ID: 65e18a8843fe1a6d644e4fe6a3b227426a6b9103)
+
+18. introduce yourself to everyone . don ' t do anything that might leave a bad impression .
+   (ID: e7189ea885d9f7e9cdbd71ff2f2035f07ebaf6db)
+
+19. yeah . the only thing making me visit is just the utter fascination
+   (ID: 8ea8e4a00c3f2a64096e00bdbba0247e580cdb17)
+
+20. ' harvard wants to know your location '
+   (ID: dc1a6ca8b7ce3327dec097f0883d72c2689870fc)
+
+
+--- PersonaChat ---
+Total from this dataset: 27
+
+1. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+2. i always travel alone .
+   (ID: conversation_254)
+
+3. i ve never been to the beach .
+   (ID: conversation_469)
+
+4. i do not have too many friends in the us yet , but i'm going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall .
+   (ID: conversation_482)
+
+5. i travel every year to disney world .
+   (ID: conversation_458)
+
+6. i have never traveled outside of the united states .
+   (ID: conversation_170)
+
+7. i've visited 12 national parks in the us .
+   (ID: conversation_83)
+
+8. i am afraid of rejection from my parents .
+   (ID: conversation_299)
+
+9. my best friend lives in japan .
+   (ID: conversation_170)
+
+10. i ve never been to the city .
+   (ID: conversation_42)
+
+11. i'm hoping to move to australia soon to marry my boyfriend .
+   (ID: conversation_77)
+
+12. i go visit them sometimes .
+   (ID: conversation_360)
+
+13. i don t have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall .
+   (ID: conversation_354)
+
+14. i've traveled to both ireland and australia .
+   (ID: conversation_38)
+
+15. i am afraid of rejection from my parents .
+   (ID: conversation_369)
+
+16. i went to new york city once .
+   (ID: conversation_238)
+
+17. i traveled around the world in a boat .
+   (ID: conversation_60)
+
+18. i went to new york city once .
+   (ID: conversation_433)
+
+19. i have a boyfriend who lives in italy .
+   (ID: conversation_411)
+
+20. i just took a trip to london .
+   (ID: conversation_462)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 27
+
+1. I traveled around the world in a boat.
+   (ID: conversation_209_user_1)
+
+2. I have traveled to both ireland and australia.
+   (ID: conversation_282_user_2)
+
+3. I have traveled to europe and mexico.
+   (ID: conversation_202_user_2)
+
+4. I don t have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_119_user_2)
+
+5. I am afraid of rejection from my parents.
+   (ID: conversation_227_user_2)
+
+6. I wish that i lived in the city.
+   (ID: conversation_90_user_2)
+
+7. I want to visit rome , but i cannot make myself go alone.
+   (ID: conversation_233_user_2)
+
+8. I do not have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_62_user_2)
+
+9. I am hoping to move to australia soon to marry my boyfriend.
+   (ID: conversation_404_user_2)
+
+10. I do not have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_414_user_2)
+
+11. I hope to travel the world one day.
+   (ID: conversation_355_user_1)
+
+12. I travel every year to disney world.
+   (ID: conversation_329_user_2)
+
+13. I traveled around the world in a boat.
+   (ID: conversation_195_user_1)
+
+14. I have visited 12 national parks in the us.
+   (ID: conversation_20_user_2)
+
+15. I traveled around the world in a boat.
+   (ID: conversation_194_user_1)
+
+16. This summer i went on vacation to italy.
+   (ID: conversation_158_user_2)
+
+17. My best friend lives in japan.
+   (ID: conversation_152_user_2)
+
+18. I always travel alone.
+   (ID: conversation_9_user_2)
+
+19. We plan to travel after he retires.
+   (ID: conversation_107_user_2)
+
+20. I don t have too many friends in the us yet , but i am going to summer camp and i hope to make friends then ! i also think that i may make friends as soccer in the fall.
+   (ID: conversation_100_user_2)
+
+
+============================================================

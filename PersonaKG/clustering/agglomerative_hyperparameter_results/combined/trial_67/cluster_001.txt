@@ -1,0 +1,467 @@
+CLUSTER 1
+============================================================
+Total statements in cluster: 34740
+
+Dataset distribution in this cluster:
+  FoCus: 646 (1.9%)
+  MPChat: 3143 (9.0%)
+  MSC: 1628 (4.7%)
+  PEC: 15674 (45.1%)
+  PER-CHAT: 10410 (30.0%)
+  PersonaChat: 1081 (3.1%)
+  SyntheticPersonaChat: 2158 (6.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 646
+
+1. I have studied at Utah State University.
+   (ID: EFTS0UG7NK5K_9)
+
+2. I have stayed in luxury hotel.
+   (ID: G4G0O51GJSQQ_11)
+
+3. I am planning to go to New York.
+   (ID: RN7ZT44D6QK1_11)
+
+4. I'm a Anglican.
+   (ID: XXWV8BD5AL9Z_11)
+
+5. I have never been to Maharashtra.
+   (ID: A0Z3UWA0T3EK_9)
+
+6. I am intrested to see fauna.
+   (ID: 931HBHO4JP2E_11)
+
+7. I am planning to visit China next winter.
+   (ID: P6GC7TLC5QDI_11)
+
+8. I have heard about American Civil War.
+   (ID: G6QWKZ4CTWVW_11)
+
+9. I have visited the Raj Bhavan at Chennai.
+   (ID: V3LNPA1FT8D2_11)
+
+10. I am usually one of the first to purchase new electronic items.
+   (ID: NR67D1SY5ZKB_11)
+
+11. I am in Wales for the summer.
+   (ID: BVS6H6G1BVW6_11)
+
+12. I am born in Pennsylvania.
+   (ID: 97WAFKFECFDE_9)
+
+13. I am a high school music teacher.
+   (ID: RUXEW8EYORSZ_11)
+
+14. My parents are Polish.
+   (ID: MMFXPQYSEBUW_11)
+
+15. I am going to stay in Ontario.
+   (ID: UXR4EKSRCULN_11)
+
+16. I hate Canadian Pacific 972.
+   (ID: M6QLMFHJ3CAF_11)
+
+17. I am German.
+   (ID: NKLIZUTIPPP1_11)
+
+18. I am fond of old furniture.
+   (ID: ZXCRSZ4D5PMK_11)
+
+19. I have an interest in military history.
+   (ID: LCFMQMTGBUJO_7)
+
+20. I am from England.
+   (ID: CH4FIE1LU3RG_11)
+
+
+--- MPChat ---
+Total from this dataset: 3143
+
+1. the biggest craft fair i was ever accepted to sell at just got canceled due to the covid-19 outbreak.
+   (ID: FoxInKneeSocks)
+
+2. i saw that reddit likes stuff that has been laser cut
+   (ID: ItsBail)
+
+3. first time growing my own hawaiian mamaki tea.
+   (ID: coffeehawaii)
+
+4. i crocheted a tiny koopa shell from super mario bros!
+   (ID: Louiesloops)
+
+5. my wife’s awesome fault line cake
+   (ID: 05twister)
+
+6. my other finished object for this week is comfort bear no 22 for this year.
+   (ID: Moriarty58)
+
+7. i just won at cookies... caramel apple pie cookies
+   (ID: itsamayazing)
+
+8. two strips walk into my mouth
+   (ID: BananaPeelSlippers)
+
+9. i heard r/aww likes older dogs too.
+   (ID: The69LTD)
+
+10. i crocheted an itty bitty key!
+   (ID: Louiesloops)
+
+11. baked a very girly cake for my friend's 25th birthday and she absolutely loved it!
+   (ID: chakita86)
+
+12. i have a lot of cardboard rolls, so i make utensil cans.
+   (ID: gelimausi)
+
+13. i figured out a cute solution to my stuffie eye problems.
+   (ID: rollypollypuppy)
+
+14. today, he's my little superhero!
+   (ID: BananaStand07)
+
+15. trying to work with smbc on a warm day was awful... but i think this came out ok!
+   (ID: MafHoney)
+
+16. president petrie piggleton sharing my pillow
+   (ID: kentobean123)
+
+17. i embroidered a small hardanger blanket with pearl yarn on hardanger fabric.
+   (ID: gelimausi)
+
+18. [i made] meatball subwiches?
+   (ID: MonstaEatsItAll)
+
+19. i adopted the "dog that will never be adopted."
+   (ID: crunch816)
+
+20. yesterday i made quinoa sweet potato stuffed portobellos
+   (ID: ReturnOfTheFox)
+
+
+--- MSC ---
+Total from this dataset: 1628
+
+1. I got boots from a Boot Barn.
+   (ID: dialog_27_speaker_1)
+
+2. Seeing the globe is on my bucket list.
+   (ID: dialog_13_speaker_1)
+
+3. My dad calls me frankie.
+   (ID: dialog_15_speaker_1)
+
+4. I have a job. I'm currently on leave.
+   (ID: dialog_67_speaker_2)
+
+5. I am enlisted in the army. I am a pilot. I fly a bomber.
+   (ID: dialog_67_speaker_2)
+
+6. I am having a writer write a book on video games for me. I found the writer through a mutual friend. My friend and the writer worked on a book about horror movies.
+   (ID: dialog_132_speaker_1)
+
+7. I'm thinking of holding a mystery dinner party and serving horse meat at the party.
+   (ID: dialog_119_speaker_1)
+
+8. I am easily distracted and forget easily.
+   (ID: dialog_131_speaker_2)
+
+9. My parents visit Denmark every summer. Denmark has cooler summers.
+   (ID: dialog_76_speaker_1)
+
+10. I've a female child.
+   (ID: dialog_129_speaker_2)
+
+11. I am single. I'm a single mother. I have a son. I'm unemployed. I like reading. I'm 28.
+   (ID: dialog_65_speaker_2)
+
+12. Our family is close. We try to include our children in everything.
+   (ID: dialog_68_speaker_2)
+
+13. My father is a pilot on a major airline.
+   (ID: dialog_29_speaker_1)
+
+14. I believe mermaids are real.
+   (ID: dialog_14_speaker_1)
+
+15. I have a nephew.
+   (ID: dialog_100_speaker_1)
+
+16. I tell jokes all the time. I can make jokes. I am a comedian. I am not a professional comedian yet. I mostly perform comedy at one club, and occasionally branch out to others.
+   (ID: dialog_125_speaker_2)
+
+17. I used to do graphic design.
+   (ID: dialog_33_speaker_2)
+
+18. I'm in the us military.
+   (ID: dialog_129_speaker_1)
+
+19. I used to interact in sports in my older teen years.
+   (ID: dialog_47_speaker_1)
+
+20. I am not shy.
+   (ID: dialog_2_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 15674
+
+1. i forgot about that one !
+   (ID: exotics)
+
+2. i see your point and embarrassment is a pretty valid feeling in that type of situation .
+   (ID: IncredibleBulk2)
+
+3. i feel like an idiot .
+   (ID: nastylittleman)
+
+4. i see no problem with this .
+   (ID: Etifaq)
+
+5. i 'm still smiling , so no - thank you !
+   (ID: rycheme)
+
+6. i ’m aware i ’m not explaining it very well .
+   (ID: BoobieBoobieButtButt)
+
+7. i ’m not in california .
+   (ID: Captain_-H)
+
+8. i 'm livin ' in the 80'ies
+   (ID: Shrub74)
+
+9. i ca n't wait !
+   (ID: BabblingBunny)
+
+10. i think it 's good for people to make their own decisions based on actual scientific facts .
+   (ID: bbakks)
+
+11. i say this while working off a 2 tb hard drive that ’s not backed up ....
+   (ID: glowinthedark)
+
+12. i can report back after the show tomorrow
+   (ID: Naughtyformoms)
+
+13. i 'm a big fan of finding ways to be grateful ; thanks for sharing yours .
+   (ID: kitcatpaints)
+
+14. i ’m perfectly healthy .
+   (ID: AP7497)
+
+15. i bought a ph tester which should be here in a couple days .
+   (ID: Kellen1337)
+
+16. i 'm not .
+   (ID: Othello)
+
+17. i ’m loving the variety !
+   (ID: prettynicky10)
+
+18. i was 19 .
+   (ID: dkinmn)
+
+19. i felt so grindy today haha .
+   (ID: QueenPea13)
+
+20. i have been diagnosed .
+   (ID: SamuelStephenBono)
+
+
+--- PER-CHAT ---
+Total from this dataset: 10410
+
+1. what ' s the thing with pickles suddenly ? i am confusion
+   (ID: 7e58269155b84bc057025d5066e661ba2eb934ba)
+
+2. hcgator digit points digit hours ago it depends . are you parents immigrants ? if so , you are more likely screwed . this . you are super screwed if they are immigrants . usually they hold the closest value to the homeland . though my parents are immigrants , they took it slowly when i brought home my african american gf . it ' s a culture thing i am sure you are aware of . how close are you to your parents ? can you joke with them ? have a heart to heart ? here ' s my story , i joked with my dad about having a black gf , he threatened to kick me out of the house . until that is , i kept on joking and telling him this , " this is america , this is what young people do now " eventually he got it and when he met her , he loved her . they would sit and talk and being immigrants , they have stereotypes they would cook her fried chicken and slice watermelon . so they went from being rude racists to polite racist . really though , they literally asked if she is coming so they can make her " people " food . my gf took it in stride , she loved my parents and thought it was hilarious when the chicken came out .
+   (ID: 3f096e5688ae1e18a7e30befd53c2492595b4825)
+
+3. invade switzerland , they will never see it coming as all of their guards are in rome and they have to go through the cork screw , screw driver , nail file , bottle opener and allen key attachments before they can get their knives out .
+   (ID: 64ee30820164d5febf4618f35085fd26a3387cc9)
+
+4. there are several reasons why people prefer to use audio . these are a few . 1efficiency  cuts down on cpu 2creativity  there  s a certain forward motion that comes from printing it and moving on . 3originality  you can work with audio in lots of ways you can  t with midi . this gives you a lot more options in tailoring your sounds or running it through other samplers etc . 4transferability  if you give it to another engineer , you know he  she is getting just what you intended . 5quality  to be honest i can  t speak with great authority on the science but my intuition tells me you probably get less aliasing errors with printed audio . freezing , stacking , etc . all of these achieve number digit . if your system  s bogged down it  s a no brainer . but in in my opinion , it takes about the same time to run an offline bounce or commit as it does to freeze it  s a bit longer but fast so why not capitalize on all the advantages ? hope this helps !
+   (ID: aeeeb72f8fa4535141823a3cf83acb5f60bbaff4)
+
+5. I am computer.
+   (ID: 98df62eadd0a0c80a6084d5e352985209b46cce9)
+
+6. well even if that ' s the case , it ' s sort of hard to just take control  analyze your own subconscious without professional help . this was like a few months ago . i guess my biggest fear relationship wise is becoming that father in the movies who is so thrown into his work , that he never makes time for his family which causes them to drift apart . this could be something else or just something petty . i mean i won ' t tolerate something that ' s obviously worse like cheating or something but i ' m not sure how to " fix " my issues in terms of attraction unless professional help is called upon i guess . i think it could be way worse though .
+   (ID: cfabcbc785db80706dcc28a81eb7851d8c7bd3ce)
+
+7. big baseball fan here  the scene in " digit " where the opposing manager is just giving it to jackie robinson , calling him all manner of horrible things .
+   (ID: 2bb956084cb9bf79f58345d6cf6beca98e76bbb4)
+
+8. because i  m just trying to get to where i need to go and don  t care about making eye contact with random people . why do you care ?
+   (ID: 8cdbf7ed2ace2eeed8bd2b0e2e86001342f83a1f)
+
+9. snap out of the loop and start approaching . i understand how you feel about everyone feeling tired after work . but , you could be the make or break in someone ' s day . consider a party with your boss . everyone is shaking his hand and being all professional . and then you walk in and treat him like a normal person , and bring in high energy . he will like you and respect you for being real and treating him like an actual person . others will see this and start doing the same . break everyone out of the loop . just because everyone else is doing something doesn ' t mean it ' s taboo to do something else . take risks . now do the same thing in dating , break everyone out of autopilot . change what is perceived as normal everyone doing their own thing , to approaching . you will definitely get shot down more though , since some won ' t be in the mood to talk .
+   (ID: 3e7b07ddd384cb288bc529e6aeb73f840aa5a294)
+
+10. for god ' s sake don ' t take any of our advice , on any subject , seriously .
+   (ID: 91d5c112de409d3216ef30d9a1c0d6a9c9f48260)
+
+11. at first i saw nothing and was confused . then i saw robin williams and was blown away . amaze .
+   (ID: 634dae5dcf04e8e8d5bfd5e71c1fa8ec9713f222)
+
+12. there ' s an option . your not even explaining why to your gf
+   (ID: 28e24cb71e2c0068fef35890d39022b686e4215d)
+
+13. nothing wrong with enjoying the game in the way you see fit . that ' s the great thing about baseball , it can be enjoyed in a variety of ways . no one way is right or wrong .
+   (ID: 2bb956084cb9bf79f58345d6cf6beca98e76bbb4)
+
+14. ' why be a king , when you can be a god ? '  eminem rap god
+   (ID: 4a03851d25b2526583af78261bff2af13796094e)
+
+15. oh , and it happens to be my bday which is funny .
+   (ID: 15909870ffa903ea3b3962d8d81fd1701dd68aea)
+
+16. poor you . maybe people don  t want to hear someone swear on this nice subreddit
+   (ID: 726c36ce13fa631676ed5053f62b0f5f7b61eb5e)
+
+17. i don ' t think someone ' s sexual orientation affects how they relate with their parents . i ' ve always been super close with my dad before and after coming out . i don ' t think i have a different relationship than either of my straight siblings .
+   (ID: 183a5eea32f2c73a87c734920d3188862433e411)
+
+18. er , sure i can wait a couple days , but only if your ok recieving the code when i get it or during trade .
+   (ID: 39ad1ed2bdf42527fd153f3d4be927df170fc195)
+
+19. i said " i lobe you " and she said , " that ' s sexy "
+   (ID: 4198a967d1b0765e3fc996754ce9a3e6c7f24c8c)
+
+20. there is no such thing as a god my parents were crazy religious and they snapped my game disc soul caliber cause it was too " demonic " and now my mom and dad aren ' t religious since their divorce if there was really a god why would the piece of shit help us through our crisis . this is why i am an atheist
+   (ID: db1ffea2a957f19bfc0fffdbd89a6d65be91fd5c)
+
+
+--- PersonaChat ---
+Total from this dataset: 1081
+
+1. i have 5 grandchildren .
+   (ID: conversation_104)
+
+2. if i am not drinking , i am thinking , which makes me uncomfortable .
+   (ID: conversation_197)
+
+3. i am committed to the environment .
+   (ID: conversation_215)
+
+4. i'm overall happy with life .
+   (ID: conversation_128)
+
+5. i'm strong .
+   (ID: conversation_235)
+
+6. i listen to a fall out boy record every day .
+   (ID: conversation_220)
+
+7. i watch basketball .
+   (ID: conversation_12)
+
+8. my grandma is from denmark .
+   (ID: conversation_162)
+
+9. i'm taking courses online .
+   (ID: conversation_176)
+
+10. i wish i did not have to work .
+   (ID: conversation_212)
+
+11. my mother was a nurse .
+   (ID: conversation_45)
+
+12. i'm terrified of heights .
+   (ID: conversation_284)
+
+13. i sleep in late during the day .
+   (ID: conversation_223)
+
+14. i am a social butterfly .
+   (ID: conversation_16)
+
+15. i drive a red car .
+   (ID: conversation_313)
+
+16. i wait tables .
+   (ID: conversation_129)
+
+17. i work at google .
+   (ID: conversation_346)
+
+18. i dyed my hair pink .
+   (ID: conversation_81)
+
+19. my favorite color is orange .
+   (ID: conversation_307)
+
+20. i graduated with a statistics degree .
+   (ID: conversation_158)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2158
+
+1. I m very shy.
+   (ID: conversation_320_user_1)
+
+2. I have a son.
+   (ID: conversation_275_user_1)
+
+3. I draw comics.
+   (ID: conversation_340_user_1)
+
+4. I am east asian.
+   (ID: conversation_203_user_2)
+
+5. I have sausage fingers.
+   (ID: conversation_31_user_1)
+
+6. I am an artist.
+   (ID: conversation_166_user_2)
+
+7. I am trying to play in a local band.
+   (ID: conversation_210_user_1)
+
+8. I have brown hair.
+   (ID: conversation_321_user_2)
+
+9. Skateboarding is a hobby of mine.
+   (ID: conversation_301_user_1)
+
+10. I own my own small marketing consulting agency.
+   (ID: conversation_228_user_1)
+
+11. I can knit.
+   (ID: conversation_59_user_1)
+
+12. I have a farm with pigs , horses and hens.
+   (ID: conversation_124_user_2)
+
+13. I am in college.
+   (ID: conversation_77_user_2)
+
+14. My favorite singer is justin bieber.
+   (ID: conversation_252_user_2)
+
+15. I hate green beans.
+   (ID: conversation_106_user_2)
+
+16. I m recently divorced.
+   (ID: conversation_321_user_1)
+
+17. My father is a mechanic.
+   (ID: conversation_49_user_1)
+
+18. I can knit.
+   (ID: conversation_60_user_1)
+
+19. I have big face cheeks.
+   (ID: conversation_33_user_1)
+
+20. My husband in an engineer.
+   (ID: conversation_65_user_1)
+
+
+============================================================

@@ -1,0 +1,66 @@
+Agglomerative Clustering Analysis Summary
+============================================================
+Total statements: 3015
+Vectorization method: dense
+Number of clusters: 50
+Analysis type: MPChat
+Diversity score: 0.5855 (higher is better)
+Silhouette score: 0.0090 (higher is better)
+Timestamp: 2025-05-29 11:43:57
+
+Dataset Distribution:
+  MPChat: 3015 statements
+
+============================================================
+
+Cluster Information:
+  Cluster 5: 162 statements
+  Cluster 11: 156 statements
+  Cluster 13: 122 statements
+  Cluster 25: 116 statements
+  Cluster 7: 108 statements
+  Cluster 9: 107 statements
+  Cluster 4: 91 statements
+  Cluster 26: 90 statements
+  Cluster 43: 80 statements
+  Cluster 6: 79 statements
+  Cluster 15: 77 statements
+  Cluster 39: 75 statements
+  Cluster 2: 73 statements
+  Cluster 33: 73 statements
+  Cluster 23: 70 statements
+  Cluster 0: 69 statements
+  Cluster 29: 69 statements
+  Cluster 21: 65 statements
+  Cluster 3: 64 statements
+  Cluster 20: 60 statements
+  Cluster 42: 59 statements
+  Cluster 14: 58 statements
+  Cluster 18: 58 statements
+  Cluster 10: 57 statements
+  Cluster 31: 57 statements
+  Cluster 8: 55 statements
+  Cluster 16: 55 statements
+  Cluster 19: 54 statements
+  Cluster 30: 52 statements
+  Cluster 37: 50 statements
+  Cluster 34: 49 statements
+  Cluster 1: 46 statements
+  Cluster 12: 45 statements
+  Cluster 48: 42 statements
+  Cluster 46: 41 statements
+  Cluster 32: 39 statements
+  Cluster 38: 39 statements
+  Cluster 24: 37 statements
+  Cluster 28: 36 statements
+  Cluster 36: 34 statements
+  Cluster 44: 33 statements
+  Cluster 45: 33 statements
+  Cluster 35: 29 statements
+  Cluster 27: 28 statements
+  Cluster 17: 27 statements
+  Cluster 22: 27 statements
+  Cluster 47: 24 statements
+  Cluster 49: 20 statements
+  Cluster 41: 16 statements
+  Cluster 40: 9 statements

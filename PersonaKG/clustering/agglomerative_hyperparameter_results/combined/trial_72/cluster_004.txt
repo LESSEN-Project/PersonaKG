@@ -1,0 +1,467 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 2703
+
+Dataset distribution in this cluster:
+  FoCus: 88 (3.3%)
+  MPChat: 57 (2.1%)
+  MSC: 119 (4.4%)
+  PEC: 1313 (48.6%)
+  PER-CHAT: 936 (34.6%)
+  PersonaChat: 68 (2.5%)
+  SyntheticPersonaChat: 122 (4.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 88
+
+1. I am English.
+   (ID: XXU24CBOXMRE_7)
+
+2. I am from England.
+   (ID: I2O2N3N48S3T_11)
+
+3. I am not from Indonesia.
+   (ID: GOA1VSVK1TBD_11)
+
+4. I have a friend from Chennai.
+   (ID: V3LNPA1FT8D2_11)
+
+5. I am from Australia.
+   (ID: L70S7DAX2S80_11)
+
+6. I trust in deity.
+   (ID: XM5C3KLAWDZP_9)
+
+7. I am from Australia.
+   (ID: 9IUBDDZBGMIC_11)
+
+8. I'm from Japan.
+   (ID: OHOLASMOVV8L_11)
+
+9. I am a citizen of the United States.
+   (ID: 6XG4PP92HNX6_9)
+
+10. I am not from Manchester.
+   (ID: U1BWA2YRTQ7B_11)
+
+11. I am German.
+   (ID: NKLIZUTIPPP1_11)
+
+12. I am not from Tokyo.
+   (ID: OI93ZLZKWF52_7)
+
+13. I'm a cistercian.
+   (ID: EGOP94LCW2PF_11)
+
+14. I'm from England.
+   (ID: PCA6OG1NNC5D_9)
+
+15. I was born in Germany.
+   (ID: W1ARCAV1RHTZ_11)
+
+16. I have met a lot of Jewish people living in South Florida.
+   (ID: VUQVHZP0LUAH_11)
+
+17. I'm from Denmark.
+   (ID: 8065KWB9BLWJ_11)
+
+18. I am European.
+   (ID: LCFMQMTGBUJO_7)
+
+19. I am a citizen of the USA.
+   (ID: GDTY31F3LH5L_11)
+
+20. I am from England.
+   (ID: U1BWA2YRTQ7B_11)
+
+
+--- MPChat ---
+Total from this dataset: 57
+
+1. [fo] an animal alphabet for my children.
+   (ID: gelimausi)
+
+2. anti-prop progress.... i think i killed them...
+   (ID: CuriosityK)
+
+3. slowsetta cappuccino and i am loving all the wonderful latte art on here
+   (ID: littlebrownpackage)
+
+4. sorry bros, i've been slacking on reddit lately.
+   (ID: VisitingCivet)
+
+5. my hubby makes me so happy
+   (ID: FormalSwimming)
+
+6. i'm feeling so judged right now
+   (ID: MafHoney)
+
+7. i have the best hubby
+   (ID: FormalSwimming)
+
+8. hi, i'm new here!
+   (ID: hottiecakes)
+
+9. hi i'm gordon, this is my tongue.
+   (ID: BananaPeelSlippers)
+
+10. dear my beloved little rhatt: your time is done, your line is flat.
+   (ID: green-egg-and-ham)
+
+11. i love alone, all i have to say.
+   (ID: billwhiz)
+
+12. landlords said we couldn't have ferrets, so i created a ferret dragon!
+   (ID: VisitingCivet)
+
+13. this was the closest i got to a heart last sunday.
+   (ID: Nutellism)
+
+14. i told you from the start just how this would end...
+   (ID: i_like_it_raw_)
+
+15. its a little different, but i hope this qualifies as a "high quality fake!"
+   (ID: Meow_19)
+
+16. this is my box now.
+   (ID: rosierainbow)
+
+17. pardon my potato.
+   (ID: coffeehawaii)
+
+18. this is obie,my best friend companion and copilot.
+   (ID: skrivitor)
+
+19. i made a new friend yesterday
+   (ID: fishgoose)
+
+20. just finished this as part of my redditgifts star wars exchange.
+   (ID: blboppie)
+
+
+--- MSC ---
+Total from this dataset: 119
+
+1. I a fancy.
+   (ID: dialog_179_speaker_2)
+
+2. I love to live life to the fullest
+   (ID: dialog_46_speaker_1)
+
+3. My name is Sean. I'm a student
+   (ID: dialog_50_speaker_2)
+
+4. I love dragons. I wish I had a dragon.
+   (ID: dialog_31_speaker_1)
+
+5. I'm the ultimate. I'm the alpha and the omega.
+   (ID: dialog_43_speaker_1)
+
+6. I am a hermit.
+   (ID: dialog_104_speaker_2)
+
+7. My name is Vladimir.
+   (ID: dialog_100_speaker_1)
+
+8. I am bipolar. I'm the ultimate. I'm the alpha and the omega.
+   (ID: dialog_43_speaker_1)
+
+9. My folks are gingers.
+   (ID: dialog_156_speaker_2)
+
+10. I'm bespectacled.
+   (ID: dialog_143_speaker_2)
+
+11. I make purposely bad jokes.
+   (ID: dialog_156_speaker_2)
+
+12. I can pass myself off as a native berliner.
+   (ID: dialog_156_speaker_2)
+
+13. I am strong.
+   (ID: dialog_124_speaker_2)
+
+14. I tell jokes all the time. I can make jokes. I am a comedian. I am not a professional comedian yet. I mostly perform comedy at one club, and occasionally branch out to others.
+   (ID: dialog_125_speaker_2)
+
+15. Although my mother and father both speak with a german inflection, my dialect is strictly american.
+   (ID: dialog_87_speaker_2)
+
+16. A soldier is what I'm.
+   (ID: dialog_156_speaker_1)
+
+17. I'm a nerd.
+   (ID: dialog_122_speaker_2)
+
+18. I come from spain, but most of my friend think I am from italy.
+   (ID: dialog_179_speaker_2)
+
+19. I am blonde.
+   (ID: dialog_149_speaker_1)
+
+20. I am happy with what is happening in my life.
+   (ID: dialog_128_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 1313
+
+1. i did n't mean to laugh at op 's unfortunate conversation , but you win the internet today .
+   (ID: teriaki)
+
+2. i 'm gay , not blind lmao
+   (ID: kro_celeborn)
+
+3. i ’ve been you but failed at my attempt - pm me anytime
+   (ID: fabs1171)
+
+4. i did n't realise the us made anti - german propaganda as early as 1914 .
+   (ID: Shrub74)
+
+5. i 'm a good man !
+   (ID: boo3114)
+
+6. i just wanted to make sure you understood that you 're spreading lies :)
+   (ID: kro_celeborn)
+
+7. i just went for it .
+   (ID: apcreddit)
+
+8. i asked them never to contact me again .
+   (ID: mulletprooftiger)
+
+9. i 've just reported this along with all the other screenshots to the fbi .
+   (ID: Etifaq)
+
+10. i 'm the juggernaut bitch , was like the funniest meme to me when i was in high school
+   (ID: carebearstare93)
+
+11. i called this before the election fraud surfaced .
+   (ID: mylescloutier)
+
+12. i 'm surprised to took so long .
+   (ID: StinkinFinger)
+
+13. i wonder how much karma he would have if he did n’t post that shit
+   (ID: DickRubnuts)
+
+14. i tip my hat to you .
+   (ID: YuseiAkask)
+
+15. i herd avo wun
+   (ID: Ooer)
+
+16. i may not respond quickly , but i will respond .
+   (ID: DickRubnuts)
+
+17. i 'm k - boy
+   (ID: GitFloowSnaake)
+
+18. i do n't care who ewe are , where ewe from , as long as you lamb me .
+   (ID: notjawn)
+
+19. i am speechless .............
+   (ID: Noimnotsally)
+
+20. i did n’t accuse you of being ugly , i said you were bitter and jealous .
+   (ID: themarajade1)
+
+
+--- PER-CHAT ---
+Total from this dataset: 936
+
+1. why i can ' t win any arguments , because i ' m dumb .
+   (ID: db49a30ced23a0e386b799d5f970489f11a53f7a)
+
+2. and if you are , you ' re more than drunk
+   (ID: 1543db1d6055e53e89f8cf01ac7250da8f876c95)
+
+3. I am spiderman.
+   (ID: 417f107ec53971c82b0d9bb8ee79067ec512bdbb)
+
+4. digit , sick of life already , its so terrible , we work until we die and i just don  t want that .
+   (ID: 6faff6ad4f2fa64f202b2b60f154aba162159b2f)
+
+5. I am dong.
+   (ID: dde927921ad21c76b0d3c0bb6e7a98b4ad9324ef)
+
+6. thank you for explaining that to me . it looked like a mean thing to do .
+   (ID: 787b93a7786c68b0f31fb63e18ccf3551bafae1b)
+
+7. I am good person.
+   (ID: 744a61859eb21e8e7ed805da69133b0d07c3e965)
+
+8. that  s my problem cap , i  m always smacked . i should get some honeysmacks , do we have any milk ?
+   (ID: 8a914d1b332f7e39fd1f0cbb2c4b483e19f43fd7)
+
+9. I am aussie.
+   (ID: 4dbd3fd527caa93836f895d72dfef9276ea4809f)
+
+10. you know , for someone who says that this site is full of dumb people , you still don ' t know how to spell shit .
+   (ID: b7af56426174b182a97c67df12c64d320bf51d61)
+
+11. I am top sniper.
+   (ID: 622ae5e8e0ffe2c066a3d94dcee004b5696643bb)
+
+12. I am part   market.
+   (ID: 8ee36b7de5870d8a018edda36a1e88aee55b98f9)
+
+13. how is this funny at all ?
+   (ID: 975493e3b4b2ad9cba1b98554159be45f8affdd3)
+
+14. i still do it
+   (ID: 3737c6c8726b12f17da2de38c32a6c19123f9a4a)
+
+15. I am good person.
+   (ID: be4c274bc118fc65202a843b71f43c10798b6eb9)
+
+16. I am dominant species.
+   (ID: f9e9b1e6c59393102159142841e750ea90023928)
+
+17. well you and all the other people who commented on my confession seem to think i ' m actually insane , and that you are authorities on the subject . so . why don ' t we just go with that ? obviously i didn ' t know that " it wasn ' t intentional . " how could i have possible known that ? i ' ll stop bothering you about your cat , and i assume you ' ll stop bothering me about the wild animals i catch near the garden .
+   (ID: 67d52400bddd68c40eba2a37485eecb683846877)
+
+18. I am mexican american.
+   (ID: 95f6209d0c49920f0309625c4cec2ea88e4ae469)
+
+19. I am karma whore.
+   (ID: a168763c82b90dc18ccbbd57533eec2e49d17dc7)
+
+20. as an indian i can tell you the comments does not lie
+   (ID: 8a0d7d262d95d9c10d914ff3b70f342e066aee23)
+
+
+--- PersonaChat ---
+Total from this dataset: 68
+
+1. my best friend is from tanzania .
+   (ID: conversation_496)
+
+2. my grandma is from denmark .
+   (ID: conversation_255)
+
+3. i have a boyfriend who lives in italy .
+   (ID: conversation_150)
+
+4. i don't like my reputation .
+   (ID: conversation_147)
+
+5. there i m a general of an orcish army .
+   (ID: conversation_84)
+
+6. my name is omar .
+   (ID: conversation_42)
+
+7. i've an autograph collection with more than 2000 signatures .
+   (ID: conversation_210)
+
+8. i've perfect pitch .
+   (ID: conversation_181)
+
+9. my name is dave .
+   (ID: conversation_314)
+
+10. i trust in god .
+   (ID: conversation_130)
+
+11. i am considered a nerd by many .
+   (ID: conversation_122)
+
+12. my country is russia .
+   (ID: conversation_241)
+
+13. i'm an angry person .
+   (ID: conversation_169)
+
+14. while both my parents have thick european accents , i do not .
+   (ID: conversation_87)
+
+15. i have a harsh inner critic .
+   (ID: conversation_147)
+
+16. my hair is as red as the sunset .
+   (ID: conversation_274)
+
+17. i'm strong .
+   (ID: conversation_96)
+
+18. i am a gentle giant .
+   (ID: conversation_427)
+
+19. my grandma is from denmark .
+   (ID: conversation_339)
+
+20. i tell bad jokes on purpose .
+   (ID: conversation_156)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 122
+
+1. I m funny.
+   (ID: conversation_161_user_1)
+
+2. I am east asian.
+   (ID: conversation_161_user_2)
+
+3. I am strong.
+   (ID: conversation_317_user_2)
+
+4. I am an orphan.
+   (ID: conversation_120_user_1)
+
+5. My brother lives in england.
+   (ID: conversation_81_user_2)
+
+6. The only autographs i ve ever wanted are from authors.
+   (ID: conversation_437_user_2)
+
+7. I live to not disappoint my loved ones.
+   (ID: conversation_9_user_1)
+
+8. I am a very bad liar.
+   (ID: conversation_32_user_2)
+
+9. I trust in god.
+   (ID: conversation_109_user_1)
+
+10. I am a couponed.
+   (ID: conversation_434_user_2)
+
+11. I am trying to build my online business.
+   (ID: conversation_200_user_1)
+
+12. I was born outside the us.
+   (ID: conversation_151_user_1)
+
+13. I am a strong woman.
+   (ID: conversation_225_user_2)
+
+14. I talk very fast.
+   (ID: conversation_250_user_2)
+
+15. My name is gerald.
+   (ID: conversation_493_user_2)
+
+16. I am unsociable.
+   (ID: conversation_7_user_1)
+
+17. I am unsociable.
+   (ID: conversation_9_user_1)
+
+18. I am unsociable.
+   (ID: conversation_10_user_1)
+
+19. I am italian american.
+   (ID: conversation_173_user_2)
+
+20. I m a breath of fresh air.
+   (ID: conversation_22_user_2)
+
+
+============================================================

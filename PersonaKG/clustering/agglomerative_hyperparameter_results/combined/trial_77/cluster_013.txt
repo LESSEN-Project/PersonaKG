@@ -1,0 +1,141 @@
+CLUSTER 13
+============================================================
+Total statements in cluster: 78
+
+Dataset distribution in this cluster:
+  MPChat: 1 (1.3%)
+  MSC: 3 (3.8%)
+  PEC: 65 (83.3%)
+  PER-CHAT: 2 (2.6%)
+  PersonaChat: 3 (3.8%)
+  SyntheticPersonaChat: 4 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 1
+
+1. can’t believe i have two tanks now.
+   (ID: zonumnire)
+
+
+--- MSC ---
+Total from this dataset: 3
+
+1. I believe in love.
+   (ID: dialog_165_speaker_2)
+
+2. I believe in the supernatural.
+   (ID: dialog_58_speaker_1)
+
+3. I do not believe in love.
+   (ID: dialog_165_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 65
+
+1. i believe there 's been an
+   (ID: JaZepi)
+
+2. i believe that is a zucchini weenie
+   (ID: ItGetsAwkward)
+
+3. i want to believe .
+   (ID: clueless3867)
+
+4. i do n't believe you at all .
+   (ID: isitbrokenorsomethin)
+
+5. i do n't believe you
+   (ID: ProJokeExplainer)
+
+6. i still do the believe any of you .
+   (ID: arabguyistall)
+
+7. i believe you .
+   (ID: Othello)
+
+8. i believe in you both !
+   (ID: JacksChocolateCake)
+
+9. i do not believe them .
+   (ID: apcreddit)
+
+10. i believe in you !
+   (ID: kirbrcd1)
+
+11. i believe it was a modded cart ?
+   (ID: MUZAI)
+
+12. i believe that is [ pavel petel .
+   (ID: silentpower)
+
+13. i do n’t believe it stylistic at all , i believe it erroneous .
+   (ID: JaZepi)
+
+14. i believe you .
+   (ID: Bathysphere710)
+
+15. i do n't believe it .
+   (ID: cookiexcmonster)
+
+16. i believe in both .
+   (ID: Occams_Spork)
+
+17. i believe its pacman , so it 's pacman !
+   (ID: CarlofTime)
+
+18. i believe so .
+   (ID: carebearstare93)
+
+19. i do n't believe that
+   (ID: GitFloowSnaake)
+
+20. i believe in you ! !
+   (ID: lovestheautumn)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2
+
+1. you believe in those ?
+   (ID: 726c36ce13fa631676ed5053f62b0f5f7b61eb5e)
+
+2. because i believe it
+   (ID: 2264050ea82d909575d6593daf8246fa8655751e)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. i believe in fairytales .
+   (ID: conversation_318)
+
+2. i believe in ghosts and have seen them on several occasions .
+   (ID: conversation_292)
+
+3. i do not believe in love .
+   (ID: conversation_190)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I believe in ghosts and have seen them on several occasions.
+   (ID: conversation_212_user_2)
+
+2. I do not believe in love.
+   (ID: conversation_292_user_1)
+
+3. I do not believe in love.
+   (ID: conversation_229_user_1)
+
+4. I believe in leprechauns.
+   (ID: conversation_226_user_2)
+
+
+============================================================

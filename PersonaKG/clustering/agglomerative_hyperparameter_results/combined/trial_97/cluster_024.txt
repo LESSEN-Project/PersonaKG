@@ -1,0 +1,440 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 2160
+
+Dataset distribution in this cluster:
+  FoCus: 11 (0.5%)
+  MPChat: 78 (3.6%)
+  MSC: 290 (13.4%)
+  PEC: 385 (17.8%)
+  PER-CHAT: 824 (38.1%)
+  PersonaChat: 157 (7.3%)
+  SyntheticPersonaChat: 415 (19.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 11
+
+1. I am a fan of Jamie Oliver.
+   (ID: Y2QT7AAK6CLK_11)
+
+2. I like making food.
+   (ID: NR67D1SY5ZKB_11)
+
+3. I love soup.
+   (ID: 744H5J0MPE9C_9)
+
+4. I only eat organic produce.
+   (ID: XCOBCMEHB8IV_11)
+
+5. I like Ballari Gudda.
+   (ID: UN54IACHSTX5_11)
+
+6. I enjoy eating out in restaurants.
+   (ID: ZBEUKF93F617_11)
+
+7. I like vegetarian food.
+   (ID: TF4SZWIWHJO4_11)
+
+8. I love Italian food.
+   (ID: DIQU5A0EAGWM_11)
+
+9. I am Coca-Cola addicted.
+   (ID: TF4SZWIWHJO4_11)
+
+10. I like eating cattle.
+   (ID: EQX5OJUYB1VY_11)
+
+11. I especially like eating hamburgers lying on the hill.
+   (ID: ZDIM8K78EM2D_11)
+
+
+--- MPChat ---
+Total from this dataset: 78
+
+1. my contribution to the super bowl pot luck party i went to last night.
+   (ID: chakita86)
+
+2. i love drawing on cakes.
+   (ID: Learning2Grow)
+
+3. my go to cut for quick and easy steak sandwiches.
+   (ID: MonstaEatsItAll)
+
+4. mondays are now steak night in my house
+   (ID: MonstaEatsItAll)
+
+5. i think it's time to start making hot sauce
+   (ID: Tossahoooo)
+
+6. was 5 hrs in and i left it outside to rise in the warmth for 10 minutes.
+   (ID: RaeADropOfGoldenSun)
+
+7. i love dipping food into sauces/gravy which is a big reason why i love indian food!
+   (ID: onemantwohands)
+
+8. needless to say i love cheese
+   (ID: MonstaEatsItAll)
+
+9. please i will die without cheese
+   (ID: MafHoney)
+
+10. don't mind me, i'm just wrapping up my dinner over here.
+   (ID: opie2)
+
+11. not all ramen, but i have a weakness for udon.
+   (ID: gxnelson)
+
+12. can you tell i love raw salmon?
+   (ID: onemantwohands)
+
+13. nice clean pour to start my day!
+   (ID: ext23)
+
+14. i don't love you because you're fat.
+   (ID: kentobean123)
+
+15. i always save room for dessert!
+   (ID: feraljess)
+
+16. i can make butch cakes, too!
+   (ID: hottiecakes)
+
+17. i'm finally starting to get the hang of soy milk.
+   (ID: BeastaBubbles)
+
+18. i've only used them on briskets or steaks, never pork.
+   (ID: MonstaEatsItAll)
+
+19. smashed double cheeseburgs for lunch i'm hungry
+   (ID: ambora)
+
+20. i have developed a bit of fondness for smash burgers.
+   (ID: cigarjack)
+
+
+--- MSC ---
+Total from this dataset: 290
+
+1. All food is enjoyable to me.
+   (ID: dialog_25_speaker_1)
+
+2. I have begun to eliminate meat. I have completely stopped eating red meat. I only eat chicken and fish.
+   (ID: dialog_10_speaker_1)
+
+3. I don't make the healthiest dietary choices.
+   (ID: dialog_164_speaker_1)
+
+4. I like to bake. I rarely bake. I am on a diet.
+   (ID: dialog_16_speaker_1)
+
+5. I make the greatest dessert all my friends say so.
+   (ID: dialog_140_speaker_1)
+
+6. I like organic fruits and vegtables. I like Espresso.
+   (ID: dialog_119_speaker_2)
+
+7. I love vampire music with pizza.
+   (ID: dialog_121_speaker_2)
+
+8. Pizza is my favorite food.
+   (ID: dialog_99_speaker_1)
+
+9. Coke isn't my favorite.
+   (ID: dialog_134_speaker_1)
+
+10. I'd never even look at meat, yet alone eat it.
+   (ID: dialog_60_speaker_1)
+
+11. I don't eat bread. I enjoy time with my family.
+   (ID: dialog_183_speaker_2)
+
+12. I like muscle milk, mountain dew.
+   (ID: dialog_149_speaker_1)
+
+13. I like mojitos.
+   (ID: dialog_2_speaker_1)
+
+14. I chow down on vegetables, they are very nutritious.
+   (ID: dialog_137_speaker_2)
+
+15. I like trying new cuisines and going to restaurants with friends who know what to order.
+   (ID: dialog_100_speaker_1)
+
+16. Jerk chicken with red beans and rice, macaroni and cheese are some of my favorite foods.
+   (ID: dialog_0_speaker_2)
+
+17. My cat enjoys eating chicken.
+   (ID: dialog_191_speaker_2)
+
+18. I love iced tea.
+   (ID: dialog_14_speaker_1)
+
+19. Mojitos are one of my favorite drinks. I like other drinks over mojitos. One of my favorite drinks is a caipirinha.
+   (ID: dialog_2_speaker_2)
+
+20. I don't eat meat.
+   (ID: dialog_88_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 385
+
+1. i could n't have just one pickle anymore .
+   (ID: mbw1960)
+
+2. i think we all overeat it .lol
+   (ID: Noimnotsally)
+
+3. i also lost 400lbs of pure fat .
+   (ID: 512165381)
+
+4. i 'm hungry :)
+   (ID: shockrush)
+
+5. i was planning on starting with just 750 mg once a day .
+   (ID: mass08)
+
+6. i just eat it because it ’s delicious .
+   (ID: drmarvin2k5)
+
+7. i 've added eggs to my diet but i definitely have n't found my groove with this one yet .
+   (ID: redraindropped)
+
+8. i would finish a bottle of vodka with ease in a 2 hour time window .
+   (ID: mdk15)
+
+9. i ’m 2 week in , down 3 pounds .
+   (ID: jessibabyy11)
+
+10. i 'll have a margarita !
+   (ID: ChoppingOnionsForYou)
+
+11. i was under the impression you could use ground beef or sausage as a variation .
+   (ID: jessibabyy11)
+
+12. i ’ve heard numerous times to drink a protein shake as quickly as possible .
+   (ID: lambsquatch)
+
+13. i 'd convert the winning lottery numbers to coordinates and eat there .
+   (ID: BorgDrone)
+
+14. i prefer nutmilk .
+   (ID: JustHereForCum)
+
+15. i move into my first house in two weeks in college , send me food recipes !
+   (ID: Chase_P)
+
+16. i bet that smells good
+   (ID: canitasteyourjuice)
+
+17. i know multivitamins are n't usually necessary but i have a poor diet , should i be taking them ?
+   (ID: swaggy_butthole)
+
+18. i would reverse sear that ribeye .
+   (ID: parkleswife)
+
+19. i do already eat them every day in some form or other .
+   (ID: AP7497)
+
+20. i had no desire or gumption to check damn boxes .
+   (ID: USAFIDMT)
+
+
+--- PER-CHAT ---
+Total from this dataset: 824
+
+1. and i just said it depends that  s why i used the word potentially on what you  re eating and how high it is in fat , calories and carbs . if we use the algorithm you used but let  s say the meal you eat is a double cheese burger , large fry and desert with a coke once a day . and everyday you eat meals like same fat and carb intake that that balance out to digit and your  expenditure  is digit . you will gain weight because of the foods you  re consuming . different foods break down differently in the body . if eating one healthy meal a day was the key to weight loss everyone would do it and digit  yikes of americans wouldn  t be overweight . multiple factors involved .
+   (ID: 60a31a4071ae4962f2a308822d53a634a3760fa1)
+
+2. One of my favorite things is beef.
+   (ID: fcec87cb8b541d87ad0eb8b52c3541c8fc49132b)
+
+3. One of my favorite things is cookies.
+   (ID: 5c7a23731c46d9c75722023d6108cb45a421fb75)
+
+4. One of my favorite things is pulp.
+   (ID: f4e4929bb0bef09e7eb72aaccf20c2d9454729c7)
+
+5. pasta . would actually be a blessing to not have the ability to eat it anymore . so much easier to quit something when you have no choice .
+   (ID: 74058c90ada3aae7a59703064acbf3ced38f3681)
+
+6. One of my favorite things is instant ramen.
+   (ID: d95d3548a9506e48c5310c85f3b2994820405e0d)
+
+7. i ' m not fat but i ' m overweight . i accept responsibility digit  . i just love alcohol , pizza , and chocolate ice cream what can i say .
+   (ID: 7c5209c3b827e0de0cd436466f80ce09b615606b)
+
+8. One of my favorite things is bacon.
+   (ID: 4d69affb6415148eda5d5103b282ce15476169d5)
+
+9. One of my favorite things is soup.
+   (ID: 2168250be01c43791f88e7c8ad875c0396307047)
+
+10. One of my favorite things is chickpeas.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+11. One of my favorite things is olives.
+   (ID: 91d5c112de409d3216ef30d9a1c0d6a9c9f48260)
+
+12. to the hypos reading this , understand that these ridiculous stories of people going from a common cold to dead are extremely rare instances . it is highly more likely what you eat is slowly killing you , so if you ' re so worried about dying a slow painful death you should take action now .
+   (ID: f14ea91df683dc236b3ffe5956871b69581e71d3)
+
+13. One of my favorite things is healthy food.
+   (ID: 1ab4a61fa2bafda0a2f05eb20a92c419c1c93284)
+
+14. One of my favorite things is pickled ginger.
+   (ID: 99339abeb32b696e2ac12139001f76ebf63d0868)
+
+15. with the bees dying off you might say an alternative for honey is badly needed . off course i just realise that if the bees are gone we are fuck either way . less pollination .
+   (ID: 0791967485c3fd08f13af7d16f986ab94fa30bb3)
+
+16. One of my favorite things is chili ’.
+   (ID: 6cb8904cf2faf74f712ddb1c620007fe43bf46df)
+
+17. One of my favorite things is meat.
+   (ID: bfb28ccea698c3dc12ee1909c3188e266edbbb84)
+
+18. One of my favorite things is gingerbread.
+   (ID: c418b428808b3664c2df9a40a516625fe0025f6e)
+
+19. One of my favorite things is real english food.
+   (ID: bfbfd4c4caa6b137f79275a24c99808ba3d2305b)
+
+20. One of my favorite things is seafood.
+   (ID: ff36137e68382d33016fdf568208704ea2c16642)
+
+
+--- PersonaChat ---
+Total from this dataset: 157
+
+1. my favorite foods are fried chicken and chocolate cake .
+   (ID: conversation_193)
+
+2. my favorite food is steak .
+   (ID: conversation_231)
+
+3. i like to cook .
+   (ID: conversation_17)
+
+4. i also eat too much french fries .
+   (ID: conversation_290)
+
+5. i love hot wings .
+   (ID: conversation_82)
+
+6. i'm a classicly trained chef .
+   (ID: conversation_138)
+
+7. my favorite food is sushi .
+   (ID: conversation_413)
+
+8. i eat well .
+   (ID: conversation_441)
+
+9. my favorite ice cream is pistachio .
+   (ID: conversation_363)
+
+10. i like to only eat fish .
+   (ID: conversation_331)
+
+11. my favorite food is steak .
+   (ID: conversation_407)
+
+12. i'm a personal chef .
+   (ID: conversation_249)
+
+13. i like to cook .
+   (ID: conversation_268)
+
+14. i like cooking healthy meals .
+   (ID: conversation_237)
+
+15. i only eat organic food .
+   (ID: conversation_210)
+
+16. i like cooking healthy meals .
+   (ID: conversation_499)
+
+17. i enjoy eating pumpkins .
+   (ID: conversation_174)
+
+18. i like to make cakes .
+   (ID: conversation_348)
+
+19. my favorite food is pizza .
+   (ID: conversation_218)
+
+20. i love to eat cheese .
+   (ID: conversation_417)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 415
+
+1. I like italian cusine.
+   (ID: conversation_158_user_2)
+
+2. My favorite food is mushroom ravioli.
+   (ID: conversation_377_user_2)
+
+3. I like baking.
+   (ID: conversation_474_user_1)
+
+4. I like tacos.
+   (ID: conversation_287_user_1)
+
+5. I like to make bagels.
+   (ID: conversation_302_user_2)
+
+6. I eat meat.
+   (ID: conversation_287_user_2)
+
+7. I am a great baker.
+   (ID: conversation_179_user_1)
+
+8. I cook every night.
+   (ID: conversation_457_user_2)
+
+9. I am a vegetarian.
+   (ID: conversation_414_user_1)
+
+10. I like painting , i can cook well.
+   (ID: conversation_281_user_1)
+
+11. My favorite food is steak.
+   (ID: conversation_372_user_1)
+
+12. I am a classicly trained chef.
+   (ID: conversation_69_user_2)
+
+13. I love to eat pita bread with hummus.
+   (ID: conversation_231_user_1)
+
+14. I like to make fresh pies.
+   (ID: conversation_494_user_2)
+
+15. I like to eat.
+   (ID: conversation_482_user_2)
+
+16. My favorite drink is dr pepper.
+   (ID: conversation_417_user_1)
+
+17. I am a vegan.
+   (ID: conversation_221_user_1)
+
+18. I am vegan.
+   (ID: conversation_42_user_1)
+
+19. Chocolate chip cookies are the tastier things in my opinion.
+   (ID: conversation_284_user_1)
+
+20. I enjoy cooking but not baking.
+   (ID: conversation_418_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 50
+============================================================
+Total statements in cluster: 2162
+
+Dataset distribution in this cluster:
+  FoCus: 672 (31.1%)
+  MPChat: 171 (7.9%)
+  MSC: 132 (6.1%)
+  PEC: 830 (38.4%)
+  PER-CHAT: 257 (11.9%)
+  PersonaChat: 36 (1.7%)
+  SyntheticPersonaChat: 64 (3.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 672
+
+1. I have never traveled by a ship.
+   (ID: TGZJNX488SLV_11)
+
+2. I have never been to Oshkosh.
+   (ID: F6T8IBBEHM4P_11)
+
+3. I hope to travel to Brownsea Island in the summer.
+   (ID: R9A1SC51GAMH_11)
+
+4. I have never been to India.
+   (ID: QK9TQHXYFFJ9_11)
+
+5. I have visited many cities.
+   (ID: 7VWG5N19V7SK_11)
+
+6. I would like to see different attractions.
+   (ID: LYKL0NXYUSDG_11)
+
+7. I want to go to the Bay of Bengal.
+   (ID: QK9TQHXYFFJ9_11)
+
+8. I want to go to Jerusalem.
+   (ID: Q483WUI54SGB_11)
+
+9. I am planning to go to India.
+   (ID: CJWI83QV42AK_11)
+
+10. I would like to visit Canada.
+   (ID: GG3IBG4SOHXX_11)
+
+11. I would like to visit Turkey.
+   (ID: EA2ZVDRVQ40F_11)
+
+12. I will stay a night in Botoga.
+   (ID: TPWBWPRCHUGC_11)
+
+13. I wish I could see an ancient city.
+   (ID: C19OKX49XN0G_7)
+
+14. I prefer looking inside the well-known building to just exterior of the building.
+   (ID: XW6WLBIV74VV_11)
+
+15. I hope to visit Zoar Valley someday.
+   (ID: B21DU5B4FQQH_11)
+
+16. I would like to visit Australia.
+   (ID: O67HB3TIPVVF_11)
+
+17. I wish to go to Beijing.
+   (ID: UDGAGMKQ9TQ1_11)
+
+18. I have never been to Madagascar and would love to go there.
+   (ID: FS1LJTHM1IC0_11)
+
+19. I have visited Soap Lake last year.
+   (ID: E6FC9U7LUUT3_11)
+
+20. I have been to England.
+   (ID: XDIIZK7KZ12G_11)
+
+
+--- MPChat ---
+Total from this dataset: 171
+
+1. my new tent works as both a hammock and a tent on the ground
+   (ID: fliporoos)
+
+2. i think this is an anna's.... silicon valley.
+   (ID: opie2)
+
+3. just moved my 75 g to my new house.the only thing i was terrified about moving.
+   (ID: pope237)
+
+4. this is my own little slice of heaven.
+   (ID: m3lodym4ker)
+
+5. camped and hiked at sequoia national park - i felt at home here.
+   (ID: ijohno)
+
+6. i didn't know that i lived near this.
+   (ID: ItsBail)
+
+7. i went camping - packed into the pasayten wilderness and helped rebuild a bridge
+   (ID: reecee)
+
+8. it's my first day in naples and i'm already loving it
+   (ID: RaeADropOfGoldenSun)
+
+9. this spider set up camp right in front of my door [x-/r/creepy]
+   (ID: snaps_pro)
+
+10. my friend and i took some trails into the hills of santa barbara for a little light off-roading.
+   (ID: SixthSnail)
+
+11. one of the most beautiful rooms i've seen.
+   (ID: bryanw0104)
+
+12. i'll be looking good and keeping warm!
+   (ID: Nolon)
+
+13. my friend owns a club called soap in seoul.
+   (ID: elocdylan)
+
+14. i can almost imagine gandalf and the hobbits running across this california meadow
+   (ID: tssouthwest)
+
+15. i finally got the skunk out of the boat!
+   (ID: iwanttoride)
+
+16. playing hide and seek with my friend's cat, darwin.
+   (ID: chakita86)
+
+17. my morning wake up view: camping at lois lake, powell river, bc, canada
+   (ID: Sassy_Curmudgeon)
+
+18. my campsite high up in kings canyon national park.
+   (ID: garret_weintrob)
+
+19. i couldn't hike in peru without stopping at machu picchu
+   (ID: markoshino)
+
+20. my set up at collier-seminole state park
+   (ID: iamjesus888)
+
+
+--- MSC ---
+Total from this dataset: 132
+
+1. I might also travel to Japan soon. I've been to Japan in military. I love sushi and green tea ice cream. I know a lot about Japanese sushi. I like pufferfish pizza. I know a great restaurant in Japan.
+   (ID: dialog_89_speaker_2)
+
+2. I want to see the world.
+   (ID: dialog_113_speaker_1)
+
+3. I travel a lot.
+   (ID: dialog_178_speaker_1)
+
+4. I have only traveled to America and Mexico.
+   (ID: dialog_113_speaker_2)
+
+5. I have not traveled outside of the US. I've only visited NY twice. I really like NY.
+   (ID: dialog_170_speaker_1)
+
+6. I routinely travel to Europe and South America. I plan on travelling to Japan. I would like to explore the mountain areas and see the world heritage sites.
+   (ID: dialog_9_speaker_1)
+
+7. I am going to go to Tokyo soon. I recently got a passport. I will spend two weeks in Japan. I am visiting a friend who works there. I like exploring new places.
+   (ID: dialog_89_speaker_1)
+
+8. I have never left the countryside.
+   (ID: dialog_42_speaker_2)
+
+9. I want to live the beach life.
+   (ID: dialog_155_speaker_1)
+
+10. Jumping out of an airplane would be a thrill.
+   (ID: dialog_85_speaker_2)
+
+11. I also like to take pictures while on vacation, of nature and sea life. I want to travel to Mongolia.
+   (ID: dialog_112_speaker_2)
+
+12. I travel a lot. I like to travel to Ireland and Australia. I have never visited Japan. I am planning a few family getaways during summer break. I've never been to Peru. I am not into hiking. I like visiting new cities. I like trying new foods. My travel inspires my stories.
+   (ID: dialog_9_speaker_2)
+
+13. I would like to explore the mountain areas and see the world heritage sites.
+   (ID: dialog_9_speaker_1)
+
+14. I travelled to tahiti 2 times.
+   (ID: dialog_145_speaker_1)
+
+15. I am getting married and moving to australia soon. I'm planning a wedding.
+   (ID: dialog_77_speaker_2)
+
+16. I have 2 sons in college. I can travel during the school terms.
+   (ID: dialog_9_speaker_1)
+
+17. I want to go to Mexico City and see the Zocalo and Teotihuacan. I am interested in Mexico's history. I am interested in Russia's history.
+   (ID: dialog_113_speaker_1)
+
+18. I travel a lot for work and for leisure. I have to move again for more job. I will be leaving in 2 weeks. I won't be able to volunteer anymore. My move might not be permanent.
+   (ID: dialog_145_speaker_1)
+
+19. I moved away when I was 20. I have been travelling since I was 20.
+   (ID: dialog_109_speaker_1)
+
+20. I try to travel once a year.
+   (ID: dialog_9_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 830
+
+1. i was there !
+   (ID: ludaa)
+
+2. i was in southampton ikea today ... or , as i like to call it , ' mecca ' .
+   (ID: kiki73)
+
+3. i actually moved just a block away from where it took place .
+   (ID: glowinthedark)
+
+4. i 'm in nc , and my neighbor needs a new roof .
+   (ID: squaresaltine32314)
+
+5. i 'm in there somewhere and it feels beautiful
+   (ID: greensandgables)
+
+6. i ’m thinking of spending roughly 20 days in thailand in dec 2018 / jan 2019 .
+   (ID: SPQR1212)
+
+7. i 'm down for that date and location !
+   (ID: mylescloutier)
+
+8. i took this at the subway station , relevant .
+   (ID: BoonTobias)
+
+9. i scuba dive so bonaire is a good choice .
+   (ID: deputydan_scubaman)
+
+10. i 'm going to start going to my local firehouses ' fundraisers !
+   (ID: oneearup)
+
+11. i 'm going to york on wednesday !
+   (ID: spoonsrugby)
+
+12. i 'm white , and from the chicago area , and have n't heard a fucking thing what ?
+   (ID: LightofNew)
+
+13. i 'm super excited to go .
+   (ID: CarlofTime)
+
+14. i 'll fly in :)
+   (ID: glowinthedark)
+
+15. i have a saturday vip ticket i 'm trying to sell .
+   (ID: Evolatic)
+
+16. i 'd definitely love to spend some time on the western coast .
+   (ID: lolala34)
+
+17. i 'm at the mosaic building in downtown .
+   (ID: Captain_-H)
+
+18. i 'm on my way ... is anyone there yet ?
+   (ID: IAMACiderDrinker)
+
+19. i want to be part of your squadron
+   (ID: mduarte821)
+
+20. i am 3 hours from the nearest city with a head shop :/
+   (ID: swaggy_butthole)
+
+
+--- PER-CHAT ---
+Total from this dataset: 257
+
+1. we were just talking about everest in my english class don ' t ask why and someone mentioned solo climbing , i ' ve got to bring this up when we get back !
+   (ID: 5cd97109ce427e13a85976a7f8927bed47b84984)
+
+2. how fast did you go ?
+   (ID: 2319e968bf60fef4f281e564c6b126147e06cc04)
+
+3. at least i know who  what will and will not try and kill me . i ' ve checked out  guns there ' s a lot of crazy trapped in such a crowded country .
+   (ID: 853f0ac5afe36274ef0f5bd175c44a220505a4ed)
+
+4. i don ' t mind take a chance on me tbh . they don ' t really play it much anymore but back when they did , i remember enjoying it .
+   (ID: 70dae4f10700534d78c70b4931932d38e3fa7df5)
+
+5. yeah . the only thing making me visit is just the utter fascination
+   (ID: 8ea8e4a00c3f2a64096e00bdbba0247e580cdb17)
+
+6. what is this ' party ' that you speak of ?
+   (ID: 1aeb7d227bb9f7bdec3e7350c5522353fdb74354)
+
+7. you guys get a schedule ? damn lol . at the dc everything is word of mouth and if somebody didn ' t let you know that we are supposed to come in an extra day , you ' re fucked . make sure you have friends here lol
+   (ID: 1885b01dd0970230fea2a9c9ae9c4eaeaceb59a3)
+
+8. funny that the place is so dirty yet people are alive ? or perhaps we live in a society controlled by chemical companies into thinking everything is out to kill us . i am far from saying i would go there but if you see an old person drinking that water , and they have been doing so all their life it makes you think .
+   (ID: cda2027ff011b74a04f79a766c8e8da339eb1f0b)
+
+9. hmm . i remember it being uptown near jwu , but not a garage . but i doubt they ' re can be that many of these things . so potentially solved .
+   (ID: c673eb9fda8629b3a86935092a2668010b581ab1)
+
+10. i went to england earlier this month . first time outta the usa . i concur w many of your observations . the rural countryside was ever present when looking around  seeing farms everywhere . london was great . those crazy bicyclists ! watch out . the signs though along the highway needed leaf trimming as some words were obscured . everyone takes their well  behaved dogs everywhere . i found everyone to be polite  caring . even staff in mc donalds ! dont really see that in the us . parking wxpensive  hard to find a spot . castles breathtaking . small villages everywhere . row houses ubiquitous . but kinda small , no ? seashore quaint . lots of pretty shells in sutton on the sea . wanna move there !
+   (ID: e3a7bbfa5fde0a706f721c3dc5055b3a8963f79f)
+
+11. i  ve been here ! it  s absolutely my favourite place in the entire world . when i found out about it i knew i had to visit . only took me a digit hour drive to get their but it was so worth it . i feel even deeper into my obsession with birds their .
+   (ID: 77ab4860c32a7084ca81fd91302df6690ce56731)
+
+12. well it  s actually not exactly safe to go there right now with all the protests that  s going on . but my friend actually stayed there for digit  digit months last year and he  s been telling me and my other friends to just go and live there . i truly would want to and could literally change a community .
+   (ID: f8dc0ff928f07f3c544894b03ad92f5944e13321)
+
+13. one where i find love
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+14. the sky . whatever the weather , i think it would be nice to see what they think of it .
+   (ID: 42817db6a2880fe4df5d65636e25385c67c89bb1)
+
+15. you mean medicine cabinet . it ' s no secret . you were snooping .
+   (ID: abf75f77636a74f3ad337cbd0a59bf507e662343)
+
+16. not to mention the weather instances i think you know of .
+   (ID: 55d99e57acfb093e867404de8e889dc93f4be138)
+
+17. couldn  t care less about the environment like everyone else here does . i want jet packs and virtual reality social media
+   (ID: ad24fe51d61dbe3cddd863ba9cb6adae61265a06)
+
+18. i ' ve gone once to digit , they do it in front of the parliament building . it ' s so stupid . literally digit rows of hot dog carts and they all make bank . weed needs smoking and dressing like they asked a digit year old with mental problems dressed them . honestly its depressing how people act but they ' re all in their 20s pretty much so yeah i guess they are mentally handicapped
+   (ID: 917dfa16e92ce1db67ec3f88bc07b87b70a36c95)
+
+19. i see why it ' s your favorite ! that ' s an amazing view !
+   (ID: 555615a7b22f65cadd2e223e2e891e540623f3a4)
+
+20. great trip report and your photos are amazing . those donuts are too cute . how were the flights ? we  re on sq12 and sq11 for our upcoming trip and i  m really excited about flying alaska and singapore airlines .
+   (ID: eace5bb8fae91afe15af3966cf6b9189772fe2cc)
+
+
+--- PersonaChat ---
+Total from this dataset: 36
+
+1. i went to new york city once .
+   (ID: conversation_133)
+
+2. i ve never been to the beach .
+   (ID: conversation_469)
+
+3. i want to move to las vegas .
+   (ID: conversation_409)
+
+4. i always travel alone .
+   (ID: conversation_254)
+
+5. i've traveled to both ireland and australia .
+   (ID: conversation_38)
+
+6. i'm going on a cruise next month .
+   (ID: conversation_46)
+
+7. i went to new york city once .
+   (ID: conversation_433)
+
+8. i had a gig at local theater last night .
+   (ID: conversation_406)
+
+9. i daydream about cafes in paris .
+   (ID: conversation_375)
+
+10. i travel a lot .
+   (ID: conversation_467)
+
+11. i am traveling to paris this year for my vacation .
+   (ID: conversation_468)
+
+12. before i die , i want to skydive .
+   (ID: conversation_92)
+
+13. i've visited 12 national parks in the us .
+   (ID: conversation_83)
+
+14. i want to visit rome , but i can t make myself go alone .
+   (ID: conversation_257)
+
+15. i travel every year to disney world .
+   (ID: conversation_458)
+
+16. before i die , i want to skydive .
+   (ID: conversation_50)
+
+17. i am going on a cruise next month .
+   (ID: conversation_380)
+
+18. i've traveled to both ireland and australia .
+   (ID: conversation_9)
+
+19. i wish i had money to travel .
+   (ID: conversation_266)
+
+20. i just took a trip to london .
+   (ID: conversation_462)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 64
+
+1. One day i would really like to skydive.
+   (ID: conversation_221_user_2)
+
+2. We will be traveling to niagra falls for our honeymoon.
+   (ID: conversation_469_user_2)
+
+3. We live in a rural area.
+   (ID: conversation_357_user_2)
+
+4. I travel every year to disney world.
+   (ID: conversation_329_user_2)
+
+5. I would love to visit the pyramids.
+   (ID: conversation_462_user_2)
+
+6. I have went to mexico 4 times this year.
+   (ID: conversation_497_user_1)
+
+7. We live in a rural area.
+   (ID: conversation_57_user_2)
+
+8. I am hoping to move to australia soon to marry my boyfriend.
+   (ID: conversation_404_user_2)
+
+9. I always travel alone.
+   (ID: conversation_9_user_2)
+
+10. I have went to mexico 4 times this year.
+   (ID: conversation_496_user_1)
+
+11. I recently moved to sweden.
+   (ID: conversation_18_user_2)
+
+12. I want to live at the beach.
+   (ID: conversation_306_user_1)
+
+13. I want to visit rome , but i cannot make myself go alone.
+   (ID: conversation_425_user_2)
+
+14. I am hoping to move to australia soon to marry my boyfriend.
+   (ID: conversation_189_user_2)
+
+15. We are getting married in a park.
+   (ID: conversation_469_user_2)
+
+16. I am touring with frank ocean.
+   (ID: conversation_383_user_1)
+
+17. Before i die , i want to skydive.
+   (ID: conversation_82_user_2)
+
+18. We will be traveling to niagra falls for our honeymoon.
+   (ID: conversation_347_user_2)
+
+19. I wish that i lived in the city.
+   (ID: conversation_90_user_2)
+
+20. I just took a trip to london.
+   (ID: conversation_106_user_2)
+
+
+============================================================

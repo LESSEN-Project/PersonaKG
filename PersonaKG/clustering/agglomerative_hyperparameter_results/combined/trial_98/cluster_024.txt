@@ -1,0 +1,467 @@
+CLUSTER 24
+============================================================
+Total statements in cluster: 1686
+
+Dataset distribution in this cluster:
+  FoCus: 40 (2.4%)
+  MPChat: 23 (1.4%)
+  MSC: 462 (27.4%)
+  PEC: 216 (12.8%)
+  PER-CHAT: 202 (12.0%)
+  PersonaChat: 252 (14.9%)
+  SyntheticPersonaChat: 491 (29.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 40
+
+1. I hate construction.
+   (ID: V87MW1A1QA33_11)
+
+2. I research death row across the country.
+   (ID: W0A218B5NGQT_7)
+
+3. I have my own film studio.
+   (ID: LAU455Y1BO1U_9)
+
+4. I work in a business district.
+   (ID: 9IUBDDZBGMIC_11)
+
+5. I work in business.
+   (ID: STDMXJC7HTUG_11)
+
+6. I Work at a Stadium.
+   (ID: NAJC0A4P5P7S_11)
+
+7. I am an employee of Dunkin’ Donuts.
+   (ID: MGR759JYZZLP_7)
+
+8. I am a geologist.
+   (ID: OOFLNCG3KOXN_11)
+
+9. I work in a cotton plantation.
+   (ID: SF062658I1IO_7)
+
+10. I am a engineer.
+   (ID: WOFC7GYRD403_7)
+
+11. I work in a non-profit organization.
+   (ID: 8065KWB9BLWJ_11)
+
+12. I study flooding.
+   (ID: FLY9O8E8QPK3_11)
+
+13. I have worked on rail project.
+   (ID: DTX89JENNS0P_11)
+
+14. I am a Philanthropist.
+   (ID: UUN7SKTZQ38T_7)
+
+15. I serve the army.
+   (ID: 6J40PNLBFR2V_11)
+
+16. I am a architect.
+   (ID: POTYY4E7PSQF_11)
+
+17. I am an actor.
+   (ID: EIEX7UVY09DW_11)
+
+18. I work for the National Register of Historic Places.
+   (ID: EZGYRI0YA8OX_9)
+
+19. I am not a part of the military.
+   (ID: TVODYFLNWGUJ_11)
+
+20. I am a bird watcher.
+   (ID: X3WVWF5IVCYD_11)
+
+
+--- MPChat ---
+Total from this dataset: 23
+
+1. i have been both barista and customer
+   (ID: pocket_kira)
+
+2. my supurrvisor, waffles, is keeping a close eye on me while i work from home
+   (ID: FoxInKneeSocks)
+
+3. sometimes i get really bored when marking scripts at home.
+   (ID: meepmeepcuriouscat)
+
+4. i love my job :)
+   (ID: mashedtatoes88)
+
+5. i do volunteer work at a fire watch tower in the national forest in northern colorado
+   (ID: de_argh)
+
+6. it's the smallest room in my house, but i spend most of my time in here
+   (ID: crunch816)
+
+7. when i'm not working, i end up doing the same job at home.
+   (ID: Perthboi92)
+
+8. i'm efficiently lazy.
+   (ID: ddizzle23)
+
+9. i love my job.
+   (ID: skrivitor)
+
+10. i'm not even close to being at the level where i call myself a barista yet.
+   (ID: Soggypaper_)
+
+11. i’ve been keeping busy during lockdown!
+   (ID: FoxInKneeSocks)
+
+12. can't tell if i have laying workers or not...
+   (ID: travelingisdumb)
+
+13. the ladies supervising me as i work from home.
+   (ID: joyyyyce)
+
+14. i love my job
+   (ID: Nerdyredeyejedi)
+
+15. i manage a pet er.
+   (ID: Airspeed35)
+
+16. i e been using up scraps this week.
+   (ID: smsikking)
+
+17. i may not have a decent computer or keyboard but i have a decent ham radio station.
+   (ID: ItsBail)
+
+18. "i see you have hot dogs," she says.
+   (ID: mle12189)
+
+19. i currently work at a watch store.
+   (ID: evrlstingbogstopper)
+
+20. every day i go to work covered in hair - not by choice.
+   (ID: VodkaWithSnowflakes)
+
+
+--- MSC ---
+Total from this dataset: 462
+
+1. My job is on the line in a kitchen.
+   (ID: dialog_186_speaker_1)
+
+2. I work part time at a pizza restaurant.
+   (ID: dialog_112_speaker_2)
+
+3. I have been married for 20 years. I volunteer with animals.
+   (ID: dialog_189_speaker_1)
+
+4. I have worked at a bookstore for three years.
+   (ID: dialog_90_speaker_2)
+
+5. I used to be a corporate chief. I teach at a culinary school.
+   (ID: dialog_141_speaker_2)
+
+6. I'm working 60 hours a week.
+   (ID: dialog_148_speaker_2)
+
+7. I go to school online.
+   (ID: dialog_139_speaker_1)
+
+8. I am a student. I go to michigan state.
+   (ID: dialog_144_speaker_2)
+
+9. I am very active in the community.
+   (ID: dialog_175_speaker_1)
+
+10. I have climbed trees before.
+   (ID: dialog_43_speaker_2)
+
+11. I am a veteran. I don't currently have a job.
+   (ID: dialog_11_speaker_1)
+
+12. I have no job.
+   (ID: dialog_173_speaker_2)
+
+13. I have a college degree.
+   (ID: dialog_157_speaker_2)
+
+14. I work in Orlando.
+   (ID: dialog_32_speaker_2)
+
+15. I have a boat. Boating is one of my favorite activities.
+   (ID: dialog_80_speaker_1)
+
+16. I work at a movie theater.
+   (ID: dialog_87_speaker_1)
+
+17. I work from home as a customer service agent for a web hosting company.
+   (ID: dialog_34_speaker_1)
+
+18. I am very knowledgeable on automobiles.
+   (ID: dialog_99_speaker_1)
+
+19. I'm an airplane pilot.
+   (ID: dialog_35_speaker_2)
+
+20. I am a hard working individual.
+   (ID: dialog_185_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 216
+
+1. i do n't use this sub very often .
+   (ID: SYDWAD)
+
+2. i 'm such a peasant .
+   (ID: GetItTogether)
+
+3. i help people achieve their business and financial goals .
+   (ID: deputydan_scubaman)
+
+4. i live in kentucky and i worked my ass off in high school to get where i am .
+   (ID: swaggy_butthole)
+
+5. i appreciate the education .
+   (ID: billclay55raiders)
+
+6. i 'm currently a network admin .
+   (ID: osmosisparrot)
+
+7. i do it in an excel spreadsheet , but a notebook works fine too .
+   (ID: Bob_Majerle)
+
+8. i work with the metal pouring club .
+   (ID: thenanoage)
+
+9. i do n’t have any debts or loans .
+   (ID: juliacakes)
+
+10. i kinda suck at these types of posts .
+   (ID: Mahatma_Panda)
+
+11. i 'm glad you do n't write for this show .
+   (ID: closetotheedge48)
+
+12. i 'm busy helping wesley and cynthia find a 4br house in a good school district . "
+   (ID: NyxPeregrinus)
+
+13. i live just outside of cambridge so this is super useful .
+   (ID: DinoButtsy)
+
+14. i try to be productive every day .
+   (ID: FruitBatFanatic)
+
+15. i am so smart !
+   (ID: middlegeek)
+
+16. i like doing dishes , as long as they 're * mine .
+   (ID: SayceGards)
+
+17. i sell sex , man
+   (ID: WillemDafoesAlterEgo)
+
+18. i am currently working rn part time m - t - w with benefits .
+   (ID: alicepalmbeach)
+
+19. i work 9 hour days now.and get every other friday off .
+   (ID: AzHighways)
+
+20. i 'm very well read on the big three social media networks : fb , instagram , twitter .
+   (ID: OliveGames)
+
+
+--- PER-CHAT ---
+Total from this dataset: 202
+
+1. I own a tech school.
+   (ID: b2c623940e1acb4e269cab1c8f1920e03da9e429)
+
+2. i ' m at work but i ' m not actually working .
+   (ID: 0e19a35c711a9c78f764d5268c09b16559cdadbf)
+
+3. what do you works as ?
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+
+4. One of my favorite things is employment.
+   (ID: 05ea8ab3980e7e9b17e008954c8e6b0d7355612a)
+
+5. i have a lot of hobbies , but the one i like most is working on my car . it  s an easy way for me to distract myself from stuff that is stressing me out .
+   (ID: 69878cc2cc3e4fe974feb7f6bf5a69bf75cd4951)
+
+6. I am genius.
+   (ID: ba2acd290c3398c0dd8519d1c54f2c733f05fb31)
+
+7. One of my favorite things is cleaning.
+   (ID: be1b74bb05b478e06170986082b9da6ed5c84444)
+
+8. One of my favorite things is employment relations.
+   (ID: e5d0bb05742c6f7a9fca52d483dad13871b861d0)
+
+9. I am engineer.
+   (ID: 02d0f9e2b754dc4d23dfd8d2a09743d2127e3d58)
+
+10. I live in nurse.
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
+
+11. I own a server.
+   (ID: ddbcd7b957a26c37891ce72069afaf688ba19977)
+
+12. uhhh . what kind of work do you do ?
+   (ID: d3491a90d756046acac8c3053e9e99c3e6c231f9)
+
+13. so how do you meet new people today without walking up and talking to them ?
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+14. I am worker.
+   (ID: 071de8843a9f6c2baf4f1a9eccd0700b9c6589a6)
+
+15. there  s this one teacher at my school who sometimes give out house points if he sees you using it ecosia
+   (ID: 194714d1fdaeadcdfa8c031ea9ba02536763b6bf)
+
+16. i feed everyone . and i always have exactly what you needed in my purse .
+   (ID: 53aee34a0ceaafd2f3baaa01c94219ee83a7dace)
+
+17. i program the robots
+   (ID: 225222aa213d7057c7af320e746ccbb2afeb2f27)
+
+18. I own a store.
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
+
+19. I use design.
+   (ID: 54e4be73496ef57ba1185fa38044d64a8e868ba8)
+
+20. i work for gamestop , so that alone should tell you enough .
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
+
+
+--- PersonaChat ---
+Total from this dataset: 252
+
+1. i go to a local college .
+   (ID: conversation_12)
+
+2. i volunteer at the red cross on the weekends .
+   (ID: conversation_252)
+
+3. i know how to drive a stickshift .
+   (ID: conversation_391)
+
+4. i help around with bookkeeping and tours .
+   (ID: conversation_20)
+
+5. i work in retail .
+   (ID: conversation_13)
+
+6. i'm a teacher .
+   (ID: conversation_86)
+
+7. i work at a coffee house .
+   (ID: conversation_144)
+
+8. i teach cheerleading in my spare time .
+   (ID: conversation_310)
+
+9. i work in a factory .
+   (ID: conversation_125)
+
+10. i work as a contractor for a cab company .
+   (ID: conversation_176)
+
+11. i know how to pilot a plane .
+   (ID: conversation_400)
+
+12. i drive junk cars that no one else wants .
+   (ID: conversation_265)
+
+13. i'm always early to everything .
+   (ID: conversation_226)
+
+14. i give out sports information .
+   (ID: conversation_201)
+
+15. i work in car sales .
+   (ID: conversation_321)
+
+16. i work for a marketing agency .
+   (ID: conversation_353)
+
+17. i'm a cartographer .
+   (ID: conversation_335)
+
+18. i like to use a lot of exclamation marks when i type .
+   (ID: conversation_211)
+
+19. sometimes , i sit by strangers on the subway and strike up a conversation .
+   (ID: conversation_220)
+
+20. i make robots for a living .
+   (ID: conversation_271)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 491
+
+1. I am very smart.
+   (ID: conversation_268_user_2)
+
+2. I am a veterinarian.
+   (ID: conversation_349_user_2)
+
+3. I decorate cakes for a living.
+   (ID: conversation_136_user_1)
+
+4. I play electric violin , and also work as an accountant.
+   (ID: conversation_200_user_2)
+
+5. I work as a public affairs liaison.
+   (ID: conversation_376_user_2)
+
+6. I work as a construction worker during the summers.
+   (ID: conversation_168_user_2)
+
+7. I work as an accountant.
+   (ID: conversation_431_user_2)
+
+8. I work in the office , 9 till 5.
+   (ID: conversation_158_user_2)
+
+9. I work at a grocery store.
+   (ID: conversation_321_user_2)
+
+10. I am a pediatrician.
+   (ID: conversation_23_user_2)
+
+11. I run a small bakery.
+   (ID: conversation_275_user_1)
+
+12. I am a kindergarten teacher.
+   (ID: conversation_153_user_1)
+
+13. I am an environmental engineer.
+   (ID: conversation_291_user_1)
+
+14. I work at the grocery store.
+   (ID: conversation_51_user_1)
+
+15. I have my own salon.
+   (ID: conversation_176_user_2)
+
+16. I am a pilot.
+   (ID: conversation_185_user_1)
+
+17. I fly airplanes.
+   (ID: conversation_395_user_2)
+
+18. I work as an accountant.
+   (ID: conversation_447_user_1)
+
+19. I work for a newspaper.
+   (ID: conversation_99_user_1)
+
+20. I study philosophy at umass.
+   (ID: conversation_159_user_1)
+
+
+============================================================

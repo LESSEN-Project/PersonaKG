@@ -1,133 +1,330 @@
 CLUSTER 82
 ============================================================
-Total statements in cluster: 157
-Cluster persistence (stability): 0.671
+Total statements in cluster: 202
+Cluster persistence (stability): 0.694
 
 Dataset distribution in this cluster:
-  MPChat: 2 (1.3%)
-  PEC: 142 (90.4%)
-  PER-CHAT: 13 (8.3%)
+  FoCus: 27 (13.4%)
+  MPChat: 4 (2.0%)
+  MSC: 29 (14.4%)
+  PEC: 112 (55.4%)
+  PER-CHAT: 12 (5.9%)
+  PersonaChat: 15 (7.4%)
+  SyntheticPersonaChat: 3 (1.5%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 27
+
+1. I like permanent collection.
+   (ID: GG3IBG4SOHXX_11)
+
+2. I like English Heritage.
+   (ID: W67GZU3ZXI46_9)
+
+3. I like to Military sites.
+   (ID: IT6VB2V6HCEE_9)
+
+4. I like Eastchester Road.
+   (ID: EI53JQVYRP0R_11)
+
+5. I would like to go to North Carolina.
+   (ID: G6QWKZ4CTWVW_11)
+
+6. I like scientific interest sites.
+   (ID: HWMW6AUW4UTK_11)
+
+7. I like Kongsvoll Alpine Garden.
+   (ID: TB8HHXAP822G_11)
+
+8. I like wedding venue.
+   (ID: N14O6VGOOR7E_11)
+
+9. I like ancient Romans.
+   (ID: 6Y1JUDZSPANM_9)
+
+10. I like Native Americans.
+   (ID: JTUKE03HZYSY_11)
+
+11. I would like to worship in a church.
+   (ID: G1IQ2JHFB47F_11)
+
+12. I would like to join the navy.
+   (ID: TGZJNX488SLV_11)
+
+13. I would like to take a holy dip in Yamuna which is a tributary of Ganges.
+   (ID: NK6WLDJ7W255_7)
+
+14. I do not like French Gothic.
+   (ID: 9IFEU12EAOWB_11)
+
+15. I would like to walk through a dock.
+   (ID: F91BK688K9G1_11)
+
+16. I like visiting squares in towns or cities.
+   (ID: 8YLU8P5G0EHM_11)
+
+17. I do not like modern scenery.
+   (ID: G0MQSJ1XOT71_11)
+
+18. I like public utilities.
+   (ID: VHMWBMQSDD2I_9)
+
+19. I like street.
+   (ID: FOZE4Q84M3RX_11)
+
+20. I would like to have a gold ingot.
+   (ID: QHSLQKPUYCXD_11)
+
+
 --- MPChat ---
-Total from this dataset: 2
+Total from this dataset: 4
 
-1. i hear we're posting our monstera leaves!
-   (ID: heatsensitive)
+1. "excuse me... i'd like to squeeze myself under this chair"
+   (ID: HobbitLass)
 
-2. i hear the pitter patter of a reindeer on the roof!
-   (ID: FoxInKneeSocks)
+2. like should i separate it/what are the plants?
+   (ID: zonumnire)
+
+3. do you like my deer?
+   (ID: cuppcatt)
+
+4. he waits like this while i'm handling business.
+   (ID: BananaPeelSlippers)
+
+
+--- MSC ---
+Total from this dataset: 29
+
+1. I like Liverpool for the Premiere League but Atlanta for MLS.
+   (ID: dialog_171_speaker_2)
+
+2. I am like circle.
+   (ID: dialog_153_speaker_1)
+
+3. I like soothing images.
+   (ID: dialog_160_speaker_1)
+
+4. I like Katy Perry. I am eagerly anticipating the next album by Katy Perry.
+   (ID: dialog_88_speaker_1)
+
+5. I like other drinks over mojitos.
+   (ID: dialog_2_speaker_2)
+
+6. I like Kane Brown.
+   (ID: dialog_207_speaker_1)
+
+7. I like beats.
+   (ID: dialog_114_speaker_2)
+
+8. I do not like pizza.
+   (ID: dialog_149_speaker_2)
+
+9. I like green.
+   (ID: dialog_207_speaker_2)
+
+10. I am free on the weekends. I like zombies. I like exotic meats.
+   (ID: dialog_119_speaker_1)
+
+11. I like mountains.
+   (ID: dialog_49_speaker_1)
+
+12. I like in a neighborhood full of celebrities.
+   (ID: dialog_184_speaker_2)
+
+13. I like balls.
+   (ID: dialog_207_speaker_2)
+
+14. I like to be in charge.
+   (ID: dialog_84_speaker_2)
+
+15. I do not have any pets. I would like to have a German Shapherd.
+   (ID: dialog_141_speaker_1)
+
+16. I like to be clean.
+   (ID: dialog_6_speaker_2)
+
+17. I like consuming salty rod shaped snacks.
+   (ID: dialog_19_speaker_1)
+
+18. I like to walk pets.
+   (ID: dialog_84_speaker_1)
+
+19. I like the tone of cash.
+   (ID: dialog_158_speaker_1)
+
+20. I like the theatrical showing of richard gere and julia roberts.
+   (ID: dialog_155_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 142
+Total from this dataset: 112
 
-1. i bet you ’re the boy ’s mother too
-   (ID: I5r66)
+1. i do n't like that mouth .
+   (ID: cometparty)
 
-2. i bet they also stayed in the hospital for a week or two .
-   (ID: Teri102563)
+2. i would act like one of them .
+   (ID: Bananafoofoofwee)
 
-3. i bet you had a boop dooopedy doodibbly shimshimmily riproarious night !
-   (ID: Evref)
+3. i ’d like one but idk what it is
+   (ID: alicepalmbeach)
 
-4. i can hear my dad now
-   (ID: KPer123)
+4. i am from zurich and i would like to object
+   (ID: futurespice)
 
-5. i bet they will !
-   (ID: tylock)
+5. i have a program like this that uses a subdivided quadrilateral grid .
+   (ID: Unknown_nam3)
 
-6. i have yet to hear of an officer 's career ending because of this sort of power tripping behavior .
-   (ID: Sugarpeas)
+6. i 'm trolling and i 'm serious so take it how you like .
+   (ID: amirman)
 
-7. i hear that nbc cares .
-   (ID: SerendipitousCat)
+7. i like pawn stars , no shame in it .
+   (ID: pyro2927)
 
-8. i hear paper bags are in style for the spring .
-   (ID: IncredibleBulk2)
+8. i weep like a manchild everytime .
+   (ID: Darth_Waiter)
 
-9. i bet they ai n’t soft .
-   (ID: canitasteyourjuice)
+9. i might like it more if you kept it on .
+   (ID: KikAtWorkFL)
 
-10. i bet you do n't get laid that much .
-   (ID: Etifaq)
+10. i like where this is heading .
+   (ID: KikAtWorkFL)
 
-11. i never hear anything solid to back it up .
-   (ID: bbakks)
+11. i like to grab those hips
+   (ID: dawgreddit2014)
 
-12. i bet its not superman stopping him , i bet its all the rakes he s stepping on .
-   (ID: LCPhotowerx)
+12. i like to pretend i 'm not like him even though i do drink .
+   (ID: buttercup_mauler)
 
-13. i bet you have fun with him around halloween ᴖᴥᴖ
-   (ID: silentpower)
+13. i like how they re smiling
+   (ID: Sir_Gunner)
 
-14. i 'd bet that the rest of the us has similar stats .
-   (ID: WorldBFree)
+14. i like him hat
+   (ID: opalskys)
 
-15. i could literally hear the squishing sound as that rail smashed into his muff .
-   (ID: billclay55raiders)
+15. i had to put it down like ol yeller
+   (ID: ProJokeExplainer)
 
-16. i bet you a 1000 bucks he 's not a democrat .
-   (ID: SanJOahu84)
+16. i do n't like combat .
+   (ID: CuriousBlueAbra)
 
-17. i bet your dumb ass will vote for harper again ....
-   (ID: JayDub30)
+17. i do n't like pants
+   (ID: alextound)
 
-18. i bet it feels cool to have the name of someone who meant so much to you .
-   (ID: sbsb27)
+18. i ’d take a hug like that from leo .
+   (ID: sherry2012)
 
-19. i bet they describe themselves as “ pro - family ” too without a hint of irony .
-   (ID: throwaway073847)
+19. i do n't like pokémon , but i find this so adorable .
+   (ID: Bathysphere710)
 
-20. i bet it was hard for you to cut your hair .
-   (ID: FridaysChild219)
+20. i 'd like to fight him
+   (ID: AzHighways)
 
 
 --- PER-CHAT ---
-Total from this dataset: 13
+Total from this dataset: 12
 
-1. i couldn ' t care less what you " would bet your last dollar " on .
-   (ID: e5fd25110413c69853218bbcbb0169f73c8f06e1)
+1. " you lesserminded pigs " like we are your grandsons you idiots
+   (ID: c863a7172df41853f354be7adff4b3f9a0cb9736)
 
-2. you bet , might not be the most popular . but it ' s a popular canadian chip because it ' s not sold in the us .
-   (ID: 059c976738098229106db9c4736116cbb2f47eb8)
+2. you seem like you have fluid retention , but it ' s not evident because you clearly are so full of yourself .
+   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
 
-3. when was there a holiday event in dc ? they came to baltimore . i didn ' t hear about a shooting there .
-   (ID: 3790e844e04694d48c253f7aee4d3b61f116d4d6)
+3. am i the only one that find it so annoying with that o , like , why ?
+   (ID: 5a15ba0aaa5a6e6f9e3a2db25befda6ec40a9b88)
 
-4. i hear that the jak and daxter series will be on the playstation plus store by december .
-   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
+4. to quote something , put    in front of it . like this ?
+   (ID: 5f75c9b696f1ea78d1a7d21e5a6d5dd1c9391b14)
 
-5. take my breath away  lost that loving feeling from top gun . i can ' t hear either without seeing the slow mo motorbike or bar .
-   (ID: 9f86d46891466ef865ef872c8dc59da3089a36eb)
+5. the martian had so much potential but was such a letdown for me . almost every actor seemed like they ' d rather be somewhere else .
+   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
 
-6. you ' d lose that bet . but more importantly , what is your issue w  my comment ?
-   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
+6. like willy wonka ' s factory with less murder , and more shenanigans .
+   (ID: 30572ac5982532854b2ead41285ed9bbaba6d654)
 
-7. monty python and the holy grail . when i first hear the galloping horse and see the coconut wielding patsy , i straight lose my shot .
-   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+7. please illuminate me to the meaning of this . is it like yesn ' t ?
+   (ID: 4972a31c1a3df007d761e27a613a3b6a99c3a0ca)
 
-8. explain how ? what parts ? i ' m curious to hear your side
-   (ID: 28e24cb71e2c0068fef35890d39022b686e4215d)
+8. i like how it ' s in colour
+   (ID: af7909c19fea28cadcabd2f3b93c831e3c684dad)
 
-9. yeah , no one wants to be your personal therapist so i save the drama for someone who gets paid to hear about it .
-   (ID: 8e2981abd669b044bf2b787c04095c3ebe52e273)
+9. from someone of the gender you like  hi
+   (ID: 7424e4821daf78f7a38983c3e1a291ee7ce757d2)
 
-10. i bet we will see at least one raid as a show of force in the next few weeks .
-   (ID: c21f8d5819115eb61914aa55dbbc727a12117bef)
+10. booboo ? was that like ubu ' s evil doppelganger or something ?
+   (ID: af0db6dfe4be67a6b6915437597ea564bbb33830)
 
-11. i can bet most of the answers would be forgot to lift up the toilet seat
-   (ID: 633d772e24d3affbbff6456b5d653cf23bf73c1c)
+11. also , what language would you like the mewtwo to be ?
+   (ID: c956c3bf88cce2d3de1fc9f4d4a6e7b082a20dbb)
 
-12. abcde absidy lmnop elemenopee la  a ladasha random legit someone named their girl this . bet she was loved . and any actual name with a made up spelling . eg . aschlee
-   (ID: 89172208f0be842fb66b4827fa7b5c4d26df07e4)
+12. i do like the lay out of this one th most
+   (ID: bdf7e254fb732651bb0373067c57200731f7ca55)
 
-13. how would you explain anything to anyone who can ' t see or hear ?
-   (ID: 4cc753880acafe19a59cd87ecc09d1637e797277)
+
+--- PersonaChat ---
+Total from this dataset: 15
+
+1. i like to bowl .
+   (ID: conversation_449)
+
+2. i like to travel .
+   (ID: conversation_9)
+
+3. i like basketball .
+   (ID: conversation_8)
+
+4. i like to smell my own farts .
+   (ID: conversation_495)
+
+5. i like to cook .
+   (ID: conversation_17)
+
+6. i still like unicorns even though i m an adult .
+   (ID: conversation_390)
+
+7. i like to party .
+   (ID: conversation_7)
+
+8. i do not like beer .
+   (ID: conversation_198)
+
+9. i like to paint .
+   (ID: conversation_60)
+
+10. i still like combat boots with babydoll dresses .
+   (ID: conversation_257)
+
+11. i like vintage furniture .
+   (ID: conversation_355)
+
+12. i like to get involved in politics .
+   (ID: conversation_214)
+
+13. i like to go hunting .
+   (ID: conversation_0)
+
+14. i like to remodel homes .
+   (ID: conversation_0)
+
+15. i do not like green eggs and ham .
+   (ID: conversation_107)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I like to bake for them.
+   (ID: conversation_193_user_2)
+
+2. I like to attend wine tours.
+   (ID: conversation_113_user_2)
+
+3. I like to race go carts.
+   (ID: conversation_551_user_2)
 
 
 ============================================================

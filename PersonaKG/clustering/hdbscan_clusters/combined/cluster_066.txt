@@ -1,205 +1,222 @@
 CLUSTER 66
 ============================================================
-Total statements in cluster: 170
-Cluster persistence (stability): 0.612
+Total statements in cluster: 115
+Cluster persistence (stability): 0.728
 
 Dataset distribution in this cluster:
-  MPChat: 5 (2.9%)
-  MSC: 4 (2.4%)
-  PEC: 72 (42.4%)
-  PER-CHAT: 84 (49.4%)
-  PersonaChat: 3 (1.8%)
-  SyntheticPersonaChat: 2 (1.2%)
+  FoCus: 2 (1.7%)
+  MPChat: 6 (5.2%)
+  MSC: 4 (3.5%)
+  PEC: 42 (36.5%)
+  PER-CHAT: 55 (47.8%)
+  PersonaChat: 5 (4.3%)
+  SyntheticPersonaChat: 1 (0.9%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 2
+
+1. I have only participated in a sports tournaments in my life.
+   (ID: R2DBMEQOL0NY_9)
+
+2. I have not done much hiking in my life.
+   (ID: RYVPV8LY2W65_11)
+
+
 --- MPChat ---
-Total from this dataset: 5
+Total from this dataset: 6
 
-1. i made hot pepper relish once and now people keep giving me more.
-   (ID: hensandchicas)
+1. i see you baby aarwolf and raise you a baby pygmy hippo contemplating life
+   (ID: Septicrogue)
 
-2. my dog likes to gently carry around a shoe whenever people come over, he never chews them either!
-   (ID: Veretica)
+2. i didn't choose the pig life.
+   (ID: BananaStand07)
 
-3. i had 4 people plus 4 wheels inside.
-   (ID: bryanw0104)
+3. each pitcher represents an important person in my life, done for a semester series in university.
+   (ID: PuffTheMagicLumbrJak)
 
-4. people told me that crochet wasn't manly, but me and my manticore dragon beg to differ.
-   (ID: VisitingCivet)
+4. this is my life now
+   (ID: MafHoney)
 
-5. a few people pmd me about my doctor who scarf pattern.
-   (ID: ddizzle23)
+5. my chillis definitely prefer the pot life over the ground.
+   (ID: Perthboi92)
+
+6. switched to a 1.2mm steam tip and it's changed my life
+   (ID: jlb4est)
 
 
 --- MSC ---
 Total from this dataset: 4
 
-1. Hearing people sing from the heart can move me to tears.
-   (ID: dialog_24_speaker_1)
+1. I am spending my life with my favorite person.
+   (ID: dialog_34_speaker_2)
 
-2. I am dating two people, one man and one woman.
-   (ID: dialog_159_speaker_2)
+2. Being a determined lady gets me far in life.
+   (ID: dialog_140_speaker_2)
 
-3. I do not listen to the opinions of most people.
-   (ID: dialog_37_speaker_2)
+3. I am a solo life explorer.
+   (ID: dialog_18_speaker_2)
 
-4. I'm distrustful of people.
-   (ID: dialog_30_speaker_1)
+4. I had a fun life. I was a reporter for a local newspaper before I retired.
+   (ID: dialog_115_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 72
+Total from this dataset: 42
 
-1. i ’m not even a huge lisa stan but people are reaching
-   (ID: jennbunny08)
+1. i was n't trying to decode the meaning of life as a whole .
+   (ID: FlexForJesus)
 
-2. i ’m curious of what prejudge there is about ace people / the ace community .
-   (ID: mrhenk9)
+2. i have one of the highest kill ratios in real life .
+   (ID: randominternetdood)
 
-3. i have so many questions . do people usually have sex when they shower together ?
-   (ID: swaggy_butthole)
+3. i sing her drag up your life jungle kitty lyric ... everyday .
+   (ID: EvieAugust)
 
-4. i met so many dumb people in college .
-   (ID: Sugarpeas)
+4. i owe you my life .
+   (ID: aydinsevimli)
 
-5. i ’m truly confused about the people defending mitch .
-   (ID: Montag3636)
+5. i neglected to mention the gaping hole in my life without it
+   (ID: doctor_parcival)
 
-6. i do n't trust people who walk out of movies
-   (ID: BoobieBoobieButtButt)
+6. i 'm never beating this in my life
+   (ID: Kialand)
 
-7. i played this at a funeral and when people complained i turned it up : d
-   (ID: Lifes6Midnight)
+7. i trust her with my life .
+   (ID: happyfamilygogo)
 
-8. i knew i needed to pull out one of the people in the picture .
-   (ID: imnotswift)
+8. i considered reversing it to standard before after formatting but i am not about that life .
+   (ID: Naughty_Bimbo)
 
-9. i keep asking these people to provide an alternative at the moment and they go silent .
-   (ID: mimbo757)
+9. i ’m waiting on that rocko ’s modern life
+   (ID: BrianV91)
 
-10. i see lots of people to have overcome obstacles that i 'm facing now .
-   (ID: NaBacLeis)
+10. i fear for my life wearing my green and gold around town .
+   (ID: TWS85)
 
-11. i 'm other people
+11. i am very skeptical of rumors after the babcock fiasco , but - is this real life ?
+   (ID: dammitOtto)
+
+12. i was supporting character # 1 in the story that was her life .
+   (ID: boogerfarts111)
+
+13. i fought the study life and the study life won .
+   (ID: pipette_on)
+
+14. i 'm in for life .
    (ID: Addbutter)
 
-12. i ask people the same damn questions all year , quit complainin '
-   (ID: middlegeek)
+15. i hear you , /r / makeupexchange is both enhancing and destroying my life .
+   (ID: rycheme)
 
-13. i have problems using other people 's phones .
-   (ID: serverpilot)
+16. i made list of all the things that create joy in my life and refer to it constantly .
+   (ID: Beachsurfer)
 
-14. i wondered why all the black people were in a different part of the restaurant once , that 's horrible
-   (ID: mostlikelyto___)
+17. i understand i have to be in the present , it is my place to give potential life .
+   (ID: snapsnaptomtom)
 
-15. i enjoy 2 shotting people without revenge : d
-   (ID: playertd)
+18. i fucked my whole life up , man
+   (ID: J23_1)
 
-16. i lay people out !
-   (ID: nate6051)
+19. i have had siamese cats for most of my life , and they are special .
+   (ID: MILeft)
 
-17. i was having a great round and 14 people were left .
-   (ID: DickRubnuts)
-
-18. i 'm curious what the people on /r / rational came come up with .
-   (ID: CuriousBlueAbra)
-
-19. i argued with my professor about why people serve .
-   (ID: Lifes6Midnight)
-
-20. i 'm kind of in shock over how many people are on here .
-   (ID: PeePeeCat)
+20. i go home lie in bed and reflect upon my life til i fall asleep with a heavy heart .
+   (ID: idkforsure)
 
 
 --- PER-CHAT ---
-Total from this dataset: 84
+Total from this dataset: 55
 
-1. those people are idiots who shouldn ' t be prying into other people ' s business . and you should ignore them because they are idiots with idiotic opinions .
-   (ID: 638204ac5dc6fec4d4aa66698b0215b18da66a8b)
+1. no one gives a fuck about you . life is meaningless , you should be grateful that the world formed miraculously to finally create you . don ' t waste this one chance of life you have , go fuck some goats or something .
+   (ID: 93e92e6a7d8e94b12bcd450fad136ec14436f359)
 
-2. " what ' s something that should  shouldn ' t be socially acceptable " or " how do you subtly fuck with people "
-   (ID: a73b0dda35d389b4f74e47db6574e0f71738b683)
+2. but how will i distract myself from the horrors of life without masturbation ?
+   (ID: 59231a2c6c18ffc9988af4adbd5a441bf1221c38)
 
-3. some people wanted to see the full clip , so here it is
-   (ID: 5678e7d82af39057d98ff7906ce8fef81468ba06)
+3. maybe you should get off reddit and reevaluate your life choices .
+   (ID: 02d0f9e2b754dc4d23dfd8d2a09743d2127e3d58)
 
-4. everyone gets super powers and half of the people who get powers contract rabies . essentially extreme chaos .
-   (ID: f2cec4af782c7d455288420e90648dc9c6d12538)
+4. do you have a screenshot of the tree ? i can ' t find it for the life of me .
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
 
-5. when people touch your stuff . it happens too often that people just pick up my backpack and throw it on my lab instead of asking to free the seat next to me . and for some reason its always women who do that , guys always ask
-   (ID: ed7b237fb6485952b3dcc1d753d52f12dfff995a)
+5. what  s a life ?
+   (ID: 70802a48950cffc5611833183bee83e3b76660f6)
 
-6. people who stand on escalators and people who walk down them .
-   (ID: ae2dbc0f768c4bbf71f7452c59522c05c2ccc74e)
+6. i consider myself a relatively straightforward , mostly honest , young man . my life doesn ' t belong on rhobh . however , i hold grudges . i ' m wondering how far other redditors have gone to ensure their own agenda ' s pan out .
+   (ID: 1f3e82e13d88ba22fce8ba80102ccc24b3880ae9)
 
-7. probably , the point of telling it though was to show how weird it is that some people have breakthroughs without psychedelics or meditation , i found it fascinating
-   (ID: af764f37d4a75bdb762464b079f842d6af0847b7)
+7. and literally what do you have to show for it now ? that ' s why i quit video games . they are a distraction honestly . could be focusing on so many bettecooler things in life .
+   (ID: 4a5a9ac8eab027b38804427b3c8c5e19c8991de3)
 
-8. anything related to anime  waifus , it ' s fun to see what  who people dislike and what  who people will defend to the death . seriously though as a weeb i know how violent some can get online .
-   (ID: 0ff3db030062a58f30958a7a7b74373cf4f7cbd6)
+8. finally it ' s coming . saddest weeks of my entire life has passed .
+   (ID: c41e4affc406bbc71e6c12aabf095d759b6dbec2)
 
-9. nice to see people asking something a bit different for once
-   (ID: fada832baa55975057f6409e8926deefae094f1f)
+9. the beginning is life , the end is death . it doesn  t matter how you spend the in  between , as long as you chose what you do
+   (ID: 507a68eb71bd6ad59b6eb966ab94fb9c2e599bc8)
 
-10. buy lots of super expensive art , that  s what the rich people do .
-   (ID: d6ae299c9d415416b659c654241697c95c8f377a)
+10. chill out siri someone makes a typo and you go insane lmao you  re a weirdo . what do you do with your life outside of reddit ?
+   (ID: 52d78e4773d4122f8586b7a65f210e69f69dc18d)
 
-11. i never do , other people do but it makes me get spots !
-   (ID: 5a01af4f9721facf5be110d8e134d4c4da020088)
+11. activeselfprotection . makes you very aware of what can go wrong and how to deal with it . it can save your life someday .
+   (ID: cfd691d6aeaf46cc644b0e21187d10dfc62b0bc8)
 
-12. so , people should be expecting to rely heavily on the ' wise and lucky investing ' part of your plan ? what about the unlucky ?
-   (ID: 9b6ee533e853c768cc140f122ed313d4d7550b5a)
+12. done all that already . have my commercial , multi , instrument ratings , and i flew for a while before i figured out the life sucks if you want to have any sort of a normal family life . it was fantastic when i was single though !
+   (ID: 5603c8fcb517a4b5745afb8c3f46248974edebe3)
 
-13. you could ask people to have a short shoutcast vid  soundfile to link you to show them how they do . that could narrow down things
-   (ID: 67e483ce743c17fe916db25eb96cc2e729ce694c)
+13. i regret nothing . they all have meaning , or occurred at some turning point in my life . the ones i care for the least can be covered easily .
+   (ID: c0c5a7c74c41387a99afab68d3e9fe0bfab4b8b9)
 
-14. my mail or other people ' s mail ?
-   (ID: 9fd3949388d40bdd617694db3b906b69fbbe4875)
+14. ohhh if i have to tell you i would never end . so lets go directly to tdlr  i haven ' t take anything seriously in my entire life .
+   (ID: 8819b8165679ad55d61d3dce231a46eb0136dc9c)
 
-15. yes of course . people still do this until they get caught .
-   (ID: be9f60605270d73ac3a4e5b587575b1f65df15f5)
+15. I am witch of life.
+   (ID: a590a48cc57b678d7925ce142e639876d9df69d6)
 
-16. are people surprised when they find out his breed ? because everyone who ' s met my boyos seemed blown away .
-   (ID: ff63628a55f910fcdc92e579f37e04b3580c93db)
+16. it ' s not your problem , it ' s their life . unless he ' s a real abusive asshole you should keep out .
+   (ID: c519a98c7c9a6ada7f5b8a2ea7a086ff306fdf9a)
 
-17. well , that disproves my theory that people on the internet are dickheads because they aren ' t seeing a human face when they ' re posting something ugly . now i ' m just down to most people being dickheads .
-   (ID: f7713e4cd0a5245097f9f45a1194222bda369b48)
+17. if you add reddit it ' s my whole life .
+   (ID: 1cedb012c7702cdd6cf28839fd31ce2bb1eea04c)
 
-18. people do that here , what ' s your point
-   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+18. that ' s the duality of life
+   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
 
-19. oh god and what was the one with the faceless people ?
-   (ID: 311d770ebb499b987db7e44fdae56456f45a5918)
+19. anyway , how ' s your sex life ?
+   (ID: a85910e837bd841373d8a7b2a84f1bff22807d9e)
 
-20. at least the people who masses exploited it are getting kronked
-   (ID: d72952657a3571deff985040e565d95d8206db60)
+20. there are billionaires who have lives that suck , is there any other reason your life sucks ?
+   (ID: e8294c4800e890349637a75b3ecba5d1f7b2a97d)
 
 
 --- PersonaChat ---
-Total from this dataset: 3
+Total from this dataset: 5
 
-1. i have always enjoyed telling stories to people .
-   (ID: conversation_340)
+1. i never have had alcohol in my life .
+   (ID: conversation_515)
 
-2. people notice how organized i am .
-   (ID: conversation_435)
+2. i'd be honored to give my life for my country .
+   (ID: conversation_273)
 
-3. i only date people taller than me .
-   (ID: conversation_85)
+3. food and water are essential to me in life .
+   (ID: conversation_410)
+
+4. regular life disappoints me .
+   (ID: conversation_356)
+
+5. i lived most of my life not knowing who bob marley was .
+   (ID: conversation_229)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 2
+Total from this dataset: 1
 
-1. Sometimes , people worry i am crazy.
-   (ID: conversation_186_user_2)
-
-2. My name is william , but people call me bill.
-   (ID: conversation_588_user_2)
+1. God has always been put first in my life.
+   (ID: conversation_76_user_2)
 
 
 ============================================================

@@ -1,0 +1,204 @@
+CLUSTER 7
+============================================================
+Total statements in cluster: 310
+
+Dataset distribution in this cluster:
+  MPChat: 4 (1.3%)
+  MSC: 1 (0.3%)
+  PEC: 8 (2.6%)
+  PER-CHAT: 275 (88.7%)
+  PersonaChat: 1 (0.3%)
+  SyntheticPersonaChat: 21 (6.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. my cat is possessed but still sooo very awwww :)
+   (ID: ddizzle23)
+
+2. my roommates cat must have been in timeout.
+   (ID: Nerdyredeyejedi)
+
+3. this is my dilly cat
+   (ID: BareFootMumma)
+
+4. itap of my cat posing gracefully
+   (ID: markoshino)
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. For me, one cat is enough.
+   (ID: dialog_49_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 8
+
+1. i d on cat ?
+   (ID: LabeledAsALunatic)
+
+2. i like nyan cat better :(
+   (ID: Lsmoothies)
+
+3. i have a one - eyed pirate cat too ! !
+   (ID: bugaloo2u2)
+
+4. i would also like to have a talk with your cat .
+   (ID: lovestheautumn)
+
+5. i have a cat
+   (ID: mathieu2em)
+
+6. i like your cat and would like to pet it ’s tummy .
+   (ID: bugaloo2u2)
+
+7. i lost a cat like that ..
+   (ID: meteoriteminer)
+
+8. i do n’t have a cat .
+   (ID: throwaway073847)
+
+
+--- PER-CHAT ---
+Total from this dataset: 275
+
+1. I have a cat as a pet.
+   (ID: d54a04c3eba52404f5dd7abb0e459a949dbc7f93)
+
+2. I have a dog as a pet.
+   (ID: a5abb0fc49ef940b208bd33b46b6b669a13fc83f)
+
+3. I have a dog as a pet.
+   (ID: c787052a42459acc9cd2034c7531250ccd441795)
+
+4. I have a dog as a pet.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
+
+5. I have a cat as a pet.
+   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+
+6. I have a dog as a pet.
+   (ID: 7cece6bbdf487f99b6d494ab790bde8e66ce8966)
+
+7. I have a dog as a pet.
+   (ID: 2cc106beadb9cde22175338488da9efb20933748)
+
+8. I have a cat as a pet.
+   (ID: e53542ff680164cdf45964372fb47cf6a7d48484)
+
+9. I have a cat as a pet.
+   (ID: 54d8d3056c8f47c31e118e652b57922cf96c4876)
+
+10. I have a cat as a pet.
+   (ID: 164327be87300906de16932661437c5b2b671c9d)
+
+11. I have a dog as a pet.
+   (ID: f3a490ceb976e7adf0cbeb213371795128597226)
+
+12. I have a cat as a pet.
+   (ID: 2bb956084cb9bf79f58345d6cf6beca98e76bbb4)
+
+13. I have a dog as a pet.
+   (ID: 0217046a1ad9b1e567109f7f7a4bb8b9f4b4fc05)
+
+14. I have a dog as a pet.
+   (ID: d239102bc184479462fc1422e316856d8bca37ba)
+
+15. I have a dog as a pet.
+   (ID: 5be7ef463c3ba0c7a9c255bd9769c5f638d2b805)
+
+16. I have a dog as a pet.
+   (ID: 22864f9484c3c6d7f8c8dac79c58ea32865eb794)
+
+17. I have a dog as a pet.
+   (ID: 68b48505d5f7a16cf14847c82fff612e6bd59090)
+
+18. I have a dog as a pet.
+   (ID: 130fa156e7a286a021dcdff2492d6048231cb82f)
+
+19. I have a cat as a pet.
+   (ID: 59c651a5c06af5a1be40c3866fad09e7ac4c78f2)
+
+20. I have a dog as a pet.
+   (ID: 8e9d9ac876fd2e0508d95d3e43def46faae3c312)
+
+
+--- PersonaChat ---
+Total from this dataset: 1
+
+1. i have one cat .
+   (ID: conversation_275)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 21
+
+1. I have a cat.
+   (ID: conversation_268_user_1)
+
+2. I have a cat.
+   (ID: conversation_262_user_1)
+
+3. I have a cat.
+   (ID: conversation_270_user_1)
+
+4. I have a cat.
+   (ID: conversation_261_user_1)
+
+5. I have a cat.
+   (ID: conversation_264_user_1)
+
+6. I have a cat.
+   (ID: conversation_265_user_1)
+
+7. I own a cat.
+   (ID: conversation_287_user_1)
+
+8. I own a cat.
+   (ID: conversation_164_user_1)
+
+9. I have a cat as a pet.
+   (ID: conversation_315_user_2)
+
+10. I own a cat.
+   (ID: conversation_165_user_1)
+
+11. I have a cat.
+   (ID: conversation_267_user_1)
+
+12. I own a cat.
+   (ID: conversation_163_user_1)
+
+13. I have a cat.
+   (ID: conversation_97_user_2)
+
+14. I own a cat.
+   (ID: conversation_166_user_1)
+
+15. I have a cat.
+   (ID: conversation_271_user_1)
+
+16. I have a cat.
+   (ID: conversation_266_user_1)
+
+17. I own a cat.
+   (ID: conversation_249_user_2)
+
+18. I have a cat.
+   (ID: conversation_269_user_1)
+
+19. I have a cat.
+   (ID: conversation_263_user_1)
+
+20. I have a cat.
+   (ID: conversation_16_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 60976
+
+Dataset distribution in this cluster:
+  FoCus: 1988 (3.3%)
+  MPChat: 3844 (6.3%)
+  MSC: 2901 (4.8%)
+  PEC: 21859 (35.8%)
+  PER-CHAT: 25048 (41.1%)
+  PersonaChat: 1727 (2.8%)
+  SyntheticPersonaChat: 3609 (5.9%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1988
+
+1. I would like to see a worship place.
+   (ID: KGUNB0DFP7UP_11)
+
+2. I love Canadian National No. 89.
+   (ID: M6QLMFHJ3CAF_11)
+
+3. I have never been to Lancashire.
+   (ID: PDQ9Z8XXYUMC_11)
+
+4. I want to visit Hawai.
+   (ID: Y037WWL4AZRY_11)
+
+5. I live in the United States.
+   (ID: 82ZP2M9AL6U0_11)
+
+6. I like hiking.
+   (ID: QUHIQZPYU7H1_11)
+
+7. I will stay in Fulham.
+   (ID: DJ4IA2ZGTGQW_11)
+
+8. I haver never been to a tower.
+   (ID: 9ZUQKMGM6HTD_11)
+
+9. I am an architect.
+   (ID: G9I9RZZLCC1P_11)
+
+10. I am interested in ancient bronze column.
+   (ID: JOUKPJIZMRMN_11)
+
+11. I would like to buy some furniture.
+   (ID: OH2YXB0PNO4O_11)
+
+12. I love Clearwater city.
+   (ID: OII32NSNR2Q2_7)
+
+13. I love to visit the rocky mountains.
+   (ID: T815O8KC30IG_9)
+
+14. I am a follower of Islam.
+   (ID: D0KVGN5X78BU_11)
+
+15. I would like to visit Banaba.
+   (ID: HSQSOF3LX08H_7)
+
+16. I would like to go to different events.
+   (ID: K73F47W36X0D_11)
+
+17. I love travelling in narrow gauge trains.
+   (ID: CA1IZ57C8644_11)
+
+18. I like to read about history.
+   (ID: ONEQUNEZ1U6S_9)
+
+19. I have watched the 2010 Winter Olympics on television.
+   (ID: UHVFDJII2GF5_11)
+
+20. I like touring around historic districts around the world.
+   (ID: U6BF1QZ941QN_11)
+
+
+--- MPChat ---
+Total from this dataset: 3844
+
+1. i threw this round rib for making bowls
+   (ID: Brazdoh)
+
+2. i ordered these both online and the mohair ended up being lighter than i thought it would be.
+   (ID: scrumperumper)
+
+3. my sheep sculpture waiting to go into the raku firing!
+   (ID: cryptidcat)
+
+4. i'm loving the colors :d
+   (ID: ablubberducky)
+
+5. i made butterfly keychains!
+   (ID: FoxInKneeSocks)
+
+6. this game is my own idea.
+   (ID: gelimausi)
+
+7. i made a unicorn!
+   (ID: FoxInKneeSocks)
+
+8. lemon berry cake (link to my baking blog recipe in comments)
+   (ID: mashedtatoes88)
+
+9. now that they've received it i can post the ramen bowl i made for the gift exchange
+   (ID: Sophie74656)
+
+10. crocheted sunflora pokémon i made
+   (ID: KnitPurlPrint)
+
+11. i made some wings!
+   (ID: snaps_pro)
+
+12. my basketball loving son’s 2nd birthday cake.
+   (ID: RunAndEatCake)
+
+13. i made u/sassaroo’s baby bat pattern!
+   (ID: FoxInKneeSocks)
+
+14. my first project- my blanket- it's coming along!
+   (ID: alnomds)
+
+15. i crocheted green christmas balls.
+   (ID: gelimausi)
+
+16. how am i doing?
+   (ID: youngdad33)
+
+17. baker gmhas gained a healthy 15 pounds and a huge smile since i've brought him home.
+   (ID: BananaStand07)
+
+18. check out these mushroom pipes i make!
+   (ID: phantomfellow)
+
+19. i made the mistake of thinking i could start a knitting ig without an ig model
+   (ID: Tossahoooo)
+
+20. he's helping me measure my finished sock!
+   (ID: fishgoose)
+
+
+--- MSC ---
+Total from this dataset: 2901
+
+1. I never had a job and I never will.
+   (ID: dialog_18_speaker_1)
+
+2. I like to visit the border.
+   (ID: dialog_15_speaker_1)
+
+3. I love to cook.
+   (ID: dialog_119_speaker_2)
+
+4. I live near M. Cyrus and PnB Rock.
+   (ID: dialog_184_speaker_2)
+
+5. I take an exercise class on Saturday mornings.
+   (ID: dialog_166_speaker_1)
+
+6. I'm an adult that stays with my parents.
+   (ID: dialog_109_speaker_2)
+
+7. I live with my parents. My father has Covid-19, but he is getting better.
+   (ID: dialog_77_speaker_1)
+
+8. I collect stamps. I do not have any pets.
+   (ID: dialog_160_speaker_1)
+
+9. I have 4 siblings: brothers and sisters. My brother got engaged and plans to marry next year.
+   (ID: dialog_42_speaker_1)
+
+10. I am from and live in Vancouver, British Colombia.
+   (ID: dialog_33_speaker_1)
+
+11. I love me some brisket.
+   (ID: dialog_184_speaker_2)
+
+12. I have no job.
+   (ID: dialog_173_speaker_2)
+
+13. Graphic novels are my favorite thing to aquire.
+   (ID: dialog_70_speaker_1)
+
+14. I love reading.
+   (ID: dialog_31_speaker_1)
+
+15. I live in west coast.
+   (ID: dialog_170_speaker_1)
+
+16. I have great friends.
+   (ID: dialog_53_speaker_2)
+
+17. My wife and I like watching movies. I like making fun of my wife for her taste in movies.
+   (ID: dialog_15_speaker_2)
+
+18. Roll playing is my favorite hobby.
+   (ID: dialog_74_speaker_2)
+
+19. I have never had a supernatural experience.
+   (ID: dialog_58_speaker_2)
+
+20. I want to get my own places.
+   (ID: dialog_24_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 21859
+
+1. i know what it means , but i just did n’t know what his bad situation may be .
+   (ID: Atlmama)
+
+2. i 'm surprised i even remembered this is a bat - and - ball game
+   (ID: Machinax)
+
+3. i m southpaw , if anyone ever took southpaw stance in my gym i would immediately concede .
+   (ID: Lifes6Midnight)
+
+4. i 'm still subscribed , but honestly forgot about it and never posted myself ... picture shy
+   (ID: conservative_poly)
+
+5. i ’ve always wanted a pig as a pet .
+   (ID: microliteoven)
+
+6. i 'm a middle eastern guy .
+   (ID: amirman)
+
+7. i like how you have the transmission in park anyway
+   (ID: ProJokeExplainer)
+
+8. i do nt even know his name
+   (ID: WillemDafoesAlterEgo)
+
+9. i found a few pieces of their car that included some numbers .
+   (ID: maullove)
+
+10. i have been told to keep insurance papers and registration in my wallet rather than the glove box .
+   (ID: MILeft)
+
+11. i learned about 7 things from this post that i thought i had already known everything about .
+   (ID: Byde)
+
+12. i 'd have thought running on concrete would be even worse ?
+   (ID: SeasonedLemur)
+
+13. i think my mood is directly linked to my wet dream .
+   (ID: aydinsevimli)
+
+14. i ’m i the only person who thinks dolls can be possessed ?
+   (ID: billclay55raiders)
+
+15. i love the internet .
+   (ID: notTHATwriter)
+
+16. i like the way you express yourself on camera .
+   (ID: ArtOverdrive01)
+
+17. i do n't get it .
+   (ID: GanjaSmoker420HaloXX)
+
+18. i have n't tried coffee yet but green tea helps my anxiety .
+   (ID: WhereRtheTacos)
+
+19. i flew over the everglades and had terrible heebie geebies thinking about what was down there .
+   (ID: bugaloo2u2)
+
+20. i 'm doing my part .
+   (ID: Spacemandan01)
+
+
+--- PER-CHAT ---
+Total from this dataset: 25048
+
+1. I am a male.
+   (ID: 129ef8c0c15772442f28ff253ba4d16a19caef46)
+
+2. i can turn off the things that limit most people . pain etc .
+   (ID: 1bd02980b08b581bf66c53c11318ac7da265e8a9)
+
+3. One of my favorite things is gardening.
+   (ID: e1aebf37580e679f77f5038c575f4359c51af29f)
+
+4. I am a male.
+   (ID: 833bc208589bf538daebb1a7e14d70fa8a3b7808)
+
+5. I have a mother in my family.
+   (ID: 873d7cdd437cc48c69447d68b6cd96b54580dae7)
+
+6. you know what else is embarrassing ? scientology . that is also some scary and embarrassing stuff that scientology .
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
+
+7. it ' s ok man . can we talk about it ?
+   (ID: db1ffea2a957f19bfc0fffdbd89a6d65be91fd5c)
+
+8. My television is agents of s.h.i.e.l.d..
+   (ID: a5976f282a96c036f5e4d14957305323c9a5776d)
+
+9. ok . but that want the question was it ?
+   (ID: 0847b0a0c2f6c5c595a8cbe2207c0959b37df0c4)
+
+10. yea , you didnt answer the question . a drunk guy is held responsible for his actions if he is drunk and has sex with a drunk female . a drunk female cant give consent because shes not in her right mind but a drunk male is supposed to be in his right mind enough to know that the woman is too drunk to give consent . its a double standard that is ridiculous and you can down vote me all you want for it . but just answer the question , thats all i ask .
+   (ID: 35eb47890f8874bbb988ec8308ba762f8377b3b8)
+
+11. i ' m not sure that abortion is the reason . most of our parents were in the " silent generation "  that group of people who grew up in the great depression but were too young for wwii . the greatest generation crammed all their child rearing into the post war period and the result was the baby boom . the baby boomers are the moms and dads of gen y . i agree we are the best generation , though . i ' m proud to say that while the baby boomers partied in the mud at the original woodstock our generation rioted at the one they tried to put on for us .
+   (ID: c3739aee1cfa0a286d1056b5d9225e9d6e4f6547)
+
+12. i  m digit weeks and i  ve been doing this my entire pregnancy , especially when i get hot or if i  m out and about at the store or something . i highly suggest always carrying a water and something salty like peanuts or a bag of chips . when you start feeling dizzy , try to find somewhere to sit if there is any , sip on your water and eat a couple chips . i  ve noticed if i drink the water fast it makes me nauseous so be sure to sip . good luck to you
+   (ID: b481339e58c54d903a5bef6ed58d704163f4f9f3)
+
+13. it depends on the scenario . am i just trying to make it to the next paycheck and i will get my item back ? if so then i ' d pawn a gun . if i ' ll probably never see it again i ' d go with some of the random electronics i have . an old cell phone , video game console , etc .
+   (ID: 238107f17ccd21a5cb87efbd00d55a861389ba26)
+
+14. i ' m not sure if you ' re a troll or the most uneducated person on this website . asking questions to a stranger when you ' re on the internet . google itself is a mystery to you .
+   (ID: 0f8bca5cd80e9429ae58bb976857e3c5ab057290)
+
+15. digit girls , digit cup
+   (ID: 4e289af5e18133c4578deba659b7e1d2784a925d)
+
+16. I have a girlfriend.
+   (ID: 3cd6cbd0ced9eeece859e4e31c6ae046d9711c59)
+
+17. that  s what it looks like for me ? should it look different ? i  m trying to find something to explain what the houses are before i pick one .
+   (ID: b544676f77b629fef343fb67689e28beb14aad3a)
+
+18. good thing i didn ' t click on it . i usually never click on stuff people send me on here , because it ' s safe to assume the worse . i ' m going to block him now .
+   (ID: 3fb1292a0bd26711d797fe1a61e6229794c21b68)
+
+19. One of my favorite things is chicken.
+   (ID: 603a231fe5a5d93e7d1121f6265baf1dcb11f624)
+
+20. not if your education sucks and youre on internet to try and make others think a big penis does the job . lmao don ' t worry , most people saying this are arrogant or uneducated .
+   (ID: 3eca81edf4e6bc73783677c148d86e9de5e6527e)
+
+
+--- PersonaChat ---
+Total from this dataset: 1727
+
+1. my children are mostly grown .
+   (ID: conversation_239)
+
+2. i love iced tea .
+   (ID: conversation_1)
+
+3. i like to go hiking on the weekends .
+   (ID: conversation_63)
+
+4. i keep my hair cut very short .
+   (ID: conversation_222)
+
+5. my favorite color is green .
+   (ID: conversation_207)
+
+6. we drink beer and eat food .
+   (ID: conversation_399)
+
+7. i am in 3rd grade .
+   (ID: conversation_354)
+
+8. i am a youtuber .
+   (ID: conversation_58)
+
+9. i have several children .
+   (ID: conversation_425)
+
+10. i drive a mercedes .
+   (ID: conversation_261)
+
+11. i m a veteran .
+   (ID: conversation_453)
+
+12. i am starting an internship at a construction site next week .
+   (ID: conversation_178)
+
+13. i've 3 small dogs .
+   (ID: conversation_437)
+
+14. my favorite ice cream is pistachio .
+   (ID: conversation_287)
+
+15. i love to ride my bike on the weekend .
+   (ID: conversation_311)
+
+16. i can speak arabic , english , and french .
+   (ID: conversation_403)
+
+17. my car is pink .
+   (ID: conversation_58)
+
+18. i like watching ufc fights .
+   (ID: conversation_476)
+
+19. i am engaged to be married .
+   (ID: conversation_269)
+
+20. my favorite place to visit is seattle .
+   (ID: conversation_436)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3609
+
+1. My favorite color is purple.
+   (ID: conversation_326_user_2)
+
+2. I am afraid of spiders.
+   (ID: conversation_185_user_1)
+
+3. I m in grad school.
+   (ID: conversation_96_user_2)
+
+4. I am a jack of all , master of none.
+   (ID: conversation_11_user_1)
+
+5. I have two tattoos.
+   (ID: conversation_366_user_1)
+
+6. I like makeup.
+   (ID: conversation_265_user_2)
+
+7. I eat meat.
+   (ID: conversation_287_user_2)
+
+8. I love folk metal.
+   (ID: conversation_163_user_1)
+
+9. I still live with my parents.
+   (ID: conversation_269_user_1)
+
+10. I dream of becoming a famous actress.
+   (ID: conversation_403_user_1)
+
+11. My favorite artist is 2pac.
+   (ID: conversation_185_user_2)
+
+12. I can do convincing bird calls.
+   (ID: conversation_2_user_2)
+
+13. I played football in college.
+   (ID: conversation_335_user_2)
+
+14. I am a psychology major.
+   (ID: conversation_290_user_2)
+
+15. I live alone.
+   (ID: conversation_295_user_1)
+
+16. I am an old man.
+   (ID: conversation_429_user_1)
+
+17. Magic mike is my favorite movie.
+   (ID: conversation_294_user_2)
+
+18. I only buy convertible cars.
+   (ID: conversation_212_user_2)
+
+19. I am a vegan.
+   (ID: conversation_206_user_1)
+
+20. I am still living at home at age 30.
+   (ID: conversation_389_user_2)
+
+
+============================================================

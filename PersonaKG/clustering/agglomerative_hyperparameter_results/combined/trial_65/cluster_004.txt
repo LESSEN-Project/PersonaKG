@@ -1,0 +1,203 @@
+CLUSTER 4
+============================================================
+Total statements in cluster: 2947
+
+Dataset distribution in this cluster:
+  FoCus: 1 (0.0%)
+  MPChat: 4 (0.1%)
+  MSC: 4 (0.1%)
+  PEC: 13 (0.4%)
+  PER-CHAT: 2915 (98.9%)
+  PersonaChat: 3 (0.1%)
+  SyntheticPersonaChat: 7 (0.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1
+
+1. Ferry rides are my favorite.
+   (ID: NETYMHGQTGLI_9)
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. these are my other favorite mittens
+   (ID: Novel_Fox)
+
+2. mittens are one my favorite things to make!
+   (ID: Novel_Fox)
+
+3. my favorite potted succulent is in bloom!
+   (ID: Chinchillasaurus)
+
+4. one of my favorite things to make at home: vietnamese coffee.
+   (ID: BeastaBubbles)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. Pepperoni is my favorite topping.
+   (ID: dialog_23_speaker_1)
+
+2. I obsess over things
+   (ID: dialog_79_speaker_1)
+
+3. My favorite cuisine is thai.
+   (ID: dialog_23_speaker_2)
+
+4. I obsess over things.
+   (ID: dialog_79_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 13
+
+1. i 'm betting lots of things !
+   (ID: Thenewfoundlanders)
+
+2. i see so many hopeless , decrepit things from that city on here now .
+   (ID: hardt0f0rget)
+
+3. i would n't do any of these things .
+   (ID: GetItTogether)
+
+4. i 'd probably get some things done
+   (ID: trav110)
+
+5. i do n't see things here which show idiomatic python being outdated or no longer idiomatic
+   (ID: xcombelle)
+
+6. i just see animals as more than " things " .
+   (ID: NyxPeregrinus)
+
+7. i saved your * favorite * things . "
+   (ID: Sugarpeas)
+
+8. i 'm mad about things
+   (ID: ProJokeExplainer)
+
+9. i do neither of these things .
+   (ID: mbw1960)
+
+10. i loved those things .
+   (ID: themarajade1)
+
+11. i 'm offended by two things : things i 'm offended by and recursion .
+   (ID: CuriousBlueAbra)
+
+12. i can see a guy doing that with most things , but not with their favorite appendage !
+   (ID: jay456)
+
+13. i constantly find myself zoning out , mucking up the simplest of tasks , misplacing things .. etc .
+   (ID: BearCanoe)
+
+
+--- PER-CHAT ---
+Total from this dataset: 2915
+
+1. One of my favorite things is animals.
+   (ID: 420a86ecfb9d645349db591746d0cdeba4b68f37)
+
+2. One of my favorite things is bubbly women.
+   (ID: 9462d83facbfbfe29873d9b93c7663411cb005ef)
+
+3. One of my favorite things is math.
+   (ID: a94c33f7a102c979d2b0d24245a9721d4136b14f)
+
+4. One of my favorite things is building.
+   (ID: 804f1bee8d4950d83d7626539cb86d46b2848fd3)
+
+5. One of my favorite things is bit  uicideboy.
+   (ID: 864d1fa2ae2c7d60534e62e5a4b00fcb39a2c565)
+
+6. One of my favorite things is history.
+   (ID: 5f75c9b696f1ea78d1a7d21e5a6d5dd1c9391b14)
+
+7. One of my favorite things is dirty heels🍆😏.
+   (ID: e871625874733300de2a83384cee8c72546d3ec6)
+
+8. One of my favorite things is turtles boy.
+   (ID: f15c79447707a6e701285e8c59cc3aa25d54daa6)
+
+9. One of my favorite things is cars.
+   (ID: 73a501f273781aa2c0deb878ecb02dcab3a9d4d3)
+
+10. One of my favorite things is video games again;i.
+   (ID: 199704b2ab3344a95185dd1a9c09023379518eb0)
+
+11. One of my favorite things is cars.
+   (ID: 634dae5dcf04e8e8d5bfd5e71c1fa8ec9713f222)
+
+12. One of my favorite things is curvy natural redheads  freckles.
+   (ID: 72155748e939f50a6f3bde77aee5ae7b7c499725)
+
+13. One of my favorite things is rainbow.
+   (ID: 52e0e376c09b4862d8eea84ae547c3466a2aac4b)
+
+14. One of my favorite things is quiet people.
+   (ID: 009af0be6850d8d1ff9d388a3c7f39f0f7727594)
+
+15. One of my favorite things is milk.
+   (ID: 917dfa16e92ce1db67ec3f88bc07b87b70a36c95)
+
+16. One of my favorite things is taco bell.
+   (ID: 8f17a8aa41d6f9ae6bf4690376763808f9363f80)
+
+17. One of my favorite things is spending time.
+   (ID: 5f75c9b696f1ea78d1a7d21e5a6d5dd1c9391b14)
+
+18. One of my favorite things is automobiles.
+   (ID: 457d7d37e1181cc932693cd4220e6fbfd564a75d)
+
+19. One of my favorite things is paranormal.
+   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+
+20. One of my favorite things is domination  men.
+   (ID: a80b8bc356414690d849369456d68876c95d5518)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. zebras are my favorite animals .
+   (ID: conversation_94)
+
+2. nike cleats are my favorite .
+   (ID: conversation_62)
+
+3. my favorite animals are dolphins .
+   (ID: conversation_341)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I take things very literally.
+   (ID: conversation_247_user_2)
+
+2. My favorite show is scobby doo.
+   (ID: conversation_172_user_2)
+
+3. Penn teller are my favorite magicians.
+   (ID: conversation_136_user_2)
+
+4. My favorite show is battlestar galactica.
+   (ID: conversation_116_user_2)
+
+5. My favorite show is battlestar galactica.
+   (ID: conversation_55_user_2)
+
+6. My favorite animals are dolphins.
+   (ID: conversation_272_user_2)
+
+7. Zebras are my favorite animals.
+   (ID: conversation_340_user_2)
+
+
+============================================================

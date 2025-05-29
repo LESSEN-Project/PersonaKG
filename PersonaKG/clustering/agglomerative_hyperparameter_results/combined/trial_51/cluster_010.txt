@@ -1,0 +1,422 @@
+CLUSTER 10
+============================================================
+Total statements in cluster: 1838
+
+Dataset distribution in this cluster:
+  FoCus: 5 (0.3%)
+  MPChat: 268 (14.6%)
+  MSC: 164 (8.9%)
+  PEC: 433 (23.6%)
+  PER-CHAT: 694 (37.8%)
+  PersonaChat: 85 (4.6%)
+  SyntheticPersonaChat: 189 (10.3%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 5
+
+1. I don't like reptiles.
+   (ID: X5NX5GAWOEW2_11)
+
+2. I don't like kangaroos.
+   (ID: ATXXTPOD4WEI_11)
+
+3. I don't like bulldogs.
+   (ID: FGIEUW9ABAQU_11)
+
+4. I don't like sharks.
+   (ID: ILXI0OBUPJ0I_11)
+
+5. I am very good following hiking trails with my dog.
+   (ID: SR08275C30X7_11)
+
+
+--- MPChat ---
+Total from this dataset: 268
+
+1. brought my new foster puppy home today.
+   (ID: BananaStand07)
+
+2. [fo] an animal alphabet for my children.
+   (ID: gelimausi)
+
+3. i think my cat is broken
+   (ID: MafHoney)
+
+4. meet my new creepy cat !
+   (ID: Tanston)
+
+5. i named her florence the flamingo!
+   (ID: Louiesloops)
+
+6. how my black cat comes home
+   (ID: ours_de_sucre)
+
+7. my yarn is soggy because of this cute demon chewing on it
+   (ID: krichmondRPH)
+
+8. my lab/german shorthair/greyhound out training
+   (ID: iowajaycee)
+
+9. i'm puppy sitting these two this weekend!
+   (ID: evantide)
+
+10. this is tabitha, my assorted pink striped tabby.
+   (ID: PatitaBlanca)
+
+11. my backpackin' doggo shares the load & carries her own supplies!
+   (ID: briestahl)
+
+12. my garden enclosure to keep out the squirrels is complete.
+   (ID: PatitaBlanca)
+
+13. "how nice of you to make a bed for my paws, human."
+   (ID: fishgoose)
+
+14. i think the blanket has gotten cat approved, at least.
+   (ID: fishgoose)
+
+15. my new puppy, samson, taking a nap on my sister's lap
+   (ID: Veretica)
+
+16. my dog is always curious about the ouch mouse
+   (ID: FindingTheAdventure)
+
+17. she's my first hedgehog and i love her dearly.
+   (ID: krichmondRPH)
+
+18. my daughter calls him rocky.
+   (ID: blboppie)
+
+19. my derpy cat - shinobi - practicing his smile :)
+   (ID: ddizzle23)
+
+20. my parents just got a set of kittens.
+   (ID: SliverCobain)
+
+
+--- MSC ---
+Total from this dataset: 164
+
+1. I love my dog.
+   (ID: dialog_43_speaker_2)
+
+2. My babies love catnip and cat grass.
+   (ID: dialog_46_speaker_2)
+
+3. I have a wife.  I own dogs.
+   (ID: dialog_42_speaker_2)
+
+4. I have a gentle french bulldog.
+   (ID: dialog_171_speaker_1)
+
+5. I have not been bitten by a dog.
+   (ID: dialog_121_speaker_1)
+
+6. For me, one cat is enough.
+   (ID: dialog_49_speaker_1)
+
+7. My best friend is my pet.
+   (ID: dialog_162_speaker_2)
+
+8. I like to spend a lot of my free time with my pet.
+   (ID: dialog_29_speaker_2)
+
+9. My dog loves the beach.
+   (ID: dialog_76_speaker_2)
+
+10. I have a dog.
+   (ID: dialog_71_speaker_2)
+
+11. I have a pet snake
+   (ID: dialog_50_speaker_2)
+
+12. We own several dogs.
+   (ID: dialog_177_speaker_1)
+
+13. I used to have a poodle named char. I used to have 6 cats, now I have 4.
+   (ID: dialog_34_speaker_2)
+
+14. I've a kitten with a sci fi name.
+   (ID: dialog_144_speaker_2)
+
+15. My cat enjoys eating chicken.
+   (ID: dialog_191_speaker_2)
+
+16. I cannot have a cat because fido hates them.
+   (ID: dialog_184_speaker_1)
+
+17. I am a woman. I breed mine coons. I live with my brother
+   (ID: dialog_46_speaker_2)
+
+18. We had 5 felines but one had to go since it hated both of our mutts.
+   (ID: dialog_38_speaker_1)
+
+19. I do not have a dog.
+   (ID: dialog_174_speaker_1)
+
+20. I've a snoopy pet.
+   (ID: dialog_174_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 433
+
+1. i 'd say : . [ tail on head : dog .
+   (ID: conservative_poly)
+
+2. i found a shiny klink , so i 'm very partial to him right now .
+   (ID: CheapyPipe)
+
+3. i 'm taking my huskies to their first snow day - do they also need paw protection ?
+   (ID: OliveGames)
+
+4. i find it hard to say spaniel , i comes out as «   spanual   » lol .
+   (ID: onederful2018)
+
+5. i want a cat - sized snow leopard .
+   (ID: Sabiola)
+
+6. i love your pig !
+   (ID: scoutsadie)
+
+7. i do n't " worship " my cats , just love them and highly value them as companions .
+   (ID: scoutsadie)
+
+8. i have affectionately named it theodore .
+   (ID: deputydan_scubaman)
+
+9. i have one too , lovely breed , very intelligent , social and loving
+   (ID: kiki73)
+
+10. i named my old cat " rex manning " .
+   (ID: Mahatma_Panda)
+
+11. i 've never wanted to be a cat more than now
+   (ID: iam1r7)
+
+12. i have 3 cats 2 kittens one adult .
+   (ID: Tjgl)
+
+13. i also love barney !
+   (ID: lovestheautumn)
+
+14. i 'll also include hippos , rhinos and horses .
+   (ID: spoonsrugby)
+
+15. i use the cat genie i just use kitchen trash bags , love it .
+   (ID: Sniperman)
+
+16. i have pet ducks
+   (ID: exotics)
+
+17. i named it kanye .
+   (ID: Darth_Waiter)
+
+18. i 'm sorry sir or mam , your cat is very sick . � �
+   (ID: rspewth)
+
+19. i just want to let them freely swim .
+   (ID: Wowliam)
+
+20. i do n't care what anyone says , pitties are sweet loveable doofuses ❤ ️ they re not born violent
+   (ID: breakingashleylynne)
+
+
+--- PER-CHAT ---
+Total from this dataset: 694
+
+1. I have a hamster as a pet.
+   (ID: c83b22a49a20c27500a33ae6560c81c75749e66b)
+
+2. how anyone could act like that is beyond me . i don ' t understand this new surge with the " pack " mentality . it ' s a primal trait that is affecting certain populations art an alarming rate . is there a de  evolution happening before our eyes or is this a product of modern society ' s failures ?
+   (ID: 2cfcabf07be1420284c0b650fae1643abc6e2bc4)
+
+3. my dad had a friend in college who adopted old cats and made it comfortable for them when they were on their last legs .
+   (ID: 016485853897f1b9f422dd4da7d83e7e4a5261b0)
+
+4. . just the society makes rules . human life would be worth nothing for science and other stuff . we are just bones and meat with brain that makes us different . that ' s all . digit bilion people and thousands are coming . we will kill ourselves one day . maybe we won ' t . but still . we can kill animals i ' m not vegetarian and feel not sad about it but when a person dies you ' re a murderer . life was working without us . we are nothing more then just bones , meat and brain . and only brain makes us special .
+   (ID: be642743472cdef9445edc6dd55beb3c2a8a1258)
+
+5. I have a dog as a pet.
+   (ID: 34784a4c9eca2e43db08bf9f548798a984337741)
+
+6. I have a dog as a pet.
+   (ID: 8bc3c38873da8df8d450deb17fd3c4a602037c65)
+
+7. I have a dog as a pet.
+   (ID: 664b365f80ff1d51db95866fada8009f14d8e9b1)
+
+8. if he is willing to do that to your pet , or any pet , he is unstable . report it . it is a crime and get away . he seems one screw short of becoming unhinged
+   (ID: e1d1404c2d4f1c884debe976d40ee13df3959fcf)
+
+9. it  s a nard dog !  andy doesn  t get enough love
+   (ID: 70fd28af0eb2c67ebb7ce51abc94c13f1a4f652b)
+
+10. i don ' t want to spawn in my mermaid . that ' s gross .
+   (ID: a85910e837bd841373d8a7b2a84f1bff22807d9e)
+
+11. I have a dog as a pet.
+   (ID: b3497f72ed4462f0414951db6d9ee7aa4004b515)
+
+12. why are you always fuckin crying over something ? you ' re a grown ass dog .
+   (ID: b4d61ff0c23f7ce5512ee9f64d1bea0f938f262a)
+
+13. I have a cat as a pet.
+   (ID: f024c8cde5b36a880df271cca31792d32264df2c)
+
+14. I have a cat as a pet.
+   (ID: 5146a89965a734a4d1ec9ec9145abae872a4569d)
+
+15. I have a dog as a pet.
+   (ID: a85910e837bd841373d8a7b2a84f1bff22807d9e)
+
+16. I have a cat as a pet.
+   (ID: 2abaf8413c23e36fd4e8a1e879a2875dea6dbf69)
+
+17. I have a dog as a pet.
+   (ID: a77a8bcaa391d8b6584d32e6ad243e71297d7258)
+
+18. I have a cat as a pet.
+   (ID: 4f65e5402391c052d2d3e7a2a4d73b01ea1db203)
+
+19. I have a dog as a pet.
+   (ID: 0176230ef7bd36e243dc81e1792c2941b82ea97c)
+
+20. i remember as i kid i was reading a book with a certain quote in it , something along the lines of " if you try that again i will buy you the cutest kitten in the whole world , wait for you to fall in love with it , and then gouge its eyes out with a spoon while you watch " cant remember for the life of me what book it was .
+   (ID: ae9e10cc82b9b20c52f819c70c83f657724f9f44)
+
+
+--- PersonaChat ---
+Total from this dataset: 85
+
+1. i'm allergic to cats .
+   (ID: conversation_222)
+
+2. i've a cat .
+   (ID: conversation_370)
+
+3. i have a cat named speckles .
+   (ID: conversation_71)
+
+4. my best friend is my dog allie .
+   (ID: conversation_29)
+
+5. i have a dog that has behavioral issues .
+   (ID: conversation_429)
+
+6. i've two dogs , one pitbull and old english bulldog .
+   (ID: conversation_350)
+
+7. i've one little boy named owen .
+   (ID: conversation_300)
+
+8. my cat died .
+   (ID: conversation_486)
+
+9. i've a golden retriever .
+   (ID: conversation_332)
+
+10. i have a cat named charlie .
+   (ID: conversation_218)
+
+11. i've a parrot named parrot .
+   (ID: conversation_138)
+
+12. i have a dog named socks .
+   (ID: conversation_172)
+
+13. i own 10 cats .
+   (ID: conversation_236)
+
+14. i have a dog that has behavioral issues .
+   (ID: conversation_480)
+
+15. i've three great danes .
+   (ID: conversation_304)
+
+16. i have 23 cats at home .
+   (ID: conversation_60)
+
+17. i have a golden retriever .
+   (ID: conversation_404)
+
+18. i own four german shepherds .
+   (ID: conversation_292)
+
+19. i'm gong to adopt a dog very soon .
+   (ID: conversation_45)
+
+20. i am a cat person .
+   (ID: conversation_73)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 189
+
+1. I have 2 beagles named chance and boomer.
+   (ID: conversation_186_user_1)
+
+2. I own a french bulldog.
+   (ID: conversation_499_user_2)
+
+3. I have a horse named beauty.
+   (ID: conversation_465_user_2)
+
+4. I have a dog.
+   (ID: conversation_398_user_1)
+
+5. I have 23 cats at home.
+   (ID: conversation_194_user_1)
+
+6. I have a pomeranian.
+   (ID: conversation_424_user_2)
+
+7. I have 2 dogs as pets.
+   (ID: conversation_146_user_1)
+
+8. I have a french bulldog.
+   (ID: conversation_95_user_2)
+
+9. I have a black lab.
+   (ID: conversation_252_user_1)
+
+10. I have a french bulldog.
+   (ID: conversation_169_user_1)
+
+11. I have a cat.
+   (ID: conversation_265_user_1)
+
+12. I have a cat named jasper.
+   (ID: conversation_215_user_1)
+
+13. I own 3 cats.
+   (ID: conversation_300_user_1)
+
+14. I have 3 dog.
+   (ID: conversation_491_user_2)
+
+15. I have a poodle named nanette.
+   (ID: conversation_148_user_2)
+
+16. I have 2 cats.
+   (ID: conversation_188_user_2)
+
+17. I have a cat.
+   (ID: conversation_263_user_1)
+
+18. I own a cat.
+   (ID: conversation_164_user_1)
+
+19. I have 3 dog.
+   (ID: conversation_443_user_1)
+
+20. I have a black lab.
+   (ID: conversation_253_user_1)
+
+
+============================================================

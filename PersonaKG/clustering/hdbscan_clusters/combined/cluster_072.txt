@@ -1,111 +1,285 @@
 CLUSTER 72
 ============================================================
-Total statements in cluster: 315
-Cluster persistence (stability): 0.417
+Total statements in cluster: 194
+Cluster persistence (stability): 0.693
 
 Dataset distribution in this cluster:
-  MPChat: 3 (1.0%)
-  PEC: 309 (98.1%)
-  PER-CHAT: 2 (0.6%)
-  SyntheticPersonaChat: 1 (0.3%)
+  FoCus: 16 (8.2%)
+  MPChat: 15 (7.7%)
+  MSC: 6 (3.1%)
+  PEC: 135 (69.6%)
+  PER-CHAT: 4 (2.1%)
+  PersonaChat: 14 (7.2%)
+  SyntheticPersonaChat: 4 (2.1%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 16
+
+1. I love the Richardsonian Romanesque style.
+   (ID: WYFFBVR6YR06_11)
+
+2. I love River Dheune.
+   (ID: E0UBZBWJCJX7_9)
+
+3. I love travelling in narrow gauge trains.
+   (ID: CA1IZ57C8644_11)
+
+4. I love Westchester County.
+   (ID: SN7PB5ME98AZ_9)
+
+5. I love park.
+   (ID: U6NEN4YX4OT6_9)
+
+6. I love Warragamba Emergency Scheme.
+   (ID: KHRYE9OFUIMW_9)
+
+7. I love being in the middle of the many skyscrapers.
+   (ID: YH6KAJ3V2KQ8_11)
+
+8. I love races.
+   (ID: UE4QTS7W8OVL_11)
+
+9. I love Anti-Fascist Protection Rampart.
+   (ID: 9A5KQW7ZJ9KZ_11)
+
+10. I love the Louis XVI style.
+   (ID: TWVRMG2B6X6L_11)
+
+11. I love Rouge River.
+   (ID: UP3GFVTSLA54_11)
+
+12. I love bridge overpass.
+   (ID: E3UZAGT5DTE5_11)
+
+13. I love the antislavery movement.
+   (ID: SSWJZGJZ66UK_11)
+
+14. I love After Midnight.
+   (ID: HGV5HAZVG959_11)
+
+15. I love King William IV.
+   (ID: UIC15IVGSRBN_11)
+
+16. I love my cultural significance.
+   (ID: JHW3GLKC9PME_11)
+
+
 --- MPChat ---
-Total from this dataset: 3
+Total from this dataset: 15
 
-1. porcelain :) i can’t wait for my hydrangea to bloom!
-   (ID: Meow_19)
+1. i love classic knits
+   (ID: zonumnire)
 
-2. i can’t wait
+2. my african daisies also love this weather.
+   (ID: insertnamehere02)
+
+3. my maritsa 11. i love her.
+   (ID: neonlouvre)
+
+4. i love the aesthetics of a wooden bowl
+   (ID: coffeehawaii)
+
+5. this is my newest fungaloid, clarence the wise, and i love him
+   (ID: Louiesloops)
+
+6. i love his constant blop
+   (ID: kentobean123)
+
+7. i love horse feet!
+   (ID: postmodernequestrian)
+
+8. i love the fuzzy stage so much.
+   (ID: stonegiant4)
+
+9. i love when a piece surprises me.
    (ID: lizdavis17)
 
-3. i cant wait to get spooky!
-   (ID: alliekattarts)
+10. this is why i love clay.
+   (ID: oddartist)
+
+11. i love the leathery texture these get as they sit.
+   (ID: jlb4est)
+
+12. i love their label artwork so much
+   (ID: Metalocachick)
+
+13. i'm in love with pompoms and braided ear flaps <3
+   (ID: ddizzle23)
+
+14. clearly i love purples
+   (ID: meghanlovessunshine)
+
+15. i love this lens so much - a6300 sigma 60mm f/2.8
+   (ID: MafHoney)
+
+
+--- MSC ---
+Total from this dataset: 6
+
+1. I love listening to piano.
+   (ID: dialog_121_speaker_1)
+
+2. Others dislike me, but I love everyone.
+   (ID: dialog_209_speaker_1)
+
+3. I love yogurt. I love classic rock.
+   (ID: dialog_217_speaker_1)
+
+4. I love monopoly and risk.
+   (ID: dialog_124_speaker_2)
+
+5. I love cola products.
+   (ID: dialog_98_speaker_1)
+
+6. I love science.
+   (ID: dialog_90_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 309
+Total from this dataset: 135
 
-1. i ca n't wait to see what we 're going to do in the sunbelt .
-   (ID: JacredCat)
+1. i love your disney section so much ! !
+   (ID: bummang)
 
-2. i ca n't think it 's not relevant
-   (ID: xcombelle)
+2. i love mr rogers .
+   (ID: noworriestoday)
 
-3. i ca n't get lana to ride argorok regardless of what button i mash .
-   (ID: CarlofTime)
+3. i love when the mascots interact with the fans .
+   (ID: noworriestoday)
 
-4. i ca n't marry my partner of 18 years because i have a penis .
-   (ID: StinkinFinger)
+4. i love the pussy ! !
+   (ID: canitasteyourjuice)
 
-5. i ca n't wait until this comes to fruition .
-   (ID: ETphonehome162)
+5. i love your pig !
+   (ID: scoutsadie)
 
-6. i ca n't figure it out !
-   (ID: KneelDeGrassTieSon)
+6. i love shotgun full of rings .
+   (ID: DravenPrime)
 
-7. i ca n't tell if that was sarcasm .
-   (ID: cookiexcmonster)
+7. i love this lmao
+   (ID: bleepblorp9878)
 
-8. i ca n’t tell from their signs .
-   (ID: Atlmama)
+8. i love the hazel lady .
+   (ID: tinyirishgirl)
 
-9. i ca n't wait until i find what you have !
-   (ID: ThriftStoreSweatband)
+9. i love rice wine vinegar too !
+   (ID: Sabiola)
 
-10. i ca n't wait to see the on - stage contest for this .
-   (ID: LooksAtClouds)
+10. i love david ~~drungle~~ liebe hart
+   (ID: creedisagoodband)
 
-11. i ca n't drop things .
-   (ID: Nobody-Likes-Change)
+11. i love legal pads !
+   (ID: 11_29_77)
 
-12. i ’m upset i ca n’t see snoop dog in jc .
-   (ID: apcreddit)
+12. i love that description : p . alsoyou'rereallypretty .
+   (ID: Nolanoscopy)
 
-13. i 'm not admitted in ca so i ca n't give any info .
-   (ID: mushpuppy)
+13. i have an honor 5c and i love emui roms !
+   (ID: Breethepig)
 
-14. i honestly ca n't stand mars volta .
-   (ID: I_am_not_a_Taco)
+14. i love cm punk !
+   (ID: GetItTogether)
 
-15. i ca n’t wait until tom brady is gone ...
-   (ID: Montag3636)
+15. i love the hats and accessories .
+   (ID: noworriestoday)
 
-16. i have learned that you ca n't push a noodle .
-   (ID: Beachsurfer)
+16. i love your videos !
+   (ID: bummang)
 
-17. i ca n't stop playing him !
-   (ID: CarlofTime)
+17. i too love some discordant paradigms in my comedy sketches
+   (ID: NyxPeregrinus)
 
-18. i ca n't stand this fat privilege !
-   (ID: PartyPisser)
+18. i love being part of the universe .
+   (ID: tinyirishgirl)
 
-19. i am at the bottom of a dark hole and i ca n’t go upwards .
-   (ID: snapsnaptomtom)
+19. i love the update .
+   (ID: kitcatpaints)
 
-20. i still ca n't tell if i have to despise jesse lacey or not .
-   (ID: DoctorRichardNygard)
+20. i love the colored fog lights !
+   (ID: rycheme)
 
 
 --- PER-CHAT ---
-Total from this dataset: 2
+Total from this dataset: 4
 
-1. wait until wechat branches out .
-   (ID: fb755a718a20978d858230d4cf7c25e9815a3396)
+1. awwww i love them . what are their names ?
+   (ID: ed64cc6cb03b04b61be795ff15e6ac799bfe42b1)
 
-2. wait what ? all i see if blurry smudges !
-   (ID: d42f47f147cdc8e97117f0e4963e2c1309d1dcd8)
+2. i would love to be your coworker .
+   (ID: b4b3c5b3797986d94531e12d74354970a19f91bc)
+
+3. yep . taught me what love is .
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+4. love . but also she brings me my own socks
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+
+
+--- PersonaChat ---
+Total from this dataset: 14
+
+1. i love the beach .
+   (ID: conversation_7)
+
+2. i love ham and cheese sandwiches .
+   (ID: conversation_430)
+
+3. i love sushi .
+   (ID: conversation_362)
+
+4. i love all sorts of fresh vegetables .
+   (ID: conversation_581)
+
+5. i love to have my nails done .
+   (ID: conversation_300)
+
+6. i love animals .
+   (ID: conversation_11)
+
+7. i love my girlfriend .
+   (ID: conversation_81)
+
+8. i love to sing .
+   (ID: conversation_10)
+
+9. i love children .
+   (ID: conversation_91)
+
+10. i love iced tea .
+   (ID: conversation_1)
+
+11. i love collecting teapots .
+   (ID: conversation_73)
+
+12. i am a female and love to be surrounded by males .
+   (ID: conversation_41)
+
+13. i love laughing .
+   (ID: conversation_379)
+
+14. i love to crochet .
+   (ID: conversation_5)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 1
+Total from this dataset: 4
 
-1. I ca sim very fast.
-   (ID: conversation_175_user_2)
+1. I love the forest.
+   (ID: conversation_523_user_2)
+
+2. I love honey.
+   (ID: conversation_304_user_1)
+
+3. I fell in love this summer.
+   (ID: conversation_434_user_1)
+
+4. I love candy.
+   (ID: conversation_42_user_2)
 
 
 ============================================================

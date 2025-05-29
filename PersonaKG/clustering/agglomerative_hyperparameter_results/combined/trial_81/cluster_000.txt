@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 61465
+
+Dataset distribution in this cluster:
+  FoCus: 1749 (2.8%)
+  MPChat: 3719 (6.1%)
+  MSC: 2709 (4.4%)
+  PEC: 24237 (39.4%)
+  PER-CHAT: 24373 (39.7%)
+  PersonaChat: 1566 (2.5%)
+  SyntheticPersonaChat: 3112 (5.1%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 1749
+
+1. I am interested in Phrygia.
+   (ID: LX3CSQUSJ9B3_9)
+
+2. I am from Pennsylvania.
+   (ID: GHGLD29537QW_11)
+
+3. I love swimming in the sea in summer.
+   (ID: ZDIM8K78EM2D_11)
+
+4. I am interested in the figure of Edward Colston.
+   (ID: 7KD1MTP5A7ZD_11)
+
+5. I would like to visit Hungary.
+   (ID: W4CQPY8R6C4Q_11)
+
+6. My family is from Wales.
+   (ID: LJYX36WCRYDM_9)
+
+7. I would like to live in Palladian house.
+   (ID: QCGNF3BW4P3K_11)
+
+8. I find islands cool.
+   (ID: FXSLHPIIV91K_11)
+
+9. I am an architect.
+   (ID: 9IFEU12EAOWB_11)
+
+10. I like to live in the City of London.
+   (ID: XY9R2ORN3XBQ_7)
+
+11. I am from the United States.
+   (ID: STW2OR1N34AR_11)
+
+12. I don't like railroad in the vicinity of the city.
+   (ID: NK6WLDJ7W255_7)
+
+13. I like the Metro.
+   (ID: D0BKN1W8KWG6_7)
+
+14. I like living in a city.
+   (ID: STDMXJC7HTUG_11)
+
+15. I live in a Village.
+   (ID: W1ARCAV1RHTZ_11)
+
+16. I have studied about Catuvellauni in my subject.
+   (ID: XY9R2ORN3XBQ_7)
+
+17. I am writing a book about prison.
+   (ID: CZUJJI1HG1SZ_7)
+
+18. I would like to compete in a ski competition.
+   (ID: QTNNKQN2EVU5_11)
+
+19. I would like to camp at Đerdap national park.
+   (ID: HY8G2PNPA8VA_11)
+
+20. I am interested in public park.
+   (ID: UTGOZ64NRQCB_11)
+
+
+--- MPChat ---
+Total from this dataset: 3719
+
+1. rainbow elephant i made for a friend last year
+   (ID: KnitPurlPrint)
+
+2. i bought a kit on a whim while i was in china.
+   (ID: gxnelson)
+
+3. my 185 calorie dessert: frozen greek yogurt w/ pb2 & hershey chocolate syrup!
+   (ID: Metalocachick)
+
+4. my last finished object for this week is comfort bear no 3 for this year.
+   (ID: Moriarty58)
+
+5. welcome to disneyland california........i mean zion national park
+   (ID: tssouthwest)
+
+6. please i will die without cheese
+   (ID: MafHoney)
+
+7. first time doing basketweave, 3 layered vanilla birthday cake for my mother,
+   (ID: Lady_FriendOfSpiders)
+
+8. smashed double cheeseburgs for lunch i'm hungry
+   (ID: ambora)
+
+9. gizmo is such a fat happy puppy and i love him!
+   (ID: kentobean123)
+
+10. i baked my first loaf of challah this weekend.
+   (ID: Soliloquy119)
+
+11. smoked cheddar cheeseburgers i made for some friends.
+   (ID: ambora)
+
+12. i never get my fingernails done.
+   (ID: ReturnOfTheFox)
+
+13. i'm obsessed with this new cake decorating technique.
+   (ID: justcook_byangel)
+
+14. i crocheted a dinosaur blanket
+   (ID: FoxInKneeSocks)
+
+15. i'm trying to document my plants in stamp form
+   (ID: pocket_kira)
+
+16. taking way longer than i anticipated.
+   (ID: Chris55730)
+
+17. if eating chocolate sandwiches is wrong, i don't wanna be right.
+   (ID: RaeADropOfGoldenSun)
+
+18. my daughter's strawberry lemonade birthday cake with strawberry lemon macarons.
+   (ID: Soliloquy119)
+
+19. i wanted to share this for those who feel inadequate seeing the perfection you often get here.
+   (ID: ThePurpleBaker)
+
+20. prettier pics of the hamburger cupcakes i made for work :)
+   (ID: ddizzle23)
+
+
+--- MSC ---
+Total from this dataset: 2709
+
+1. I am busy working as a DJ. I DJ parties. I work a lot on the weekends.
+   (ID: dialog_85_speaker_1)
+
+2. I'm an american.
+   (ID: dialog_23_speaker_2)
+
+3. I ride the waves every chance I get.
+   (ID: dialog_16_speaker_1)
+
+4. Sometimes I can be quite lazy.
+   (ID: dialog_120_speaker_2)
+
+5. I work at a comic book store.
+   (ID: dialog_25_speaker_2)
+
+6. I was a reporter for a local newspaper before I retired.
+   (ID: dialog_115_speaker_1)
+
+7. I enjoy riding around on a plank with wheels.
+   (ID: dialog_94_speaker_1)
+
+8. I live in the suburbs in new jersey.
+   (ID: dialog_95_speaker_2)
+
+9. I love to visit thrift stores and find items from the late 1800s.
+   (ID: dialog_122_speaker_1)
+
+10. I've a family.
+   (ID: dialog_44_speaker_2)
+
+11. I think most scary monsters are serious.
+   (ID: dialog_54_speaker_2)
+
+12. I tell jokes on stage.
+   (ID: dialog_33_speaker_1)
+
+13. I know a lot about dogs. I like to practice singing alone. I would love a dog as company.
+   (ID: dialog_11_speaker_2)
+
+14. I love baseball. I am a die hard tigers fan.
+   (ID: dialog_93_speaker_2)
+
+15. I like rock music.
+   (ID: dialog_2_speaker_1)
+
+16. I love animals.
+   (ID: dialog_90_speaker_2)
+
+17. I like animals.
+   (ID: dialog_24_speaker_2)
+
+18. I'm from the midwest. I'm a college student. I'm a retired veteran.
+   (ID: dialog_89_speaker_2)
+
+19. I am married. I am pregnant with my first child and showing.
+   (ID: dialog_98_speaker_2)
+
+20. I like steak.
+   (ID: dialog_42_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 24237
+
+1. i was hoping for a worm - hole to another universe
+   (ID: Stan063)
+
+2. i ’m not sure you understand what you ’re talking about .
+   (ID: nate6051)
+
+3. i do n't have a dad
+   (ID: Darth_Waiter)
+
+4. i just told him you said that .
+   (ID: glowinthedark)
+
+5. i would buy this if it was on a gray shirt
+   (ID: sillylionface)
+
+6. i wipe and i wipe and i wipe and i wipe .
+   (ID: doctor_parcival)
+
+7. i always thought real leather was way too expensive to just put patches of it on random clothing .
+   (ID: AP7497)
+
+8. i have a few singles by the mctells in a box somewhere .
+   (ID: PeePeeCat)
+
+9. i had a boyfriend one time who had that .
+   (ID: Sabiola)
+
+10. i imagine someone working for the band .
+   (ID: notjawn)
+
+11. i also try to give genuine compliments as often as i can , but sometimes i ’m too shy !
+   (ID: lovestheautumn)
+
+12. i am from the usa .
+   (ID: HugePurpleNipples)
+
+13. i greg up with oot .
+   (ID: BoobieBoobieButtButt)
+
+14. i 'm just so speechless .
+   (ID: JacredCat)
+
+15. i 've been looking for a firefox extension to get rid of this annoying behavior .
+   (ID: jay456)
+
+16. i have never skipped before but have had my periods range from 20 - 30 day cycles each month .
+   (ID: justgirlypasta)
+
+17. i went there two weekends ago , such a beautiful and serene garden ! !
+   (ID: Justakiss15)
+
+18. i did nazi that coming .
+   (ID: Hypersapien)
+
+19. i wish this was true .
+   (ID: dohko_xar)
+
+20. i 'm at work .
+   (ID: mmaswadeh)
+
+
+--- PER-CHAT ---
+Total from this dataset: 24373
+
+1. what if i like feeding trolls ? you do need to eat to survive after all , i ' m just looking after you , dude .
+   (ID: c6b2000b95ec54c8393c3ab07cc2c5acd2563345)
+
+2. I live in rural area.
+   (ID: b136c35b12e5cf30c5001b25d88b97380f9209e3)
+
+3. aussie here . what part of the world do you live or originate ? i don ' t know of any aussie ' s eating roo . they may be out there but no one i know eats it .
+   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
+
+4. One of my favorite things is gardening.
+   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
+
+5. i feel a buzz in my pocket . i reach and pull it out and see an emergency alert across the screen . " emergency  lock all doors and stay inside . do not panic . " " panic ? " i wonder out loud , " why would i panic ? " just then i hear a knock at the front door . i walk over to it and peer through the blurry glass . it seems like my girlfriend sophie . " sophie ? why are you home ? " she stares back blankly . " shouldn ' t you be at work right now ? why don ' t you have your key ? " no response . i back away from the door just as her jaw opens like a snake and a dark forked tongue crashes through the window and nearly reaches me , three yards away . i turn and run to the bedroom closet . i pull out my grandfather ' s long double  barrelled shotgun and load it with buckshot . as i click the barrel back in place , a monster comes roaring through my hallway , now barely recognizable as sophie . her face is distorted , dark and cavernous and webbed tentacles flow out of her dress and pull her along both walls like an ooze . i fire both barrels in quick succession . the blast is powerful , and leaves my ears ringing badly . the monster is thrown back to the end of the hallway . the remnants of sophie ' s face were removed by the blast , revealing mottled gray reptilian skin . the impact of the buckshot was substantial , and covered the center and left side of the creature with green blood . within moments , however , the worst of the wounds begin to close and its yellow eyes snap open . i back away , ejecting the spent shells and fumbling for more from my shirt pocket . the creature ' s face opens into a wide , horrible grin . the tongue shoots out again , farther this time , and locks around my chest like a steel cable . it pulls me in while flying toward me like a smoke cloud . i am engulfed into the abyss of its mouth . i regain consciousness while walking in the middle of the street . i have no control over my body , and i notice other people walking nearby , although i can ' t turn my head to look at them . there are no cars on the road . i walk for miles , feeling no fatigue and keeping a steady pace . i arrive to a house and knock on a door . my mind is foggy and i feel numb , but i know this house . this is my parents house . i haven ' t written in a long time and i ' m rusty . nice prompt !
+   (ID: ba6d1d2cee95e9f30e06dc1584d5fa02e62221e8)
+
+6. it ' s a website , but honestly the stuff on there would make a good book .
+   (ID: eca32d278abf2524af02edbb3cc3041ed8b0b880)
+
+7. am i missing something here ? you love your boyfriend but hard hanging out alone in your room with a drunk guy who tried to kiss you . you stop him and clarify that this is a no go and you love your bf . perfect . but then you have him spoon with you all night as a comfort to you ? that makes no sense . but whatever . if it is eating you up inside and you really truly did not do anything , you should tell him . i mean why not  particularly since there is no longer contact with the mf .
+   (ID: 6f13975ce6a8747ec3d0e2207b9ef86d80a28713)
+
+8. that ' s just mambo jumbo to me .
+   (ID: 41b9459dbd87b475322566af693bf5fe2a47086d)
+
+9. One of my favorite things is gta.
+   (ID: 08da4119a215672a002df8147181afbb771a75f9)
+
+10. One of my favorite things is fortnite.
+   (ID: 1921dc07cd609c210cb71a0176afa3dfa4fa3772)
+
+11. I live in vermont.
+   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+
+12. i ' ve wondered about that , too . do you have to subscribe to each subreddit separately ?
+   (ID: 6fa65e005cc7ba05dc62c263af1ea289902ce6d1)
+
+13. try to get the point across with statements like , " i haven ' t had something as good as this is a while . " , see if a mutual dialogue opens ?
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+14. i  m very sorry for your loss . i get the sense that this picture sums up very well the kind of person he was . the kind of dad that all of us guys strive to be one day .
+   (ID: d12326d948c77fb593c0c928081304135cb79ed4)
+
+15. I am a female.
+   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
+
+16. sounds a lot like my story , honestly . your best bet is to talk to her about it . don ' t do what i did and hide it , it ' ll probably come back . digit divorces , digit years old , a ton of self esteem issues later and i ' m just starting the transition process now .
+   (ID: 7921460db376d8f318b71729dcd4931f12a1d0c9)
+
+17. I am a female.
+   (ID: 3adf883c491ca030d52ee22ed62e166c87ed0d5e)
+
+18. have you thought about stealing ? so you pay with their life ! evil laughgoblin
+   (ID: c787052a42459acc9cd2034c7531250ccd441795)
+
+19. I'm interested in accessories.
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+20. One of my favorite things is glass art.
+   (ID: 3319add5fded9e9b6e45fcb1340aaf52d39da50e)
+
+
+--- PersonaChat ---
+Total from this dataset: 1566
+
+1. i am a gourmet cook .
+   (ID: conversation_181)
+
+2. i larp on the weekends in the forest .
+   (ID: conversation_84)
+
+3. i am the leader of the french fry research department at del taco .
+   (ID: conversation_329)
+
+4. i like baths .
+   (ID: conversation_182)
+
+5. i work as a contractor for a cab company .
+   (ID: conversation_176)
+
+6. i'm a democrat .
+   (ID: conversation_331)
+
+7. i drive a prius .
+   (ID: conversation_68)
+
+8. i use to own 6 cats .
+   (ID: conversation_34)
+
+9. i'm going to school to get a degree now .
+   (ID: conversation_191)
+
+10. i love my girlfriend .
+   (ID: conversation_81)
+
+11. i can benchpress 345 pounds .
+   (ID: conversation_224)
+
+12. my favorite band used to be toto .
+   (ID: conversation_339)
+
+13. i cannot whistle .
+   (ID: conversation_308)
+
+14. i only eat organic food .
+   (ID: conversation_210)
+
+15. i like to hunt .
+   (ID: conversation_19)
+
+16. i like to exercise .
+   (ID: conversation_182)
+
+17. i collect bugs in jars .
+   (ID: conversation_113)
+
+18. i wear contacts .
+   (ID: conversation_3)
+
+19. i still live at home .
+   (ID: conversation_39)
+
+20. i love comic books .
+   (ID: conversation_119)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3112
+
+1. I want to visit the uk.
+   (ID: conversation_201_user_2)
+
+2. I am slightly overweight , but my doctors say i m healthy.
+   (ID: conversation_134_user_1)
+
+3. I live on a pig farm.
+   (ID: conversation_90_user_2)
+
+4. I like reading.
+   (ID: conversation_33_user_1)
+
+5. I love to do yoga.
+   (ID: conversation_242_user_2)
+
+6. Madonna is my all time favorite.
+   (ID: conversation_344_user_2)
+
+7. I travel often.
+   (ID: conversation_14_user_2)
+
+8. I work at an accounting firm.
+   (ID: conversation_229_user_1)
+
+9. I am a girl.
+   (ID: conversation_162_user_1)
+
+10. I love being in nature.
+   (ID: conversation_107_user_1)
+
+11. I like to play video games.
+   (ID: conversation_294_user_1)
+
+12. My weakness are sweets.
+   (ID: conversation_9_user_1)
+
+13. Starbucks is my favorite hang out spot.
+   (ID: conversation_268_user_1)
+
+14. My favorite color is purple.
+   (ID: conversation_104_user_2)
+
+15. I work at a power plant.
+   (ID: conversation_103_user_2)
+
+16. My parents were divorced.
+   (ID: conversation_222_user_1)
+
+17. I m funny.
+   (ID: conversation_20_user_1)
+
+18. I am a veteran.
+   (ID: conversation_53_user_2)
+
+19. I am a vegan.
+   (ID: conversation_213_user_1)
+
+20. I worked as a nurse for many years.
+   (ID: conversation_262_user_2)
+
+
+============================================================

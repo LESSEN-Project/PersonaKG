@@ -1,0 +1,398 @@
+CLUSTER 12
+============================================================
+Total statements in cluster: 1046
+
+Dataset distribution in this cluster:
+  FoCus: 6 (0.6%)
+  MPChat: 11 (1.1%)
+  MSC: 160 (15.3%)
+  PEC: 43 (4.1%)
+  PER-CHAT: 555 (53.1%)
+  PersonaChat: 67 (6.4%)
+  SyntheticPersonaChat: 204 (19.5%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 6
+
+1. I like Ballari Gudda.
+   (ID: UN54IACHSTX5_11)
+
+2. I am a wine connoisseur.
+   (ID: DIQU5A0EAGWM_11)
+
+3. I like making food.
+   (ID: NR67D1SY5ZKB_11)
+
+4. I love Italian food.
+   (ID: DIQU5A0EAGWM_11)
+
+5. I love soup.
+   (ID: 744H5J0MPE9C_9)
+
+6. I especially like eating hamburgers lying on the hill.
+   (ID: ZDIM8K78EM2D_11)
+
+
+--- MPChat ---
+Total from this dataset: 11
+
+1. fries...are my krytonite...
+   (ID: onemantwohands)
+
+2. i smoke brisket just to make sandwiches
+   (ID: MonstaEatsItAll)
+
+3. "i see you have hot dogs," she says.
+   (ID: mle12189)
+
+4. not all ramen, but i have a weakness for udon.
+   (ID: gxnelson)
+
+5. i'm in love with cream cheese icing :)
+   (ID: zenbuffy)
+
+6. my favorite raw fish - salmon - i can eat a whole plate of it....
+   (ID: onemantwohands)
+
+7. i love baking, i used to work in a bakery until it closed down last year.
+   (ID: Samantha199225)
+
+8. i am the master of both cheese and cake!
+   (ID: Snoodles1)
+
+9. needless to say i love cheese
+   (ID: MonstaEatsItAll)
+
+10. potatoes are one of my fav veggies - ribbon fries
+   (ID: onemantwohands)
+
+11. i love dipping food into sauces/gravy which is a big reason why i love indian food!
+   (ID: onemantwohands)
+
+
+--- MSC ---
+Total from this dataset: 160
+
+1. I am able to cook variety of foods at diner. I like to cook. I like dinner parties.
+   (ID: dialog_119_speaker_1)
+
+2. I love to cook. I like dinner parties. I like organic fruits and vegtables. I like Espresso. I can make French and German food.
+   (ID: dialog_119_speaker_2)
+
+3. Pepperoni is my favorite topping.
+   (ID: dialog_23_speaker_1)
+
+4. I take cooking classes at the home I live in.
+   (ID: dialog_44_speaker_1)
+
+5. I like junk food. Meat and pizza are my favorite.
+   (ID: dialog_25_speaker_1)
+
+6. I am a really good cook.
+   (ID: dialog_105_speaker_2)
+
+7. Lasagna is my favorite food.
+   (ID: dialog_90_speaker_1)
+
+8. I enjoy making food.
+   (ID: dialog_107_speaker_2)
+
+9. All food is enjoyable to me.
+   (ID: dialog_25_speaker_1)
+
+10. I like sweets and dessert.
+   (ID: dialog_84_speaker_1)
+
+11. I like to cook. I like dinner parties. I'm planning a themed dinner party with Speaker 2.
+   (ID: dialog_119_speaker_1)
+
+12. I like to bake.
+   (ID: dialog_50_speaker_1)
+
+13. I love gummy worms.
+   (ID: dialog_25_speaker_2)
+
+14. I like to eat shrimp.
+   (ID: dialog_105_speaker_1)
+
+15. I like italian cuisine best.
+   (ID: dialog_99_speaker_1)
+
+16. I like to make cookies.
+   (ID: dialog_44_speaker_1)
+
+17. I grew up on a ranch. My favorite thing to eat is burgers.
+   (ID: dialog_99_speaker_2)
+
+18. I love cooking and I'm good at cooking.
+   (ID: dialog_107_speaker_2)
+
+19. I like trying new cuisines and going to restaurants with friends who know what to order.
+   (ID: dialog_100_speaker_1)
+
+20. I really enjoy snack foods.
+   (ID: dialog_15_speaker_2)
+
+
+--- PEC ---
+Total from this dataset: 43
+
+1. i just prefer the taste of king )
+   (ID: Nimmyzed)
+
+2. i like taco bell .
+   (ID: bbrandann)
+
+3. i like lay 's potato chips
+   (ID: deputydan_scubaman)
+
+4. i 'll check out butchers lab .
+   (ID: juliacakes)
+
+5. i love vegetables .
+   (ID: AP7497)
+
+6. i enjoy chips n ice cream too lol
+   (ID: Noimnotsally)
+
+7. i love cheese .
+   (ID: WeirdAvocado)
+
+8. i love me some dr pepper .
+   (ID: JaZepi)
+
+9. i live crunch wraps .
+   (ID: KikAtWorkFL)
+
+10. i love cookies .
+   (ID: cookiexcmonster)
+
+11. i like pink panther , cherry 5 , and grape juice !
+   (ID: bugaloo2u2)
+
+12. i prefer oatmeal .
+   (ID: sircucumbers)
+
+13. i like chuck e. cheese
+   (ID: bummang)
+
+14. i love chunky carrots .
+   (ID: sillylionface)
+
+15. i do love some fruit .
+   (ID: mbw1960)
+
+16. i wish i loved anything else as much as i love my sinuses draining
+   (ID: doctor_parcival)
+
+17. i love msg .
+   (ID: harumpf)
+
+18. i would be happy to make recipes and photograph them .
+   (ID: mylescloutier)
+
+19. i like oranges and apples at room temp .
+   (ID: mbw1960)
+
+20. i always did like a good human spaghetti
+   (ID: sircucumbers)
+
+
+--- PER-CHAT ---
+Total from this dataset: 555
+
+1. One of my favorite things is chamomile.
+   (ID: cbba33bde970dd57ea65378793409285d5501f7d)
+
+2. One of my favorite things is bell peppers.
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
+
+3. One of my favorite things is mushrooms.
+   (ID: b721d508c3e10f143c9836626787b26136faa266)
+
+4. One of my favorite things is coffee.
+   (ID: 6fa64e2a9482c3b6f542e4f8f6ab0e5076d808e9)
+
+5. One of my favorite things is pizza.
+   (ID: 4beccb79954eaf4ba6b69b6ac31b148b48f4f579)
+
+6. One of my favorite things is bbq.
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+7. One of my favorite things is chipotle more.
+   (ID: 837b9a4e21703cdb7da723a44b91b0582031c386)
+
+8. One of my favorite things is healthy choice meals.
+   (ID: b40d1d3ae1e77bcbdcb98e62deea24396d4b4d40)
+
+9. One of my favorite things is vanilla.
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+10. One of my favorite things is scotch.
+   (ID: b5153b16e61f6bc5e4bf4d8db479b7093df1ae26)
+
+11. One of my favorite things is vega.
+   (ID: f39e591889b6331bd255039773030c1b50c7e201)
+
+12. One of my favorite things is limes.
+   (ID: 718ff22055f41bd70e24ec98f0898a1526112965)
+
+13. One of my favorite things is chocolate mousse.
+   (ID: 40ad6d409c1f0888bdb3dbd8d7bab47d00f3a6f0)
+
+14. One of my favorite things is garlic bread.
+   (ID: 4eddf833981a5600b4abc53d564950e97ee755c4)
+
+15. One of my favorite things is weed.
+   (ID: 44477e54e9e15675b9ad5c3be02b0440724c674b)
+
+16. One of my favorite things is tacos.
+   (ID: f031a6829326f9097d63f90ad77c7cac6d8319bb)
+
+17. One of my favorite things is chili dogs.
+   (ID: 1d39daed654c59dbe2076d0171bf5d18da510d72)
+
+18. One of my favorite things is iced tea.
+   (ID: 6f13975ce6a8747ec3d0e2207b9ef86d80a28713)
+
+19. One of my favorite things is pain.
+   (ID: 2807a3ccd9923500b4054e9b094634bbd571e6ea)
+
+20. One of my favorite things is mash.
+   (ID: 8e9d9ac876fd2e0508d95d3e43def46faae3c312)
+
+
+--- PersonaChat ---
+Total from this dataset: 67
+
+1. i like to eat .
+   (ID: conversation_288)
+
+2. i like to make cakes .
+   (ID: conversation_348)
+
+3. my favorite food is cheese .
+   (ID: conversation_28)
+
+4. i like to cook .
+   (ID: conversation_17)
+
+5. my favorite food is pizza .
+   (ID: conversation_218)
+
+6. i love hamburgers .
+   (ID: conversation_244)
+
+7. i love to cook for my family and friends .
+   (ID: conversation_41)
+
+8. i love cooking .
+   (ID: conversation_107)
+
+9. my favorite food is popcorn .
+   (ID: conversation_15)
+
+10. i love gummy bears .
+   (ID: conversation_307)
+
+11. my favorite food is meatloaf .
+   (ID: conversation_339)
+
+12. i like eating vegetables .
+   (ID: conversation_247)
+
+13. i like to make bagels .
+   (ID: conversation_335)
+
+14. my favorite pizza is pepperoni .
+   (ID: conversation_206)
+
+15. i love to eat pita bread with hummus .
+   (ID: conversation_277)
+
+16. i love chocolate milk shakes .
+   (ID: conversation_29)
+
+17. my favorite food is sushi .
+   (ID: conversation_134)
+
+18. i love to cook .
+   (ID: conversation_46)
+
+19. my favorite food is jello .
+   (ID: conversation_308)
+
+20. i like to make my own coffee .
+   (ID: conversation_234)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 204
+
+1. I like candy and soda.
+   (ID: conversation_33_user_2)
+
+2. I enjoy eating italian food.
+   (ID: conversation_161_user_2)
+
+3. My favorite food is pizza.
+   (ID: conversation_336_user_2)
+
+4. My favorite fruit is apple.
+   (ID: conversation_277_user_1)
+
+5. I like sprite soda.
+   (ID: conversation_54_user_1)
+
+6. I love sushi.
+   (ID: conversation_143_user_1)
+
+7. I cook well.
+   (ID: conversation_106_user_1)
+
+8. I love pasta.
+   (ID: conversation_310_user_1)
+
+9. I love candy.
+   (ID: conversation_323_user_1)
+
+10. I like sprite soda.
+   (ID: conversation_55_user_1)
+
+11. Pizza is my favorite.
+   (ID: conversation_161_user_2)
+
+12. I like burritos.
+   (ID: conversation_314_user_1)
+
+13. I make my own compost.
+   (ID: conversation_153_user_2)
+
+14. I love food.
+   (ID: conversation_151_user_1)
+
+15. I love to eat sushi and pizza.
+   (ID: conversation_316_user_2)
+
+16. I am a chef.
+   (ID: conversation_72_user_1)
+
+17. I like fruit.
+   (ID: conversation_277_user_1)
+
+18. I like ice cream.
+   (ID: conversation_233_user_1)
+
+19. I like pizza.
+   (ID: conversation_285_user_1)
+
+20. My favorite food is spaghetti and meatballs.
+   (ID: conversation_102_user_2)
+
+
+============================================================

@@ -1,0 +1,467 @@
+CLUSTER 0
+============================================================
+Total statements in cluster: 83982
+
+Dataset distribution in this cluster:
+  FoCus: 2448 (2.9%)
+  MPChat: 5005 (6.0%)
+  MSC: 3800 (4.5%)
+  PEC: 32633 (38.9%)
+  PER-CHAT: 33542 (39.9%)
+  PersonaChat: 2193 (2.6%)
+  SyntheticPersonaChat: 4361 (5.2%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 2448
+
+1. I have visited the Guindy National Park.
+   (ID: V3LNPA1FT8D2_11)
+
+2. I wouldn't like to work at a factory.
+   (ID: IS9KP8O0CE1M_11)
+
+3. I work for the National Register of Historic Places.
+   (ID: EZGYRI0YA8OX_9)
+
+4. I don't like German Democratic Republic.
+   (ID: 9A5KQW7ZJ9KZ_11)
+
+5. I have never been to India.
+   (ID: QK9TQHXYFFJ9_11)
+
+6. I've never been to Provence.
+   (ID: EGOP94LCW2PF_11)
+
+7. I am interested in architecture.
+   (ID: DJ4IA2ZGTGQW_11)
+
+8. I like tigers.
+   (ID: ATXXTPOD4WEI_11)
+
+9. I would like to see a prison cell.
+   (ID: CZUJJI1HG1SZ_7)
+
+10. I like Lego.
+   (ID: 7IBCPXY2UPQA_11)
+
+11. I like stained glass.
+   (ID: TDUTQ7NCYJ1S_11)
+
+12. I have visited Ohio.
+   (ID: PKTFMWPHB1E3_11)
+
+13. I hope to learn more about the coal mining industry.
+   (ID: QC5LXWBDY6EM_11)
+
+14. I love learning about the history of old buildings.
+   (ID: OJHFTQNCCCGP_11)
+
+15. I love looking a coral.
+   (ID: OI93ZLZKWF52_7)
+
+16. I love Frank Burnett Collection.
+   (ID: ZD5K4FX3JUXP_11)
+
+17. I like visiting historic places.
+   (ID: XCOBCMEHB8IV_11)
+
+18. I am willing to follow Harry Hawthorn.
+   (ID: ZD5K4FX3JUXP_11)
+
+19. I would like to go to India.
+   (ID: WKS47SP8CYLV_11)
+
+20. I would like to visit Cuba.
+   (ID: DSVUVNI5ADO5_11)
+
+
+--- MPChat ---
+Total from this dataset: 5005
+
+1. my boyfriend refuses to learn how to use our coffee machine.
+   (ID: av929)
+
+2. i think he thinks he's hidden under that leaf
+   (ID: zonumnire)
+
+3. i made some fall-inspired black cat stickers (pocky, psl, and moon)!
+   (ID: nickeymousee)
+
+4. i've been baking this loaf all day, pretty proud of how it turned out!
+   (ID: thumbsmagoo)
+
+5. i may be blind now.
+   (ID: Sophie74656)
+
+6. my attempt at acid wash/distressed/however you want to call them nails.
+   (ID: hottiecakes)
+
+7. throwback to when i found this unit of a white chanterelle back in october.
+   (ID: sundstrom193)
+
+8. i could achieve smoother foam with other milks but this brand specifically is harder.
+   (ID: Soggypaper_)
+
+9. this was my very first fondant covered cake
+   (ID: SugarHighBakedGoods)
+
+10. did my nails got the fourth today!
+   (ID: shehulk91)
+
+11. watercolor cake i did for a customer!
+   (ID: tremelir)
+
+12. not the best picture but just finished a virus meets granny shawl for my future mother in law for christmas
+   (ID: Sophie74656)
+
+13. picked up a bunch of stuff tonight but here is my best pick for $6
+   (ID: LiftingNurse)
+
+14. so i made a hat instead.
+   (ID: ablubberducky)
+
+15. i need to split up my tulips.
+   (ID: arrowheadfibers)
+
+16. even my non-vegan, picky eater daughter called it amazing.
+   (ID: ReturnOfTheFox)
+
+17. my mom's mothers day gift, still need to make her a matching shawl
+   (ID: Winter246)
+
+18. [fo] i finished my magnets in time!
+   (ID: gxnelson)
+
+19. i guess i've never seen this word used in its original context.
+   (ID: snaps_pro)
+
+20. i have more expensive pens but i don't have nicer ones.
+   (ID: mattsulli)
+
+
+--- MSC ---
+Total from this dataset: 3800
+
+1. I like reading.
+   (ID: dialog_5_speaker_1)
+
+2. I am a polyglot.
+   (ID: dialog_168_speaker_1)
+
+3. I still have a flip phone.
+   (ID: dialog_39_speaker_1)
+
+4. I am a computer programmer. I make over 200k/year.
+   (ID: dialog_124_speaker_1)
+
+5. I'm thrifty with my spending.
+   (ID: dialog_131_speaker_1)
+
+6. I live with my parents. My father has Covid-19, but he is getting better.
+   (ID: dialog_77_speaker_1)
+
+7. I like the YouTubers Idubbbz and Ice Poseidon.
+   (ID: dialog_150_speaker_2)
+
+8. I did not finish college.
+   (ID: dialog_33_speaker_2)
+
+9. I like quality tools for work.
+   (ID: dialog_79_speaker_2)
+
+10. I don't have many friends. I am looking for new friends
+   (ID: dialog_88_speaker_1)
+
+11. I love shoes.
+   (ID: dialog_38_speaker_2)
+
+12. I am guilty alot of times.
+   (ID: dialog_92_speaker_1)
+
+13. I don't like vegetables.
+   (ID: dialog_116_speaker_2)
+
+14. I love foreign vehicles.
+   (ID: dialog_28_speaker_1)
+
+15. I am spending my life with my favorite person.
+   (ID: dialog_34_speaker_2)
+
+16. I'm not a fan of soy products.
+   (ID: dialog_30_speaker_2)
+
+17. I like to race cars. I have a race car track. I have never raced a driverless car.
+   (ID: dialog_124_speaker_2)
+
+18. I'm a fan of Real Madrid.
+   (ID: dialog_171_speaker_1)
+
+19. I like to gamble.
+   (ID: dialog_173_speaker_1)
+
+20. I live in New York City.
+   (ID: dialog_89_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 32633
+
+1. i have a couple of calvin and hobbes books but i am now feeling compelled to buy this set !
+   (ID: SerendipitousCat)
+
+2. i really regret not watching it live
+   (ID: LabeledAsALunatic)
+
+3. i miss fatigues .
+   (ID: USAFIDMT)
+
+4. i 'd say there is no color here , making the whole thing look kinda drab :(
+   (ID: napalmkitten)
+
+5. i have n't .
+   (ID: BabblingBunny)
+
+6. i find setting my 4k samsung to pc make it look great !
+   (ID: JohnnyPappis)
+
+7. i just ordered my first 144hz monitor i hope i ’m ready for the glory .
+   (ID: YouDirtyDogg)
+
+8. i inventor would then die in a mysterious plane crash .
+   (ID: mylescloutier)
+
+9. i just want more matt mcconaughey lincoln commercials
+   (ID: thebastion)
+
+10. i think there ’s a story behind that rat as well but ca n’t remember it
+   (ID: DinoButtsy)
+
+11. i ’ve only really encountered hdmi , and the 2015 pro had a full size hdmi port .
+   (ID: BorgDrone)
+
+12. i think you have a low - key cool / punk rock vibe .
+   (ID: ListenandLove100)
+
+13. i do nt want to be paid , but i 'm in arizona , usa .
+   (ID: mdk15)
+
+14. i read the article and i see racism .
+   (ID: ifatree)
+
+15. i 'm holding out hope that some things might come true !
+   (ID: sourpatchkidj)
+
+16. i have one too in the same color even .
+   (ID: thebastion)
+
+17. i 'm still so in love with you after all of this time .
+   (ID: amandahm4916)
+
+18. i just made the post in winter then realized nobody can see the roadways
+   (ID: SYDWAD)
+
+19. i hope you do n't mind but i made this picture my phone wallpaper bc it 's so cute .
+   (ID: Theturtlefiend)
+
+20. i freaked out !
+   (ID: iam1r7)
+
+
+--- PER-CHAT ---
+Total from this dataset: 33542
+
+1. I am a male.
+   (ID: e0420899ce262e6eda9d0771cc722037c8f327b8)
+
+2. ? uue ?  yi  ? uue ? ps
+   (ID: a90f01f580b7cc08038958d5c1f659fd492b1f2c)
+
+3. One of my favorite things is winter.
+   (ID: 661cbd631caa9db4ab702976879371243802e35e)
+
+4. I have a mother in my family.
+   (ID: 1634046145226dc01b1fa030132efd0574c38352)
+
+5. One of my favorite things is factorio.
+   (ID: ae523af408f5ede28b0592f69a7488ab41bb519a)
+
+6. big if true .
+   (ID: bd40d7bc2310ec67eb22f820945fdb7d0f6a2550)
+
+7. I live in relatives.
+   (ID: b85d09c5bfb3611a720f11287b9483cc0802908d)
+
+8. I have a dog as a pet.
+   (ID: 1dba5a99fe582b0f335d63ef3d25fee74ce4dd18)
+
+9. yes ! like anyone else on the planet i  d be like , ok , whatever . no big deal . but my nmom is a whole other story .
+   (ID: 2997447dd39ca55e621bf2769e5d42b81622d35d)
+
+10. I'm interested in lgbt.
+   (ID: 8cdbf7ed2ace2eeed8bd2b0e2e86001342f83a1f)
+
+11. I am a male.
+   (ID: 9a13b21f54717da1499379b5cb0e991e82d4c90f)
+
+12. mate is very popular in chile , and it ' s getting more popular in the states . in seattle you can get yerba minus the actual mate just like you can tea at coffee shops , you can even get a latte version . not sure if they put milk in it in uruguay , but in chile it is popular to drink with lots of sugar and milk .
+   (ID: 650ba9cdaca39ad1c1fe5e6348b11afb4d8e7a0f)
+
+13. thanks ! yeah , i ' ll admit they can be useful , i just never memorized which enemies are weaker to them . i should probably do that .
+   (ID: e09cddf2452184c83537d2d4e8a36f0ba7c3fae9)
+
+14. One of my favorite things is jade rabbit.
+   (ID: f8a8648f114c1dd8984a809bd49816978d9970c0)
+
+15. i mean , how do you feel about it op ? also , she didn ' t say i was ugly , but that may be because i was a paying customer .
+   (ID: 7c444bdb5e40b14c80aedd1bf794f5902bb7133e)
+
+16. I have a girlfriend.
+   (ID: 597db748e9e223db2b7d3a7e2d79893e3cc7cd0a)
+
+17. I live in Los Angeles.
+   (ID: 1dba5a99fe582b0f335d63ef3d25fee74ce4dd18)
+
+18. One of my favorite things is hip hop.
+   (ID: ba841e2486d1df5b5baefde5ead0636c7c03c79c)
+
+19. are you truly transgender or is this just trying to find another option ? sounds to me like you tried to get the ladies , couldn ' t , now you ' re seeing if you can find fulfillment in men .
+   (ID: ab9a3fa39c7ebd1066697c2d7027afe2422d5ac7)
+
+20. the dire wolves have been in the show since the start but i never really felt like they were all that big and scary , i love how this scene really shows that off , however it was the end of that . ps  she could have easily rod the wolf over the horse .
+   (ID: b5faabfabaf04e645cf54c0d84e18989944a6d4c)
+
+
+--- PersonaChat ---
+Total from this dataset: 2193
+
+1. i like basketball .
+   (ID: conversation_8)
+
+2. i like to cook .
+   (ID: conversation_239)
+
+3. my mom is a janitor .
+   (ID: conversation_358)
+
+4. i love pandas .
+   (ID: conversation_88)
+
+5. i use to own 6 cats .
+   (ID: conversation_34)
+
+6. i have several children .
+   (ID: conversation_233)
+
+7. i love to hike .
+   (ID: conversation_83)
+
+8. i enjoy watching videos on youtube .
+   (ID: conversation_174)
+
+9. i am married .
+   (ID: conversation_250)
+
+10. my car broke down last week .
+   (ID: conversation_349)
+
+11. my favorite color is red .
+   (ID: conversation_490)
+
+12. i like visiting art museums in my spare time .
+   (ID: conversation_367)
+
+13. i enjoy horseback riding .
+   (ID: conversation_248)
+
+14. i couldn t live without my cell phone .
+   (ID: conversation_49)
+
+15. i am still in love with my ex boyfriend .
+   (ID: conversation_41)
+
+16. my mom teaches kindergarten and my dad is a tax assessor .
+   (ID: conversation_79)
+
+17. i love to sing .
+   (ID: conversation_10)
+
+18. i like to draw .
+   (ID: conversation_325)
+
+19. i live in a house in california .
+   (ID: conversation_160)
+
+20. zebras are my favorite animals .
+   (ID: conversation_94)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4361
+
+1. I played football in high school.
+   (ID: conversation_384_user_1)
+
+2. I used to work as an actress.
+   (ID: conversation_216_user_1)
+
+3. I love to paint pictures.
+   (ID: conversation_155_user_1)
+
+4. I make 50k a year.
+   (ID: conversation_408_user_2)
+
+5. I work part time at aldi s.
+   (ID: conversation_43_user_2)
+
+6. I like to build furniture.
+   (ID: conversation_216_user_2)
+
+7. I spend my weekends browsing antique stores.
+   (ID: conversation_497_user_2)
+
+8. I am blonde.
+   (ID: conversation_364_user_2)
+
+9. I am recently divorced.
+   (ID: conversation_420_user_1)
+
+10. My favorite flower is a rose.
+   (ID: conversation_217_user_1)
+
+11. I like to go for bike rides.
+   (ID: conversation_280_user_1)
+
+12. I love to dance.
+   (ID: conversation_466_user_1)
+
+13. My favorite color is orange.
+   (ID: conversation_199_user_1)
+
+14. I used to be a lawyer.
+   (ID: conversation_452_user_2)
+
+15. Pizza is my favorite food.
+   (ID: conversation_331_user_2)
+
+16. I am a foodie.
+   (ID: conversation_364_user_1)
+
+17. I love sushi.
+   (ID: conversation_78_user_1)
+
+18. I am afraid of rejection from my parents.
+   (ID: conversation_227_user_2)
+
+19. When i am not touring with the band , i like to garden.
+   (ID: conversation_221_user_2)
+
+20. I read a lot of used books.
+   (ID: conversation_116_user_1)
+
+
+============================================================

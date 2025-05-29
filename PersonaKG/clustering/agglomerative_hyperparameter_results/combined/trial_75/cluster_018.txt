@@ -1,0 +1,402 @@
+CLUSTER 18
+============================================================
+Total statements in cluster: 1551
+
+Dataset distribution in this cluster:
+  FoCus: 34 (2.2%)
+  MSC: 59 (3.8%)
+  PEC: 71 (4.6%)
+  PER-CHAT: 1266 (81.6%)
+  PersonaChat: 46 (3.0%)
+  SyntheticPersonaChat: 75 (4.8%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- FoCus ---
+Total from this dataset: 34
+
+1. I live in Canada.
+   (ID: INVNLHZVN3VM_9)
+
+2. I am on vacation in Canada.
+   (ID: UXR4EKSRCULN_11)
+
+3. I live in England.
+   (ID: AOQJE7BBYFVM_11)
+
+4. I live in India.
+   (ID: ASEVTIZW4Z03_11)
+
+5. I live in New Jersey.
+   (ID: HK4CNKBL5R5V_11)
+
+6. I am staying in a municipality.
+   (ID: ATJSFYS2K6FK_11)
+
+7. I am traveling in Egypt.
+   (ID: WBJ9XM2CIE43_9)
+
+8. I live in the United States.
+   (ID: 82ZP2M9AL6U0_11)
+
+9. I live in Roskilde.
+   (ID: 8065KWB9BLWJ_11)
+
+10. I live in a house.
+   (ID: 6JXMJ0KGXDGI_11)
+
+11. I am Mississippi on business.
+   (ID: AGVUC45C9W9X_7)
+
+12. I live in Kentucky.
+   (ID: T9680U7NZ97F_11)
+
+13. I don't have a wall or fence in my yard.
+   (ID: CBOI96AOZRK6_11)
+
+14. I live in New York City.
+   (ID: O2J7AJP3JLY3_11)
+
+15. I am in the United Kingdom for work.
+   (ID: VUU19OURBLRK_11)
+
+16. I live in Savannah.
+   (ID: C7RS7BTZIF1Q_11)
+
+17. I live in Queensland.
+   (ID: XXWV8BD5AL9Z_11)
+
+18. I own a house.
+   (ID: C7RS7BTZIF1Q_11)
+
+19. I live in London.
+   (ID: DSK4ZP7S862W_11)
+
+20. I live in Sonoma County.
+   (ID: EZGYRI0YA8OX_9)
+
+
+--- MSC ---
+Total from this dataset: 59
+
+1. I am currently renting an apartment.
+   (ID: dialog_115_speaker_1)
+
+2. I live in Seattle.
+   (ID: dialog_38_speaker_1)
+
+3. I've a disability.
+   (ID: dialog_34_speaker_2)
+
+4. I live in a rural area.
+   (ID: dialog_95_speaker_1)
+
+5. I mostly stay in my condo.
+   (ID: dialog_115_speaker_1)
+
+6. I live in New York City.
+   (ID: dialog_89_speaker_1)
+
+7. I have no money or friends.
+   (ID: dialog_32_speaker_2)
+
+8. I live in Alaska.
+   (ID: dialog_34_speaker_2)
+
+9. I am an urban dweller.
+   (ID: dialog_81_speaker_2)
+
+10. I live in Nashville.
+   (ID: dialog_117_speaker_2)
+
+11. I live in California. I have been in New Orleans once.
+   (ID: dialog_58_speaker_2)
+
+12. I reside in manhattan.
+   (ID: dialog_121_speaker_1)
+
+13. I live in Charlotte, NC.
+   (ID: dialog_50_speaker_2)
+
+14. I live in a stand alone.
+   (ID: dialog_97_speaker_2)
+
+15. I'm in nyc.
+   (ID: dialog_7_speaker_1)
+
+16. I live on an island in Hawaii.
+   (ID: dialog_27_speaker_2)
+
+17. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+18. I live by the ocean.
+   (ID: dialog_69_speaker_2)
+
+19. I live in a stand alone.
+   (ID: dialog_118_speaker_2)
+
+20. I live in the state by colorado.
+   (ID: dialog_10_speaker_1)
+
+
+--- PEC ---
+Total from this dataset: 71
+
+1. i am too broke .
+   (ID: IgnoranceIsAVirus)
+
+2. i 'm not from the us , so i ca n't do this myself .
+   (ID: dohko_xar)
+
+3. i can get 250mbps in saskatchewan already .
+   (ID: JaZepi)
+
+4. i live in a 3rd world country . )
+   (ID: beautifulw0man)
+
+5. i am not in europe
+   (ID: Aloha-Potato)
+
+6. i guess it must depend on where you are based - i 'm in sydney , aus .
+   (ID: DarkMoon99)
+
+7. i 'm sooo poor .
+   (ID: CarlofTime)
+
+8. i ’m in the us :(
+   (ID: themarajade1)
+
+9. i have to pay for it ? "
+   (ID: ChoppingOnionsForYou)
+
+10. i live at 10,000 feet currently .
+   (ID: buttercup_mauler)
+
+11. i keep trying to call samaritans but never know what to say
+   (ID: helensis_)
+
+12. i love convertibles but i 'm in illinois .
+   (ID: AgedTwenties)
+
+13. i am in the southeast .
+   (ID: deputydan_scubaman)
+
+14. i just recently moved to la county .
+   (ID: Lifes6Midnight)
+
+15. i live in europe .
+   (ID: BorgDrone)
+
+16. i live in ohio !
+   (ID: GetItTogether)
+
+17. i live in colorado .
+   (ID: Piraticalstyle)
+
+18. i live in nyc .
+   (ID: juls2587)
+
+19. i live in mn .
+   (ID: dkinmn)
+
+20. i live in sa right now .
+   (ID: SamuelStephenBono)
+
+
+--- PER-CHAT ---
+Total from this dataset: 1266
+
+1. I live in michigan.
+   (ID: 114e3678c6af9d322985bb4656e33b19c03a0479)
+
+2. I live in diana.
+   (ID: b650c9c531ec58d468c7c1fc9b7083efc4cbca9c)
+
+3. I live in big city.
+   (ID: 87dcb06b0e31b35730fe93ce7dcbef85e6078b40)
+
+4. I live in mnesota usa.
+   (ID: e7516540d2045135f43a4a7c61f0bd88856c8ff4)
+
+5. I live in Nyc.
+   (ID: eb338cca8f5e87e4b6e5d369997ab6dbebf241c5)
+
+6. I live in year.
+   (ID: 467dbed573790a54a921a28f66e0e68f81106906)
+
+7. I live in middle.
+   (ID: 7c3eb339580d281fcb54cb04dbb55f6921fceec5)
+
+8. I live in townhomeas.
+   (ID: cfabcbc785db80706dcc28a81eb7851d8c7bd3ce)
+
+9. I live in florida.
+   (ID: 2904e4959568457dd43970d8388e42064d7c7d34)
+
+10. I live in chicago.
+   (ID: 29b9b56e163cbfecbc98e83c436b436aca056a8c)
+
+11. I live in florida.
+   (ID: 238107f17ccd21a5cb87efbd00d55a861389ba26)
+
+12. I live in ontario.
+   (ID: a4eb94a9fe8ebabb780c319cc7d3f552eb79625e)
+
+13. I live in chicago.
+   (ID: 30506e41c4121e1e7573a25d4985de191de679c9)
+
+14. I live in south sacramento.
+   (ID: 23b74d30984aae116954fc82863fe4bd913ba329)
+
+15. I live in india.
+   (ID: 4167b7bc7d40ac86ca6b492ac0bbaefa992711f6)
+
+16. I live in better country.
+   (ID: 2c57168b7d6f49d0d294e3bae527d905f61675ba)
+
+17. I live in new orleans.
+   (ID: 3e1762624e55cdfb0929da3e1a1c438675e0c217)
+
+18. I live in vancouver.
+   (ID: f8f6a1dd8b47dc3239c55ec87aa3bbd108a04a43)
+
+19. I live in northern canada.
+   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
+
+20. I live in istanbul.
+   (ID: 455d2820736b8e82503d5eeacd6d1a8fa4682a68)
+
+
+--- PersonaChat ---
+Total from this dataset: 46
+
+1. i live in vermont .
+   (ID: conversation_83)
+
+2. i live in nashville .
+   (ID: conversation_117)
+
+3. i'm disabled and cannot walk .
+   (ID: conversation_322)
+
+4. i live in the usa .
+   (ID: conversation_23)
+
+5. i'm disabled and cannot walk .
+   (ID: conversation_183)
+
+6. i own my home .
+   (ID: conversation_276)
+
+7. i live in a house .
+   (ID: conversation_97)
+
+8. i live in las vegas , nevada .
+   (ID: conversation_314)
+
+9. i live in chicago .
+   (ID: conversation_211)
+
+10. i live in a house in california .
+   (ID: conversation_160)
+
+11. i live with my best friend .
+   (ID: conversation_177)
+
+12. i live in new york .
+   (ID: conversation_170)
+
+13. i do the shopping in my house .
+   (ID: conversation_137)
+
+14. i own my home .
+   (ID: conversation_52)
+
+15. i am single and live alone .
+   (ID: conversation_271)
+
+16. i live alone .
+   (ID: conversation_33)
+
+17. i live in a small city .
+   (ID: conversation_239)
+
+18. i live in a house .
+   (ID: conversation_118)
+
+19. i live on the third floor in an apartment .
+   (ID: conversation_268)
+
+20. i live alone .
+   (ID: conversation_136)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 75
+
+1. I live in colorado.
+   (ID: conversation_145_user_2)
+
+2. I live in a big city.
+   (ID: conversation_294_user_2)
+
+3. I live in rural wisconsin.
+   (ID: conversation_296_user_2)
+
+4. I live walking distance from work.
+   (ID: conversation_12_user_2)
+
+5. I live alone.
+   (ID: conversation_295_user_1)
+
+6. I live near the ocean.
+   (ID: conversation_288_user_2)
+
+7. I live in the suburbs of a major city.
+   (ID: conversation_26_user_2)
+
+8. I live alone.
+   (ID: conversation_289_user_1)
+
+9. I live in a retirement home.
+   (ID: conversation_193_user_2)
+
+10. I live alone in a cabin.
+   (ID: conversation_330_user_1)
+
+11. I live in colorado.
+   (ID: conversation_236_user_1)
+
+12. I live in california.
+   (ID: conversation_115_user_2)
+
+13. I live in vermont.
+   (ID: conversation_20_user_2)
+
+14. I live alone in my condo.
+   (ID: conversation_39_user_2)
+
+15. I own my home.
+   (ID: conversation_145_user_2)
+
+16. I live alone.
+   (ID: conversation_290_user_1)
+
+17. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+18. I rent an apartment.
+   (ID: conversation_12_user_2)
+
+19. We live in a rural area.
+   (ID: conversation_57_user_2)
+
+20. I live with a roommate.
+   (ID: conversation_80_user_2)
+
+
+============================================================

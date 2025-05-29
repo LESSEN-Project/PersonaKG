@@ -1,0 +1,111 @@
+CLUSTER 21
+============================================================
+Total statements in cluster: 723
+
+Dataset distribution in this cluster:
+  MSC: 1 (0.1%)
+  PER-CHAT: 715 (98.9%)
+  SyntheticPersonaChat: 7 (1.0%)
+
+============================================================
+
+SAMPLE STATEMENTS FROM EACH DATASET:
+
+
+--- MSC ---
+Total from this dataset: 1
+
+1. I'm a male.
+   (ID: dialog_42_speaker_2)
+
+
+--- PER-CHAT ---
+Total from this dataset: 715
+
+1. I am a male.
+   (ID: c391065478603a686531cbdd50568136a5e14508)
+
+2. I am a male.
+   (ID: d239102bc184479462fc1422e316856d8bca37ba)
+
+3. I am a male.
+   (ID: dc000fb877b86a0bbd3d65fe6040b512b4f5b042)
+
+4. I am a male.
+   (ID: c1d25617a1246516c7145552a8766d09f4816240)
+
+5. I am a male.
+   (ID: fdefb1d7a8df147e0b4b08e717b4c6db2b3a28f1)
+
+6. I am a male.
+   (ID: aaee7c28c6f1f83a427cf3dccf635bb78656a19d)
+
+7. I am a male.
+   (ID: ad24fe51d61dbe3cddd863ba9cb6adae61265a06)
+
+8. I am a male.
+   (ID: 89e76efb1868896fe46bffbc2c10d965b53857d1)
+
+9. I am a male.
+   (ID: 95c90f0b7430996843a42a4f365667a13e4c2eb5)
+
+10. I am a male.
+   (ID: dfcca9c384a4fff7bbeb3cd1fb2f40aacb47fd7e)
+
+11. I am a male.
+   (ID: 7c3eb339580d281fcb54cb04dbb55f6921fceec5)
+
+12. I am a male.
+   (ID: 53aa6c267ff5eccf891e178786d41ca5df80a5de)
+
+13. I am a male.
+   (ID: c5e877ff3be5d3571f5fe899f55887a6f608ee98)
+
+14. I am a male.
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+15. I am a male.
+   (ID: 6b1a5069121a216d43b11b6d5c61b018eb668aaa)
+
+16. I am a male.
+   (ID: d8cee140a4390453e428cb54c1081da2859d7998)
+
+17. I am a male.
+   (ID: da770212ea31887c4be30925213eff0dc5d8687b)
+
+18. I am a male.
+   (ID: 23b74d30984aae116954fc82863fe4bd913ba329)
+
+19. I am a male.
+   (ID: 3e3ba4fedc605802fcfce7c50b515d9b8d4a7af9)
+
+20. I am a male.
+   (ID: 4cd63391f1644eb1dde02717bf6a72fc6c22acc7)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 7
+
+1. I am male.
+   (ID: conversation_10_user_1)
+
+2. I am male.
+   (ID: conversation_11_user_1)
+
+3. I am male.
+   (ID: conversation_9_user_1)
+
+4. I am male.
+   (ID: conversation_7_user_1)
+
+5. I am male.
+   (ID: conversation_5_user_1)
+
+6. I am male.
+   (ID: conversation_6_user_1)
+
+7. I am male.
+   (ID: conversation_8_user_1)
+
+
+============================================================
