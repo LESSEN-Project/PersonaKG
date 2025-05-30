@@ -1,18 +1,21 @@
 def get_cluster_themes():
     return [{
         "role": "system",
-        "content": """You are a cluster theme extraction system."""
+        "content": """You are a theme extraction system."""
         },
         {
             "role": "user",
-            "content": """You will be given a set of persona statements. They all belong to the same cluster. Your task is to identify
-            the themes they share, so that the cluster can be named properly. Statements can have multiple themes, a single theme, or no theme at all.     
-            The themes corresponding to the personal information shared by the users. Identify the category(ies) of personal information shared by the users.       
-            Try to find a general category that would be the best representation of the cluster. If not one single category exists, limit the number of categories to 3.
-            Here are the persona statements:
-            {statements}
-            If exists, output the theme or themes that best represent the cluster. If no theme exists, output "None". If multiple themes exists, separate them with a comma. Do not output anything besides the theme or themes."""
-        }]
+            "content": """Statements coming from user personas are analyzed and clustered into groups. The statements correspond to the personal information shared by the users.
+            Your task is to identify the underlying themes of the given cluster statements. These themes are going to be used to create a knowledge graph to connect the users.      
+            Each cluster can have a theme or themes. If not one single theme exists, limit the number of themes to 3. If there are more than 3 themes, it means the cluster
+            is not a valid cluster. Each theme can have subthemes. You are going to output a json object with the themes. Make each theme a key and the subthemes its values.
+            If no theme exists, output "None". Do not include multiple themes that have similar semantic meanings. Your json object should follows this structire:
+            {{"theme1": ["subtheme1", "subtheme2"], "theme2": ["subtheme3"], ...}}
+            
+            Here are the cluster statements:
+            {statements}"""
+        }
+    ]
 
 def get_next_utterance_prompt(user1_persona, user2_persona, conversation_history, target_speaker, kg_info=""):
     """Generate a prompt for next utterance prediction.
