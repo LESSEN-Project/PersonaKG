@@ -91,7 +91,6 @@ if args.clustering_algorithm == "hdbscan":
                 chunk = noise_statements[i*max_statements:(i+1)*max_statements]
                 themes = robust_llm_json_generate(llm, {"statements": "\n".join(chunk)}, gen_params)
                 results[f"noise_{i+1}"] = {
-                    "type": "noise",
                     "themes": themes
                 }
             remainder = noise_statements[noise_categories*max_statements:]
