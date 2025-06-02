@@ -1,0 +1,468 @@
+{
+  "nodes": {
+    "Persona": {
+      "properties": {
+        "first_name": {"type": "str"},
+        "last_name": {"type": "str"},
+        "age": {"type": "int"},
+        "gender": {
+          "type": "str",
+          "enum": ["male", "female", "non-binary", "no-disclosure"]
+        },
+        "education": {
+          "type": "str",
+          "enum": [
+            "no formal education",
+            "primary",
+            "secondary",
+            "high school diploma",
+            "bachelor's degree",
+            "master's degree",
+            "doctoral degree"
+          ]
+        },
+        "employment_status": {
+          "type": "str",
+          "enum": ["employed", "unemployed", "retired", "student", "homemaker"]
+        },
+        "income_group": {
+          "type": "str",
+          "enum": [
+            "under 10k",
+            "10k-20k",
+            "20k-40k",
+            "40k-60k",
+            "60k-80k",
+            "80k-100k",
+            "100k-150k",
+            "150k-200k",
+            "over 200k"
+          ]
+        },
+        "marital_status": {
+          "type": "str",
+          "enum": [
+            "single",
+            "married",
+            "divorced",
+            "widowed",
+            "separated",
+            "civil partnership",
+            "domestic partnership",
+            "no-disclosure"
+          ]
+        },
+        "num_children": {"type": "int"}
+      },
+      "edges": {
+        "HAS_OCCUPATION": {
+          "target": "Occupation",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "start_date": "str",
+            "end_date": "str"
+          }
+        },
+        "RESIDES_IN_CITY": {
+          "target": "City",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "start_date": "str",
+            "end_date": "str"
+          }
+        },
+        "RESIDES_IN_COUNTRY": {
+          "target": "Country",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "start_date": "str",
+            "end_date": "str"
+          }
+        },
+        "HAS_LANGUAGE": {
+          "target": "Language",
+          "cardinality": "many",
+          "properties": {
+            "proficiency": {
+              "type": "str",
+              "enum": ["native", "fluent", "good", "basic", "poor"]
+            }
+          }
+        },
+        "HAS_TRAIT": {
+          "target": "Trait",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "strength": {
+              "type": "str",
+              "enum": ["low", "medium", "high", "very high"]
+            }
+          }
+        },
+        "HAS_HEALTH_ISSUE": {
+          "target": "HealthIssue",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "severity": {
+              "type": "str",
+              "enum": ["mild", "moderate", "severe"]
+            }
+          }
+        },
+        "HAS_RELATIONSHIP": {
+          "target": "Persona",
+          "cardinality": "many",
+          "properties": {
+            "type": {
+              "type": "str",
+              "enum": ["friend", "family", "colleague", "partner", "acquaintance"]
+            },
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "start_date": "str",
+            "end_date": "str",
+            "closeness": {
+              "type": "str",
+              "enum": ["very close", "close", "medium", "far", "distant"]
+            }
+          }
+        },
+        "HAS_SKILL": {
+          "target": "Skill",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "level_of_expertise": {
+              "type": "str",
+              "enum": ["beginner", "intermediate", "advanced", "expert"]
+            }
+          }
+        },
+        "GRADUATED_FROM": {
+          "target": "School",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "start_date": "str",
+            "end_date": "str"
+          }
+        },
+        "ENGAGED_IN": {
+          "target": "Activity",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "frequency": {
+              "type": "str",
+              "enum": ["rarely", "sometimes", "often", "daily", "multiple times daily"]
+            }
+          }
+        },
+        "INTERESTED_IN": {
+          "target": "Activity",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "level_of_interest": {
+              "type": "str",
+              "enum": ["low", "medium", "high", "very high"]
+            }
+          }
+        },
+        "HAS_BELIEF": {
+          "target": "Belief",
+          "cardinality": "many",
+          "properties": {
+            "strength": {
+              "type": "str",
+              "enum": ["low", "medium", "high", "very high"]
+            }
+          }
+        },
+        "HAS_VALUE": {
+          "target": "Value",
+          "cardinality": "many",
+          "properties": {
+            "strength": {
+              "type": "str",
+              "enum": ["low", "medium", "high", "very high"]
+            },
+            "source": "str"
+          }
+        },
+        "HAS_HABIT": {
+          "target": "Habit",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "frequency": {
+              "type": "str",
+              "enum": ["rarely", "sometimes", "often", "daily", "multiple times daily"]
+            }
+          }
+        },
+        "HAS_PREFERENCE": {
+          "target": "Preference",
+          "cardinality": "many",
+          "properties": {
+            "status": {
+              "type": "str",
+              "enum": ["current", "past"]
+            },
+            "strength": {
+              "type": "str",
+              "enum": ["low", "medium", "high", "very high"]
+            }
+          }
+        },
+        "HAS_LIFE_EVENT": {
+          "target": "LifeEvent",
+          "cardinality": "many",
+          "properties": {
+            "importance": {
+              "type": "str",
+              "enum": ["very high", "high", "medium", "low"]
+            }
+          }
+        },
+        "HAS_FUTURE_PLAN": {
+          "target": "FuturePlan",
+          "cardinality": "many",
+          "properties": {
+            "importance": {
+              "type": "str",
+              "enum": ["very high", "high", "medium", "low"]
+            }
+          }
+        }
+      }
+    },
+    "Occupation": {
+      "properties": {
+        "name": "str",
+        "title": "str"
+      },
+      "edges": {
+        "INDUSTRY": {"target": "Industry", "cardinality": 1},
+        "LOCATED_IN_CITY": {"target": "City", "cardinality": 1},
+        "LOCATED_IN_COUNTRY": {"target": "Country", "cardinality": 1}
+      }
+    },
+    "Industry": {
+      "properties": {
+        "name": "str"
+      }
+    },
+    "City": {
+      "properties": {
+        "name": "str"
+      },
+      "edges": {
+        "LOCATED_IN_COUNTRY": {"target": "Country", "cardinality": 1}
+      }
+    },
+    "Country": {
+      "properties": {
+        "name": "str"
+      }
+    },
+    "Language": {
+      "properties": {
+        "name": "str"
+      }
+    },
+    "Trait": {
+      "properties": {
+        "name": "str",
+        "description": "str"
+      }
+    },
+    "HealthIssue": {
+      "properties": {
+        "name": "str",
+        "description": "str"
+      }
+    },
+    "Skill": {
+      "properties": {
+        "name": "str",
+        "description": "str"
+      }
+    },
+    "School": {
+      "properties": {
+        "name": "str",
+        "category": {
+          "type": "str",
+          "enum": ["high school", "college", "university"]
+        }
+      }
+    },
+    "Activity": {
+      "properties": {        
+        "name": "str",
+        "description": "str"
+      }
+    },
+    "Belief": {
+      "properties": {        
+        "name": "str",
+        "category": {
+          "type": "str",
+          "enum": [
+            "political",
+            "religious",
+            "environmental",
+            "ethical",
+            "cultural",
+            "other"
+          ]
+        },
+        "description": "str"
+      }
+    },
+    "Value": {
+      "properties": {
+        "name": "str",
+        "description": "str"
+      }
+    },
+    "Habit": {
+      "properties": {       
+        "name": "str",
+        "category": {
+          "type": "str",
+          "enum": [
+            "daily routine",
+            "diet",
+            "tech usage",
+            "exercise",
+            "sleep",
+            "leisure",
+            "work",
+            "other"
+          ]
+        },
+        "description": "str"
+      }
+    },
+    "Preference": {
+      "properties": {   
+        "name": "str",
+        "category": {
+          "type": "str",
+          "enum": [
+            "food",
+            "clothing",
+            "music",
+            "media",
+            "brand",
+            "travel",
+            "lifestyle",
+            "other"
+          ]
+        },
+        "description": "str"
+      }
+    },
+    "LifeEvent": {
+      "properties": {     
+        "title": "str",
+        "description": "str",
+        "category": {
+          "type": "str",
+          "enum": ["milestone", "memory", "experience", "achievement", "trauma", "other"]
+        },
+        "sentiment": {
+          "type": "str",
+          "enum": ["positive", "neutral", "negative"]
+        },
+        "time_period": {
+          "type": "str",
+          "enum": ["childhood", "teenage", "young_adult", "adult", "elderly"]
+        }
+      },
+      "edges": {
+        "LOCATED_IN_CITY": {
+          "target": "City",
+          "cardinality": 1
+        }
+      }
+    },
+    "FuturePlan": {
+      "properties": {
+        "title": "str",
+        "description": "str",
+        "category": {
+          "type": "str",
+          "enum": [
+            "career",
+            "education",
+            "travel",
+            "residence",
+            "relationship",
+            "personal_development",
+            "health",
+            "financial",
+            "other"
+          ]
+        },
+        "target_date": "str",
+        "term": {
+          "type": "str",
+          "enum": ["short_term", "medium_term", "long_term"]
+        },
+        "importance": {
+          "type": "str",
+          "enum": ["very_high", "high", "medium", "low"]
+        }
+      },
+      "edges": {
+        "TARGETS_SKILL": {"target": "Skill", "cardinality": "many"},
+        "TARGETS_TRAIT": {"target": "Trait", "cardinality": "many"},
+        "TARGETS_HABIT": {"target": "Habit", "cardinality": "many"},
+        "TARGETS_PREFERENCE": {"target": "Preference", "cardinality": "many"},
+        "TARGETS_LIFE_EVENT": {"target": "LifeEvent", "cardinality": "many"},
+        "TARGET_OCCUPATION": {"target": "Occupation", "cardinality": "many"},
+        "TARGET_RESIDENCE": {"target": "City", "cardinality": "many"}
+      }
+    }
+  }
+}

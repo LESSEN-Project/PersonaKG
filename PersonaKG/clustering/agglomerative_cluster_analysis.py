@@ -57,29 +57,6 @@ class PersonaAgglomerativeClusterAnalysis:
         ]
         self.sentence_model = SentenceTransformer('all-mpnet-base-v2')
         self.similarity_threshold = 0.6
-
-    
-    def load_all_personas(self):
-        """Load personas from all datasets"""
-        all_personas = {}
-        
-        for dataset_name in self.datasets:
-            print(f"\nLoading personas from {dataset_name}...")
-            try:
-                personas = self.persona_dataset.get_personas_from_dataset(
-                    dataset_name, 
-                    split=self.split, 
-                    sample_size=self.sample_size
-                )
-                
-                all_personas[dataset_name] = personas
-                print(f"Loaded {len(personas)} personas from {dataset_name}")
-                
-            except Exception as e:
-                print(f"Error loading {dataset_name}: {e}")
-                continue
-                
-        return all_personas
     
     def extract_persona_statements(self, personas_dict, dataset_filter=None):
         """Extract all persona statements with their metadata"""
@@ -670,7 +647,7 @@ class PersonaAgglomerativeClusterAnalysis:
         self.save_hyperparameters()
         
         # Load all personas
-        personas_dict = self.load_all_personas()
+        personas_dict = self.persona_dataset.load_all_personas()
         
         # Run clustering based on mode
         if mode == "combined":

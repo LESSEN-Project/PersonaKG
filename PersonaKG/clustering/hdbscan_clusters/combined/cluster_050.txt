@@ -1,149 +1,279 @@
 CLUSTER 50
 ============================================================
-Total statements in cluster: 106
-Cluster persistence (stability): 0.832
+Total statements in cluster: 216
+Cluster persistence (stability): 0.540
 
 Dataset distribution in this cluster:
-  MPChat: 4 (3.8%)
-  MSC: 3 (2.8%)
-  PEC: 89 (84.0%)
-  PER-CHAT: 9 (8.5%)
-  PersonaChat: 1 (0.9%)
+  FoCus: 2 (0.9%)
+  MPChat: 42 (19.4%)
+  MSC: 4 (1.9%)
+  PEC: 116 (53.7%)
+  PER-CHAT: 41 (19.0%)
+  PersonaChat: 8 (3.7%)
+  SyntheticPersonaChat: 3 (1.4%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 2
+
+1. I’d like to experience National Day.
+   (ID: 8YLU8P5G0EHM_11)
+
+2. I have never been to Israel but would like to go one day.
+   (ID: VUQVHZP0LUAH_11)
+
+
 --- MPChat ---
-Total from this dataset: 4
+Total from this dataset: 42
 
-1. i made the mistake of thinking i could start a knitting ig without an ig model
-   (ID: Tossahoooo)
+1. took my dog camping and this was him after swimming and hiking all day
+   (ID: FindingTheAdventure)
 
-2. i'm thinking of warm weather rides!
-   (ID: reecee)
+2. it's my cake day enjoy this baby sloth
+   (ID: ThatPurpleDrank)
 
-3. now i'm thinking about alternating daisys.
-   (ID: Sophie74656)
+3. to celebrate the yankees' opening day here is my second fondant creation.
+   (ID: imakethingsgoboom)
 
-4. and here i was thinking i'd be upgrading to a 32" soon...
-   (ID: ambora)
+4. i hiked mt hunger in vermont's worcester range the other day.
+   (ID: walkalong)
+
+5. in response to the other person who had a 69kcal deficit the other day... i'm with ya.
+   (ID: skorletun)
+
+6. afternoon tea virus throw, finished for my step-mom, mother's day gift
+   (ID: Winter246)
+
+7. one day i will get a photo of president petrie without his tongue out.
+   (ID: kentobean123)
+
+8. someone posted about a rattan book shelf the other day and i lost my mind over it.
+   (ID: azachava)
+
+9. nice clean pour to start my day!
+   (ID: ext23)
+
+10. it's my first day in naples and i'm already loving it
+   (ID: RaeADropOfGoldenSun)
+
+11. making it for my kim for valentine’s day.
+   (ID: Chris55730)
+
+12. my german shepherd mix enjoying a day on the snake river.
+   (ID: PNW_Outdoor_Reviews)
+
+13. added some copper spoons, kalanchoe orgyalis, to my collection the other day!
+   (ID: snaps_pro)
+
+14. today marks my 12th year in coffee so i tried 12 different different designs in a day.
+   (ID: jlb4est)
+
+15. safety pin basting day... otherwise know in my house as floor sweeping and mopping day lol
+   (ID: XandXor)
+
+16. after the car being totaled from someone texting and driving, i miss this car every day.
+   (ID: Deeshizznit)
+
+17. moving day it is, smoke all the keef i must
+   (ID: Nerdyredeyejedi)
+
+18. this fool gets himself stuck in the hamper every day, and then whines until i take him out
+   (ID: MafHoney)
+
+19. posting a camping picture every day until i can go camping again day 10: surveying his domain nw ga
+   (ID: Pearl_krabs)
+
+20. stuck in class on st patrick's day, at least i may my nails to distract me.
+   (ID: gxnelson)
 
 
 --- MSC ---
-Total from this dataset: 3
+Total from this dataset: 4
 
-1. My daughter Bonnie is 3 and she has nightmares. I am thinking of bringing her to the doctor for her nightmares.
-   (ID: dialog_58_speaker_1)
+1. Who wants to grind and toil all day?.
+   (ID: dialog_110_speaker_2)
 
-2. I should start thinking about which colleges to apply to soon.
-   (ID: dialog_169_speaker_1)
+2. I could eat Mexican food every day. Burritos are my favorite food.
+   (ID: dialog_27_speaker_1)
 
-3. I'm thinking of holding a mystery dinner party and serving horse meat at the party.
-   (ID: dialog_119_speaker_1)
+3. I like to embrace my day.
+   (ID: dialog_46_speaker_1)
+
+4. I shot an arrow the other day!.
+   (ID: dialog_0_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 89
+Total from this dataset: 116
 
-1. i 'm thinking of dropping to 5
-   (ID: mass08)
+1. i played a shadow priest back in the day , so the face melter was a clear decision .
+   (ID: elevatorhijack)
 
-2. i was thinking a mammoth or something somewhere
-   (ID: mostlikelyto___)
+2. i 'm 20 and caught my dad having a tug the other day .
+   (ID: Shrub74)
 
-3. i was thinking of the book haunted .
-   (ID: Darth_Waiter)
+3. i hear you get to sit around and play cards all day .
+   (ID: DoctorRichardNygard)
 
-4. i was thinking beauty and the beast , but that gif killed it .
-   (ID: YuseiAkask)
+4. i drink 2l milk a day lol .
+   (ID: Takumi-Fujiwara)
 
-5. i find myself thinking that when i watch black mirror .
-   (ID: baconnaire)
+5. i already am day by day and the future is so bright for my own mental health i feel .
+   (ID: bleepblorp9878)
 
-6. i was thinking of either bolivar or partagas , i watched reviews of them .
-   (ID: ifixurchit)
+6. i 'm waiting on my condoms .... should come in on valentines day ;)
+   (ID: buttercup_mauler)
 
-7. i was thinking so but because of her strong legs i was still wondering :)
-   (ID: Ml7500)
+7. i can barely afford to take a day off ...
+   (ID: isitbrokenorsomethin)
 
-8. i 'm thinking of making a playlist on yt citing tai chi resources .
-   (ID: JOOOOOOOOOOngo)
+8. i saw a 250 + colonist stream on twitch the other day
+   (ID: SYDWAD)
 
-9. i was thinking it could blink ?
-   (ID: exotics)
+9. i do n't feel alive , it 's as if i just exist from day to day .
+   (ID: FlexForJesus)
 
-10. i ’m thinking back to ape escape and the launch of the dual analog sticks .
-   (ID: JaZepi)
+10. i tried a candy flip the day before .
+   (ID: pandachestpress)
 
-11. i can never see this dish without thinking of a series of unfortunate events .
-   (ID: monday_madrigal)
+11. i could boople that snoot all day !
+   (ID: ShamPow20)
 
-12. i was thinking of htmlhtml / html
-   (ID: amirman)
+12. i eat once a day , i do n't have an appetite .
+   (ID: AgedTwenties)
 
-13. i ’m thinking 30k ?
-   (ID: mass08)
+13. i must have missed that talk at career day at my high school .
+   (ID: SerendipitousCat)
 
-14. i ’m thinking about what to show next .
-   (ID: Heavenandhell50)
+14. i see that out of my window every day !
+   (ID: ddshroom)
 
-15. i 'm thinking the " part - skim " moz .
-   (ID: Addbutter)
+15. i once moved into a flat and the day after , someone left a cantaloupe by my door .
+   (ID: kiki73)
 
-16. i was thinking about california specifically , but yes .
-   (ID: Hypersapien)
+16. i 'm counting today as day 1 , so the project will be completed september 10 .
+   (ID: Calvin_)
 
-17. i was thinking more along the lines of drunk and jet skis in the fountain
-   (ID: Snake-N-Roses)
+17. i 'm applying directly to the forehead all day long .
+   (ID: msiekkinen)
 
-18. i was thinking the same line .
-   (ID: Mathias_Mouse)
+18. i added a bit of ammonia every day to bring it back up to 3ppm .
+   (ID: FruitBatFanatic)
 
-19. i am thinking dropping both eternal and futures end .
-   (ID: JimmyMcShiv)
+19. i just quit a job working me 16 hrs a day .
+   (ID: iToaditSo)
 
-20. i flew over the everglades and had terrible heebie geebies thinking about what was down there .
-   (ID: bugaloo2u2)
+20. i have a one day shoot coming up- just interviews and on the fly content .
+   (ID: glowinthedark)
 
 
 --- PER-CHAT ---
-Total from this dataset: 9
+Total from this dataset: 41
 
-1. that ' s exactly what i was thinking . cool
-   (ID: 7e977d8c833923afad8d62330f570dfb4308db8b)
+1. there  s nothing wrong with feeling pride for your country . but , it is a problem if that means you consider your country better than everyone else and discriminate against those not from your country . australia day is meant to celebrate the country  s successes and improve and take notice upon it  s failings . unfortunately , the day that it falls upon is a controversy .
+   (ID: 137d64f4a858b21d0854639ebc037d0bd1dc557f)
 
-2. basically he thinks he ' s a pangolin . it ' s more complicated than that but that ' s the basics . i . e . a kangaroo kin would be a person thinking they ' re a kangaroo
-   (ID: 752bae2818e8a99ea6b8b00277a3811570a73708)
+2. masturbate all day long
+   (ID: 35c328d4a335c5fd9ddfe5f40bbfd2580065561c)
 
-3. that  s the one i go to thinking  face
-   (ID: 12803a9aad224d0537b68ab83a6cdc6a45d3160f)
+3. nothing . no matter how bad the day , learn from it . it will make you stronger if you let it ! although i would erase the day i sat on my 160gb full ipod . that day sucked
+   (ID: c06f82a9d6f502a9c5707645e6b0bc869ff37975)
 
-4. i can  t see this shirt anymore without thinking about the slump god and x
-   (ID: 701f8001d10c04dcd53d9b13ab2a896b452e50f7)
+4. a loving gay couple cooking for each other in a cabin on a snow day . sigh
+   (ID: 80ae19b9093d92fad153af508f37fcd7cd9340ec)
 
-5. is that not hebephelia ? i always get confused as to where the line is drawn . thinking  face
-   (ID: 1ef80f0cd1a51487ac416f9fabc71571cf7add26)
+5. i wanna be loki so i can just troll literally everyone all day long .
+   (ID: 4f760107331d45dfdba746f7464dec4f0f14170d)
 
-6. yikes . it would be surprising to wake up to one of those . thinking  face
-   (ID: b74c6f378f67934bed1f9dd4c591152d002827ec)
+6. find money , hide it and pretend i wasn  t aware everyone was missing and pretend that i have always been saving for a rainy day .
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
 
-7. you ' re probably thinking of this one
-   (ID: 18590dfbec2847acf310726c8e0182e2def1d744)
+7. it  s basically this thing where you send a picture with a message every day without missing one to someone and that  s a streak . missing a day breaks a streak .
+   (ID: 43eb93a2829d2d27f18e23e94602a8caf9832d4c)
 
-8. isn ' t meditate the same as not thinking about anything ?
-   (ID: aec4f34bdc910ca8edae5da6bdefcbbd5de40f6e)
+8. hi mumzie ! how was your st patrick ' s day ?
+   (ID: ff36137e68382d33016fdf568208704ea2c16642)
 
-9. how you wear it . thinking you are hot shit is exhausting to deal with .
-   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+9. saved the post ! in the end of the day you will be the one that deals with the demons in your head , no one else can battle them for you . idk if that is an exciting quote , it was a realization that came to me one day .
+   (ID: 3ee5f4db2879b83a843467f289ac369565b8b3ae)
+
+10. reddit . s ' gnarly . it trains every day to be the biggest twat .
+   (ID: 6f2bb1423c6c56d0bb6fd9fb2a8c580c2eebdb5e)
+
+11. i would stuff someone in there with you . no one should be alone on valentine ' s day .
+   (ID: d6e89a045ccd97a556ff87527d8a08a8e3c89fc1)
+
+12. depends on the day of the week . i do both .
+   (ID: 7aa559a048e16f5e07993ececfa9eb494e72a8fc)
+
+13. i was fifteen and i asked for it . narrow dark alley in the middle of a summer day . i didn ' t quite like it as much as i wanted to tbh .
+   (ID: 9b7ab2ecf50a1f0d1a04c43a5112617f13aebfb4)
+
+14. that  s what i do . i still ti this day have never cursed because it makes my uneasy even hearing others curse
+   (ID: ad911088c8434d08c7a96c969a57a09b00f02e99)
+
+15. every day i have to harangue you for hours before you get my food out . are you stupid or what ?
+   (ID: 873d7cdd437cc48c69447d68b6cd96b54580dae7)
+
+16. there is no guarantee that this man is who he says he is . if he has bad intentions he knows when this woman is going to be home alone during the day . home invasions and burglary happen ever day . never give out personal information to strangers knocking at your door or calling you .
+   (ID: b6567f005c34603036e6119544386ff4f12ec3a9)
+
+17. thank you  cute cat . i appreciate you , have a great day .
+   (ID: 4f350b59a80efc55c353f9527b99d8b6f4fc403d)
+
+18. back in my day when instagram didn ' t exist .
+   (ID: 13b3de2f6f825774e3e188be0716b795da309ae9)
+
+19. one day foxes and many other animals will be easier to domestic and therefore have as a pet . you doing ok , op ?
+   (ID: 9f31985e70e208f2dc692e2c378f1707cedd3bc9)
+
+20. I own a cake day brother.
+   (ID: c502998e2865c170bc70ef54db9fca6ec18c9ab6)
 
 
 --- PersonaChat ---
-Total from this dataset: 1
+Total from this dataset: 8
 
-1. if i am not drinking , i am thinking , which makes me uncomfortable .
-   (ID: conversation_197)
+1. i eat tuna fish salad at least every day .
+   (ID: conversation_25)
+
+2. i wake early to watch the sun rise every day .
+   (ID: conversation_148)
+
+3. i sit on my computer for several hours a day .
+   (ID: conversation_546)
+
+4. not a day goes by that i do not drink four mountain dews .
+   (ID: conversation_149)
+
+5. i drink coffee every day .
+   (ID: conversation_256)
+
+6. one day i played the lottery .
+   (ID: conversation_208)
+
+7. i listen to a fall out boy record every day .
+   (ID: conversation_220)
+
+8. i ran into jimmy fallon just the other day .
+   (ID: conversation_471)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I m a musician with a day job.
+   (ID: conversation_542_user_2)
+
+2. I drink 10 cups of tea every day.
+   (ID: conversation_112_user_2)
+
+3. Tomorrow is my first day of safety patrol.
+   (ID: conversation_571_user_2)
 
 
 ============================================================

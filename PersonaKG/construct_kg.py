@@ -5,352 +5,40 @@ import json
 import pathlib
 import argparse
 
-from dataset import get_dataset, get_personas
 from models import LLM
-from knowledge_graph import KnowledgeGraph
+from persona_dataset import PersonaDataset
 from prompts import *
 
+argparser = argparse.ArgumentParser(description="PersonaKG")
+argparser.add_argument("-d", "--datasets", nargs='+', type=str, default="all", help="Dataset(s) to use")
+argparser.add_argument("-m", "--model", type=str, default="GPT-4.1", help="Model to use")
+argparser.add_argument("-s", "--schema", type=str, default="default_schema.json", help="Schema file")
+argparser.add_argument("-sp", "-split", "--split", type=str, default="train", choices=["train", "validation", "test"], help="Dataset split to use")
+argparser.add_argument("-ss", "-sample_size", "--sample_size", type=int, default=-1, help="Sample size for each dataset")
 
-def generate_schema_hash(schema):
-    """Generate a unique hash for the schema configuration"""
-    schema_str = json.dumps(schema, sort_keys=True)
-    return hashlib.md5(schema_str.encode()).hexdigest()
+args = argparser.parse_args()
 
-def check_db_schema_match(kg, schema):
-    """Check if the database schema matches our schema configuration"""
-    try:
-        # Get current database schema info
-        current_info = kg.get_current_schema_info()
-        
-        # If there's no data in the database, it's a fresh DB
-        if not current_info["categories"]:
-            return False
-            
-        # Extract schema categories and demographic fields
-        new_categories = set(config[0] for config in schema)
-        new_demographic_fields = set()
-        for config in schema:
-            if config[0] == "demographics" and len(config) > 1 and config[1]:
-                new_demographic_fields = set(config[1])
-        
-        # Check for significant changes
-        categories_match = set(current_info["categories"]) == new_categories
-        demographic_fields_match = set(current_info["demographic_fields"]) == new_demographic_fields
-        
-        return categories_match and demographic_fields_match
-    except Exception as e:
-        print(f"Error checking schema match: {str(e)}")
-        return False
+def get_schema(path):
+    with open(path, "r") as f:
+        schema = json.load(f)
+    return schema
 
-def load_knowledge_graph_from_file(filepath, neo4j_password):
-    """Construct knowledge graph from a saved JSON file
-    
-    Args:
-        filepath: Path to the JSON file containing processed personas and schema
-        neo4j_password: Password for the Neo4j database
-    """
-    print(f"Loading knowledge graph from file: {filepath}")
-    
-    # Load data from file
-    try:
-        with open(filepath, 'r') as f:
-            saved_data = json.load(f)
-        
-        processed_personas = saved_data.get('processed_personas', {})
-        schema = saved_data.get('schema', [])
-        schema_hash = saved_data.get('schema_hash', '')
-        
-        print(f"Found {len(processed_personas)} personas with schema hash: {schema_hash}")
-        
-        # Initialize KnowledgeGraph with schema from file
-        kg = KnowledgeGraph(uri="bolt://localhost:7687", user="neo4j", password=neo4j_password)
-        
-        # Drop existing database and create new one with proper schema
-        print("Rebuilding database with schema from file...")
-        kg.drop_database()
-        kg.update_schema(schema, force_rebuild=False, skip_schema_check=True)
-        
-        # Process each persona from the file
-        for i, (persona_id, persona_data) in enumerate(processed_personas.items(), 1):
-            print(f"Processing persona {i}/{len(processed_personas)}: {persona_id[:8]}...")
-            kg.upsert_persona(persona_data, persona_id)
-        
-        print(f"Successfully loaded {len(processed_personas)} personas into the knowledge graph")
-        return True
-    except Exception as e:
-        print(f"Error loading knowledge graph from file: {str(e)}")
-        return False
+schema = get_schema(args.schema)
+llm = LLM(args.model)
 
-def main():
-    # Parse command line arguments
-    parser = argparse.ArgumentParser(description='Construct the knowledge graph from scratch or from a file')
-    parser.add_argument('--from-file', type=str, help='Path to JSON file to load knowledge graph from')
-    parser.add_argument('--list-files', action='store_true', help='List available JSON files in graphs directory')
-    args = parser.parse_args()
-    
-    # Get Neo4j password
-    neo4j_password = os.environ.get("NEO4J_PKG_PASSWORD")
-    if not neo4j_password:
-        print("Error: NEO4J_PKG_PASSWORD environment variable not set")
-        return
-    
-    # If --list-files is specified, list available JSON files
-    if args.list_files:
-        results_dir = pathlib.Path("graphs")
-        if not results_dir.exists():
-            print("No graphs directory found")
-            return
-        
-        json_files = list(results_dir.glob("*.json"))
-        if not json_files:
-            print("No JSON files found in graphs directory")
-            return
-        
-        print("Available JSON files:")
-        for i, file in enumerate(json_files, 1):
-            print(f"{i}. {file.name}")
-        return
-    
-    # If --from-file is specified, construct knowledge graph from file
-    if args.from_file:
-        file_path = args.from_file
-        # If the file path doesn't exist, check if it's in the graphs directory
-        if not os.path.exists(file_path):
-            file_path = os.path.join("graphs", file_path)
-            if not os.path.exists(file_path):
-                print(f"Error: File not found: {args.from_file}")
-                return
-        
-        success = load_knowledge_graph_from_file(file_path, neo4j_password)
-        if success:
-            print("Knowledge graph construction from file completed successfully")
-        else:
-            print("Knowledge graph construction from file failed")
-        return
-    
-    # Otherwise, proceed with normal construction from dataset
-    # -------------------------------------------------------------------------
-    # CUSTOMIZE YOUR SCHEMA HERE
-    # -------------------------------------------------------------------------
-    # Format: [category_name, fields_list]
-    # - category_name: String name for the category
-    # - fields_list: For demographics/basic categories, provide a list of fields
-    #               For other categories, use None
-    # 
-    schema = [
-        ["demographics", ["age", "employmentStatus", "educationStatus", "location", "occupation"]],
-        ["personality", None],
-        ["hobbies", None],
-        ["interests", None],
-        ["projects", None]
-    ]
-    
-    # Example: Customer profile schema
-    # schema = [
-    #     ["profile", ["age", "location", "income", "household"]],
-    #     ["behaviors", None],
-    #     ["preferences", None],
-    #     ["purchaseHistory", None],
-    #     ["customerService", None]
-    # ]
-    
-    # Example: Character development schema
-    # schema = [
-    #     ["basics", ["age", "appearance", "background", "origin"]],
-    #     ["traits", None],
-    #     ["motivations", None],
-    #     ["relationships", None],
-    #     ["skills", None],
-    #     ["story", None]
-    # ]
-    # -------------------------------------------------------------------------
-    
-    # Set to False to use a subset of personas, True to use the entire dataset
-    use_whole_dataset = False
-    
-    # Number of personas to process if not using the whole dataset
-    num_personas = 100
-    
-    # Generate a unique hash for the current schema
-    schema_hash = generate_schema_hash(schema)
-    
-    # Directory for saving results
-    results_dir = pathlib.Path("graphs")
-    results_dir.mkdir(exist_ok=True, parents=True)
-    results_file = results_dir / f"canonized_results_{schema_hash}.json"
-    print(f"Using results file: {results_file}")
-    
-    # Determine if we need to force rebuild - default to True, but may change based on saved results
-    force_rebuild = True
-    
-    # Previously processed personas (persona_id → canonized_result)
-    processed_personas = {}
-    
-    # Default to 0 for the last processed index
-    last_processed_index = 0
-    
-    # Check if we have saved results for the current schema and using whole dataset
-    if use_whole_dataset and results_file.exists():
-        try:
-            print(f"Found saved results for the current schema hash: {schema_hash}")
-            with open(results_file, 'r') as f:
-                saved_data = json.load(f)
-                processed_personas = saved_data.get('processed_personas', {})
-                last_processed_index = saved_data.get('last_processed_index', 0)
-                
-            print(f"Loaded {len(processed_personas)} previously processed personas")
-            # Only set force_rebuild to False if we successfully loaded data
-            force_rebuild = False
-            
-        except Exception as e:
-            print(f"Error loading saved results: {str(e)}")
-            print("Starting fresh with a forced rebuild")
-            force_rebuild = True
-            processed_personas = {}
-            last_processed_index = 0
-    else:
-        # No saved results or not using whole dataset
-        if use_whole_dataset:
-            print(f"No saved results found for schema hash: {schema_hash}")
-            print("Starting fresh with a forced rebuild")
-        else:
-            print("Using random sample of personas with forced rebuild")
+dataset_config = PersonaDataset().get_config()
+personas = PersonaDataset().load_all_personas(args.split, args.sample_size)
+dataset = "PersonaChat"
+sample_persona = personas[dataset][2]
 
-    # Connect to Neo4j and initialize KG with custom schema
-    neo4j_password = os.environ.get("NEO4J_PKG_PASSWORD")
-    
-    # First initialize with just the connection, without providing schema yet
-    kg = KnowledgeGraph(uri="bolt://localhost:7687", user="neo4j", password=neo4j_password)
-    
-    # Now manually handle database rebuild if needed instead of letting KG do it automatically
-    if force_rebuild:
-        print("Forcing database rebuild...")
-        kg.drop_database()
-    
-    # After potential rebuild, update the schema but explicitly pass our force_rebuild flag
-    # This will prevent the KnowledgeGraph from making its own decision to rebuild
-    # Use the skip_schema_check=True when we've loaded valid saved results and don't want to force rebuild
-    kg.update_schema(schema, force_rebuild=False, skip_schema_check=(not force_rebuild))
-    
-    # Initialize LLMs with prompts based on the custom schema
-    persona_kg_extractor = LLM("GPT-4.1-mini", default_prompt=kg_prompt(schema=schema))
-    persona_canonicalizer = LLM("GPT-4.1-mini", default_prompt=canonicalization_prompt())
+prompt = kg_prompt(schema, sample_persona["persona_statements"])
 
-    # Get personas from dataset
-    dataset = get_dataset()
-    personas = get_personas(dataset, "train")
-    
-    # Choose either the whole dataset or a random subset
-    if use_whole_dataset:
-        selected_personas = personas
-        print(f"Using the entire dataset: {len(selected_personas)} personas")
-    else:
-        # Use a fixed seed for deterministic sampling
-        # This ensures the same personas are selected across different runs
-        # regardless of schema changes
-        random.seed(42) 
-        selected_personas = random.sample(personas, min(num_personas, len(personas)))
-        # Reset the random seed to avoid affecting other random operations
-        random.seed()
-        print(f"Using a deterministic random sample of {len(selected_personas)} personas")
-    
-    # Display current schema information
-    print("Using schema with these categories:")
-    for category in schema:
-        if len(category) > 1 and category[1]:
-            print(f"- {category[0]} (with fields: {category[1]})")
-        else:
-            print(f"- {category[0]}")
-    print()
-    
-    # Process personas with the custom schema
-    for i, persona in enumerate(selected_personas[last_processed_index:], last_processed_index + 1):
-        persona_id = str(hashlib.sha256(persona.encode('utf-8')).hexdigest())
-        
-        # Skip if this persona was already processed (for resuming interrupted processing)
-        if persona_id in processed_personas and use_whole_dataset:
-            print(f"Skipping already processed persona {i}/{len(selected_personas)}: {persona_id[:8]}...")
-            continue
-            
-        print(f"Processing persona {i}/{len(selected_personas)}:\n{persona}...")
-        
-        # Generate structured attributes from the persona
-        res = persona_kg_extractor.generate(prompt_params={"persona": persona}, json_output=True)
-        print("Extracted categories:", list(res.keys()))
-        
-        # Canonicalize attributes
-        attributes = kg.get_existing_attributes()
-        try:
-            # First try getting the canonicalized result
-            canonized_res = persona_canonicalizer.generate(
-                prompt_params={"existing_attributes": attributes, "persona_json": res}, 
-                json_output=True
-            )
-            # If we received a string, we need to handle parsing it
-            if isinstance(canonized_res, str):
-                print(f"Received string response, attempting to parse as JSON...")
-                import ast
-                try:
-                    # First try standard JSON parsing
-                    canonized_res = json.loads(canonized_res)
-                except json.JSONDecodeError as e:
-                    print(f"Standard JSON parsing failed: {e}")
-                    
-                    # If it fails, try to fix Python dict syntax (single quotes to double quotes)
-                    try:
-                        # Use ast to safely evaluate the Python literal
-                        python_dict = ast.literal_eval(canonized_res)
-                        # Convert to JSON-compatible format
-                        canonized_res = json.loads(json.dumps(python_dict))
-                        print("Successfully converted Python dict to JSON")
-                    except Exception as e2:
-                        print(f"Cannot parse response as either JSON or Python dict: {e2}")
-                        print("Skipping this persona due to parsing issues")
-                        continue
-            
-            # If we get here, we have a valid JSON object to save
-            kg.upsert_persona(canonized_res, persona_id)
-            
-            processed_personas[persona_id] = canonized_res
-            # Save progress every 5 personas or when we're at the end
-            if i % 5 == 0 or i == len(selected_personas):
-                print(f"Saving progress at persona {i}/{len(selected_personas)}...")
-                try:
-                    with open(results_file, 'w') as f:
-                        json.dump({
-                            'processed_personas': processed_personas,
-                            'last_processed_index': i - 1,
-                            'schema_hash': schema_hash,
-                            'schema': schema
-                        }, f)
-                    print(f"Saved progress to {results_file}")
-                except Exception as e:
-                    print(f"Error saving progress: {str(e)}")
-                        
-        except Exception as e:
-            print(f"Error processing persona: {str(e)}")
-            print(f"Skipping persona and continuing...")
-            continue
-        print(f"Processed persona {persona_id[:8]}\n")
-    
-    print("All personas processed successfully!")
-    
-    try:
-        with open(results_file, 'w') as f:
-            json.dump({
-                'processed_personas': processed_personas,
-                'last_processed_index': len(selected_personas) - 1,
-                'schema_hash': schema_hash,
-                'schema': schema,
-                'completed': True
-            }, f)
-        print(f"Saved final results to {results_file}")
-    except Exception as e:
-        print(f"Error saving final results: {str(e)}")
-    
-    print("The knowledge graph now contains the personas with the new schema.")
-    print("You can query the Neo4j database to explore the results.")
+kg_persona = llm.generate(prompt=prompt, json_output=True)
 
+kg_persona["Persona"]["id"] = sample_persona["id"]
+kg_persona["Persona"]["dataset_id"] = sample_persona["dataset_id"]
+kg_persona["Persona"]["dataset"] = dataset
+kg_persona["Persona"]["dataset_type"] = dataset_config[dataset]["origin"]
+kg_persona["Persona"]["utterances"] = sample_persona["utterances"]
 
-if __name__ == "__main__":
-    main()
+print(kg_persona)

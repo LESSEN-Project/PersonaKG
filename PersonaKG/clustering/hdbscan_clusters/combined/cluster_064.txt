@@ -1,197 +1,282 @@
 CLUSTER 64
 ============================================================
-Total statements in cluster: 130
-Cluster persistence (stability): 0.671
+Total statements in cluster: 237
+Cluster persistence (stability): 0.992
 
 Dataset distribution in this cluster:
-  MPChat: 7 (5.4%)
-  MSC: 3 (2.3%)
-  PEC: 89 (68.5%)
-  PER-CHAT: 28 (21.5%)
-  PersonaChat: 3 (2.3%)
+  FoCus: 24 (10.1%)
+  MPChat: 11 (4.6%)
+  MSC: 9 (3.8%)
+  PEC: 175 (73.8%)
+  PER-CHAT: 2 (0.8%)
+  PersonaChat: 12 (5.1%)
+  SyntheticPersonaChat: 4 (1.7%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- MPChat ---
-Total from this dataset: 7
+--- FoCus ---
+Total from this dataset: 24
 
-1. my pibble used to be terrified of the snow.
+1. I love the village.
+   (ID: YFMEKH9C9CFO_11)
+
+2. I love geological findings conducted by volcanologists.
+   (ID: G4JZMW0OPV0G_11)
+
+3. I love mumbai.
+   (ID: LFDYLQP6HP80_7)
+
+4. I love aqueducts.
+   (ID: GC9BAJTK54F1_11)
+
+5. I love Tormentil.
+   (ID: VOQV863ZK27L_11)
+
+6. I have never been to Madagascar and would love to go there.
+   (ID: FS1LJTHM1IC0_11)
+
+7. I love Pasterze glacier.
+   (ID: YLLQOXHD6MZC_7)
+
+8. I love the Cirque Du Soleil.
+   (ID: HBB4I3JKIRP5_9)
+
+9. I love cathedrals.
+   (ID: TDUTQ7NCYJ1S_11)
+
+10. I love Nikolaevsky.
+   (ID: 9VN3FMWR0NNR_11)
+
+11. I love Mardi Gras.
+   (ID: TF4SZWIWHJO4_11)
+
+12. I love the name Kielplaats.
+   (ID: WT0FL97IGHLW_11)
+
+13. I love Nieuwediep.
+   (ID: WT0FL97IGHLW_11)
+
+14. I love bats.
+   (ID: X3WVWF5IVCYD_11)
+
+15. I love Buckinghamshire.
+   (ID: JBP0INT1W707_11)
+
+16. I love peaks.
+   (ID: BPCV4KG0PEMD_7)
+
+17. I love Congregation Baith Israel.
+   (ID: VQJADZ97TJ0Z_11)
+
+18. I love Stourbridge.
+   (ID: 72MY00U8UEGB_11)
+
+19. I would love to vist Divljana Monastery again.
+   (ID: V0DLNYLN813E_11)
+
+20. I love Reidar Andersen.
+   (ID: TB8HHXAP822G_11)
+
+
+--- MPChat ---
+Total from this dataset: 11
+
+1. i love beetles and so i made this stamp!
+   (ID: pocket_kira)
+
+2. swatched up halloweentown and i'm in love.
+   (ID: ninjaeatingzombie)
+
+3. skellinon - i love this shawl
+   (ID: RayRay108)
+
+4. i'm in love with spooky and glitter.
+   (ID: skorletun)
+
+5. this is why i love bottomless portafilters.
+   (ID: Ry_)
+
+6. why i love this thermometer.
+   (ID: scottstephenson)
+
+7. i love your derp.
+   (ID: lizdavis17)
+
+8. love my cypress hideaway!
+   (ID: pope237)
+
+9. i'm in love with this cabled cowl!
    (ID: ddizzle23)
 
-2. i used broil king smokemasters blend pellets which are a equal mix of cherry, hickory and maple.
-   (ID: cookinwithclint)
+10. i love my donabe.
+   (ID: neonlouvre)
 
-3. i used my business card for their packaging.
-   (ID: audballofclay)
-
-4. i also used my vitamix instead of my food processor.
-   (ID: nocturne213)
-
-5. i used 90%fat ground bison.
-   (ID: knivesandchives)
-
-6. i used twist for this.
-   (ID: gelimausi)
-
-7. used it to wrap a gift for my best friend’s birthday.
-   (ID: SweetSassyClassy)
+11. i love my mk6 gli
+   (ID: bryanw0104)
 
 
 --- MSC ---
-Total from this dataset: 3
+Total from this dataset: 9
 
-1. I used to eat honeysuckle when I visited my Dad.
-   (ID: dialog_167_speaker_1)
+1. I love Crookshanks.
+   (ID: dialog_48_speaker_1)
 
-2. My mother used to grow tomatoes and cucumbers. My grandmother on my Dad's side used to grow raspberries. We used to have a farm. We grew green beans and wheat on the farm. I miss the farm but I do not miss the long hours. I was in Desert Storm.
-   (ID: dialog_167_speaker_2)
+2. I love tetris.
+   (ID: dialog_86_speaker_2)
 
-3. I used to date speaker 1's brother. I am now married to someone else. I am still friends with the brother but we haven't spoken recently.
-   (ID: dialog_231_speaker_2)
+3. I love mosh pits.
+   (ID: dialog_13_speaker_2)
+
+4. I love me some brisket.
+   (ID: dialog_184_speaker_2)
+
+5. I love the nhl.
+   (ID: dialog_86_speaker_1)
+
+6. I love my knee highs.
+   (ID: dialog_59_speaker_2)
+
+7. I love jager.
+   (ID: dialog_207_speaker_1)
+
+8. I love Zupoo's cheeseburgers.
+   (ID: dialog_219_speaker_2)
+
+9. I love my clan.
+   (ID: dialog_140_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 89
+Total from this dataset: 175
 
-1. i have used it in the metro .
-   (ID: godspeedone)
+1. i love maryann .
+   (ID: NashPepper)
 
-2. i 'm still used to calling them by their old school names : unigraphics , proe and catia .
-   (ID: Szos)
+2. i love you ?
+   (ID: combover)
 
-3. i deliberately used the * rule of thirds * for the ratio between the world and its reflection .
-   (ID: zsnajorrah)
+3. i love his " throne " !
+   (ID: mizzpkat)
 
-4. i like the theory that jesus christ used marijuana / marijuana oils to create miracles .
-   (ID: JeMangeLeButt)
+4. i love that tast .
+   (ID: rspewth)
 
-5. i would have our " defense " budget used to defend our country , not attack others .
-   (ID: chasemyers)
+5. i love kanye .
+   (ID: SamuelStephenBono)
 
-6. i used the minish cap strategy guide as a reference for this drawing .
-   (ID: ShamPow20)
+6. i love dorinda !
+   (ID: 11_29_77)
 
-7. i used to have a drink problem , then i found another bottle .
-   (ID: AttackTribble)
+7. i love me some wiki .
+   (ID: mylescloutier)
 
-8. i used to be able to get a chicken biscuit for breakfast .
-   (ID: amirman)
+8. i also love carbs .
+   (ID: noworriestoday)
 
-9. i used a mouthpiece yesterday when i went to the gym .
-   (ID: Takumi-Fujiwara)
+9. i love konjac sponges !
+   (ID: lovestheautumn)
 
-10. i used up all the polish .
-   (ID: civex)
+10. i love u furher
+   (ID: sean__christian)
 
-11. i have n't used an external frame pack since boy scouts .
-   (ID: coocha)
+11. i ’d love to see your presentation too !
+   (ID: 11_29_77)
 
-12. i used to be huge but i dropped most of the weight quicker than my skin would tighten back up
-   (ID: WillemDafoesAlterEgo)
+12. i 'd love a clefairy ❤ ️
+   (ID: EmRaff7)
 
-13. i used an old email and then asked me for another email which i provided .
-   (ID: Beachsurfer)
+13. i love athens .
+   (ID: GetItTogether)
 
-14. i used tutorial off youtube and downloaded pangu onto my pc .
-   (ID: PartyPisser)
+14. i love them all .
+   (ID: thebastion)
 
-15. i find it deplorable he only used 1 leaf blower with 3 empty seats .
-   (ID: randominternetdood)
+15. i * still * love the animorphs .
+   (ID: misplaced_my_pants)
 
-16. i still have a deep respect for peanut tillman , even though he used to wreak havoc .
-   (ID: HugePurpleNipples)
+16. i love how gentle they are with each other .
+   (ID: VanGoJourney)
 
-17. i used a spare black backpack .
-   (ID: Aloha-Potato)
+17. i love wakka but ...
+   (ID: Bananafoofoofwee)
 
-18. i used to write music .
-   (ID: Shrub74)
+18. i love his joie de vivre !
+   (ID: hardt0f0rget)
 
-19. i used to have " shame sticks " in college .
-   (ID: chirpyboyandbartjr)
+19. i love you for that .
+   (ID: giraffecakes)
 
-20. i bought a used iphone 6 , connected to my wifi fine initially .
-   (ID: J23_1)
+20. i love ucb !
+   (ID: mushpuppy)
 
 
 --- PER-CHAT ---
-Total from this dataset: 28
+Total from this dataset: 2
 
-1. my parents would always make me apologize to someone personally if i was rude , inappropriate , etc . so as to show me that your actions , even if they are only words , can hold significant consequences when used improperly . they also showed me the power of them when used in the correct context and situation .
-   (ID: e7516540d2045135f43a4a7c61f0bd88856c8ff4)
+1. i love you the most , dave .
+   (ID: cae6d1fb1a818280e66de4a71148560d2d217d70)
 
-2. faster than they used to be , shakes fist from fast moving white van
-   (ID: b3a8447862df1e30a18d38c5c0ad1c8595c18d4c)
-
-3. i used to watch the kid  friendly .
-   (ID: 99954166880bab3dfba5b30dc55bff7c7e31d75e)
-
-4. i used to do something similar . back when they had film camera , tourist would ask you to help them take group photos . i would line the photo up cutting off everyone  s heads the take the photo . man  shrugging  light  skin  tone
-   (ID: b74c6f378f67934bed1f9dd4c591152d002827ec)
-
-5. it  s nothing too special , you get used to it . although while walking in busy places you see a sea of heads and you can spot your fellow talls
-   (ID: fe5860fea6be29c69501e1a97b1240375d594aa9)
-
-6. because it a pocket , and it must be used
-   (ID: 93c3b3d523de0afd404d3bcb4acdf023866f9281)
-
-7. hillary clinton used a body double when she passed out
-   (ID: 9d6763f3caa1ca2559f1a3c525c70ffea81a61c2)
-
-8. i have these from last year . i can  t complain . then again they are probably my first i ever used haha
-   (ID: 67e483ce743c17fe916db25eb96cc2e729ce694c)
-
-9. you get used to where they lie in your characters list , but yea my jawas are tough to tell apart .
-   (ID: 480f3d8feb42f76cdfa6ea3a1dfffaf98bf91060)
-
-10. i went into a motel rooms and behind the and there was a empty bottle of vodka that had been " used "
-   (ID: ae0b5b35ef79984eec810d26abc05e9a757ae0ca)
-
-11. my family used to talk about the concept of changing topics " when is it too soon when is it too early heyohh " . not interesting but funny to me .
-   (ID: c9b1e924c86788c982ec59df3d5704354a2a4ae1)
-
-12. it was meant to be used as a reply to someone who supplied a subject they didn ' t understand .
-   (ID: 0ff9b93da34f69dc075bf7e22366843c393b5bdd)
-
-13. probably minecraft , yes it ' s coming back , but it ' s still not as popular as it used to be
-   (ID: c5b1eabcb1e36db5d221953aeb59e5ca919fb2ac)
-
-14. this is a beautiful piece . i could see that pattern be used in such serious tones but you made it into something truly lively and playful .
-   (ID: 7632dd7ebcb664bfada5fff420a436f42e3721d5)
-
-15. the map layout and style is appealing to me somehow it ' s the map i ' m most used to i was also able to medic push with a noob team , usually hard to do but most of them understood process lots of snipers and spies
-   (ID: 5a485308ca6e36eb17d7b0fc321fcf7695f3af53)
-
-16. yes because i am that and i am used to that more . if i knew them the exact same then i would pick the white person because we have more in common at first glance
-   (ID: 465a8b7c9604514a10670d3813f18485575cfa5c)
-
-17. they won ' t be missed . the rant thread is rarely used as well , and kinda unnecessary since everyone rants on their own posts .
-   (ID: 9c2d2fde31927b8cc3bc419049de8844ca720cb9)
-
-18. used to be fire hydrants . he ' s since gotten over them .
-   (ID: a889137e92d54250452d24f74138b0bffb6e1146)
-
-19. thanks man i will check how they stand against the others i used
-   (ID: c863a7172df41853f354be7adff4b3f9a0cb9736)
-
-20. wow you just used an n  word . how immature of you .
-   (ID: abffa241a0eb33d4cf220980872adc9a148514b4)
+2. one where i find love
+   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
 
 
 --- PersonaChat ---
-Total from this dataset: 3
+Total from this dataset: 12
 
-1. i used to be very religious .
-   (ID: conversation_437)
+1. i love to larp .
+   (ID: conversation_74)
 
-2. my father used to be a butcher .
-   (ID: conversation_463)
+2. i love to do yoga .
+   (ID: conversation_371)
 
-3. my favorite band used to be toto .
-   (ID: conversation_255)
+3. i love hamburgers .
+   (ID: conversation_244)
+
+4. i love bicycling .
+   (ID: conversation_3)
+
+5. i love to recycle .
+   (ID: conversation_530)
+
+6. i love pandas .
+   (ID: conversation_88)
+
+7. i love sharks .
+   (ID: conversation_65)
+
+8. i love ergonomic keyboards and chairs .
+   (ID: conversation_385)
+
+9. i love to gossip .
+   (ID: conversation_435)
+
+10. i love to go to the symphony orchestra .
+   (ID: conversation_213)
+
+11. i love the beatles .
+   (ID: conversation_247)
+
+12. i love sunsets .
+   (ID: conversation_148)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 4
+
+1. I love zumba.
+   (ID: conversation_190_user_2)
+
+2. I love my impala.
+   (ID: conversation_451_user_2)
+
+3. I love the chainsmokers.
+   (ID: conversation_299_user_2)
+
+4. I love her though.
+   (ID: conversation_162_user_2)
 
 
 ============================================================

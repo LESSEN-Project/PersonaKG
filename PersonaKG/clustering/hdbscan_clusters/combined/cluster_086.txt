@@ -1,148 +1,86 @@
 CLUSTER 86
 ============================================================
-Total statements in cluster: 189
-Cluster persistence (stability): 0.719
+Total statements in cluster: 426
+Cluster persistence (stability): 0.526
 
 Dataset distribution in this cluster:
-  MPChat: 4 (2.1%)
-  MSC: 1 (0.5%)
-  PEC: 174 (92.1%)
-  PER-CHAT: 7 (3.7%)
-  PersonaChat: 2 (1.1%)
-  SyntheticPersonaChat: 1 (0.5%)
+  PEC: 1 (0.2%)
+  PER-CHAT: 425 (99.8%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- MPChat ---
-Total from this dataset: 4
-
-1. i think samson is dying?
-   (ID: zonumnire)
-
-2. i think i found a crested barrel cactus.
-   (ID: tucsonyeti)
-
-3. i think she ate too much spinach...
-   (ID: River_Lethe)
-
-4. i think he likes it
-   (ID: CollegeSleezeball)
-
-
---- MSC ---
+--- PEC ---
 Total from this dataset: 1
 
-1. I think most scary monsters are serious.
-   (ID: dialog_54_speaker_2)
-
-
---- PEC ---
-Total from this dataset: 174
-
-1. i think they both smell the same
-   (ID: iToaditSo)
-
-2. i think i 'm in the majority here .
-   (ID: Szos)
-
-3. i think /thathappened is more appropriate
-   (ID: Szos)
-
-4. i do n't think that is in order .
-   (ID: DanGarion)
-
-5. i do n't think that 's his bedroom , or robe .
-   (ID: sbsb27)
-
-6. i think you accidentally a few .
-   (ID: chasemyers)
-
-7. i think chimpanzees are ridiculously obnoxiously strong .
-   (ID: JaZepi)
-
-8. i can think of two ways
-   (ID: lonewolf2556)
-
-9. i think because the whole brewery behind them is poorly shopped in
-   (ID: Captain_-H)
-
-10. i think we found a roddy mark .
-   (ID: MUZAI)
-
-11. i think it stands for " muddy hemaroids "
-   (ID: aydinsevimli)
-
-12. i .. i think it 's satire mate
-   (ID: LabeledAsALunatic)
-
-13. i think it spontaneously appeared as the diametrically opposed force to " yoink . "
-   (ID: monday_madrigal)
-
-14. i think it ’s the male counterpart for ghoul trooper .
-   (ID: TheRealAshren)
-
-15. i think we have a winner , folks .
-   (ID: StinkinFinger)
-
-16. i doubt - i think 270 or so .
-   (ID: Machinax)
-
-17. i think i might pass on that one .
-   (ID: Darth_Waiter)
-
-18. i think shorten has more discipline than the current coalition circus .
-   (ID: 512165381)
-
-19. i think its broken , too .
-   (ID: Star_KillA)
-
-20. i think it should be , _ turkey
-   (ID: harumpf)
+1. i saved your * favorite * things . "
+   (ID: Sugarpeas)
 
 
 --- PER-CHAT ---
-Total from this dataset: 7
+Total from this dataset: 425
 
-1. i think it  s one of the first clips
-   (ID: a69486a9dd78d1ba9533599ba57eac9079ca3c8d)
+1. One of my favorite things is dr strange.
+   (ID: d306fdc150cd289e266e785107cfceff83aa649c)
 
-2. any more details on why you think this ?
-   (ID: e62a0b4f33f101f286a75d53b63d0fe92d5dc717)
+2. One of my favorite things is rollins as a writer.
+   (ID: 3b45915d58b20f0e2abb6b26d4534980a5d3aa68)
 
-3. do you think there is the possibility to do the same with rx6 ?
-   (ID: bdec7fdc10121458649dd9ddc939c48d829eb7ce)
+3. One of my favorite things is guardians   galaxy.
+   (ID: 08f11971c665b10afd81008344be824eee9ae6a7)
 
-4. you think so ? i think it ' s part of the concept .
-   (ID: 4e7357574b1b24c540d9d8335b8cdb46f0dd3d78)
+4. One of my favorite things is cute pepes.
+   (ID: c6b2000b95ec54c8393c3ab07cc2c5acd2563345)
 
-5. i think you made a mistake there
-   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+5. One of my favorite things is split snatches  dumbbells  humans.
+   (ID: a815d9b5c98aef3203b8f4f74528072fb989f0b1)
 
-6. " him " , we think its a bot
-   (ID: 504068c33194e1261903c2e0b19c42fc1d06b0a2)
+6. One of my favorite things is cainhurst horse.
+   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
 
-7. you think about the kardashian ' s in the shower ?
-   (ID: af7909c19fea28cadcabd2f3b93c831e3c684dad)
+7. One of my favorite things is uranus jokes.
+   (ID: 74b39a57f22c2783cb59064a6f33cd8db3d8f787)
 
+8. One of my favorite things is bruce campbell.
+   (ID: c6e395c03fa0151554baed67a84968066bfa9cf3)
 
---- PersonaChat ---
-Total from this dataset: 2
+9. One of my favorite things is george carlin.
+   (ID: c0cbd0e097375f98ad98ec291f836a39d55e02c1)
 
-1. i am not afraid of what others think .
-   (ID: conversation_37)
+10. One of my favorite things is soft clothing.
+   (ID: bb88411b165294ddd01835e6389a8e93e9d796d3)
 
-2. sometimes i think i should get out and exercise more .
-   (ID: conversation_148)
+11. One of my favorite things is paul thomas anderson.
+   (ID: 0264eec5f9f9a43d83f3a82c46341e90961fa3b8)
 
+12. One of my favorite things is freedom.
+   (ID: d8681af7ff5797fb2ffcb9a4a08f377463526e2d)
 
---- SyntheticPersonaChat ---
-Total from this dataset: 1
+13. One of my favorite things is feta cheese.
+   (ID: e387b7eddf8ab01e3dd767dc2f5ca52494fbe9b0)
 
-1. I think the moon landing was faked.
-   (ID: conversation_250_user_2)
+14. One of my favorite things is pc.
+   (ID: 3c405c5b13146831496e429cf2aff978fcec01eb)
+
+15. One of my favorite things is strategy.
+   (ID: db585f1dbaa42a5cff4c6b3dbc242bf7ea45bd9a)
+
+16. One of my favorite things is bourbon with ginger beer.
+   (ID: f3657f57aa348caf1c32ec21ef139ea41a45dc29)
+
+17. One of my favorite things is opening piety.
+   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
+
+18. One of my favorite things is royal club shandy.
+   (ID: 21bf46058f1cab200cb4b3c2a0165363bbe171a8)
+
+19. One of my favorite things is keep dying here.
+   (ID: 22864f9484c3c6d7f8c8dac79c58ea32865eb794)
+
+20. One of my favorite things is freak.
+   (ID: 66750361d02d9ee974e14a6210ca6d6be541400e)
 
 
 ============================================================

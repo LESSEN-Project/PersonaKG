@@ -1,288 +1,211 @@
 CLUSTER 73
 ============================================================
-Total statements in cluster: 242
-Cluster persistence (stability): 0.988
+Total statements in cluster: 110
+Cluster persistence (stability): 0.830
 
 Dataset distribution in this cluster:
-  FoCus: 25 (10.3%)
-  MPChat: 11 (4.5%)
-  MSC: 11 (4.5%)
-  PEC: 177 (73.1%)
-  PER-CHAT: 2 (0.8%)
-  PersonaChat: 12 (5.0%)
-  SyntheticPersonaChat: 4 (1.7%)
+  MPChat: 15 (13.6%)
+  MSC: 3 (2.7%)
+  PEC: 74 (67.3%)
+  PER-CHAT: 13 (11.8%)
+  PersonaChat: 2 (1.8%)
+  SyntheticPersonaChat: 3 (2.7%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- FoCus ---
-Total from this dataset: 25
-
-1. I love Nieuwediep.
-   (ID: WT0FL97IGHLW_11)
-
-2. I love bats.
-   (ID: X3WVWF5IVCYD_11)
-
-3. I would love to vist Divljana Monastery again.
-   (ID: V0DLNYLN813E_11)
-
-4. I love Nikolaevsky.
-   (ID: 9VN3FMWR0NNR_11)
-
-5. I love Buckinghamshire.
-   (ID: JBP0INT1W707_11)
-
-6. I love the name Kielplaats.
-   (ID: WT0FL97IGHLW_11)
-
-7. I love Tormentil.
-   (ID: VOQV863ZK27L_11)
-
-8. I love cathedrals.
-   (ID: TDUTQ7NCYJ1S_11)
-
-9. I love Horace Walpole.
-   (ID: 8C87PLCFQ0ZH_11)
-
-10. I love aqueducts.
-   (ID: GC9BAJTK54F1_11)
-
-11. I love the village.
-   (ID: YFMEKH9C9CFO_11)
-
-12. I love mumbai.
-   (ID: LFDYLQP6HP80_7)
-
-13. I have never been to Madagascar and would love to go there.
-   (ID: FS1LJTHM1IC0_11)
-
-14. I love Congregation Baith Israel.
-   (ID: VQJADZ97TJ0Z_11)
-
-15. I love geological findings conducted by volcanologists.
-   (ID: G4JZMW0OPV0G_11)
-
-16. I love Llangynog for its cleanliness.
-   (ID: QD76MDAZKTVK_11)
-
-17. I love RAF Cleave.
-   (ID: DNUH5LJGPOZC_11)
-
-18. I love Stourbridge.
-   (ID: 72MY00U8UEGB_11)
-
-19. I love Hanumappa Nayaka.
-   (ID: UN54IACHSTX5_11)
-
-20. I love Stephen Olin.
-   (ID: NXTH1QSPOJFF_11)
-
-
 --- MPChat ---
-Total from this dataset: 11
+Total from this dataset: 15
 
-1. i'm in love with spooky and glitter.
-   (ID: skorletun)
+1. finally getting my ei and co2 balanced.
+   (ID: Osh1986)
 
-2. swatched up halloweentown and i'm in love.
-   (ID: ninjaeatingzombie)
+2. my money tree is getting quite wide, is pruning my only option?
+   (ID: sonkette)
 
-3. skellinon - i love this shawl
-   (ID: RayRay108)
+3. shout out to apmex for getting me my 2020 ases so quickly.
+   (ID: de_argh)
 
-4. i'm in love with this cabled cowl!
-   (ID: ddizzle23)
+4. my ball of fuzz getting some sun before it goes away again
+   (ID: MafHoney)
 
-5. love my cypress hideaway!
-   (ID: pope237)
+5. how is my cheese cave already getting too small?
+   (ID: RDTish)
 
-6. i love my mk6 gli
-   (ID: bryanw0104)
+6. it's july and i'm still getting orders for mittens!
+   (ID: Novel_Fox)
 
-7. i love beetles and so i made this stamp!
-   (ID: pocket_kira)
+7. changed up my grind and tamp and am now getting much smoother crema and much nicer art!
+   (ID: ext23)
 
-8. i love your derp.
-   (ID: lizdavis17)
+8. my aloe pickled pink getting her summer coloring!
+   (ID: zonumnire)
 
-9. why i love this thermometer.
-   (ID: scottstephenson)
+9. getting my base more symmetrical and defined
+   (ID: jlb4est)
 
-10. i love my donabe.
-   (ID: neonlouvre)
+10. while changing the water i noticed that my monstera roots are getting quite long!
+   (ID: heatsensitive)
 
-11. this is why i love bottomless portafilters.
-   (ID: Ry_)
+11. eight pizzas in i am getting the hang of the ooni pro
+   (ID: cigarjack)
+
+12. finally back to working on my suburban wrap after getting every kind of sidetracked!
+   (ID: meghanlovessunshine)
+
+13. i’m still not getting the hang of attaching the trunk.
+   (ID: NervousToast)
+
+14. spring is here and i'm getting raw milk again.
+   (ID: 5ittingduck)
+
+15. getting my practice in.
+   (ID: VodkaWithSnowflakes)
 
 
 --- MSC ---
-Total from this dataset: 11
+Total from this dataset: 3
 
-1. I love me some brisket.
-   (ID: dialog_184_speaker_2)
+1. I am considering getting more serious about photography.
+   (ID: dialog_49_speaker_2)
 
-2. I love jager.
-   (ID: dialog_207_speaker_1)
+2. I'm getting my degree at home.
+   (ID: dialog_139_speaker_1)
 
-3. I love lobster.
-   (ID: dialog_144_speaker_1)
-
-4. I love Zupoo's cheeseburgers.
-   (ID: dialog_219_speaker_2)
-
-5. I love mosh pits.
-   (ID: dialog_13_speaker_2)
-
-6. My children love pancakes.
-   (ID: dialog_233_speaker_2)
-
-7. I love my clan.
-   (ID: dialog_140_speaker_2)
-
-8. I love the nhl.
-   (ID: dialog_86_speaker_1)
-
-9. I love my knee highs.
-   (ID: dialog_59_speaker_2)
-
-10. I love Ella Fitzgerald.
-   (ID: dialog_122_speaker_1)
-
-11. I love tetris.
-   (ID: dialog_86_speaker_2)
+3. I'm getting a passport.
+   (ID: dialog_89_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 177
+Total from this dataset: 74
 
-1. i love manitou .
-   (ID: Piraticalstyle)
+1. i 'm wondering if it 's worth getting the 521 because of the missing frequency on the 520 .
+   (ID: DanGarion)
 
-2. i love the palace .
-   (ID: whyunogivemegoodname)
+2. i would n't mind them getting off to pics of me either .
+   (ID: conservative_poly)
 
-3. i love you , ursula
-   (ID: TylerC_D)
+3. i 'm getting tired of all the dgpt haters .
+   (ID: DanGarion)
 
-4. i love contra .
-   (ID: TaakaTime)
+4. i plan on getting clearer pics and posting on here at some point .
+   (ID: BabblingBunny)
 
-5. i love his musics!~ ! !
+5. i see you 're getting downvoted .
+   (ID: BabblingBunny)
+
+6. i contemplated getting a per diem job at panera .
+   (ID: SayceGards)
+
+7. i keep seeing knight rider and getting confused .
+   (ID: Othello)
+
+8. i ’m behind , never getting anywhere .
+   (ID: tobehappyagain)
+
+9. i plan on getting permission from the musicians too .
    (ID: amirman)
 
-6. i love kam .
-   (ID: EvieAugust)
+10. i 'm getting an alice in wonderland vibe .
+   (ID: KikAtWorkFL)
 
-7. i do love grub .
-   (ID: rachie-bobby)
+11. i also have been getting outdoors and walking my dog everyday !
+   (ID: AgedTwenties)
 
-8. i love blair ’s .
-   (ID: howfuckedareyou)
+12. i keep getting a message from a mod that they are taking it down .
+   (ID: latestartksmama)
 
-9. i love them !
-   (ID: ItGetsAwkward)
+13. i am concerned about getting this on the tv .
+   (ID: dammitOtto)
 
-10. i love your flexibility .
-   (ID: kimru3344)
+14. i ’m having some problems getting them
+   (ID: Big_Orange566)
 
-11. i love goldens .
-   (ID: notthruyet)
+15. i 'm getting a raging clue , pointing is that direction .
+   (ID: Question-everythings)
 
-12. i love ar 670 - 1 ..
-   (ID: warname)
+16. i ’m still getting the same amount of sleep !
+   (ID: jenni268)
 
-13. i love ether as a name .
-   (ID: NyxPeregrinus)
+17. i 'm getting terrible mileage in my promaster .
+   (ID: VanGoJourney)
 
-14. i love me some posty . 2 .
-   (ID: jessibabyy11)
+18. i m at urgent care getting a chest xray .
+   (ID: Bathysphere710)
 
-15. i love bishi bashi ; _ _ ;
-   (ID: Mende)
+19. i have been getting more replies then ever before .
+   (ID: aydinsevimli)
 
-16. i love groundhogs ! ! !
-   (ID: hardt0f0rget)
-
-17. i love thatcher .
-   (ID: LabeledAsALunatic)
-
-18. i love all of this !
-   (ID: Ooer)
-
-19. i love owane .
-   (ID: creedisagoodband)
-
-20. i love that that is done on ubuntu .
-   (ID: middlegeek)
+20. i 'm now getting 120 - 130ms for no reason at all .
+   (ID: Kialand)
 
 
 --- PER-CHAT ---
-Total from this dataset: 2
+Total from this dataset: 13
 
-1. one where i find love
-   (ID: 32b13ea4ca437349e9a1e08776a6ff36cef70328)
+1. losing the m3 gtr at the beginning for nfs most wanted then getting it back and totalling it at the beginning of nfs carbon
+   (ID: af7909c19fea28cadcabd2f3b93c831e3c684dad)
 
-2. i love you the most , dave .
-   (ID: cae6d1fb1a818280e66de4a71148560d2d217d70)
+2. how are you getting that in a stocking ?
+   (ID: 75ff34ffb6cf4f55cc215d4983628cc79f5ce175)
+
+3. if a couple is getting divorced it means someone broke their word . they never should have been married in the first place .
+   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
+
+4. i realized as a kid that i would be getting fewer cards and money each birthday because my grandparents and older relatives were passing away .
+   (ID: ea3b9395602c702397d514c6da7049b089458032)
+
+5. how dare you ? my niece  s pet hamster died from choking on a cherry . now you  re definitely not getting gold .
+   (ID: c418fa452eafbca022ce1c49b521d4574aa77cd1)
+
+6. this is getting out of hand ! now there are two of them !
+   (ID: 7e4d6ecc7fe0cd7c9463da302f069c65af2af3f7)
+
+7. not exactly to the american border yet , but they ' re getting there . here ' s your link .
+   (ID: 3bd27d669b5f394ae490c4e17c08aca524c47546)
+
+8. you knew what you were getting into when you married this nerd
+   (ID: 46a39b1131e50f9cc061bbaf88e15686e5c9359d)
+
+9. out of what ? what ' s been getting you down
+   (ID: 7e977d8c833923afad8d62330f570dfb4308db8b)
+
+10. once every hour . i ' m getting brain dead .
+   (ID: c8c5c965e2188b52c51dd0dd8715dabd412209f5)
+
+11. getting a metal pole shot through your skull . shoutout to phineas gage .
+   (ID: 569832646eef001c1724d2ecdb8abedbbfd927ab)
+
+12. you aren ' t getting that now , instead here ' s
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+
+13. tortoises getting it on , it wasn ' t the visual experience that was weird . the sounds they made , oh god .
+   (ID: 0e6a43754a1dcb5e74789d829e04eccdbba7129f)
 
 
 --- PersonaChat ---
-Total from this dataset: 12
+Total from this dataset: 2
 
-1. i love to larp .
-   (ID: conversation_74)
+1. i am getting married in six months .
+   (ID: conversation_101)
 
-2. i love pandas .
-   (ID: conversation_88)
-
-3. i love ergonomic keyboards and chairs .
-   (ID: conversation_385)
-
-4. i love to recycle .
-   (ID: conversation_530)
-
-5. i love the beatles .
+2. i have trouble getting along with family .
    (ID: conversation_247)
-
-6. i love sharks .
-   (ID: conversation_65)
-
-7. i love to go to the symphony orchestra .
-   (ID: conversation_213)
-
-8. i love to do yoga .
-   (ID: conversation_371)
-
-9. i love sunsets .
-   (ID: conversation_148)
-
-10. i love bicycling .
-   (ID: conversation_3)
-
-11. i love hamburgers .
-   (ID: conversation_244)
-
-12. i love to gossip .
-   (ID: conversation_435)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 4
+Total from this dataset: 3
 
-1. I love her though.
-   (ID: conversation_162_user_2)
+1. I take pride in getting straight a s.
+   (ID: conversation_76_user_2)
 
-2. I love the chainsmokers.
-   (ID: conversation_299_user_2)
+2. My sister is becoming my mother and often asks me when i m getting married.
+   (ID: conversation_167_user_2)
 
-3. I love zumba.
-   (ID: conversation_190_user_2)
-
-4. I love my impala.
-   (ID: conversation_451_user_2)
+3. We are getting married in a park.
+   (ID: conversation_179_user_2)
 
 
 ============================================================

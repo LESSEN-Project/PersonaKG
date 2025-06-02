@@ -951,3 +951,24 @@ class PersonaDataset:
                 })
         
         return final_personas
+
+    def load_all_personas(self, split, sample_size):
+        all_personas = {}
+        
+        for dataset_name in self.config.keys():
+            print(f"\nLoading personas from {dataset_name}...")
+            try:
+                personas = self.get_personas_from_dataset(
+                    dataset_name, 
+                    split=split, 
+                    sample_size=sample_size
+                )
+                
+                all_personas[dataset_name] = personas
+                print(f"Loaded {len(personas)} personas from {dataset_name}")
+                
+            except Exception as e:
+                print(f"Error loading {dataset_name}: {e}")
+                continue
+                
+        return all_personas

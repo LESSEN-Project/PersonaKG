@@ -1,160 +1,103 @@
 CLUSTER 93
 ============================================================
-Total statements in cluster: 64
-Cluster persistence (stability): 0.997
+Total statements in cluster: 66
+Cluster persistence (stability): 0.988
 
 Dataset distribution in this cluster:
-  MPChat: 26 (40.6%)
-  PEC: 34 (53.1%)
-  PER-CHAT: 4 (6.2%)
+  PEC: 61 (92.4%)
+  PER-CHAT: 3 (4.5%)
+  PersonaChat: 2 (3.0%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- MPChat ---
-Total from this dataset: 26
-
-1. dropped my '86 bridgestone today
-   (ID: i_like_it_raw_)
-
-2. took this shot at my cafe today.
-   (ID: SilentRansom)
-
-3. sold my first couple of pots today!
-   (ID: tinytinatuna2)
-
-4. passed this on my 72 mile ride today...
-   (ID: i_like_it_raw_)
-
-5. today i broke the hearts of everyone working at the humane society.
-   (ID: crunch816)
-
-6. had to bid farewell to my sweet stormy today...
-   (ID: Gallifrey4637)
-
-7. my 1998 ford escort hit a milestone today.
-   (ID: hensandchicas)
-
-8. this was lunch today, i made all the food except for the rice crackers.
-   (ID: 5ittingduck)
-
-9. my ruby arrived today, rounding out my elastica collection!
-   (ID: heatsensitive)
-
-10. this absolutely massive stalk of rhubarb i harvested today
-   (ID: IceEye)
-
-11. today's experiment is raw milk halloumi, my first ever "cooked" cheese.
-   (ID: 5ittingduck)
-
-12. the airbus a300f4-622r cargo deck i'm loading today.
-   (ID: Fallout76Merc)
-
-13. sharing a couple angles of this bacon cheeseburger i made for lunch today :)
-   (ID: ambora)
-
-14. i’m pulling fall pots from the kiln today.
-   (ID: audballofclay)
-
-15. today gus learned that my yarn isn't a toy.
-   (ID: Idgy98)
-
-16. i entered a dangerous area today
-   (ID: Ichishiro)
-
-17. douched my taco today.
-   (ID: drinkdrinkshoesgone)
-
-18. i met this cutie patootie today at petsmart
-   (ID: kentobean123)
-
-19. i made this for my dads birthday today
-   (ID: castaneda2912)
-
-20. i went to a garage sale today
-   (ID: LiftingNurse)
-
-
 --- PEC ---
-Total from this dataset: 34
+Total from this dataset: 61
 
-1. i had confessed this to myelf earlier today .
+1. i miss letterman .
+   (ID: Byde)
+
+2. i miss living in albany .
+   (ID: doctor_parcival)
+
+3. i miss mine too .
+   (ID: hussy_trash)
+
+4. i do n't miss anything .
+   (ID: nate6051)
+
+5. i miss guam : (
+   (ID: ifixurchit)
+
+6. i miss wogan .
+   (ID: ChoppingOnionsForYou)
+
+7. i miss ebert !
+   (ID: Oceanshimmy)
+
+8. i miss fourth place so much
+   (ID: therocketandstones)
+
+9. i miss gnp .
+   (ID: nsywhsprsengnr)
+
+10. i miss you ladies !
+   (ID: COCOnizzle)
+
+11. i miss shane :(
+   (ID: rachie-bobby)
+
+12. i miss climbing .
+   (ID: Mahatma_Panda)
+
+13. i miss having dogs and cattle .
    (ID: supmraj)
 
-2. i built a cell phone mount , front and rear lights today .
-   (ID: jwshapir)
+14. i miss my henry .
+   (ID: Simplisticjoy)
 
-3. i went to an amusement park today .
-   (ID: redandblack555)
-
-4. i have her blocked , but my sister forwarded me a winner today .
-   (ID: rycheme)
-
-5. i can;t words today .
-   (ID: conservative_poly)
-
-6. i will not drink today .
-   (ID: latestartksmama)
-
-7. i took locastro today .
-   (ID: USAFIDMT)
-
-8. i ran into roberto today ...
-   (ID: msiekkinen)
-
-9. i made my first rrs purchase today !
-   (ID: rycheme)
-
-10. i qualified as a veterinary nurse today !
-   (ID: bigfuckingdiamond)
-
-11. i found one today on my car in nw wa state .
+15. i miss osoko .
    (ID: parkleswife)
 
-12. i ’m also stupidly excited that my heart rate monitor comes in today !
-   (ID: jenni268)
+16. i miss working at hooters .
+   (ID: chasemyers)
 
-13. i needed this reminder today , i 'm up 5 pounds this weekend too !
-   (ID: notlikethat1)
+17. i miss having positive energy bouncing back and forth .
+   (ID: _gansmadchen)
 
-14. i will get the album today .
-   (ID: JimmyMcShiv)
+18. i miss you harambe .
+   (ID: Occams_Spork)
 
-15. i had a couple pms today about this one today .
-   (ID: AzHighways)
+19. i miss those times :(
+   (ID: ExcessiveAggro)
 
-16. i bought 30 dozen eggs today for $ 0.98 /dozen .
-   (ID: TylerC_D)
-
-17. i went a few days without any sugar but today i drank a whole bottle of pepsi .
-   (ID: cassieeh)
-
-18. i forced myself to get through it today .
-   (ID: AgedTwenties)
-
-19. i was serving a family today , they had a tiny human with them .
-   (ID: DanceFiendStrapS)
-
-20. i ate poutine today .
-   (ID: chirpyboyandbartjr)
+20. i miss my cat now , rip shirly temple
+   (ID: Question-everythings)
 
 
 --- PER-CHAT ---
-Total from this dataset: 4
+Total from this dataset: 3
 
-1. why get done today what you can put off until tomorrow ?
-   (ID: 7df89b558f49c9f710c5f928f61dae67f52229c7)
+1. yup ! as a qa manager i second your statement . we sometimes have a miss on our vertical form and fill machine that ultimately leads to this .
+   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
 
-2. today ? trump .
-   (ID: 33483b17911ec063ef4562ae3263fe478eba6a2c)
+2. what if you knowing the numbers somehow changes the outcome ? and you miss out anyway .
+   (ID: 4cc753880acafe19a59cd87ecc09d1637e797277)
 
-3. now we take a moment to thank our today ' s sponsor .
-   (ID: 2c5816cbbee60e3c348eb04900ea7453604cff82)
+3. you miss the joke ?
+   (ID: b6f013c0bdbca04282e87d0e013063517d33e93b)
 
-4. it seems fitting for what ' s happening in our society today .
-   (ID: ca54d4180de9b088bd094f1276283154defc1ad4)
+
+--- PersonaChat ---
+Total from this dataset: 2
+
+1. i miss my dad .
+   (ID: conversation_84)
+
+2. at night , i party hard in the atlanta club scene , and i never miss a music festival .
+   (ID: conversation_106)
 
 
 ============================================================

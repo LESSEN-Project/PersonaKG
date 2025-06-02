@@ -1,267 +1,143 @@
 CLUSTER 69
 ============================================================
-Total statements in cluster: 659
-Cluster persistence (stability): 0.109
+Total statements in cluster: 98
+Cluster persistence (stability): 0.819
 
 Dataset distribution in this cluster:
-  FoCus: 29 (4.4%)
-  MPChat: 6 (0.9%)
-  MSC: 3 (0.5%)
-  PEC: 475 (72.1%)
-  PER-CHAT: 142 (21.5%)
-  PersonaChat: 3 (0.5%)
-  SyntheticPersonaChat: 1 (0.2%)
+  PEC: 75 (76.5%)
+  PER-CHAT: 23 (23.5%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- FoCus ---
-Total from this dataset: 29
-
-1. I would like to know if the designer was Sir Joseph Paxton.
-   (ID: JBP0INT1W707_11)
-
-2. I do not know much about Orkneyinga Saga.
-   (ID: DMQ664J9SVLI_11)
-
-3. I would like to know what the arch is a symbol of.
-   (ID: UU5XLWW1EPVV_11)
-
-4. I like to know about the flora of different places.
-   (ID: RQW9YJT6PSHE_7)
-
-5. I do know about Asian art.
-   (ID: GG3IBG4SOHXX_11)
-
-6. I would like to know about construction.
-   (ID: P1H8TAIRTLFZ_9)
-
-7. I am willing to know about saṃsāra.
-   (ID: IP4KRMQQREBQ_9)
-
-8. I would like to know the description.
-   (ID: PSAPP3TRHUMW_11)
-
-9. I would like to know more about the Battle of Bannockburn.
-   (ID: X4XPZG2COY57_11)
-
-10. I would like to know East Kilbride and Glasgow.
-   (ID: 7C0IO5MA7D9I_11)
-
-11. I would like to know more about the Phrygians.
-   (ID: LX3CSQUSJ9B3_9)
-
-12. I would like to know about local festivals.
-   (ID: F35ZR8G6V60I_9)
-
-13. I do not know much about Canadian art.
-   (ID: GG3IBG4SOHXX_11)
-
-14. I would like to know more about wires.
-   (ID: JQH81FVVL135_11)
-
-15. I am willing to know more about Jewish Deco.
-   (ID: VQJADZ97TJ0Z_11)
-
-16. I would like to know more about trade.
-   (ID: 7U2KEOOFBDTF_11)
-
-17. I didn't know that there was gallery specialized in exhibiting protraits.
-   (ID: MGEY7QK79154_11)
-
-18. I would like to know the location of knob hill.
-   (ID: TBZIWSGJCM17_11)
-
-19. I like to know about the stories of the places I visit.
-   (ID: M64VNZMJSA71_11)
-
-20. I would like to know more about my cities districts.
-   (ID: H6NTBWMH465Q_11)
-
-
---- MPChat ---
-Total from this dataset: 6
-
-1. i dont know why but this design is such a beautiful fluke.
-   (ID: Soggypaper_)
-
-2. using antique jars with rubber gaskets and glass lids - how do i know my watermelon rind pickles sealed?
-   (ID: hensandchicas)
-
-3. rose apple pies (yes, i know, again, but these are slightly different).
-   (ID: zenbuffy)
-
-4. i know this is a trap, but i can't help it.
-   (ID: MafHoney)
-
-5. nobody will know it's there, but i will!
-   (ID: Louiesloops)
-
-6. ceramic bowl ... or plate , i dont know :) what is this ?
-   (ID: ahimoto)
-
-
---- MSC ---
-Total from this dataset: 3
-
-1. I do not know my real parents.
-   (ID: dialog_68_speaker_1)
-
-2. I do not know the sex of the baby yet. My husband wants a boy. My husband is in the army.
-   (ID: dialog_40_speaker_2)
-
-3. I know one of the members of Pearl Jam.
-   (ID: dialog_41_speaker_2)
-
-
 --- PEC ---
-Total from this dataset: 475
+Total from this dataset: 75
 
-1. i know the bastard , so trust me .
-   (ID: Kialand)
+1. i think it 's just become a colloquial term for " person in heaven " though .
+   (ID: NyxPeregrinus)
 
-2. i know this comment will get buried ... but omg ...
-   (ID: GanjaSmoker420HaloXX)
+2. i think that 's what just saved my ass !
+   (ID: juls2587)
 
-3. i will have you know i an immortal orange cat .
-   (ID: randominternetdood)
+3. i think inn russia they just call that driving .
+   (ID: trav110)
 
-4. i will have to let my husband know that .
-   (ID: notlikethat1)
+4. i think they both pooped just a bit
+   (ID: sherry2012)
 
-5. i 'm like , how will i know where he is ?
-   (ID: dammitOtto)
+5. i think he was just trolling .
+   (ID: harumpf)
 
-6. i do n't know much of the meta when it comes to items and counter building .
-   (ID: carebearstare93)
+6. i just do n't think a -chu should ever follow a -t in english
+   (ID: TylerC_D)
 
-7. i do n't know , but it 's different and i 'm scared ... we should lock it up .
-   (ID: chosenamewhendrunk)
+7. i think i just found that missing gravity !
+   (ID: Szos)
 
-8. i know , i was drunk when i wrote that .
-   (ID: DickRubnuts)
+8. i think it 's probably easier and more effective to just ban them .
+   (ID: cometparty)
 
-9. i know about sophie and mike , who were the other 1/2 ?
-   (ID: bigfuckingdiamond)
+9. i grew up quite sheltered , i think : d or maybe i am just a bit dumb
+   (ID: conservative_poly)
 
-10. i know that .
-   (ID: bleepblorp9878)
+10. i think if you decide not to kill the guys who plead they just wind up attacking you again .
+   (ID: nastylittleman)
 
-11. i know , i could google , but i 'm so tiiireddd ;) .
-   (ID: leo9g)
+11. i think the fellas in mexico just said they will pay for it .
+   (ID: alicepalmbeach)
 
-12. i do n't know how many times she 's having sex .
-   (ID: dkinmn)
+12. i think he is just ducking with us .
+   (ID: Unknown_nam3)
 
-13. i lay down and take it because i do n't know how to attack you back .
-   (ID: boyofthechapter)
+13. i think .... i think we just made it up .
+   (ID: Nolanoscopy)
 
-14. i know i would be !
-   (ID: mizzpkat)
+14. i just think there ’s been some ballot stuffing .
+   (ID: throwaway073847)
 
-15. i know exactly what you 're talking about ! !
-   (ID: Chase_P)
+15. i would think muscle tissue is different , but i ’m just guessing .
+   (ID: Casehead)
 
-16. i do n't know about vram .
-   (ID: BorgDrone)
+16. i do n't think it 's illegal to own them , just to buy them .
+   (ID: amirman)
 
-17. i do n't know anything about missouri but it sounds incredibly dynamic
-   (ID: Lifes6Midnight)
+17. i think red tea is just another name for black tea .
+   (ID: Lilliaan)
 
-18. i might know someone
-   (ID: Tjgl)
+18. i 'm not complaining , i just think it 's not ready for mass adoption yet .
+   (ID: hoveringlurker)
 
-19. i know you wo n't ever leave or stop bitching .
-   (ID: SanJOahu84)
+19. i think their just esl
+   (ID: microliteoven)
 
-20. i know his name mainly by his mail to computer - go mailing list .
-   (ID: xcombelle)
+20. i think you just described valium .
+   (ID: sbsb27)
 
 
 --- PER-CHAT ---
-Total from this dataset: 142
+Total from this dataset: 23
 
-1. ok , i figured out how to do it , i deleted all the entities that i didn ' t know what they were and i was able to open my world ! thank you so so so so much !
-   (ID: 125ddbf9c8c84552065bdd657a82dd3f392bf5c1)
+1. thanks for telling me what i think . there just wouldn ' t be tangible proof . the end .
+   (ID: 45165f29e8e7c1736ef3e4b70d312f493a62eb83)
 
-2. do you even know how long ive been wanting to know this ? thank you kind stranger .
-   (ID: fe4ddb52a6f20437e3f3c6003b775cb72c3d048f)
+2. she invited you to her house , showered while you were there and was willing to let you see her in just a towel ? i think you missed some signals , buddy .
+   (ID: 8e9d9ac876fd2e0508d95d3e43def46faae3c312)
 
-3. what the name of this place ? i know there ' s only a witch  hagraven here
-   (ID: 93e68d083628a6ef13822ab76b50282903a247f4)
+3. i would not unless you have a great relationship with your boss otherwise they will think you ' re bluffing and just let you go
+   (ID: 3bc536069edd6aa052ced5b6ea5f69eefae07cb7)
 
-4. no please . you do have a place in this world . you may not know it yet but you will find what place you have in this world . you can ' t reach it if you ' re gone .
-   (ID: 016485853897f1b9f422dd4da7d83e7e4a5261b0)
+4. for me . i just think  how can i benefit from this or how can it benefit me
+   (ID: 4e784da799782c45d8883de53e87a533129a3b8e)
 
-5. how do you know that you are coming at me without facts
-   (ID: 23df46bdba3eb265d08b02c9ec5f365cf45ae5fd)
+5. so you think it ' s ok to just go around and steal memes that someone worked for hours on ?
+   (ID: 695ad7129ad4566e5fbe988279cd914c2bff0ce9)
 
-6. oh thanks but how do i know what week i  m on and which area i go to ?
-   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
+6. i honestly think that ' s just a myth
+   (ID: 207223d61d741a9dd298aa4dd1f8b3c219c05cb7)
 
-7. i have yet to know what they are drinking . answers ?
-   (ID: dfce1acfa3b38aef8a0478083e9249ec2a2102d7)
+7. no i think that  s what i  m gonna do . i was just asking for possibilities on what the hell it could be
+   (ID: 903829fb4aefc18f9ba3e0dc7d2f3267adf2bcc8)
 
-8. know yourself . find out what makes you unhappy and solve it .
-   (ID: 10d0b3cd3f9e3f2b4c3fd6c4c8bae3ba7917a344)
+8. and i think to myself , what a wonderful world . it ' s just so perfect .
+   (ID: 28f883d57b9f1fffcad681de2efdbceb1a7aeecf)
 
-9. this is true , if only you  d know stuff like this sooner
-   (ID: f23956d7a437d91e64a9d94dcd8eaae6945fa691)
+9. just when you think it ' s gone you hear the eeeeeee .
+   (ID: db585f1dbaa42a5cff4c6b3dbc242bf7ea45bd9a)
 
-10. we are super open and comfortable with each other . ego , which can be a problem with actual lovers , is not a problem with her . and we know about our darkest secrets .
-   (ID: 37afe6aed6f5a2677e6ebd0e4e168a560dc96061)
+10. thank you ! i didn  t think about the opportunities to swim ! he  s just a puppy so i think it should be ok to transition now rather than when he  s older .
+   (ID: e9dd3065a61c8ac77a6b26d53fb7c86bebd54e22)
 
-11. how the hell do you know ? can i have the judge over here please !
-   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
+11. i think so but just my opinion .
+   (ID: 3e906e06d59fb5c2993270f0b4efed5b9ab122f7)
 
-12. i dont know if the lines or the face is worse
-   (ID: 23958be5bf9424a3f6c71e7474e54c2eabcfab9d)
+12. you can never stop a single crazy no matter what draconian rules you think up . they will still be crazy and we will just be freedomless , passing reactionary legislation that doesn ' t do anything but pandwr for votes .
+   (ID: 1cb49ecc2e4fdb9752d9ca12d02f3cfc2f6659c9)
 
-13. flairs added , can you guys check and let me know if they ' re working ?
-   (ID: 7f6694fd3a0ac22f64517c7789d1ce29240c5082)
+13. i think you just solved where infinite shrinkage goes , its  limbo  , where you can be in one place and not be able to move but you can .
+   (ID: a77a8bcaa391d8b6584d32e6ad243e71297d7258)
 
-14. you know that you are a neighbor
-   (ID: 02d0f9e2b754dc4d23dfd8d2a09743d2127e3d58)
+14. just when you think it can ' t get worse , she keeps typing .
+   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
 
-15. well i know that ' s not true . that bitch ain ' t cooked in yeeeaaars
-   (ID: c519a98c7c9a6ada7f5b8a2ea7a086ff306fdf9a)
+15. do you have proof of such a war looming ? again though , you have to have a reason for starting a war , can ' t just declare war because you think someone might attack you at some possible point in a possible future .
+   (ID: 1ef80f0cd1a51487ac416f9fabc71571cf7add26)
 
-16. omniscience since i would also know things that i ' d rather not know .
-   (ID: e917c5f43624fa287dde4f957a529b37a96df1d3)
+16. if there ' s nothing i can do , i just think .
+   (ID: c22fbcc3fbb3286d348387d73888b66c1c9e09ba)
 
-17. didn ' t know it was netflix show  movie . i do see their ads on youtube , but not for this . my curiosity has been piqued , however so i will probably track it down .
-   (ID: 2266c34274940e2ea1a22a3dee5a3cbcdad25f53)
+17. f but you think it was because of you or just a coincidence ?
+   (ID: 23787c4fae3b342db05df0a4a1f689825f600fe3)
 
-18. ' harvard wants to know your location '
-   (ID: dc1a6ca8b7ce3327dec097f0883d72c2689870fc)
+18. no i think it fits in the category of " just a blowjob " however everyone ' s different . there ' s not wrong answer
+   (ID: 4ffb044c26007ae2bade7d602b40fcd747aae147)
 
-19. being a complete . hmm . how do i put this in words ? oh i know ! and complete fucking psychopath !
-   (ID: 66750361d02d9ee974e14a6210ca6d6be541400e)
+19. i just think  what do i have to lose
+   (ID: 4e784da799782c45d8883de53e87a533129a3b8e)
 
-20. it ' s not who you know but who you blow .
-   (ID: 09497187ec9a21bc1613d8054b406811bf86c91c)
-
-
---- PersonaChat ---
-Total from this dataset: 3
-
-1. i do not know why my sister in law dislikes me .
-   (ID: conversation_142)
-
-2. i know how to count cards in blackjack .
-   (ID: conversation_158)
-
-3. i know how to drive a stickshift .
-   (ID: conversation_391)
-
-
---- SyntheticPersonaChat ---
-Total from this dataset: 1
-
-1. I have the gene that lets me know when someones eaten asparagus.
-   (ID: conversation_231_user_2)
+20. it ' s both if you ask me . he clearly can ' t just forget it , but i think he also makes a choice not to .
+   (ID: 9c2d2fde31927b8cc3bc419049de8844ca720cb9)
 
 
 ============================================================

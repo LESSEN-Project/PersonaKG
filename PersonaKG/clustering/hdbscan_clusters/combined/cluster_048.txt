@@ -1,151 +1,240 @@
 CLUSTER 48
 ============================================================
-Total statements in cluster: 151
-Cluster persistence (stability): 0.610
+Total statements in cluster: 129
+Cluster persistence (stability): 0.736
 
 Dataset distribution in this cluster:
-  MSC: 1 (0.7%)
-  PEC: 127 (84.1%)
-  PER-CHAT: 23 (15.2%)
+  FoCus: 1 (0.8%)
+  MPChat: 4 (3.1%)
+  MSC: 8 (6.2%)
+  PEC: 76 (58.9%)
+  PER-CHAT: 29 (22.5%)
+  PersonaChat: 8 (6.2%)
+  SyntheticPersonaChat: 3 (2.3%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- MSC ---
+--- FoCus ---
 Total from this dataset: 1
 
-1. I remember movie plots.
-   (ID: dialog_15_speaker_2)
+1. I have a lot of respect for St. Demetrius.
+   (ID: V0DLNYLN813E_11)
+
+
+--- MPChat ---
+Total from this dataset: 4
+
+1. i had a lot of fun with the roots!
+   (ID: lolveets)
+
+2. i heart you guys a lot
+   (ID: jlb4est)
+
+3. i made a lot of cakes in 2016, here are some of my favourites.
+   (ID: zenbuffy)
+
+4. my apple tree is drooping a lot - is this the result of improper pruning?
+   (ID: opie2)
+
+
+--- MSC ---
+Total from this dataset: 8
+
+1. I am a pre-law student. I study a lot.
+   (ID: dialog_43_speaker_2)
+
+2. I wear a lot of hats.
+   (ID: dialog_222_speaker_2)
+
+3. I had a dog named Nutmeg who was very sick and it was put down 6 months ago. I have a lot of animals.
+   (ID: dialog_118_speaker_2)
+
+4. I possess a lot of patience.
+   (ID: dialog_55_speaker_2)
+
+5. I am a writer for a music website. I write a lot on Fall Out Boy.
+   (ID: dialog_220_speaker_2)
+
+6. I travel a lot
+   (ID: dialog_9_speaker_2)
+
+7. I have lived in a lot of different places.
+   (ID: dialog_102_speaker_2)
+
+8. My father has a lot of knowledge about household repair.
+   (ID: dialog_86_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 127
+Total from this dataset: 76
 
-1. i remember one at my college .
-   (ID: BLONDEBITCHH)
+1. i 'd imagine the tuba gives a lot more opportunity and flexibility , performance wise .
+   (ID: JacredCat)
 
-2. i do remember him pressing himself into me so hard it hurt my pelvis .
-   (ID: gigatroness)
+2. i still play morrowind :p and its a lot of fun ^.^ tons of mods and all
+   (ID: GitFloowSnaake)
 
-3. i can remember crap like that , but not my bank account number .
-   (ID: StinkinFinger)
+3. i was selling meth in the parking lot , and not shit triplets with a tired father walked in .
+   (ID: Lifes6Midnight)
 
-4. i remember when i was younger i owned a fly pen .
-   (ID: YuseiAkask)
+4. i saw a lot of younger faces .
+   (ID: JimmyMcShiv)
 
-5. i remember when i was a poor student and could only afford store brand tears of small children .
-   (ID: windowcircle)
+5. i do see it being used a lot for endgame add clearing .
+   (ID: WiseScratch)
 
-6. i remember reading about this- his therapist drugged him then pounded him in his ass .
-   (ID: billclay55raiders)
+6. i may booyeah a lot , but only when i can spare it .
+   (ID: ExpectDeer)
 
-7. i can not remember your faces .
-   (ID: gigatroness)
-
-8. i remember her first cap and goal like it was yesterday
-   (ID: immobilyzed)
-
-9. i 'm not quiet 30 and i remember this show with joy .
-   (ID: silentpower)
-
-10. i barely remember shit that happened .
-   (ID: carebearstare93)
-
-11. i 'm 49 and old enough to remember when americans were n't a bunch of pussies .
-   (ID: StinkinFinger)
-
-12. i remember watching that jamie strip scene as a kid .
-   (ID: Sir_Gunner)
-
-13. i do n't remember ever seeing that before .
+7. i would argue by lot .
    (ID: cometparty)
 
-14. i remember it was fun as hell until the meta set in .
-   (ID: playertd)
+8. i liked finn a lot too .
+   (ID: Nheea)
 
-15. i remember that halloween with the flurries too !
-   (ID: hardt0f0rget)
+9. i cry a lot but a stranger telling me to hang in there is very special
+   (ID: fabs1171)
 
-16. i remember reading an article online last week about what it means to be a person .
-   (ID: BorgDrone)
+10. i catch hell from a lot of other star wars fans when i bring it up .
+   (ID: Samoht2113)
 
-17. i could n't quite remember that one i just remembered farm and 22 lol
-   (ID: silentpower)
+11. i saw a lot of my own characters in him , and i respect that .
+   (ID: kro_celeborn)
 
-18. i vaguely remember jen thompson talking about it on the arnold livestream
-   (ID: immobilyzed)
+12. i am stuck at home a lot !
+   (ID: gofiguree)
 
-19. i remember that caption in one of bob stevens ' " there i was ... " cartoons .
-   (ID: Avaric)
+13. i have a feeling you come from somewhere where they do n't have a lot of teeth .
+   (ID: SanJOahu84)
 
-20. i remember this picture from an old issue of national geographic .
-   (ID: wooq)
+14. i d find it a lot faster if you guys helped
+   (ID: 98VoteForPedro)
+
+15. i eat a lot of crap as a result .
+   (ID: Vaenessa)
+
+16. i sometimes cheer for the person in front of me when they spend a lot to win .
+   (ID: kailan123456)
+
+17. i had a lot more money then than i do now .
+   (ID: cheesehuahuas)
+
+18. i imagine he revised a lot of it .
+   (ID: Shrub74)
+
+19. i enjoy seeing you lot triggered .
+   (ID: USAFIDMT)
+
+20. i cried a lot working in the food industry
+   (ID: iam1r7)
 
 
 --- PER-CHAT ---
-Total from this dataset: 23
+Total from this dataset: 29
 
-1. remember when he came out and said he never liked the " drain the swamp " policy but he decided he would keep parroting the phrase because of how much the crowds cheered ? there wasn ' t any backlash for that .
-   (ID: 04e13131ee0b31e4af8e34facf582fad832b1aea)
+1. i was once the other man . she was a lot more married rhan she claimed . she told me that she couldn ' t stand his touch , that he was an abusive drunk and cheating on her . all lies . she was the problem .
+   (ID: 6b941223c20a9903b9878d0454cc676e8d7db91b)
 
-2. i get the reference but i dont remember the rest of the line
-   (ID: c502998e2865c170bc70ef54db9fca6ec18c9ab6)
+2. i always wanted to get in trouble a lot in class but i am scared daddy will pound me again with the belt
+   (ID: 5a3e8e88d49f860e3900fd4cf09d0d9843420639)
 
-3. i remember my auntie telling my mother that i probably deserved the beatings i would get from the gang of kids on my street while i was there . i felt worthless . she stuck up for bullies .
-   (ID: 5a01af4f9721facf5be110d8e134d4c4da020088)
+3. this would be a lot funnier if you were alive
+   (ID: e129c266eeb21d4eb629324bbd10e7247660660b)
 
-4. can ' t remember the model of blow up doll .
-   (ID: 521b989779e5e44f8854ed1438b914dfb8f19eb6)
+4. i asked what ' s the worst part . as in there ' s a lot of bad parts .
+   (ID: 051a7508d568f725b1f0dc39e3253191d533920a)
 
-5. just remember , if your teacheprofessor writes an " f " on your assignment , it ' s probably not to pay respects .
-   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
+5. probably gonna be a lot of downvoted stuff .
+   (ID: 39ad1ed2bdf42527fd153f3d4be927df170fc195)
 
-6. all amhai and obaid money went through . around 200k  . there ' s another guy that his all go through as well but can ' t remember the name . i only remember one 20k donation that was cancelled and that probably cost him a good amount .
-   (ID: 33483b17911ec063ef4562ae3263fe478eba6a2c)
+6. you are enjoying a lot . nice one .
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
 
-7. do you remember the approximate year you played it ? was it before the 2010s ?
-   (ID: 647b5732f6e04c0225821198ce6ce4ca0f116dad)
+7. there  s a voice in my head saying there  s a lot of girls i haven  t met yet and maybe i  m still to meet the hollywood version of the one she thinks i  m the one and i  m so fucking not . it is a shitty situation
+   (ID: 467dbed573790a54a921a28f66e0e68f81106906)
 
-8. don ' t remember , lots of stuff
-   (ID: 4972a31c1a3df007d761e27a613a3b6a99c3a0ca)
+8. thank you , it really means a lot because it was a decision that i struggle with a lot of the time and have struggled with a lot since now that my mom is aging .
+   (ID: 699bf0afe2f1405d2208320e80156a99e90d356e)
 
-9. eddie vedder  society just to remember myself that i am not crazy , but the society is .
-   (ID: 5aededa7a015b7de42517f31af4906619ef79726)
+9. i dropped the spirit stick . automatic , straight ticket to hades . allright hell , you talk a lot . let ' s see what you ' re made of .
+   (ID: d8333858181db719e67785c4ac2aa01282861e93)
 
-10. this so could be me lol sometimes it ' s hard to remember what side you are on after a few games !
-   (ID: 43b1abdde95d9956174072aaf415bd9f49c11fdd)
+10. i was irritating my mom a lot . i can ' t forget that .
+   (ID: b301c9554f2e76b5eecf80851921ba7c198de59c)
 
-11. if you don ' t even remember the email , there ' s not much that can be done .
-   (ID: ddd12abb48a0f3ffcb28acfc187dad268b34e3a9)
+11. awesome . thank you so much ! your help has put a lot of my concerns to rest
+   (ID: b2c623940e1acb4e269cab1c8f1920e03da9e429)
 
-12. pointless fact but this ai remember this being a pokestop on pokemon go
-   (ID: 701f8001d10c04dcd53d9b13ab2a896b452e50f7)
+12. there would be a lot more peeping tom ' s in the world
+   (ID: ce0130e0736ec79181ef08a51b107514a8021d5c)
 
-13. do you remember how much you paid for it ?
-   (ID: f4e4929bb0bef09e7eb72aaccf20c2d9454729c7)
+13. " transforming into a reditt user with a lot of karma " naaaah . not today
+   (ID: cf9499cf39c709d05b079c89f8989b25949c9a13)
 
-14. what about aquaman ' s water glove  hand ? i remember he had something like that for a while .
-   (ID: 137d64f4a858b21d0854639ebc037d0bd1dc557f)
+14. not a kpop fan , but i get this question a lot about the metal music i listen to , due to the harsh vocals . if the lyrics of a song are all that you ' re listening to , you ' re ignoring a lot of what makes music good . the lyrics are often the least interesting part of a song .
+   (ID: d6476a01302c1a055de2b9c1af578e2fb469cb08)
 
-15. not exactly the worst prank ever , but sometimes i remember that in 6th grade , there was a fall dance and i was super excited to be there , until i found out that everyone who danced with me was dared to loudly  crying  face
-   (ID: 32eb93e4ef8c75a245c5af1b97d5b7b883c0def4)
+15. seems to be a lot more whiners everywhere . that ' s about it .
+   (ID: 059c976738098229106db9c4736116cbb2f47eb8)
 
-16. when you upvote but then remember you ' re part of lgbt
-   (ID: 61cecb8714e90365638145aa099b1fb86718270f)
+16. i think watching diy videos would help a lot . they will help a lot
+   (ID: 4a904b3db5017f5069f27886874bdeee777d5c06)
 
-17. there ' s an actual term for it that i can ' t remember . but it involves buying up all other companies in the same field , which creates a monopoly . monopolies are illegal in the us .
-   (ID: aaa48b20e0db13bcef79f2bb41dfe8e30b503939)
+17. hey man , i owe you a lot . thanks for everything . we ' re defenitely grabbing some doner together when i come over , my treat .
+   (ID: 7ba2f45f62c701a508f1895df828d4da2f3f446d)
 
-18. hmm . i remember it being uptown near jwu , but not a garage . but i doubt they ' re can be that many of these things . so potentially solved .
-   (ID: c673eb9fda8629b3a86935092a2668010b581ab1)
+18. well that would suck a lot
+   (ID: 480e1d5457cca32a54c00398823abca7aae20b86)
 
-19. thats the reason we have spotting mechanic . remember , even if you down you can still spot the camper , so you can save other .
-   (ID: cd4ad4cc67fcfb39fcb1f11e52709d863f1c0215)
+19. my mom and i watch all in the family a lot . and so i have to explain to her what group certain slurs are directed towards .
+   (ID: 22f14b68675078048f36403bb14291f2d10864a3)
 
-20. i remember seeing that speech on tv as a kid , and it ' s remained my strongest impression of carter ' s presidency .
-   (ID: a77941e70bf28cf0e1af790a60df2d137edb839d)
+20. tbh . you could genuinely do a lot worse than crafting whizbang
+   (ID: a97bb0d0211a340588db770f6b8b5fd394d26db9)
+
+
+--- PersonaChat ---
+Total from this dataset: 8
+
+1. i wear a lot of leather .
+   (ID: conversation_187)
+
+2. i help them win a lot of money .
+   (ID: conversation_201)
+
+3. i watch a lot of spongebob .
+   (ID: conversation_417)
+
+4. i also meditate a lot .
+   (ID: conversation_267)
+
+5. i watch a lot of tv .
+   (ID: conversation_18)
+
+6. i do not have a lot of friends .
+   (ID: conversation_32)
+
+7. i drink a lot of apple martinis when i get a girls night out .
+   (ID: conversation_75)
+
+8. i have been in a lot of romantic relationships that have ended up poorly .
+   (ID: conversation_131)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 3
+
+1. I talk a lot in irc.
+   (ID: conversation_283_user_1)
+
+2. I have a lot of trophies from my childhood.
+   (ID: conversation_175_user_2)
+
+3. I whine a lot.
+   (ID: conversation_565_user_1)
 
 
 ============================================================

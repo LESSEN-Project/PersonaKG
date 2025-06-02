@@ -1,102 +1,162 @@
 CLUSTER 32
 ============================================================
-Total statements in cluster: 103
-Cluster persistence (stability): 0.938
+Total statements in cluster: 105
+Cluster persistence (stability): 0.867
 
 Dataset distribution in this cluster:
-  MPChat: 1 (1.0%)
-  MSC: 1 (1.0%)
-  PEC: 100 (97.1%)
-  PER-CHAT: 1 (1.0%)
+  FoCus: 12 (11.4%)
+  MPChat: 2 (1.9%)
+  PEC: 82 (78.1%)
+  PER-CHAT: 9 (8.6%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 12
+
+1. I have heard about Bern.
+   (ID: ATJSFYS2K6FK_11)
+
+2. I have heard about CargoNet.
+   (ID: LAJWET9XR7CD_11)
+
+3. I have heard about Marshall Field & Co.
+   (ID: FBUZJNVHT0N2_9)
+
+4. I have never heard of The Hazards.
+   (ID: EKA46AEQGK5D_9)
+
+5. I have heard of John W. McKernan.
+   (ID: X8D77JFL2NLG_11)
+
+6. I have heard of many shipwrecks.
+   (ID: DAT5H5H80JCW_7)
+
+7. I have never heard of Swansea.
+   (ID: EKA46AEQGK5D_9)
+
+8. I have heard about Thrissur pooram.
+   (ID: CJWI83QV42AK_11)
+
+9. I have heard about the company, Wilson and Herrald.
+   (ID: X8D77JFL2NLG_11)
+
+10. I have heard about Hooghly River.
+   (ID: WKS47SP8CYLV_11)
+
+11. I have heard of the Otomi.
+   (ID: ZWQO9OQ8DX45_11)
+
+12. I have heard of the Saint John of Capistrano.
+   (ID: LEUWGO47I5DG_11)
+
+
 --- MPChat ---
-Total from this dataset: 1
+Total from this dataset: 2
 
-1. i thought i was buying a mat for the front door.
-   (ID: MafHoney)
+1. i heard this is valuable for the thc content and is saught after for wax production.
+   (ID: thebarberstylist)
 
-
---- MSC ---
-Total from this dataset: 1
-
-1. I am not as smart as I thought.
-   (ID: dialog_53_speaker_2)
+2. i heard r/aww likes older dogs too.
+   (ID: The69LTD)
 
 
 --- PEC ---
-Total from this dataset: 100
+Total from this dataset: 82
 
-1. i thought it was a reasonable name for an abstract hamlet of horror .
-   (ID: WorldBFree)
+1. i have n’t heard this type of update on ap2 previously .
+   (ID: ExcessiveAggro)
 
-2. i thought this was normal in texas ?
-   (ID: Heydawgg)
+2. i heard she ’s from eagleton
+   (ID: Captain_-H)
 
-3. i thought it was holtzman , but i was n't on site for this gig .
-   (ID: coocha)
-
-4. i thought it was to mimick hunting , not amusement ?
-   (ID: DanceFiendStrapS)
-
-5. i thought they all had assault rifles .
-   (ID: DravenPrime)
-
-6. i always thought , there are taboos , but i always tend to be mistaken ..
-   (ID: Ian_Str8)
-
-7. i thought these were fruitcake cookies .
-   (ID: ColaMeCrazy)
-
-8. i had n't thought of that amazingly creepy factoid .
-   (ID: HugePurpleNipples)
-
-9. i thought the meta was selfies .
-   (ID: pharan_x)
-
-10. i thought it was outrageously overly generous .
-   (ID: ThriftStoreSweatband)
-
-11. i thought she burned a fuse .
+3. i heard they were kicked off for smoking pot .
    (ID: JacredCat)
 
-12. i 'm only upset because i thought it was a costume at first .
-   (ID: redraindropped)
+4. i heard that japanese kamikaze pilots would carry them into battle .
+   (ID: chrisisfunny)
 
-13. i thought blizzards were zero visibility and huge winds .
-   (ID: mr_venus)
+5. i heard it is because that is how we humans communicate .
+   (ID: snapsnaptomtom)
 
-14. i sat there and thought about it .
-   (ID: whirlpoohl)
+6. i heard actors were done .
+   (ID: LightofNew)
 
-15. i thought this was you and your ex !
-   (ID: GetItTogether)
+7. i have heard after ..
+   (ID: exotics)
 
-16. i thought jared was already in jail ?
-   (ID: osmosisparrot)
-
-17. i thought this was a remake of zapped !
-   (ID: DanGarion)
-
-18. i immediately thought of this :
+8. i sold my mps and normal one as soon as i heard .
    (ID: like60bunnies)
 
-19. i thought i was ready , i was n't .
-   (ID: Naughty_Bimbo)
+9. i never heard anything other than it being his decision .
+   (ID: Bob_Majerle)
 
-20. i thought that was emile smith - rowe
-   (ID: therocketandstones)
+10. i have heard they have the nastiest grow
+   (ID: Bathysphere710)
+
+11. i have never , ever heard anyone accuse a trump supporter of being smart .
+   (ID: Purrcapita)
+
+12. i heard the chariots of fire theme
+   (ID: LCPhotowerx)
+
+13. i heard that :p
+   (ID: conservative_poly)
+
+14. i heard this in kate mulgrew ’s voice .
+   (ID: pharan_x)
+
+15. i heard the black ones were bigger
+   (ID: DickRubnuts)
+
+16. i heard the familliar beeping of microwaves from the kitchen .
+   (ID: 512165381)
+
+17. i upvoted as soon as i heard the portal sounds .
+   (ID: amirman)
+
+18. i have never heard that song .
+   (ID: KikAtWorkFL)
+
+19. i have n't heard of any other genocide in which so many millions were murdered .
+   (ID: mushpuppy)
+
+20. i heard somewhere they are making one .
+   (ID: bummang)
 
 
 --- PER-CHAT ---
-Total from this dataset: 1
+Total from this dataset: 9
 
-1. you are not a thought but the awareness of it . same with emotions , you are not this .
-   (ID: 49a34e99b8a6ee0f246ab6ee16bec8f40a856dcd)
+1. ooo ! a maze food bowl ! never heard of that . would you be able to suggest or link me to one ? thnk you !
+   (ID: c45b0aae0255418b40be5727c7c7e05cfdaf3ea9)
+
+2. have you heard one ? that ' s why .
+   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+
+3. hijacking this thread to tell you about an amazing opportunity . have you heard about invigaron ?
+   (ID: e8294c4800e890349637a75b3ecba5d1f7b2a97d)
+
+4. when i heard the sirens and , as a stereotypical dad though i am not a dad would do , pretended to run saying " haha they found me "
+   (ID: 51b0a9706027f94a22f40104e0a832de65645ef7)
+
+5. once i have enough coins to replace bonaventura he ' s probably who i was gonna get . haven ' t heard of anyone using him so i appreciate the comment !
+   (ID: 230ce64c825c9de0874b588b6d715819e39e5610)
+
+6. i may well give it a watch in that case . i ' d heard that the spoiler made or broke it ?
+   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+
+7. one of my favorites . have you heard the anthology version ?
+   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+
+8. how have you ' s never heard of the term chook  s ?
+   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
+
+9. specialist batsmen ? i heard he was playing as an all  rounder .
+   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
 
 
 ============================================================

@@ -1,191 +1,291 @@
 CLUSTER 10
 ============================================================
-Total statements in cluster: 216
-Cluster persistence (stability): 0.456
+Total statements in cluster: 353
+Cluster persistence (stability): 0.419
 
 Dataset distribution in this cluster:
-  MPChat: 9 (4.2%)
-  MSC: 1 (0.5%)
-  PEC: 157 (72.7%)
-  PER-CHAT: 48 (22.2%)
-  PersonaChat: 1 (0.5%)
+  FoCus: 8 (2.3%)
+  MPChat: 22 (6.2%)
+  MSC: 7 (2.0%)
+  PEC: 225 (63.7%)
+  PER-CHAT: 85 (24.1%)
+  PersonaChat: 5 (1.4%)
+  SyntheticPersonaChat: 1 (0.3%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 8
+
+1. I am going to run for mayor.
+   (ID: JGNFHPJEPO6H_9)
+
+2. I am going to Shizuok.
+   (ID: DG7PPYKKTZ0H_11)
+
+3. I am a huge fan of going to a villa.
+   (ID: S7EFLIB5IQDV_11)
+
+4. I am going to Newport.
+   (ID: MPB6C7KY5YCH_11)
+
+5. I am not a fan of going to the movies.
+   (ID: X0N9IFSJSH26_11)
+
+6. I am going to India in the spring.
+   (ID: 9XJC514RJ1IM_9)
+
+7. I am going to Norfolk soon.
+   (ID: HWMW6AUW4UTK_11)
+
+8. I am going to visit Colombia this summer.
+   (ID: TPWBWPRCHUGC_11)
+
+
 --- MPChat ---
-Total from this dataset: 9
+Total from this dataset: 22
 
-1. he’s/she’s the 3rd i’ve seen.
-   (ID: tucsonyeti)
+1. i was so excited from how this pour was going that i shook and ruined the last heart
+   (ID: jlb4est)
 
-2. oldest coleman stove i've ever seen.
-   (ID: reecee)
+2. this fermented egg salad is going to my go-to for holiday parties from now on!!
+   (ID: Potato_Quesodilla)
 
-3. i've been focusing on my milk texture recently and i've seen a huge improvement.
-   (ID: CollegeSleezeball)
+3. here's my going away cake- all buttercream!
+   (ID: BananaStand07)
 
-4. one of the largest red pines i've ever seen!
+4. was going through pics and this was one i saw a few months back.
+   (ID: insertnamehere02)
+
+5. my local thai place after going back 2x telling them their "level 10" isn't spicy enough...
    (ID: travelingisdumb)
 
-5. the cutest little easter bunny i've ever seen
-   (ID: kentobean123)
+6. i made a cat fort... it's not going so well.
+   (ID: MafHoney)
 
-6. i've never seen so many colors in a sunset befire.
-   (ID: ClimbsOnCrack)
+7. hello everyone my name is caroline and today we're going to build a fire
+   (ID: crunch816)
 
-7. i let him be:) first one i've ever seen.
-   (ID: Nerdyredeyejedi)
+8. gotta rearrange my props, they're all going wild!
+   (ID: fredbutt)
 
-8. i'm not quite happy with it because i've seen the things posted here.
-   (ID: stonegiant4)
+9. my third flush is going great!
+   (ID: sundstrom193)
 
-9. some of the craziest light i’ve ever seen [oc]
-   (ID: garret_weintrob)
+10. odin my fat isn’t going anywhere
+   (ID: SusanneHW)
+
+11. [updated wip] not going to get both panels done by christmas, but i should have one!
+   (ID: iowajaycee)
+
+12. my newest plants have a theme going on...
+   (ID: zonumnire)
+
+13. i think i'm going to redo the ears
+   (ID: Sophie74656)
+
+14. hi, i am going to distract you now.
+   (ID: meghanlovessunshine)
+
+15. progress going well on my busy bee throw!
+   (ID: Crilbyte)
+
+16. what am i going to do with you.
+   (ID: lizdavis17)
+
+17. my doggo simply loves going on hikes
+   (ID: FloralRay)
+
+18. going to test my luck today.
+   (ID: jlb4est)
+
+19. update-decided to freestyle a border which is curling but i think it kinda looks cool and will keep going.
+   (ID: Chris55730)
+
+20. my mystery is going to bloom!
+   (ID: gxnelson)
 
 
 --- MSC ---
-Total from this dataset: 1
+Total from this dataset: 7
 
-1. I've not seen him for 24 months.
-   (ID: dialog_73_speaker_2)
+1. My sibling enjoys music and going to different places.
+   (ID: dialog_22_speaker_2)
+
+2. I am going to listen to rock music
+   (ID: dialog_61_speaker_2)
+
+3. I'm going to be the next mozart!.
+   (ID: dialog_186_speaker_2)
+
+4. I am also going on vacation. I will be going to the mountains.
+   (ID: dialog_112_speaker_1)
+
+5. I am going out with my manager.
+   (ID: dialog_37_speaker_1)
+
+6. I am going to propose to my girlfriend.
+   (ID: dialog_219_speaker_1)
+
+7. I am going down under to see my fiance.
+   (ID: dialog_77_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 157
+Total from this dataset: 225
 
-1. i do n’t think i ’ve ever seen anything as cute
-   (ID: boogerfarts111)
+1. i added my reason because i knew how it was going to come across as .
+   (ID: SpartanWarNinja)
 
-2. i 've never seen such clarity of the night sky before !
-   (ID: kaizermattias)
+2. i 'm going to go with " harbinger of doom . "
+   (ID: ElectricBlumpkin)
 
-3. i 've seen too many movies .
-   (ID: idkforsure)
+3. i was so scared we were going to face that ledge again !
+   (ID: juls2587)
 
-4. i 've seen idiots with " loyalty " and " family " written on them .
-   (ID: sean__christian)
+4. i keep saying i ’m going to buy a tundra once it dies but it ’s not dying .
+   (ID: Zarqume)
 
-5. i ’ve never seen something like this happen
-   (ID: LabeledAsALunatic)
+5. i ’m going to the gym
+   (ID: pandachestpress)
 
-6. i 've never seen wirework like that .
-   (ID: Bathysphere710)
+6. i said hey , what 's going on ?
+   (ID: Byde)
 
-7. i 've never seen that at any shows !
-   (ID: meteoriteminer)
+7. i 'm going to embarass myself , holy shit . "
+   (ID: Kialand)
 
-8. i 've seen them driving in fours too , they 're up to something .
-   (ID: Ooer)
+8. i 'm going to do the same .
+   (ID: WhereRtheTacos)
 
-9. i ’ve never seen one that ’s all black before .
-   (ID: FruitBatFanatic)
+9. i ’m definitely going to borrow the term ‘ lap sluts ’
+   (ID: ShamPow20)
 
-10. i ’ve only seen the abduction from the seraglio .
-   (ID: immobilyzed)
+10. i 'm going to see m on saturday !
+   (ID: MrBovineJoni)
 
-11. i 've never seen the golden girls .
-   (ID: sourpatchkidj)
+11. i 'm going to omaha and minneapolis !
+   (ID: Naughtyformoms)
 
-12. i think this might be the most repeated joke i 've seen on reddit .
-   (ID: TylerC_D)
+12. i dunno i hit a deer with a mustang going like 40 mph and totaled the car ...
+   (ID: Snake-N-Roses)
 
-13. i 've seen some elbows before
-   (ID: alextound)
+13. i think that ’s what i ’m going to do is slowly do it .
+   (ID: tobehappyagain)
 
-14. i 've seen cars bottom out on them .
-   (ID: sillylionface)
+14. i have a depressing feeling that carradine in coverage is going to be a disaster .
+   (ID: Byde)
 
-15. i 've seen it in a bunch of forms -- gum , mouthwash , mints ...
-   (ID: NyxPeregrinus)
+15. i bet she is going to be a real beauty as she grows up !
+   (ID: mizzpkat)
 
-16. i 've seen some difficult in my travels but yours is the most difficult .
-   (ID: DickieJohnson)
+16. i 'm not going to upvote .
+   (ID: Lsmoothies)
 
-17. i 've seen laptops with 16:9 but not many .
-   (ID: mylescloutier)
+17. i am not going to go to that link but i see your point .
+   (ID: HugePurpleNipples)
 
-18. i 've seen better
+18. i 'm going to take 2 years off in between movies to party
    (ID: WorldBFree)
 
-19. i ’ve never seen one with all the tools still attached
-   (ID: Captain_-H)
-
-20. i think this is the craziest ride i 've ever seen , and i 'm an old dude .
+19. i 'm going to echo everybody .
    (ID: hoveringlurker)
+
+20. i 'm going in !
+   (ID: SanJOahu84)
 
 
 --- PER-CHAT ---
-Total from this dataset: 48
+Total from this dataset: 85
 
-1. yeah i love this community from what i ' ve seen so far
-   (ID: df03199e3c3e573fd40a112c710f58366b4490da)
+1. can u describe what ' s going on in this picture
+   (ID: 23fec2f7c8ba98af71f4a2c258416abc85f5c0a8)
 
-2. it sounds good in theory , but i ' ve seen enough vampire movies to realise now that you ' d be very lonely . everyone you loved would age and die and you would still be there
-   (ID: 84b2c69cbe8c44b78569e5e8b9af935f703ee480)
-
-3. i ' ve some seen some really unattractive guys that have to do that , so .
-   (ID: 2f03a8d589defb9434044b9ef9bfffc676e2b49a)
-
-4. don  t those become parks though ? i  ve been to versailles and it was one of the greatest things i  ve ever seen , but i  m calling that a park .
-   (ID: 5b8ed03bdff11aec4ed3a2ed4e122a505bf937dd)
-
-5. this is one of the most unique and dynamic duo i ' ve ever seen .
-   (ID: 088497bce89e4823631f87585634427788f1c44f)
-
-6. this is the lamest shit i ' ve ever seen .
-   (ID: ac8a82591082c2300a109b982be874d6d61d6cba)
-
-7. after digit years i ' ve never seen anyone spit in someone ' s food or anything like that however i can ' t even begin to count how many times i ' ve seen food dropped on the floor and then replated .
-   (ID: afc977e14ab83cd73dbc192e4c5b710baff09564)
-
-8. one of the dumbest , unfunniest posts i ' ve seen .
-   (ID: 521b989779e5e44f8854ed1438b914dfb8f19eb6)
-
-9. i swear i ' ve seen you take numerous good ass kickings on " cops .
-   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
-
-10. thanks for converting it ! but to reply i ' ve seen the whole comment .
-   (ID: e38781630710b0f27fffd18d9cf204bcc70ff17a)
-
-11. if you have netflix or something i put on . show i ' ve seen many times over as background noise to help me sleep . or sometimes music if netflix is down
+2. uuuuhhhhh what ? going to bed early as a teen is a privilege !
    (ID: 9e778023eda5589ac577e3789edfd900d208edf7)
 
-12. most of its going to be pretty much the same , once you ' ve seen a few gas giants you ' ve seen them all
-   (ID: 3f0409a6efb16c26d2f9f7a14f5e75b8945ba427)
+3. ahh in which case i recommend flying to canada and becoming a hermit only going into civilization for food and social interaction so that you go insane slower that it would normally be . or you could just go to a motel
+   (ID: d53ad0bccb6d6f62bf1a4957708759d7b446498b)
 
-13. that is the blackest hand i ' ve ever seen
-   (ID: 9628f69e8f361fea4725684e02e55d47fea18045)
+4. nta . imagine going on a date with someone , supposedly after you have barely dated before , and having the audacity to order a ton of drinks and demand the other person pays . nah son .
+   (ID: 79917d7ca06e9cf750b82c793acd3eb69f1c905f)
 
-14. i  ve seen it on digit subs now . it  s not even that funny
-   (ID: 48327dfb7185a727925115986b0d0501d2999a36)
+5. i have a small diy alarm system in my home . i know it ' s not going to deter anybody but it will at least alert my neighbors . because alerting my neighbors is more effective than alerting the cops . i also have everything of importance locked .
+   (ID: 080f9c13731c22b3fdaccc4ff9cd4e4e27810ae0)
 
-15. this is relevant , i ' ve seen it with my own eyes too !
-   (ID: c19de27d6b88c47d51e561a657dd0cf0e665fa48)
+6. thanks for viewing my suggestion anyways guys . i ' m assuming no one is going to view it so yeah .
+   (ID: 09635643777fe30eb3750faad0e2ea7a607f855c)
 
-16. the original question  my replies  you ' ve not seen infinity war ?
-   (ID: a7d8ba86187ae0cea463dd4ff85d67fa2b786dc7)
+7. nta . you have explained you it makes you uncomfortable and she is not backing down from it , that makes me suspicious , especially the sharing of a hotel room . you are well within your bounds to not be okay with a situation like this , but not to forbid her from going which you apparently aren  t . she should be more aware of your feelings
+   (ID: a428ebec68dc8bb1dccfb778bb32844c5677e265)
 
-17. this made me laugh so much ! it ' s the worst meme i ' ve ever seen , oh btw it ' s the funniest one ever made
-   (ID: e38781630710b0f27fffd18d9cf204bcc70ff17a)
+8. i  m going to get downvoted as hell , i even support abortion but this is barbaric
+   (ID: 4136a1b6da64b3c5f49dfe23761d1a0ec8925dba)
 
-18. this is one of the very few funny things i ' ve seen on funny . well done .
-   (ID: 975493e3b4b2ad9cba1b98554159be45f8affdd3)
+9. yeah i get that aspect and he was going by the thread . just damn though , like hardcore entitlement action going on and it sounded like he was the virgin killer of california .
+   (ID: 0176230ef7bd36e243dc81e1792c2941b82ea97c)
 
-19. you ' ve seen that movie , eh ? still didn ' t answer my question . you can have a turn . show me what you got .
-   (ID: ce7a661d87e9157748595ef19b5ea913ea96198f)
+10. going back to bed
+   (ID: c50479206ad2428ecdc02592a82261c4f2ae30a5)
 
-20. brother , i ' ve seen you falling all over yourself in this sub tonight defending jones . aren ' t you exhausted yet ?
-   (ID: e5fd25110413c69853218bbcbb0169f73c8f06e1)
+11. you ' re going to experience this drug the way you will because it ' s going to let you know if it ' s ok for you or if you should stay away from it
+   (ID: 2db14c004e6ef125f85aa3678978a5718eebd11a)
+
+12. " the one with the marker dot on it ' s foot is johnny . " " what about when we bathe them ? " " what the hell are we going to do ? "
+   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+
+13. i ' m calling it now , someone or some youtuber is going to buy this and record themselves drinking it .
+   (ID: 535c3113ba487b9152c4b0adbe8c36822bc45ca4)
+
+14. what ' s the chances of shestyorkin going
+   (ID: d033ecf8b207b42baed7ef60063d0e215cb8073c)
+
+15. you  re going to get hit on in these comments . how many times you reckon ?
+   (ID: 870d9d198f856764296262192823c935f1daf781)
+
+16. and flashing a badge isn  t going to do anything . are you a leo ? if not , then it will only end in a legal nightmare as well .
+   (ID: 3857340322f3015e4a24e7f6aa252884060f24ce)
+
+17. oh you ' re still going on about something not pertaining to op ' s question ?
+   (ID: 45165f29e8e7c1736ef3e4b70d312f493a62eb83)
+
+18. why are you going to the grocery store with your mom in the first place ? shouldn ' t you be at home playing video games . sheesh    these kids today .
+   (ID: 43582d67310e995ea85c152bb256b0596144bf82)
+
+19. what ' s going on tomorrow ? something great i ' m assuming ?
+   (ID: 555615a7b22f65cadd2e223e2e891e540623f3a4)
+
+20. why can ' t he ask her what she wanted if its that important to you ? no one here is going to be able to tell you what a random girl messaged him except her .
+   (ID: 96b1ed1f8b952d8d999a49615ef255ff337e17ab)
 
 
 --- PersonaChat ---
+Total from this dataset: 5
+
+1. i'm currently going to school to be an artist .
+   (ID: conversation_548)
+
+2. i am going bald .
+   (ID: conversation_471)
+
+3. i am going to be the starting shortstop .
+   (ID: conversation_103)
+
+4. i'm going on a cruise next month .
+   (ID: conversation_46)
+
+5. i still dream about going to paris and designing clothes .
+   (ID: conversation_75)
+
+
+--- SyntheticPersonaChat ---
 Total from this dataset: 1
 
-1. my mom went crazy when i was three and i've not seen her since .
-   (ID: conversation_305)
+1. I am not going to go the extra mile anymore.
+   (ID: conversation_369_user_2)
 
 
 ============================================================

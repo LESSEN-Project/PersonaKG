@@ -1,143 +1,219 @@
 CLUSTER 71
 ============================================================
-Total statements in cluster: 64
-Cluster persistence (stability): 0.997
+Total statements in cluster: 169
+Cluster persistence (stability): 0.665
 
 Dataset distribution in this cluster:
-  PEC: 43 (67.2%)
-  PER-CHAT: 21 (32.8%)
+  FoCus: 6 (3.6%)
+  MPChat: 7 (4.1%)
+  MSC: 12 (7.1%)
+  PEC: 4 (2.4%)
+  PER-CHAT: 132 (78.1%)
+  PersonaChat: 6 (3.6%)
+  SyntheticPersonaChat: 2 (1.2%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 6
+
+1. I don't have a wall or fence in my yard.
+   (ID: CBOI96AOZRK6_11)
+
+2. I don't know who Horace Walpole is.
+   (ID: POTYY4E7PSQF_11)
+
+3. I don't know Cheshire.
+   (ID: 6JXMJ0KGXDGI_11)
+
+4. I don't care for chapels.
+   (ID: 6JXMJ0KGXDGI_11)
+
+5. I don't have an observatory near me.
+   (ID: IBY6RB2J4SRM_7)
+
+6. I don't have an entry pass of mud island fort.
+   (ID: OOA3VSMVQ4YE_11)
+
+
+--- MPChat ---
+Total from this dataset: 7
+
+1. i don't know why it took me so long to put on this bar...
+   (ID: i_like_it_raw_)
+
+2. don't mind if i do.
+   (ID: insertnamehere02)
+
+3. i don’t normally do amigurumi but he’s so darn cute!
+   (ID: smsikking)
+
+4. don't have any berries growing in my garden so we went ahead and borrowed from natures' garden!
+   (ID: ChroniclyDope)
+
+5. don't take my stick!
+   (ID: DeanIsHotter)
+
+6. i get it, don’t chew on power cords!
+   (ID: insthotchkiss)
+
+7. choosing random colors from my stash and hoping they don't clash too much
+   (ID: mle12189)
+
+
+--- MSC ---
+Total from this dataset: 12
+
+1. I don't have any pets.
+   (ID: dialog_55_speaker_2)
+
+2. I am home schooled and don't leave the house much.
+   (ID: dialog_97_speaker_2)
+
+3. I don't have lexus.
+   (ID: dialog_172_speaker_1)
+
+4. I don't go out that much.
+   (ID: dialog_138_speaker_2)
+
+5. I prefer big dogs. I don't have dogs.
+   (ID: dialog_80_speaker_1)
+
+6. I don't eat sugar.
+   (ID: dialog_71_speaker_1)
+
+7. I have space to grow beans. I don't have a table at the farmer's market. I don't raise cattle.
+   (ID: dialog_117_speaker_2)
+
+8. I don't have any online training experience.
+   (ID: dialog_77_speaker_2)
+
+9. I don't know if it is hard to get started.
+   (ID: dialog_148_speaker_2)
+
+10. I don't have a passport.
+   (ID: dialog_89_speaker_1)
+
+11. I don't know much about Scientology.
+   (ID: dialog_213_speaker_1)
+
+12. I don't have a will.
+   (ID: dialog_172_speaker_2)
+
+
 --- PEC ---
-Total from this dataset: 43
+Total from this dataset: 4
 
-1. i am sick i will punch a baby bear in his shit
-   (ID: canitasteyourjuice)
-
-2. i screamed in my sleep once whilst lying next to my boyfriend and it shit us both up .
-   (ID: helensis_)
-
-3. i would n't risk that shit .
-   (ID: CarlofTime)
-
-4. i can sanatize the shit out of a telephone
-   (ID: Ooer)
-
-5. i shit and fucked and fingered in aisle 4
-   (ID: ChallengeTaken99)
-
-6. i lost my shit on that first closeup cut to his face
-   (ID: doctor_parcival)
-
-7. i was expecting some eel soup shit .
-   (ID: mrhenk9)
-
-8. i step away from reddit for a few hours and shit starts disappearing .
-   (ID: chowyungfatso)
-
-9. i 'd shit a lil bit on the hood .
-   (ID: Evref)
-
-10. i could n't handle that shit as a kid .
-   (ID: wheels_andthelegman)
-
-11. i ninja edited that shit .
+1. i don see swingers .
    (ID: glowinthedark)
 
-12. i would trade all future kd podcast for a bag of shit and 3 pennies
-   (ID: Montag3636)
+2. i had bite - wing x - rays ... don't have copies though .
+   (ID: NyxPeregrinus)
 
-13. i 'm not watching your troll shit
-   (ID: RonaldFuckingPaul)
+3. i would much rather have the clown that pence is , than traitor don .
+   (ID: BlueSuedeBag)
 
-14. i still do n’t get why anyone upvotes this kind of shit .
-   (ID: nate6051)
-
-15. i do not see anything shit related ... beside you .
-   (ID: Ml7500)
-
-16. i appreciate the shit out of bedding , too .
-   (ID: Shrub74)
-
-17. i too sometimes get drunk and start breaking shit at my local waffle house .
-   (ID: greensandgables)
-
-18. i 'm so bored of that shit .
-   (ID: hussy_trash)
-
-19. i laffed so horridly i fucking shit mah pants .
-   (ID: RonaldFuckingPaul)
-
-20. i 'd get it together and fuck everyone 's shit up : d
-   (ID: GetItTogether)
+4. i came here to ensure don lafontaine was mentioned .
+   (ID: carwynllew)
 
 
 --- PER-CHAT ---
-Total from this dataset: 21
+Total from this dataset: 132
 
-1. my favourite track was  give me my inhaler back i can  t breath and shit  . 6ix9ine  s verse almost killed me .
-   (ID: b96c88b2d5cfdbde4b305fd9da23bc684edbb6a0)
+1. who deserves to be protected ? how do you choose ? and do you realize that these laws are double edged ? any anti  white , anti  male , anti  straight speech would have to be banned and punished as well . don lemon would have to be arrested or fined for saying white men are the biggest terror threat and we should do something about them .
+   (ID: 8f8e540d2085ca2ae45ad16beb12b5ba58fb5ec9)
 
-2. hes a regular so i gave him shit about it for a while
-   (ID: e1aebf37580e679f77f5038c575f4359c51af29f)
+2. yet i know the laws and you don  t ?
+   (ID: ad24fe51d61dbe3cddd863ba9cb6adae61265a06)
 
-3. shit on the carpet we had put in a few days before
-   (ID: ad898f238b3dc29e08e2e0d1ae1f284c2c13604e)
+3. damn i don  t know what that means but it  s probably past your bedtime .
+   (ID: 5481b7a3276de2b79473c4a65d5bb2506e36d79d)
 
-4. someone stole my shit rusty bbq from my garden yesterday . i ' m very confused as to why
-   (ID: 90eb51492399cbfe8bbde2fd7d291e5e115a59db)
+4. it ' s funny when you realize don ' t is the crowd owner of xbox as well .
+   (ID: 9dc417f749a0d20a48d0b30f64c5a229fedc1176)
 
-5. this shit is easy it ' s sad that he ' s tryna get fellow redditors to do it for him
-   (ID: c1e8a543083ba89c9353a25d98386cffe1addefc)
+5. tornado of souls  by megadeth don ' t know what it could do , probably something with souls having the physical form of a tornado
+   (ID: 4cd63391f1644eb1dde02717bf6a72fc6c22acc7)
 
-6. but . it ' s the internet . everyone is full of shit here .
-   (ID: ba74b728dd4707e8dc564457c1fb9d6dfeef7e4f)
+6. gen and the genitortures . i don ' t know what ever happened to her . but if you find a video of her online don ' t blame me if you watch it . cause you shouldn ' t . she was a fiend .
+   (ID: 7ef662967b293d289d1c27dbf712fa2e3e720823)
 
-7. the nokia ringtone . it appeared in a scene of t  rex ' s shit in jurassic park
-   (ID: 14942db2673f05d429e3df3e81ee89b62cf80338)
+7. digital copies don ' t fit in frames as well
+   (ID: 059c976738098229106db9c4736116cbb2f47eb8)
 
-8. it amazes me how much shit i attract on a daily basis . it ' s astonishing
-   (ID: 50043497a219924fd275a92e5dadb6e04bac5936)
+8. don ' t you do this to me
+   (ID: 162574c7cc4882122c2781c596a51e5023f21691)
 
-9. the john cena theme song while i shit on my bosses desk in a naked squat over some important documents
-   (ID: cdfe8425c4239c926bbc69037b1e955de45be4ba)
+9. don  t blame yourself for being cheated on . no one deserves to be cheated on . it  s her being fucking shitty and don  t let anyone including yourself tell you otherwise
+   (ID: eaa6b59bc56737180569c29d1db10b0dbbe8c265)
 
-10. the writer of an over wrought sadsack of a depressing shit show has been hired by disney ? so they have decided to go after depressed money now too .
-   (ID: 570664fde0bec86b7f35fdcea9073ef88e78798d)
+10. those who have your back  those who don ' t .
+   (ID: e3a7bbfa5fde0a706f721c3dc5055b3a8963f79f)
 
-11. my girlfriend says to me yesterday " what ' s a bitcoin ? " i shit you not . she ' s halfway through medical school .
-   (ID: 7e977d8c833923afad8d62330f570dfb4308db8b)
+11. i don  t buy that story tbh
+   (ID: 230ce64c825c9de0874b588b6d715819e39e5610)
 
-12. if they can give me a shit ton of money to raise my children , why the hell not ?
-   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
+12. well you don ' t get to know any more , because it is secret
+   (ID: 8360c6d04ba11da7a727532482d78505e52a4150)
 
-13. this movie is a steaming pile of shit . not scary at all .
-   (ID: 9468ec58a6355f7bcd9f557a602a094f1bf59129)
+13. because you don  t wanna our all your apples in one basket amirite .
+   (ID: 787f4a3fe31691883105c973a6b8e3df9df1436e)
 
-14. not a parent , but my younger siblings who are twins both ate their own shit as babies . they literally ate each others ass
-   (ID: ed7b237fb6485952b3dcc1d753d52f12dfff995a)
+14. and enderdragons . it takes longer for them to recover from the snowball knockback than it takes for you to throw your next snowball , so they ' re basically at your mercy as soon as they fly within range . snowballs don ' t deal very much damage to them , so it would take hundreds to kill one enderdragon . with this snow generator , you shall have hundreds .
+   (ID: acecdec2f65b894e4aeb0b0d8b7a744c44568aef)
 
-15. I am drowning in cummies 💦💦💦💦💦😲💦💦💦 holy shit.
-   (ID: 77a6bff8693a174b55d34fc32fdd8a87710fecb7)
+15. dont fuck with the system ! if it ' s not broken , don ' t fix it .
+   (ID: f1040b0af7e42a7a3dcab6b8705a909cb1982529)
 
-16. seriously , the fuck is the deal with this ? do only guys with fat ass cocks have kids ? shit blows my mind
-   (ID: a90f01f580b7cc08038958d5c1f659fd492b1f2c)
+16. don ' t know why but i go crazy if a girl has an apron and nothing else .
+   (ID: 73e90e443642babe17d8b9523bc123bb79b21e79)
 
-17. I am piece of shit because feet.
-   (ID: abf75f77636a74f3ad337cbd0a59bf507e662343)
+17. okay , seriously , my direction sense is so bad i ' d be lost in my own city . also , i haven ' t been out , so i don ' t know much anyway .
+   (ID: 2c5816cbbee60e3c348eb04900ea7453604cff82)
 
-18. lmao . fuck no . that shit was a painful lesson . twice
-   (ID: 72cfb7666d0a97ebe283c019ed67b8b62982ac18)
+18. don ' t worry about his mental state , or how much ' he likes you ' , cause clearly he ' s not respecting you .
+   (ID: 2a43fd1ba18ed201f563f660a853be569ebb3917)
 
-19. ever notice how no race likes you ? because you ' re a racist piece of shit who has no other hobbies ?
-   (ID: 229018d265fee53903659270acea70a8c7f46caa)
+19. regular puck , that ' s why we don ' t se him much in the manga . he ' s too busy drawing to be an actual charcter .
+   (ID: 569832646eef001c1724d2ecdb8abedbbfd927ab)
 
-20. how idiots dont recognize scientific evidence and it leads to shit hitting the fan
-   (ID: b5153b16e61f6bc5e4bf4d8db479b7093df1ae26)
+20. you don ' t know your history ! there were no slaves in latin america ? btw your " atty " answers your question !
+   (ID: 128346fc1e56ccadd25a4b200ecae44637d48f5f)
+
+
+--- PersonaChat ---
+Total from this dataset: 6
+
+1. i don't eat bread .
+   (ID: conversation_183)
+
+2. i don't own a television .
+   (ID: conversation_400)
+
+3. i don t know if i enjoy programming , or if it s my only choice .
+   (ID: conversation_179)
+
+4. my parents don't know i am gay .
+   (ID: conversation_4)
+
+5. i don t have a relationship with my deadbeat dad .
+   (ID: conversation_257)
+
+6. i don't celebrate any holidays .
+   (ID: conversation_292)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I don t treat my girlfriend very well.
+   (ID: conversation_347_user_1)
+
+2. My friends don t call my by my real name.
+   (ID: conversation_61_user_1)
 
 
 ============================================================

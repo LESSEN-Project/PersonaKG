@@ -1,14 +1,16 @@
 CLUSTER 20
 ============================================================
-Total statements in cluster: 431
-Cluster persistence (stability): 0.413
+Total statements in cluster: 229
+Cluster persistence (stability): 0.556
 
 Dataset distribution in this cluster:
-  FoCus: 26 (6.0%)
-  MPChat: 6 (1.4%)
-  PEC: 369 (85.6%)
-  PER-CHAT: 27 (6.3%)
-  PersonaChat: 3 (0.7%)
+  FoCus: 3 (1.3%)
+  MPChat: 3 (1.3%)
+  MSC: 6 (2.6%)
+  PEC: 177 (77.3%)
+  PER-CHAT: 35 (15.3%)
+  PersonaChat: 3 (1.3%)
+  SyntheticPersonaChat: 2 (0.9%)
 
 ============================================================
 
@@ -16,230 +18,202 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 26
+Total from this dataset: 3
 
-1. I hope to visit Zoar Valley someday.
-   (ID: B21DU5B4FQQH_11)
+1. I believe constructing takes lots of fund.
+   (ID: Y50B3RQ4B1OQ_11)
 
-2. I hope to see more Research Institute.
-   (ID: 7NISCLZRSK4E_7)
+2. I believe courthouse judgments are fair.
+   (ID: OJ5U23I3FV0N_11)
 
-3. I hope I can buy a telescope for my father on his birthday.
-   (ID: 77E5QV6TW4WU_11)
-
-4. I hope to visit the Ashmore Estates someday.
-   (ID: OBU1K3FQTZ14_11)
-
-5. I hope to travel to Brownsea Island in the summer.
-   (ID: R9A1SC51GAMH_11)
-
-6. I hope to marry a lady from Canada.
-   (ID: G4JZMW0OPV0G_11)
-
-7. I hope to see a mass at the Bethel A.M.E. Church.
-   (ID: SSWJZGJZ66UK_11)
-
-8. I hope to see a Mountain in Idaho.
-   (ID: D449W0YW7LNU_11)
-
-9. I hope there is a Children's Library.
-   (ID: NR9LNBMYKSX6_9)
-
-10. I hope I can sit in a nice cafeteria.
-   (ID: LWELDWSUZK5Z_11)
-
-11. I hope to see an old nursery.
-   (ID: ZXCRSZ4D5PMK_11)
-
-12. I hope to visit Huntingdon County someday.
-   (ID: JJVJO5DV75YG_11)
-
-13. I hope to learn more about Lincoln.
-   (ID: UXQZUTQ247LH_11)
-
-14. I hope scientists can find more exoplanets.
-   (ID: TPBXFFXVKECZ_11)
-
-15. I hope to visit the University of Nebraska State Museum someday.
-   (ID: FF36QQ08S28H_11)
-
-16. I hope to visit Myanmar someday.
-   (ID: 9ZUQKMGM6HTD_11)
-
-17. I hope to see eagles.
-   (ID: QIE8ZYPSRUW4_9)
-
-18. I hope to spend a night in a castle.
-   (ID: J3FELD3FPXVQ_11)
-
-19. I hope to visit Grimsby.
-   (ID: F91BK688K9G1_11)
-
-20. I hope to see a Building in Beijing.
-   (ID: UDGAGMKQ9TQ1_11)
+3. I believe in religious custom.
+   (ID: XM5C3KLAWDZP_9)
 
 
 --- MPChat ---
+Total from this dataset: 3
+
+1. i believe this is a type of rhipsalis.
+   (ID: catsinpockets)
+
+2. i was a fool to believe otherwise.
+   (ID: ChroniclyDope)
+
+3. i believe this is called progress!
+   (ID: Metalocachick)
+
+
+--- MSC ---
 Total from this dataset: 6
 
-1. i hope some here can appreciate my toad cup and drawing!
-   (ID: tinytinatuna2)
+1. I believe there is a global cabal attempting to control society.
+   (ID: dialog_176_speaker_2)
 
-2. well i hope it no longer looks like a nipple haha
-   (ID: Sophie74656)
+2. I believe that Gelato therapy works wonders.
+   (ID: dialog_176_speaker_2)
 
-3. hope i get to keep this color!
-   (ID: Potato_Quesodilla)
+3. Believe It Or Not museum is my favorite.
+   (ID: dialog_150_speaker_1)
 
-4. let's hope i don't f@ up the natural rind.
-   (ID: HanibalLickedHer)
+4. I believe success is happiness.
+   (ID: dialog_128_speaker_1)
 
-5. i hope the maroon on his fins keeps spreading
-   (ID: zonumnire)
+5. I believe chips ahoy are the best.
+   (ID: dialog_134_speaker_1)
 
-6. my newest project: carrot rhubarb melomel, i hope even half the color sticks around!
-   (ID: IceEye)
+6. I build my own furniture. I believe DIY saves money.
+   (ID: dialog_176_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 369
+Total from this dataset: 177
 
-1. i hope this catches on .
-   (ID: glowinthedark)
+1. i choose to believe this is canon .
+   (ID: pharan_x)
 
-2. i hope the llama gets banned for glitching .
-   (ID: TheRealAshren)
+2. i like to believe that he is a connoisseur of flowers .
+   (ID: lightlord)
 
-3. i hope i do n’t replace old freemy though .
-   (ID: Kialand)
+3. i am more concerned about men who believe penetration is an undignified sex act for a woman .
+   (ID: IncredibleBulk2)
 
-4. i hope this journey has more ups than downs .
-   (ID: bostown03)
+4. i believe it 's publicly available now .
+   (ID: civex)
 
-5. i hope this keeps goin .
-   (ID: KPer123)
+5. i want to believe you , but it 's too fantastic to be true .
+   (ID: Weed_n_Wisdom)
 
-6. i hope there is a video of this .
-   (ID: apcreddit)
+6. i believe that ’s arthur and penelope is n’t it ?
+   (ID: kiki73)
 
-7. i hope it was an elaborate prank and i will someday know this story .
-   (ID: redraindropped)
+7. i believe in god , guns , and _ _ _ _ _ _ _ .
+   (ID: Lifes6Midnight)
 
-8. i can only hope california still wants him for a murder there .....
-   (ID: catskhiker)
+8. i believe you meant " hawt . "
+   (ID: bmeckel)
 
-9. i hope that your family has a calm and toasty christmas man .
-   (ID: JOOOOOOOOOOngo)
+9. i knew a guy that was crazy about having a pink zune i believe he had the site www.iwantapinkzune.com
+   (ID: Sniperman)
 
-10. i hope you walk to this mexican food place .
-   (ID: sillylionface)
+10. i do believe i 've caught touch of the vapors .
+   (ID: silentpower)
 
-11. i hope you 're having a nice week /u / youcanttunafish .
-   (ID: bluesatin)
+11. i do n't believe in cases .
+   (ID: aydinsevimli)
 
-12. i hope momma is there too .
-   (ID: notthruyet)
+12. i believe that s the sixth precept .
+   (ID: tommythestone420)
 
-13. i hope no one else cares .
-   (ID: AgentElman)
+13. i can believe that , how long have you been doing it ?
+   (ID: exceptionallyhappy)
 
-14. i hope op knows what country he 's in .
-   (ID: DickieJohnson)
+14. i believe his name is chance the rapper
+   (ID: ListenandLove100)
 
-15. i hope tomorrow brings you some peace ❤ ️
-   (ID: happyfamilygogo)
+15. i do n’t believe mindful eating is bullshit .
+   (ID: microliteoven)
 
-16. i hope you all enjoy the fun memes and other pictures that are posted here .
-   (ID: Nick84572)
+16. i believe there was a recent " real world " review of tpcast by some site .
+   (ID: JaZepi)
 
-17. i hope she ends up playing eliza at some point , she is such a legenddddd
-   (ID: vivagypsy)
+17. i believe she is controlling them as much as my father .
+   (ID: RelaxedSociety)
 
-18. i hope he starts a puppy grooming business lol
-   (ID: jennbunny08)
+18. i could believe that they * dreamed * that maybe
+   (ID: whirlpoohl)
 
-19. i hope this is only a matter of overwork , i hope ... :)
-   (ID: Ml7500)
+19. i believe his exact words were " holy shit , your canals are so tiny and twisty ! "
+   (ID: ThriftStoreSweatband)
 
-20. i hope this is a reference to true crime garage !
-   (ID: mdk15)
+20. i sold it a couple years later i believe for $ 25 / share .
+   (ID: bbakks)
 
 
 --- PER-CHAT ---
-Total from this dataset: 27
+Total from this dataset: 35
 
-1. i took this from mayaxs on wholesomememes because i couldn ' t crosspost it . i hope he ' s fine with it . if not , let me know and i will take it down .
-   (ID: 02e801249875692d61023bbfbc79d7ff34c9eddf)
+1. if you believe that you are fucking retarded . fact .
+   (ID: c69ba20c8286f807f6219a451e4448f951938f31)
 
-2. oh i hope so . i have so much to inform advertisers about .
-   (ID: 457d7d37e1181cc932693cd4220e6fbfd564a75d)
+2. why do atheists choose to hide behind " lack of belief " and not be specific ? how is it " hiding behind ? i lack a believe . what more is there to it ? what specifics do you want ? i don ' t believe in zeus because i understand that thunder and lightning and the result of atmospheric conditions . i don ' t believe in yahweh or jesus , because the stories about them are obviously fables . i don ' t believe there is some vague , deistic , sum  total  of  the  universe god because there is no reason to believe that one exists , and as someone who studies astronomy and cosmology , i already have a word for that . the universe .
+   (ID: 00b878c3a1ec656c05e2872b35fdccfcfda3baac)
 
-3. if you ' re a girl i hope you get stabbed in the vagina
-   (ID: 2ea109772fcc0738f65030d7584f4ec864e785dd)
+3. how can they not take the money but still stand up for what they believe in ?
+   (ID: 6ab97df6bacac740d323c579b509de1838c5d332)
 
-4. my parents are abusive shits . i hope they die already be .
-   (ID: 51b402555c8be7c06ad4a60a2d8d5b71885f838a)
+4. thank you . i believe it was to replace the pulley that is sitting on the unit . there was a armature machinist i  m only a broom technician that likes puzzlesin the motorcycle shop that started to break it down . i will do some more investigating with the owner to see what he knows .
+   (ID: 000804102a722a64dab51502693ae73a9773ff5c)
 
-5. i know what it is . it aligns with that by which i put my hope and faith into , humanity . that and i hold no reservation for superstition or a " higher " power .
-   (ID: b5153b16e61f6bc5e4bf4d8db479b7093df1ae26)
+5. no ! but do you really believe they write every line in their songs ?
+   (ID: 01d4ddab8cb9e73e5e85941c592482da1b3c6bcd)
 
-6. well today , i hope to see some of my friends so i can get a few things off my chest .
-   (ID: 2af8a0ff2295d21473f0e6ff67565738eb8f4df1)
+6. so nobody here  s gonna mention diary of a wimpy kid ?  the hand  believe it was in  dog days
+   (ID: b7515713c74346e74e6961342ed7324a056c09e6)
 
-7. i hope your username is ironic .
-   (ID: af0db6dfe4be67a6b6915437597ea564bbb33830)
+7. it wasn ' t a mistake . what about america ' s history leads you to believe when they slaughter innocents it ' s an accident ?
+   (ID: 8784cd4227a610d9cbb51480d635b44be1d31e8c)
 
-8. because they hope to pop a vessel
-   (ID: a91bab5f0acf1c56a567010f74b21b6e17dea907)
+8. alexandra daddario . for what i believe are obvious reasons .
+   (ID: e3561bdda3e6ea0d1b0ca099b5f947cf7e037b3a)
 
-9. i hope there is a man cave in with my name on it , but i ' m afraid that may not be the case .
-   (ID: 4917a362688355621979e016028f58dbf7f3ac7e)
+9. i find it funny how you ' re telling me what i should share or not . i believe my own personal things are up to me whether or not i should share them or not , no ? it ' s hardly as if it ' s something that ' s scarred you .
+   (ID: 339d06087e421a1cf86d695af2a2088546f9dc91)
 
-10. this is what im talking about ! i hope we get a nice show today !
-   (ID: 29da3ae82f5df6acc737eaec66448bc88d169187)
+10. i can  t believe joe marovsky fell . he  s my hero .
+   (ID: 0d985e9272247b30354f6cbe1f198118486c0261)
 
-11. hey vegans ! i have a question that i hope you can answer . can you hide a subreddit from ever showing up in your feed ever again ?
-   (ID: 37aa751f14bbf132fc2f76d2c2c79142318c3e31)
+11. i took the merry go round of fun and walked by there spawn point . i cant believe it worked other than they were so focused on the rest of the team .
+   (ID: 45768598053a5b3cdf1e6e286b99114b7acf5f3c)
 
-12. it is paradox . you gotta push action button to pick it up . then go beat the past of your character . hope it helps .
-   (ID: f35d74d4d36905b144a4851bae7ac6c2014ebdbd)
+12. why are you dodging the question ? do you believe dinosaurs existed ? it  s a yes or no question lol
+   (ID: d7ab0e5728c419d1e50c8ba827489e51566c046b)
 
-13. my advice if there is a change to get caugth with pants on your ankles hope it ' s your dad
-   (ID: 4dc8611321f8939824b42f21260d7a2adbf4a5d1)
+13. exactly my thoughts , regardless of whether you believe in god or not , this stands to be true .
+   (ID: 8a0d7d262d95d9c10d914ff3b70f342e066aee23)
 
-14. aw , that ' s the same pattern as my region . i was hoping for something exotic haha . in that case , how about your luxury bulbasaur instead ? i hope you can find something of equal value for it .
-   (ID: 9b58219d8f43f5aa6e34770c7b9c7896c88c8fe7)
+14. i expected a question like how can enemies have more than one talent art . i believe some do
+   (ID: 2e2a44cdfc726423ec202a2fe420543af441d1ad)
 
-15. let ' s hope not , i was super tired when i posted that .
-   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
+15. i can tell you but you won ' t believe me .
+   (ID: a70e276355baaea2f732281343d3f63ea5d96365)
 
-16. cool , i hope you do it
-   (ID: df1ced988175856d5a5b468166271e5d777e4a3e)
+16. would you believe me that this is as cheap as a metal deck can get . i would avoid crafting this because more decks are building around aggro but if you still want to you can get away with not including level up and maybe throw in some pirates or murlocs ?
+   (ID: 2dcd820eac167adf18c6706f1c0a26a39eb945be)
 
-17. i hope you are able to get it ! all my experiences with yale and him specifically were great . who is your insurer ?
-   (ID: 08122a9a2a4681e85c950e276210d33c3d0a8f96)
+17. its hard to define emotions on asians . but i cant even define ur gender ! you could be digit and a lesbian , and i would still believe you
+   (ID: 9425493e0ea7469367495f8e5947330e536cafa9)
 
-18. i hope someone shoryuken ' s some sense into this kid
-   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
+18. more like " oh my goood guuuuys . you won ' t believe thiiis " certain intro starts playing
+   (ID: bd42a28607025a98ff2c7df361f815aea9ee3ea9)
 
-19. hope it ' s me hope it ' s me hope it ' s me
-   (ID: 1f3e82e13d88ba22fce8ba80102ccc24b3880ae9)
+19. many americans believe it will not improve our security relative to the cost of building and maintaining it .
+   (ID: 41a67e67cad6d49fc85ef1ed0bf4549a04d9e027)
 
-20. i noticed that , too , but spoilers      that movies ends with the couple splitting after a horrendous fight , so i hope that ' s not potential foreshadowing .
-   (ID: 1daf414799a71e9da93424af4505068a3a02f6ce)
+20. yes . apparently the phones they are bringing out now " have the same protection . i dont believe them .
+   (ID: 1f135ff98983a673a19c956d41be6fdeca8513e4)
 
 
 --- PersonaChat ---
 Total from this dataset: 3
 
-1. i will be graduating in september and hope to get a teaching job soon .
-   (ID: conversation_22)
+1. i believe in fairytales .
+   (ID: conversation_318)
 
-2. i hope to someday compete professionally or atleast qualify for an event .
-   (ID: conversation_596)
+2. i believe that i can achieve anything .
+   (ID: conversation_435)
 
-3. i hope to change the world .
-   (ID: conversation_125)
+3. i believe that mermaids are real .
+   (ID: conversation_1)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I believe the rich should not be taxed as much.
+   (ID: conversation_182_user_2)
+
+2. I believe in leprechauns.
+   (ID: conversation_226_user_2)
 
 
 ============================================================

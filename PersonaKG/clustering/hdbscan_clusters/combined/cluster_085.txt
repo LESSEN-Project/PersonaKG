@@ -1,117 +1,201 @@
 CLUSTER 85
 ============================================================
-Total statements in cluster: 126
-Cluster persistence (stability): 1.000
+Total statements in cluster: 67
+Cluster persistence (stability): 0.983
 
 Dataset distribution in this cluster:
-  MPChat: 4 (3.2%)
-  MSC: 1 (0.8%)
-  PEC: 118 (93.7%)
-  PER-CHAT: 3 (2.4%)
+  FoCus: 1 (1.5%)
+  MPChat: 1 (1.5%)
+  MSC: 8 (11.9%)
+  PEC: 36 (53.7%)
+  PER-CHAT: 9 (13.4%)
+  PersonaChat: 10 (14.9%)
+  SyntheticPersonaChat: 2 (3.0%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 1
+
+1. I play the carillon.
+   (ID: XSRVMY2FFAD5_9)
+
+
 --- MPChat ---
-Total from this dataset: 4
+Total from this dataset: 1
 
-1. i *think* i have my first sprout!
-   (ID: arrowheadfibers)
-
-2. i think my ceramic pipes belong here!
-   (ID: phantomfellow)
-
-3. what do you think of my first strawberry shortcake?
-   (ID: justcook_byangel)
-
-4. an amanita muscaria i think!
-   (ID: fredbutt)
+1. whenever i finish a project i let my cat play with the scraps.
+   (ID: frecklesarelovely)
 
 
 --- MSC ---
-Total from this dataset: 1
+Total from this dataset: 8
 
-1. I think that I am bipolar.
-   (ID: dialog_43_speaker_1)
+1. I play Prince of Persia.
+   (ID: dialog_31_speaker_2)
+
+2. I cannot play music.
+   (ID: dialog_80_speaker_1)
+
+3. I enjoy playing tennis. I play tennis in the park on Main Street and 4th.
+   (ID: dialog_11_speaker_2)
+
+4. I play many games on my iPhone 7.
+   (ID: dialog_199_speaker_1)
+
+5. I'm a Dallas Mavericks fan. I play basketball regulary. I am knowledgable about basketball.
+   (ID: dialog_207_speaker_2)
+
+6. Dolls are fun to play with.
+   (ID: dialog_108_speaker_1)
+
+7. I play piano and violin. My violin has a broken spring.
+   (ID: dialog_53_speaker_1)
+
+8. I play european football.
+   (ID: dialog_62_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 118
+Total from this dataset: 36
 
-1. i think it ’s you .
-   (ID: TheRealAshren)
+1. i only play cod for the bragging rights of kdr between my friends haha
+   (ID: mass08)
 
-2. i do n't think this is your first rodeo .
-   (ID: laura_lee_meh)
+2. i ’d play spin the dreidel with that and seven seconds in heaven .
+   (ID: sherry2012)
 
-3. i think not .
-   (ID: wooq)
+3. i play hearthstone if you play that ?
+   (ID: OliveGames)
 
-4. i think you 're extrapolating too much .
-   (ID: dkinmn)
+4. i 'm confused , so they asked you to play at their private party after the restaurant ?
+   (ID: whirlpoohl)
 
-5. i think we cleared that up .
-   (ID: MILeft)
+5. i would definitely have them both in my teepee to play with my peepee .
+   (ID: billclay55raiders)
 
-6. i think the arcade in oob still has it .
-   (ID: mandogirl)
+6. i check ipleak and it says uk , but still wo n’t play bbc :/
+   (ID: alicepalmbeach)
 
-7. i think it 's the adrenaline .
-   (ID: namastemeanshello)
+7. i play to win gord !
+   (ID: KPer123)
 
-8. i think it 's about both
-   (ID: ThriftStoreSweatband)
+8. i had to play that back .
+   (ID: doctor_parcival)
 
-9. i do n't think so ?
-   (ID: kailan123456)
+9. i wanna play with all dem nipples
+   (ID: chrisisfunny)
 
-10. i think it ’s intentional .
-   (ID: Atlmama)
+10. i loved the play action on 4th and inches .
+   (ID: JacredCat)
 
-11. i do n't think pence complained at all .
-   (ID: isitbrokenorsomethin)
+11. i play small .
+   (ID: microliteoven)
 
-12. i think she sniffin '
-   (ID: creedisagoodband)
+12. i tried both disks and they both are recognised as the play disc .
+   (ID: tommythestone420)
 
-13. i think i have this ?
-   (ID: blueberries97)
+13. i play via emulator on my pc with 2x scaling .
+   (ID: JohnnyPappis)
 
-14. i think that 's redundant .
-   (ID: kailan123456)
+14. i hosted parties with the themes " hawaii -- of the future " and " zillionaires at play " .
+   (ID: combover)
 
-15. i think before .
-   (ID: vivagypsy)
+15. i 'd play the hell out of place walker .
+   (ID: Avaric)
 
-16. i think it is � �
-   (ID: bummang)
+16. i usually do n’t play with color ! !
+   (ID: beautifulw0man)
 
-17. i do n't think it 's implausible .
-   (ID: futurespice)
+17. i can play backs though .
+   (ID: spoonsrugby)
 
-18. i think you were scouted
-   (ID: parkleswife)
+18. i do n't play on water maps .
+   (ID: SeasonedLemur)
 
-19. i think most of it had to do with [ this .
-   (ID: adertal)
+19. i let most of it play .
+   (ID: alextound)
 
-20. i think it ’s scrubs .
-   (ID: eye-brows)
+20. i would les and play
+   (ID: lambsquatch)
 
 
 --- PER-CHAT ---
-Total from this dataset: 3
+Total from this dataset: 9
 
-1. what do you think ?
-   (ID: c22fbcc3fbb3286d348387d73888b66c1c9e09ba)
+1. I play rust.
+   (ID: 064b68f55fd83de76c3cbc4f130670e6435e42a4)
 
-2. if that  s what you think .
-   (ID: 01d4ddab8cb9e73e5e85941c592482da1b3c6bcd)
+2. you will always lose when dealing with the devil , the only winning move is not to play
+   (ID: 4776f36398122cafa421393accf6939d82603a44)
 
-3. fedorcallahan what do you think of this ?
-   (ID: 409a49cde6f1f65f92cac4d33c7c769f7ba9e965)
+3. I play source filmmaker.
+   (ID: 23394798067974e95a922a95c6609d16ca1b11dd)
+
+4. I play warframe.
+   (ID: 0328413fb9fd5eff68cef63593bfc5537e85c2e8)
+
+5. play it cool .
+   (ID: abe6eb04e68a888a202387e9e893a2359a7c1822)
+
+6. my mom puts that on my food when i play fortnite
+   (ID: 34ec1eee47d9e01bd9a5b29f2d3b8f2098f875d3)
+
+7. uh , hell yes ! bring your toys out for you and your partner to play with . you might be surprised what you find out about them .
+   (ID: 2e369dc21156ed2b443bc09084e27c8acb516093)
+
+8. that ought to do it ! we are truly disappointed they didn ' t play it .
+   (ID: 60d49a425809d6f450335028a75a5202d3b84678)
+
+9. drink whiskey and play video games .
+   (ID: 5bf69e8a91457991a99f2cc3f9248ca16f27a0d5)
+
+
+--- PersonaChat ---
+Total from this dataset: 10
+
+1. my mom taught me how to play the cello .
+   (ID: conversation_283)
+
+2. i am learning to play the piano .
+   (ID: conversation_222)
+
+3. in the evenings i watch the door at a club where they play punkrock .
+   (ID: conversation_591)
+
+4. i play bingo every wednesday with my husband .
+   (ID: conversation_395)
+
+5. i often play the clown to get attention .
+   (ID: conversation_558)
+
+6. i play for the baltimore orioles .
+   (ID: conversation_428)
+
+7. my poppa has a train set that i play with .
+   (ID: conversation_486)
+
+8. i play the guitair .
+   (ID: conversation_230)
+
+9. i play d and d .
+   (ID: conversation_54)
+
+10. i can play the violin .
+   (ID: conversation_298)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. I am hoping to play.
+   (ID: conversation_149_user_2)
+
+2. I am hoping to play basketball overseas.
+   (ID: conversation_149_user_2)
 
 
 ============================================================

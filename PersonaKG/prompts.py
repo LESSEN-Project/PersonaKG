@@ -17,56 +17,6 @@ def get_cluster_themes():
         }
     ]
 
-def get_next_utterance_prompt(user1_persona, user2_persona, conversation_history, target_speaker, kg_info=""):
-    """Generate a prompt for next utterance prediction.
-    
-    Args:
-        user1_persona (str): Persona description for User 1
-        user2_persona (str): Persona description for User 2
-        conversation_history (str): History of the conversation up to the current point
-        target_speaker (str): The speaker whose utterance we need to predict
-        kg_info (str, optional): Knowledge graph information about the target speaker
-    
-    Returns:
-        str: The formatted prompt for next utterance prediction
-    """
-    
-    prompt = f"""You are tasked with predicting the next utterance in a conversation between two users with specific personas.
-
-Here are the personas:
-
-User 1 Persona:
-{user1_persona}
-
-User 2 Persona:
-{user2_persona}
-
-Here is the conversation history so far:
-{conversation_history}
-
-Now, predict what {target_speaker} would say next."""
-    
-    # Add knowledge graph information if available
-    if kg_info:
-        prompt += f"""
-
-Additional information from the knowledge graph:
-{kg_info}
-
-You should use the knowledge graph information to better understand the {target_speaker}'s attributes, preferences, and behavioral patterns. Note these important aspects:
-- Consider both direct attributes of {target_speaker} as well as attributes from similar personas.
-- Pay attention to common attribute patterns that may influence how {target_speaker} behaves.
-- Use this knowledge to create a more consistent and realistic response that aligns with the personality profile in the knowledge graph.
-"""
-    
-    prompt += """
-
-Your task is to generate ONLY the next utterance for the specified speaker, without any additional commentary or explanation. Do not include the speaker's name in your response.
-
-Next utterance:"""
-    
-    return prompt
-
 
 def canonicalization_prompt():
     """Generate a prompt for canonicalizing persona attributes.
@@ -97,85 +47,65 @@ def canonicalization_prompt():
         Please canonicalize the new persona attributes, ensuring they are in the cleanest, most normalized form possible."""
     
     return [{
-        "role": "system",
-        "content": system_content
-    },
-    {
-        "role": "user",
-        "content": user_content
-    }]
+                "role": "system",
+                "content": system_content
+            },
+            {
+                "role": "user",
+                "content": user_content
+            }]
 
-def kg_prompt(schema=None):
+def kg_prompt(schema, persona):
     """Generate a prompt for extracting persona attributes based on a schema.
 
     Args:
-        schema (list, optional): A custom schema for the knowledge graph.
-            A list of lists where each inner list contains:
-            [0] - category name (str)
-            [1] - fields (list of str or None)
+        schema (dict): A custom schema for the knowledge graph in JSON format.
+        persona (dict): A persona dictionary containing the persona text.
 
     Returns:
         list: The prompt messages for the LLM.
     """
-    if not schema:
-        # If no schema provided, create a very minimal default
-        schema = [["basics", ["age", "occupation"]], ["traits", None], ["interests", None]]
-
-    # Generate categories list from schema
-    categories = [category_config[0] for category_config in schema]
-    categories_text = "\n".join([f"- {cat}" for cat in categories])
-
-    # Process field categories (like demographics/basics)
-    field_categories = {}
-    for category_config in schema:
-        if len(category_config) > 1 and category_config[1]:
-            cat_name = category_config[0]
-            fields = category_config[1]
-            field_categories[cat_name] = "\n".join([f"- \"{field}\"" for field in fields])
-
-    # Generate field instructions section
-    field_instructions = ""
-    for cat_name, fields_text in field_categories.items():
-        field_instructions += f"- For `{cat_name}`, include the following fields:\n{fields_text}\n"
-
-    general_instructions = """- For all other categories, use arrays of strings. If the persona text doesn't mention anything relevant, use an empty array (`[]`)."""
 
     # Create the system content as a single non-formatted string to avoid issues
-    system_content = "You are a persona attribute extraction system."
+    system_content = f"You are a persona attribute extraction system. Use this schema to extract the persona's attributes.\n\n{schema}"
 
     user_content = f"""You will be given a persona's text.
         Your task is to extract the persona's attributes and return them in a strict JSON format, without any additional keys or text. 
         Follow these instructions exactly:
 
-        1. **Schema**: You must produce valid JSON with the following top-level keys (using exactly these names):
-{categories_text}
+        1. **Schema**: 
+        - Follow the schema to extract the persona's attributes.
+        - Do not use any nodes or relationships that doesn't exist in the schema.
+        - All values in the schema are optional.
 
-        2. **Field Instructions**:
-{field_instructions}
-{general_instructions}
-
-        3. **Unique Assignment Rule**:
+        2. **Persona Extraction**:
         - Each extracted value must appear in **only one** top-level category.
         - Choose the **most appropriate** category based on context.
-        - **Do not duplicate** the same value across multiple categories.
+        - Some values can be included in multiple categories, but make sure to use the same normalized value in all categories.
+        - Do not duplicate the same value inside a single category.
+        - Do not extract anything related to the current emotional state of the person.
+        - Ignore statements that are not realistic. (E.g. I am the queen of England, I am an alien.)
+        - If a value is null, meaning that it is not mentioned in the text, do not include it in the output.
+        - Some values can be inferred from the text. For example, the strength of a person's preference.
+        - If there are conflicting information, choose the most likely one.
+
+        3. **JSON FORMAT REQUIREMENTS** (EXTREMELY IMPORTANT):
+        - You MUST use double quotes (not single quotes) for ALL keys and string values.
+        - Your output must be a valid JSON object that can be parsed by json.loads().
+        - Do not use single quotes for keys or string values.
+        - Do not add any text before or after the JSON object.
+        - Your response should contain ONLY the properly formatted JSON.
 
         4. **Attribute Normalization**:
         - All attributes should be normalized to their most concise, standardized form.
         - For example, instead of "likes going to the gym", use "goes to gym".
         - Always come up with the most normalized form that captures the core concept.
-
-        5. **JSON FORMAT REQUIREMENTS** (EXTREMELY IMPORTANT):
-        - You MUST use double quotes (not single quotes) for ALL keys and string values.
-        - Your output must be a valid JSON object that can be parsed by json.loads().
-        - Do not use single quotes for keys or string values.
-        - Do not add any text before or after the JSON object.
-        - Your response should contain ONLY the properly formatted JSON."""
-
-    user_content += "Here's the persona text: {persona}"
+        
+        Here's the persona text: {persona}"""
 
     return [{
-            "role": "system",
-            "content": system_content
+                "role": "system",
+                "content": system_content
             },
             {
                 "role": "user",

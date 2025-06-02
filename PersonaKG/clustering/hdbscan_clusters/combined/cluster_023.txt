@@ -1,162 +1,206 @@
 CLUSTER 23
 ============================================================
-Total statements in cluster: 106
-Cluster persistence (stability): 0.870
+Total statements in cluster: 166
+Cluster persistence (stability): 0.558
 
 Dataset distribution in this cluster:
-  FoCus: 12 (11.3%)
-  MPChat: 2 (1.9%)
-  PEC: 83 (78.3%)
-  PER-CHAT: 9 (8.5%)
+  MPChat: 11 (6.6%)
+  MSC: 4 (2.4%)
+  PEC: 85 (51.2%)
+  PER-CHAT: 65 (39.2%)
+  SyntheticPersonaChat: 1 (0.6%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- FoCus ---
-Total from this dataset: 12
-
-1. I have heard of the Otomi.
-   (ID: ZWQO9OQ8DX45_11)
-
-2. I have heard about Hooghly River.
-   (ID: WKS47SP8CYLV_11)
-
-3. I have heard of the Saint John of Capistrano.
-   (ID: LEUWGO47I5DG_11)
-
-4. I have never heard of The Hazards.
-   (ID: EKA46AEQGK5D_9)
-
-5. I have never heard of Swansea.
-   (ID: EKA46AEQGK5D_9)
-
-6. I have heard about the company, Wilson and Herrald.
-   (ID: X8D77JFL2NLG_11)
-
-7. I have heard of many shipwrecks.
-   (ID: DAT5H5H80JCW_7)
-
-8. I have heard about Bern.
-   (ID: ATJSFYS2K6FK_11)
-
-9. I have heard about Marshall Field & Co.
-   (ID: FBUZJNVHT0N2_9)
-
-10. I have heard about CargoNet.
-   (ID: LAJWET9XR7CD_11)
-
-11. I have heard of John W. McKernan.
-   (ID: X8D77JFL2NLG_11)
-
-12. I have heard about Thrissur pooram.
-   (ID: CJWI83QV42AK_11)
-
-
 --- MPChat ---
-Total from this dataset: 2
+Total from this dataset: 11
 
-1. i heard r/aww likes older dogs too.
-   (ID: The69LTD)
+1. look what i scored at the dollarama
+   (ID: Novel_Fox)
 
-2. i heard this is valuable for the thc content and is saught after for wax production.
-   (ID: thebarberstylist)
+2. i'm growing a polka dot plant from seeds, look at the color on the baby leaves!
+   (ID: CuriosityK)
+
+3. look at these adorable milkshakes i crocheted!
+   (ID: Louiesloops)
+
+4. i think they look like aesthetic spaghetti
+   (ID: green-egg-and-ham)
+
+5. my snickerdoodles dont look like your snickerdoodles!
+   (ID: baccgirl)
+
+6. my sun glasses look better on my dog than they do on me.
+   (ID: FMbutterpants)
+
+7. the frozen droplets on my pyrex lid look like snow capped mountains
+   (ID: narjis84)
+
+8. this pic makes my friend's boxer look like he only has two legs....
+   (ID: opie2)
+
+9. why do all my circular crochet projects look so messy?
+   (ID: CuriosityK)
+
+10. my headlight reflection makes it look like this honda wants to devour my soul.
+   (ID: baccgirl)
+
+11. my hydrangea blooms are dying but i think they look awesome!
+   (ID: chirp16)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. I'd never even look at meat, yet alone eat it.
+   (ID: dialog_60_speaker_1)
+
+2. I am hoping to become an advocate for motorcycle safety. Motorcycles are my passion. I look up to Keanu Reeves.
+   (ID: dialog_87_speaker_2)
+
+3. I look for advice from my family.
+   (ID: dialog_165_speaker_2)
+
+4. I like the look.
+   (ID: dialog_61_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 83
+Total from this dataset: 85
 
-1. i finally replied to one because they mentioned something about this app that i had never heard of .
-   (ID: BLONDEBITCHH)
+1. i 'm on mobile now but look up update triggers
+   (ID: msiekkinen)
 
-2. i swear i heard the same speech in metal gear solid v.
-   (ID: Avaric)
+2. i also watched monkey king and the first fighter i look up to is also bruce lee .
+   (ID: Lsmoothies)
 
-3. i was able to listen for his heartbeat and heard stillness in his chest .
-   (ID: fabs1171)
+3. i came here to look if the lgbt crowd had any helpful ideas ;)
+   (ID: conservative_poly)
 
-4. i have n't heard of italki before .
-   (ID: LordQuorad)
+4. i hear a buzzing when i look at this
+   (ID: RogueCackle)
 
-5. i heard you liked spaceships .
-   (ID: Bananafoofoofwee)
+5. i so look up to my parents that even in divorce how wonderful they are to each other .
+   (ID: samward7)
 
-6. i heard it from geraldean r dodge poetry festival .
-   (ID: mbw1960)
+6. i like to look up " faith in humanity " on pinterest :)
+   (ID: lovestheautumn)
 
-7. i had never heard of them before .
-   (ID: CheapyPipe)
+7. i do n't care if anybody gets double teamed , i just look for the most enjoying fight .
+   (ID: Atemu12)
 
-8. i heard a track on all song considered .
-   (ID: dkinmn)
+8. i highly encourage you look it up too for context .
+   (ID: deleted-redditor)
 
-9. i heard it is because that is how we humans communicate .
+9. i am commenting here so i can later have a look at your survey :)
+   (ID: conservative_poly)
+
+10. i look forward to getting you that a.
+   (ID: thenanoage)
+
+11. i think the difference is wentz 's reads look quicker and more decisive so far
+   (ID: Snake-N-Roses)
+
+12. i do n’t think i look like a terrorist ...
+   (ID: Heavenandhell50)
+
+13. i wrote a teaser , have a look and a click .
+   (ID: jwshapir)
+
+14. i look too .
+   (ID: blueberries97)
+
+15. i think you 'd look killer with one
+   (ID: bennystache)
+
+16. i was irritated but i had a date to look forward to so i was counting on that .
+   (ID: _gansmadchen)
+
+17. i just realized today i look at everything through ‘ hurt ’ eyes .
    (ID: snapsnaptomtom)
 
-10. i also heard they keep buttons at certain stores ?
-   (ID: travelingkiwi)
+18. i look forward to this program � �
+   (ID: swaggy_butthole)
 
-11. i have been diagnosed with depression , and never heard of melatonin making it worse .
-   (ID: exotics)
+19. i 'd never even question it , you look great .
+   (ID: bigfuckingdiamond)
 
-12. i heard nasb is the most accurate and true to original
-   (ID: shortgiraffe9000)
-
-13. i heard she puts on an awful show
-   (ID: themarajade1)
-
-14. i also speak telugu and have never heard this .
-   (ID: AP7497)
-
-15. i have heard costco is also very fair to employees ..
-   (ID: exotics)
-
-16. i heard this as " be kind as everyone you meet is engaged in a momentous struggle "
-   (ID: dammitOtto)
-
-17. i heard this in kate mulgrew ’s voice .
-   (ID: pharan_x)
-
-18. i sold my mps and normal one as soon as i heard .
-   (ID: like60bunnies)
-
-19. i have never , ever heard anyone accuse a trump supporter of being smart .
-   (ID: Purrcapita)
-
-20. i have n't heard of any other genocide in which so many millions were murdered .
-   (ID: mushpuppy)
+20. i will carefully look over it .
+   (ID: Zarqume)
 
 
 --- PER-CHAT ---
-Total from this dataset: 9
+Total from this dataset: 65
 
-1. hijacking this thread to tell you about an amazing opportunity . have you heard about invigaron ?
-   (ID: e8294c4800e890349637a75b3ecba5d1f7b2a97d)
+1. once you start catching yourself in the moment of being over  emotional and realize the contrast of how badly you overreacted , coupled with how much easier things are when everything isn ' t tied to emotion , you look at things already expecting to be calm and skip the dramatic part
+   (ID: 38a7a6f66912b8e8858311b8973e2751454e04a9)
 
-2. when i heard the sirens and , as a stereotypical dad though i am not a dad would do , pretended to run saying " haha they found me "
-   (ID: 51b0a9706027f94a22f40104e0a832de65645ef7)
+2. everytime i look at any food product , i will be able to see its detailed nutritional information laid out like a computer screen
+   (ID: a04ffec23ab9c2af8d4ac433e06db2b5d1b4bf9b)
 
-3. ooo ! a maze food bowl ! never heard of that . would you be able to suggest or link me to one ? thnk you !
-   (ID: c45b0aae0255418b40be5727c7c7e05cfdaf3ea9)
+3. that is fucking scary . i can never look at a tampon the same . i  m telling all my sisters to start using pads .
+   (ID: 52d78e4773d4122f8586b7a65f210e69f69dc18d)
 
-4. have you heard one ? that ' s why .
-   (ID: a2291731ea6532473dc0e3f9275ce68c86abfad6)
+4. somebody once told me i should disconnect immediately and never look back .
+   (ID: cac2d4cc79a699129db51480e698113e438f2eca)
 
-5. i may well give it a watch in that case . i ' d heard that the spoiler made or broke it ?
-   (ID: a99ac82078cfd11980b48ae3d5fc8cabf3c69484)
+5. true friends will tell you when you look like a drowned rat . acquaintances will say you look " fine , if a bit tired . "
+   (ID: 4b09daa44fc74718837e867df140c059b7377dd4)
 
-6. one of my favorites . have you heard the anthology version ?
-   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+6. you look like steve from stranger things
+   (ID: af0c660bb723d5afb410ddb2f8b9e5f271ae2703)
 
-7. specialist batsmen ? i heard he was playing as an all  rounder .
-   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+7. are you referring to that viral image of some kid that doesn ' t even look like him wearing a gag tee from snorg ? the one that glorified bloggers started circulating before the victims were even done bleeding out ?
+   (ID: 2e0fa1fd581de25802392d764f2cae20411f0e12)
 
-8. how have you ' s never heard of the term chook  s ?
-   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
+8. is it ok if i look like a goblin ?
+   (ID: d09e696dd7c09a7ca06365b7e3bb6bd18e6f98bb)
 
-9. once i have enough coins to replace bonaventura he ' s probably who i was gonna get . haven ' t heard of anyone using him so i appreciate the comment !
-   (ID: 230ce64c825c9de0874b588b6d715819e39e5610)
+9. look out behind you sponge bob oh no he has airpods in he can  t hear us
+   (ID: 34ec1eee47d9e01bd9a5b29f2d3b8f2098f875d3)
+
+10. i find it more disturbing than he can look through walls and clothes
+   (ID: 9a79b05d9254cd2c33add44b7119f844802b48d9)
+
+11. look kids , i can call things the wrong name ! that ' s so cool !
+   (ID: 2a43fd1ba18ed201f563f660a853be569ebb3917)
+
+12. see a doctor but it could be harmless . my dad has ones that look like that and it nothing .
+   (ID: fa9acab3fbd86b1f64e6380ef31b49912dae0c74)
+
+13. no big red flags here . you look attractive from this angle . unless you are hiding something from the waist down that is a deal breaker . this particular pic makes your complexion look very pale , but that ' s not a bad thing , at least in my opinion .
+   (ID: 08f11971c665b10afd81008344be824eee9ae6a7)
+
+14. what  s the cost look like for you locally there ?
+   (ID: 331a369e9c4eeeec0c052f4d231490718fe64c61)
+
+15. some of the discontinued ones ex . archimedes , dispenser , posable figures are in stock there also if u look up valve store , it ' s there
+   (ID: 5a485308ca6e36eb17d7b0fc321fcf7695f3af53)
+
+16. you might notice the title of the thread is " what irritates you " so yeah . i do get irritated by this topic . word of advice  every application is online . if you show in person it makes you look bad .
+   (ID: 3f03e19f839d6382fd2b368797fa9feed1073b58)
+
+17. you know when you watch porn and you look at body parts no one else would look at ? yeah
+   (ID: 1921dc07cd609c210cb71a0176afa3dfa4fa3772)
+
+18. im currently at the point when you see something so weird that you look around to see if everyone is seeing what you  re seeing .
+   (ID: 01d4ddab8cb9e73e5e85941c592482da1b3c6bcd)
+
+19. hopefully using a fucking turn signal . that would be something to look forward to .
+   (ID: 850866a9e8dd0a9014f428e54e74f54649737a60)
+
+20. " get your act together , you ' re making us look like a collection of round earthers "
+   (ID: e38f2a822c2a3c975648ce0d471926339b339523)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 1
+
+1. Its important for my instagram posts to look like i am having fun.
+   (ID: conversation_208_user_2)
 
 
 ============================================================

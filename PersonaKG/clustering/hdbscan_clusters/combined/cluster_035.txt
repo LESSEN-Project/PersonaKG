@@ -1,16 +1,16 @@
 CLUSTER 35
 ============================================================
-Total statements in cluster: 199
-Cluster persistence (stability): 0.520
+Total statements in cluster: 328
+Cluster persistence (stability): 0.425
 
 Dataset distribution in this cluster:
-  FoCus: 2 (1.0%)
-  MPChat: 9 (4.5%)
-  MSC: 2 (1.0%)
-  PEC: 140 (70.4%)
-  PER-CHAT: 43 (21.6%)
-  PersonaChat: 2 (1.0%)
-  SyntheticPersonaChat: 1 (0.5%)
+  FoCus: 8 (2.4%)
+  MPChat: 3 (0.9%)
+  MSC: 25 (7.6%)
+  PEC: 81 (24.7%)
+  PER-CHAT: 191 (58.2%)
+  PersonaChat: 14 (4.3%)
+  SyntheticPersonaChat: 6 (1.8%)
 
 ============================================================
 
@@ -18,199 +18,304 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 2
+Total from this dataset: 8
 
-1. I'm looking for a university.
-   (ID: J5M5FXFIS10V_11)
+1. I would like to live in Palladian house.
+   (ID: QCGNF3BW4P3K_11)
 
-2. I prefer looking inside the well-known building to just exterior of the building.
-   (ID: XW6WLBIV74VV_11)
+2. I wouldn't like to live in a Castle.
+   (ID: YB6ZF4SJI3P1_11)
+
+3. I live in Sichuan.
+   (ID: AQKHAKIE056G_7)
+
+4. I live in the Shetland area.
+   (ID: FXSLHPIIV91K_11)
+
+5. I live in Munich.
+   (ID: XSRVMY2FFAD5_9)
+
+6. I always envied my friends who have been to a real live concert.
+   (ID: MSLBTP1KZY1B_11)
+
+7. I would like to live in Fort Worth.
+   (ID: W7U20Y2811DO_9)
+
+8. I live in urban part of the city.
+   (ID: QK9TQHXYFFJ9_11)
 
 
 --- MPChat ---
-Total from this dataset: 9
+Total from this dataset: 3
 
-1. maybe the coolest looking record i own...
-   (ID: i_like_it_raw_)
+1. just the handsome pitbull i rescued from a high kill shelter to come live in the woods with me.
+   (ID: NinjaSupplyCompany)
 
-2. looking innocent just before peeing on my sheets
-   (ID: BananaStand07)
+2. dyer friends and i moving our fiber festivals online with a live fb show!
+   (ID: SuperfineYarnCo)
 
-3. this was the droid i was looking for :)
-   (ID: zenbuffy)
-
-4. my boy drogo looking for the splash
-   (ID: FMbutterpants)
-
-5. hydroponic carolina reaper leaves have started looking like this, what can i do?
-   (ID: IceEye)
-
-6. itap of my dog looking happy at the beach
-   (ID: The69LTD)
-
-7. my sweet girl is by my side looking regal, as usual.
-   (ID: meghanlovessunshine)
-
-8. just looking for thoughts on what to do with my wisteria in the future.
-   (ID: CallMeBigBobbyB)
-
-9. i feel so at ease from looking in through this corner of my tank
-   (ID: ijohno)
+3. i finally live in a place where i can walk out my back door and hunt.
+   (ID: ChroniclyDope)
 
 
 --- MSC ---
-Total from this dataset: 2
+Total from this dataset: 25
 
-1. I have been looking for a job. My family is annoying me.
-   (ID: dialog_2_speaker_1)
+1. I live in Seattle and it is snowing and cold.
+   (ID: dialog_14_speaker_2)
 
-2. I like Indian food. I am looking for a dog to adopt.
-   (ID: dialog_100_speaker_2)
+2. I haven't been on live shows.
+   (ID: dialog_232_speaker_2)
+
+3. I live on the east coast.
+   (ID: dialog_76_speaker_1)
+
+4. I have a porch where I live.
+   (ID: dialog_71_speaker_2)
+
+5. I live in a bad neighborhood.
+   (ID: dialog_13_speaker_2)
+
+6. I like stand-up comedy. There are no stand-up comedy clubs around where I live.
+   (ID: dialog_33_speaker_2)
+
+7. I live with my kids and my husband. I cook breakfast for them and am always in a hurry. my kids are always running late. The father drops them to school.
+   (ID: dialog_105_speaker_1)
+
+8. I was in the pit on two 5FDP live shows.
+   (ID: dialog_232_speaker_1)
+
+9. My dad is a preacher and is judgemental. We live in the old country.
+   (ID: dialog_98_speaker_2)
+
+10. I live in a fantasy world.
+   (ID: dialog_50_speaker_2)
+
+11. I don't live far from Speaker 1.
+   (ID: dialog_231_speaker_2)
+
+12. I live in Florida. I have contacts in Alabama.
+   (ID: dialog_85_speaker_2)
+
+13. I live in the desert.
+   (ID: dialog_222_speaker_1)
+
+14. I live in my parents' house in Germany. I speak German very well. I cannot afford to rent my own apartment.
+   (ID: dialog_156_speaker_2)
+
+15. I live on a private island where things can take a bit to be delivered.
+   (ID: dialog_69_speaker_2)
+
+16. I live on my boat. I own a salon. my business is stable. I'm busy recently.
+   (ID: dialog_228_speaker_2)
+
+17. I live near Boston. I have a wife. I have friendly neigbors.
+   (ID: dialog_31_speaker_2)
+
+18. I am from Orlando. I live with my girlfriend. I like girls taller than I am. I am 6 ft. My girlfriend is 6'2.
+   (ID: dialog_85_speaker_2)
+
+19. I live in Argentina. I live with horses on a horse ranch. I have horses named Max, Rodney and Finn.
+   (ID: dialog_59_speaker_2)
+
+20. I live in a small town in Russia, a few hours north of Moscow by car.
+   (ID: dialog_224_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 140
+Total from this dataset: 81
 
-1. i had been looking all over for a livestream , but they were all terrible .
-   (ID: adertal)
+1. i could live with that .
+   (ID: Bananafoofoofwee)
 
-2. i 'm looking at you halloween megathread
-   (ID: alextound)
+2. i live in a house share with two other men - one roll can last us a full week .
+   (ID: DarkMoon99)
 
-3. i am basically looking for a friend that 's always down to play .
-   (ID: mmaswadeh)
+3. i live at the waterfront in plymouth .
+   (ID: mass08)
 
-4. i 'm looking for something as low as can go .
-   (ID: juls2587)
+4. i live in germany and my s8 + has bixby .
+   (ID: thed0ctah)
 
-5. i 've been looking to put a system in !
-   (ID: mdk15)
+5. i live in the town over from where pepsi was invented , its the law of the land here .
+   (ID: notjawn)
 
-6. i ’ve drunk to blackout and realized what i was looking for was a short death , a reprieve .
-   (ID: snapsnaptomtom)
+6. i ’m guessing you live in the pnw .
+   (ID: Justadropinthesea)
 
-7. i 'm always looking forward to killing nazis .
-   (ID: DravenPrime)
+7. i could live in this song .
+   (ID: BoobieBoobieButtButt)
 
-8. i have not found the all yet , but i will keep looking .
-   (ID: ETphonehome162)
+8. i used to live in a town called table mesa .
+   (ID: Piraticalstyle)
 
-9. i have a vacation coming up and i am looking forward to the food .
-   (ID: noworriestoday)
+9. i live in ohio !
+   (ID: GetItTogether)
 
-10. i do n't care if you were looking to advertise here .
-   (ID: middlegeek)
-
-11. i 'm looking for the original release of billie holidays strange fruit single on commodore .
-   (ID: Ashex)
-
-12. i know , op you looking to adopt ?
-   (ID: Sarahthelizard)
-
-13. i like my architecture relatively - normal - looking , but classy .
-   (ID: cometparty)
-
-14. i ’m looking for a puppy and i ’m stuck between a golden retriever or a chesapeake bay retriever .
-   (ID: JeMangeLeButt)
-
-15. i can barely move my fingers after looking at that picture .
-   (ID: dohko_xar)
-
-16. i am looking at you , pygreg .
-   (ID: cookiexcmonster)
-
-17. i 'd be looking at those ads first as a buyer .
-   (ID: UsernameCensored)
-
-18. i am looking for examples of dresses with examples of 3d flowers in the skirt !
+10. i live in central vancouver island so could commute to either during the week .
    (ID: travelingkiwi)
 
-19. i came here looking for an " after " photo .
-   (ID: FridaysChild219)
+11. i live 5,000 miles away and have n't been in either store for a while .
+   (ID: AttackTribble)
 
-20. i 'm really looking forward to this !
-   (ID: zsnajorrah)
+12. i live near there but never went .
+   (ID: bummang)
+
+13. i live amongst the saguaros in the second most populous city in my state .
+   (ID: I_am_not_a_Taco)
+
+14. i was surprised at how black people live in one area and white people live in another .
+   (ID: JayDub30)
+
+15. i live 500 m from the ocean and it ’s such a powerful force
+   (ID: fabs1171)
+
+16. i live in kentucky and i worked my ass off in high school to get where i am .
+   (ID: swaggy_butthole)
+
+17. i live for that title � �
+   (ID: tobehappyagain)
+
+18. i live in a city and someone manually dumps all the trash from the garbage .
+   (ID: DickRubnuts)
+
+19. i live in an apartment and some of them do shake my windows :/
+   (ID: happyfamilygogo)
+
+20. i live in flavorville ... hopefully a strong leader can peel out over and fix our problems
+   (ID: lambsquatch)
 
 
 --- PER-CHAT ---
-Total from this dataset: 43
+Total from this dataset: 191
 
-1. looking for something out of place so i can repost this on  findthesniper
-   (ID: e982e025c0604997a6e2072eb87b9bb01bed38ae)
+1. I live in perpetual state.
+   (ID: f2cec4af782c7d455288420e90648dc9c6d12538)
 
-2. that is one happy looking cat ! all of the pats .
-   (ID: ac2c03aee57c4505cf414c55446ec313e1307ee1)
+2. what kind of buffet do they have where you live ? my options are horrible chinese and golden corral
+   (ID: ae883e46c72e58080b5ef54420dbdcf03b251d94)
 
-3. ok cool . let me know the lowest you could go . it  s a great looking piece , looking for something to change it up . i  m going to keep looking to see if there is anything else in my range . thanks for the quick response !
-   (ID: 29f3e9a3f8c02fc1b9aa346cffb8edec6caac89f)
+3. it will probably be in potato quality if they let it live
+   (ID: bdbdc7c12fe37172b721ff3ae186b84ad646d582)
 
-4. that  s awesome ! i keep looking for a juice that is similar to the juul mint flavor . can  t find it though . and i like the sourin ! never tried smok tho !
-   (ID: 2baa313af7d70181dc367dbd0e46b168cf35df26)
+4. I live in cleveland evening news.
+   (ID: 0dbed651dd0d5be163d67244516bde20b27c36dc)
 
-5. by telling yourself " it ' s over " while looking in the mirror .
-   (ID: 68698bd86019a86cb34a8b2e28c6324727011b28)
+5. captain america test . toss a supposedly live grenade into a group of people where they can jump on it .
+   (ID: 4f27bcf41b1aa25bc869638c7cb7769295237639)
 
-6. i had a gaint panick attack in the middle of class and everyone was looking at me which made it worse .
-   (ID: 825a08e404a7e2db2fd9fc73052f89b0d2f148bb)
+6. I live in 21st century.
+   (ID: 725d4aa726d6161269e6b6ff3ba37ac95ea27a3f)
 
-7. who goes around looking at his dick so intently that it becomes an issue ? this is like when christian groups complained about brandon routhes superman bulge . surely they have beget things to do and worry over ?
-   (ID: 42a8780a6a35c7b2e85acf575fc8cb2ff3c5a6f3)
+7. I live in chris cornell.
+   (ID: 11901fdae0180e2dff4ee7e340807ab6d92de874)
 
-8. other than phr4r . where else can i find women looking to . hookup ?
-   (ID: 782311f0352356940fd2c1e77bc3cfa9f74b06fa)
+8. I live in stumptown  years.
+   (ID: 338e964d6f616e85c5b26cf7b63ec2dba22cf7ba)
 
-9. maybe scared of looking like a white supremacist or cancer patient ?
-   (ID: d8014467041b98317d9f1dec2b0dae4ff9405b91)
+9. I live in atlanta area.
+   (ID: ea5cdb41822e9eac6a4230514be598981cadabcb)
 
-10. you have the link for the entire download ? i was just looking for it .
-   (ID: b8a837337ecbafd4a4c170d8fad76bd3de102f09)
+10. I live in content.
+   (ID: 31a38fd064ff03f66a81cdb43afb06ce9a64e5c7)
 
-11. i have an eng darkrai code , is that what you are looking for ?
-   (ID: c956c3bf88cce2d3de1fc9f4d4a6e7b082a20dbb)
+11. you should definitely have him move out . depending on where you live you can see what social services can do for him or if he  s still at the rehab have them take care of it .
+   (ID: 83ed088161a0acc5bb20774e9e10435e55e88737)
 
-12. oh , that ' s why labeouf is always about to cry when he ' s looking at him . it all makes sense now .
-   (ID: c0df02e86ac437797e2d1003d2ac403b3f940bc4)
+12. I live in with fear.
+   (ID: 651fd225d5db46e0521fde62bb39cae1bc5ab942)
 
-13. are you still looking for it ?
-   (ID: 4a904b3db5017f5069f27886874bdeee777d5c06)
+13. I live in asbestos.
+   (ID: 7e8d23b8f1f993c239648b064d6f3e414288a7dd)
 
-14. there are my slippers ! been looking for those . anyone know the number of the stock photo company so i can get them back ?
-   (ID: e1cfe7e3bd4f78988caf9c6fd043691888e401c8)
+14. I live in with big group.
+   (ID: 25a3a19690cf520ebb090d792f9aab864cc59254)
 
-15. i ' d not mind looking her in the boobs . just sayin .
-   (ID: 79bb0063e4d93ebf3f272c94124194ae51d04a55)
+15. I live in complimentary ghetto drama film scene.
+   (ID: 6df9aa116b384e9a3995821c3b173c993d7d09b5)
 
-16. this is exactly what i was looking for ! thanks !
-   (ID: 19d727be6c2cbac7b528c7c522e3aa512e48025f)
+16. I live in fair amount.
+   (ID: 439e78cca3643ee51185b36cedaa4c3e72551ef5)
 
-17. it would be grand . same as anywhere in that if you are looking for trouble , you will find it but if not i wouldn ' t worry about it
-   (ID: 1fb7025aaa0b620e024c8abbaecd72d34f8418b0)
+17. so when you see a pop star with ear plugs in would that literally be a live feed so they can head their own voice as they are singing ?
+   (ID: 13351a02e20f4adf8ac13d71b9b8887cf8b7bb2c)
 
-18. what ' s embarrassing about having the very act of removing your jacket whilst looking a woman directly in the eyes literally radiate enough raw sexual power to blow her hair back ? all things considered , it ' s probably his greatest accomplishment .
-   (ID: 4ef88292bcb63ee32b3f587610b610322cea098e)
+18. just do what i do , keep telling yourself you can  t live forever .
+   (ID: a6171234e1a4ec65a39ad55aa0aa058eb98dff83)
 
-19. how do i do the bronze pack method ? what players am i looking out for ? what do i sell and not sell ?
-   (ID: 48e565f53f18e7fed27267c945fb81bb868c90f3)
+19. I live in flight path.
+   (ID: 3f3a13bda2e98055fc23d20ace4e5f76118b56c5)
 
-20. and you ' re still looking at memes in reddit ? atleast you have you priorities in order .
-   (ID: 1543db1d6055e53e89f8cf01ac7250da8f876c95)
+20. I live in religious household.
+   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
 
 
 --- PersonaChat ---
-Total from this dataset: 2
+Total from this dataset: 14
 
-1. i am looking for a second job .
-   (ID: conversation_272)
+1. i own a mansion that i do not live in .
+   (ID: conversation_475)
 
-2. i am looking forward to reading the latest political thriller .
-   (ID: conversation_220)
+2. i live with my sisters and they provide me with all my needs .
+   (ID: conversation_336)
+
+3. i am 49 , male and live in dublin , ireland .
+   (ID: conversation_526)
+
+4. i live alone .
+   (ID: conversation_18)
+
+5. i like to live off of the land .
+   (ID: conversation_110)
+
+6. i live in nashville .
+   (ID: conversation_117)
+
+7. i couldn t live without my cell phone .
+   (ID: conversation_49)
+
+8. i live on a boat .
+   (ID: conversation_14)
+
+9. i live down the street from miley cyrus and pnb rock .
+   (ID: conversation_184)
+
+10. i live in rural wisconsin .
+   (ID: conversation_15)
+
+11. i live in the usa .
+   (ID: conversation_23)
+
+12. i live on the third floor in an apartment .
+   (ID: conversation_17)
+
+13. i live in las vegas , nevada .
+   (ID: conversation_314)
+
+14. i still live with my parents .
+   (ID: conversation_24)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 1
+Total from this dataset: 6
 
-1. I am currently looking for a job in baltimore.
-   (ID: conversation_258_user_2)
+1. I live to not disappoint my loved ones.
+   (ID: conversation_8_user_1)
+
+2. I live a lie.
+   (ID: conversation_288_user_1)
+
+3. My doctor told me i have six months to live.
+   (ID: conversation_252_user_2)
+
+4. I live close to the coast.
+   (ID: conversation_39_user_1)
+
+5. My parents live in kentucky.
+   (ID: conversation_310_user_2)
+
+6. I live on a beet farm.
+   (ID: conversation_55_user_2)
 
 
 ============================================================

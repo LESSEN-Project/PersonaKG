@@ -1,12 +1,15 @@
 CLUSTER 67
 ============================================================
-Total statements in cluster: 71
-Cluster persistence (stability): 0.973
+Total statements in cluster: 167
+Cluster persistence (stability): 0.622
 
 Dataset distribution in this cluster:
-  MPChat: 1 (1.4%)
-  PEC: 52 (73.2%)
-  PER-CHAT: 18 (25.4%)
+  MPChat: 5 (3.0%)
+  MSC: 4 (2.4%)
+  PEC: 70 (41.9%)
+  PER-CHAT: 83 (49.7%)
+  PersonaChat: 3 (1.8%)
+  SyntheticPersonaChat: 2 (1.2%)
 
 ============================================================
 
@@ -14,132 +17,189 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- MPChat ---
-Total from this dataset: 1
+Total from this dataset: 5
 
-1. stunted her a bit at first but i think she looks like a stinky christmas tree
-   (ID: thebarberstylist)
+1. i made hot pepper relish once and now people keep giving me more.
+   (ID: hensandchicas)
+
+2. a few people pmd me about my doctor who scarf pattern.
+   (ID: ddizzle23)
+
+3. i had 4 people plus 4 wheels inside.
+   (ID: bryanw0104)
+
+4. people told me that crochet wasn't manly, but me and my manticore dragon beg to differ.
+   (ID: VisitingCivet)
+
+5. my dog likes to gently carry around a shoe whenever people come over, he never chews them either!
+   (ID: Veretica)
+
+
+--- MSC ---
+Total from this dataset: 4
+
+1. Hearing people sing from the heart can move me to tears.
+   (ID: dialog_24_speaker_1)
+
+2. I'm distrustful of people.
+   (ID: dialog_30_speaker_1)
+
+3. I do not listen to the opinions of most people.
+   (ID: dialog_37_speaker_2)
+
+4. I am dating two people, one man and one woman.
+   (ID: dialog_159_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 52
+Total from this dataset: 70
 
-1. i think for most of them they have always sounded like that .
-   (ID: UsernameCensored)
+1. i argued with my professor about why people serve .
+   (ID: Lifes6Midnight)
 
-2. i think they have like one or two
-   (ID: Nick84572)
+2. i do n't wanna meet any of you people
+   (ID: ElectricBlumpkin)
 
-3. i 'd think they 'd like it =)
-   (ID: PartyPisser)
-
-4. i think it is almost like the messages go through the same system .
-   (ID: snapsnaptomtom)
-
-5. i think i should leave this one like this .
-   (ID: serverpilot)
-
-6. i do n't think she 'd like any specific attention , though .
-   (ID: nastylittleman)
-
-7. i think he looks like he needs a high level of medical insurance , pronto .
-   (ID: bigfuckingdiamond)
-
-8. i think of a kanban board and tools like monday.com , o365 planner , etc .
-   (ID: ludaa)
-
-9. i think that worked backwards for me because that feels like it was not long ago at all :(
-   (ID: GetItTogether)
-
-10. i like to think i have an above average level of sidekicks walking around with me .
-   (ID: LightofNew)
-
-11. i like to think they made it , but was sad not to see them in skyhold !
-   (ID: monday_madrigal)
-
-12. i think you ’d have to be ill to have a testicle that looks like that though .
+3. i would be one of the crazy about it people .
    (ID: Nobody-Likes-Change)
 
-13. i do n’t think anybody has a problem determining wether they like something or not .
-   (ID: howfuckedareyou)
+4. i 'm dumbfounded at the amount of people trying to take a video while being shot at .
+   (ID: JayDub30)
 
-14. i like to think some souls get to play as animals ...
-   (ID: lonewolf2556)
+5. i keel seeing people talk about coulson and danny .
+   (ID: baconnaire)
 
-15. i think this is one of those genetic traits , like tongue rolling .
-   (ID: crestview76)
+6. i played this at a funeral and when people complained i turned it up : d
+   (ID: Lifes6Midnight)
 
-16. i like to think of it as " childfree . "
-   (ID: scoutsadie)
+7. i 'm kind of in shock over how many people are on here .
+   (ID: PeePeeCat)
 
-17. i like to think of it as the gay age
-   (ID: waterspork)
+8. i know because i know the people in this photo .
+   (ID: juliacakes)
 
-18. i think the mom looks a bit like an older hermione !
-   (ID: hardt0f0rget)
+9. i personally was n't referring to homeless people ..
+   (ID: exotics)
 
-19. i think tankies treat everything like euiv .
-   (ID: Shrub74)
+10. i messaged one of the people there to remove this article from their site .
+   (ID: exotics)
 
-20. i think we like breasts because they signify an inclination toward fertility and maternity .
-   (ID: TylerC_D)
+11. i swear these people are giving the social constructivist theory a run for its ' money .
+   (ID: IncredibleBulk2)
+
+12. i can already hear the young people on my social media bragging about smoking moss .
+   (ID: Etifaq)
+
+13. i ’m curious of what prejudge there is about ace people / the ace community .
+   (ID: mrhenk9)
+
+14. i hear people talking about it
+   (ID: LabeledAsALunatic)
+
+15. i wanna call people fucking grapes now hahahaha
+   (ID: bleepblorp9878)
+
+16. i enjoy 2 shotting people without revenge : d
+   (ID: playertd)
+
+17. i bet you made some people very jealous .
+   (ID: JayDub30)
+
+18. i lay people out !
+   (ID: nate6051)
+
+19. i let people borrow up to 10 pennies .
+   (ID: error785)
+
+20. i made it vanilla so people could load ' most ' mods overtop of it .
+   (ID: SYDWAD)
 
 
 --- PER-CHAT ---
-Total from this dataset: 18
+Total from this dataset: 83
 
-1. isn ' t that a power move ? for someone to pick a much younger partner ? they can do whatever they like and have full emotional and sexual control . that ' s what i think is happening .
-   (ID: f042043ff04e1f2bd28d7c34b7937eb8bf31c76e)
+1. wait you have people that bag your stuff in america !
+   (ID: 4136a1b6da64b3c5f49dfe23761d1a0ec8925dba)
 
-2. there was an asian kid with tourette ' s in my school who kept making barking sounds like a dog , and all i could think was " you are what you eat "
+2. anything related to anime  waifus , it ' s fun to see what  who people dislike and what  who people will defend to the death . seriously though as a weeb i know how violent some can get online .
+   (ID: 0ff3db030062a58f30958a7a7b74373cf4f7cbd6)
+
+3. well , that disproves my theory that people on the internet are dickheads because they aren ' t seeing a human face when they ' re posting something ugly . now i ' m just down to most people being dickheads .
+   (ID: f7713e4cd0a5245097f9f45a1194222bda369b48)
+
+4. what if they do something similar to the cheater ' s lament where the people who didn ' t abuse the unusual drops get a hat that everyone hates
    (ID: d36987531b50696cc5ce9c9479fdb6d4b00b3ffa)
 
-3. i think it ' s more like when you go to pick up your kid from school but you forgot his name .
-   (ID: bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809)
+5. buy lots of super expensive art , that  s what the rich people do .
+   (ID: d6ae299c9d415416b659c654241697c95c8f377a)
 
-4. i dont think it works like that but ok
-   (ID: 801c30bb9f7fe270789d76054d77c547f65e41eb)
+6. biggest plot twist is when people realise i ' m a boy . because i have long hair so people think i ' m a girl i ' m like . wot
+   (ID: 7aacf69eb0872c3c6b02dabaa0028047bdb691d3)
 
-5. i think its ok if it advances the plot along . like if a character is sleeping with someone to get information or something . otherwise yeah it seems kinda dumb .
-   (ID: f903d9b4ab2ed2813eb60579aa407d7730187596)
+7. define illuminati there ' s certainly a small group of people who control the world by controlling the economy . there ' s certainly not any secret satanic baby eaters who do so tho
+   (ID: 8dc03812450063b9bc13ded823f8b3aeded6cfe8)
 
-6. do you think they would still be missing parts of the brain ? it looked like the nodes would cover an inch diameter so there would definitely be blind spots .
-   (ID: 7f5ac4f6e5058de85fb427076fffe8f6aa7ba618)
+8. oh god and what was the one with the faceless people ?
+   (ID: 311d770ebb499b987db7e44fdae56456f45a5918)
 
-7. hopefully given a break . like , a few lifetimes waived or something . i think about this often .
-   (ID: 49a34e99b8a6ee0f246ab6ee16bec8f40a856dcd)
+9. they get the craziest people who will go wild on the show
+   (ID: bdbdc7c12fe37172b721ff3ae186b84ad646d582)
 
-8. " dear death rows of reddit , what was your last meal ? " i think the question was like that
-   (ID: 4b127841179d58078b4fbc1377158cb136f3156f)
+10. yeah , i ' m at a loss myself with how to meet people , where , etc . it ' s not easy .
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
 
-9. i think it ' s like disco domination where it ' s release is delayed but alot more worse
-   (ID: 84a0b9e5d9e0e37c98f992c96c029f6ec99fb1ca)
+11. i see flaws in this story , can you elaborate ? link the restaurant from yelp so we can see what people were saying ?
+   (ID: 0176230ef7bd36e243dc81e1792c2941b82ea97c)
 
-10. i think hot manifests crazy , and i like hot . so by the power of association , i like crazy
-   (ID: 19a9190bb25fd002a6b979a3f72494c6523d8880)
+12. it ' s insane that people think we all came from two people .
+   (ID: 975493e3b4b2ad9cba1b98554159be45f8affdd3)
 
-11. guys his past posts are all like this , i think he is a creep
-   (ID: d34dab0dded997c6aa6e6d2792ea9d8a26881a2b)
+13. fuck yes . being ugly as shit , no one would watch it anyways . so i get to annoy people while also being rich
+   (ID: b5e15026c378d181e66e2b38bfc245705510a727)
 
-12. while that is true , do you think if we were still kids , we would be so much involved in topics like politics or terrorism for example ?
-   (ID: 7f6694fd3a0ac22f64517c7789d1ce29240c5082)
+14. when people touch your stuff . it happens too often that people just pick up my backpack and throw it on my lab instead of asking to free the seat next to me . and for some reason its always women who do that , guys always ask
+   (ID: ed7b237fb6485952b3dcc1d753d52f12dfff995a)
 
-13. i think the question is asking what industries you ' d like to kill off , i think you ' re taking it as an insult
-   (ID: 125ddbf9c8c84552065bdd657a82dd3f392bf5c1)
+15. " the world ' s divided in two sort of people . those who have a gun and those who dig . you dig . "
+   (ID: a74790331386859adbbd886bd045a7391e95948c)
 
-14. counselor troi on star trek next generation . her function was to state the obvious  " captain , i think this alien is feeling apprehensive that we are pointing our phasers at him " " i sense you are feeling unhappy and that you would like to talk to someone about it " " you are feeling confused and anxious about our dangerous mission "
-   (ID: 523373521c35d1ab7b6f0045d4586896b61d0d3d)
+16. league schedules and tradition of being a " summer festival " are trivial issues compared to real world problems . i ' m not saying qatar will be a disaster , i ' m saying the construction projects are shady . thousands of people have died , worker conditions are horrible , safety standards are poor . people are sacrificing their lives and enduring brutal labor to build the stadiums . they should host the world cup somewhere thay either has stadiums already , or at least has ethical labor laws .
+   (ID: 0264eec5f9f9a43d83f3a82c46341e90961fa3b8)
 
-15. that  s wild , she  s either a sweaty girl or that bra hasn  t been washed in like literal months . op should be like  hey i  m gonna do a load of laundry , wanna toss your clothes in ?  . on that note i still think this is shp .
-   (ID: 5b21cc135fb593212a5256d44f50dc5eda5d9947)
+17. it  s the connection to those people that matter . a person can have sex with a loooot of people , but often times they end up alone , cause there is no real connection with anyone
+   (ID: de8b276379fa225b91599769b7a71d751e208315)
 
-16. i think everyone pronounces their ts like ds if its in the middle of a word
-   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+18. people misusing event hashtags on instagram .
+   (ID: 664b365f80ff1d51db95866fada8009f14d8e9b1)
 
-17. i like that . i think the origin of " god bless you " was the belief that when you sneeze some of your soul escapes .
-   (ID: 259e025807a2eee6eaf38242805e7dfc46aaa91f)
+19. people who stand on escalators and people who walk down them .
+   (ID: ae2dbc0f768c4bbf71f7452c59522c05c2ccc74e)
 
-18. yeah true living in the moment sounds like it would do the trick since i think my issue is that i worry about the future . thank you
-   (ID: 9721da66d978b8a2541ec60ba070b6fa9121482d)
+20. I am annoying nice people for karma hahahaha.
+   (ID: 86aa9f4e4439cfc2f93b784da95581053937806c)
+
+
+--- PersonaChat ---
+Total from this dataset: 3
+
+1. people notice how organized i am .
+   (ID: conversation_435)
+
+2. i have always enjoyed telling stories to people .
+   (ID: conversation_340)
+
+3. i only date people taller than me .
+   (ID: conversation_85)
+
+
+--- SyntheticPersonaChat ---
+Total from this dataset: 2
+
+1. Sometimes , people worry i am crazy.
+   (ID: conversation_186_user_2)
+
+2. My name is william , but people call me bill.
+   (ID: conversation_588_user_2)
 
 
 ============================================================

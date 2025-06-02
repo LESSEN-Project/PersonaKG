@@ -1,282 +1,78 @@
 CLUSTER 87
 ============================================================
-Total statements in cluster: 135
-Cluster persistence (stability): 0.830
+Total statements in cluster: 1053
+Cluster persistence (stability): 0.999
 
 Dataset distribution in this cluster:
-  FoCus: 4 (3.0%)
-  MPChat: 24 (17.8%)
-  MSC: 6 (4.4%)
-  PEC: 73 (54.1%)
-  PER-CHAT: 18 (13.3%)
-  PersonaChat: 6 (4.4%)
-  SyntheticPersonaChat: 4 (3.0%)
+  PER-CHAT: 1053 (100.0%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- FoCus ---
-Total from this dataset: 4
-
-1. I have visited Soap Lake last year.
-   (ID: E6FC9U7LUUT3_11)
-
-2. I have a painting in my home drawn in the year 1951.
-   (ID: TBZIWSGJCM17_11)
-
-3. When I went to Singapore I visited the Old Tao Nan School.
-   (ID: DRM1SE0OKXLR_9)
-
-4. I visited Frankford last year.
-   (ID: HK4CNKBL5R5V_11)
-
-
---- MPChat ---
-Total from this dataset: 24
-
-1. i scored an old gas kiln
-   (ID: Spicy_McHagg1s)
-
-2. last year i planted white, pink, and purple.
-   (ID: stonegiant4)
-
-3. first pic is after i'd cut away some of the old pot it had cracked through already!
-   (ID: insertnamehere02)
-
-4. i'm upcycling an old puppet theatre for my kid's birthday, and i'd appreciate any suggestions!
-   (ID: Not_A_Wendigo)
-
-5. my 20 month old son helped put away the dishes.... this is my cutlery drawer.
-   (ID: JMango)
-
-6. here's an interesting one: i found this old dexter 45a12h carbon steel knife at a thrift store.
-   (ID: sundstrom193)
-
-7. designed and assisted by my 6 year old buddy.
-   (ID: switchbladesally)
-
-8. my 4 year old rhubarb exploding out of the ground
-   (ID: IceEye)
-
-9. old river grain loader i found last week
-   (ID: GamblinGambit)
-
-10. extra points because my 2 year old helped with the toppings
-   (ID: knivesandchives)
-
-11. old photo i took last year but still beautiful!
-   (ID: Foolz_Go1d)
-
-12. my old lady deciding that her cuddles are more important than my wip
-   (ID: fishgoose)
-
-13. my 9 & 4 yr old made theor first cake together.
-   (ID: castaneda2912)
-
-14. for easter this year i have painted chicken eggs again.
-   (ID: gelimausi)
-
-15. here's a slab-built sake and sushi set i made last year
-   (ID: earthbender_pottery)
-
-16. bolts that held my parents old porch.
-   (ID: SliverCobain)
-
-17. sour cherry caramels- i'm making all of my christmas gifts this year.
-   (ID: hensandchicas)
-
-18. it took almost the whole year, but finally i can relax
-   (ID: Nolon)
-
-19. i have now made enough gouda to last a whole year .
-   (ID: 5ittingduck)
-
-20. yes, i am very late on this trend which was all over instagram last year!
-   (ID: justcook_byangel)
-
-
---- MSC ---
-Total from this dataset: 6
-
-1. I met a vampire in a cave during halloween last year.
-   (ID: dialog_58_speaker_1)
-
-2. My dogs are both 2 months old.
-   (ID: dialog_13_speaker_1)
-
-3. I am a competitive weight lifter. Weight lifting is also my hobby. I train year round.
-   (ID: dialog_224_speaker_2)
-
-4. I fixed my old Bronco.
-   (ID: dialog_33_speaker_2)
-
-5. I'm one year older than 28.
-   (ID: dialog_41_speaker_1)
-
-6. My brother is in school and doesn't have much money. My brother is on Facebook. There is a 10 year reunion being planned between Speaker 1, 2 and the brother.
-   (ID: dialog_231_speaker_1)
-
-
---- PEC ---
-Total from this dataset: 73
-
-1. i was born on the year it came out .
-   (ID: ChallengeTaken99)
-
-2. i resubed after about a year of inactivity , and i am loving every freaking second of it .
-   (ID: bestform)
-
-3. i see your 35,000 year old painting technique and raise you my 8 year old technique � �
-   (ID: Unknown_nam3)
-
-4. i was a one year old lol
-   (ID: Taydrz)
-
-5. i went nc after christmas at the start of this year .
-   (ID: RelaxedSociety)
-
-6. i 'm a 19 year old girl and old men always approach me for dates .
-   (ID: sillylionface)
-
-7. i was never very flexible , and it 's gotten much worse in my old age .
-   (ID: cheesehuahuas)
-
-8. i had someone pay at my old job with these a year ago .
-   (ID: jennbunny08)
-
-9. i went to lan 2014 last year and the main headliners played after midnight .
-   (ID: pandachestpress)
-
-10. i 'm old   i have no qualms about hanging up if i answer at all .
-   (ID: catskhiker)
-
-11. i hear that europe is super excited about the winnipeg jets ’ performance this year ...
-   (ID: SPQR1212)
-
-12. i 'm imagining so many weeping 12 year old redditors .
-   (ID: mylescloutier)
-
-13. i had bruises all over my legs last year from one
-   (ID: exotics)
-
-14. i 'm so old
-   (ID: combover)
-
-15. i cut off my ndad completely a year ago , no regrets , no worries .
-   (ID: RelaxedSociety)
-
-16. i ate old diablo and shat out his remains .
-   (ID: randominternetdood)
-
-17. i am waiting on sibo results as well after nearly a year of my doctor coming up short .
-   (ID: vivagypsy)
-
-18. i was bojack last year !
-   (ID: mrhenk9)
-
-19. i have been on the fence about buying a rig for over a year .
-   (ID: Batman_MD)
-
-20. i 'm talking about the old cpu amd will send you to update your bios
-   (ID: Tsukino_Stareine)
-
-
 --- PER-CHAT ---
-Total from this dataset: 18
+Total from this dataset: 1053
 
-1. I am year younger than bebop.
-   (ID: a63ea1e6bf1e972229635648a0b3371aeddb4f3d)
+1. One of my favorite things is lamp democracy.
+   (ID: ed8c4bb1975edb0f627baa6dac44e74cbc7237c6)
 
-2. how old are you ?
-   (ID: 9d1b3fafafa63d6ec9712c98a0c16b4cc697d112)
+2. One of my favorite things is zack snyder.
+   (ID: 25b8235c988cb167d94968ee893707e9c358cde8)
 
-3. that moment when you learn keemsyar himself is also a nine year old
-   (ID: 9ec97fcc6f16d54d7e24ba1cdb5ebe5785854536)
+3. One of my favorite things is dofus.
+   (ID: 56f8202bdec7dd96819ad76a4bb0cbe6c88ef2e6)
 
-4. nohing happened because gay incest doesn ' t lead to babies , in the next year when we met though , my cousin wanted more of that
-   (ID: 4f26e00e0769f7123ce8a1a0d11a5e285c445ec3)
+4. One of my favorite things is kai ’ sa.
+   (ID: 12a4255ed85f0655e8fd899838bf98179465eded)
 
-5. so it wouldnt be dorment the rrst of the year , maybe add some rules where it can be asshole parents complaining about how all their holidays are ruined or even their kids birthdays
-   (ID: 44eba9a0cf089ec615a77db5d42a2c01b63cb259)
+5. One of my favorite things is angerfist.
+   (ID: ff51288ca8adbfbd763f8c0e670e39dfa27cb681)
 
-6. what ' s with that weird year limitation ?
-   (ID: 54182f6e08cc212d89e66f7640449d6fa9717bd9)
+6. One of my favorite things is papi.
+   (ID: d8681af7ff5797fb2ffcb9a4a08f377463526e2d)
 
-7. I own a year resolution.
-   (ID: c4dd014917cb9f6657eb79179ac09bf821575d80)
+7. One of my favorite things is respawn.
+   (ID: 46cde0a7d09b0d21cec2da281fda676d6950da60)
 
-8. basically every old case without dna samples .
-   (ID: e129c266eeb21d4eb629324bbd10e7247660660b)
+8. One of my favorite things is pacific shroom.
+   (ID: 917dfa16e92ce1db67ec3f88bc07b87b70a36c95)
 
-9. bruh imma be a bad kid next year if that  s what the pizza diary is giving out
-   (ID: 787f4a3fe31691883105c973a6b8e3df9df1436e)
+9. One of my favorite things is reddick.
+   (ID: 6c37c47eeb3f7fb43fa9e127711749ae5626f80a)
 
-10. why ? it ' s a fair question . most old movies sucks .
-   (ID: 8784cd4227a610d9cbb51480d635b44be1d31e8c)
+10. One of my favorite things is enfps  doses.
+   (ID: 22f14b68675078048f36403bb14291f2d10864a3)
 
-11. old habits die hard
-   (ID: 4721143ecfe877298792b1d44e635051f5f2c84e)
+11. One of my favorite things is kaitlyn.
+   (ID: f179711c18514780c1b0257643d893ef1cf5a081)
 
-12. krusty the clown hairdo is in this year
-   (ID: 0e1406b3a5b6031911de9279cf70144f8f1d9136)
+12. One of my favorite things is healbot.
+   (ID: d8952166e450f1d7d75495d86ed516c2376f79bc)
 
-13. you are an old one !
-   (ID: b96c88b2d5cfdbde4b305fd9da23bc684edbb6a0)
+13. One of my favorite things is trese.
+   (ID: 0163212450bac6366408ac8e1e025d32048839ec)
 
-14. how do you not have them stop working ? my connections always break after a year or so .
-   (ID: 7008f149db59fea91167255eafa8bc84beab0f01)
+14. One of my favorite things is hazes.
+   (ID: 84b2c69cbe8c44b78569e5e8b9af935f703ee480)
 
-15. yeah , but the largest reason for wet dreams is that your body has produced more semen than it needs , it then has to get rid of the old semen by disposing of it . sending it through to the penis
-   (ID: b5bfc53fa7245451bad229f942e351fdc7360321)
+15. One of my favorite things is onward.
+   (ID: 52733f5273fb099705b2a9e455932c48dae3d6b0)
 
-16. my old history teacher was fired for making the kids fill out a sexual orientation survey for no reason .
-   (ID: 533870e07f5d5bb315a9e1e8278df4d123d8a887)
+16. One of my favorite things is daniel woodrell.
+   (ID: 256407c5e6c8d9342d8aabf5c9c392fc179ba9f3)
 
-17. the year is still young , i can find a guy and get married before it ends .
-   (ID: 3b1e3cf14f6a566c4f731ae09429e3bbfd3a1bfc)
+17. One of my favorite things is opeth.
+   (ID: de8b276379fa225b91599769b7a71d751e208315)
 
-18. how old are you ? do you have a spouse and  or kids ? if you ' re young and not responsible for others quit worrying so much and buy the bike .
-   (ID: 87c36486c06d7817d144949c2e91384c5b196a07)
+18. One of my favorite things is martial adept feat.
+   (ID: 98f9b074f3fba12c7403be7000f77b6a560c5a02)
 
+19. One of my favorite things is nms.
+   (ID: fbb82e5b963aa1cda25276df6c0968b4b03a3aa0)
 
---- PersonaChat ---
-Total from this dataset: 6
-
-1. i start an internship in engineering later this year .
-   (ID: conversation_50)
-
-2. i go to at least 10 concerts a year .
-   (ID: conversation_13)
-
-3. i am a french girl , but i moved to the us last year .
-   (ID: conversation_354)
-
-4. i had 128 tackles last year .
-   (ID: conversation_473)
-
-5. i travel every year to disney world .
-   (ID: conversation_458)
-
-6. i am traveling to paris this year for my vacation .
-   (ID: conversation_468)
-
-
---- SyntheticPersonaChat ---
-Total from this dataset: 4
-
-1. I have an 18 year old son.
-   (ID: conversation_191_user_1)
-
-2. This is my second year in the league.
-   (ID: conversation_219_user_2)
-
-3. I have went to mexico 4 times this year.
-   (ID: conversation_496_user_1)
-
-4. I have made over 90 , 000 on trifecta bets alone this year.
-   (ID: conversation_248_user_2)
+20. One of my favorite things is mullvad.
+   (ID: fe56409176d2a6089f323227d5b07061f851d63b)
 
 
 ============================================================

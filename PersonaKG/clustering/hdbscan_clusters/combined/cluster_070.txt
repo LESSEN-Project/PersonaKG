@@ -1,16 +1,16 @@
 CLUSTER 70
 ============================================================
-Total statements in cluster: 167
-Cluster persistence (stability): 0.675
+Total statements in cluster: 655
+Cluster persistence (stability): 0.107
 
 Dataset distribution in this cluster:
-  FoCus: 5 (3.0%)
-  MPChat: 7 (4.2%)
-  MSC: 11 (6.6%)
-  PEC: 4 (2.4%)
-  PER-CHAT: 132 (79.0%)
-  PersonaChat: 6 (3.6%)
-  SyntheticPersonaChat: 2 (1.2%)
+  FoCus: 30 (4.6%)
+  MPChat: 6 (0.9%)
+  MSC: 4 (0.6%)
+  PEC: 470 (71.8%)
+  PER-CHAT: 141 (21.5%)
+  PersonaChat: 3 (0.5%)
+  SyntheticPersonaChat: 1 (0.2%)
 
 ============================================================
 
@@ -18,196 +18,253 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 5
+Total from this dataset: 30
 
-1. I don't know Cheshire.
-   (ID: 6JXMJ0KGXDGI_11)
+1. I do not know much about Orkneyinga Saga.
+   (ID: DMQ664J9SVLI_11)
 
-2. I don't have an entry pass of mud island fort.
-   (ID: OOA3VSMVQ4YE_11)
+2. I have to know about lake.
+   (ID: 931HBHO4JP2E_11)
 
-3. I don't have a wall or fence in my yard.
-   (ID: CBOI96AOZRK6_11)
+3. I would like to know more about the Battle of Bannockburn.
+   (ID: X4XPZG2COY57_11)
 
-4. I don't have an observatory near me.
-   (ID: IBY6RB2J4SRM_7)
+4. I would like to know more about the old native villages of my state.
+   (ID: 97WAFKFECFDE_9)
 
-5. I don't care for chapels.
-   (ID: 6JXMJ0KGXDGI_11)
+5. I would like to know the description.
+   (ID: PSAPP3TRHUMW_11)
+
+6. I didn't know that there was gallery specialized in exhibiting protraits.
+   (ID: MGEY7QK79154_11)
+
+7. I would like to know about construction.
+   (ID: P1H8TAIRTLFZ_9)
+
+8. I would like to know about the Manufactured ammunition.
+   (ID: M3LU7M7QMN1B_11)
+
+9. I would like to know more about trade.
+   (ID: 7U2KEOOFBDTF_11)
+
+10. I am willing to know about saṃsāra.
+   (ID: IP4KRMQQREBQ_9)
+
+11. I would like to know about local festivals.
+   (ID: F35ZR8G6V60I_9)
+
+12. I am willing to know more about Jewish Deco.
+   (ID: VQJADZ97TJ0Z_11)
+
+13. I would like to know East Kilbride and Glasgow.
+   (ID: 7C0IO5MA7D9I_11)
+
+14. I would like to know the inside the silos.
+   (ID: H5K7YCZSB2CT_11)
+
+15. I would like to know what the arch is a symbol of.
+   (ID: UU5XLWW1EPVV_11)
+
+16. I would like to know more about my cities districts.
+   (ID: H6NTBWMH465Q_11)
+
+17. I would like to know more about the Phrygians.
+   (ID: LX3CSQUSJ9B3_9)
+
+18. I would like to know about name.
+   (ID: BPCV4KG0PEMD_7)
+
+19. I would like to know the length of Willamette River Railroad Bridge.
+   (ID: MG0HEWUEN2AZ_9)
+
+20. I do not know much about Canadian art.
+   (ID: GG3IBG4SOHXX_11)
 
 
 --- MPChat ---
-Total from this dataset: 7
+Total from this dataset: 6
 
-1. choosing random colors from my stash and hoping they don't clash too much
-   (ID: mle12189)
+1. ceramic bowl ... or plate , i dont know :) what is this ?
+   (ID: ahimoto)
 
-2. i get it, don’t chew on power cords!
-   (ID: insthotchkiss)
+2. i know this is a trap, but i can't help it.
+   (ID: MafHoney)
 
-3. i don't know why it took me so long to put on this bar...
-   (ID: i_like_it_raw_)
+3. nobody will know it's there, but i will!
+   (ID: Louiesloops)
 
-4. i don’t normally do amigurumi but he’s so darn cute!
-   (ID: smsikking)
+4. i dont know why but this design is such a beautiful fluke.
+   (ID: Soggypaper_)
 
-5. don't have any berries growing in my garden so we went ahead and borrowed from natures' garden!
-   (ID: ChroniclyDope)
+5. rose apple pies (yes, i know, again, but these are slightly different).
+   (ID: zenbuffy)
 
-6. don't take my stick!
-   (ID: DeanIsHotter)
-
-7. don't mind if i do.
-   (ID: insertnamehere02)
+6. using antique jars with rubber gaskets and glass lids - how do i know my watermelon rind pickles sealed?
+   (ID: hensandchicas)
 
 
 --- MSC ---
-Total from this dataset: 11
+Total from this dataset: 4
 
-1. I don't have a passport.
-   (ID: dialog_89_speaker_1)
+1. I do not know the sex of the baby yet. My husband wants a boy. My husband is in the army.
+   (ID: dialog_40_speaker_2)
 
-2. I don't know much about Scientology.
-   (ID: dialog_213_speaker_1)
+2. I do not know my real parents.
+   (ID: dialog_68_speaker_1)
 
-3. I don't eat sugar.
-   (ID: dialog_71_speaker_1)
+3. I know one of the members of Pearl Jam.
+   (ID: dialog_41_speaker_2)
 
-4. I am home schooled and don't leave the house much.
-   (ID: dialog_97_speaker_2)
-
-5. I don't have lexus.
-   (ID: dialog_172_speaker_1)
-
-6. I don't know if it is hard to get started.
-   (ID: dialog_148_speaker_2)
-
-7. I don't have a will.
-   (ID: dialog_172_speaker_2)
-
-8. I have space to grow beans. I don't have a table at the farmer's market. I don't raise cattle.
-   (ID: dialog_117_speaker_2)
-
-9. I don't have any online training experience.
-   (ID: dialog_77_speaker_2)
-
-10. I prefer big dogs. I don't have dogs.
-   (ID: dialog_80_speaker_1)
-
-11. I don't have any pets.
-   (ID: dialog_55_speaker_2)
+4. I am curious to know about the age suitability for the children's book.
+   (ID: dialog_132_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 4
+Total from this dataset: 470
 
-1. i had bite - wing x - rays ... don't have copies though .
-   (ID: NyxPeregrinus)
+1. i 'm afraid i do n't know what that one means .
+   (ID: BabblingBunny)
 
-2. i would much rather have the clown that pence is , than traitor don .
-   (ID: BlueSuedeBag)
+2. i do n't even know how they 'd do that .
+   (ID: dkinmn)
 
-3. i came here to ensure don lafontaine was mentioned .
-   (ID: carwynllew)
+3. i lay down and take it because i do n't know how to attack you back .
+   (ID: boyofthechapter)
 
-4. i don see swingers .
-   (ID: glowinthedark)
+4. i would assume most festivals do this , do n't know about clubs though .
+   (ID: bmeckel)
+
+5. i do n’t know whether to laugh or cry but that definitely puts it in perspective .
+   (ID: WhereRtheTacos)
+
+6. i do n't know who to listen to
+   (ID: boyofthechapter)
+
+7. i know i can buy straight cbd strains ... that ’s not what i ’m asking .
+   (ID: bugaloo2u2)
+
+8. i honestly do n't know if he even knows what he 's talking about lmao
+   (ID: Chase_P)
+
+9. i would like to know too .
+   (ID: thebastion)
+
+10. i know these can happen at any festival but that seems so extreme ! !
+   (ID: Justakiss15)
+
+11. i will have to let my husband know that .
+   (ID: notlikethat1)
+
+12. i find it disturbing that i know this .
+   (ID: harumpf)
+
+13. i know there have been some posts in the past and forgive me for possible a repost .
+   (ID: TWS85)
+
+14. i know conventionally you may be considered plus size , but i do n't see it .
+   (ID: IncredibleBulk2)
+
+15. i know why .... because canada .
+   (ID: bugaloo2u2)
+
+16. i know this dance !
+   (ID: carebearstare93)
+
+17. i do n’t know how you found that gif , but that is so fucking funny .
+   (ID: Dustin_Bromain)
+
+18. i do n't know , i 'm not 18 .
+   (ID: KPer123)
+
+19. i do nt know what to do any suggestions ?
+   (ID: bbrandann)
+
+20. i never hopped a train and i prob wo n't at 63 , but you never know .
+   (ID: catskhiker)
 
 
 --- PER-CHAT ---
-Total from this dataset: 132
+Total from this dataset: 141
 
-1. he ' s already destroyed three lives me , my sister and my mom . don ' t let him destroy yours too . i appreciate the sentiment though .
-   (ID: 0e56d8a3bf928d2e85ff5b7a5a98f913d2826b00)
+1. tbh i know what viviendas are , but the concept of the question made no sense to me
+   (ID: 23787c4fae3b342db05df0a4a1f689825f600fe3)
 
-2. same but i don ' t mind being picked out its a friendly hello that let ' s you know the streamer is paying attention
-   (ID: e46c4597dda4f39a1122f37ba9383f7441387cf9)
+2. oh come on . we all know that  s not true
+   (ID: 541b4cbc0fbf09faead4d7954b3a984391890627)
 
-3. but don  t listen to all of them , that  s how you become ops neighbor .
-   (ID: e1cfe7e3bd4f78988caf9c6fd043691888e401c8)
+3. you know how to fix that ? up vote it .
+   (ID: cfd691d6aeaf46cc644b0e21187d10dfc62b0bc8)
 
-4. i don ' t know , but here ' s the iron that would go with it .
-   (ID: 8e22144947225f2bd7d950ea1b4044909a8653ae)
+4. if you ' re not smart enough to know that answer already , someone else can explain it to you .
+   (ID: 1cb49ecc2e4fdb9752d9ca12d02f3cfc2f6659c9)
 
-5. i don ' t even know what these are . someone enlighten me please ?
-   (ID: 73e90e443642babe17d8b9523bc123bb79b21e79)
+5. it ' s the end of the world as we know it .
+   (ID: d8b92be4e0b1e639cde4ac3fc3f079b296813fc5)
 
-6. as long as you dont start talking in the middle of the movie , i don ' t care
-   (ID: 81230f8a6d5b3e00bae3b805b33ed6427ca86367)
+6. yeah , apparently it doesn ' t know you well enough !
+   (ID: 43582d67310e995ea85c152bb256b0596144bf82)
 
-7. personally , i don ' t see one . then again , it will never be a problem for me , as a partner is required .
-   (ID: 08066be6331ea941a6f416b97fd2b6e9d4403a80)
+7. come on now , you and i both know what ufo means in this context
+   (ID: 5147e830e7cfa538d6990a8699ad6462b57cfb52)
 
-8. why is this jack  s fault ? it  s also not an original joke , it  s very forced and overused , don  t get mad if someone uses it . you didn  t create the joke .
+8. but . the n word is in your name . and thats not a song . edit  i know its lyrics but still . kind of edgy for a white girl against racism ' s username .
+   (ID: f1de014324cb88a1b3dcf89a60ca1d8f5e29db03)
+
+9. if you know the gameplay isn  t part of the story , why are you asking ? you know the answer .
    (ID: b177960895b66ea445ae05f18003f2520b9a2992)
 
-9. thanks for answering . my question was kind of directed towards all the prophecies that don ' t seem to pen out at all except valonqar well can ' t wait for your last part maybe still coming ?
-   (ID: 5ea29f01c8cdade4f178fd446d00647edc5fc70e)
+10. i have come to know it is tf2 characters apparently
+   (ID: 96e6613dc4315740eddd6b52a132531aa939f603)
 
-10. hehehe , whatever you do , don ' t be yourself
-   (ID: 795c678726f71492166b6677c955ce0a48a9b294)
+11. what the name of this place ? i know there ' s only a witch  hagraven here
+   (ID: 93e68d083628a6ef13822ab76b50282903a247f4)
 
-11. i don ' t see how this belongs here , he ' s asking for a thank you , nothing wrong with that
-   (ID: 4b9dcbc3150f2c8587b40cc8f71a441739b7b272)
+12. modern family is one of them shows where it doesn ' t matter if you know the characters or not you are always entertained .
+   (ID: 4bddcbadec311f472e8b62614b7394e14eb1d7ac)
 
-12. you don ' t know your history ! there were no slaves in latin america ? btw your " atty " answers your question !
-   (ID: 128346fc1e56ccadd25a4b200ecae44637d48f5f)
+13. apparently not .  edit  stop downvoting this or we will never know what we are supposed to see !
+   (ID: 15351fee80eb3563efa9850b9b5bf179cde29ec2)
 
-13. any drunk in a club swinging at the bouncer . those guys don ' t fuck around .
-   (ID: 753cc8efa6a4e5a45b7bb54306a91c966058f24e)
+14. its like you know me . have another upvote .
+   (ID: 7fb221c65b0aa5e32543ead5c04838c55702107e)
 
-14. happened to me as well . same exact players . was wondering what would happen if i moved them around . i have not touched him , so i don  t know if you can move him back .
-   (ID: d5ff87b3b0a008d93a655ee4d43e9da3b5db7984)
+15. imagine yourself doing something sexual , with someone of the same sex . turn you on ? congrats , now you know . if you are not turned on , you also know .
+   (ID: 8e22144947225f2bd7d950ea1b4044909a8653ae)
 
-15. i see what your saying . i don  t see what you posting .
-   (ID: 6ab15493c00b6b6223b3fca29e367366c44d8578)
+16. i ' m assuming you misread my comment or i wrote it wrong . it says " offline or the truck " what i meant was off online or off the truck . but thanks for sticking some sarcasm in there , as if i didn ' t already know you have more internet points than me .
+   (ID: c19de27d6b88c47d51e561a657dd0cf0e665fa48)
 
-16. i don ' t know and it scares me .
-   (ID: 2abaf8413c23e36fd4e8a1e879a2875dea6dbf69)
+17. this may sound controversial , but i only know this from disaster movie
+   (ID: cc3d4f2be41112acacb92d09090db0e1f8d7e387)
 
-17. i don ' t know why they even bother when everyone knows that in reality grant robertson is second in command .
-   (ID: c4e208aabc60c608a4d517ef7c7c76bd230e7f40)
+18. if you do not know then it is probably not much .
+   (ID: c78041b21fac11507cc597ef286b534255fdd250)
 
-18. why do you always have a big splotch of dirt on your face ? don  t you shower ?  i have a birthmark on my face but they  re kids . oh well .
-   (ID: 2ab410cb3dc233b072c65fa9acc3c6323d05914e)
+19. ok , i figured out how to do it , i deleted all the entities that i didn ' t know what they were and i was able to open my world ! thank you so so so so much !
+   (ID: 125ddbf9c8c84552065bdd657a82dd3f392bf5c1)
 
-19. i don ' t take anything anyone who doesn ' t know me to heart . fuck you , you don ' t know how , what i am and what i stand for and if you start as a biggot , i ' m not even gonna discuss anything with you .
-   (ID: 7516d7366722f6b725b75d67b20b486be035a9c5)
-
-20. damn i don  t know what that means but it  s probably past your bedtime .
-   (ID: 5481b7a3276de2b79473c4a65d5bb2506e36d79d)
+20. what ? it ' s a well know fact that cats can sense an empty box like a shark can sense a drop of blood in the ocean .
+   (ID: 4d17a8a4d7907bba6d158e8a0b9c3504d69be003)
 
 
 --- PersonaChat ---
-Total from this dataset: 6
+Total from this dataset: 3
 
-1. i don t know if i enjoy programming , or if it s my only choice .
-   (ID: conversation_179)
+1. i know how to count cards in blackjack .
+   (ID: conversation_158)
 
-2. i don't eat bread .
-   (ID: conversation_183)
+2. i do not know why my sister in law dislikes me .
+   (ID: conversation_142)
 
-3. i don't celebrate any holidays .
-   (ID: conversation_292)
-
-4. i don t have a relationship with my deadbeat dad .
-   (ID: conversation_257)
-
-5. my parents don't know i am gay .
-   (ID: conversation_4)
-
-6. i don't own a television .
-   (ID: conversation_400)
+3. i know how to drive a stickshift .
+   (ID: conversation_391)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 2
+Total from this dataset: 1
 
-1. My friends don t call my by my real name.
-   (ID: conversation_61_user_1)
-
-2. I don t treat my girlfriend very well.
-   (ID: conversation_347_user_1)
+1. I have the gene that lets me know when someones eaten asparagus.
+   (ID: conversation_231_user_2)
 
 
 ============================================================

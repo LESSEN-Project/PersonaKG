@@ -1,206 +1,300 @@
 CLUSTER 18
 ============================================================
-Total statements in cluster: 112
-Cluster persistence (stability): 0.733
+Total statements in cluster: 348
+Cluster persistence (stability): 0.393
 
 Dataset distribution in this cluster:
-  MPChat: 14 (12.5%)
-  MSC: 1 (0.9%)
-  PEC: 61 (54.5%)
-  PER-CHAT: 35 (31.2%)
-  PersonaChat: 1 (0.9%)
+  FoCus: 61 (17.5%)
+  MPChat: 5 (1.4%)
+  MSC: 12 (3.4%)
+  PEC: 239 (68.7%)
+  PER-CHAT: 24 (6.9%)
+  PersonaChat: 6 (1.7%)
+  SyntheticPersonaChat: 1 (0.3%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 61
+
+1. I wish to have an aircraft station in Cornwall.
+   (ID: DNUH5LJGPOZC_11)
+
+2. I wish I could visit all famous hotels around the world.
+   (ID: ZDIM8K78EM2D_11)
+
+3. I wish to stay in resort.
+   (ID: L6R2H1LVDRER_7)
+
+4. I wish to know more about Theodore Roosevelt.
+   (ID: DSVUVNI5ADO5_11)
+
+5. I don't wish another great depression.
+   (ID: 7NISCLZRSK4E_7)
+
+6. I wish to visit Kittatinny Valley.
+   (ID: HK4CNKBL5R5V_11)
+
+7. I wish to know more about Constantinople.
+   (ID: VB4LDHWFQAVH_11)
+
+8. I wish I knew more about Alexander von Humboldt.
+   (ID: AA1T1UU6UT31_11)
+
+9. I wish to follow Wolfgang Lazius.
+   (ID: YLLQOXHD6MZC_7)
+
+10. I wish to see elks.
+   (ID: LD2WQ86YB1VT_7)
+
+11. I wish I could taste the local cuisine.
+   (ID: RFPVSNBT5GPS_11)
+
+12. I wish to know the reason for naming.
+   (ID: WX4RFEWAW86A_11)
+
+13. I wish to go to art museum with my boyfriend.
+   (ID: DYCZHTF8867I_11)
+
+14. I wish to know more about mills.
+   (ID: IS9KP8O0CE1M_11)
+
+15. I wish I could rule an Empire like Alexander the Great.
+   (ID: EEYI3KCI2G50_11)
+
+16. I wish to be in National Park.
+   (ID: B3VT3WQH3XP9_7)
+
+17. I wish to know more about Trinovantes.
+   (ID: XY9R2ORN3XBQ_7)
+
+18. I wish I visited mausoleum of Nizamuddin before leaving Delhi.
+   (ID: H62NM21VIEMG_11)
+
+19. I wish I could visit the County of Champagne.
+   (ID: TDUTQ7NCYJ1S_11)
+
+20. I wish to see Wiradjuri people.
+   (ID: F1LZJR9NS51Z_11)
+
+
 --- MPChat ---
-Total from this dataset: 14
+Total from this dataset: 5
 
-1. my coppa turned out pretty darn well
-   (ID: Dr0me)
+1. i went to the great sand dunes in colorado and i wish i stayed longer!
+   (ID: FindingTheAdventure)
 
-2. i'm not done the cake yet but i'm pretty excited about my dragon...
-   (ID: JMango)
+2. i wish my wrapping was always this full
+   (ID: Ry_)
 
-3. a sparkly hoop was all i needed to catch myself a pretty kitty.
-   (ID: Soapy_Von_Soaps)
+3. i wish i had a decent tripod!
+   (ID: tstandiford)
 
-4. i was pretty happy with this oat milk pour.
-   (ID: BeastaBubbles)
+4. come rub my belly and recieve a wish
+   (ID: Septicrogue)
 
-5. my mom took a pretty familiar picture during last nights sunset..
-   (ID: ChroniclyDope)
-
-6. vases i made came out pretty well, thoughts?
-   (ID: KchainJ)
-
-7. i'm pretty convinced tricolored herons are part dragon
-   (ID: 1Maple)
-
-8. paper foal sculpture - i think he's pretty cute
-   (ID: postmodernequestrian)
-
-9. my pretty mama spiderbro and her babies hanging out on the porch.
-   (ID: drfrank1982)
-
-10. i thoroughly disagree that black cats take bad photos - mine are pretty photogenic.
-   (ID: MafHoney)
-
-11. (e.g.. this was poured with my non preferred left hand) pretty stoked with this awkward swan
-   (ID: Perthboi92)
-
-12. my mom crafts some pretty lovable animals in ceramics
-   (ID: Im_The_Government)
-
-13. my pretty max cat enjoying the afternoon sun!
-   (ID: Ellehcarcharllee94)
-
-14. a month into owning my own lys and its pretty freaking sweet!
-   (ID: meghanlovessunshine)
+5. daytona is calling, wish i was there again.
+   (ID: insthotchkiss)
 
 
 --- MSC ---
-Total from this dataset: 1
+Total from this dataset: 12
 
-1. I see my kids pretty regularly.
-   (ID: dialog_44_speaker_1)
+1. I wish I had been able to meet my father because I am smart like him.
+   (ID: dialog_179_speaker_2)
+
+2. I wish I were more creative.
+   (ID: dialog_52_speaker_1)
+
+3. I wish my folks were here.
+   (ID: dialog_84_speaker_2)
+
+4. I wish I was an astronaut.
+   (ID: dialog_45_speaker_1)
+
+5. I wish I could help those that are less fortunate more.
+   (ID: dialog_79_speaker_1)
+
+6. I do stand-up comedy gigs. I wish to perform stand-up for larger crowds.
+   (ID: dialog_33_speaker_1)
+
+7. I wish to join education.
+   (ID: dialog_22_speaker_2)
+
+8. I wish my hair wouldn't fall out.
+   (ID: dialog_138_speaker_2)
+
+9. I wish I were taller.
+   (ID: dialog_57_speaker_2)
+
+10. I wish to build a home on the sand.
+   (ID: dialog_155_speaker_1)
+
+11. I wish my kids behaved better.
+   (ID: dialog_57_speaker_1)
+
+12. I wish I was brave enough to feed squirrels.
+   (ID: dialog_211_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 61
+Total from this dataset: 239
 
-1. i dunno man , isis are pretty wily .
-   (ID: Shrub74)
+1. i wish he could just crawl under a rock .
+   (ID: sourpatchkidj)
 
-2. i bet crabs are pretty crispy .
-   (ID: cheesehuahuas)
+2. i really wish they would have titled it anything else .
+   (ID: IncredibleBulk2)
 
-3. i dunno , it seems pretty sealy to me .
-   (ID: CuriousBlueAbra)
+3. i wish kfc had their cajun fries and fried shrimps though
+   (ID: BoonTobias)
 
-4. i 'm pretty grossed out , tbh .
-   (ID: chickenpants80)
+4. i wish they 'd be useful again :(
+   (ID: bmeckel)
 
-5. i 'm pretty beginnerish and related to your fall quite a bit .
-   (ID: GanjaSmoker420HaloXX)
+5. i wish all blocks ended in buildings with rounded corners like this .
+   (ID: cometparty)
 
-6. i 'm pretty pretty pretty pretty pretty pretty pretty nauseous .
-   (ID: Boop-D-Boop)
+6. i wish they ’d just have explained more about why she chose to follow him .
+   (ID: nate6051)
 
-7. i m a dude who 's pretty protective of his manly components , but the dude deserved that one .
-   (ID: YuseiAkask)
+7. i wish i could help .
+   (ID: wooq)
 
-8. i normally find these videos pretty lame , but this was pretty moving .
-   (ID: glowinthedark)
+8. i wish there was /r / myidenticaltwinisanarcissist
+   (ID: ThriftStoreSweatband)
 
-9. i hear it 's pretty gross .
-   (ID: adertal)
+9. i wish i knew how to restore a car . how do people learn this stuff ?
+   (ID: Aloha-Potato)
 
-10. i slow down around august just because i started keto and was pretty busy overall .
-   (ID: COCOnizzle)
+10. i wish i could see the size of ashley
+   (ID: BLONDEBITCHH)
 
-11. i swear these r e p o s t e d comments are getting pretty annoying
-   (ID: IgnoranceIsAVirus)
+11. i wish this was simple :(
+   (ID: Ashex)
 
-12. i liked the first song she released from it , should be pretty cool .
-   (ID: closetotheedge48)
+12. i wish my cringe when i was in college was as mild as yours .
+   (ID: beautifulw0man)
 
-13. i was pretty drunk lol
-   (ID: mostlikelyto___)
+13. i wish this song would die and never come back
+   (ID: creedisagoodband)
 
-14. i 'm pretty jealous you get to hang out with capybaras .
-   (ID: carebearstare93)
+14. i just wish i could see the results of this .
+   (ID: boyofthechapter)
 
-15. i have a huge ego , so seeing someone that 's intimidating is pretty hot .
-   (ID: LordQuorad)
+15. i wish remus had n't died .
+   (ID: misplaced_my_pants)
 
-16. i dunno , i think they 're pretty watertight
-   (ID: futurespice)
+16. i wo n't pry since you do n't wish to share .
+   (ID: kanonnade)
 
-17. i 'd be willing to wager a pretty penny that op is not a native english speaker .
-   (ID: PaperSkinMan)
+17. i wish more people my age liked them .
+   (ID: GetItTogether)
 
-18. i started saying pretty early that shorts and longs were bad additions to crypto .
-   (ID: Batman_MD)
+18. i really wish it was n't either
+   (ID: RonaldFuckingPaul)
 
-19. i dig your toolbox , it 's pretty boss for a shade tree mechanic .
-   (ID: coocha)
+19. i wish you had butter - fingers with that towel
+   (ID: 2inthehands)
 
-20. i 'd like to see more physical historical flags around here , it 's pretty interesting .
-   (ID: Shrub74)
+20. i wish people would stop calling them huskies ! ! !
+   (ID: billclay55raiders)
 
 
 --- PER-CHAT ---
-Total from this dataset: 35
+Total from this dataset: 24
 
-1. pretty much everything , thanks y chromosome for fucking me .
-   (ID: e81e156f1716864a56cc694239300f979e8a5412)
+1. that ' s too bad . i just wish it worked for everybody .
+   (ID: 9d9222851792c0966d644b25f98a14486f3509b3)
 
-2. most jokes are stolen and most comedians will admit that its just different deliveries of the same joke . when has her uncle gotten her out of trouble ? her career will not take a dive ? seems to be diving pretty fast to me .
-   (ID: d8014467041b98317d9f1dec2b0dae4ff9405b91)
+2. i wish , that would be cool if you only did it in some spots .
+   (ID: 9f31985e70e208f2dc692e2c378f1707cedd3bc9)
 
-3. pickles are usually common with popcorn dad grew up around texas  mexico and they actually go pretty well together . yeah it sounds pretty weird but you should try it
-   (ID: e4d0f05383f63bbd8b2cf97d5a79f4ae17ad6c57)
+3. as much as i wish this didn  t happen , i am owning up to it .
+   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
 
-4. it ' s pretty much an instant win for you no matter what because the king has to move before you do anyway . so you kill the knight regardless
-   (ID: 1885b01dd0970230fea2a9c9ae9c4eaeaceb59a3)
+4. wow that suck wish i knew the answer for you
+   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
 
-5. queen . they ' re a pretty obscure band .
-   (ID: b177960895b66ea445ae05f18003f2520b9a2992)
+5. what questions do you wish you could stop seeing on askreddit ?
+   (ID: 6212c082850f067a67618ad2a3b9f8ed336590f4)
 
-6. it is pretty funny when i think about it now , but it was pretty hurtful at the time .
-   (ID: 78a7be65b9d2e7cebf18280c07d4f44e6f2b3417)
+6. great , that ' s how it works . two girls are rich and famous and all i had to do was be related to them by proxy and wish that their lives were better .
+   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
 
-7. what ' heterosexuality ' ? also i hear these are pretty thick and hard to swallow
-   (ID: 2b53241b2b7d7e4ce58f4e39589b18bda4d0d5d2)
+7. i wish for 1billion digit  bills in us currency in my bedroom in one second
+   (ID: cd907372aff0871825a64e977822586e3bb0ecb7)
 
-8. send them  me  ? to space . that would be pretty dope
-   (ID: 3fb5cf32d13620677a9e3d9bd2657b8432abf31f)
+8. if i were her boyfriend and she was adamant about visiting an ex on another continent i would wish her a great trip and i would break up with her . this is terrible . she ' s not only visiting him , but sleeping in the same room as him ? and what if she gets cold ? can they cuddle " just as friends " too ? i couldn ' t handle this .
+   (ID: 8f33db98a9fa29c8f9e44012d79de72291a29519)
 
-9. it ' s pretty great
-   (ID: 1f3e82e13d88ba22fce8ba80102ccc24b3880ae9)
+9. gender , what ' s something you wish other gender knew about gender ?
+   (ID: 17b8a304069d7530607e28f8e04d840e28be0d3e)
 
-10. frank zappa was a pretty strange dude .
-   (ID: 4e7357574b1b24c540d9d8335b8cdb46f0dd3d78)
+10. the devil pepper ! i wouldn  t even wish it on the devil himself .
+   (ID: c09c952d150b6ed8b3c43e58f807d7d80ff2d945)
 
-11. wierdest . a shopping cart in a pipe that you couldn ' t fit a shopping cart down the manhole . it ' s a pretty cool job i like it .
-   (ID: 4ad10ae12cb226893a0aec21cddd0e791f57ede2)
+11. i wish to apply for a job as your mirror .
+   (ID: eb338cca8f5e87e4b6e5d369997ab6dbebf241c5)
 
-12. you made several decisions that lead to this happening but you seem to be making excuses for each of them . you are a pretty shitty friend and you should come clean .
-   (ID: bef3bdf131cc9dbe9d33343a3b9988680236cf9d)
+12. my favorite flavor i wish it came in cups .
+   (ID: 5b21cc135fb593212a5256d44f50dc5eda5d9947)
 
-13. fuck no . it ' s pretty easy to tell when someone is on edibles .
-   (ID: 5cfe95ad98a90fd59c5131edc24f2f11ee93f177)
+13. put digit  of everything you earn into a savings account . wish i started earlier .
+   (ID: c391065478603a686531cbdd50568136a5e14508)
 
-14. having a seizure fucks me up for a few days . pretty much unpredictable as well do that helps .
-   (ID: 28f883d57b9f1fffcad681de2efdbceb1a7aeecf)
+14. that ' s amazing ! i wish i could afford this ! very fairly priced for the detail you put in !
+   (ID: 7a0302ed354e54bfa45e1de27055f29421f91f29)
 
-15. seems pretty obvious to me . ridiculous , of course , but that  s what this sub is all about .
-   (ID: 76442d997e7f64c10223aeac0f4ff8af70ff9dde)
+15. we can  t do that . i wish that we could , but nukes would cause too much destruction . we can  t risk innocent lives .
+   (ID: 2cc91bb1c28e4ebb686806a36f563e5047e46ef7)
 
-16. are you watching and listening to the cut scenes , or are you skipping all of the dialog ? the story is pretty well explained .  who should i be supporting , the spartans or the athenians ? you ' re a mercenary , you fight for whoever is paying you on a minute by minute basis . you have no allegiance .
-   (ID: 225291489bc1a4ddf3d197a3062fa9ff935f3029)
+16. i wish my crush opened my room ' s door , rushed on me hugged me , and said  " its free real state " and kissed me dont you dare lie saying you never wanted that too .
+   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
 
-17. it  s from destiny it  s one of the enemies you can find pretty much anywhere
-   (ID: 1497e82ba6e08f938dadf0885a6fd8051c0758d1)
+17. depends what for . clothes ? no i wish someone would just do it for me .
+   (ID: bfbfd4c4caa6b137f79275a24c99808ba3d2305b)
 
-18. are you bored yet by wallows cause it ' s pretty fun and catchy
-   (ID: ed64cc6cb03b04b61be795ff15e6ac799bfe42b1)
+18. don ' t have extra weapon  wish i could give you one upvotes are all i have to give . so god dammit , i ' m gonna give ' em
+   (ID: ac618aeb476ed052ed284ebbdeb432dde55c6931)
 
-19. it ' s pretty bad tbh
-   (ID: 1b5b08f1246e450c7da09e40c81570fba378da84)
+19. i wish we had the choice . i ' m buying my gen digit g22 but we can ' t carry them anymore .
+   (ID: 7a0302ed354e54bfa45e1de27055f29421f91f29)
 
-20. indeed i do . kang mina i . o . i and gugudan too . but they dont have to be big . i like cute and pretty ears too
-   (ID: 4679181760b739d302b80a7e08480575bf4d30bc)
+20. i wish the girls would go out with me
+   (ID: 76b9606d2d21bcdc24810e0215e37a6a9d45b771)
 
 
 --- PersonaChat ---
+Total from this dataset: 6
+
+1. i wish i was a tiger .
+   (ID: conversation_156)
+
+2. i wish i could speak another language .
+   (ID: conversation_546)
+
+3. i wish i could be more serious about school .
+   (ID: conversation_131)
+
+4. i wish i had a real dragon i could train .
+   (ID: conversation_31)
+
+5. i wish i knew where i belonged .
+   (ID: conversation_66)
+
+6. i wish i could take back a mistake .
+   (ID: conversation_147)
+
+
+--- SyntheticPersonaChat ---
 Total from this dataset: 1
 
-1. my favorite movie is pretty woman .
-   (ID: conversation_155)
+1. I wish that i lived in the city.
+   (ID: conversation_90_user_2)
 
 
 ============================================================

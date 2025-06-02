@@ -1,16 +1,16 @@
 CLUSTER 16
 ============================================================
-Total statements in cluster: 346
-Cluster persistence (stability): 0.402
+Total statements in cluster: 238
+Cluster persistence (stability): 0.428
 
 Dataset distribution in this cluster:
-  FoCus: 60 (17.3%)
-  MPChat: 5 (1.4%)
-  MSC: 11 (3.2%)
-  PEC: 239 (69.1%)
-  PER-CHAT: 24 (6.9%)
-  PersonaChat: 6 (1.7%)
-  SyntheticPersonaChat: 1 (0.3%)
+  FoCus: 4 (1.7%)
+  MPChat: 3 (1.3%)
+  MSC: 5 (2.1%)
+  PEC: 184 (77.3%)
+  PER-CHAT: 35 (14.7%)
+  PersonaChat: 6 (2.5%)
+  SyntheticPersonaChat: 1 (0.4%)
 
 ============================================================
 
@@ -18,280 +18,208 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 60
+Total from this dataset: 4
 
-1. I wish to see a lock.
-   (ID: GC9BAJTK54F1_11)
+1. I am willing to read Codex Sinaiticus.
+   (ID: TF24QL7QZSG2_11)
 
-2. I wish I could visit the County of Champagne.
-   (ID: TDUTQ7NCYJ1S_11)
+2. I have read about famous route.
+   (ID: Y50B3RQ4B1OQ_11)
 
-3. I wish to go to Oyama.
-   (ID: DG7PPYKKTZ0H_11)
+3. I have read the Indianapolis Star.
+   (ID: X0N9IFSJSH26_11)
 
-4. I wish to see Halley's Comet before I die.
-   (ID: TPBXFFXVKECZ_11)
-
-5. I wish to go to El Paso.
-   (ID: Z8RPC24EURS4_7)
-
-6. I wish I could rule an Empire like Alexander the Great.
-   (ID: EEYI3KCI2G50_11)
-
-7. I wish to buy a flat in Trondheim.
-   (ID: TB8HHXAP822G_11)
-
-8. I wish to stay in resort.
-   (ID: L6R2H1LVDRER_7)
-
-9. I wish I could buy a lapis lazuli gift for my mother.
-   (ID: EEYI3KCI2G50_11)
-
-10. I wish to travel to the Philippines.
-   (ID: LERVJ9I223JG_7)
-
-11. I wish I could see a deep mine.
-   (ID: V83LRI44QW1S_11)
-
-12. I wish to build a tower in Moscow Kremlin.
-   (ID: 9VN3FMWR0NNR_11)
-
-13. I wish I could ride a funicular.
-   (ID: QEDR6NULRI9U_7)
-
-14. I wish to know the reason for naming.
-   (ID: WX4RFEWAW86A_11)
-
-15. I wish to know when this place was established.
-   (ID: HY8G2PNPA8VA_11)
-
-16. I wish to stay in the camping.
-   (ID: U6NEN4YX4OT6_9)
-
-17. I wish all places were accessible by ramps.
-   (ID: LWELDWSUZK5Z_11)
-
-18. I wish to know Karnataka.
-   (ID: CPJ95KR758ZY_11)
-
-19. I wish to see Wiradjuri people.
-   (ID: F1LZJR9NS51Z_11)
-
-20. I wish to learn more about the biology of our country.
-   (ID: RYVPV8LY2W65_11)
+4. I want to read in english.
+   (ID: NR9LNBMYKSX6_9)
 
 
 --- MPChat ---
-Total from this dataset: 5
+Total from this dataset: 3
 
-1. i wish my wrapping was always this full
-   (ID: Ry_)
+1. my students complain they can't read my handwriting!
+   (ID: meepmeepcuriouscat)
 
-2. i went to the great sand dunes in colorado and i wish i stayed longer!
-   (ID: FindingTheAdventure)
+2. excuse you i am trying to read...
+   (ID: kentobean123)
 
-3. daytona is calling, wish i was there again.
-   (ID: insthotchkiss)
-
-4. come rub my belly and recieve a wish
-   (ID: Septicrogue)
-
-5. i wish i had a decent tripod!
-   (ID: tstandiford)
+3. teaching my son how to read a river.
+   (ID: pope237)
 
 
 --- MSC ---
-Total from this dataset: 11
+Total from this dataset: 5
 
-1. I wish I were taller.
-   (ID: dialog_57_speaker_2)
+1. I enjoy playing Zelda games.I used to read Michener, Black Stallion. I dont like MIchener's non-fiction books. I want to read Twilight. I read Black Beauty.
+   (ID: dialog_31_speaker_2)
 
-2. I wish to join education.
-   (ID: dialog_22_speaker_2)
+2. I like history. I have a book list. I am reading It and Pet Cemetery. I do not have any other Stephen King books on my reading list. I will read a few history books.
+   (ID: dialog_223_speaker_2)
 
-3. I wish my folks were here.
-   (ID: dialog_84_speaker_2)
+3. I plan to read two books by the author jane Austen.
+   (ID: dialog_223_speaker_1)
 
-4. I wish I had been able to meet my father because I am smart like him.
-   (ID: dialog_179_speaker_2)
+4. I can invest in a comic book store. I read comic books. I went to North Carolina university.
+   (ID: dialog_120_speaker_1)
 
-5. I wish to build a home on the sand.
-   (ID: dialog_155_speaker_1)
-
-6. I wish my hair wouldn't fall out.
-   (ID: dialog_138_speaker_2)
-
-7. I wish I were more creative.
-   (ID: dialog_52_speaker_1)
-
-8. I do stand-up comedy gigs. I wish to perform stand-up for larger crowds.
-   (ID: dialog_33_speaker_1)
-
-9. I wish I was an astronaut.
-   (ID: dialog_45_speaker_1)
-
-10. I wish my kids behaved better.
-   (ID: dialog_57_speaker_1)
-
-11. I wish I could help those that are less fortunate more.
-   (ID: dialog_79_speaker_1)
+5. I have watched all Marvel Movies. I have also read all the comics.
+   (ID: dialog_15_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 239
+Total from this dataset: 184
 
-1. i wish these over done make up trends would go away
-   (ID: Boop-D-Boop)
+1. i liked the art and the idea , but i could n't read past the first page .
+   (ID: JimmyMcShiv)
 
-2. i wish it could be more but at lesat we ’re awake and trying
-   (ID: Justadropinthesea)
+2. i do n't know how anyone can read something written as childishly as this .
+   (ID: BoobieBoobieButtButt)
 
-3. i wish your comment was at the top .
-   (ID: DickieJohnson)
+3. i have to read it , but totalitarianism can occur under any kind of economic model , no ?
+   (ID: chowyungfatso)
 
-4. i wish this was simple :(
-   (ID: Ashex)
+4. i ’ve only read about these in a textbook .
+   (ID: namastemeanshello)
 
-5. i really wish someone would call him out for flying private .
-   (ID: Montag3636)
+5. i audibly cringed when i read op 's title
+   (ID: Sir_Gunner)
 
-6. i wish we had ray ferraro
-   (ID: JayDub30)
+6. i read this as the person literally dying on their car .
+   (ID: YuseiAkask)
 
-7. i wish once and for all there would be some closure in this case ! !
-   (ID: mandogirl)
+7. i 've read women 's lib articles that said pms was something that men made up .
+   (ID: DarkMoon99)
 
-8. i m not your parent , please do as you wish .
-   (ID: Sniperman)
+8. i do n’t want to have to read about you in the bbc “ world news ” section .
+   (ID: Dustin_Bromain)
 
-9. i wish i could !
-   (ID: Montag3636)
+9. i read somewhere that you know you 're an adult when you start rooting for tom instead of jerry .
+   (ID: Megan_Bee)
 
-10. i wish i had that confidence .
-   (ID: SayceGards)
+10. i read that if it appears on your credit report , it counts against 5/24 .
+   (ID: NyxPeregrinus)
 
-11. i wish i were as as you !
-   (ID: lovestheautumn)
+11. i initially read this as " top nazi 's official brother " .
+   (ID: misplaced_my_pants)
 
-12. i wish the pedals were level lol
-   (ID: TylerC_D)
+12. i 'm currently around that age though so this will be a fun read !
+   (ID: NyxPeregrinus)
 
-13. i wish to hell someone had done it for me .
-   (ID: parkleswife)
+13. i should have read this before i clicked on it .
+   (ID: cookiexcmonster)
 
-14. i wish it was the case in canada , they steal our water ....
-   (ID: shockrush)
+14. i have read lots about how to add a string to every line of a file .
+   (ID: beautifulw0man)
 
-15. i wish you peace .
-   (ID: LoganTwo)
+15. i did n’t recognize until i read the title :0 beautiful , as always !
+   (ID: I5r66)
 
-16. i wish the range was greater on a uke .
-   (ID: bbrandann)
+16. i even just read this in his voice .
+   (ID: bigfuckingdiamond)
 
-17. i wish they ’d kept haley around .
-   (ID: Bob_Majerle)
+17. i read that as " installed " and imagined that you were a robot .
+   (ID: amirman)
 
-18. i wish they could of done a cleaner job with her beauty and the beast
-   (ID: jennbunny08)
+18. i 'm too busy to read the myths in depth anymore .
+   (ID: TaakaTime)
 
-19. i wish they were n't fake though because of how accurate they are !
-   (ID: Etifaq)
+19. i constantly read paperbacks , kindle and audio books in my car .
+   (ID: catskhiker)
 
-20. i wish i had this luck with charity shops .
-   (ID: tommythestone420)
+20. i first read it as dying , god damn zombie ants .
+   (ID: bluesatin)
 
 
 --- PER-CHAT ---
-Total from this dataset: 24
+Total from this dataset: 35
 
-1. if i were her boyfriend and she was adamant about visiting an ex on another continent i would wish her a great trip and i would break up with her . this is terrible . she ' s not only visiting him , but sleeping in the same room as him ? and what if she gets cold ? can they cuddle " just as friends " too ? i couldn ' t handle this .
-   (ID: 8f33db98a9fa29c8f9e44012d79de72291a29519)
+1. just be spontaneous and say something that comes up in you about the environment . one sentence i wouldn ' t recommend using in a library though , is something along the lines of  " i came here to read books but i ' d much rather read your mind " cause that probably makes her think you ' re a creep but if it doesn ' t , marry her . she ' s smart .
+   (ID: fd98a0804e382a144d76dd9fdb6ff8323a9d6b21)
 
-2. i wish for 1billion digit  bills in us currency in my bedroom in one second
-   (ID: cd907372aff0871825a64e977822586e3bb0ecb7)
+2. there  s a reason for it . read a book .
+   (ID: 9414b9913220ebe2601862e3001aac74ebcffe33)
 
-3. well , i never wish misery on anyone . but the world is far too complicated to get into all that .
-   (ID: 7bad9dc0ff1a9ce0843818f35d9151cf701b4044)
+3. i have one , but i cant read any of your trade offers
+   (ID: 11afef34c365bb84fac03c7ec8de5b06e6c54b1c)
 
-4. i wish , that would be cool if you only did it in some spots .
-   (ID: 9f31985e70e208f2dc692e2c378f1707cedd3bc9)
+4. i don ' t give a fuck what you read or if you read , you ' re a fucking adult , you ' re not my problem . unless you fuck up my life and force me to suffer the consequences of your bullshit .
+   (ID: 50043497a219924fd275a92e5dadb6e04bac5936)
 
-5. gender , what ' s something you wish other gender knew about gender ?
-   (ID: 17b8a304069d7530607e28f8e04d840e28be0d3e)
+5. oof , i fucked up . for anyone who hasn ' t read that horrible series , the guy has this problem where he doesn ' t like to be touched , but the main character sort of cures that .
+   (ID: 5173a1d5475490650d7365b2c2b2f2c579d33099)
 
-6. i wish the girls would go out with me
-   (ID: 76b9606d2d21bcdc24810e0215e37a6a9d45b771)
+6. confessions it ' s just painful to read
+   (ID: 1d0857cacfa7c7e2b440c1a4e82e78a07351edb0)
 
-7. we can  t do that . i wish that we could , but nukes would cause too much destruction . we can  t risk innocent lives .
-   (ID: 2cc91bb1c28e4ebb686806a36f563e5047e46ef7)
+7. once i saw this girl wear a shirt that said on the back , " if you can read this , you are following your dreams . "
+   (ID: d95d3548a9506e48c5310c85f3b2994820405e0d)
 
-8. that ' s amazing ! i wish i could afford this ! very fairly priced for the detail you put in !
-   (ID: 7a0302ed354e54bfa45e1de27055f29421f91f29)
+8. you never know . they read the forums . maybe if some youtuber shows it they will consider it . one can dream .
+   (ID: 7cf18036f93dc6fc68e7a501c52e0ff5501b36e5)
 
-9. as much as i wish this didn  t happen , i am owning up to it .
-   (ID: dea1673e29d00bc1a88d1c231b63981344044a2e)
+9. that ' s kind of how i see this . i must have read it wrong .
+   (ID: e4fb833c981bca730eb26e161a8c64f302e44d49)
 
-10. depends what for . clothes ? no i wish someone would just do it for me .
-   (ID: bfbfd4c4caa6b137f79275a24c99808ba3d2305b)
+10. offers the option to share music through facebook messenger i admit i don ' t know the full story behind the apps , i read the article though . i suppose i could have been more specific . i have no clue why these apps would need read access , writing is fine , that makes sense its a one way street . read and write access though ? why ?
+   (ID: 555e0a759f14862796f4bd93bf9906c2cd011ab7)
 
-11. that ' s too bad . i just wish it worked for everybody .
-   (ID: 9d9222851792c0966d644b25f98a14486f3509b3)
+11. i ' ve been watching the extended episodes includes deleted scenes and before the scene where jim locks dwight in his ' office ' read  workspace , there ' s a scene where dwight makes pam upset after repeatedly questioning her about her engagement to roy and their proposed wedding date , and she storms off . it kind of explains why jim was so cold to him after that .
+   (ID: 46cb5d4fcb97f49dbe3224c149f50ac2d9f7f509)
 
-12. i wish to apply for a job as your mirror .
-   (ID: eb338cca8f5e87e4b6e5d369997ab6dbebf241c5)
+12. yes ! you read my mind .
+   (ID: ba2b62efe335afb5002057a08f40c489849fc6cf)
 
-13. i wish we had the choice . i ' m buying my gen digit g22 but we can ' t carry them anymore .
-   (ID: 7a0302ed354e54bfa45e1de27055f29421f91f29)
+13. he ' s reading up for when he auditions for dogspere in the park . to read or not to read , that is the question upside  down  face
+   (ID: 0dbed651dd0d5be163d67244516bde20b27c36dc)
 
-14. don ' t have extra weapon  wish i could give you one upvotes are all i have to give . so god dammit , i ' m gonna give ' em
-   (ID: ac618aeb476ed052ed284ebbdeb432dde55c6931)
+14. you should read the ones in this video  it ' s a similar video to this one .
+   (ID: e917c5f43624fa287dde4f957a529b37a96df1d3)
 
-15. wow that suck wish i knew the answer for you
-   (ID: 80d504f68f5028edc4d8e5926e3a2a93b0c84d8f)
+15. i don  t interfere with the stuff that would go over my head . i read whatever i find related to the topic outside my domain of knowledge via available books and internet .
+   (ID: 5186a4f234c22a2668969b75a1a54616526c2ee4)
 
-16. great , that ' s how it works . two girls are rich and famous and all i had to do was be related to them by proxy and wish that their lives were better .
-   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+16. i read a theory about the closer being bojack ' s mother , that would be amazing
+   (ID: 4cd63391f1644eb1dde02717bf6a72fc6c22acc7)
 
-17. the devil pepper ! i wouldn  t even wish it on the devil himself .
-   (ID: c09c952d150b6ed8b3c43e58f807d7d80ff2d945)
+17. i think maybe she learned to read ?
+   (ID: 73e90e443642babe17d8b9523bc123bb79b21e79)
 
-18. i wish i could eat my feelings . i might go on an albertacos run .
-   (ID: 62ca7edc7c8626b2c19aff26f29414c7649772cd)
+18. no . why would you ? would you read the last chapter of a book if you haven ' t read the rest ?
+   (ID: 5147e830e7cfa538d6990a8699ad6462b57cfb52)
 
-19. i wish my crush opened my room ' s door , rushed on me hugged me , and said  " its free real state " and kissed me dont you dare lie saying you never wanted that too .
-   (ID: de0709ad19c458ffff0b96aab8fcfa9c40b24603)
+19. it ' s a free english lesson for the person whose comment is flawed and for anyone else reading . anyone doing it is basically a volunteer teacher , willing to educate anywhere in the world . kind of a hero , really . certainly much more of one than a soldier read  hired killer or a firefighter read  attention whore . but you keep on hating .
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
 
-20. i wish i was lucky can you , buy it ?
-   (ID: 1732732272a7425a209c594999d10d1063bf7a93)
+20. because it is easier to read paper than read off a screen
+   (ID: 97a1e3bde7814932f6d6aada58082a95182f230c)
 
 
 --- PersonaChat ---
 Total from this dataset: 6
 
-1. i wish i was a tiger .
-   (ID: conversation_156)
+1. i read sci fi space adventures with a passion .
+   (ID: conversation_25)
 
-2. i wish i could take back a mistake .
-   (ID: conversation_147)
+2. my cats like to be read to .
+   (ID: conversation_564)
 
-3. i wish i could speak another language .
-   (ID: conversation_546)
+3. i'd rather read a book than watch a movie .
+   (ID: conversation_353)
 
-4. i wish i knew where i belonged .
-   (ID: conversation_66)
+4. when i've nothing else to do , i read books .
+   (ID: conversation_36)
 
-5. i wish i had a real dragon i could train .
-   (ID: conversation_31)
+5. i read autobiographies before bed .
+   (ID: conversation_552)
 
-6. i wish i could be more serious about school .
-   (ID: conversation_131)
+6. i read ebooks more than hardcopies .
+   (ID: conversation_423)
 
 
 --- SyntheticPersonaChat ---
 Total from this dataset: 1
 
-1. I wish that i lived in the city.
-   (ID: conversation_90_user_2)
+1. I think dogs could learn to read if they were trained well.
+   (ID: conversation_509_user_2)
 
 
 ============================================================

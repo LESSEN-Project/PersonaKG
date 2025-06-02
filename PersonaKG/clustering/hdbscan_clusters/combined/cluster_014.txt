@@ -1,219 +1,209 @@
 CLUSTER 14
 ============================================================
-Total statements in cluster: 238
-Cluster persistence (stability): 0.427
+Total statements in cluster: 539
+Cluster persistence (stability): 0.344
 
 Dataset distribution in this cluster:
-  FoCus: 4 (1.7%)
-  MPChat: 3 (1.3%)
-  MSC: 3 (1.3%)
-  PEC: 186 (78.2%)
-  PER-CHAT: 35 (14.7%)
-  PersonaChat: 6 (2.5%)
-  SyntheticPersonaChat: 1 (0.4%)
+  MPChat: 14 (2.6%)
+  MSC: 2 (0.4%)
+  PEC: 445 (82.6%)
+  PER-CHAT: 77 (14.3%)
+  PersonaChat: 1 (0.2%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
---- FoCus ---
-Total from this dataset: 4
-
-1. I want to read in english.
-   (ID: NR9LNBMYKSX6_9)
-
-2. I have read about famous route.
-   (ID: Y50B3RQ4B1OQ_11)
-
-3. I am willing to read Codex Sinaiticus.
-   (ID: TF24QL7QZSG2_11)
-
-4. I have read the Indianapolis Star.
-   (ID: X0N9IFSJSH26_11)
-
-
 --- MPChat ---
-Total from this dataset: 3
+Total from this dataset: 14
 
-1. my students complain they can't read my handwriting!
-   (ID: meepmeepcuriouscat)
+1. i'll never get tired of being looked at like this.
+   (ID: SweetSassyClassy)
 
-2. excuse you i am trying to read...
+2. i’ll be bringing it to a gathering tonight.
+   (ID: 1cecream4breakfast)
+
+3. i’ll delete and repost with a proper rating when i find out who
+   (ID: switchbladesally)
+
+4. "i think you'll find that the couch is free"- president petrie
    (ID: kentobean123)
 
-3. teaching my son how to read a river.
-   (ID: pope237)
+5. i'll miss you, finley.
+   (ID: zonumnire)
+
+6. clay pony coming together - i'll have to hollow him out
+   (ID: postmodernequestrian)
+
+7. maybe i'll get to finish this project eventually.
+   (ID: fishgoose)
+
+8. "i think you'll find that the couch is available"
+   (ID: kentobean123)
+
+9. welp... i'll just pretend it doesn't exist cause i'm not frogging back :/
+   (ID: Veretica)
+
+10. i'll just sit here
+   (ID: MafHoney)
+
+11. i picked up a couple, hopefully they’ll perk up soon
+   (ID: heatsensitive)
+
+12. you rest m'lord, i'll take the first watch
+   (ID: drewchie)
+
+13. "i'll take a puppuccino shaken.
+   (ID: kentobean123)
+
+14. one of the few i doubt i’ll sell...
+   (ID: Mdoxxx)
 
 
 --- MSC ---
-Total from this dataset: 3
+Total from this dataset: 2
 
-1. I have watched all Marvel Movies. I have also read all the comics.
-   (ID: dialog_15_speaker_1)
+1. If my lover dies before me, I'll be with him in death.
+   (ID: dialog_17_speaker_1)
 
-2. The only Stephen King book I have read is The Stand.
-   (ID: dialog_223_speaker_1)
-
-3. I plan to read two books by the author jane Austen.
-   (ID: dialog_223_speaker_1)
+2. I'll help finding a potential match for Speaker 1.
+   (ID: dialog_228_speaker_2)
 
 
 --- PEC ---
-Total from this dataset: 186
+Total from this dataset: 445
 
-1. i knew it when i read that young soccer players are called starlets !
-   (ID: lightlord)
+1. i 'll happily lecture you and anyone else who uses the word retarded like that .
+   (ID: dkinmn)
 
-2. i read xams as “ exams ” ... the worst part of december if you ’re a student !
-   (ID: KneelDeGrassTieSon)
+2. i 'll be your second state .
+   (ID: stresreleaf)
 
-3. i 've read she was on are you the one .
-   (ID: EvieAugust)
+3. i ’ll watch her but without dean .
+   (ID: jennbunny08)
 
-4. i read your symptoms part obviously which is the most important part .
-   (ID: microliteoven)
+4. i 'll put my sign down with the pass tux .
+   (ID: Heydawgg)
 
-5. i read it as the noise " eh " , or like ..... " bluh " .
-   (ID: GanjaSmoker420HaloXX)
+5. i ’ll take it , every last drop of it .
+   (ID: Heavenandhell50)
 
-6. i think the title can be understood as negative , that 's how i read it at least .
-   (ID: OliveGames)
+6. i 'll up vote anything having to do with rick and morty .
+   (ID: Heydawgg)
 
-7. i 've only read rumo and the city of dreaming books .
-   (ID: SanJOahu84)
+7. i 'll show myself out now .
+   (ID: zsnajorrah)
 
-8. i read " ... by beating all the boys . "
-   (ID: freddlaren)
+8. i 'll keep an eye out for that .
+   (ID: futurespice)
 
-9. i read joyland , it 's a great read .
-   (ID: Boop-D-Boop)
+9. i 'll drop you tegearian .
+   (ID: AgedTwenties)
 
-10. i read the title , and was like meh .
-   (ID: napalmkitten)
+10. i think i ’ll give him a listen this evening .
+   (ID: ListenandLove100)
 
-11. i read this in a dalek voice .
-   (ID: Othello)
+11. i ’ll bet .
+   (ID: kitcatpaints)
 
-12. i have n't read the wikipedia entry , but the god damned * reputation * made me cry .
-   (ID: foldor)
+12. i 'll buy cheap anything tbh
+   (ID: greensandgables)
 
-13. i read that as i was putting chili into my mouth .
-   (ID: cometparty)
+13. i 'll bookmark your referral link in case i 'll ever have a need for it .
+   (ID: bestform)
 
-14. i recommend reading “ el cartel ” by ioan grillo.just a heads up : very depressing read .
-   (ID: ChallengeTaken99)
+14. i 'll see if i can write more after i get home , flying back today .
+   (ID: CarlofTime)
 
-15. i read it as " the dyes that blonde " .
-   (ID: laura_lee_meh)
+15. i ’ll start : avoid matte and/or dark lipsticks .
+   (ID: Justadropinthesea)
 
-16. i always read that they are night animals .
-   (ID: Ml7500)
+16. i ’ll punch him in the faith
+   (ID: littleroundpill)
 
-17. i ’ve read online about fasting him , adjusting the tank temperature , or feeding him different food .
-   (ID: FruitBatFanatic)
+17. i wanna hear more about this journey , i 'll pm you .
+   (ID: deryyaa)
 
-18. i can almost read them .
-   (ID: WorldBFree)
+18. i 'll give it a go .
+   (ID: thebastion)
 
-19. i do n't know how anyone can read something written as childishly as this .
-   (ID: BoobieBoobieButtButt)
+19. i 'll give you store credit in the amount of five dollars .
+   (ID: ElectricBlumpkin)
 
-20. i read that in haaretz before maher said anything about it .
-   (ID: cometparty)
+20. i 'll comment there in a bit then !
+   (ID: CheapyPipe)
 
 
 --- PER-CHAT ---
-Total from this dataset: 35
+Total from this dataset: 77
 
-1. whenever i scroll past this i always think it says ' fantastic bright red cancer ' so i always double take and then read ' acer '
-   (ID: 063ff05b3364c41fa72065634c0e90854c7272a4)
+1. exactly . if you do nothing but ask  what  s on your mind ?   what do you wanna talk about ?   how are you ?  you  ll evdntually strike gold .
+   (ID: 444659eb8690d0e651e1d4c99817e229ebb65a89)
 
-2. yes ! you read my mind .
-   (ID: ba2b62efe335afb5002057a08f40c489849fc6cf)
+2. ok . i  ll save up for him . are any of the other faction wars characters worth getting ?
+   (ID: c5b665e8ba18adb2125a557bd8ecbb0654907c67)
 
-3. no . why would you ? would you read the last chapter of a book if you haven ' t read the rest ?
-   (ID: 5147e830e7cfa538d6990a8699ad6462b57cfb52)
+3. that was beautiful , thank you for the advice i ' ll definitely do it !
+   (ID: 4e289af5e18133c4578deba659b7e1d2784a925d)
 
-4. i don  t interfere with the stuff that would go over my head . i read whatever i find related to the topic outside my domain of knowledge via available books and internet .
-   (ID: 5186a4f234c22a2668969b75a1a54616526c2ee4)
+4. that  ll just prove the point that they are lost before they go in the laundry . why would you kill an urban myth ? are you insane ?
+   (ID: b74c6f378f67934bed1f9dd4c591152d002827ec)
 
-5. why do you have to do all that ? can ' t you just read it and grade it for what it ' s worth ?
-   (ID: 46ebabd043d7d3e7a17fff03489569373a3fe5d4)
+5. imagine a beautiful woman  men with a shitty character , i ' ll pass on that
+   (ID: 2a3d0cc7409627207d71d58affd421983020efbe)
 
-6. confessions it ' s just painful to read
-   (ID: 1d0857cacfa7c7e2b440c1a4e82e78a07351edb0)
+6. i usually have to wait in the human line because either the kids or the husband has already eaten some of whatever we are buying and if we go to self serve i ' ll have to call over the staff member anyway to amend the " incorrect item weight " error .
+   (ID: c0cbd0e097375f98ad98ec291f836a39d55e02c1)
 
-7. no no , read again you don  t have any choice .
-   (ID: 0adc203530167f27a334f03a3d44b3c302d91f2a)
+7. nice ! that  s definitely something i  ll do for future interviews . thanks !
+   (ID: 2ab410cb3dc233b072c65fa9acc3c6323d05914e)
 
-8. is it strange that i ' m trying to read what the paper says as well ?
-   (ID: 94a09b177657107f89104f80152cc459c4dca0ea)
+8. " i ' ll let you touch my  insert private area here  "
+   (ID: 19b7c5d60c447b44c31c1aea0c3cbc7f347bf8bb)
 
-9. as i said to the other guy , talk to her is a movie . read a summary of it and youll see why i mentioned it
-   (ID: 05b66d977b603757baf68e2315ea2e5970865864)
+9. i ' ll just grab a full plate and take it to my room everytime we ' re having dinner
+   (ID: e28ddc799fe165a883ff107b6718627ae1ecc7e4)
 
-10. i ' ve been watching the extended episodes includes deleted scenes and before the scene where jim locks dwight in his ' office ' read  workspace , there ' s a scene where dwight makes pam upset after repeatedly questioning her about her engagement to roy and their proposed wedding date , and she storms off . it kind of explains why jim was so cold to him after that .
-   (ID: 46cb5d4fcb97f49dbe3224c149f50ac2d9f7f509)
+10. i ' ll start . when teacher ask a simple ass yes or no question to the class and you quickly answer , but than she hit you with ' why ' .
+   (ID: 2b47199b4fa121d3e405bfa6fe1aca80af633d22)
 
-11. i read a theory about the closer being bojack ' s mother , that would be amazing
-   (ID: 4cd63391f1644eb1dde02717bf6a72fc6c22acc7)
+11. here it but it  s not the plain image it  s the link to my account but you  ll see the imagehttps
+   (ID: 5b1553b6a517f6dfee19019582f0bb534a60ae0a)
 
-12. i don ' t give a fuck what you read or if you read , you ' re a fucking adult , you ' re not my problem . unless you fuck up my life and force me to suffer the consequences of your bullshit .
-   (ID: 50043497a219924fd275a92e5dadb6e04bac5936)
+12. hahahaha that ' s one date you ' ll never forget !
+   (ID: 14942db2673f05d429e3df3e81ee89b62cf80338)
 
-13. i  m toxic yet you made the dirty unfunny joke after i said your weapons were duped . nice one . and coaytrashy is the fairest trader unlike you and that other scrub who walked away due to his inability to read .
-   (ID: 51417b57f4b2dc72dd07ac6a8ebfc978fa9d0661)
+13. obviously no he would kill me . you figure out how to hold him down and i ' ll give it a go just for the story .
+   (ID: 6b44e5a9224f9774ed4684a92d2cfe9266297965)
 
-14. he ' s reading up for when he auditions for dogspere in the park . to read or not to read , that is the question upside  down  face
-   (ID: 0dbed651dd0d5be163d67244516bde20b27c36dc)
+14. thats a heck of a christmas spirit , thank you . i ' ll take the plain one at the bottom left if it ' s still available
+   (ID: b919217481874a60428694881d0750869bd723eb)
 
-15. i think maybe she learned to read ?
-   (ID: 73e90e443642babe17d8b9523bc123bb79b21e79)
+15. nah , they ' ll cheat again .
+   (ID: 8f33db98a9fa29c8f9e44012d79de72291a29519)
 
-16. yeah i read it every now and again when i ' m bored
-   (ID: a590a48cc57b678d7925ce142e639876d9df69d6)
+16. so much of it matches , it probably is it and it ' s my memory that ' s faulty . also , things seem much bigger when you are a kid . thank you so much for responding so quickly . i ' ll cherish it ! i trust you ahur  volvo .
+   (ID: c7f5a06b3680b7a9dedaf13fd5905b9e989993dc)
 
-17. i fixed it to be less confusing , read again .
-   (ID: 8a4ed3ff6aeac985870de52972da8599efd48ae2)
+17. thank you for this information , i ' ll probably never eat this again .
+   (ID: 3cc69335d54dfe26e103753b56ad7268563823e2)
 
-18. im not taking everything so seriously , but if you read your respond on my answer it can only go over wrong .
-   (ID: 4beccb79954eaf4ba6b69b6ac31b148b48f4f579)
+18. one of my favourite showerthoughts is that we ' ll suffix everything with "  porn " that someday we ' ll have to call regular porn " sexporn "
+   (ID: 3c135c69a8a47980440b74978da03e89463d9df6)
 
-19. not at all what i said , maybe they can come to your house and help you learn how to read .
-   (ID: 8ee36b7de5870d8a018edda36a1e88aee55b98f9)
+19. not only will i drain the world ' s water and starve the infants , i ' ll eat your ass like groceries too .
+   (ID: 11901fdae0180e2dff4ee7e340807ab6d92de874)
 
-20. people at walmart can read ?
-   (ID: 9fd3949388d40bdd617694db3b906b69fbbe4875)
+20. keep trying , you ' ll never get as many upvotes as me .
+   (ID: eee9dc5129787c4d2a8fda055f09565efcf9322a)
 
 
 --- PersonaChat ---
-Total from this dataset: 6
-
-1. i read sci fi space adventures with a passion .
-   (ID: conversation_25)
-
-2. my cats like to be read to .
-   (ID: conversation_564)
-
-3. i read autobiographies before bed .
-   (ID: conversation_552)
-
-4. when i've nothing else to do , i read books .
-   (ID: conversation_36)
-
-5. i'd rather read a book than watch a movie .
-   (ID: conversation_353)
-
-6. i read ebooks more than hardcopies .
-   (ID: conversation_423)
-
-
---- SyntheticPersonaChat ---
 Total from this dataset: 1
 
-1. I think dogs could learn to read if they were trained well.
-   (ID: conversation_509_user_2)
+1. i didn t pass the audition , but i ll keep trying .
+   (ID: conversation_373)
 
 
 ============================================================

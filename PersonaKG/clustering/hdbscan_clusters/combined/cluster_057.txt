@@ -1,155 +1,384 @@
 CLUSTER 57
 ============================================================
-Total statements in cluster: 144
-Cluster persistence (stability): 0.763
+Total statements in cluster: 249
+Cluster persistence (stability): 0.455
 
 Dataset distribution in this cluster:
-  MPChat: 3 (2.1%)
-  MSC: 1 (0.7%)
-  PEC: 125 (86.8%)
-  PER-CHAT: 14 (9.7%)
-  SyntheticPersonaChat: 1 (0.7%)
+  FoCus: 7 (2.8%)
+  MPChat: 31 (12.4%)
+  MSC: 29 (11.6%)
+  PEC: 111 (44.6%)
+  PER-CHAT: 44 (17.7%)
+  PersonaChat: 22 (8.8%)
+  SyntheticPersonaChat: 5 (2.0%)
 
 ============================================================
 
 SAMPLE STATEMENTS FROM EACH DATASET:
 
 
+--- FoCus ---
+Total from this dataset: 7
+
+1. My sister crosses the English Channel several times a year because of her work.
+   (ID: ODWWG1XAUHD6_11)
+
+2. I like the engineering work of the designer Ralph Modjeski.
+   (ID: MG0HEWUEN2AZ_9)
+
+3. I am willing to work in Metropolitan Water Sewerage and Drainage Board.
+   (ID: KHRYE9OFUIMW_9)
+
+4. I work in a cotton plantation.
+   (ID: SF062658I1IO_7)
+
+5. I am willing to work in Isles of Scilly Wildlife Trust.
+   (ID: VBRKEB3J9BVV_7)
+
+6. I am afraid to do refurbishment work in my house.
+   (ID: QHSLQKPUYCXD_11)
+
+7. I like Paul Andreu work.
+   (ID: 9LPSSRYT28ZD_11)
+
+
 --- MPChat ---
-Total from this dataset: 3
+Total from this dataset: 31
 
-1. i wanted to share this for those who feel inadequate seeing the perfection you often get here.
-   (ID: ThePurpleBaker)
+1. after 27 days of work, i finally finished the space marine for my husband.
+   (ID: Lookingforearrings2)
 
-2. virus shawl in what i feel are easter egg colours.
-   (ID: Soapy_Von_Soaps)
+2. only had shredded cheese, but i made it work.
+   (ID: RaeADropOfGoldenSun)
 
-3. i made a sleeve for my drinkin jar :) super summery beachy feel to it
+3. how do i start this so it doesn’t get unmanageable to work with on a plane?
+   (ID: Chris55730)
+
+4. i organized my work space!
+   (ID: blboppie)
+
+5. prettier pics of the hamburger cupcakes i made for work :)
    (ID: ddizzle23)
+
+6. here’s some of my work.
+   (ID: Lookingforearrings2)
+
+7. the ladies supervising me as i work from home.
+   (ID: joyyyyce)
+
+8. these are the types of photos i get while at work of my sleeping tater tot
+   (ID: pocket_kira)
+
+9. my reef nano which sits on my desk at work.
+   (ID: Airspeed35)
+
+10. went for a rip so i could go for a rip before work this morning
+   (ID: drewchie)
+
+11. showing off my work in progress in more detail
+   (ID: ablubberducky)
+
+12. once or twice a month i take some homebrews to work.
+   (ID: Spazmodo)
+
+13. i worked with florentine embroidery on this big paper tonne and put in all my manual work.
+   (ID: gelimausi)
+
+14. this is what i do during my lunch break at work
+   (ID: Sophie74656)
+
+15. shaping needs work, but here's my first sourdough!
+   (ID: mattsulli)
+
+16. petrie being taught to drive the city shuttle while visiting my husband at work
+   (ID: kentobean123)
+
+17. my supurrvisor, waffles, is keeping a close eye on me while i work from home
+   (ID: FoxInKneeSocks)
+
+18. i work at a coffee house and we caught this guy eating our halloween pumpkins and corn.
+   (ID: Caserole)
+
+19. holds my hardware and supplies for work
+   (ID: switchbladesally)
+
+20. finally done 2 months of work and i am so proud of how this turned out
+   (ID: XandXor)
 
 
 --- MSC ---
-Total from this dataset: 1
+Total from this dataset: 29
 
-1. I cannot wait for it to feel icy out again in a few months.
+1. I work from home and stay in my pajamas.
+   (ID: dialog_93_speaker_2)
+
+2. I work as a barista 50 hours per week at a coffee shop  called Fair Beans located on High Street near Westside Market. I know the owner of the coffee shop I work at.
+   (ID: dialog_151_speaker_2)
+
+3. I work as an affairs liaison.
    (ID: dialog_197_speaker_1)
+
+4. I prefer to play and not work.
+   (ID: dialog_132_speaker_1)
+
+5. I used to  work at a processing center for long hours.
+   (ID: dialog_23_speaker_1)
+
+6. I work Monday through Friday evenings 5 to 9 and 8am to 9pm on Saturdays.
+   (ID: dialog_218_speaker_1)
+
+7. I am apart of a different work environment.
+   (ID: dialog_62_speaker_2)
+
+8. I work in Orlando.
+   (ID: dialog_32_speaker_2)
+
+9. I work for an online seller.
+   (ID: dialog_211_speaker_2)
+
+10. I am taking a class and am working at night. We have open mic poetry nights at work every week. I have never performed poetry. I am shy.
+   (ID: dialog_144_speaker_2)
+
+11. I am exhausted by work everyday.
+   (ID: dialog_44_speaker_2)
+
+12. I work hard at my job, but am more of a dauber than anything.
+   (ID: dialog_111_speaker_1)
+
+13. I work in the country.
+   (ID: dialog_13_speaker_1)
+
+14. I like quality tools for work.
+   (ID: dialog_79_speaker_2)
+
+15. I work at subway.  I had to stay overtime many times in the past month.
+   (ID: dialog_46_speaker_1)
+
+16. The boat I work on is a fishing boat. I report to work early in the morning.
+   (ID: dialog_226_speaker_1)
+
+17. My name is Frank. I work as a general manager at a grocery store.
+   (ID: dialog_15_speaker_1)
+
+18. I do not work at a funeral home.
+   (ID: dialog_5_speaker_2)
+
+19. I will do any job. I would like to work in a bakery.
+   (ID: dialog_147_speaker_2)
+
+20. I'm employed to work with power.
+   (ID: dialog_130_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 125
+Total from this dataset: 111
 
-1. i can feel these balls in my hand .
-   (ID: DickRubnuts)
+1. i tackled a loafer at work today
+   (ID: PECOSbravo)
 
-2. i feel personally attacked
-   (ID: tommythestone420)
+2. i work on an organic farm and our raspberries are ripening like crazy .
+   (ID: juliacakes)
 
-3. i feel completely disrespected .
-   (ID: conservative_poly)
+3. i bet * you * do n't work .
+   (ID: Nolanoscopy)
 
-4. i feel for him , definitely been that high before
-   (ID: Bob_Majerle)
+4. i had a panic attack last night driving in the snow to pick up my husband from work .
+   (ID: Tjgl)
 
-5. i feel the shame .
-   (ID: ItGetsAwkward)
+5. i almost rode a tandem to work because my bicycle lock was broken lol .
+   (ID: Takumi-Fujiwara)
 
-6. i feel this on a spiritual level .
-   (ID: monday_madrigal)
+6. i can just block you-- would that work for you ?
+   (ID: PaperSkinMan)
 
-7. i feel so inadequate now
-   (ID: bbakks)
+7. i enjoyed this during work , today .
+   (ID: bestform)
 
-8. i feel so bad for them !
-   (ID: redraindropped)
+8. i have a florida license , is it difficult to aquire other state license to be able to work .
+   (ID: DickieJohnson)
 
-9. i feel every job has that already .
-   (ID: alicepalmbeach)
+9. i started a business not to get rich but to work for myself .
+   (ID: I_am_not_a_Taco)
 
-10. i feel your pain .
-   (ID: SerendipitousCat)
+10. i 'm trying to goof off at work !
+   (ID: pissin_in_the_wind)
 
-11. i feel humbled and honored in reading about your dearest elly .
-   (ID: tinyirishgirl)
+11. i miss the sunny morning drives to work !
+   (ID: mmaswadeh)
 
-12. i can feel the insecurity in your language .
-   (ID: lightlord)
+12. i can not do my work without the internet .
+   (ID: namastemeanshello)
 
-13. i 'm also a bit worried that bioshock will feel a bit too last - gen for me .
-   (ID: BorgDrone)
+13. i do n't have a portfolio because my writing work is usually highly confidential .
+   (ID: Sometimes_Why)
 
-14. i feel fine -the beatles . or . take me to the mardi gras- bob james
-   (ID: Vaenessa)
+14. i can no longer work in pt .
+   (ID: jwshapir)
 
-15. i feel a warm spot
-   (ID: Megan_Bee)
+15. i ’d tighten this for free if i was on site doing other work .
+   (ID: sherry2012)
 
-16. i moved into her apartment 2 months ago and already feel strange using her utensils and such .
-   (ID: justgirlypasta)
+16. i have done everything to get it to work , but alas , i had no success .
+   (ID: mmaswadeh)
 
-17. i feel bad for anyone who expects normal coop to return this episode .
-   (ID: BoobieBoobieButtButt)
+17. i work with ludwig , but i am not the austrian unified communications savant .... :-)
+   (ID: coocha)
 
-18. i kinda feel that there is major potential for ai to support doctors .
-   (ID: Aloha-Potato)
+18. i just finished a xugong v2 pro build , and also have a phantom 2 here at work .
+   (ID: coocha)
 
-19. i feel bad for the kids living in that shithole
-   (ID: Bananafoofoofwee)
+19. i imagine that 's how twists work .
+   (ID: Sir_Gunner)
 
-20. i feel so discouraged
-   (ID: justgirlypasta)
+20. i prefer football , beer , work , kids , and wife in that order .
+   (ID: Snake-N-Roses)
 
 
 --- PER-CHAT ---
-Total from this dataset: 14
+Total from this dataset: 44
 
-1. how do they feel about him ?
-   (ID: e6c4a2b8e8c999b54ade342babc3d7b48868cc6d)
+1. why not ? but if you could would it work ? and what is the price to summon such a divine being ?
+   (ID: b2a2cd889183833ca9a753b2d28f6d89d867e1f9)
 
-2. i wouldn ' t feel anything , ' cause then i ' d be dead .
-   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+2. music , work , booze
+   (ID: 752bae2818e8a99ea6b8b00277a3811570a73708)
 
-3. shave one side of your head . do it now . how do you feel ?
-   (ID: ac1ceb388a2e170941cb682c48398cacc87c5019)
+3. not necessarily , i  ve noticed that as long as there  s communication the manager is willing to work with you . however , since we have so many people on our team holidays is usually the  you have to work your scheduled shift  type of schedule .
+   (ID: 952775daf59c315371d07b780312217bf98c8464)
 
-4. i feel so terrible for being a former christian .
-   (ID: c766fd259305ab2b0cd283ae4331fb90fc52e356)
+4. something similar to this would work   could probably get one on ebay
+   (ID: 9e8a44f7c55ebce4785906436a033b33a1ccb949)
 
-5. offensive jokes , i feel terrible because i ' m essentially laughing at someone worse off than me . it ' s something i ' m not proud of , but sometimes . you have to feed your inner demons sense of humour haha
-   (ID: 84b2c69cbe8c44b78569e5e8b9af935f703ee480)
+5. i frequently end up being left without a group for assignments in university . i end up randomly assigned to others without groups and they tend to be lazy students with bad work ethics .
+   (ID: 7df89b558f49c9f710c5f928f61dae67f52229c7)
 
-6. i left a full basket of groceries on the floor of a shop because it was too crowded and i could feel a panic attack coming on , i had to get out of there .
-   (ID: 23d8dae7213e264b515a84a02f18e02f44dbe192)
+6. how can you fit your big ass head through the front door of your work place ? with a overdose of self  esteem like that , you oughta be a youtube gamer . you won ' t have to do half of the work and you ' ll doule  triple your own selfish ego .
+   (ID: f67f4ffc3afd37a9ece4ede606682407c9b920b1)
 
-7. being clean and minimalistic . i feel suffocated in cluttered places .
-   (ID: 9a79b05d9254cd2c33add44b7119f844802b48d9)
+7. how about a turning point ? or a watershed ? neither has quite the negative connotation you hinted at , but they could work .
+   (ID: f56364bd83de3d5a9362561afb7334545058711d)
 
-8. the moose attack is what taught me to fear any and all large animals . probably explains why i feel so unnerved near horses  no antlers , but they could still wreck my innards in an instant .
-   (ID: e74c4268e9e1c5f9cadf933981b55c5a5aa0d1f2)
+8. do you work on commission ? we will buy all the things .
+   (ID: cb8cb80756996949fe8fa5c308bb091367a0c6ff)
 
-9. you would feel differently if you were a teacher .
-   (ID: c3e006fd89797fac08140faf6d1cc3e278d62d2f)
+9. you can technically pretend one is the other and it will work just the same
+   (ID: 138c148421ce6f102f2513f40ee9cf14f914e358)
 
-10. why do i feel that that should be a spidy girl and not a spiderman ?
-   (ID: c78041b21fac11507cc597ef286b534255fdd250)
+10. depends on the company you work for and their policies . we ' re totally allowed to joke around .
+   (ID: 2d26439362b22d8737b6d2a810c70fc3b9a3ddaa)
 
-11. this is basically depicting exactly how i feel about those guys . they scared the bejeesus out of me ever since i was a kid . still do !
-   (ID: 23d8dae7213e264b515a84a02f18e02f44dbe192)
+11. pray it will work if you are believer , if not . well pray anyway
+   (ID: dd50b301fbfd713e92cffecd0a18fa135e6d75d3)
 
-12. how would you feel if muslims would flood your country ?
-   (ID: 53aa6c267ff5eccf891e178786d41ca5df80a5de)
+12. insurance companies have tremendous depts like this . cust service , hrd , accounting depts , it all do their work on computers in these settings . i hated it .
+   (ID: e3a7bbfa5fde0a706f721c3dc5055b3a8963f79f)
 
-13. you ' re colombian , i ' m guessing , yeah ? i feel you will finish first in your group .
-   (ID: 3fb1292a0bd26711d797fe1a61e6229794c21b68)
+13. nah , you can put it on offer up or craigslist or any other website . when you found someone who  s willing to take over payments both of you go in to the dealership and work it out . idk the details on that
+   (ID: a77a8bcaa391d8b6584d32e6ad243e71297d7258)
 
-14. they have stand your ground laws which means the moment you feel threatened , even out in public you can shoot somebody . you have no duty to retreat .
-   (ID: 080f9c13731c22b3fdaccc4ff9cd4e4e27810ae0)
+14. may they never have properly working headphones . one side will never work , no matter how many they buy .
+   (ID: f5639f88927d467b89189ab179bb30d8a5705552)
+
+15. anyone answering this question seriously probably shouldn ' t be in that line of work .
+   (ID: 59ebeb8d8fee755bce043a6482743bde8a2a0bb1)
+
+16. i have another question . when you get a kill , how much money can you pick up ? also , how do objectives work for a cop and how much money do you earn from them ?
+   (ID: d28197335e7305577b59f952af257f553cab06d9)
+
+17. an app called barometer reborn helps me track pain flares . it also assisted in confirming my suspicion that my commute to work triggers flares .
+   (ID: 78399b8e5c86e6af001e07209800c163acdd1270)
+
+18. i pretend to work as long as company pretend to pay a decent salary . i think we are on the same page there .
+   (ID: 3c4a38138d39bd51556bd7f8a05ba48bf283c7e6)
+
+19. it all works for countries like germany tho so why wouldn ' t it work in the us ?
+   (ID: c863a7172df41853f354be7adff4b3f9a0cb9736)
+
+20. thank you . you  re doing gods work .
+   (ID: 840f5d9bddf24e024b9a70f13cdde62d41604e77)
+
+
+--- PersonaChat ---
+Total from this dataset: 22
+
+1. i work at a smoothie shop .
+   (ID: conversation_12)
+
+2. everyday after work i buy my dog a dog biscuit .
+   (ID: conversation_160)
+
+3. i drive 300 mile a week for work .
+   (ID: conversation_536)
+
+4. i always have a beer after work .
+   (ID: conversation_550)
+
+5. i used to work for monsanto .
+   (ID: conversation_345)
+
+6. i work as a stand up comedian .
+   (ID: conversation_2)
+
+7. i wear a uniform to work .
+   (ID: conversation_448)
+
+8. i owe 2 monitors for work .
+   (ID: conversation_95)
+
+9. i work a dead end 9 to 5 job as a snakeskin oil salesman .
+   (ID: conversation_204)
+
+10. i currently work at target .
+   (ID: conversation_160)
+
+11. i would like to work for the smithsonian .
+   (ID: conversation_516)
+
+12. i work at a museum .
+   (ID: conversation_32)
+
+13. i work many hours rehearsing for my show .
+   (ID: conversation_422)
+
+14. i work as a vet .
+   (ID: conversation_282)
+
+15. i work on cars for a living .
+   (ID: conversation_18)
+
+16. i ride my red bike to work everyday .
+   (ID: conversation_29)
+
+17. i work many hours .
+   (ID: conversation_8)
+
+18. i work for a large law firm .
+   (ID: conversation_30)
+
+19. i work at home on my computer .
+   (ID: conversation_236)
+
+20. my brothers work with me .
+   (ID: conversation_189)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 1
+Total from this dataset: 5
 
-1. But , i feel lost and far away from who i truly am.
-   (ID: conversation_127_user_2)
+1. I used to work at a factory making boxes.
+   (ID: conversation_63_user_1)
+
+2. I am a nurse and work in an emergency room at a busy hospital.
+   (ID: conversation_93_user_1)
+
+3. I work on wall street.
+   (ID: conversation_148_user_2)
+
+4. I do volunteer work for human rights organizations.
+   (ID: conversation_2_user_2)
+
+5. I work as a construction worker during the summers.
+   (ID: conversation_168_user_2)
 
 
 ============================================================

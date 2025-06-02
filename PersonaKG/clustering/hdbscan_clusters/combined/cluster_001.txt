@@ -1,14 +1,14 @@
 CLUSTER 1
 ============================================================
-Total statements in cluster: 205
-Cluster persistence (stability): 0.602
+Total statements in cluster: 203
+Cluster persistence (stability): 0.598
 
 Dataset distribution in this cluster:
-  FoCus: 85 (41.5%)
+  FoCus: 84 (41.4%)
   MPChat: 3 (1.5%)
-  MSC: 12 (5.9%)
-  PEC: 61 (29.8%)
-  PER-CHAT: 44 (21.5%)
+  MSC: 9 (4.4%)
+  PEC: 61 (30.0%)
+  PER-CHAT: 46 (22.7%)
 
 ============================================================
 
@@ -16,67 +16,67 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 85
+Total from this dataset: 84
 
-1. I am interested in golf course.
-   (ID: N6PQUNGWIN2C_11)
+1. I am interested in seeing old burial grounds.
+   (ID: 9V46GTIPWJV1_11)
 
-2. I'm interested in the history of railways.
-   (ID: LJYX36WCRYDM_9)
+2. I am interested in studying escapes.
+   (ID: BWZ0H3E6AIGB_11)
 
-3. I am interested in the climate.
-   (ID: LYYSTNQ9MBLY_11)
+3. I am interested in Italian history.
+   (ID: DIQU5A0EAGWM_11)
 
-4. I am interested in reservoirs.
-   (ID: JJVJO5DV75YG_11)
+4. I'm interested in urban hydrology.
+   (ID: SJS6GHEH7ZIW_11)
 
-5. I am interested in the figure of Edward Colston.
-   (ID: 7KD1MTP5A7ZD_11)
+5. I am interested in rock works.
+   (ID: P6GC7TLC5QDI_11)
 
-6. I am interested in University of Sydney.
-   (ID: L6X3D5VDORJH_11)
+6. I am interested in geography.
+   (ID: FOZE4Q84M3RX_11)
 
-7. I am interested in the nature.
-   (ID: DUOS4WEDQGB4_11)
+7. I am interested in how crops grow.
+   (ID: EQX5OJUYB1VY_11)
 
-8. I am interested in future extension plans.
-   (ID: 8KHO3GFPWXQ3_11)
-
-9. I am interested in Greensward.
+8. I am interested in Greensward.
    (ID: UTGOZ64NRQCB_11)
 
-10. I am interested in national library.
-   (ID: O32SMRJRNDHW_11)
+9. I am interested in primates.
+   (ID: XPO6CJX81MYK_9)
 
-11. I am interested in the architecture.
-   (ID: W4CQPY8R6C4Q_11)
+10. I am interested in studying construction and making a blueprint of my own house.
+   (ID: XW6WLBIV74VV_11)
 
-12. I am interested in the Guanche people.
+11. I am interested in reservoirs.
+   (ID: JJVJO5DV75YG_11)
+
+12. I am interested in crystal glass.
+   (ID: AHA35P484Z5B_11)
+
+13. I am interested in Pleistocene glaciation.
+   (ID: LQEMVPLBWMFW_11)
+
+14. I am interested in University of Sydney.
+   (ID: L6X3D5VDORJH_11)
+
+15. I am interested in the LDS Church.
+   (ID: BWZ0H3E6AIGB_11)
+
+16. I am interested in the history of motor racing.
+   (ID: 8WE18TH8BG9F_11)
+
+17. I am interested in the Guanche people.
    (ID: AA1T1UU6UT31_11)
 
-13. I'm interested in sports history.
-   (ID: X7MOE4GZ4HOG_11)
+18. I am interested in knowing the longest tunnels.
+   (ID: MJ8L7IHV13N8_11)
 
-14. I am interested in the history.
-   (ID: W4CQPY8R6C4Q_11)
+19. I am interested in learning about the Pygmies.
+   (ID: LFGIG1TODPKB_11)
 
-15. I am interested in the island.
-   (ID: DUOS4WEDQGB4_11)
-
-16. I am interested in seeing domes.
-   (ID: 9QE8MQM0B8P7_11)
-
-17. I am interested in non-profit organizations.
-   (ID: 942CCWXHPUZT_11)
-
-18. I am interested in the Ritz Hotel.
-   (ID: TWVRMG2B6X6L_11)
-
-19. I am interested in settlement.
-   (ID: ISZ5P96SGAA5_11)
-
-20. I am interested in the Iran.
-   (ID: XU1657VV4AMG_11)
+20. I'm interested in hip-hop culture.
+   (ID: MV4DPBGX0OB5_11)
 
 
 --- MPChat ---
@@ -93,171 +93,162 @@ Total from this dataset: 3
 
 
 --- MSC ---
-Total from this dataset: 12
+Total from this dataset: 9
 
-1. I would am interested in being a composer for TV and film.
-   (ID: dialog_53_speaker_1)
-
-2. I have only played the in person chess. I am interested in playing the chess online.
-   (ID: dialog_149_speaker_1)
-
-3. I am interested in government articles and novels.
-   (ID: dialog_220_speaker_2)
-
-4. I am interested in gold coins.
-   (ID: dialog_124_speaker_1)
-
-5. I like watching people pray for the betterment of the world. I am interested in religion.
-   (ID: dialog_79_speaker_1)
-
-6. I don't watch much soccer but I'm still interested in it. I am interested in the Premier League and Liverpool. Real Madrid is favorite team. Likes Newcastle for PL.
-   (ID: dialog_171_speaker_1)
-
-7. I live in Wichita. I am interested in the history of the civil rights movement.
-   (ID: dialog_87_speaker_1)
-
-8. I want to go to Mexico City and see the Zocalo and Teotihuacan. I am interested in Mexico's history. I am interested in Russia's history.
-   (ID: dialog_113_speaker_1)
-
-9. I am interested in electronics. I have two smartphones. I like to tinker with them.
-   (ID: dialog_155_speaker_2)
-
-10. I am interested in contemporary dance. I have a cat named Socks. I love cats.
+1. I am interested in contemporary dance. I have a cat named Socks. I love cats.
    (ID: dialog_172_speaker_2)
 
-11. I am interested in electronics.
+2. I am interested in electronics.
    (ID: dialog_155_speaker_2)
 
-12. I am interested in children's book on video games.
-   (ID: dialog_132_speaker_1)
+3. I live in Wichita. I am interested in the history of the civil rights movement.
+   (ID: dialog_87_speaker_1)
+
+4. I would am interested in being a composer for TV and film.
+   (ID: dialog_53_speaker_1)
+
+5. I am interested in electronics. I have two smartphones. I like to tinker with them.
+   (ID: dialog_155_speaker_2)
+
+6. I don't watch much soccer but I'm still interested in it.
+   (ID: dialog_171_speaker_1)
+
+7. I like watching people pray for the betterment of the world. I am interested in religion.
+   (ID: dialog_79_speaker_1)
+
+8. I am interested in government articles and novels.
+   (ID: dialog_220_speaker_2)
+
+9. I want to go to Mexico City and see the Zocalo and Teotihuacan. I am interested in Mexico's history. I am interested in Russia's history.
+   (ID: dialog_113_speaker_1)
 
 
 --- PEC ---
 Total from this dataset: 61
 
-1. i have been looking myself , if you find a xbox 360 , i am interested
-   (ID: dawgreddit2014)
+1. i am interested to know more about this .
+   (ID: ShamPow20)
 
-2. i ’m interested because that ’s how i would have to play if i came back .
-   (ID: ExcessiveAggro)
-
-3. i was interested in the topic until it became another reality show .
-   (ID: sbsb27)
-
-4. i 'm a dad , would your be interested in being the mum to my dad status ?
+2. i will be interested in borrowing it as well .
    (ID: serverpilot)
 
-5. i 'm really interested in his specific research area .
-   (ID: creedisagoodband)
+3. i 'd be interested , how often are you thinking of playing ?
+   (ID: TopcatTomki)
 
-6. i ’ll totally sell them if you are interested !
-   (ID: latestartksmama)
-
-7. i 'm doing the same , i would be interested in knowing also .
-   (ID: DickieJohnson)
-
-8. i am really interested in the select cover up , but i wanted to get some reviews first .
-   (ID: pipette_on)
-
-9. i 'd be interested in anything anyone knows about these type of sofas -- medallion or cameo
-   (ID: Sometimes_Why)
-
-10. i am interested .
+4. i ’m interested in the st201 book .
    (ID: godspeedone)
 
-11. i 'm not interested in any one specific program , but i 'm just curious .
-   (ID: Always_Ask_4_Sources)
+5. i 'm interested in the answer to this as well .
+   (ID: clueless3867)
 
-12. i never gave these men any indication i was interested past normal friendliness .
+6. i 'm trying to find it for my gf for her birthday , she 's really interested in it .
+   (ID: Thenewfoundlanders)
+
+7. i 'm interested if we must book too .
+   (ID: hoveringlurker)
+
+8. i have an idea for a first date , if you are interested ...
+   (ID: FridaysChild219)
+
+9. i m interested in halo mcc and/or halo 5 , i have xbox credit , interested ?
+   (ID: Sniperman)
+
+10. i 'd be very interested to know specifically why she advocates waiting until marriage .
+   (ID: Thenewfoundlanders)
+
+11. i 'm in the uk but i 'd be interested in everyone 's take on it .
+   (ID: TopcatTomki)
+
+12. i 'm particularly interested in the middle ages .
+   (ID: Etifaq)
+
+13. i am really interested in the select cover up , but i wanted to get some reviews first .
+   (ID: pipette_on)
+
+14. i ’ll totally sell them if you are interested !
+   (ID: latestartksmama)
+
+15. i never gave these men any indication i was interested past normal friendliness .
    (ID: giraffecakes)
 
-13. i ’m way more interested in an all electric .
-   (ID: Montag3636)
+16. i ’m more interested in how the sell by date is july 22 in the year 18373 .
+   (ID: KneelDeGrassTieSon)
 
-14. i m interested in cracked down , its $ 5 shipped ?
-   (ID: Sniperman)
+17. i have st fn doppler p1 if your still interested
+   (ID: Unknown_nam3)
 
-15. i 'm definitely interested but the distance scares me a bit .
-   (ID: travelingkiwi)
+18. i ’m not interested in rgb .
+   (ID: pharan_x)
 
-16. i ’m interested in lifestyle content too , thank you !
-   (ID: leepcy)
+19. i have nobody to play this with :p message me if your are interested in helping on my farm
+   (ID: shockrush)
 
-17. i 'm also very interested in the motivation involved when disregarding traditional job routes .
-   (ID: Blue_Sky_Blue)
-
-18. i would suggest the tuna burger to anyone interested !
-   (ID: buttercup_mauler)
-
-19. i m interested in halo mcc and/or halo 5 , i have xbox credit , interested ?
-   (ID: Sniperman)
-
-20. i 'm interested in the reasons for needing the second lot .
-   (ID: dammitOtto)
+20. i 'm a librarian who is interested in learning about web development .
+   (ID: Always_Ask_4_Sources)
 
 
 --- PER-CHAT ---
-Total from this dataset: 44
+Total from this dataset: 46
 
-1. I'm interested in neurology.
-   (ID: db585f1dbaa42a5cff4c6b3dbc242bf7ea45bd9a)
+1. if you are seriously interested , then give shelter to at least one in your house . i ' m sure there ' d be space for one .
+   (ID: bbb6fee39268cdbbb90618968b5dbe6dee839233)
 
-2. no man , it  s easier done . make your intentions known , if she  s not feeling you , move on . they  re are too many amazing women to be sweating one that might not even be interested in you .
-   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+2. the same thing applies to others , even with different situations . people will treat you differently based on who is and isn  t around . if you find someone who seems interested in you who does not change under attention , then you should go for it so long as you are interested .
+   (ID: d8492ac2e05f869f3bd79bafc9f32c603a615e59)
 
-3. i ' m gonna throw up . on a side note , i would be interested in seeing a fluoroscopic video of what is going on in that poor devil ' s bum .
-   (ID: fb3e27f02415a8e4cac0badee38912f6b27a5a14)
-
-4. I'm interested in dogs.
-   (ID: 8a0d7d262d95d9c10d914ff3b70f342e066aee23)
-
-5. I'm interested in shopping.
-   (ID: 2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4)
-
-6. I'm interested in survival.
-   (ID: 43758cbbc1bb7a8418a69b47911e24d1d2a082d3)
-
-7. I'm interested in statistics.
-   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
-
-8. I'm interested in relationships.
-   (ID: 0dc000fb7dee9665369f1cbde3eeaeb51cd0c052)
-
-9. find out if they ' re interested and if they are flirt like a champion
-   (ID: 780d6e7552c6f0b7fa762436db554e83cc133bb8)
-
-10. I'm interested in lgbt.
-   (ID: aac80ac9ebef70ab8fe6bc14a8fcccb472099b84)
-
-11. be interested in some pics of what  s in your advanced toy box !
-   (ID: 5c245c532bb51b5eb5b24e418b836ba88d51688c)
-
-12. I'm interested in smoking and tobacco.
-   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
-
-13. when you have the time please tell me what your point of view is , i ' m interested
-   (ID: af764f37d4a75bdb762464b079f842d6af0847b7)
-
-14. I'm interested in real estate.
-   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
-
-15. I'm interested in environment.
-   (ID: 8f22657eff8a2d9aeade346926843c63f2a21e0a)
-
-16. I'm interested in bread.
-   (ID: 3ad18913fe75fd4a63c4ae0d0255c37d90fd7144)
-
-17. I'm interested in food and beverages.
-   (ID: 8a0d7d262d95d9c10d914ff3b70f342e066aee23)
-
-18. are you by any chance interested in ha snivy or ha tepig ? if not , i also have ha tyrunt , amaura , cranidos , lileep , and oblivious barboach with em dragon dance , most of which are all 5iv
+3. are you by any chance interested in ha snivy or ha tepig ? if not , i also have ha tyrunt , amaura , cranidos , lileep , and oblivious barboach with em dragon dance , most of which are all 5iv
    (ID: 9b58219d8f43f5aa6e34770c7b9c7896c88c8fe7)
 
-19. I'm interested in personality.
+4. I'm interested in shopping.
+   (ID: 2a3f07a52e2fc5e79fd2ed52f4f601fa39ebe2e4)
+
+5. no man , it  s easier done . make your intentions known , if she  s not feeling you , move on . they  re are too many amazing women to be sweating one that might not even be interested in you .
+   (ID: b5cc14fd703a97548093b4e06f7e3e92575b80b9)
+
+6. thor digit because i really liked ragnarok and i  m interested to see where they take thor after well you know  and doctor strange digit because i loved the action in the first one and am interested in how the build upon it . which is not to say i  m not interested in everything else , because i am !
+   (ID: 6f88a57b804dffb05f07ee78e02223947d9055aa)
+
+7. you can play digit first . you can also watch a story recap in youtube if you ' re interested ,
+   (ID: 6573f6a8f26b8c23dc16d278f5c2c32e67af1e5b)
+
+8. I'm interested in neurology.
+   (ID: db585f1dbaa42a5cff4c6b3dbc242bf7ea45bd9a)
+
+9. I'm interested in accessories.
+   (ID: 14bd1366b004b74cfd8c9cb269849740d12cff80)
+
+10. I'm interested in real estate.
+   (ID: 79bdfdf686984c100c22b157137e9ff8181052bb)
+
+11. congratulations ! i am interested in their program and applying later this year , if you don  t mind me asking what we  re you scores  gpa like ?
+   (ID: f296ca909e75f5e7a28f054f4937f3c6eccb6a56)
+
+12. I'm interested in cooking.
+   (ID: 4220698c420fc0ae5858bf747f40efb2251b9ed8)
+
+13. I am bit interested in the swedish tanks.
+   (ID: 46cde0a7d09b0d21cec2da281fda676d6950da60)
+
+14. I'm interested in gifts and charity.
+   (ID: 7921460db376d8f318b71729dcd4931f12a1d0c9)
+
+15. i ' d kinda be interested to see what boa would do in luffy ' s body ?
+   (ID: 8712de543372bc5f398d43ea5b918c85efc5dda7)
+
+16. I'm interested in personality.
    (ID: 6ea82786a74ccdc85dc1fddd809a575aa4e4efcf)
 
-20. I'm interested in premed.
-   (ID: 08c0532c5e9b4c1272d1faf5af748d761625424a)
+17. i have dbha treecko , i ' m interested in your dbha shiny male starly . if that ' s not a fair trade , i understand , but starly is one of my favorites from gen digit .
+   (ID: 9b58219d8f43f5aa6e34770c7b9c7896c88c8fe7)
+
+18. I'm interested in bread.
+   (ID: 3ad18913fe75fd4a63c4ae0d0255c37d90fd7144)
+
+19. I'm interested in smoking and tobacco.
+   (ID: 7f37146b5301f541de969be8882a7963d3ad1298)
+
+20. simply ask ,  hey , do you wanna go out ?  guys don  t wanna make assumptions about your intentions and look bad , especially in a society where a guy can be criminalized for being interested in a woman . a shy guy will absolutely not take that risk , so if you  re interested , you should let him know .
+   (ID: e09cddf2452184c83537d2d4e8a36f0ba7c3fae9)
 
 
 ============================================================

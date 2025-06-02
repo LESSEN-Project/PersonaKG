@@ -212,7 +212,7 @@ def run_single_trial(vectorization, sample_size, n_clusters, linkage, metric,
     analyzer.output_dir = trial_dir
     
     # Load personas
-    personas_dict = analyzer.load_all_personas()
+    personas_dict = analyzer.persona_dataset.load_all_personas()
     
     trial_results = []
     

@@ -1,16 +1,16 @@
 CLUSTER 82
 ============================================================
-Total statements in cluster: 202
-Cluster persistence (stability): 0.694
+Total statements in cluster: 134
+Cluster persistence (stability): 0.785
 
 Dataset distribution in this cluster:
-  FoCus: 27 (13.4%)
-  MPChat: 4 (2.0%)
-  MSC: 29 (14.4%)
-  PEC: 112 (55.4%)
-  PER-CHAT: 12 (5.9%)
-  PersonaChat: 15 (7.4%)
-  SyntheticPersonaChat: 3 (1.5%)
+  FoCus: 4 (3.0%)
+  MPChat: 26 (19.4%)
+  MSC: 4 (3.0%)
+  PEC: 71 (53.0%)
+  PER-CHAT: 19 (14.2%)
+  PersonaChat: 6 (4.5%)
+  SyntheticPersonaChat: 4 (3.0%)
 
 ============================================================
 
@@ -18,313 +18,262 @@ SAMPLE STATEMENTS FROM EACH DATASET:
 
 
 --- FoCus ---
-Total from this dataset: 27
+Total from this dataset: 4
 
-1. I like permanent collection.
-   (ID: GG3IBG4SOHXX_11)
+1. When I went to Singapore I visited the Old Tao Nan School.
+   (ID: DRM1SE0OKXLR_9)
 
-2. I like English Heritage.
-   (ID: W67GZU3ZXI46_9)
+2. I have a painting in my home drawn in the year 1951.
+   (ID: TBZIWSGJCM17_11)
 
-3. I like to Military sites.
-   (ID: IT6VB2V6HCEE_9)
+3. I visited Frankford last year.
+   (ID: HK4CNKBL5R5V_11)
 
-4. I like Eastchester Road.
-   (ID: EI53JQVYRP0R_11)
-
-5. I would like to go to North Carolina.
-   (ID: G6QWKZ4CTWVW_11)
-
-6. I like scientific interest sites.
-   (ID: HWMW6AUW4UTK_11)
-
-7. I like Kongsvoll Alpine Garden.
-   (ID: TB8HHXAP822G_11)
-
-8. I like wedding venue.
-   (ID: N14O6VGOOR7E_11)
-
-9. I like ancient Romans.
-   (ID: 6Y1JUDZSPANM_9)
-
-10. I like Native Americans.
-   (ID: JTUKE03HZYSY_11)
-
-11. I would like to worship in a church.
-   (ID: G1IQ2JHFB47F_11)
-
-12. I would like to join the navy.
-   (ID: TGZJNX488SLV_11)
-
-13. I would like to take a holy dip in Yamuna which is a tributary of Ganges.
-   (ID: NK6WLDJ7W255_7)
-
-14. I do not like French Gothic.
-   (ID: 9IFEU12EAOWB_11)
-
-15. I would like to walk through a dock.
-   (ID: F91BK688K9G1_11)
-
-16. I like visiting squares in towns or cities.
-   (ID: 8YLU8P5G0EHM_11)
-
-17. I do not like modern scenery.
-   (ID: G0MQSJ1XOT71_11)
-
-18. I like public utilities.
-   (ID: VHMWBMQSDD2I_9)
-
-19. I like street.
-   (ID: FOZE4Q84M3RX_11)
-
-20. I would like to have a gold ingot.
-   (ID: QHSLQKPUYCXD_11)
+4. I have visited Soap Lake last year.
+   (ID: E6FC9U7LUUT3_11)
 
 
 --- MPChat ---
-Total from this dataset: 4
+Total from this dataset: 26
 
-1. "excuse me... i'd like to squeeze myself under this chair"
-   (ID: HobbitLass)
+1. old photo i took last year but still beautiful!
+   (ID: Foolz_Go1d)
 
-2. like should i separate it/what are the plants?
-   (ID: zonumnire)
+2. my old lady deciding that her cuddles are more important than my wip
+   (ID: fishgoose)
 
-3. do you like my deer?
-   (ID: cuppcatt)
+3. old river grain loader i found last week
+   (ID: GamblinGambit)
 
-4. he waits like this while i'm handling business.
-   (ID: BananaPeelSlippers)
+4. last year i planted white, pink, and purple.
+   (ID: stonegiant4)
+
+5. i scored an old gas kiln
+   (ID: Spicy_McHagg1s)
+
+6. sour cherry caramels- i'm making all of my christmas gifts this year.
+   (ID: hensandchicas)
+
+7. for easter this year i have painted chicken eggs again.
+   (ID: gelimausi)
+
+8. my freshly shaved old lady with her amazing eyes
+   (ID: fishgoose)
+
+9. first pic is after i'd cut away some of the old pot it had cracked through already!
+   (ID: insertnamehere02)
+
+10. end of the year project finished for my son, to catch all his bad dreams :)
+   (ID: Winter246)
+
+11. yes, i am very late on this trend which was all over instagram last year!
+   (ID: justcook_byangel)
+
+12. starting to build up inventory for a halloween street fair i have a table in every year.
+   (ID: Sophie74656)
+
+13. here's a slab-built sake and sushi set i made last year
+   (ID: earthbender_pottery)
+
+14. designed and assisted by my 6 year old buddy.
+   (ID: switchbladesally)
+
+15. my 9 & 4 yr old made theor first cake together.
+   (ID: castaneda2912)
+
+16. it took almost the whole year, but finally i can relax
+   (ID: Nolon)
+
+17. my 20 month old son helped put away the dishes.... this is my cutlery drawer.
+   (ID: JMango)
+
+18. bolts that held my parents old porch.
+   (ID: SliverCobain)
+
+19. my first christmas card i made this year, which i will send.
+   (ID: gelimausi)
+
+20. i have now made enough gouda to last a whole year .
+   (ID: 5ittingduck)
 
 
 --- MSC ---
-Total from this dataset: 29
+Total from this dataset: 4
 
-1. I like Liverpool for the Premiere League but Atlanta for MLS.
-   (ID: dialog_171_speaker_2)
+1. My brother is in school and doesn't have much money. My brother is on Facebook. There is a 10 year reunion being planned between Speaker 1, 2 and the brother.
+   (ID: dialog_231_speaker_1)
 
-2. I am like circle.
-   (ID: dialog_153_speaker_1)
+2. I'm one year older than 28.
+   (ID: dialog_41_speaker_1)
 
-3. I like soothing images.
-   (ID: dialog_160_speaker_1)
+3. I fixed my old Bronco.
+   (ID: dialog_33_speaker_2)
 
-4. I like Katy Perry. I am eagerly anticipating the next album by Katy Perry.
-   (ID: dialog_88_speaker_1)
-
-5. I like other drinks over mojitos.
-   (ID: dialog_2_speaker_2)
-
-6. I like Kane Brown.
-   (ID: dialog_207_speaker_1)
-
-7. I like beats.
-   (ID: dialog_114_speaker_2)
-
-8. I do not like pizza.
-   (ID: dialog_149_speaker_2)
-
-9. I like green.
-   (ID: dialog_207_speaker_2)
-
-10. I am free on the weekends. I like zombies. I like exotic meats.
-   (ID: dialog_119_speaker_1)
-
-11. I like mountains.
-   (ID: dialog_49_speaker_1)
-
-12. I like in a neighborhood full of celebrities.
-   (ID: dialog_184_speaker_2)
-
-13. I like balls.
-   (ID: dialog_207_speaker_2)
-
-14. I like to be in charge.
-   (ID: dialog_84_speaker_2)
-
-15. I do not have any pets. I would like to have a German Shapherd.
-   (ID: dialog_141_speaker_1)
-
-16. I like to be clean.
-   (ID: dialog_6_speaker_2)
-
-17. I like consuming salty rod shaped snacks.
-   (ID: dialog_19_speaker_1)
-
-18. I like to walk pets.
-   (ID: dialog_84_speaker_1)
-
-19. I like the tone of cash.
-   (ID: dialog_158_speaker_1)
-
-20. I like the theatrical showing of richard gere and julia roberts.
-   (ID: dialog_155_speaker_2)
+4. My dogs are both 2 months old.
+   (ID: dialog_13_speaker_1)
 
 
 --- PEC ---
-Total from this dataset: 112
+Total from this dataset: 71
 
-1. i do n't like that mouth .
-   (ID: cometparty)
+1. i have a 20/25 year old tv , display says brt2 .
+   (ID: harumpf)
 
-2. i would act like one of them .
-   (ID: Bananafoofoofwee)
+2. i have 0 finals this year even though i 'm in 3 ap classes
+   (ID: swaggy_butthole)
 
-3. i ’d like one but idk what it is
-   (ID: alicepalmbeach)
+3. i resubed after about a year of inactivity , and i am loving every freaking second of it .
+   (ID: bestform)
 
-4. i am from zurich and i would like to object
+4. i ate old diablo and shat out his remains .
+   (ID: randominternetdood)
+
+5. i 'm a 19 year old girl and old men always approach me for dates .
+   (ID: sillylionface)
+
+6. i went to ghana this past year , absolutely amazing
+   (ID: iam1r7)
+
+7. i would trust my 4 year olds eggs over that machine
+   (ID: Captain_-H)
+
+8. i was born on the year it came out .
+   (ID: ChallengeTaken99)
+
+9. i had someone pay at my old job with these a year ago .
+   (ID: jennbunny08)
+
+10. i have been on the fence about buying a rig for over a year .
+   (ID: Batman_MD)
+
+11. i honestly doubt it with seager coming back this year .
+   (ID: glowinthedark)
+
+12. i 'm old , might not be appropriate .
+   (ID: DickieJohnson)
+
+13. i was never very flexible , and it 's gotten much worse in my old age .
+   (ID: cheesehuahuas)
+
+14. i am not ok with my 6 month old son staying overnight at his grandparents house .
+   (ID: jennbunny08)
+
+15. i reckon the 10-year old rioja wo n't be too hard , you can start with that .
    (ID: futurespice)
 
-5. i have a program like this that uses a subdivided quadrilateral grid .
-   (ID: Unknown_nam3)
+16. i immediately pictured you as a 5 year old kid with a tail teleporting around the school w ....
+   (ID: YuseiAkask)
 
-6. i 'm trolling and i 'm serious so take it how you like .
-   (ID: amirman)
+17. i am a 23 year old male who likes to be active and be outdoors .
+   (ID: AgedTwenties)
 
-7. i like pawn stars , no shame in it .
-   (ID: pyro2927)
+18. i 'm currently in my junior year of high school and plan to attend university in japan .
+   (ID: YuseiAkask)
 
-8. i weep like a manchild everytime .
-   (ID: Darth_Waiter)
+19. i am however prompted when logging in through old.reddit.com which indicates that my user profile is setup correctly .
+   (ID: Ashex)
 
-9. i might like it more if you kept it on .
-   (ID: KikAtWorkFL)
-
-10. i like where this is heading .
-   (ID: KikAtWorkFL)
-
-11. i like to grab those hips
-   (ID: dawgreddit2014)
-
-12. i like to pretend i 'm not like him even though i do drink .
-   (ID: buttercup_mauler)
-
-13. i like how they re smiling
-   (ID: Sir_Gunner)
-
-14. i like him hat
-   (ID: opalskys)
-
-15. i had to put it down like ol yeller
-   (ID: ProJokeExplainer)
-
-16. i do n't like combat .
-   (ID: CuriousBlueAbra)
-
-17. i do n't like pants
-   (ID: alextound)
-
-18. i ’d take a hug like that from leo .
-   (ID: sherry2012)
-
-19. i do n't like pokémon , but i find this so adorable .
-   (ID: Bathysphere710)
-
-20. i 'd like to fight him
-   (ID: AzHighways)
+20. i cut off my ndad completely a year ago , no regrets , no worries .
+   (ID: RelaxedSociety)
 
 
 --- PER-CHAT ---
-Total from this dataset: 12
+Total from this dataset: 19
 
-1. " you lesserminded pigs " like we are your grandsons you idiots
-   (ID: c863a7172df41853f354be7adff4b3f9a0cb9736)
+1. you are an old one !
+   (ID: b96c88b2d5cfdbde4b305fd9da23bc684edbb6a0)
 
-2. you seem like you have fluid retention , but it ' s not evident because you clearly are so full of yourself .
-   (ID: c813c36bca44bc01c2d3bd131f4f642cf9d9b6d1)
+2. I own a year resolution.
+   (ID: c4dd014917cb9f6657eb79179ac09bf821575d80)
 
-3. am i the only one that find it so annoying with that o , like , why ?
-   (ID: 5a15ba0aaa5a6e6f9e3a2db25befda6ec40a9b88)
+3. how old are you ?
+   (ID: 9d1b3fafafa63d6ec9712c98a0c16b4cc697d112)
 
-4. to quote something , put    in front of it . like this ?
-   (ID: 5f75c9b696f1ea78d1a7d21e5a6d5dd1c9391b14)
+4. how do you not have them stop working ? my connections always break after a year or so .
+   (ID: 7008f149db59fea91167255eafa8bc84beab0f01)
 
-5. the martian had so much potential but was such a letdown for me . almost every actor seemed like they ' d rather be somewhere else .
-   (ID: 005d28ee4e007860b869be509fe8dfdf5c402505)
+5. nohing happened because gay incest doesn ' t lead to babies , in the next year when we met though , my cousin wanted more of that
+   (ID: 4f26e00e0769f7123ce8a1a0d11a5e285c445ec3)
 
-6. like willy wonka ' s factory with less murder , and more shenanigans .
-   (ID: 30572ac5982532854b2ead41285ed9bbaba6d654)
+6. why ? it ' s a fair question . most old movies sucks .
+   (ID: 8784cd4227a610d9cbb51480d635b44be1d31e8c)
 
-7. please illuminate me to the meaning of this . is it like yesn ' t ?
-   (ID: 4972a31c1a3df007d761e27a613a3b6a99c3a0ca)
+7. I am year younger than bebop.
+   (ID: a63ea1e6bf1e972229635648a0b3371aeddb4f3d)
 
-8. i like how it ' s in colour
-   (ID: af7909c19fea28cadcabd2f3b93c831e3c684dad)
+8. not giving a shit in school since sophomore year of highschool .
+   (ID: bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809)
 
-9. from someone of the gender you like  hi
-   (ID: 7424e4821daf78f7a38983c3e1a291ee7ce757d2)
+9. the year is still young , i can find a guy and get married before it ends .
+   (ID: 3b1e3cf14f6a566c4f731ae09429e3bbfd3a1bfc)
 
-10. booboo ? was that like ubu ' s evil doppelganger or something ?
-   (ID: af0db6dfe4be67a6b6915437597ea564bbb33830)
+10. yeah , but the largest reason for wet dreams is that your body has produced more semen than it needs , it then has to get rid of the old semen by disposing of it . sending it through to the penis
+   (ID: b5bfc53fa7245451bad229f942e351fdc7360321)
 
-11. also , what language would you like the mewtwo to be ?
-   (ID: c956c3bf88cce2d3de1fc9f4d4a6e7b082a20dbb)
+11. old habits die hard
+   (ID: 4721143ecfe877298792b1d44e635051f5f2c84e)
 
-12. i do like the lay out of this one th most
-   (ID: bdf7e254fb732651bb0373067c57200731f7ca55)
+12. so it wouldnt be dorment the rrst of the year , maybe add some rules where it can be asshole parents complaining about how all their holidays are ruined or even their kids birthdays
+   (ID: 44eba9a0cf089ec615a77db5d42a2c01b63cb259)
+
+13. my old history teacher was fired for making the kids fill out a sexual orientation survey for no reason .
+   (ID: 533870e07f5d5bb315a9e1e8278df4d123d8a887)
+
+14. how old are you ? do you have a spouse and  or kids ? if you ' re young and not responsible for others quit worrying so much and buy the bike .
+   (ID: 87c36486c06d7817d144949c2e91384c5b196a07)
+
+15. krusty the clown hairdo is in this year
+   (ID: 0e1406b3a5b6031911de9279cf70144f8f1d9136)
+
+16. basically every old case without dna samples .
+   (ID: e129c266eeb21d4eb629324bbd10e7247660660b)
+
+17. what ' s with that weird year limitation ?
+   (ID: 54182f6e08cc212d89e66f7640449d6fa9717bd9)
+
+18. that moment when you learn keemsyar himself is also a nine year old
+   (ID: 9ec97fcc6f16d54d7e24ba1cdb5ebe5785854536)
+
+19. bruh imma be a bad kid next year if that  s what the pizza diary is giving out
+   (ID: 787f4a3fe31691883105c973a6b8e3df9df1436e)
 
 
 --- PersonaChat ---
-Total from this dataset: 15
+Total from this dataset: 6
 
-1. i like to bowl .
-   (ID: conversation_449)
+1. i start an internship in engineering later this year .
+   (ID: conversation_50)
 
-2. i like to travel .
-   (ID: conversation_9)
+2. i travel every year to disney world .
+   (ID: conversation_458)
 
-3. i like basketball .
-   (ID: conversation_8)
+3. i go to at least 10 concerts a year .
+   (ID: conversation_13)
 
-4. i like to smell my own farts .
-   (ID: conversation_495)
+4. i am traveling to paris this year for my vacation .
+   (ID: conversation_468)
 
-5. i like to cook .
-   (ID: conversation_17)
+5. i had 128 tackles last year .
+   (ID: conversation_473)
 
-6. i still like unicorns even though i m an adult .
-   (ID: conversation_390)
-
-7. i like to party .
-   (ID: conversation_7)
-
-8. i do not like beer .
-   (ID: conversation_198)
-
-9. i like to paint .
-   (ID: conversation_60)
-
-10. i still like combat boots with babydoll dresses .
-   (ID: conversation_257)
-
-11. i like vintage furniture .
-   (ID: conversation_355)
-
-12. i like to get involved in politics .
-   (ID: conversation_214)
-
-13. i like to go hunting .
-   (ID: conversation_0)
-
-14. i like to remodel homes .
-   (ID: conversation_0)
-
-15. i do not like green eggs and ham .
-   (ID: conversation_107)
+6. i am a french girl , but i moved to the us last year .
+   (ID: conversation_354)
 
 
 --- SyntheticPersonaChat ---
-Total from this dataset: 3
+Total from this dataset: 4
 
-1. I like to bake for them.
-   (ID: conversation_193_user_2)
+1. I have an 18 year old son.
+   (ID: conversation_191_user_1)
 
-2. I like to attend wine tours.
-   (ID: conversation_113_user_2)
+2. I have made over 90 , 000 on trifecta bets alone this year.
+   (ID: conversation_248_user_2)
 
-3. I like to race go carts.
-   (ID: conversation_551_user_2)
+3. I have went to mexico 4 times this year.
+   (ID: conversation_496_user_1)
+
+4. This is my second year in the league.
+   (ID: conversation_219_user_2)
 
 
 ============================================================
