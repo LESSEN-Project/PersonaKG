@@ -1,5 +1,4 @@
 {
-  "nodes": {
     "Persona": {
       "properties": {
         "first_name": {"type": "str"},
@@ -101,8 +100,8 @@
             }
           }
         },
-        "HAS_TRAIT": {
-          "target": "Trait",
+        "HAS_PERSONALITY_TRAIT": {
+          "target": "PersonalityTrait",
           "cardinality": "many",
           "properties": {
             "status": {
@@ -175,7 +174,7 @@
             "end_date": "str"
           }
         },
-        "ENGAGED_IN": {
+        "HAS_ACTIVITY": {
           "target": "Activity",
           "cardinality": "many",
           "properties": {
@@ -186,16 +185,6 @@
             "frequency": {
               "type": "str",
               "enum": ["rarely", "sometimes", "often", "daily", "multiple times daily"]
-            }
-          }
-        },
-        "INTERESTED_IN": {
-          "target": "Activity",
-          "cardinality": "many",
-          "properties": {
-            "status": {
-              "type": "str",
-              "enum": ["current", "past"]
             },
             "level_of_interest": {
               "type": "str",
@@ -259,6 +248,18 @@
             "importance": {
               "type": "str",
               "enum": ["very high", "high", "medium", "low"]
+            },
+            "sentiment": {
+              "type": "str",
+              "enum": ["positive", "neutral", "negative"]
+            },
+            "time_period": {
+              "type": "str",
+              "enum": ["childhood", "teenage", "young_adult", "adult", "elderly"]
+            },
+            "LOCATED_IN_CITY": {
+              "target": "City",
+              "cardinality": 1
             }
           }
         },
@@ -269,199 +270,214 @@
             "importance": {
               "type": "str",
               "enum": ["very high", "high", "medium", "low"]
+            },
+            "target_date": "str",
+            "term": {
+              "type": "str",
+              "enum": ["short_term", "medium_term", "long_term"]
+            },
+            "TARGETS_SKILL": {"target": "Skill", "cardinality": "many"},
+            "TARGETS_PERSONALITY_TRAIT": {"target": "PersonalityTrait", "cardinality": "many"},
+            "TARGETS_HABIT": {"target": "Habit", "cardinality": "many"},
+            "TARGETS_PREFERENCE": {"target": "Preference", "cardinality": "many"},
+            "TARGETS_LIFE_EVENT": {"target": "LifeEvent", "cardinality": "many"},
+            "TARGET_OCCUPATION": {"target": "Occupation", "cardinality": "many"},
+            "TARGET_RESIDENCE": {"target": "City", "cardinality": "many"}
+          }
+        },
+        "HAS_PERSONA_REFLECTION": {
+          "target": "PersonalReflection",
+          "cardinality": "many",
+          "properties": {
+            "importance": {
+              "type": "str",
+              "enum": ["very high", "high", "medium", "low"]
+            },
+            "sentiment": {
+                "type": "str",
+                "enum": ["positive", "neutral", "negative", "mixed"]
+            },
+            "time_reference": {
+                "type": "str",
+                "enum": ["past", "present", "future", "general"]
+            },
+            "LOCATED_IN_CITY": {
+                "target": "City",
+                "cardinality": "many"
+            },
+            "MENTIONS_FAMILY_MEMBER": {
+                "target": "Persona",
+                "cardinality": "many"
+            },
+            "MENTIONS_PERSONALITY_TRAIT": {
+                "target": "PersonalityTrait",
+                "cardinality": "many"
+            },
+            "MENTIONS_VALUE": {
+                "target": "Value",
+                "cardinality": "many"
             }
           }
         }
       }
     },
-    "Occupation": {
-      "properties": {
-        "name": "str",
-        "title": "str"
-      },
-      "edges": {
-        "INDUSTRY": {"target": "Industry", "cardinality": 1},
-        "LOCATED_IN_CITY": {"target": "City", "cardinality": 1},
-        "LOCATED_IN_COUNTRY": {"target": "Country", "cardinality": 1}
-      }
+  "Occupation": {
+    "properties": {
+      "name": "str",
+      "title (official position)": "str"
     },
-    "Industry": {
-      "properties": {
-        "name": "str"
-      }
+    "edges": {
+      "INDUSTRY": {"target": "Industry", "cardinality": 1},
+      "LOCATED_IN_CITY": {"target": "City", "cardinality": 1},
+      "LOCATED_IN_COUNTRY": {"target": "Country", "cardinality": 1}
+    }
+  },
+  "Industry": {
+    "properties": {
+      "name": "str"
+    }
+  },
+  "City": {
+    "properties": {
+      "name": "str"
     },
-    "City": {
-      "properties": {
-        "name": "str"
-      },
-      "edges": {
-        "LOCATED_IN_COUNTRY": {"target": "Country", "cardinality": 1}
+    "edges": {
+      "LOCATED_IN_COUNTRY": {"target": "Country", "cardinality": 1}
+    }
+  },
+  "Country": {
+    "properties": {
+      "name": "str"
+    }
+  },
+  "Language": {
+    "properties": {
+      "name": "str"
+    }
+  },
+  "PersonalityTrait": {
+    "properties": {
+      "name": "str"
+    }
+  },
+  "HealthIssue": {
+    "properties": {
+      "name": "str"
+    }
+  },
+  "Skill": {
+    "properties": {
+      "name": "str"
+    }
+  },
+  "School": {
+    "properties": {
+      "name": "str",
+      "category": {
+        "type": "str",
+        "enum": ["high school", "college", "university"]
       }
-    },
-    "Country": {
-      "properties": {
-        "name": "str"
+    }
+  },
+  "Activity": {
+    "properties": {        
+      "name": "str"
+    }
+  },
+  "Belief": {
+    "properties": {        
+      "name": "str",
+      "category": {
+        "type": "str",
+        "enum": [
+          "political",
+          "religious",
+          "environmental",
+          "ethical",
+          "cultural",
+          "other"
+        ]
       }
-    },
-    "Language": {
-      "properties": {
-        "name": "str"
+    }
+  },
+  "Value": {
+    "properties": {
+      "name": "str"
+    }
+  },
+  "Habit": {
+    "properties": {       
+      "name": "str",
+      "category": {
+        "type": "str",
+        "enum": [
+          "daily routine",
+          "diet",
+          "tech usage",
+          "exercise",
+          "sleep",
+          "leisure",
+          "work",
+          "other"
+        ]
       }
-    },
-    "Trait": {
-      "properties": {
-        "name": "str",
-        "description": "str"
+    }
+  },
+  "Preference": {
+    "properties": {   
+      "name": "str",
+      "category": {
+        "type": "str",
+        "enum": [
+          "food",
+          "clothing",
+          "music",
+          "media",
+          "brand",
+          "travel",
+          "lifestyle",
+          "other"
+        ]
+      }      
+    }
+  },
+  "LifeEvent": {
+    "properties": {     
+      "title": "str",
+      "category": {
+        "type": "str",
+        "enum": ["information", "milestone", "memory", "experience", "achievement", "trauma", "other"]
       }
-    },
-    "HealthIssue": {
-      "properties": {
-        "name": "str",
-        "description": "str"
+    }
+  },
+  "FuturePlan": {
+    "properties": {
+      "title": "str",
+      "category": {
+        "type": "str",
+        "enum": [
+          "career",
+          "education",
+          "travel",
+          "residence",
+          "relationship",
+          "personal_development",
+          "health",
+          "financial",
+          "other"
+        ]
       }
-    },
-    "Skill": {
-      "properties": {
-        "name": "str",
-        "description": "str"
-      }
-    },
-    "School": {
-      "properties": {
-        "name": "str",
-        "category": {
-          "type": "str",
-          "enum": ["high school", "college", "university"]
-        }
-      }
-    },
-    "Activity": {
-      "properties": {        
-        "name": "str",
-        "description": "str"
-      }
-    },
-    "Belief": {
-      "properties": {        
-        "name": "str",
-        "category": {
-          "type": "str",
-          "enum": [
-            "political",
-            "religious",
-            "environmental",
-            "ethical",
-            "cultural",
-            "other"
-          ]
-        },
-        "description": "str"
-      }
-    },
-    "Value": {
-      "properties": {
-        "name": "str",
-        "description": "str"
-      }
-    },
-    "Habit": {
-      "properties": {       
-        "name": "str",
-        "category": {
-          "type": "str",
-          "enum": [
-            "daily routine",
-            "diet",
-            "tech usage",
-            "exercise",
-            "sleep",
-            "leisure",
-            "work",
-            "other"
-          ]
-        },
-        "description": "str"
-      }
-    },
-    "Preference": {
-      "properties": {   
-        "name": "str",
-        "category": {
-          "type": "str",
-          "enum": [
-            "food",
-            "clothing",
-            "music",
-            "media",
-            "brand",
-            "travel",
-            "lifestyle",
-            "other"
-          ]
-        },
-        "description": "str"
-      }
-    },
-    "LifeEvent": {
-      "properties": {     
-        "title": "str",
-        "description": "str",
-        "category": {
-          "type": "str",
-          "enum": ["milestone", "memory", "experience", "achievement", "trauma", "other"]
-        },
-        "sentiment": {
-          "type": "str",
-          "enum": ["positive", "neutral", "negative"]
-        },
-        "time_period": {
-          "type": "str",
-          "enum": ["childhood", "teenage", "young_adult", "adult", "elderly"]
-        }
-      },
-      "edges": {
-        "LOCATED_IN_CITY": {
-          "target": "City",
-          "cardinality": 1
-        }
-      }
-    },
-    "FuturePlan": {
-      "properties": {
-        "title": "str",
-        "description": "str",
-        "category": {
-          "type": "str",
-          "enum": [
-            "career",
-            "education",
-            "travel",
-            "residence",
-            "relationship",
-            "personal_development",
-            "health",
-            "financial",
-            "other"
-          ]
-        },
-        "target_date": "str",
-        "term": {
-          "type": "str",
-          "enum": ["short_term", "medium_term", "long_term"]
-        },
-        "importance": {
-          "type": "str",
-          "enum": ["very_high", "high", "medium", "low"]
-        }
-      },
-      "edges": {
-        "TARGETS_SKILL": {"target": "Skill", "cardinality": "many"},
-        "TARGETS_TRAIT": {"target": "Trait", "cardinality": "many"},
-        "TARGETS_HABIT": {"target": "Habit", "cardinality": "many"},
-        "TARGETS_PREFERENCE": {"target": "Preference", "cardinality": "many"},
-        "TARGETS_LIFE_EVENT": {"target": "LifeEvent", "cardinality": "many"},
-        "TARGET_OCCUPATION": {"target": "Occupation", "cardinality": "many"},
-        "TARGET_RESIDENCE": {"target": "City", "cardinality": "many"}
+    }
+  },
+  "PersonalReflection": {
+    "properties": {
+      "content": "str",  
+      "type": {
+        "type": "str",
+        "enum": [
+          "wish", "regret", "pride", "gratitude", "life_lessons", 
+          "nostalgia", "hope", "self_assessment", "background_fact", "other"
+        ]
       }
     }
   }

@@ -1,0 +1,4330 @@
+{
+  "PersonaChat": [
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "remodeling",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "hunting",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "archery",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "halloween",
+            "category": "holiday",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "id": "07558a11a1c396366b13d82cc4cfd481fd08e724761e819bf88255920d33be1b",
+        "dataset_id": "conversation_0",
+        "dataset": "PersonaChat",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "you must be very fast . hunting is one of my favorite hobbies .",
+          "i also remodel homes when i am not out bow hunting .",
+          "that's awesome . do you have a favorite season or time of year ?",
+          "what is your favorite meat to eat ?",
+          "i like chicken or macaroni and cheese .",
+          "i am going to watch football . what are you canning ?"
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "num_children": 4,
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "closeness": "very close",
+            "target": {
+              "first_name": "mom"
+            }
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "name": "mermaids are real"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "iced tea"
+          }
+        ],
+        "id": "369a07b77000719ce5fdc44da6d80ec1cfb8a55d7e13ac7ae0b7ca916cdefc6b",
+        "dataset_id": "conversation_1",
+        "dataset": "PersonaChat",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "i am spending time with my 4 sisters what are you up to",
+          "that is a good show i watch that while drinking iced tea",
+          "i'm a researcher i'm researching the fact that mermaids are real",
+          "that's cool my mom does the same thing",
+          "tell me more about yourself",
+          "i enjoy hanging with my mother she's my best friend"
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_OCCUPATION": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "Occupation": {
+              "name": "comedian",
+              "title (official position)": "stand up comedian"
+            }
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "status": "current",
+            "frequency": "rarely",
+            "level_of_interest": "medium",
+            "Activity": {
+              "name": "acting"
+            }
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "status": "current",
+            "strength": "medium",
+            "Preference": {
+              "name": "cuba libre",
+              "category": "food"
+            }
+          }
+        ],
+        "id": "cb81ffc060530b103b757dc29881bcebdeb383ee9d13c2e0595a4f9ffc6a8883",
+        "dataset_id": "conversation_2",
+        "dataset": "PersonaChat",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "hi ! that is a great line for my next stand up .",
+          "i can tell . i am not , you can see me in some tv shows",
+          "wow , i wish i had a big family . i grew up in a very small town .",
+          "just drink some cola with rum and you'll forget about them !",
+          "nah , plain cuba libre , that's what we drank yesterday at the theater ."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "bicycling",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "carrots",
+            "category": "food",
+            "status": "current",
+            "strength": "high"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "athletic",
+            "status": "current",
+            "strength": "high"
+          }
+        ],
+        "id": "14a91ef24da7b466ba9b8bf80f6eeaa2dd875ef0ee6e742e081e244965af31e0",
+        "dataset_id": "conversation_3",
+        "dataset": "PersonaChat",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "i don't like carrots . i throw them away .",
+          "i also cook , and i ride my bike to work .",
+          "my contacts can see through what you are trying to sell me .",
+          "you better not make any spelling mistakes .",
+          "what is your ethnicity ? i'm white , and my hair is brown .",
+          "i love hairless asians . do you like carrots ?",
+          "are you male or female ?"
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_HABIT": [
+          {
+            "name": "meat eating",
+            "category": "diet",
+            "status": "current"
+          }
+        ],
+        "HAS_SKILL": [
+          {
+            "name": "guitar playing",
+            "status": "current",
+            "level_of_expertise": "intermediate"
+          }
+        ],
+        "HAS_OCCUPATION": [
+          {
+            "name": "welding",
+            "title (official position)": "welder",
+            "status": "current"
+          }
+        ],
+        "id": "6a8e8a6cf2634e7e8effaf5b7ffae900ce9e4a411076768f2c35cd066efd77ab",
+        "dataset_id": "conversation_4",
+        "dataset": "PersonaChat",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "what do you do for career ? i have a ton of hobbies if you are interested !",
+          "i actually play guitar and do a lot of manly things , like welding .",
+          "everything ! i am actually manly . but i've a secret i am hiding .",
+          "my parents don't know that i'm . . . homosexual .",
+          "makes me secure with my manly hobby skills .",
+          "anyway . what do you do ?"
+        ]
+      }
+    }
+  ],
+  "SyntheticPersonaChat": [
+    {
+      "Persona": {
+        "age": 32,
+        "employment_status": "unemployed",
+        "HAS_ACTIVITY": [
+          {
+            "name": "playing video games",
+            "status": "current",
+            "frequency": "daily",
+            "level_of_interest": "high"
+          }
+        ],
+        "id": "6923e39f825f69f9024af3db4d61172f32be6787d9793aeca536454803094544",
+        "dataset_id": "conversation_0_user_1",
+        "dataset": "SyntheticPersonaChat",
+        "dataset_type": "synthetic",
+        "utterances": [
+          "Hi! I'm [user 1's name].",
+          "What do you do for fun?",
+          "I like to play video games too! I'm not much of a reader, though.",
+          "I like to play a lot of different games, but I'm really into competitive online games right now.",
+          "That's cool. What kind of relaxing games do you like to play?",
+          "I've never been much of a puzzle game person, but I do like simulation games and story-based games.",
+          "I like Stardew Valley a lot. It's a farming game, but it's also really relaxing and fun.",
+          "You should! It's a lot of fun.",
+          "That would be fun!",
+          "Ok, sounds good."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_PREFERENCE": [
+          {
+            "Preference": {
+              "name": "iced coffee"
+            },
+            "properties": {
+              "status": "current"
+            }
+          }
+        ],
+        "HAS_SKILL": [
+          {
+            "Skill": {
+              "name": "karate"
+            },
+            "properties": {
+              "status": "current",
+              "level_of_expertise": "advanced"
+            }
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "Activity": {
+              "name": "vacationing"
+            },
+            "properties": {
+              "status": "current",
+              "frequency": "daily",
+              "level_of_interest": "high"
+            }
+          }
+        ],
+        "id": "30abc4f31270384eb7be26d12a2e746f9dc4fb0c3dbe13fdcba7923eaa2f4547",
+        "dataset_id": "conversation_0_user_2",
+        "dataset": "SyntheticPersonaChat",
+        "dataset_type": "synthetic",
+        "utterances": [
+          "Hi [user 1's name], I'm [user 2's name].",
+          "I like to play video games, go to the beach, and read.",
+          "What video games do you like to play?",
+          "I'm not really into competitive games, I like to play more relaxing games.",
+          "I like to play puzzle games, simulation games, and story-based games.",
+          "Nice! What's your favorite simulation game?",
+          "I've heard good things about that game. I might have to check it out.",
+          "Well, I'm glad we met. Maybe we can play some games together sometime.",
+          "Great! I'll send you my Steam name."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "age": 32,
+        "employment_status": "unemployed",
+        "HAS_ACTIVITY": [
+          {
+            "name": "playing video games",
+            "status": "current",
+            "frequency": "daily",
+            "level_of_interest": "high"
+          }
+        ],
+        "id": "7f8f76268e73b322e0b46f20f83d47d71078172dc596a7ee192b3f592cd368c7",
+        "dataset_id": "conversation_1_user_1",
+        "dataset": "SyntheticPersonaChat",
+        "dataset_type": "synthetic",
+        "utterances": [
+          "Hey, how's it going?",
+          "Nice. Me too. I'm playing video games.",
+          "I'm playing Call of Duty: Warzone.",
+          "It's a battle royale game. You drop into a map with 150 other players and you have to be the last one standing.",
+          "You should. It's a lot of fun.",
+          "I like to watch movies and TV shows.",
+          "I like action movies and TV shows. I also like comedy movies and TV shows.",
+          "So, what are some of your favorite movies and TV shows?",
+          "Me too! I love the Fast and Furious movies and the Marvel Cinematic Universe.",
+          "I love The Walking Dead. I also love Game of Thrones.",
+          "So, what are you doing this weekend?",
+          "I'm not sure either. Maybe we could hang out?",
+          "Great! I'll call you later to set up a time."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_PREFERENCE": [
+          {
+            "Preference": {
+              "name": "ford",
+              "category": "brand"
+            },
+            "status": "current"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "Activity": {
+              "name": "driving"
+            },
+            "status": "current"
+          }
+        ],
+        "id": "30011a7071122f7280b4c6c3c4bb5d1ba10d1296e23a9ac6acf7ddb80dbfe02d",
+        "dataset_id": "conversation_1_user_2",
+        "dataset": "SyntheticPersonaChat",
+        "dataset_type": "synthetic",
+        "utterances": [
+          "Good, I'm just hanging out.",
+          "Oh, cool. I like video games. What are you playing?",
+          "Oh, I've never played that one. What's it like?",
+          "Oh, that sounds fun. I'll have to check it out.",
+          "So, what else do you like to do?",
+          "Me too. What kind of movies and TV shows do you like?",
+          "Me too. I love action movies and TV shows.",
+          "I love the Fast and Furious movies. I also love the Marvel Cinematic Universe.",
+          "What are your favorite TV shows?",
+          "Me too! I love The Walking Dead and Game of Thrones.",
+          "I'm not sure yet. What are you doing?",
+          "That sounds fun. Let's do it."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "age": 32,
+        "HAS_ACTIVITY": [
+          {
+            "name": "video gaming",
+            "status": "current",
+            "frequency": "daily",
+            "level_of_interest": "very high"
+          }
+        ],
+        "HAS_HABIT": [
+          {
+            "name": "eating take out",
+            "status": "current",
+            "frequency": "daily"
+          }
+        ],
+        "employment_status": "unemployed",
+        "id": "8c7f6f68e28080c1c4aae98c6feb18d6a2d59ac98917c7cac3c1a42f185e7810",
+        "dataset_id": "conversation_2_user_1",
+        "dataset": "SyntheticPersonaChat",
+        "dataset_type": "synthetic",
+        "utterances": [
+          "Hi, my name is John. What's your name?",
+          "It's nice to meet you, Mary. What do you do for a living?",
+          "That's really cool. I've always wanted to do some volunteer work, but I've never had the time.",
+          "I will. Thanks for the suggestion.",
+          "I like to play video games. I'm a huge gamer.",
+          "I like to play all kinds of games, but I'm mostly into RPGs and strategy games.",
+          "I know, right? They're the best.",
+          "I like to play a lot of different games, but some of my favorites are the Elder Scrolls series, the Fallout series, and Civilization.",
+          "Me too! They're so good.",
+          "I love the open world and the freedom to do whatever you want.",
+          "Yeah, it's the best.",
+          "I love to explore the world and find new things. I also love to do quests and side quests.",
+          "Yeah, they're so much fun.",
+          "I think my favorite quest is the one where you have to go to the Soul Cairn.",
+          "Yeah, it was so cool.",
+          "I love the atmosphere. It's so creepy and eerie.",
+          "Yeah, it's the best."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_SKILL": [
+          {
+            "name": "reciting",
+            "status": "current",
+            "level_of_expertise": "advanced"
+          },
+          {
+            "name": "sewing",
+            "status": "current",
+            "level_of_expertise": "intermediate"
+          },
+          {
+            "name": "bird calling",
+            "status": "current",
+            "level_of_expertise": "advanced"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "name": "volunteering",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          }
+        ],
+        "HAS_HEALTH_ISSUE": [
+          {
+            "name": "partial blindness",
+            "status": "current",
+            "severity": "moderate"
+          }
+        ],
+        "id": "d62f3028459950f434e1a963d1398f103984d058ff4f94bd3a7ad6440c0a13f5",
+        "dataset_id": "conversation_2_user_2",
+        "dataset": "SyntheticPersonaChat",
+        "dataset_type": "synthetic",
+        "utterances": [
+          "Hi, John, my name is Mary.",
+          "I do volunteer work for human rights organizations.",
+          "You should definitely look into it! It's a great way to give back to the community.",
+          "No problem. So, what do you do for fun?",
+          "Oh, that's cool. I like to play video games too. What games do you like to play?",
+          "Me too! I love RPGs and strategy games. They're so much fun to play.",
+          "So, what are some of your favorite games?",
+          "Oh, I love the Elder Scrolls series! I've played all of them.",
+          "So, what do you like about them?",
+          "Me too! I love that you can just explore and do whatever you want.",
+          "So, what are some of your favorite things to do in the Elder Scrolls games?",
+          "Me too! I love doing quests and side quests.",
+          "So, what's your favorite quest in the Elder Scrolls games?",
+          "Oh, that's a good one. I loved that quest too.",
+          "So, what's your favorite thing about the Soul Cairn?",
+          "Me too! I love the atmosphere."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "writing",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "watching",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_OCCUPATION": [
+          {
+            "name": "mcdonald s",
+            "title (official position)": "worker",
+            "status": "current"
+          }
+        ],
+        "id": "d267d0ed0bda1c830b159da35fb29c7b5a034522614aa5932ef554c5bcb922a8",
+        "dataset_id": "conversation_3_user_1",
+        "dataset": "SyntheticPersonaChat",
+        "dataset_type": "synthetic",
+        "utterances": [
+          "Hi!",
+          "What's up?",
+          "Cool. What do you like to do for fun?",
+          "Nice. I like to write, watch YouTube videos, and listen to music.",
+          "I write poetry, short stories, and essays.",
+          "You should try! It's a lot of fun.",
+          "You don't have to be good enough. Just start writing and see what happens.",
+          "Cool. So, what do you want to do after we graduate?",
+          "I know what you mean. I'm also ready for a change.",
+          "That would be cool! We could be roommates.",
+          "So, what are we waiting for? Let's go pack our bags!"
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_FUTURE_PLAN": [
+          {
+            "target": "FuturePlan",
+            "properties": {
+              "title": "move",
+              "category": "residence",
+              "importance": "medium",
+              "term": "short_term"
+            }
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "target": "PersonalityTrait",
+            "properties": {
+              "name": "insecure"
+            }
+          }
+        ],
+        "HAS_LIFE_EVENT": [
+          {
+            "target": "LifeEvent",
+            "properties": {
+              "title": "mistake",
+              "category": "memory",
+              "importance": "medium",
+              "sentiment": "negative"
+            }
+          }
+        ],
+        "HAS_PERSONA_REFLECTION": [
+          {
+            "target": "PersonalReflection",
+            "properties": {
+              "content": "I don t like my reputation.",
+              "type": "self_assessment",
+              "sentiment": "negative"
+            }
+          }
+        ],
+        "id": "d70bf680d2cfc3fc763faac2bf3f9a0b75dcc6ae454fa15071cf882f015261c9",
+        "dataset_id": "conversation_3_user_2",
+        "dataset": "SyntheticPersonaChat",
+        "dataset_type": "synthetic",
+        "utterances": [
+          "Hey!",
+          "Not much. Just hanging out.",
+          "I like to watch YouTube videos, go to concerts, and read.",
+          "What do you write?",
+          "That's cool. I've always wanted to write a book.",
+          "I'm not sure if I'm good enough.",
+          "I'll think about it.",
+          "I want to move to a new city. I'm tired of living in this one.",
+          "Maybe we can move to the same city.",
+          "That would be fun!",
+          "Haha, okay! I'm ready!"
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "swimming",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "chocolate milk",
+            "category": "food",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "employment_status": "unemployed",
+        "id": "4be7816a63f5704b101e44b9c3adf4f2f42647149882ef1f6d0610e91df4bdde",
+        "dataset_id": "conversation_4_user_1",
+        "dataset": "SyntheticPersonaChat",
+        "dataset_type": "synthetic",
+        "utterances": [
+          "Hello!",
+          "What do you like to do for fun?",
+          "Oh, that's great! I love to swim and go shopping too.",
+          "That would be fun! What's your favorite store?",
+          "Oh, I love that store! I always find great clothes there.",
+          "What kind of clothes do you like to wear?",
+          "Me too! I love how comfortable they are.",
+          "I know, right? I love running. It's so relaxing.",
+          "I know, right? I love how I feel after I've run.",
+          "I know, right? I love waking up early and going for a run."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_PREFERENCE": [
+          {
+            "Preference": {
+              "name": "vegetables",
+              "category": "food"
+            },
+            "status": "past",
+            "strength": "low"
+          }
+        ],
+        "HAS_RELATIONSHIP": [
+          {
+            "Persona": {
+              "type": "family"
+            },
+            "status": "current",
+            "closeness": "close"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "Activity": {
+              "name": "running"
+            },
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          }
+        ],
+        "id": "77dde7a057ce5731bea19d56a341ca987e6a6470e19e12d9aafc6aff72860dcf",
+        "dataset_id": "conversation_4_user_2",
+        "dataset": "SyntheticPersonaChat",
+        "dataset_type": "synthetic",
+        "utterances": [
+          "Hi!",
+          "I love to spend time with my family, go running, and shop.",
+          "That's awesome! We should go shopping sometime.",
+          "My favorite store is American Eagle.",
+          "Me too! They have a great selection of clothes.",
+          "I like to wear casual clothes, like jeans and t-shirts.",
+          "Me too! They're perfect for running.",
+          "Me too! It's a great way to get in shape.",
+          "Me too! It's a great way to start your day.",
+          "Me too! It's the best way to start the day."
+        ]
+      }
+    }
+  ],
+  "MSC": [
+    {
+      "Persona": {
+        "HAS_HABIT": [
+          {
+            "name": "eating meat",
+            "category": "diet",
+            "status": "current",
+            "frequency": "daily"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "name": "running",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "canning",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "whittling",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "jamming",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_HEALTH_ISSUE": [
+          {
+            "name": "ankle fracture",
+            "status": "current",
+            "severity": "moderate"
+          }
+        ],
+        "HAS_FUTURE_PLAN": [
+          {
+            "title": "running a marathon",
+            "category": "personal_development",
+            "importance": "high",
+            "term": "short_term"
+          }
+        ],
+        "HAS_VALUE": [
+          {
+            "name": "old fashioned life skills",
+            "strength": "medium"
+          }
+        ],
+        "id": "7d23e02433a78db6a817a2904761a20621d0f78469ea4570afe279972d626cb4",
+        "dataset_id": "dialog_0_speaker_1",
+        "dataset": "MSC",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "Hi, how are you doing? I'm getting ready to do some cheetah chasing to stay in shape.",
+          "I am! For my hobby I like to do canning or some whittling.",
+          "That's neat. When I was in high school I placed 6th in 100m dash!",
+          "I do not. But I do have a favorite meat since that is all I eat exclusively.",
+          "I would have to say its prime rib. Do you have any favorite foods?",
+          "Do you have anything planned for today? I think I am going to do some canning.",
+          "I think I will can some jam. Do you also play footfall for fun?",
+          "Did you get to do any bow hunting lately?",
+          "Running is going fine. I am preparing for the marathon currently. This will be my first marathon so need to really prepare.",
+          "As it's my first, anything below 4 hours I will be happy with. What animals did you go hunting for so far?",
+          "Unfortunately I never had that in my life. But would love to try. How about you? Do you like it?",
+          "I love meat, that's my favourite food. My wife likes chicken so it's mostly chicken in the house. My wife's recipe, thai chicken with rice is fantastic. What about you? What's your favourite food?",
+          "I cook only during weekends, no energy left after work. But my wife cooks almost every day. You need to send me the recipe for jerk chicken.",
+          "I tried that jerk chicken recipe you sent me, it was very good! ",
+          "That sounds awesome, I do love to eat a lot of meat! Wife wants to try making jerk prime rib, which I think would be pure awesome",
+          "Not recently, I've had to take a pause on my running. I slipped and broke my ankle 5 days ago :(",
+          "I was told 4-6 weeks to recover, but that's ok, I can get some whittling done without having to move around much. Carve up a few figurines :) ",
+          "Indeed! Wife said thank you for the mac and cheese too, she said it was better than hers!",
+          "I'll let her know, she'll love it!",
+          "It's hard to get around the house with a broken ankle!",
+          "Almost a week! It hurts so bad! Really? How did you broke your leg?",
+          "Oh! Well I think I´m going to the doctor tomorrow to see if my ankle is better ",
+          "Basically my ankle is an smashed cookie right now. So yeah... it´s really bad",
+          "Yes! But my doctor wanted to wait a week until my ankle is okay for a surgery. Really no I´m not a good planner, what do you recommend me to do?",
+          "I love to make boats.  "
+        ]
+      },
+      "Skill": [
+        {
+          "name": "running",
+          "level_of_expertise": "advanced"
+        },
+        {
+          "name": "canning",
+          "level_of_expertise": "intermediate"
+        },
+        {
+          "name": "whittling",
+          "level_of_expertise": "intermediate"
+        },
+        {
+          "name": "jamming",
+          "level_of_expertise": "intermediate"
+        }
+      ],
+      "LifeEvent": [
+        {
+          "title": "ankle fracture",
+          "category": "trauma",
+          "importance": "medium",
+          "sentiment": "negative"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "bow hunting",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "remodeling",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "cooking",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "getting dressed up",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "macaroni and cheese",
+            "category": "food",
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "name": "chicken",
+            "category": "food",
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "name": "red beans and rice",
+            "category": "food",
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "name": "jerk chicken",
+            "category": "food",
+            "status": "current",
+            "strength": "high"
+          }
+        ],
+        "id": "6547f38b7ff7f9f0a284d8123ecc9f22978dbf13cffecbf45c1d2c34af7442a9",
+        "dataset_id": "dialog_0_speaker_2",
+        "dataset": "MSC",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "You must be very fast. Hunting is one of my favorite hobbies.",
+          "I also remodel homes when I am not out bow hunting.",
+          "That's awesome. Do you have a favorite season or time of year?",
+          "What is your favorite meat to eat?",
+          "I like chicken or macaroni and cheese.",
+          "I am going to watch football. What are you canning?",
+          "If I have time outside of hunting and remodeling homes. Which is not much!",
+          "No, the weather was poor, hoping to reschedule for another weekend. What have you been up to lately? How is running going?",
+          "What time are you setting for your goal?",
+          "Mostly just deer. We have been trying to get an Elk tag, but no luck yet. Do you like deer meat?",
+          "It makes good jerky, but not my favorite. What are you favorite meals?",
+          "Yah, chicken is a staple with us as well. My favorite is jerk chick with red beans and rice. I'm also a big fan of mac n' cheese. How frequently do you cook?",
+          "For sure, it's a great recipe and very easy. ",
+          "Glad to hear! If youre running low on deer I can bring you some more. Also I'm planning to finally hunt for elk this weekend maybe I can bring some of that too.",
+          "That sounds like heaven! Have you hit a new PR for running recently?",
+          "Oh no that's horrible how long do they think you'll be out for?",
+          "That's not too bad still unfortunate though. Perks of having multiple hobbies for sure!",
+          "She is so kind haha I can send the recipe over if she'd like.",
+          "Great! Are you taking any time off work since you broke your ankle?",
+          "How long has it been broken? I broke my leg once a long time ago during the winter. It took forever to heal and the ice was a pain!",
+          "I fell down the steps at church one icy Sunday. Thankfully it healed up but getting groceries by bus is a pain. ",
+          "How badly did you break it? Usually they take a while to heal. ",
+          "Did they think you were going to need surgery? I hope it heals ok for you. Are you planning any new whittling projects while you're laid up?",
+          "I haven't whittled in a while. The last thing I made was a plain wooden cross for my home. Do you have a favorite thing to make? I'm working on a set of raised planters for my garden.",
+          "Maybe you should start a model boat kit? I love to build things. I think that I usually make functional things. I always wanted to know how to build a full size sailboat by hand."
+        ]
+      },
+      "Activity": [
+        {
+          "name": "bow hunting"
+        },
+        {
+          "name": "remodeling"
+        },
+        {
+          "name": "cooking"
+        },
+        {
+          "name": "getting dressed up"
+        }
+      ],
+      "Preference": [
+        {
+          "name": "macaroni and cheese",
+          "category": "food"
+        },
+        {
+          "name": "chicken",
+          "category": "food"
+        },
+        {
+          "name": "red beans and rice",
+          "category": "food"
+        },
+        {
+          "name": "jerk chicken",
+          "category": "food"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "PersonalityTrait": {
+              "name": "selfish"
+            },
+            "status": "current"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "Activity": {
+              "name": "skydiving"
+            },
+            "status": "current",
+            "level_of_interest": "high"
+          },
+          {
+            "Activity": {
+              "name": "using computers"
+            },
+            "status": "current"
+          },
+          {
+            "Activity": {
+              "name": "using phones"
+            },
+            "status": "current"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "Preference": {
+              "name": "height"
+            },
+            "category": "lifestyle"
+          }
+        ],
+        "id": "da3a733330779748a374b9937aa236432d78cb0a0974de97e98f13d4f5711275",
+        "dataset_id": "dialog_1_speaker_1",
+        "dataset": "MSC",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "Hi, how are you doing today?",
+          "Wow, four sisters. Just watching game of thrones.",
+          "I agree. What do you do for a living?",
+          "Interesting. I'm a website designer. Pretty much spend all my time on the computer.",
+          "That's awesome. I have always had a love for technology.",
+          "I really enjoy free diving, how about you, have any hobbies?",
+          "That's nice. Moms are pretty cool too."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "reading",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "lipton beverages",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "status": "current",
+            "closeness": "very close"
+          }
+        ],
+        "num_children": 5,
+        "id": "ef4d72b579fa9fefb18c830801139dcb3f2c6f508e58066faef1cc14c495ffe6",
+        "dataset_id": "dialog_1_speaker_2",
+        "dataset": "MSC",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "I am spending time with my 4 sisters what are you up to",
+          "That is a good show I watch that while drinking iced tea",
+          "I'm a researcher I'm researching the fact that mermaids are real",
+          "That's cool my mom does the same thing",
+          "Tell me more about yourself",
+          "I enjoy hanging with my mother she's my best friend",
+          "I'm also fascinated with mermaids"
+        ]
+      }
+    }
+  ],
+  "PEC": [
+    {
+      "Persona": {
+        "HAS_HABIT": [
+          {
+            "name": "lol'ing",
+            "status": "current",
+            "frequency": "sometimes"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "IPAs",
+            "status": "current"
+          },
+          {
+            "name": "fake trees",
+            "status": "current",
+            "strength": "low"
+          }
+        ],
+        "HAS_VALUE": [
+          {
+            "name": "trust",
+            "strength": "medium"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "jealousy",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "envy",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_SKILL": [
+          {
+            "name": "playing professionally",
+            "status": "current",
+            "level_of_expertise": "advanced"
+          }
+        ],
+        "id": "b184ced8104b7ffed511a61b6650ec5f00b55b513166299689c5fcc0be9f7f96",
+        "dataset_id": "Evref",
+        "dataset": "PEC",
+        "dataset_type": "reddit",
+        "utterances": [
+          "whilst popping ?"
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "RESIDES_IN_CITY": [
+          {
+            "name": "Michigan",
+            "status": "current"
+          }
+        ],
+        "HAS_HABIT": [
+          {
+            "name": "exercising",
+            "category": "exercise",
+            "status": "current"
+          },
+          {
+            "name": "commuting",
+            "category": "daily routine",
+            "status": "current"
+          }
+        ],
+        "HAS_SKILL": [
+          {
+            "name": "programming",
+            "status": "current"
+          },
+          {
+            "name": "painting",
+            "status": "current"
+          },
+          {
+            "name": "teaching",
+            "status": "current"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "name": "playing video games",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "reading",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "red dead 2",
+            "category": "media",
+            "status": "current"
+          },
+          {
+            "name": "natsuki",
+            "category": "brand",
+            "status": "current"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "picky",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "appreciative",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_HEALTH_ISSUE": [
+          {
+            "name": "depression",
+            "status": "past",
+            "severity": "moderate"
+          }
+        ],
+        "HAS_LIFE_EVENT": [
+          {
+            "title": "graduation",
+            "category": "milestone",
+            "importance": "medium"
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "name": "someone is holding me accountable",
+            "category": "ethical",
+            "strength": "high"
+          }
+        ],
+        "HAS_VALUE": [
+          {
+            "name": "accountability",
+            "strength": "high"
+          }
+        ],
+        "id": "0512353c96fd497481605781daed0524e67db17bd13ca7dc8655684541be3268",
+        "dataset_id": "tylock",
+        "dataset": "PEC",
+        "dataset_type": "reddit",
+        "utterances": [
+          "you look like a nice person ! we 're proud of you , and i bet you earned that promotion !"
+        ]
+      },
+      "Skill": {
+        "name": "programming"
+      },
+      "Activity": {
+        "name": "painting"
+      },
+      "Habit": {
+        "name": "exercising"
+      },
+      "Preference": {
+        "name": "red dead 2"
+      },
+      "LifeEvent": {
+        "title": "graduation"
+      },
+      "City": {
+        "name": "Michigan"
+      }
+    },
+    {
+      "Persona": {
+        "gender": "female",
+        "HAS_HEALTH_ISSUE": [
+          {
+            "name": "mental health issues",
+            "status": "current",
+            "severity": "moderate"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "name": "drawing",
+            "status": "current",
+            "frequency": "often",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "painting",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "replicating art",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "receiving cat gifs",
+            "status": "current",
+            "frequency": "rarely",
+            "level_of_interest": "low"
+          }
+        ],
+        "HAS_VALUE": [
+          {
+            "name": "art",
+            "strength": "high"
+          },
+          {
+            "name": "happiness",
+            "strength": "medium"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "feeling alone",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "friend",
+            "status": "current",
+            "closeness": "medium"
+          }
+        ],
+        "HAS_LIFE_EVENT": [
+          {
+            "title": "hospitalization",
+            "category": "experience",
+            "importance": "high",
+            "sentiment": "negative"
+          },
+          {
+            "title": "therapy",
+            "category": "milestone",
+            "importance": "high",
+            "sentiment": "positive"
+          },
+          {
+            "title": "ex-muslim",
+            "category": "information",
+            "importance": "medium",
+            "sentiment": "neutral"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "colours",
+            "category": "aesthetic",
+            "status": "current",
+            "strength": "high"
+          }
+        ],
+        "id": "810d2303594bcdefcabdf5cd57fbe83316f26857ec8acd479e9af053bc83aed8",
+        "dataset_id": "deryyaa",
+        "dataset": "PEC",
+        "dataset_type": "reddit",
+        "utterances": [
+          "amazing ! good job :)"
+        ]
+      },
+      "Skill": [
+        {
+          "name": "drawing",
+          "status": "current",
+          "level_of_expertise": "intermediate"
+        },
+        {
+          "name": "painting",
+          "status": "current",
+          "level_of_expertise": "beginner"
+        },
+        {
+          "name": "design",
+          "status": "current",
+          "level_of_expertise": "intermediate"
+        }
+      ],
+      "PersonalityTrait": [
+        {
+          "name": "pride",
+          "status": "current",
+          "strength": "medium"
+        },
+        {
+          "name": "sorrow",
+          "status": "current",
+          "strength": "medium"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "watching videos",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "collecting",
+            "status": "current",
+            "frequency": "often",
+            "level_of_interest": "very high"
+          },
+          {
+            "name": "shopping",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "upvoting",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "messaging",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "contacting",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "animated themes",
+            "category": "media",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "Disney",
+            "category": "media",
+            "status": "current",
+            "strength": "very high"
+          },
+          {
+            "name": "plastic",
+            "category": "material",
+            "status": "current",
+            "strength": "low"
+          },
+          {
+            "name": "posters",
+            "category": "collectible",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "sweatshirts",
+            "category": "clothing",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "name": "release of Mike",
+            "category": "entertainment",
+            "strength": "medium"
+          }
+        ],
+        "HAS_HABIT": [
+          {
+            "name": "comparing boxes",
+            "category": "daily routine",
+            "status": "current",
+            "frequency": "sometimes"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "jealousy",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "RESIDES_IN_CITY": [
+          {
+            "name": "Socal",
+            "status": "current",
+            "start_date": "unknown",
+            "end_date": "unknown"
+          }
+        ],
+        "HAS_HEALTH_ISSUE": [
+          {
+            "name": "sickness",
+            "status": "current",
+            "severity": "mild"
+          }
+        ],
+        "id": "e7acaa4e1e8ab4be4edc2a5c94da1beb683649597da96f506c9d226a1119f8e6",
+        "dataset_id": "bummang",
+        "dataset": "PEC",
+        "dataset_type": "reddit",
+        "utterances": [
+          "nice !"
+        ]
+      },
+      "Occupation": [],
+      "Industry": [],
+      "City": [
+        {
+          "name": "Socal"
+        }
+      ],
+      "Country": [],
+      "Language": [],
+      "PersonalityTrait": [],
+      "HealthIssue": [],
+      "Skill": [],
+      "School": [],
+      "Activity": [],
+      "Belief": [],
+      "Value": [],
+      "Habit": [],
+      "Preference": [],
+      "LifeEvent": [],
+      "FuturePlan": [],
+      "PersonalReflection": []
+    },
+    {
+      "Persona": {
+        "age": 32,
+        "gender": "female",
+        "num_children": 0,
+        "HAS_ACTIVITY": [
+          {
+            "name": "exercising",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "painting",
+            "status": "past",
+            "frequency": "rarely",
+            "level_of_interest": "low"
+          },
+          {
+            "name": "wedding planning",
+            "status": "current",
+            "frequency": "often",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "crafting",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "submitting articles",
+            "status": "current",
+            "frequency": "rarely",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "afternoon tea",
+            "category": "food",
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "name": "real flowers",
+            "category": "decoration",
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "name": "unique decorations",
+            "category": "decoration",
+            "status": "current",
+            "strength": "high"
+          }
+        ],
+        "HAS_VALUE": [
+          {
+            "name": "respect",
+            "strength": "medium",
+            "source": "personal experience"
+          },
+          {
+            "name": "honesty",
+            "strength": "medium",
+            "source": "personal experience"
+          }
+        ],
+        "HAS_HABIT": [
+          {
+            "name": "writing on phone",
+            "category": "tech usage",
+            "status": "current",
+            "frequency": "often"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "laid-back",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "reasonable",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "name": "people should pay for what they choose",
+            "category": "ethical",
+            "strength": "high"
+          }
+        ],
+        "id": "6e543beb00bda9b514e6c481926fa3025a7a69c56fcf6f65555c329c62ae0045",
+        "dataset_id": "genpell",
+        "dataset": "PEC",
+        "dataset_type": "reddit",
+        "utterances": [
+          "awesome ! ! !"
+        ]
+      },
+      "Skill": {
+        "name": "spray painting"
+      },
+      "Activity": {
+        "name": "P90X3"
+      }
+    }
+  ],
+  "FoCus": [
+    {
+      "Persona": {
+        "HAS_BELIEF": [
+          {
+            "Belief": {
+              "name": "Roman Catholicism"
+            },
+            "properties": {
+              "strength": "high",
+              "category": "religious"
+            }
+          }
+        ],
+        "HAS_FUTURE_PLAN": [
+          {
+            "FuturePlan": {
+              "title": "Trip to El Paso"
+            },
+            "properties": {
+              "importance": "medium",
+              "term": "short_term"
+            }
+          },
+          {
+            "FuturePlan": {
+              "title": "Trip to Texas"
+            },
+            "properties": {
+              "importance": "medium",
+              "term": "short_term"
+            }
+          }
+        ],
+        "HAS_VALUE": [
+          {
+            "Value": {
+              "name": "Patriotism"
+            },
+            "properties": {
+              "strength": "high",
+              "source": "love for the United States"
+            }
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "Activity": {
+              "name": "attending church"
+            },
+            "properties": {
+              "status": "current",
+              "frequency": "sometimes",
+              "level_of_interest": "high"
+            }
+          }
+        ],
+        "id": "15f0f4fcba968710dab01d6471e6ea4eb905d6e8d9eb52a69667659ee2d6cc66",
+        "dataset_id": "Z8RPC24EURS4_7",
+        "dataset": "FoCus",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "Wow, this is amazing! What is this?",
+          "What is the name of this place?",
+          "Where is this place?",
+          "In which state is this place?"
+        ]
+      },
+      "Country": [
+        {
+          "name": "United States"
+        },
+        {
+          "name": "Texas"
+        }
+      ],
+      "City": [
+        {
+          "name": "El Paso"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "HAS_PREFERENCE": [
+          {
+            "Preference": {
+              "name": "city living"
+            },
+            "status": "current"
+          },
+          {
+            "Preference": {
+              "name": "casinos"
+            },
+            "status": "past"
+          }
+        ],
+        "HAS_LIFE_EVENT": [
+          {
+            "LifeEvent": {
+              "title": "family accident"
+            },
+            "importance": "high",
+            "sentiment": "negative"
+          }
+        ],
+        "HAS_RELATIONSHIP": [
+          {
+            "Persona": {
+              "type": "family"
+            },
+            "status": "current",
+            "closeness": "close"
+          }
+        ],
+        "HAS_FUTURE_PLAN": [
+          {
+            "FuturePlan": {
+              "title": "visiting New Zealand"
+            },
+            "importance": "low"
+          }
+        ],
+        "id": "a3aa607df8ffe2ec9c428670035c921f374f155ae6546f32113b10d6e977eea9",
+        "dataset_id": "9KDV6LSLWNAX_11",
+        "dataset": "FoCus",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "I know this place, but I don't remember the name of this place.",
+          "Are there any places suitable for children in Newton?",
+          "Is there anything about Newton I wouldn't like?",
+          "How many people live in Newton?",
+          "Can you tell me the names of some streets in Newton?",
+          "What's the origin of this suburb name?"
+        ]
+      },
+      "LifeEvent": {
+        "name": "family accident"
+      }
+    },
+    {
+      "Persona": {
+        "HAS_FUTURE_PLAN": [
+          {
+            "target": "FuturePlan",
+            "properties": {
+              "title": "visit Mexico",
+              "category": "travel",
+              "importance": "medium",
+              "term": "short_term"
+            }
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "target": "Activity",
+            "properties": {
+              "name": "learning",
+              "status": "current",
+              "frequency": "sometimes",
+              "level_of_interest": "high"
+            }
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "target": "Preference",
+            "properties": {
+              "name": "jaguars",
+              "category": "animals",
+              "status": "current",
+              "strength": "medium"
+            }
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "target": "Belief",
+            "properties": {
+              "name": "archaeology",
+              "category": "cultural",
+              "strength": "medium"
+            }
+          }
+        ],
+        "id": "0b41bf6fc76056578ce2dcb6b5dee663441c24c274d57ad1e924cd0651c05875",
+        "dataset_id": "U2VHOEDA278F_11",
+        "dataset": "FoCus",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "I know this place, but I don't remember the name of this place.",
+          "Are there any archaeological sites?",
+          "Are there any jaguars?",
+          "How many species of trees and animals can be found there?",
+          "How is the population there formed?",
+          "How is the preservation of the rainforest there?"
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_HEALTH_ISSUE": [
+          {
+            "HealthIssue": {
+              "name": "fear of bears"
+            },
+            "properties": {
+              "status": "current"
+            }
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "Preference": {
+              "name": "valleys"
+            },
+            "properties": {
+              "status": "current"
+            }
+          }
+        ],
+        "RESIDES_IN_COUNTRY": [
+          {
+            "Country": {
+              "name": "United States"
+            },
+            "properties": {
+              "status": "current"
+            }
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "Activity": {
+              "name": "going to parks"
+            },
+            "properties": {
+              "status": "current",
+              "frequency": "sometimes",
+              "level_of_interest": "high"
+            }
+          }
+        ],
+        "id": "ea1b6e823fbb2ca94295a589fdd4139c6f39f7d12a1f8e583bf34023b5ad8de2",
+        "dataset_id": "82ZP2M9AL6U0_11",
+        "dataset": "FoCus",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "Where is this place?",
+          "Awesome! What is it?",
+          "Wow! What do you think would interest me more there?",
+          "You almost got me but I am really afraid of bears. How big is this park?",
+          "That is huge! Why does it have that name?",
+          "A volcano! Is it still active?"
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_FUTURE_PLAN": [
+          {
+            "TARGET_RESIDENCE": {
+              "name": "New Zealand"
+            },
+            "importance": "medium",
+            "term": "long_term"
+          },
+          {
+            "TARGET_RESIDENCE": {
+              "name": "Auckland"
+            },
+            "importance": "medium",
+            "term": "long_term"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "name": "shopping",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "name": "geography",
+            "category": "environmental",
+            "strength": "medium"
+          }
+        ],
+        "id": "ef7b2e529e146524a5f48cd0b32f2fb9dd891020859a570ca72343bb3c812ff3",
+        "dataset_id": "FOZE4Q84M3RX_11",
+        "dataset": "FoCus",
+        "dataset_type": "crowdsourcing",
+        "utterances": [
+          "I think I've been there before but I don't remember the name of this place.",
+          "What is the place known for?",
+          "What is the geography of this place?",
+          "What is the demographics of this place?",
+          "What is the history of this place?",
+          "How is the transport system?"
+        ]
+      }
+    }
+  ],
+  "MPChat": [
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "drawing",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "designing",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "making",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          }
+        ],
+        "HAS_SKILL": [
+          {
+            "name": "origami",
+            "status": "current",
+            "level_of_expertise": "intermediate"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "stickers",
+            "category": "media",
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "name": "enamel pins",
+            "category": "other",
+            "status": "current",
+            "strength": "high"
+          }
+        ],
+        "id": "000f46e0a1bb1749211a5bd7817facb0f5ca9c7372420ae52f0ee241034e54c4",
+        "dataset_id": "nickeymousee",
+        "dataset": "MPChat",
+        "dataset_type": "reddit",
+        "utterances": [
+          "i wanted to share a couple origami dripper art pieces that i made into stickers recently!",
+          "i made some fall-inspired black cat stickers (pocky, psl, and moon)!",
+          "i drew and made corgi dessert stickers!",
+          "i drew and made corgi desserts into stickers!",
+          "i took the plunge and designed gold origami enamel pins!",
+          "i designed a sushi menu sticker sheet - and included the japanese names for the stickers!",
+          "i made a totoro coffee sticker for the winter!",
+          "totoro origami \"polaroid\" print",
+          "which cafe? i only have them at trueshot right now and in edmonton soon edit: saw a comment for hamilton haha, so cool"
+        ]
+      },
+      "Activity": [
+        {
+          "name": "drawing"
+        },
+        {
+          "name": "designing"
+        },
+        {
+          "name": "making"
+        }
+      ],
+      "Skill": [
+        {
+          "name": "origami"
+        }
+      ],
+      "Preference": [
+        {
+          "name": "stickers",
+          "category": "media"
+        },
+        {
+          "name": "enamel pins",
+          "category": "other"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "tea drinking",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "crafting",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "photography",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "happiness",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "id": "70b5aa17abf4b2354b9db35db0c6b56da1c975aba89642918faf40a840a7d786",
+        "dataset_id": "SilentRansom",
+        "dataset": "MPChat",
+        "dataset_type": "reddit",
+        "utterances": [
+          "first rosetta i've been happy with!",
+          "took this shot at my cafe today.",
+          "how'd i do?",
+          "alright, i guess i'm into tea now!",
+          "been working on my hanging hearts!",
+          "i have to let it rest one more day.",
+          "i'm about 8 months in but i'm pretty happy with my progress.",
+          "my go to lazy pour.",
+          "not my favorite pour, but she's a cutie.",
+          "looks like they started a rosetta, inverted the cup, and poured a tulip"
+        ]
+      },
+      "Activity": [
+        {
+          "name": "tea drinking"
+        },
+        {
+          "name": "crafting"
+        },
+        {
+          "name": "photography"
+        }
+      ],
+      "PersonalityTrait": [
+        {
+          "name": "happiness"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "improving milk texture",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "sorting makeup",
+            "status": "past",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "milk texture",
+            "category": "food",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "happy",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "id": "f5209eae66316a7ad18620324659c3c892e1848ac54b9a4b53353e366169ad66",
+        "dataset_id": "CollegeSleezeball",
+        "dataset": "MPChat",
+        "dataset_type": "reddit",
+        "utterances": [
+          "i've been focusing on my milk texture recently and i've seen a huge improvement.",
+          "sorting through my makeup and finally gave up on the scraps left behind.",
+          "i think he likes it",
+          "i don’t think the heart quite turned out..... at least it’s just for me.",
+          "so happy with this pour i got a few days ago!!",
+          "amazing if you’re doing these as quick pours i can’t imagine what it’ll look like when you improve further"
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "HAS_ACTIVITY": [
+          {
+            "name": "coffee brewing",
+            "status": "current",
+            "frequency": "often",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "milk frothing",
+            "status": "current",
+            "frequency": "often",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "designing latte art",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "improving skills",
+            "status": "current",
+            "frequency": "daily",
+            "level_of_interest": "high"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "milo+nescafe",
+            "category": "food",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "v60 hand brew",
+            "category": "food",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "enthusiasm",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "perfectionism",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_PERSONAL_REFLECTION": [
+          {
+            "content": "feeling excited about coffee making",
+            "type": "pride",
+            "time_reference": "present"
+          },
+          {
+            "content": "acknowledging improvement",
+            "type": "self_assessment",
+            "time_reference": "present"
+          }
+        ],
+        "id": "427326069baf2e243817ec39bfe5c199c3359c42aed1738d026804d0acbae95d",
+        "dataset_id": "Soggypaper_",
+        "dataset": "MPChat",
+        "dataset_type": "reddit",
+        "utterances": [
+          "it's another milo+nescafe (mocha) with milk frothed by an ikea frothing wand woooo, my best yet",
+          "is it weird that i get so excited about cups?",
+          "my second time ever pouring a proper v60 hand brew.",
+          "need to tilt the cup more and be more calm when i pour.",
+          "my milk frothing and wiggles are getting better hahaha.",
+          "i could achieve smoother foam with other milks but this brand specifically is harder.",
+          "today is not my day~ this is one of my only good pours :(",
+          "i'm getting way, way better.",
+          "i'm slowly improving hehehehe.",
+          "one day, i'll buy a machine.",
+          "i dont know why but this design is such a beautiful fluke.",
+          "i'm sure i'm not the only person that gets excited about pitchers hahaha.",
+          "my first ever unpracticed attempt at making a wiggle winged rose with no machine or steam wand.",
+          "i think this is my best wiggle, stacked so far.",
+          "i cant seem to push the design forward.",
+          "i have to be steadier on the pull through.",
+          "im working on my symmetry and wiggles.",
+          "i'm not even close to being at the level where i call myself a barista yet.",
+          "home barista. only used one scoop of condensed milk, two scoops of milk and water. frothed the milk using a french press. it's a thicc one tho",
+          "yes, i did hahaha",
+          "hahahaha, isnt the best tasting coffee. but it gets the job done hahahhaa.",
+          "[no espresso and steam wand] more no-machine, special mix milk and freeze dried coffee latte art hahahaha",
+          "i usually use an ikea hand frother, but after revising my recipee for the milk-condensed milk mixture (i explain in one of the comments below), i found that my ikea french press works better."
+        ]
+      }
+    }
+  ],
+  "PER-CHAT": [
+    {
+      "Persona": {
+        "gender": "male",
+        "RESIDES_IN_CITY": [
+          {
+            "name": "Las Vegas",
+            "status": "current"
+          },
+          {
+            "name": "los alamos",
+            "status": "current"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "name": "camping",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "outdoors",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "driving",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "dessert foxes",
+            "status": "current",
+            "category": "animal",
+            "strength": "medium"
+          },
+          {
+            "name": "tesla",
+            "status": "current",
+            "category": "brand",
+            "strength": "medium"
+          },
+          {
+            "name": "cars",
+            "status": "current",
+            "category": "vehicle",
+            "strength": "medium"
+          }
+        ],
+        "HAS_SKILL": [
+          {
+            "name": "judging",
+            "status": "current",
+            "level_of_expertise": "intermediate"
+          },
+          {
+            "name": "teaching",
+            "status": "past",
+            "level_of_expertise": "intermediate"
+          }
+        ],
+        "HAS_VALUE": [
+          {
+            "name": "caution",
+            "strength": "medium"
+          },
+          {
+            "name": "security",
+            "strength": "medium"
+          },
+          {
+            "name": "clarification",
+            "strength": "medium"
+          }
+        ],
+        "HAS_HABIT": [
+          {
+            "name": "analyzing",
+            "status": "current",
+            "frequency": "sometimes"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "critical thinking",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "id": "d2462d4a7cf08d40c9c9a5642c49ebb3f68d1d47d2b3b58922e7d7a3f64953dc",
+        "dataset_id": "7a74975099c43e606800d8a9205ec41703ec2a89",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "harvestman . harmless .",
+          "sometimes i  m asked to judge science fairs . it  s so disappointing to see that teachers approve projects that have zero scientific merit and allow kids to waste their effort pursuing meaningless  findings .  the kids are so proud of their display and project and i  m put in the awkward position of explaining how it  s flawed . yet , if you don  t tell them , you  re no better than the adults that mislead and misinformed them .",
+          "in my opinion , you not only keep people who made these mistakes , you utilize the experience as a preventive measure . everyone screws up . you don  t manage by fear  it sends a horrible message to employees . people who make repetitive mistakes despite appropriate training and coaching , however , should be allowed to find other employment as should people who are indifferent and unapologetic about their errors . people who screw up big things usually feel horrible about it . hopefully , the hr manager will now be a cheerleader for caution and security and that may be a better outcome than replacing them .",
+          "okay , but that  s not a valid sample . results will be purely anecdotal . you may want to point that out to your teach so they know you  re aware of the faults and limitations . also , the same study found that about digit percent of shower water is from the hot water source . and if your calculating enviro footprints , don  t forget about all the embedded energy in water , both hot and cold .",
+          "don  t assume anything . ask for clarification . in my workplace , people sometimes assume they understand a vague assignment and we wind up doing unnecessary or unwanted work because someone was too shy to ask an executive some follow up questions . please , just politely and confidently ask .",
+          "okay , that sucks , but what about the thousands of items we do get undamaged ? i grouse about usps sometimes , but , overall , i think they  re amazing . if you got digit delicious meals for every bad one , would you call for the cook to be fired ?",
+          "cause and effect ? what did the dealer have to say about it ?",
+          "why do people blackout something that  s on display to the general public , anyway ? like people putting their finger over the plate on a craigslist ad ? ffs , you show your plate to thousands of people every day .",
+          "not a flea . it  s a beetle . unless you  re seeing many of them , i wouldn  t worry . pic is too grainy for much more than guesses .",
+          "indeed , i do , but i still consider them to appear to be from an episode of star trek .",
+          "some votes are accidental . i often inadvertently upvote posts because the arrow is in the area i use to scroll to view comments . nice moth !"
+        ]
+      },
+      "Occupation": [],
+      "Industry": [],
+      "City": [],
+      "Country": [],
+      "Language": [],
+      "PersonalityTrait": [],
+      "HealthIssue": [],
+      "Skill": [],
+      "School": [],
+      "Activity": [],
+      "Belief": [],
+      "Value": [],
+      "Habit": [],
+      "Preference": [],
+      "LifeEvent": [],
+      "FuturePlan": [],
+      "PersonalReflection": []
+    },
+    {
+      "Persona": {
+        "gender": "male",
+        "RESIDES_IN_COUNTRY": [
+          {
+            "Country": {
+              "name": "india"
+            },
+            "status": "current"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "Preference": {
+              "name": "cars"
+            }
+          },
+          {
+            "Preference": {
+              "name": "food and beverages"
+            }
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "Belief": {
+              "name": "democracy"
+            }
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "Activity": {
+              "name": "pet care"
+            },
+            "status": "current",
+            "level_of_interest": "high"
+          },
+          {
+            "Activity": {
+              "name": "self-improvement"
+            },
+            "status": "current",
+            "level_of_interest": "high"
+          }
+        ],
+        "HAS_RELATIONSHIP": [
+          {
+            "Persona": {
+              "type": "family"
+            },
+            "status": "current"
+          }
+        ],
+        "HAS_HABIT": [
+          {
+            "Habit": {
+              "name": "homeownership"
+            },
+            "status": "current"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "PersonalityTrait": {
+              "name": "confusion"
+            },
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "id": "890d1e28ab7ecdd6152523e878b8e4b8a87764dc52b534851afb31e9c56a3da3",
+        "dataset_id": "8a0d7d262d95d9c10d914ff3b70f342e066aee23",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "wish i could read this without blinding myself .",
+          "well there are very few black people , and we use it to refer to our other brown friends . and yes , it id illegal , since we do have hate speech laws",
+          "depends on how random the words are that i ' ll forget . if they ' re ones i can learn again , i ' ll take it . if they ' re names and identities of people i know , no . also i ' m cracking up thinking of a scenario where a person tries to use this in an interview to one up the interviewer .",
+          "does the your you ' re misunderstanding extend to their they ' re now ? is this done deliberately ? is any of this real ? send help please .",
+          "exactly my thoughts , regardless of whether you believe in god or not , this stands to be true .",
+          "you have one now",
+          "as an indian i can tell you the comments does not lie",
+          "i too , have to apply the brakes on my tv everytime i have to turn it off now , ever since i tried to fix it that one time .",
+          "food so good he couldn ' t differentiate the taste of it with a rock",
+          "how is that a good thing ?",
+          "the screeching sound of a cockroach that you can ' t locate when you ' re trying to sleep ."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "first_name": null,
+        "last_name": null,
+        "age": 0,
+        "gender": "female",
+        "education": null,
+        "employment_status": null,
+        "income_group": null,
+        "marital_status": null,
+        "num_children": 0,
+        "id": "a73a5b5c45db79a407edf26b63ba31ae40870d13ce6ab24597e3fbc357946458",
+        "dataset_id": "101eeb53846c81b36d32c33e2b4260cb3e4ac576",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "that ' s crazy to me because both of those names are on my list too haha",
+          "i totally agree . i ' ve noticed this a couple of times and , like you said , the reason is often a mystery . i only downvote comments that are rude or that mock someone ' s tastes  there are tactful ways to disagree with someone ! thankfully , there have only been a few of these occasions and this sub is , on the whole , a safe , friendly space to share ideas and opinions . that ' s a rare find on the internet nowadays . let ' s not spoil it . eta  i love that this whole post has turned into a whole bunch of conversations that are just spreading positivity everywhere .",
+          "glad we ' re on the same page in this technological age i think more people are looking into names and most people will check what they mean , but they ' ll always be some .",
+          "a sect ? or maybe just call it by the name of the group . i think namenerds is more about names for people or characters or pets , rather than words in general . you might have better luck on another subreddit .",
+          "i would love to use my most out  there as middles , because they might be too much as firsts , and it would get annoying dealing with questions or having to explain it , but i really do like weird names .",
+          "if you can come up with a name you both like , it would be nice if you changed it together so you have that connection even though , like you say , a name doesn ' t equal family , but it ' s a nice thing to have in common . if you ' re serious about changing your first name too , have a look at lists there are plenty online or ask around i ' m sure people here would be happy to give you suggestions . pretty soon you ' ll work out which styles and sounds you like and dislike . i ' d also recommend having a look at the top 100ish names for the year you were born and maybe a few other years from around that time as a starting point , that way you ' ll know if you want something in  keeping with your generation or something a bit more unusual .",
+          "i mean people sometimes name their kids after traits or values , like charity and patience , so it ' s not totally implausible that someone might use celibate . i personally wouldn ' t . a couple of google searches seem to suggest that this is not a thing .",
+          "thanks for explaining . i can understand employees wanting to get paid for the work they ' re doing , but that seems like a really harsh punishment for just a minute or two of time .",
+          "so i don ' t have personal experience with this yet , but i have wanted to change my name for about digit years now . i ' m about to finish college and might be moving away soon , so now seems like a pretty good time to go through with it . anyway , to answer your questions  1a as far as i can tell , most places that require a formal change e . g . your job , bank accounts , ect . are able to easily change people ' s names in their system probably because of people changing their name when they get married so that should be fairly straightforward . some places  like banks  may require proof that the name change is legal , but just show them a copy of the deed poll . please note  i live in the uk  the rules might be different where you live . 1b i ' ve found it really helpful to talk to a friend about changing my name . i told a couple of friends , but we ' ve only spoken about it on skype , never face  to  face , but recently i ' ve been talking to one of my friends about it in real life , not online , and it ' s so affirming , if that makes sense . before , i felt like it was all in my head , but having someone to talk to about it and again i emphasise a face  to  face discussion makes it feel not  weird . she ' s even offered suggestions for me . digit as far as explaining it to people goes , i haven ' t really had to fully explain my reasons to anyone . none of my friends really asked why , or if they did , they were satisfied with the ' i just hate my name and i am able to change it , so why shouldn ' t i ? ' explanation . i plan on having different ' levels ' of explanation , depending on who asks . so the first level would be ' because i want to ' which would be for acquaintances and people i don ' t know very well . then ' growing up , i really didn ' t like my name . it caused me a lot of grief , and i decided to move away from that , ' for the next level , for people i know better , and then for people i know really well and trust , the last level would be the full story , which is quite long and this message is long enough as it is but i ' m happy to share if you ' re interested . digit in the dating world , if you ' ve never met them before , just introduce yourself with your new name . they won ' t know that you were ever called anything else . you can tell them about your name change in time , but there ' s no need to do it right away . digit i mean , there ' s no limit on the number of times you can change your name that i know of anyway but if you change it too often , i think people will stop taking it seriously , or just get mixed up with which name you have at any given time . once you have a good idea of the name you want to use , try introducing yourself with it online . if your username doesn ' t have any actual names in it like mine here then you can introduce yourself with a different name to each person if you want , and just see if one feels right . when you ' re comfortable with that , try using it as a username . i ' d recommend getting people to call you the new name socially before you legally change it , so you can get used to it , and it won ' t be too much of a hassle if you change your mind . lastly , i would like to add that you ' re not a fraud . it feels weird at first and lots of people who change their name feel as if they ' re lying when they use their new name . you ' re not . you ' re used to being called one thing and now you ' re answering to something different , and that takes time to get used to . don ' t let anyone make you feel bad about it .",
+          "i think digit middle names is fine  i draw the line at digit . i think your partner ' s concerns about hurting feelings would be a bigger reason to reconsider . personally , namesakes are not my thing , but i get that they hold a lot of significance for other people . i would be cautious about using a living relative as a namesake if other people could get offended .",
+          "a little bit of everything  fantasy , short stories , screenplays , romance  but it ' s mostly aimed at a ya audience . although lately i ' ve been questioning whether i should bother . i always struggle with motivation but i have a lot of ideas that i need to get out . did you ever experience anything like that ?"
+        ]
+      },
+      "HAS_ACTIVITY": [
+        {
+          "name": "thinking",
+          "status": "current",
+          "frequency": "sometimes",
+          "level_of_interest": "medium"
+        },
+        {
+          "name": "discussing",
+          "status": "current",
+          "frequency": "often",
+          "level_of_interest": "medium"
+        },
+        {
+          "name": "writing",
+          "status": "current",
+          "frequency": "sometimes",
+          "level_of_interest": "medium"
+        }
+      ],
+      "HAS_PREFERENCE": [
+        {
+          "name": "weird names",
+          "category": "other",
+          "status": "current",
+          "strength": "medium"
+        }
+      ],
+      "HAS_HABIT": [
+        {
+          "name": "checking name meanings",
+          "category": "tech usage",
+          "status": "current",
+          "frequency": "sometimes"
+        }
+      ],
+      "HAS_VALUE": [
+        {
+          "name": "positivity",
+          "strength": "high",
+          "source": "online interactions"
+        },
+        {
+          "name": "respect",
+          "strength": "high",
+          "source": "online interactions"
+        }
+      ],
+      "HAS_BELIEF": [
+        {
+          "name": "names can be connected to identity",
+          "category": "cultural",
+          "strength": "medium"
+        }
+      ],
+      "HAS_PERSONALITY_TRAIT": [
+        {
+          "name": "open-mindedness",
+          "status": "current",
+          "strength": "medium"
+        },
+        {
+          "name": "empathy",
+          "status": "current",
+          "strength": "medium"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "gender": "male",
+        "id": "5ddad00280ddb256ac14d97aee15738a50f5c9d5ae9d9d840ed12455eec8b53a",
+        "dataset_id": "3e3ba4fedc605802fcfce7c50b515d9b8d4a7af9",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "call apple support ?",
+          "thanks for the info ! how did you find it in comparison to google maps api ? i read up it  s more simple to use and more cost effective . are there any other reasons besides maybe besides unawareness you think is preventing devs from adopting it for their websites ?",
+          "could not agree more ! both yelp and tripadvisor are driving me nuts with this photos and reviews thing . maybe apple can implement a system where it controls and presents its own photos  reviews whereby third parties then fill in for missing data and countries not served ? i suspect these things will come in time , including the ones you mentioned , though apple  s methodically iterative approach sometimes does take more than a while .",
+          "ok that  s actually pretty great the , means they  re integrating more and more sources . i hope they will enable linking up of various national transports to make cross border trips much easier too . maybe they feel they  ve already covered the majority of the terrain they needed to ? i  d say there  s also the issue with some transit providers simply not having any api integration . on another note , have you seen anyone take advantage of the maps extensions much yet ? i know uber was there and then they removed themselves and opentable can book tables with yelp having some integration too .",
+          "nice list though duplicating some of the requests earlier to the normal maps app . i  m sure if they bring them then they  ll bring it to both this one and the maps app . on another note , i recently submitted most of this feedback to not just the apple feedback site , but also to eddy cue as he  s the svp of maps among many other things . you might wanna do so too so it likely gets better prioritized as imho few from the teams read our postings here .",
+          "lol , if you go to the airpods in settings themselves , the a2x models are always 2nd gen , a16x are the old generation . i was myself confused by this too until i checked apple  s website . here in asia , everyone is wearing them and talking to them all the time , not awkward to do likewise at all . did you try talking louder and in continuous voice without too much background noise ? that almost always works for me . if it still doesn  t work , make sure to try to retrain her voice or resetting the id . just by getting into the habit of offloading some of the repetitive tasks to her you  ll def prepare yourself for ios digit and shortcuts automations which i  m sure will become super handy . the user guide in apple books also has some useful tips . don  t give up and keep trying , hope it works out for you as for me it  s been great so far ! smiling  face  with  smiling  eyes",
+          "agreed ! how  s the performance on other browsers ? is the api flexible enough to  recreate  apple maps but in the browser or is it restricted to being the backend ? i know with duckduckgo i provided some feedback including poor search results and lack of mouse scrolling , the latter of which they  ve added . also , do you have to pay the annual  digit fee to get access to the api key ? hopefully wwdc will provide more answers .",
+          "it really makes customer support queries much faster . i find it way more useful than some of the banking apps i use , because all the text and information is automatically saved . you don  t have to go back and forth with different systems and phone numbers and juggle all the information as it  s all there .",
+          "maybe they didn  t get around to it yet ? you can also notice some states are mentioned twice or more so it  s pretty much incomplete and i assume will expand greatly prior to end of digit as stated in the keynote .",
+          "what are they saying ? are they staging this for  applelookaround ?",
+          "i guess it really depends on the location . some places may be way worse and others way better . best we can hope for is swift rollout of the new maps ."
+        ]
+      },
+      "HAS_SKILL": [
+        {
+          "name": "programming",
+          "status": "current"
+        }
+      ],
+      "HAS_ACTIVITY": [
+        {
+          "name": "using mobile",
+          "status": "current"
+        },
+        {
+          "name": "providing feedback",
+          "status": "current"
+        }
+      ],
+      "HAS_HABIT": [
+        {
+          "name": "offloading tasks",
+          "status": "current"
+        }
+      ],
+      "HAS_PREFERENCE": [
+        {
+          "name": "ios",
+          "status": "current"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "gender": "male",
+        "HAS_ACTIVITY": [
+          {
+            "name": "playing minecraft",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "constant",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "status": "current",
+            "closeness": "close"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "pets and animals",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_PERSONA_REFLECTION": [
+          {
+            "content": "worried about someone's seriousness",
+            "time_reference": "present",
+            "sentiment": "negative"
+          },
+          {
+            "content": "fear of ruining something",
+            "time_reference": "present",
+            "sentiment": "negative"
+          },
+          {
+            "content": "hoping someone is being ironic",
+            "time_reference": "general",
+            "sentiment": "neutral"
+          }
+        ],
+        "id": "ff7bb2e3d74714e9152a4894c4e798d63a8e74ef009b922a6d5e5cc802357268",
+        "dataset_id": "1955f382f8fc2d10480017d73817b8c3b41c2a02",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "not saying happy cake day to you .",
+          "i want to downvote these post because of how shitty this makes me feel , but i remember it ' s not the posters fault",
+          "this is the only time i don ' t feel bad for guilt tripping somone",
+          "it ' s the fact that the teacher is helping those kids . it ' s not common to find someone like that",
+          "i really don ' t know if you ' re being serious and i ' m worried",
+          "it ' s literally originally made . maybe someone made it before me , if so i didn ' t know",
+          "i pretty sure i his is the most sexual thing he ' s posted",
+          "bruh why the hell did this get so many upvotes ?",
+          "i ' m pretty sure this is the most sexual thing he ' s ever posted",
+          "it ' s digit  the fear of ruining what we already have going",
+          "sometimes i hope he ' s just being ironic"
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "first_name": null,
+        "last_name": null,
+        "age": 0,
+        "gender": "male",
+        "education": "no formal education",
+        "employment_status": "unemployed",
+        "income_group": "under 10k",
+        "marital_status": "single",
+        "num_children": 0,
+        "HAS_OCCUPATION": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "name": "cooking"
+          }
+        ],
+        "RESIDES_IN_CITY": [],
+        "RESIDES_IN_COUNTRY": [],
+        "HAS_LANGUAGE": [],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "status": "current",
+            "strength": "medium",
+            "name": "self-acceptance"
+          },
+          {
+            "status": "current",
+            "strength": "medium",
+            "name": "independent"
+          }
+        ],
+        "HAS_HEALTH_ISSUE": [],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close",
+            "target": {
+              "first_name": null,
+              "last_name": null,
+              "age": null,
+              "gender": "male"
+            }
+          },
+          {
+            "type": "partner",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close",
+            "target": {
+              "first_name": null,
+              "last_name": null,
+              "age": null,
+              "gender": "female"
+            }
+          }
+        ],
+        "HAS_SKILL": [
+          {
+            "status": "current",
+            "level_of_expertise": "intermediate",
+            "name": "boxing"
+          }
+        ],
+        "GRADUATED_FROM": [],
+        "HAS_ACTIVITY": [
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium",
+            "name": "eating"
+          }
+        ],
+        "HAS_BELIEF": [],
+        "HAS_VALUE": [],
+        "HAS_HABIT": [],
+        "HAS_PREFERENCE": [
+          {
+            "status": "current",
+            "strength": "high",
+            "name": "pizza"
+          },
+          {
+            "status": "current",
+            "strength": "medium",
+            "name": "pizza"
+          }
+        ],
+        "HAS_LIFE_EVENT": [],
+        "HAS_FUTURE_PLAN": [],
+        "HAS_PERSONA_REFLECTION": [],
+        "id": "021730fb476b40d597309f0adf270f454da037110ef02d4e731cf14795c8aef6",
+        "dataset_id": "2db14c004e6ef125f85aa3678978a5718eebd11a",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "not trusting yourself . you ' ll just be walking around tryna live how others think you should .",
+          "i don ' t care about people ' s opinions of me as much as i used to",
+          "i do what ' s asked of me without coming across as a brown noser",
+          "this may be the thing i didn ' t know i was waiting my whole life for",
+          "that ' s nice but you should bring something for yourself as well",
+          "personally i think the flavors go well together . i ' ve heard people talk about acidity being the main factor as to why they don ' t go for it and that i can understand . i just don ' t like people saying it ' s weird or the thought of fruit on pizza baffles them .",
+          "you ' re going to experience this drug the way you will because it ' s going to let you know if it ' s ok for you or if you should stay away from it",
+          "you may be able to settle out of court with popeye ' s if you don ' t love that chicken from popeye ' s",
+          "\" sucking it up \" is a bad phrase to use imo . idk your life , but \" accept \" is a word that works for me . i am me , the world is the world . if you ' ve been sheltered , use every experience as a lesson that helps guide you in your journey exploring the world . going back to your bad trip , personally i think it ' s your body trying to tell you something . we have amazing , intuitive instincts that are buried within us but we ' re afraid when they try to tell us something . even if it ' s scary , you have to embrace what you feel so that you can get to know yourself a little better . baby steps are absolutely ok for this process .",
+          "that ' s you being afraid because you are creating thoughts in your own head about things possibly going wrong . if you were to do any of those activities you mentioned and at any point during them something made you feel nervous or that something is wrong , it ' s your gut feeling . think of fear as a thought process and your gut feeling as a natural reaction .",
+          "it ' s you and whatever you can ' t see in a state where nothing can be seen"
+        ]
+      },
+      "Occupation": [
+        {
+          "name": "cooking",
+          "title (official position)": null,
+          "INDUSTRY": {
+            "name": "food service"
+          },
+          "LOCATED_IN_CITY": {
+            "name": null
+          },
+          "LOCATED_IN_COUNTRY": {
+            "name": null
+          }
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "first_name": null,
+        "last_name": null,
+        "age": null,
+        "gender": "male",
+        "education": null,
+        "employment_status": "retired",
+        "income_group": null,
+        "marital_status": null,
+        "num_children": 3,
+        "HAS_OCCUPATION": [
+          {
+            "status": "past",
+            "start_date": null,
+            "end_date": null,
+            "title (official position)": "teacher"
+          }
+        ],
+        "RESIDES_IN_CITY": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "name": "ct nick cage"
+          },
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "name": "haven"
+          }
+        ],
+        "RESIDES_IN_COUNTRY": [],
+        "HAS_LANGUAGE": [],
+        "HAS_PERSONALITY_TRAIT": [],
+        "HAS_HEALTH_ISSUE": [],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close",
+            "MENTIONS_FAMILY_MEMBER": {
+              "first_name": null,
+              "last_name": null
+            }
+          },
+          {
+            "type": "family",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close",
+            "MENTIONS_FAMILY_MEMBER": {
+              "first_name": null,
+              "last_name": null
+            }
+          },
+          {
+            "type": "family",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close",
+            "MENTIONS_FAMILY_MEMBER": {
+              "first_name": null,
+              "last_name": null
+            }
+          }
+        ],
+        "HAS_SKILL": [],
+        "GRADUATED_FROM": [],
+        "HAS_ACTIVITY": [
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high",
+            "name": "eating"
+          },
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high",
+            "name": "watching foreign films"
+          }
+        ],
+        "HAS_BELIEF": [],
+        "HAS_VALUE": [],
+        "HAS_HABIT": [],
+        "HAS_PREFERENCE": [
+          {
+            "status": "current",
+            "strength": "medium",
+            "name": "fruit"
+          },
+          {
+            "status": "current",
+            "strength": "medium",
+            "name": "chicken"
+          }
+        ],
+        "HAS_LIFE_EVENT": [
+          {
+            "importance": "high",
+            "sentiment": "negative",
+            "time_period": "adult",
+            "title": "father's death"
+          }
+        ],
+        "HAS_FUTURE_PLAN": [],
+        "HAS_PERSONA_REFLECTION": [],
+        "id": "efc19b48164eaf114887e783aa14d1aff89d2c80874e1a69826464952941950e",
+        "dataset_id": "128346fc1e56ccadd25a4b200ecae44637d48f5f",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "not spending more time with my dad",
+          "\" love is never having to say you ' re sorry \" what the hell is that about ?",
+          "i never really got over my dad ' s death . i didn ' t realize how sad it made me . it ' s almost digit years  i can ' t believe how sad i still am about it .",
+          "we do . it ' s my mother  in  law ' s cooking !",
+          "that ' s how you got here !",
+          "it ' s just a matter of what people find attractive . myself , i like all parts of the chicken !",
+          "i ' m digit . it ' s good to see folks w  some principles out there ! better than those tea party \" stockholm syndrome folks protesting in favor of their oppressors ! cops aren ' t beating the crap out of them enough to look similar to my days .",
+          "when i meet people i ' m always thinking of a smartass nickname for them while they ' re talking !",
+          "i want to tell my shrink about it . but i ' m afraid i ' d attack his couch as well !",
+          "you don ' t know your history ! there were no slaves in latin america ? btw your \" atty \" answers your question !",
+          "as a retired teacher i ask . are you doing too much of your kids ' work ? the ideas should come from them . you are a very cool dad though !"
+        ]
+      },
+      "Occupation": [],
+      "Industry": [],
+      "City": [],
+      "Country": [],
+      "Language": [],
+      "PersonalityTrait": [],
+      "HealthIssue": [],
+      "Skill": [],
+      "School": [],
+      "Activity": [],
+      "Belief": [],
+      "Value": [],
+      "Habit": [],
+      "Preference": [],
+      "LifeEvent": [],
+      "FuturePlan": [],
+      "PersonalReflection": []
+    },
+    {
+      "Persona": {
+        "first_name": null,
+        "last_name": null,
+        "age": 40,
+        "gender": "male",
+        "education": null,
+        "employment_status": null,
+        "income_group": null,
+        "marital_status": "single",
+        "num_children": null,
+        "HAS_OCCUPATION": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "RESIDES_IN_CITY": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "RESIDES_IN_COUNTRY": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "HAS_LANGUAGE": [],
+        "HAS_PERSONALITY_TRAIT": [],
+        "HAS_HEALTH_ISSUE": [],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close"
+          },
+          {
+            "type": "partner",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close"
+          }
+        ],
+        "HAS_SKILL": [],
+        "GRADUATED_FROM": [],
+        "HAS_ACTIVITY": [
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          }
+        ],
+        "HAS_BELIEF": [],
+        "HAS_VALUE": [
+          {
+            "strength": "high",
+            "source": null
+          }
+        ],
+        "HAS_HABIT": [
+          {
+            "status": "current",
+            "frequency": "rarely"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "status": "current",
+            "strength": "high"
+          }
+        ],
+        "HAS_LIFE_EVENT": [],
+        "HAS_FUTURE_PLAN": [],
+        "HAS_PERSONA_REFLECTION": [],
+        "id": "fa82c1f5b0fc640f32a6fa744c740c4abc357cf4d412752973f5208978345240",
+        "dataset_id": "d306fdc150cd289e266e785107cfceff83aa649c",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "dumping my rich gf for a hot one .",
+          ". so ? i don ' t recycle . why should i conserve the planet for a bunch of assholes making billions exploiting it ? just give them more time to do what they please ? what ' s my \" contribution \" gonna do , compared to an oil spill ? what ' s my carbon footprint compared to a multinational ' s empire ? fiat iustitia , et pereat mundus .",
+          "yep . it ' s like a wall in time you can ' t get past no matter what .",
+          "i nearly quit horror because my gf doesn ' t understand what are the parts where you ' re supposed to be scared , so she ' s always bored when we watch them .",
+          "i ' m not sure what you ' re asking .",
+          "make another character , what ' s the problem ?",
+          "that ' s exactly what i said in the part you omitted lol",
+          "if you ' re in your 40s or younger , there ' s still hope . i ' m working on a theory right now .",
+          "hmm . i don ' t think it can see its own reflection from there .",
+          "it ' s hilarious to see americans take guesses , like the rest of the world didn ' t fucking exist lol just look at what happens where it already is legal , dummies .",
+          "hahaha no , i ' m sorry ! i think i know what ' s happening . i didn ' t object to you using the term pseudoscience , but to you defining as science with shaky bases . it ' s just flat out not science of any kind , only posing as such . that ' s the distinction i was trying to make you understand . i think i might have been a bit clearer , but i ' m on the phone , so i was perhaps too curt . sorry again ."
+        ]
+      },
+      "Occupation": [],
+      "Industry": [],
+      "City": [
+        {
+          "name": "venice"
+        }
+      ],
+      "Country": [
+        {
+          "name": "europe"
+        }
+      ],
+      "Language": [],
+      "PersonalityTrait": [],
+      "HealthIssue": [],
+      "Skill": [],
+      "School": [],
+      "Activity": [],
+      "Belief": [],
+      "Value": [],
+      "Habit": [],
+      "Preference": [],
+      "LifeEvent": [],
+      "FuturePlan": [],
+      "PersonalReflection": []
+    },
+    {
+      "Persona": {
+        "first_name": null,
+        "last_name": null,
+        "age": 0,
+        "gender": "male",
+        "education": null,
+        "employment_status": null,
+        "income_group": null,
+        "marital_status": null,
+        "num_children": 0,
+        "HAS_OCCUPATION": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "RESIDES_IN_CITY": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "name": "london"
+          }
+        ],
+        "RESIDES_IN_COUNTRY": [],
+        "HAS_LANGUAGE": [],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "status": "current",
+            "strength": "high",
+            "name": "maturity"
+          }
+        ],
+        "HAS_HEALTH_ISSUE": [
+          {
+            "status": "current",
+            "severity": "moderate",
+            "name": "weight gain"
+          }
+        ],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "acquaintance",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "far"
+          }
+        ],
+        "HAS_SKILL": [],
+        "GRADUATED_FROM": [],
+        "HAS_ACTIVITY": [
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium",
+            "name": "fashion"
+          },
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium",
+            "name": "cat watching"
+          },
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium",
+            "name": "saving"
+          }
+        ],
+        "HAS_BELIEF": [],
+        "HAS_VALUE": [
+          {
+            "strength": "high",
+            "source": null,
+            "name": "caring"
+          }
+        ],
+        "HAS_HABIT": [],
+        "HAS_PREFERENCE": [],
+        "HAS_LIFE_EVENT": [],
+        "HAS_FUTURE_PLAN": [],
+        "id": "287a5603ae45501ea147fd375737b7efd93a35fb0b9a95bf87f9303adac9924e",
+        "dataset_id": "c391065478603a686531cbdd50568136a5e14508",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "getting as fat as i am right now .",
+          "possibly it  s that then , i didn  t think i had particularly strong features , just a  standard  face if such a thing exists . quite possibly my personality has something to do with it as i  ve always been mature for my age .",
+          "sitting in my neighbours house , they  re unreasonable at the best of times so i can  t imagine it would be a good situation .",
+          "i don  t believe he would want me to feel guilty at all , but it doesn  t stop me feeling it .",
+          "i was nice to the new guy and now he insists on calling me throughout the day talking about shit i don  t care about for like digit minutes a time . i always have to make an excuse to get off the phone . also he got my number off the work group chat . it  s annoying af .",
+          "being told i wouldn  t be able to do the job because of my physical capabilities in their opinion , but still being offered the job anyway .",
+          "yeah . i think that  s the point .",
+          "why lock me up too see me , come check me out in my natural habitat bro",
+          "take care of the digit people i care about in this world and made sure they wanted for nothing .",
+          "put digit  of everything you earn into a savings account . wish i started earlier .",
+          "yes i  m aware of that , trying to stop the twat laps around harrods , but in this case i can  t see any wrong doing . the police officer should really have gone through a red light without his audible siren on in such a busy area ."
+        ]
+      },
+      "Occupation": [
+        {
+          "name": null,
+          "title (official position)": null
+        }
+      ],
+      "Industry": [],
+      "City": [
+        {
+          "name": "london"
+        }
+      ],
+      "Country": [],
+      "Language": [],
+      "PersonalityTrait": [
+        {
+          "name": "maturity"
+        }
+      ],
+      "HealthIssue": [
+        {
+          "name": "weight gain"
+        }
+      ],
+      "Skill": [],
+      "School": [],
+      "Activity": [
+        {
+          "name": "fashion"
+        },
+        {
+          "name": "cat watching"
+        },
+        {
+          "name": "saving"
+        }
+      ],
+      "Belief": [],
+      "Value": [
+        {
+          "name": "caring"
+        }
+      ],
+      "Habit": [],
+      "Preference": [],
+      "LifeEvent": [],
+      "FuturePlan": [],
+      "PersonalReflection": []
+    },
+    {
+      "Persona": {
+        "gender": "male",
+        "age": 16,
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "target": {
+              "first_name": "mother"
+            }
+          },
+          {
+            "type": "friend",
+            "status": "current"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "good"
+          },
+          {
+            "name": "awkward"
+          }
+        ],
+        "HAS_HEALTH_ISSUE": [
+          {
+            "name": "depression"
+          },
+          {
+            "name": "anxiety"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "name": "hanging out"
+          }
+        ],
+        "HAS_VALUE": [
+          {
+            "name": "personality",
+            "strength": "high"
+          }
+        ],
+        "HAS_HABIT": [
+          {
+            "name": "coping"
+          }
+        ],
+        "HAS_PREFERENCE": [],
+        "RESIDES_IN_CITY": [
+          {
+            "name": "minnesota",
+            "status": "current"
+          }
+        ],
+        "HAS_FUTURE_PLAN": [
+          {
+            "title": "relationship",
+            "category": "relationship"
+          }
+        ],
+        "HAS_PERSONA_REFLECTION": [
+          {
+            "content": "feeling socially unaccepted",
+            "sentiment": "negative"
+          },
+          {
+            "content": "being single sucks",
+            "sentiment": "negative"
+          }
+        ],
+        "id": "485666ac5fe115160a7984d9a6d17701c59afeb84dcf62928462956d043d884e",
+        "dataset_id": "82bb111e2180a2ffb997b74ab504aa538034feab",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "digit happy cake day digit gaining weight",
+          "well , it ' s that when it ' s just me and her , i don ' t know what to talk to her about , and it ' s silence between us . it ' s not that i have feelings for her , it ' s just that i feel like we need to get closer as friends . it is mainly advice . i don ' t really feel socially accepted",
+          "i do ! it ' s always interesting to see what mother nature can whip up",
+          "it ' s different every time for me",
+          "it came from me . here ' s what happened  my best friend ' s girlfriend was spraying water at another one of my friends , and i , as a joke , and i say \" stop squirting on me , or i ' ll squirt on you \" oh , and another one , this time a joke i made up  put the emphasis on bam in alabama , and you ' re like ala bam i ' m fucking my cousin because that ' s what happens there , i guess",
+          "i imagine a good relationship , and i think about all of the happiness that will come from a relationship . i mainly feel like society doesn ' t accept me , based on how i look . it ' s frustrating how people don ' t look for personality in relationships , and i have a good personality . it just , sucks .",
+          "i figured it wasn ' t uncommon . just sucks because i realized how close i ' ve gotten , and still . yeah . it doesn ' t help that i know that i ' m a good person . a lot of people know i ' m good person .",
+          "wanted to ask this to my best friend ' s girlfriend who is also my best friend what she likes and doesn ' t like about me . i have trouble talking with her anyway because i ' m an awkward person . i ' ve tried to gain confidence , but it just never works out",
+          "blaming my best friend ' s gf that she didn ' t care about me , when really , she did , and one of my other best friends was the problem . it ' s going to be stuck with me for a long time",
+          "being single does suck . i ' ve been single my entire life m16 . i usually cope by hanging out with friends . i know i ain ' t the best looking , nor am i fit . but yeah . i get how you feel . life does suck that way . whenever i feel down about being alone , i usually think \" i ' ll find that person eventually \" some day you will . just continue doing what you like , and hang out with your friends",
+          "i think how my life would be like when i ' m in a relationship been single entire life . can ruin my entire day ."
+        ]
+      },
+      "Occupation": [],
+      "Industry": [],
+      "City": [
+        {
+          "name": "minnesota"
+        }
+      ],
+      "Country": [],
+      "Language": [],
+      "PersonalityTrait": [
+        {
+          "name": "good"
+        },
+        {
+          "name": "awkward"
+        }
+      ],
+      "HealthIssue": [
+        {
+          "name": "depression"
+        },
+        {
+          "name": "anxiety"
+        }
+      ],
+      "Skill": [],
+      "School": [],
+      "Activity": [
+        {
+          "name": "hanging out"
+        }
+      ],
+      "Belief": [],
+      "Value": [
+        {
+          "name": "personality"
+        }
+      ],
+      "Habit": [
+        {
+          "name": "coping"
+        }
+      ],
+      "Preference": [],
+      "LifeEvent": [],
+      "FuturePlan": [
+        {
+          "title": "relationship",
+          "category": "relationship"
+        }
+      ],
+      "PersonalReflection": [
+        {
+          "content": "feeling socially unaccepted",
+          "sentiment": "negative"
+        },
+        {
+          "content": "being single sucks",
+          "sentiment": "negative"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "first_name": null,
+        "last_name": null,
+        "age": 0,
+        "gender": "male",
+        "education": "high school diploma",
+        "employment_status": null,
+        "income_group": null,
+        "marital_status": null,
+        "num_children": 0,
+        "HAS_OCCUPATION": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "name": "astronaut",
+            "title (official position)": null
+          }
+        ],
+        "RESIDES_IN_CITY": [],
+        "RESIDES_IN_COUNTRY": [],
+        "HAS_LANGUAGE": [],
+        "HAS_PERSONALITY_TRAIT": [],
+        "HAS_HEALTH_ISSUE": [],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close",
+            "MENTIONS_FAMILY_MEMBER": {
+              "first_name": null,
+              "last_name": null
+            }
+          },
+          {
+            "type": "family",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close",
+            "MENTIONS_FAMILY_MEMBER": {
+              "first_name": null,
+              "last_name": null
+            }
+          }
+        ],
+        "HAS_SKILL": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "name": "photography",
+            "level_of_expertise": "beginner"
+          }
+        ],
+        "GRADUATED_FROM": [],
+        "HAS_ACTIVITY": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "name": "traveling",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_BELIEF": [],
+        "HAS_VALUE": [],
+        "HAS_HABIT": [],
+        "HAS_PREFERENCE": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "name": "cups",
+            "category": "food",
+            "strength": "low"
+          }
+        ],
+        "HAS_LIFE_EVENT": [],
+        "HAS_FUTURE_PLAN": [],
+        "id": "d113311e223df710d3846018e332d209518bfeef5e98a68754bd2fddc2497d98",
+        "dataset_id": "bb09bb4d1ee02a280e54d9e3a1e7ac9498e6e809",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "not giving a shit in school since sophomore year of highschool .",
+          "let ' s just say that it isn ' t their voices i think of when i ' m in the shower .",
+          "literally shit your pants at the doctor ' s office . you ' ll get as many notes as you want .",
+          "i would remake the porn video of your parents conceiving you . i ' d improve it by playing your dad ' s role .",
+          "what ' s that saying ? \" if a bear ' s shit falls in the woods does anyone hear it ? \"",
+          "hey what ' s up ? do me a quick favor and tell me what this handkerchief smells like .",
+          "i ' m sure that ' s what they said about breaking bad",
+          "i ' m not gay , but one of my friends will cancel a shitty tinder date to hang with me . that ' s how i know he is serious about bros before hoes .",
+          "i love to travel , but shit i ' ll take the money . i ' ll just use vr to see the world .",
+          "i think it ' s more like when you go to pick up your kid from school but you forgot his name .",
+          "you ever stroked in the restroom of your location mcdonald ' s ?"
+        ]
+      },
+      "Occupation": {
+        "name": "astronaut",
+        "title (official position)": null
+      },
+      "Skill": {
+        "name": "photography"
+      }
+    },
+    {
+      "Persona": {
+        "first_name": null,
+        "last_name": null,
+        "age": 0,
+        "gender": "male",
+        "education": "no formal education",
+        "employment_status": "unemployed",
+        "income_group": "under 10k",
+        "marital_status": "single",
+        "num_children": 0,
+        "edges": {
+          "HAS_ACTIVITY": [
+            {
+              "name": "camping",
+              "status": "current",
+              "frequency": "sometimes",
+              "level_of_interest": "high"
+            },
+            {
+              "name": "hiking",
+              "status": "current",
+              "frequency": "sometimes",
+              "level_of_interest": "high"
+            },
+            {
+              "name": "backpacking",
+              "status": "current",
+              "frequency": "sometimes",
+              "level_of_interest": "high"
+            }
+          ],
+          "HAS_PREFERENCE": [
+            {
+              "name": "cheese",
+              "category": "food",
+              "status": "current",
+              "strength": "high"
+            },
+            {
+              "name": "horses",
+              "category": "other",
+              "status": "current",
+              "strength": "high"
+            },
+            {
+              "name": "cars",
+              "category": "other",
+              "status": "current",
+              "strength": "high"
+            },
+            {
+              "name": "natty boh",
+              "category": "beverage",
+              "status": "current",
+              "strength": "high"
+            }
+          ],
+          "HAS_PERSONALITY_TRAIT": [
+            {
+              "name": "tired",
+              "status": "current",
+              "strength": "medium"
+            }
+          ],
+          "HAS_HABIT": [
+            {
+              "name": "slapshot",
+              "category": "other",
+              "status": "current",
+              "frequency": "sometimes"
+            }
+          ],
+          "RESIDES_IN_CITY": [
+            {
+              "name": "asheville",
+              "status": "current",
+              "start_date": null,
+              "end_date": null
+            }
+          ],
+          "HAS_LIFE_EVENT": [
+            {
+              "title": "relationship issues",
+              "category": "milestone",
+              "importance": "high",
+              "sentiment": "negative"
+            }
+          ]
+        },
+        "id": "36aeea0e7e3c84d2afbe77b34fa39c84075634ba571d1ac4447d4f464f939d04",
+        "dataset_id": "05bc4f6f6f6bb573d85181292f88efbd50c59547",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "fucking up a great relationship .",
+          "that ' s exactly what came to my mind .",
+          "my girl ' s from nebraska and yuengling is a special treat for them because they can ' t get it over there . i think it ' s fucking gross ! give me a natty boh any day !",
+          "that ' s what i look like when i go into work",
+          "again with the orchid . they ' re pretty and all , but i feel like they don ' t really add anything to the dish . my crew and i call this type of garnish \" culinary masturbation . but hey brother , you ' re trying and you ' re learning in the process ! good for you and keep it up !",
+          "what a pice of work ! i want to hear the story if you feel like sharing .",
+          "you just brought tears to my eyes . i ' m so fucking tired and i don ' t see a better future but i ' m still hanging for some fucking dumb reason .",
+          "why in the world would you be embarrassed to show this ? it boggles my mind the amount of detail you got with it ! great job dude !",
+          "i always wondered why people like you feel the need to be dicks on the internet . is it because in real life you  re pushovers who don  t know how to earn respect or stand up for your selves ? is this your outlet ?",
+          "no ? no what ? or is it hard to think of with a shitty reply with daddy  s dick in your mouth ? i wonder , does he make you swallow ? edit  never mind , of course he does .",
+          "are you trolling me ? this is the second of my post that you  ve said something negative and shitty ."
+        ]
+      }
+    },
+    {
+      "Persona": {
+        "first_name": "null",
+        "last_name": "null",
+        "age": null,
+        "gender": "male",
+        "education": "no formal education",
+        "employment_status": "unemployed",
+        "income_group": "under 10k",
+        "marital_status": "single",
+        "num_children": null,
+        "HAS_OCCUPATION": [
+          {
+            "status": "current",
+            "start_date": "null",
+            "end_date": "null"
+          }
+        ],
+        "RESIDES_IN_CITY": [
+          {
+            "status": "current",
+            "start_date": "null",
+            "end_date": "null"
+          }
+        ],
+        "RESIDES_IN_COUNTRY": [
+          {
+            "status": "current",
+            "start_date": "null",
+            "end_date": "null"
+          }
+        ],
+        "HAS_LANGUAGE": [],
+        "HAS_PERSONALITY_TRAIT": [],
+        "HAS_HEALTH_ISSUE": [],
+        "HAS_RELATIONSHIP": [],
+        "HAS_SKILL": [],
+        "GRADUATED_FROM": [],
+        "HAS_ACTIVITY": [
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "strength": "high"
+          }
+        ],
+        "HAS_VALUE": [],
+        "HAS_HABIT": [],
+        "HAS_PREFERENCE": [
+          {
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "status": "current",
+            "strength": "high"
+          }
+        ],
+        "HAS_LIFE_EVENT": [],
+        "HAS_FUTURE_PLAN": [],
+        "HAS_PERSONA_REFLECTION": [],
+        "id": "312f09875cb0a00aa99bd416e941d07333c6092b39af13ded1b84630866c0baf",
+        "dataset_id": "6fa65e005cc7ba05dc62c263af1ea289902ce6d1",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "john carpenter . i ' d love to ask him questions about the thing and big trouble in little china .",
+          "i ' ve wondered about that , too . do you have to subscribe to each subreddit separately ?",
+          "all you have to do is accept jesus christ as your personal savior and you ' ll make it into heaven no matter what you do in this life , so you can even stay in the gang if you want .",
+          "digit to say , \" you mean you still use light bulbs ? \" digit to reply that yes , i do still use light bulbs , but i make them myself , it ' s easy , and there no reasons for everyone else not to , either . digit to say that light bulbs are a liberal conspiracy to confiscate our bibles and make obama president for life and by the way he ' s been president for like what two whole days so how come i still can ' t find a job ?",
+          "that ' s enough for me . where do i sign ?",
+          "if my son got one of those he wouldn ' t want to eat it   he ' d want to preserve it in its cute state .",
+          "so , you racist dipshits of stormfront   did your lives improve under the bush administration ? because if the statistics are correct , you ' re all just as broke and ignorant as ever . so why are you so afraid of a president who actually gives a shit about people who work for a living ?",
+          "pity it ' s not real , ' cause i know some guys i ' d like to get gift subscriptions for .",
+          "i have a better idea . why not go and have sex instead ?",
+          "i know a lot of guys who need to read this .",
+          "do kiwis even use that term ? i ' m sure they know about it from american movies and whatnot ."
+        ]
+      },
+      "Occupation": [],
+      "Industry": [],
+      "City": [
+        {
+          "name": "California"
+        },
+        {
+          "name": "Japan"
+        }
+      ],
+      "Country": [],
+      "Language": [],
+      "PersonalityTrait": [],
+      "HealthIssue": [],
+      "Skill": [
+        {
+          "name": "economics"
+        },
+        {
+          "name": "programming"
+        }
+      ],
+      "School": [],
+      "Activity": [],
+      "Belief": [
+        {
+          "name": "religious",
+          "category": "religious"
+        }
+      ],
+      "Value": [],
+      "Habit": [],
+      "Preference": [],
+      "LifeEvent": [],
+      "FuturePlan": [],
+      "PersonalReflection": []
+    },
+    {
+      "Persona": {
+        "age": 13,
+        "gender": "male",
+        "num_children": 1,
+        "marital_status": "single",
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "closeness": "very close",
+            "target": {
+              "first_name": "son"
+            }
+          },
+          {
+            "type": "partner",
+            "target": {
+              "first_name": "girlfriend"
+            }
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "food",
+            "category": "food"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "name": "eating",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "long distance running",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_VALUE": [
+          {
+            "name": "happiness",
+            "strength": "high"
+          },
+          {
+            "name": "self-improvement",
+            "strength": "medium"
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "name": "climate change",
+            "category": "environmental",
+            "strength": "medium"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "optimism",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_HABIT": [
+          {
+            "name": "mindful spending",
+            "status": "current",
+            "frequency": "sometimes"
+          }
+        ],
+        "id": "6306a8748dab776b5cc1a61fc0913077f97ea428a761dc7ac8357c3a5f2746fd",
+        "dataset_id": "750329d9f0f06f064c23bff94a5536b6068811e8",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "got to be pretty insane to be against it . once a marriage doesn ' t work anymore that ' s the only option .",
+          "could also be related to the kind of food you eat , the lack of exercice , the lack of sleep . i don ' t know you so these are just possibilities .",
+          "exactly . unfortunately most drivers don ' t understand that concept and too many tailgate thinking everyone should give them the right of way .",
+          "make the difference between what you really need and what you want . for the want , don ' t buy immediately , think about it , would that really make you happy ? often it ' s only a happy boost at buying time , an instant gratification and nothing else . many would think it ' s miserable life but it ' s all the opposite , the want i end up buying are things i really want .",
+          "so many talk about climate change because it ' s cool and do a couple of meaningless actions that make them feel better about themselves . if you truly care then don ' t have kids , that has a real positive impact on climate .",
+          "not relying on buying more stuff with the hope to increase my happiness , something that ' s so common in canada . not everyone of course but so many .",
+          "it ' s no longer what you are but what you identify as . can that apply to everything ? can i identify to the ceo of the company when i get in the office tomorrow ?",
+          "enjoy the life i ' m living even though it ' s far from being perfect . the reason i ' m saying that is that a reddit has quite a reputation of of people not happy and quite depressed when you ask people about reddit . i know it ' s not the case and i don ' t generalize but that ' s the general thinking about reddit .",
+          "like anything else in life  \" if you ' re unhappy with something in your life you can either complain about it and not do anything about it or you can decide to be in charge and make a change \"",
+          "they are the best . they raised with great values and always supported me to do what makes me happy in life even though one of my dreams was to live digit time zones away from them .",
+          "same at the other movies with superheroes , nothing against it , just not my thing"
+        ]
+      },
+      "Skill": [
+        {
+          "name": "critical thinking",
+          "level_of_expertise": "intermediate"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "gender": "male",
+        "HAS_OCCUPATION": [
+          {
+            "status": "current",
+            "name": "driving"
+          }
+        ],
+        "RESIDES_IN_COUNTRY": [
+          {
+            "status": "current",
+            "name": "vietnam"
+          },
+          {
+            "status": "current",
+            "name": "asia"
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "name": "automobiles",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "playing guitar",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "traveling",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "burgers",
+            "status": "current",
+            "category": "food",
+            "strength": "medium"
+          }
+        ],
+        "HAS_VALUE": [
+          {
+            "name": "self-reliance",
+            "strength": "high"
+          },
+          {
+            "name": "acceptance",
+            "strength": "medium"
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "name": "life is about suffering and survival",
+            "strength": "high"
+          },
+          {
+            "name": "death is not the end",
+            "strength": "medium"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "non-conformity",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_HABIT": [
+          {
+            "name": "reflecting on past loves",
+            "status": "current",
+            "frequency": "sometimes"
+          }
+        ],
+        "id": "bac679b7f9f040b099a319328551c052d40a1464bb45e94d1af6fc1a485e7a2c",
+        "dataset_id": "c22fbcc3fbb3286d348387d73888b66c1c9e09ba",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "i ' m not . i ' m against the concept of marriage . can ' t get divorced of you don ' t get married !",
+          "seems like he has a lot of baggage going on . he ' s sexuality interested in other people and is likely cheating , or going to cheat outside of the rules . if you have rules like you do , you shouldn ' t be together . it ' s gonna get ugly if you stay .",
+          "start by not giving a shit about what other people think of you . do what you need to do for yourself . learn to say \" no \" more often without the repercussions of other people ' s feelings . the rest will come naturally .",
+          "yeah , true . there are so many worse companies . just the first thing i thought of . it ' s great for talking to my friends and family all over the world as well as promoting myself , but i hate to see how people are addicted to it and over use it as well as whatever privacy stuff they violate .",
+          "doesn ' t matter . that ' s too damn long , dude . that ' s a problem . life is about suffering and survival . get over it or they ' re weak ! i ' ve also been guilty of such situations . sometimes it hurts a little to think about certain loves of my past . you gotta punch through those feelings . be with friends and do the things i like to do . i don ' t date because i want that feeling back , i date because i enjoy the company of that person .",
+          "sometimes i think that no matter how hard our life is , no matter how much we suffer or put others in pain , the people who have passed on are laughing because they know it doesn ' t matter and nothing matters in life because there ' s something else that ' s better for everyone once we pass on . as far as i know , death only affects those that are living .",
+          "we all screw up and make mistakes . you will make more in your years of driving . just kind of put your hands up and shake them and that kind of acknowledges that you know that you were wrong . it ' s sort of a visual \" sorry . he can ' t do anything with your license plate . even in the worst possible case that he could , it ' s his word against yours . it ' s not even worth his time . he probably just let the dust settle . if you ' re on the road , you have to deal with people who make mistakes and assholes alike .",
+          "how many dads do you have , considering you ' re using the plural form of \" dad ?",
+          "i see your point in a sense . it ' s not that they ' re being confrontational , it ' s that people come up to the camera . there are plenty of   boring   videos where nothing happens . there are also videos where people learn their rights . there are auditors i disagree with and auditors who react well to the public better than others . suspicious activity is only suspicious to the person who doesn ' t understand what ' s going on . i suggest watching a bunch of different auditors and see which ones you like best , or none at all . i really like the boring ones where nothing happens because it shows that they ' re not out there to harass people .",
+          "what if two people answer the same question ? so now there ' s are two of us who are the best at banging your mom .",
+          "i was thinking something similar . it was difficult to see the way a lot of the americans think . it was also hard to not respond to any of them . what would be the point . my words won ' t change the way they think ."
+        ]
+      },
+      "Occupation": [
+        {
+          "name": "driver",
+          "title (official position)": "driver"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "gender": "male",
+        "HAS_VALUE": [
+          {
+            "name": "life",
+            "strength": "very high"
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "name": "pro-life",
+            "strength": "very high"
+          }
+        ],
+        "HAS_HABIT": [],
+        "HAS_SKILL": [],
+        "HAS_ACTIVITY": [],
+        "HAS_PERSONALITY_TRAIT": [],
+        "HAS_HEALTH_ISSUE": [],
+        "HAS_LANGUAGE": [],
+        "HAS_OCCUPATION": [],
+        "RESIDES_IN_COUNTRY": [
+          {
+            "status": "current"
+          }
+        ],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "status": "current",
+            "closeness": "close",
+            "MENTIONS_FAMILY_MEMBER": [
+              {
+                "first_name": "son"
+              }
+            ]
+          },
+          {
+            "type": "family",
+            "status": "current",
+            "closeness": "close",
+            "MENTIONS_FAMILY_MEMBER": [
+              {
+                "first_name": "father"
+              }
+            ]
+          },
+          {
+            "type": "family",
+            "status": "current",
+            "closeness": "close",
+            "MENTIONS_FAMILY_MEMBER": [
+              {
+                "first_name": "sister"
+              }
+            ]
+          }
+        ],
+        "HAS_FUTURE_PLAN": [],
+        "HAS_LIFE_EVENT": [],
+        "HAS_PREFERENCE": [
+          {
+            "name": "eggs"
+          },
+          {
+            "name": "zayden"
+          },
+          {
+            "name": "bbq"
+          },
+          {
+            "name": "pickled herring"
+          }
+        ],
+        "HAS_PERSONA_REFLECTION": [],
+        "id": "1dc4dbe024af1740f17bc4dbcd65c979df20c9da0775093e4acc7af6dbb95819",
+        "dataset_id": "0dc000fb7dee9665369f1cbde3eeaeb51cd0c052",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "if a couple is getting divorced it means someone broke their word . they never should have been married in the first place .",
+          "she is violating the child ' s body by having it torn up and sucked out of her . she is using the child ' s life as a sacrifice to her convenience . yes , slavery is always wrong . in a perfect world this wouldn ' t be a problem in the first place . but in the real world i choose the lesser of two evils . taking an innocent life to prevent your own suffering is wrong . please be intellectually honest and stop using the fringe cases as an excuse to justify the common occurrence . they are definitely worth considering , but even if they were justifiable , it doesn ' t mean the others are . i am pretty sure i have heard every reason that pro  choice advocates have for abortion . and so far , they don ' t change what i see as a very simple truth . it is always morally wrong to take an innocent human life . and , though you are free to disagree with my view on morality , i can ' t think of anything worse that one person could do to another . saving innocent life  saving bodily autonomy .",
+          "i think that unborn children should also have bodily autonomy . i use the scientific definition of life , which does begin at conception . the resulting embryo has dna independent from it ' s parents . it ' s a unique , human life . i would say that life is the most important right . freedom as opposed to slavery is highly important , but you cannot have freedom if you are not alive . therefore both killing of the innocent and slavery should not be allowed by a moral people . additionally , i would like to say that the parents of a fetus have already made choices leading to the resulting baby . i think you should be responsible for your actions . if you don ' t want a baby , either don ' t have sex , or use contraceptives . then the whole issue can be avoided in the first place .",
+          "simple logic of my sense of morality . it is always wrong to take innocent human life . anyone who is not a monster agrees with that statement alone . pro  abortion people will then complicate that simple moral logic , usually by pointing out the evils that may be prevented by terminating the life of the child . but those evils are never greater than the taking of innocent human life .",
+          "i still say there is a difference between having a right and what is right . but let ' s assume for the sake of argument , that there is inconsistency in my logic . i can change my beliefs based on new information . i would therefore say that bodily autonomy is never greater than innocent life under any condition .",
+          "true love is the point where you make the decision that you will care for someone  something so much , that no matter the circumstances , you will even go as far as to sacrifice of yourself for that person  thing .",
+          "it loses it ' s bodily autonomy when it loses it ' s body . who are you to decide who ' s life is worth living ? i don ' t want women to have to suffer through an unwanted pregnancy . but i have to go with the lesser of two evils . here ' s a hypothetical thought experiment . you enter a room with a man and a baby . then the man pulls out a gun . he tells you that one of two things will happen . either you will go to prison for nine months , or he will shoot the baby in the face . what do you choose ? you could decide that you should not be imprisoned for the sake of someone else . why should it be your responsibility ? but i think it is clear that the morally right thing to do is to take care of those who cannot take care of themselves . even if you have to sacrifice of yourself for that person . i think a truly good person would willingly put their life at risk for an innocent human life .",
+          "if i woke up and found out i was sustaining your life because it would be the right thing to do . people have many rights to do wrong things , but it doesn ' t change the fact that it is wrong . having a right does not morally justify every circumstance . and there is a difference between action and inaction . taking an action to end innocent human life is always murder .",
+          "regardless , for me it is a very simple moral logic . saving innocent life  saving bodily autonomy . i want to choose lesser of two evils . and that is why i am pro  life .",
+          "you ' re right . no one should be able to force you . my point is that you should choose to do the right thing anyway . if you have the chance to do right , and you choose not to , then you have done evil through inaction . you have the right to disagree . but for me the greater evil has always been the taking of an innocent human life . i can ' t deny that an embryo is innocent human life . and that is why i am pro  life .",
+          "rifle training was once taught in school . they even had competitive shooting teams . firearms in america have been part of ordinary life for a long time . it is only recently that mass shootings have become a problem . the number of shootings is increasing , while the number of gun owners is going down . this suggests that guns are not the problem . so , what is the problem ? what changed ? is it a breakdown of family values ? or that we no longer teach civic duty and citizenship ? is society encouraging a sense of hopelessness , futility , and cynicism to the point that we devalue human life ? i don ' t really know what the answer is , but it appears that there is too much fighting for enough people to think about what it might be , in order to make a change ."
+        ]
+      },
+      "Occupation": [],
+      "Industry": [],
+      "City": [],
+      "Country": [],
+      "Language": [],
+      "PersonalityTrait": [],
+      "HealthIssue": [],
+      "Skill": [],
+      "School": [],
+      "Activity": [],
+      "Belief": [],
+      "Value": [],
+      "Habit": [],
+      "Preference": [],
+      "LifeEvent": [],
+      "FuturePlan": [],
+      "PersonalReflection": []
+    },
+    {
+      "Persona": {
+        "gender": "male",
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "status": "current",
+            "closeness": "close",
+            "MENTIONS_FAMILY_MEMBER": {
+              "first_name": "mother"
+            }
+          }
+        ],
+        "HAS_ACTIVITY": [
+          {
+            "name": "writing",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "watching",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_PREFERENCE": [
+          {
+            "name": "mini ore",
+            "category": "food",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "peony",
+            "category": "flower",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "kamen rider w",
+            "category": "media",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "infini",
+            "category": "media",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "batman",
+            "category": "media",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "HAS_SKILL": [
+          {
+            "name": "programming",
+            "status": "current",
+            "level_of_expertise": "intermediate"
+          }
+        ],
+        "HAS_BELIEF": [
+          {
+            "name": "waifus",
+            "category": "other",
+            "strength": "medium"
+          }
+        ],
+        "HAS_PERSONALITY_TRAIT": [
+          {
+            "name": "helpful",
+            "status": "current",
+            "strength": "medium"
+          },
+          {
+            "name": "nice",
+            "status": "current",
+            "strength": "medium"
+          }
+        ],
+        "id": "9ce3ef2227a64dc32022b3c0b74faaec0408021c21a4c0001523eaa569e97e1f",
+        "dataset_id": "6f88a57b804dffb05f07ee78e02223947d9055aa",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "the battle of lexington . every time a shot is fired , i would do a fortnite dance",
+          "maybe . maybe . maybe . i can  t art but i sure can write ! so i guess i  ll just describe the dress then ? it would be really poofy but not so much that it doesn  t disguise his body from the neck down . it would be white with gold highlights running along it , with translucent gold shoulder pads with the askr insigniasymbol ? inside them . the veil would be white with touches of purple to match who he  s marryingits bruno . and also a gold bow on the back . i think that  s a detailed enough description incase anybody wants to draw it ! just credit me for the design please !",
+          "last  minute entry ! kellie had been feeling kind of down , but nobody at the castle had a clue why , not even the digit problem fixers emmettthe summoner , king , prism , and stan knew why .  maybe a trip to the beach will cheer her up !  sharena suggested , the others agreeing .  if anything could cheer her up , it  s emma in a swimsuit !  prism said , the others groaning at that statement . one hour later   okay kellie , you can take off your blindfold now !  alfonse said .  i can kind of understand the blindfold , you guys did say this was a surprise , but why the tissues in my nose ?  kellie questioned , taking of the blindfold and finding the answer staring her in the face . emma , in a gorgeous bikini . the tissues immediately went red .  hey kellie ! the others told me about how you were feeling and their plan ! so , is it working ?  emma asked . kellie didn  t respond . why must i never have any ideas at the worst possible times ! well i hope you enjoyed this mini story !",
+          "watch precure . it  s super underrated compared to stuff like sailor moon and madoka magica and that saddens me . also the community is really chill compared to ahem others on the internet . sadly there is no official way to watch it on a platform like crunchyroll , as far as i know , but i  ll leave a link to the kissanime page for the current season",
+          "i first heard about fire emblem through smash , specifically the over abundance of characters and i thought  hey ! this can  t be that bad right ?  so i downloaded heroes late digit and the rest is history . oh also waifus",
+          "my summoner in this situation  can i get you something ? ice cream ? a blanket ? some alone time ? i  m here for you and all the other heroes so if you need something just ask ! tl  dr he just tries to be a nice and helpful person",
+          "thor digit because i really liked ragnarok and i  m interested to see where they take thor after well you know  and doctor strange digit because i loved the action in the first one and am interested in how the build upon it . which is not to say i  m not interested in everything else , because i am !",
+          "a herobrine event quest with special equipment based on him would be really cool but like somebody else said , it  s not very likely . still a cool idea though !",
+          "if i did what i want to do to the devils that took the child away , i  d be in more trouble than them ",
+          "nothing currently , but i want to give her dc and then i  m not sure what else",
+          "you  re next line will be  but this one  s different ! he can turn into a dinosaur !  right ?"
+        ]
+      },
+      "Occupation": [
+        {
+          "name": "summoner",
+          "title (official position)": "digit"
+        }
+      ],
+      "Activity": [
+        {
+          "name": "dancing",
+          "status": "current",
+          "frequency": "sometimes",
+          "level_of_interest": "medium"
+        }
+      ],
+      "LifeEvent": [
+        {
+          "title": "battle of lexington",
+          "category": "historical",
+          "importance": "medium",
+          "sentiment": "neutral"
+        }
+      ],
+      "FuturePlan": [
+        {
+          "title": "dc",
+          "category": "personal_development",
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "Persona": {
+        "first_name": null,
+        "last_name": null,
+        "age": null,
+        "gender": "male",
+        "education": "no formal education",
+        "employment_status": "unemployed",
+        "income_group": "under 10k",
+        "marital_status": "single",
+        "num_children": 1,
+        "HAS_OCCUPATION": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "RESIDES_IN_CITY": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "RESIDES_IN_COUNTRY": [
+          {
+            "status": "current",
+            "start_date": null,
+            "end_date": null
+          }
+        ],
+        "HAS_LANGUAGE": [],
+        "HAS_PERSONALITY_TRAIT": [],
+        "HAS_HEALTH_ISSUE": [],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close"
+          },
+          {
+            "type": "family",
+            "status": "current",
+            "start_date": null,
+            "end_date": null,
+            "closeness": "close"
+          }
+        ],
+        "HAS_SKILL": [
+          {
+            "status": "current",
+            "level_of_expertise": "advanced"
+          }
+        ],
+        "GRADUATED_FROM": [],
+        "HAS_ACTIVITY": [
+          {
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          }
+        ],
+        "HAS_BELIEF": [],
+        "HAS_VALUE": [],
+        "HAS_HABIT": [],
+        "HAS_PREFERENCE": [
+          {
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "status": "current",
+            "strength": "high"
+          }
+        ],
+        "HAS_LIFE_EVENT": [],
+        "HAS_FUTURE_PLAN": [],
+        "id": "e662aff5b9a8dda68c95f2c4a8ee32c678251f54c7442574207fffe7bfa42060",
+        "dataset_id": "2168250be01c43791f88e7c8ad875c0396307047",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "go back to when abraham lincoln was assassinated and yell out for him to turn around . thrust being known as the person who save the president . or who got him shot in the face .",
+          "the ice pack  fan works if you can ' t do that , then you can stand in the open freezer when you get too hot . if you can , strip down as much as you can . if all else fails , just accept the bugs in , that ' s what i had to do a few times .",
+          "i know i ' m a bit late on this but . if you want a good book to read to disprove the bible or give you a better understanding of why lots of us aren ' t fans of it , then you got to read this one the bible turns out the best way to go about it would to just read the whole thing word for word and then think about what it actually teaches . it ' s full of horrible things that if they where to be done today , we definitely wouldn ' t want to be making a belief system based on it .",
+          "i disagree to start off , kids have to do pe without choice of what they do until their second year of middle school at least from what we had and even when they finally get that chance to pick what pe they have , their parents may force them to do the sport they want for them . it isn ' t until highschool though that they can finally free up that spot in the day to have what they feel would better suit their future , for me and others that would be jrotc , and for others it would be ag or welding . once you get to highschool , you are responsible for choosing your career path , which can lead to a long day full of classes that will help you succeed in your chosen path , but you still have to complete core classes that take up valuable periods . adding another required class like pe for all four highschool years would rob the smarter teens and young adults their chance to experiment with what they feel would help them or to just make the day go by smoother . imagine having only two or three choices on what your aloud to do during your school day , most students won ' t actually use or even remember some of the things that they learn in their core classes because they will never use them in their jobs  careers . most band members have to drop out of band because they don ' t have enough free spots to do the things they love , imagine in your case i ' m assuming you enjoy sports that you had to drop out of the sport you loved because you have to do something else that someone else though would be important to you . do i think people should get exercise every day ? yes i do , i believe it ' s very important to help you succeed in life , but it should be reserved for after school when you have done the thing nessisary for your future path .",
+          "if your family barges in your room out of rudeness or to make shure you aren ' t doing anything , then i have the solution for you . hentai , but the weird stuff that you only jack off to when your really really horny . pull that up and your pants down then go to work on your mighty maul . when your family member barges in without knocking , look them in the eyes and yell at them to stop watching you masterbate maybe a good \" this isn ' t alabama ! stop standing their ! \" . bonus points if you nut while there still there . masterbating is a completely normal thing that everyone does , but it ' s not normal to watch your fam do it . so it ' s really effective at getting them to knock . and if they take off your door , then do it without headphones so that they can hear and when they complain , comment on how they \" want to watch so might as well help them hear it too \"",
+          "this is good , because i look just like ww1 you . at least two people would also compare you to me .",
+          "people get surprised when they find out that a majority of my aerodynamic knowledge comes from playing games and making paper airplanes it ' s interesting to read about what you study but when you play a game based on what it is , it really kick  starts your experiences in that field .",
+          "exactly , you ' re not here to entertain me , but this post was meant to entertain whether or not it ' s for easy karma is a different matter . this is the first time i saw this , and judging from all the up doots , i ' d say i ' m not the only one . nothing is original because someone is always going to say it first , all that matters is how and when you do it .",
+          "you make it easy by jason aldean it used to be my favorite song in the world , now it makes me feel like dying . i think that should sum up why .",
+          "remember how you fought your big brother and he decide to go into your room and destroy your stuff . imagine that , but find a way to make it about slaves later down the history road .",
+          "no , murder is not better than depression or poverty although when i was dealing with that crap i would have been more than happy for that . but when it comes to it actually being considered murder is a completely different subject , to me , no it ' s not murder to destroy something that cannot even be considered conscious in the first place . i do think there is a limit to how long you can wait before an abortion is performed and that time differs between person to person . but it ' s not my body , not my child , and not my choice . if someone performs an abortion passed the time i ' d think it ' s wrong , then i ' d be upset , but i would still have no say in it . and for the not getting pregnant before your ready argument , i ' d say that is very subjective as well . some people don ' t realize what they got themselves into until it ' s already happened , maybe new information came up that they didn ' t know before . health problems , relationship or even financial could very easily affect someones choice to have a child , and those things could easily pop up after you ' ve made the decision . this is even worse for younger couples like teens who have no idea what they were doing until they already made the mistake , would you rather have two or three lives ruined or would you rather they mature and become stable before taking on a task like raising a family . one of my good friends i met in the hospital , tried to kill herself because she couldn ' t handle all the pressures that came when she had a child . i ' m not saying you have to support anything you don ' t want to , but if you really wanted to help a child , then you would be better off supporting things that help single mothers , homeless children or familys in poverty . but this is all up to you , listen to me or don ' t , just know that the only person that knows what they can do is you and the same goes for them ."
+        ]
+      },
+      "Occupation": [],
+      "Industry": [],
+      "City": [],
+      "Country": [],
+      "Language": [],
+      "PersonalityTrait": [],
+      "HealthIssue": [],
+      "Skill": [
+        {
+          "name": "aerodynamics"
+        }
+      ],
+      "School": [],
+      "Activity": [
+        {
+          "name": "playing games"
+        },
+        {
+          "name": "making paper airplanes"
+        }
+      ],
+      "Belief": [],
+      "Value": [],
+      "Habit": [],
+      "Preference": [
+        {
+          "name": "soup"
+        },
+        {
+          "name": "dogs"
+        }
+      ],
+      "LifeEvent": [],
+      "FuturePlan": [],
+      "PersonalReflection": []
+    },
+    {
+      "Persona": {
+        "first_name": null,
+        "last_name": null,
+        "age": 0,
+        "gender": "male",
+        "education": null,
+        "employment_status": null,
+        "income_group": null,
+        "marital_status": "single",
+        "num_children": 0,
+        "HAS_OCCUPATION": [],
+        "RESIDES_IN_CITY": [],
+        "RESIDES_IN_COUNTRY": [],
+        "HAS_LANGUAGE": [],
+        "HAS_PERSONALITY_TRAIT": [],
+        "HAS_HEALTH_ISSUE": [],
+        "HAS_RELATIONSHIP": [
+          {
+            "type": "family",
+            "status": "current",
+            "closeness": "close"
+          },
+          {
+            "type": "family",
+            "status": "current",
+            "closeness": "close"
+          }
+        ],
+        "HAS_SKILL": [],
+        "GRADUATED_FROM": [],
+        "HAS_ACTIVITY": [
+          {
+            "name": "skiing",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "high"
+          },
+          {
+            "name": "exercising",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          },
+          {
+            "name": "dating",
+            "status": "current",
+            "frequency": "sometimes",
+            "level_of_interest": "medium"
+          }
+        ],
+        "HAS_BELIEF": [],
+        "HAS_VALUE": [],
+        "HAS_HABIT": [],
+        "HAS_PREFERENCE": [
+          {
+            "name": "knives",
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "name": "toblerone",
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "name": "cars",
+            "status": "current",
+            "strength": "high"
+          },
+          {
+            "name": "pepsi",
+            "status": "current",
+            "strength": "high"
+          }
+        ],
+        "HAS_LIFE_EVENT": [],
+        "HAS_FUTURE_PLAN": [],
+        "HAS_PERSONA_REFLECTION": [],
+        "id": "654a38a9079aa302e0636c09e2ec74a5a5864f7d5621701484330e1b74af0f34",
+        "dataset_id": "f491028c794855d1611365b07d4525f7b98173ae",
+        "dataset": "PER-CHAT",
+        "dataset_type": "reddit",
+        "utterances": [
+          "well , it ' s enough that you ' ll time travel .",
+          "it ' s funny how you make fun of me because i made a mistake and you make even more of them .",
+          "you can fake study , just put you book in front of you and put your phone in there or whatever . then you say that you already studied and you can do whatever you want",
+          "just ask her  random question . if i asked you if you  d date me , would you ?  or something like that . don  t make it seem like you want to date her , just like a funny question .",
+          "this thing is dope . i knew all the special attacks for all the characters and i could beat anyone .",
+          "could you make me one for saturday ? that ' s when i have cheat day .",
+          "i had a problem with that too . and it just got boring for me , so i don  t do it anymore . finding a girl could help .",
+          "well , it  s enough that you  ll time travel .",
+          "i want to do it at night on a road that barely anyone uses even at the day time .",
+          "you pick a number and answer it .",
+          "impreza sri type ra ? it  s a dope car . i  d regret such a beauty too . how much did it cost and for how much did you sell it ?"
+        ]
+      }
+    }
+  ]
+}

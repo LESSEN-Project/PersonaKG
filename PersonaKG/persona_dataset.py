@@ -14,14 +14,14 @@ from datasets import load_dataset, Dataset, DatasetDict
 class PersonaDataset:
     def __init__(self):
         self.config = self.get_config()
-        self.output_dir = "datasets"  
+        self.output_dir = "files/datasets"  
         os.makedirs(self.output_dir, exist_ok=True)
 
     def _generate_unique_id(self, dataset_name, dataset_id):
         return str(hashlib.sha256(f"{dataset_name}_{dataset_id}".encode('utf-8')).hexdigest())
 
     def get_config(self):
-        with open("dataset_config.json", "r") as f:
+        with open("files/dataset_config.json", "r") as f:
             return json.load(f)
     
     def download_from_gdrive(self, url, dataset_name):
@@ -250,6 +250,27 @@ class PersonaDataset:
             return self._get_pec_personas(split, sample_size)
         elif dataset_name == "MPChat":
             return self._get_mpchat_personas(split, sample_size)
+
+    def load_all_personas(self, split, sample_size):
+        all_personas = {}
+        
+        for dataset_name in self.config.keys():
+            print(f"\nLoading personas from {dataset_name}...")
+            try:
+                personas = self.get_personas_from_dataset(
+                    dataset_name, 
+                    split=split, 
+                    sample_size=sample_size
+                )
+                
+                all_personas[dataset_name] = personas
+                print(f"Loaded {len(personas)} personas from {dataset_name}")
+                
+            except Exception as e:
+                print(f"Error loading {dataset_name}: {e}")
+                continue
+                
+        return all_personas
 
     def _get_pc_personas(self, split="train", sample_size=100000):
         """Get personas from the PersonaChat dataset
@@ -951,24 +972,3 @@ class PersonaDataset:
                 })
         
         return final_personas
-
-    def load_all_personas(self, split, sample_size):
-        all_personas = {}
-        
-        for dataset_name in self.config.keys():
-            print(f"\nLoading personas from {dataset_name}...")
-            try:
-                personas = self.get_personas_from_dataset(
-                    dataset_name, 
-                    split=split, 
-                    sample_size=sample_size
-                )
-                
-                all_personas[dataset_name] = personas
-                print(f"Loaded {len(personas)} personas from {dataset_name}")
-                
-            except Exception as e:
-                print(f"Error loading {dataset_name}: {e}")
-                continue
-                
-        return all_personas

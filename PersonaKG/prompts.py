@@ -1,3 +1,5 @@
+import json
+
 def get_cluster_themes():
     return [{
         "role": "system",
@@ -69,25 +71,28 @@ def kg_prompt(schema, persona):
     # Create the system content as a single non-formatted string to avoid issues
     system_content = f"You are a persona attribute extraction system. Use this schema to extract the persona's attributes.\n\n{schema}"
 
-    user_content = f"""You will be given a persona's text.
+    user_content = f"""You will be given a persona text.
         Your task is to extract the persona's attributes and return them in a strict JSON format, without any additional keys or text. 
         Follow these instructions exactly:
 
         1. **Schema**: 
         - Follow the schema to extract the persona's attributes.
         - Do not use any nodes or relationships that doesn't exist in the schema.
-        - All values in the schema are optional.
+        - All values in the schema are optional, meaning that you don't have to return a value for every key.
+        - Always include include the Persona as it is the main node.
+        - Besides the Persona node and its relationships, include any other nodes that are mentioned in the persona text.
+        - If a key doesn't have a value, do not include it in the output.
 
         2. **Persona Extraction**:
-        - Each extracted value must appear in **only one** top-level category.
         - Choose the **most appropriate** category based on context.
         - Some values can be included in multiple categories, but make sure to use the same normalized value in all categories.
         - Do not duplicate the same value inside a single category.
-        - Do not extract anything related to the current emotional state of the person.
         - Ignore statements that are not realistic. (E.g. I am the queen of England, I am an alien.)
-        - If a value is null, meaning that it is not mentioned in the text, do not include it in the output.
-        - Some values can be inferred from the text. For example, the strength of a person's preference.
+        - If a value is null, meaning that it is not mentioned in the text, do not include it in the output. Do not put "None" as its value.
+        - Don't infer anything that cannot be grounded from the text. For example, the strength of a person's preference.
         - If there are conflicting information, choose the most likely one.
+        - If no information can be extracted, only return an empty Persona node.
+        - Do not number the attributes like "Preference_1", "Preference_2", etc.
 
         3. **JSON FORMAT REQUIREMENTS** (EXTREMELY IMPORTANT):
         - You MUST use double quotes (not single quotes) for ALL keys and string values.
@@ -97,12 +102,66 @@ def kg_prompt(schema, persona):
         - Your response should contain ONLY the properly formatted JSON.
 
         4. **Attribute Normalization**:
-        - All attributes should be normalized to their most concise, standardized form.
-        - For example, instead of "likes going to the gym", use "goes to gym".
-        - Always come up with the most normalized form that captures the core concept.
+        - All attribute names should be normalized to 1-2 word high-level categories that capture the essence of the activity or trait.
+        - Use continuous tense (-ing form) for activities (e.g., "acting" instead of "act" or "performs").
+        - Aim for maximum generalization - instead of specific activities like "performed gig at theater", use the general category "acting".
+        - Examples of good normalization:
+          * "likes going to the gym regularly" → "exercising"
+          * "works as a software developer at Google" → "programming"
+          * "enjoys painting landscapes in oil" → "painting"
+          * "teaches mathematics at a high school" → "teaching"
+        - Focus on the fundamental concept rather than specific details.
         
         Here's the persona text: {persona}"""
 
+    return [{
+                "role": "system",
+                "content": system_content
+            },
+            {
+                "role": "user",
+                "content": user_content
+            }]
+
+def json_correction_prompt(schema, json_obj, errors):
+    """Generate a prompt for correcting invalid JSON against schema.
+    
+    Args:
+        schema (dict): The schema for the knowledge graph
+        json_obj (dict): The invalid JSON object
+        errors (str): List of validation errors
+        
+    Returns:
+        list: The prompt messages for the LLM
+    """
+    
+    system_content = "You are a JSON correction system specialized in fixing knowledge graph data to match a schema."
+    
+    user_content = f"""I have a JSON object that was generated to represent a persona's attributes, but it doesn't properly follow the schema.
+
+Here is the schema that must be followed:
+```json
+{json.dumps(schema, indent=2)}
+```
+
+Here is the current JSON that needs to be corrected:
+```json
+{json.dumps(json_obj, indent=2)}
+```
+
+The following validation errors were found:
+{errors}
+
+Your task is to correct the JSON object so that it strictly follows the schema and resolves all the validation errors. Please return ONLY the corrected JSON object with no explanation or additional text.
+
+Important requirements:
+1. Use double quotes for all keys and string values
+2. Make sure all enum values match the allowed values in the schema
+3. Ensure all edge relationship data conforms to the schema structure
+4. Don't add nodes or relationships that aren't in the schema
+5. Return ONLY the fixed JSON object, nothing else
+"""
+    
     return [{
                 "role": "system",
                 "content": system_content
