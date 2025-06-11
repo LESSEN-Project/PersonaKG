@@ -86,7 +86,7 @@ def validate_json_against_schema(json_obj: Dict[str, Any], schema: Dict[str, Any
     return len(errors) == 0, errors
 
 def robust_llm_json_generate(llm, prompt, gen_params, max_attempts=3):
-    for attempt in range(max_attempts):
+    for _ in range(max_attempts):
         try:
             result = llm.generate(prompt=prompt, gen_params=gen_params, json_output=True)
             if isinstance(result, dict):
@@ -100,7 +100,7 @@ def robust_llm_json_generate(llm, prompt, gen_params, max_attempts=3):
         return result if isinstance(result, dict) else {"raw_output": result}
     except Exception as e:
         return {"error": str(e)}
-
+ 
 class TeeLogger:
     def __init__(self, log_path):
         self.log = open(log_path, "a", encoding="utf-8")

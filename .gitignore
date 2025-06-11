@@ -3,7 +3,10 @@ __pycache__
 *.slurm
 *.err
 *.out
+CLAUDE.md
+
 .DS_Store
 
+.claude/
 datasets/
 PersonaKG.egg-info/
